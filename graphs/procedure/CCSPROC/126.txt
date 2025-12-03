@@ -1,0 +1,100 @@
+abortion	is a	medical procedure
+abortion	is a	surgical intervention
+abortion	is a	legal event
+abortion	is a	reproductive choice
+abortion	is a	patient decision
+abortion	is a	health service
+abortion	is a	emergency care
+abortion	is a	outpatient procedure
+abortion	is a	inpatient procedure
+abortion	is a	elective procedure
+abortion	is a	non‑invasive procedure
+abortion	is a	invasive procedure
+abortion	is a	procedure with anesthesia
+abortion	is a	procedure with medication
+abortion	is a	procedure with surgical instruments
+abortion	is a	procedure with ultrasound
+abortion	is a	procedure with counseling
+abortion	is a	procedure with follow‑up
+abortion	is a	procedure with risk
+abortion	is a	procedure with complications
+abortion	is a	procedure with infection risk
+abortion	is a	procedure with hemorrhage risk
+abortion	is a	procedure with psychological impact
+abortion	is a	procedure with legal restrictions
+abortion	is a	procedure with insurance coverage
+abortion	is a	procedure with waiting period
+abortion	is a	procedure with counseling requirement
+abortion	is a	procedure with parental consent
+abortion	is a	procedure with age restriction
+abortion	is a	procedure with gestational limit
+abortion	is a	procedure with provider type
+abortion	is a	procedure with clinic setting
+abortion	is a	procedure with hospital setting
+abortion	is a	procedure with telehealth option
+abortion	is a	procedure with medication type
+abortion	is a	procedure with mifepristone
+abortion	is a	procedure with misoprostol
+abortion	is a	procedure with surgical curettage
+abortion	is a	procedure with vacuum aspiration
+abortion	is a	procedure with dilation and evacuation
+abortion	is a	procedure with hysteroscopy
+abortion	is a	procedure with uterine lavage
+abortion	is a	procedure with uterine tamponade
+abortion	is a	procedure with uterine artery embolization
+abortion	is a	procedure with blood transfusion
+abortion	is a	procedure with pain management
+abortion	is a	procedure with opioid use
+abortion	is a	procedure with non‑opioid analgesia
+abortion	is a	procedure with postoperative monitoring
+abortion	is a	procedure with discharge instructions
+abortion	is a	procedure with contraception counseling
+abortion	is a	procedure with STI screening
+abortion	is a	procedure with HIV testing
+abortion	is a	procedure with hepatitis testing
+abortion	is a	procedure with blood type check
+abortion	is a	procedure with Rh factor management
+abortion	is a	procedure with prophylactic antibiotics
+abortion	is a	procedure with prophylactic steroids
+abortion	is a	procedure with prophylactic anticoagulation
+abortion	is a	procedure with prophylactic anti‑emetics
+abortion	is a	procedure with prophylactic anti‑nausea
+abortion	is a	procedure with prophylactic anti‑pain
+abortion	is a	procedure with prophylactic anti‑infection
+abortion	is a	procedure with prophylactic anti‑bleeding
+abortion	is a	procedure with prophylactic anti‑thrombosis
+abortion	is a	procedure with prophylactic anti‑allergy
+abortion	is a	procedure with prophylactic anti‑hypotension
+abortion	is a	procedure with prophylactic anti‑hypoxia
+abortion	is a	procedure with prophylactic anti‑hyperthermia
+abortion	is a	procedure with prophylactic anti‑hypoglycemia
+abortion	is a	procedure with prophylactic anti‑hyperglycemia
+abortion	is a	procedure with prophylactic anti‑hypocalcemia
+abortion	is a	procedure with prophylactic anti‑hypercalcemia
+abortion	is a	procedure with prophylactic anti‑hypomagnesemia
+abortion	is a	procedure with prophylactic anti‑hypermagnesemia
+abortion	is a	procedure with prophylactic anti‑hypokalemia
+abortion	is a	procedure with prophylactic anti‑hyperkalemia
+abortion	is a	procedure with prophylactic anti‑hypophosphatemia
+abortion	is a	procedure with prophylactic anti‑hyperphosphatemia
+abortion	is a	procedure with prophylactic anti‑hypothyroidism
+abortion	is a	procedure with prophylactic anti‑hyperthyroidism
+abortion	is a	procedure with prophylactic anti‑hypotension
+abortion	is a	procedure with prophylactic anti‑hyperthermia
+abortion	is a	procedure with prophylactic anti‑hypoglycemia
+abortion	is a	procedure with prophylactic anti‑hyperglycemia
+abortion	is a	procedure with prophylactic anti‑hypocalcemia
+abortion	is a	procedure with prophylactic anti‑hypercalcemia
+abortion	is a	procedure with prophylactic anti‑hypomagnesemia
+abortion	is a	procedure with prophylactic anti‑hypermagnesemia
+abortion	is a	procedure with prophylactic anti‑hypokalemia
+abortion	is a	procedure with prophylactic anti‑hyperkalemia
+abortion	is a	procedure with prophylactic anti‑hypophosphatemia
+abortion	is a	procedure with prophylactic anti‑hyperphosphatemia
+abortion	is a	procedure with prophylactic anti‑hypothyroidism
+abortion	is a	procedure with prophylactic anti‑hyperthyroidism
+abortion	is a	procedure with prophylactic anti‑hypotension
+abortion	is a	procedure with prophylactic anti‑hyperthermia
+abortion	is a	procedure with prophylactic anti‑hypoglycemia
+abortion	is a	procedure with prophylactic anti‑hyperglycemia
+abortion	is a	procedure with prophylactic anti‑hypocalcemia

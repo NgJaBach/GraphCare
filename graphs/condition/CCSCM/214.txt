@@ -1,0 +1,100 @@
+digestive congenital anomalies	are	birth defects
+digestive congenital anomalies	affect	gastrointestinal tract
+digestive congenital anomalies	include	esophageal atresia
+digestive congenital anomalies	include	tracheoesophageal fistula
+digestive congenital anomalies	include	duodenal atresia
+digestive congenital anomalies	include	jejunal atresia
+digestive congenital anomalies	include	ileal atresia
+digestive congenital anomalies	include	anorectal malformation
+digestive congenital anomalies	include	Hirschsprung disease
+digestive congenital anomalies	include	intestinal malrotation
+digestive congenital anomalies	include	intestinal atresia
+digestive congenital anomalies	include	intestinal stenosis
+digestive congenital anomalies	include	congenital megacolon
+digestive congenital anomalies	include	congenital megarectum
+digestive congenital anomalies	include	congenital pouch colon
+digestive congenital anomalies	include	congenital diaphragmatic hernia
+digestive congenital anomalies	include	congenital liver disease
+digestive congenital anomalies	include	biliary atresia
+digestive congenital anomalies	include	choledochal cyst
+digestive congenital anomalies	include	pancreatic divisum
+digestive congenital anomalies	include	pancreatic agenesis
+digestive congenital anomalies	include	intestinal duplication
+digestive congenital anomalies	include	Meckel diverticulum
+digestive congenital anomalies	include	congenital short bowel
+digestive congenital anomalies	include	congenital intestinal obstruction
+digestive congenital anomalies	cause	feeding intolerance
+digestive congenital anomalies	cause	vomiting
+digestive congenital anomalies	cause	abdominal distension
+digestive congenital anomalies	cause	failure to thrive
+digestive congenital anomalies	cause	electrolyte imbalance
+digestive congenital anomalies	cause	malabsorption
+digestive congenital anomalies	increase	risk of sepsis
+digestive congenital anomalies	increase	risk of mortality
+digestive congenital anomalies	increase	risk of readmission
+digestive congenital anomalies	increase	risk of surgical complications
+digestive congenital anomalies	increase	risk of nutritional deficiency
+digestive congenital anomalies	are diagnosed by	prenatal ultrasound
+digestive congenital anomalies	are diagnosed by	fetal MRI
+digestive congenital anomalies	are diagnosed by	newborn physical exam
+digestive congenital anomalies	are diagnosed by	contrast study
+digestive congenital anomalies	are diagnosed by	endoscopy
+digestive congenital anomalies	are diagnosed by	laparoscopy
+digestive congenital anomalies	are diagnosed by	genetic testing
+digestive congenital anomalies	are treated with	surgical repair
+digestive congenital anomalies	are treated with	endoscopic stenting
+digestive congenital anomalies	are treated with	nutritional support
+digestive congenital anomalies	are treated with	parenteral nutrition
+digestive congenital anomalies	are treated with	antibiotics
+digestive congenital anomalies	are treated with	growth hormone
+digestive congenital anomalies	are treated with	vitamin supplementation
+esophageal atresia	requires	primary anastomosis
+esophageal atresia	requires	gastrostomy
+esophageal atresia	is associated with	VACTERL
+tracheoesophageal fistula	is associated with	esophageal atresia
+tracheoesophageal fistula	is associated with	congenital heart disease
+duodenal atresia	is associated with	Down syndrome
+duodenal atresia	is associated with	annular pancreas
+jejunal atresia	is associated with	intestinal volvulus
+ileal atresia	is associated with	mesenteric vascular accident
+anorectal malformation	is associated with	spinal anomalies
+anorectal malformation	is associated with	urogenital anomalies
+Hirschsprung disease	is associated with	neurocristopathy
+Hirschsprung disease	is associated with	RET mutation
+intestinal malrotation	is associated with	volvulus
+intestinal malrotation	is associated with	midgut volvulus
+biliary atresia	is associated with	neonatal cholestasis
+biliary atresia	is associated with	Kasai procedure
+choledochal cyst	is associated with	pancreatitis
+pancreatic divisum	is associated with	pancreatitis
+pancreatic agenesis	is associated with	diabetes mellitus
+intestinal duplication	is associated with	cystic fibrosis
+Meckel diverticulum	is associated with	ectopic gastric tissue
+congenital short bowel	is associated with	intestinal failure
+congenital short bowel	is associated with	parenteral nutrition
+congenital intestinal obstruction	is associated with	meconium ileus
+feeding intolerance	predicts	need for parenteral nutrition
+vomiting	predicts	surgical intervention
+abdominal distension	predicts	intestinal obstruction
+failure to thrive	predicts	growth hormone therapy
+electrolyte imbalance	predicts	ICU admission
+malabsorption	predicts	vitamin deficiency
+sepsis	predicts	mortality
+mortality	predicts	poor long‑term outcome
+readmission	predicts	postoperative complications
+surgical complications	predict	prolonged hospital stay
+nutritional deficiency	predicts	developmental delay
+prenatal ultrasound	predicts	esophageal atresia
+fetal MRI	predicts	intestinal atresia
+newborn physical exam	predicts	anorectal malformation
+contrast study	predicts	intestinal obstruction
+endoscopy	predicts	Hirschsprung disease
+laparoscopy	predicts	intestinal duplication
+genetic testing	predicts	VACTERL association
+surgical repair	reduces	mortality
+endoscopic stenting	reduces	need for surgery
+nutritional support	improves	growth
+parenteral nutrition	reduces	intestinal failure
+antibiotics	reduce	infection risk
+growth hormone	improves	catch‑up growth
+vitamin supplementation	prevents	rickets

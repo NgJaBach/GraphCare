@@ -1,0 +1,100 @@
+screening	identifies	mental health disorders
+screening	identifies	substance abuse
+history	reflects	prior diagnoses
+history	informs	treatment plans
+history	predicts	relapse risk
+history	predicts	readmission risk
+history	predicts	mortality risk
+history	informs	medication selection
+history	informs	therapy type
+history	informs	discharge planning
+history	informs	follow‑up frequency
+history	informs	social support needs
+history	informs	insurance coverage
+history	informs	risk stratification
+history	informs	prognosis
+history	informs	clinical trial eligibility
+history	informs	patient education
+history	informs	caregiver involvement
+history	informs	legal considerations
+history	informs	harm reduction
+history	informs	medication adherence
+history	informs	substance use severity
+history	informs	comorbidity assessment
+history	informs	polypharmacy risk
+history	informs	emergency department visits
+history	informs	outpatient visits
+history	informs	hospitalization likelihood
+history	informs	length of stay
+history	informs	cost of care
+history	informs	quality of life
+history	informs	functional status
+history	informs	cognitive impairment
+history	informs	psychiatric medication side effects
+history	informs	substance withdrawal risk
+history	informs	detoxification need
+history	informs	rehabilitation referral
+history	informs	vocational support
+history	informs	housing stability
+history	informs	legal status
+history	informs	insurance eligibility
+history	informs	community resources
+history	informs	patient‑centered goals
+history	informs	treatment adherence
+history	informs	medication reconciliation
+history	informs	adverse event monitoring
+history	informs	clinical decision support
+history	informs	predictive modeling
+history	informs	risk calculators
+history	informs	early warning systems
+history	informs	health informatics
+history	informs	data analytics
+history	informs	machine learning
+history	informs	natural language processing
+history	informs	electronic health record
+history	informs	interoperability
+history	informs	patient portal
+history	informs	telehealth
+history	informs	remote monitoring
+history	informs	mobile health apps
+history	informs	wearable devices
+history	informs	digital phenotyping
+history	informs	behavioral economics
+history	informs	social determinants of health
+history	informs	environmental exposures
+history	informs	genetic predisposition
+history	informs	pharmacogenomics
+history	informs	drug‑drug interactions
+history	informs	drug‑disease interactions
+history	informs	medication adherence interventions
+history	informs	motivational interviewing
+history	informs	contingency management
+history	informs	cognitive behavioral therapy
+history	informs	dialectical behavior therapy
+history	informs	trauma‑focused therapy
+history	informs	family therapy
+history	informs	peer support
+history	informs	community health workers
+history	informs	case management
+history	informs	care coordination
+history	informs	discharge summary
+history	informs	medication reconciliation
+history	informs	safety planning
+history	informs	suicide risk assessment
+history	informs	self‑harm risk
+history	informs	crisis intervention
+history	informs	emergency services
+history	informs	crisis hotlines
+history	informs	911 dispatch
+history	informs	inpatient psychiatry
+history	informs	outpatient psychiatry
+history	informs	substance use disorder treatment
+history	informs	medication‑assisted treatment
+history	informs	buprenorphine therapy
+history	informs	methadone therapy
+history	informs	naltrexone therapy
+history	informs	counseling services
+history	informs	support groups
+history	informs	relapse prevention
+history	informs	long‑term follow‑up
+history	informs	survivorship care

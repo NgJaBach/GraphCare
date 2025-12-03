@@ -1,0 +1,100 @@
+urinary tract infections	are caused by	bacteria
+urinary tract infections	are caused by	fungi
+urinary tract infections	are caused by	viruses
+urinary tract infections	are caused by	parasites
+urinary tract infections	are caused by	urinary stones
+urinary tract infections	are caused by	catheterization
+urinary tract infections	are caused by	anatomical abnormalities
+urinary tract infections	are caused by	sexual activity
+urinary tract infections	are caused by	pregnancy
+urinary tract infections	are caused by	diabetes
+urinary tract infections	are caused by	immunosuppression
+urinary tract infections	are caused by	dehydration
+urinary tract infections	are caused by	urinary tract obstruction
+urinary tract infections	are caused by	urinary pH imbalance
+urinary tract infections	are caused by	urinary tract trauma
+urinary tract infections	are caused by	urinary tract surgery
+urinary tract infections	are caused by	urinary tract instrumentation
+urinary tract infections	are caused by	urinary tract malignancy
+urinary tract infections	are caused by	urinary tract inflammation
+urinary tract infections	are caused by	urinary tract infection risk factors
+urinary tract infections	are diagnosed with	urinalysis
+urinary tract infections	are diagnosed with	urine culture
+urinary tract infections	are diagnosed with	imaging studies
+urinary tract infections	are diagnosed with	cystoscopy
+urinary tract infections	are diagnosed with	urine dipstick
+urinary tract infections	are diagnosed with	pyuria
+urinary tract infections	are diagnosed with	bacteriuria
+urinary tract infections	are diagnosed with	nitrite test
+urinary tract infections	are diagnosed with	leukocyte esterase test
+urinary tract infections	are diagnosed with	ultrasound
+urinary tract infections	are diagnosed with	CT scan
+urinary tract infections	are diagnosed with	MRI
+urinary tract infections	are diagnosed with	blood tests
+urinary tract infections	are diagnosed with	symptom review
+urinary tract infections	are treated with	antibiotics
+urinary tract infections	are treated with	antifungals
+urinary tract infections	are treated with	antivirals
+urinary tract infections	are treated with	pain management
+urinary tract infections	are treated with	hydration
+urinary tract infections	are treated with	catheter removal
+urinary tract infections	are treated with	surgical intervention
+urinary tract infections	are treated with	urinary alkalinization
+urinary tract infections	are treated with	urinary acidification
+urinary tract infections	are treated with	urinary pH monitoring
+urinary tract infections	are treated with	urinary tract prophylaxis
+urinary tract infections	are treated with	urinary tract infection prevention
+urinary tract infections	are treated with	urinary tract infection management
+urinary tract infections	are treated with	urinary tract infection guidelines
+urinary tract infections	are treated with	urinary tract infection protocols
+urinary tract infections	are treated with	urinary tract infection education
+urinary tract infections	are treated with	urinary tract infection follow‑up
+urinary tract infections	are treated with	urinary tract infection monitoring
+urinary tract infections	are treated with	urinary tract infection surveillance
+urinary tract infections	are treated with	urinary tract infection risk reduction
+urinary tract infections	are treated with	urinary tract infection symptom relief
+urinary tract infections	are treated with	urinary tract infection symptom control
+urinary tract infections	are treated with	urinary tract infection symptom management
+urinary tract infections	are treated with	urinary tract infection symptom alleviation
+urinary tract infections	are treated with	urinary tract infection symptom mitigation
+urinary tract infections	are treated with	urinary tract infection symptom suppression
+urinary tract infections	are treated with	urinary tract infection symptom reduction
+urinary tract infections	are treated with	urinary tract infection symptom improvement
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy
+urinary tract infections	are treated with	urinary tract infection symptom relief medication
+urinary tract infections	are treated with	urinary tract infection symptom relief regimen
+urinary tract infections	are treated with	urinary tract infection symptom relief protocol
+urinary tract infections	are treated with	urinary tract infection symptom relief guideline
+urinary tract infections	are treated with	urinary tract infection symptom relief plan
+urinary tract infections	are treated with	urinary tract infection symptom relief strategy
+urinary tract infections	are treated with	urinary tract infection symptom relief approach
+urinary tract infections	are treated with	urinary tract infection symptom relief method
+urinary tract infections	are treated with	urinary tract infection symptom relief technique
+urinary tract infections	are treated with	urinary tract infection symptom relief measure
+urinary tract infections	are treated with	urinary tract infection symptom relief action
+urinary tract infections	are treated with	urinary tract infection symptom relief intervention
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy plan
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy protocol
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy guideline
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy strategy
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy approach
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy method
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy technique
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy measure
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy action
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy intervention
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy plan
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy protocol
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy guideline
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy strategy
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy approach
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy method
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy technique
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy measure
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy action
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy intervention
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy plan
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy protocol
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy guideline
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy strategy
+urinary tract infections	are treated with	urinary tract infection symptom relief therapy approach

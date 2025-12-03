@@ -1,0 +1,100 @@
+treatment	is a	medical intervention
+treatment	addresses	facial fracture
+treatment	addresses	facial dislocation
+treatment	requires	surgical procedure
+treatment	may involve	closed reduction
+treatment	may involve	open reduction
+treatment	may involve	fixation
+treatment	may involve	splinting
+treatment	may involve	casting
+treatment	may involve	immobilization
+treatment	may involve	anesthesia
+treatment	may involve	analgesia
+treatment	may involve	antibiotics
+treatment	may involve	tetanus prophylaxis
+treatment	may involve	physiotherapy
+treatment	may involve	speech therapy
+treatment	may involve	nutritional support
+treatment	may involve	wound care
+treatment	may involve	debridement
+treatment	may involve	grafting
+treatment	may involve	bone graft
+treatment	may involve	bone substitute
+treatment	may involve	titanium plate
+treatment	may involve	screw fixation
+treatment	may involve	external fixation
+treatment	may involve	internal fixation
+treatment	may involve	cerclage
+treatment	may involve	intermaxillary fixation
+treatment	may involve	maxillomandibular fixation
+treatment	may involve	dental implant
+treatment	may involve	orthodontic appliance
+treatment	may involve	prosthetic reconstruction
+treatment	may involve	reconstructive flap
+treatment	may involve	free tissue transfer
+treatment	may involve	microvascular anastomosis
+treatment	may involve	tissue engineering
+treatment	may involve	3D printing
+treatment	may involve	virtual surgical planning
+treatment	may involve	computer navigation
+treatment	may involve	intraoperative imaging
+treatment	may involve	postoperative monitoring
+treatment	may involve	pain management
+treatment	may involve	opioid therapy
+treatment	may involve	non‑opioid analgesic
+treatment	may involve	anti‑inflammatory
+treatment	may involve	corticosteroid
+treatment	may involve	infection control
+treatment	may involve	sepsis prevention
+treatment	may involve	blood transfusion
+treatment	may involve	hemostasis
+treatment	may involve	airway management
+treatment	may involve	intubation
+treatment	may involve	tracheostomy
+treatment	may involve	nasogastric feeding
+treatment	may involve	enteral nutrition
+treatment	may involve	parenteral nutrition
+treatment	may involve	vitamin supplementation
+treatment	may involve	calcium supplementation
+treatment	may involve	vitamin D supplementation
+treatment	may involve	bone healing
+treatment	may involve	fracture union
+treatment	may involve	malunion prevention
+treatment	may involve	non‑union prevention
+treatment	may involve	osteomyelitis prevention
+treatment	may involve	scar minimization
+treatment	may involve	cosmetic outcome
+treatment	may involve	functional outcome
+treatment	may involve	occlusion restoration
+treatment	may involve	bite alignment
+treatment	may involve	mandibular stability
+treatment	may involve	maxillary stability
+treatment	may involve	facial symmetry
+treatment	may involve	patient satisfaction
+treatment	may involve	quality of life
+treatment	may involve	cost effectiveness
+treatment	may involve	health economics
+treatment	may involve	readmission risk
+treatment	may involve	mortality risk
+treatment	may involve	complication risk
+treatment	may involve	infection risk
+treatment	may involve	hardware failure risk
+treatment	may involve	nerve injury risk
+treatment	may involve	sensory deficit risk
+treatment	may involve	speech impairment risk
+treatment	may involve	swallowing impairment risk
+treatment	may involve	psychological impact
+treatment	may involve	depression risk
+treatment	may involve	anxiety risk
+treatment	may involve	post‑traumatic stress
+treatment	may involve	rehabilitation duration
+treatment	may involve	follow‑up schedule
+treatment	may involve	imaging follow‑up
+treatment	may involve	dental follow‑up
+treatment	may involve	surgical follow‑up
+treatment	may involve	functional assessment
+treatment	may involve	outcome prediction
+treatment	may involve	risk stratification
+treatment	may involve	personalized medicine
+treatment	may involve	evidence‑based protocol
+treatment	may involve	guideline adherence

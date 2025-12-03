@@ -1,0 +1,100 @@
+aspiration pneumonitis	is caused by	food
+aspiration pneumonitis	is caused by	vomitus
+aspiration pneumonitis	is a type of	lung injury
+aspiration pneumonitis	is a type of	chemical pneumonitis
+aspiration pneumonitis	is a risk factor for	pneumonia
+aspiration pneumonitis	is treated with	oxygen therapy
+aspiration pneumonitis	is treated with	antibiotics
+aspiration pneumonitis	is treated with	corticosteroids
+aspiration pneumonitis	is diagnosed by	chest X‑ray
+aspiration pneumonitis	is diagnosed by	CT scan
+aspiration pneumonitis	is diagnosed by	bronchoscopy
+aspiration pneumonitis	is diagnosed by	sputum culture
+aspiration pneumonitis	is prevented by	swallowing therapy
+aspiration pneumonitis	is prevented by	head‑upright positioning
+aspiration pneumonitis	is prevented by	oral hygiene
+aspiration pneumonitis	is prevented by	feeding tube placement
+aspiration pneumonitis	is associated with	dysphagia
+aspiration pneumonitis	is associated with	gastro‑oesophageal reflux
+aspiration pneumonitis	is associated with	neurological deficit
+aspiration pneumonitis	is associated with	sedation
+aspiration pneumonitis	is associated with	intubation
+aspiration pneumonitis	is associated with	mechanical ventilation
+aspiration pneumonitis	is associated with	ICU stay
+aspiration pneumonitis	is associated with	high mortality
+aspiration pneumonitis	is associated with	prolonged hospital stay
+aspiration pneumonitis	is associated with	readmission
+aspiration pneumonitis	is associated with	ARDS
+aspiration pneumonitis	is associated with	sepsis
+aspiration pneumonitis	is associated with	multi‑organ failure
+aspiration pneumonitis	is associated with	chronic lung disease
+aspiration pneumonitis	is associated with	smoking
+aspiration pneumonitis	is associated with	alcohol abuse
+aspiration pneumonitis	is associated with	obesity
+aspiration pneumonitis	is associated with	age > 65
+aspiration pneumonitis	is associated with	male gender
+aspiration pneumonitis	is associated with	female gender
+aspiration pneumonitis	is associated with	pregnancy
+aspiration pneumonitis	is associated with	dental disease
+aspiration pneumonitis	is associated with	poor dentition
+aspiration pneumonitis	is associated with	aspiration risk score
+aspiration pneumonitis	is associated with	aspiration event
+aspiration pneumonitis	is associated with	aspiration pneumonia
+aspiration pneumonitis	is associated with	aspiration bronchitis
+aspiration pneumonitis	is associated with	aspiration oedema
+aspiration pneumonitis	is associated with	aspiration haemorrhage
+aspiration pneumonitis	is associated with	aspiration fibrosis
+aspiration pneumonitis	is associated with	aspiration empyema
+aspiration pneumonitis	is associated with	aspiration abscess
+aspiration pneumonitis	is associated with	aspiration granuloma
+aspiration pneumonitis	is associated with	aspiration pneumonia risk
+aspiration pneumonitis	is associated with	aspiration severity
+aspiration pneumonitis	is associated with	aspiration volume
+aspiration pneumonitis	is associated with	aspiration frequency
+aspiration pneumonitis	is associated with	aspiration type
+aspiration pneumonitis	is associated with	aspiration timing
+aspiration pneumonitis	is associated with	aspiration location
+aspiration pneumonitis	is associated with	aspiration angle
+aspiration pneumonitis	is associated with	aspiration pathway
+aspiration pneumonitis	is associated with	aspiration mechanism
+aspiration pneumonitis	is associated with	aspiration risk factor
+aspiration pneumonitis	is associated with	aspiration prevention
+aspiration pneumonitis	is associated with	aspiration screening
+aspiration pneumonitis	is associated with	aspiration evaluation
+aspiration pneumonitis	is associated with	aspiration protocol
+aspiration pneumonitis	is associated with	aspiration guidelines
+aspiration pneumonitis	is associated with	aspiration education
+aspiration pneumonitis	is associated with	aspiration training
+aspiration pneumonitis	is associated with	aspiration monitoring
+aspiration pneumonitis	is associated with	aspiration assessment
+aspiration pneumonitis	is associated with	aspiration documentation
+aspiration pneumonitis	is associated with	aspiration audit
+aspiration pneumonitis	is associated with	aspiration quality
+aspiration pneumonitis	is associated with	aspiration outcome
+aspiration pneumonitis	is associated with	aspiration prognosis
+aspiration pneumonitis	is associated with	aspiration mortality
+aspiration pneumonitis	is associated with	aspiration morbidity
+aspiration pneumonitis	is associated with	aspiration complications
+aspiration pneumonitis	is associated with	aspiration sequelae
+aspiration pneumonitis	is associated with	aspiration recovery
+aspiration pneumonitis	is associated with	aspiration rehabilitation
+aspiration pneumonitis	is associated with	aspiration follow‑up
+aspiration pneumonitis	is associated with	aspiration discharge
+aspiration pneumonitis	is associated with	aspiration readmission
+aspiration pneumonitis	is associated with	aspiration re‑admission
+aspiration pneumonitis	is associated with	aspiration recurrence
+aspiration pneumonitis	is associated with	aspiration relapse
+aspiration pneumonitis	is associated with	aspiration re‑infection
+aspiration pneumonitis	is associated with	aspiration re‑infection risk
+aspiration pneumonitis	is associated with	aspiration re‑infection rate
+aspiration pneumonitis	is associated with	aspiration re‑infection incidence
+aspiration pneumonitis	is associated with	aspiration re‑infection prevalence
+aspiration pneumonitis	is associated with	aspiration re‑infection severity
+aspiration pneumonitis	is associated with	aspiration re‑infection outcome
+aspiration pneumonitis	is associated with	aspiration re‑infection mortality
+aspiration pneumonitis	is associated with	aspiration re‑infection morbidity
+aspiration pneumonitis	is associated with	aspiration re‑infection complications
+aspiration pneumonitis	is associated with	aspiration re‑infection sequelae
+aspiration pneumonitis	is associated with	aspiration re‑infection recovery
+aspiration pneumonitis	is associated with	aspiration re‑infection rehabilitation
+aspiration pneumonitis	is associated with	aspiration re‑infection follow‑up

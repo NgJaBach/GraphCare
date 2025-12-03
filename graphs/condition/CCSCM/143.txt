@@ -1,0 +1,100 @@
+abdominal hernia	is a	structural defect
+abdominal hernia	occurs in	abdominal wall
+abdominal hernia	can be	inguinal
+abdominal hernia	can be	femoral
+abdominal hernia	can be	umbilical
+abdominal hernia	can be	incisional
+abdominal hernia	causes	bulge
+abdominal hernia	causes	pain
+abdominal hernia	causes	nausea
+abdominal hernia	causes	vomiting
+abdominal hernia	causes	constipation
+abdominal hernia	causes	bowel obstruction
+abdominal hernia	increases risk of	strangulation
+abdominal hernia	increases risk of	incarceration
+abdominal hernia	increases risk of	perforation
+abdominal hernia	is diagnosed by	physical exam
+abdominal hernia	is diagnosed by	imaging
+abdominal hernia	is diagnosed by	ultrasound
+abdominal hernia	is diagnosed by	CT scan
+abdominal hernia	is diagnosed by	MRI
+abdominal hernia	is treated with	surgical repair
+abdominal hernia	is treated with	mesh placement
+abdominal hernia	is treated with	laparoscopic surgery
+abdominal hernia	is treated with	open surgery
+abdominal hernia	is treated with	tension‑free repair
+abdominal hernia	is treated with	suture repair
+abdominal hernia	is treated with	watchful waiting
+abdominal hernia	is treated with	hernioplasty
+abdominal hernia	is treated with	prophylactic mesh
+abdominal hernia	is associated with	obesity
+abdominal hernia	is associated with	smoking
+abdominal hernia	is associated with	chronic cough
+abdominal hernia	is associated with	heavy lifting
+abdominal hernia	is associated with	pregnancy
+abdominal hernia	is associated with	connective tissue disorder
+abdominal hernia	is associated with	age
+abdominal hernia	is associated with	male gender
+abdominal hernia	is associated with	female gender
+abdominal hernia	is associated with	prior abdominal surgery
+abdominal hernia	is associated with	hernia repair failure
+abdominal hernia	is associated with	recurrence
+abdominal hernia	is associated with	postoperative pain
+abdominal hernia	is associated with	infection
+abdominal hernia	is associated with	seroma
+abdominal hernia	is associated with	hematoma
+abdominal hernia	is associated with	chronic pain syndrome
+abdominal hernia	is associated with	reduced quality of life
+abdominal hernia	is associated with	increased healthcare cost
+abdominal hernia	is associated with	readmission
+abdominal hernia	is associated with	mortality
+abdominal hernia	is a risk factor for	postoperative complications
+abdominal hernia	is a risk factor for	emergency surgery
+abdominal hernia	is a risk factor for	prolonged hospitalization
+abdominal hernia	is a risk factor for	ICU admission
+abdominal hernia	is a risk factor for	reoperation
+abdominal hernia	is a risk factor for	chronic opioid use
+abdominal hernia	is a risk factor for	depression
+abdominal hernia	is a risk factor for	anxiety
+abdominal hernia	is a risk factor for	malnutrition
+abdominal hernia	is a risk factor for	sarcopenia
+abdominal hernia	is a risk factor for	falls
+abdominal hernia	is a risk factor for	urinary retention
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation
+abdominal hernia	is a risk factor for	constipation

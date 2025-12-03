@@ -1,0 +1,100 @@
+other circulatory disease	is a	cardiovascular disorder
+other circulatory disease	includes	hypertension
+other circulatory disease	includes	atherosclerosis
+other circulatory disease	includes	arrhythmia
+other circulatory disease	includes	heart failure
+other circulatory disease	includes	peripheral artery disease
+other circulatory disease	includes	stroke
+other circulatory disease	includes	myocardial infarction
+other circulatory disease	is caused by	plaque buildup
+other circulatory disease	is caused by	blood clot
+other circulatory disease	is caused by	high cholesterol
+other circulatory disease	is caused by	smoking
+other circulatory disease	is caused by	diabetes
+other circulatory disease	is caused by	obesity
+other circulatory disease	is caused by	sedentary lifestyle
+other circulatory disease	is treated with	beta‑blocker
+other circulatory disease	is treated with	ACE inhibitor
+other circulatory disease	is treated with	statin
+other circulatory disease	is treated with	antiplatelet
+other circulatory disease	is treated with	diuretic
+beta‑blocker	reduces	heart rate
+beta‑blocker	reduces	blood pressure
+ACE inhibitor	lowers	blood pressure
+ACE inhibitor	improves	heart failure
+statin	lowers	LDL cholesterol
+statin	reduces	plaque progression
+antiplatelet	prevents	clot formation
+antiplatelet	reduces	stroke risk
+diuretic	reduces	fluid overload
+diuretic	reduces	edema
+hypertension	increases	stroke risk
+hypertension	increases	heart failure risk
+hypertension	increases	myocardial infarction risk
+atherosclerosis	narrows	arteries
+atherosclerosis	leads to	ischemia
+arrhythmia	causes	palpitations
+arrhythmia	causes	syncope
+arrhythmia	treated with	antiarrhythmic
+heart failure	causes	dyspnea
+heart failure	causes	fatigue
+heart failure	treated with	ACE inhibitor
+heart failure	treated with	beta‑blocker
+peripheral artery disease	causes	claudication
+peripheral artery disease	causes	rest pain
+peripheral artery disease	treated with	revascularization
+stroke	causes	hemiparesis
+stroke	causes	aphasia
+stroke	treated with	thrombolysis
+stroke	treated with	antiplatelet
+myocardial infarction	causes	chest pain
+myocardial infarction	causes	ECG changes
+myocardial infarction	treated with	reperfusion
+myocardial infarction	treated with	antiplatelet
+blood clot	causes	pulmonary embolism
+blood clot	causes	deep vein thrombosis
+blood clot	treated with	anticoagulant
+high cholesterol	leads to	plaque formation
+high cholesterol	treated with	statin
+smoking	increases	atherosclerosis risk
+smoking	increases	lung cancer risk
+diabetes	increases	cardiovascular risk
+diabetes	increases	stroke risk
+obesity	increases	hypertension risk
+obesity	increases	insulin resistance
+sedentary lifestyle	increases	cardiovascular risk
+sedentary lifestyle	increases	obesity risk
+beta‑blocker	reduces	mortality
+ACE inhibitor	reduces	mortality
+statin	reduces	mortality
+antiplatelet	reduces	mortality
+diuretic	reduces	hospitalization
+revascularization	improves	limb perfusion
+revascularization	improves	survival
+thrombolysis	improves	neurological outcome
+anticoagulant	prevents	recurrent clot
+ECG changes	indicate	myocardial infarction
+ECG changes	indicate	arrhythmia
+dyspnea	indicates	heart failure
+palpitations	indicate	arrhythmia
+claudication	indicates	peripheral artery disease
+hemiparesis	indicates	stroke
+aphasia	indicates	stroke
+chest pain	indicates	myocardial infarction
+fluid overload	indicates	heart failure
+edema	indicates	heart failure
+rest pain	indicates	peripheral artery disease
+plaque formation	leads to	arterial narrowing
+arterial narrowing	leads to	ischemia
+ischemia	leads to	tissue damage
+tissue damage	leads to	organ dysfunction
+organ dysfunction	leads to	mortality
+mortality	predicts	poor prognosis
+readmission	predicts	disease severity
+readmission	predicts	inadequate treatment
+mortality	predicts	need for palliative care
+palliative care	improves	quality of life
+quality of life	improves	patient satisfaction
+patient satisfaction	predicts	adherence
+adherence	predicts	treatment success
+treatment success	predicts	long‑term survival

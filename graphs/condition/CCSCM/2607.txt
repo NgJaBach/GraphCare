@@ -1,0 +1,100 @@
+motor vehicle traffic	is an	E‑code
+motor vehicle traffic	indicates	external cause
+motor vehicle traffic	involves	vehicle
+motor vehicle traffic	involves	driver
+motor vehicle traffic	involves	passenger
+motor vehicle traffic	involves	pedestrian
+motor vehicle traffic	involves	cyclist
+motor vehicle traffic	involves	motorcyclist
+motor vehicle traffic	involves	truck
+motor vehicle traffic	involves	bus
+motor vehicle traffic	involves	collision
+motor vehicle traffic	involves	crash
+motor vehicle traffic	involves	rollover
+motor vehicle traffic	involves	collision with pedestrian
+motor vehicle traffic	involves	collision with cyclist
+motor vehicle traffic	involves	collision with motorcyclist
+motor vehicle traffic	involves	collision with vehicle
+motor vehicle traffic	involves	collision with truck
+motor vehicle traffic	involves	collision with bus
+motor vehicle traffic	involves	collision with bicycle
+motor vehicle traffic	involves	collision with motorcycle
+motor vehicle traffic	involves	collision with vehicle on road
+motor vehicle traffic	involves	collision on highway
+motor vehicle traffic	involves	collision on interstate
+motor vehicle traffic	involves	collision on rural road
+motor vehicle traffic	involves	collision on urban road
+motor vehicle traffic	involves	collision during night
+motor vehicle traffic	involves	collision during day
+motor vehicle traffic	involves	collision due to alcohol
+motor vehicle traffic	involves	collision due to drugs
+motor vehicle traffic	involves	collision due to fatigue
+motor vehicle traffic	involves	collision due to distraction
+motor vehicle traffic	involves	collision due to weather
+motor vehicle traffic	involves	collision due to road conditions
+motor vehicle traffic	involves	collision due to mechanical failure
+motor vehicle traffic	involves	collision due to speeding
+motor vehicle traffic	involves	collision due to reckless driving
+motor vehicle traffic	involves	collision due to tailgating
+motor vehicle traffic	involves	collision due to lane change
+motor vehicle traffic	involves	collision due to merging
+motor vehicle traffic	involves	collision due to intersection
+motor vehicle traffic	involves	collision due to traffic signal
+motor vehicle traffic	involves	collision due to stop sign
+motor vehicle traffic	involves	collision due to yield sign
+motor vehicle traffic	involves	collision due to roundabout
+motor vehicle traffic	involves	collision due to pedestrian crossing
+motor vehicle traffic	involves	collision due to jaywalking
+motor vehicle traffic	involves	collision due to cyclist lane
+motor vehicle traffic	involves	collision due to bike path
+motor vehicle traffic	involves	collision due to roadwork
+motor vehicle traffic	involves	collision due to construction
+motor vehicle traffic	involves	collision due to detour
+motor vehicle traffic	involves	collision due to accident
+motor vehicle traffic	involves	collision due to traffic jam
+motor vehicle traffic	involves	collision due to traffic congestion
+motor vehicle traffic	involves	collision due to traffic accident
+motor vehicle traffic	involves	collision due to traffic incident
+motor vehicle traffic	involves	collision due to traffic violation
+motor vehicle traffic	involves	collision due to traffic law
+motor vehicle traffic	involves	collision due to traffic rule
+motor vehicle traffic	involves	collision due to traffic regulation
+motor vehicle traffic	involves	collision due to traffic enforcement
+motor vehicle traffic	involves	collision due to traffic safety
+motor vehicle traffic	involves	collision due to traffic education
+motor vehicle traffic	involves	collision due to traffic awareness
+motor vehicle traffic	involves	collision due to traffic monitoring
+motor vehicle traffic	involves	collision due to traffic camera
+motor vehicle traffic	involves	collision due to traffic sensor
+motor vehicle traffic	involves	collision due to traffic sign
+motor vehicle traffic	involves	collision due to traffic signal
+motor vehicle traffic	involves	collision due to traffic light
+motor vehicle traffic	involves	collision due to traffic control
+motor vehicle traffic	involves	collision due to traffic management
+motor vehicle traffic	involves	collision due to traffic planning
+motor vehicle traffic	involves	collision due to traffic design
+motor vehicle traffic	involves	collision due to traffic engineering
+motor vehicle traffic	involves	collision due to traffic infrastructure
+motor vehicle traffic	involves	collision due to traffic maintenance
+motor vehicle traffic	involves	collision due to traffic repair
+motor vehicle traffic	involves	collision due to traffic improvement
+motor vehicle traffic	involves	collision due to traffic upgrade
+motor vehicle traffic	involves	collision due to traffic expansion
+motor vehicle traffic	involves	collision due to traffic reduction
+motor vehicle traffic	involves	collision due to traffic mitigation
+motor vehicle traffic	involves	collision due to traffic safety program
+motor vehicle traffic	involves	collision due to traffic safety campaign
+motor vehicle traffic	involves	collision due to traffic safety initiative
+motor vehicle traffic	involves	collision due to traffic safety policy
+motor vehicle traffic	involves	collision due to traffic safety law
+motor vehicle traffic	involves	collision due to traffic safety regulation
+motor vehicle traffic	involves	collision due to traffic safety enforcement
+motor vehicle traffic	involves	collision due to traffic safety education
+motor vehicle traffic	involves	collision due to traffic safety awareness
+motor vehicle traffic	involves	collision due to traffic safety monitoring
+motor vehicle traffic	involves	collision due to traffic safety camera
+motor vehicle traffic	involves	collision due to traffic safety sensor
+motor vehicle traffic	involves	collision due to traffic safety sign
+motor vehicle traffic	involves	collision due to traffic safety signal
+motor vehicle traffic	involves	collision due to traffic safety light
+motor vehicle traffic	involves	collision due to traffic safety control

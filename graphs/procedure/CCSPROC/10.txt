@@ -1,0 +1,100 @@
+thyroidectomy	is a	surgical procedure
+thyroidectomy	removes	thyroid gland
+thyroidectomy	performed for	hyperthyroidism
+thyroidectomy	performed for	thyroid cancer
+thyroidectomy	reduces	thyroid hormone
+thyroidectomy	can cause	hypocalcemia
+thyroidectomy	can cause	voice change
+thyroidectomy	requires	postoperative monitoring
+thyroidectomy	leads to	calcium supplementation
+thyroidectomy	leads to	thyroid hormone replacement
+thyroidectomy	increases	risk of infection
+thyroidectomy	increases	risk of bleeding
+thyroidectomy	increases	risk of nerve injury
+thyroidectomy	improves	quality of life
+thyroidectomy	improves	survival in cancer
+thyroidectomy	improves	symptom control
+thyroidectomy	improves	metabolic rate
+thyroidectomy	improves	weight loss
+thyroidectomy	improves	heart rate
+thyroidectomy	improves	bone density
+thyroidectomy	improves	fertility
+thyroidectomy	improves	pregnancy outcomes
+thyroidectomy	improves	cognitive function
+thyroidectomy	improves	mood
+thyroidectomy	improves	sleep quality
+thyroidectomy	improves	exercise tolerance
+thyroidectomy	improves	cardiovascular health
+thyroidectomy	improves	pulmonary function
+thyroidectomy	improves	endocrine balance
+thyroidectomy	improves	metabolic profile
+thyroidectomy	improves	lipid profile
+thyroidectomy	improves	glucose metabolism
+thyroidectomy	improves	insulin sensitivity
+thyroidectomy	improves	blood pressure
+thyroidectomy	improves	renal function
+thyroidectomy	improves	liver function
+thyroidectomy	improves	immune function
+thyroidectomy	improves	inflammatory markers
+thyroidectomy	improves	anemia
+thyroidectomy	improves	menstrual regularity
+thyroidectomy	improves	skin health
+thyroidectomy	improves	hair growth
+thyroidectomy	improves	nail strength
+thyroidectomy	improves	appetite
+thyroidectomy	improves	digestion
+thyroidectomy	improves	bowel habits
+thyroidectomy	improves	urinary function
+thyroidectomy	improves	sexual function
+thyroidectomy	improves	bone turnover
+thyroidectomy	improves	bone remodeling
+thyroidectomy	improves	calcium metabolism
+thyroidectomy	improves	vitamin D status
+thyroidectomy	improves	parathyroid hormone
+thyroidectomy	improves	electrolyte balance
+thyroidectomy	improves	cardiac output
+thyroidectomy	improves	arrhythmia risk
+thyroidectomy	improves	stroke risk
+thyroidectomy	improves	hypertension control
+thyroidectomy	improves	heart failure prognosis
+thyroidectomy	improves	coronary artery disease
+thyroidectomy	improves	atherosclerosis progression
+thyroidectomy	improves	vascular compliance
+thyroidectomy	improves	endothelial function
+thyroidectomy	improves	nitric oxide
+thyroidectomy	improves	oxidative stress
+thyroidectomy	improves	antioxidant capacity
+thyroidectomy	improves	inflammatory cytokines
+thyroidectomy	improves	cytokine profile
+thyroidectomy	improves	immune surveillance
+thyroidectomy	improves	tumor surveillance
+thyroidectomy	improves	recurrence risk
+thyroidectomy	improves	metastasis risk
+thyroidectomy	improves	overall survival
+thyroidectomy	improves	disease‑specific survival
+thyroidectomy	improves	disease‑free survival
+thyroidectomy	improves	progression‑free survival
+thyroidectomy	improves	quality‑adjusted life years
+thyroidectomy	improves	patient satisfaction
+thyroidectomy	improves	caregiver burden
+thyroidectomy	improves	health‑care costs
+thyroidectomy	improves	cost‑effectiveness
+thyroidectomy	improves	resource utilization
+thyroidectomy	improves	readmission rates
+thyroidectomy	improves	length of stay
+thyroidectomy	improves	postoperative complications
+thyroidectomy	improves	mortality risk
+thyroidectomy	improves	morbidity risk
+thyroidectomy	improves	functional status
+thyroidectomy	improves	independence
+thyroidectomy	improves	return to work
+thyroidectomy	improves	social participation
+thyroidectomy	improves	mental health
+thyroidectomy	improves	depression risk
+thyroidectomy	improves	anxiety risk
+thyroidectomy	improves	sleep apnea
+thyroidectomy	improves	weight management
+thyroidectomy	improves	metabolic syndrome
+thyroidectomy	improves	cardiovascular risk
+thyroidectomy	improves	endocrine comorbidities
+thyroidectomy	improves	overall health

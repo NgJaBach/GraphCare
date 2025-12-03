@@ -1,0 +1,100 @@
+syncope	is a	transient loss of consciousness
+syncope	is caused by	cerebral hypoperfusion
+syncope	is classified as	orthostatic syncope
+syncope	is classified as	vasovagal syncope
+syncope	is classified as	cardiac syncope
+syncope	is classified as	neurogenic syncope
+syncope	is diagnosed with	ECG
+syncope	is diagnosed with	tilt‑table test
+syncope	is diagnosed with	Holter monitor
+syncope	is diagnosed with	echocardiogram
+syncope	is treated with	beta‑blockers
+syncope	is treated with	pacemaker
+syncope	is treated with	hydration
+syncope	is treated with	compression stockings
+syncope	is treated with	anticholinergics
+syncope	is treated with	calcium channel blockers
+syncope	is treated with	digoxin
+syncope	is treated with	antiarrhythmics
+syncope	is treated with	lifestyle modification
+syncope	is associated with	hypertension
+syncope	is associated with	arrhythmia
+syncope	is associated with	aortic stenosis
+syncope	is associated with	mitral valve prolapse
+syncope	is associated with	long QT syndrome
+syncope	is associated with	Brugada syndrome
+syncope	is associated with	vasovagal triggers
+syncope	is associated with	dehydration
+syncope	is associated with	anemia
+syncope	is associated with	electrolyte imbalance
+syncope	is associated with	medication side effect
+syncope	is associated with	panic attack
+syncope	is associated with	migraine aura
+syncope	is associated with	epilepsy
+syncope	is associated with	sleep apnea
+syncope	is associated with	orthostatic hypotension
+syncope	is associated with	postural tachycardia syndrome
+syncope	is associated with	autonomic dysfunction
+syncope	is a risk factor for	sudden cardiac death
+syncope	is a risk factor for	hospitalization
+syncope	is a risk factor for	injury
+syncope	is a risk factor for	mortality
+syncope	predicts	readmission
+syncope	predicts	arrhythmia recurrence
+syncope	predicts	pacemaker implantation
+syncope	predicts	cardiac surgery
+syncope	predicts	mortality in elderly
+syncope	predicts	need for ICD
+syncope	predicts	need for electrophysiology study
+syncope	predicts	need for cardiac catheterization
+syncope	predicts	need for valve repair
+syncope	predicts	need for medication adjustment
+syncope	predicts	need for lifestyle counseling
+syncope	predicts	need for compression stockings
+syncope	predicts	need for hydration therapy
+syncope	predicts	need for beta‑blocker therapy
+syncope	predicts	need for pacemaker therapy
+syncope	predicts	need for ICD therapy
+syncope	predicts	need for antiarrhythmic therapy
+syncope	predicts	need for valve replacement
+syncope	predicts	need for arrhythmia ablation
+syncope	is prevented by	avoiding triggers
+syncope	is prevented by	adequate hydration
+syncope	is prevented by	wearing compression stockings
+syncope	is prevented by	medication review
+syncope	is prevented by	pacemaker implantation
+syncope	is prevented by	beta‑blocker therapy
+syncope	is prevented by	lifestyle changes
+syncope	is prevented by	tilt‑table training
+syncope	is prevented by	avoiding prolonged standing
+syncope	is prevented by	avoiding hot environments
+syncope	is prevented by	avoiding dehydration
+syncope	is prevented by	avoiding sudden position changes
+syncope	is prevented by	avoiding emotional stress
+syncope	is prevented by	avoiding pain
+syncope	is prevented by	avoiding caffeine
+syncope	is prevented by	avoiding alcohol
+syncope	is prevented by	avoiding large meals
+syncope	is prevented by	avoiding high‑altitude
+syncope	is prevented by	avoiding high‑intensity exercise
+syncope	is prevented by	avoiding prolonged fasting
+syncope	is related to	autonomic nervous system
+syncope	is related to	baroreceptor reflex
+syncope	is related to	neurocardiogenic reflex
+syncope	is related to	cardiac output
+syncope	is related to	blood pressure
+syncope	is related to	heart rate
+syncope	is related to	cerebral perfusion
+syncope	is related to	vagal tone
+syncope	is related to	sympathetic tone
+syncope	is related to	blood volume
+syncope	is related to	electrolyte balance
+syncope	is related to	medication class
+syncope	is related to	comorbid disease
+syncope	is related to	age
+syncope	is related to	sex
+syncope	is related to	ethnicity
+syncope	is related to	genetic predisposition
+syncope	is related to	lifestyle factor
+syncope	is related to	environmental factor
+syncope	is related to	psychological factor

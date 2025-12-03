@@ -1,0 +1,100 @@
+poisoning by psychotropic agents	is a	toxic exposure
+poisoning by psychotropic agents	involves	central nervous system
+poisoning by psychotropic agents	can cause	seizures
+poisoning by psychotropic agents	can cause	respiratory depression
+poisoning by psychotropic agents	can cause	cardiac arrhythmia
+poisoning by psychotropic agents	can cause	hypotension
+poisoning by psychotropic agents	can cause	hyperthermia
+poisoning by psychotropic agents	can cause	coma
+poisoning by psychotropic agents	can cause	death
+poisoning by psychotropic agents	is treated with	activated charcoal
+poisoning by psychotropic agents	is treated with	benzodiazepines
+poisoning by psychotropic agents	is treated with	sodium bicarbonate
+poisoning by psychotropic agents	is treated with	supportive care
+poisoning by psychotropic agents	is diagnosed by	serum drug level
+poisoning by psychotropic agents	is diagnosed by	urine drug screen
+poisoning by psychotropic agents	is diagnosed by	clinical presentation
+poisoning by psychotropic agents	is a risk factor for	suicide
+poisoning by psychotropic agents	is a risk factor for	accidental overdose
+poisoning by psychotropic agents	is a risk factor for	emergency department visit
+poisoning by psychotropic agents	is a risk factor for	hospitalization
+poisoning by psychotropic agents	is a risk factor for	ICU admission
+poisoning by psychotropic agents	is a risk factor for	mechanical ventilation
+poisoning by psychotropic agents	is a risk factor for	prolonged stay
+poisoning by psychotropic agents	is a risk factor for	readmission
+poisoning by psychotropic agents	is a risk factor for	mortality
+poisoning by psychotropic agents	is a cause of	emergency department visit
+poisoning by psychotropic agents	is a cause of	ICU admission
+poisoning by psychotropic agents	is a cause of	mechanical ventilation
+poisoning by psychotropic agents	is a cause of	prolonged stay
+poisoning by psychotropic agents	is a cause of	readmission
+poisoning by psychotropic agents	is a cause of	mortality
+poisoning by psychotropic agents	is associated with	psychiatric disorder
+poisoning by psychotropic agents	is associated with	substance abuse
+poisoning by psychotropic agents	is associated with	depression
+poisoning by psychotropic agents	is associated with	anxiety
+poisoning by psychotropic agents	is associated with	bipolar disorder
+poisoning by psychotropic agents	is associated with	schizophrenia
+poisoning by psychotropic agents	is associated with	personality disorder
+poisoning by psychotropic agents	is associated with	self-harm
+poisoning by psychotropic agents	is associated with	accidental ingestion
+poisoning by psychotropic agents	is associated with	medication error
+poisoning by psychotropic agents	is associated with	polypharmacy
+poisoning by psychotropic agents	is associated with	drug interaction
+poisoning by psychotropic agents	is associated with	liver dysfunction
+poisoning by psychotropic agents	is associated with	kidney dysfunction
+poisoning by psychotropic agents	is associated with	age > 65
+poisoning by psychotropic agents	is associated with	female sex
+poisoning by psychotropic agents	is associated with	low socioeconomic status
+poisoning by psychotropic agents	is associated with	rural residence
+poisoning by psychotropic agents	is associated with	urban residence
+poisoning by psychotropic agents	is associated with	prior overdose
+poisoning by psychotropic agents	is associated with	chronic pain
+poisoning by psychotropic agents	is associated with	insomnia
+poisoning by psychotropic agents	is associated with	sleep apnea
+poisoning by psychotropic agents	is associated with	obesity
+poisoning by psychotropic agents	is associated with	hypertension
+poisoning by psychotropic agents	is associated with	diabetes
+poisoning by psychotropic agents	is associated with	heart disease
+poisoning by psychotropic agents	is associated with	stroke
+poisoning by psychotropic agents	is associated with	cancer
+poisoning by psychotropic agents	is associated with	pregnancy
+poisoning by psychotropic agents	is associated with	lactation
+poisoning by psychotropic agents	is associated with	alcohol use
+poisoning by psychotropic agents	is associated with	tobacco use
+poisoning by psychotropic agents	is associated with	illicit drug use
+poisoning by psychotropic agents	is associated with	medication adherence
+poisoning by psychotropic agents	is associated with	health literacy
+poisoning by psychotropic agents	is associated with	caregiver support
+poisoning by psychotropic agents	is associated with	insurance status
+poisoning by psychotropic agents	is associated with	medication cost
+poisoning by psychotropic agents	is associated with	prescription monitoring
+poisoning by psychotropic agents	is associated with	pharmacist counseling
+poisoning by psychotropic agents	is associated with	electronic health record alerts
+poisoning by psychotropic agents	is associated with	patient education
+poisoning by psychotropic agents	is associated with	medication reconciliation
+poisoning by psychotropic agents	is associated with	polypharmacy risk
+poisoning by psychotropic agents	is associated with	drug‑drug interaction
+poisoning by psychotropic agents	is associated with	drug‑food interaction
+poisoning by psychotropic agents	is associated with	drug‑genetic interaction
+poisoning by psychotropic agents	is associated with	drug‑dose adjustment
+poisoning by psychotropic agents	is associated with	drug‑tolerance
+poisoning by psychotropic agents	is associated with	drug‑withdrawal
+poisoning by psychotropic agents	is associated with	drug‑resistance
+poisoning by psychotropic agents	is associated with	drug‑induced organ injury
+poisoning by psychotropic agents	is associated with	drug‑induced metabolic derangement
+poisoning by psychotropic agents	is associated with	drug‑induced endocrine disorder
+poisoning by psychotropic agents	is associated with	drug‑induced immune reaction
+poisoning by psychotropic agents	is associated with	drug‑induced neurological deficit
+poisoning by psychotropic agents	is associated with	drug‑induced psychiatric symptom
+poisoning by psychotropic agents	is associated with	drug‑induced cardiovascular event
+poisoning by psychotropic agents	is associated with	drug‑induced respiratory failure
+poisoning by psychotropic agents	is associated with	drug‑induced renal failure
+poisoning by psychotropic agents	is associated with	drug‑induced hepatic failure
+poisoning by psychotropic agents	is associated with	drug‑induced hematologic abnormality
+poisoning by psychotropic agents	is associated with	drug‑induced skin reaction
+poisoning by psychotropic agents	is associated with	drug‑induced gastrointestinal upset
+poisoning by psychotropic agents	is associated with	drug‑induced endocrine dysfunction
+poisoning by psychotropic agents	is associated with	drug‑induced metabolic acidosis
+poisoning by psychotropic agents	is associated with	drug‑induced hypoglycemia
+poisoning by psychotropic agents	is associated with	drug‑induced hyperglycemia

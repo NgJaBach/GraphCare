@@ -1,0 +1,100 @@
+other aftercare	is a	follow‑up care
+other aftercare	includes	wound cleaning
+other aftercare	includes	dressing change
+other aftercare	includes	pain management
+other aftercare	includes	medication review
+other aftercare	includes	physical therapy
+other aftercare	includes	occupational therapy
+other aftercare	includes	speech therapy
+other aftercare	includes	nutrition counseling
+other aftercare	includes	mental health support
+other aftercare	includes	social work referral
+other aftercare	includes	home health visit
+other aftercare	includes	telehealth check
+other aftercare	includes	patient education
+other aftercare	includes	caregiver training
+other aftercare	includes	medication adherence monitoring
+other aftercare	includes	fall risk assessment
+other aftercare	includes	pressure ulcer prevention
+other aftercare	includes	infection surveillance
+other aftercare	includes	vital sign monitoring
+other aftercare	includes	laboratory follow‑up
+other aftercare	includes	imaging follow‑up
+other aftercare	includes	functional status assessment
+other aftercare	includes	pain score documentation
+other aftercare	includes	mobility assessment
+other aftercare	includes	continence assessment
+other aftercare	includes	sleep quality assessment
+other aftercare	includes	mood assessment
+other aftercare	includes	anxiety assessment
+other aftercare	includes	depression assessment
+other aftercare	includes	cognitive assessment
+other aftercare	includes	delirium screening
+other aftercare	includes	medication reconciliation
+other aftercare	includes	polypharmacy review
+other aftercare	includes	drug interaction screening
+other aftercare	includes	adverse drug reaction monitoring
+other aftercare	includes	vaccination update
+other aftercare	includes	immunization scheduling
+other aftercare	includes	health literacy assessment
+other aftercare	includes	health behavior counseling
+other aftercare	includes	smoking cessation support
+other aftercare	includes	alcohol use screening
+other aftercare	includes	substance use counseling
+other aftercare	includes	exercise prescription
+other aftercare	includes	weight management
+other aftercare	includes	blood pressure monitoring
+other aftercare	includes	glucose monitoring
+other aftercare	includes	lipid profile monitoring
+other aftercare	includes	renal function monitoring
+other aftercare	includes	hepatic function monitoring
+other aftercare	includes	electrolyte monitoring
+other aftercare	includes	coagulation monitoring
+other aftercare	includes	cardiac monitoring
+other aftercare	includes	respiratory monitoring
+other aftercare	includes	oxygen saturation monitoring
+other aftercare	includes	pain medication titration
+other aftercare	includes	opioid stewardship
+other aftercare	includes	non‑opioid analgesic use
+other aftercare	includes	anti‑inflammatory use
+other aftercare	includes	steroid tapering
+other aftercare	includes	antibiotic stewardship
+other aftercare	includes	prophylactic antibiotic use
+other aftercare	includes	infection control education
+other aftercare	includes	hand hygiene training
+other aftercare	includes	wound care education
+other aftercare	includes	scar management
+other aftercare	includes	skin care regimen
+other aftercare	includes	pressure sore prevention education
+other aftercare	includes	mobility aid prescription
+other aftercare	includes	assistive device fitting
+other aftercare	includes	home safety assessment
+other aftercare	includes	fall prevention program
+other aftercare	includes	emergency plan creation
+other aftercare	includes	advance directive review
+other aftercare	includes	palliative care referral
+other aftercare	includes	hospice referral
+other aftercare	includes	end‑of‑life planning
+other aftercare	includes	spiritual care referral
+other aftercare	includes	community resource linkage
+other aftercare	includes	transportation assistance
+other aftercare	includes	financial counseling
+other aftercare	includes	insurance navigation
+other aftercare	includes	medication cost review
+other aftercare	includes	pharmacy refill coordination
+other aftercare	includes	medication supply monitoring
+other aftercare	includes	medication side‑effect monitoring
+other aftercare	includes	medication dose adjustment
+other aftercare	includes	medication therapy management
+other aftercare	includes	medication adherence counseling
+other aftercare	includes	medication education
+other aftercare	includes	medication safety education
+other aftercare	includes	medication error prevention
+other aftercare	includes	medication reconciliation at discharge
+other aftercare	includes	medication reconciliation at readmission
+other aftercare	includes	medication reconciliation at transfer
+other aftercare	includes	medication reconciliation at surgery
+other aftercare	includes	medication reconciliation at chemotherapy
+other aftercare	includes	medication reconciliation at dialysis
+other aftercare	includes	medication reconciliation at transplant
+other aftercare	includes	medication reconciliation at vaccination

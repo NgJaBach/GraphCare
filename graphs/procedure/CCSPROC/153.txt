@@ -1,0 +1,100 @@
+hip replacement	is a	surgical procedure
+hip replacement	treats	osteoarthritis
+hip replacement	treats	rheumatoid arthritis
+hip replacement	treats	avascular necrosis
+hip replacement	treats	femoral neck fracture
+hip replacement	treats	hip dysplasia
+hip replacement	improves	mobility
+hip replacement	improves	pain relief
+hip replacement	improves	quality of life
+hip replacement	reduces	joint inflammation
+hip replacement	reduces	need for pain medication
+hip replacement	reduces	risk of fall
+hip replacement	reduces	risk of fracture
+hip replacement	increases	range of motion
+hip replacement	increases	walking distance
+hip replacement	increases	patient independence
+hip replacement	requires	general anesthesia
+hip replacement	requires	postoperative physiotherapy
+hip replacement	requires	blood transfusion
+hip replacement	requires	antibiotic prophylaxis
+hip replacement	requires	surgical incision
+hip replacement	requires	implant fixation
+hip replacement	requires	bone graft
+hip replacement	requires	intraoperative imaging
+hip replacement	requires	surgical team
+hip replacement	requires	hospital stay
+hip replacement	requires	rehabilitation center
+hip replacement	requires	home modifications
+hip replacement	requires	caregiver support
+hip replacement	requires	postoperative pain management
+hip replacement	is performed	by orthopedic surgeon
+hip replacement	is performed	by anesthesiologist
+hip replacement	is performed	by surgical nurse
+hip replacement	is performed	by physiotherapist
+hip replacement	is performed	in operating room
+hip replacement	is performed	in outpatient center
+hip replacement	is performed	in inpatient hospital
+hip replacement	is performed	under spinal anesthesia
+hip replacement	is performed	under general anesthesia
+hip replacement	is performed	under regional anesthesia
+hip replacement	is performed	with cemented implant
+hip replacement	is performed	with uncemented implant
+hip replacement	is performed	with hybrid implant
+hip replacement	is performed	with metal-on-polyethylene bearing
+hip replacement	is performed	with ceramic-on-ceramic bearing
+hip replacement	is performed	with metal-on-metal bearing
+hip replacement	is performed	with dual mobility cup
+hip replacement	is performed	with short stem design
+hip replacement	is performed	with total hip arthroplasty
+hip replacement	is performed	with partial hip arthroplasty
+total hip replacement	is a	total hip arthroplasty
+partial hip replacement	is a	hemiarthroplasty
+partial hip replacement	preserves	femoral head
+partial hip replacement	preserves	acetabulum
+partial hip replacement	is suitable for	femoral neck fracture
+partial hip replacement	is suitable for	elderly patients
+partial hip replacement	is suitable for	low activity level
+partial hip replacement	has	shorter operative time
+partial hip replacement	has	less bone loss
+partial hip replacement	has	lower cost
+partial hip replacement	has	lower risk of dislocation
+partial hip replacement	has	higher revision rate
+total hip replacement	has	higher durability
+total hip replacement	has	higher activity tolerance
+total hip replacement	has	higher revision rate
+total hip replacement	has	higher dislocation risk
+total hip replacement	has	higher implant wear
+total hip replacement	has	higher cost
+total hip replacement	has	longer recovery
+total hip replacement	has	higher surgical complexity
+hip replacement	is associated with	postoperative infection
+hip replacement	is associated with	thromboembolic event
+hip replacement	is associated with	prosthesis loosening
+hip replacement	is associated with	periprosthetic fracture
+hip replacement	is associated with	implant wear
+hip replacement	is associated with	dislocation
+hip replacement	is associated with	nerve injury
+hip replacement	is associated with	blood loss
+hip replacement	is associated with	surgical site pain
+hip replacement	is associated with	postoperative delirium
+hip replacement	is associated with	readmission
+hip replacement	is associated with	mortality
+hip replacement	is associated with	length of stay
+hip replacement	is associated with	cost of care
+hip replacement	is associated with	patient satisfaction
+hip replacement	is associated with	functional outcome
+hip replacement	is associated with	return to work
+hip replacement	is associated with	return to sports
+hip replacement	is associated with	postoperative rehabilitation adherence
+hip replacement	is associated with	preoperative comorbidity
+hip replacement	is associated with	BMI
+hip replacement	is associated with	smoking status
+hip replacement	is associated with	diabetes
+hip replacement	is associated with	osteoporosis
+hip replacement	is associated with	renal function
+hip replacement	is associated with	cardiac disease
+hip replacement	is associated with	frailty
+hip replacement	is associated with	socioeconomic status
+hip replacement	is associated with	geographic location
+hip replacement	is associated with	surgeon volume

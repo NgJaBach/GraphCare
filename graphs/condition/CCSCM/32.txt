@@ -1,0 +1,100 @@
+bladder cancer	is a	malignancy
+bladder cancer	originates in	urothelium
+bladder cancer	is diagnosed with	cystoscopy
+bladder cancer	is staged by	TNM system
+bladder cancer	is graded by	WHO classification
+bladder cancer	is treated with	transurethral resection
+bladder cancer	is treated with	radical cystectomy
+bladder cancer	is treated with	intravesical therapy
+bladder cancer	is treated with	chemotherapy
+bladder cancer	is treated with	radiation therapy
+bladder cancer	is treated with	immunotherapy
+bladder cancer	is treated with	targeted therapy
+bladder cancer	is associated with	smoking
+bladder cancer	is associated with	occupational exposure
+bladder cancer	is associated with	schistosomiasis
+bladder cancer	is associated with	chronic cystitis
+bladder cancer	is associated with	bladder stones
+bladder cancer	is associated with	HPV infection
+bladder cancer	is associated with	diabetes
+bladder cancer	is associated with	obesity
+bladder cancer	is associated with	hypertension
+bladder cancer	is associated with	family history
+bladder cancer	increases risk of	upper tract urothelial carcinoma
+bladder cancer	increases risk of	second primary cancers
+bladder cancer	increases risk of	recurrence
+bladder cancer	increases risk of	progression
+bladder cancer	increases risk of	mortality
+bladder cancer	increases risk of	readmission
+bladder cancer	increases risk of	urinary incontinence
+bladder cancer	increases risk of	anemia
+bladder cancer	increases risk of	renal dysfunction
+bladder cancer	increases risk of	infection
+bladder cancer	increases risk of	surgical complications
+bladder cancer	increases risk of	chemotherapy toxicity
+bladder cancer	increases risk of	radiation cystitis
+bladder cancer	increases risk of	immunotherapy adverse events
+bladder cancer	is predicted by	age
+bladder cancer	is predicted by	gender
+bladder cancer	is predicted by	smoking status
+bladder cancer	is predicted by	occupational exposure
+bladder cancer	is predicted by	comorbidity score
+bladder cancer	is predicted by	tumor grade
+bladder cancer	is predicted by	tumor stage
+bladder cancer	is predicted by	lymphovascular invasion
+bladder cancer	is predicted by	hematuria
+bladder cancer	is predicted by	cystoscopy findings
+bladder cancer	is predicted by	imaging results
+bladder cancer	is predicted by	biomarker levels
+bladder cancer	is predicted by	genetic mutations
+bladder cancer	is predicted by	epigenetic changes
+bladder cancer	is predicted by	immune profile
+bladder cancer	is predicted by	patient-reported symptoms
+bladder cancer	is predicted by	socioeconomic status
+bladder cancer	is predicted by	health literacy
+bladder cancer	is predicted by	medication adherence
+bladder cancer	is predicted by	follow‑up interval
+bladder cancer	is predicted by	surveillance cystoscopy frequency
+bladder cancer	is predicted by	intravesical therapy response
+bladder cancer	is predicted by	chemotherapy response
+bladder cancer	is predicted by	radiation dose
+bladder cancer	is predicted by	immunotherapy response
+bladder cancer	is predicted by	targeted therapy response
+bladder cancer	is predicted by	tumor mutational burden
+bladder cancer	is predicted by	PD‑L1 expression
+bladder cancer	is predicted by	FGFR3 mutation
+bladder cancer	is predicted by	ERBB2 amplification
+bladder cancer	is predicted by	PIK3CA mutation
+bladder cancer	is predicted by	TP53 mutation
+bladder cancer	is predicted by	DNA repair defects
+bladder cancer	is predicted by	circulating tumor DNA
+bladder cancer	is predicted by	urinary DNA methylation
+bladder cancer	is predicted by	urinary protein markers
+bladder cancer	is predicted by	urinary cytology
+bladder cancer	is predicted by	imaging radiomics
+bladder cancer	is predicted by	machine learning model
+bladder cancer	is predicted by	deep learning algorithm
+bladder cancer	is predicted by	electronic health record data
+bladder cancer	is predicted by	patient‑specific risk score
+bladder cancer	is predicted by	nomogram
+bladder cancer	is predicted by	decision tree
+bladder cancer	is predicted by	random forest
+bladder cancer	is predicted by	support vector machine
+bladder cancer	is predicted by	Bayesian network
+bladder cancer	is predicted by	reinforcement learning
+bladder cancer	is treated with	BCG vaccine
+bladder cancer	is treated with	gemcitabine
+bladder cancer	is treated with	cisplatin
+bladder cancer	is treated with	carboplatin
+bladder cancer	is treated with	pembrolizumab
+bladder cancer	is treated with	atezolizumab
+bladder cancer	is treated with	enfortumab
+bladder cancer	is treated with	erdafitinib
+bladder cancer	is treated with	sacituzumab
+bladder cancer	is treated with	radium‑223
+bladder cancer	is treated with	hyperthermic intraperitoneal chemotherapy
+bladder cancer	is treated with	gene therapy
+bladder cancer	is treated with	photodynamic therapy
+bladder cancer	is treated with	cryotherapy
+bladder cancer	is treated with	watchful waiting
+bladder cancer	is treated with	palliative care

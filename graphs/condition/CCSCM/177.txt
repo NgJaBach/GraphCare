@@ -1,0 +1,100 @@
+spontaneous abortion	is a	pregnancy loss
+spontaneous abortion	occurs before	20 weeks
+spontaneous abortion	is caused by	chromosomal abnormality
+chromosomal abnormality	is detected by	karyotype
+karyotype	is performed on	chorionic villi
+chorionic villi	are sampled by	chorionic villus sampling
+chorionic villus sampling	is a	prenatal test
+prenatal test	predicts	miscarriage risk
+miscarriage risk	is increased by	advanced maternal age
+advanced maternal age	is defined as	>35 years
+advanced maternal age	is associated with	decreased ovarian reserve
+decreased ovarian reserve	leads to	lower embryo quality
+lower embryo quality	increases	spontaneous abortion
+spontaneous abortion	is associated with	maternal hypertension
+maternal hypertension	is treated with	antihypertensives
+antihypertensives	include	labetalol
+labetalol	is a	beta blocker
+beta blocker	reduces	blood pressure
+reduced blood pressure	lowers	placental perfusion
+placental perfusion	is essential for	fetal growth
+fetal growth	is monitored by	ultrasound
+ultrasound	detects	fetal anomalies
+fetal anomalies	increase	spontaneous abortion
+spontaneous abortion	is linked to	smoking
+smoking	is a	teratogen
+teratogen	causes	DNA damage
+DNA damage	leads to	embryonic arrest
+embryonic arrest	results in	miscarriage
+miscarriage	is reported by	patient history
+patient history	is recorded in	electronic health record
+electronic health record	stores	medication list
+medication list	includes	anticoagulants
+anticoagulants	are prescribed for	thrombophilia
+thrombophilia	increases	placental thrombosis
+placental thrombosis	causes	fetal hypoxia
+fetal hypoxia	leads to	spontaneous abortion
+spontaneous abortion	is predicted by	machine learning model
+machine learning model	uses	clinical variables
+clinical variables	include	BMI
+BMI	is calculated from	weight and height
+weight	is measured by	scale
+height	is measured by	stadiometer
+BMI	is categorized as	overweight
+overweight	is associated with	insulin resistance
+insulin resistance	leads to	gestational diabetes
+gestational diabetes	increases	miscarriage risk
+miscarriage risk	is mitigated by	glucose control
+glucose control	is achieved with	metformin
+metformin	is a	biguanide
+biguanide	reduces	insulin resistance
+insulin resistance	decreases	spontaneous abortion
+spontaneous abortion	is managed with	counseling
+counseling	is provided by	psychologist
+psychologist	offers	stress reduction
+stress reduction	lowers	cortisol levels
+cortisol levels	influence	immune function
+immune function	affects	implantation success
+implantation success	determines	pregnancy viability
+pregnancy viability	is monitored by	progesterone level
+progesterone level	is measured by	blood test
+blood test	detects	luteal phase defect
+luteal phase defect	is treated with	progesterone supplementation
+progesterone supplementation	is a	hormone therapy
+hormone therapy	reduces	miscarriage rate
+miscarriage rate	is tracked by	registry
+registry	collects	demographic data
+demographic data	includes	ethnicity
+ethnicity	correlates with	genetic predisposition
+genetic predisposition	is identified by	whole genome sequencing
+whole genome sequencing	reveals	risk alleles
+risk alleles	predict	spontaneous abortion
+spontaneous abortion	is associated with	anemia
+anemia	is diagnosed by	hemoglobin test
+hemoglobin test	shows	low hemoglobin
+low hemoglobin	leads to	uterine hypoxia
+uterine hypoxia	causes	miscarriage
+miscarriage	is prevented by	iron supplementation
+iron supplementation	is a	micronutrient
+micronutrient	improves	red blood cell count
+red blood cell count	supports	oxygen delivery
+oxygen delivery	is critical for	embryonic development
+embryonic development	is monitored by	fetal heart rate
+fetal heart rate	is recorded by	Doppler
+Doppler	detects	fetal distress
+fetal distress	indicates	potential miscarriage
+potential miscarriage	is predicted by	risk score
+risk score	is calculated from	clinical data
+clinical data	includes	prior miscarriage history
+prior miscarriage history	increases	future risk
+future risk	is mitigated by	lifestyle changes
+lifestyle changes	include	exercise
+exercise	improves	cardiovascular health
+cardiovascular health	supports	placental blood flow
+placental blood flow	reduces	spontaneous abortion
+spontaneous abortion	is recorded in	obstetric chart
+obstetric chart	is part of	patient record
+patient record	is used for	quality improvement
+quality improvement	targets	reducing miscarriage rates
+reducing miscarriage rates	improves	maternal outcomes
+maternal outcomes	are measured by	survival statistics

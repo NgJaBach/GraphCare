@@ -1,0 +1,100 @@
+cardiac and circulatory congenital anomalies	are	congenital heart disease
+cardiac and circulatory congenital anomalies	cause	cyanosis
+cardiac and circulatory congenital anomalies	lead to	heart failure
+cardiac and circulatory congenital anomalies	increase	mortality risk
+cardiac and circulatory congenital anomalies	are diagnosed by	echocardiography
+cardiac and circulatory congenital anomalies	are confirmed by	cardiac MRI
+cardiac and circulatory congenital anomalies	are confirmed by	cardiac CT
+cardiac and circulatory congenital anomalies	are confirmed by	cardiac catheterization
+cardiac and circulatory congenital anomalies	are confirmed by	genetic testing
+cardiac and circulatory congenital anomalies	are treated with	surgical repair
+cardiac and circulatory congenital anomalies	are treated with	catheter-based intervention
+cardiac and circulatory congenital anomalies	are treated with	medical management
+cardiac and circulatory congenital anomalies	are treated with	palliative care
+cardiac and circulatory congenital anomalies	are associated with	Down syndrome
+cardiac and circulatory congenital anomalies	are associated with	Turner syndrome
+cardiac and circulatory congenital anomalies	are associated with	DiGeorge syndrome
+cardiac and circulatory congenital anomalies	are associated with	Noonan syndrome
+cardiac and circulatory congenital anomalies	are associated with	22q11.2 deletion
+cardiac and circulatory congenital anomalies	are associated with	maternal diabetes
+cardiac and circulatory congenital anomalies	are associated with	maternal smoking
+cardiac and circulatory congenital anomalies	are associated with	maternal obesity
+cardiac and circulatory congenital anomalies	are associated with	folate deficiency
+cardiac and circulatory congenital anomalies	are associated with	rubella infection
+cardiac and circulatory congenital anomalies	are associated with	teratogenic drugs
+cardiac and circulatory congenital anomalies	are associated with	viral infections
+cardiac and circulatory congenital anomalies	are associated with	chromosomal abnormalities
+cardiac and circulatory congenital anomalies	are associated with	environmental toxins
+cardiac and circulatory congenital anomalies	are associated with	family history
+cardiac and circulatory congenital anomalies	are associated with	premature birth
+cardiac and circulatory congenital anomalies	are associated with	low birth weight
+cardiac and circulatory congenital anomalies	are associated with	neonatal ICU stay
+cardiac and circulatory congenital anomalies	are associated with	arrhythmia
+cardiac and circulatory congenital anomalies	are associated with	pulmonary hypertension
+cardiac and circulatory congenital anomalies	are associated with	ventricular septal defect
+cardiac and circulatory congenital anomalies	are associated with	atrial septal defect
+cardiac and circulatory congenital anomalies	are associated with	tetralogy of Fallot
+cardiac and circulatory congenital anomalies	are associated with	transposition of the great arteries
+cardiac and circulatory congenital anomalies	are associated with	hypoplastic left heart syndrome
+cardiac and circulatory congenital anomalies	are associated with	coarctation of the aorta
+cardiac and circulatory congenital anomalies	are associated with	patent ductus arteriosus
+cardiac and circulatory congenital anomalies	are associated with	ventricular septal defect	is a	defect
+cardiac and circulatory congenital anomalies	are associated with	atrial septal defect	is a	defect
+cardiac and circulatory congenital anomalies	are associated with	tetralogy of Fallot	is a	syndrome
+cardiac and circulatory congenital anomalies	are associated with	transposition of the great arteries	is a	syndrome
+cardiac and circulatory congenital anomalies	are associated with	hypoplastic left heart syndrome	is a	syndrome
+cardiac and circulatory congenital anomalies	are associated with	coarctation of the aorta	is a	narrowing
+cardiac and circulatory congenital anomalies	are associated with	patent ductus arteriosus	is a	shunt
+cardiac and circulatory congenital anomalies	are associated with	arrhythmia	is a	rhythm disorder
+cardiac and circulatory congenital anomalies	are associated with	pulmonary hypertension	is a	pressure increase
+cardiac and circulatory congenital anomalies	are associated with	cyanosis	is a	low oxygen
+cardiac and circulatory congenital anomalies	are associated with	heart failure	is a	dysfunction
+cardiac and circulatory congenital anomalies	are associated with	mortality risk	is a	outcome
+cardiac and circulatory congenital anomalies	are associated with	readmission risk	is a	outcome
+cardiac and circulatory congenital anomalies	are associated with	length of stay	is a	metric
+cardiac and circulatory congenital anomalies	are associated with	ICU admission	is a	event
+cardiac and circulatory congenital anomalies	are associated with	surgical complication	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative infection	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative bleeding	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative arrhythmia	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative heart failure	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative mortality	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative readmission	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative length of stay	is a	metric
+cardiac and circulatory congenital anomalies	are associated with	postoperative ICU stay	is a	metric
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	category
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	risk
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	outcome
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	event
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	factor
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	predictor
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	indicator
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	marker
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	symptom
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign
+cardiac and circulatory congenital anomalies	are associated with	postoperative complications	is a	sign

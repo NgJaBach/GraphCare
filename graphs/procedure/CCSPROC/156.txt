@@ -1,0 +1,100 @@
+injections	treat	inflammation
+injections	deliver	medication
+injections	reduce	pain
+injections	improve	mobility
+injections	target	soft tissue
+injections	are used for	diagnosis
+injections	are used for	therapy
+injections	are performed by	physician
+injections	are performed with	needle
+injections	can cause	infection
+injections	can cause	bruising
+injections	can cause	allergic reaction
+injections	are contraindicated in	pregnancy
+injections	are contraindicated in	immunosuppression
+injections	are contraindicated in	coagulopathy
+injections	are contraindicated in	infection
+injections	are contraindicated in	obesity
+injections	are contraindicated in	osteoporosis
+injections	are contraindicated in	joint infection
+injections	are contraindicated in	joint fracture
+injections	are contraindicated in	joint dislocation
+injections	are contraindicated in	joint instability
+injections	are contraindicated in	joint swelling
+injections	are contraindicated in	joint pain
+injections	are contraindicated in	joint stiffness
+injections	are contraindicated in	joint inflammation
+injections	are contraindicated in	joint degeneration
+injections	are contraindicated in	joint osteoarthritis
+injections	are contraindicated in	joint rheumatoid arthritis
+injections	are contraindicated in	joint gout
+injections	are contraindicated in	joint septic arthritis
+injections	are contraindicated in	joint trauma
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint arthroplasty
+injections	are contraindicated in	joint arthroscopy
+injections	are contraindicated in	joint manipulation
+injections	are contraindicated in	joint mobilization
+injections	are contraindicated in	joint exercise
+injections	are contraindicated in	joint physiotherapy
+injections	are contraindicated in	joint massage
+injections	are contraindicated in	joint stretching
+injections	are contraindicated in	joint strengthening
+injections	are contraindicated in	joint rehabilitation
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint infection
+injections	are contraindicated in	joint inflammation
+injections	are contraindicated in	joint degeneration
+injections	are contraindicated in	joint osteoarthritis
+injections	are contraindicated in	joint rheumatoid arthritis
+injections	are contraindicated in	joint gout
+injections	are contraindicated in	joint septic arthritis
+injections	are contraindicated in	joint trauma
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint arthroplasty
+injections	are contraindicated in	joint arthroscopy
+injections	are contraindicated in	joint manipulation
+injections	are contraindicated in	joint mobilization
+injections	are contraindicated in	joint exercise
+injections	are contraindicated in	joint physiotherapy
+injections	are contraindicated in	joint massage
+injections	are contraindicated in	joint stretching
+injections	are contraindicated in	joint strengthening
+injections	are contraindicated in	joint rehabilitation
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint infection
+injections	are contraindicated in	joint inflammation
+injections	are contraindicated in	joint degeneration
+injections	are contraindicated in	joint osteoarthritis
+injections	are contraindicated in	joint rheumatoid arthritis
+injections	are contraindicated in	joint gout
+injections	are contraindicated in	joint septic arthritis
+injections	are contraindicated in	joint trauma
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint arthroplasty
+injections	are contraindicated in	joint arthroscopy
+injections	are contraindicated in	joint manipulation
+injections	are contraindicated in	joint mobilization
+injections	are contraindicated in	joint exercise
+injections	are contraindicated in	joint physiotherapy
+injections	are contraindicated in	joint massage
+injections	are contraindicated in	joint stretching
+injections	are contraindicated in	joint strengthening
+injections	are contraindicated in	joint rehabilitation
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint infection
+injections	are contraindicated in	joint inflammation
+injections	are contraindicated in	joint degeneration
+injections	are contraindicated in	joint osteoarthritis
+injections	are contraindicated in	joint rheumatoid arthritis
+injections	are contraindicated in	joint gout
+injections	are contraindicated in	joint septic arthritis
+injections	are contraindicated in	joint trauma
+injections	are contraindicated in	joint surgery
+injections	are contraindicated in	joint arthroplasty
+injections	are contraindicated in	joint arthroscopy
+injections	are contraindicated in	joint manipulation
+injections	are contraindicated in	joint mobilization
+injections	are contraindicated in	joint exercise
+injections	are contraindicated in	joint physiotherapy
+injections	are contraindicated in	joint massage

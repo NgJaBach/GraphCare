@@ -1,0 +1,100 @@
+disorders of lipid metabolism	is a	metabolic disease
+disorders of lipid metabolism	involves	cholesterol
+disorders of lipid metabolism	involves	triglycerides
+disorders of lipid metabolism	causes	atherosclerosis
+disorders of lipid metabolism	leads to	coronary artery disease
+disorders of lipid metabolism	leads to	stroke
+disorders of lipid metabolism	leads to	peripheral artery disease
+disorders of lipid metabolism	increases	LDL
+disorders of lipid metabolism	decreases	HDL
+disorders of lipid metabolism	increases	VLDL
+disorders of lipid metabolism	increases	lipoprotein(a)
+disorders of lipid metabolism	is associated with	obesity
+disorders of lipid metabolism	is associated with	insulin resistance
+disorders of lipid metabolism	is associated with	type 2 diabetes
+disorders of lipid metabolism	is associated with	metabolic syndrome
+disorders of lipid metabolism	is associated with	non‑alcoholic fatty liver disease
+disorders of lipid metabolism	is associated with	pancreatitis
+disorders of lipid metabolism	is associated with	gout
+disorders of lipid metabolism	is associated with	hypertension
+disorders of lipid metabolism	is associated with	chronic kidney disease
+disorders of lipid metabolism	is diagnosed by	fasting lipid panel
+disorders of lipid metabolism	is diagnosed by	lipid profile
+disorders of lipid metabolism	is diagnosed by	apolipoprotein B test
+disorders of lipid metabolism	is diagnosed by	lipoprotein(a) assay
+disorders of lipid metabolism	is diagnosed by	genetic testing
+disorders of lipid metabolism	is treated with	statins
+disorders of lipid metabolism	is treated with	ezetimibe
+disorders of lipid metabolism	is treated with	bile acid sequestrants
+disorders of lipid metabolism	is treated with	PCSK9 inhibitors
+disorders of lipid metabolism	is treated with	fibrates
+disorders of lipid metabolism	is treated with	niacin
+disorders of lipid metabolism	is treated with	omega‑3 fatty acids
+disorders of lipid metabolism	is treated with	lifestyle modification
+statins	lower	LDL
+statins	reduce	cardiovascular events
+statins	increase	HDL
+statins	cause	myopathy
+statins	cause	hepatotoxicity
+ezetimibe	blocks	NPC1L1
+ezetimibe	lowers	LDL
+bile acid sequestrants	bind	bile acids
+bile acid sequestrants	lower	LDL
+PCSK9 inhibitors	inhibit	PCSK9
+PCSK9 inhibitors	lower	LDL
+PCSK9 inhibitors	reduce	plaque burden
+fibrates	activate	PPARα
+fibrates	lower	triglycerides
+fibrates	raise	HDL
+niacin	raises	HDL
+niacin	lowers	triglycerides
+omega‑3 fatty acids	lower	triglycerides
+omega‑3 fatty acids	reduce	inflammation
+lifestyle modification	includes	diet
+lifestyle modification	includes	exercise
+lifestyle modification	includes	weight loss
+diet	reduces	saturated fat
+diet	reduces	trans fat
+diet	increases	fiber
+exercise	improves	insulin sensitivity
+exercise	reduces	LDL
+exercise	increases	HDL
+weight loss	reduces	triglycerides
+weight loss	reduces	LDL
+weight loss	increases	HDL
+obesity	increases	LDL
+obesity	increases	triglycerides
+obesity	decreases	HDL
+insulin resistance	increases	triglycerides
+insulin resistance	increases	LDL
+insulin resistance	decreases	HDL
+type 2 diabetes	increases	cardiovascular risk
+type 2 diabetes	increases	atherosclerosis
+metabolic syndrome	includes	hypertension
+metabolic syndrome	includes	hyperglycemia
+metabolic syndrome	includes	central obesity
+metabolic syndrome	includes	dyslipidemia
+non‑alcoholic fatty liver disease	is a	hepatic steatosis
+non‑alcoholic fatty liver disease	is associated with	insulin resistance
+non‑alcoholic fatty liver disease	increases	cardiovascular risk
+pancreatitis	can be caused by	hypertriglyceridemia
+gout	is associated with	hyperuricemia
+gout	is associated with	hyperlipidemia
+hypertension	is a	cardiovascular risk factor
+hypertension	is treated with	ACE inhibitors
+hypertension	is treated with	ARBs
+hypertension	is treated with	calcium channel blockers
+chronic kidney disease	worsens	lipid profile
+chronic kidney disease	is a	risk factor for	atherosclerosis
+lipid profile	predicts	cardiovascular risk
+lipid profile	predicts	mortality
+lipid profile	predicts	readmission
+statins	reduce	all‑cause mortality
+statins	reduce	cardiovascular mortality
+PCSK9 inhibitors	reduce	LDL‑related mortality
+fibrates	reduce	pancreatitis risk
+omega‑3 fatty acids	reduce	sudden cardiac death
+dietary fiber	reduces	LDL
+dietary fiber	reduces	triglycerides
+exercise	reduces	blood pressure
+exercise	reduces	insulin resistance

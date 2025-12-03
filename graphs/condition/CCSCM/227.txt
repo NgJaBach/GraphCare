@@ -1,0 +1,100 @@
+spinal cord injury	is a	neurological trauma
+spinal cord injury	causes	paralysis
+spinal cord injury	leads to	sensory loss
+spinal cord injury	results in	autonomic dysfunction
+spinal cord injury	increases risk of	pressure ulcers
+spinal cord injury	predisposes to	urinary tract infection
+spinal cord injury	predisposes to	pneumonia
+spinal cord injury	predisposes to	deep vein thrombosis
+spinal cord injury	predisposes to	pulmonary embolism
+spinal cord injury	requires	rehabilitation
+spinal cord injury	requires	physical therapy
+spinal cord injury	requires	occupational therapy
+spinal cord injury	requires	speech therapy
+spinal cord injury	requires	wheelchair
+spinal cord injury	requires	assistive device
+spinal cord injury	requires	pressure‑relief mattress
+spinal cord injury	requires	bladder catheter
+spinal cord injury	requires	bowel program
+spinal cord injury	requires	spasticity management
+spinal cord injury	requires	pain management
+spinal cord injury	is treated with	methylprednisolone
+spinal cord injury	is treated with	decompression surgery
+spinal cord injury	is treated with	spinal fusion
+spinal cord injury	is treated with	epidural steroid
+spinal cord injury	is treated with	physiotherapy
+spinal cord injury	is treated with	occupational therapy
+spinal cord injury	is treated with	speech therapy
+spinal cord injury	is treated with	psychotherapy
+spinal cord injury	is treated with	adaptive equipment
+spinal cord injury	is treated with	pain medication
+spinal cord injury	is treated with	antispastic drugs
+spinal cord injury	is treated with	baclofen
+spinal cord injury	is treated with	tizanidine
+spinal cord injury	is treated with	botulinum toxin
+spinal cord injury	is treated with	intrathecal baclofen pump
+spinal cord injury	is treated with	electrical stimulation
+spinal cord injury	is treated with	stem cell therapy
+spinal cord injury	is treated with	neurotrophic factors
+spinal cord injury	is treated with	rehabilitation robotics
+spinal cord injury	is treated with	virtual reality therapy
+spinal cord injury	is associated with	traumatic brain injury
+spinal cord injury	is associated with	spinal fracture
+spinal cord injury	is associated with	cervical injury
+spinal cord injury	is associated with	thoracic injury
+spinal cord injury	is associated with	lumbar injury
+spinal cord injury	is associated with	complete injury
+spinal cord injury	is associated with	incomplete injury
+spinal cord injury	is associated with	ASIA A
+spinal cord injury	is associated with	ASIA B
+spinal cord injury	is associated with	ASIA C
+spinal cord injury	is associated with	ASIA D
+spinal cord injury	is associated with	ASIA E
+spinal cord injury	is associated with	motor score
+spinal cord injury	is associated with	sensory score
+spinal cord injury	is associated with	bladder dysfunction
+spinal cord injury	is associated with	bowel dysfunction
+spinal cord injury	is associated with	sexual dysfunction
+spinal cord injury	is associated with	autonomic dysreflexia
+spinal cord injury	is associated with	spasticity
+spinal cord injury	is associated with	neuropathic pain
+spinal cord injury	is associated with	chronic pain
+spinal cord injury	is associated with	depression
+spinal cord injury	is associated with	anxiety
+spinal cord injury	is associated with	PTSD
+spinal cord injury	is associated with	caregiver burden
+spinal cord injury	is associated with	health‑care costs
+spinal cord injury	is associated with	readmission
+spinal cord injury	is associated with	mortality
+spinal cord injury	is associated with	functional independence
+spinal cord injury	is associated with	quality of life
+spinal cord injury	is associated with	return to work
+spinal cord injury	is associated with	community reintegration
+spinal cord injury	is associated with	social participation
+spinal cord injury	is associated with	insurance coverage
+spinal cord injury	is associated with	rehabilitation length
+spinal cord injury	is associated with	discharge destination
+spinal cord injury	is associated with	home health care
+spinal cord injury	is associated with	outpatient clinic
+spinal cord injury	is associated with	inpatient stay
+spinal cord injury	is associated with	surgical timing
+spinal cord injury	is associated with	early mobilization
+spinal cord injury	is associated with	delayed mobilization
+spinal cord injury	is associated with	nutritional status
+spinal cord injury	is associated with	sarcopenia
+spinal cord injury	is associated with	bone density loss
+spinal cord injury	is associated with	osteoporosis
+spinal cord injury	is associated with	fracture risk
+spinal cord injury	is associated with	vitamin D deficiency
+spinal cord injury	is associated with	calcium supplementation
+spinal cord injury	is associated with	vitamin D supplementation
+spinal cord injury	is associated with	exercise program
+spinal cord injury	is associated with	aquatic therapy
+spinal cord injury	is associated with	electrical stimulation
+spinal cord injury	is associated with	functional electrical stimulation
+spinal cord injury	is associated with	neuroprosthesis
+spinal cord injury	is associated with	exoskeleton
+spinal cord injury	is associated with	robotic gait training
+spinal cord injury	is associated with	virtual reality
+spinal cord injury	is associated with	telehealth
+spinal cord injury	is associated with	patient education

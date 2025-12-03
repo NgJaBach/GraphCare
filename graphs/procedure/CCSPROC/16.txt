@@ -1,0 +1,100 @@
+retinal tear	causes	retinal detachment
+retinal detachment	requires	surgical repair
+surgical repair	improves	visual acuity
+surgical repair	reduces	blindness risk
+surgical repair	involves	scleral buckle
+surgical repair	involves	vitrectomy
+scleral buckle	is a	surgical device
+vitrectomy	removes	vitreous gel
+vitrectomy	uses	endoillumination
+endoillumination	provides	retinal visualization
+retinal visualization	enables	precise repair
+retinal tear	classified by	size
+retinal tear	classified by	location
+retinal tear	classified by	extent
+retinal tear	classified by	stage
+retinal detachment	classified by	extent
+retinal detachment	classified by	duration
+retinal detachment	classified by	severity
+retinal detachment	classified by	type
+retinal detachment	classified by	location
+retinal detachment	classified by	stage
+retinal detachment	classified by	cause
+retinal detachment	classified by	risk factors
+retinal detachment	classified by	patient age
+retinal detachment	classified by	myopia status
+retinal detachment	classified by	trauma history
+retinal detachment	classified by	previous surgery
+retinal detachment	classified by	systemic disease
+retinal detachment	classified by	ocular disease
+retinal detachment	classified by	inflammatory status
+retinal detachment	classified by	lens status
+retinal detachment	classified by	retinal pigment epithelium status
+retinal detachment	classified by	macular involvement
+retinal detachment	classified by	peripheral involvement
+retinal detachment	classified by	retinal break count
+retinal detachment	classified by	retinal break type
+retinal detachment	classified by	retinal break location
+retinal detachment	classified by	retinal break size
+retinal detachment	classified by	retinal break shape
+retinal detachment	classified by	retinal break severity
+retinal detachment	classified by	retinal detachment type
+retinal detachment	classified by	retinal detachment stage
+retinal detachment	classified by	retinal detachment duration
+retinal detachment	classified by	retinal detachment extent
+retinal detachment	classified by	retinal detachment severity
+retinal detachment	classified by	retinal detachment risk
+retinal detachment	classified by	retinal detachment prognosis
+retinal detachment	classified by	retinal detachment outcome
+retinal detachment	classified by	retinal detachment treatment
+retinal detachment	classified by	retinal detachment surgery
+retinal detachment	classified by	retinal detachment therapy
+retinal detachment	classified by	retinal detachment management
+retinal detachment	classified by	retinal detachment follow‑up
+retinal detachment	classified by	retinal detachment monitoring
+retinal detachment	classified by	retinal detachment imaging
+retinal detachment	classified by	retinal detachment examination
+retinal detachment	classified by	retinal detachment diagnosis
+retinal detachment	classified by	retinal detachment screening
+retinal detachment	classified by	retinal detachment detection
+retinal detachment	classified by	retinal detachment evaluation
+retinal detachment	classified by	retinal detachment assessment
+retinal detachment	classified by	retinal detachment prognosis
+retinal detachment	classified by	retinal detachment outcome
+retinal detachment	classified by	retinal detachment risk
+retinal detachment	classified by	retinal detachment severity
+retinal detachment	classified by	retinal detachment extent
+retinal detachment	classified by	retinal detachment duration
+retinal detachment	classified by	retinal detachment type
+retinal detachment	classified by	retinal detachment stage
+retinal detachment	classified by	retinal detachment cause
+retinal detachment	classified by	retinal detachment risk factors
+retinal detachment	classified by	retinal detachment patient factors
+retinal detachment	classified by	retinal detachment ocular factors
+retinal detachment	classified by	retinal detachment systemic factors
+retinal detachment	classified by	retinal detachment surgical factors
+retinal detachment	classified by	retinal detachment postoperative factors
+retinal detachment	classified by	retinal detachment visual factors
+retinal detachment	classified by	retinal detachment anatomical factors
+retinal detachment	classified by	retinal detachment functional factors
+retinal detachment	classified by	retinal detachment prognostic factors
+retinal detachment	classified by	retinal detachment outcome predictors
+retinal detachment	classified by	retinal detachment treatment response
+retinal detachment	classified by	retinal detachment complication risk
+retinal detachment	classified by	retinal detachment surgical success
+retinal detachment	classified by	retinal detachment visual outcome
+retinal detachment	classified by	retinal detachment anatomical outcome
+retinal detachment	classified by	retinal detachment functional outcome
+retinal detachment	classified by	retinal detachment patient satisfaction
+retinal detachment	classified by	retinal detachment quality of life
+retinal detachment	classified by	retinal detachment cost effectiveness
+retinal detachment	classified by	retinal detachment resource utilization
+retinal detachment	classified by	retinal detachment health economics
+retinal detachment	classified by	retinal detachment clinical guidelines
+retinal detachment	classified by	retinal detachment evidence level
+retinal detachment	classified by	retinal detachment research priority
+retinal detachment	classified by	retinal detachment data quality
+retinal detachment	classified by	retinal detachment registry
+retinal detachment	classified by	retinal detachment surveillance
+retinal detachment	classified by	retinal detachment reporting
+retinal detachment	classified by	retinal detachment audit

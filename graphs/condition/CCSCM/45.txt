@@ -1,0 +1,100 @@
+maintenance chemotherapy	is a	cancer treatment
+radiotherapy	is a	cancer treatment
+maintenance chemotherapy	follows	induction chemotherapy
+radiotherapy	follows	surgery
+maintenance chemotherapy	reduces	recurrence risk
+radiotherapy	reduces	recurrence risk
+maintenance chemotherapy	improves	overall survival
+radiotherapy	improves	local control
+maintenance chemotherapy	is given	orally
+radiotherapy	is delivered	externally
+maintenance chemotherapy	uses	oral cyclophosphamide
+radiotherapy	uses	photon beams
+maintenance chemotherapy	is indicated	for breast cancer
+radiotherapy	is indicated	for breast cancer
+maintenance chemotherapy	is indicated	for lymphoma
+radiotherapy	is indicated	for lymphoma
+maintenance chemotherapy	is contraindicated	in pregnancy
+radiotherapy	is contraindicated	in pregnancy
+maintenance chemotherapy	causes	myelosuppression
+radiotherapy	causes	skin erythema
+maintenance chemotherapy	causes	nausea
+radiotherapy	causes	fatigue
+maintenance chemotherapy	is monitored	by CBC
+radiotherapy	is monitored	by dosimetry
+maintenance chemotherapy	is scheduled	weekly
+radiotherapy	is scheduled	daily
+maintenance chemotherapy	is combined	with targeted therapy
+radiotherapy	is combined	with chemotherapy
+maintenance chemotherapy	is used	for Hodgkin lymphoma
+radiotherapy	is used	for Hodgkin lymphoma
+maintenance chemotherapy	is used	for non‑small cell lung cancer
+radiotherapy	is used	for non‑small cell lung cancer
+maintenance chemotherapy	is used	for colorectal cancer
+radiotherapy	is used	for colorectal cancer
+maintenance chemotherapy	is associated	with neuropathy
+radiotherapy	is associated	with fibrosis
+maintenance chemotherapy	is associated	with alopecia
+radiotherapy	is associated	with mucositis
+maintenance chemotherapy	is evaluated	by PET‑CT
+radiotherapy	is evaluated	by CT
+maintenance chemotherapy	is prescribed	by oncologist
+radiotherapy	is prescribed	by radiation oncologist
+maintenance chemotherapy	is delivered	in outpatient clinic
+radiotherapy	is delivered	in radiation suite
+maintenance chemotherapy	is covered	by insurance
+radiotherapy	is covered	by insurance
+maintenance chemotherapy	is reimbursed	by Medicare
+radiotherapy	is reimbursed	by Medicare
+maintenance chemotherapy	is studied	in clinical trials
+radiotherapy	is studied	in clinical trials
+maintenance chemotherapy	is compared	with placebo
+radiotherapy	is compared	with surgery
+maintenance chemotherapy	is compared	with observation
+radiotherapy	is compared	with chemoradiation
+maintenance chemotherapy	is guided	by tumor genetics
+radiotherapy	is guided	by tumor genetics
+maintenance chemotherapy	is guided	by biomarker
+radiotherapy	is guided	by biomarker
+maintenance chemotherapy	is tailored	to age
+radiotherapy	is tailored	to age
+maintenance chemotherapy	is tailored	to renal function
+radiotherapy	is tailored	to cardiac function
+maintenance chemotherapy	is tailored	to liver function
+radiotherapy	is tailored	to lung function
+maintenance chemotherapy	is associated	with infection risk
+radiotherapy	is associated	with radiation pneumonitis
+maintenance chemotherapy	is associated	with cardiotoxicity
+radiotherapy	is associated	with esophagitis
+maintenance chemotherapy	is associated	with fertility risk
+radiotherapy	is associated	with infertility
+maintenance chemotherapy	is associated	with secondary malignancy
+radiotherapy	is associated	with secondary malignancy
+maintenance chemotherapy	is monitored	by drug levels
+radiotherapy	is monitored	by skin reaction
+maintenance chemotherapy	is administered	with antiemetics
+radiotherapy	is administered	with analgesics
+maintenance chemotherapy	is administered	with growth factors
+radiotherapy	is administered	with steroids
+maintenance chemotherapy	is contraindicated	in severe anemia
+radiotherapy	is contraindicated	in severe anemia
+maintenance chemotherapy	is contraindicated	in severe thrombocytopenia
+radiotherapy	is contraindicated	in severe thrombocytopenia
+maintenance chemotherapy	is contraindicated	in severe neutropenia
+radiotherapy	is contraindicated	in severe neutropenia
+maintenance chemotherapy	is contraindicated	in active infection
+radiotherapy	is contraindicated	in active infection
+maintenance chemotherapy	is contraindicated	in uncontrolled diabetes
+radiotherapy	is contraindicated	in uncontrolled diabetes
+maintenance chemotherapy	is contraindicated	in severe liver disease
+radiotherapy	is contraindicated	in severe liver disease
+maintenance chemotherapy	is contraindicated	in severe kidney disease
+radiotherapy	is contraindicated	in severe kidney disease
+maintenance chemotherapy	is contraindicated	in severe cardiac disease
+radiotherapy	is contraindicated	in severe cardiac disease
+maintenance chemotherapy	is contraindicated	in severe pulmonary disease
+radiotherapy	is contraindicated	in severe pulmonary disease
+maintenance chemotherapy	is recommended	by NCCN
+radiotherapy	is recommended	by NCCN
+maintenance chemotherapy	is recommended	by ASCO
+radiotherapy	is recommended	by ASCO

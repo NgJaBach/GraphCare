@@ -1,0 +1,100 @@
+skull fracture	is a	traumatic injury
+face fracture	is a	traumatic injury
+skull fracture	causes	intracranial bleeding
+face fracture	causes	facial disfigurement
+skull fracture	leads to	seizures
+face fracture	leads to	airway obstruction
+skull fracture	requires	neurosurgical intervention
+face fracture	requires	maxillofacial surgery
+skull fracture	increases	mortality risk
+face fracture	increases	infection risk
+skull fracture	is associated with	head trauma
+face fracture	is associated with	dental injury
+skull fracture	is diagnosed by	CT scan
+face fracture	is diagnosed by	X‑ray
+skull fracture	is treated with	surgical fixation
+face fracture	is treated with	bone graft
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	closed reduction
+skull fracture	is treated with	external fixation
+face fracture	is treated with	internal fixation
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	splinting
+skull fracture	is treated with	antibiotics
+face fracture	is treated with	antibiotics
+skull fracture	is treated with	tetanus prophylaxis
+face fracture	is treated with	tetanus prophylaxis
+skull fracture	is treated with	pain management
+face fracture	is treated with	pain management
+skull fracture	is treated with	anti‑epileptics
+face fracture	is treated with	anti‑epileptics
+skull fracture	is treated with	steroids
+face fracture	is treated with	steroids
+skull fracture	is treated with	ICP monitoring
+face fracture	is treated with	ICP monitoring
+skull fracture	is treated with	decompressive craniectomy
+face fracture	is treated with	decompressive craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy
+skull fracture	is treated with	craniectomy
+face fracture	is treated with	craniectomy
+skull fracture	is treated with	cranioplasty
+face fracture	is treated with	cranioplasty
+skull fracture	is treated with	craniotomy
+face fracture	is treated with	craniotomy

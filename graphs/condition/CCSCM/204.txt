@@ -1,0 +1,100 @@
+other non‑traumatic joint disorders	include	osteoarthritis
+other non‑traumatic joint disorders	include	rheumatoid arthritis
+other non‑traumatic joint disorders	include	gout
+other non‑traumatic joint disorders	include	psoriatic arthritis
+other non‑traumatic joint disorders	include	ankylosing spondylitis
+other non‑traumatic joint disorders	include	lupus arthritis
+other non‑traumatic joint disorders	include	septic arthritis
+other non‑traumatic joint disorders	include	osteonecrosis
+other non‑traumatic joint disorders	include	bursitis
+other non‑traumatic joint disorders	include	tendinitis
+other non‑traumatic joint disorders	include	ligament sprain
+other non‑traumatic joint disorders	include	meniscal tear
+other non‑traumatic joint disorders	include	cartilage degeneration
+other non‑traumatic joint disorders	cause	joint pain
+other non‑traumatic joint disorders	cause	joint swelling
+other non‑traumatic joint disorders	cause	stiffness
+other non‑traumatic joint disorders	cause	reduced range of motion
+other non‑traumatic joint disorders	cause	decreased mobility
+other non‑traumatic joint disorders	cause	functional limitation
+other non‑traumatic joint disorders	increase	risk of fracture
+other non‑traumatic joint disorders	increase	risk of osteoarthritis
+other non‑traumatic joint disorders	increase	risk of joint replacement
+other non‑traumatic joint disorders	increase	risk of disability
+other non‑traumatic joint disorders	are diagnosed with	X‑ray
+other non‑traumatic joint disorders	are diagnosed with	MRI
+other non‑traumatic joint disorders	are diagnosed with	ultrasound
+other non‑traumatic joint disorders	are diagnosed with	blood test
+other non‑traumatic joint disorders	are diagnosed with	joint aspiration
+other non‑traumatic joint disorders	are treated with	NSAIDs
+other non‑traumatic joint disorders	are treated with	corticosteroids
+other non‑traumatic joint disorders	are treated with	disease‑modifying antirheumatic drugs
+other non‑traumatic joint disorders	are treated with	biologics
+other non‑traumatic joint disorders	are treated with	physical therapy
+other non‑traumatic joint disorders	are treated with	occupational therapy
+other non‑traumatic joint disorders	are treated with	joint injection
+other non‑traumatic joint disorders	are treated with	joint replacement
+other non‑traumatic joint disorders	are treated with	weight loss
+other non‑traumatic joint disorders	are treated with	exercise
+other non‑traumatic joint disorders	are treated with	splint
+other non‑traumatic joint disorders	are treated with	brace
+other non‑traumatic joint disorders	are treated with	acupuncture
+other non‑traumatic joint disorders	are treated with	massage
+other non‑traumatic joint disorders	are treated with	heat therapy
+other non‑traumatic joint disorders	are treated with	cold therapy
+other non‑traumatic joint disorders	are treated with	diet
+other non‑traumatic joint disorders	are treated with	vitamin D
+other non‑traumatic joint disorders	are treated with	glucosamine
+other non‑traumatic joint disorders	are treated with	chondroitin
+other non‑traumatic joint disorders	are treated with	hyaluronic acid
+other non‑traumatic joint disorders	are treated with	bisphosphonates
+other non‑traumatic joint disorders	are treated with	colchicine
+other non‑traumatic joint disorders	are treated with	allopurinol
+other non‑traumatic joint disorders	are treated with	methotrexate
+other non‑traumatic joint disorders	are treated with	sulfasalazine
+other non‑traumatic joint disorders	are treated with	leflunomide
+other non‑traumatic joint disorders	are treated with	adalimumab
+other non‑traumatic joint disorders	are treated with	etanercept
+other non‑traumatic joint disorders	are treated with	infliximab
+other non‑traumatic joint disorders	are treated with	tocilizumab
+other non‑traumatic joint disorders	are treated with	abatacept
+other non‑traumatic joint disorders	are treated with	rituximab
+other non‑traumatic joint disorders	are treated with	tofacitinib
+other non‑traumatic joint disorders	are treated with	hydroxychloroquine
+other non‑traumatic joint disorders	are treated with	NSAID
+other non‑traumatic joint disorders	are treated with	analgesic
+other non‑traumatic joint disorders	are treated with	anti‑inflammatory
+other non‑traumatic joint disorders	are treated with	anti‑arthritic
+other non‑traumatic joint disorders	are treated with	joint mobilization
+other non‑traumatic joint disorders	are treated with	joint stabilization
+other non‑traumatic joint disorders	are treated with	joint protection
+other non‑traumatic joint disorders	are treated with	joint lubrication
+other non‑traumatic joint disorders	are treated with	joint alignment
+other non‑traumatic joint disorders	are treated with	joint support
+other non‑traumatic joint disorders	are treated with	joint strengthening
+other non‑traumatic joint disorders	are treated with	joint conditioning
+other non‑traumatic joint disorders	are treated with	joint rehabilitation
+other non‑traumatic joint disorders	are treated with	joint exercise
+other non‑traumatic joint disorders	are treated with	joint therapy
+other non‑traumatic joint disorders	are treated with	joint management
+other non‑traumatic joint disorders	are treated with	joint care
+other non‑traumatic joint disorders	are treated with	joint monitoring
+other non‑traumatic joint disorders	are treated with	joint assessment
+other non‑traumatic joint disorders	are treated with	joint evaluation
+other non‑traumatic joint disorders	are treated with	joint follow‑up
+other non‑traumatic joint disorders	are treated with	joint surveillance
+other non‑traumatic joint disorders	are treated with	joint prognosis
+other non‑traumatic joint disorders	are treated with	joint outcome
+other non‑traumatic joint disorders	are treated with	joint risk
+other non‑traumatic joint disorders	are treated with	joint complication
+other non‑traumatic joint disorders	are treated with	joint adverse event
+other non‑traumatic joint disorders	are treated with	joint side effect
+other non‑traumatic joint disorders	are treated with	joint toxicity
+other non‑traumatic joint disorders	are treated with	joint safety
+other non‑traumatic joint disorders	are treated with	joint efficacy
+other non‑traumatic joint disorders	are treated with	joint effectiveness
+other non‑traumatic joint disorders	are treated with	joint durability
+other non‑traumatic joint disorders	are treated with	joint longevity
+other non‑traumatic joint disorders	are treated with	joint resilience
+other non‑traumatic joint disorders	are treated with	joint stability
+other non‑traumatic joint disorders	are treated with	joint integrity

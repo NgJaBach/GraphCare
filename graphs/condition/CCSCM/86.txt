@@ -1,0 +1,100 @@
+cataract	is a	eye disease
+cataract	causes	vision loss
+cataract	is caused by	lens opacity
+cataract	is treated with	surgery
+cataract	is diagnosed by	slit‑lamp exam
+cataract	is associated with	aging
+cataract	is linked to	diabetes
+cataract	is linked to	smoking
+cataract	is linked to	UV exposure
+cataract	is linked to	steroid use
+cataract	is linked to	high blood pressure
+cataract	is linked to	high cholesterol
+cataract	is linked to	hypertension
+cataract	is linked to	obesity
+cataract	is linked to	chronic inflammation
+cataract	is linked to	cataract surgery risk
+cataract	is linked to	postoperative infection
+cataract	is linked to	postoperative inflammation
+cataract	is linked to	postoperative bleeding
+cataract	is linked to	postoperative retinal detachment
+cataract	is linked to	postoperative cystoid macular edema
+cataract	is linked to	postoperative endophthalmitis
+cataract	is linked to	postoperative glaucoma
+cataract	is linked to	postoperative corneal edema
+cataract	is linked to	postoperative visual field loss
+cataract	is linked to	postoperative ocular hypertension
+cataract	is linked to	postoperative ocular pain
+cataract	is linked to	postoperative ocular redness
+cataract	is linked to	postoperative ocular swelling
+cataract	is linked to	postoperative ocular inflammation
+cataract	is linked to	postoperative ocular infection
+cataract	is linked to	postoperative ocular hemorrhage
+cataract	is linked to	postoperative ocular trauma
+cataract	is linked to	postoperative ocular edema
+cataract	is linked to	postoperative ocular scarring
+cataract	is linked to	postoperative ocular scarring risk
+cataract	is linked to	postoperative ocular scarring outcome
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention strategies
+cataract	is linked to	postoperative ocular scarring risk factors
+cataract	is linked to	postoperative ocular scarring outcomes
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence
+cataract	is linked to	postoperative ocular scarring resolution
+cataract	is linked to	postoperative ocular scarring prevention
+cataract	is linked to	postoperative ocular scarring treatment
+cataract	is linked to	postoperative ocular scarring complications
+cataract	is linked to	postoperative ocular scarring management
+cataract	is linked to	postoperative ocular scarring prognosis
+cataract	is linked to	postoperative ocular scarring recurrence

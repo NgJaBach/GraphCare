@@ -1,0 +1,100 @@
+immunity disorders	are	autoimmune diseases
+immunity disorders	involve	immune dysregulation
+immunity disorders	cause	tissue damage
+immunity disorders	increase	infection risk
+immunity disorders	lead to	chronic inflammation
+immunity disorders	are	systemic conditions
+immunity disorders	affect	B cells
+immunity disorders	affect	T cells
+immunity disorders	involve	cytokine imbalance
+immunity disorders	are	heterogeneous
+immunity disorders	are	treatable
+immunity disorders	are	monitored
+immunity disorders	are	diagnosed
+immunity disorders	are	managed
+immunity disorders	are	associated
+immunity disorders	are	linked
+immunity disorders	are	associated with	autoantibodies
+immunity disorders	are	associated with	organ failure
+immunity disorders	are	associated with	malignancy
+immunity disorders	are	associated with	cardiovascular disease
+immunity disorders	are	associated with	osteoporosis
+immunity disorders	are	associated with	anemia
+immunity disorders	are	associated with	thrombosis
+immunity disorders	are	associated with	pregnancy complications
+immunity disorders	are	associated with	infertility
+immunity disorders	are	associated with	neurodegeneration
+immunity disorders	are	associated with	metabolic syndrome
+immunity disorders	are	associated with	depression
+immunity disorders	are	associated with	fatigue
+immunity disorders	are	associated with	weight loss
+immunity disorders	are	associated with	fever
+immunity disorders	are	associated with	rash
+immunity disorders	are	associated with	joint pain
+immunity disorders	are	associated with	mouth ulcers
+immunity disorders	are	associated with	dry eyes
+immunity disorders	are	associated with	dry mouth
+immunity disorders	are	associated with	lung disease
+immunity disorders	are	associated with	liver disease
+immunity disorders	are	associated with	kidney disease
+immunity disorders	are	associated with	gastrointestinal disease
+immunity disorders	are	associated with	skin disease
+immunity disorders	are	associated with	hair loss
+immunity disorders	are	associated with	hearing loss
+immunity disorders	are	associated with	vision loss
+immunity disorders	are	associated with	infertility
+immunity disorders	are	associated with	miscarriage
+immunity disorders	are	associated with	preeclampsia
+immunity disorders	are	associated with	neonatal lupus
+immunity disorders	are	associated with	vasculitis
+immunity disorders	are	associated with	granulomatous disease
+immunity disorders	are	associated with	sarcoidosis
+immunity disorders	are	associated with	myasthenia gravis
+immunity disorders	are	associated with	Guillain‑Barré
+immunity disorders	are	associated with	multiple sclerosis
+immunity disorders	are	associated with	Crohn’s disease
+immunity disorders	are	associated with	ulcerative colitis
+immunity disorders	are	associated with	celiac disease
+immunity disorders	are	associated with	rheumatoid arthritis
+immunity disorders	are	associated with	systemic sclerosis
+immunity disorders	are	associated with	lupus
+immunity disorders	are	associated with	Sjögren’s
+immunity disorders	are	associated with	ankylosing spondylitis
+immunity disorders	are	associated with	psoriasis
+immunity disorders	are	associated with	atopic dermatitis
+immunity disorders	are	associated with	allergic rhinitis
+immunity disorders	are	associated with	asthma
+immunity disorders	are	associated with	eczema
+immunity disorders	are	associated with	food allergy
+immunity disorders	are	associated with	drug allergy
+immunity disorders	are	associated with	transfusion reaction
+immunity disorders	are	associated with	graft‑versus‑host disease
+immunity disorders	are	associated with	transplant rejection
+immunity disorders	are	associated with	sepsis
+immunity disorders	are	associated with	septic shock
+immunity disorders	are	associated with	cytokine storm
+immunity disorders	are	associated with	organ transplant
+immunity disorders	are	associated with	immunotherapy
+immunity disorders	are	associated with	checkpoint inhibitor
+immunity disorders	are	associated with	CAR‑T therapy
+immunity disorders	are	associated with	biologic therapy
+immunity disorders	are	associated with	immunosuppressant
+immunity disorders	are	associated with	steroid
+immunity disorders	are	associated with	methotrexate
+immunity disorders	are	associated with	azathioprine
+immunity disorders	are	associated with	mycophenolate
+immunity disorders	are	associated with	rituximab
+immunity disorders	are	associated with	belimumab
+immunity disorders	are	associated with	tocilizumab
+immunity disorders	are	associated with	infliximab
+immunity disorders	are	associated with	adalimumab
+immunity disorders	are	associated with	ustekinumab
+immunity disorders	are	associated with	abatacept
+immunity disorders	are	associated with	cyclosporine
+immunity disorders	are	associated with	tacrolimus
+immunity disorders	are	associated with	prednisone
+immunity disorders	are	associated with	hydroxychloroquine
+immunity disorders	are	associated with	colchicine
+immunity disorders	are	associated with	vitamin D
+immunity disorders	are	associated with	omega‑3
+immunity disorders	are	associated with	diet

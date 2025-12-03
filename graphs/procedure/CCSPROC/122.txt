@@ -1,0 +1,100 @@
+ectopic pregnancy	causes	abdominal pain
+ectopic pregnancy	causes	vaginal bleeding
+ectopic pregnancy	causes	shoulder pain
+ectopic pregnancy	causes	shock
+ectopic pregnancy	is a type of	pregnancy complication
+ectopic pregnancy	occurs in	fallopian tube
+ectopic pregnancy	occurs in	ovary
+ectopic pregnancy	occurs in	abdominal cavity
+ectopic pregnancy	diagnosed by	ultrasound
+ectopic pregnancy	diagnosed by	hCG test
+ectopic pregnancy	diagnosed by	laparoscopy
+ectopic pregnancy	diagnosed by	serum progesterone
+ectopic pregnancy	treated with	methotrexate
+ectopic pregnancy	treated with	surgical removal
+ectopic pregnancy	treated with	laparoscopic salpingectomy
+ectopic pregnancy	treated with	laparotomy
+ectopic pregnancy	treated with	salpingostomy
+ectopic pregnancy	treated with	hysterectomy
+ectopic pregnancy	treated with	uterine evacuation
+ectopic pregnancy	treated with	medical abortion
+ectopic pregnancy	treated with	emergency surgery
+ectopic pregnancy	treated with	conservative management
+ectopic pregnancy	treated with	fertility preservation
+ectopic pregnancy	treated with	post‑operative monitoring
+ectopic pregnancy	treated with	pain control
+ectopic pregnancy	treated with	blood transfusion
+ectopic pregnancy	treated with	ICU admission
+ectopic pregnancy	treated with	antibiotic prophylaxis
+ectopic pregnancy	treated with	anti‑emetic
+ectopic pregnancy	treated with	anti‑arrhythmic
+ectopic pregnancy	treated with	anticoagulation
+ectopic pregnancy	treated with	hormone therapy
+ectopic pregnancy	treated with	follow‑up hCG
+ectopic pregnancy	treated with	imaging follow‑up
+ectopic pregnancy	treated with	counseling
+ectopic pregnancy	treated with	psychological support
+ectopic pregnancy	treated with	reproductive planning
+ectopic pregnancy	treated with	contraception
+ectopic pregnancy	treated with	pre‑conception care
+ectopic pregnancy	treated with	genetic counseling
+ectopic pregnancy	treated with	lifestyle modification
+ectopic pregnancy	treated with	smoking cessation
+ectopic pregnancy	treated with	alcohol reduction
+ectopic pregnancy	treated with	weight management
+ectopic pregnancy	treated with	infection control
+ectopic pregnancy	treated with	STI screening
+ectopic pregnancy	treated with	pelvic inflammatory disease prevention
+ectopic pregnancy	treated with	pelvic floor therapy
+ectopic pregnancy	treated with	pelvic pain management
+ectopic pregnancy	treated with	pelvic ultrasound
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic Doppler ultrasound
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography
+ectopic pregnancy	treated with	pelvic CT‑angiography
+ectopic pregnancy	treated with	pelvic CT
+ectopic pregnancy	treated with	pelvic MRI
+ectopic pregnancy	treated with	pelvic X‑ray
+ectopic pregnancy	treated with	pelvic Doppler
+ectopic pregnancy	treated with	pelvic MRI‑angiography

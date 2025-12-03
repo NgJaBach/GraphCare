@@ -1,0 +1,100 @@
+nephrectomy	is a	surgical procedure
+nephrectomy	removes	kidney
+nephrectomy	can be	partial
+nephrectomy	can be	complete
+partial nephrectomy	preserves	renal function
+complete nephrectomy	removes	entire kidney
+nephrectomy	indicated for	renal tumor
+nephrectomy	indicated for	cystic disease
+nephrectomy	indicated for	trauma
+nephrectomy	indicated for	infection
+nephrectomy	reduces	cancer risk
+nephrectomy	increases	risk of hypertension
+nephrectomy	increases	risk of chronic kidney disease
+nephrectomy	requires	preoperative imaging
+nephrectomy	requires	intraoperative ultrasound
+nephrectomy	requires	blood transfusion
+nephrectomy	requires	postoperative monitoring
+nephrectomy	performed by	urologist
+nephrectomy	performed by	surgeon
+nephrectomy	performed in	operating room
+nephrectomy	performed under	general anesthesia
+nephrectomy	performed with	laparoscopic approach
+nephrectomy	performed with	robotic approach
+nephrectomy	performed with	open approach
+nephrectomy	can be	minimally invasive
+nephrectomy	can be	open surgery
+nephrectomy	can be	staged
+nephrectomy	can be	simultaneous with other procedures
+nephrectomy	can lead to	postoperative pain
+nephrectomy	can lead to	ileus
+nephrectomy	can lead to	infection
+nephrectomy	can lead to	bleeding
+nephrectomy	can lead to	urinary leak
+nephrectomy	can lead to	renal insufficiency
+nephrectomy	can improve	survival
+nephrectomy	can improve	quality of life
+nephrectomy	can improve	oncologic control
+nephrectomy	can improve	symptom relief
+nephrectomy	can be	curative
+nephrectomy	can be	palliative
+nephrectomy	is associated with	length of stay
+nephrectomy	is associated with	readmission rate
+nephrectomy	is associated with	mortality
+nephrectomy	is associated with	cost
+nephrectomy	is associated with	postoperative complications
+nephrectomy	is associated with	renal function decline
+nephrectomy	is associated with	blood pressure change
+nephrectomy	is associated with	proteinuria
+nephrectomy	is associated with	anemia
+nephrectomy	is associated with	electrolyte imbalance
+nephrectomy	is associated with	need for dialysis
+nephrectomy	is associated with	need for antihypertensive medication
+nephrectomy	is associated with	need for nephrology follow‑up
+nephrectomy	is associated with	need for imaging follow‑up
+nephrectomy	is associated with	need for tumor surveillance
+nephrectomy	is associated with	need for adjuvant therapy
+nephrectomy	is associated with	need for pain management
+nephrectomy	is associated with	need for nutritional support
+nephrectomy	is associated with	need for physical therapy
+nephrectomy	is associated with	need for psychological counseling
+nephrectomy	is associated with	risk of venous thromboembolism
+nephrectomy	is associated with	risk of pulmonary embolism
+nephrectomy	is associated with	risk of deep vein thrombosis
+nephrectomy	is associated with	risk of infection
+nephrectomy	is associated with	risk of bleeding
+nephrectomy	is associated with	risk of organ injury
+nephrectomy	is associated with	risk of postoperative ileus
+nephrectomy	is associated with	risk of urinary leak
+nephrectomy	is associated with	risk of chronic pain
+nephrectomy	is associated with	risk of surgical site infection
+nephrectomy	is associated with	risk of sepsis
+nephrectomy	is associated with	risk of renal failure
+nephrectomy	is associated with	risk of dialysis requirement
+nephrectomy	is associated with	risk of hypertension
+nephrectomy	is associated with	risk of proteinuria
+nephrectomy	is associated with	risk of anemia
+nephrectomy	is associated with	risk of electrolyte imbalance
+nephrectomy	is associated with	risk of readmission
+nephrectomy	is associated with	risk of mortality
+nephrectomy	is associated with	risk of complications
+nephrectomy	is associated with	risk of postoperative pain
+nephrectomy	is associated with	risk of ileus
+nephrectomy	is associated with	risk of infection
+nephrectomy	is associated with	risk of bleeding
+nephrectomy	is associated with	risk of urinary leak
+nephrectomy	is associated with	risk of renal insufficiency
+nephrectomy	is associated with	risk of chronic kidney disease
+nephrectomy	is associated with	risk of hypertension
+nephrectomy	is associated with	risk of proteinuria
+nephrectomy	is associated with	risk of anemia
+nephrectomy	is associated with	risk of electrolyte imbalance
+nephrectomy	is associated with	risk of dialysis
+nephrectomy	is associated with	risk of readmission
+nephrectomy	is associated with	risk of mortality
+nephrectomy	is associated with	risk of complications
+nephrectomy	is associated with	risk of postoperative pain
+nephrectomy	is associated with	risk of ileus
+nephrectomy	is associated with	risk of infection
+nephrectomy	is associated with	risk of bleeding
+nephrectomy	is associated with	risk of urinary leak

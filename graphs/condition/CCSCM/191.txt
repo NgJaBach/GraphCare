@@ -1,0 +1,100 @@
+polyhydramnios	is a	fetal condition
+polyhydramnios	is caused by	fetal swallowing disorder
+polyhydramnios	is caused by	maternal diabetes
+polyhydramnios	is caused by	placental insufficiency
+polyhydramnios	is caused by	fetal anomaly
+polyhydramnios	is associated with	preterm delivery
+polyhydramnios	is associated with	uterine overdistension
+polyhydramnios	is associated with	maternal hypertension
+polyhydramnios	is associated with	fetal hydrops
+polyhydramnios	is associated with	increased amniotic fluid index
+polyhydramnios	is diagnosed by	ultrasound
+polyhydramnios	is diagnosed by	amniotic fluid index > 24 cm
+polyhydramnios	is treated with	amnioreduction
+polyhydramnios	is treated with	maternal hydration control
+polyhydramnios	is treated with	fetal surgery
+polyhydramnios	is treated with	magnesium sulfate
+polyhydramnios	is treated with	corticosteroids
+polyhydramnios	is treated with	tocolytics
+polyhydramnios	is monitored by	serial ultrasounds
+polyhydramnios	is monitored by	fetal heart rate monitoring
+polyhydramnios	increases risk of	uterine rupture
+polyhydramnios	increases risk of	placental abruption
+polyhydramnios	increases risk of	postpartum hemorrhage
+polyhydramnios	increases risk of	shoulder dystocia
+polyhydramnios	increases risk of	cesarean delivery
+polyhydramnios	increases risk of	neonatal respiratory distress
+polyhydramnios	increases risk of	neonatal hypoglycemia
+polyhydramnios	increases risk of	neonatal jaundice
+polyhydramnios	increases risk of	neonatal sepsis
+polyhydramnios	increases risk of	neonatal polycythemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypoglycemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia
+polyhydramnios	increases risk of	neonatal hypocalcemia

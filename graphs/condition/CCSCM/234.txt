@@ -1,0 +1,100 @@
+crushing injury	is a	traumatic injury
+crushing injury	causes	tissue necrosis
+crushing injury	leads to	compartment syndrome
+compartment syndrome	requires	fasciotomy
+fasciotomy	prevents	muscle death
+crushing injury	results in	shock
+shock	is treated with	fluid resuscitation
+fluid resuscitation	improves	blood pressure
+crushing injury	increases	lactate level
+lactate level	predicts	mortality
+mortality	is reduced by	early surgery
+early surgery	improves	survival rate
+crushing injury	causes	rhabdomyolysis
+rhabdomyolysis	leads to	acute kidney injury
+acute kidney injury	requires	dialysis
+dialysis	reduces	mortality risk
+crushing injury	results in	electrolyte imbalance
+electrolyte imbalance	causes	arrhythmia
+arrhythmia	treated with	antiarrhythmic drugs
+antiarrhythmic drugs	prevent	sudden cardiac death
+crushing injury	leads to	fat embolism
+fat embolism	diagnosed by	CT scan
+CT scan	detects	pulmonary embolism
+pulmonary embolism	treated with	anticoagulation
+anticoagulation	reduces	readmission risk
+crushing injury	increases	inflammatory cytokines
+inflammatory cytokines	predict	organ failure
+organ failure	managed with	ICU care
+ICU care	improves	ICU length of stay
+crushing injury	causes	nerve damage
+nerve damage	results in	neuropathic pain
+neuropathic pain	treated with	gabapentin
+gabapentin	reduces	opioid use
+opioid use	associated with	respiratory depression
+respiratory depression	prevented by	non-opioid analgesics
+non-opioid analgesics	include	acetaminophen
+acetaminophen	safe at	therapeutic dose
+crushing injury	leads to	bone fractures
+bone fractures	require	orthopedic fixation
+orthopedic fixation	reduces	malunion risk
+malunion risk	increases	chronic pain
+chronic pain	managed with	physical therapy
+physical therapy	improves	functional outcome
+functional outcome	predicts	return to work
+return to work	reduces	socioeconomic burden
+crushing injury	causes	soft tissue loss
+soft tissue loss	treated with	skin graft
+skin graft	improves	wound healing
+wound healing	reduces	infection risk
+infection risk	mitigated by	prophylactic antibiotics
+prophylactic antibiotics	reduce	sepsis incidence
+sepsis incidence	lowers	mortality
+crushing injury	increases	blood loss
+blood loss	requires	blood transfusion
+blood transfusion	associated with	transfusion reactions
+transfusion reactions	prevented by	crossmatching
+crossmatching	ensures	compatibility
+compatibility	reduces	transfusion complications
+transfusion complications	lower	ICU mortality
+crushing injury	leads to	hypothermia
+hypothermia	treated with	warming blankets
+warming blankets	prevent	coagulopathy
+coagulopathy	managed with	plasma transfusion
+plasma transfusion	improves	clotting factors
+clotting factors	reduce	bleeding risk
+bleeding risk	decreases	reoperation rate
+reoperation rate	correlates with	hospital stay
+hospital stay	predicts	readmission
+readmission	associated with	poor outcome
+poor outcome	linked to	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	infection risk
+infection risk	mitigated by	glycemic control
+glycemic control	achieved with	insulin therapy
+insulin therapy	reduces	wound complications
+wound complications	lower	mortality
+mortality	influenced by	age
+age	predicts	survival probability
+survival probability	informs	discharge planning
+discharge planning	involves	home health services
+home health services	reduce	readmission
+readmission	prevented by	patient education
+patient education	improves	medication adherence
+medication adherence	lowers	relapse rate
+relapse rate	decreases	long-term morbidity
+long-term morbidity	measured by	quality of life
+quality of life	assessed with	SF‑36
+SF‑36	predicts	functional independence
+functional independence	correlates with	community participation
+community participation	enhances	mental health
+mental health	supports	rehabilitation adherence
+rehabilitation adherence	improves	outcome
+outcome	reflected in	patient satisfaction
+patient satisfaction	linked to	hospital reputation
+hospital reputation	affects	patient volume
+patient volume	influences	resource allocation
+resource allocation	determines	staff-to-patient ratio
+staff-to-patient ratio	impacts	quality of care
+quality of care	reduces	adverse events
+adverse events	lower	overall mortality

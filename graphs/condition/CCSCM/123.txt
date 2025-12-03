@@ -1,0 +1,100 @@
+influenza	is a	viral infection
+influenza	is caused by	influenza virus
+influenza virus	is a	RNA virus
+influenza	has subtype	H1N1
+influenza	has subtype	H3N2
+influenza	has subtype	influenza B
+influenza	transmits via	respiratory droplets
+influenza	transmits via	airborne particles
+influenza	transmits via	contact
+influenza	causes	fever
+influenza	causes	cough
+influenza	causes	sore throat
+influenza	causes	myalgia
+influenza	causes	fatigue
+influenza	causes	headache
+influenza	causes	nasal congestion
+influenza	causes	body aches
+influenza	causes	chills
+influenza	causes	loss of appetite
+influenza	causes	dehydration
+influenza	increases risk of	secondary bacterial pneumonia
+influenza	increases risk of	otitis media
+influenza	increases risk of	sinusitis
+influenza	increases risk of	myocarditis
+influenza	increases risk of	encephalitis
+influenza	increases risk of	exacerbation of asthma
+influenza	increases risk of	exacerbation of COPD
+influenza	increases risk of	hospitalization
+influenza	increases risk of	mortality
+influenza	is treated with	oseltamivir
+influenza	is treated with	zanamivir
+influenza	is treated with	peramivir
+influenza	is treated with	baloxavir marboxil
+influenza	is treated with	supportive care
+oseltamivir	is a	neuraminidase inhibitor
+zanamivir	is a	neuraminidase inhibitor
+peramivir	is a	neuraminidase inhibitor
+baloxavir marboxil	is a	cap-dependent endonuclease inhibitor
+influenza	is prevented by	influenza vaccine
+influenza vaccine	is a	inactivated vaccine
+influenza vaccine	is a	live attenuated vaccine
+influenza vaccine	is a	recombinant vaccine
+influenza vaccine	is recommended for	elderly
+influenza vaccine	is recommended for	pregnant women
+influenza vaccine	is recommended for	healthcare workers
+influenza vaccine	is recommended for	children
+influenza vaccine	reduces	hospitalization
+influenza vaccine	reduces	mortality
+influenza	is diagnosed by	rapid antigen test
+influenza	is diagnosed by	PCR test
+influenza	is diagnosed by	viral culture
+rapid antigen test	has sensitivity	70%
+PCR test	has sensitivity	95%
+viral culture	is gold standard for	influenza diagnosis
+influenza	is associated with	influenza-like illness
+influenza	is associated with	pandemic
+influenza	is associated with	seasonal outbreak
+influenza	is associated with	herd immunity
+influenza	is associated with	antiviral resistance
+influenza	is associated with	neuraminidase inhibitor resistance
+influenza	is associated with	M2 inhibitor resistance
+influenza	is associated with	vaccine mismatch
+influenza	is associated with	antigenic drift
+influenza	is associated with	antigenic shift
+influenza	is associated with	zoonotic transmission
+influenza	is associated with	swine flu
+influenza	is associated with	avian flu
+influenza	is associated with	human flu
+influenza	is associated with	antiviral stewardship
+influenza	is associated with	early treatment
+influenza	is associated with	delayed treatment
+influenza	is associated with	high viral load
+influenza	is associated with	low viral load
+influenza	is associated with	comorbidities
+influenza	is associated with	immunosuppression
+influenza	is associated with	pregnancy complications
+influenza	is associated with	cardiovascular events
+influenza	is associated with	metabolic syndrome
+influenza	is associated with	obesity
+influenza	is associated with	diabetes
+influenza	is associated with	chronic kidney disease
+influenza	is associated with	chronic liver disease
+influenza	is associated with	HIV infection
+influenza	is associated with	rheumatic disease
+influenza	is associated with	malignancy
+influenza	is associated with	organ transplantation
+influenza	is associated with	ICU admission
+influenza	is associated with	mechanical ventilation
+influenza	is associated with	ECMO support
+influenza	is associated with	long COVID
+influenza	is associated with	post-viral fatigue
+influenza	is associated with	cognitive decline
+influenza	is associated with	mental health
+influenza	is associated with	economic burden
+influenza	is associated with	absenteeism
+influenza	is associated with	presenteeism
+influenza	is associated with	healthcare costs
+influenza	is associated with	public health surveillance
+influenza	is associated with	vaccination coverage
+influenza	is associated with	antiviral stockpile

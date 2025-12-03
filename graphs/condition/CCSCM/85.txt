@@ -1,0 +1,100 @@
+coma	is a	loss of consciousness
+coma	is caused by	brain injury
+coma	is caused by	stroke
+coma	is caused by	drug overdose
+coma	is caused by	infection
+coma	is caused by	metabolic disorder
+coma	is treated with	oxygen therapy
+coma	is treated with	anticonvulsants
+coma	is treated with	steroids
+coma	is treated with	surgery
+coma	is monitored by	Glasgow Coma Scale
+coma	is monitored by	EEG
+coma	is monitored by	CT scan
+coma	is monitored by	MRI
+coma	is monitored by	blood tests
+coma	leads to	brain damage
+coma	leads to	cognitive impairment
+coma	leads to	motor deficits
+coma	leads to	speech impairment
+coma	leads to	autonomic dysfunction
+coma	leads to	increased mortality
+coma	leads to	prolonged hospitalization
+coma	leads to	readmission risk
+stupor	is a	reduced responsiveness
+stupor	is caused by	metabolic encephalopathy
+stupor	is caused by	drug intoxication
+stupor	is caused by	hypoglycemia
+stupor	is caused by	hepatic failure
+stupor	is treated with	glucose
+stupor	is treated with	thiamine
+stupor	is treated with	anticholinergics
+stupor	is monitored by	vital signs
+stupor	is monitored by	neurological exam
+stupor	is monitored by	EEG
+stupor	leads to	brain damage
+stupor	leads to	delirium
+stupor	leads to	infection risk
+brain damage	is a	result of	coma
+brain damage	is a	result of	stroke
+brain damage	is a	result of	traumatic brain injury
+brain damage	is a	result of	hypoxia
+brain damage	is a	result of	infection
+brain damage	is a	result of	toxic exposure
+brain damage	is classified by	severity
+brain damage	is classified by	location
+brain damage	is classified by	type
+brain damage	is treated with	rehabilitation
+brain damage	is treated with	pharmacotherapy
+brain damage	is treated with	surgery
+brain damage	is treated with	neuroprotective agents
+brain damage	is monitored by	neuroimaging
+brain damage	is monitored by	neuropsychological tests
+brain damage	is monitored by	biomarkers
+brain damage	leads to	cognitive decline
+brain damage	leads to	motor impairment
+brain damage	leads to	speech disorder
+brain damage	leads to	emotional lability
+brain damage	leads to	increased mortality
+brain damage	leads to	readmission risk
+brain injury	is a	cause of	coma
+brain injury	is a	cause of	stupor
+brain injury	is a	cause of	brain damage
+brain injury	is classified by	mechanism
+brain injury	is classified by	severity
+brain injury	is classified by	location
+brain injury	is treated with	decompressive craniectomy
+brain injury	is treated with	intracranial pressure monitoring
+brain injury	is treated with	anti‑epileptics
+brain injury	is treated with	steroids
+brain injury	is treated with	physiotherapy
+brain injury	is monitored by	ICP monitor
+brain injury	is monitored by	CT scan
+brain injury	is monitored by	MRI
+brain injury	leads to	long‑term disability
+brain injury	leads to	readmission risk
+stroke	is a	cause of	coma
+stroke	is a	cause of	brain damage
+stroke	is a	cause of	cognitive decline
+stroke	is a	cause of	motor deficit
+stroke	is treated with	thrombolysis
+stroke	is treated with	thrombectomy
+stroke	is treated with	antiplatelets
+stroke	is treated with	anticoagulants
+stroke	is treated with	rehabilitation
+stroke	is monitored by	CT scan
+stroke	is monitored by	MRI
+stroke	is monitored by	TTE
+stroke	leads to	readmission risk
+stroke	leads to	mortality
+hypoxia	is a	cause of	brain damage
+hypoxia	is a	cause of	coma
+hypoxia	is treated with	oxygen therapy
+hypoxia	is treated with	ventilation
+hypoxia	is monitored by	pulse oximetry
+hypoxia	leads to	neuronal death
+hypoxia	leads to	cognitive impairment
+infection	is a	cause of	brain damage
+infection	is a	cause of	coma
+infection	is treated with	antibiotics
+infection	is treated with	antivirals

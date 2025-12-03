@@ -1,0 +1,100 @@
+d&c	is a	gynecologic procedure
+d&c	used for	evacuation
+d&c	performed after	abortion
+d&c	performed after	delivery
+d&c	reduces	hemorrhage
+d&c	reduces	infection risk
+d&c	requires	anesthesia
+d&c	performed by	obstetrician
+d&c	performed by	gynecologist
+d&c	uses	curette
+d&c	uses	dilator
+d&c	uses	suction device
+d&c	can cause	uterine perforation
+d&c	can cause	cervical laceration
+d&c	can cause	infection
+d&c	can cause	anemia
+d&c	can cause	pain
+d&c	can cause	bleeding
+d&c	can cause	adhesion formation
+d&c	can cause	future infertility
+d&c	is contraindicated in	active infection
+d&c	is contraindicated in	placenta previa
+d&c	is contraindicated in	uterine fibroids
+d&c	is contraindicated in	cervical incompetence
+d&c	is contraindicated in	severe anemia
+d&c	is contraindicated in	coagulation disorder
+d&c	is contraindicated in	pregnancy >12 weeks
+d&c	is indicated for	retained products
+d&c	is indicated for	incomplete miscarriage
+d&c	is indicated for	incomplete abortion
+d&c	is indicated for	postpartum hemorrhage
+d&c	is indicated for	uterine evacuation
+d&c	is indicated for	uterine curettage
+d&c	is indicated for	uterine curettage after delivery
+d&c	is indicated for	uterine curettage after abortion
+d&c	is indicated for	uterine curettage after miscarriage
+d&c	is indicated for	uterine curettage after ectopic
+d&c	is indicated for	uterine curettage after molar pregnancy
+d&c	is indicated for	uterine curettage after gestational trophoblastic disease
+d&c	is indicated for	uterine curettage after uterine surgery
+d&c	is indicated for	uterine curettage after uterine instrumentation
+d&c	is indicated for	uterine curettage after uterine trauma
+d&c	is indicated for	uterine curettage after uterine infection
+d&c	is indicated for	uterine curettage after uterine bleeding
+d&c	is indicated for	uterine curettage after uterine pathology
+d&c	is indicated for	uterine curettage after uterine disease
+d&c	is indicated for	uterine curettage after uterine abnormality
+d&c	is indicated for	uterine curettage after uterine disorder
+d&c	is indicated for	uterine curettage after uterine complication
+d&c	is indicated for	uterine curettage after uterine event
+d&c	is indicated for	uterine curettage after uterine procedure
+d&c	is indicated for	uterine curettage after uterine treatment
+d&c	is indicated for	uterine curettage after uterine surgery
+d&c	is indicated for	uterine curettage after uterine intervention
+d&c	is indicated for	uterine curettage after uterine manipulation
+d&c	is indicated for	uterine curettage after uterine instrumentation
+d&c	is indicated for	uterine curettage after uterine trauma
+d&c	is indicated for	uterine curettage after uterine infection
+d&c	is indicated for	uterine curettage after uterine bleeding
+d&c	is indicated for	uterine curettage after uterine pathology
+d&c	is indicated for	uterine curettage after uterine disease
+d&c	is indicated for	uterine curettage after uterine abnormality
+d&c	is indicated for	uterine curettage after uterine disorder
+d&c	is indicated for	uterine curettage after uterine complication
+d&c	is indicated for	uterine curettage after uterine event
+d&c	is indicated for	uterine curettage after uterine procedure
+d&c	is indicated for	uterine curettage after uterine treatment
+d&c	is indicated for	uterine curettage after uterine surgery
+d&c	is indicated for	uterine curettage after uterine intervention
+d&c	is indicated for	uterine curettage after uterine manipulation
+d&c	is indicated for	uterine curettage after uterine instrumentation
+d&c	is indicated for	uterine curettage after uterine trauma
+d&c	is indicated for	uterine curettage after uterine infection
+d&c	is indicated for	uterine curettage after uterine bleeding
+d&c	is indicated for	uterine curettage after uterine pathology
+d&c	is indicated for	uterine curettage after uterine disease
+d&c	is indicated for	uterine curettage after uterine abnormality
+d&c	is indicated for	uterine curettage after uterine disorder
+d&c	is indicated for	uterine curettage after uterine complication
+d&c	is indicated for	uterine curettage after uterine event
+d&c	is indicated for	uterine curettage after uterine procedure
+d&c	is indicated for	uterine curettage after uterine treatment
+d&c	is indicated for	uterine curettage after uterine surgery
+d&c	is indicated for	uterine curettage after uterine intervention
+d&c	is indicated for	uterine curettage after uterine manipulation
+d&c	is indicated for	uterine curettage after uterine instrumentation
+d&c	is indicated for	uterine curettage after uterine trauma
+d&c	is indicated for	uterine curettage after uterine infection
+d&c	is indicated for	uterine curettage after uterine bleeding
+d&c	is indicated for	uterine curettage after uterine pathology
+d&c	is indicated for	uterine curettage after uterine disease
+d&c	is indicated for	uterine curettage after uterine abnormality
+d&c	is indicated for	uterine curettage after uterine disorder
+d&c	is indicated for	uterine curettage after uterine complication
+d&c	is indicated for	uterine curettage after uterine event
+d&c	is indicated for	uterine curettage after uterine procedure
+d&c	is indicated for	uterine curettage after uterine treatment
+d&c	is indicated for	uterine curettage after uterine surgery
+d&c	is indicated for	uterine curettage after uterine intervention
+d&c	is indicated for	uterine curettage after uterine manipulation

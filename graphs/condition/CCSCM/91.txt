@@ -1,0 +1,100 @@
+other eye disorders	include	cataract
+other eye disorders	include	glaucoma
+other eye disorders	include	macular degeneration
+other eye disorders	include	diabetic retinopathy
+other eye disorders	include	retinal detachment
+other eye disorders	include	uveitis
+other eye disorders	include	keratoconus
+other eye disorders	include	conjunctivitis
+other eye disorders	include	dry eye
+other eye disorders	include	amblyopia
+other eye disorders	include	strabismus
+other eye disorders	include	myopia
+other eye disorders	include	hyperopia
+other eye disorders	include	astigmatism
+other eye disorders	include	presbyopia
+other eye disorders	include	retinal vein occlusion
+other eye disorders	include	optic neuritis
+other eye disorders	include	retinal artery occlusion
+other eye disorders	include	ocular melanoma
+other eye disorders	include	ocular hypertension
+other eye disorders	include	blepharitis
+other eye disorders	include	pterygium
+other eye disorders	include	corneal ulcer
+other eye disorders	include	keratitis
+other eye disorders	include	scleritis
+other eye disorders	include	cataract	is treated with	cataract surgery
+other eye disorders	include	glaucoma	is treated with	intraocular pressure reduction
+other eye disorders	include	macular degeneration	is treated with	anti‑VEGF therapy
+other eye disorders	include	diabetic retinopathy	is treated with	laser photocoagulation
+other eye disorders	include	retinal detachment	is treated with	vitrectomy
+other eye disorders	include	uveitis	is treated with	corticosteroids
+other eye disorders	include	keratoconus	is treated with	corneal cross‑linking
+other eye disorders	include	conjunctivitis	is treated with	antibiotic drops
+other eye disorders	include	dry eye	is treated with	artificial tears
+other eye disorders	include	amblyopia	is treated with	patching
+other eye disorders	include	strabismus	is treated with	strabismus surgery
+other eye disorders	include	myopia	is treated with	corrective lenses
+other eye disorders	include	hyperopia	is treated with	corrective lenses
+other eye disorders	include	astigmatism	is treated with	toric lenses
+other eye disorders	include	presbyopia	is treated with	multifocal lenses
+other eye disorders	include	retinal vein occlusion	is treated with	anti‑VEGF therapy
+other eye disorders	include	optic neuritis	is treated with	high‑dose steroids
+other eye disorders	include	retinal artery occlusion	is treated with	ocular massage
+other eye disorders	include	ocular melanoma	is treated with	plaque brachytherapy
+other eye disorders	include	ocular hypertension	is treated with	topical medications
+other eye disorders	include	blepharitis	is treated with	lid hygiene
+other eye disorders	include	pterygium	is treated with	excision
+other eye disorders	include	corneal ulcer	is treated with	antimicrobial therapy
+other eye disorders	include	keratitis	is treated with	antiviral drops
+other eye disorders	include	scleritis	is treated with	immunosuppressants
+cataract	increases	risk of glaucoma
+glaucoma	increases	risk of optic nerve damage
+macular degeneration	increases	risk of legal blindness
+diabetic retinopathy	increases	risk of vision loss
+retinal detachment	increases	risk of permanent blindness
+uveitis	increases	risk of cataract
+keratoconus	increases	risk of corneal transplant
+conjunctivitis	increases	risk of corneal infection
+dry eye	increases	risk of ocular surface disease
+amblyopia	increases	risk of permanent visual impairment
+strabismus	increases	risk of diplopia
+myopia	increases	risk of retinal detachment
+hyperopia	increases	risk of presbyopia
+astigmatism	increases	risk of blurred vision
+presbyopia	increases	risk of reading difficulty
+retinal vein occlusion	increases	risk of macular edema
+optic neuritis	increases	risk of multiple sclerosis
+retinal artery occlusion	increases	risk of sudden vision loss
+ocular melanoma	increases	risk of metastasis
+ocular hypertension	increases	risk of glaucoma
+blepharitis	increases	risk of eyelid margin inflammation
+pterygium	increases	risk of corneal scarring
+corneal ulcer	increases	risk of corneal perforation
+keratitis	increases	risk of corneal scarring
+scleritis	increases	risk of ocular pain
+cataract	is a risk factor for	stroke
+glaucoma	is a risk factor for	depression
+macular degeneration	is a risk factor for	cognitive decline
+diabetic retinopathy	is a risk factor for	cardiovascular disease
+retinal detachment	is a risk factor for	emergency surgery
+uveitis	is a risk factor for	systemic autoimmune disease
+keratoconus	is a risk factor for	contact lens intolerance
+conjunctivitis	is a risk factor for	bacterial transmission
+dry eye	is a risk factor for	ocular surface inflammation
+amblyopia	is a risk factor for	learning difficulties
+strabismus	is a risk factor for	social stigma
+myopia	is a risk factor for	retinal detachment
+hyperopia	is a risk factor for	accommodative fatigue
+astigmatism	is a risk factor for	headaches
+presbyopia	is a risk factor for	near‑vision difficulty
+retinal vein occlusion	is a risk factor for	visual field loss
+optic neuritis	is a risk factor for	optic atrophy
+retinal artery occlusion	is a risk factor for	permanent vision loss
+ocular melanoma	is a risk factor for	ocular pain
+ocular hypertension	is a risk factor for	optic disc cupping
+blepharitis	is a risk factor for	eyelid margin inflammation
+pterygium	is a risk factor for	corneal astigmatism
+corneal ulcer	is a risk factor for	corneal scarring
+keratitis	is a risk factor for	corneal opacity
+scleritis	is a risk factor for	ocular pain

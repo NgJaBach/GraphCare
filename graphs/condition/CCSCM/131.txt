@@ -1,0 +1,100 @@
+respiratory failure	is a	life‑threatening condition
+respiratory failure	causes	hypoxia
+respiratory failure	leads to	organ dysfunction
+respiratory failure	is diagnosed by	arterial blood gas
+respiratory failure	is treated with	mechanical ventilation
+mechanical ventilation	is a	life support modality
+mechanical ventilation	requires	ICU admission
+ICU admission	increases	infection risk
+infection risk	raises	mortality rate
+mortality rate	is predicted by	APACHE II score
+APACHE II score	is calculated from	vital signs
+vital signs	include	heart rate
+vital signs	include	blood pressure
+vital signs	include	respiratory rate
+respiratory rate	is measured by	pulse oximetry
+pulse oximetry	measures	oxygen saturation
+oxygen saturation	is reduced in	hypoxemia
+hypoxemia	is treated with	supplemental oxygen
+supplemental oxygen	is delivered by	nasal cannula
+nasal cannula	is a	low‑flow device
+low‑flow device	is used for	mild hypoxia
+mild hypoxia	may progress to	severe hypoxia
+severe hypoxia	requires	high‑flow nasal cannula
+high‑flow nasal cannula	is a	non‑invasive support
+non‑invasive support	includes	CPAP
+CPAP	is a	continuous positive airway pressure
+continuous positive airway pressure	improves	lung compliance
+lung compliance	is measured by	spirometry
+spirometry	detects	obstructive disease
+obstructive disease	includes	COPD
+COPD	is a	chronic lung disease
+chronic lung disease	predisposes to	respiratory failure
+respiratory failure	is classified by	type
+type	includes	hypoxemic
+type	includes	hypercapnic
+hypercapnic	is associated with	COPD
+hypoxemic	is associated with	pneumonia
+pneumonia	is diagnosed by	chest X‑ray
+chest X‑ray	shows	infiltrates
+infiltrates	indicate	infection
+infection	is treated with	antibiotics
+antibiotics	are prescribed based on	culture sensitivity
+culture sensitivity	guides	antibiotic selection
+antibiotic selection	affects	resistance pattern
+resistance pattern	influences	treatment success
+treatment success	predicts	survival probability
+survival probability	is modeled by	logistic regression
+logistic regression	uses	comorbidity index
+comorbidity index	includes	Charlson score
+Charlson score	predicts	1‑year mortality
+1‑year mortality	is a	long‑term outcome
+long‑term outcome	is influenced by	smoking status
+smoking status	is recorded in	patient history
+patient history	is reviewed by	discharge planning
+discharge planning	reduces	readmission risk
+readmission risk	is estimated by	LACE index
+LACE index	incorporates	length of stay
+length of stay	is extended by	complications
+complications	include	ventilator‑associated pneumonia
+ventilator‑associated pneumonia	is prevented by	oral care
+oral care	reduces	infection rate
+infection rate	lowers	ICU mortality
+ICU mortality	is correlated with	sedation depth
+sedation depth	is monitored by	Richmond Agitation‑Sedation Scale
+Richmond Agitation‑Sedation Scale	guides	sedation protocol
+sedation protocol	affects	delirium incidence
+delirium incidence	predicts	functional outcome
+functional outcome	is measured by	Barthel index
+Barthel index	informs	rehabilitation plan
+rehabilitation plan	improves	quality of life
+quality of life	is assessed by	SF‑36
+SF‑36	scores	physical component
+physical component	is linked to	mobility status
+mobility status	is evaluated by	gait speed
+gait speed	predicts	fall risk
+fall risk	is mitigated by	home safety assessment
+home safety assessment	is conducted by	occupational therapist
+occupational therapist	provides	assistive devices
+assistive devices	reduce	injury risk
+injury risk	lowers	emergency department visits
+emergency department visits	are tracked by	readmission database
+readmission database	feeds into	predictive analytics
+predictive analytics	use	machine learning
+machine learning	models	patient trajectories
+patient trajectories	inform	personalized care
+personalized care	enhances	adherence
+adherence	is measured by	medication possession ratio
+medication possession ratio	predicts	disease control
+disease control	is reflected in	biomarker levels
+biomarker levels	include	C‑reactive protein
+C‑reactive protein	rises in	inflammation
+inflammation	is managed by	anti‑inflammatory drugs
+anti‑inflammatory drugs	include	corticosteroids
+corticosteroids	are prescribed for	acute exacerbation
+acute exacerbation	leads to	increased oxygen demand
+oxygen demand	is met by	ventilator settings
+ventilator settings	are adjusted by	tidal volume
+tidal volume	is calculated from	predicted body weight
+predicted body weight	is derived from	height
+height	is recorded in	anthropometric data

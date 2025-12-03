@@ -1,0 +1,100 @@
+brain cancer	is a	malignancy
+brain cancer	originates in	nervous tissue
+brain cancer	causes	neurological deficits
+brain cancer	leads to	seizures
+brain cancer	results in	headaches
+brain cancer	may cause	vomiting
+brain cancer	is diagnosed with	MRI
+brain cancer	is diagnosed with	CT
+brain cancer	is diagnosed with	biopsy
+brain cancer	is staged by	WHO grading
+brain cancer	is staged by	TNM system
+brain cancer	is treated with	surgery
+brain cancer	is treated with	radiotherapy
+brain cancer	is treated with	chemotherapy
+brain cancer	is treated with	targeted therapy
+brain cancer	is treated with	immunotherapy
+brain cancer	is treated with	corticosteroids
+brain cancer	is treated with	anticonvulsants
+brain cancer	is treated with	steroids
+brain cancer	is treated with	bevacizumab
+brain cancer	is treated with	temozolomide
+brain cancer	is treated with	carmustine
+brain cancer	is treated with	lomustine
+brain cancer	is treated with	irinotecan
+brain cancer	is treated with	bevacizumab
+brain cancer	is treated with	pembrolizumab
+brain cancer	is treated with	nivolumab
+brain cancer	is treated with	checkpoint inhibitors
+brain cancer	is treated with	gene therapy
+brain cancer	is treated with	radiosurgery
+brain cancer	is treated with	stereotactic radiosurgery
+brain cancer	is treated with	proton therapy
+brain cancer	is treated with	cryotherapy
+brain cancer	is treated with	laser ablation
+brain cancer	is treated with	tumor treating fields
+brain cancer	is treated with	temozolomide + radiotherapy
+brain cancer	is treated with	temozolomide + bevacizumab
+brain cancer	is treated with	temozolomide + irinotecan
+brain cancer	is treated with	temozolomide + lomustine
+brain cancer	is treated with	temozolomide + carmustine
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide
+brain cancer	is treated with	temozolomide + temozolomide

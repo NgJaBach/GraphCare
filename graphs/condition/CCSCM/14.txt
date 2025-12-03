@@ -1,0 +1,100 @@
+cancer of colon	is a	malignancy
+cancer of colon	is a	colorectal cancer
+cancer of colon	originates in	colon
+cancer of colon	is diagnosed with	colonoscopy
+cancer of colon	is staged by	TNM system
+cancer of colon	is staged by	Dukes classification
+cancer of colon	is treated with	surgery
+cancer of colon	is treated with	chemotherapy
+cancer of colon	is treated with	radiation
+cancer of colon	is treated with	targeted therapy
+cancer of colon	is treated with	immunotherapy
+cancer of colon	is treated with	adjuvant therapy
+cancer of colon	is treated with	neoadjuvant therapy
+cancer of colon	is treated with	palliative care
+cancer of colon	is associated with	smoking
+cancer of colon	is associated with	alcohol
+cancer of colon	is associated with	obesity
+cancer of colon	is associated with	low fiber diet
+cancer of colon	is associated with	high red meat
+cancer of colon	is associated with	inflammatory bowel disease
+cancer of colon	is associated with	family history
+cancer of colon	is associated with	genetic syndromes
+cancer of colon	is associated with	Lynch syndrome
+cancer of colon	is associated with	FAP
+cancer of colon	is associated with	microsatellite instability
+cancer of colon	is associated with	KRAS mutation
+cancer of colon	is associated with	BRAF mutation
+cancer of colon	is associated with	PIK3CA mutation
+cancer of colon	is associated with	MSI-H
+cancer of colon	is associated with	CpG island methylator phenotype
+cancer of colon	is associated with	tumor mutational burden
+cancer of colon	is associated with	PD-L1 expression
+cancer of colon	is associated with	tumor infiltrating lymphocytes
+cancer of colon	is associated with	perineural invasion
+cancer of colon	is associated with	lymphovascular invasion
+cancer of colon	is associated with	distant metastasis
+cancer of colon	is associated with	liver metastasis
+cancer of colon	is associated with	lung metastasis
+cancer of colon	is associated with	peritoneal spread
+cancer of colon	is associated with	recurrence
+cancer of colon	is associated with	mortality
+cancer of colon	is associated with	morbidity
+cancer of colon	is associated with	quality of life
+cancer of colon	is associated with	readmission
+cancer of colon	is associated with	length of stay
+cancer of colon	is associated with	cost
+cancer of colon	is associated with	survival
+cancer of colon	is associated with	5‑year survival
+cancer of colon	is associated with	overall survival
+cancer of colon	is associated with	disease‑free survival
+cancer of colon	is associated with	progression‑free survival
+cancer of colon	is associated with	response rate
+cancer of colon	is associated with	progression
+cancer of colon	is associated with	tumor burden
+cancer of colon	is associated with	carcinoembryonic antigen
+cancer of colon	is associated with	CEA level
+cancer of colon	is associated with	CA‑19‑9
+cancer of colon	is associated with	imaging
+cancer of colon	is associated with	CT scan
+cancer of colon	is associated with	MRI
+cancer of colon	is associated with	PET‑CT
+cancer of colon	is associated with	colon resection
+cancer of colon	is associated with	colectomy
+cancer of colon	is associated with	segmental resection
+cancer of colon	is associated with	total colectomy
+cancer of colon	is associated with	ileorectal anastomosis
+cancer of colon	is associated with	ileostomy
+cancer of colon	is associated with	colostomy
+cancer of colon	is associated with	laparoscopic surgery
+cancer of colon	is associated with	open surgery
+cancer of colon	is associated with	robotic surgery
+cancer of colon	is associated with	surgical margin
+cancer of colon	is associated with	lymph node harvest
+cancer of colon	is associated with	adjuvant chemotherapy
+cancer of colon	is associated with	FOLFOX regimen
+cancer of colon	is associated with	CAPOX regimen
+cancer of colon	is associated with	CAPIRI regimen
+cancer of colon	is associated with	FOLFIRI regimen
+cancer of colon	is associated with	bevacizumab
+cancer of colon	is associated with	cetuximab
+cancer of colon	is associated with	panitumumab
+cancer of colon	is associated with	regorafenib
+cancer of colon	is associated with	TAS‑102
+cancer of colon	is associated with	pembrolizumab
+cancer of colon	is associated with	nivolumab
+cancer of colon	is associated with	ipilimumab
+cancer of colon	is associated with	adjuvant radiation
+cancer of colon	is associated with	chemoradiation
+cancer of colon	is associated with	surveillance
+cancer of colon	is associated with	colonoscopy follow‑up
+cancer of colon	is associated with	CT surveillance
+cancer of colon	is associated with	tumor markers
+cancer of colon	is associated with	genetic testing
+cancer of colon	is associated with	MSI testing
+cancer of colon	is associated with	NGS panel
+cancer of colon	is associated with	patient education
+cancer of colon	is associated with	nutritional support
+cancer of colon	is associated with	psychosocial support
+cancer of colon	is associated with	survivorship care
+cancer of colon	is associated with	clinical trial

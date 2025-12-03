@@ -1,0 +1,100 @@
+liver disease	is caused by	alcohol
+liver disease	leads to	cirrhosis
+liver disease	causes	jaundice
+liver disease	results in	ascites
+liver disease	causes	hepatic encephalopathy
+liver disease	increases risk of	hepatocellular carcinoma
+liver disease	causes	portal hypertension
+liver disease	leads to	variceal bleeding
+liver disease	causes	coagulopathy
+liver disease	results in	hypoalbuminemia
+liver disease	causes	pruritus
+liver disease	leads to	fatigue
+liver disease	causes	weight loss
+liver disease	results in	abdominal pain
+liver disease	causes	nausea
+liver disease	leads to	vomiting
+liver disease	causes	dark urine
+liver disease	results in	pale stool
+liver disease	causes	spider angiomas
+liver disease	leads to	palmar erythema
+liver disease	causes	gynecomastia
+liver disease	results in	muscle wasting
+liver disease	causes	anemia
+liver disease	leads to	thrombocytopenia
+liver disease	causes	electrolyte imbalance
+liver disease	results in	hyponatremia
+liver disease	causes	hypoglycemia
+liver disease	leads to	hepatic failure
+liver disease	causes	liver transplant
+liver disease	results in	mortality
+liver disease	increases risk of	infection
+liver disease	leads to	sepsis
+liver disease	causes	renal dysfunction
+liver disease	results in	hepatorenal syndrome
+liver disease	causes	cardiac arrhythmia
+liver disease	leads to	arrhythmia
+liver disease	causes	pulmonary hypertension
+liver disease	results in	sleep apnea
+liver disease	causes	depression
+liver disease	leads to	anxiety
+liver disease	causes	cognitive decline
+liver disease	results in	malnutrition
+liver disease	causes	vitamin deficiency
+liver disease	leads to	vitamin K deficiency
+liver disease	causes	clotting factor deficiency
+liver disease	results in	bleeding tendency
+liver disease	causes	portal vein thrombosis
+liver disease	leads to	splenomegaly
+liver disease	causes	hypersplenism
+liver disease	results in	splenic sequestration
+liver disease	causes	hepatic steatosis
+liver disease	leads to	fatty liver
+liver disease	causes	alcoholic hepatitis
+liver disease	results in	elevated AST
+liver disease	causes	elevated ALT
+liver disease	leads to	elevated GGT
+liver disease	causes	elevated bilirubin
+liver disease	results in	elevated INR
+liver disease	causes	ascitic fluid
+liver disease	leads to	spontaneous bacterial peritonitis
+liver disease	causes	hepatic fibrosis
+liver disease	results in	collagen deposition
+liver disease	causes	portal fibrosis
+liver disease	leads to	hepatic stellate cell activation
+liver disease	causes	cytokine release
+liver disease	results in	TNF‑α elevation
+liver disease	causes	IL‑6 elevation
+liver disease	leads to	oxidative stress
+liver disease	causes	lipid peroxidation
+liver disease	results in	mitochondrial dysfunction
+liver disease	causes	apoptosis
+liver disease	leads to	necrosis
+liver disease	causes	fibrosis progression
+liver disease	results in	cirrhosis stage
+liver disease	causes	decompensation
+liver disease	leads to	hepatic encephalopathy grade
+liver disease	causes	variceal rupture
+liver disease	results in	blood transfusion
+liver disease	causes	albumin infusion
+liver disease	leads to	diuretic therapy
+liver disease	causes	lactulose therapy
+liver disease	results in	rifaximin therapy
+liver disease	causes	beta‑blocker therapy
+liver disease	leads to	endoscopic band ligation
+liver disease	causes	TIPS procedure
+liver disease	results in	liver transplant eligibility
+liver disease	causes	MELD score
+liver disease	leads to	transplant waitlist
+liver disease	causes	post‑transplant immunosuppression
+liver disease	results in	tacrolimus therapy
+liver disease	causes	cyclosporine therapy
+liver disease	leads to	rejection risk
+liver disease	causes	infection risk
+liver disease	results in	graft dysfunction
+liver disease	causes	graft failure
+liver disease	leads to	mortality risk
+liver disease	causes	readmission
+liver disease	results in	emergency department visit
+liver disease	causes	ICU admission
+liver disease	leads to	prolonged hospitalization

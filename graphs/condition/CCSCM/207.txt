@@ -1,0 +1,100 @@
+pathological fracture	is a	bone injury
+pathological fracture	occurs in	weakened bone
+pathological fracture	is caused by	cancer metastasis
+pathological fracture	is caused by	osteoporosis
+pathological fracture	is caused by	bone infection
+pathological fracture	is caused by	metabolic bone disease
+pathological fracture	is diagnosed with	X‑ray
+pathological fracture	is diagnosed with	CT scan
+pathological fracture	is diagnosed with	MRI
+pathological fracture	is diagnosed with	bone scan
+pathological fracture	is treated with	surgical fixation
+pathological fracture	is treated with	internal fixation
+pathological fracture	is treated with	external fixation
+pathological fracture	is treated with	intramedullary nail
+pathological fracture	is treated with	plate and screws
+pathological fracture	is treated with	bone graft
+pathological fracture	is treated with	bisphosphonate
+pathological fracture	is treated with	denosumab
+pathological fracture	is treated with	radiation therapy
+pathological fracture	is treated with	chemotherapy
+pathological fracture	is treated with	targeted therapy
+pathological fracture	is treated with	hormone therapy
+pathological fracture	is treated with	pain management
+pathological fracture	is treated with	physiotherapy
+pathological fracture	is associated with	increased mortality
+pathological fracture	is associated with	reduced mobility
+pathological fracture	is associated with	higher readmission
+pathological fracture	is associated with	higher infection risk
+pathological fracture	is associated with	higher surgical complication
+pathological fracture	is associated with	higher opioid use
+pathological fracture	is associated with	higher fall risk
+pathological fracture	is associated with	higher bone turnover
+pathological fracture	is associated with	higher calcium level
+pathological fracture	is associated with	higher alkaline phosphatase
+pathological fracture	is associated with	higher vitamin D deficiency
+pathological fracture	is associated with	higher parathyroid hormone
+pathological fracture	is associated with	higher tumor burden
+pathological fracture	is associated with	higher metastatic load
+pathological fracture	is associated with	higher bone pain
+pathological fracture	is associated with	higher quality‑of‑life decline
+pathological fracture	is a risk factor for	spinal cord compression
+pathological fracture	is a risk factor for	pulmonary embolism
+pathological fracture	is a risk factor for	deep vein thrombosis
+pathological fracture	is a risk factor for	anemia
+pathological fracture	is a risk factor for	delirium
+pathological fracture	is a risk factor for	depression
+pathological fracture	is a risk factor for	malnutrition
+pathological fracture	is a risk factor for	pressure ulcer
+pathological fracture	is a risk factor for	urinary tract infection
+pathological fracture	is a risk factor for	sepsis
+pathological fracture	is a risk factor for	cardiac arrhythmia
+pathological fracture	is a risk factor for	arrhythmia
+pathological fracture	is a risk factor for	heart failure
+pathological fracture	is a risk factor for	stroke
+pathological fracture	is a risk factor for	renal failure
+pathological fracture	is a risk factor for	liver dysfunction
+pathological fracture	is a risk factor for	cognitive decline
+pathological fracture	is a risk factor for	falls
+pathological fracture	is a risk factor for	fractures in other sites
+pathological fracture	is a risk factor for	bone metastasis progression
+pathological fracture	is a risk factor for	surgical delay
+pathological fracture	is a risk factor for	prolonged hospitalization
+pathological fracture	is a risk factor for	increased healthcare cost
+pathological fracture	is a risk factor for	caregiver burden
+pathological fracture	is a risk factor for	hospice referral
+pathological fracture	is a risk factor for	early mortality
+pathological fracture	is a risk factor for	late mortality
+pathological fracture	is a risk factor for	readmission within 30 days
+pathological fracture	is a risk factor for	readmission within 90 days
+pathological fracture	is a risk factor for	readmission within 180 days
+pathological fracture	is a risk factor for	readmission within 365 days
+pathological fracture	is a risk factor for	readmission within 730 days
+pathological fracture	is a risk factor for	readmission within 1095 days
+pathological fracture	is a risk factor for	readmission within 1460 days
+pathological fracture	is a risk factor for	readmission within 1825 days
+pathological fracture	is a risk factor for	readmission within 2190 days
+pathological fracture	is a risk factor for	readmission within 2555 days
+pathological fracture	is a risk factor for	readmission within 2920 days
+pathological fracture	is a risk factor for	readmission within 3285 days
+pathological fracture	is a risk factor for	readmission within 3650 days
+pathological fracture	is a risk factor for	readmission within 4015 days
+pathological fracture	is a risk factor for	readmission within 4380 days
+pathological fracture	is a risk factor for	readmission within 4745 days
+pathological fracture	is a risk factor for	readmission within 5110 days
+pathological fracture	is a risk factor for	readmission within 5475 days
+pathological fracture	is a risk factor for	readmission within 5840 days
+pathological fracture	is a risk factor for	readmission within 6205 days
+pathological fracture	is a risk factor for	readmission within 6570 days
+pathological fracture	is a risk factor for	readmission within 6935 days
+pathological fracture	is a risk factor for	readmission within 7300 days
+pathological fracture	is a risk factor for	readmission within 7665 days
+pathological fracture	is a risk factor for	readmission within 8030 days
+pathological fracture	is a risk factor for	readmission within 8395 days
+pathological fracture	is a risk factor for	readmission within 8760 days
+pathological fracture	is a risk factor for	readmission within 9125 days
+pathological fracture	is a risk factor for	readmission within 9490 days
+pathological fracture	is a risk factor for	readmission within 9855 days
+pathological fracture	is a risk factor for	readmission within 10220 days
+pathological fracture	is a risk factor for	readmission within 10585 days
+pathological fracture	is a risk factor for	readmission within 10950 days

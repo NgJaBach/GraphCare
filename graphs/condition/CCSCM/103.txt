@@ -1,0 +1,100 @@
+pulmonary heart disease	is a	cardiac condition
+pulmonary heart disease	is caused by	lung disease
+pulmonary heart disease	leads to	right ventricular hypertrophy
+pulmonary heart disease	results in	pulmonary hypertension
+pulmonary heart disease	causes	cyanosis
+pulmonary heart disease	is associated with	dyspnea
+pulmonary heart disease	is diagnosed by	echocardiography
+pulmonary heart disease	is confirmed with	cardiac MRI
+pulmonary heart disease	is treated with	diuretics
+pulmonary heart disease	is managed by	oxygen therapy
+pulmonary heart disease	responds to	pulmonary vasodilators
+pulmonary heart disease	worsens with	smoking
+pulmonary heart disease	improves after	lung transplantation
+pulmonary heart disease	increases risk of	arrhythmia
+pulmonary heart disease	elevates	BNP levels
+pulmonary heart disease	predicts	mortality
+pulmonary heart disease	predicts	readmission
+pulmonary heart disease	is a contraindication for	high‑dose beta‑blockers
+pulmonary heart disease	is a risk factor for	venous thromboembolism
+pulmonary heart disease	is linked to	sleep apnea
+pulmonary heart disease	is associated with	chronic obstructive pulmonary disease
+pulmonary heart disease	is related to	interstitial lung disease
+pulmonary heart disease	is correlated with	pulmonary embolism
+pulmonary heart disease	is a complication of	tuberculosis
+pulmonary heart disease	is a sequela of	sarcoidosis
+pulmonary heart disease	is a result of	pulmonary fibrosis
+pulmonary heart disease	is a manifestation of	systemic sclerosis
+pulmonary heart disease	is a feature of	cystic fibrosis
+pulmonary heart disease	is a consequence of	emphysema
+pulmonary heart disease	is a result of	bronchiectasis
+pulmonary heart disease	is a complication of	pneumonia
+pulmonary heart disease	is a sequela of	COVID‑19
+pulmonary heart disease	is a risk factor for	sudden cardiac death
+pulmonary heart disease	is a predictor of	exercise intolerance
+pulmonary heart disease	is associated with	fatigue
+pulmonary heart disease	is linked to	edema
+pulmonary heart disease	is a cause of	ascites
+pulmonary heart disease	is a reason for	jugular venous distension
+pulmonary heart disease	is a factor in	right heart failure
+pulmonary heart disease	is a driver of	pulmonary vascular remodeling
+pulmonary heart disease	is a target for	endothelin receptor antagonists
+pulmonary heart disease	is treated with	phosphodiesterase‑5 inhibitors
+pulmonary heart disease	is managed by	prostacyclin analogs
+pulmonary heart disease	is improved by	atrial septostomy
+pulmonary heart disease	is reduced by	pulmonary rehabilitation
+pulmonary heart disease	is monitored with	BNP testing
+pulmonary heart disease	is evaluated by	right heart catheterization
+pulmonary heart disease	is assessed with	6‑minute walk test
+pulmonary heart disease	is correlated with	NT‑proBNP levels
+pulmonary heart disease	is a predictor of	hospitalization
+pulmonary heart disease	is a risk factor for	atrial fibrillation
+pulmonary heart disease	is a cause of	tricuspid regurgitation
+pulmonary heart disease	is a reason for	pacemaker implantation
+pulmonary heart disease	is a trigger for	ventricular tachycardia
+pulmonary heart disease	is a factor in	heart failure with preserved EF
+pulmonary heart disease	is a determinant of	quality of life
+pulmonary heart disease	is a predictor of	long‑term survival
+pulmonary heart disease	is a marker for	disease progression
+pulmonary heart disease	is associated with	anemia
+pulmonary heart disease	is linked to	malnutrition
+pulmonary heart disease	is a complication of	pulmonary hypertension
+pulmonary heart disease	is a consequence of	left heart failure
+pulmonary heart disease	is a result of	mitral valve disease
+pulmonary heart disease	is a factor in	pulmonary embolism recurrence
+pulmonary heart disease	is a predictor of	thromboembolic events
+pulmonary heart disease	is a risk factor for	stroke
+pulmonary heart disease	is a cause of	syncope
+pulmonary heart disease	is a reason for	pacemaker implantation
+pulmonary heart disease	is a driver of	systemic inflammation
+pulmonary heart disease	is a target for	anti‑inflammatory therapy
+pulmonary heart disease	is a consequence of	pulmonary fibrosis progression
+pulmonary heart disease	is a predictor of	ICU admission
+pulmonary heart disease	is a risk factor for	renal dysfunction
+pulmonary heart disease	is a cause of	hepatic congestion
+pulmonary heart disease	is a factor in	peripheral neuropathy
+pulmonary heart disease	is a determinant of	medication adherence
+pulmonary heart disease	is a predictor of	medication side effects
+pulmonary heart disease	is a marker for	frailty
+pulmonary heart disease	is a risk factor for	depression
+pulmonary heart disease	is a cause of	social isolation
+pulmonary heart disease	is a driver of	caregiver burden
+pulmonary heart disease	is a target for	digital health monitoring
+pulmonary heart disease	is a predictor of	telehealth utilization
+pulmonary heart disease	is a factor in	health‑care costs
+pulmonary heart disease	is a determinant of	insurance coverage
+pulmonary heart disease	is a risk factor for	medication non‑compliance
+pulmonary heart disease	is a cause of	polypharmacy
+pulmonary heart disease	is a driver of	polypharmacy risk
+pulmonary heart disease	is a predictor of	drug‑drug interactions
+pulmonary heart disease	is a factor in	adverse drug reactions
+pulmonary heart disease	is a target for	pharmacogenomic testing
+pulmonary heart disease	is a consequence of	drug‑induced lung injury
+pulmonary heart disease	is a risk factor for	medication‑induced hypertension
+pulmonary heart disease	is a cause of	medication‑induced edema
+pulmonary heart disease	is a predictor of	medication‑induced arrhythmia
+pulmonary heart disease	is a determinant of	medication adherence
+pulmonary heart disease	is a factor in	medication cost burden
+pulmonary heart disease	is a driver of	medication optimization
+pulmonary heart disease	is a target for	precision medicine
+pulmonary heart disease	is a predictor of	personalized treatment outcomes

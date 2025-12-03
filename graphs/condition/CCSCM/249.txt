@@ -1,0 +1,100 @@
+shock	is a	medical emergency
+shock	is caused by	hypovolemia
+shock	is caused by	cardiogenic failure
+shock	is caused by	septic infection
+shock	is caused by	anaphylaxis
+shock	is caused by	neurogenic injury
+shock	leads to	organ hypoperfusion
+shock	leads to	tissue ischemia
+shock	leads to	metabolic acidosis
+shock	leads to	lactate accumulation
+shock	leads to	arrhythmia
+shock	leads to	cardiac arrest
+shock	is treated with	fluid resuscitation
+shock	is treated with	vasopressors
+shock	is treated with	inotropes
+shock	is treated with	antibiotics
+shock	is treated with	epinephrine
+shock	is treated with	corticosteroids
+shock	is treated with	oxygen therapy
+shock	is treated with	blood transfusion
+shock	is treated with	cardiac pacing
+shock	is monitored by	lactate level
+shock	is monitored by	central venous pressure
+shock	is monitored by	urine output
+shock	is monitored by	mental status
+shock	is monitored by	arterial blood pressure
+shock	is monitored by	capillary refill time
+shock	is monitored by	skin perfusion
+shock	is monitored by	serum creatinine
+shock	is monitored by	base deficit
+shock	is associated with	myocardial dysfunction
+shock	is associated with	pulmonary edema
+shock	is associated with	renal failure
+shock	is associated with	hepatic injury
+shock	is associated with	coagulopathy
+shock	is associated with	disseminated intravascular coagulation
+shock	is associated with	cytokine storm
+shock	is associated with	endotoxin release
+shock	is associated with	complement activation
+shock	is associated with	nitric oxide overproduction
+shock	is associated with	vasodilation
+shock	is associated with	capillary leak
+shock	is associated with	capillary permeability
+shock	is associated with	fluid shift
+shock	is associated with	electrolyte imbalance
+shock	is associated with	hyperkalemia
+shock	is associated with	hypocalcemia
+shock	is associated with	hypoglycemia
+shock	is associated with	hypothermia
+shock	is associated with	hyperthermia
+shock	is associated with	tachycardia
+shock	is associated with	hypotension
+shock	is associated with	oliguria
+shock	is associated with	cyanosis
+shock	is associated with	pallor
+shock	is associated with	sweating
+shock	is associated with	anxiety
+shock	is associated with	confusion
+shock	is associated with	delirium
+shock	is associated with	seizures
+shock	is associated with	arrhythmogenic risk
+shock	is associated with	myocardial infarction
+shock	is associated with	stroke
+shock	is associated with	pulmonary embolism
+shock	is associated with	deep vein thrombosis
+shock	is associated with	infection spread
+shock	is associated with	organ failure
+shock	is associated with	mortality
+shock	is associated with	ICU admission
+shock	is associated with	prolonged hospitalization
+shock	is associated with	increased readmission
+shock	is associated with	long‑term morbidity
+shock	is associated with	cognitive decline
+shock	is associated with	depression
+shock	is associated with	PTSD
+shock	is associated with	reduced quality of life
+shock	is prevented by	early recognition
+shock	is prevented by	rapid fluid administration
+shock	is prevented by	source control
+shock	is prevented by	antibiotic stewardship
+shock	is prevented by	vaccination
+shock	is prevented by	trauma prevention
+shock	is prevented by	fall prevention
+shock	is prevented by	blood pressure monitoring
+shock	is prevented by	sepsis protocols
+shock	is prevented by	anaphylaxis protocols
+shock	is prevented by	spinal cord injury management
+shock	is prevented by	cardiac event monitoring
+shock	is prevented by	early goal‑directed therapy
+shock	is prevented by	multidisciplinary care
+shock	is predicted by	lactate trend
+shock	is predicted by	base deficit trend
+shock	is predicted by	urine output trend
+shock	is predicted by	mental status change
+shock	is predicted by	vital sign instability
+shock	is predicted by	organ dysfunction score
+shock	is predicted by	comorbidity index
+shock	is predicted by	age
+shock	is predicted by	gender
+shock	is predicted by	genetic predisposition

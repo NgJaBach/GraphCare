@@ -1,0 +1,100 @@
+hypertension	is a	cardiovascular disease
+hypertension	causes	heart failure
+hypertension	causes	stroke
+hypertension	causes	kidney disease
+hypertension	causes	atherosclerosis
+hypertension	causes	atrial fibrillation
+hypertension	causes	left ventricular hypertrophy
+hypertension	causes	retinal damage
+hypertension	causes	cognitive decline
+hypertension	is treated with	ACE inhibitors
+hypertension	is treated with	ARBs
+hypertension	is treated with	calcium channel blockers
+hypertension	is treated with	beta blockers
+hypertension	is treated with	diuretics
+hypertension	is treated with	lifestyle changes
+ACE inhibitors	reduce	proteinuria
+ARBs	reduce	proteinuria
+beta blockers	reduce	mortality
+diuretics	reduce	blood pressure
+lifestyle changes	reduce	sodium intake
+lifestyle changes	reduce	alcohol consumption
+lifestyle changes	reduce	obesity
+lifestyle changes	reduce	stress
+secondary hypertension	is caused by	renal artery stenosis
+secondary hypertension	is caused by	pheochromocytoma
+secondary hypertension	is caused by	Cushing syndrome
+secondary hypertension	is caused by	hyperthyroidism
+secondary hypertension	is caused by	coarctation of the aorta
+secondary hypertension	is caused by	sleep apnea
+secondary hypertension	is caused by	medication
+secondary hypertension	is diagnosed with	imaging
+secondary hypertension	is diagnosed with	endocrine testing
+secondary hypertension	is diagnosed with	renal function tests
+secondary hypertension	is treated with	surgical correction
+secondary hypertension	is treated with	medication adjustment
+secondary hypertension	is treated with	hormone therapy
+renal artery stenosis	is treated with	angioplasty
+renal artery stenosis	is treated with	stenting
+pheochromocytoma	is treated with	adrenalectomy
+Cushing syndrome	is treated with	pituitary surgery
+hyperthyroidism	is treated with	antithyroid drugs
+coarctation of the aorta	is treated with	patch repair
+sleep apnea	is treated with	CPAP
+sleep apnea	is treated with	weight loss
+sleep apnea	is treated with	positional therapy
+medication-induced hypertension	is caused by	NSAIDs
+medication-induced hypertension	is caused by	steroids
+medication-induced hypertension	is caused by	oral contraceptives
+medication-induced hypertension	is caused by	stimulants
+medication-induced hypertension	is treated with	drug discontinuation
+medication-induced hypertension	is treated with	dose reduction
+medication-induced hypertension	is treated with	alternative therapy
+hypertension	predicts	cardiovascular mortality
+hypertension	predicts	readmission
+hypertension	predicts	renal failure
+hypertension	predicts	cognitive impairment
+hypertension	predicts	vision loss
+hypertension	predicts	arrhythmia
+hypertension	predicts	peripheral artery disease
+hypertension	predicts	heart attack
+hypertension	predicts	stroke risk
+hypertension	predicts	hospitalization
+hypertension	predicts	medication nonadherence
+hypertension	predicts	depression
+hypertension	predicts	anxiety
+hypertension	predicts	sleep disturbance
+hypertension	predicts	metabolic syndrome
+hypertension	predicts	diabetes
+hypertension	predicts	dyslipidemia
+hypertension	predicts	obesity
+hypertension	predicts	chronic kidney disease
+hypertension	predicts	proteinuria
+hypertension	predicts	left ventricular hypertrophy
+hypertension	predicts	microalbuminuria
+hypertension	predicts	retinal microvascular changes
+hypertension	predicts	erectile dysfunction
+hypertension	predicts	sexual dysfunction
+hypertension	predicts	bone loss
+hypertension	predicts	frailty
+hypertension	predicts	falls
+hypertension	predicts	hospitalization for heart failure
+hypertension	predicts	emergency department visits
+hypertension	predicts	ICU admission
+hypertension	predicts	mortality in COVID-19
+hypertension	predicts	mortality in sepsis
+hypertension	predicts	mortality in pneumonia
+hypertension	predicts	mortality in myocardial infarction
+hypertension	predicts	mortality in stroke
+hypertension	predicts	mortality in cancer
+hypertension	predicts	mortality in chronic obstructive pulmonary disease
+hypertension	predicts	mortality in heart failure
+hypertension	predicts	mortality in chronic kidney disease
+hypertension	predicts	mortality in liver cirrhosis
+hypertension	predicts	mortality in dementia
+hypertension	predicts	mortality in osteoporosis
+hypertension	predicts	mortality in depression
+hypertension	predicts	mortality in anxiety
+hypertension	predicts	mortality in sleep apnea
+hypertension	predicts	mortality in obesity
+hypertension	predicts	mortality in metabolic syndrome

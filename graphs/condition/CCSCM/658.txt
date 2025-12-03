@@ -1,0 +1,100 @@
+personality disorder	is a	mental illness
+personality disorder	is diagnosed by	DSM‑5
+personality disorder	is classified into	cluster A
+personality disorder	is classified into	cluster B
+personality disorder	is classified into	cluster C
+cluster A	includes	paranoid personality disorder
+cluster A	includes	schizoid personality disorder
+cluster A	includes	schizotypal personality disorder
+cluster B	includes	antisocial personality disorder
+cluster B	includes	borderline personality disorder
+cluster B	includes	histrionic personality disorder
+cluster B	includes	narcissistic personality disorder
+cluster C	includes	avoidant personality disorder
+cluster C	includes	dependent personality disorder
+cluster C	includes	obsessive‑compulsive personality disorder
+borderline personality disorder	is associated with	emotional instability
+borderline personality disorder	is associated with	impulsivity
+borderline personality disorder	is associated with	self‑harm
+borderline personality disorder	is treated with	dialectical behavior therapy
+borderline personality disorder	is treated with	antipsychotics
+borderline personality disorder	is treated with	mood stabilizers
+antisocial personality disorder	is associated with	criminal behavior
+antisocial personality disorder	is associated with	lack of empathy
+antisocial personality disorder	is treated with	psychotherapy
+antisocial personality disorder	is treated with	pharmacotherapy
+paranoid personality disorder	is associated with	mistrust
+paranoid personality disorder	is associated with	suspiciousness
+paranoid personality disorder	is treated with	antipsychotics
+schizoid personality disorder	is associated with	social detachment
+schizoid personality disorder	is associated with	emotional coldness
+schizoid personality disorder	is treated with	psychotherapy
+schizotypal personality disorder	is associated with	odd beliefs
+schizotypal personality disorder	is associated with	magical thinking
+schizotypal personality disorder	is treated with	antipsychotics
+obsessive‑compulsive personality disorder	is associated with	perfectionism
+obsessive‑compulsive personality disorder	is associated with	rigidity
+obsessive‑compulsive personality disorder	is treated with	SSRIs
+obsessive‑compulsive personality disorder	is treated with	CBT
+avoidant personality disorder	is associated with	social anxiety
+avoidant personality disorder	is associated with	fear of rejection
+avoidant personality disorder	is treated with	CBT
+avoidant personality disorder	is treated with	SSRIs
+dependent personality disorder	is associated with	submissiveness
+dependent personality disorder	is associated with	need for reassurance
+dependent personality disorder	is treated with	CBT
+dependent personality disorder	is treated with	SSRIs
+personality disorder	increases risk of	suicide
+personality disorder	increases risk of	self‑harm
+personality disorder	increases risk of	substance abuse
+personality disorder	increases risk of	comorbid depression
+personality disorder	increases risk of	anxiety disorders
+personality disorder	increases risk of	borderline personality disorder
+personality disorder	increases risk of	PTSD
+personality disorder	increases risk of	eating disorders
+personality disorder	increases risk of	chronic pain
+personality disorder	is associated with	impaired functioning
+personality disorder	is associated with	occupational difficulties
+personality disorder	is associated with	relationship problems
+personality disorder	is associated with	health‑care utilization
+personality disorder	is associated with	early mortality
+personality disorder	is associated with	cardiovascular disease
+personality disorder	is associated with	metabolic syndrome
+personality disorder	is associated with	sleep disturbances
+personality disorder	is associated with	chronic inflammation
+personality disorder	is associated with	immune dysregulation
+personality disorder	is associated with	hormonal imbalance
+personality disorder	is associated with	neurochemical alterations
+personality disorder	is associated with	brain structure changes
+personality disorder	is associated with	functional connectivity changes
+personality disorder	is associated with	genetic predisposition
+personality disorder	is associated with	epigenetic modifications
+personality disorder	is associated with	early life stress
+personality disorder	is associated with	trauma exposure
+personality disorder	is associated with	attachment insecurity
+personality disorder	is associated with	parental psychopathology
+personality disorder	is associated with	socioeconomic disadvantage
+personality disorder	is associated with	cultural stigma
+personality disorder	is associated with	health‑care avoidance
+personality disorder	is associated with	medication non‑adherence
+personality disorder	is associated with	treatment dropout
+personality disorder	is associated with	therapeutic alliance challenges
+personality disorder	is associated with	diagnostic overlap
+personality disorder	is associated with	misdiagnosis
+personality disorder	is associated with	delayed treatment
+personality disorder	is associated with	higher health‑care costs
+personality disorder	is associated with	insurance denial
+personality disorder	is associated with	workplace discrimination
+personality disorder	is associated with	legal issues
+personality disorder	is associated with	caregiver burden
+personality disorder	is associated with	social isolation
+personality disorder	is associated with	reduced quality of life
+personality disorder	is associated with	increased pain perception
+personality disorder	is associated with	altered pain coping
+personality disorder	is associated with	increased analgesic use
+personality disorder	is associated with	chronic fatigue
+personality disorder	is associated with	gastrointestinal disorders
+personality disorder	is associated with	dermatologic conditions
+personality disorder	is associated with	endocrine disorders
+personality disorder	is associated with	immune‑mediated diseases
+personality disorder	is associated with	neurodegenerative risk

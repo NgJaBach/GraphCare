@@ -1,0 +1,100 @@
+repair	is a	medical procedure
+repair	performed on	obstetric laceration
+repair	reduces	bleeding
+repair	reduces	infection risk
+repair	improves	healing time
+repair	performed by	obstetrician
+repair	performed by	midwife
+repair	performed in	delivery room
+repair	performed in	operating theater
+repair	requires	suturing
+repair	requires	local anesthesia
+repair	requires	sterile technique
+repair	can be	primary closure
+repair	can be	layered closure
+repair	can be	tension-free closure
+repair	can be	delayed closure
+repair	can be	immediate closure
+repair	can be	delayed closure
+repair	can be	sutured with absorbable thread
+repair	can be	sutured with non‑absorbable thread
+repair	can be	reinforced with mesh
+repair	can be	reinforced with graft
+repair	can be	reinforced with tissue adhesive
+repair	can be	reinforced with fibrin glue
+repair	can be	reinforced with cyanoacrylate
+repair	can be	reinforced with platelet‑rich plasma
+repair	can be	reinforced with collagen matrix
+repair	can be	reinforced with synthetic scaffold
+repair	can be	reinforced with biological scaffold
+repair	can be	reinforced with autologous tissue
+repair	can be	reinforced with allograft
+repair	can be	reinforced with xenograft
+repair	can be	reinforced with synthetic mesh
+repair	can be	reinforced with absorbable mesh
+repair	can be	reinforced with non‑absorbable mesh
+repair	can be	reinforced with composite mesh
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite
+repair	can be	reinforced with bio‑absorbable composite

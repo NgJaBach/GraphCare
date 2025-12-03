@@ -1,0 +1,100 @@
+postabortion complications	are caused by	infection
+postabortion complications	are caused by	hemorrhage
+postabortion complications	are caused by	retained tissue
+postabortion complications	are caused by	uterine perforation
+postabortion complications	are caused by	cervical laceration
+postabortion complications	are caused by	shock
+postabortion complications	are caused by	sepsis
+postabortion complications	are caused by	anemia
+postabortion complications	are caused by	electrolyte imbalance
+postabortion complications	are caused by	blood transfusion reaction
+postabortion complications	are caused by	medication side effect
+postabortion complications	are caused by	anesthesia complication
+postabortion complications	are caused by	surgical error
+postabortion complications	are caused by	preexisting condition
+postabortion complications	are caused by	drug allergy
+postabortion complications	are caused by	clotting disorder
+postabortion complications	are caused by	uterine fibroid
+postabortion complications	are caused by	cervical stenosis
+postabortion complications	are caused by	uterine scar
+postabortion complications	are caused by	infection risk
+postabortion complications	are treated with	antibiotics
+postabortion complications	are treated with	blood transfusion
+postabortion complications	are treated with	surgical repair
+postabortion complications	are treated with	uterine tamponade
+postabortion complications	are treated with	hysterectomy
+postabortion complications	are treated with	uterine artery embolization
+postabortion complications	are treated with	pain management
+postabortion complications	are treated with	fluid resuscitation
+postabortion complications	are treated with	electrolyte correction
+postabortion complications	are treated with	anti‑shock therapy
+postabortion complications	are treated with	wound care
+postabortion complications	are treated with	antibiotics prophylaxis
+postabortion complications	are treated with	corticosteroids
+postabortion complications	are treated with	anticoagulation
+postabortion complications	are treated with	surgical evacuation
+postabortion complications	are treated with	uterine curettage
+postabortion complications	are treated with	hysteroscopy
+postabortion complications	are treated with	laparoscopy
+postabortion complications	are treated with	endometrial ablation
+postabortion complications	are treated with	uterine balloon
+postabortion complications	are treated with	uterine packing
+postabortion complications	are treated with	uterine compression sutures
+postabortion complications	are treated with	uterine stapling
+postabortion complications	are treated with	uterine suturing
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair
+postabortion complications	are treated with	uterine repair

@@ -1,0 +1,100 @@
+paralysis	is a	neurological deficit
+paralysis	results from	spinal cord injury
+paralysis	can be	complete
+paralysis	can be	incomplete
+paralysis	causes	muscle weakness
+paralysis	leads to	loss of sensation
+paralysis	is treated with	physical therapy
+paralysis	is treated with	occupational therapy
+paralysis	is treated with	speech therapy
+paralysis	is treated with	electrical stimulation
+paralysis	is treated with	pharmacologic agents
+paralysis	is treated with	surgery
+paralysis	is a risk factor for	pressure ulcers
+paralysis	increases risk of	pneumonia
+paralysis	increases risk of	urinary tract infection
+paralysis	increases risk of	deep vein thrombosis
+paralysis	increases risk of	autonomic dysreflexia
+paralysis	is associated with	spasticity
+paralysis	is associated with	flaccidity
+paralysis	is associated with	hyperreflexia
+paralysis	is associated with	hyporeflexia
+paralysis	is associated with	loss of bladder control
+paralysis	is associated with	loss of bowel control
+paralysis	is associated with	respiratory failure
+paralysis	is associated with	autonomic instability
+paralysis	is associated with	cardiac arrhythmia
+paralysis	is associated with	impaired mobility
+paralysis	is associated with	decreased quality of life
+paralysis	is associated with	depression
+paralysis	is associated with	anxiety
+paralysis	is associated with	caregiver burden
+paralysis	is associated with	social isolation
+paralysis	is associated with	financial strain
+paralysis	is caused by	traumatic brain injury
+paralysis	is caused by	stroke
+paralysis	is caused by	Guillain‑Barré syndrome
+paralysis	is caused by	poliomyelitis
+paralysis	is caused by	multiple sclerosis
+paralysis	is caused by	amyotrophic lateral sclerosis
+paralysis	is caused by	spinal muscular atrophy
+paralysis	is caused by	spinal cord tumor
+paralysis	is caused by	spinal cord infection
+paralysis	is caused by	demyelinating disease
+paralysis	is caused by	ischemic injury
+paralysis	is caused by	hemorrhagic injury
+paralysis	is caused by	compression fracture
+paralysis	is caused by	congenital anomaly
+paralysis	is caused by	metabolic disorder
+paralysis	is caused by	toxic exposure
+paralysis	is caused by	autoimmune disease
+paralysis	is treated with	baclofen
+paralysis	is treated with	tizanidine
+paralysis	is treated with	diazepam
+paralysis	is treated with	dantrolene
+paralysis	is treated with	botulinum toxin
+paralysis	is treated with	intrathecal baclofen pump
+paralysis	is treated with	epidural steroid
+paralysis	is treated with	methylprednisolone
+paralysis	is treated with	methylprednisolone	is a	steroid
+paralysis	is treated with	methylprednisolone	is used for	acute spinal cord injury
+paralysis	is treated with	methylprednisolone	reduces	inflammation
+paralysis	is treated with	methylprednisolone	improves	motor recovery
+paralysis	is treated with	methylprednisolone	is contraindicated in	infection
+paralysis	is treated with	methylprednisolone	dosage	30 mg/kg
+paralysis	is treated with	methylprednisolone	duration	3 days
+paralysis	is treated with	methylprednisolone	route	intravenous
+paralysis	is treated with	methylprednisolone	side effect	hyperglycemia
+paralysis	is treated with	methylprednisolone	side effect	hypertension
+paralysis	is treated with	methylprednisolone	side effect	mood change
+paralysis	is treated with	methylprednisolone	side effect	immunosuppression
+paralysis	is treated with	methylprednisolone	side effect	osteoporosis
+paralysis	is treated with	methylprednisolone	side effect	gastric ulcer
+paralysis	is treated with	methylprednisolone	side effect	weight gain
+paralysis	is treated with	methylprednisolone	side effect	insomnia
+paralysis	is treated with	methylprednisolone	side effect	increased appetite
+paralysis	is treated with	methylprednisolone	side effect	fluid retention
+paralysis	is treated with	methylprednisolone	side effect	Cushingoid appearance
+paralysis	is treated with	methylprednisolone	side effect	adrenal suppression
+paralysis	is treated with	methylprednisolone	side effect	cataract
+paralysis	is treated with	methylprednisolone	side effect	glaucoma
+paralysis	is treated with	methylprednisolone	side effect	skin thinning
+paralysis	is treated with	methylprednisolone	side effect	muscle wasting
+paralysis	is treated with	methylprednisolone	side effect	psychosis
+paralysis	is treated with	methylprednisolone	side effect	increased blood pressure
+paralysis	is treated with	methylprednisolone	side effect	increased heart rate
+paralysis	is treated with	methylprednisolone	side effect	increased blood sugar
+paralysis	is treated with	methylprednisolone	side effect	increased infection risk
+paralysis	is treated with	methylprednisolone	side effect	increased bleeding risk
+paralysis	is treated with	methylprednisolone	side effect	increased appetite
+paralysis	is treated with	methylprednisolone	side effect	increased thirst
+paralysis	is treated with	methylprednisolone	side effect	increased urination
+paralysis	is treated with	methylprednisolone	side effect	increased sweating
+paralysis	is treated with	methylprednisolone	side effect	increased anxiety
+paralysis	is treated with	methylprednisolone	side effect	increased irritability
+paralysis	is treated with	methylprednisolone	side effect	increased insomnia
+paralysis	is treated with	methylprednisolone	side effect	increased appetite
+paralysis	is treated with	methylprednisolone	side effect	increased weight
+paralysis	is treated with	methylprednisolone	side effect	increased blood pressure
+paralysis	is treated with	methylprednisolone	side effect	increased heart rate
+paralysis	is treated with	methylprednisolone	side effect	increased blood sugar

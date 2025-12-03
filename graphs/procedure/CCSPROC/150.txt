@@ -1,0 +1,100 @@
+joint capsule	encloses	joint
+joint capsule	is made of	fibrous tissue
+joint capsule	contains	synovial fluid
+joint capsule	provides	joint stability
+joint capsule	limits	joint motion
+joint capsule	is attached to	bone
+joint capsule	is attached to	cartilage
+joint capsule	is attached to	ligament
+joint capsule	is divided by	joint line
+joint line	separates	articular surfaces
+joint line	is a type of	joint capsule division
+joint capsule division	is a type of	joint capsule
+joint capsule division	is a type of	ligament
+joint capsule division	is a type of	cartilage
+joint capsule division	can be	intra-articular
+joint capsule division	can be	extra-articular
+joint capsule division	is located at	joint space
+joint capsule division	is associated with	joint injury
+joint capsule division	is associated with	joint instability
+joint capsule division	is associated with	osteoarthritis
+joint capsule division	is associated with	rheumatoid arthritis
+joint capsule division	is associated with	meniscal tear
+joint capsule division	is associated with	ligament sprain
+joint capsule division	is associated with	cartilage degeneration
+joint capsule division	is associated with	synovitis
+joint capsule division	is associated with	joint effusion
+joint capsule division	is associated with	joint pain
+joint capsule division	is associated with	swelling
+joint capsule division	is associated with	limited range of motion
+joint capsule division	is associated with	joint stiffness
+joint capsule division	is associated with	joint hypermobility
+joint capsule division	is associated with	joint laxity
+joint capsule division	is associated with	joint contracture
+joint capsule division	is associated with	joint dislocation
+joint capsule division	is associated with	joint subluxation
+joint capsule division	is associated with	joint instability
+joint capsule division	is associated with	joint degeneration
+joint capsule division	is associated with	joint inflammation
+joint capsule division	is associated with	joint infection
+joint capsule division	is associated with	joint trauma
+joint capsule division	is associated with	joint surgery
+joint capsule division	is associated with	joint replacement
+joint capsule division	is associated with	joint arthroscopy
+joint capsule division	is associated with	joint imaging
+joint capsule division	is associated with	joint MRI
+joint capsule division	is associated with	joint ultrasound
+joint capsule division	is associated with	joint CT
+joint capsule division	is associated with	joint X‑ray
+joint capsule division	is associated with	joint arthrography
+joint capsule division	is associated with	joint aspiration
+joint capsule division	is associated with	joint lavage
+joint capsule division	is associated with	joint injection
+joint capsule division	is associated with	joint steroid injection
+joint capsule division	is associated with	joint hyaluronic acid injection
+joint capsule division	is associated with	joint physiotherapy
+joint capsule division	is associated with	joint rehabilitation
+joint capsule division	is associated with	joint exercise
+joint capsule division	is associated with	joint strengthening
+joint capsule division	is associated with	joint mobilization
+joint capsule division	is associated with	joint manipulation
+joint capsule division	is associated with	joint bracing
+joint capsule division	is associated with	joint splinting
+joint capsule division	is associated with	joint immobilization
+joint capsule division	is associated with	joint pain management
+joint capsule division	is associated with	joint analgesia
+joint capsule division	is associated with	joint anti‑inflammatory therapy
+joint capsule division	is associated with	joint disease progression
+joint capsule division	is associated with	joint functional decline
+joint capsule division	is associated with	joint quality of life
+joint capsule division	is associated with	joint mortality risk
+joint capsule division	is associated with	joint readmission risk
+joint capsule division	is associated with	joint surgical outcome
+joint capsule division	is associated with	joint postoperative complications
+joint capsule division	is associated with	joint infection risk
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis failure
+joint capsule division	is associated with	joint prosthesis infection
+joint capsule division	is associated with	joint prosthesis wear
+joint capsule division	is associated with	joint prosthesis revision
+joint capsule division	is associated with	joint prosthesis dislocation
+joint capsule division	is associated with	joint prosthesis instability
+joint capsule division	is associated with	joint prosthesis pain
+joint capsule division	is associated with	joint prosthesis stiffness
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening
+joint capsule division	is associated with	joint prosthesis loosening

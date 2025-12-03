@@ -1,0 +1,100 @@
+fracture	is a	bone injury
+dislocation	is a	joint injury
+hip fracture	is a	femoral fracture
+femur fracture	is a	long bone fracture
+hip dislocation	is a	joint dislocation
+treatment	is a	medical intervention
+treatment	is applied to	fracture
+treatment	is applied to	dislocation
+surgical fixation	is a	treatment
+internal fixation	is a	surgical fixation
+external fixation	is a	surgical fixation
+arthroplasty	is a	surgical treatment
+osteosynthesis	is a	surgical fixation
+closed reduction	is a	treatment
+open reduction	is a	treatment
+immobilization	is a	non‑surgical treatment
+cast	is a	immobilization device
+splint	is a	immobilization device
+brace	is a	immobilization device
+physical therapy	is a	rehabilitation treatment
+rehabilitation	is a	post‑treatment care
+pain management	is a	treatment component
+analgesics	are used for	pain management
+NSAIDs	are used for	pain management
+opioids	are used for	pain management
+antibiotics	are used for	infection prevention
+antibiotics	are used in	surgical fixation
+blood transfusion	is a	perioperative support
+thromboprophylaxis	is a	perioperative support
+heparin	is a	thromboprophylaxis
+low‑molecular‑weight heparin	is a	thromboprophylaxis
+compression stockings	are used for	thromboprophylaxis
+early mobilization	is a	rehabilitation strategy
+early mobilization	reduces	complications
+complications	include	infection
+complications	include	thromboembolism
+complications	include	malunion
+complications	include	non‑union
+complications	include	hardware failure
+mortality	increases with	hip fracture
+mortality	increases with	elderly patients
+mortality	decreases with	early surgery
+mortality	decreases with	multidisciplinary care
+readmission	is a	post‑discharge event
+readmission	is predicted by	comorbidities
+readmission	is predicted by	functional status
+readmission	is predicted by	social support
+readmission	is predicted by	discharge planning
+readmission	is reduced by	home health services
+readmission	is reduced by	patient education
+discharge planning	includes	medication reconciliation
+discharge planning	includes	follow‑up appointments
+discharge planning	includes	home safety assessment
+medication reconciliation	reduces	medication errors
+follow‑up appointments	reduce	complications
+home safety assessment	reduces	falls
+falls	increase	fracture risk
+fracture risk	is increased by	osteoporosis
+osteoporosis	is treated with	bisphosphonates
+bisphosphonates	are used for	osteoporosis
+osteoporosis	is diagnosed with	DEXA scan
+DEXA scan	is a	diagnostic test
+diagnostic test	is used for	osteoporosis
+diagnostic test	is used for	fracture risk assessment
+fracture risk assessment	is used for	treatment planning
+treatment planning	includes	surgical timing
+surgical timing	is critical for	mortality
+surgical timing	is critical for	functional outcome
+functional outcome	is measured by	gait speed
+functional outcome	is measured by	Timed Up and Go
+gait speed	predicts	mortality
+Timed Up and Go	predicts	readmission
+readmission	is associated with	delirium
+delirium	is prevented by	early mobilization
+delirium	is prevented by	sleep hygiene
+sleep hygiene	is part of	discharge planning
+discharge planning	is coordinated by	case manager
+case manager	coordinates	multidisciplinary care
+multidisciplinary care	includes	orthopedist
+multidisciplinary care	includes	geriatrician
+multidisciplinary care	includes	physiotherapist
+orthopedist	performs	surgical fixation
+geriatrician	manages	comorbidities
+physiotherapist	provides	physical therapy
+physical therapy	improves	muscle strength
+muscle strength	improves	gait speed
+muscle strength	reduces	fall risk
+fall risk	reduces	fracture risk
+fracture risk	reduces	mortality
+mortality	is reduced by	nutritional support
+nutritional support	includes	protein supplementation
+protein supplementation	improves	healing
+healing	reduces	non‑union
+non‑union	increases	readmission
+readmission	is reduced by	patient education
+patient education	includes	medication adherence
+medication adherence	reduces	complications
+complications	reduce	functional outcome
+functional outcome	is a predictor of	quality of life
+quality of life	is improved by	successful treatment

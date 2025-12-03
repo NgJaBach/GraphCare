@@ -1,0 +1,100 @@
+liver cancer	is a	malignancy
+intrahepatic bile duct cancer	is a	malignancy
+liver cancer	originates in	hepatocytes
+intrahepatic bile duct cancer	originates in	cholangiocytes
+liver cancer	is diagnosed with	imaging
+intrahepatic bile duct cancer	is diagnosed with	imaging
+liver cancer	is staged by	TNM system
+intrahepatic bile duct cancer	is staged by	TNM system
+liver cancer	is treated with	resection
+intrahepatic bile duct cancer	is treated with	resection
+liver cancer	is treated with	ablation
+intrahepatic bile duct cancer	is treated with	ablation
+liver cancer	is treated with	chemoembolization
+intrahepatic bile duct cancer	is treated with	chemoembolization
+liver cancer	is treated with	systemic chemotherapy
+intrahepatic bile duct cancer	is treated with	systemic chemotherapy
+liver cancer	is treated with	targeted therapy
+intrahepatic bile duct cancer	is treated with	targeted therapy
+liver cancer	is treated with	immunotherapy
+intrahepatic bile duct cancer	is treated with	immunotherapy
+liver cancer	is associated with	hepatitis B
+intrahepatic bile duct cancer	is associated with	hepatitis B
+liver cancer	is associated with	hepatitis C
+intrahepatic bile duct cancer	is associated with	hepatitis C
+liver cancer	is associated with	alcohol use
+intrahepatic bile duct cancer	is associated with	alcohol use
+liver cancer	is associated with	cirrhosis
+intrahepatic bile duct cancer	is associated with	cirrhosis
+liver cancer	is associated with	non‑alcoholic fatty liver disease
+intrahepatic bile duct cancer	is associated with	non‑alcoholic fatty liver disease
+liver cancer	is associated with	aflatoxin exposure
+intrahepatic bile duct cancer	is associated with	aflatoxin exposure
+liver cancer	is associated with	obesity
+intrahepatic bile duct cancer	is associated with	obesity
+liver cancer	is associated with	diabetes
+intrahepatic bile duct cancer	is associated with	diabetes
+liver cancer	is associated with	gallstones
+intrahepatic bile duct cancer	is associated with	gallstones
+liver cancer	is associated with	primary sclerosing cholangitis
+intrahepatic bile duct cancer	is associated with	primary sclerosing cholangitis
+liver cancer	has biomarker	alpha‑fetoprotein
+intrahepatic bile duct cancer	has biomarker	CA 19‑9
+liver cancer	has biomarker	des‑γ‑carboxyprothrombin
+intrahepatic bile duct cancer	has biomarker	cytokeratin 19
+liver cancer	has biomarker	GPC‑3
+intrahepatic bile duct cancer	has biomarker	MUC‑1
+liver cancer	is treated with	sorafenib
+intrahepatic bile duct cancer	is treated with	gemcitabine
+liver cancer	is treated with	lenvatinib
+intrahepatic bile duct cancer	is treated with	cisplatin
+liver cancer	is treated with	regorafenib
+intrahepatic bile duct cancer	is treated with	FOLFOX
+liver cancer	is treated with	bevacizumab
+intrahepatic bile duct cancer	is treated with	pembrolizumab
+liver cancer	is treated with	nivolumab
+intrahepatic bile duct cancer	is treated with	ipilimumab
+liver cancer	is treated with	radiation
+intrahepatic bile duct cancer	is treated with	radiation
+liver cancer	is treated with	liver transplant
+intrahepatic bile duct cancer	is treated with	liver transplant
+liver cancer	is monitored with	AFP levels
+intrahepatic bile duct cancer	is monitored with	CA 19‑9 levels
+liver cancer	is monitored with	imaging
+intrahepatic bile duct cancer	is monitored with	imaging
+liver cancer	has risk factor	viral hepatitis
+intrahepatic bile duct cancer	has risk factor	viral hepatitis
+liver cancer	has risk factor	metabolic syndrome
+intrahepatic bile duct cancer	has risk factor	metabolic syndrome
+liver cancer	has risk factor	chronic inflammation
+intrahepatic bile duct cancer	has risk factor	chronic inflammation
+liver cancer	has prognosis	poor
+intrahepatic bile duct cancer	has prognosis	poor
+liver cancer	leads to	portal hypertension
+intrahepatic bile duct cancer	leads to	jaundice
+liver cancer	leads to	ascites
+intrahepatic bile duct cancer	leads to	pruritus
+liver cancer	leads to	hepatic failure
+intrahepatic bile duct cancer	leads to	hepatic failure
+liver cancer	causes	weight loss
+intrahepatic bile duct cancer	causes	weight loss
+liver cancer	causes	fatigue
+intrahepatic bile duct cancer	causes	fatigue
+liver cancer	causes	abdominal pain
+intrahepatic bile duct cancer	causes	abdominal pain
+liver cancer	causes	nausea
+intrahepatic bile duct cancer	causes	nausea
+liver cancer	causes	vomiting
+intrahepatic bile duct cancer	causes	vomiting
+liver cancer	causes	anorexia
+intrahepatic bile duct cancer	causes	anorexia
+liver cancer	is treated with	TACE
+intrahepatic bile duct cancer	is treated with	TACE
+liver cancer	is treated with	RFA
+intrahepatic bile duct cancer	is treated with	RFA
+liver cancer	is treated with	SIRT
+intrahepatic bile duct cancer	is treated with	SIRT
+liver cancer	is treated with	liver‑directed therapy
+intrahepatic bile duct cancer	is treated with	liver‑directed therapy
+liver cancer	is treated with	palliative care
+intrahepatic bile duct cancer	is treated with	palliative care

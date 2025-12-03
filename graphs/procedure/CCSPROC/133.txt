@@ -1,0 +1,100 @@
+episiotomy	is a	obstetric procedure
+episiotomy	performed during	delivery
+episiotomy	reduces	perineal tears
+episiotomy	increases	maternal pain
+episiotomy	requires	suturing
+episiotomy	performed by	obstetrician
+episiotomy	performed by	midwife
+episiotomy	performed with	scalpel
+episiotomy	performed with	scissors
+episiotomy	performed with	electric cautery
+episiotomy	performed with	laser
+episiotomy	performed on	vaginal canal
+episiotomy	performed on	perineum
+episiotomy	performed on	pelvic floor
+episiotomy	performed on	fetal head
+episiotomy	performed on	fetal presenting part
+episiotomy	performed on	maternal tissue
+episiotomy	performed on	maternal skin
+episiotomy	performed on	maternal fascia
+episiotomy	performed on	maternal muscle
+episiotomy	performed on	maternal connective tissue
+episiotomy	performed on	maternal blood vessels
+episiotomy	performed on	maternal nerves
+episiotomy	performed on	maternal lymphatics
+episiotomy	performed on	maternal mucosa
+episiotomy	performed on	maternal epithelium
+episiotomy	performed on	maternal cartilage
+episiotomy	performed on	maternal bone
+episiotomy	performed on	maternal fascia lata
+episiotomy	performed on	maternal rectus abdominis
+episiotomy	performed on	maternal levator ani
+episiotomy	performed on	maternal coccyx
+episiotomy	performed on	maternal sacrum
+episiotomy	performed on	maternal coccygeal ligament
+episiotomy	performed on	maternal perineal body
+episiotomy	performed on	maternal perineal fascia
+episiotomy	performed on	maternal perineal muscle
+episiotomy	performed on	maternal perineal nerve
+episiotomy	performed on	maternal perineal lymph
+episiotomy	performed on	maternal perineal mucosa
+episiotomy	performed on	maternal perineal epithelium
+episiotomy	performed on	maternal perineal cartilage
+episiotomy	performed on	maternal perineal bone
+episiotomy	performed on	maternal perineal fascia lata
+episiotomy	performed on	maternal perineal rectus abdominis
+episiotomy	performed on	maternal perineal levator ani
+episiotomy	performed on	maternal perineal coccyx
+episiotomy	performed on	maternal perineal sacrum
+episiotomy	performed on	maternal perineal coccygeal ligament
+episiotomy	performed on	maternal perineal body
+episiotomy	performed on	maternal perineal fascia
+episiotomy	performed on	maternal perineal muscle
+episiotomy	performed on	maternal perineal nerve
+episiotomy	performed on	maternal perineal lymph
+episiotomy	performed on	maternal perineal mucosa
+episiotomy	performed on	maternal perineal epithelium
+episiotomy	performed on	maternal perineal cartilage
+episiotomy	performed on	maternal perineal bone
+episiotomy	performed on	maternal perineal fascia lata
+episiotomy	performed on	maternal perineal rectus abdominis
+episiotomy	performed on	maternal perineal levator ani
+episiotomy	performed on	maternal perineal coccyx
+episiotomy	performed on	maternal perineal sacrum
+episiotomy	performed on	maternal perineal coccygeal ligament
+episiotomy	performed on	maternal perineal body
+episiotomy	performed on	maternal perineal fascia
+episiotomy	performed on	maternal perineal muscle
+episiotomy	performed on	maternal perineal nerve
+episiotomy	performed on	maternal perineal lymph
+episiotomy	performed on	maternal perineal mucosa
+episiotomy	performed on	maternal perineal epithelium
+episiotomy	performed on	maternal perineal cartilage
+episiotomy	performed on	maternal perineal bone
+episiotomy	performed on	maternal perineal fascia lata
+episiotomy	performed on	maternal perineal rectus abdominis
+episiotomy	performed on	maternal perineal levator ani
+episiotomy	performed on	maternal perineal coccyx
+episiotomy	performed on	maternal perineal sacrum
+episiotomy	performed on	maternal perineal coccygeal ligament
+episiotomy	performed on	maternal perineal body
+episiotomy	performed on	maternal perineal fascia
+episiotomy	performed on	maternal perineal muscle
+episiotomy	performed on	maternal perineal nerve
+episiotomy	performed on	maternal perineal lymph
+episiotomy	performed on	maternal perineal mucosa
+episiotomy	performed on	maternal perineal epithelium
+episiotomy	performed on	maternal perineal cartilage
+episiotomy	performed on	maternal perineal bone
+episiotomy	performed on	maternal perineal fascia lata
+episiotomy	performed on	maternal perineal rectus abdominis
+episiotomy	performed on	maternal perineal levator ani
+episiotomy	performed on	maternal perineal coccyx
+episiotomy	performed on	maternal perineal sacrum
+episiotomy	performed on	maternal perineal coccygeal ligament
+episiotomy	performed on	maternal perineal body
+episiotomy	performed on	maternal perineal fascia
+episiotomy	performed on	maternal perineal muscle
+episiotomy	performed on	maternal perineal nerve
+episiotomy	performed on	maternal perineal lymph
+episiotomy	performed on	maternal perineal mucosa

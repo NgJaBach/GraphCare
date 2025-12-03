@@ -1,0 +1,100 @@
+rheumatoid arthritis	is an	autoimmune disease
+rheumatoid arthritis	causes	joint pain
+rheumatoid arthritis	causes	joint swelling
+rheumatoid arthritis	causes	morning stiffness
+rheumatoid arthritis	causes	fatigue
+rheumatoid arthritis	causes	rheumatoid nodules
+rheumatoid arthritis	causes	anemia
+rheumatoid arthritis	causes	osteoporosis
+rheumatoid arthritis	causes	lung fibrosis
+rheumatoid arthritis	causes	cardiovascular disease
+rheumatoid arthritis	causes	eye inflammation
+rheumatoid arthritis	causes	skin rash
+rheumatoid arthritis	causes	hearing loss
+rheumatoid arthritis	causes	depression
+rheumatoid arthritis	causes	anemia of chronic disease
+rheumatoid arthritis	causes	increased mortality
+rheumatoid arthritis	is diagnosed with	rheumatoid factor
+rheumatoid arthritis	is diagnosed with	anti-CCP
+rheumatoid arthritis	is diagnosed with	ESR
+rheumatoid arthritis	is diagnosed with	CRP
+rheumatoid arthritis	is diagnosed with	joint ultrasound
+rheumatoid arthritis	is diagnosed with	MRI
+rheumatoid arthritis	is diagnosed with	X‑ray
+rheumatoid arthritis	is treated with	methotrexate
+rheumatoid arthritis	is treated with	sulfasalazine
+rheumatoid arthritis	is treated with	hydroxychloroquine
+rheumatoid arthritis	is treated with	leflunomide
+rheumatoid arthritis	is treated with	biologics
+rheumatoid arthritis	is treated with	TNF‑α inhibitors
+rheumatoid arthritis	is treated with	IL‑6 inhibitors
+rheumatoid arthritis	is treated with	JAK inhibitors
+rheumatoid arthritis	is treated with	corticosteroids
+rheumatoid arthritis	is treated with	NSAIDs
+rheumatoid arthritis	is treated with	analgesics
+rheumatoid arthritis	is treated with	physiotherapy
+rheumatoid arthritis	is treated with	occupational therapy
+rheumatoid arthritis	is treated with	surgery
+rheumatoid arthritis	is treated with	total joint replacement
+rheumatoid arthritis	is treated with	joint fusion
+rheumatoid arthritis	is treated with	intra‑articular steroid
+rheumatoid arthritis	is treated with	disease‑modifying antirheumatic drugs
+rheumatoid arthritis	is treated with	biologic DMARDs
+rheumatoid arthritis	is treated with	synthetic DMARDs
+rheumatoid arthritis	is treated with	targeted synthetic DMARDs
+rheumatoid arthritis	is treated with	immunosuppressants
+rheumatoid arthritis	is treated with	biologic therapy
+rheumatoid arthritis	is treated with	combination therapy
+rheumatoid arthritis	is treated with	glucocorticoids
+rheumatoid arthritis	is treated with	pain management
+rheumatoid arthritis	is treated with	lifestyle changes
+rheumatoid arthritis	is treated with	diet
+rheumatoid arthritis	is treated with	exercise
+rheumatoid arthritis	is treated with	smoking cessation
+rheumatoid arthritis	is treated with	weight control
+rheumatoid arthritis	is treated with	stress reduction
+rheumatoid arthritis	is treated with	vitamin D
+rheumatoid arthritis	is treated with	calcium
+rheumatoid arthritis	is treated with	omega‑3 fatty acids
+rheumatoid arthritis	is treated with	glucosamine
+rheumatoid arthritis	is treated with	chondroitin
+rheumatoid arthritis	is treated with	acupuncture
+rheumatoid arthritis	is treated with	massage
+rheumatoid arthritis	is treated with	heat therapy
+rheumatoid arthritis	is treated with	cold therapy
+rheumatoid arthritis	is treated with	splinting
+rheumatoid arthritis	is treated with	orthotics
+rheumatoid arthritis	is treated with	assistive devices
+rheumatoid arthritis	is treated with	patient education
+rheumatoid arthritis	is treated with	support groups
+rheumatoid arthritis	is treated with	telehealth
+rheumatoid arthritis	is treated with	home monitoring
+rheumatoid arthritis	is treated with	disease activity score
+rheumatoid arthritis	is treated with	remission induction
+rheumatoid arthritis	is treated with	flare prevention
+rheumatoid arthritis	is treated with	tapering steroids
+rheumatoid arthritis	is treated with	drug monitoring
+rheumatoid arthritis	is treated with	laboratory monitoring
+rheumatoid arthritis	is treated with	imaging follow‑up
+rheumatoid arthritis	is treated with	patient‑reported outcomes
+rheumatoid arthritis	is treated with	health‑related quality of life
+rheumatoid arthritis	is treated with	cost‑effective care
+rheumatoid arthritis	is treated with	personalized medicine
+rheumatoid arthritis	is treated with	pharmacogenomics
+rheumatoid arthritis	is treated with	biomarker‑guided therapy
+rheumatoid arthritis	is treated with	early intervention
+rheumatoid arthritis	is treated with	aggressive therapy
+rheumatoid arthritis	is treated with	treat‑to‑target
+rheumatoid arthritis	is treated with	remission maintenance
+rheumatoid arthritis	is treated with	drug discontinuation
+rheumatoid arthritis	is treated with	drug switching
+rheumatoid arthritis	is treated with	drug combination
+rheumatoid arthritis	is treated with	drug sequencing
+rheumatoid arthritis	is treated with	drug safety
+rheumatoid arthritis	is treated with	drug efficacy
+rheumatoid arthritis	is treated with	drug resistance
+rheumatoid arthritis	is treated with	drug monitoring
+rheumatoid arthritis	is treated with	drug adherence
+rheumatoid arthritis	is treated with	drug side‑effects
+rheumatoid arthritis	is treated with	drug interactions
+rheumatoid arthritis	is treated with	drug cost

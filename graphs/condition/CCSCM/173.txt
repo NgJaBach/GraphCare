@@ -1,0 +1,100 @@
+menopausal disorders	are	endocrine disorders
+menopausal disorders	involve	estrogen decline
+menopausal disorders	involve	progesterone decline
+menopausal disorders	cause	hot flashes
+menopausal disorders	cause	night sweats
+menopausal disorders	cause	mood swings
+menopausal disorders	cause	insomnia
+menopausal disorders	cause	vaginal dryness
+menopausal disorders	cause	urinary urgency
+menopausal disorders	cause	osteoporosis
+menopausal disorders	cause	cardiovascular risk
+menopausal disorders	cause	cognitive decline
+menopausal disorders	cause	depression
+menopausal disorders	cause	anxiety
+menopausal disorders	cause	weight gain
+menopausal disorders	cause	hair loss
+menopausal disorders	cause	skin dryness
+menopausal disorders	cause	decreased libido
+menopausal disorders	cause	memory loss
+menopausal disorders	cause	fatigue
+menopausal disorders	are	age‑related
+menopausal disorders	are	reversible
+menopausal disorders	are	treatable
+menopausal disorders	are	common
+menopausal disorders	are	under‑diagnosed
+menopausal disorders	are	linked to	thyroid dysfunction
+menopausal disorders	are	linked to	sleep apnea
+menopausal disorders	are	linked to	metabolic syndrome
+menopausal disorders	are	linked to	depression
+menopausal disorders	are	linked to	anxiety
+menopausal disorders	are	linked to	cardiovascular disease
+menopausal disorders	are	linked to	osteoporosis
+menopausal disorders	are	linked to	breast cancer
+menopausal disorders	are	linked to	endometrial cancer
+menopausal disorders	are	linked to	stroke
+menopausal disorders	are	linked to	dementia
+menopausal disorders	are	linked to	urinary incontinence
+menopausal disorders	are	linked to	sexual dysfunction
+menopausal disorders	are	linked to	weight gain
+menopausal disorders	are	linked to	anxiety
+menopausal disorders	are	linked to	depression
+menopausal disorders	are	linked to	sleep disorders
+menopausal disorders	are	linked to	metabolic syndrome
+menopausal disorders	are	linked to	cardiovascular risk
+menopausal disorders	are	linked to	bone loss
+menopausal disorders	are	linked to	cognitive decline
+menopausal disorders	are	linked to	urinary urgency
+menopausal disorders	are	linked to	vaginal dryness
+menopausal disorders	are	linked to	hot flashes
+menopausal disorders	are	linked to	night sweats
+menopausal disorders	are	linked to	mood swings
+menopausal disorders	are	linked to	insomnia
+menopausal disorders	are	linked to	fatigue
+menopausal disorders	are	linked to	hair loss
+menopausal disorders	are	linked to	skin dryness
+menopausal disorders	are	linked to	decreased libido
+menopausal disorders	are	linked to	memory loss
+menopausal disorders	are	linked to	weight gain
+menopausal disorders	are	linked to	depression
+menopausal disorders	are	linked to	anxiety
+menopausal disorders	are	linked to	cardiovascular disease
+menopausal disorders	are	linked to	osteoporosis
+menopausal disorders	are	linked to	breast cancer
+menopausal disorders	are	linked to	endometrial cancer
+menopausal disorders	are	linked to	stroke
+menopausal disorders	are	linked to	dementia
+menopausal disorders	are	linked to	urinary incontinence
+menopausal disorders	are	linked to	sexual dysfunction
+menopausal disorders	are	linked to	weight gain
+menopausal disorders	are	linked to	anxiety
+menopausal disorders	are	linked to	depression
+menopausal disorders	are	linked to	sleep disorders
+menopausal disorders	are	linked to	metabolic syndrome
+menopausal disorders	are	linked to	cardiovascular risk
+menopausal disorders	are	linked to	bone loss
+menopausal disorders	are	linked to	cognitive decline
+menopausal disorders	are	linked to	urinary urgency
+menopausal disorders	are	linked to	vaginal dryness
+menopausal disorders	are	linked to	hot flashes
+menopausal disorders	are	linked to	night sweats
+menopausal disorders	are	linked to	mood swings
+menopausal disorders	are	linked to	insomnia
+menopausal disorders	are	linked to	fatigue
+menopausal disorders	are	linked to	hair loss
+menopausal disorders	are	linked to	skin dryness
+menopausal disorders	are	linked to	decreased libido
+menopausal disorders	are	linked to	memory loss
+menopausal disorders	are	linked to	weight gain
+menopausal disorders	are	linked to	depression
+menopausal disorders	are	linked to	anxiety
+menopausal disorders	are	linked to	cardiovascular disease
+menopausal disorders	are	linked to	osteoporosis
+menopausal disorders	are	treated with	hormone therapy
+menopausal disorders	are	treated with	selective estrogen receptor modulators
+menopausal disorders	are	treated with	antidepressants
+menopausal disorders	are	treated with	benzodiazepines
+menopausal disorders	are	treated with	lifestyle changes
+menopausal disorders	are	treated with	exercise
+menopausal disorders	are	treated with	diet
+menopausal disorders	are	treated with	sleep hygiene

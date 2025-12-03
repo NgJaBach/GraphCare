@@ -1,0 +1,100 @@
+disorders of teeth and jaw	is a	dental condition
+disorders of teeth and jaw	includes	tooth decay
+disorders of teeth and jaw	includes	gum disease
+disorders of teeth and jaw	includes	jaw fracture
+disorders of teeth and jaw	includes	temporomandibular joint disorder
+tooth decay	is caused by	bacterial plaque
+gum disease	is caused by	periodontal bacteria
+jaw fracture	is caused by	trauma
+temporomandibular joint disorder	is caused by	joint inflammation
+tooth decay	leads to	tooth pain
+gum disease	leads to	bleeding gums
+jaw fracture	leads to	facial swelling
+temporomandibular joint disorder	leads to	jaw clicking
+tooth decay	is treated with	dental fillings
+gum disease	is treated with	scaling
+jaw fracture	is treated with	surgical fixation
+temporomandibular joint disorder	is treated with	physiotherapy
+tooth decay	increases risk of	systemic infection
+gum disease	increases risk of	cardiovascular disease
+jaw fracture	increases risk of	airway obstruction
+temporomandibular joint disorder	increases risk of	chronic pain
+tooth decay	is diagnosed by	dental X-ray
+gum disease	is diagnosed by	periodontal probing
+jaw fracture	is diagnosed by	CT scan
+temporomandibular joint disorder	is diagnosed by	MRI
+tooth decay	is associated with	poor oral hygiene
+gum disease	is associated with	smoking
+jaw fracture	is associated with	sports injury
+temporomandibular joint disorder	is associated with	bruxism
+tooth decay	is prevented by	fluoride
+gum disease	is prevented by	regular brushing
+jaw fracture	is prevented by	protective gear
+temporomandibular joint disorder	is prevented by	stress management
+tooth decay	is a risk factor for	dental abscess
+gum disease	is a risk factor for	tooth loss
+jaw fracture	is a risk factor for	malocclusion
+temporomandibular joint disorder	is a risk factor for	headache
+tooth decay	is a complication of	diabetes
+gum disease	is a complication of	osteoporosis
+jaw fracture	is a complication of	osteopenia
+temporomandibular joint disorder	is a complication of	arthritis
+tooth decay	is treated with	antibiotics
+gum disease	is treated with	antibiotics
+jaw fracture	is treated with	pain medication
+temporomandibular joint disorder	is treated with	occlusal splint
+tooth decay	is associated with	high sugar intake
+gum disease	is associated with	hormonal changes
+jaw fracture	is associated with	bone density loss
+temporomandibular joint disorder	is associated with	trauma
+tooth decay	is linked to	dental caries
+gum disease	is linked to	periodontitis
+jaw fracture	is linked to	maxillofacial injury
+temporomandibular joint disorder	is linked to	TMJ pain
+tooth decay	is a predictor of	poor nutrition
+gum disease	is a predictor of	systemic inflammation
+jaw fracture	is a predictor of	functional impairment
+temporomandibular joint disorder	is a predictor of	sleep apnea
+tooth decay	is a marker for	socioeconomic status
+gum disease	is a marker for	immune status
+jaw fracture	is a marker for	high-risk occupation
+temporomandibular joint disorder	is a marker for	psychological stress
+tooth decay	is a cause of	tooth extraction
+gum disease	is a cause of	tooth extraction
+jaw fracture	is a cause of	facial asymmetry
+temporomandibular joint disorder	is a cause of	jaw stiffness
+tooth decay	is a result of	enamel erosion
+gum disease	is a result of	gingival recession
+jaw fracture	is a result of	bone fragility
+temporomandibular joint disorder	is a result of	joint degeneration
+tooth decay	is a factor in	oral cancer risk
+gum disease	is a factor in	oral cancer risk
+jaw fracture	is a factor in	facial trauma severity
+temporomandibular joint disorder	is a factor in	masticatory dysfunction
+tooth decay	is a symptom of	dental caries
+gum disease	is a symptom of	periodontal disease
+jaw fracture	is a symptom of	maxillofacial injury
+temporomandibular joint disorder	is a symptom of	TMJ disorder
+tooth decay	is a treatment target for	restorative dentistry
+gum disease	is a treatment target for	periodontal therapy
+jaw fracture	is a treatment target for	maxillofacial surgery
+temporomandibular joint disorder	is a treatment target for	pain management
+tooth decay	is a risk factor for	systemic infection
+gum disease	is a risk factor for	cardiovascular disease
+jaw fracture	is a risk factor for	airway compromise
+temporomandibular joint disorder	is a risk factor for	chronic pain
+tooth decay	is associated with	low fluoride exposure
+gum disease	is associated with	poor diet
+jaw fracture	is associated with	bone disease
+temporomandibular joint disorder	is associated with	malocclusion
+tooth decay	is linked to	bacterial overgrowth
+gum disease	is linked to	inflammatory cytokines
+jaw fracture	is linked to	mechanical stress
+temporomandibular joint disorder	is linked to	joint laxity
+tooth decay	is a predictor of	future dental visits
+gum disease	is a predictor of	future periodontal treatment
+jaw fracture	is a predictor of	surgical intervention
+temporomandibular joint disorder	is a predictor of	long-term therapy
+tooth decay	is a marker for	oral hygiene habits
+gum disease	is a marker for	immune response
+jaw fracture	is a marker for	trauma severity

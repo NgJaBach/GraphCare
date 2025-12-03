@@ -1,0 +1,100 @@
+pneumonia	is a	lung infection
+pneumonia	is caused by	bacteria
+pneumonia	is caused by	viruses
+pneumonia	is caused by	fungi
+pneumonia	is caused by	aspiration
+pneumonia	is diagnosed with	chest X‑ray
+pneumonia	is diagnosed with	CT scan
+pneumonia	is diagnosed with	sputum culture
+pneumonia	is diagnosed with	blood culture
+pneumonia	is diagnosed with	pulse oximetry
+pneumonia	is treated with	antibiotics
+pneumonia	is treated with	antivirals
+pneumonia	is treated with	antifungals
+pneumonia	is treated with	oxygen therapy
+pneumonia	is treated with	corticosteroids
+pneumonia	is treated with	bronchodilators
+pneumonia	is treated with	diuretics
+pneumonia	is treated with	diuretics
+pneumonia	is treated with	antibiotics	ceftriaxone
+pneumonia	is treated with	antibiotics	azithromycin
+pneumonia	is treated with	antibiotics	amoxicillin
+pneumonia	is treated with	antibiotics	levofloxacin
+pneumonia	is treated with	antibiotics	doxycycline
+pneumonia	is treated with	antibiotics	vancomycin
+pneumonia	is treated with	antibiotics	meropenem
+pneumonia	is treated with	antibiotics	cefepime
+pneumonia	is treated with	antibiotics	piperacillin‑tazobactam
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefotaxime
+pneumonia	is treated with	antibiotics	cefazolin
+pneumonia	is treated with	antibiotics	cefdinir
+pneumonia	is treated with	antibiotics	cefpodoxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime
+pneumonia	is treated with	antibiotics	cefuroxime

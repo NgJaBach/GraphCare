@@ -1,0 +1,100 @@
+HIV infection	is a	viral disease
+HIV infection	is caused by	HIV virus
+HIV infection	transmits via	blood
+HIV infection	transmits via	semen
+HIV infection	transmits via	vaginal fluid
+HIV infection	transmits via	breast milk
+HIV infection	spreads through	unprotected sex
+HIV infection	spreads through	needle sharing
+HIV infection	leads to	immune deficiency
+HIV infection	progresses to	AIDS
+AIDS	is a stage of	HIV infection
+HIV infection	is diagnosed by	ELISA
+HIV infection	is confirmed by	Western blot
+HIV infection	is monitored by	viral load
+HIV infection	is monitored by	CD4 count
+HIV infection	is treated with	antiretroviral therapy
+Antiretroviral therapy	reduces	viral load
+Antiretroviral therapy	preserves	CD4 count
+HIV infection	increases risk of	tuberculosis
+HIV infection	increases risk of	bacterial pneumonia
+HIV infection	increases risk of	Kaposi sarcoma
+HIV infection	increases risk of	non‑Hodgkin lymphoma
+HIV infection	increases risk of	cryptococcal meningitis
+HIV infection	increases risk of	candidiasis
+HIV infection	increases risk of	herpes zoster
+HIV infection	increases risk of	oral candidiasis
+HIV infection	increases risk of	esophageal candidiasis
+HIV infection	increases risk of	pulmonary tuberculosis
+HIV infection	increases risk of	hepatitis B
+HIV infection	increases risk of	hepatitis C
+HIV infection	increases risk of	drug resistance
+HIV infection	increases risk of	cardiovascular disease
+HIV infection	increases risk of	neurocognitive disorders
+HIV infection	increases risk of	osteoporosis
+HIV infection	increases risk of	depression
+HIV infection	increases risk of	anxiety
+HIV infection	increases risk of	substance abuse
+HIV infection	increases risk of	suicide
+HIV infection	increases risk of	skin cancers
+HIV infection	increases risk of	anal cancer
+HIV infection	increases risk of	cervical cancer
+HIV infection	increases risk of	penile cancer
+HIV infection	increases risk of	oral cancers
+HIV infection	increases risk of	liver cirrhosis
+HIV infection	increases risk of	renal disease
+HIV infection	increases risk of	gastrointestinal disorders
+HIV infection	increases risk of	opportunistic infections
+HIV infection	increases risk of	malignancies
+HIV infection	increases risk of	anemia
+HIV infection	increases risk of	thrombocytopenia
+HIV infection	increases risk of	hyperlipidemia
+HIV infection	increases risk of	insulin resistance
+HIV infection	increases risk of	metabolic syndrome
+HIV infection	increases risk of	weight loss
+HIV infection	increases risk of	wasting syndrome
+HIV infection	increases risk of	fatigue
+HIV infection	increases risk of	sleep apnea
+HIV infection	increases risk of	hearing loss
+HIV infection	increases risk of	vision problems
+HIV infection	increases risk of	neuropathy
+HIV infection	increases risk of	peripheral neuropathy
+HIV infection	increases risk of	central nervous system disorders
+HIV infection	increases risk of	stroke
+HIV infection	increases risk of	myocardial infarction
+HIV infection	increases risk of	hypertension
+HIV infection	increases risk of	chronic kidney disease
+HIV infection	increases risk of	liver fibrosis
+HIV infection	increases risk of	bone marrow suppression
+HIV infection	increases risk of	anemia of chronic disease
+HIV infection	increases risk of	opportunistic fungal infections
+HIV infection	increases risk of	opportunistic viral infections
+HIV infection	increases risk of	opportunistic bacterial infections
+HIV infection	increases risk of	opportunistic parasitic infections
+HIV infection	increases risk of	drug interactions
+HIV infection	increases risk of	medication non‑adherence
+HIV infection	increases risk of	treatment failure
+HIV infection	increases risk of	mortality
+HIV infection	increases risk of	readmission
+HIV infection	increases risk of	hospitalization
+HIV infection	increases risk of	emergency department visits
+HIV infection	increases risk of	health disparities
+HIV infection	increases risk of	stigma
+HIV infection	increases risk of	discrimination
+HIV infection	increases risk of	social isolation
+HIV infection	increases risk of	economic burden
+HIV infection	increases risk of	caregiver burden
+HIV infection	increases risk of	health care costs
+HIV infection	increases risk of	medication costs
+HIV infection	increases risk of	loss of productivity
+HIV infection	increases risk of	early retirement
+HIV infection	increases risk of	comorbidities
+HIV infection	increases risk of	polypharmacy
+HIV infection	increases risk of	drug toxicity
+HIV infection	increases risk of	drug resistance mutations
+HIV infection	increases risk of	viral rebound
+HIV infection	increases risk of	transmission to partners
+HIV infection	increases risk of	mother‑to‑child transmission
+HIV infection	increases risk of	perinatal complications
+HIV infection	increases risk of	infant mortality
+HIV infection	increases risk of	neonatal opportunistic infections

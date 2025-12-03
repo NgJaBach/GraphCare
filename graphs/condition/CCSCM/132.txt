@@ -1,0 +1,100 @@
+lung disease due to external agents	is caused by	inhalation
+lung disease due to external agents	is caused by	dust
+lung disease due to external agents	is caused by	fumes
+lung disease due to external agents	is caused by	chemicals
+lung disease due to external agents	is caused by	asbestos
+lung disease due to external agents	is caused by	silica
+lung disease due to external agents	is caused by	coal
+lung disease due to external agents	is caused by	metal
+lung disease due to external agents	is caused by	mold
+lung disease due to external agents	is caused by	diesel
+lung disease due to external agents	is caused by	oil
+lung disease due to external agents	is caused by	radiation
+lung disease due to external agents	is caused by	smoke
+lung disease due to external agents	is caused by	ozone
+lung disease due to external agents	is caused by	ultraviolet
+lung disease due to external agents	is caused by	particulate
+lung disease due to external agents	is caused by	vapors
+lung disease due to external agents	is caused by	bioaerosols
+lung disease due to external agents	is a risk factor for	COPD
+lung disease due to external agents	is a risk factor for	lung cancer
+lung disease due to external agents	is a risk factor for	fibrosis
+lung disease due to external agents	is a risk factor for	emphysema
+lung disease due to external agents	is a risk factor for	pneumoconiosis
+lung disease due to external agents	is a risk factor for	silicosis
+lung disease due to external agents	is a risk factor for	asbestosis
+lung disease due to external agents	is a risk factor for	mesothelioma
+lung disease due to external agents	is a risk factor for	bronchitis
+lung disease due to external agents	is a risk factor for	asthma
+lung disease due to external agents	is a risk factor for	pneumonia
+lung disease due to external agents	is a risk factor for	pulmonary hypertension
+lung disease due to external agents	is diagnosed with	spirometry
+lung disease due to external agents	is diagnosed with	chest X‑ray
+lung disease due to external agents	is diagnosed with	CT scan
+lung disease due to external agents	is diagnosed with	bronchoscopy
+lung disease due to external agents	is diagnosed with	lung biopsy
+lung disease due to external agents	is diagnosed with	pulmonary function test
+lung disease due to external agents	is diagnosed with	high‑resolution CT
+lung disease due to external agents	is diagnosed with	exposure history
+lung disease due to external agents	is treated with	corticosteroids
+lung disease due to external agents	is treated with	immunosuppressants
+lung disease due to external agents	is treated with	antifibrotics
+lung disease due to external agents	is treated with	oxygen therapy
+lung disease due to external agents	is treated with	pulmonary rehabilitation
+lung disease due to external agents	is treated with	bronchodilators
+lung disease due to external agents	is treated with	antibiotics
+lung disease due to external agents	is treated with	surgery
+lung disease due to external agents	is treated with	pleurodesis
+lung disease due to external agents	is prevented by	personal protective equipment
+lung disease due to external agents	is prevented by	ventilation
+lung disease due to external agents	is prevented by	exposure limits
+lung disease due to external agents	is prevented by	workplace monitoring
+lung disease due to external agents	is prevented by	smoking cessation
+lung disease due to external agents	is prevented by	vaccination
+lung disease due to external agents	is prevented by	regular screening
+lung disease due to external agents	is associated with	occupational exposure
+lung disease due to external agents	is associated with	industrial work
+lung disease due to external agents	is associated with	mining
+lung disease due to external agents	is associated with	construction
+lung disease due to external agents	is associated with	agriculture
+lung disease due to external agents	is associated with	firefighting
+lung disease due to external agents	is associated with	welding
+lung disease due to external agents	is associated with	painting
+lung disease due to external agents	is associated with	demolition
+lung disease due to external agents	is associated with	petrochemical
+lung disease due to external agents	is associated with	textile
+lung disease due to external agents	is associated with	laboratory
+lung disease due to external agents	is associated with	environmental pollution
+lung disease due to external agents	is associated with	urban air quality
+lung disease due to external agents	is associated with	rural dust
+lung disease due to external agents	is associated with	wildfire smoke
+lung disease due to external agents	is associated with	secondhand smoke
+lung disease due to external agents	is associated with	chemical spills
+lung disease due to external agents	is associated with	solvent exposure
+lung disease due to external agents	is associated with	pesticide exposure
+lung disease due to external agents	is associated with	asbestos abatement
+lung disease due to external agents	is associated with	silica abatement
+lung disease due to external agents	is associated with	dust suppression
+lung disease due to external agents	is associated with	wet‑scrubbing
+lung disease due to external agents	is associated with	HEPA filtration
+lung disease due to external agents	is associated with	respirator use
+lung disease due to external agents	is associated with	safety training
+lung disease due to external agents	is associated with	health surveillance
+lung disease due to external agents	is associated with	medical monitoring
+lung disease due to external agents	is associated with	early detection
+lung disease due to external agents	is associated with	reduced mortality
+lung disease due to external agents	is associated with	increased readmission
+lung disease due to external agents	is associated with	prolonged hospital stay
+lung disease due to external agents	is associated with	ICU admission
+lung disease due to external agents	is associated with	mechanical ventilation
+lung disease due to external agents	is associated with	ECMO
+lung disease due to external agents	is associated with	transplant
+lung disease due to external agents	is associated with	palliative care
+lung disease due to external agents	is associated with	quality of life
+lung disease due to external agents	is associated with	work absenteeism
+lung disease due to external agents	is associated with	disability
+lung disease due to external agents	is associated with	economic burden
+lung disease due to external agents	is associated with	insurance claims
+lung disease due to external agents	is associated with	regulatory compliance
+lung disease due to external agents	is associated with	public health policy
+lung disease due to external agents	is associated with	occupational health program

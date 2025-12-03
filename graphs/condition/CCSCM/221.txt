@@ -1,0 +1,100 @@
+respiratory distress syndrome	is a	neonatal disease
+respiratory distress syndrome	is caused by	surfactant deficiency
+surfactant deficiency	leads to	alveolar collapse
+alveolar collapse	causes	hypoxemia
+hypoxemia	results in	cyanosis
+cyanosis	indicates	low oxygen saturation
+low oxygen saturation	triggers	oxygen therapy
+oxygen therapy	is delivered by	CPAP
+CPAP	is a type of	noninvasive ventilation
+noninvasive ventilation	reduces	work of breathing
+work of breathing	is measured by	respiratory rate
+respiratory rate	is monitored by	pulse oximetry
+pulse oximetry	measures	SpO₂
+SpO₂	is a marker for	oxygenation status
+oxygenation status	is improved by	mechanical ventilation
+mechanical ventilation	uses	positive pressure
+positive pressure	increases	alveolar recruitment
+alveolar recruitment	decreases	atelectasis
+atelectasis	is seen on	chest X‑ray
+chest X‑ray	shows	ground‑glass opacity
+ground‑glass opacity	indicates	pulmonary edema
+pulmonary edema	is treated with	diuretics
+diuretics	are a class of	loop diuretics
+loop diuretics	include	furosemide
+furosemide	is administered by	intravenous route
+intravenous route	is used for	rapid effect
+rapid effect	is needed in	severe respiratory distress
+severe respiratory distress	predicts	mortality risk
+mortality risk	is stratified by	Apgar score
+Apgar score	is assessed at	5 minutes
+5 minutes	is a time point for	neonatal assessment
+neonatal assessment	includes	blood gas analysis
+blood gas analysis	measures	PaCO₂
+PaCO₂	indicates	ventilation status
+ventilation status	is optimized by	ventilator settings
+ventilator settings	include	tidal volume
+tidal volume	is calculated by	body weight
+body weight	is recorded in	neonatal chart
+neonatal chart	is scanned by	electronic health record
+electronic health record	stores	medication orders
+medication orders	contain	surfactant therapy
+surfactant therapy	is a treatment for	respiratory distress syndrome
+treatment	is administered by	endotracheal tube
+endotracheal tube	is placed during	intubation
+intubation	is performed by	neonatal surgeon
+neonatal surgeon	collaborates with	neonatologist
+neonatologist	prescribes	caffeine therapy
+caffeine therapy	reduces	apnea episodes
+apnea episodes	are monitored by	pulse oximetry
+pulse oximetry	alerts for	desaturation
+desaturation	triggers	supplemental oxygen
+supplemental oxygen	is titrated to	target SpO₂
+target SpO₂	is set by	clinical guidelines
+clinical guidelines	recommend	90–95% range
+90–95% range	is associated with	reduced morbidity
+reduced morbidity	leads to	shorter NICU stay
+shorter NICU stay	decreases	readmission risk
+readmission risk	is predicted by	discharge planning
+discharge planning	includes	home oxygen therapy
+home oxygen therapy	is monitored by	telehealth
+telehealth	collects	vital signs
+vital signs	are analyzed by	predictive model
+predictive model	forecasts	mortality risk
+mortality risk	informs	family counseling
+family counseling	improves	satisfaction score
+satisfaction score	is recorded in	quality metrics
+quality metrics	influence	reimbursement rates
+reimbursement rates	affect	hospital funding
+hospital funding	supports	research grants
+research grants	fund	clinical trials
+clinical trials	evaluate	new surfactant formulations
+new surfactant formulations	are tested in	phase III studies
+phase III studies	require	multicenter collaboration
+multicenter collaboration	uses	standardized protocols
+standardized protocols	reduce	variability
+variability	improves	data quality
+data quality	enhances	machine learning models
+machine learning models	predict	treatment response
+treatment response	guides	personalized therapy
+personalized therapy	optimizes	oxygenation
+oxygenation	is monitored by	arterial blood gas
+arterial blood gas	measures	pH
+pH	indicates	acid–base balance
+acid–base balance	is corrected by	bicarbonate therapy
+bicarbonate therapy	is given when	pH < 7.2
+pH < 7.2	is a sign of	severe acidosis
+severe acidosis	predicts	need for ECMO
+ECMO	is a rescue therapy for	refractory respiratory failure
+refractory respiratory failure	is defined by	persistent hypoxemia
+persistent hypoxemia	is measured by	PaO₂
+PaO₂	is calculated from	arterial blood gas
+arterial blood gas	is drawn via	arterial line
+arterial line	is placed by	interventionalist
+interventionalist	performs	catheterization
+catheterization	requires	fluoroscopy
+fluoroscopy	exposes to	radiation
+radiation exposure	is minimized by	low‑dose protocol
+low‑dose protocol	reduces	fetal risk
+fetal risk	is monitored by	ultrasound
+ultrasound	assesses	fetal growth

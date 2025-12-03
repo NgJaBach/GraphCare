@@ -1,0 +1,100 @@
+other lower respiratory disease	is a	respiratory condition
+other lower respiratory disease	includes	bronchitis
+other lower respiratory disease	includes	pneumonia
+other lower respiratory disease	includes	COPD
+other lower respiratory disease	includes	asthma
+bronchitis	causes	cough
+bronchitis	causes	sputum
+pneumonia	causes	fever
+pneumonia	causes	dyspnea
+COPD	causes	wheezing
+COPD	causes	shortness of breath
+asthma	causes	bronchospasm
+asthma	causes	airway hyperreactivity
+other lower respiratory disease	is diagnosed with	chest X‑ray
+other lower respiratory disease	is diagnosed with	spirometry
+other lower respiratory disease	is diagnosed with	CT scan
+chest X‑ray	shows	infiltrates
+chest X‑ray	shows	consolidation
+spirometry	measures	FEV1
+spirometry	measures	FVC
+CT scan	detects	emphysema
+CT scan	detects	bronchiectasis
+bronchiectasis	is a	airway dilation
+emphysema	is a	alveolar destruction
+asthma	is treated with	inhaled corticosteroids
+asthma	is treated with	bronchodilators
+COPD	is treated with	long‑acting bronchodilators
+COPD	is treated with	pulmonary rehabilitation
+pneumonia	is treated with	antibiotics
+pneumonia	is treated with	oxygen therapy
+bronchitis	is treated with	cough suppressants
+bronchitis	is treated with	mucolytics
+other lower respiratory disease	increases	mortality risk
+other lower respiratory disease	increases	readmission risk
+other lower respiratory disease	increases	hospitalization rate
+other lower respiratory disease	increases	ICU admission
+other lower respiratory disease	increases	emergency visits
+other lower respiratory disease	is associated with	smoking
+other lower respiratory disease	is associated with	air pollution
+other lower respiratory disease	is associated with	occupational exposure
+smoking	causes	COPD
+smoking	causes	lung cancer
+air pollution	causes	bronchitis
+air pollution	causes	asthma
+occupational exposure	causes	pneumoconiosis
+pneumoconiosis	is a	lower respiratory disease
+pneumoconiosis	is caused by	silica
+pneumoconiosis	is caused by	asbestos
+pneumoconiosis	is diagnosed with	high‑resolution CT
+pneumoconiosis	is treated with	corticosteroids
+pneumoconiosis	is treated with	antifibrotics
+other lower respiratory disease	is linked to	cardiovascular disease
+other lower respiratory disease	is linked to	depression
+other lower respiratory disease	is linked to	frailty
+other lower respiratory disease	is linked to	malnutrition
+other lower respiratory disease	is linked to	anemia
+anemia	worsens	dyspnea
+malnutrition	worsens	immune function
+frailty	worsens	hospitalization outcome
+depression	worsens	medication adherence
+cardiovascular disease	worsens	mortality
+other lower respiratory disease	is predicted by	spirometry decline
+other lower respiratory disease	is predicted by	exacerbation history
+other lower respiratory disease	is predicted by	comorbidity count
+other lower respiratory disease	is predicted by	age
+other lower respiratory disease	is predicted by	gender
+other lower respiratory disease	is predicted by	BMI
+other lower respiratory disease	is predicted by	smoking pack‑years
+other lower respiratory disease	is predicted by	socioeconomic status
+other lower respiratory disease	is predicted by	prior hospitalizations
+other lower respiratory disease	is predicted by	medication adherence
+other lower respiratory disease	is predicted by	vaccination status
+influenza vaccination	reduces	pneumonia risk
+pneumococcal vaccination	reduces	pneumonia risk
+influenza vaccination	reduces	hospitalization
+pneumococcal vaccination	reduces	mortality
+other lower respiratory disease	is treated with	steroids
+other lower respiratory disease	is treated with	antibiotics
+other lower respiratory disease	is treated with	bronchodilators
+other lower respiratory disease	is treated with	oxygen
+other lower respiratory disease	is treated with	steroids
+other lower respiratory disease	is treated with	immunosuppressants
+other lower respiratory disease	is treated with	antifibrotics
+other lower respiratory disease	is treated with	pulmonary rehab
+other lower respiratory disease	is treated with	surgery
+surgery	is performed for	lung volume reduction
+surgery	is performed for	lung transplantation
+surgery	is performed for	lobectomy
+surgery	is performed for	pneumonectomy
+other lower respiratory disease	is monitored with	home spirometry
+other lower respiratory disease	is monitored with	pulse oximetry
+other lower respiratory disease	is monitored with	symptom diary
+other lower respiratory disease	is monitored with	telehealth
+other lower respiratory disease	is monitored with	wearable sensors
+other lower respiratory disease	is monitored with	blood gas analysis
+other lower respiratory disease	is monitored with	arterial blood gas
+other lower respiratory disease	is monitored with	BNP
+other lower respiratory disease	is monitored with	CRP
+other lower respiratory disease	is monitored with	procalcitonin
+other lower respiratory disease	is monitored with	eosinophil count

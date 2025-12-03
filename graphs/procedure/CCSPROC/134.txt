@@ -1,0 +1,100 @@
+cesarean section	is a	surgical procedure
+cesarean section	performed for	fetal distress
+cesarean section	performed for	placenta previa
+cesarean section	performed for	breech presentation
+cesarean section	performed for	failed induction
+cesarean section	performed for	maternal request
+cesarean section	performed for	previous uterine surgery
+cesarean section	performed for	twin pregnancy
+cesarean section	performed for	gestational hypertension
+cesarean section	performed for	preeclampsia
+cesarean section	increases risk of	postpartum hemorrhage
+cesarean section	increases risk of	infection
+cesarean section	increases risk of	thromboembolism
+cesarean section	increases risk of	uterine rupture
+cesarean section	increases risk of	adhesions
+cesarean section	increases risk of	future infertility
+cesarean section	increases risk of	cesarean scar defect
+cesarean section	increases risk of	neonatal respiratory distress
+cesarean section	increases risk of	NICU admission
+cesarean section	increases risk of	low birth weight
+cesarean section	increases risk of	maternal ICU admission
+cesarean section	increases risk of	readmission within 30 days
+cesarean section	associated with	longer hospital stay
+cesarean section	associated with	higher cost
+cesarean section	associated with	higher anesthesia risk
+cesarean section	associated with	higher blood loss
+cesarean section	associated with	higher pain score
+cesarean section	associated with	higher opioid use
+cesarean section	associated with	higher risk of postpartum depression
+cesarean section	associated with	higher risk of postpartum anxiety
+cesarean section	associated with	higher risk of breastfeeding difficulties
+cesarean section	associated with	higher risk of maternal mortality
+cesarean section	associated with	higher risk of neonatal mortality
+cesarean section	associated with	higher risk of congenital anomalies
+cesarean section	associated with	higher risk of surgical site infection
+cesarean section	associated with	higher risk of wound dehiscence
+cesarean section	associated with	higher risk of urinary tract infection
+cesarean section	associated with	higher risk of deep vein thrombosis
+cesarean section	associated with	higher risk of pulmonary embolism
+cesarean section	associated with	higher risk of anemia
+cesarean section	associated with	higher risk of anemia in newborn
+cesarean section	associated with	higher risk of iron deficiency
+cesarean section	associated with	higher risk of postpartum anemia
+cesarean section	associated with	higher risk of surgical complications
+cesarean section	associated with	higher risk of anesthesia complications
+cesarean section	associated with	higher risk of infection in placenta
+cesarean section	associated with	higher risk of uterine atony
+cesarean section	associated with	higher risk of uterine inversion
+cesarean section	associated with	higher risk of placenta accreta
+cesarean section	associated with	higher risk of placenta increta
+cesarean section	associated with	higher risk of placenta percreta
+cesarean section	associated with	higher risk of postpartum hemorrhage in future pregnancies
+cesarean section	associated with	higher risk of placenta previa in future pregnancies
+cesarean section	associated with	higher risk of uterine rupture in future pregnancies
+cesarean section	associated with	higher risk of cesarean scar pregnancy
+cesarean section	associated with	higher risk of infertility in future pregnancies
+cesarean section	associated with	higher risk of ectopic pregnancy
+cesarean section	associated with	higher risk of ovarian torsion
+cesarean section	associated with	higher risk of ovarian cysts
+cesarean section	associated with	higher risk of ovarian cancer
+cesarean section	associated with	higher risk of ovarian hyperstimulation syndrome
+cesarean section	associated with	higher risk of ovarian failure
+cesarean section	associated with	higher risk of ovarian insufficiency
+cesarean section	associated with	higher risk of ovarian dysfunction
+cesarean section	associated with	higher risk of ovarian carcinoma
+cesarean section	associated with	higher risk of ovarian metastasis
+cesarean section	associated with	higher risk of ovarian metastasis to liver
+cesarean section	associated with	higher risk of ovarian metastasis to lung
+cesarean section	associated with	higher risk of ovarian metastasis to bone
+cesarean section	associated with	higher risk of ovarian metastasis to brain
+cesarean section	associated with	higher risk of ovarian metastasis to spleen
+cesarean section	associated with	higher risk of ovarian metastasis to kidney
+cesarean section	associated with	higher risk of ovarian metastasis to pancreas
+cesarean section	associated with	higher risk of ovarian metastasis to stomach
+cesarean section	associated with	higher risk of ovarian metastasis to colon
+cesarean section	associated with	higher risk of ovarian metastasis to rectum
+cesarean section	associated with	higher risk of ovarian metastasis to bladder
+cesarean section	associated with	higher risk of ovarian metastasis to prostate
+cesarean section	associated with	higher risk of ovarian metastasis to testis
+cesarean section	associated with	higher risk of ovarian metastasis to epididymis
+cesarean section	associated with	higher risk of ovarian metastasis to spermatic cord
+cesarean section	associated with	higher risk of ovarian metastasis to vas deferens
+cesarean section	associated with	higher risk of ovarian metastasis to seminal vesicle
+cesarean section	associated with	higher risk of ovarian metastasis to prostate
+cesarean section	associated with	higher risk of ovarian metastasis to urethra
+cesarean section	associated with	higher risk of ovarian metastasis to bladder
+cesarean section	associated with	higher risk of ovarian metastasis to ureter
+cesarean section	associated with	higher risk of ovarian metastasis to kidney
+cesarean section	associated with	higher risk of ovarian metastasis to liver
+cesarean section	associated with	higher risk of ovarian metastasis to spleen
+cesarean section	associated with	higher risk of ovarian metastasis to lung
+cesarean section	associated with	higher risk of ovarian metastasis to brain
+cesarean section	associated with	higher risk of ovarian metastasis to bone
+cesarean section	associated with	higher risk of ovarian metastasis to muscle
+cesarean section	associated with	higher risk of ovarian metastasis to fat
+cesarean section	associated with	higher risk of ovarian metastasis to cartilage
+cesarean section	associated with	higher risk of ovarian metastasis to tendon
+cesarean section	associated with	higher risk of ovarian metastasis to ligament
+cesarean section	associated with	higher risk of ovarian metastasis to nerve
+cesarean section	associated with	higher risk of ovarian metastasis to blood

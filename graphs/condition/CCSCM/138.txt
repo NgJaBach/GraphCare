@@ -1,0 +1,100 @@
+esophageal disorders	are	gastrointestinal diseases
+esophageal disorders	include	GERD
+esophageal disorders	include	achalasia
+esophageal disorders	include	eosinophilic esophagitis
+esophageal disorders	include	esophageal cancer
+esophageal disorders	include	esophageal varices
+esophageal disorders	include	esophageal strictures
+esophageal disorders	include	esophageal diverticulum
+esophageal disorders	cause	dysphagia
+esophageal disorders	cause	heartburn
+esophageal disorders	cause	regurgitation
+esophageal disorders	cause	chest pain
+esophageal disorders	cause	weight loss
+GERD	is a type of	esophageal disorders
+GERD	is caused by	lower esophageal sphincter dysfunction
+GERD	is treated with	proton pump inhibitors
+GERD	is treated with	H2 blockers
+GERD	is treated with	lifestyle modification
+GERD	can lead to	Barrett esophagus
+Barrett esophagus	is a precancerous lesion of	esophageal cancer
+Barrett esophagus	is diagnosed by	endoscopy
+Barrett esophagus	is treated with	ablation
+Barrett esophagus	is treated with	surveillance
+achalasia	is a type of	esophageal disorders
+achalasia	is caused by	loss of peristalsis
+achalasia	is treated with	pneumatic dilation
+achalasia	is treated with	Heller myotomy
+achalasia	is treated with	botulinum toxin injection
+achalasia	can lead to	megaesophagus
+eosinophilic esophagitis	is a type of	esophageal disorders
+eosinophilic esophagitis	is caused by	allergic inflammation
+eosinophilic esophagitis	is diagnosed by	biopsy
+eosinophilic esophagitis	is treated with	dietary elimination
+eosinophilic esophagitis	is treated with	topical steroids
+esophageal cancer	is a type of	esophageal disorders
+esophageal cancer	is caused by	smoking
+esophageal cancer	is caused by	alcohol
+esophageal cancer	is caused by	GERD
+esophageal cancer	is diagnosed by	endoscopic ultrasound
+esophageal cancer	is treated with	surgery
+esophageal cancer	is treated with	chemotherapy
+esophageal cancer	is treated with	radiation
+esophageal varices	are	dilated veins in esophagus
+esophageal varices	are caused by	portal hypertension
+esophageal varices	are treated with	endoscopic band ligation
+esophageal varices	are treated with	sclerotherapy
+esophageal varices	can lead to	bleeding
+esophageal strictures	are	narrowing of esophagus
+esophageal strictures	are caused by	reflux
+esophageal strictures	are caused by	radiation
+esophageal strictures	are treated with	dilation
+esophageal strictures	are treated with	steroid injection
+esophageal diverticulum	is a type of	esophageal disorders
+esophageal diverticulum	is caused by	motility disorder
+esophageal diverticulum	is treated with	surgical resection
+esophageal diverticulum	can cause	food impaction
+dysphagia	is a symptom of	esophageal disorders
+heartburn	is a symptom of	GERD
+regurgitation	is a symptom of	GERD
+chest pain	is a symptom of	esophageal disorders
+weight loss	is a symptom of	esophageal cancer
+endoscopy	is a diagnostic tool for	esophageal disorders
+barium swallow	is a diagnostic tool for	esophageal disorders
+manometry	is a diagnostic tool for	achalasia
+pH monitoring	is a diagnostic tool for	GERD
+biopsy	is a diagnostic tool for	eosinophilic esophagitis
+proton pump inhibitors	reduce	acid secretion
+H2 blockers	reduce	acid secretion
+lifestyle modification	reduces	GERD symptoms
+dietary elimination	reduces	eosinophilic esophagitis symptoms
+topical steroids	reduce	inflammation in	eosinophilic esophagitis
+pneumatic dilation	treats	achalasia
+Heller myotomy	treats	achalasia
+botulinum toxin injection	treats	achalasia
+surgical resection	treats	esophageal diverticulum
+endoscopic band ligation	treats	esophageal varices
+sclerotherapy	treats	esophageal varices
+chemotherapy	treats	esophageal cancer
+radiation	treats	esophageal cancer
+surgery	treats	esophageal cancer
+dilation	treats	esophageal strictures
+steroid injection	treats	esophageal strictures
+portal hypertension	causes	esophageal varices
+portal hypertension	is caused by	liver cirrhosis
+liver cirrhosis	is a risk factor for	portal hypertension
+smoking	increases risk of	esophageal cancer
+alcohol	increases risk of	esophageal cancer
+GERD	increases risk of	esophageal cancer
+Barrett esophagus	increases risk of	esophageal cancer
+esophageal cancer	has poor prognosis	if diagnosed late
+esophageal cancer	has better prognosis	if diagnosed early
+achalasia	leads to	food stasis
+food stasis	leads to	aspiration
+aspiration	leads to	pneumonia
+pH monitoring	measures	acid exposure
+manometry	measures	esophageal motility
+barium swallow	visualizes	esophageal anatomy
+endoscopy	visualizes	esophageal mucosa
+biopsy	confirms	eosinophilic esophagitis
+esophageal disorders	increase risk of	aspiration pneumonia

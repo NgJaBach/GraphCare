@@ -1,0 +1,100 @@
+neoplasms of unspecified nature or uncertain behavior	are classified as	indeterminate tumor
+neoplasms of unspecified nature or uncertain behavior	require	histopathology
+histopathology	determines	tumor grade
+tumor grade	predicts	prognosis
+neoplasms of unspecified nature or uncertain behavior	may be	malignant
+neoplasms of unspecified nature or uncertain behavior	may be	benign
+neoplasms of unspecified nature or uncertain behavior	may be	borderline
+neoplasms of unspecified nature or uncertain behavior	are evaluated with	imaging
+imaging	includes	CT scan
+imaging	includes	MRI
+imaging	includes	PET scan
+PET scan	detects	metabolic activity
+metabolic activity	indicates	malignancy risk
+neoplasms of unspecified nature or uncertain behavior	are staged with	TNM system
+TNM system	assesses	tumor size
+TNM system	assesses	nodal involvement
+TNM system	assesses	metastasis
+tumor size	correlates with	survival rate
+nodal involvement	correlates with	recurrence risk
+metastasis	correlates with	mortality
+neoplasms of unspecified nature or uncertain behavior	may require	biopsy
+biopsy	can be	core needle
+biopsy	can be	excisional
+core needle	is less invasive than	excisional
+excisional	provides	larger tissue sample
+tissue sample	is analyzed for	immunohistochemistry
+immunohistochemistry	identifies	tumor markers
+tumor markers	guide	targeted therapy
+targeted therapy	includes	kinase inhibitors
+kinase inhibitors	are used for	specific mutations
+specific mutations	detected by	next‑generation sequencing
+next‑generation sequencing	informs	personalized medicine
+personalized medicine	improves	treatment efficacy
+treatment efficacy	reduces	readmission rate
+readmission rate	is a predictor of	healthcare cost
+neoplasms of unspecified nature or uncertain behavior	may be	hormone‑responsive
+hormone‑responsive	treated with	endocrine therapy
+endocrine therapy	includes	tamoxifen
+tamoxifen	is a	selective estrogen receptor modulator
+selective estrogen receptor modulator	reduces	recurrence risk
+neoplasms of unspecified nature or uncertain behavior	may be	immune‑related
+immune‑related	treated with	immunotherapy
+immunotherapy	includes	checkpoint inhibitors
+checkpoint inhibitors	target	PD‑1/PD‑L1
+PD‑1/PD‑L1	expression	predicts	response
+response	predicts	overall survival
+overall survival	is a key outcome
+neoplasms of unspecified nature or uncertain behavior	may be	cystic
+cystic	requires	cyst aspiration
+cyst aspiration	yields	fluid analysis
+fluid analysis	checks for	malignant cells
+malignant cells	confirm	malignancy
+malignancy	necessitates	surgical resection
+surgical resection	aims for	negative margins
+negative margins	reduce	local recurrence
+local recurrence	increases	surveillance frequency
+surveillance frequency	guided by	risk stratification
+risk stratification	uses	clinical factors
+clinical factors	include	age
+clinical factors	include	comorbidities
+comorbidities	affect	treatment tolerance
+treatment tolerance	influences	dosage adjustment
+dosage adjustment	impacts	toxicity
+toxicity	predicts	quality of life
+quality of life	is measured by	patient‑reported outcomes
+patient‑reported outcomes	inform	palliative care
+palliative care	improves	symptom control
+symptom control	reduces	emergency visits
+emergency visits	affect	readmission risk
+readmission risk	is a factor in	hospital accreditation
+hospital accreditation	influences	reimbursement
+reimbursement	determines	resource allocation
+resource allocation	affects	access to care
+access to care	determines	early detection
+early detection	lowers	stage at diagnosis
+stage at diagnosis	correlates with	survival
+survival	is a benchmark for	clinical trials
+clinical trials	test	novel agents
+novel agents	undergo	phase I/II/III
+phase I	assesses	safety
+phase II	assesses	efficacy
+phase III	compares	standard of care
+standard of care	evolves with	evidence
+evidence	is synthesized by	meta‑analysis
+meta‑analysis	informs	guidelines
+guidelines	recommend	surveillance intervals
+surveillance intervals	are tailored to	risk profile
+risk profile	includes	genetic predisposition
+genetic predisposition	identified by	germline testing
+germline testing	informs	family counseling
+family counseling	reduces	anxiety
+anxiety	is associated with	adherence
+adherence	predicts	treatment success
+treatment success	reduces	mortality
+mortality	is a primary endpoint
+primary endpoint	drives	drug approval
+drug approval	requires	regulatory review
+regulatory review	considers	benefit‑risk ratio
+benefit‑risk ratio	is calculated from	clinical data
+clinical data	is collected by	electronic health records

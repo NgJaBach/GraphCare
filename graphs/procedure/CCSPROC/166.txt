@@ -1,0 +1,100 @@
+lumpectomy	is a	surgical procedure
+lumpectomy	removes	breast tissue
+lumpectomy	preserves	breast shape
+lumpectomy	used for	early breast cancer
+lumpectomy	reduces	mastectomy rate
+lumpectomy	requires	sentinel lymph node biopsy
+lumpectomy	can be combined with	radiation therapy
+lumpectomy	improves	cosmetic outcome
+lumpectomy	associated with	lower recurrence risk
+lumpectomy	performed under	general anesthesia
+lumpectomy	performed under	regional anesthesia
+lumpectomy	performed under	local anesthesia
+lumpectomy	performed by	breast surgeon
+lumpectomy	performed by	surgical oncologist
+lumpectomy	performed in	outpatient setting
+lumpectomy	performed in	inpatient setting
+lumpectomy	requires	preoperative imaging
+lumpectomy	requires	intraoperative pathology
+lumpectomy	requires	postoperative care
+lumpectomy	leads to	wound healing
+lumpectomy	leads to	scar formation
+lumpectomy	leads to	lymphatic drainage changes
+lumpectomy	leads to	risk of infection
+lumpectomy	leads to	risk of bleeding
+lumpectomy	leads to	risk of fat necrosis
+lumpectomy	leads to	risk of nipple sensation loss
+lumpectomy	contraindicated in	large tumors
+lumpectomy	contraindicated in	multifocal disease
+lumpectomy	contraindicated in	inflammatory breast cancer
+lumpectomy	contraindicated in	extensive skin involvement
+lumpectomy	contraindicated in	pregnancy
+lumpectomy	contraindicated in	severe comorbidities
+lumpectomy	contraindicated in	poor wound healing
+lumpectomy	contraindicated in	prior chest irradiation
+lumpectomy	contraindicated in	active infection
+lumpectomy	contraindicated in	uncontrolled diabetes
+lumpectomy	contraindicated in	obesity
+lumpectomy	contraindicated in	smoking
+lumpectomy	contraindicated in	immunosuppression
+lumpectomy	contraindicated in	breast reconstruction plans
+lumpectomy	contraindicated in	breast density issues
+lumpectomy	contraindicated in	genetic mutations
+lumpectomy	contraindicated in	BRCA1/2 carriers
+lumpectomy	contraindicated in	prior mastectomy
+lumpectomy	contraindicated in	severe anemia
+lumpectomy	contraindicated in	clotting disorders
+lumpectomy	contraindicated in	severe cardiac disease
+lumpectomy	contraindicated in	severe pulmonary disease
+lumpectomy	contraindicated in	severe renal disease
+lumpectomy	contraindicated in	severe hepatic disease
+lumpectomy	contraindicated in	psychiatric illness
+lumpectomy	contraindicated in	lack of support
+lumpectomy	contraindicated in	limited mobility
+lumpectomy	contraindicated in	lack of insurance
+lumpectomy	contraindicated in	cultural beliefs
+lumpectomy	contraindicated in	language barriers
+lumpectomy	contraindicated in	financial constraints
+lumpectomy	contraindicated in	lack of follow‑up
+lumpectomy	contraindicated in	poor compliance
+lumpectomy	contraindicated in	lack of social support
+lumpectomy	contraindicated in	advanced age
+lumpectomy	contraindicated in	frailty
+lumpectomy	contraindicated in	severe osteoporosis
+lumpectomy	contraindicated in	severe malnutrition
+lumpectomy	contraindicated in	severe anemia
+lumpectomy	contraindicated in	severe thrombocytopenia
+lumpectomy	contraindicated in	severe leukopenia
+lumpectomy	contraindicated in	severe neutropenia
+lumpectomy	contraindicated in	severe hypoalbuminemia
+lumpectomy	contraindicated in	severe electrolyte imbalance
+lumpectomy	contraindicated in	severe hypoxia
+lumpectomy	contraindicated in	severe hyperglycemia
+lumpectomy	contraindicated in	severe hypoglycemia
+lumpectomy	contraindicated in	severe hypertension
+lumpectomy	contraindicated in	severe hypotension
+lumpectomy	contraindicated in	severe arrhythmia
+lumpectomy	contraindicated in	severe heart failure
+lumpectomy	contraindicated in	severe COPD
+lumpectomy	contraindicated in	severe asthma
+lumpectomy	contraindicated in	severe liver failure
+lumpectomy	contraindicated in	severe kidney failure
+lumpectomy	contraindicated in	severe endocrine disorder
+lumpectomy	contraindicated in	severe autoimmune disease
+lumpectomy	contraindicated in	severe infection
+lumpectomy	contraindicated in	severe trauma
+lumpectomy	contraindicated in	severe psychiatric disorder
+lumpectomy	contraindicated in	severe substance abuse
+lumpectomy	contraindicated in	severe malabsorption
+lumpectomy	contraindicated in	severe malnutrition
+lumpectomy	contraindicated in	severe cachexia
+lumpectomy	contraindicated in	severe anemia
+lumpectomy	contraindicated in	severe thrombocytopenia
+lumpectomy	contraindicated in	severe leukopenia
+lumpectomy	contraindicated in	severe neutropenia
+lumpectomy	contraindicated in	severe hypoalbuminemia
+lumpectomy	contraindicated in	severe electrolyte imbalance
+lumpectomy	contraindicated in	severe hypoxia
+lumpectomy	contraindicated in	severe hyperglycemia
+lumpectomy	contraindicated in	severe hypoglycemia
+lumpectomy	contraindicated in	severe hypertension

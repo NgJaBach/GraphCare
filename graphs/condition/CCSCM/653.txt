@@ -1,0 +1,100 @@
+delirium	is a	cognitive disorder
+delirium	is caused by	infection
+delirium	is caused by	metabolic imbalance
+delirium	is caused by	medication toxicity
+delirium	is caused by	surgery
+delirium	is caused by	alcohol withdrawal
+delirium	is caused by	hypoxia
+delirium	is caused by	trauma
+delirium	is caused by	endocrine disorder
+delirium	is caused by	renal failure
+delirium	is caused by	hepatic failure
+delirium	is caused by	cancer
+delirium	is caused by	chemotherapy
+delirium	is caused by	radiotherapy
+delirium	is caused by	stroke
+delirium	is caused by	infection of CNS
+delirium	is caused by	sepsis
+delirium	is caused by	pneumonia
+delirium	is caused by	urinary tract infection
+delirium	is caused by	meningitis
+delirium	is caused by	encephalitis
+delirium	is caused by	hypoglycemia
+delirium	is caused by	hyperglycemia
+delirium	is caused by	hyponatremia
+delirium	is caused by	hypernatremia
+delirium	is caused by	hypocalcemia
+delirium	is caused by	hypercalcemia
+delirium	is caused by	hypoxia
+delirium	is caused by	hypovolemia
+delirium	is caused by	hyperventilation
+delirium	is caused by	drug withdrawal
+delirium	is caused by	benzodiazepine withdrawal
+delirium	is caused by	opioid withdrawal
+delirium	is caused by	anticholinergic toxicity
+delirium	is caused by	antipsychotic toxicity
+delirium	is caused by	sedative overdose
+delirium	is caused by	sleep deprivation
+delirium	is caused by	ICU stay
+delirium	is caused by	mechanical ventilation
+delirium	is caused by	environmental change
+delirium	is caused by	sensory deprivation
+delirium	is caused by	sensory overload
+delirium	is a	risk factor for	mortality
+delirium	is a	risk factor for	institutionalization
+delirium	is a	risk factor for	long‑term cognitive decline
+delirium	is a	risk factor for	readmission
+delirium	is a	risk factor for	falls
+delirium	is a	risk factor for	pressure ulcers
+delirium	is a	risk factor for	prolonged hospitalization
+delirium	is a	risk factor for	increased healthcare cost
+delirium	is a	symptom of	acute brain dysfunction
+delirium	is a	symptom of	systemic illness
+delirium	is a	symptom of	metabolic derangement
+delirium	is a	symptom of	medication side effect
+delirium	is a	symptom of	infection
+delirium	is a	symptom of	organ failure
+delirium	is a	symptom of	endocrine crisis
+delirium	is a	symptom of	nutritional deficiency
+delirium	is a	symptom of	psychiatric disorder
+delirium	is a	symptom of	substance abuse
+delirium	is a	symptom of	sleep disorder
+delirium	is a	symptom of	pain
+delirium	is a	symptom of	stress
+delirium	is a	symptom of	trauma
+delirium	is a	symptom of	cancer cachexia
+delirium	is a	symptom of	palliative care
+delirium	is a	symptom of	ICU delirium
+delirium	is a	symptom of	postoperative delirium
+delirium	is a	symptom of	pre‑existing dementia
+delirium	is a	symptom of	mild cognitive impairment
+delirium	is a	symptom of	Alzheimer disease
+delirium	is a	symptom of	vascular dementia
+delirium	is a	symptom of	Lewy body dementia
+delirium	is a	symptom of	Parkinson disease
+delirium	is a	symptom of	Huntington disease
+delirium	is a	symptom of	multiple sclerosis
+delirium	is a	symptom of	traumatic brain injury
+delirium	is a	symptom of	stroke
+delirium	is a	symptom of	epilepsy
+delirium	is a	symptom of	migraine
+delirium	is a	symptom of	sleep apnea
+delirium	is a	symptom of	narcolepsy
+delirium	is a	symptom of	depression
+delirium	is a	symptom of	anxiety
+delirium	is a	symptom of	schizophrenia
+delirium	is a	symptom of	bipolar disorder
+delirium	is a	symptom of	PTSD
+delirium	is a	symptom of	substance‑use disorder
+delirium	is a	symptom of	chronic pain
+delirium	is a	symptom of	fatigue
+delirium	is a	symptom of	malnutrition
+delirium	is a	symptom of	dehydration
+delirium	is a	symptom of	anemia
+delirium	is a	symptom of	electrolyte imbalance
+delirium	is a	symptom of	vitamin deficiency
+delirium	is a	symptom of	thyroid dysfunction
+delirium	is a	symptom of	adrenal insufficiency
+delirium	is a	symptom of	pituitary disorder
+delirium	is a	symptom of	cardiac arrhythmia
+delirium	is a	symptom of	pulmonary embolism

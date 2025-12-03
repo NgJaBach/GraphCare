@@ -1,0 +1,100 @@
+complications	are caused by	surgical procedures
+complications	are caused by	medical care
+complications	increase	readmission rates
+complications	increase	mortality risk
+complications	increase	length of stay
+complications	increase	healthcare cost
+complications	are predicted by	comorbidity burden
+complications	are predicted by	age
+complications	are predicted by	frailty score
+complications	are predicted by	ASA class
+complications	are predicted by	BMI
+complications	are predicted by	smoking status
+complications	are predicted by	diabetes
+complications	are predicted by	hypertension
+complications	are predicted by	renal function
+complications	are predicted by	anemia
+complications	are predicted by	hypoalbuminemia
+complications	are predicted by	preoperative infection
+complications	are predicted by	surgical duration
+complications	are predicted by	blood loss
+complications	are predicted by	anesthesia type
+complications	are predicted by	surgeon experience
+complications	are predicted by	hospital volume
+complications	are predicted by	postoperative pain control
+complications	are predicted by	early mobilization
+complications	are predicted by	prophylactic antibiotics
+complications	are predicted by	thromboprophylaxis
+complications	are predicted by	wound care protocol
+complications	are predicted by	nutritional status
+complications	are predicted by	immunosuppression
+complications	are predicted by	viral infection
+complications	are predicted by	bacterial colonization
+complications	are predicted by	surgical site contamination
+complications	are predicted by	operative technique
+complications	are predicted by	postoperative monitoring
+complications	are predicted by	ICU admission
+complications	are predicted by	delirium
+complications	are predicted by	cognitive impairment
+complications	are predicted by	postoperative hypoxia
+complications	are predicted by	postoperative hypotension
+complications	are predicted by	postoperative hyperglycemia
+complications	are predicted by	postoperative electrolyte imbalance
+complications	are predicted by	postoperative bleeding
+complications	are predicted by	postoperative infection
+complications	are predicted by	postoperative thrombosis
+complications	are predicted by	postoperative embolism
+complications	are predicted by	postoperative arrhythmia
+complications	are predicted by	postoperative heart failure
+complications	are predicted by	postoperative renal failure
+complications	are predicted by	postoperative liver dysfunction
+complications	are predicted by	postoperative sepsis
+complications	are predicted by	postoperative delirium
+complications	are predicted by	postoperative pneumonia
+complications	are predicted by	postoperative wound dehiscence
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative abscess
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula
+complications	are predicted by	postoperative fistula

@@ -1,0 +1,100 @@
+nephritis	is a	kidney inflammation
+nephritis	causes	proteinuria
+nephritis	leads to	hematuria
+nephritis	can progress to	chronic kidney disease
+nephritis	is diagnosed with	urinalysis
+nephritis	is treated with	corticosteroids
+nephritis	is treated with	immunosuppressants
+nephritis	is associated with	hypertension
+nephritis	is associated with	edema
+nephritis	is caused by	infection
+nephritis	is caused by	autoimmune disease
+nephritis	is caused by	drug toxicity
+nephritis	is a risk factor for	cardiovascular disease
+nephritis	is a risk factor for	mortality
+nephritis	is a predictor of	readmission
+nephritis	is a predictor of	dialysis requirement
+nephritis	is a predictor of	transplant need
+nephritis	is a subtype of	glomerulonephritis
+nephritis	is a subtype of	interstitial nephritis
+nephritis	is a subtype of	acute kidney injury
+nephritis	is treated with	ACE inhibitors
+nephritis	is treated with	ARBs
+nephritis	is treated with	diuretics
+nephritis	is treated with	plasmapheresis
+nephritis	is treated with	plasma exchange
+nephritis	is treated with	antibiotics
+nephritis	is treated with	antivirals
+nephritis	is treated with	antifungals
+nephritis	is treated with	NSAIDs
+nephritis	is treated with	biologics
+nephritis	is treated with	rituximab
+nephritis	is treated with	cyclophosphamide
+nephritis	is treated with	mycophenolate
+nephritis	is treated with	azathioprine
+nephritis	is treated with	methotrexate
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine
+nephritis	is treated with	colchicine

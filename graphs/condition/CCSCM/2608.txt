@@ -1,0 +1,100 @@
+pedal cyclist	is a	patient type
+pedal cyclist	is a	non‑motor vehicle occupant
+pedal cyclist	is a	road user
+pedal cyclist	is a	vulnerable road user
+pedal cyclist	is a	cyclist
+pedal cyclist	is a	pedestrian
+pedal cyclist	is a	e code patient
+pedal cyclist	is a	injury patient
+pedal cyclist	is a	trauma patient
+pedal cyclist	is a	emergency patient
+pedal cyclist	is involved in	road traffic accident
+pedal cyclist	is involved in	collision
+pedal cyclist	is involved in	crash
+pedal cyclist	is involved in	motor vehicle collision
+pedal cyclist	is involved in	vehicle collision
+pedal cyclist	is at risk of	head injury
+pedal cyclist	is at risk of	brain injury
+pedal cyclist	is at risk of	spinal injury
+pedal cyclist	is at risk of	cervical injury
+pedal cyclist	is at risk of	thoracic injury
+pedal cyclist	is at risk of	abdominal injury
+pedal cyclist	is at risk of	pelvic injury
+pedal cyclist	is at risk of	lower limb injury
+pedal cyclist	is at risk of	upper limb injury
+pedal cyclist	is at risk of	internal bleeding
+pedal cyclist	is at risk of	traumatic brain injury
+pedal cyclist	is at risk of	concussion
+pedal cyclist	is at risk of	skull fracture
+pedal cyclist	is at risk of	cervical spine fracture
+pedal cyclist	is at risk of	thoracic spine fracture
+pedal cyclist	is at risk of	pelvic fracture
+pedal cyclist	is at risk of	femur fracture
+pedal cyclist	is at risk of	tibial fracture
+pedal cyclist	is at risk of	ankle fracture
+pedal cyclist	is at risk of	wrist fracture
+pedal cyclist	is at risk of	soft tissue injury
+pedal cyclist	is at risk of	laceration
+pedal cyclist	is at risk of	contusion
+pedal cyclist	is at risk of	abrasion
+pedal cyclist	is at risk of	burn
+pedal cyclist	is at risk of	shock
+pedal cyclist	is at risk of	hypovolemic shock
+pedal cyclist	is at risk of	neurogenic shock
+pedal cyclist	is at risk of	septic shock
+pedal cyclist	is at risk of	cardiac arrest
+pedal cyclist	is at risk of	mortality
+pedal cyclist	is at risk of	morbidity
+pedal cyclist	is at risk of	disability
+pedal cyclist	is at risk of	long‑term pain
+pedal cyclist	is at risk of	functional limitation
+pedal cyclist	requires	emergency department visit
+pedal cyclist	requires	trauma team activation
+pedal cyclist	requires	imaging
+pedal cyclist	requires	CT scan
+pedal cyclist	requires	X‑ray
+pedal cyclist	requires	MRI
+pedal cyclist	requires	ultrasound
+pedal cyclist	requires	blood test
+pedal cyclist	requires	laboratory workup
+pedal cyclist	requires	vital sign monitoring
+pedal cyclist	requires	airway management
+pedal cyclist	requires	oxygen therapy
+pedal cyclist	requires	intravenous access
+pedal cyclist	requires	fluid resuscitation
+pedal cyclist	requires	blood transfusion
+pedal cyclist	requires	surgical consultation
+pedal cyclist	requires	orthopedic surgery
+pedal cyclist	requires	neurosurgery
+pedal cyclist	requires	neurology consult
+pedal cyclist	requires	neurosurgical intervention
+pedal cyclist	requires	neurosurgical procedure
+pedal cyclist	requires	orthopedic procedure
+pedal cyclist	requires	trauma surgery
+pedal cyclist	requires	critical care
+pedal cyclist	requires	ICU admission
+pedal cyclist	requires	rehabilitation
+pedal cyclist	requires	physical therapy
+pedal cyclist	requires	occupational therapy
+pedal cyclist	requires	speech therapy
+pedal cyclist	requires	pain management
+pedal cyclist	is treated with	analgesics
+pedal cyclist	is treated with	anti‑inflammatory drugs
+pedal cyclist	is treated with	antibiotics
+pedal cyclist	is treated with	tetanus prophylaxis
+pedal cyclist	is treated with	blood pressure support
+pedal cyclist	is treated with	oxygen therapy
+pedal cyclist	is treated with	intravenous fluids
+pedal cyclist	is treated with	blood transfusion
+pedal cyclist	is treated with	surgical fixation
+pedal cyclist	is treated with	spinal immobilization
+pedal cyclist	is treated with	helmet use
+pedal cyclist	is treated with	protective gear
+pedal cyclist	is treated with	safety education
+pedal cyclist	is treated with	helmet policy
+pedal cyclist	is treated with	road safety
+pedal cyclist	is associated with	helmet injury reduction
+pedal cyclist	is associated with	lower mortality
+pedal cyclist	is associated with	reduced head injury
+pedal cyclist	is associated with	increased ambulance transport
+pedal cyclist	is associated with	higher trauma center admission

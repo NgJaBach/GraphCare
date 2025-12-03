@@ -1,0 +1,100 @@
+secondary malignancies	are caused by	primary cancer
+secondary malignancies	increase risk of	mortality
+secondary malignancies	require	aggressive therapy
+secondary malignancies	predict	poor prognosis
+secondary malignancies	are detected by	imaging
+secondary malignancies	are diagnosed with	biopsy
+secondary malignancies	are staged by	TNM system
+secondary malignancies	are treated with	chemotherapy
+secondary malignancies	are treated with	radiation
+secondary malignancies	are treated with	surgery
+secondary malignancies	are managed by	multidisciplinary team
+secondary malignancies	are monitored by	tumor markers
+secondary malignancies	are monitored by	PET scan
+secondary malignancies	are monitored by	CT scan
+secondary malignancies	are monitored by	MRI
+secondary malignancies	are associated with	immunosuppression
+secondary malignancies	are associated with	chemotherapy toxicity
+secondary malignancies	are associated with	radiation exposure
+secondary malignancies	are associated with	genetic predisposition
+secondary malignancies	are associated with	age
+secondary malignancies	are associated with	smoking
+secondary malignancies	are associated with	alcohol
+secondary malignancies	are associated with	viral infection
+secondary malignancies	are associated with	chronic inflammation
+secondary malignancies	are associated with	hormone therapy
+secondary malignancies	are associated with	obesity
+secondary malignancies	are associated with	metabolic syndrome
+secondary malignancies	are associated with	chronic kidney disease
+secondary malignancies	are associated with	chronic liver disease
+secondary malignancies	are associated with	autoimmune disease
+secondary malignancies	are associated with	HIV
+secondary malignancies	are associated with	organ transplantation
+secondary malignancies	are associated with	bone marrow transplant
+secondary malignancies	are associated with	chronic steroid use
+secondary malignancies	are associated with	chemotherapy agents
+secondary malignancies	are associated with	targeted therapy
+secondary malignancies	are associated with	immunotherapy
+secondary malignancies	are associated with	endocrine therapy
+secondary malignancies	are associated with	hormonal imbalance
+secondary malignancies	are associated with	environmental toxins
+secondary malignancies	are associated with	occupational exposure
+secondary malignancies	are associated with	diet
+secondary malignancies	are associated with	physical inactivity
+secondary malignancies	are associated with	vitamin deficiency
+secondary malignancies	are associated with	micronutrient imbalance
+secondary malignancies	are associated with	gut microbiome
+secondary malignancies	are associated with	epigenetic changes
+secondary malignancies	are associated with	DNA repair defects
+secondary malignancies	are associated with	telomere shortening
+secondary malignancies	are associated with	oxidative stress
+secondary malignancies	are associated with	chronic hypoxia
+secondary malignancies	are associated with	angiogenesis
+secondary malignancies	are associated with	metastasis
+secondary malignancies	are associated with	tumor microenvironment
+secondary malignancies	are associated with	immune evasion
+secondary malignancies	are associated with	cytokine storm
+secondary malignancies	are associated with	inflammatory cytokines
+secondary malignancies	are associated with	growth factors
+secondary malignancies	are associated with	hormone receptors
+secondary malignancies	are associated with	receptor tyrosine kinases
+secondary malignancies	are associated with	oncogene activation
+secondary malignancies	are associated with	tumor suppressor loss
+secondary malignancies	are associated with	chromosomal translocation
+secondary malignancies	are associated with	copy number variation
+secondary malignancies	are associated with	microRNA dysregulation
+secondary malignancies	are associated with	long noncoding RNA
+secondary malignancies	are associated with	protein kinase C
+secondary malignancies	are associated with	PI3K/AKT pathway
+secondary malignancies	are associated with	MAPK pathway
+secondary malignancies	are associated with	WNT signaling
+secondary malignancies	are associated with	NOTCH signaling
+secondary malignancies	are associated with	Hedgehog signaling
+secondary malignancies	are associated with	mTOR pathway
+secondary malignancies	are associated with	apoptosis resistance
+secondary malignancies	are associated with	cell cycle arrest
+secondary malignancies	are associated with	DNA methylation
+secondary malignancies	are associated with	histone modification
+secondary malignancies	are associated with	chromatin remodeling
+secondary malignancies	are associated with	tumor heterogeneity
+secondary malignancies	are associated with	clonal evolution
+secondary malignancies	are associated with	drug resistance
+secondary malignancies	are associated with	tumor dormancy
+secondary malignancies	are associated with	relapse
+secondary malignancies	are associated with	recurrence
+secondary malignancies	are associated with	progression
+secondary malignancies	are associated with	metastasis pattern
+secondary malignancies	are associated with	organ tropism
+secondary malignancies	are associated with	bone marrow infiltration
+secondary malignancies	are associated with	liver metastasis
+secondary malignancies	are associated with	lung metastasis
+secondary malignancies	are associated with	brain metastasis
+secondary malignancies	are associated with	skin metastasis
+secondary malignancies	are associated with	lymph node involvement
+secondary malignancies	are associated with	peritoneal spread
+secondary malignancies	are associated with	pleural effusion
+secondary malignancies	are associated with	ascites
+secondary malignancies	are associated with	cachexia
+secondary malignancies	are associated with	anemia
+secondary malignancies	are associated with	thrombocytopenia
+secondary malignancies	are associated with	leukopenia

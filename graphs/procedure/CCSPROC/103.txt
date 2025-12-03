@@ -1,0 +1,100 @@
+nephrotomy	is a	surgical procedure
+nephrostomy	is a	catheterization
+nephrotomy	treats	kidney stones
+nephrostomy	treats	obstructive uropathy
+nephrostomy	treats	urinary tract infection
+nephrotomy	treats	renal failure
+nephrostomy	treats	hydronephrosis
+nephrostomy	treats	pyelonephritis
+nephrostomy	treats	post‑operative drainage
+nephrostomy	reduces	infection risk
+nephrostomy	reduces	hospital stay
+nephrostomy	reduces	morbidity
+nephrostomy	reduces	mortality
+nephrostomy	reduces	readmission
+nephrostomy	reduces	pain
+nephrostomy	reduces	analgesic use
+nephrostomy	increases	urine output
+nephrostomy	increases	renal perfusion
+nephrostomy	increases	patient comfort
+nephrostomy	increases	diagnostic accuracy
+nephrostomy	increases	surgical success
+nephrostomy	increases	early mobilization
+nephrostomy	increases	quality of life
+nephrostomy	is performed	percutaneous
+nephrostomy	is performed	under imaging
+nephrostomy	is performed	with ultrasound
+nephrostomy	is performed	with CT
+nephrostomy	is performed	with fluoroscopy
+nephrostomy	is performed	by interventional radiology
+nephrostomy	is performed	by urology
+nephrostomy	is performed	in ICU
+nephrostomy	is performed	in outpatient
+nephrostomy	is performed	in emergency
+nephrostomy	is performed	with local anesthesia
+nephrostomy	is performed	with sedation
+nephrostomy	is performed	with general anesthesia
+nephrostomy	is performed	with prophylactic antibiotics
+nephrostomy	is performed	with hemostatic agents
+nephrostomy	is performed	with guidewire
+nephrostomy	is performed	with dilator
+nephrostomy	is performed	with catheter
+nephrostomy	is performed	with balloon
+nephrostomy	is performed	with sheath
+nephrostomy	is performed	with stent
+nephrostomy	is performed	with drainage bag
+nephrostomy	is performed	with monitoring
+nephrostomy	is performed	with post‑procedure imaging
+nephrostomy	is performed	with follow‑up
+nephrostomy	is associated	bleeding
+nephrostomy	is associated	infection
+nephrostomy	is associated	catheter blockage
+nephrostomy	is associated	catheter dislodgement
+nephrostomy	is associated	pain
+nephrostomy	is associated	fever
+nephrostomy	is associated	hematuria
+nephrostomy	is associated	sepsis
+nephrostomy	is associated	renal dysfunction
+nephrostomy	is associated	electrolyte imbalance
+nephrostomy	is associated	catheter infection
+nephrostomy	is associated	catheter blockage
+nephrostomy	is associated	urinary leakage
+nephrostomy	is associated	peritonitis
+nephrostomy	is associated	cost
+nephrostomy	is associated	resource utilization
+nephrostomy	is associated	patient satisfaction
+nephrostomy	is associated	procedural time
+nephrostomy	is associated	radiation exposure
+nephrostomy	is associated	contrast nephropathy
+nephrostomy	is associated	procedural success
+nephrostomy	is associated	complication rate
+nephrostomy	is associated	learning curve
+nephrostomy	is associated	operator skill
+nephrostomy	is associated	equipment availability
+nephrostomy	is associated	hospital volume
+nephrostomy	is associated	patient comorbidity
+nephrostomy	is associated	age
+nephrostomy	is associated	gender
+nephrostomy	is associated	BMI
+nephrostomy	is associated	diabetes
+nephrostomy	is associated	hypertension
+nephrostomy	is associated	chronic kidney disease
+nephrostomy	is associated	prior surgery
+nephrostomy	is associated	anatomical variation
+nephrostomy	is associated	imaging findings
+nephrostomy	is associated	stone size
+nephrostomy	is associated	stone location
+nephrostomy	is associated	obstruction level
+nephrostomy	is associated	infection severity
+nephrostomy	is associated	sepsis risk
+nephrostomy	is associated	renal function trend
+nephrostomy	is associated	postoperative complications
+nephrostomy	is associated	readmission risk
+nephrostomy	is associated	mortality risk
+nephrostomy	is associated	cost‑effectiveness
+nephrostomy	is associated	quality‑adjusted life year
+nephrostomy	is associated	patient‑reported outcome
+nephrostomy	is associated	discharge disposition
+nephrostomy	is associated	length of stay
+nephrostomy	is associated	ICU admission
+nephrostomy	is associated	procedural success rate

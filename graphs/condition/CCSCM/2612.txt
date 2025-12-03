@@ -1,0 +1,100 @@
+overexertion	is a	injury
+overexertion	causes	muscle strain
+overexertion	leads to	fatigue
+overexertion	results in	dehydration
+overexertion	triggers	heat exhaustion
+overexertion	can cause	rhabdomyolysis
+overexertion	is reported in	emergency department
+overexertion	is coded as	E115
+overexertion	is coded as	E116
+overexertion	is coded as	E117
+overexertion	is coded as	E118
+overexertion	is coded as	E119
+overexertion	is coded as	E120
+overexertion	is coded as	E121
+overexertion	is coded as	E122
+overexertion	is coded as	E123
+overexertion	is coded as	E124
+overexertion	is coded as	E125
+overexertion	is coded as	E126
+overexertion	is coded as	E127
+overexertion	is coded as	E128
+overexertion	is coded as	E129
+overexertion	is coded as	E130
+overexertion	is coded as	E131
+overexertion	is coded as	E132
+overexertion	is coded as	E133
+overexertion	is coded as	E134
+overexertion	is coded as	E135
+overexertion	is coded as	E136
+overexertion	is coded as	E137
+overexertion	is coded as	E138
+overexertion	is coded as	E139
+overexertion	is associated with	cardiovascular strain
+overexertion	is associated with	respiratory distress
+overexertion	is associated with	electrolyte imbalance
+overexertion	is associated with	metabolic acidosis
+overexertion	is associated with	increased heart rate
+overexertion	is associated with	elevated blood pressure
+overexertion	is associated with	reduced oxygen saturation
+overexertion	is associated with	increased body temperature
+overexertion	is associated with	muscle cramp
+overexertion	is associated with	joint pain
+overexertion	is associated with	headache
+overexertion	is associated with	dizziness
+overexertion	is associated with	nausea
+overexertion	is associated with	vomiting
+overexertion	is associated with	loss of consciousness
+overexertion	is associated with	impaired cognition
+overexertion	is associated with	decreased mobility
+overexertion	is treated with	rest
+overexertion	is treated with	hydration
+overexertion	is treated with	electrolyte replacement
+overexertion	is treated with	cooling
+overexertion	is treated with	analgesics
+overexertion	is treated with	anti-inflammatory drugs
+overexertion	is treated with	physical therapy
+overexertion	is treated with	monitoring
+overexertion	is prevented by	gradual training
+overexertion	is prevented by	adequate warm‑up
+overexertion	is prevented by	proper hydration
+overexertion	is prevented by	wearing breathable clothing
+overexertion	is prevented by	pacing
+overexertion	is prevented by	using heart rate monitor
+overexertion	is prevented by	avoiding extreme heat
+overexertion	is prevented by	wearing sunscreen
+overexertion	is prevented by	maintaining electrolyte balance
+overexertion	is prevented by	adequate sleep
+overexertion	is prevented by	nutrition
+overexertion	is a risk factor for	cardiac arrest
+overexertion	is a risk factor for	stroke
+overexertion	is a risk factor for	kidney injury
+overexertion	is a risk factor for	liver injury
+overexertion	is a risk factor for	metabolic syndrome
+overexertion	is a risk factor for	chronic fatigue syndrome
+overexertion	is a risk factor for	depression
+overexertion	is a risk factor for	anxiety
+overexertion	is a risk factor for	sleep apnea
+overexertion	is a risk factor for	hypertension
+overexertion	is a risk factor for	arrhythmia
+overexertion	is a risk factor for	pulmonary embolism
+overexertion	is a risk factor for	deep vein thrombosis
+overexertion	is a risk factor for	muscle tear
+overexertion	is a risk factor for	tendon rupture
+overexertion	is a risk factor for	ligament sprain
+overexertion	is a risk factor for	joint degeneration
+overexertion	is a risk factor for	osteoporosis
+overexertion	is a risk factor for	sarcopenia
+overexertion	is a risk factor for	frailty
+overexertion	is a risk factor for	falls
+overexertion	is a risk factor for	hospitalization
+overexertion	is a risk factor for	readmission
+overexertion	is a risk factor for	mortality
+overexertion	is a predictor of	emergency department visits
+overexertion	is a predictor of	ICU admission
+overexertion	is a predictor of	mechanical ventilation
+overexertion	is a predictor of	renal failure
+overexertion	is a predictor of	liver failure
+overexertion	is a predictor of	cardiac arrhythmia
+overexertion	is a predictor of	electrolyte imbalance
+overexertion	is a predictor of	metabolic acidosis

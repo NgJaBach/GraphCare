@@ -1,0 +1,100 @@
+cancer of other female genital organs	is a	malignancy
+cancer of other female genital organs	affects	uterus
+cancer of other female genital organs	affects	cervix
+cancer of other female genital organs	affects	vagina
+cancer of other female genital organs	affects	vulva
+cancer of other female genital organs	is a	gynecologic cancer
+cancer of other female genital organs	is diagnosed with	imaging
+cancer of other female genital organs	is diagnosed with	biopsy
+cancer of other female genital organs	is staged by	FIGO
+cancer of other female genital organs	is staged by	TNM
+cancer of other female genital organs	is treated with	surgery
+cancer of other female genital organs	is treated with	chemotherapy
+cancer of other female genital organs	is treated with	radiotherapy
+cancer of other female genital organs	is treated with	hormone therapy
+cancer of other female genital organs	is treated with	targeted therapy
+cancer of other female genital organs	is treated with	immunotherapy
+cancer of other female genital organs	is treated with	palliative care
+surgery	reduces	tumor burden
+chemotherapy	reduces	metastasis risk
+radiotherapy	reduces	local recurrence
+hormone therapy	reduces	estrogen receptor activity
+targeted therapy	inhibits	HER2
+immunotherapy	activates	T‑cells
+palliative care	improves	quality of life
+cancer of other female genital organs	has risk factor	HPV infection
+cancer of other female genital organs	has risk factor	smoking
+cancer of other female genital organs	has risk factor	immunosuppression
+cancer of other female genital organs	has risk factor	early menarche
+cancer of other female genital organs	has risk factor	nulliparity
+cancer of other female genital organs	has risk factor	obesity
+cancer of other female genital organs	has symptom	abnormal bleeding
+cancer of other female genital organs	has symptom	pelvic pain
+cancer of other female genital organs	has symptom	urinary frequency
+cancer of other female genital organs	has symptom	weight loss
+cancer of other female genital organs	has symptom	fatigue
+cancer of other female genital organs	leads to	anemia
+cancer of other female genital organs	leads to	lymphadenopathy
+cancer of other female genital organs	leads to	ascites
+cancer of other female genital organs	leads to	metastasis
+metastasis	occurs in	liver
+metastasis	occurs in	lungs
+metastasis	occurs in	bone
+metastasis	occurs in	brain
+cancer of other female genital organs	prognosis depends on	stage
+cancer of other female genital organs	prognosis depends on	grade
+cancer of other female genital organs	prognosis depends on	histology
+cancer of other female genital organs	prognosis depends on	HPV status
+cancer of other female genital organs	prognosis depends on	performance status
+cancer of other female genital organs	prognosis depends on	comorbidities
+cancer of other female genital organs	mortality risk increases with	advanced stage
+cancer of other female genital organs	mortality risk increases with	poor response to therapy
+cancer of other female genital organs	mortality risk increases with	age
+cancer of other female genital organs	readmission risk increases with	postoperative complications
+cancer of other female genital organs	readmission risk increases with	infection
+cancer of other female genital organs	readmission risk increases with	anemia
+cancer of other female genital organs	readmission risk increases with	pain
+cancer of other female genital organs	readmission risk increases with	immobility
+cancer of other female genital organs	readmission risk increases with	nutritional deficiency
+cancer of other female genital organs	readmission risk increases with	chemotherapy toxicity
+cancer of other female genital organs	readmission risk increases with	radiotherapy side effects
+cancer of other female genital organs	readmission risk increases with	hormone therapy side effects
+cancer of other female genital organs	readmission risk increases with	targeted therapy side effects
+cancer of other female genital organs	readmission risk increases with	immunotherapy side effects
+cancer of other female genital organs	readmission risk increases with	comorbid heart disease
+cancer of other female genital organs	readmission risk increases with	comorbid kidney disease
+cancer of other female genital organs	readmission risk increases with	comorbid diabetes
+cancer of other female genital organs	readmission risk increases with	comorbid COPD
+cancer of other female genital organs	readmission risk increases with	frailty
+cancer of other female genital organs	readmission risk increases with	social isolation
+cancer of other female genital organs	readmission risk increases with	lack of follow‑up
+cancer of other female genital organs	readmission risk increases with	medication non‑adherence
+cancer of other female genital organs	readmission risk increases with	pain management failure
+cancer of other female genital organs	readmission risk increases with	infection risk
+cancer of other female genital organs	readmission risk increases with	dehydration
+cancer of other female genital organs	readmission risk increases with	electrolyte imbalance
+cancer of other female genital organs	readmission risk increases with	anemia
+cancer of other female genital organs	readmission risk increases with	thrombosis
+cancer of other female genital organs	readmission risk increases with	bleeding
+cancer of other female genital organs	readmission risk increases with	surgical site infection
+cancer of other female genital organs	readmission risk increases with	urinary tract infection
+cancer of other female genital organs	readmission risk increases with	pneumonia
+cancer of other female genital organs	readmission risk increases with	sepsis
+cancer of other female genital organs	readmission risk increases with	delirium
+cancer of other female genital organs	readmission risk increases with	falls
+cancer of other female genital organs	readmission risk increases with	pressure ulcers
+cancer of other female genital organs	readmission risk increases with	malnutrition
+cancer of other female genital organs	readmission risk increases with	depression
+cancer of other female genital organs	readmission risk increases with	anxiety
+cancer of other female genital organs	readmission risk increases with	caregiver burden
+cancer of other female genital organs	readmission risk increases with	transportation barriers
+cancer of other female genital organs	readmission risk increases with	medication cost
+cancer of other female genital organs	readmission risk increases with	insurance coverage
+cancer of other female genital organs	readmission risk increases with	health literacy
+cancer of other female genital organs	readmission risk increases with	language barrier
+cancer of other female genital organs	readmission risk increases with	cultural beliefs
+cancer of other female genital organs	readmission risk increases with	lack of social support
+cancer of other female genital organs	readmission risk increases with	postoperative pain
+cancer of other female genital organs	readmission risk increases with	postoperative nausea
+cancer of other female genital organs	readmission risk increases with	postoperative vomiting
+cancer of other female genital organs	readmission risk increases with	postoperative fatigue

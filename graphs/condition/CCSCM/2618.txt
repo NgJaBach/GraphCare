@@ -1,0 +1,100 @@
+e codes	are	ICD‑10 codes
+e codes	classify	external causes
+e codes	include	other specified injuries
+e codes	include	classifiable injuries
+e codes	are used in	hospital discharge data
+e codes	are used in	insurance claims
+e codes	are used in	epidemiologic studies
+e codes	are used in	quality metrics
+e codes	are used in	risk adjustment
+e codes	are used in	mortality prediction
+e codes	are used in	readmission prediction
+e codes	are used in	drug‑interaction alerts
+e codes	are used in	adverse event surveillance
+e codes	are used in	public health reporting
+e codes	are used in	health‑care cost analysis
+e codes	are used in	clinical decision support
+e codes	are used in	patient safety monitoring
+e codes	are used in	injury surveillance
+e codes	are used in	trauma registries
+e codes	are used in	occupational health
+e codes	are used in	environmental health
+e codes	are used in	injury prevention
+e codes	are used in	policy evaluation
+e codes	are used in	health‑policy research
+e codes	are used in	clinical research
+e codes	are used in	clinical trials
+e codes	are used in	post‑marketing surveillance
+e codes	are used in	pharmacovigilance
+e codes	are used in	health‑information exchange
+e codes	are used in	data mining
+e codes	are used in	machine learning
+e codes	are used in	predictive modeling
+e codes	are used in	risk stratification
+e codes	are used in	patient‑level analytics
+e codes	are used in	population health
+e codes	are used in	health‑care utilization
+e codes	are used in	cost‑effectiveness analysis
+e codes	are used in	health‑care planning
+e codes	are used in	resource allocation
+e codes	are used in	health‑care delivery
+e codes	are used in	quality improvement
+e codes	are used in	benchmarking
+e codes	are used in	performance measurement
+e codes	are used in	accreditation
+e codes	are used in	regulatory compliance
+e codes	are used in	clinical governance
+e codes	are used in	safety culture
+e codes	are used in	incident reporting
+e codes	are used in	root‑cause analysis
+e codes	are used in	harm reduction
+e codes	are used in	injury prevention programs
+e codes	are used in	public‑health interventions
+e codes	are used in	injury‑control policies
+e codes	are used in	surveillance systems
+e codes	are used in	health‑information systems
+e codes	are used in	electronic health records
+e codes	are used in	clinical documentation
+e codes	are used in	coding audits
+e codes	are used in	reimbursement
+e codes	are used in	fee‑for‑service
+e codes	are used in	bundled payment
+e codes	are used in	value‑based payment
+e codes	are used in	pay‑for‑performance
+e codes	are used in	risk‑based payment
+e codes	are used in	incentive programs
+e codes	are used in	quality‑based payment
+e codes	are used in	outcome‑based payment
+e codes	are used in	health‑care financing
+e codes	are used in	health‑policy analysis
+e codes	are used in	health‑care economics
+e codes	are used in	cost‑of‑illness studies
+e codes	are used in	burden‑of‑disease studies
+e codes	are used in	health‑care research
+e codes	are used in	clinical informatics
+e codes	are used in	health‑information technology
+e codes	are used in	data integration
+e codes	are used in	interoperability
+e codes	are used in	health‑care analytics
+e codes	are used in	predictive analytics
+e codes	are used in	risk‑prediction models
+e codes	are used in	mortality models
+e codes	are used in	readmission models
+e codes	are used in	length‑of‑stay models
+e codes	are used in	cost‑prediction models
+e codes	are used in	resource‑utilization models
+e codes	are used in	patient‑flow models
+e codes	are used in	health‑care simulation
+e codes	are used in	decision‑analysis
+e codes	are used in	health‑care optimization
+e codes	are used in	policy‑simulation
+e codes	are used in	scenario‑analysis
+e codes	are used in	health‑care forecasting
+e codes	are used in	trend‑analysis
+e codes	are used in	time‑series analysis
+e codes	are used in	spatial analysis
+e codes	are used in	cluster analysis
+e codes	are used in	natural‑language processing
+e codes	are used in	text mining
+e codes	are used in	data‑science pipelines
+e codes	are used in	health‑care AI

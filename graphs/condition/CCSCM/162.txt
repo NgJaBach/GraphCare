@@ -1,0 +1,100 @@
+other diseases of bladder and urethra	includes	cystitis
+other diseases of bladder and urethra	includes	urethritis
+other diseases of bladder and urethra	includes	bladder cancer
+other diseases of bladder and urethra	includes	urethral stricture
+other diseases of bladder and urethra	includes	interstitial cystitis
+other diseases of bladder and urethra	includes	bladder stone
+other diseases of bladder and urethra	includes	urethral prolapse
+other diseases of bladder and urethra	includes	bladder diverticulum
+other diseases of bladder and urethra	includes	urethral fistula
+other diseases of bladder and urethra	includes	bladder infection
+cystitis	is a	bladder inflammation
+cystitis	is caused by	bacterial infection
+cystitis	is treated with	antibiotics
+cystitis	increases risk of	recurrent urinary tract infection
+cystitis	is diagnosed by	urine culture
+urethritis	is a	urethral inflammation
+urethritis	is caused by	sexually transmitted infection
+urethritis	is treated with	antibiotics
+urethritis	is diagnosed by	urethral swab
+urethritis	increases risk of	infertility
+bladder cancer	is a	malignant tumor
+bladder cancer	is diagnosed by	cystoscopy
+bladder cancer	is treated with	surgery
+bladder cancer	is treated with	chemotherapy
+bladder cancer	is treated with	immunotherapy
+bladder cancer	increases mortality risk
+urethral stricture	is a	urethral narrowing
+urethral stricture	is caused by	scar tissue
+urethral stricture	is treated with	urethrotomy
+urethral stricture	is treated with	urethral dilation
+urethral stricture	leads to	urinary retention
+interstitial cystitis	is a	chronic bladder pain
+interstitial cystitis	is diagnosed by	bladder biopsy
+interstitial cystitis	is treated with	bladder instillation
+interstitial cystitis	is treated with	pain medication
+interstitial cystitis	increases risk of	depression
+bladder stone	is a	urinary calculi
+bladder stone	is formed by	crystallization
+bladder stone	is treated with	lithotripsy
+bladder stone	is treated with	surgical removal
+bladder stone	causes	hematuria
+urethral prolapse	is a	urethral tissue protrusion
+urethral prolapse	is treated with	surgical repair
+urethral prolapse	leads to	urinary incontinence
+bladder diverticulum	is a	bladder outpouching
+bladder diverticulum	is caused by	bladder outlet obstruction
+bladder diverticulum	is treated with	diverticulectomy
+bladder diverticulum	increases risk of	infection
+urethral fistula	is a	abnormal urethral tract
+urethral fistula	is caused by	trauma
+urethral fistula	is treated with	surgical repair
+urethral fistula	leads to	urinary leakage
+bladder infection	is a	urinary tract infection
+bladder infection	is diagnosed by	urinalysis
+bladder infection	is treated with	antibiotics
+bladder infection	increases risk of	pyelonephritis
+urinary tract infection	is a	common infection
+urinary tract infection	is caused by	E. coli
+urinary tract infection	is treated with	nitrofurantoin
+urinary tract infection	leads to	sepsis
+urinary retention	is a	urinary blockage
+urinary retention	is caused by	urethral stricture
+urinary retention	is treated with	catheterization
+urinary retention	leads to	bladder damage
+hematuria	is a	blood in urine
+hematuria	is caused by	bladder stone
+hematuria	is a sign of	bladder cancer
+pain medication	is used for	interstitial cystitis
+pain medication	includes	NSAIDs
+NSAIDs	are used for	inflammation
+surgery	is a	treatment modality
+chemotherapy	is a	cancer treatment
+immunotherapy	is a	cancer treatment
+cystoscopy	is a	diagnostic procedure
+cystoscopy	is used to	visualize bladder
+urine culture	is a	diagnostic test
+urine culture	detects	bacterial growth
+urethral swab	is a	diagnostic test
+urine culture	guides	antibiotic choice
+urine culture	is used for	cystitis
+urine culture	is used for	urethritis
+urinary incontinence	is a	symptom
+urinary incontinence	is caused by	urethral prolapse
+urinary incontinence	is treated with	pelvic floor therapy
+pelvic floor therapy	is a	non-surgical treatment
+pelvic floor therapy	improves	bladder control
+bladder outlet obstruction	is a	cause
+bladder outlet obstruction	leads to	bladder diverticulum
+bladder outlet obstruction	is treated with	surgery
+bladder outlet obstruction	is treated with	medication
+trauma	is a	cause
+trauma	leads to	urethral fistula
+trauma	leads to	urethral stricture
+surgical repair	is a	treatment
+surgical repair	is performed for	urethral fistula
+surgical repair	is performed for	urethral stricture
+lithotripsy	is a	stone treatment
+lithotripsy	uses	shock waves
+diverticulectomy	is a	surgical procedure
+diverticulectomy	removes	bladder diverticulum

@@ -1,0 +1,100 @@
+lung cancer	is a	malignancy
+lung cancer	originates in	bronchial epithelium
+lung cancer	is classified as	small cell
+lung cancer	is classified as	non‑small cell
+small cell lung cancer	is aggressive
+non‑small cell lung cancer	is slower
+lung cancer	is diagnosed with	CT scan
+lung cancer	is diagnosed with	PET scan
+lung cancer	is diagnosed with	biopsy
+lung cancer	is staged by	TNM system
+lung cancer	is staged as	stage I
+lung cancer	is staged as	stage IV
+lung cancer	is treated with	surgery
+lung cancer	is treated with	chemotherapy
+lung cancer	is treated with	radiation
+lung cancer	is treated with	targeted therapy
+lung cancer	is treated with	immunotherapy
+surgery	removes	tumor
+chemotherapy	uses	cisplatin
+chemotherapy	uses	paclitaxel
+radiation	delivers	ionizing radiation
+targeted therapy	inhibits	EGFR
+targeted therapy	inhibits	ALK
+immunotherapy	blocks	PD‑1
+immunotherapy	blocks	CTLA‑4
+EGFR mutation	predicts	gefitinib response
+ALK rearrangement	predicts	crizotinib response
+PD‑L1 expression	predicts	pembrolizumab response
+smoking	causes	lung cancer
+passive smoke	increases risk of	lung cancer
+radon exposure	increases risk of	lung cancer
+asbestos exposure	increases risk of	mesothelioma
+asbestos exposure	increases risk of	lung cancer
+lung cancer	causes	cough
+lung cancer	causes	hemoptysis
+lung cancer	causes	weight loss
+lung cancer	causes	dyspnea
+lung cancer	causes	chest pain
+lung cancer	causes	anemia
+lung cancer	leads to	metastasis
+metastasis	occurs in	brain
+metastasis	occurs in	bone
+metastasis	occurs in	liver
+metastasis	occurs in	adrenal
+brain metastasis	causes	seizures
+bone metastasis	causes	fractures
+liver metastasis	causes	jaundice
+adrenal metastasis	causes	hormonal imbalance
+lung cancer	increases risk of	venous thromboembolism
+lung cancer	increases risk of	pneumonia
+lung cancer	increases risk of	respiratory failure
+lung cancer	increases risk of	death
+lung cancer	is associated with	poor prognosis
+early stage	improves	survival
+late stage	reduces	survival
+biomarker	predicts	treatment response
+KRAS mutation	predicts	poor response to EGFR therapy
+p53 mutation	predicts	aggressive disease
+tumor mutational burden	predicts	immunotherapy benefit
+LDH level	predicts	tumor burden
+CEA level	predicts	recurrence
+prognostic score	predicts	overall survival
+performance status	predicts	treatment tolerance
+age	predicts	treatment choice
+gender	predicts	incidence
+race	predicts	incidence
+comorbidity	predicts	mortality
+cardiovascular disease	predicts	treatment complications
+COPD	predicts	postoperative risk
+renal function	predicts	chemotherapy toxicity
+liver function	predicts	chemotherapy toxicity
+body mass index	predicts	survival
+nutrition status	predicts	recovery
+social support	predicts	adherence
+health literacy	predicts	self‑management
+insurance status	predicts	access to care
+geographic location	predicts	treatment availability
+hospital volume	predicts	surgical outcomes
+oncologist experience	predicts	survival
+clinical trial enrollment	improves	outcomes
+palliative care	improves	quality of life
+palliative care	reduces	hospital readmission
+palliative care	reduces	opioid use
+symptom management	reduces	distress
+early detection	reduces	mortality
+screening	reduces	late presentation
+low-dose CT	reduces	lung cancer mortality
+smoking cessation	reduces	recurrence
+exercise	improves	functional status
+diet	improves	immune function
+supplementation	reduces	side effects
+pharmacogenomics	guides	dosing
+real‑world evidence	informs	guidelines
+electronic health record	supports	risk stratification
+machine learning	predicts	relapse
+biobank	provides	research material
+patient‑reported outcomes	guide	therapy adjustments
+telemedicine	increases	follow‑up adherence
+multidisciplinary team	improves	coordination
+clinical pathway	standardizes	care

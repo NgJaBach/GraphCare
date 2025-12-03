@@ -1,0 +1,100 @@
+pedestrian	is a	road user
+pedestrian	is exposed to	traffic
+traffic	increases	collision risk
+collision risk	leads to	injury
+injury	may cause	fracture
+injury	may cause	head trauma
+injury	may cause	spinal cord injury
+injury	may cause	amputation
+injury	may cause	disability
+injury	may cause	death
+death	is a	mortality outcome
+mortality outcome	is predicted by	age
+mortality outcome	is predicted by	comorbidity
+mortality outcome	is predicted by	injury severity
+mortality outcome	is predicted by	time to care
+time to care	is measured by	EMS response time
+EMS response time	is influenced by	traffic congestion
+traffic congestion	is influenced by	weather
+weather	is predicted by	meteorological forecast
+meteorological forecast	is used by	emergency dispatch
+emergency dispatch	schedules	ambulance
+ambulance	transports	patient
+patient	is evaluated by	triage nurse
+triage nurse	assigns	triage level
+triage level	determines	resource allocation
+resource allocation	includes	imaging
+imaging	includes	CT scan
+CT scan	detects	intracranial hemorrhage
+intracranial hemorrhage	requires	neurosurgery
+neurosurgery	is performed by	neurosurgeon
+neurosurgeon	is a	specialist
+specialist	is part of	surgical team
+surgical team	includes	anesthesiologist
+anesthesiologist	administers	anesthesia
+anesthesia	is monitored by	anesthesia monitor
+anesthesia monitor	records	vital signs
+vital signs	are used to	assess stability
+stability	is assessed by	critical care team
+critical care team	includes	intensivist
+intensivist	manages	ICU care
+ICU care	includes	ventilator support
+ventilator support	is adjusted by	respiratory therapist
+respiratory therapist	monitors	oxygenation
+oxygenation	is measured by	pulse oximetry
+pulse oximetry	provides	SpO2
+SpO2	guides	oxygen therapy
+oxygen therapy	is prescribed by	pulmonologist
+pulmonologist	is a	specialist
+specialist	is part of	multidisciplinary team
+multidisciplinary team	collaborates on	discharge planning
+discharge planning	includes	rehabilitation referral
+rehabilitation referral	is to	physical therapy
+physical therapy	improves	mobility
+mobility	reduces	fall risk
+fall risk	is assessed by	fall risk assessment
+fall risk assessment	is performed by	occupational therapist
+occupational therapist	evaluates	home safety
+home safety	is improved by	safety modifications
+safety modifications	reduce	injury recurrence
+injury recurrence	is a	readmission risk
+readmission risk	is predicted by	prior admission history
+prior admission history	is recorded in	electronic health record
+electronic health record	is accessed by	clinical decision support
+clinical decision support	alerts	high-risk patients
+high-risk patients	receive	targeted interventions
+targeted interventions	include	medication reconciliation
+medication reconciliation	is performed by	pharmacist
+pharmacist	reviews	drug interactions
+drug interactions	are flagged by	drug interaction database
+drug interaction database	is updated by	pharmacovigilance
+pharmacovigilance	monitors	adverse drug events
+adverse drug events	are reported to	regulatory agency
+regulatory agency	issues	safety alerts
+safety alerts	inform	prescriber behavior
+prescriber behavior	influences	medication adherence
+medication adherence	affects	disease control
+disease control	is measured by	biomarker levels
+biomarker levels	are tracked in	laboratory information system
+laboratory information system	integrates with	clinical workflow
+clinical workflow	is optimized by	process improvement
+process improvement	uses	Lean methodology
+Lean methodology	reduces	waste
+waste	reduces	cost
+cost	is monitored by	health economics
+health economics	informs	reimbursement policy
+reimbursement policy	affects	resource availability
+resource availability	influences	patient outcomes
+patient outcomes	are evaluated by	quality metrics
+quality metrics	are reported to	accreditation bodies
+accreditation bodies	set standards for	patient safety
+patient safety	is improved by	safety culture
+safety culture	is fostered by	leadership engagement
+leadership engagement	drives	continuous improvement
+continuous improvement	leads to	better care delivery
+better care delivery	reduces	adverse events
+adverse events	are captured by	incident reporting
+incident reporting	feeds into	root cause analysis
+root cause analysis	identifies	system failures
+system failures	are corrected by	corrective action
+corrective action	prevents	future errors

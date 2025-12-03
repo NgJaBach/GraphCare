@@ -1,0 +1,100 @@
+conduction disorders	are a	cardiac abnormality
+conduction disorders	involve	electrical conduction
+conduction disorders	affect	heart rhythm
+conduction disorders	include	atrioventricular block
+conduction disorders	include	bundle branch block
+conduction disorders	include	sick sinus syndrome
+conduction disorders	include	Wolff-Parkinson-White syndrome
+conduction disorders	cause	arrhythmia
+conduction disorders	lead to	syncope
+conduction disorders	increase	mortality risk
+conduction disorders	predict	sudden cardiac death
+conduction disorders	are diagnosed with	electrocardiogram
+electrocardiogram	detects	PR interval
+electrocardiogram	detects	QRS duration
+electrocardiogram	detects	QT interval
+electrocardiogram	detects	bundle branch block
+electrocardiogram	detects	atrioventricular block
+electrocardiogram	detects	Wolff-Parkinson-White pattern
+electrocardiogram	is a	noninvasive test
+conduction disorders	are treated with	pacemaker
+pacemaker	restores	heart rhythm
+pacemaker	reduces	syncope
+pacemaker	improves	quality of life
+pacemaker	is implanted in	patients
+pacemaker	requires	battery replacement
+pacemaker	can be	single chamber
+pacemaker	can be	dual chamber
+pacemaker	can be	biventricular
+conduction disorders	are treated with	antiarrhythmic drugs
+antiarrhythmic drugs	include	beta blockers
+antiarrhythmic drugs	include	amiodarone
+antiarrhythmic drugs	include	flecainide
+beta blockers	reduce	heart rate
+beta blockers	reduce	blood pressure
+beta blockers	are contraindicated in	asthma
+amiodarone	is a	class III antiarrhythmic
+flecainide	is a	class IC antiarrhythmic
+conduction disorders	are associated with	ischemic heart disease
+conduction disorders	are associated with	cardiomyopathy
+conduction disorders	are associated with	electrolyte imbalance
+conduction disorders	are associated with	myocardial infarction
+conduction disorders	are associated with	heart failure
+conduction disorders	are associated with	hypertension
+conduction disorders	are associated with	diabetes mellitus
+conduction disorders	are associated with	thyroid disease
+conduction disorders	are associated with	alcohol abuse
+conduction disorders	are associated with	drug toxicity
+conduction disorders	predict	readmission
+conduction disorders	predict	hospitalization
+conduction disorders	predict	emergency department visits
+conduction disorders	predict	mortality
+conduction disorders	predict	heart failure progression
+conduction disorders	predict	pacemaker implantation
+conduction disorders	predict	arrhythmia recurrence
+conduction disorders	are risk factors for	stroke
+conduction disorders	are risk factors for	cognitive decline
+conduction disorders	are risk factors for	depression
+conduction disorders	are risk factors for	reduced exercise tolerance
+conduction disorders	are risk factors for	reduced life expectancy
+conduction disorders	are monitored with	Holter monitor
+Holter monitor	records	24‑hour ECG
+Holter monitor	detects	intermittent arrhythmia
+Holter monitor	is a	ambulatory test
+conduction disorders	are monitored with	event recorder
+event recorder	records	symptomatic arrhythmia
+conduction disorders	are monitored with	implantable loop recorder
+implantable loop recorder	records	long‑term ECG
+conduction disorders	are monitored with	cardiac telemetry
+cardiac telemetry	records	continuous ECG
+conduction disorders	are treated with	catheter ablation
+catheter ablation	targets	accessory pathway
+catheter ablation	reduces	Wolff-Parkinson-White recurrence
+catheter ablation	is performed in	electrophysiology lab
+conduction disorders	are treated with	anti‑inflammatory therapy
+anti‑inflammatory therapy	includes	corticosteroids
+corticosteroids	are used in	myocarditis
+conduction disorders	are treated with	immunosuppressants
+immunosuppressants	include	azathioprine
+immunosuppressants	include	mycophenolate mofetil
+conduction disorders	are associated with	genetic mutations
+conduction disorders	are associated with	SCN5A mutation
+conduction disorders	are associated with	KCNQ1 mutation
+conduction disorders	are associated with	HCN4 mutation
+conduction disorders	are associated with	familial conduction disease
+conduction disorders	are associated with	long QT syndrome
+conduction disorders	are associated with	Brugada syndrome
+conduction disorders	are associated with	cardiac sarcoidosis
+conduction disorders	are associated with	Lyme disease
+conduction disorders	are associated with	HIV infection
+conduction disorders	are associated with	rheumatic fever
+conduction disorders	are associated with	congenital heart disease
+conduction disorders	are associated with	pericarditis
+conduction disorders	are associated with	myocardial scarring
+conduction disorders	are associated with	electrolyte disturbance
+conduction disorders	are associated with	medication side effect
+conduction disorders	are associated with	surgical injury
+conduction disorders	are associated with	aging
+conduction disorders	are associated with	autonomic dysfunction
+conduction disorders	are associated with	sleep apnea
+conduction disorders	are associated with	obesity

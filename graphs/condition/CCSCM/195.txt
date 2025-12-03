@@ -1,0 +1,100 @@
+postpartum hemorrhage	is a	obstetric emergency
+postpartum hemorrhage	requires	uterine massage
+uterine massage	reduces	bleeding
+postpartum hemorrhage	treated with	oxytocin
+oxytocin	is a	uterotonic
+uterotonic	increases	uterine tone
+uterine tone	prevents	hemorrhage
+postpartum hemorrhage	can cause	hypovolemic shock
+hypovolemic shock	leads to	organ failure
+organ failure	increases	mortality
+postpartum hemorrhage	diagnosed by	blood loss
+blood loss	measured by	uterine cavity
+uterine cavity	assessed with	ultrasound
+ultrasound	detects	retained placenta
+retained placenta	causes	hemorrhage
+retained placenta	treated with	manual removal
+manual removal	performed by	obstetrician
+obstetrician	may prescribe	tranexamic acid
+tranexamic acid	is a	antifibrinolytic
+antifibrinolytic	reduces	bleeding
+postpartum hemorrhage	associated with	anemia
+anemia	managed with	iron supplementation
+iron supplementation	improves	hemoglobin
+hemoglobin	indicates	anemia severity
+anemia severity	predicts	readmission risk
+readmission risk	increased by	postpartum complications
+postpartum complications	include	infection
+infection	diagnosed by	fever
+fever	treated with	antibiotics
+antibiotics	selected by	culture sensitivity
+culture sensitivity	guides	antibiotic choice
+antibiotic choice	affects	resistance
+resistance	leads to	treatment failure
+treatment failure	increases	morbidity
+morbidity	predicts	mortality
+mortality	influenced by	comorbidities
+comorbidities	include	hypertension
+hypertension	managed with	antihypertensives
+antihypertensives	include	labetalol
+labetalol	reduces	blood pressure
+blood pressure	monitored by	sphygmomanometer
+sphygmomanometer	measures	systolic pressure
+systolic pressure	indicates	cardiovascular risk
+cardiovascular risk	predicts	readmission
+readmission	associated with	postpartum depression
+postpartum depression	screened by	Edinburgh Postnatal Depression Scale
+EPDS	identifies	depressive symptoms
+depressive symptoms	treated with	psychotherapy
+psychotherapy	improves	mood
+mood	affects	adherence
+adherence	influences	treatment success
+treatment success	reduces	complications
+complications	include	uterine atony
+uterine atony	treated with	misoprostol
+misoprostol	is a	prostaglandin analogue
+prostaglandin analogue	increases	uterine contractions
+uterine contractions	reduce	bleeding
+bleeding	monitored by	vital signs
+vital signs	include	heart rate
+heart rate	increases	during hemorrhage
+hemorrhage	leads to	tachycardia
+tachycardia	indicates	volume loss
+volume loss	treated with	fluid resuscitation
+fluid resuscitation	uses	crystalloids
+crystalloids	restore	intravascular volume
+intravascular volume	stabilizes	blood pressure
+blood pressure	stabilizes	organ perfusion
+organ perfusion	prevents	organ dysfunction
+organ dysfunction	predicts	ICU admission
+ICU admission	increases	cost
+cost	affects	healthcare utilization
+healthcare utilization	measured by	length of stay
+length of stay	correlates with	readmission
+readmission	influenced by	discharge planning
+discharge planning	includes	follow‑up visits
+follow‑up visits	scheduled by	primary care
+primary care	monitors	blood glucose
+blood glucose	relevant for	gestational diabetes
+gestational diabetes	managed with	diet
+diet	prescribed by	dietitian
+dietitian	advises	carbohydrate counting
+carbohydrate counting	reduces	glucose spikes
+glucose spikes	decrease	postpartum complications
+postpartum complications	include	mastitis
+mastitis	diagnosed by	breast pain
+breast pain	treated with	antibiotics
+antibiotics	selected by	pathogen
+pathogen	identified by	culture
+culture	informs	antibiotic stewardship
+antibiotic stewardship	reduces	resistance
+resistance	lowers	treatment cost
+treatment cost	impacts	patient adherence
+patient adherence	affects	recovery
+recovery	measured by	functional status
+functional status	assessed by	Barthel Index
+Barthel Index	predicts	independence
+independence	reduces	caregiver burden
+caregiver burden	linked to	mental health
+mental health	improves	quality of life
+quality of life	predicts	long‑term outcomes

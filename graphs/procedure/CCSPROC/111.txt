@@ -1,0 +1,100 @@
+cystoscopy	is a	diagnostic procedure
+cystoscopy	visualizes	bladder
+cystoscopy	detects	tumors
+cystoscopy	detects	stones
+cystoscopy	detects	infections
+cystoscopy	guides	biopsy
+cystoscopy	guides	resection
+cystoscopy	uses	flexible scope
+cystoscopy	uses	rigid scope
+cystoscopy	requires	anesthesia
+cystoscopy	has	risk of bleeding
+cystoscopy	has	risk of infection
+cystoscopy	has	risk of perforation
+cystoscopy	improves	diagnostic accuracy
+cystoscopy	improves	patient comfort
+cystoscopy	improves	treatment planning
+cystoscopy	is performed	outpatient
+cystoscopy	is performed	inpatient
+cystoscopy	is performed	by urologist
+cystoscopy	is performed	by nurse practitioner
+cystoscopy	is performed	with local anesthesia
+cystoscopy	is performed	with general anesthesia
+cystoscopy	is performed	with sedation
+cystoscopy	is performed	for hematuria
+cystoscopy	is performed	for recurrent UTIs
+cystoscopy	is performed	for bladder pain
+cystoscopy	is performed	for bladder cancer
+cystoscopy	is performed	for urethral strictures
+cystoscopy	is performed	for urethral diverticula
+cystoscopy	is performed	for bladder stones
+cystoscopy	is performed	for bladder trauma
+cystoscopy	is performed	for urinary retention
+cystoscopy	is performed	for evaluation of bladder function
+cystoscopy	is performed	for evaluation of urethral anatomy
+cystoscopy	is performed	for evaluation of ureteral orifices
+cystoscopy	is performed	for evaluation of bladder mucosa
+cystoscopy	is performed	for evaluation of bladder capacity
+cystoscopy	is performed	for evaluation of bladder compliance
+cystoscopy	is performed	for evaluation of bladder wall thickness
+cystoscopy	is performed	for evaluation of bladder lesions
+cystoscopy	is performed	for evaluation of bladder inflammation
+cystoscopy	is performed	for evaluation of bladder infection
+cystoscopy	is performed	for evaluation of bladder pain syndrome
+cystoscopy	is performed	for evaluation of bladder dysfunction
+cystoscopy	is performed	for evaluation of bladder cancer staging
+cystoscopy	is performed	for evaluation of bladder cancer grading
+cystoscopy	is performed	for evaluation of bladder cancer recurrence
+cystoscopy	is performed	for evaluation of bladder cancer progression
+cystoscopy	is performed	for evaluation of bladder cancer response
+cystoscopy	is performed	for evaluation of bladder cancer treatment
+cystoscopy	is performed	for evaluation of bladder cancer surveillance
+cystoscopy	is performed	for evaluation of bladder cancer risk
+cystoscopy	is performed	for evaluation of bladder cancer prognosis
+cystoscopy	is performed	for evaluation of bladder cancer mortality
+cystoscopy	is performed	for evaluation of bladder cancer readmission
+cystoscopy	is performed	for evaluation of bladder cancer complications
+cystoscopy	is performed	for evaluation of bladder cancer outcomes
+cystoscopy	is performed	for evaluation of bladder cancer quality
+cystoscopy	is performed	for evaluation of bladder cancer cost
+cystoscopy	is performed	for evaluation of bladder cancer utilization
+cystoscopy	is performed	for evaluation of bladder cancer trends
+cystoscopy	is performed	for evaluation of bladder cancer disparities
+cystoscopy	is performed	for evaluation of bladder cancer guidelines
+cystoscopy	is performed	for evaluation of bladder cancer evidence
+cystoscopy	is performed	for evaluation of bladder cancer research
+cystoscopy	is performed	for evaluation of bladder cancer policy
+cystoscopy	is performed	for evaluation of bladder cancer practice
+cystoscopy	is performed	for evaluation of bladder cancer education
+cystoscopy	is performed	for evaluation of bladder cancer training
+cystoscopy	is performed	for evaluation of bladder cancer simulation
+cystoscopy	is performed	for evaluation of bladder cancer telemedicine
+cystoscopy	is performed	for evaluation of bladder cancer remote monitoring
+cystoscopy	is performed	for evaluation of bladder cancer patient‑reported outcomes
+cystoscopy	is performed	for evaluation of bladder cancer health‑related quality of life
+cystoscopy	is performed	for evaluation of bladder cancer survivorship
+cystoscopy	is performed	for evaluation of bladder cancer palliative care
+cystoscopy	is performed	for evaluation of bladder cancer clinical trials
+cystoscopy	is performed	for evaluation of bladder cancer registries
+cystoscopy	is performed	for evaluation of bladder cancer data analytics
+cystoscopy	is performed	for evaluation of bladder cancer predictive modeling
+cystoscopy	is performed	for evaluation of bladder cancer risk stratification
+cystoscopy	is performed	for evaluation of bladder cancer decision support
+cystoscopy	is performed	for evaluation of bladder cancer artificial intelligence
+cystoscopy	is performed	for evaluation of bladder cancer machine learning
+cystoscopy	is performed	for evaluation of bladder cancer deep learning
+cystoscopy	is performed	for evaluation of bladder cancer image analysis
+cystoscopy	is performed	for evaluation of bladder cancer segmentation
+cystoscopy	is performed	for evaluation of bladder cancer classification
+cystoscopy	is performed	for evaluation of bladder cancer detection
+cystoscopy	is performed	for evaluation of bladder cancer screening
+cystoscopy	is performed	for evaluation of bladder cancer prevention
+cystoscopy	is performed	for evaluation of bladder cancer early detection
+cystoscopy	is performed	for evaluation of bladder cancer biomarkers
+cystoscopy	is performed	for evaluation of bladder cancer genomics
+cystoscopy	is performed	for evaluation of bladder cancer proteomics
+cystoscopy	is performed	for evaluation of bladder cancer metabolomics
+cystoscopy	is performed	for evaluation of bladder cancer transcriptomics
+cystoscopy	is performed	for evaluation of bladder cancer epigenomics
+cystoscopy	is performed	for evaluation of bladder cancer immunology
+cystoscopy	is performed	for evaluation of bladder cancer microbiome

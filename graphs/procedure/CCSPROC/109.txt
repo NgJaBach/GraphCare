@@ -1,0 +1,100 @@
+urethral catheterization	is a	procedure
+urethral catheterization	used for	drainage
+urethral catheterization	reduces	urinary retention
+urethral catheterization	increases	infection risk
+urethral catheterization	requires	sterile technique
+urethral catheterization	performed by	urologist
+urethral catheterization	can cause	urethral trauma
+urethral catheterization	can cause	urethral strictures
+urethral catheterization	associated with	catheter-associated UTIs
+urethral catheterization	associated with	hematuria
+urethral catheterization	associated with	bladder spasms
+urethral catheterization	associated with	patient discomfort
+urethral catheterization	associated with	catheter blockage
+urethral catheterization	associated with	catheter dislodgement
+urethral catheterization	associated with	catheter size
+urethral catheterization	associated with	catheter material
+urethral catheterization	associated with	catheter type
+urethral catheterization	associated with	catheter duration
+urethral catheterization	associated with	catheter maintenance
+urethral catheterization	associated with	catheter removal
+urethral catheterization	associated with	catheter insertion pain
+urethral catheterization	associated with	catheter insertion time
+urethral catheterization	associated with	catheter insertion success
+urethral catheterization	associated with	catheter insertion complications
+urethral catheterization	associated with	catheter insertion technique
+urethral catheterization	associated with	catheter insertion equipment
+urethral catheterization	associated with	catheter insertion site
+urethral catheterization	associated with	catheter insertion angle
+urethral catheterization	associated with	catheter insertion depth
+urethral catheterization	associated with	catheter insertion pressure
+urethral catheterization	associated with	catheter insertion duration
+urethral catheterization	associated with	catheter insertion success rate
+urethral catheterization	associated with	catheter insertion failure
+urethral catheterization	associated with	catheter insertion complications rate
+urethral catheterization	associated with	catheter insertion complications severity
+urethral catheterization	associated with	catheter insertion complications type
+urethral catheterization	associated with	catheter insertion complications frequency
+urethral catheterization	associated with	catheter insertion complications risk
+urethral catheterization	associated with	catheter insertion complications prevention
+urethral catheterization	associated with	catheter insertion complications management
+urethral catheterization	associated with	catheter insertion complications outcomes
+urethral catheterization	associated with	catheter insertion complications prognosis
+urethral catheterization	associated with	catheter insertion complications treatment
+urethral catheterization	associated with	catheter insertion complications follow‑up
+urethral catheterization	associated with	catheter insertion complications documentation
+urethral catheterization	associated with	catheter insertion complications education
+urethral catheterization	associated with	catheter insertion complications training
+urethral catheterization	associated with	catheter insertion complications guidelines
+urethral catheterization	associated with	catheter insertion complications protocols
+urethral catheterization	associated with	catheter insertion complications audits
+urethral catheterization	associated with	catheter insertion complications quality
+urethral catheterization	associated with	catheter insertion complications safety
+urethral catheterization	associated with	catheter insertion complications monitoring
+urethral catheterization	associated with	catheter insertion complications reporting
+urethral catheterization	associated with	catheter insertion complications review
+urethral catheterization	associated with	catheter insertion complications improvement
+urethral catheterization	associated with	catheter insertion complications reduction
+urethral catheterization	associated with	catheter insertion complications prevention strategies
+urethral catheterization	associated with	catheter insertion complications risk factors
+urethral catheterization	associated with	catheter insertion complications patient factors
+urethral catheterization	associated with	catheter insertion complications comorbidities
+urethral catheterization	associated with	catheter insertion complications age
+urethral catheterization	associated with	catheter insertion complications gender
+urethral catheterization	associated with	catheter insertion complications ethnicity
+urethral catheterization	associated with	catheter insertion complications socioeconomic status
+urethral catheterization	associated with	catheter insertion complications insurance
+urethral catheterization	associated with	catheter insertion complications hospital type
+urethral catheterization	associated with	catheter insertion complications facility size
+urethral catheterization	associated with	catheter insertion complications staffing
+urethral catheterization	associated with	catheter insertion complications training level
+urethral catheterization	associated with	catheter insertion complications equipment quality
+urethral catheterization	associated with	catheter insertion complications protocol adherence
+urethral catheterization	associated with	catheter insertion complications compliance
+urethral catheterization	associated with	catheter insertion complications outcome measures
+urethral catheterization	associated with	catheter insertion complications mortality
+urethral catheterization	associated with	catheter insertion complications morbidity
+urethral catheterization	associated with	catheter insertion complications readmission
+urethral catheterization	associated with	catheter insertion complications length of stay
+urethral catheterization	associated with	catheter insertion complications cost
+urethral catheterization	associated with	catheter insertion complications quality of life
+urethral catheterization	associated with	catheter insertion complications patient satisfaction
+urethral catheterization	associated with	catheter insertion complications caregiver burden
+urethral catheterization	associated with	catheter insertion complications health‑system burden
+urethral catheterization	associated with	catheter insertion complications policy
+urethral catheterization	associated with	catheter insertion complications regulation
+urethral catheterization	associated with	catheter insertion complications accreditation
+urethral catheterization	associated with	catheter insertion complications audit
+urethral catheterization	associated with	catheter insertion complications improvement plan
+urethral catheterization	associated with	catheter insertion complications data collection
+urethral catheterization	associated with	catheter insertion complications electronic health record
+urethral catheterization	associated with	catheter insertion complications predictive modeling
+urethral catheterization	associated with	catheter insertion complications machine learning
+urethral catheterization	associated with	catheter insertion complications risk score
+urethral catheterization	associated with	catheter insertion complications decision support
+urethral catheterization	associated with	catheter insertion complications clinical pathway
+urethral catheterization	associated with	catheter insertion complications guideline adherence
+urethral catheterization	associated with	catheter insertion complications patient education
+urethral catheterization	associated with	catheter insertion complications follow‑up care
+urethral catheterization	associated with	catheter insertion complications discharge planning
+urethral catheterization	associated with	catheter insertion complications post‑discharge monitoring

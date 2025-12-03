@@ -1,0 +1,100 @@
+genitourinary incontinence procedures	treat	urinary incontinence
+genitourinary incontinence procedures	include	sling surgery
+genitourinary incontinence procedures	include	bladder neck suspension
+genitourinary incontinence procedures	include	urethral bulking
+genitourinary incontinence procedures	include	artificial urinary sphincter
+genitourinary incontinence procedures	include	radiofrequency ablation
+genitourinary incontinence procedures	include	laser therapy
+genitourinary incontinence procedures	improve	quality of life
+genitourinary incontinence procedures	reduce	pad usage
+genitourinary incontinence procedures	reduce	leakage episodes
+genitourinary incontinence procedures	increase	continence rate
+genitourinary incontinence procedures	require	anesthesia
+genitourinary incontinence procedures	can be	outpatient
+genitourinary incontinence procedures	can be	inpatient
+genitourinary incontinence procedures	have	complication risk
+genitourinary incontinence procedures	have	infection risk
+genitourinary incontinence procedures	have	bleeding risk
+genitourinary incontinence procedures	have	mesh erosion risk
+genitourinary incontinence procedures	have	urinary retention risk
+genitourinary incontinence procedures	have	pain risk
+genitourinary incontinence procedures	have	recurrence risk
+genitourinary incontinence procedures	have	cost
+genitourinary incontinence procedures	have	recovery time
+genitourinary incontinence procedures	are	minimally invasive
+genitourinary incontinence procedures	are	surgical
+genitourinary incontinence procedures	are	evidence-based
+genitourinary incontinence procedures	are	patient-specific
+genitourinary incontinence procedures	are	guided by urodynamics
+genitourinary incontinence procedures	are	guided by imaging
+genitourinary incontinence procedures	are	guided by history
+genitourinary incontinence procedures	are	guided by physical exam
+genitourinary incontinence procedures	are	guided by symptom severity
+genitourinary incontinence procedures	are	guided by bladder capacity
+genitourinary incontinence procedures	are	guided by urethral mobility
+genitourinary incontinence procedures	are	guided by pelvic floor strength
+genitourinary incontinence procedures	are	guided by age
+genitourinary incontinence procedures	are	guided by comorbidities
+genitourinary incontinence procedures	are	guided by prior surgery
+genitourinary incontinence procedures	are	guided by patient preference
+genitourinary incontinence procedures	are	guided by insurance coverage
+genitourinary incontinence procedures	are	guided by surgeon expertise
+genitourinary incontinence procedures	are	guided by facility resources
+genitourinary incontinence procedures	are	guided by postoperative support
+genitourinary incontinence procedures	are	guided by follow-up schedule
+genitourinary incontinence procedures	are	guided by outcome measures
+genitourinary incontinence procedures	are	guided by patient education
+genitourinary incontinence procedures	are	guided by lifestyle modification
+genitourinary incontinence procedures	are	guided by pharmacotherapy
+genitourinary incontinence procedures	are	guided by behavioral therapy
+genitourinary incontinence procedures	are	guided by bladder training
+genitourinary incontinence procedures	are	guided by pelvic floor exercises
+genitourinary incontinence procedures	are	guided by weight loss
+genitourinary incontinence procedures	are	guided by smoking cessation
+genitourinary incontinence procedures	are	guided by fluid management
+genitourinary incontinence procedures	are	guided by caffeine reduction
+genitourinary incontinence procedures	are	guided by alcohol moderation
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control
+genitourinary incontinence procedures	are	guided by constipation control

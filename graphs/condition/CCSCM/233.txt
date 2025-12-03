@@ -1,0 +1,100 @@
+intracranial injury	is a	brain trauma
+intracranial injury	causes	neurological deficit
+intracranial injury	leads to	cognitive impairment
+intracranial injury	results in	motor weakness
+intracranial injury	can cause	seizures
+intracranial injury	may result in	headaches
+intracranial injury	may cause	vision loss
+intracranial injury	may cause	hearing loss
+intracranial injury	may cause	speech disorder
+intracranial injury	may cause	memory loss
+intracranial injury	may cause	mood change
+intracranial injury	may cause	sleep disturbance
+intracranial injury	may cause	fatigue
+intracranial injury	may cause	dizziness
+intracranial injury	may cause	balance disorder
+intracranial injury	may cause	autonomic dysfunction
+intracranial injury	may cause	endocrine dysfunction
+intracranial injury	may cause	hormonal imbalance
+intracranial injury	may cause	endocrine disorder
+intracranial injury	may cause	metabolic disorder
+intracranial injury	may cause	cardiovascular complication
+intracranial injury	may cause	respiratory complication
+intracranial injury	may cause	renal complication
+intracranial injury	may cause	hepatic complication
+intracranial injury	may cause	gastrointestinal complication
+intracranial injury	may cause	infection
+intracranial injury	may cause	hemorrhage
+intracranial injury	may cause	edema
+intracranial injury	may cause	mass effect
+intracranial injury	may cause	increased intracranial pressure
+intracranial injury	may cause	brain herniation
+intracranial injury	may cause	cerebral ischemia
+intracranial injury	may cause	cerebral infarction
+intracranial injury	may cause	cerebral contusion
+intracranial injury	may cause	subdural hematoma
+intracranial injury	may cause	epidural hematoma
+intracranial injury	may cause	subarachnoid hemorrhage
+intracranial injury	may cause	traumatic brain injury
+intracranial injury	may cause	diffuse axonal injury
+intracranial injury	may cause	skull fracture
+intracranial injury	may cause	skull base fracture
+intracranial injury	may cause	cranial nerve injury
+intracranial injury	may cause	brain contusion
+intracranial injury	may cause	brain laceration
+intracranial injury	may cause	brain swelling
+intracranial injury	may cause	brain edema
+intracranial injury	may cause	brain ischemia
+intracranial injury	may cause	brain infarction
+intracranial injury	may cause	brain hemorrhage
+intracranial injury	may cause	brain herniation
+intracranial injury	may cause	brain death
+intracranial injury	may cause	coma
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness
+intracranial injury	may cause	vegetative condition
+intracranial injury	may cause	vegetative state
+intracranial injury	may cause	vegetative syndrome
+intracranial injury	may cause	vegetative disorder
+intracranial injury	may cause	vegetative disease
+intracranial injury	may cause	vegetative illness

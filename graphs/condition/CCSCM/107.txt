@@ -1,0 +1,100 @@
+cardiac arrest	is a	life‑threatening event
+cardiac arrest	is caused by	ventricular fibrillation
+ventricular fibrillation	is a	arrhythmia
+ventricular fibrillation	is treated with	defibrillation
+defibrillation	is performed by	AED
+AED	is a	portable device
+cardiac arrest	requires	CPR
+CPR	improves	survival rate
+cardiac arrest	leads to	brain hypoxia
+brain hypoxia	causes	neurological damage
+neuro‑protective drugs	reduce	brain injury
+propofol	is a	neuro‑protective drug
+cardiac arrest	increases	risk of arrhythmia
+arrhythmia	is diagnosed by	ECG
+ECG	shows	ST‑segment changes
+ST‑segment changes	indicate	myocardial infarction
+myocardial infarction	is treated with	PCI
+PCI	is performed by	cardiologist
+cardiologist	prescribes	beta‑blockers
+beta‑blockers	reduce	heart rate
+heart rate	is monitored by	telemetry
+telemetry	alerts	arrhythmia
+arrhythmia	triggers	anti‑arrhythmic therapy
+anti‑arrhythmic therapy	includes	amiodarone
+amiodarone	is a	class III drug
+class III drug	prolongs	QT interval
+QT interval	is measured by	ECG
+ECG	is recorded by	cardiac monitor
+cardiac monitor	displays	rhythm
+rhythm	is analyzed by	arrhythmia detection algorithm
+arrhythmia detection algorithm	improves	early detection
+early detection	reduces	mortality
+mortality	is predicted by	risk score
+risk score	uses	age
+risk score	uses	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	risk of cardiac arrest
+cardiac arrest	is associated with	electrolyte imbalance
+electrolyte imbalance	includes	hypokalemia
+hypokalemia	is treated with	potassium supplementation
+potassium supplementation	is given by	IV
+IV	is administered by	nurse
+nurse	monitors	potassium levels
+potassium levels	are measured by	serum test
+serum test	is performed by	laboratory
+laboratory	reports	electrolyte panel
+electrolyte panel	informs	medication adjustment
+medication adjustment	reduces	arrhythmia risk
+arrhythmia risk	is mitigated by	magnesium
+magnesium	is a	anti‑arrhythmic
+anti‑arrhythmic	is administered during	resuscitation
+resuscitation	follows	ACLS protocol
+ACLS protocol	is taught by	medical school
+medical school	trains	emergency physician
+emergency physician	manages	cardiac arrest
+cardiac arrest	leads to	ICU admission
+ICU admission	requires	mechanical ventilation
+mechanical ventilation	is set by	ventilator
+ventilator	is controlled by	respiratory therapist
+respiratory therapist	monitors	oxygen saturation
+oxygen saturation	is measured by	pulse oximeter
+pulse oximeter	alerts	hypoxia
+hypoxia	triggers	supplemental oxygen
+supplemental oxygen	is delivered by	nasal cannula
+nasal cannula	is used by	patient
+patient	may experience	delirium
+delirium	is screened by	CAM
+CAM	is performed by	nurse
+nurse	documents	delirium status
+delirium status	influences	rehabilitation plan
+rehabilitation plan	includes	physical therapy
+physical therapy	improves	mobility
+mobility	reduces	readmission risk
+readmission risk	is predicted by	HOSPITAL score
+HOSPITAL score	uses	lab values
+lab values	include	creatinine
+creatinine	indicates	kidney function
+kidney function	is monitored by	nephrologist
+nephrologist	prescribes	ACE inhibitor
+ACE inhibitor	lowers	blood pressure
+blood pressure	is measured by	cuff
+cuff	is used by	nurse
+nurse	records	blood pressure
+blood pressure	is plotted on	trend chart
+trend chart	is reviewed by	cardiologist
+cardiologist	adjusts	medication
+medication adjustment	reduces	arrhythmia risk
+arrhythmia risk	is mitigated by	lifestyle changes
+lifestyle changes	include	smoking cessation
+smoking cessation	is advised by	primary care
+primary care	follows up via	telehealth
+telehealth	records	patient adherence
+patient adherence	predicts	long‑term survival
+long‑term survival	is influenced by	diet
+diet	is guided by	dietitian
+dietitian	recommends	Mediterranean diet
+Mediterranean diet	reduces	cardiovascular risk
+cardiovascular risk	is assessed by	Framingham score
+Framingham score	uses	cholesterol levels
+cholesterol levels	are measured by	lipid panel

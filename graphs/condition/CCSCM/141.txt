@@ -1,0 +1,100 @@
+other disorders of stomach and duodenum	is a	gastrointestinal disease
+other disorders of stomach and duodenum	includes	gastritis
+other disorders of stomach and duodenum	includes	duodenitis
+other disorders of stomach and duodenum	includes	peptic ulcer
+other disorders of stomach and duodenum	includes	gastric ulcer
+other disorders of stomach and duodenum	includes	duodenal ulcer
+other disorders of stomach and duodenum	includes	gastric reflux
+other disorders of stomach and duodenum	includes	duodenal reflux
+other disorders of stomach and duodenum	includes	gastric dysmotility
+other disorders of stomach and duodenum	includes	duodenal dysmotility
+gastritis	is a	inflammation
+duodenitis	is a	inflammation
+peptic ulcer	is a	mucosal defect
+gastric ulcer	is a	mucosal defect
+duodenal ulcer	is a	mucosal defect
+gastric reflux	is a	acid exposure
+duodenal reflux	is a	acid exposure
+gastric dysmotility	is a	motility disorder
+duodenal dysmotility	is a	motility disorder
+gastritis	may cause	anemia
+duodenitis	may cause	anemia
+peptic ulcer	may cause	bleeding
+gastric ulcer	may cause	bleeding
+duodenal ulcer	may cause	bleeding
+gastric reflux	may cause	esophagitis
+duodenal reflux	may cause	esophagitis
+gastric dysmotility	may cause	gastroparesis
+duodenal dysmotility	may cause	delayed emptying
+gastritis	is treated with	proton pump inhibitor
+duodenitis	is treated with	proton pump inhibitor
+peptic ulcer	is treated with	proton pump inhibitor
+gastric ulcer	is treated with	proton pump inhibitor
+duodenal ulcer	is treated with	proton pump inhibitor
+gastric reflux	is treated with	lifestyle modification
+duodenal reflux	is treated with	lifestyle modification
+gastric dysmotility	is treated with	prokinetic
+duodenal dysmotility	is treated with	prokinetic
+proton pump inhibitor	reduces	gastric acid
+proton pump inhibitor	reduces	duodenal acid
+prokinetic	improves	gastric motility
+prokinetic	improves	duodenal motility
+gastritis	is diagnosed by	endoscopy
+duodenitis	is diagnosed by	endoscopy
+peptic ulcer	is diagnosed by	endoscopy
+gastric ulcer	is diagnosed by	endoscopy
+duodenal ulcer	is diagnosed by	endoscopy
+gastritis	is diagnosed by	biopsy
+duodenitis	is diagnosed by	biopsy
+peptic ulcer	is diagnosed by	biopsy
+gastric ulcer	is diagnosed by	biopsy
+duodenal ulcer	is diagnosed by	biopsy
+gastritis	is associated with	Helicobacter pylori
+duodenitis	is associated with	Helicobacter pylori
+peptic ulcer	is associated with	Helicobacter pylori
+gastric ulcer	is associated with	Helicobacter pylori
+duodenal ulcer	is associated with	Helicobacter pylori
+gastritis	is associated with	NSAID use
+duodenitis	is associated with	NSAID use
+peptic ulcer	is associated with	NSAID use
+gastric ulcer	is associated with	NSAID use
+duodenal ulcer	is associated with	NSAID use
+gastritis	predicts	need for H. pylori eradication
+duodenitis	predicts	need for H. pylori eradication
+peptic ulcer	predicts	risk of rebleeding
+gastric ulcer	predicts	risk of rebleeding
+duodenal ulcer	predicts	risk of rebleeding
+gastritis	predicts	risk of gastric cancer
+duodenitis	predicts	risk of gastric cancer
+peptic ulcer	predicts	risk of gastric cancer
+gastric ulcer	predicts	risk of gastric cancer
+duodenal ulcer	predicts	risk of gastric cancer
+gastritis	is a risk factor for	peptic ulcer
+duodenitis	is a risk factor for	peptic ulcer
+gastritis	is a risk factor for	gastric cancer
+duodenitis	is a risk factor for	gastric cancer
+peptic ulcer	is a risk factor for	perforation
+gastric ulcer	is a risk factor for	perforation
+duodenal ulcer	is a risk factor for	perforation
+gastritis	is a risk factor for	anemia
+duodenitis	is a risk factor for	anemia
+gastritis	is a risk factor for	dyspepsia
+duodenitis	is a risk factor for	dyspepsia
+peptic ulcer	is a risk factor for	dyspepsia
+gastric ulcer	is a risk factor for	dyspepsia
+duodenal ulcer	is a risk factor for	dyspepsia
+gastritis	is a risk factor for	reflux symptoms
+duodenitis	is a risk factor for	reflux symptoms
+gastritis	is a risk factor for	weight loss
+duodenitis	is a risk factor for	weight loss
+peptic ulcer	is a risk factor for	weight loss
+gastric ulcer	is a risk factor for	weight loss
+duodenal ulcer	is a risk factor for	weight loss
+gastritis	is a risk factor for	gastric carcinoma
+duodenitis	is a risk factor for	gastric carcinoma
+peptic ulcer	is a risk factor for	gastric carcinoma
+gastric ulcer	is a risk factor for	gastric carcinoma
+duodenal ulcer	is a risk factor for	gastric carcinoma
+gastritis	is a risk factor for	mortality
+duodenitis	is a risk factor for	mortality
+peptic ulcer	is a risk factor for	mortality

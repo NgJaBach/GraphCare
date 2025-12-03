@@ -1,0 +1,100 @@
+transurethral excision	is a	surgical procedure
+transurethral excision	treats	urinary obstruction
+transurethral excision	performed via	urethra
+transurethral excision	requires	anesthesia
+transurethral excision	reduces	bladder pressure
+transurethral excision	improves	urine flow
+transurethral excision	used for	bladder stones
+transurethral excision	used for	urethral strictures
+transurethral excision	used for	prostate enlargement
+transurethral excision	reduces	infection risk
+transurethral excision	can cause	bleeding
+transurethral excision	can cause	infection
+transurethral excision	can cause	urinary incontinence
+transurethral excision	requires	postoperative monitoring
+transurethral excision	followed by	catheterization
+transurethral excision	followed by	pain management
+transurethral excision	followed by	bladder irrigation
+transurethral excision	followed by	imaging
+transurethral excision	followed by	follow‑up visit
+transurethral excision	improves	quality of life
+transurethral excision	reduces	hospitalization time
+transurethral excision	reduces	readmission risk
+transurethral excision	reduces	mortality risk
+transurethral excision	reduces	recurrence rate
+transurethral excision	reduces	postoperative pain
+transurethral excision	reduces	catheter duration
+transurethral excision	reduces	hospital cost
+transurethral excision	reduces	antibiotic use
+transurethral excision	reduces	urethral trauma
+transurethral excision	reduces	postoperative complications
+transurethral excision	increases	patient satisfaction
+transurethral excision	increases	urinary flow rate
+transurethral excision	increases	bladder capacity
+transurethral excision	increases	postoperative mobility
+transurethral excision	increases	early discharge
+transurethral excision	increases	diagnostic accuracy
+transurethral excision	increases	surgeon efficiency
+transurethral excision	increases	operative precision
+transurethral excision	increases	tissue preservation
+transurethral excision	increases	patient compliance
+drainage	is a	medical intervention
+drainage	removes	fluid accumulation
+drainage	prevents	infection
+drainage	reduces	pressure on tissues
+drainage	improves	wound healing
+drainage	requires	catheter
+drainage	requires	sterile technique
+drainage	requires	monitoring
+drainage	can cause	leakage
+drainage	can cause	infection
+drainage	can cause	blockage
+drainage	can cause	pain
+drainage	reduces	edema
+drainage	reduces	inflammation
+drainage	reduces	hospital stay
+drainage	reduces	readmission
+drainage	reduces	mortality
+drainage	reduces	complications
+drainage	reduces	cost
+drainage	increases	patient comfort
+drainage	increases	recovery speed
+drainage	increases	diagnostic clarity
+drainage	increases	treatment effectiveness
+drainage	increases	surgical success
+drainage	increases	fluid control
+drainage	increases	postoperative safety
+urinary obstruction	is a	urologic condition
+urinary obstruction	causes	urinary retention
+urinary obstruction	causes	bladder damage
+urinary obstruction	causes	kidney damage
+urinary obstruction	causes	infection
+urinary obstruction	causes	pain
+urinary obstruction	causes	hematuria
+urinary obstruction	causes	decreased kidney function
+urinary obstruction	causes	electrolyte imbalance
+urinary obstruction	causes	hypertension
+urinary obstruction	causes	decreased quality of life
+urinary obstruction	treated by	transurethral excision
+urinary obstruction	treated by	drainage
+urinary obstruction	treated by	removal
+urinary obstruction	treated by	stenting
+urinary obstruction	treated by	medication
+urinary obstruction	treated by	surgery
+urinary obstruction	treated by	endoscopic therapy
+urinary obstruction	treated by	lithotripsy
+urinary obstruction	treated by	laser therapy
+urinary obstruction	treated by	catheterization
+urinary obstruction	treated by	ureteral reimplantation
+urinary obstruction	treated by	ureteral stent
+urinary obstruction	treated by	bladder augmentation
+urinary obstruction	treated by	nephrostomy
+urinary obstruction	treated by	ureteral dilation
+urinary obstruction	treated by	urethral dilation
+urinary obstruction	treated by	urethrotomy
+urinary obstruction	treated by	urethral stent
+urinary obstruction	treated by	urethral catheter
+urinary obstruction	treated by	bladder neck incision
+urinary obstruction	treated by	prostatectomy
+urinary obstruction	treated by	urethral reconstruction
+urinary obstruction	treated by	urinary diversion

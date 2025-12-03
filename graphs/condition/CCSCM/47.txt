@@ -1,0 +1,100 @@
+other and unspecified benign neoplasm	is a	tumor
+other and unspecified benign neoplasm	is a	neoplasm
+other and unspecified benign neoplasm	is benign	neoplasm
+other and unspecified benign neoplasm	is non‑malignant	tumor
+other and unspecified benign neoplasm	may arise	any organ
+other and unspecified benign neoplasm	may arise	skin
+other and unspecified benign neoplasm	may arise	breast
+other and unspecified benign neoplasm	may arise	thyroid
+other and unspecified benign neoplasm	may arise	lung
+other and unspecified benign neoplasm	may arise	liver
+other and unspecified benign neoplasm	may arise	kidney
+other and unspecified benign neoplasm	may arise	bone
+other and unspecified benign neoplasm	may arise	soft tissue
+other and unspecified benign neoplasm	may arise	gastrointestinal tract
+other and unspecified benign neoplasm	may arise	genitourinary tract
+other and unspecified benign neoplasm	may arise	central nervous system
+other and unspecified benign neoplasm	may arise	peripheral nervous system
+other and unspecified benign neoplasm	may present	painless mass
+other and unspecified benign neoplasm	may present	palpable lump
+other and unspecified benign neoplasm	may present	incidental finding
+other and unspecified benign neoplasm	may present	cosmetic concern
+other and unspecified benign neoplasm	may present	functional impairment
+other and unspecified benign neoplasm	may present	pain
+other and unspecified benign neoplasm	may present	bleeding
+other and unspecified benign neoplasm	may present	ulceration
+other and unspecified benign neoplasm	may present	hormonal secretion
+other and unspecified benign neoplasm	may present	endocrine dysfunction
+other and unspecified benign neoplasm	may be diagnosed by	imaging
+other and unspecified benign neoplasm	may be diagnosed by	ultrasound
+other and unspecified benign neoplasm	may be diagnosed by	CT scan
+other and unspecified benign neoplasm	may be diagnosed by	MRI
+other and unspecified benign neoplasm	may be diagnosed by	PET scan
+other and unspecified benign neoplasm	may be diagnosed by	biopsy
+other and unspecified benign neoplasm	may be diagnosed by	fine‑needle aspiration
+other and unspecified benign neoplasm	may be diagnosed by	core needle biopsy
+other and unspecified benign neoplasm	may be diagnosed by	surgical excision
+other and unspecified benign neoplasm	may be diagnosed by	histopathology
+other and unspecified benign neoplasm	may be diagnosed by	immunohistochemistry
+other and unspecified benign neoplasm	may be diagnosed by	cytology
+other and unspecified benign neoplasm	may be diagnosed by	molecular testing
+other and unspecified benign neoplasm	may be treated with	surgical excision
+other and unspecified benign neoplasm	may be treated with	observation
+other and unspecified benign neoplasm	may be treated with	ablation
+other and unspecified benign neoplasm	may be treated with	laser therapy
+other and unspecified benign neoplasm	may be treated with	cryotherapy
+other and unspecified benign neoplasm	may be treated with	radiation therapy
+other and unspecified benign neoplasm	may be treated with	pharmacologic therapy
+other and unspecified benign neoplasm	may be treated with	hormonal therapy
+other and unspecified benign neoplasm	may be treated with	targeted therapy
+other and unspecified benign neoplasm	may be treated with	immunotherapy
+other and unspecified benign neoplasm	may be monitored by	imaging follow‑up
+other and unspecified benign neoplasm	may be monitored by	physical exam
+other and unspecified benign neoplasm	may be monitored by	serum markers
+other and unspecified benign neoplasm	may be monitored by	ultrasound surveillance
+other and unspecified benign neoplasm	may be monitored by	MRI surveillance
+other and unspecified benign neoplasm	may be monitored by	CT surveillance
+other and unspecified benign neoplasm	may recur	after excision
+other and unspecified benign neoplasm	may recur	in 5% of cases
+other and unspecified benign neoplasm	may recur	in 10% of cases
+other and unspecified benign neoplasm	may recur	in 20% of cases
+other and unspecified benign neoplasm	may transform	into malignant tumor
+other and unspecified benign neoplasm	may transform	into sarcoma
+other and unspecified benign neoplasm	may transform	into carcinoma
+other and unspecified benign neoplasm	may transform	into melanoma
+other and unspecified benign neoplasm	may transform	into carcinoma in situ
+other and unspecified benign neoplasm	is associated with	genetic syndromes
+other and unspecified benign neoplasm	is associated with	neurofibromatosis
+other and unspecified benign neoplasm	is associated with	tuberous sclerosis
+other and unspecified benign neoplasm	is associated with	Cowden syndrome
+other and unspecified benign neoplasm	is associated with	Li‑Fraumeni syndrome
+other and unspecified benign neoplasm	is associated with	PTEN mutation
+other and unspecified benign neoplasm	is associated with	BRAF mutation
+other and unspecified benign neoplasm	is associated with	RAS mutation
+other and unspecified benign neoplasm	is associated with	TERT mutation
+other and unspecified benign neoplasm	is associated with	hormonal imbalance
+other and unspecified benign neoplasm	is associated with	chronic inflammation
+other and unspecified benign neoplasm	is associated with	viral infection
+other and unspecified benign neoplasm	is associated with	HPV infection
+other and unspecified benign neoplasm	is associated with	Epstein‑Barr virus
+other and unspecified benign neoplasm	is associated with	hepatitis B virus
+other and unspecified benign neoplasm	is associated with	hepatitis C virus
+other and unspecified benign neoplasm	is associated with	smoking
+other and unspecified benign neoplasm	is associated with	alcohol use
+other and unspecified benign neoplasm	is associated with	radiation exposure
+other and unspecified benign neoplasm	is associated with	chemical exposure
+other and unspecified benign neoplasm	is associated with	obesity
+other and unspecified benign neoplasm	is associated with	metabolic syndrome
+other and unspecified benign neoplasm	is associated with	pregnancy
+other and unspecified benign neoplasm	is associated with	hormonal therapy
+other and unspecified benign neoplasm	is associated with	estrogen exposure
+other and unspecified benign neoplasm	is associated with	progesterone exposure
+other and unspecified benign neoplasm	is associated with	growth factors
+other and unspecified benign neoplasm	is associated with	fibroblast growth factor
+other and unspecified benign neoplasm	is associated with	platelet‑derived growth factor
+other and unspecified benign neoplasm	is associated with	angiogenesis
+other and unspecified benign neoplasm	is associated with	VEGF
+other and unspecified benign neoplasm	is associated with	immune dysregulation
+other and unspecified benign neoplasm	is associated with	autoimmune disease
+other and unspecified benign neoplasm	is associated with	chronic kidney disease
+other and unspecified benign neoplasm	is associated with	liver cirrhosis

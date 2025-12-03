@@ -1,0 +1,100 @@
+Parkinson’s disease	is a	neurodegenerative disorder
+Parkinson’s disease	affects	motor function
+Parkinson’s disease	causes	tremor
+Parkinson’s disease	causes	rigidity
+Parkinson’s disease	causes	bradykinesia
+Parkinson’s disease	leads to	gait disturbance
+Parkinson’s disease	leads to	postural instability
+Parkinson’s disease	is associated with	dopamine deficiency
+Parkinson’s disease	involves	substantia nigra
+Parkinson’s disease	involves	Lewy bodies
+Parkinson’s disease	is diagnosed by	clinical criteria
+Parkinson’s disease	is confirmed by	dopamine transporter scan
+Parkinson’s disease	is treated with	levodopa
+Parkinson’s disease	is treated with	carbidopa
+Parkinson’s disease	is treated with	dopamine agonists
+Parkinson’s disease	is treated with	MAO-B inhibitors
+Parkinson’s disease	is treated with	COMT inhibitors
+Parkinson’s disease	is treated with	anticholinergics
+Parkinson’s disease	is treated with	amantadine
+Parkinson’s disease	is treated with	deep brain stimulation
+Parkinson’s disease	is managed by	physiotherapy
+Parkinson’s disease	is managed by	occupational therapy
+Parkinson’s disease	is managed by	speech therapy
+Parkinson’s disease	is managed by	nutritional counseling
+Parkinson’s disease	increases risk of	falls
+Parkinson’s disease	increases risk of	fractures
+Parkinson’s disease	increases risk of	pneumonia
+Parkinson’s disease	increases risk of	depression
+Parkinson’s disease	increases risk of	anxiety
+Parkinson’s disease	increases risk of	dementia
+Parkinson’s disease	increases risk of	sleep apnea
+Parkinson’s disease	increases risk of	constipation
+Parkinson’s disease	increases risk of	urinary incontinence
+Parkinson’s disease	increases risk of	dysphagia
+Parkinson’s disease	increases risk of	medication non‑adherence
+Parkinson’s disease	is associated with	REM sleep behavior disorder
+Parkinson’s disease	is associated with	olfactory loss
+Parkinson’s disease	is associated with	autonomic dysfunction
+Parkinson’s disease	is associated with	cardiovascular disease
+Parkinson’s disease	is associated with	metabolic syndrome
+Parkinson’s disease	is associated with	increased mortality
+Parkinson’s disease	is associated with	reduced life expectancy
+Parkinson’s disease	is associated with	caregiver burden
+Parkinson’s disease	is associated with	health‑care costs
+Parkinson’s disease	is linked to	SNCA gene
+Parkinson’s disease	is linked to	LRRK2 gene
+Parkinson’s disease	is linked to	PARK2 gene
+Parkinson’s disease	is linked to	GBA gene
+Parkinson’s disease	is linked to	PINK1 gene
+Parkinson’s disease	is linked to	DJ-1 gene
+Parkinson’s disease	is linked to	environmental toxins
+Parkinson’s disease	is linked to	pesticide exposure
+Parkinson’s disease	is linked to	heavy metal exposure
+Parkinson’s disease	is linked to	viral infections
+Parkinson’s disease	is linked to	head trauma
+Parkinson’s disease	is linked to	sleep deprivation
+Parkinson’s disease	is linked to	chronic inflammation
+Parkinson’s disease	is linked to	oxidative stress
+Parkinson’s disease	is linked to	mitochondrial dysfunction
+Parkinson’s disease	is linked to	protein aggregation
+Parkinson’s disease	is linked to	neuroinflammation
+Parkinson’s disease	is linked to	gut microbiome changes
+Parkinson’s disease	is linked to	alpha‑synuclein misfolding
+Parkinson’s disease	is linked to	impaired autophagy
+Parkinson’s disease	is linked to	impaired proteasome function
+Parkinson’s disease	is linked to	impaired lysosomal function
+Parkinson’s disease	is linked to	impaired synaptic transmission
+Parkinson’s disease	is linked to	impaired dopamine synthesis
+Parkinson’s disease	is linked to	impaired dopamine storage
+Parkinson’s disease	is linked to	impaired dopamine release
+Parkinson’s disease	is linked to	impaired dopamine reuptake
+Parkinson’s disease	is linked to	impaired motor planning
+Parkinson’s disease	is linked to	impaired motor execution
+Parkinson’s disease	is linked to	impaired postural control
+Parkinson’s disease	is linked to	impaired gait initiation
+Parkinson’s disease	is linked to	impaired balance
+Parkinson’s disease	is linked to	impaired coordination
+Parkinson’s disease	is linked to	impaired fine motor skills
+Parkinson’s disease	is linked to	impaired speech production
+Parkinson’s disease	is linked to	impaired swallowing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing
+Parkinson’s disease	is linked to	impaired chewing

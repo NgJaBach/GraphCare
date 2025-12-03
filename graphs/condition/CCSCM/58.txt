@@ -1,0 +1,100 @@
+nutritional disorders	are a	health condition
+endocrine disorders	are a	health condition
+metabolic disorders	are a	health condition
+nutritional disorders	cause	malnutrition
+nutritional disorders	cause	obesity
+nutritional disorders	cause	anemia
+endocrine disorders	cause	diabetes
+endocrine disorders	cause	thyroid disease
+endocrine disorders	cause	adrenal insufficiency
+metabolic disorders	cause	hyperlipidemia
+metabolic disorders	cause	gout
+metabolic disorders	cause	phenylketonuria
+malnutrition	leads to	immune suppression
+obesity	increases risk of	cardiovascular disease
+anemia	reduces	exercise tolerance
+diabetes	increases risk of	neuropathy
+diabetes	increases risk of	retinopathy
+diabetes	increases risk of	nephropathy
+thyroid disease	causes	fatigue
+thyroid disease	causes	weight change
+adrenal insufficiency	causes	hypotension
+hyperlipidemia	increases risk of	atherosclerosis
+gout	causes	joint pain
+phenylketonuria	requires	dietary restriction
+nutritional disorders	are treated with	supplementation
+endocrine disorders	are treated with	hormone therapy
+metabolic disorders	are treated with	medication
+malnutrition	is treated with	enteral nutrition
+obesity	is treated with	weight loss program
+anemia	is treated with	iron therapy
+diabetes	is treated with	insulin
+diabetes	is treated with	metformin
+thyroid disease	is treated with	levothyroxine
+adrenal insufficiency	is treated with	glucocorticoids
+hyperlipidemia	is treated with	statins
+gout	is treated with	colchicine
+phenylketonuria	is treated with	low‑protein diet
+nutritional disorders	predict	hospital readmission
+endocrine disorders	predict	mortality
+metabolic disorders	predict	cardiovascular events
+malnutrition	predicts	postoperative complications
+obesity	predicts	surgical risk
+anemia	predicts	transfusion need
+diabetes	predicts	foot ulcer
+thyroid disease	predicts	atrial fibrillation
+adrenal insufficiency	predicts	adrenal crisis
+hyperlipidemia	predicts	stroke
+gout	predicts	kidney stones
+phenylketonuria	predicts	cognitive impairment
+nutritional disorders	are associated with	depression
+endocrine disorders	are associated with	anxiety
+metabolic disorders	are associated with	sarcopenia
+malnutrition	is associated with	frailty
+obesity	is associated with	obstructive sleep apnea
+anemia	is associated with	heart failure
+diabetes	is associated with	erectile dysfunction
+thyroid disease	is associated with	infertility
+adrenal insufficiency	is associated with	electrolyte imbalance
+hyperlipidemia	is associated with	pancreatitis
+gout	is associated with	hypertension
+phenylketonuria	is associated with	seizures
+nutritional disorders	are risk factors for	osteoporosis
+endocrine disorders	are risk factors for	osteoporosis
+metabolic disorders	are risk factors for	osteoporosis
+malnutrition	leads to	delayed wound healing
+obesity	leads to	joint degeneration
+anemia	leads to	cognitive decline
+diabetes	leads to	foot amputation
+thyroid disease	leads to	cardiac arrhythmia
+adrenal insufficiency	leads to	hypoglycemia
+hyperlipidemia	leads to	plaque formation
+gout	leads to	chronic arthritis
+phenylketonuria	leads to	developmental delay
+nutritional disorders	require	dietitian consult
+endocrine disorders	require	endocrinologist consult
+metabolic disorders	require	metabolic specialist consult
+malnutrition	requires	vitamin supplementation
+obesity	requires	bariatric surgery
+anemia	requires	blood transfusion
+diabetes	requires	glucose monitoring
+thyroid disease	requires	thyroid function test
+adrenal insufficiency	requires	ACTH stimulation test
+hyperlipidemia	requires	lipid panel
+gout	requires	uric acid measurement
+phenylketonuria	requires	phenylalanine level
+nutritional disorders	are screened by	BMI
+endocrine disorders	are screened by	hormone assay
+metabolic disorders	are screened by	metabolic panel
+malnutrition	is screened by	serum albumin
+obesity	is screened by	waist circumference
+anemia	is screened by	hemoglobin
+diabetes	is screened by	HbA1c
+thyroid disease	is screened by	TSH
+adrenal insufficiency	is screened by	cortisol
+hyperlipidemia	is screened by	LDL
+gout	is screened by	uric acid
+phenylketonuria	is screened by	newborn screening
+nutritional disorders	are managed with	calorie adjustment
+endocrine disorders	are managed with	dose titration
+metabolic disorders	are managed with	lifestyle modification

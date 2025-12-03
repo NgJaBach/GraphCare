@@ -1,0 +1,100 @@
+e codes	classify	environmental injury
+e codes	represent	external causes
+e codes	used in	ICD‑10
+e codes	indicate	natural disaster
+e codes	include	flood
+e codes	include	earthquake
+e codes	include	tornado
+e codes	include	hurricane
+e codes	include	wildfire
+e codes	include	landslide
+e codes	include	volcanic eruption
+e codes	include	tsunami
+e codes	include	extreme heat
+e codes	include	extreme cold
+e codes	include	severe storm
+e codes	include	hail
+e codes	include	lightning
+e codes	include	dust storm
+e codes	include	blizzard
+e codes	include	flood‑related injury
+e codes	include	earthquake‑related injury
+e codes	include	tornado‑related injury
+e codes	include	hurricane‑related injury
+e codes	include	wildfire‑related injury
+e codes	include	landslide‑related injury
+e codes	include	volcanic‑related injury
+e codes	include	tsunami‑related injury
+e codes	include	extreme‑heat injury
+e codes	include	extreme‑cold injury
+e codes	include	severe‑storm injury
+e codes	include	hail‑related injury
+e codes	include	lightning‑related injury
+e codes	include	dust‑storm injury
+e codes	include	blizzard injury
+e codes	used for	injury coding
+e codes	used for	mortality analysis
+e codes	used for	public health surveillance
+e codes	used for	disaster response
+e codes	used for	resource allocation
+e codes	used for	epidemiologic studies
+e codes	used for	insurance claims
+e codes	used for	hospital readmission prediction
+e codes	used for	trauma triage
+e codes	used for	emergency department routing
+e codes	used for	risk stratification
+e codes	used for	cost estimation
+e codes	used for	policy planning
+e codes	used for	climate change impact
+e codes	used for	health impact assessment
+e codes	used for	injury prevention
+e codes	used for	public safety
+e codes	used for	disaster preparedness
+e codes	used for	medical training
+e codes	used for	data mining
+e codes	used for	machine learning
+e codes	used for	predictive modeling
+e codes	used for	outcome research
+e codes	used for	health equity
+e codes	used for	demographic analysis
+e codes	used for	geographic mapping
+e codes	used for	temporal trend
+e codes	used for	severity scoring
+e codes	used for	triage algorithms
+e codes	used for	triage protocols
+e codes	used for	triage guidelines
+e codes	used for	triage decision
+e codes	used for	triage accuracy
+e codes	used for	triage efficiency
+e codes	used for	triage outcomes
+e codes	used for	triage training
+e codes	used for	triage simulation
+e codes	used for	triage research
+e codes	used for	triage policy
+e codes	used for	triage evaluation
+e codes	used for	triage improvement
+e codes	used for	triage optimization
+e codes	used for	triage validation
+e codes	used for	triage monitoring
+e codes	used for	triage reporting
+e codes	used for	triage analytics
+e codes	used for	triage dashboards
+e codes	used for	triage alerts
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards
+e codes	used for	triage dashboards

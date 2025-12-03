@@ -1,0 +1,100 @@
+fracture of upper limb	is a	injury
+fracture of upper limb	occurs in	bone
+fracture of upper limb	involves	radius
+fracture of upper limb	involves	ulna
+fracture of upper limb	can cause	pain
+fracture of upper limb	can cause	swelling
+fracture of upper limb	can cause	bruising
+fracture of upper limb	can cause	limited mobility
+fracture of upper limb	is diagnosed with	X‑ray
+fracture of upper limb	is diagnosed with	CT scan
+fracture of upper limb	is treated with	cast
+fracture of upper limb	is treated with	splint
+fracture of upper limb	is treated with	surgery
+fracture of upper limb	is treated with	physiotherapy
+fracture of upper limb	requires	immobilization
+fracture of upper limb	requires	pain medication
+fracture of upper limb	requires	anti‑inflammatory drugs
+fracture of upper limb	requires	vitamin D
+fracture of upper limb	requires	calcium
+fracture of upper limb	leads to	delayed healing
+fracture of upper limb	leads to	malunion
+fracture of upper limb	leads to	non‑union
+fracture of upper limb	leads to	infection
+fracture of upper limb	leads to	nerve damage
+fracture of upper limb	leads to	tendon injury
+fracture of upper limb	increases risk of	osteoporosis
+fracture of upper limb	increases risk of	falls
+fracture of upper limb	increases risk of	readmission
+fracture of upper limb	increases risk of	mortality
+fracture of upper limb	is associated with	age
+fracture of upper limb	is associated with	gender
+fracture of upper limb	is associated with	smoking
+fracture of upper limb	is associated with	alcohol
+fracture of upper limb	is associated with	comorbidity
+fracture of upper limb	is associated with	diabetes
+fracture of upper limb	is associated with	rheumatoid arthritis
+fracture of upper limb	is associated with	steroid use
+fracture of upper limb	is associated with	trauma
+fracture of upper limb	is associated with	sports injury
+fracture of upper limb	is associated with	motor vehicle accident
+fracture of upper limb	is associated with	fall from height
+fracture of upper limb	is associated with	workplace accident
+fracture of upper limb	is associated with	violence
+fracture of upper limb	is associated with	bone density
+fracture of upper limb	is associated with	vitamin D deficiency
+fracture of upper limb	is associated with	calcium deficiency
+fracture of upper limb	is associated with	malnutrition
+fracture of upper limb	is associated with	obesity
+fracture of upper limb	is associated with	frailty
+fracture of upper limb	is associated with	sarcopenia
+fracture of upper limb	is associated with	depression
+fracture of upper limb	is associated with	anxiety
+fracture of upper limb	is associated with	social isolation
+fracture of upper limb	is associated with	socioeconomic status
+fracture of upper limb	is associated with	insurance coverage
+fracture of upper limb	is associated with	hospital length of stay
+fracture of upper limb	is associated with	discharge disposition
+fracture of upper limb	is associated with	home health services
+fracture of upper limb	is associated with	rehabilitation center
+fracture of upper limb	is associated with	occupational therapy
+fracture of upper limb	is associated with	speech therapy
+fracture of upper limb	is associated with	pain score
+fracture of upper limb	is associated with	opioid use
+fracture of upper limb	is associated with	non‑opioid analgesics
+fracture of upper limb	is associated with	patient satisfaction
+fracture of upper limb	is associated with	caregiver burden
+fracture of upper limb	is associated with	health‑related quality of life
+fracture of upper limb	is associated with	return to work
+fracture of upper limb	is associated with	return to sport
+fracture of upper limb	is associated with	functional independence
+fracture of upper limb	is associated with	mobility aid
+fracture of upper limb	is associated with	home modifications
+fracture of upper limb	is associated with	fall prevention program
+fracture of upper limb	is associated with	vitamin K
+fracture of upper limb	is associated with	bisphosphonate
+fracture of upper limb	is associated with	denosumab
+fracture of upper limb	is associated with	teriparatide
+fracture of upper limb	is associated with	surgical fixation
+fracture of upper limb	is associated with	internal fixation
+fracture of upper limb	is associated with	external fixation
+fracture of upper limb	is associated with	plate fixation
+fracture of upper limb	is associated with	screw fixation
+fracture of upper limb	is associated with	intramedullary nail
+fracture of upper limb	is associated with	bone graft
+fracture of upper limb	is associated with	bone substitute
+fracture of upper limb	is associated with	fracture liaison service
+fracture of upper limb	is associated with	fracture risk assessment
+fracture of upper limb	is associated with	FRAX score
+fracture of upper limb	is associated with	bone turnover marker
+fracture of upper limb	is associated with	serum calcium
+fracture of upper limb	is associated with	serum phosphate
+fracture of upper limb	is associated with	serum alkaline phosphatase
+fracture of upper limb	is associated with	serum vitamin D
+fracture of upper limb	is associated with	serum parathyroid hormone
+fracture of upper limb	is associated with	serum C‑reactive protein
+fracture of upper limb	is associated with	serum erythrocyte sedimentation rate
+fracture of upper limb	is associated with	blood glucose
+fracture of upper limb	is associated with	hemoglobin
+fracture of upper limb	is associated with	white blood cell count
+fracture of upper limb	is associated with	platelet count

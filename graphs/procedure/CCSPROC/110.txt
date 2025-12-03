@@ -1,0 +1,100 @@
+urinalysis	is a	diagnostic test
+urinalysis	detects	proteinuria
+urinalysis	detects	hematuria
+urinalysis	detects	leukocytes
+urinalysis	detects	bacteria
+urinalysis	used for	kidney function
+urinalysis	used for	urinary tract infection
+urinalysis	performed	bedside
+urinalysis	performed	in clinic
+urine culture	is a	diagnostic test
+urine culture	identifies	bacterial species
+urine culture	identifies	antibiotic sensitivity
+urine culture	used for	UTI confirmation
+urine culture	performed	after urinalysis
+urine microscopy	is a	diagnostic test
+urine microscopy	detects	casts
+urine microscopy	detects	crystals
+urine microscopy	detects	epithelial cells
+urine microscopy	used for	glomerular disease
+urine microscopy	used for	tubular injury
+urine microscopy	performed	in laboratory
+urine microscopy	performed	with microscope
+urine cytology	is a	diagnostic test
+urine cytology	detects	malignant cells
+urine cytology	detects	bladder cancer
+urine cytology	used for	surveillance
+urine cytology	used for	early detection
+urine cytology	performed	after cystoscopy
+urine cytology	performed	in pathology
+urine proteomics	is a	diagnostic test
+urine proteomics	identifies	disease biomarkers
+urine proteomics	identifies	kidney injury
+urine proteomics	used for	personalized medicine
+urine proteomics	used for	prognosis
+urine proteomics	performed	with mass spectrometry
+urine proteomics	performed	in research
+urine metabolomics	is a	diagnostic test
+urine metabolomics	identifies	metabolic disorders
+urine metabolomics	identifies	drug metabolites
+urine metabolomics	used for	disease monitoring
+urine metabolomics	used for	pharmacokinetics
+urine metabolomics	performed	with NMR
+urine metabolomics	performed	in laboratory
+urine imaging	is a	diagnostic procedure
+urine imaging	includes	ultrasound
+urine imaging	includes	CT
+urine imaging	includes	MRI
+urine imaging	used for	structural abnormalities
+urine imaging	used for	obstruction
+urine imaging	performed	by radiology
+urine imaging	performed	with contrast
+urine ultrasound	is a	diagnostic test
+urine ultrasound	detects	hydronephrosis
+urine ultrasound	detects	kidney stones
+urine ultrasound	detects	cysts
+urine ultrasound	used for	kidney size
+urine ultrasound	used for	bladder wall thickness
+urine ultrasound	performed	transabdominal
+urine ultrasound	performed	transrectal
+urine CT	is a	diagnostic test
+urine CT	detects	stones
+urine CT	detects	tumors
+urine CT	detects	infections
+urine CT	used for	complex anatomy
+urine CT	used for	staging
+urine CT	performed	with contrast
+urine CT	performed	in emergency
+urine MRI	is a	diagnostic test
+urine MRI	detects	soft tissue lesions
+urine MRI	detects	vascular anomalies
+urine MRI	used for	detailed anatomy
+urine MRI	used for	tumor characterization
+urine MRI	performed	with gadolinium
+urine MRI	performed	in outpatient
+urine cystoscopy	is a	diagnostic procedure
+urine cystoscopy	visualizes	bladder mucosa
+urine cystoscopy	visualizes	ureteral orifices
+urine cystoscopy	used for	tumor detection
+urine cystoscopy	used for	stone removal
+urine cystoscopy	performed	transurethral
+urine cystoscopy	performed	with endoscope
+urine ureteroscopy	is a	diagnostic procedure
+urine ureteroscopy	visualizes	ureter
+urine ureteroscopy	visualizes	renal pelvis
+urine ureteroscopy	used for	stone removal
+urine ureteroscopy	used for	tumor biopsy
+urine ureteroscopy	performed	with scope
+urine ureteroscopy	performed	in OR
+urine percutaneous nephrolithotomy	is a	diagnostic procedure
+urine percutaneous nephrolithotomy	visualizes	kidney
+urine percutaneous nephrolithotomy	used for	large stones
+urine percutaneous nephrolithotomy	used for	complex anatomy
+urine percutaneous nephrolithotomy	performed	with imaging
+urine percutaneous nephrolithotomy	performed	in OR
+urine nuclear medicine scan	is a	diagnostic test
+urine nuclear medicine scan	detects	renal perfusion
+urine nuclear medicine scan	detects	functional reserve
+urine nuclear medicine scan	used for	differential diagnosis
+urine nuclear medicine scan	used for	transplant evaluation
+urine nuclear medicine scan	performed	with radiotracer

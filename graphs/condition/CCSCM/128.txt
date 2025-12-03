@@ -1,0 +1,100 @@
+asthma	is a	chronic airway disease
+asthma	causes	wheezing
+asthma	causes	shortness of breath
+asthma	causes	chest tightness
+asthma	causes	cough
+asthma	is triggered by	allergens
+asthma	is triggered by	exercise
+asthma	is triggered by	cold air
+asthma	is triggered by	viral infection
+asthma	is triggered by	smoke
+asthma	is triggered by	pollution
+asthma	is triggered by	stress
+asthma	is associated with	eczema
+asthma	is associated with	allergic rhinitis
+asthma	is associated with	food allergy
+asthma	is associated with	obesity
+asthma	is associated with	GERD
+asthma	is associated with	sleep apnea
+asthma	is associated with	viral bronchiolitis
+asthma	is associated with	family history
+asthma	is diagnosed with	spirometry
+asthma	is diagnosed with	peak flow meter
+asthma	is diagnosed with	methacholine challenge
+asthma	is diagnosed with	exhaled nitric oxide
+asthma	is diagnosed with	bronchodilator response
+asthma	is treated with	inhaled corticosteroid
+asthma	is treated with	short‑acting β2‑agonist
+asthma	is treated with	long‑acting β2‑agonist
+asthma	is treated with	leukotriene modifier
+asthma	is treated with	montelukast
+asthma	is treated with	nedocromil
+asthma	is treated with	omalizumab
+asthma	is treated with	mepolizumab
+asthma	is treated with	benralizumab
+asthma	is treated with	dupilumab
+asthma	is treated with	oral corticosteroid
+asthma	is treated with	immunotherapy
+asthma	is managed by	asthma action plan
+asthma	is managed by	peak flow monitoring
+asthma	is managed by	inhaler technique training
+asthma	is managed by	trigger avoidance
+asthma	is managed by	vaccination
+asthma	is managed by	smoking cessation
+asthma	is managed by	weight loss
+asthma	is managed by	GERD control
+asthma	is managed by	sleep hygiene
+asthma	increases risk of	pneumonia
+asthma	increases risk of	respiratory infection
+asthma	increases risk of	hospitalization
+asthma	increases risk of	ICU admission
+asthma	increases risk of	mortality
+asthma	increases risk of	exacerbation
+asthma	increases risk of	emergency department visit
+asthma	increases risk of	oral steroid dependence
+asthma	increases risk of	steroid‑related side effects
+asthma	is a predictor of	asthma‑related readmission
+asthma	is a predictor of	poor asthma control
+asthma	is a predictor of	reduced lung function
+asthma	is a predictor of	reduced quality of life
+asthma	is a predictor of	school absenteeism
+asthma	is a predictor of	work absenteeism
+asthma	is a predictor of	reduced exercise tolerance
+asthma	is a predictor of	increased healthcare cost
+asthma	is a predictor of	medication non‑adherence
+asthma	is a predictor of	inhaler misuse
+asthma	is a predictor of	poor inhaler technique
+asthma	is a predictor of	high blood eosinophil count
+asthma	is a predictor of	elevated IgE
+asthma	is a predictor of	airway hyperresponsiveness
+asthma	is a predictor of	sputum eosinophilia
+asthma	is a predictor of	bronchial remodeling
+asthma	is a predictor of	steroid‑resistant phenotype
+asthma	is a predictor of	biologic therapy need
+asthma	is a predictor of	severe asthma
+asthma	is a predictor of	early childhood onset
+asthma	is a predictor of	adult‑onset asthma
+asthma	is a predictor of	occupational asthma
+asthma	is a predictor of	viral‑induced exacerbation
+asthma	is a predictor of	allergen‑induced exacerbation
+asthma	is a predictor of	exercise‑induced bronchoconstriction
+asthma	is a predictor of	medication adherence
+asthma	is a predictor of	inhaler refill pattern
+asthma	is a predictor of	healthcare utilization
+asthma	is a predictor of	cost‑effective treatment
+asthma	is a predictor of	response to inhaled corticosteroid
+asthma	is a predictor of	response to leukotriene modifier
+asthma	is a predictor of	response to biologic
+asthma	is a predictor of	exacerbation frequency
+asthma	is a predictor of	lung function decline
+asthma	is a predictor of	airway inflammation
+asthma	is a predictor of	asthma control test score
+asthma	is a predictor of	peak flow variability
+asthma	is a predictor of	emergency department visit
+asthma	is a predictor of	hospitalization rate
+asthma	is a predictor of	mortality risk
+asthma	is a predictor of	quality‑adjusted life years
+asthma	is a predictor of	cost‑utility analysis
+asthma	is a predictor of	health‑related quality of life
+asthma	is a predictor of	asthma‑related disability
+asthma	is a predictor of	long‑term morbidity

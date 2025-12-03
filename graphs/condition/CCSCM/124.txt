@@ -1,0 +1,100 @@
+tonsillitis	is a	inflammation
+tonsillitis	affects	tonsils
+tonsillitis	causes	sore throat
+tonsillitis	causes	fever
+tonsillitis	causes	swollen lymph nodes
+tonsillitis	is diagnosed with	throat culture
+tonsillitis	is diagnosed with	rapid strep test
+tonsillitis	is diagnosed with	ultrasound
+tonsillitis	is diagnosed with	CT scan
+tonsillitis	is diagnosed with	MRI
+tonsillitis	is diagnosed with	blood test
+tonsillitis	is treated with	antibiotics
+tonsillitis	is treated with	pain relievers
+tonsillitis	is treated with	anti-inflammatory drugs
+tonsillitis	is treated with	corticosteroids
+tonsillitis	is treated with	surgical removal
+tonsillitis	is treated with	tonsillectomy
+tonsillitis	is treated with	steroid spray
+tonsillitis	is treated with	saline rinse
+tonsillitis	is treated with	home remedies
+tonsillitis	is treated with	hot tea
+tonsillitis	is treated with	honey
+tonsillitis	is treated with	salt water
+tonsillitis	is treated with	humidifier
+tonsillitis	is treated with	rest
+tonsillitis	is treated with	hydration
+tonsillitis	is treated with	vitamin C
+tonsillitis	is treated with	zinc
+tonsillitis	is treated with	probiotics
+tonsillitis	is treated with	herbal tea
+tonsillitis	is treated with	garlic
+tonsillitis	is treated with	honey lemon
+tonsillitis	is treated with	over‑the‑counter medication
+tonsillitis	is treated with	prescription medication
+tonsillitis	is treated with	oral steroids
+tonsillitis	is treated with	intravenous antibiotics
+tonsillitis	is treated with	intramuscular steroids
+tonsillitis	is treated with	intranasal steroids
+tonsillitis	is treated with	topical anesthetic
+tonsillitis	is treated with	topical antiseptic
+tonsillitis	is treated with	topical steroid
+tonsillitis	is treated with	topical antibiotic
+tonsillitis	is treated with	topical analgesic
+tonsillitis	is treated with	topical anti‑inflammatory
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation
+tonsillitis	is treated with	topical anti‑bacterial
+tonsillitis	is treated with	topical anti‑viral
+tonsillitis	is treated with	topical anti‑fungal
+tonsillitis	is treated with	topical anti‑allergic
+tonsillitis	is treated with	topical anti‑pain
+tonsillitis	is treated with	topical anti‑swelling
+tonsillitis	is treated with	topical anti‑infection
+tonsillitis	is treated with	topical anti‑inflammation

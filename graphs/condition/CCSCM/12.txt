@@ -1,0 +1,100 @@
+esophageal cancer	is a	malignancy
+esophageal cancer	arises in	esophagus
+esophageal cancer	is staged by	TNM system
+esophageal cancer	is classified as	squamous cell carcinoma
+esophageal cancer	is classified as	adenocarcinoma
+esophageal cancer	is associated with	smoking
+esophageal cancer	is associated with	alcohol
+esophageal cancer	is associated with	gastroesophageal reflux disease
+esophageal cancer	is associated with	Barrett’s esophagus
+esophageal cancer	is associated with	obesity
+esophageal cancer	is associated with	male gender
+esophageal cancer	is associated with	age > 55
+esophageal cancer	is associated with	chronic inflammation
+esophageal cancer	is associated with	HPV infection
+esophageal cancer	is associated with	dietary deficiencies
+esophageal cancer	is treated with	surgery
+esophageal cancer	is treated with	chemotherapy
+esophageal cancer	is treated with	radiation therapy
+esophageal cancer	is treated with	targeted therapy
+esophageal cancer	is treated with	immunotherapy
+esophageal cancer	is treated with	palliative care
+esophageal cancer	is evaluated by	endoscopy
+esophageal cancer	is evaluated by	biopsy
+esophageal cancer	is evaluated by	CT scan
+esophageal cancer	is evaluated by	PET scan
+esophageal cancer	is evaluated by	barium swallow
+esophageal cancer	is evaluated by	endoscopic ultrasound
+esophageal cancer	is evaluated by	staging laparoscopy
+esophageal cancer	is evaluated by	blood tests
+esophageal cancer	is evaluated by	tumor markers
+esophageal cancer	is evaluated by	histopathology
+esophageal cancer	is evaluated by	molecular profiling
+esophageal cancer	is evaluated by	genetic testing
+esophageal cancer	is evaluated by	HER2 status
+esophageal cancer	is evaluated by	PD-L1 status
+esophageal cancer	is evaluated by	MSI status
+esophageal cancer	is evaluated by	EGFR status
+esophageal cancer	is evaluated by	KRAS status
+esophageal cancer	is evaluated by	BRAF status
+esophageal cancer	is evaluated by	PIK3CA status
+esophageal cancer	is evaluated by	NTRK status
+esophageal cancer	is evaluated by	TMB
+esophageal cancer	is evaluated by	ctDNA
+esophageal cancer	is evaluated by	liquid biopsy
+esophageal cancer	is evaluated by	nutritional assessment
+esophageal cancer	is evaluated by	performance status
+esophageal cancer	is evaluated by	comorbidity index
+esophageal cancer	is evaluated by	frailty score
+esophageal cancer	is evaluated by	quality of life survey
+esophageal cancer	is evaluated by	symptom score
+esophageal cancer	has risk factor	smoking
+esophageal cancer	has risk factor	alcohol
+esophageal cancer	has risk factor	GERD
+esophageal cancer	has risk factor	Barrett’s
+esophageal cancer	has risk factor	obesity
+esophageal cancer	has risk factor	male
+esophageal cancer	has risk factor	age
+esophageal cancer	has risk factor	chronic inflammation
+esophageal cancer	has risk factor	HPV
+esophageal cancer	has symptom	dysphagia
+esophageal cancer	has symptom	weight loss
+esophageal cancer	has symptom	odynophagia
+esophageal cancer	has symptom	chest pain
+esophageal cancer	has symptom	regurgitation
+esophageal cancer	has symptom	cough
+esophageal cancer	has symptom	hoarseness
+esophageal cancer	has symptom	anemia
+esophageal cancer	has symptom	malnutrition
+esophageal cancer	has symptom	aspiration
+esophageal cancer	has symptom	reflux
+esophageal cancer	has symptom	fatigue
+esophageal cancer	has symptom	nausea
+esophageal cancer	has symptom	vomiting
+esophageal cancer	has symptom	early satiety
+esophageal cancer	has symptom	pain
+esophageal cancer	has symptom	cough
+esophageal cancer	has symptom	hoarseness
+esophageal cancer	has symptom	anemia
+esophageal cancer	has symptom	malnutrition
+esophageal cancer	has symptom	aspiration
+esophageal cancer	has symptom	reflux
+esophageal cancer	has symptom	fatigue
+esophageal cancer	has symptom	nausea
+esophageal cancer	has symptom	vomiting
+esophageal cancer	has symptom	early satiety
+esophageal cancer	has symptom	pain
+esophageal cancer	has complication	aspiration pneumonia
+esophageal cancer	has complication	malnutrition
+esophageal cancer	has complication	esophageal perforation
+esophageal cancer	has complication	fistula
+esophageal cancer	has complication	bleeding
+esophageal cancer	has complication	obstruction
+esophageal cancer	has complication	metastasis
+esophageal cancer	has complication	cachexia
+esophageal cancer	has complication	respiratory failure
+esophageal cancer	has complication	septic shock
+esophageal cancer	has complication	liver failure
+esophageal cancer	has complication	renal failure
+esophageal cancer	has complication	cardiac arrest
+esophageal cancer	has complication	death

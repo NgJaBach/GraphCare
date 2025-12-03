@@ -1,0 +1,100 @@
+fluid and electrolyte disorders	are caused by	dehydration
+fluid and electrolyte disorders	are caused by	overhydration
+fluid and electrolyte disorders	are caused by	renal failure
+fluid and electrolyte disorders	are caused by	heart failure
+fluid and electrolyte disorders	are caused by	liver cirrhosis
+fluid and electrolyte disorders	are caused by	endocrine disease
+fluid and electrolyte disorders	are caused by	medication side effect
+fluid and electrolyte disorders	are diagnosed with	serum electrolytes
+fluid and electrolyte disorders	are diagnosed with	urine osmolality
+fluid and electrolyte disorders	are diagnosed with	BUN/creatinine ratio
+fluid and electrolyte disorders	are diagnosed with	ECG
+fluid and electrolyte disorders	are diagnosed with	physical exam
+fluid and electrolyte disorders	are treated with	IV fluids
+fluid and electrolyte disorders	are treated with	oral rehydration
+fluid and electrolyte disorders	are treated with	diuretics
+fluid and electrolyte disorders	are treated with	salt tablets
+fluid and electrolyte disorders	are treated with	potassium chloride
+fluid and electrolyte disorders	are treated with	sodium chloride
+fluid and electrolyte disorders	are treated with	magnesium sulfate
+fluid and electrolyte disorders	are treated with	calcium gluconate
+fluid and electrolyte disorders	are treated with	insulin
+fluid and electrolyte disorders	are treated with	glucagon
+fluid and electrolyte disorders	are treated with	bicarbonate
+fluid and electrolyte disorders	are treated with	dialysis
+fluid and electrolyte disorders	are treated with	hormone replacement
+fluid and electrolyte disorders	are treated with	aldosterone antagonist
+fluid and electrolyte disorders	are treated with	vasopressin antagonist
+fluid and electrolyte disorders	are treated with	ACE inhibitor
+fluid and electrolyte disorders	are treated with	ARB
+fluid and electrolyte disorders	are treated with	beta blocker
+fluid and electrolyte disorders	are treated with	diuretic taper
+fluid and electrolyte disorders	are treated with	fluid restriction
+fluid and electrolyte disorders	are treated with	sodium bicarbonate
+fluid and electrolyte disorders	are treated with	potassium citrate
+fluid and electrolyte disorders	are treated with	magnesium oxide
+fluid and electrolyte disorders	are treated with	calcium carbonate
+fluid and electrolyte disorders	are treated with	vitamin D
+fluid and electrolyte disorders	are treated with	thiazide diuretic
+fluid and electrolyte disorders	are treated with	loop diuretic
+fluid and electrolyte disorders	are treated with	potassium-sparing diuretic
+fluid and electrolyte disorders	are treated with	sodium polystyrene sulfonate
+fluid and electrolyte disorders	are treated with	patiromer
+fluid and electrolyte disorders	are treated with	sodium zirconium cyclosilicate
+fluid and electrolyte disorders	are treated with	furosemide
+fluid and electrolyte disorders	are treated with	torsemide
+fluid and electrolyte disorders	are treated with	bumetanide
+fluid and electrolyte disorders	are treated with	hydrochlorothiazide
+fluid and electrolyte disorders	are treated with	chlorthalidone
+fluid and electrolyte disorders	are treated with	spironolactone
+fluid and electrolyte disorders	are treated with	eplerenone
+fluid and electrolyte disorders	are treated with	amiloride
+fluid and electrolyte disorders	are treated with	triamterene
+fluid and electrolyte disorders	are treated with	acetazolamide
+fluid and electrolyte disorders	are treated with	mannitol
+fluid and electrolyte disorders	are treated with	furosemide infusion
+fluid and electrolyte disorders	are treated with	hypertonic saline
+fluid and electrolyte disorders	are treated with	isotonic saline
+fluid and electrolyte disorders	are treated with	lactated Ringer
+fluid and electrolyte disorders	are treated with	dextrose 5%
+fluid and electrolyte disorders	are treated with	dextrose 10%
+fluid and electrolyte disorders	are treated with	dextrose 20%
+fluid and electrolyte disorders	are treated with	dextrose 50%
+fluid and electrolyte disorders	are treated with	hypertonic glucose
+fluid and electrolyte disorders	are treated with	hypertonic saline
+fluid and electrolyte disorders	are treated with	hypertonic potassium
+fluid and electrolyte disorders	are treated with	hypertonic bicarbonate
+fluid and electrolyte disorders	are treated with	hypertonic magnesium
+fluid and electrolyte disorders	are treated with	hypertonic calcium
+fluid and electrolyte disorders	are treated with	hypertonic sodium
+fluid and electrolyte disorders	are treated with	hypertonic chloride
+fluid and electrolyte disorders	are treated with	hypertonic phosphate
+fluid and electrolyte disorders	are treated with	hypertonic sulfate
+fluid and electrolyte disorders	are treated with	hypertonic lactate
+fluid and electrolyte disorders	are treated with	hypertonic citrate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate
+fluid and electrolyte disorders	are treated with	hypertonic acetate

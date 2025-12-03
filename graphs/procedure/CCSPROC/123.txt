@@ -1,0 +1,100 @@
+tubal ligation	is a	surgical procedure
+tubal ligation	prevents	pregnancy
+tubal ligation	performed by	surgeon
+tubal ligation	uses	bipolar cautery
+tubal ligation	uses	clips
+tubal ligation	uses	rings
+tubal ligation	uses	sutures
+tubal ligation	performed via	laparoscopy
+tubal ligation	performed via	laparotomy
+tubal ligation	has	low complication rate
+tubal ligation	can cause	postoperative pain
+tubal ligation	can cause	infection
+tubal ligation	can cause	adhesion formation
+tubal ligation	can cause	ectopic pregnancy
+tubal ligation	can cause	infertility
+tubal ligation	can cause	tubal blockage
+tubal ligation	is reversible	by	tubal reversal
+tubal reversal	is a	surgical procedure
+tubal reversal	restores	fertility
+tubal reversal	performed by	surgeon
+tubal reversal	uses	microsurgery
+tubal reversal	performed via	laparoscopy
+tubal reversal	performed via	laparotomy
+tubal reversal	has	high success rate
+tubal reversal	can cause	adhesion formation
+tubal reversal	can cause	infection
+tubal reversal	can cause	postoperative pain
+tubal reversal	can cause	ectopic pregnancy
+salpingectomy	is a	surgical procedure
+salpingectomy	removes	fallopian tube
+salpingectomy	performed by	surgeon
+salpingectomy	performed via	laparoscopy
+salpingectomy	performed via	laparotomy
+salpingectomy	used for	ectopic pregnancy
+salpingectomy	used for	hydrosalpinx
+salpingectomy	used for	ovarian cancer
+salpingectomy	reduces	ovarian cancer risk
+salpingectomy	can cause	adhesion formation
+salpingectomy	can cause	infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	infertility
+salpingectomy	can cause	ectopic pregnancy
+salpingectomy	can cause	ovarian dysfunction
+salpingectomy	can cause	pelvic pain
+salpingectomy	can cause	menstrual irregularity
+salpingectomy	can cause	reduced ovarian reserve
+salpingectomy	can cause	adhesions
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia
+salpingectomy	can cause	postoperative infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	postoperative adhesion
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia
+salpingectomy	can cause	postoperative infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	postoperative adhesion
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia
+salpingectomy	can cause	postoperative infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	postoperative adhesion
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia
+salpingectomy	can cause	postoperative infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	postoperative adhesion
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia
+salpingectomy	can cause	postoperative infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	postoperative adhesion
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia
+salpingectomy	can cause	postoperative infection
+salpingectomy	can cause	postoperative pain
+salpingectomy	can cause	postoperative adhesion
+salpingectomy	can cause	postoperative bleeding
+salpingectomy	can cause	postoperative fever
+salpingectomy	can cause	postoperative nausea
+salpingectomy	can cause	postoperative vomiting
+salpingectomy	can cause	postoperative anemia

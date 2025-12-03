@@ -1,0 +1,100 @@
+otitis media	is a	middle‑ear infection
+otitis media	is caused by	bacterial infection
+otitis media	is caused by	viral infection
+otitis media	is common in	children
+otitis media	is treated with	antibiotics
+otitis media	is treated with	analgesics
+otitis media	is treated with	decongestants
+otitis media	may lead to	hearing loss
+otitis media	may lead to	mastoiditis
+otitis media	may lead to	perforated eardrum
+otitis media	may cause	ear pain
+otitis media	may cause	fever
+otitis media	may cause	vomiting
+otitis media	may cause	irritability
+otitis media	is diagnosed by	otoscopy
+otitis media	is diagnosed by	tympanometry
+otitis media	is diagnosed by	audiometry
+otitis media	is diagnosed by	tympanic membrane inspection
+otitis media	is diagnosed by	hearing test
+otitis media	is associated with	allergic rhinitis
+otitis media	is associated with	asthma
+otitis media	is associated with	eustachian tube dysfunction
+otitis media	is associated with	upper respiratory infection
+otitis media	is associated with	smoking
+otitis media	is associated with	daycare attendance
+otitis media	is associated with	pacifier use
+otitis media	is associated with	bottle feeding
+otitis media	is associated with	cleft palate
+otitis media	is associated with	craniofacial anomaly
+otitis media	is associated with	immunodeficiency
+otitis media	is prevented by	pneumococcal vaccine
+otitis media	is prevented by	Haemophilus influenzae type b vaccine
+otitis media	is prevented by	influenza vaccine
+otitis media	is prevented by	hand hygiene
+otitis media	is prevented by	avoiding smoke
+otitis media	is prevented by	breastfeeding
+otitis media	is prevented by	eustachian tube training
+otitis media	is treated with	amoxicillin
+otitis media	is treated with	amoxicillin‑clavulanate
+otitis media	is treated with	cefdinir
+otitis media	is treated with	cefuroxime
+otitis media	is treated with	azithromycin
+otitis media	is treated with	clarithromycin
+otitis media	is treated with	levofloxacin
+otitis media	is treated with	oral steroids
+otitis media	is treated with	tympanostomy tube
+otitis media	is treated with	myringotomy
+otitis media	is treated with	ear drops
+otitis media	is treated with	pain reliever
+otitis media	is treated with	anti‑inflammatory
+otitis media	is treated with	antihistamine
+otitis media	is treated with	nasal steroid spray
+otitis media	is treated with	saline irrigation
+otitis media	is treated with	decongestant spray
+otitis media	is treated with	oral antihistamine
+otitis media	is treated with	topical steroid
+otitis media	is treated with	oral steroid
+otitis media	is treated with	antibiotic ear drops
+otitis media	is treated with	tympanostomy tube insertion
+otitis media	is treated with	observation
+otitis media	is treated with	watchful waiting
+otitis media	is treated with	prophylactic antibiotics
+otitis media	is treated with	tympanic membrane repair
+otitis media	is treated with	tympanic membrane graft
+otitis media	is treated with	tympanic membrane patch
+otitis media	is treated with	tympanic membrane closure
+otitis media	is treated with	tympanic membrane reconstruction
+otitis media	is treated with	tympanic membrane surgery
+otitis media	is treated with	tympanic membrane repair surgery
+otitis media	is treated with	tympanic membrane repair procedure
+otitis media	is treated with	tympanic membrane repair technique
+otitis media	is treated with	tympanic membrane repair method
+otitis media	is treated with	tympanic membrane repair approach
+otitis media	is treated with	tympanic membrane repair plan
+otitis media	is treated with	tympanic membrane repair protocol
+otitis media	is treated with	tympanic membrane repair guideline
+otitis media	is treated with	tympanic membrane repair standard
+otitis media	is treated with	tympanic membrane repair best practice
+otitis media	is treated with	tympanic membrane repair evidence
+otitis media	is treated with	tympanic membrane repair study
+otitis media	is treated with	tympanic membrane repair trial
+otitis media	is treated with	tympanic membrane repair research
+otitis media	is treated with	tympanic membrane repair review
+otitis media	is treated with	tympanic membrane repair meta‑analysis
+otitis media	is treated with	tympanic membrane repair systematic review
+otitis media	is treated with	tympanic membrane repair guideline
+otitis media	is treated with	tympanic membrane repair consensus
+otitis media	is treated with	tympanic membrane repair protocol
+otitis media	is treated with	tympanic membrane repair algorithm
+otitis media	is treated with	tympanic membrane repair pathway
+otitis media	is treated with	tympanic membrane repair decision tree
+otitis media	is treated with	tympanic membrane repair flowchart
+otitis media	is treated with	tympanic membrane repair chart
+otitis media	is treated with	tympanic membrane repair diagram
+otitis media	is treated with	tympanic membrane repair illustration
+otitis media	is treated with	tympanic membrane repair visual
+otitis media	is treated with	tympanic membrane repair graphic
+otitis media	is treated with	tympanic membrane repair image
+otitis media	is treated with	tympanic membrane repair photo
+otitis media	is treated with	tympanic membrane repair video

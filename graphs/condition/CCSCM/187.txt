@@ -1,0 +1,100 @@
+malposition	is a	fetal abnormality
+malpresentation	is a	fetal abnormality
+malposition	causes	delivery complications
+malpresentation	causes	delivery complications
+malposition	increases	cesarean risk
+malpresentation	increases	cesarean risk
+malposition	leads to	shoulder dystocia
+malpresentation	leads to	shoulder dystocia
+malpresentation	leads to	brachial plexus injury
+malposition	leads to	brachial plexus injury
+malpresentation	leads to	uterine rupture
+malpresentation	leads to	uterine rupture
+malposition	is detected by	ultrasound
+malpresentation	is detected by	ultrasound
+malposition	is detected by	pelvic exam
+malpresentation	is detected by	pelvic exam
+malpresentation	is associated with	oligohydramnios
+malpresentation	is associated with	oligohydramnios
+malpresentation	is associated with	placenta previa
+malpresentation	is associated with	placenta previa
+malpresentation	is associated with	uterine fibroids
+malpresentation	is associated with	uterine fibroids
+malpresentation	is associated with	previous cesarean
+malpresentation	is associated with	previous cesarean
+malpresentation	is associated with	maternal age
+malpresentation	is associated with	maternal age
+malpresentation	is associated with	fetal macrosomia
+malpresentation	is associated with	fetal macrosomia
+malpresentation	is associated with	gestational diabetes
+malpresentation	is associated with	gestational diabetes
+malpresentation	is treated with	external cephalic version
+malposition	is treated with	external cephalic version
+external cephalic version	is a	procedure
+external cephalic version	is a	procedure
+external cephalic version	reduces	malpresentation
+external cephalic version	reduces	malposition
+external cephalic version	has risk	uterine rupture
+external cephalic version	has risk	placental abruption
+external cephalic version	has risk	placental abruption
+external cephalic version	has risk	fetal distress
+external cephalic version	has risk	fetal distress
+external cephalic version	requires	anesthesia
+external cephalic version	requires	anesthesia
+external cephalic version	requires	monitoring
+external cephalic version	requires	monitoring
+external cephalic version	is performed	in second trimester
+external cephalic version	is performed	in second trimester
+external cephalic version	is performed	in third trimester
+external cephalic version	is performed	in third trimester
+external cephalic version	is performed	in hospital
+external cephalic version	is performed	in hospital
+external cephalic version	is performed	by obstetrician
+external cephalic version	is performed	by obstetrician
+external cephalic version	is performed	with ultrasound guidance
+external cephalic version	is performed	with ultrasound guidance
+external cephalic version	is performed	with fetal monitoring
+external cephalic version	is performed	with fetal monitoring
+external cephalic version	is performed	with maternal monitoring
+external cephalic version	is performed	with maternal monitoring
+external cephalic version	is performed	with uterine monitoring
+external cephalic version	is performed	with uterine monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with maternal blood pressure monitoring
+external cephalic version	is performed	with maternal blood pressure monitoring
+external cephalic version	is performed	with fetal position assessment
+external cephalic version	is performed	with fetal position assessment
+external cephalic version	is performed	with uterine contraction monitoring
+external cephalic version	is performed	with uterine contraction monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring
+external cephalic version	is performed	with fetal heart rate monitoring

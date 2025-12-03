@@ -1,0 +1,100 @@
+mycoses	are caused by	fungi
+mycoses	include	dermatophytes
+mycoses	include	yeasts
+mycoses	include	molds
+dermatophytes	cause	tinea pedis
+dermatophytes	cause	tinea corporis
+dermatophytes	cause	tinea capitis
+yeasts	cause	candidiasis
+yeasts	cause	thrush
+yeasts	cause	vaginal candidiasis
+molds	cause	aspergillosis
+molds	cause	histoplasmosis
+molds	cause	cryptococcosis
+mycoses	are diagnosed by	culture
+mycoses	are diagnosed by	microscopy
+mycoses	are diagnosed by	antigen test
+mycoses	are diagnosed by	PCR
+mycoses	are treated with	antifungals
+antifungals	include	azoles
+antifungals	include	polyenes
+antifungals	include	echinocandins
+azoles	include	fluconazole
+azoles	include	itraconazole
+azoles	include	voriconazole
+polyenes	include	amphotericin B
+echinocandins	include	caspofungin
+echinocandins	include	micafungin
+echinocandins	include	anidulafungin
+fluconazole	treats	candidiasis
+itraconazole	treats	dermatophytosis
+voriconazole	treats	aspergillosis
+amphotericin B	treats	cryptococcosis
+caspofungin	treats	invasive candidiasis
+micafungin	treats	invasive candidiasis
+anidulafungin	treats	invasive candidiasis
+mycoses	increase risk of	invasive infection
+invasive infection	predicts	mortality
+mycoses	lead to	sepsis
+sepsis	predicts	ICU admission
+mycoses	cause	respiratory failure
+respiratory failure	predicts	mechanical ventilation
+mycoses	are more common in	immunocompromised
+immunocompromised	includes	HIV
+immunocompromised	includes	transplant
+immunocompromised	includes	chemotherapy
+HIV	predicts	opportunistic mycoses
+transplant	predicts	fungal infection
+chemotherapy	predicts	neutropenia
+neutropenia	predicts	fungal infection
+mycoses	are associated with	chronic lung disease
+chronic lung disease	predicts	aspergillosis
+mycoses	are associated with	diabetes
+diabetes	predicts	candidiasis
+mycoses	are associated with	smoking
+smoking	predicts	respiratory mycoses
+mycoses	can be prevented by	vaccination
+vaccination	includes	flu vaccine
+vaccination	includes	pneumococcal vaccine
+vaccination	reduces	invasive fungal disease
+mycoses	cause	skin lesions
+skin lesions	predict	poor wound healing
+mycoses	cause	oral lesions
+oral lesions	predict	oral candidiasis
+mycoses	cause	ear infections
+ear infections	predict	otomycosis
+mycoses	cause	sinusitis
+sinusitis	predict	fungal sinusitis
+mycoses	are treated with	topical therapy
+topical therapy	includes	clotrimazole
+topical therapy	includes	terbinafine
+clotrimazole	treats	tinea versicolor
+terbinafine	treats	tinea corporis
+mycoses	are associated with	prolonged antibiotics
+prolonged antibiotics	predict	fungal overgrowth
+fungal overgrowth	predicts	recurrence
+recurrence	predicts	treatment failure
+mycoses	are associated with	high humidity
+high humidity	predicts	dermatophyte spread
+mycoses	are associated with	poor hygiene
+poor hygiene	predicts	cutaneous mycoses
+mycoses	are associated with	overcrowding
+overcrowding	predicts	tinea pedis
+mycoses	are associated with	animal contact
+animal contact	predicts	zoonotic mycoses
+zoonotic mycoses	include	blastomycosis
+zoonotic mycoses	include	coccidioidomycosis
+blastomycosis	treated with	itraconazole
+coccidioidomycosis	treated with	fluconazole
+mycoses	can lead to	organ failure
+organ failure	predicts	mortality
+mycoses	increase risk of	ICU readmission
+ICU readmission	predicts	prolonged stay
+mycoses	are monitored by	galactomannan
+galactomannan	detects	aspergillosis
+mycoses	are monitored by	beta-D-glucan
+beta-D-glucan	detects	invasive candidiasis
+mycoses	are monitored by	cryptococcal antigen
+cryptococcal antigen	detects	cryptococcosis
+mycoses	are monitored by	histoplasma antigen
+histoplasma antigen	detects	histoplasmosis

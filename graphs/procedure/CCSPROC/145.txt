@@ -1,0 +1,100 @@
+radius fracture	treated by	cast
+ulna fracture	treated by	cast
+radius fracture	treated by	splint
+ulna fracture	treated by	splint
+radius fracture	treated by	surgery
+ulna fracture	treated by	surgery
+radius fracture	treated by	physiotherapy
+ulna fracture	treated by	physiotherapy
+radius fracture	treated by	pain medication
+ulna fracture	treated by	pain medication
+radius fracture	treated by	anti‑inflammatory
+ulna fracture	treated by	anti‑inflammatory
+radius fracture	treated by	immobilization
+ulna fracture	treated by	immobilization
+radius fracture	treated by	bracing
+ulna fracture	treated by	bracing
+radius fracture	treated by	bone graft
+ulna fracture	treated by	bone graft
+radius fracture	treated by	external fixation
+ulna fracture	treated by	external fixation
+radius fracture	treated by	internal fixation
+ulna fracture	treated by	internal fixation
+radius fracture	treated by	intramedullary nail
+ulna fracture	treated by	intramedullary nail
+radius fracture	treated by	plate fixation
+ulna fracture	treated by	plate fixation
+radius fracture	treated by	screw fixation
+ulna fracture	treated by	screw fixation
+radius fracture	treated by	K‑wire
+ulna fracture	treated by	K‑wire
+radius fracture	treated by	external cast
+ulna fracture	treated by	external cast
+radius fracture	treated by	functional brace
+ulna fracture	treated by	functional brace
+radius fracture	treated by	functional splint
+ulna fracture	treated by	functional splint
+radius fracture	treated by	surgical debridement
+ulna fracture	treated by	surgical debridement
+radius fracture	treated by	fracture reduction
+ulna fracture	treated by	fracture reduction
+radius fracture	treated by	closed reduction
+ulna fracture	treated by	closed reduction
+radius fracture	treated by	open reduction
+ulna fracture	treated by	open reduction
+radius fracture	treated by	fracture stabilization
+ulna fracture	treated by	fracture stabilization
+radius fracture	treated by	bone healing
+ulna fracture	treated by	bone healing
+radius fracture	treated by	bone remodeling
+ulna fracture	treated by	bone remodeling
+radius fracture	leads to	delayed union
+ulna fracture	leads to	delayed union
+radius fracture	leads to	non‑union
+ulna fracture	leads to	non‑union
+radius fracture	leads to	malunion
+ulna fracture	leads to	malunion
+radius fracture	leads to	compartment syndrome
+ulna fracture	leads to	compartment syndrome
+radius fracture	leads to	nerve injury
+ulna fracture	leads to	nerve injury
+radius fracture	leads to	vascular injury
+ulna fracture	leads to	vascular injury
+radius fracture	leads to	infection
+ulna fracture	leads to	infection
+radius fracture	leads to	stiffness
+ulna fracture	leads to	stiffness
+radius fracture	leads to	pain
+ulna fracture	leads to	pain
+radius fracture	leads to	swelling
+ulna fracture	leads to	swelling
+radius fracture	leads to	reduced grip strength
+ulna fracture	leads to	reduced grip strength
+radius fracture	leads to	reduced range of motion
+ulna fracture	leads to	reduced range of motion
+radius fracture	associated with	radial head fracture
+ulna fracture	associated with	radial head fracture
+radius fracture	associated with	distal radius fracture
+ulna fracture	associated with	distal radius fracture
+radius fracture	associated with	proximal radius fracture
+ulna fracture	associated with	proximal ulna fracture
+radius fracture	associated with	Monteggia fracture
+ulna fracture	associated with	Monteggia fracture
+radius fracture	associated with	Galeazzi fracture
+ulna fracture	associated with	Galeazzi fracture
+radius fracture	associated with	Colles fracture
+ulna fracture	associated with	Colles fracture
+radius fracture	associated with	Smith fracture
+ulna fracture	associated with	Smith fracture
+radius fracture	associated with	fracture displacement
+ulna fracture	associated with	fracture displacement
+radius fracture	associated with	fracture angulation
+ulna fracture	associated with	fracture angulation
+radius fracture	associated with	fracture shortening
+ulna fracture	associated with	fracture shortening
+radius fracture	treated with	vitamin D
+ulna fracture	treated with	vitamin D
+radius fracture	treated with	calcium
+ulna fracture	treated with	calcium
+radius fracture	treated with	bisphosphonate
+ulna fracture	treated with	bisphosphonate

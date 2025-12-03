@@ -1,0 +1,100 @@
+diverticulosis	is a	colonic condition
+diverticulosis	involves	outpouchings
+diverticulosis	occurs in	sigmoid colon
+diverticulosis	is asymptomatic	in most cases
+diverticulosis	can progress to	diverticulitis
+diverticulitis	is an	inflammatory disease
+diverticulitis	causes	abdominal pain
+diverticulitis	causes	fever
+diverticulitis	causes	leukocytosis
+diverticulitis	is diagnosed with	CT scan
+diverticulitis	is treated with	antibiotics
+diverticulitis	may require	surgery
+diverticulitis	can lead to	perforation
+diverticulitis	can lead to	abscess
+diverticulitis	can lead to	fistula
+diverticulitis	increases risk of	colorectal cancer
+diverticulosis	is associated with	low fiber diet
+diverticulosis	is associated with	obesity
+diverticulosis	is associated with	smoking
+diverticulosis	is associated with	aging
+diverticulosis	is associated with	hypertension
+diverticulosis	is associated with	diabetes
+diverticulosis	is associated with	sedentary lifestyle
+diverticulosis	is associated with	high salt intake
+diverticulosis	is associated with	low vitamin D
+diverticulosis	is associated with	gut microbiome dysbiosis
+diverticulitis	is associated with	increased CRP
+diverticulitis	is associated with	increased ESR
+diverticulitis	is associated with	elevated procalcitonin
+diverticulitis	is associated with	hypoalbuminemia
+diverticulitis	is associated with	anemia
+diverticulitis	is associated with	dehydration
+diverticulitis	is associated with	sepsis
+diverticulitis	is associated with	ICU admission
+diverticulitis	is associated with	mortality
+diverticulitis	is associated with	readmission
+diverticulitis	is associated with	long‑term morbidity
+diverticulitis	is associated with	post‑operative complications
+diverticulitis	is associated with	chronic pain
+diverticulitis	is associated with	quality‑of‑life decline
+diverticulosis	is treated with	high‑fiber diet
+diverticulosis	is treated with	probiotics
+diverticulosis	is treated with	omega‑3 fatty acids
+diverticulosis	is treated with	regular exercise
+diverticulosis	is treated with	weight loss
+diverticulosis	is treated with	smoking cessation
+diverticulosis	is treated with	alcohol moderation
+diverticulosis	is treated with	stress reduction
+diverticulosis	is treated with	periodic colonoscopy
+diverticulitis	is treated with	metronidazole
+diverticulitis	is treated with	ciprofloxacin
+diverticulitis	is treated with	ceftriaxone
+diverticulitis	is treated with	clindamycin
+diverticulitis	is treated with	vancomycin
+diverticulitis	is treated with	bowel rest
+diverticulitis	is treated with	IV fluids
+diverticulitis	is treated with	pain management
+diverticulitis	is treated with	surgical resection
+diverticulitis	is treated with	laparoscopic lavage
+diverticulitis	is treated with	percutaneous drainage
+diverticulitis	is treated with	diverting stoma
+diverticulitis	is treated with	diverting ileostomy
+diverticulitis	is treated with	diverting colostomy
+diverticulitis	is treated with	diverting loop ileostomy
+diverticulitis	is treated with	diverting loop colostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy
+diverticulitis	is treated with	diverting loop ileocolostomy

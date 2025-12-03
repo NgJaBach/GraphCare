@@ -1,0 +1,100 @@
+forceps delivery	is a	obstetric procedure
+forceps delivery	is used for	assisted vaginal birth
+forceps delivery	requires	obstetrician
+forceps delivery	involves	fetal head extraction
+forceps delivery	uses	obstetric forceps
+obstetric forceps	are made of	metal
+obstetric forceps	have	curved blades
+curved blades	fit	fetal skull
+forceps delivery	is indicated by	prolonged second stage
+forceps delivery	is indicated by	fetal distress
+forceps delivery	is indicated by	maternal exhaustion
+forceps delivery	is indicated by	cephalopelvic disproportion
+forceps delivery	is contraindicated in	placenta previa
+forceps delivery	is contraindicated in	uterine rupture
+forceps delivery	is contraindicated in	fetal anomaly
+forceps delivery	is contraindicated in	maternal infection
+forceps delivery	can cause	perineal laceration
+forceps delivery	can cause	fetal scalp injury
+forceps delivery	can cause	maternal hemorrhage
+forceps delivery	can cause	neonatal hypoxia
+forceps delivery	reduces	operative time
+forceps delivery	reduces	maternal pain
+forceps delivery	reduces	neonatal ICU admission
+forceps delivery	improves	Apgar scores
+forceps delivery	improves	maternal satisfaction
+forceps delivery	improves	neonatal outcomes
+forceps delivery	is preferred over	vacuum extraction
+forceps delivery	is preferred over	cesarean section
+forceps delivery	is preferred over	spontaneous vaginal delivery
+forceps delivery	is associated with	higher success rate
+forceps delivery	is associated with	lower infection risk
+forceps delivery	is associated with	lower uterine incision risk
+forceps delivery	is associated with	higher maternal fatigue
+forceps delivery	is associated with	higher neonatal bruising
+forceps delivery	is associated with	higher neonatal cord compression
+forceps delivery	is performed during	active second stage
+forceps delivery	is performed during	maternal pushing
+forceps delivery	is performed during	fetal descent
+forceps delivery	is performed during	fetal station -2
+forceps delivery	is performed during	fetal station -3
+forceps delivery	is performed during	fetal station -4
+forceps delivery	is performed during	fetal station -5
+forceps delivery	is performed during	fetal station -6
+forceps delivery	is performed during	fetal station -7
+forceps delivery	is performed during	fetal station -8
+forceps delivery	is performed during	fetal station -9
+forceps delivery	is performed during	fetal station +1
+forceps delivery	is performed during	fetal station +2
+forceps delivery	is performed during	fetal station +3
+forceps delivery	is performed during	fetal station +4
+forceps delivery	is performed during	fetal station +5
+forceps delivery	is performed during	fetal station +6
+forceps delivery	is performed during	fetal station +7
+forceps delivery	is performed during	fetal station +8
+forceps delivery	is performed during	fetal station +9
+forceps delivery	requires	fetal head molding
+forceps delivery	requires	adequate uterine contractions
+forceps delivery	requires	adequate analgesia
+forceps delivery	requires	adequate fetal monitoring
+forceps delivery	requires	adequate maternal positioning
+forceps delivery	requires	adequate fetal station
+forceps delivery	requires	adequate fetal head circumference
+forceps delivery	requires	adequate fetal head shape
+forceps delivery	requires	adequate fetal head descent
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	requires	adequate fetal head engagement
+forceps delivery	requires	adequate fetal head molding
+forceps delivery	requires	adequate fetal head flexion
+forceps delivery	requires	adequate fetal head extension
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	requires	adequate fetal head molding
+forceps delivery	requires	adequate fetal head flexion
+forceps delivery	requires	adequate fetal head extension
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	requires	adequate fetal head molding
+forceps delivery	requires	adequate fetal head flexion
+forceps delivery	requires	adequate fetal head extension
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	requires	adequate fetal head molding
+forceps delivery	requires	adequate fetal head flexion
+forceps delivery	requires	adequate fetal head extension
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	requires	adequate fetal head molding
+forceps delivery	requires	adequate fetal head flexion
+forceps delivery	requires	adequate fetal head extension
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	requires	adequate fetal head molding
+forceps delivery	requires	adequate fetal head flexion
+forceps delivery	requires	adequate fetal head extension
+forceps delivery	requires	adequate fetal head rotation
+forceps delivery	is associated with	higher maternal satisfaction
+forceps delivery	is associated with	lower neonatal morbidity
+forceps delivery	is associated with	higher neonatal mortality
+forceps delivery	is associated with	lower cesarean rate
+forceps delivery	is associated with	higher operative vaginal birth rate
+forceps delivery	is associated with	lower postpartum hemorrhage
+forceps delivery	is associated with	higher postpartum infection
+forceps delivery	is associated with	lower uterine rupture
+forceps delivery	is associated with	higher perineal tear
+forceps delivery	is associated with	lower neonatal ICU stay

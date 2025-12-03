@@ -1,0 +1,100 @@
+septicemia	is a	bloodstream infection
+septicemia	is caused by	bacteria
+septicemia	is caused by	fungi
+septicemia	is caused by	viruses
+septicemia	leads to	sepsis
+septicemia	leads to	organ failure
+septicemia	leads to	shock
+septicemia	leads to	death
+septicemia	is diagnosed by	blood culture
+septicemia	is diagnosed by	lactate level
+septicemia	is diagnosed by	procalcitonin level
+septicemia	is treated with	broad‑spectrum antibiotics
+septicemia	is treated with	source control
+septicemia	is treated with	vasopressors
+septicemia	is treated with	fluid resuscitation
+septicemia	is treated with	corticosteroids
+septicemia	is treated with	renal replacement therapy
+septicemia	is treated with	mechanical ventilation
+septicemia	is treated with	antifungal therapy
+septicemia	is treated with	antiviral therapy
+septicemia	is prevented by	hand hygiene
+septicemia	is prevented by	vaccination
+septicemia	is prevented by	antibiotic stewardship
+septicemia	is prevented by	infection control
+septicemia	is associated with	ICU admission
+septicemia	is associated with	prolonged hospitalization
+septicemia	is associated with	high mortality
+septicemia	is associated with	antibiotic resistance
+septicemia	is associated with	comorbid diabetes
+septicemia	is associated with	chronic kidney disease
+septicemia	is associated with	immunosuppression
+septicemia	is associated with	neutropenia
+septicemia	is associated with	malignancy
+septicemia	is associated with	recent surgery
+septicemia	is associated with	central venous catheter
+septicemia	is associated with	urinary catheter
+septicemia	is associated with	ventilator use
+septicemia	is associated with	trauma
+septicemia	is associated with	pneumonia
+septicemia	is associated with	intra‑abdominal infection
+septicemia	is associated with	skin infection
+septicemia	is associated with	osteomyelitis
+septicemia	is associated with	endocarditis
+septicemia	is associated with	meningitis
+septicemia	is associated with	septic shock
+septicemia	is associated with	ARDS
+septicemia	is associated with	acute kidney injury
+septicemia	is associated with	hepatic dysfunction
+septicemia	is associated with	coagulopathy
+septicemia	is associated with	DIC
+septicemia	is associated with	cytokine storm
+septicemia	is associated with	elevated CRP
+septicemia	is associated with	elevated ESR
+septicemia	is associated with	leukocytosis
+septicemia	is associated with	leukopenia
+septicemia	is associated with	thrombocytopenia
+septicemia	is associated with	hyperglycemia
+septicemia	is associated with	hypoglycemia
+septicemia	is associated with	electrolyte imbalance
+septicemia	is associated with	metabolic acidosis
+septicemia	is associated with	hyperlactatemia
+septicemia	is associated with	elevated bilirubin
+septicemia	is associated with	elevated creatinine
+septicemia	is associated with	elevated AST
+septicemia	is associated with	elevated ALT
+septicemia	is associated with	elevated CK
+septicemia	is associated with	elevated troponin
+septicemia	is associated with	elevated BNP
+septicemia	is associated with	elevated pro‑BNP
+septicemia	is associated with	elevated D‑dimer
+septicemia	is associated with	elevated fibrinogen
+septicemia	is associated with	elevated IL‑6
+septicemia	is associated with	elevated TNF‑α
+septicemia	is associated with	elevated IL‑10
+septicemia	is associated with	elevated IL‑8
+septicemia	is associated with	elevated IL‑1β
+septicemia	is associated with	elevated IFN‑γ
+septicemia	is associated with	elevated CRP
+septicemia	is associated with	elevated PCT
+septicemia	is associated with	elevated ferritin
+septicemia	is associated with	elevated LDH
+septicemia	is associated with	elevated ESR
+septicemia	is associated with	elevated WBC
+septicemia	is associated with	elevated neutrophils
+septicemia	is associated with	elevated lymphocytes
+septicemia	is associated with	elevated monocytes
+septicemia	is associated with	elevated eosinophils
+septicemia	is associated with	elevated basophils
+septicemia	is associated with	elevated platelet count
+septicemia	is associated with	elevated INR
+septicemia	is associated with	elevated PT
+septicemia	is associated with	elevated aPTT
+septicemia	is associated with	elevated fibrin degradation products
+septicemia	is associated with	elevated prothrombin time
+septicemia	is associated with	elevated activated partial thromboplastin time
+septicemia	is associated with	elevated clotting time
+septicemia	is associated with	elevated coagulation factor
+septicemia	is associated with	elevated platelet‑activating factor
+septicemia	is associated with	elevated complement proteins
+septicemia	is associated with	elevated coagulation inhibitors

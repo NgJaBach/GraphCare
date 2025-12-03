@@ -1,0 +1,100 @@
+excision of skin lesion	is a	surgical procedure
+excision of skin lesion	removes	malignant tumor
+excision of skin lesion	removes	benign tumor
+excision of skin lesion	reduces	cancer risk
+excision of skin lesion	requires	local anesthesia
+excision of skin lesion	requires	general anesthesia
+excision of skin lesion	performed by	dermatologist
+excision of skin lesion	performed by	plastic surgeon
+excision of skin lesion	performed by	general surgeon
+excision of skin lesion	performed in	outpatient clinic
+excision of skin lesion	performed in	operating room
+excision of skin lesion	followed by	wound closure
+excision of skin lesion	followed by	suturing
+excision of skin lesion	followed by	staples
+excision of skin lesion	followed by	skin graft
+excision of skin lesion	followed by	scar revision
+excision of skin lesion	followed by	postoperative care
+excision of skin lesion	can cause	infection
+excision of skin lesion	can cause	bleeding
+excision of skin lesion	can cause	scarring
+excision of skin lesion	can cause	delayed healing
+excision of skin lesion	can cause	pain
+excision of skin lesion	can cause	pigmentation change
+excision of skin lesion	can cause	nerve damage
+excision of skin lesion	can lead to	recurrence
+excision of skin lesion	can lead to	metastasis
+excision of skin lesion	can lead to	cosmetic dissatisfaction
+excision of skin lesion	can be performed	with laser
+excision of skin lesion	can be performed	with cryotherapy
+excision of skin lesion	can be performed	with electrocautery
+excision of skin lesion	can be performed	with radiofrequency
+excision of skin lesion	can be performed	with ultrasound
+excision of skin lesion	can be performed	with dermoscopy
+excision of skin lesion	can be performed	with biopsy
+excision of skin lesion	can be performed	with Mohs surgery
+excision of skin lesion	can be performed	with sentinel lymph node
+excision of skin lesion	can be performed	with sentinel lymph node biopsy
+excision of skin lesion	can be performed	with sentinel lymph node mapping
+excision of skin lesion	can be performed	with sentinel lymph node removal
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision
+excision of skin lesion	can be performed	with sentinel lymph node excision

@@ -1,0 +1,100 @@
+e codes	represent	adverse events
+e codes	are used in	claims data
+e codes	indicate	medical malpractice
+e codes	are assigned by	coders
+e codes	are recorded in	hospital discharge data
+e codes	help estimate	litigation risk
+e codes	support	quality improvement
+e codes	identify	preventable complications
+e codes	are linked to	patient safety
+e codes	are part of	ICD‑10 system
+e codes	are reviewed by	risk‑adjustment models
+e codes	are used for	reimbursement adjustments
+e codes	can trigger	audit alerts
+e codes	are associated with	higher readmission rates
+e codes	predict	mortality risk
+e codes	correlate with	length of stay
+e codes	are monitored by	hospital administration
+e codes	inform	clinical governance
+e codes	are used in	health‑care analytics
+e codes	support	benchmarking studies
+e codes	are required for	regulatory reporting
+e codes	are used to	flag adverse events
+e codes	are linked to	patient complaints
+e codes	help identify	high‑risk procedures
+e codes	are used in	risk‑based payment models
+e codes	are associated with	surgical complications
+e codes	are associated with	medication errors
+e codes	are associated with	anesthesia complications
+e codes	are associated with	infection outbreaks
+e codes	are associated with	falls in hospital
+e codes	are associated with	pressure ulcers
+e codes	are associated with	catheter‑related infections
+e codes	are associated with	transfusion reactions
+e codes	are associated with	procedural errors
+e codes	are associated with	diagnostic errors
+e codes	are associated with	surgical site infections
+e codes	are associated with	postoperative delirium
+e codes	are associated with	postoperative bleeding
+e codes	are associated with	postoperative pneumonia
+e codes	are associated with	postoperative sepsis
+e codes	are associated with	postoperative stroke
+e codes	are associated with	postoperative myocardial infarction
+e codes	are associated with	postoperative renal failure
+e codes	are associated with	postoperative arrhythmia
+e codes	are associated with	postoperative hypoxia
+e codes	are associated with	postoperative hyperglycemia
+e codes	are associated with	postoperative hypoglycemia
+e codes	are associated with	postoperative electrolyte imbalance
+e codes	are associated with	postoperative anemia
+e codes	are associated with	postoperative thrombosis
+e codes	are associated with	postoperative embolism
+e codes	are associated with	postoperative wound dehiscence
+e codes	are associated with	postoperative infection
+e codes	are associated with	postoperative pain crisis
+e codes	are associated with	postoperative nausea
+e codes	are associated with	postoperative vomiting
+e codes	are associated with	postoperative constipation
+e codes	are associated with	postoperative urinary retention
+e codes	are associated with	postoperative delirium
+e codes	are associated with	postoperative hypothermia
+e codes	are associated with	postoperative hyperthermia
+e codes	are associated with	postoperative hypoxemia
+e codes	are associated with	postoperative hypercapnia
+e codes	are associated with	postoperative hypovolemia
+e codes	are associated with	postoperative hypervolemia
+e codes	are associated with	postoperative electrolyte imbalance
+e codes	are associated with	postoperative metabolic acidosis
+e codes	are associated with	postoperative metabolic alkalosis
+e codes	are associated with	postoperative hypocalcemia
+e codes	are associated with	postoperative hypercalcemia
+e codes	are associated with	postoperative hypomagnesemia
+e codes	are associated with	postoperative hypermagnesemia
+e codes	are associated with	postoperative hypophosphatemia
+e codes	are associated with	postoperative hyperphosphatemia
+e codes	are associated with	postoperative anemia
+e codes	are associated with	postoperative thrombocytopenia
+e codes	are associated with	postoperative leukopenia
+e codes	are associated with	postoperative leukocytosis
+e codes	are associated with	postoperative eosinophilia
+e codes	are associated with	postoperative lymphopenia
+e codes	are associated with	postoperative neutropenia
+e codes	are associated with	postoperative platelet dysfunction
+e codes	are associated with	postoperative coagulation disorder
+e codes	are associated with	postoperative bleeding disorder
+e codes	are associated with	postoperative clotting disorder
+e codes	are associated with	postoperative infection
+e codes	are associated with	postoperative sepsis
+e codes	are associated with	postoperative septic shock
+e codes	are associated with	postoperative organ failure
+e codes	are associated with	postoperative cardiac arrest
+e codes	are associated with	postoperative respiratory failure
+e codes	are associated with	postoperative renal failure
+e codes	are associated with	postoperative hepatic failure
+e codes	are associated with	postoperative neurological failure
+e codes	are associated with	postoperative gastrointestinal failure
+e codes	are associated with	postoperative endocrine failure
+e codes	are associated with	postoperative immune suppression
+e codes	are associated with	postoperative allergic reaction
+e codes	are associated with	postoperative anaphylaxis
+e codes	are used to	improve patient safety

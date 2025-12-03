@@ -1,0 +1,100 @@
+early labor	is a	preterm event
+threatened labor	is a	preterm event
+early labor	may cause	preterm birth
+threatened labor	may cause	preterm birth
+early labor	is diagnosed with	cervical dilation
+threatened labor	is diagnosed with	cervical dilation
+early labor	is diagnosed with	uterine contractions
+threatened labor	is diagnosed with	uterine contractions
+early labor	is diagnosed with	cervical effacement
+threatened labor	is diagnosed with	cervical effacement
+early labor	is treated with	tocolytics
+threatened labor	is treated with	tocolytics
+tocolytics	are a	medication
+tocolytics	reduce	uterine contractions
+tocolytics	delay	preterm birth
+tocolytics	are prescribed for	early labor
+tocolytics	are prescribed for	threatened labor
+early labor	is associated with	maternal hypertension
+threatened labor	is associated with	maternal hypertension
+early labor	is associated with	gestational diabetes
+threatened labor	is associated with	gestational diabetes
+early labor	is associated with	placental abruption
+threatened labor	is associated with	placental abruption
+early labor	is associated with	fetal distress
+threatened labor	is associated with	fetal distress
+early labor	is associated with	oligohydramnios
+threatened labor	is associated with	oligohydramnios
+early labor	is associated with	chorioamnionitis
+threatened labor	is associated with	chorioamnionitis
+early labor	is associated with	uterine infection
+threatened labor	is associated with	uterine infection
+early labor	is associated with	cervical incompetence
+threatened labor	is associated with	cervical incompetence
+early labor	is associated with	uterine rupture
+threatened labor	is associated with	uterine rupture
+early labor	is associated with	low birth weight
+threatened labor	is associated with	low birth weight
+early labor	is associated with	neonatal ICU admission
+threatened labor	is associated with	neonatal ICU admission
+early labor	is associated with	NICU stay
+threatened labor	is associated with	NICU stay
+early labor	is associated with	respiratory distress syndrome
+threatened labor	is associated with	respiratory distress syndrome
+early labor	is associated with	intraventricular hemorrhage
+threatened labor	is associated with	intraventricular hemorrhage
+early labor	is associated with	sepsis
+threatened labor	is associated with	sepsis
+early labor	is associated with	maternal mortality
+threatened labor	is associated with	maternal mortality
+early labor	is associated with	postpartum hemorrhage
+threatened labor	is associated with	postpartum hemorrhage
+early labor	is associated with	cesarean delivery
+threatened labor	is associated with	cesarean delivery
+early labor	is associated with	operative vaginal delivery
+threatened labor	is associated with	operative vaginal delivery
+early labor	is associated with	induction of labor
+threatened labor	is associated with	induction of labor
+early labor	is associated with	magnesium sulfate
+threatened labor	is associated with	magnesium sulfate
+magnesium sulfate	is a	neuroprotective agent
+magnesium sulfate	reduces	cerebral palsy
+magnesium sulfate	is used for	preterm labor
+early labor	is associated with	corticosteroids
+threatened labor	is associated with	corticosteroids
+corticosteroids	are a	medication
+corticosteroids	accelerate	fetal lung maturity
+corticosteroids	reduce	neonatal mortality
+corticosteroids	are given for	early labor
+corticosteroids	are given for	threatened labor
+early labor	is associated with	antenatal steroids
+threatened labor	is associated with	antenatal steroids
+antenatal steroids	are a	corticosteroid
+antenatal steroids	reduce	neonatal complications
+early labor	is associated with	fetal monitoring
+threatened labor	is associated with	fetal monitoring
+fetal monitoring	is a	diagnostic tool
+fetal monitoring	detects	fetal distress
+early labor	is associated with	bed rest
+threatened labor	is associated with	bed rest
+bed rest	is a	nonpharmacologic therapy
+bed rest	reduces	uterine activity
+early labor	is associated with	pelvic support belt
+threatened labor	is associated with	pelvic support belt
+pelvic support belt	is a	device
+pelvic support belt	reduces	pelvic pain
+early labor	is associated with	magnesium sulfate
+threatened labor	is associated with	magnesium sulfate
+magnesium sulfate	is a	tocolytic
+magnesium sulfate	reduces	uterine contractions
+early labor	is associated with	nifedipine
+threatened labor	is associated with	nifedipine
+nifedipine	is a	calcium channel blocker
+nifedipine	reduces	uterine contractions
+early labor	is associated with	indomethacin
+threatened labor	is associated with	indomethacin
+indomethacin	is a	NSAID
+indomethacin	reduces	uterine contractions
+early labor	is associated with	magnesium sulfate
+threatened labor	is associated with	magnesium sulfate
+magnesium sulfate	reduces	neonatal seizures

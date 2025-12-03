@@ -1,0 +1,100 @@
+anxiety disorders	are	mental illnesses
+anxiety disorders	cause	panic attacks
+anxiety disorders	cause	hyperventilation
+anxiety disorders	cause	insomnia
+anxiety disorders	cause	muscle tension
+anxiety disorders	cause	avoidance behavior
+anxiety disorders	cause	heart palpitations
+anxiety disorders	cause	gastrointestinal upset
+anxiety disorders	cause	concentration problems
+anxiety disorders	cause	social withdrawal
+anxiety disorders	are	chronic conditions
+anxiety disorders	are	treatable
+anxiety disorders	are	common
+anxiety disorders	are	diagnosed by	DSM‑5
+anxiety disorders	are	associated with	depression
+anxiety disorders	are	associated with	substance abuse
+anxiety disorders	are	associated with	cardiovascular disease
+anxiety disorders	are	associated with	obesity
+anxiety disorders	are	associated with	sleep apnea
+anxiety disorders	are	associated with	chronic pain
+anxiety disorders	are	associated with	autoimmune disease
+anxiety disorders	are	associated with	thyroid dysfunction
+anxiety disorders	are	associated with	pregnancy
+anxiety disorders	are	associated with	menopause
+anxiety disorders	are	associated with	trauma
+anxiety disorders	are	associated with	genetics
+anxiety disorders	are	associated with	early life stress
+anxiety disorders	are	associated with	social media use
+anxiety disorders	are	associated with	caffeine intake
+anxiety disorders	are	associated with	alcohol withdrawal
+anxiety disorders	are	associated with	medication side effects
+anxiety disorders	are	associated with	chronic illness
+anxiety disorders	are	associated with	unemployment
+anxiety disorders	are	associated with	financial stress
+anxiety disorders	are	associated with	academic pressure
+anxiety disorders	are	associated with	workplace stress
+anxiety disorders	are	associated with	caregiving burden
+anxiety disorders	are	associated with	social isolation
+anxiety disorders	are	associated with	lack of exercise
+anxiety disorders	are	associated with	poor diet
+anxiety disorders	are	associated with	sleep deprivation
+anxiety disorders	are	associated with	hormonal imbalance
+anxiety disorders	are	associated with	vitamin D deficiency
+anxiety disorders	are	associated with	gut microbiome dysbiosis
+anxiety disorders	are	associated with	inflammatory markers
+anxiety disorders	are	associated with	neurochemical imbalance
+anxiety disorders	are	associated with	neurotransmitter dysregulation
+anxiety disorders	are	associated with	cortisol elevation
+anxiety disorders	are	associated with	sympathetic overactivity
+anxiety disorders	are	associated with	reduced GABA activity
+anxiety disorders	are	associated with	increased glutamate activity
+anxiety disorders	are	associated with	impaired hippocampal plasticity
+anxiety disorders	are	associated with	amygdala hyperreactivity
+anxiety disorders	are	associated with	prefrontal cortex hypoactivity
+anxiety disorders	are	associated with	impaired fear extinction
+anxiety disorders	are	associated with	impaired emotion regulation
+anxiety disorders	are	associated with	impaired coping skills
+anxiety disorders	are	associated with	impaired social cognition
+anxiety disorders	are	associated with	impaired decision making
+anxiety disorders	are	associated with	impaired memory consolidation
+anxiety disorders	are	associated with	impaired executive function
+anxiety disorders	are	associated with	impaired attention
+anxiety disorders	are	associated with	impaired processing speed
+anxiety disorders	are	associated with	impaired motor coordination
+anxiety disorders	are	associated with	impaired language skills
+anxiety disorders	are	associated with	impaired sensory processing
+anxiety disorders	are	associated with	impaired autonomic regulation
+anxiety disorders	are	associated with	impaired cardiovascular control
+anxiety disorders	are	associated with	impaired respiratory control
+anxiety disorders	are	associated with	impaired thermoregulation
+anxiety disorders	are	associated with	impaired immune function
+anxiety disorders	are	associated with	impaired wound healing
+anxiety disorders	are	associated with	impaired sleep architecture
+anxiety disorders	are	associated with	impaired REM sleep
+anxiety disorders	are	associated with	impaired slow‑wave sleep
+anxiety disorders	are	associated with	impaired circadian rhythm
+anxiety disorders	are	associated with	impaired endocrine function
+anxiety disorders	are	associated with	impaired metabolic rate
+anxiety disorders	are	associated with	impaired lipid profile
+anxiety disorders	are	associated with	impaired glucose tolerance
+anxiety disorders	are	associated with	impaired insulin sensitivity
+anxiety disorders	are	associated with	impaired blood pressure regulation
+anxiety disorders	are	associated with	impaired heart rate variability
+anxiety disorders	are	associated with	impaired platelet aggregation
+anxiety disorders	are	associated with	impaired coagulation cascade
+anxiety disorders	are	associated with	impaired fibrinolysis
+anxiety disorders	are	associated with	impaired endothelial function
+anxiety disorders	are	associated with	impaired vascular tone
+anxiety disorders	are	associated with	impaired microcirculation
+anxiety disorders	are	associated with	impaired tissue perfusion
+anxiety disorders	are	associated with	impaired oxygen delivery
+anxiety disorders	are	associated with	impaired cellular respiration
+anxiety disorders	are	associated with	impaired mitochondrial function
+anxiety disorders	are	associated with	impaired oxidative phosphorylation
+anxiety disorders	are	associated with	impaired antioxidant defense
+anxiety disorders	are	associated with	impaired inflammatory resolution
+anxiety disorders	are	associated with	impaired neurogenesis
+anxiety disorders	are	associated with	impaired synaptic plasticity
+anxiety disorders	are	associated with	impaired neuroendocrine signaling
+anxiety disorders	are	associated with	impaired psychosocial functioning

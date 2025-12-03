@@ -1,0 +1,100 @@
+abdominal pain	is a	symptom
+abdominal pain	may indicate	gastrointestinal disorder
+abdominal pain	may indicate	abdominal organ injury
+abdominal pain	may indicate	infection
+abdominal pain	may indicate	inflammation
+abdominal pain	may indicate	obstruction
+abdominal pain	may indicate	perforation
+abdominal pain	may indicate	ischemia
+abdominal pain	may indicate	tumor
+abdominal pain	may indicate	metabolic disorder
+abdominal pain	may indicate	pregnancy complication
+abdominal pain	may indicate	musculoskeletal strain
+abdominal pain	may indicate	referred pain
+abdominal pain	may be caused by	appendicitis
+abdominal pain	may be caused by	cholecystitis
+abdominal pain	may be caused by	pancreatitis
+abdominal pain	may be caused by	peptic ulcer
+abdominal pain	may be caused by	gastritis
+abdominal pain	may be caused by	gastroenteritis
+abdominal pain	may be caused by	diverticulitis
+abdominal pain	may be caused by	inflammatory bowel disease
+abdominal pain	may be caused by	constipation
+abdominal pain	may be caused by	bowel obstruction
+abdominal pain	may be caused by	intestinal ischemia
+abdominal pain	may be caused by	ectopic pregnancy
+abdominal pain	may be caused by	ovarian cyst
+abdominal pain	may be caused by	urinary tract infection
+abdominal pain	may be caused by	kidney stone
+abdominal pain	may be caused by	pancreatitis
+abdominal pain	may be caused by	mesenteric adenitis
+abdominal pain	may be caused by	celiac disease
+abdominal pain	may be caused by	lactose intolerance
+abdominal pain	may be caused by	food poisoning
+abdominal pain	may be caused by	drug reaction
+abdominal pain	may be caused by	anxiety
+abdominal pain	may be caused by	stress
+abdominal pain	may be caused by	pregnancy
+abdominal pain	may be caused by	endometriosis
+abdominal pain	may be caused by	pelvic inflammatory disease
+abdominal pain	may be caused by	hernia
+abdominal pain	may be caused by	mesenteric thrombosis
+abdominal pain	may be caused by	pancreatitis
+abdominal pain	may be caused by	splenic infarct
+abdominal pain	may be caused by	hepatic abscess
+abdominal pain	may be caused by	gallstone
+abdominal pain	may be caused by	biliary colic
+abdominal pain	may be caused by	gastric cancer
+abdominal pain	may be caused by	colorectal cancer
+abdominal pain	may be caused by	pancreatic cancer
+abdominal pain	may be caused by	liver disease
+abdominal pain	may be caused by	hepatitis
+abdominal pain	may be caused by	cirrhosis
+abdominal pain	may be caused by	ascites
+abdominal pain	may be caused by	peritonitis
+abdominal pain	may be caused by	septicemia
+abdominal pain	may be caused by	trauma
+abdominal pain	may be caused by	surgery
+abdominal pain	may be caused by	medication side effect
+abdominal pain	may be caused by	NSAID use
+abdominal pain	may be caused by	opioid use
+abdominal pain	may be caused by	alcohol abuse
+abdominal pain	may be caused by	pancreatitis
+abdominal pain	may be caused by	gallbladder disease
+abdominal pain	may be caused by	intestinal spasm
+abdominal pain	may be caused by	irritable bowel syndrome
+abdominal pain	may be caused by	functional dyspepsia
+abdominal pain	may be caused by	constipation
+abdominal pain	may be caused by	fecal impaction
+abdominal pain	may be caused by	hemorrhoids
+abdominal pain	may be caused by	rectal prolapse
+abdominal pain	may be caused by	anal fissure
+abdominal pain	may be caused by	diverticulosis
+abdominal pain	may be caused by	colitis
+abdominal pain	may be caused by	ulcerative colitis
+abdominal pain	may be caused by	Crohn disease
+abdominal pain	may be caused by	celiac disease
+abdominal pain	may be caused by	lactose intolerance
+abdominal pain	may be caused by	small intestinal bacterial overgrowth
+abdominal pain	may be caused by	gallstone
+abdominal pain	may be caused by	biliary colic
+abdominal pain	may be caused by	pancreatitis
+abdominal pain	may be caused by	gastric ulcer
+abdominal pain	may be caused by	duodenal ulcer
+abdominal pain	may be caused by	peptic ulcer
+abdominal pain	may be caused by	gastritis
+abdominal pain	may be caused by	GERD
+abdominal pain	may be caused by	esophagitis
+abdominal pain	may be caused by	hiatal hernia
+abdominal pain	may be caused by	reflux
+abdominal pain	may be caused by	functional abdominal pain
+abdominal pain	may be caused by	abdominal migraine
+abdominal pain	may be caused by	abdominal wall strain
+abdominal pain	may be caused by	abdominal hernia
+abdominal pain	may be caused by	abdominal trauma
+abdominal pain	may be caused by	abdominal surgery
+abdominal pain	may be caused by	abdominal infection
+abdominal pain	may be caused by	abdominal inflammation
+abdominal pain	may be caused by	abdominal obstruction
+abdominal pain	may be caused by	abdominal ischemia
+abdominal pain	may be caused by	abdominal tumor

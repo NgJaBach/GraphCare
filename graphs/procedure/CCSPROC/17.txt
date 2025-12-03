@@ -1,0 +1,100 @@
+lesion	located in	retina
+lesion	located in	choroid
+retina	part of	eye
+choroid	part of	eye
+lesion	causes	vision loss
+lesion	causes	photopsia
+lesion	causes	floaters
+lesion	causes	scotoma
+lesion	causes	retinal detachment
+lesion	treated with	laser photocoagulation
+lesion	treated with	cryotherapy
+lesion	treated with	photodynamic therapy
+lesion	treated with	anti‑VEGF injection
+lesion	treated with	surgical resection
+laser photocoagulation	reduces	lesion size
+cryotherapy	reduces	lesion size
+photodynamic therapy	reduces	lesion size
+anti‑VEGF injection	reduces	vascular leakage
+surgical resection	removes	lesion
+lesion	associated with	diabetic retinopathy
+lesion	associated with	age‑related macular degeneration
+lesion	associated with	retinal vein occlusion
+lesion	associated with	ocular melanoma
+lesion	associated with	choroidal nevus
+lesion	associated with	inflammatory eye disease
+lesion	increases risk of	retinal detachment
+lesion	increases risk of	blindness
+lesion	increases risk of	ocular hypertension
+lesion	increases risk of	neovascularization
+lesion	increases risk of	subretinal fluid
+lesion	detected by	optical coherence tomography
+lesion	detected by	fluorescein angiography
+lesion	detected by	indocyanine green angiography
+lesion	detected by	fundus photography
+lesion	detected by	ultrasonography
+lesion	detected by	adaptive optics
+lesion	monitored with	visual field testing
+lesion	monitored with	visual acuity testing
+lesion	monitored with	intraocular pressure measurement
+lesion	monitored with	OCT‑A
+lesion	monitored with	MRI
+lesion	prognosis depends on	lesion size
+lesion	prognosis depends on	lesion location
+lesion	prognosis depends on	lesion thickness
+lesion	prognosis depends on	lesion vascularity
+lesion	prognosis depends on	patient age
+lesion	prognosis depends on	comorbidities
+lesion	prognosis depends on	treatment modality
+lesion	prognosis depends on	response to therapy
+lesion	prognosis depends on	genetic factors
+lesion	prognosis depends on	systemic disease control
+lesion	prognosis depends on	adherence to follow‑up
+lesion	risk factor	smoking
+lesion	risk factor	hypertension
+lesion	risk factor	hyperlipidemia
+lesion	risk factor	obesity
+lesion	risk factor	diabetes
+lesion	risk factor	high‑altitude exposure
+lesion	risk factor	ocular trauma
+lesion	risk factor	inflammatory disease
+lesion	risk factor	genetic predisposition
+lesion	risk factor	prior ocular surgery
+lesion	risk factor	pregnancy
+lesion	risk factor	systemic steroids
+lesion	risk factor	viral infection
+lesion	risk factor	autoimmune disease
+lesion	risk factor	retinal vascular occlusion
+lesion	risk factor	ocular melanoma
+lesion	risk factor	choroidal nevus
+lesion	risk factor	ocular hypertension
+lesion	risk factor	age
+lesion	risk factor	gender
+lesion	risk factor	ethnicity
+lesion	risk factor	family history
+lesion	risk factor	sun exposure
+lesion	risk factor	alcohol consumption
+lesion	risk factor	high‑altitude living
+lesion	risk factor	systemic inflammation
+lesion	risk factor	metabolic syndrome
+lesion	risk factor	chronic kidney disease
+lesion	risk factor	cardiovascular disease
+lesion	risk factor	hypercoagulable state
+lesion	risk factor	pregnancy
+lesion	risk factor	prior radiation
+lesion	risk factor	ocular trauma
+lesion	risk factor	ocular surgery
+lesion	risk factor	ocular infection
+lesion	risk factor	ocular inflammation
+lesion	risk factor	ocular neovascularization
+lesion	risk factor	ocular edema
+lesion	risk factor	ocular ischemia
+lesion	risk factor	ocular hypertension
+lesion	risk factor	ocular pain
+lesion	risk factor	ocular redness
+lesion	risk factor	ocular discharge
+lesion	risk factor	ocular swelling
+lesion	risk factor	ocular stiffness
+lesion	risk factor	ocular stiffness
+lesion	risk factor	ocular stiffness
+lesion	risk factor	ocular stiffness

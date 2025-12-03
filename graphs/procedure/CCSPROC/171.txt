@@ -1,0 +1,100 @@
+suture	is a	medical procedure
+suture	used for	wound closure
+suture	performed on	skin
+suture	performed on	subcutaneous tissue
+suture	requires	sterile technique
+suture	requires	suturing needle
+suture	requires	suture material
+suture	can be	absorbable
+suture	can be	non‑absorbable
+suture	can be	monofilament
+suture	can be	braided
+suture	can be	nylon
+suture	can be	polypropylene
+suture	can be	silk
+suture	can be	polyester
+suture	can be	vicryl
+suture	can be	chromic gut
+suture	can be	silk‑polyester
+suture	can be	nylon‑polyester
+suture	can be	polypropylene‑polyester
+suture	can be	monofilament nylon
+suture	can be	braided nylon
+suture	can be	monofilament polypropylene
+suture	can be	braided polypropylene
+suture	can be	monofilament silk
+suture	can be	braided silk
+suture	can be	monofilament polyester
+suture	can be	braided polyester
+suture	can be	monofilament vicryl
+suture	can be	braided vicryl
+suture	can be	monofilament chromic gut
+suture	can be	braided chromic gut
+suture	can be	monofilament silk‑polyester
+suture	can be	braided silk‑polyester
+suture	can be	monofilament nylon‑polyester
+suture	can be	braided nylon‑polyester
+suture	can be	monofilament polypropylene‑polyester
+suture	can be	braided polypropylene‑polyester
+suture	can be	monofilament nylon‑polypropylene
+suture	can be	braided nylon‑polypropylene
+suture	can be	monofilament silk‑polypropylene
+suture	can be	braided silk‑polypropylene
+suture	can be	monofilament polyester‑polypropylene
+suture	can be	braided polyester‑polypropylene
+suture	can be	monofilament vicryl‑polypropylene
+suture	can be	braided vicryl‑polypropylene
+suture	can be	monofilament chromic gut‑polypropylene
+suture	can be	braided chromic gut‑polypropylene
+suture	can be	monofilament silk‑polypropylene‑polyester
+suture	can be	braided silk‑polypropylene‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided silk‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	monofilament nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester
+suture	can be	braided nylon‑polypropylene‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester‑polyester

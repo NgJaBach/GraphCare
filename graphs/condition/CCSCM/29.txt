@@ -1,0 +1,100 @@
+cancer of prostate	is a	malignancy
+cancer of prostate	is a	urologic cancer
+cancer of prostate	is a	solid tumor
+cancer of prostate	is a	hormone‑dependent cancer
+cancer of prostate	is a	common male cancer
+cancer of prostate	is a	late‑stage disease
+cancer of prostate	is a	treatable cancer
+cancer of prostate	is a	localized cancer
+cancer of prostate	is a	metastatic cancer
+cancer of prostate	is a	PSA‑positive cancer
+cancer of prostate	is diagnosed with	PSA test
+cancer of prostate	is diagnosed with	digital rectal exam
+cancer of prostate	is diagnosed with	prostate biopsy
+cancer of prostate	is diagnosed with	MRI
+cancer of prostate	is diagnosed with	CT scan
+cancer of prostate	is diagnosed with	bone scan
+cancer of prostate	is diagnosed with	transrectal ultrasound
+cancer of prostate	is diagnosed with	multiparametric MRI
+cancer of prostate	is diagnosed with	genomic testing
+cancer of prostate	is staged by	Gleason score
+cancer of prostate	is staged by	TNM staging
+cancer of prostate	is staged by	PSA level
+cancer of prostate	is staged by	clinical stage
+cancer of prostate	is treated with	radical prostatectomy
+cancer of prostate	is treated with	radiation therapy
+cancer of prostate	is treated with	androgen deprivation therapy
+cancer of prostate	is treated with	chemotherapy
+cancer of prostate	is treated with	immunotherapy
+cancer of prostate	is treated with	targeted therapy
+cancer of prostate	is treated with	active surveillance
+cancer of prostate	is treated with	cryotherapy
+cancer of prostate	is treated with	high‑dose brachytherapy
+cancer of prostate	is treated with	external beam radiation
+radical prostatectomy	is a	surgical procedure
+radical prostatectomy	is a	curative surgery
+radical prostatectomy	is a	nerve‑sparing surgery
+radical prostatectomy	is a	open surgery
+radical prostatectomy	is a	robotic surgery
+radiation therapy	is a	curative treatment
+radiation therapy	is a	palliative treatment
+radiation therapy	is a	external beam therapy
+radiation therapy	is a	brachytherapy
+radiation therapy	is a	hypofractionated therapy
+androgen deprivation therapy	is a	hormonal therapy
+androgen deprivation therapy	is a	luteinizing hormone‑releasing hormone agonist
+androgen deprivation therapy	is a	anti‑androgen
+androgen deprivation therapy	is a	orchiectomy
+chemotherapy	is a	cytotoxic therapy
+chemotherapy	is a	docetaxel
+chemotherapy	is a	cabazitaxel
+immunotherapy	is a	checkpoint inhibitor
+immunotherapy	is a	vaccine
+immunotherapy	is a	adoptive cell therapy
+targeted therapy	is a	PARP inhibitor
+targeted therapy	is a	PI3K inhibitor
+targeted therapy	is a	androgen receptor inhibitor
+active surveillance	is a	watchful waiting
+active surveillance	is a	periodic PSA monitoring
+active surveillance	is a	repeat biopsy
+cryotherapy	is a	cryoablation
+cryotherapy	is a	percutaneous procedure
+high‑dose brachytherapy	is a	seed implantation
+high‑dose brachytherapy	is a	iodine‑125 seeds
+external beam radiation	is a	3‑D conformal therapy
+external beam radiation	is a	intensity‑modulated therapy
+cancer of prostate	has risk factor	age
+cancer of prostate	has risk factor	family history
+cancer of prostate	has risk factor	African‑American ethnicity
+cancer of prostate	has risk factor	obesity
+cancer of prostate	has risk factor	diet
+cancer of prostate	has risk factor	smoking
+cancer of prostate	has risk factor	high‑fat diet
+cancer of prostate	has risk factor	low‑vitamin D
+cancer of prostate	has symptom	urinary frequency
+cancer of prostate	has symptom	weak stream
+cancer of prostate	has symptom	hematuria
+cancer of prostate	has symptom	bone pain
+cancer of prostate	has symptom	erectile dysfunction
+cancer of prostate	has symptom	weight loss
+cancer of prostate	is associated with	bone metastasis
+cancer of prostate	is associated with	lymph node metastasis
+cancer of prostate	is associated with	visceral metastasis
+bone metastasis	leads to	bone pain
+bone metastasis	leads to	pathological fracture
+bone metastasis	leads to	hypercalcemia
+lymph node metastasis	leads to	regional spread
+lymph node metastasis	leads to	systemic spread
+visceral metastasis	leads to	liver involvement
+visceral metastasis	leads to	lung involvement
+cancer of prostate	predicts	mortality
+cancer of prostate	predicts	readmission
+cancer of prostate	predicts	progression
+cancer of prostate	predicts	recurrence
+PSA level	predicts	recurrence
+Gleason score	predicts	aggressiveness
+TNM stage	predicts	survival
+genomic risk score	predicts	treatment response
+radical prostatectomy	reduces	recurrence risk
+radiation therapy	reduces	local recurrence
+androgen deprivation therapy	reduces	progression risk

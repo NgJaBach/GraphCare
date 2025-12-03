@@ -1,0 +1,100 @@
+amputation	is a	surgical procedure
+amputation	performed for	severe infection
+amputation	performed for	traumatic injury
+amputation	performed for	peripheral arterial disease
+amputation	performed for	malignant tumor
+amputation	performed for	diabetic foot ulcer
+amputation	performed for	bone fracture
+amputation	performed for	vascular compromise
+amputation	reduces	risk of sepsis
+amputation	increases	risk of mortality
+amputation	increases	risk of cardiovascular events
+amputation	increases	risk of depression
+amputation	increases	risk of anxiety
+amputation	increases	risk of prosthetic complications
+amputation	improves	quality of life
+amputation	improves	mobility with prosthesis
+amputation	improves	pain control
+amputation	improves	infection control
+amputation	improves	wound healing
+amputation	improves	functional independence
+amputation	improves	rehabilitation outcomes
+amputation	improves	patient satisfaction
+amputation	improves	cost‑effectiveness
+amputation	improves	long‑term survival
+amputation	improves	physical activity
+amputation	improves	cardiovascular fitness
+amputation	improves	social participation
+amputation	improves	self‑esteem
+amputation	improves	sleep quality
+amputation	improves	nutritional status
+amputation	improves	pulmonary function
+amputation	improves	endocrine regulation
+amputation	improves	immune response
+amputation	improves	bone remodeling
+amputation	improves	gait symmetry
+amputation	improves	balance
+amputation	improves	proprioception
+amputation	improves	joint health
+amputation	improves	muscle strength
+amputation	improves	cardiovascular health
+amputation	improves	metabolic control
+amputation	improves	blood pressure
+amputation	improves	lipid profile
+amputation	improves	glucose tolerance
+amputation	improves	insulin sensitivity
+amputation	improves	inflammatory markers
+amputation	improves	cytokine profile
+amputation	improves	neuroplasticity
+amputation	improves	sensory integration
+amputation	improves	motor planning
+amputation	improves	cognitive function
+amputation	improves	executive function
+amputation	improves	memory
+amputation	improves	attention
+amputation	improves	mood
+amputation	improves	sleep architecture
+amputation	improves	hormonal balance
+amputation	improves	autonomic regulation
+amputation	improves	stress response
+amputation	improves	pain threshold
+amputation	improves	analgesic requirement
+amputation	improves	opioid consumption
+amputation	improves	rehabilitation adherence
+amputation	improves	prosthetic fit
+amputation	improves	prosthetic comfort
+amputation	improves	prosthetic durability
+amputation	improves	prosthetic technology
+amputation	improves	prosthetic control
+amputation	improves	prosthetic weight
+amputation	improves	prosthetic cost
+amputation	improves	prosthetic availability
+amputation	improves	prosthetic training
+amputation	improves	prosthetic maintenance
+amputation	improves	prosthetic satisfaction
+amputation	improves	prosthetic performance
+amputation	improves	prosthetic alignment
+amputation	improves	prosthetic biomechanics
+amputation	improves	prosthetic ergonomics
+amputation	improves	prosthetic aesthetics
+amputation	improves	prosthetic social acceptance
+amputation	improves	prosthetic psychological adaptation
+amputation	improves	prosthetic functional independence
+amputation	improves	prosthetic mobility
+amputation	improves	prosthetic endurance
+amputation	improves	prosthetic gait speed
+amputation	improves	prosthetic stride length
+amputation	improves	prosthetic balance
+amputation	improves	prosthetic stability
+amputation	improves	prosthetic comfort
+amputation	improves	prosthetic skin health
+amputation	improves	prosthetic infection risk
+amputation	improves	prosthetic skin integrity
+amputation	improves	prosthetic tissue health
+amputation	improves	prosthetic joint health
+amputation	improves	prosthetic energy expenditure
+amputation	improves	prosthetic metabolic cost
+amputation	improves	prosthetic cardiovascular load
+amputation	improves	prosthetic functional capacity
+amputation	improves	prosthetic independence
+amputation	improves	prosthetic quality of life

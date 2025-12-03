@@ -1,0 +1,100 @@
+partial excision bone	is a	surgical procedure
+partial excision bone	removes	bone fragment
+partial excision bone	performed for	tumor
+partial excision bone	reduces	tumor size
+partial excision bone	preserves	joint function
+partial excision bone	requires	anesthesia
+partial excision bone	performed under	general anesthesia
+partial excision bone	performed under	spinal anesthesia
+partial excision bone	involves	incision
+partial excision bone	involves	bone saw
+partial excision bone	involves	curette
+partial excision bone	involves	resection
+partial excision bone	performed on	femur
+partial excision bone	performed on	tibia
+partial excision bone	performed on	humerus
+partial excision bone	performed on	radius
+partial excision bone	performed on	ulna
+partial excision bone	performed on	pelvis
+partial excision bone	performed on	vertebra
+partial excision bone	performed on	skull
+partial excision bone	indicated for	osteosarcoma
+partial excision bone	indicated for	chondrosarcoma
+partial excision bone	indicated for	benign bone tumor
+partial excision bone	indicated for	metastatic lesion
+partial excision bone	indicated for	fracture nonunion
+partial excision bone	indicated for	bone cyst
+partial excision bone	indicated for	osteoid osteoma
+partial excision bone	indicated for	osteomyelitis
+partial excision bone	indicated for	bone infection
+partial excision bone	reduces	pain
+partial excision bone	reduces	swelling
+partial excision bone	reduces	risk of fracture
+partial excision bone	reduces	risk of metastasis
+partial excision bone	improves	mobility
+partial excision bone	improves	quality of life
+partial excision bone	improves	functional outcome
+partial excision bone	improves	cosmetic result
+partial excision bone	may cause	infection
+partial excision bone	may cause	bleeding
+partial excision bone	may cause	nerve injury
+partial excision bone	may cause	blood loss
+partial excision bone	may cause	delayed healing
+partial excision bone	may cause	hardware failure
+partial excision bone	may cause	recurrence
+partial excision bone	may cause	postoperative pain
+partial excision bone	may cause	limited range of motion
+partial excision bone	may cause	infection
+partial excision bone	may cause	fracture
+partial excision bone	may cause	implant loosening
+partial excision bone	may cause	implant migration
+partial excision bone	requires	postoperative care
+partial excision bone	requires	physiotherapy
+partial excision bone	requires	wound care
+partial excision bone	requires	pain management
+partial excision bone	requires	antibiotics
+partial excision bone	requires	imaging follow‑up
+partial excision bone	requires	laboratory monitoring
+partial excision bone	requires	rehabilitation
+partial excision bone	requires	weight‑bearing restriction
+partial excision bone	requires	cast
+partial excision bone	requires	brace
+partial excision bone	requires	splint
+partial excision bone	requires	surgical team
+partial excision bone	requires	orthopedic surgeon
+partial excision bone	requires	anesthesiologist
+partial excision bone	requires	nursing staff
+partial excision bone	requires	radiology
+partial excision bone	requires	pathology
+partial excision bone	requires	histology
+partial excision bone	requires	imaging
+partial excision bone	associated with	tumor staging
+partial excision bone	associated with	surgical margin
+partial excision bone	associated with	histologic grade
+partial excision bone	associated with	tumor size
+partial excision bone	associated with	lymph node status
+partial excision bone	associated with	metastasis risk
+partial excision bone	associated with	survival rate
+partial excision bone	associated with	recurrence risk
+partial excision bone	associated with	functional outcome
+partial excision bone	associated with	complication rate
+partial excision bone	associated with	length of stay
+partial excision bone	associated with	readmission risk
+partial excision bone	associated with	mortality risk
+partial excision bone	associated with	quality‑adjusted life year
+partial excision bone	associated with	cost
+partial excision bone	associated with	hospital volume
+partial excision bone	associated with	surgeon experience
+partial excision bone	associated with	hospital accreditation
+partial excision bone	associated with	preoperative imaging
+partial excision bone	associated with	intraoperative navigation
+partial excision bone	associated with	3‑D printing
+partial excision bone	associated with	computer‑assisted surgery
+partial excision bone	associated with	intraoperative blood salvage
+partial excision bone	associated with	postoperative physiotherapy protocol
+partial excision bone	associated with	patient education
+partial excision bone	associated with	discharge planning
+partial excision bone	associated with	home health services
+partial excision bone	associated with	telehealth follow‑up
+partial excision bone	associated with	patient‑reported outcome
+partial excision bone	associated with	survivorship care plan

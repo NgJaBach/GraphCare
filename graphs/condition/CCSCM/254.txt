@@ -1,0 +1,100 @@
+rehabilitation care	is a	post‑operative service
+rehabilitation care	improves	functional mobility
+rehabilitation care	reduces	readmission rate
+rehabilitation care	requires	physical therapist
+rehabilitation care	includes	occupational therapy
+rehabilitation care	includes	speech therapy
+rehabilitation care	is delivered	in‑hospital
+rehabilitation care	is delivered	outpatient
+rehabilitation care	is delivered	home‑based
+rehabilitation care	is delivered	telehealth
+rehabilitation care	is monitored	by wearable sensors
+rehabilitation care	is funded	by Medicare
+rehabilitation care	is funded	by Medicaid
+rehabilitation care	is funded	by private insurance
+rehabilitation care	is evaluated	by functional scores
+rehabilitation care	is evaluated	by pain scales
+rehabilitation care	is evaluated	by quality‑of‑life surveys
+rehabilitation care	is tailored	to patient goals
+rehabilitation care	is tailored	to injury type
+rehabilitation care	is tailored	to comorbidities
+rehabilitation care	is guided	by evidence‑based protocols
+rehabilitation care	is guided	by multidisciplinary team
+rehabilitation care	is guided	by patient preference
+rehabilitation care	is associated	with lower mortality
+rehabilitation care	is associated	with higher patient satisfaction
+rehabilitation care	is associated	with reduced opioid use
+rehabilitation care	is associated	with improved gait
+rehabilitation care	is associated	with increased muscle strength
+rehabilitation care	is associated	with decreased depression
+rehabilitation care	is associated	with increased social participation
+rehabilitation care	is linked	to reduced healthcare costs
+rehabilitation care	is linked	to improved discharge planning
+rehabilitation care	is linked	to better adherence
+rehabilitation care	is linked	to higher compliance
+rehabilitation care	is linked	to lower fall risk
+rehabilitation care	is linked	to better wound healing
+rehabilitation care	is linked	to improved sleep quality
+rehabilitation care	is linked	to reduced caregiver burden
+rehabilitation care	is linked	to increased independence
+rehabilitation care	is linked	to improved cardiovascular fitness
+rehabilitation care	is linked	to better balance
+rehabilitation care	is linked	to reduced phantom limb pain
+rehabilitation care	is linked	to enhanced neuroplasticity
+rehabilitation care	is linked	to improved cognition
+rehabilitation care	is linked	to higher adherence to medication
+rehabilitation care	is linked	to reduced hospital length of stay
+rehabilitation care	is linked	to better pain management
+rehabilitation care	is linked	to improved respiratory function
+rehabilitation care	is linked	to reduced pressure ulcers
+rehabilitation care	is linked	to improved bladder control
+rehabilitation care	is linked	to better nutritional status
+rehabilitation care	is linked	to increased self‑efficacy
+rehabilitation care	is linked	to better mental health
+rehabilitation care	is linked	to improved social support
+rehabilitation care	is linked	to reduced caregiver stress
+rehabilitation care	is linked	to better sleep hygiene
+rehabilitation care	is linked	to improved adherence to therapy
+rehabilitation care	is linked	to better patient education
+rehabilitation care	is linked	to improved health literacy
+rehabilitation care	is linked	to better self‑management
+rehabilitation care	is linked	to improved functional independence measure
+rehabilitation care	is linked	to better mobility scores
+rehabilitation care	is linked	to improved range of motion
+rehabilitation care	is linked	to better balance scores
+rehabilitation care	is linked	to improved gait speed
+rehabilitation care	is linked	to better endurance
+rehabilitation care	is linked	to improved muscle power
+rehabilitation care	is linked	to better joint stability
+rehabilitation care	is linked	to improved proprioception
+rehabilitation care	is linked	to better coordination
+rehabilitation care	is linked	to improved fine‑motor skills
+rehabilitation care	is linked	to better gross‑motor skills
+rehabilitation care	is linked	to improved sensory integration
+rehabilitation care	is linked	to better pain tolerance
+rehabilitation care	is linked	to improved self‑care ability
+rehabilitation care	is linked	to better community integration
+rehabilitation care	is linked	to improved vocational outcomes
+rehabilitation care	is linked	to better financial stability
+rehabilitation care	is linked	to improved health outcomes
+rehabilitation care	is linked	to better overall survival
+rehabilitation care	is linked	to improved patient‑reported outcomes
+rehabilitation care	is linked	to better adherence to follow‑up
+rehabilitation care	is linked	to improved caregiver satisfaction
+rehabilitation care	is linked	to better health‑system efficiency
+rehabilitation care	is linked	to improved quality of life
+rehabilitation care	is linked	to better functional status
+rehabilitation care	is linked	to improved mobility independence
+rehabilitation care	is linked	to better self‑management of chronic disease
+rehabilitation care	is linked	to improved health‑related quality of life
+rehabilitation care	is linked	to better patient engagement
+rehabilitation care	is linked	to improved adherence to rehabilitation protocol
+rehabilitation care	is linked	to better functional recovery
+rehabilitation care	is linked	to improved health‑care utilization
+rehabilitation care	is linked	to better health‑care outcomes
+rehabilitation care	is linked	to improved functional independence
+rehabilitation care	is linked	to better health‑care quality
+rehabilitation care	is linked	to improved patient safety
+rehabilitation care	is linked	to better health‑care delivery
+rehabilitation care	is linked	to improved health‑care effectiveness
+rehabilitation care	is linked	to better health‑care efficiency

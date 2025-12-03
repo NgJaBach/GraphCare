@@ -1,0 +1,100 @@
+transient cerebral ischemia	is a	stroke subtype
+transient cerebral ischemia	is caused by	embolism
+transient cerebral ischemia	is caused by	thrombosis
+transient cerebral ischemia	is caused by	vasospasm
+transient cerebral ischemia	is caused by	hypoperfusion
+transient cerebral ischemia	is diagnosed with	MRI
+transient cerebral ischemia	is diagnosed with	CT
+transient cerebral ischemia	is diagnosed with	TCD
+transient cerebral ischemia	is diagnosed with	EEG
+transient cerebral ischemia	is diagnosed with	carotid duplex
+transient cerebral ischemia	is treated with	antiplatelets
+transient cerebral ischemia	is treated with	anticoagulants
+transient cerebral ischemia	is treated with	statins
+transient cerebral ischemia	is treated with	blood pressure control
+transient cerebral ischemia	is treated with	carotid endarterectomy
+transient cerebral ischemia	is treated with	thrombolysis
+transient cerebral ischemia	is treated with	mechanical thrombectomy
+transient cerebral ischemia	is treated with	aspirin
+transient cerebral ischemia	is treated with	clopidogrel
+transient cerebral ischemia	is treated with	warfarin
+transient cerebral ischemia	is treated with	rivaroxaban
+transient cerebral ischemia	is treated with	dabigatran
+transient cerebral ischemia	is treated with	ticagrelor
+transient cerebral ischemia	is treated with	cilostazol
+transient cerebral ischemia	is treated with	nicardipine
+transient cerebral ischemia	is treated with	nimodipine
+transient cerebral ischemia	is treated with	edaravone
+transient cerebral ischemia	is treated with	magnesium sulfate
+transient cerebral ischemia	is treated with	oxygen therapy
+transient cerebral ischemia	is treated with	glucose control
+transient cerebral ischemia	is treated with	lipid lowering
+transient cerebral ischemia	is treated with	lifestyle modification
+transient cerebral ischemia	is treated with	cardiac monitoring
+transient cerebral ischemia	is treated with	atrial fibrillation management
+transient cerebral ischemia	is treated with	carotid stenting
+transient cerebral ischemia	is treated with	endovascular therapy
+transient cerebral ischemia	is treated with	rehabilitation
+transient cerebral ischemia	is treated with	speech therapy
+transient cerebral ischemia	is treated with	occupational therapy
+transient cerebral ischemia	is treated with	physical therapy
+transient cerebral ischemia	is treated with	cognitive therapy
+transient cerebral ischemia	is treated with	depression screening
+transient cerebral ischemia	is treated with	anxiety screening
+transient cerebral ischemia	is treated with	sleep apnea screening
+transient cerebral ischemia	is treated with	carotid plaque removal
+transient cerebral ischemia	is treated with	cardiac ablation
+transient cerebral ischemia	is treated with	pacemaker implantation
+transient cerebral ischemia	is treated with	defibrillator implantation
+transient cerebral ischemia	is treated with	heart failure management
+transient cerebral ischemia	is treated with	heart valve repair
+transient cerebral ischemia	is treated with	heart valve replacement
+transient cerebral ischemia	is treated with	percutaneous coronary intervention
+transient cerebral ischemia	is treated with	coronary artery bypass graft
+transient cerebral ischemia	is treated with	coronary stenting
+transient cerebral ischemia	is treated with	coronary angiography
+transient cerebral ischemia	is treated with	cardiac catheterization
+transient cerebral ischemia	is treated with	cardiac MRI
+transient cerebral ischemia	is treated with	cardiac CT
+transient cerebral ischemia	is treated with	cardiac echo
+transient cerebral ischemia	is treated with	cardiac stress test
+transient cerebral ischemia	is treated with	cardiac arrhythmia monitoring
+transient cerebral ischemia	is treated with	cardiac rhythm analysis
+transient cerebral ischemia	is treated with	cardiac rhythm correction
+transient cerebral ischemia	is treated with	cardiac rhythm stabilization
+transient cerebral ischemia	is treated with	cardiac rhythm therapy
+transient cerebral ischemia	is treated with	cardiac rhythm management
+transient cerebral ischemia	is treated with	cardiac rhythm monitoring
+transient cerebral ischemia	is treated with	cardiac rhythm evaluation
+transient cerebral ischemia	is treated with	cardiac rhythm assessment
+transient cerebral ischemia	is treated with	cardiac rhythm screening
+transient cerebral ischemia	is treated with	cardiac rhythm detection
+transient cerebral ischemia	is treated with	cardiac rhythm analysis
+transient cerebral ischemia	is treated with	cardiac rhythm therapy
+transient cerebral ischemia	is treated with	cardiac rhythm management
+transient cerebral ischemia	is treated with	cardiac rhythm monitoring
+transient cerebral ischemia	is treated with	cardiac rhythm evaluation
+transient cerebral ischemia	is treated with	cardiac rhythm assessment
+transient cerebral ischemia	is treated with	cardiac rhythm screening
+transient cerebral ischemia	is treated with	cardiac rhythm detection
+transient cerebral ischemia	is treated with	cardiac rhythm analysis
+transient cerebral ischemia	is treated with	cardiac rhythm therapy
+transient cerebral ischemia	is treated with	cardiac rhythm management
+transient cerebral ischemia	is treated with	cardiac rhythm monitoring
+transient cerebral ischemia	is treated with	cardiac rhythm evaluation
+transient cerebral ischemia	is treated with	cardiac rhythm assessment
+transient cerebral ischemia	is treated with	cardiac rhythm screening
+transient cerebral ischemia	is treated with	cardiac rhythm detection
+transient cerebral ischemia	is treated with	cardiac rhythm analysis
+transient cerebral ischemia	is treated with	cardiac rhythm therapy
+transient cerebral ischemia	is treated with	cardiac rhythm management
+transient cerebral ischemia	is treated with	cardiac rhythm monitoring
+transient cerebral ischemia	is treated with	cardiac rhythm evaluation
+transient cerebral ischemia	is treated with	cardiac rhythm assessment
+transient cerebral ischemia	is treated with	cardiac rhythm screening
+transient cerebral ischemia	is treated with	cardiac rhythm detection
+transient cerebral ischemia	is treated with	cardiac rhythm analysis
+transient cerebral ischemia	is treated with	cardiac rhythm therapy
+transient cerebral ischemia	is treated with	cardiac rhythm management
+transient cerebral ischemia	is treated with	cardiac rhythm monitoring
+transient cerebral ischemia	is treated with	cardiac rhythm evaluation

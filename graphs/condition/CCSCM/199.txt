@@ -1,0 +1,100 @@
+chronic ulcer of skin	is a	skin lesion
+chronic ulcer of skin	is caused by	pressure
+chronic ulcer of skin	is caused by	venous stasis
+chronic ulcer of skin	is caused by	arterial insufficiency
+chronic ulcer of skin	is caused by	neuropathy
+chronic ulcer of skin	is caused by	infection
+chronic ulcer of skin	is caused by	trauma
+chronic ulcer of skin	is caused by	radiation
+chronic ulcer of skin	is caused by	diabetes
+chronic ulcer of skin	is associated with	immobility
+chronic ulcer of skin	is associated with	obesity
+chronic ulcer of skin	is associated with	smoking
+chronic ulcer of skin	is associated with	peripheral artery disease
+chronic ulcer of skin	is associated with	neuropathic pain
+chronic ulcer of skin	is associated with	malnutrition
+chronic ulcer of skin	is associated with	hypoalbuminemia
+chronic ulcer of skin	is associated with	edema
+chronic ulcer of skin	is associated with	poor wound healing
+chronic ulcer of skin	is treated with	debridement
+chronic ulcer of skin	is treated with	negative pressure therapy
+chronic ulcer of skin	is treated with	moist dressings
+chronic ulcer of skin	is treated with	antibiotics
+chronic ulcer of skin	is treated with	hyperbaric oxygen
+chronic ulcer of skin	is treated with	growth factors
+chronic ulcer of skin	is treated with	skin graft
+chronic ulcer of skin	is treated with	amputation
+chronic ulcer of skin	is treated with	compression bandage
+chronic ulcer of skin	is treated with	off‑loading
+chronic ulcer of skin	is treated with	pain management
+chronic ulcer of skin	is treated with	nutritional support
+chronic ulcer of skin	is treated with	wound care clinic
+chronic ulcer of skin	is monitored by	wound assessment
+chronic ulcer of skin	is monitored by	ulcer depth measurement
+chronic ulcer of skin	is monitored by	tissue oxygenation
+chronic ulcer of skin	is monitored by	infection markers
+chronic ulcer of skin	is monitored by	wound size trend
+chronic ulcer of skin	is monitored by	pain score
+chronic ulcer of skin	is monitored by	serum albumin
+chronic ulcer of skin	is monitored by	hemoglobin
+chronic ulcer of skin	is monitored by	glycemic control
+chronic ulcer of skin	is monitored by	vascular imaging
+chronic ulcer of skin	is monitored by	microbiology culture
+chronic ulcer of skin	is monitored by	inflammatory markers
+chronic ulcer of skin	is a risk factor for	sepsis
+chronic ulcer of skin	is a risk factor for	amputation
+chronic ulcer of skin	is a risk factor for	mortality
+chronic ulcer of skin	is a risk factor for	readmission
+chronic ulcer of skin	is a risk factor for	healthcare cost
+chronic ulcer of skin	is a risk factor for	impaired mobility
+chronic ulcer of skin	is a risk factor for	depression
+chronic ulcer of skin	is a risk factor for	pressure sore
+chronic ulcer of skin	is a risk factor for	osteomyelitis
+chronic ulcer of skin	is a risk factor for	cellulitis
+chronic ulcer of skin	is a risk factor for	venous ulcer
+chronic ulcer of skin	is a risk factor for	arterial ulcer
+chronic ulcer of skin	is a risk factor for	neuropathic ulcer
+chronic ulcer of skin	is a risk factor for	diabetic foot
+chronic ulcer of skin	is a risk factor for	foot deformity
+chronic ulcer of skin	is a risk factor for	foot infection
+chronic ulcer of skin	is a risk factor for	foot ulcer recurrence
+chronic ulcer of skin	is a risk factor for	wound biofilm
+chronic ulcer of skin	is a risk factor for	antibiotic resistance
+chronic ulcer of skin	is a risk factor for	chronic inflammation
+chronic ulcer of skin	is a risk factor for	systemic infection
+chronic ulcer of skin	is a risk factor for	hospital stay
+chronic ulcer of skin	is a risk factor for	outpatient visits
+chronic ulcer of skin	is a risk factor for	wound care visits
+chronic ulcer of skin	is a risk factor for	wound care costs
+chronic ulcer of skin	is a risk factor for	quality of life
+chronic ulcer of skin	is a risk factor for	caregiver burden
+chronic ulcer of skin	is a risk factor for	falls
+chronic ulcer of skin	is a risk factor for	immobility
+chronic ulcer of skin	is a risk factor for	pressure injury
+chronic ulcer of skin	is a risk factor for	skin breakdown
+chronic ulcer of skin	is a risk factor for	skin infection
+chronic ulcer of skin	is a risk factor for	cellulitis
+chronic ulcer of skin	is a risk factor for	osteomyelitis
+chronic ulcer of skin	is a risk factor for	septic arthritis
+chronic ulcer of skin	is a risk factor for	systemic inflammation
+chronic ulcer of skin	is a risk factor for	chronic pain
+chronic ulcer of skin	is a risk factor for	neuropathic pain
+chronic ulcer of skin	is a risk factor for	depression
+chronic ulcer of skin	is a risk factor for	anxiety
+chronic ulcer of skin	is a risk factor for	sleep disturbance
+chronic ulcer of skin	is a risk factor for	malnutrition
+chronic ulcer of skin	is a risk factor for	hypoalbuminemia
+chronic ulcer of skin	is a risk factor for	anemia
+chronic ulcer of skin	is a risk factor for	hyperglycemia
+chronic ulcer of skin	is a risk factor for	hyperlipidemia
+chronic ulcer of skin	is a risk factor for	hypertension
+chronic ulcer of skin	is a risk factor for	cardiovascular disease
+chronic ulcer of skin	is a risk factor for	renal dysfunction
+chronic ulcer of skin	is a risk factor for	liver disease
+chronic ulcer of skin	is a risk factor for	immunosuppression
+chronic ulcer of skin	is a risk factor for	infection severity
+chronic ulcer of skin	is a risk factor for	antibiotic failure
+chronic ulcer of skin	is a risk factor for	biofilm formation
+chronic ulcer of skin	is a risk factor for	delayed healing
+chronic ulcer of skin	is a risk factor for	chronic inflammation
+chronic ulcer of skin	is a risk factor for	systemic complications

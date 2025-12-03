@@ -1,0 +1,100 @@
+residual codes	are	ICD codes
+unclassified	indicates	unknown diagnosis
+residual codes	used in	billing
+unclassified	appears in	medical records
+residual codes	represent	miscoded conditions
+unclassified	leads to	coding errors
+residual codes	affect	reimbursement
+unclassified	causes	data quality issues
+residual codes	are	secondary diagnoses
+unclassified	is	coding exception
+residual codes	require	audit
+unclassified	triggers	clinical review
+residual codes	impact	readmission rates
+unclassified	increases	administrative burden
+residual codes	are	non‑specific
+unclassified	reduces	predictive accuracy
+residual codes	are	legacy codes
+unclassified	is	ambiguous
+residual codes	are	rarely used
+unclassified	is	data noise
+residual codes	are	coded by	clinicians
+unclassified	is	flagged by	auditors
+residual codes	are	mapped to	SNOMED
+unclassified	is	mapped to	ICD‑10
+residual codes	are	used in	research
+unclassified	is	used in	quality metrics
+residual codes	are	associated with	mortality
+unclassified	is	associated with	mortality
+residual codes	are	associated with	length of stay
+unclassified	is	associated with	length of stay
+residual codes	are	associated with	cost
+unclassified	is	associated with	cost
+residual codes	are	associated with	complications
+unclassified	is	associated with	complications
+residual codes	are	used in	risk stratification
+unclassified	is	used in	risk stratification
+residual codes	are	used in	predictive modeling
+unclassified	is	used in	predictive modeling
+residual codes	are	used in	clinical decision support
+unclassified	is	used in	clinical decision support
+residual codes	are	linked to	patient safety
+unclassified	is	linked to	patient safety
+residual codes	are	linked to	coding compliance
+unclassified	is	linked to	coding compliance
+residual codes	are	linked to	hospital accreditation
+unclassified	is	linked to	hospital accreditation
+residual codes	are	linked to	payer denial
+unclassified	is	linked to	payer denial
+residual codes	are	linked to	clinical documentation
+unclassified	is	linked to	clinical documentation
+residual codes	are	used in	epidemiology
+unclassified	is	used in	epidemiology
+residual codes	are	used in	population health
+unclassified	is	used in	population health
+residual codes	are	used in	health policy
+unclassified	is	used in	health policy
+residual codes	are	used in	health economics
+unclassified	is	used in	health economics
+residual codes	are	used in	health informatics
+unclassified	is	used in	health informatics
+residual codes	are	used in	clinical trials
+unclassified	is	used in	clinical trials
+residual codes	are	used in	quality improvement
+unclassified	is	used in	quality improvement
+residual codes	are	used in	benchmarking
+unclassified	is	used in	benchmarking
+residual codes	are	used in	benchmarking
+unclassified	is	used in	benchmarking
+residual codes	are	used in	health services research
+unclassified	is	used in	health services research
+residual codes	are	used in	health outcomes
+unclassified	is	used in	health outcomes
+residual codes	are	used in	health disparities
+unclassified	is	used in	health disparities
+residual codes	are	used in	health equity
+unclassified	is	used in	health equity
+residual codes	are	used in	health literacy
+unclassified	is	used in	health literacy
+residual codes	are	used in	health technology assessment
+unclassified	is	used in	health technology assessment
+residual codes	are	used in	health workforce planning
+unclassified	is	used in	health workforce planning
+residual codes	are	used in	health system performance
+unclassified	is	used in	health system performance
+residual codes	are	used in	health system resilience
+unclassified	is	used in	health system resilience
+residual codes	are	used in	health system sustainability
+unclassified	is	used in	health system sustainability
+residual codes	are	used in	health system governance
+unclassified	is	used in	health system governance
+residual codes	are	used in	health system financing
+unclassified	is	used in	health system financing
+residual codes	are	used in	health system regulation
+unclassified	is	used in	health system regulation
+residual codes	are	used in	health system policy
+unclassified	is	used in	health system policy
+residual codes	are	used in	health system quality
+unclassified	is	used in	health system quality
+residual codes	are	used in	health system safety
+unclassified	is	used in	health system safety

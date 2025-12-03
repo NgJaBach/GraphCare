@@ -1,0 +1,100 @@
+alcohol‑related disorders	are	substance‑use disorders
+alcohol‑related disorders	cause	liver cirrhosis
+alcohol‑related disorders	increase	risk of pancreatitis
+alcohol‑related disorders	lead to	cardiomyopathy
+alcohol‑related disorders	cause	gastric ulcers
+alcohol‑related disorders	cause	neuropathy
+alcohol‑related disorders	increase	risk of stroke
+alcohol‑related disorders	increase	risk of breast cancer
+alcohol‑related disorders	increase	risk of colorectal cancer
+alcohol‑related disorders	increase	risk of head injury
+alcohol‑related disorders	increase	risk of suicide
+alcohol‑related disorders	increase	risk of depression
+alcohol‑related disorders	increase	risk of anxiety
+alcohol‑related disorders	increase	risk of insomnia
+alcohol‑related disorders	increase	risk of falls
+alcohol‑related disorders	increase	risk of infections
+alcohol‑related disorders	increase	risk of sepsis
+alcohol‑related disorders	increase	risk of pneumonia
+alcohol‑related disorders	increase	risk of tuberculosis
+alcohol‑related disorders	increase	risk of HIV
+alcohol‑related disorders	increase	risk of hepatitis C
+alcohol‑related disorders	increase	risk of hepatitis B
+alcohol‑related disorders	increase	risk of hepatitis A
+alcohol‑related disorders	increase	risk of hepatitis E
+alcohol‑related disorders	increase	risk of metabolic syndrome
+alcohol‑related disorders	increase	risk of hypertension
+alcohol‑related disorders	increase	risk of hyperlipidemia
+alcohol‑related disorders	increase	risk of type 2 diabetes
+alcohol‑related disorders	increase	risk of obesity
+alcohol‑related disorders	increase	risk of malnutrition
+alcohol‑related disorders	increase	risk of vitamin B1 deficiency
+alcohol‑related disorders	increase	risk of vitamin B12 deficiency
+alcohol‑related disorders	increase	risk of folate deficiency
+alcohol‑related disorders	increase	risk of zinc deficiency
+alcohol‑related disorders	increase	risk of magnesium deficiency
+alcohol‑related disorders	increase	risk of calcium deficiency
+alcohol‑related disorders	increase	risk of iron deficiency
+alcohol‑related disorders	increase	risk of anemia
+alcohol‑related disorders	increase	risk of osteoporosis
+alcohol‑related disorders	increase	risk of fractures
+alcohol‑related disorders	increase	risk of dental caries
+alcohol‑related disorders	increase	risk of periodontal disease
+alcohol‑related disorders	increase	risk of oral cancer
+alcohol‑related disorders	increase	risk of esophageal cancer
+alcohol‑related disorders	increase	risk of gastric cancer
+alcohol‑related disorders	increase	risk of liver cancer
+alcohol‑related disorders	increase	risk of pancreatic cancer
+alcohol‑related disorders	increase	risk of breast cancer
+alcohol‑related disorders	increase	risk of colorectal cancer
+alcohol‑related disorders	increase	risk of melanoma
+alcohol‑related disorders	increase	risk of skin cancer
+alcohol‑related disorders	increase	risk of psychiatric disorders
+alcohol‑related disorders	increase	risk of psychosis
+alcohol‑related disorders	increase	risk of delirium
+alcohol‑related disorders	increase	risk of dementia
+alcohol‑related disorders	increase	risk of memory loss
+alcohol‑related disorders	increase	risk of cognitive decline
+alcohol‑related disorders	increase	risk of impaired judgment
+alcohol‑related disorders	increase	risk of impaired coordination
+alcohol‑related disorders	increase	risk of impaired vision
+alcohol‑related disorders	increase	risk of impaired hearing
+alcohol‑related disorders	increase	risk of impaired speech
+alcohol‑related disorders	increase	risk of impaired balance
+alcohol‑related disorders	increase	risk of impaired gait
+alcohol‑related disorders	increase	risk of impaired memory
+alcohol‑related disorders	increase	risk of impaired concentration
+alcohol‑related disorders	increase	risk of impaired decision‑making
+alcohol‑related disorders	increase	risk of impaired social functioning
+alcohol‑related disorders	increase	risk of impaired occupational functioning
+alcohol‑related disorders	increase	risk of impaired academic performance
+alcohol‑related disorders	increase	risk of impaired relationships
+alcohol‑related disorders	increase	risk of impaired parenting
+alcohol‑related disorders	increase	risk of impaired driving
+alcohol‑related disorders	increase	risk of traffic accidents
+alcohol‑related disorders	increase	risk of workplace accidents
+alcohol‑related disorders	increase	risk of domestic violence
+alcohol‑related disorders	increase	risk of child abuse
+alcohol‑related disorders	increase	risk of elder abuse
+alcohol‑related disorders	increase	risk of financial loss
+alcohol‑related disorders	increase	risk of legal problems
+alcohol‑related disorders	increase	risk of incarceration
+alcohol‑related disorders	increase	risk of homelessness
+alcohol‑related disorders	increase	risk of unemployment
+alcohol‑related disorders	increase	risk of poverty
+alcohol‑related disorders	increase	risk of social isolation
+alcohol‑related disorders	increase	risk of stigma
+alcohol‑related disorders	increase	risk of reduced life expectancy
+alcohol‑related disorders	increase	risk of premature death
+alcohol‑related disorders	increase	risk of hospital readmission
+alcohol‑related disorders	increase	risk of ICU admission
+alcohol‑related disorders	increase	risk of organ failure
+alcohol‑related disorders	increase	risk of multi‑organ failure
+alcohol‑related disorders	increase	risk of death from liver failure
+alcohol‑related disorders	increase	risk of death from cardiovascular disease
+alcohol‑related disorders	increase	risk of death from cancer
+alcohol‑related disorders	increase	risk of death from infections
+alcohol‑related disorders	increase	risk of death from accidents
+alcohol‑related disorders	are treated with	naltrexone
+alcohol‑related disorders	are treated with	acamprosate
+alcohol‑related disorders	are treated with	disulfiram

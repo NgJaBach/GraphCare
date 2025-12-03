@@ -1,0 +1,100 @@
+excision	is a	surgical procedure
+excision	performed on	cervix
+excision	performed on	uterus
+cervix	located in	female reproductive system
+uterus	located in	female reproductive system
+excision	indicated for	cervical cancer
+excision	indicated for	uterine cancer
+excision	indicated for	precancerous lesions
+excision	reduces	cancer risk
+excision	increases	postoperative pain
+excision	requires	general anesthesia
+excision	requires	hospital stay
+excision	leads to	bleeding risk
+excision	leads to	infection risk
+excision	leads to	fertility impact
+excision	leads to	hormonal changes
+excision	leads to	urinary incontinence
+excision	leads to	bowel dysfunction
+excision	leads to	vaginal stenosis
+excision	leads to	pelvic pain
+excision	improves	survival rate
+excision	improves	quality of life
+excision	improves	symptom relief
+excision	improves	diagnostic accuracy
+excision	improves	staging accuracy
+excision	improves	treatment planning
+excision	improves	recurrence detection
+excision	improves	imaging interpretation
+excision	improves	histopathology quality
+excision	improves	patient counseling
+excision	improves	postoperative monitoring
+excision	improves	early detection
+excision	improves	surgical margins
+excision	improves	resection completeness
+excision	improves	oncologic outcomes
+excision	improves	disease-free survival
+excision	improves	overall survival
+excision	improves	recurrence-free survival
+excision	improves	patient satisfaction
+excision	improves	postoperative recovery
+excision	improves	long-term prognosis
+excision	improves	hormonal balance
+excision	improves	sexual function
+excision	improves	psychological well-being
+excision	improves	social functioning
+excision	improves	work productivity
+excision	improves	cost-effectiveness
+excision	improves	health economics
+excision	improves	resource utilization
+excision	improves	healthcare utilization
+excision	contraindicated in	pregnancy
+excision	contraindicated in	severe anemia
+excision	contraindicated in	uncontrolled infection
+excision	contraindicated in	active bleeding disorder
+excision	contraindicated in	severe comorbidities
+excision	contraindicated in	poor wound healing
+excision	contraindicated in	advanced age
+excision	contraindicated in	obesity
+excision	contraindicated in	prior pelvic radiation
+excision	contraindicated in	extensive adhesions
+excision	contraindicated in	severe pelvic organ prolapse
+excision	contraindicated in	active tuberculosis
+excision	contraindicated in	HIV with low CD4
+excision	contraindicated in	uncontrolled diabetes
+excision	contraindicated in	severe cardiac disease
+excision	contraindicated in	severe pulmonary disease
+excision	contraindicated in	severe liver disease
+excision	contraindicated in	severe kidney disease
+excision	contraindicated in	severe psychiatric illness
+excision	contraindicated in	severe malnutrition
+excision	contraindicated in	severe osteoporosis
+excision	contraindicated in	severe anemia
+excision	contraindicated in	severe thrombocytopenia
+excision	contraindicated in	severe leukopenia
+excision	contraindicated in	severe electrolyte imbalance
+excision	contraindicated in	severe hypovolemia
+excision	contraindicated in	severe hyperthyroidism
+excision	contraindicated in	severe hypothyroidism
+excision	contraindicated in	severe adrenal insufficiency
+excision	contraindicated in	severe vitamin deficiency
+excision	contraindicated in	severe autoimmune disease
+excision	contraindicated in	severe connective tissue disease
+excision	contraindicated in	severe bleeding disorder
+excision	contraindicated in	severe infection
+excision	contraindicated in	severe organ failure
+excision	contraindicated in	severe metabolic disorder
+excision	contraindicated in	severe endocrine disorder
+excision	contraindicated in	severe neurologic disorder
+excision	contraindicated in	severe psychiatric disorder
+excision	contraindicated in	severe social instability
+excision	contraindicated in	severe financial hardship
+excision	contraindicated in	severe lack of support
+excision	contraindicated in	severe lack of transportation
+excision	contraindicated in	severe lack of follow‑up
+excision	contraindicated in	severe lack of compliance
+excision	contraindicated in	severe lack of health literacy
+excision	contraindicated in	severe lack of insurance
+excision	contraindicated in	severe lack of medication adherence
+excision	contraindicated in	severe lack of nutritional support
+excision	contraindicated in	severe lack of mental health support

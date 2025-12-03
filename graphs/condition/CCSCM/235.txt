@@ -1,0 +1,100 @@
+open wounds	are	injuries
+open wounds	occur on	head
+open wounds	occur on	neck
+open wounds	occur on	trunk
+head wounds	increase risk of	intracranial hemorrhage
+neck wounds	increase risk of	airway obstruction
+trunk wounds	increase risk of	hemorrhagic shock
+open wounds	require	debridement
+debridement	reduces	infection risk
+open wounds	need	hemostasis
+hemostasis	achieved by	suturing
+hemostasis	achieved by	cautery
+open wounds	are treated with	topical antibiotics
+topical antibiotics	prevent	bacterial colonization
+open wounds	are covered by	sterile dressing
+sterile dressing	prevents	contamination
+open wounds	may develop	necrotizing fasciitis
+necrotizing fasciitis	requires	aggressive surgery
+open wounds	are assessed by	wound score
+wound score	predicts	healing time
+open wounds	are monitored for	exudate
+exudate	indicates	infection
+open wounds	may need	tetanus prophylaxis
+tetanus prophylaxis	prevents	tetanus
+open wounds	may need	rabies prophylaxis
+rabies prophylaxis	prevents	rabies
+open wounds	are associated with	pain
+pain	managed by	analgesics
+analgesics	include	NSAIDs
+analgesics	include	opioids
+open wounds	can lead to	scarring
+scarring	reduces	mobility
+scarring	reduces	cosmetic appearance
+open wounds	may cause	psychological distress
+psychological distress	treated with	counseling
+open wounds	increase risk of	sepsis
+sepsis	requires	ICU admission
+ICU admission	predicts	mortality
+mortality	increases with	age
+mortality	increases with	comorbidities
+comorbidities	include	diabetes
+diabetes	delays	wound healing
+diabetes	increases	infection risk
+open wounds	are classified by	depth
+depth	predicts	treatment plan
+treatment plan	includes	grafting
+grafting	improves	closure rate
+closure rate	inversely related to	infection
+infection	reduces	graft success
+open wounds	may be caused by	trauma
+trauma	includes	blunt injury
+trauma	includes	penetrating injury
+penetrating injury	requires	imaging
+imaging	includes	CT scan
+CT scan	identifies	bone fracture
+bone fracture	requires	orthopedic fixation
+orthopedic fixation	reduces	morbidity
+morbidity	predicts	readmission
+readmission	increases	healthcare cost
+healthcare cost	is mitigated by	early mobilization
+early mobilization	improves	functional outcome
+functional outcome	measured by	mobility score
+mobility score	predicts	discharge destination
+discharge destination	is	home
+home	requires	home care
+home care	includes	wound dressing
+wound dressing	requires	training
+training	reduces	complications
+complications	include	dehiscence
+dehiscence	leads to	prolonged hospitalization
+hospitalization	increases	cost
+cost	is influenced by	insurance status
+insurance status	affects	treatment access
+treatment access	influences	outcome
+outcome	is	mortality
+mortality	is reduced by	early antibiotics
+early antibiotics	reduce	bacterial load
+bacterial load	reduces	sepsis
+sepsis	reduces	survival
+survival	is higher with	prompt care
+prompt care	requires	triage
+triage	uses	ABCDE protocol
+ABCDE protocol	prioritizes	airway
+airway	secured by	intubation
+intubation	reduces	hypoxia
+hypoxia	increases	organ failure
+organ failure	predicts	mortality
+mortality	is higher in	elderly
+elderly	have	frailty
+frailty	predicts	poor healing
+poor healing	leads to	chronic wound
+chronic wound	requires	long-term therapy
+long-term therapy	includes	negative pressure wound therapy
+negative pressure wound therapy	accelerates	granulation
+granulation	promotes	closure
+closure	reduces	recurrence
+recurrence	increases	readmission
+readmission	is a marker for	quality of care
+quality of care	is measured by	patient satisfaction
+patient satisfaction	influences	adherence

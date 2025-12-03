@@ -1,0 +1,100 @@
+fall	is a	injury
+fall	is coded as	e-codes
+e-codes	classify	external causes
+fall	increases	mortality risk
+fall	leads to	fractures
+fall	leads to	head injury
+fall	leads to	hip fracture
+fall	leads to	wrist fracture
+fall	leads to	spinal fracture
+fall	leads to	soft tissue injury
+fall	leads to	concussion
+fall	leads to	intracranial hemorrhage
+fall	leads to	loss of consciousness
+fall	leads to	hospitalization
+fall	leads to	readmission
+fall	leads to	long‑term care
+fall	leads to	disability
+fall	leads to	depression
+fall	leads to	anxiety
+fall	leads to	reduced mobility
+fall	leads to	loss of independence
+fall	is associated with	age
+fall	is associated with	frailty
+fall	is associated with	osteoporosis
+fall	is associated with	vision impairment
+fall	is associated with	medication use
+fall	is associated with	polypharmacy
+fall	is associated with	orthostatic hypotension
+fall	is associated with	dizziness
+fall	is associated with	gait instability
+fall	is associated with	muscle weakness
+fall	is associated with	balance disorder
+fall	is associated with	environmental hazard
+fall	is associated with	slippery floor
+fall	is associated with	uneven surface
+fall	is associated with	inadequate lighting
+fall	is associated with	clutter
+fall	is associated with	lack of handrail
+fall	is associated with	poor footwear
+fall	is associated with	alcohol use
+fall	is associated with	cognitive impairment
+fall	is associated with	dementia
+fall	is associated with	Parkinson’s disease
+fall	is associated with	stroke
+fall	is associated with	heart failure
+fall	is associated with	arthritis
+fall	is associated with	hip replacement
+fall	is associated with	prior fall
+fall	is associated with	home modification
+fall	is associated with	physical therapy
+fall	is prevented by	fall‑prevention program
+fall	is prevented by	home safety assessment
+fall	is prevented by	exercise
+fall	is prevented by	balance training
+fall	is prevented by	strength training
+fall	is prevented by	vision correction
+fall	is prevented by	medication review
+fall	is prevented by	orthostatic hypotension management
+fall	is prevented by	assistive device
+fall	is prevented by	cane
+fall	is prevented by	walker
+fall	is prevented by	grab bar
+fall	is prevented by	non‑slip mat
+fall	is prevented by	adequate lighting
+fall	is prevented by	footwear adjustment
+fall	is prevented by	alcohol reduction
+fall	is prevented by	cognitive training
+fall	is prevented by	medication adjustment
+fall	is prevented by	home automation
+fall	is prevented by	fall‑alert system
+fall	is treated with	analgesics
+fall	is treated with	anti‑inflammatory
+fall	is treated with	fracture fixation
+fall	is treated with	hip replacement
+fall	is treated with	crutches
+fall	is treated with	cast
+fall	is treated with	physical therapy
+fall	is treated with	occupational therapy
+fall	is treated with	rehabilitation
+fall	is treated with	pain management
+fall	is treated with	wound care
+fall	is treated with	tetanus prophylaxis
+fall	is treated with	blood transfusion
+fall	is treated with	surgery
+fall	is treated with	emergency care
+fall	is monitored by	vital signs
+fall	is monitored by	neurological exam
+fall	is monitored by	imaging
+fall	is monitored by	X‑ray
+fall	is monitored by	CT scan
+fall	is monitored by	MRI
+fall	is monitored by	laboratory test
+fall	is monitored by	blood pressure
+fall	is monitored by	heart rate
+fall	is monitored by	oxygen saturation
+fall	is monitored by	fall risk assessment
+fall	is monitored by	gait analysis
+fall	is monitored by	balance test
+fall	is monitored by	functional status
+fall	is monitored by	mobility assessment

@@ -1,0 +1,100 @@
+ectopic pregnancy	is a	pregnancy complication
+ectopic pregnancy	occurs in	fallopian tube
+ectopic pregnancy	causes	abdominal pain
+ectopic pregnancy	leads to	hemoperitoneum
+ectopic pregnancy	increases risk of	rupture
+ectopic pregnancy	diagnosed by	ultrasound
+ectopic pregnancy	confirmed with	serum hCG
+ectopic pregnancy	treated with	methotrexate
+methotrexate	is a	folate antagonist
+methotrexate	contraindicated in	liver disease
+methotrexate	contraindicated in	renal impairment
+methotrexate	contraindicated in	pregnancy
+methotrexate	contraindicated in	breastfeeding
+methotrexate	contraindicated in	active infection
+methotrexate	contraindicated in	anemia
+methotrexate	contraindicated in	thrombocytopenia
+methotrexate	contraindicated in	leukopenia
+methotrexate	contraindicated in	hypersensitivity
+methotrexate	contraindicated in	ulcerative colitis
+methotrexate	contraindicated in	Crohn disease
+methotrexate	contraindicated in	pregnancy loss
+methotrexate	contraindicated in	fertility issues
+methotrexate	contraindicated in	bone marrow suppression
+methotrexate	contraindicated in	hepatic failure
+methotrexate	contraindicated in	renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression
+methotrexate	contraindicated in	severe hepatic failure
+methotrexate	contraindicated in	severe renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression
+methotrexate	contraindicated in	severe hepatic failure
+methotrexate	contraindicated in	severe renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression
+methotrexate	contraindicated in	severe hepatic failure
+methotrexate	contraindicated in	severe renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression
+methotrexate	contraindicated in	severe hepatic failure
+methotrexate	contraindicated in	severe renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression
+methotrexate	contraindicated in	severe hepatic failure
+methotrexate	contraindicated in	severe renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression
+methotrexate	contraindicated in	severe hepatic failure
+methotrexate	contraindicated in	severe renal failure
+methotrexate	contraindicated in	severe anemia
+methotrexate	contraindicated in	severe thrombocytopenia
+methotrexate	contraindicated in	severe leukopenia
+methotrexate	contraindicated in	severe hypersensitivity
+methotrexate	contraindicated in	severe ulcerative colitis
+methotrexate	contraindicated in	severe Crohn disease
+methotrexate	contraindicated in	severe pregnancy loss
+methotrexate	contraindicated in	severe fertility issues
+methotrexate	contraindicated in	severe bone marrow suppression

@@ -1,0 +1,100 @@
+other gastrointestinal disorders	is a	disease group
+other gastrointestinal disorders	includes	Crohn disease
+other gastrointestinal disorders	includes	ulcerative colitis
+other gastrointestinal disorders	includes	irritable bowel syndrome
+other gastrointestinal disorders	includes	celiac disease
+other gastrointestinal disorders	includes	gastritis
+other gastrointestinal disorders	includes	gastroesophageal reflux
+other gastrointestinal disorders	includes	diverticulitis
+other gastrointestinal disorders	includes	pancreatitis
+other gastrointestinal disorders	includes	hepatic encephalopathy
+other gastrointestinal disorders	includes	hepatic failure
+other gastrointestinal disorders	includes	gallstones
+other gastrointestinal disorders	includes	biliary colic
+other gastrointestinal disorders	includes	intestinal obstruction
+other gastrointestinal disorders	includes	small bowel obstruction
+other gastrointestinal disorders	includes	large bowel obstruction
+other gastrointestinal disorders	includes	appendicitis
+other gastrointestinal disorders	includes	peptic ulcer
+other gastrointestinal disorders	includes	esophageal varices
+other gastrointestinal disorders	includes	portal hypertension
+other gastrointestinal disorders	includes	hepatic cirrhosis
+other gastrointestinal disorders	includes	hepatic carcinoma
+other gastrointestinal disorders	includes	cholangiocarcinoma
+other gastrointestinal disorders	includes	gastric cancer
+other gastrointestinal disorders	includes	colorectal cancer
+other gastrointestinal disorders	includes	pancreatic cancer
+other gastrointestinal disorders	includes	lymphoma
+other gastrointestinal disorders	includes	tuberculosis
+other gastrointestinal disorders	includes	schistosomiasis
+other gastrointestinal disorders	includes	amoebiasis
+other gastrointestinal disorders	includes	viral hepatitis
+other gastrointestinal disorders	includes	alcoholic liver disease
+other gastrointestinal disorders	includes	non‑alcoholic fatty liver
+other gastrointestinal disorders	includes	autoimmune hepatitis
+other gastrointestinal disorders	includes	Wilson disease
+other gastrointestinal disorders	includes	hemochromatosis
+other gastrointestinal disorders	includes	alpha‑1 antitrypsin deficiency
+other gastrointestinal disorders	includes	cystic fibrosis
+other gastrointestinal disorders	includes	lactose intolerance
+other gastrointestinal disorders	includes	fructose intolerance
+other gastrointestinal disorders	includes	small intestinal bacterial overgrowth
+other gastrointestinal disorders	includes	functional dyspepsia
+other gastrointestinal disorders	includes	gastroparesis
+other gastrointestinal disorders	includes	bile acid malabsorption
+other gastrointestinal disorders	includes	eosinophilic esophagitis
+other gastrointestinal disorders	includes	eosinophilic gastroenteritis
+other gastrointestinal disorders	includes	eosinophilic colitis
+other gastrointestinal disorders	includes	eosinophilic duodenitis
+other gastrointestinal disorders	includes	eosinophilic enteritis
+other gastrointestinal disorders	includes	eosinophilic cystitis
+other gastrointestinal disorders	includes	eosinophilic hepatitis
+other gastrointestinal disorders	includes	eosinophilic pancreatitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangiopathy
+other gastrointestinal disorders	includes	eosinophilic cholestatic hepatitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis
+other gastrointestinal disorders	includes	eosinophilic cholangitis

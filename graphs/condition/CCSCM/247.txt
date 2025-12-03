@@ -1,0 +1,100 @@
+lymphadenitis	is a	inflammation
+lymphadenitis	affects	lymph node
+lymphadenitis	causes	swelling
+lymphadenitis	causes	pain
+lymphadenitis	is diagnosed with	physical exam
+lymphadenitis	is diagnosed with	imaging
+lymphadenitis	is diagnosed with	ultrasound
+lymphadenitis	is diagnosed with	CT scan
+lymphadenitis	is diagnosed with	MRI
+lymphadenitis	is diagnosed with	PET scan
+lymphadenitis	is diagnosed with	biopsy
+lymphadenitis	is diagnosed with	fine‑needle aspiration
+lymphadenitis	is diagnosed with	blood test
+lymphadenitis	is diagnosed with	CBC
+lymphadenitis	is diagnosed with	ESR
+lymphadenitis	is diagnosed with	CRP
+lymphadenitis	is diagnosed with	culture
+lymphadenitis	is diagnosed with	Gram stain
+lymphadenitis	is diagnosed with	PCR
+lymphadenitis	is treated with	antibiotics
+lymphadenitis	is treated with	NSAIDs
+lymphadenitis	is treated with	steroids
+lymphadenitis	is treated with	drainage
+lymphadenitis	is treated with	surgery
+lymphadenitis	is treated with	observation
+antibiotics	are used for	bacterial lymphadenitis
+antibiotics	are used for	viral lymphadenitis
+antibiotics	are used for	fungal lymphadenitis
+antibiotics	are used for	mycobacterial lymphadenitis
+antibiotics	are used for	tuberculosis lymphadenitis
+antibiotics	are used for	cat-scratch disease
+antibiotics	are used for	streptococcal lymphadenitis
+antibiotics	are used for	staphylococcal lymphadenitis
+antibiotics	are used for	diphtheria lymphadenitis
+antibiotics	are used for	syphilitic lymphadenitis
+NSAIDs	reduce	pain
+NSAIDs	reduce	inflammation
+steroids	reduce	inflammation
+steroids	reduce	immune response
+drainage	removes	abscess
+drainage	reduces	pressure
+surgery	removes	infected tissue
+surgery	removes	lymph node
+observation	monitors	resolution
+observation	monitors	progression
+lymphadenitis	increases	risk of sepsis
+lymphadenitis	increases	risk of chronic infection
+lymphadenitis	increases	risk of malignancy
+lymphadenitis	increases	risk of lymphoma
+lymphadenitis	increases	risk of metastatic spread
+lymphadenitis	increases	risk of systemic infection
+lymphadenitis	is associated with	fever
+lymphadenitis	is associated with	malaise
+lymphadenitis	is associated with	night sweats
+lymphadenitis	is associated with	weight loss
+lymphadenitis	is associated with	fatigue
+lymphadenitis	is associated with	elevated WBC
+lymphadenitis	is associated with	neutrophilia
+lymphadenitis	is associated with	lymphocytosis
+lymphadenitis	is associated with	splenomegaly
+lymphadenitis	is associated with	hepatomegaly
+lymphadenitis	is associated with	skin rash
+lymphadenitis	is associated with	oral ulcer
+lymphadenitis	is associated with	pharyngitis
+lymphadenitis	is associated with	tonsillitis
+lymphadenitis	is associated with	dental abscess
+lymphadenitis	is associated with	ear infection
+lymphadenitis	is associated with	sinusitis
+lymphadenitis	is associated with	pneumonia
+lymphadenitis	is associated with	urinary tract infection
+lymphadenitis	is associated with	gastrointestinal infection
+lymphadenitis	is associated with	HIV infection
+lymphadenitis	is associated with	immunosuppression
+lymphadenitis	is associated with	chemotherapy
+lymphadenitis	is associated with	organ transplant
+lymphadenitis	is associated with	autoimmune disease
+lymphadenitis	is associated with	sarcoidosis
+lymphadenitis	is associated with	tuberculosis
+lymphadenitis	is associated with	cat-scratch disease
+lymphadenitis	is associated with	brucellosis
+lymphadenitis	is associated with	leishmaniasis
+lymphadenitis	is associated with	filariasis
+lymphadenitis	is associated with	viral infection
+lymphadenitis	is associated with	Epstein‑Barr virus
+lymphadenitis	is associated with	cytomegalovirus
+lymphadenitis	is associated with	HIV‑associated lymphoma
+lymphadenitis	is associated with	metastatic cancer
+lymphadenitis	is associated with	breast cancer
+lymphadenitis	is associated with	melanoma
+lymphadenitis	is associated with	lymphoma
+lymphadenitis	is associated with	leukemia
+lymphadenitis	is associated with	myelodysplastic syndrome
+lymphadenitis	is associated with	Hodgkin disease
+lymphadenitis	is associated with	non‑Hodgkin disease
+lymphadenitis	is associated with	bone marrow transplant
+lymphadenitis	is associated with	immunoglobulin therapy
+lymphadenitis	is associated with	monoclonal antibody therapy
+lymphadenitis	is associated with	checkpoint inhibitor therapy
+lymphadenitis	is associated with	cytokine release syndrome
+lymphadenitis	is associated with	post‑operative infection

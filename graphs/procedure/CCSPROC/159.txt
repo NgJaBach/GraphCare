@@ -1,0 +1,100 @@
+X-ray	is a	diagnostic procedure
+MRI	is a	diagnostic procedure
+CT scan	is a	diagnostic procedure
+Ultrasound	is a	diagnostic procedure
+Bone scan	is a	diagnostic procedure
+Joint aspiration	is a	diagnostic procedure
+Arthrocentesis	is a	diagnostic procedure
+Muscle biopsy	is a	diagnostic procedure
+Nerve conduction study	is a	diagnostic procedure
+EMG	is a	diagnostic procedure
+DEXA scan	is a	diagnostic procedure
+Radiography	is a	diagnostic procedure
+MRI	detects	soft tissue injury
+CT scan	detects	bone fracture
+X-ray	detects	joint degeneration
+Ultrasound	detects	tendonitis
+Bone scan	detects	bone infection
+Joint aspiration	detects	septic arthritis
+Arthrocentesis	detects	crystal arthropathy
+Muscle biopsy	detects	myopathy
+Nerve conduction study	detects	neuropathy
+EMG	detects	denervation
+DEXA scan	detects	osteoporosis
+Radiography	detects	osteoarthritis
+MRI	guides	surgical planning
+CT scan	guides	fracture fixation
+X-ray	guides	orthopedic assessment
+Ultrasound	guides	needle placement
+Bone scan	guides	infection treatment
+Joint aspiration	guides	antibiotic therapy
+Arthrocentesis	guides	anti-inflammatory therapy
+Muscle biopsy	guides	immunosuppressive therapy
+Nerve conduction study	guides	rehabilitation
+EMG	guides	surgical intervention
+DEXA scan	guides	calcium supplementation
+Radiography	guides	brace fitting
+MRI	predicts	postoperative recovery
+CT scan	predicts	surgical risk
+X-ray	predicts	fracture healing
+Ultrasound	predicts	tendon healing
+Bone scan	predicts	infection resolution
+Joint aspiration	predicts	treatment response
+Arthrocentesis	predicts	remission
+Muscle biopsy	predicts	disease progression
+Nerve conduction study	predicts	neuropathy progression
+EMG	predicts	motor recovery
+DEXA scan	predicts	fracture risk
+Radiography	predicts	joint collapse
+MRI	is used for	rheumatoid arthritis
+CT scan	is used for	spinal stenosis
+X-ray	is used for	scoliosis
+Ultrasound	is used for	bursitis
+Bone scan	is used for	metastatic bone disease
+Joint aspiration	is used for	gout
+Arthrocentesis	is used for	pseudogout
+Muscle biopsy	is used for	muscular dystrophy
+Nerve conduction study	is used for	carpal tunnel
+EMG	is used for	ALS
+DEXA scan	is used for	postmenopausal bone loss
+Radiography	is used for	hip fracture
+MRI	is contraindicated in	pacemaker
+CT scan	is contraindicated in	severe renal failure
+X-ray	is contraindicated in	pregnancy
+Ultrasound	is contraindicated in	deep tissue infection
+Bone scan	is contraindicated in	pregnancy
+Joint aspiration	is contraindicated in	coagulopathy
+Arthrocentesis	is contraindicated in	infection
+Muscle biopsy	is contraindicated in	severe anemia
+Nerve conduction study	is contraindicated in	severe edema
+EMG	is contraindicated in	pacemaker
+DEXA scan	is contraindicated in	pregnancy
+Radiography	is contraindicated in	pregnancy
+MRI	requires	patient cooperation
+CT scan	requires	contrast agent
+X-ray	requires	minimal movement
+Ultrasound	requires	gel
+Bone scan	requires	radiotracer
+Joint aspiration	requires	sterile technique
+Arthrocentesis	requires	local anesthesia
+Muscle biopsy	requires	surgical skill
+Nerve conduction study	requires	electrodes
+EMG	requires	needle insertion
+DEXA scan	requires	positioning
+Radiography	requires	shielding
+MRI	is expensive	cost
+CT scan	exposes	radiation
+X-ray	exposes	radiation
+Ultrasound	is safe	no radiation
+Bone scan	exposes	radiation
+Joint aspiration	reduces	infection risk
+Arthrocentesis	reduces	inflammation
+Muscle biopsy	informs	genetic testing
+Nerve conduction study	informs	nerve damage
+EMG	informs	muscle function
+DEXA scan	informs	bone density
+Radiography	informs	bone alignment
+MRI	informs	ligament integrity
+CT scan	informs	bone microarchitecture
+Ultrasound	informs	vascular flow
+Bone scan	informs	metabolic activity

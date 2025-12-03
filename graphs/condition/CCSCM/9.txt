@@ -1,0 +1,100 @@
+sexually transmitted infections	are caused by	bacteria
+sexually transmitted infections	are caused by	viruses
+sexually transmitted infections	are caused by	parasites
+sexually transmitted infections	are transmitted by	sexual contact
+sexually transmitted infections	are transmitted by	contaminated instruments
+sexually transmitted infections	are diagnosed with	nucleic acid amplification test
+sexually transmitted infections	are diagnosed with	serology
+sexually transmitted infections	are diagnosed with	culture
+sexually transmitted infections	are treated with	antibiotics
+sexually transmitted infections	are treated with	antivirals
+sexually transmitted infections	are treated with	antiparasitics
+sexually transmitted infections	increase risk of	HIV infection
+sexually transmitted infections	increase risk of	cervical cancer
+sexually transmitted infections	increase risk of	infertility
+sexually transmitted infections	increase risk of	pregnancy complications
+sexually transmitted infections	cause	urethritis
+sexually transmitted infections	cause	cervicitis
+sexually transmitted infections	cause	pelvic inflammatory disease
+sexually transmitted infections	cause	genital warts
+sexually transmitted infections	cause	genital herpes
+sexually transmitted infections	cause	chlamydia
+sexually transmitted infections	cause	gonorrhea
+sexually transmitted infections	cause	trichomoniasis
+sexually transmitted infections	cause	syphilis
+sexually transmitted infections	cause	hepatitis B
+sexually transmitted infections	cause	hepatitis C
+sexually transmitted infections	cause	HPV
+sexually transmitted infections	cause	HIV
+sexually transmitted infections	are prevented by	condom use
+sexually transmitted infections	are prevented by	vaccination
+sexually transmitted infections	are prevented by	screening
+sexually transmitted infections	are prevented by	partner notification
+condom use	reduces risk of	sexually transmitted infections
+vaccination	protects against	HPV
+vaccination	protects against	hepatitis B
+vaccination	protects against	meningococcal disease
+screening	detects	chlamydia
+screening	detects	gonorrhea
+screening	detects	trichomoniasis
+screening	detects	syphilis
+screening	detects	HIV
+screening	detects	hepatitis B
+screening	detects	hepatitis C
+screening	detects	HPV
+antibiotics	treat	chlamydia
+antibiotics	treat	gonorrhea
+antibiotics	treat	syphilis
+antibiotics	treat	trichomoniasis
+antibiotics	treat	bacterial vaginosis
+antivirals	treat	genital herpes
+antivirals	treat	HIV
+antivirals	treat	hepatitis B
+antivirals	treat	hepatitis C
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	schistosomiasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	malaria
+antiparasitics	treat	toxoplasmosis
+antiparasitics	treat	giardiasis
+antiparasitics	treat	cryptosporidiosis
+antiparasitics	treat	amoebiasis
+antiparasitics	treat	leishmaniasis
+antiparasitics	treat	cysticercosis
+antiparasitics	treat	toxocariasis
+antiparasitics	treat	filariasis
+antiparasitics	treat	schistosomiasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis
+antiparasitics	treat	trichomoniasis

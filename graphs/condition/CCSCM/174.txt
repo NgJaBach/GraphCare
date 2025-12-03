@@ -1,0 +1,100 @@
+female infertility	is a	reproductive disorder
+female infertility	involves	ovulation failure
+female infertility	involves	tubal blockage
+female infertility	involves	endometriosis
+female infertility	involves	uterine fibroids
+female infertility	involves	polycystic ovary syndrome
+female infertility	involves	thyroid dysfunction
+female infertility	involves	hyperprolactinemia
+female infertility	involves	premature ovarian failure
+female infertility	involves	low ovarian reserve
+female infertility	involves	cervical mucus abnormality
+female infertility	involves	sperm factor
+female infertility	is diagnosed with	hysterosalpingography
+female infertility	is diagnosed with	transvaginal ultrasound
+female infertility	is diagnosed with	hormone panel
+female infertility	is diagnosed with	laparoscopy
+female infertility	is treated with	clomiphene citrate
+female infertility	is treated with	letrozole
+female infertility	is treated with	gonadotropins
+female infertility	is treated with	intrauterine insemination
+female infertility	is treated with	in vitro fertilization
+female infertility	is treated with	surgical correction
+female infertility	is treated with	progesterone therapy
+female infertility	is treated with	thyroid hormone replacement
+female infertility	is treated with	dopamine agonist
+female infertility	is treated with	lifestyle modification
+female infertility	is treated with	weight management
+female infertility	is treated with	smoking cessation
+female infertility	is treated with	alcohol reduction
+female infertility	is treated with	stress reduction
+female infertility	is treated with	vitamin D supplementation
+female infertility	is treated with	folic acid supplementation
+female infertility	is treated with	metformin
+female infertility	is treated with	aspirin
+female infertility	is treated with	heparin
+female infertility	is treated with	antibiotics
+female infertility	is treated with	antifungal
+female infertility	is treated with	anti-inflammatory
+female infertility	is treated with	immunotherapy
+female infertility	is treated with	stem cell therapy
+female infertility	is associated with	increased miscarriage risk
+female infertility	is associated with	decreased pregnancy rate
+female infertility	is associated with	increased anxiety
+female infertility	is associated with	increased depression
+female infertility	is associated with	increased marital strain
+female infertility	is associated with	increased healthcare cost
+female infertility	is associated with	increased use of assisted reproduction
+female infertility	is associated with	increased use of donor gametes
+female infertility	is associated with	increased use of gestational carriers
+female infertility	is associated with	increased use of fertility clinics
+female infertility	is associated with	increased use of reproductive endocrinology
+female infertility	is associated with	increased use of counseling
+female infertility	is associated with	increased use of support groups
+female infertility	is associated with	increased use of alternative medicine
+female infertility	is associated with	increased use of acupuncture
+female infertility	is associated with	increased use of herbal supplements
+female infertility	is associated with	increased use of yoga
+female infertility	is associated with	increased use of meditation
+female infertility	is associated with	increased use of exercise
+female infertility	is associated with	increased use of diet therapy
+female infertility	is associated with	increased use of sleep hygiene
+female infertility	is associated with	increased use of vitamin supplementation
+female infertility	is associated with	increased use of omega‑3 fatty acids
+female infertility	is associated with	increased use of antioxidants
+female infertility	is associated with	increased use of preconception care
+female infertility	is associated with	increased use of genetic counseling
+female infertility	is associated with	increased use of carrier screening
+female infertility	is associated with	increased use of preimplantation genetic testing
+female infertility	is associated with	increased use of embryo selection
+female infertility	is associated with	increased use of cryopreservation
+female infertility	is associated with	increased use of sperm banking
+female infertility	is associated with	increased use of egg freezing
+female infertility	is associated with	increased use of ovarian stimulation
+female infertility	is associated with	increased use of ovarian hyperstimulation syndrome monitoring
+female infertility	is associated with	increased use of ovarian reserve testing
+female infertility	is associated with	increased use of anti‑Müllerian hormone testing
+female infertility	is associated with	increased use of antral follicle count
+female infertility	is associated with	increased use of follicle‑stimulating hormone testing
+female infertility	is associated with	increased use of luteinizing hormone testing
+female infertility	is associated with	increased use of estradiol testing
+female infertility	is associated with	increased use of progesterone testing
+female infertility	is associated with	increased use of prolactin testing
+female infertility	is associated with	increased use of thyroid‑stimulating hormone testing
+female infertility	is associated with	increased use of anti‑thyroid antibody testing
+female infertility	is associated with	increased use of anti‑sperm antibody testing
+female infertility	is associated with	increased use of immunologic evaluation
+female infertility	is associated with	increased use of uterine cavity evaluation
+female infertility	is associated with	increased use of fallopian tube evaluation
+female infertility	is associated with	increased use of ovarian reserve evaluation
+female infertility	is associated with	increased use of endometrial receptivity testing
+female infertility	is associated with	increased use of uterine artery Doppler
+female infertility	is associated with	increased use of pelvic MRI
+female infertility	is associated with	increased use of hysteroscopy
+female infertility	is associated with	increased use of laparoscopy
+female infertility	is associated with	increased use of hysterectomy
+female infertility	is associated with	increased use of salpingectomy
+female infertility	is associated with	increased use of myomectomy
+female infertility	is associated with	increased use of endometriosis ablation
+female infertility	is associated with	increased use of ovarian drilling
+female infertility	is associated with	increased use of ovarian tissue cryopreservation

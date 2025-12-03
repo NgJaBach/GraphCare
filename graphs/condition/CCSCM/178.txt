@@ -1,0 +1,100 @@
+induced abortion	is a	medical procedure
+induced abortion	is performed for	pregnancy termination
+induced abortion	uses	mifepristone
+induced abortion	uses	misoprostol
+induced abortion	can be performed with	surgical curettage
+induced abortion	can be performed with	vacuum aspiration
+induced abortion	can be performed with	dilation and evacuation
+induced abortion	is contraindicated in	ectopic pregnancy
+induced abortion	is contraindicated in	severe anemia
+induced abortion	is contraindicated in	active infection
+induced abortion	is contraindicated in	severe cardiac disease
+induced abortion	is contraindicated in	uncontrolled hypertension
+induced abortion	is contraindicated in	severe liver disease
+induced abortion	is contraindicated in	severe kidney disease
+induced abortion	is contraindicated in	severe clotting disorder
+induced abortion	is associated with	uterine perforation
+induced abortion	is associated with	heavy bleeding
+induced abortion	is associated with	infection
+induced abortion	is associated with	incomplete abortion
+induced abortion	is associated with	future infertility
+induced abortion	is associated with	mental health risk
+induced abortion	is associated with	postpartum depression
+induced abortion	is associated with	anxiety
+induced abortion	is associated with	PTSD
+induced abortion	is associated with	social stigma
+induced abortion	is associated with	legal restriction
+induced abortion	is associated with	cost
+induced abortion	is associated with	access
+induced abortion	is associated with	provider training
+induced abortion	is associated with	counseling
+induced abortion	is associated with	follow‑up care
+induced abortion	is associated with	contraception counseling
+induced abortion	is associated with	post‑abortion contraception
+induced abortion	is associated with	risk of ectopic pregnancy
+induced abortion	is associated with	risk of uterine scarring
+induced abortion	is associated with	risk of infertility
+induced abortion	is associated with	risk of miscarriage
+induced abortion	is associated with	risk of preterm birth
+induced abortion	is associated with	risk of low birth weight
+induced abortion	is associated with	risk of stillbirth
+induced abortion	is associated with	risk of cervical incompetence
+induced abortion	is associated with	risk of pelvic inflammatory disease
+induced abortion	is associated with	risk of uterine infection
+induced abortion	is associated with	risk of uterine rupture
+induced abortion	is associated with	risk of uterine atony
+induced abortion	is associated with	risk of sepsis
+induced abortion	is associated with	risk of anemia
+induced abortion	is associated with	risk of shock
+induced abortion	is associated with	risk of hysterectomy
+induced abortion	is associated with	risk of blood transfusion
+induced abortion	is associated with	risk of organ failure
+induced abortion	is associated with	risk of death
+induced abortion	is associated with	risk of legal consequences
+induced abortion	is associated with	risk of social isolation
+induced abortion	is associated with	risk of economic hardship
+induced abortion	is associated with	risk of relationship conflict
+induced abortion	is associated with	risk of religious conflict
+induced abortion	is associated with	risk of cultural conflict
+induced abortion	is associated with	risk of political conflict
+induced abortion	is associated with	risk of health insurance denial
+induced abortion	is associated with	risk of medical record exposure
+induced abortion	is associated with	risk of future pregnancy complications
+induced abortion	is associated with	risk of future miscarriage
+induced abortion	is associated with	risk of future preterm birth
+induced abortion	is associated with	risk of future low birth weight
+induced abortion	is associated with	risk of future stillbirth
+induced abortion	is associated with	risk of future ectopic pregnancy
+induced abortion	is associated with	risk of future infertility
+induced abortion	is associated with	risk of future cervical incompetence
+induced abortion	is associated with	risk of future pelvic inflammatory disease
+induced abortion	is associated with	risk of future uterine infection
+induced abortion	is associated with	risk of future uterine rupture
+induced abortion	is associated with	risk of future uterine atony
+induced abortion	is associated with	risk of future sepsis
+induced abortion	is associated with	risk of future anemia
+induced abortion	is associated with	risk of future shock
+induced abortion	is associated with	risk of future hysterectomy
+induced abortion	is associated with	risk of future blood transfusion
+induced abortion	is associated with	risk of future organ failure
+induced abortion	is associated with	risk of future death
+induced abortion	is associated with	risk of future legal action
+induced abortion	is associated with	risk of future social isolation
+induced abortion	is associated with	risk of future economic hardship
+induced abortion	is associated with	risk of future relationship conflict
+induced abortion	is associated with	risk of future religious conflict
+induced abortion	is associated with	risk of future cultural conflict
+induced abortion	is associated with	risk of future political conflict
+induced abortion	is associated with	risk of future health insurance denial
+induced abortion	is associated with	risk of future medical record exposure
+induced abortion	is associated with	risk of future pregnancy complications
+induced abortion	is associated with	risk of future miscarriage
+induced abortion	is associated with	risk of future preterm birth
+induced abortion	is associated with	risk of future low birth weight
+induced abortion	is associated with	risk of future stillbirth
+induced abortion	is associated with	risk of future ectopic pregnancy
+induced abortion	is associated with	risk of future infertility
+induced abortion	is associated with	risk of future cervical incompetence
+induced abortion	is associated with	risk of future pelvic inflammatory disease
+induced abortion	is associated with	risk of future uterine infection
+induced abortion	is associated with	risk of future uterine rupture

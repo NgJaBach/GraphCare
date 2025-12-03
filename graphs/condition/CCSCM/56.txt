@@ -1,0 +1,100 @@
+cystic fibrosis	is a	genetic disorder
+cystic fibrosis	is inherited	autosomal recessive
+cystic fibrosis	affects	lungs
+cystic fibrosis	causes	bronchiectasis
+cystic fibrosis	causes	mucus buildup
+cystic fibrosis	leads to	chronic infections
+cystic fibrosis	increases	risk of pneumonia
+cystic fibrosis	increases	risk of tuberculosis
+cystic fibrosis	leads to	malabsorption
+cystic fibrosis	causes	pancreatic insufficiency
+cystic fibrosis	causes	fat malabsorption
+cystic fibrosis	causes	vitamin D deficiency
+cystic fibrosis	causes	vitamin K deficiency
+cystic fibrosis	causes	vitamin A deficiency
+cystic fibrosis	causes	vitamin E deficiency
+cystic fibrosis	leads to	growth failure
+cystic fibrosis	leads to	osteoporosis
+cystic fibrosis	leads to	infertility
+cystic fibrosis	leads to	diabetes
+cystic fibrosis	leads to	liver disease
+cystic fibrosis	leads to	CF‑related diabetes
+cystic fibrosis	leads to	liver cirrhosis
+cystic fibrosis	leads to	portal hypertension
+cystic fibrosis	leads to	splenomegaly
+cystic fibrosis	leads to	pancreatic cancer
+cystic fibrosis	leads to	colon cancer
+cystic fibrosis	leads to	male infertility
+cystic fibrosis	leads to	female infertility
+cystic fibrosis	is diagnosed with	sweat chloride test
+sweat chloride test	measures	chloride concentration
+sweat chloride test	is positive if	>60 mmol/L
+cystic fibrosis	is confirmed by	DNA testing
+DNA testing	detects	CFTR mutation
+CFTR mutation	is a	gene defect
+CFTR mutation	causes	chloride channel dysfunction
+chloride channel dysfunction	leads to	thick mucus
+cystic fibrosis	is treated with	chest physiotherapy
+chest physiotherapy	improves	lung clearance
+cystic fibrosis	is treated with	inhaled antibiotics
+inhaled antibiotics	reduce	bacterial load
+cystic fibrosis	is treated with	pancreatic enzymes
+pancreatic enzymes	improve	digestion
+cystic fibrosis	is treated with	fat‑soluble vitamins
+fat‑soluble vitamins	prevent	deficiency
+cystic fibrosis	is treated with	CFTR modulators
+CFTR modulators	target	CFTR protein
+CFTR modulators	include	ivacaftor
+CFTR modulators	include	lumacaftor
+CFTR modulators	include	tezacaftor
+CFTR modulators	include	elexacaftor
+cystic fibrosis	is treated with	anti‑inflammatories
+anti‑inflammatories	reduce	airway inflammation
+cystic fibrosis	is treated with	azithromycin
+azithromycin	has	anti‑inflammatory effect
+cystic fibrosis	is treated with	antibiotics
+antibiotics	treat	Pseudomonas aeruginosa
+antibiotics	treat	Staphylococcus aureus
+cystic fibrosis	is treated with	aztreonam
+aztreonam	is inhaled	antibiotic
+cystic fibrosis	is treated with	tobramycin
+tobramycin	is inhaled	antibiotic
+cystic fibrosis	is treated with	dornase alfa
+dornase alfa	digests	DNA
+dornase alfa	reduces	mucus viscosity
+cystic fibrosis	is treated with	hypertonic saline
+hypertonic saline	improves	mucociliary clearance
+cystic fibrosis	is treated with	bronchodilators
+bronchodilators	relax	airway smooth muscle
+cystic fibrosis	is treated with	oxygen therapy
+oxygen therapy	reduces	hypoxia
+cystic fibrosis	is treated with	nutritional support
+nutritional support	includes	high‑calorie diet
+cystic fibrosis	is treated with	vitamin supplementation
+vitamin supplementation	includes	vitamin D
+vitamin supplementation	includes	vitamin K
+cystic fibrosis	is treated with	exercise
+exercise	improves	lung function
+cystic fibrosis	is treated with	transplantation
+transplantation	includes	lung transplant
+transplantation	includes	liver transplant
+lung transplant	improves	survival
+liver transplant	treats	cirrhosis
+cystic fibrosis	has	increased mortality
+increased mortality	is due to	respiratory failure
+increased mortality	is due to	sepsis
+cystic fibrosis	has	reduced life expectancy
+reduced life expectancy	is ~	40 years
+cystic fibrosis	has	risk of colon cancer
+risk of colon cancer	is due to	chronic inflammation
+cystic fibrosis	has	risk of CF‑related diabetes
+CF‑related diabetes	is type	3c diabetes
+CF‑related diabetes	requires	insulin therapy
+cystic fibrosis	has	risk of infertility
+infertility	is due to	absence of vas deferens
+infertility	is due to	thick cervical mucus
+cystic fibrosis	is associated with	meconium ileus
+meconium ileus	is a	neonatal intestinal obstruction
+cystic fibrosis	is associated with	nasal polyps
+nasal polyps	cause	nasal obstruction
+cystic fibrosis	is associated with	sinusitis

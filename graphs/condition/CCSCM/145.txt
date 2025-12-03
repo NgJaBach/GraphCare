@@ -1,0 +1,100 @@
+intestinal obstruction	is a	surgical emergency
+intestinal obstruction	is caused by	adhesions
+intestinal obstruction	is caused by	tumors
+intestinal obstruction	is caused by	volvulus
+intestinal obstruction	is caused by	intussusception
+intestinal obstruction	is caused by	inflammatory bowel disease
+intestinal obstruction	is caused by	diverticulitis
+intestinal obstruction	is caused by	foreign body
+intestinal obstruction	is caused by	Crohn’s disease
+intestinal obstruction	is caused by	ulcerative colitis
+intestinal obstruction	is caused by	pregnancy
+intestinal obstruction	is caused by	radiation enteritis
+intestinal obstruction	is caused by	ischemia
+intestinal obstruction	is caused by	scleroderma
+intestinal obstruction	is caused by	celiac disease
+intestinal obstruction	is caused by	intestinal lymphoma
+intestinal obstruction	is caused by	mesenteric adenitis
+intestinal obstruction	is caused by	intestinal tuberculosis
+intestinal obstruction	is caused by	intestinal polyps
+intestinal obstruction	is caused by	intestinal parasites
+intestinal obstruction	is treated with	surgical resection
+intestinal obstruction	is treated with	decompression
+intestinal obstruction	is treated with	bowel rest
+intestinal obstruction	is treated with	nasogastric suction
+intestinal obstruction	is treated with	antibiotics
+intestinal obstruction	is treated with	fluid resuscitation
+intestinal obstruction	is treated with	electrolyte correction
+intestinal obstruction	is treated with	pain control
+intestinal obstruction	is treated with	antiemetics
+intestinal obstruction	is treated with	bowel rest
+intestinal obstruction	is treated with	bowel decompression
+intestinal obstruction	is treated with	laparoscopic surgery
+intestinal obstruction	is treated with	open surgery
+intestinal obstruction	is treated with	endoscopic reduction
+intestinal obstruction	is treated with	stenting
+intestinal obstruction	is treated with	percutaneous drainage
+intestinal obstruction	is treated with	nutritional support
+intestinal obstruction	is treated with	parenteral nutrition
+intestinal obstruction	is treated with	postoperative care
+intestinal obstruction	is treated with	follow‑up imaging
+intestinal obstruction	is associated with	high mortality
+intestinal obstruction	is associated with	prolonged hospital stay
+intestinal obstruction	is associated with	readmission
+intestinal obstruction	is associated with	postoperative complications
+intestinal obstruction	is associated with	sepsis
+intestinal obstruction	is associated with	electrolyte imbalance
+intestinal obstruction	is associated with	dehydration
+intestinal obstruction	is associated with	malnutrition
+intestinal obstruction	is associated with	bowel ischemia
+intestinal obstruction	is associated with	perforation
+intestinal obstruction	is associated with	necrosis
+intestinal obstruction	is associated with	ileus
+intestinal obstruction	is associated with	abdominal pain
+intestinal obstruction	is associated with	vomiting
+intestinal obstruction	is associated with	distension
+intestinal obstruction	is associated with	constipation
+intestinal obstruction	is associated with	abdominal tenderness
+intestinal obstruction	is associated with	absent bowel sounds
+intestinal obstruction	is associated with	leukocytosis
+intestinal obstruction	is associated with	elevated lactate
+intestinal obstruction	is associated with	elevated CRP
+intestinal obstruction	is associated with	elevated ESR
+intestinal obstruction	is associated with	elevated amylase
+intestinal obstruction	is associated with	elevated lipase
+intestinal obstruction	is associated with	elevated bilirubin
+intestinal obstruction	is associated with	elevated alkaline phosphatase
+intestinal obstruction	is associated with	elevated AST
+intestinal obstruction	is associated with	elevated ALT
+intestinal obstruction	is associated with	elevated creatinine
+intestinal obstruction	is associated with	elevated BUN
+intestinal obstruction	is associated with	elevated potassium
+intestinal obstruction	is associated with	elevated sodium
+intestinal obstruction	is associated with	elevated chloride
+intestinal obstruction	is associated with	elevated calcium
+intestinal obstruction	is associated with	elevated phosphate
+intestinal obstruction	is associated with	elevated magnesium
+intestinal obstruction	is associated with	elevated phosphate
+intestinal obstruction	is associated with	elevated albumin
+intestinal obstruction	is associated with	elevated prealbumin
+intestinal obstruction	is associated with	elevated hemoglobin
+intestinal obstruction	is associated with	elevated hematocrit
+intestinal obstruction	is associated with	elevated platelet count
+intestinal obstruction	is associated with	elevated white blood cell count
+intestinal obstruction	is associated with	elevated neutrophil count
+intestinal obstruction	is associated with	elevated lymphocyte count
+intestinal obstruction	is associated with	elevated monocyte count
+intestinal obstruction	is associated with	elevated eosinophil count
+intestinal obstruction	is associated with	elevated basophil count
+intestinal obstruction	is associated with	elevated CRP
+intestinal obstruction	is associated with	elevated procalcitonin
+intestinal obstruction	is associated with	elevated D‑dimer
+intestinal obstruction	is associated with	elevated troponin
+intestinal obstruction	is associated with	elevated BNP
+intestinal obstruction	is associated with	elevated NT‑proBNP
+intestinal obstruction	is associated with	elevated BNP
+intestinal obstruction	is associated with	elevated NT‑proBNP
+intestinal obstruction	is associated with	elevated troponin
+intestinal obstruction	is associated with	elevated D‑dimer
+intestinal obstruction	is associated with	elevated procalcitonin
+intestinal obstruction	is associated with	elevated CRP

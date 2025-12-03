@@ -1,0 +1,100 @@
+biliary tract disease	is a	disease
+biliary tract disease	involves	bile ducts
+biliary tract disease	includes	gallstones
+biliary tract disease	includes	cholangiocarcinoma
+biliary tract disease	includes	primary sclerosing cholangitis
+biliary tract disease	includes	choledocholithiasis
+biliary tract disease	causes	jaundice
+biliary tract disease	causes	pruritus
+biliary tract disease	causes	abdominal pain
+biliary tract disease	causes	nausea
+biliary tract disease	causes	vomiting
+biliary tract disease	causes	fever
+biliary tract disease	causes	cholestasis
+biliary tract disease	is diagnosed with	ultrasound
+biliary tract disease	is diagnosed with	MRCP
+biliary tract disease	is diagnosed with	ERCP
+biliary tract disease	is diagnosed with	liver function tests
+biliary tract disease	is diagnosed with	CT scan
+biliary tract disease	is diagnosed with	biopsy
+biliary tract disease	is treated with	cholecystectomy
+biliary tract disease	is treated with	endoscopic sphincterotomy
+biliary tract disease	is treated with	stenting
+biliary tract disease	is treated with	antibiotics
+biliary tract disease	is treated with	ursodeoxycholic acid
+biliary tract disease	is treated with	chemotherapy
+biliary tract disease	is treated with	radiation therapy
+biliary tract disease	is treated with	liver transplant
+biliary tract disease	is treated with	percutaneous drainage
+biliary tract disease	is associated with	gallbladder inflammation
+biliary tract disease	is associated with	liver cirrhosis
+biliary tract disease	is associated with	portal hypertension
+biliary tract disease	is associated with	hepatic encephalopathy
+biliary tract disease	is associated with	gallstone pancreatitis
+biliary tract disease	is associated with	bile duct strictures
+biliary tract disease	is associated with	bile duct dilation
+biliary tract disease	is associated with	cholangiography findings
+biliary tract disease	increases risk of	hepatocellular carcinoma
+biliary tract disease	increases risk of	gallbladder cancer
+biliary tract disease	increases risk of	bile duct cancer
+biliary tract disease	increases risk of	bile duct obstruction
+biliary tract disease	increases risk of	sepsis
+biliary tract disease	increases risk of	mortality
+biliary tract disease	increases risk of	readmission
+biliary tract disease	increases risk of	complications
+biliary tract disease	is a risk factor for	gallbladder polyps
+biliary tract disease	is a risk factor for	bile duct stones
+biliary tract disease	is a risk factor for	cholangiocarcinoma
+biliary tract disease	is a risk factor for	liver failure
+biliary tract disease	is a risk factor for	bile duct infection
+biliary tract disease	is a risk factor for	bile duct inflammation
+biliary tract disease	is a risk factor for	bile duct stenosis
+biliary tract disease	is a risk factor for	bile duct dilation
+biliary tract disease	is a risk factor for	bile duct obstruction
+biliary tract disease	is a risk factor for	bile duct injury
+biliary tract disease	is a risk factor for	bile duct stricture
+biliary tract disease	is a risk factor for	bile duct leak
+biliary tract disease	is a risk factor for	bile duct perforation
+biliary tract disease	is a risk factor for	bile duct tumor
+biliary tract disease	is a risk factor for	bile duct metastasis
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence
+biliary tract disease	is a risk factor for	bile duct recurrence

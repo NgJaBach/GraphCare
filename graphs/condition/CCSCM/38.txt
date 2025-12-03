@@ -1,0 +1,100 @@
+non‑Hodgkin’s lymphoma	is a	cancer
+non‑Hodgkin’s lymphoma	is a	lymphoid malignancy
+non‑Hodgkin’s lymphoma	originates from	B‑cells
+non‑Hodgkin’s lymphoma	originates from	T‑cells
+non‑Hodgkin’s lymphoma	is classified by	WHO system
+non‑Hodgkin’s lymphoma	is staged by	Ann Arbor staging
+non‑Hodgkin’s lymphoma	is treated with	chemotherapy
+non‑Hodgkin’s lymphoma	is treated with	radiation therapy
+non‑Hodgkin’s lymphoma	is treated with	immunotherapy
+non‑Hodgkin’s lymphoma	is treated with	targeted therapy
+non‑Hodgkin’s lymphoma	is treated with	stem cell transplant
+non‑Hodgkin’s lymphoma	responds to	rituximab
+non‑Hodgkin’s lymphoma	responds to	obinutuzumab
+non‑Hodgkin’s lymphoma	responds to	brentuximab
+non‑Hodgkin’s lymphoma	responds to	lenalidomide
+non‑Hodgkin’s lymphoma	responds to	bortezomib
+non‑Hodgkin’s lymphoma	is associated with	HIV infection
+non‑Hodgkin’s lymphoma	is associated with	EBV infection
+non‑Hodgkin’s lymphoma	is associated with	autoimmune disease
+non‑Hodgkin’s lymphoma	is associated with	immunosuppression
+non‑Hodgkin’s lymphoma	is associated with	organ transplant
+non‑Hodgkin’s lymphoma	is associated with	smoking
+non‑Hodgkin’s lymphoma	is associated with	obesity
+non‑Hodgkin’s lymphoma	is associated with	chronic inflammation
+non‑Hodgkin’s lymphoma	is associated with	genetic mutation
+non‑Hodgkin’s lymphoma	is associated with	chromosomal translocation
+non‑Hodgkin’s lymphoma	is associated with	MYC translocation
+non‑Hodgkin’s lymphoma	is associated with	BCL2 translocation
+non‑Hodgkin’s lymphoma	is associated with	BCL6 translocation
+non‑Hodgkin’s lymphoma	is associated with	TP53 mutation
+non‑Hodgkin’s lymphoma	is associated with	NOTCH1 mutation
+non‑Hodgkin’s lymphoma	is associated with	EZH2 mutation
+non‑Hodgkin’s lymphoma	is associated with	CARD11 mutation
+non‑Hodgkin’s lymphoma	is associated with	NF‑κB activation
+non‑Hodgkin’s lymphoma	is associated with	PI3K‑AKT pathway
+non‑Hodgkin’s lymphoma	is associated with	JAK‑STAT pathway
+non‑Hodgkin’s lymphoma	is associated with	MYD88 mutation
+non‑Hodgkin’s lymphoma	is associated with	CD79B mutation
+non‑Hodgkin’s lymphoma	is associated with	T‑cell receptor rearrangement
+non‑Hodgkin’s lymphoma	is associated with	immunoglobulin heavy chain
+non‑Hodgkin’s lymphoma	is associated with	CD20 expression
+non‑Hodgkin’s lymphoma	is associated with	CD30 expression
+non‑Hodgkin’s lymphoma	is associated with	CD5 expression
+non‑Hodgkin’s lymphoma	is associated with	CD10 expression
+non‑Hodgkin’s lymphoma	is associated with	Ki‑67 proliferation
+non‑Hodgkin’s lymphoma	is associated with	lactate dehydrogenase elevation
+non‑Hodgkin’s lymphoma	is associated with	B‑cell receptor signaling
+non‑Hodgkin’s lymphoma	is associated with	T‑cell receptor signaling
+non‑Hodgkin’s lymphoma	is associated with	tumor microenvironment
+non‑Hodgkin’s lymphoma	is associated with	PD‑L1 expression
+non‑Hodgkin’s lymphoma	is associated with	immune checkpoint inhibition
+non‑Hodgkin’s lymphoma	is associated with	CAR‑T therapy
+non‑Hodgkin’s lymphoma	is associated with	bispecific T‑cell engager
+non‑Hodgkin’s lymphoma	is associated with	antibody‑drug conjugate
+non‑Hodgkin’s lymphoma	is associated with	clinical trial enrollment
+non‑Hodgkin’s lymphoma	is associated with	relapse risk
+non‑Hodgkin’s lymphoma	is associated with	refractory disease
+non‑Hodgkin’s lymphoma	is associated with	high‑grade histology
+non‑Hodgkin’s lymphoma	is associated with	low‑grade histology
+non‑Hodgkin’s lymphoma	is associated with	nodal disease
+non‑Hodgkin’s lymphoma	is associated with	extranodal disease
+non‑Hodgkin’s lymphoma	is associated with	bulky disease
+non‑Hodgkin’s lymphoma	is associated with	B‑symptoms
+non‑Hodgkin’s lymphoma	is associated with	anemia
+non‑Hodgkin’s lymphoma	is associated with	thrombocytopenia
+non‑Hodgkin’s lymphoma	is associated with	neutropenia
+non‑Hodgkin’s lymphoma	is associated with	hypercalcemia
+non‑Hodgkin’s lymphoma	is associated with	renal dysfunction
+non‑Hodgkin’s lymphoma	is associated with	CNS involvement
+non‑Hodgkin’s lymphoma	is associated with	bone marrow infiltration
+non‑Hodgkin’s lymphoma	is associated with	PET‑CT positivity
+non‑Hodgkin’s lymphoma	is associated with	CT scan abnormality
+non‑Hodgkin’s lymphoma	is associated with	MRI abnormality
+non‑Hodgkin’s lymphoma	is associated with	ultrasound abnormality
+non‑Hodgkin’s lymphoma	is associated with	biopsy requirement
+non‑Hodgkin’s lymphoma	is associated with	flow cytometry
+non‑Hodgkin’s lymphoma	is associated with	immunohistochemistry
+non‑Hodgkin’s lymphoma	is associated with	cytogenetic analysis
+non‑Hodgkin’s lymphoma	is associated with	next‑generation sequencing
+non‑Hodgkin’s lymphoma	is associated with	prognostic score
+non‑Hodgkin’s lymphoma	is associated with	International Prognostic Index
+non‑Hodgkin’s lymphoma	is associated with	Revised International Prognostic Index
+non‑Hodgkin’s lymphoma	is associated with	age factor
+non‑Hodgkin’s lymphoma	is associated with	performance status
+non‑Hodgkin’s lymphoma	is associated with	comorbidity index
+non‑Hodgkin’s lymphoma	is associated with	treatment toxicity
+non‑Hodgkin’s lymphoma	is associated with	quality of life
+non‑Hodgkin’s lymphoma	is associated with	survival outcome
+non‑Hodgkin’s lymphoma	is associated with	overall survival
+non‑Hodgkin’s lymphoma	is associated with	progression‑free survival
+non‑Hodgkin’s lymphoma	is associated with	relapse‑free survival
+non‑Hodgkin’s lymphoma	is associated with	hospitalization risk
+non‑Hodgkin’s lymphoma	is associated with	readmission risk
+non‑Hodgkin’s lymphoma	is associated with	cost burden
+non‑Hodgkin’s lymphoma	is associated with	insurance coverage
+non‑Hodgkin’s lymphoma	is associated with	clinical guideline
+non‑Hodgkin’s lymphoma	is associated with	NCCN recommendations
+non‑Hodgkin’s lymphoma	is associated with	ESMO guidelines
+non‑Hodgkin’s lymphoma	is associated with	patient education
+non‑Hodgkin’s lymphoma	is associated with	survivorship care

@@ -1,0 +1,100 @@
+short gestation	causes	low birth weight
+short gestation	leads to	neonatal morbidity
+short gestation	increases	mortality risk
+short gestation	is associated with	preterm birth
+short gestation	is a risk factor for	respiratory distress syndrome
+short gestation	is a risk factor for	intraventricular hemorrhage
+short gestation	is a risk factor for	necrotizing enterocolitis
+short gestation	is a risk factor for	feeding intolerance
+short gestation	is a risk factor for	hypoglycemia
+short gestation	is a risk factor for	sepsis
+short gestation	is a risk factor for	patent ductus arteriosus
+short gestation	is a risk factor for	retinopathy of prematurity
+short gestation	is a risk factor for	cerebral palsy
+short gestation	is a risk factor for	developmental delay
+short gestation	is a risk factor for	hearing loss
+short gestation	is a risk factor for	visual impairment
+short gestation	is a risk factor for	chronic lung disease
+short gestation	is a risk factor for	growth restriction
+short gestation	is a risk factor for	neurodevelopmental impairment
+short gestation	is a risk factor for	long‑term neurocognitive deficits
+short gestation	is a risk factor for	metabolic syndrome
+short gestation	is a risk factor for	hypertension
+short gestation	is a risk factor for	type 2 diabetes
+short gestation	is a risk factor for	obesity
+short gestation	is a risk factor for	cardiovascular disease
+short gestation	is a risk factor for	renal dysfunction
+short gestation	is a risk factor for	asthma
+short gestation	is a risk factor for	atopy
+short gestation	is a risk factor for	allergic disease
+short gestation	is a risk factor for	immune dysregulation
+short gestation	is a risk factor for	anemia
+short gestation	is a risk factor for	iron deficiency
+short gestation	is a risk factor for	vitamin D deficiency
+short gestation	is a risk factor for	calcium deficiency
+short gestation	is a risk factor for	zinc deficiency
+short gestation	is a risk factor for	folate deficiency
+short gestation	is a risk factor for	maternal stress
+short gestation	is a risk factor for	maternal anxiety
+short gestation	is a risk factor for	maternal depression
+short gestation	is a risk factor for	maternal hypertension
+short gestation	is a risk factor for	preeclampsia
+short gestation	is a risk factor for	gestational diabetes
+short gestation	is a risk factor for	placental abruption
+short gestation	is a risk factor for	placental insufficiency
+short gestation	is a risk factor for	uterine rupture
+short gestation	is a risk factor for	postpartum hemorrhage
+short gestation	is a risk factor for	maternal infection
+short gestation	is a risk factor for	maternal anemia
+short gestation	is a risk factor for	maternal malnutrition
+short gestation	is a risk factor for	maternal obesity
+short gestation	is a risk factor for	maternal smoking
+short gestation	is a risk factor for	maternal alcohol use
+short gestation	is a risk factor for	maternal drug use
+short gestation	is a risk factor for	maternal infection
+short gestation	is a risk factor for	maternal age extremes
+short gestation	is a risk factor for	maternal comorbidities
+short gestation	is a risk factor for	maternal socioeconomic status
+short gestation	is a risk factor for	maternal education level
+short gestation	is a risk factor for	maternal access to care
+short gestation	is a risk factor for	maternal nutrition
+short gestation	is a risk factor for	maternal vitamin supplementation
+short gestation	is a risk factor for	maternal folic acid use
+short gestation	is a risk factor for	maternal calcium supplementation
+short gestation	is a risk factor for	maternal iron supplementation
+short gestation	is a risk factor for	maternal zinc supplementation
+short gestation	is a risk factor for	maternal vitamin D supplementation
+short gestation	is a risk factor for	maternal probiotic use
+short gestation	is a risk factor for	maternal prebiotic use
+short gestation	is a risk factor for	maternal omega‑3 supplementation
+short gestation	is a risk factor for	maternal caffeine intake
+short gestation	is a risk factor for	maternal stress management
+short gestation	is a risk factor for	maternal sleep quality
+short gestation	is a risk factor for	maternal physical activity
+short gestation	is a risk factor for	maternal sedentary behavior
+short gestation	is a risk factor for	maternal weight gain
+short gestation	is a risk factor for	maternal weight loss
+short gestation	is a risk factor for	maternal gestational weight gain
+short gestation	is a risk factor for	maternal gestational weight loss
+short gestation	is a risk factor for	maternal gestational weight maintenance
+short gestation	is a risk factor for	maternal gestational weight monitoring
+short gestation	is a risk factor for	maternal gestational weight counseling
+short gestation	is a risk factor for	maternal gestational weight education
+short gestation	is a risk factor for	maternal gestational weight support
+short gestation	is a risk factor for	maternal gestational weight intervention
+short gestation	is a risk factor for	maternal gestational weight management
+short gestation	is a risk factor for	maternal gestational weight optimization
+short gestation	is a risk factor for	maternal gestational weight improvement
+short gestation	is a risk factor for	maternal gestational weight reduction
+short gestation	is a risk factor for	maternal gestational weight increase
+short gestation	is a risk factor for	maternal gestational weight stabilization
+short gestation	is a risk factor for	maternal gestational weight monitoring
+short gestation	is a risk factor for	maternal gestational weight counseling
+short gestation	is a risk factor for	maternal gestational weight education
+short gestation	is a risk factor for	maternal gestational weight support
+short gestation	is a risk factor for	maternal gestational weight intervention
+short gestation	is a risk factor for	maternal gestational weight management
+short gestation	is a risk factor for	maternal gestational weight optimization
+short gestation	is a risk factor for	maternal gestational weight improvement
+short gestation	is a risk factor for	maternal gestational weight reduction
+short gestation	is a risk factor for	maternal gestational weight increase

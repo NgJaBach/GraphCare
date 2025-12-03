@@ -1,0 +1,100 @@
+other acquired deformities	is a	musculoskeletal condition
+other acquired deformities	includes	kyphosis
+other acquired deformities	includes	scoliosis
+other acquired deformities	includes	lordosis
+other acquired deformities	includes	clubfoot
+other acquired deformities	includes	limb length discrepancy
+other acquired deformities	includes	joint contracture
+other acquired deformities	includes	spinal stenosis
+other acquired deformities	includes	osteoarthritis
+other acquired deformities	includes	rheumatoid arthritis
+other acquired deformities	includes	ankylosing spondylitis
+other acquired deformities	includes	gout
+other acquired deformities	includes	trauma
+other acquired deformities	includes	infection
+other acquired deformities	includes	tumor
+other acquired deformities	includes	metabolic bone disease
+other acquired deformities	includes	endocrine disorder
+other acquired deformities	includes	neuromuscular disease
+other acquired deformities	includes	congenital anomaly
+other acquired deformities	includes	post‑surgical change
+kyphosis	is a	spinal curvature
+scoliosis	is a	spinal curvature
+lordosis	is a	spinal curvature
+clubfoot	is a	foot deformity
+limb length discrepancy	is a	limb deformity
+joint contracture	is a	soft‑tissue deformity
+spinal stenosis	is a	spinal canal narrowing
+osteoarthritis	causes	joint deformity
+rheumatoid arthritis	causes	joint deformity
+ankylosing spondylitis	causes	spinal deformity
+gout	causes	joint deformity
+trauma	causes	bone deformity
+infection	causes	bone deformity
+tumor	causes	bone deformity
+metabolic bone disease	causes	bone deformity
+endocrine disorder	causes	bone deformity
+neuromuscular disease	causes	joint deformity
+congenital anomaly	causes	bone deformity
+post‑surgical change	causes	bone deformity
+kyphosis	is treated with	bracing
+scoliosis	is treated with	bracing
+lordosis	is treated with	physiotherapy
+clubfoot	is treated with	casting
+clubfoot	is treated with	surgery
+limb length discrepancy	is treated with	shoe lift
+limb length discrepancy	is treated with	limb lengthening
+joint contracture	is treated with	physiotherapy
+joint contracture	is treated with	surgery
+spinal stenosis	is treated with	decompression
+spinal stenosis	is treated with	fusion
+osteoarthritis	is treated with	NSAIDs
+osteoarthritis	is treated with	joint replacement
+rheumatoid arthritis	is treated with	disease‑modifying drugs
+ankylosing spondylitis	is treated with	TNF inhibitors
+gout	is treated with	colchicine
+trauma	is treated with	fracture fixation
+infection	is treated with	antibiotics
+tumor	is treated with	resection
+metabolic bone disease	is treated with	vitamin D
+endocrine disorder	is treated with	hormone replacement
+neuromuscular disease	is treated with	physiotherapy
+congenital anomaly	is treated with	surgery
+post‑surgical change	is treated with	revision surgery
+kyphosis	predicts	back pain
+scoliosis	predicts	respiratory dysfunction
+lordosis	predicts	lower back pain
+clubfoot	predicts	gait abnormality
+limb length discrepancy	predicts	scoliosis
+joint contracture	predicts	reduced mobility
+spinal stenosis	predicts	neurogenic claudication
+osteoarthritis	predicts	joint failure
+rheumatoid arthritis	predicts	systemic complications
+ankylosing spondylitis	predicts	spinal ankylosis
+gout	predicts	renal stones
+trauma	predicts	post‑traumatic arthritis
+infection	predicts	sepsis
+tumor	predicts	metastasis
+metabolic bone disease	predicts	fracture risk
+endocrine disorder	predicts	osteoporosis
+neuromuscular disease	predicts	contracture progression
+congenital anomaly	predicts	surgical need
+post‑surgical change	predicts	hardware failure
+kyphosis	is associated with	osteoporosis
+scoliosis	is associated with	scoliosis surgery
+lordosis	is associated with	disc degeneration
+clubfoot	is associated with	Achilles tendon contracture
+limb length discrepancy	is associated with	pelvic tilt
+joint contracture	is associated with	fibrosis
+spinal stenosis	is associated with	neurogenic pain
+osteoarthritis	is associated with	cartilage loss
+rheumatoid arthritis	is associated with	rheumatoid nodules
+ankylosing spondylitis	is associated with	sacroiliitis
+gout	is associated with	tophi
+trauma	is associated with	bone healing
+infection	is associated with	osteomyelitis
+tumor	is associated with	bone destruction
+metabolic bone disease	is associated with	low bone density
+endocrine disorder	is associated with	hyperparathyroidism
+neuromuscular disease	is associated with	muscle wasting
+post‑surgical change	is associated with	scar tissue

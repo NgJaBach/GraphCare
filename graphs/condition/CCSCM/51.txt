@@ -1,0 +1,100 @@
+other endocrine disorders	are	endocrine diseases
+other endocrine disorders	affect	hormone production
+other endocrine disorders	involve	gland dysfunction
+other endocrine disorders	can cause	metabolic imbalance
+other endocrine disorders	may lead to	growth abnormalities
+other endocrine disorders	are diagnosed by	blood tests
+other endocrine disorders	are confirmed with	imaging studies
+other endocrine disorders	are treated with	hormone replacement
+other endocrine disorders	are managed by	endocrinologist
+other endocrine disorders	increase risk of	cardiovascular disease
+other endocrine disorders	increase risk of	osteoporosis
+other endocrine disorders	increase risk of	diabetes mellitus
+other endocrine disorders	increase risk of	thyroid cancer
+other endocrine disorders	can cause	fatigue
+other endocrine disorders	can cause	weight gain
+other endocrine disorders	can cause	mood swings
+other endocrine disorders	can cause	infertility
+other endocrine disorders	can cause	hypertension
+other endocrine disorders	can cause	electrolyte imbalance
+other endocrine disorders	can cause	anemia
+other endocrine disorders	can cause	hyperlipidemia
+other endocrine disorders	can cause	hypoglycemia
+other endocrine disorders	can cause	hyperglycemia
+other endocrine disorders	can cause	amenorrhea
+other endocrine disorders	can cause	galactorrhea
+other endocrine disorders	can cause	hirsutism
+other endocrine disorders	can cause	acne
+other endocrine disorders	can cause	hair loss
+other endocrine disorders	can cause	cold intolerance
+other endocrine disorders	can cause	heat intolerance
+other endocrine disorders	can cause	tremor
+other endocrine disorders	can cause	palpitations
+other endocrine disorders	can cause	edema
+other endocrine disorders	can cause	constipation
+other endocrine disorders	can cause	diarrhea
+other endocrine disorders	can cause	visual changes
+other endocrine disorders	can cause	hearing loss
+other endocrine disorders	can cause	neuropathy
+other endocrine disorders	can cause	myopathy
+other endocrine disorders	can cause	gynecomastia
+other endocrine disorders	can cause	breast enlargement
+other endocrine disorders	can cause	menstrual irregularity
+other endocrine disorders	can cause	erectile dysfunction
+other endocrine disorders	can cause	decreased libido
+other endocrine disorders	can cause	depression
+other endocrine disorders	can cause	anxiety
+other endocrine disorders	can cause	insomnia
+other endocrine disorders	can cause	memory loss
+other endocrine disorders	can cause	cognitive decline
+other endocrine disorders	can cause	increased infection risk
+other endocrine disorders	can cause	poor wound healing
+other endocrine disorders	can cause	increased bleeding tendency
+other endocrine disorders	can cause	decreased bone density
+other endocrine disorders	can cause	increased fracture risk
+other endocrine disorders	can cause	increased mortality
+other endocrine disorders	can cause	increased readmission
+other endocrine disorders	can cause	increased hospitalization
+other endocrine disorders	can cause	increased healthcare cost
+other endocrine disorders	can cause	decreased quality of life
+other endocrine disorders	can cause	decreased productivity
+other endocrine disorders	can cause	increased caregiver burden
+other endocrine disorders	can cause	increased medication burden
+other endocrine disorders	can cause	increased drug interactions
+other endocrine disorders	can cause	increased side effect profile
+other endocrine disorders	can cause	increased risk of falls
+other endocrine disorders	can cause	increased risk of fractures
+other endocrine disorders	can cause	increased risk of infections
+other endocrine disorders	can cause	increased risk of malignancy
+other endocrine disorders	can cause	increased risk of cardiovascular events
+other endocrine disorders	can cause	increased risk of stroke
+other endocrine disorders	can cause	increased risk of arrhythmia
+other endocrine disorders	can cause	increased risk of heart failure
+other endocrine disorders	can cause	increased risk of pulmonary hypertension
+other endocrine disorders	can cause	increased risk of renal disease
+other endocrine disorders	can cause	increased risk of liver disease
+other endocrine disorders	can cause	increased risk of gastrointestinal bleeding
+other endocrine disorders	can cause	increased risk of anemia
+other endocrine disorders	can cause	increased risk of thrombosis
+other endocrine disorders	can cause	increased risk of bleeding
+other endocrine disorders	can cause	increased risk of hypoglycemia
+other endocrine disorders	can cause	increased risk of hyperglycemia
+other endocrine disorders	can cause	increased risk of electrolyte imbalance
+other endocrine disorders	can cause	increased risk of dehydration
+other endocrine disorders	can cause	increased risk of hypercalcemia
+other endocrine disorders	can cause	increased risk of hypocalcemia
+other endocrine disorders	can cause	increased risk of hyperthyroidism
+other endocrine disorders	can cause	increased risk of hypothyroidism
+other endocrine disorders	can cause	increased risk of adrenal insufficiency
+other endocrine disorders	can cause	increased risk of Cushing syndrome
+other endocrine disorders	can cause	increased risk of Addison disease
+other endocrine disorders	can cause	increased risk of pituitary adenoma
+other endocrine disorders	can cause	increased risk of thyroiditis
+other endocrine disorders	can cause	increased risk of Graves disease
+other endocrine disorders	can cause	increased risk of Hashimoto disease
+other endocrine disorders	can cause	increased risk of diabetes insipidus
+other endocrine disorders	can cause	increased risk of polycystic ovary syndrome
+other endocrine disorders	can cause	increased risk of congenital adrenal hyperplasia
+other endocrine disorders	can cause	increased risk of Turner syndrome
+other endocrine disorders	can cause	increased risk of Klinefelter syndrome
+other endocrine disorders	can cause	increased risk of Cushingoid features

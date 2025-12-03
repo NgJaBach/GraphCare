@@ -1,0 +1,100 @@
+diagnostic procedures	are a	medical tests
+diagnostic procedures	assess	health status
+diagnostic procedures	include	imaging
+diagnostic procedures	include	laboratory
+diagnostic procedures	include	physical exam
+diagnostic procedures	include	endoscopy
+diagnostic procedures	include	ultrasound
+diagnostic procedures	include	biopsy
+diagnostic procedures	include	cystoscopy
+diagnostic procedures	include	proctoscopy
+diagnostic procedures	include	urethroscopy
+diagnostic procedures	include	semen analysis
+diagnostic procedures	include	hormone assay
+diagnostic procedures	include	genetic testing
+diagnostic procedures	include	imaging
+diagnostic procedures	include	MRI
+diagnostic procedures	include	CT
+diagnostic procedures	include	X‑ray
+diagnostic procedures	include	PET
+diagnostic procedures	include	ultrasound
+diagnostic procedures	include	Doppler
+diagnostic procedures	include	transrectal
+diagnostic procedures	include	transperineal
+diagnostic procedures	include	transurethral
+diagnostic procedures	include	cystoscopy
+diagnostic procedures	include	urethroscopy
+diagnostic procedures	include	proctoscopy
+diagnostic procedures	include	rectoscopy
+diagnostic procedures	include	colonoscopy
+diagnostic procedures	include	sigmoidoscopy
+diagnostic procedures	include	endoscopy
+diagnostic procedures	include	biopsy
+diagnostic procedures	include	fine‑needle aspiration
+diagnostic procedures	include	core needle
+diagnostic procedures	include	surgical
+diagnostic procedures	include	laparoscopy
+diagnostic procedures	include	hysteroscopy
+diagnostic procedures	include	bronchoscopy
+diagnostic procedures	include	arthroscopy
+diagnostic procedures	include	endoscopy
+diagnostic procedures	include	semen analysis
+diagnostic procedures	include	hormone assay
+diagnostic procedures	include	PSA test
+diagnostic procedures	include	testosterone test
+diagnostic procedures	include	LH test
+diagnostic procedures	include	FSH test
+diagnostic procedures	include	prolactin test
+diagnostic procedures	include	DHEA‑S test
+diagnostic procedures	include	genetic testing
+diagnostic procedures	include	karyotype
+diagnostic procedures	include	microarray
+diagnostic procedures	include	PCR
+diagnostic procedures	include	sequencing
+diagnostic procedures	include	immunohistochemistry
+diagnostic procedures	include	flow cytometry
+diagnostic procedures	include	cytology
+diagnostic procedures	include	histopathology
+diagnostic procedures	include	imaging
+diagnostic procedures	include	ultrasound
+diagnostic procedures	include	Doppler
+diagnostic procedures	include	transrectal
+diagnostic procedures	include	transperineal
+diagnostic procedures	include	transurethral
+diagnostic procedures	include	cystoscopy
+diagnostic procedures	include	urethroscopy
+diagnostic procedures	include	proctoscopy
+diagnostic procedures	include	rectoscopy
+diagnostic procedures	include	colonoscopy
+diagnostic procedures	include	sigmoidoscopy
+diagnostic procedures	include	endoscopy
+diagnostic procedures	include	biopsy
+diagnostic procedures	include	fine‑needle aspiration
+diagnostic procedures	include	core needle
+diagnostic procedures	include	surgical
+diagnostic procedures	include	laparoscopy
+diagnostic procedures	include	hysteroscopy
+diagnostic procedures	include	bronchoscopy
+diagnostic procedures	include	arthroscopy
+diagnostic procedures	include	endoscopy
+diagnostic procedures	include	semen analysis
+diagnostic procedures	include	hormone assay
+diagnostic procedures	include	PSA test
+diagnostic procedures	include	testosterone test
+diagnostic procedures	include	LH test
+diagnostic procedures	include	FSH test
+diagnostic procedures	include	prolactin test
+diagnostic procedures	include	DHEA‑S test
+diagnostic procedures	include	genetic testing
+diagnostic procedures	include	karyotype
+diagnostic procedures	include	microarray
+diagnostic procedures	include	PCR
+diagnostic procedures	include	sequencing
+diagnostic procedures	include	immunohistochemistry
+diagnostic procedures	include	flow cytometry
+diagnostic procedures	include	cytology
+diagnostic procedures	include	histopathology
+male genital	is a	body region
+male genital	contains	penis
+male genital	contains	scrotum
+male genital	contains	testes

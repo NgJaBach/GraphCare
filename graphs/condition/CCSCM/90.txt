@@ -1,0 +1,100 @@
+inflammation	is a	immune response
+infection	is a	microbial invasion
+eye	is a	sensory organ
+inflammation	occurs in	eye
+infection	occurs in	eye
+eye	contains	cornea
+eye	contains	conjunctiva
+eye	contains	sclera
+eye	contains	retina
+eye	contains	uvea
+cornea	is a	transparent layer
+conjunctiva	is a	mucous membrane
+sclera	is a	white layer
+retina	is a	photoreceptor layer
+uvea	is a	vascular layer
+inflammation	causes	redness
+inflammation	causes	pain
+inflammation	causes	swelling
+infection	causes	discharge
+infection	causes	fever
+infection	causes	photophobia
+redness	is a	sign of	inflammation
+pain	is a	sign of	inflammation
+swelling	is a	sign of	inflammation
+discharge	is a	sign of	infection
+fever	is a	sign of	infection
+photophobia	is a	sign of	infection
+inflammation	is treated with	corticosteroids
+infection	is treated with	antibiotics
+corticosteroids	are a	drug class
+antibiotics	are a	drug class
+corticosteroids	reduce	inflammation
+antibiotics	kill	bacteria
+antibiotics	inhibit	viral replication
+bacteria	cause	bacterial infection
+virus	cause	viral infection
+bacterial infection	causes	keratitis
+viral infection	causes	keratitis
+keratitis	is a	corneal inflammation
+keratitis	leads to	vision loss
+vision loss	is a	complication of	keratitis
+keratitis	is diagnosed with	slit lamp exam
+slit lamp exam	is a	diagnostic tool
+slit lamp exam	detects	corneal lesions
+corneal lesions	are a	sign of	keratitis
+keratitis	is classified as	acute
+keratitis	is classified as	chronic
+acute keratitis	is treated with	topical antibiotics
+chronic keratitis	is treated with	systemic therapy
+topical antibiotics	are a	eye drop
+systemic therapy	includes	oral steroids
+oral steroids	are a	systemic corticosteroid
+eye drop	is a	medication form
+eye drop	delivers	drug
+drug	reduces	inflammation
+drug	kills	bacteria
+drug	inhibits	viral replication
+infection	can be	bacterial
+infection	can be	viral
+infection	can be	fungal
+fungal infection	causes	keratitis
+fungal infection	is treated with	antifungals
+antifungals	are a	drug class
+antifungals	kill	fungi
+fungi	cause	fungal infection
+fungal infection	leads to	corneal scarring
+corneal scarring	leads to	vision impairment
+vision impairment	is a	risk factor for	blindness
+blindness	is a	severe outcome
+infection	can spread to	uvea
+uveitis	is a	uveal inflammation
+uveitis	leads to	cataract
+cataract	is a	lens opacity
+lens opacity	leads to	vision loss
+vision loss	is a	predictor of	mortality
+mortality	is a	healthcare outcome
+mortality	is influenced by	infection severity
+infection severity	is measured by	clinical score
+clinical score	predicts	readmission
+readmission	is a	healthcare utilization
+readmission	is predicted by	comorbidity
+comorbidity	includes	diabetes
+diabetes	increases	infection risk
+infection risk	increases	with	age
+age	is a	risk factor for	infection
+infection	is associated with	hospitalization
+hospitalization	is a	predictor of	mortality
+mortality	is reduced by	early treatment
+early treatment	is facilitated by	telemedicine
+telemedicine	reduces	time to treatment
+time to treatment	reduces	complications
+complications	include	vision loss
+vision loss	is a	predictor of	depression
+depression	is a	comorbidity
+comorbidity	increases	readmission
+readmission	increases	healthcare cost
+healthcare cost	is a	burden
+burden	is mitigated by	preventive care
+preventive care	includes	vaccination
+vaccination	reduces	infection incidence

@@ -1,0 +1,100 @@
+cancer of bone and connective tissue	is a	malignant tumor
+cancer of bone and connective tissue	originates in	bone
+cancer of bone and connective tissue	originates in	cartilage
+cancer of bone and connective tissue	is a	sarcoma
+osteosarcoma	is a type of	cancer of bone and connective tissue
+chondrosarcoma	is a type of	cancer of bone and connective tissue
+Ewing sarcoma	is a type of	cancer of bone and connective tissue
+synovial sarcoma	is a type of	cancer of bone and connective tissue
+cancer of bone and connective tissue	is diagnosed with	X‑ray
+cancer of bone and connective tissue	is diagnosed with	CT scan
+cancer of bone and connective tissue	is diagnosed with	MRI
+cancer of bone and connective tissue	is diagnosed with	biopsy
+biopsy	is a test for	cancer of bone and connective tissue
+cancer of bone and connective tissue	is treated with	surgery
+cancer of bone and connective tissue	is treated with	chemotherapy
+cancer of bone and connective tissue	is treated with	radiation therapy
+cancer of bone and connective tissue	is treated with	targeted therapy
+cancer of bone and connective tissue	is treated with	immunotherapy
+surgery	reduces	tumor burden
+chemotherapy	reduces	tumor burden
+radiation therapy	reduces	tumor burden
+targeted therapy	reduces	tumor burden
+immunotherapy	reduces	tumor burden
+cancer of bone and connective tissue	increases	pain
+cancer of bone and connective tissue	increases	swelling
+cancer of bone and connective tissue	increases	fracture risk
+cancer of bone and connective tissue	increases	anemia
+cancer of bone and connective tissue	increases	calcium levels
+cancer of bone and connective tissue	increases	metastasis risk
+cancer of bone and connective tissue	causes	bone pain
+cancer of bone and connective tissue	causes	limb dysfunction
+cancer of bone and connective tissue	causes	weight loss
+cancer of bone and connective tissue	causes	fatigue
+cancer of bone and connective tissue	causes	decreased mobility
+cancer of bone and connective tissue	is associated with	poor prognosis
+cancer of bone and connective tissue	is associated with	high mortality
+cancer of bone and connective tissue	is associated with	high recurrence
+cancer of bone and connective tissue	is associated with	poor quality of life
+cancer of bone and connective tissue	is associated with	high healthcare cost
+cancer of bone and connective tissue	is associated with	reduced life expectancy
+osteosarcoma	is associated with	TP53 mutation
+osteosarcoma	is associated with	RB1 mutation
+chondrosarcoma	is associated with	IDH1 mutation
+chondrosarcoma	is associated with	IDH2 mutation
+Ewing sarcoma	is associated with	EWSR1‑FLI1 translocation
+synovial sarcoma	is associated with	SS18‑SSX translocation
+cancer of bone and connective tissue	is associated with	smoking
+cancer of bone and connective tissue	is associated with	radiation exposure
+cancer of bone and connective tissue	is associated with	bone trauma
+cancer of bone and connective tissue	is associated with	Paget disease
+cancer of bone and connective tissue	is associated with	genetic syndromes
+cancer of bone and connective tissue	is associated with	obesity
+cancer of bone and connective tissue	is associated with	chronic inflammation
+cancer of bone and connective tissue	is associated with	low vitamin D
+cancer of bone and connective tissue	is associated with	male gender
+cancer of bone and connective tissue	is associated with	adolescent age
+cancer of bone and connective tissue	is associated with	young adult age
+cancer of bone and connective tissue	is associated with	female gender
+cancer of bone and connective tissue	is associated with	older age
+cancer of bone and connective tissue	is associated with	high alkaline phosphatase
+cancer of bone and connective tissue	is associated with	elevated lactate dehydrogenase
+cancer of bone and connective tissue	is associated with	elevated calcium
+cancer of bone and connective tissue	is associated with	elevated ESR
+cancer of bone and connective tissue	is associated with	elevated CRP
+cancer of bone and connective tissue	is associated with	elevated tumor markers
+cancer of bone and connective tissue	is associated with	bone marrow infiltration
+cancer of bone and connective tissue	is associated with	pulmonary metastasis
+cancer of bone and connective tissue	is associated with	liver metastasis
+cancer of bone and connective tissue	is associated with	bone metastasis
+cancer of bone and connective tissue	is associated with	soft tissue metastasis
+cancer of bone and connective tissue	is associated with	recurrence after surgery
+cancer of bone and connective tissue	is associated with	recurrence after chemotherapy
+cancer of bone and connective tissue	is associated with	recurrence after radiation
+cancer of bone and connective tissue	is associated with	recurrence after targeted therapy
+cancer of bone and connective tissue	is associated with	recurrence after immunotherapy
+cancer of bone and connective tissue	is associated with	poor functional outcome
+cancer of bone and connective tissue	is associated with	poor survival
+cancer of bone and connective tissue	is associated with	high readmission rate
+cancer of bone and connective tissue	is associated with	high mortality rate
+cancer of bone and connective tissue	is associated with	high complication rate
+cancer of bone and connective tissue	is associated with	high infection risk
+cancer of bone and connective tissue	is associated with	high thromboembolism risk
+cancer of bone and connective tissue	is associated with	high neuropathy risk
+cancer of bone and connective tissue	is associated with	high cardiotoxicity risk
+cancer of bone and connective tissue	is associated with	high nephrotoxicity risk
+cancer of bone and connective tissue	is associated with	high hepatotoxicity risk
+cancer of bone and connective tissue	is associated with	high neurotoxicity risk
+cancer of bone and connective tissue	is associated with	high alopecia risk
+cancer of bone and connective tissue	is associated with	high nausea risk
+cancer of bone and connective tissue	is associated with	high vomiting risk
+cancer of bone and connective tissue	is associated with	high diarrhea risk
+cancer of bone and connective tissue	is associated with	high constipation risk
+cancer of bone and connective tissue	is associated with	high fatigue risk
+cancer of bone and connective tissue	is associated with	high depression risk
+cancer of bone and connective tissue	is associated with	high anxiety risk
+cancer of bone and connective tissue	is associated with	high pain risk
+cancer of bone and connective tissue	is associated with	high infection risk
+cancer of bone and connective tissue	is associated with	high recurrence risk
+cancer of bone and connective tissue	is associated with	high metastasis risk
+cancer of bone and connective tissue	is associated with	high mortality risk

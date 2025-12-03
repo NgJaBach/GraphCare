@@ -1,0 +1,100 @@
+malaise	is a symptom of	infection
+fatigue	is a symptom of	anemia
+malaise	is a symptom of	depression
+fatigue	is a symptom of	hypothyroidism
+malaise	is a symptom of	chronic fatigue syndrome
+fatigue	is a symptom of	heart failure
+malaise	is a symptom of	cancer
+fatigue	is a symptom of	diabetes
+malaise	is a symptom of	autoimmune disease
+fatigue	is a symptom of	kidney disease
+malaise	is a symptom of	viral illness
+fatigue	is a symptom of	medication side effect
+malaise	is a symptom of	sleep apnea
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	adrenal insufficiency
+fatigue	is a symptom of	anemia of chronic kidney disease
+malaise	is a symptom of	sepsis
+fatigue	is a symptom of	post‑viral syndrome
+malaise	is a symptom of	thyroiditis
+fatigue	is a symptom of	heart disease
+malaise	is a symptom of	liver disease
+fatigue	is a symptom of	pulmonary disease
+malaise	is a symptom of	malnutrition
+fatigue	is a symptom of	chronic pain
+malaise	is a symptom of	electrolyte imbalance
+fatigue	is a symptom of	dehydration
+malaise	is a symptom of	vitamin deficiency
+fatigue	is a symptom of	anemia of iron deficiency
+malaise	is a symptom of	anemia of vitamin B12 deficiency
+fatigue	is a symptom of	anemia of folate deficiency
+malaise	is a symptom of	anemia of chronic inflammation
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic kidney disease
+fatigue	is a symptom of	anemia of chronic kidney disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease
+malaise	is a symptom of	anemia of chronic disease
+fatigue	is a symptom of	anemia of chronic disease

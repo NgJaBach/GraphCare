@@ -1,0 +1,100 @@
+allergic reactions	are caused by	IgE antibodies
+IgE antibodies	bind to	mast cells
+mast cells	release	histamine
+histamine	causes	vasodilation
+vasodilation	leads to	edema
+edema	manifests as	swelling
+allergic reactions	present with	hives
+hives	are a type of	urticaria
+urticaria	is treated with	antihistamines
+antihistamines	block	H1 receptors
+H1 receptors	are found on	endothelial cells
+endothelial cells	regulate	vascular permeability
+vascular permeability	increases during	anaphylaxis
+anaphylaxis	is a severe form of	allergic reaction
+anaphylaxis	requires	epinephrine
+epinephrine	is administered via	intramuscular injection
+intramuscular injection	is given in	thigh muscle
+thigh muscle	is a site for	epinephrine
+epinephrine	activates	β2 receptors
+β2 receptors	cause	bronchodilation
+bronchodilation	improves	airway patency
+airway patency	is critical in	asthma
+asthma	can be triggered by	allergens
+allergens	include	pollen
+pollen	is a type of	aeroallergen
+aeroallergen	triggers	allergic rhinitis
+allergic rhinitis	causes	nasal congestion
+nasal congestion	is relieved by	decongestants
+decongestants	block	α1 receptors
+α1 receptors	are located on	smooth muscle
+smooth muscle	contracts during	bronchoconstriction
+bronchoconstriction	is a feature of	asthma
+asthma	is diagnosed by	spirometry
+spirometry	measures	FEV1
+FEV1	is reduced in	obstructive lung disease
+obstructive lung disease	includes	COPD
+COPD	is exacerbated by	smoking
+smoking	increases	oxidative stress
+oxidative stress	damages	epithelial cells
+epithelial cells	produce	cytokines
+cytokines	recruit	eosinophils
+eosinophils	release	major basic protein
+major basic protein	causes	tissue damage
+tissue damage	leads to	inflammation
+inflammation	is mediated by	prostaglandins
+prostaglandins	are synthesized by	COX enzymes
+COX enzymes	are inhibited by	NSAIDs
+NSAIDs	reduce	pain
+pain	is a symptom of	allergic dermatitis
+allergic dermatitis	is treated with	topical steroids
+topical steroids	suppress	immune response
+immune response	involves	T cells
+T cells	differentiate into	Th2 cells
+Th2 cells	secrete	IL-4
+IL-4	promotes	IgE class switching
+IgE class switching	occurs in	B cells
+B cells	mature in	bone marrow
+bone marrow	produces	hematopoietic stem cells
+hematopoietic stem cells	differentiate into	myeloid lineage
+myeloid lineage	includes	mast cells
+mast cells	are activated by	crosslinking
+crosslinking	occurs when	IgE binds antigen
+antigen	can be	food protein
+food protein	triggers	food allergy
+food allergy	presents with	gastrointestinal symptoms
+gastrointestinal symptoms	include	vomiting
+vomiting	is managed by	antiemetics
+antiemetics	block	serotonin receptors
+serotonin receptors	are present on	gut neurons
+gut neurons	regulate	motility
+motility	is altered in	irritable bowel syndrome
+irritable bowel syndrome	shares symptoms with	allergic colitis
+allergic colitis	is diagnosed by	colonoscopy
+colonoscopy	visualizes	mucosal inflammation
+mucosal inflammation	is treated with	immunosuppressants
+immunosuppressants	include	cyclosporine
+cyclosporine	inhibits	calcineurin
+calcineurin	activates	NFAT
+NFAT	drives	T cell activation
+T cell activation	is reduced by	corticosteroids
+corticosteroids	are metabolized by	CYP3A4
+CYP3A4	is induced by	rifampin
+rifampin	is used to treat	tuberculosis
+tuberculosis	is a risk factor for	immune reconstitution inflammatory syndrome
+immune reconstitution inflammatory syndrome	can precipitate	allergic reactions
+allergic reactions	increase risk of	cardiovascular events
+cardiovascular events	include	myocardial infarction
+myocardial infarction	is predicted by	troponin levels
+troponin levels	rise after	myocardial injury
+myocardial injury	can be caused by	anaphylaxis
+anaphylaxis	is monitored by	pulse oximetry
+pulse oximetry	measures	oxygen saturation
+oxygen saturation	drops during	severe allergic reaction
+severe allergic reaction	may lead to	shock
+shock	requires	fluid resuscitation
+fluid resuscitation	uses	crystalloids
+crystalloids	are administered via	intravenous line
+intravenous line	is placed in	forearm vein
+forearm vein	is a site for	central venous access
+central venous access	is used for	high‑risk patients

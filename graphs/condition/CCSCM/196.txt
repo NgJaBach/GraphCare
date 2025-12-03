@@ -1,0 +1,100 @@
+normal pregnancy	is a	healthy pregnancy
+normal pregnancy	has	normal fetal growth
+normal pregnancy	has	normal maternal weight gain
+normal pregnancy	has	normal blood pressure
+normal pregnancy	has	normal blood glucose
+normal pregnancy	has	normal hemoglobin
+normal pregnancy	has	normal proteinuria
+normal pregnancy	has	normal urine protein
+normal pregnancy	has	normal fetal heart rate
+normal pregnancy	has	normal fetal movement
+normal pregnancy	has	normal placenta position
+normal pregnancy	has	normal amniotic fluid
+normal pregnancy	has	normal cervical length
+normal pregnancy	has	normal uterine size
+normal pregnancy	has	normal fetal anatomy
+normal pregnancy	has	normal fetal weight
+normal pregnancy	has	normal fetal length
+normal pregnancy	has	normal fetal head circumference
+normal pregnancy	has	normal fetal abdominal circumference
+normal pregnancy	has	normal fetal femur length
+normal pregnancy	has	normal fetal lung maturity
+normal pregnancy	has	normal fetal brain development
+normal pregnancy	has	normal fetal heart structure
+normal pregnancy	has	normal fetal lungs
+normal pregnancy	has	normal fetal kidneys
+normal pregnancy	has	normal fetal liver
+normal pregnancy	has	normal fetal spleen
+normal pregnancy	has	normal fetal gut
+normal pregnancy	has	normal fetal bones
+normal pregnancy	has	normal fetal muscles
+normal pregnancy	has	normal fetal skin
+normal pregnancy	has	normal fetal hair
+normal pregnancy	has	normal fetal nails
+normal pregnancy	has	normal fetal eyes
+normal pregnancy	has	normal fetal ears
+normal pregnancy	has	normal fetal nose
+normal pregnancy	has	normal fetal mouth
+normal pregnancy	has	normal fetal tongue
+normal pregnancy	has	normal fetal teeth
+normal pregnancy	has	normal fetal lungs
+normal pregnancy	has	normal fetal heart rate
+normal pregnancy	has	normal fetal movement
+normal pregnancy	has	normal fetal position
+normal pregnancy	has	normal fetal presentation
+normal pregnancy	has	normal fetal lie
+normal pregnancy	has	normal fetal growth rate
+normal pregnancy	has	normal fetal weight percentile
+normal pregnancy	has	normal fetal length percentile
+normal pregnancy	has	normal fetal head circumference percentile
+normal pregnancy	has	normal fetal abdominal circumference percentile
+normal pregnancy	has	normal fetal femur length percentile
+normal pregnancy	has	normal fetal lung maturity score
+normal pregnancy	has	normal fetal brain maturity score
+normal pregnancy	has	normal fetal heart maturity score
+normal pregnancy	has	normal fetal kidney maturity score
+normal pregnancy	has	normal fetal liver maturity score
+normal pregnancy	has	normal fetal spleen maturity score
+normal pregnancy	has	normal fetal gut maturity score
+normal pregnancy	has	normal fetal bone maturity score
+normal pregnancy	has	normal fetal muscle maturity score
+normal pregnancy	has	normal fetal skin maturity score
+normal pregnancy	has	normal fetal hair maturity score
+normal pregnancy	has	normal fetal nail maturity score
+normal pregnancy	has	normal fetal eye maturity score
+normal pregnancy	has	normal fetal ear maturity score
+normal pregnancy	has	normal fetal nose maturity score
+normal pregnancy	has	normal fetal mouth maturity score
+normal pregnancy	has	normal fetal tongue maturity score
+normal pregnancy	has	normal fetal teeth maturity score
+normal pregnancy	is associated with	normal delivery
+normal pregnancy	is associated with	vaginal delivery
+normal pregnancy	is associated with	spontaneous labor
+normal pregnancy	is associated with	normal labor duration
+normal pregnancy	is associated with	normal cervical dilation
+normal pregnancy	is associated with	normal fetal descent
+normal pregnancy	is associated with	normal pushing effort
+normal pregnancy	is associated with	normal neonatal birth weight
+normal pregnancy	is associated with	normal neonatal length
+normal pregnancy	is associated with	normal neonatal head circumference
+normal pregnancy	is associated with	normal neonatal Apgar score
+normal pregnancy	is associated with	normal neonatal temperature
+normal pregnancy	is associated with	normal neonatal heart rate
+normal pregnancy	is associated with	normal neonatal respiration
+normal pregnancy	is associated with	normal neonatal feeding
+normal pregnancy	is associated with	normal neonatal jaundice
+normal pregnancy	is associated with	normal neonatal umbilical cord
+normal pregnancy	is associated with	normal neonatal placenta
+normal pregnancy	is associated with	normal neonatal meconium
+normal pregnancy	is associated with	normal neonatal skin color
+normal pregnancy	is associated with	normal neonatal hair
+normal pregnancy	is associated with	normal neonatal nails
+normal pregnancy	is associated with	normal neonatal reflexes
+normal pregnancy	is associated with	normal neonatal hearing
+normal pregnancy	is associated with	normal neonatal vision
+normal pregnancy	is associated with	normal neonatal immune status
+normal pregnancy	is associated with	normal neonatal feeding pattern
+normal pregnancy	is associated with	normal neonatal sleep pattern
+normal pregnancy	is associated with	normal neonatal bonding
+normal pregnancy	is associated with	normal maternal recovery
+normal pregnancy	is associated with	normal postpartum mood

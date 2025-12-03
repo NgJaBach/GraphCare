@@ -1,0 +1,100 @@
+fever of unknown origin	is a	diagnostic challenge
+fever of unknown origin	may indicate	infection
+fever of unknown origin	may indicate	malignancy
+fever of unknown origin	may indicate	autoimmune disease
+fever of unknown origin	may indicate	drug reaction
+fever of unknown origin	requires	comprehensive workup
+fever of unknown origin	requires	laboratory testing
+fever of unknown origin	requires	imaging studies
+fever of unknown origin	requires	infectious disease consult
+fever of unknown origin	requires	rheumatology consult
+fever of unknown origin	requires	oncology consult
+fever of unknown origin	requires	repeat evaluation
+fever of unknown origin	is associated with	elevated ESR
+fever of unknown origin	is associated with	elevated CRP
+fever of unknown origin	is associated with	leukocytosis
+fever of unknown origin	is associated with	anemia
+fever of unknown origin	is associated with	thrombocytopenia
+fever of unknown origin	is associated with	hypoalbuminemia
+fever of unknown origin	is associated with	hyponatremia
+fever of unknown origin	is associated with	hypercalcemia
+fever of unknown origin	is associated with	elevated ferritin
+fever of unknown origin	is associated with	positive blood cultures
+fever of unknown origin	is associated with	negative blood cultures
+fever of unknown origin	is associated with	positive urine cultures
+fever of unknown origin	is associated with	negative urine cultures
+fever of unknown origin	is associated with	positive sputum cultures
+fever of unknown origin	is associated with	negative sputum cultures
+fever of unknown origin	is associated with	positive serology
+fever of unknown origin	is associated with	negative serology
+fever of unknown origin	is associated with	positive imaging findings
+fever of unknown origin	is associated with	negative imaging findings
+fever of unknown origin	is treated with	empiric antibiotics
+fever of unknown origin	is treated with	empiric antivirals
+fever of unknown origin	is treated with	empiric antifungals
+fever of unknown origin	is treated with	immunosuppressants
+fever of unknown origin	is treated with	targeted therapy
+fever of unknown origin	is treated with	supportive care
+fever of unknown origin	is monitored by	temperature trend
+fever of unknown origin	is monitored by	vital signs
+fever of unknown origin	is monitored by	laboratory trend
+fever of unknown origin	is monitored by	imaging trend
+fever of unknown origin	is monitored by	symptom diary
+fever of unknown origin	is monitored by	medication review
+fever of unknown origin	is monitored by	exposure history
+fever of unknown origin	is monitored by	travel history
+fever of unknown origin	is monitored by	occupational history
+fever of unknown origin	is monitored by	family history
+fever of unknown origin	is monitored by	vaccination status
+fever of unknown origin	is monitored by	recent surgeries
+fever of unknown origin	is monitored by	implanted devices
+fever of unknown origin	is monitored by	recent transfusions
+fever of unknown origin	is monitored by	recent antibiotics
+fever of unknown origin	is monitored by	recent steroids
+fever of unknown origin	is monitored by	recent biologics
+fever of unknown origin	is monitored by	recent chemotherapy
+fever of unknown origin	is monitored by	recent radiation
+fever of unknown origin	is monitored by	recent infections
+fever of unknown origin	is monitored by	recent vaccinations
+fever of unknown origin	is monitored by	recent travel to endemic areas
+fever of unknown origin	is monitored by	recent animal exposure
+fever of unknown origin	is monitored by	recent foodborne exposure
+fever of unknown origin	is monitored by	recent water exposure
+fever of unknown origin	is monitored by	recent sexual activity
+fever of unknown origin	is monitored by	recent drug use
+fever of unknown origin	is monitored by	recent herbal supplements
+fever of unknown origin	is monitored by	recent environmental toxins
+fever of unknown origin	is monitored by	recent stress
+fever of unknown origin	is monitored by	recent sleep deprivation
+fever of unknown origin	is monitored by	recent weight loss
+fever of unknown origin	is monitored by	recent weight gain
+fever of unknown origin	is monitored by	recent fever pattern
+fever of unknown origin	is monitored by	recent rash
+fever of unknown origin	is monitored by	recent joint pain
+fever of unknown origin	is monitored by	recent abdominal pain
+fever of unknown origin	is monitored by	recent chest pain
+fever of unknown origin	is monitored by	recent neurological symptoms
+fever of unknown origin	is monitored by	recent urinary symptoms
+fever of unknown origin	is monitored by	recent respiratory symptoms
+fever of unknown origin	is monitored by	recent gastrointestinal symptoms
+fever of unknown origin	is monitored by	recent dermatologic symptoms
+fever of unknown origin	is monitored by	recent musculoskeletal symptoms
+fever of unknown origin	is monitored by	recent ocular symptoms
+fever of unknown origin	is monitored by	recent hearing loss
+fever of unknown origin	is monitored by	recent tinnitus
+fever of unknown origin	is monitored by	recent fatigue
+fever of unknown origin	is monitored by	recent appetite change
+fever of unknown origin	is monitored by	recent sleep pattern
+fever of unknown origin	is monitored by	recent social support
+fever of unknown origin	is monitored by	recent mental health status
+fever of unknown origin	is monitored by	recent medication adherence
+fever of unknown origin	is monitored by	recent laboratory abnormalities
+fever of unknown origin	is monitored by	recent imaging abnormalities
+fever of unknown origin	is monitored by	recent physical exam findings
+fever of unknown origin	is monitored by	recent patient-reported outcomes
+fever of unknown origin	is monitored by	recent health care utilization
+fever of unknown origin	is monitored by	recent hospitalization
+fever of unknown origin	is monitored by	recent ICU admission
+fever of unknown origin	is monitored by	recent discharge summary
+fever of unknown origin	is monitored by	recent follow‑up visit
+fever of unknown origin	is monitored by	recent patient education

@@ -1,0 +1,100 @@
+diagnostic endocrine procedures	are a	medical test
+diagnostic endocrine procedures	assess	hormone levels
+diagnostic endocrine procedures	include	blood test
+diagnostic endocrine procedures	include	urine test
+diagnostic endocrine procedures	include	imaging study
+blood test	measures	cortisol
+blood test	measures	thyroid hormone
+blood test	measures	insulin
+urine test	measures	catecholamine
+urine test	measures	cortisol
+urine test	measures	testosterone
+imaging study	includes	MRI
+imaging study	includes	CT scan
+imaging study	includes	ultrasound
+MRI	visualizes	pituitary gland
+CT scan	visualizes	adrenal gland
+ultrasound	visualizes	thyroid gland
+diagnostic endocrine procedures	predict	adrenal insufficiency
+diagnostic endocrine procedures	predict	Cushing syndrome
+diagnostic endocrine procedures	predict	hyperthyroidism
+diagnostic endocrine procedures	predict	hypoparathyroidism
+diagnostic endocrine procedures	guide	treatment plan
+diagnostic endocrine procedures	guide	medication choice
+diagnostic endocrine procedures	guide	surgery decision
+diagnostic endocrine procedures	reduce	misdiagnosis
+diagnostic endocrine procedures	improve	patient outcome
+diagnostic endocrine procedures	reduce	mortality
+diagnostic endocrine procedures	reduce	readmission
+diagnostic endocrine procedures	reduce	length of stay
+diagnostic endocrine procedures	cost-effective	when used appropriately
+diagnostic endocrine procedures	are recommended	by endocrine society
+diagnostic endocrine procedures	are performed	in endocrinology clinic
+diagnostic endocrine procedures	are performed	in hospital
+diagnostic endocrine procedures	are performed	in outpatient setting
+diagnostic endocrine procedures	are performed	by endocrinologist
+diagnostic endocrine procedures	are performed	by radiologist
+diagnostic endocrine procedures	are performed	by pathologist
+diagnostic endocrine procedures	are performed	by laboratory technician
+diagnostic endocrine procedures	are performed	with patient consent
+diagnostic endocrine procedures	are performed	after fasting
+diagnostic endocrine procedures	are performed	with medication adjustment
+diagnostic endocrine procedures	are performed	with timing consideration
+diagnostic endocrine procedures	are performed	with sample handling
+diagnostic endocrine procedures	are performed	with quality control
+diagnostic endocrine procedures	are performed	with standardized protocol
+diagnostic endocrine procedures	are performed	with reference range
+diagnostic endocrine procedures	are performed	with normal range
+diagnostic endocrine procedures	are performed	with abnormal result
+diagnostic endocrine procedures	are performed	with follow-up test
+diagnostic endocrine procedures	are performed	with repeat measurement
+diagnostic endocrine procedures	are performed	with confirmatory test
+diagnostic endocrine procedures	are performed	with imaging confirmation
+diagnostic endocrine procedures	are performed	with biopsy confirmation
+diagnostic endocrine procedures	are performed	with hormone stimulation test
+diagnostic endocrine procedures	are performed	with hormone suppression test
+diagnostic endocrine procedures	are performed	with dynamic test
+diagnostic endocrine procedures	are performed	with static test
+diagnostic endocrine procedures	are performed	with point-of-care test
+diagnostic endocrine procedures	are performed	with laboratory test
+diagnostic endocrine procedures	are performed	with home test
+diagnostic endocrine procedures	are performed	with wearable sensor
+diagnostic endocrine procedures	are performed	with telehealth
+diagnostic endocrine procedures	are performed	with remote monitoring
+diagnostic endocrine procedures	are performed	with patient education
+diagnostic endocrine procedures	are performed	with risk assessment
+diagnostic endocrine procedures	are performed	with benefit assessment
+diagnostic endocrine procedures	are performed	with cost assessment
+diagnostic endocrine procedures	are performed	with insurance coverage
+diagnostic endocrine procedures	are performed	with payer approval
+diagnostic endocrine procedures	are performed	with clinical pathway
+diagnostic endocrine procedures	are performed	with multidisciplinary team
+diagnostic endocrine procedures	are performed	with specialist referral
+diagnostic endocrine procedures	are performed	with patient follow-up
+diagnostic endocrine procedures	are performed	with outcome tracking
+diagnostic endocrine procedures	are performed	with quality improvement
+diagnostic endocrine procedures	are performed	with evidence-based guideline
+diagnostic endocrine procedures	are performed	with audit
+diagnostic endocrine procedures	are performed	with peer review
+diagnostic endocrine procedures	are performed	with data registry
+diagnostic endocrine procedures	are performed	with research study
+diagnostic endocrine procedures	are performed	with clinical trial
+diagnostic endocrine procedures	are performed	with patient registry
+diagnostic endocrine procedures	are performed	with national database
+diagnostic endocrine procedures	are performed	with international standard
+diagnostic endocrine procedures	are performed	with local protocol
+diagnostic endocrine procedures	are performed	with institutional policy
+diagnostic endocrine procedures	are performed	with safety protocol
+diagnostic endocrine procedures	are performed	with infection control
+diagnostic endocrine procedures	are performed	with radiation safety
+diagnostic endocrine procedures	are performed	with privacy protection
+diagnostic endocrine procedures	are performed	with informed consent
+diagnostic endocrine procedures	are performed	with ethical approval
+diagnostic endocrine procedures	are performed	with data security
+diagnostic endocrine procedures	are performed	with compliance
+diagnostic endocrine procedures	are performed	with accreditation
+diagnostic endocrine procedures	are performed	with continuous monitoring
+diagnostic endocrine procedures	are performed	with outcome evaluation
+diagnostic endocrine procedures	are performed	with patient satisfaction
+diagnostic endocrine procedures	are performed	with clinical effectiveness
+diagnostic endocrine procedures	are performed	with health economics

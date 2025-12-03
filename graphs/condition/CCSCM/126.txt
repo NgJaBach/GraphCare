@@ -1,0 +1,100 @@
+upper respiratory infection	is a	viral illness
+upper respiratory infection	is a	bacterial illness
+upper respiratory infection	causes	cough
+upper respiratory infection	causes	sore throat
+upper respiratory infection	causes	nasal congestion
+upper respiratory infection	causes	fever
+upper respiratory infection	causes	fatigue
+upper respiratory infection	causes	headache
+upper respiratory infection	causes	body aches
+upper respiratory infection	causes	loss of taste
+upper respiratory infection	causes	loss of smell
+upper respiratory infection	is treated with	rest
+upper respiratory infection	is treated with	fluids
+upper respiratory infection	is treated with	acetaminophen
+upper respiratory infection	is treated with	ibuprofen
+upper respiratory infection	is treated with	decongestants
+upper respiratory infection	is treated with	antihistamines
+upper respiratory infection	is treated with	saline spray
+upper respiratory infection	is treated with	humidifier
+upper respiratory infection	is treated with	antibiotics
+upper respiratory infection	is treated with	antivirals
+upper respiratory infection	is treated with	corticosteroids
+upper respiratory infection	is treated with	nasal steroids
+upper respiratory infection	is treated with	cough suppressants
+upper respiratory infection	is treated with	expectorants
+upper respiratory infection	is treated with	zinc
+upper respiratory infection	is treated with	vitamin C
+upper respiratory infection	is treated with	vitamin D
+upper respiratory infection	is treated with	probiotics
+upper respiratory infection	is treated with	honey
+upper respiratory infection	is treated with	steam inhalation
+upper respiratory infection	is treated with	throat lozenges
+upper respiratory infection	is treated with	nasal irrigation
+upper respiratory infection	is treated with	herbal remedies
+upper respiratory infection	is treated with	homeopathy
+upper respiratory infection	is treated with	acupuncture
+upper respiratory infection	is treated with	physiotherapy
+upper respiratory infection	is treated with	speech therapy
+upper respiratory infection	is treated with	occupational therapy
+upper respiratory infection	is treated with	mental health support
+upper respiratory infection	is treated with	sleep hygiene
+upper respiratory infection	is treated with	breathing exercises
+upper respiratory infection	is treated with	meditation
+upper respiratory infection	is treated with	yoga
+upper respiratory infection	is treated with	tai chi
+upper respiratory infection	is treated with	Pilates
+upper respiratory infection	is treated with	exercise
+upper respiratory infection	is treated with	diet
+upper respiratory infection	is treated with	nutrition
+upper respiratory infection	is treated with	weight management
+upper respiratory infection	is treated with	smoking cessation
+upper respiratory infection	is treated with	alcohol reduction
+upper respiratory infection	is treated with	stress reduction
+upper respiratory infection	is treated with	sleep improvement
+upper respiratory infection	is treated with	mental health therapy
+upper respiratory infection	is treated with	counseling
+upper respiratory infection	is treated with	support groups
+upper respiratory infection	is treated with	telemedicine
+upper respiratory infection	is treated with	home monitoring
+upper respiratory infection	is treated with	wearable devices
+upper respiratory infection	is treated with	smartphone apps
+upper respiratory infection	is treated with	digital health
+upper respiratory infection	is treated with	AI diagnostics
+upper respiratory infection	is treated with	machine learning
+upper respiratory infection	is treated with	predictive analytics
+upper respiratory infection	is treated with	risk stratification
+upper respiratory infection	is treated with	triage algorithms
+upper respiratory infection	is treated with	remote monitoring
+upper respiratory infection	is treated with	patient education
+upper respiratory infection	is treated with	health literacy
+upper respiratory infection	is treated with	medication adherence
+upper respiratory infection	is treated with	refill reminders
+upper respiratory infection	is treated with	pharmacy counseling
+upper respiratory infection	is treated with	pharmacist intervention
+upper respiratory infection	is treated with	medication review
+upper respiratory infection	is treated with	drug interactions
+upper respiratory infection	is treated with	drug side effects
+upper respiratory infection	is treated with	drug efficacy
+upper respiratory infection	is treated with	drug safety
+upper respiratory infection	is treated with	drug monitoring
+upper respiratory infection	is treated with	drug dosage
+upper respiratory infection	is treated with	drug formulation
+upper respiratory infection	is treated with	drug delivery
+upper respiratory infection	is treated with	drug compliance
+upper respiratory infection	is treated with	drug resistance
+upper respiratory infection	is treated with	drug stewardship
+upper respiratory infection	is treated with	drug cost
+upper respiratory infection	is treated with	drug access
+upper respiratory infection	is treated with	drug availability
+upper respiratory infection	is treated with	drug coverage
+upper respiratory infection	is treated with	drug insurance
+upper respiratory infection	is treated with	drug reimbursement
+upper respiratory infection	is treated with	drug formulary
+upper respiratory infection	is treated with	drug substitution
+upper respiratory infection	is treated with	drug generic
+upper respiratory infection	is treated with	drug brand
+upper respiratory infection	is treated with	drug patent
+upper respiratory infection	is treated with	drug approval
+upper respiratory infection	is treated with	drug regulation
+upper respiratory infection	is treated with	drug policy

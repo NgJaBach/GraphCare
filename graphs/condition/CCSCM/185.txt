@@ -1,0 +1,100 @@
+prolonged pregnancy	is a	obstetric complication
+prolonged pregnancy	is defined as	gestation > 42 weeks
+prolonged pregnancy	increases risk of	fetal distress
+prolonged pregnancy	increases risk of	meconium aspiration
+prolonged pregnancy	increases risk of	shoulder dystocia
+prolonged pregnancy	increases risk of	postpartum hemorrhage
+prolonged pregnancy	increases risk of	placental abruption
+prolonged pregnancy	increases risk of	uterine rupture
+prolonged pregnancy	increases risk of	maternal infection
+prolonged pregnancy	increases risk of	neonatal hypoglycemia
+prolonged pregnancy	increases risk of	neonatal jaundice
+prolonged pregnancy	increases risk of	neonatal sepsis
+prolonged pregnancy	increases risk of	neonatal respiratory distress
+prolonged pregnancy	increases risk of	neonatal death
+prolonged pregnancy	is associated with	maternal hypertension
+prolonged pregnancy	is associated with	gestational diabetes
+prolonged pregnancy	is associated with	preeclampsia
+prolonged pregnancy	is associated with	anemia
+prolonged pregnancy	is associated with	low birth weight
+prolonged pregnancy	is associated with	macrosomia
+prolonged pregnancy	is associated with	oligohydramnios
+prolonged pregnancy	is associated with	polyhydramnios
+prolonged pregnancy	is associated with	fetal growth restriction
+prolonged pregnancy	is associated with	placental insufficiency
+prolonged pregnancy	is associated with	fetal anemia
+prolonged pregnancy	is associated with	fetal macrosomia
+prolonged pregnancy	is associated with	fetal distress
+prolonged pregnancy	is associated with	fetal demise
+prolonged pregnancy	is associated with	maternal fatigue
+prolonged pregnancy	is associated with	maternal depression
+prolonged pregnancy	is associated with	maternal anxiety
+prolonged pregnancy	is associated with	maternal weight gain
+prolonged pregnancy	is associated with	maternal edema
+prolonged pregnancy	is associated with	maternal urinary tract infection
+prolonged pregnancy	is associated with	maternal urinary retention
+prolonged pregnancy	is associated with	maternal constipation
+prolonged pregnancy	is associated with	maternal back pain
+prolonged pregnancy	is associated with	maternal leg swelling
+prolonged pregnancy	is associated with	maternal sleep disturbance
+prolonged pregnancy	is associated with	maternal cardiovascular strain
+prolonged pregnancy	is associated with	maternal thromboembolism
+prolonged pregnancy	is associated with	maternal anemia
+prolonged pregnancy	is associated with	maternal hyperemesis
+prolonged pregnancy	is associated with	maternal urinary incontinence
+prolonged pregnancy	is associated with	maternal pelvic pain
+prolonged pregnancy	is associated with	maternal pelvic floor dysfunction
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal blood loss
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk
+prolonged pregnancy	is associated with	maternal infection risk

@@ -1,0 +1,100 @@
+miscellaneous mental health disorders	is a	psychiatric condition
+miscellaneous mental health disorders	includes	anxiety disorders
+miscellaneous mental health disorders	includes	mood disorders
+miscellaneous mental health disorders	includes	personality disorders
+miscellaneous mental health disorders	includes	psychotic disorders
+anxiety disorders	are treated with	SSRIs
+anxiety disorders	are treated with	CBT
+mood disorders	are treated with	mood stabilizers
+mood disorders	are treated with	antipsychotics
+personality disorders	are treated with	dialectical behavior therapy
+psychotic disorders	are treated with	antipsychotics
+SSRIs	reduce	depressive symptoms
+CBT	reduces	anxiety symptoms
+mood stabilizers	reduce	mania episodes
+antipsychotics	reduce	hallucinations
+dialectical behavior therapy	reduces	self‑harm
+anxiety disorders	predict	suicide risk
+mood disorders	predict	suicide risk
+personality disorders	predict	self‑harm
+psychotic disorders	predict	hospitalization
+SSRIs	increase	serotonin levels
+CBT	improves	coping skills
+mood stabilizers	increase	lithium levels
+antipsychotics	block	dopamine receptors
+dialectical behavior therapy	improves	emotion regulation
+anxiety disorders	increase	heart rate
+mood disorders	increase	cortisol levels
+personality disorders	increase	interpersonal conflict
+psychotic disorders	increase	disorganized thinking
+SSRIs	cause	sexual dysfunction
+CBT	reduces	avoidance behavior
+mood stabilizers	cause	weight gain
+antipsychotics	cause	extrapyramidal symptoms
+dialectical behavior therapy	reduces	impulsivity
+anxiety disorders	are comorbid with	depression
+mood disorders	are comorbid with	substance abuse
+personality disorders	are comorbid with	self‑harm
+psychotic disorders	are comorbid with	cognitive deficits
+SSRIs	are contraindicated in	pregnancy
+CBT	is effective in	adolescents
+mood stabilizers	are indicated for	bipolar disorder
+antipsychotics	are indicated for	schizophrenia
+dialectical behavior therapy	is indicated for	borderline personality disorder
+anxiety disorders	increase	healthcare utilization
+mood disorders	increase	absenteeism
+personality disorders	increase	legal problems
+psychotic disorders	increase	violence risk
+SSRIs	are first‑line for	major depression
+CBT	is first‑line for	panic disorder
+mood stabilizers	are first‑line for	mania
+antipsychotics	are first‑line for	acute psychosis
+dialectical behavior therapy	is first‑line for	self‑harm
+anxiety disorders	predict	medication non‑adherence
+mood disorders	predict	medication non‑adherence
+personality disorders	predict	treatment dropout
+psychotic disorders	predict	treatment resistance
+SSRIs	are associated with	serotonin syndrome
+CBT	is associated with	improved quality of life
+mood stabilizers	are associated with	renal toxicity
+antipsychotics	are associated with	metabolic syndrome
+dialectical behavior therapy	is associated with	reduced hospitalization
+anxiety disorders	are associated with	insomnia
+mood disorders	are associated with	anhedonia
+personality disorders	are associated with	chronic pain
+psychotic disorders	are associated with	negative symptoms
+SSRIs	are used in	post‑traumatic stress disorder
+CBT	is used in	obsessive‑compulsive disorder
+mood stabilizers	are used in	cyclothymia
+antipsychotics	are used in	schizoaffective disorder
+dialectical behavior therapy	is used in	substance use disorders
+anxiety disorders	increase	emergency visits
+mood disorders	increase	suicide attempts
+personality disorders	increase	self‑inflicted injuries
+psychotic disorders	increase	forensic admissions
+SSRIs	reduce	relapse rate
+CBT	reduces	relapse rate
+mood stabilizers	reduce	relapse rate
+antipsychotics	reduce	relapse rate
+dialectical behavior therapy	reduces	relapse rate
+anxiety disorders	predict	poor sleep quality
+mood disorders	predict	poor sleep quality
+personality disorders	predict	poor sleep quality
+psychotic disorders	predict	poor sleep quality
+SSRIs	are monitored by	liver function tests
+CBT	is monitored by	therapy adherence
+mood stabilizers	are monitored by	serum lithium levels
+antipsychotics	are monitored by	weight checks
+dialectical behavior therapy	is monitored by	skill acquisition
+anxiety disorders	lead to	functional impairment
+mood disorders	lead to	functional impairment
+personality disorders	lead to	functional impairment
+psychotic disorders	lead to	functional impairment
+SSRIs	are prescribed with	psychotherapy
+CBT	is prescribed with	pharmacotherapy
+mood stabilizers	are prescribed with	psychotherapy
+antipsychotics	are prescribed with	psychosocial support
+dialectical behavior therapy	is prescribed with	medication
+anxiety disorders	are screened by	PHQ‑9
+mood disorders	are screened by	PHQ‑9
+personality disorders	are screened by	MMPI‑2

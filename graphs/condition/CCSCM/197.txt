@@ -1,0 +1,100 @@
+skin and subcutaneous tissue infections	are caused by	bacteria
+skin and subcutaneous tissue infections	are caused by	fungi
+skin and subcutaneous tissue infections	are caused by	viruses
+skin and subcutaneous tissue infections	are caused by	parasites
+skin and subcutaneous tissue infections	are caused by	mycobacteria
+skin and subcutaneous tissue infections	are caused by	staphylococcus aureus
+skin and subcutaneous tissue infections	are caused by	streptococcus pyogenes
+skin and subcutaneous tissue infections	are caused by	pseudomonas aeruginosa
+skin and subcutaneous tissue infections	are caused by	candida albicans
+skin and subcutaneous tissue infections	are caused by	dermatophytes
+skin and subcutaneous tissue infections	are caused by	herpes simplex virus
+skin and subcutaneous tissue infections	are caused by	human papillomavirus
+skin and subcutaneous tissue infections	are caused by	mycobacterium tuberculosis
+skin and subcutaneous tissue infections	are caused by	trichophyton rubrum
+skin and subcutaneous tissue infections	are caused by	tinea versicolor
+skin and subcutaneous tissue infections	are caused by	scabies mite
+skin and subcutaneous tissue infections	are caused by	lice
+skin and subcutaneous tissue infections	are caused by	arthropod bites
+skin and subcutaneous tissue infections	are caused by	insect stings
+skin and subcutaneous tissue infections	are caused by	trauma
+skin and subcutaneous tissue infections	are caused by	surgery
+skin and subcutaneous tissue infections	are caused by	catheter insertion
+skin and subcutaneous tissue infections	are caused by	intravenous drug use
+skin and subcutaneous tissue infections	are caused by	burns
+skin and subcutaneous tissue infections	are caused by	pressure ulcers
+skin and subcutaneous tissue infections	are caused by	diabetic foot ulcers
+skin and subcutaneous tissue infections	are caused by	immunosuppression
+skin and subcutaneous tissue infections	are caused by	HIV infection
+skin and subcutaneous tissue infections	are caused by	chemotherapy
+skin and subcutaneous tissue infections	are caused by	organ transplantation
+skin and subcutaneous tissue infections	are treated with	antibiotics
+skin and subcutaneous tissue infections	are treated with	antifungals
+skin and subcutaneous tissue infections	are treated with	antivirals
+skin and subcutaneous tissue infections	are treated with	antiparasitics
+skin and subcutaneous tissue infections	are treated with	wound care
+skin and subcutaneous tissue infections	are treated with	debridement
+skin and subcutaneous tissue infections	are treated with	drainage
+skin and subcutaneous tissue infections	are treated with	incision
+skin and subcutaneous tissue infections	are treated with	compression
+skin and subcutaneous tissue infections	are treated with	hyperbaric oxygen
+skin and subcutaneous tissue infections	are treated with	topical steroids
+skin and subcutaneous tissue infections	are treated with	systemic steroids
+skin and subcutaneous tissue infections	are treated with	immunoglobulin
+skin and subcutaneous tissue infections	are treated with	surgical excision
+skin and subcutaneous tissue infections	are treated with	cryotherapy
+skin and subcutaneous tissue infections	are treated with	laser therapy
+skin and subcutaneous tissue infections	are treated with	phototherapy
+skin and subcutaneous tissue infections	are treated with	oral corticosteroids
+skin and subcutaneous tissue infections	are treated with	intravenous immunoglobulin
+skin and subcutaneous tissue infections	are treated with	antibiotics prophylaxis
+skin and subcutaneous tissue infections	are associated with	cellulitis
+skin and subcutaneous tissue infections	are associated with	abscess
+skin and subcutaneous tissue infections	are associated with	necrotizing fasciitis
+skin and subcutaneous tissue infections	are associated with	erysipelas
+skin and subcutaneous tissue infections	are associated with	impetigo
+skin and subcutaneous tissue infections	are associated with	folliculitis
+skin and subcutaneous tissue infections	are associated with	furunculosis
+skin and subcutaneous tissue infections	are associated with	carbuncles
+skin and subcutaneous tissue infections	are associated with	myositis
+skin and subcutaneous tissue infections	are associated with	lymphangitis
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	diabetes
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	venous stasis
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	obesity
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	peripheral vascular disease
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	trauma
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	immunosuppression
+skin and subcutaneous tissue infections	are associated with	cellulitis risk	age
+skin and subcutaneous tissue infections	are associated with	abscess risk	diabetes
+skin and subcutaneous tissue infections	are associated with	abscess risk	intravenous drug use
+skin and subcutaneous tissue infections	are associated with	abscess risk	trauma
+skin and subcutaneous tissue infections	are associated with	abscess risk	immunosuppression
+skin and subcutaneous tissue infections	are associated with	necrotizing fasciitis risk	diabetes
+skin and subcutaneous tissue infections	are associated with	necrotizing fasciitis risk	trauma
+skin and subcutaneous tissue infections	are associated with	necrotizing fasciitis risk	immunosuppression
+skin and subcutaneous tissue infections	are associated with	impetigo risk	children
+skin and subcutaneous tissue infections	are associated with	impetigo risk	crowded living
+skin and subcutaneous tissue infections	are associated with	impetigo risk	hygiene
+skin and subcutaneous tissue infections	are associated with	folliculitis risk	shaving
+skin and subcutaneous tissue infections	are associated with	folliculitis risk	hot tubs
+skin and subcutaneous tissue infections	are associated with	folliculitis risk	immunosuppression
+skin and subcutaneous tissue infections	are associated with	fungal infection risk	tinea pedis
+skin and subcutaneous tissue infections	are associated with	fungal infection risk	moist environment
+skin and subcutaneous tissue infections	are associated with	viral infection risk	sunburn
+skin and subcutaneous tissue infections	are associated with	viral infection risk	immunosuppression
+skin and subcutaneous tissue infections	are associated with	parasite infection risk	lice
+skin and subcutaneous tissue infections	are associated with	parasite infection risk	scabies
+skin and subcutaneous tissue infections	are associated with	parasite infection risk	tropical climate
+skin and subcutaneous tissue infections	are associated with	antibiotic resistance	MRSA
+skin and subcutaneous tissue infections	are associated with	antibiotic resistance	VRE
+skin and subcutaneous tissue infections	are associated with	antibiotic resistance	ESBL
+skin and subcutaneous tissue infections	are associated with	antibiotic resistance	carbapenemase
+skin and subcutaneous tissue infections	are associated with	antifungal resistance	fluconazole
+skin and subcutaneous tissue infections	are associated with	antifungal resistance	terbinafine
+skin and subcutaneous tissue infections	are associated with	antiviral resistance	acyclovir
+skin and subcutaneous tissue infections	are associated with	antiviral resistance	ganciclovir
+skin and subcutaneous tissue infections	are associated with	immunosuppressive therapy	increased risk
+skin and subcutaneous tissue infections	are associated with	surgical site infection	increased risk
+skin and subcutaneous tissue infections	are associated with	hospital stay	increased length
+skin and subcutaneous tissue infections	are associated with	mortality	increased risk
+skin and subcutaneous tissue infections	are associated with	readmission	increased risk

@@ -1,0 +1,100 @@
+inflammatory diseases of female pelvic organs	is a	gynecologic condition
+inflammatory diseases of female pelvic organs	includes	pelvic inflammatory disease
+pelvic inflammatory disease	is a	bacterial infection
+pelvic inflammatory disease	is caused by	Chlamydia trachomatis
+pelvic inflammatory disease	is caused by	Neisseria gonorrhoeae
+pelvic inflammatory disease	is treated with	antibiotics
+antibiotics	reduce	bacterial load
+antibiotics	improve	symptom resolution
+antibiotics	prevent	infertility
+infertility	is a	complication of
+infertility	is associated with	ectopic pregnancy
+ectopic pregnancy	increases	maternal mortality
+maternal mortality	is a	public health metric
+public health metric	informs	resource allocation
+resource allocation	affects	hospital readmission rates
+hospital readmission rates	predict	quality of care
+quality of care	influences	patient satisfaction
+patient satisfaction	correlates with	adherence to therapy
+adherence to therapy	predicts	treatment success
+treatment success	reduces	chronic pain
+chronic pain	is a	predictor of depression
+depression	is associated with	reduced immune function
+reduced immune function	increases	infection risk
+infection risk	leads to	recurrent pelvic inflammatory disease
+recurrent pelvic inflammatory disease	increases	surgical intervention
+surgical intervention	includes	salpingectomy
+salpingectomy	reduces	ectopic pregnancy risk
+ectopic pregnancy risk	is a	factor in fertility counseling
+fertility counseling	involves	assisted reproductive technology
+assisted reproductive technology	includes	in vitro fertilization
+in vitro fertilization	requires	ovarian stimulation
+ovarian stimulation	uses	gonadotropins
+gonadotropins	are a	hormone therapy
+hormone therapy	can cause	ovarian hyperstimulation syndrome
+ovarian hyperstimulation syndrome	is a	medical emergency
+medical emergency	requires	intensive care
+intensive care	improves	survival rates
+survival rates	are measured by	mortality statistics
+mortality statistics	inform	clinical guidelines
+clinical guidelines	recommend	antibiotic stewardship
+antibiotic stewardship	reduces	antimicrobial resistance
+antimicrobial resistance	leads to	treatment failure
+treatment failure	results in	prolonged hospitalization
+prolonged hospitalization	increases	healthcare costs
+healthcare costs	affect	insurance coverage
+insurance coverage	determines	access to care
+access to care	influences	disease progression
+disease progression	is monitored by	imaging
+imaging	includes	ultrasound
+ultrasound	detects	tubo-ovarian abscess
+tubo-ovarian abscess	requires	surgical drainage
+surgical drainage	is performed during	laparoscopy
+laparoscopy	is a	minimally invasive surgery
+minimally invasive surgery	reduces	postoperative pain
+postoperative pain	is managed with	analgesics
+analgesics	include	NSAIDs
+NSAIDs	can cause	gastrointestinal bleeding
+gastrointestinal bleeding	necessitates	endoscopy
+endoscopy	is a	diagnostic procedure
+diagnostic procedure	guides	treatment plan
+treatment plan	is tailored by	risk stratification
+risk stratification	uses	clinical scoring
+clinical scoring	incorporates	CRP levels
+CRP levels	indicate	inflammation severity
+inflammation severity	predicts	need for hospitalization
+hospitalization	is associated with	patient demographics
+patient demographics	include	age
+age	affects	disease prevalence
+disease prevalence	informs	public health policy
+public health policy	sets	screening guidelines
+screening guidelines	recommend	routine STI testing
+STI testing	detects	asymptomatic infections
+asymptomatic infections	reduce	transmission
+transmission	is measured by	incidence rates
+incidence rates	influence	vaccination strategies
+vaccination strategies	target	Chlamydia vaccine
+Chlamydia vaccine	is under	clinical trials
+clinical trials	assess	efficacy
+efficacy	determines	approval status
+approval status	affects	drug availability
+drug availability	impacts	prescribing patterns
+prescribing patterns	are guided by	evidence-based guidelines
+evidence-based guidelines	are updated by	systematic reviews
+systematic reviews	compile	meta-analyses
+meta-analyses	provide	pooled effect sizes
+pooled effect sizes	inform	risk-benefit assessment
+risk-benefit assessment	guides	clinical decision
+clinical decision	influences	patient outcomes
+patient outcomes	are tracked by	electronic health records
+electronic health records	enable	predictive analytics
+predictive analytics	forecast	readmission risk
+readmission risk	is used for	care coordination
+care coordination	improves	continuity of care
+continuity of care	reduces	adverse events
+adverse events	lower	mortality
+mortality	is a	key performance indicator
+key performance indicator	drives	quality improvement
+quality improvement	leads to	better resource utilization
+resource utilization	supports	sustainable healthcare
+sustainable healthcare	ensures	long-term patient access

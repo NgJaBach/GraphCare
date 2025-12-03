@@ -1,0 +1,100 @@
+peripheral atherosclerosis	is a	cardiovascular disease
+visceral atherosclerosis	is a	cardiovascular disease
+atherosclerosis	causes	arterial stenosis
+arterial stenosis	leads to	ischemia
+ischemia	results in	tissue damage
+tissue damage	increases risk of	infection
+infection	may cause	sepsis
+sepsis	predicts	mortality
+arterial stenosis	predicts	heart failure
+heart failure	predicts	readmission
+peripheral atherosclerosis	is associated with	claudication
+claudication	indicates	reduced blood flow
+reduced blood flow	predicts	ulcer formation
+ulcer formation	requires	wound care
+wound care	reduces	amputation risk
+amputation risk	predicts	mortality
+visceral atherosclerosis	is linked to	mesenteric ischemia
+mesenteric ischemia	causes	abdominal pain
+abdominal pain	leads to	emergency surgery
+emergency surgery	increases	postoperative complications
+postoperative complications	predict	readmission
+atherosclerosis	is a risk factor for	stroke
+stroke	predicts	long‑term disability
+long‑term disability	predicts	mortality
+atherosclerosis	is associated with	hypertension
+hypertension	is treated with	beta‑blockers
+beta‑blockers	reduce	mortality
+beta‑blockers	increase	adherence
+adherence	predicts	treatment success
+treatment success	reduces	readmission
+atherosclerosis	is associated with	hyperlipidemia
+hyperlipidemia	is treated with	statins
+statins	reduce	LDL
+LDL	predicts	plaque progression
+plaque progression	predicts	restenosis
+restenosis	requires	angioplasty
+angioplasty	reduces	restenosis
+restenosis	predicts	mortality
+angioplasty	is a	minimally invasive procedure
+minimally invasive procedure	reduces	hospital stay
+hospital stay	predicts	readmission
+atherosclerosis	is associated with	diabetes
+diabetes	is treated with	insulin
+insulin	reduces	hyperglycemia
+hyperglycemia	predicts	infection
+infection	predicts	readmission
+diabetes	increases	cardiovascular risk
+cardiovascular risk	predicts	mortality
+atherosclerosis	is associated with	obesity
+obesity	is treated with	lifestyle modification
+lifestyle modification	reduces	weight
+weight	predicts	blood pressure
+blood pressure	predicts	stroke
+stroke	predicts	mortality
+atherosclerosis	is associated with	smoking
+smoking	increases	plaque formation
+plaque formation	predicts	restenosis
+restenosis	predicts	mortality
+smoking	is treated with	nicotine replacement
+nicotine replacement	reduces	relapse
+relapse	predicts	readmission
+atherosclerosis	is associated with	chronic kidney disease
+chronic kidney disease	predicts	cardiovascular events
+cardiovascular events	predict	mortality
+chronic kidney disease	is treated with	ACE inhibitors
+ACE inhibitors	reduce	proteinuria
+proteinuria	predicts	progression
+progression	predicts	mortality
+atherosclerosis	is associated with	inflammation
+inflammation	is measured by	CRP
+CRP	predicts	plaque rupture
+plaque rupture	causes	myocardial infarction
+myocardial infarction	predicts	mortality
+myocardial infarction	treated with	thrombolytics
+thrombolytics	reduce	infarct size
+infarct size	predicts	heart failure
+heart failure	predicts	readmission
+atherosclerosis	is associated with	endothelial dysfunction
+endothelial dysfunction	predicts	atherogenesis
+atherogenesis	predicts	plaque burden
+plaque burden	predicts	restenosis
+restenosis	predicts	mortality
+atherosclerosis	is associated with	platelet activation
+platelet activation	is treated with	antiplatelets
+antiplatelets	reduce	thrombus formation
+thrombus formation	predicts	stroke
+stroke	predicts	mortality
+atherosclerosis	is associated with	oxidative stress
+oxidative stress	is measured by	malondialdehyde
+malondialdehyde	predicts	endothelial dysfunction
+endothelial dysfunction	predicts	atherogenesis
+atherogenesis	predicts	plaque progression
+plaque progression	predicts	restenosis
+restenosis	predicts	mortality
+peripheral atherosclerosis	is treated with	supervised exercise
+supervised exercise	improves	walking distance
+walking distance	predicts	quality of life
+quality of life	predicts	mortality
+visceral atherosclerosis	is treated with	dietary modification
+dietary modification	reduces	cholesterol

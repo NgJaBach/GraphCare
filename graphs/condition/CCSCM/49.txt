@@ -1,0 +1,100 @@
+diabetes mellitus	is a	metabolic disorder
+diabetes mellitus	causes	hyperglycemia
+hyperglycemia	leads to	glucosuria
+glucosuria	indicates	kidney filtration
+diabetes mellitus	is diagnosed by	HbA1c
+HbA1c	measures	average glucose
+average glucose	reflects	glycemic control
+glycemic control	predicts	microvascular risk
+microvascular risk	includes	retinopathy
+microvascular risk	includes	nephropathy
+microvascular risk	includes	neuropathy
+diabetes mellitus	increases	cardiovascular risk
+cardiovascular risk	leads to	coronary artery disease
+coronary artery disease	causes	myocardial infarction
+myocardial infarction	results in	mortality
+diabetes mellitus	is treated with	metformin
+metformin	is a	biguanide
+biguanide	reduces	hepatic gluconeogenesis
+hepatic gluconeogenesis	lowers	fasting glucose
+diabetes mellitus	is treated with	sulfonylureas
+sulfonylureas	stimulate	insulin secretion
+insulin secretion	improves	postprandial glucose
+postprandial glucose	affects	glycemic variability
+glycemic variability	predicts	hypoglycemia
+hypoglycemia	causes	seizures
+diabetes mellitus	is treated with	insulin
+insulin	is a	peptide hormone
+peptide hormone	binds	insulin receptor
+insulin receptor	activates	PI3K pathway
+PI3K pathway	promotes	glucose uptake
+glucose uptake	occurs in	muscle
+muscle	stores	glycogen
+glycogen	is synthesized by	glycogen synthase
+glycogen synthase	is activated by	insulin
+diabetes mellitus	is associated with	obesity
+obesity	increases	insulin resistance
+insulin resistance	reduces	glucose uptake
+glucose uptake	is measured by	glucose tolerance test
+glucose tolerance test	predicts	type 2 diabetes
+type 2 diabetes	is a	chronic disease
+chronic disease	requires	lifestyle modification
+lifestyle modification	includes	diet
+diet	reduces	caloric intake
+caloric intake	lowers	weight
+weight	decreases	insulin resistance
+diabetes mellitus	is linked to	hypertension
+hypertension	causes	stroke
+stroke	leads to	disability
+diabetes mellitus	is linked to	dyslipidemia
+dyslipidemia	includes	high LDL
+high LDL	promotes	atherosclerosis
+atherosclerosis	results in	peripheral artery disease
+peripheral artery disease	causes	claudication
+claudication	indicates	reduced blood flow
+reduced blood flow	leads to	ulceration
+ulceration	requires	wound care
+wound care	involves	debridement
+debridement	improves	healing
+healing	is delayed by	hyperglycemia
+hyperglycemia	impairs	immune function
+immune function	reduces	infection risk
+infection risk	increases	sepsis
+sepsis	predicts	mortality
+diabetes mellitus	is monitored by	fasting glucose
+fasting glucose	is measured in	clinic
+clinic	provides	patient education
+patient education	improves	adherence
+adherence	reduces	complications
+complications	include	foot ulcers
+foot ulcers	require	amputation
+amputation	leads to	loss of ambulation
+loss of ambulation	reduces	quality of life
+quality of life	is assessed by	SF-36
+SF-36	scores	physical component
+physical component	correlates with	mobility
+mobility	predicts	readmission
+readmission	is a	healthcare cost
+healthcare cost	is reduced by	telemedicine
+telemedicine	enables	remote monitoring
+remote monitoring	tracks	glucose levels
+glucose levels	inform	medication adjustment
+medication adjustment	improves	glycemic control
+glycemic control	lowers	hypoglycemia episodes
+hypoglycemia episodes	decrease	emergency visits
+emergency visits	reduce	hospital stays
+hospital stays	shorten	length of stay
+length of stay	is a	readmission predictor
+readmission predictor	informs	discharge planning
+discharge planning	includes	home health
+home health	supports	self-management
+self-management	increases	self-efficacy
+self-efficacy	predicts	adherence
+adherence	lowers	HbA1c
+HbA1c	is a	prognostic marker
+prognostic marker	guides	therapy choice
+therapy choice	selects	drug class
+drug class	determines	side effect profile
+side effect profile	affects	patient preference
+patient preference	influences	treatment success
+treatment success	reduces	mortality

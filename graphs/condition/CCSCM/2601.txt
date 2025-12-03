@@ -1,0 +1,100 @@
+cut/pierceb	is an	E‑code
+cut/pierceb	represents	cut injury
+cut/pierceb	represents	piercing injury
+cut/pierceb	is used in	ICD‑10 coding
+cut/pierceb	is used in	emergency coding
+cut/pierceb	is used in	trauma reporting
+cut/pierceb	is used in	billing
+cut/pierceb	is used in	medical record
+cut/pierceb	is used in	insurance claim
+cut/pierceb	is used in	risk assessment
+cut/pierceb	is used in	injury surveillance
+cut/pierceb	is used in	public health
+cut/pierceb	is used in	research
+cut/pierceb	is used in	quality metrics
+cut/pierceb	is used in	clinical decision
+cut/pierceb	is used in	trauma triage
+cut/pierceb	is used in	triage scoring
+cut/pierceb	is used in	outcome prediction
+cut/pierceb	is used in	readmission risk
+cut/pierceb	is used in	mortality risk
+cut/pierceb	is used in	length‑of‑stay prediction
+cut/pierceb	is used in	cost estimation
+cut/pierceb	is used in	resource allocation
+cut/pierceb	is used in	staffing plan
+cut/pierceb	is used in	surgical planning
+cut/pierceb	is used in	wound care
+cut/pierceb	is used in	infection risk
+cut/pierceb	is used in	antibiotic selection
+cut/pierceb	is used in	prophylaxis
+cut/pierceb	is used in	tetanus risk
+cut/pierceb	is used in	wound closure
+cut/pierceb	is used in	suturing
+cut/pierceb	is used in	staples
+cut/pierceb	is used in	skin adhesive
+cut/pierceb	is used in	negative‑pressure therapy
+cut/pierceb	is used in	dressing selection
+cut/pierceb	is used in	pain management
+cut/pierceb	is used in	analgesic choice
+cut/pierceb	is used in	opioid prescription
+cut/pierceb	is used in	non‑opioid therapy
+cut/pierceb	is used in	patient education
+cut/pierceb	is used in	discharge planning
+cut/pierceb	is used in	follow‑up scheduling
+cut/pierceb	is used in	telehealth
+cut/pierceb	is used in	home health
+cut/pierceb	is used in	rehabilitation
+cut/pierceb	is used in	occupational therapy
+cut/pierceb	is used in	physical therapy
+cut/pierceb	is used in	mental health
+cut/pierceb	is used in	counseling
+cut/pierceb	is used in	substance use screening
+cut/pierceb	is used in	suicide risk
+cut/pierceb	is used in	trauma registry
+cut/pierceb	is used in	quality improvement
+cut/pierceb	is used in	benchmarking
+cut/pierceb	is used in	performance measurement
+cut/pierceb	is used in	benchmarking
+cut/pierceb	is used in	clinical audit
+cut/pierceb	is used in	data mining
+cut/pierceb	is used in	predictive modeling
+cut/pierceb	is used in	machine learning
+cut/pierceb	is used in	natural language processing
+cut/pierceb	is used in	electronic health record
+cut/pierceb	is used in	clinical documentation
+cut/pierceb	is used in	coding accuracy
+cut/pierceb	is used in	audit compliance
+cut/pierceb	is used in	fraud detection
+cut/pierceb	is used in	payment adjustment
+cut/pierceb	is used in	reimbursement
+cut/pierceb	is used in	policy analysis
+cut/pierceb	is used in	health economics
+cut/pierceb	is used in	cost‑effectiveness
+cut/pierceb	is used in	budget impact
+cut/pierceb	is used in	resource utilization
+cut/pierceb	is used in	staffing model
+cut/pierceb	is used in	capacity planning
+cut/pierceb	is used in	emergency department flow
+cut/pierceb	is used in	triage protocol
+cut/pierceb	is used in	patient safety
+cut/pierceb	is used in	error reduction
+cut/pierceb	is used in	incident reporting
+cut/pierceb	is used in	root cause analysis
+cut/pierceb	is used in	safety culture
+cut/pierceb	is used in	training
+cut/pierceb	is used in	simulation
+cut/pierceb	is used in	competency assessment
+cut/pierceb	is used in	credentialing
+cut/pierceb	is used in	performance review
+cut/pierceb	is used in	quality dashboard
+cut/pierceb	is used in	dashboard analytics
+cut/pierceb	is used in	real‑time monitoring
+cut/pierceb	is used in	alert system
+cut/pierceb	is used in	decision support
+cut/pierceb	is used in	guideline adherence
+cut/pierceb	is used in	evidence‑based practice
+cut/pierceb	is used in	clinical pathway
+cut/pierceb	is used in	care bundle
+cut/pierceb	is used in	protocol compliance
+cut/pierceb	is used in	outcome tracking
+cut/pierceb	is used in	patient registry

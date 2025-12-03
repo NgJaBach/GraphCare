@@ -1,0 +1,100 @@
+infancy	is a period of	rapid growth
+infancy	is a period of	neurodevelopment
+infancy	is a period of	immune maturation
+infancy	is a period of	hormonal change
+infancy	is a period of	feeding transition
+infancy	is a period of	motor development
+infancy	is a period of	language acquisition
+infancy	is a period of	attachment formation
+infancy	is a period of	sensory integration
+infancy	is a period of	sleep regulation
+infant	requires	newborn screening
+infant	requires	immunization schedule
+infant	requires	developmental assessment
+infant	requires	feeding evaluation
+infant	requires	growth monitoring
+infant	is at risk for	congenital heart disease
+infant	is at risk for	metabolic disorder
+infant	is at risk for	genetic syndrome
+infant	is at risk for	chromosomal abnormality
+infant	is at risk for	inborn error of metabolism
+congenital heart disease	is diagnosed with	echocardiogram
+congenital heart disease	is treated with	cardiac surgery
+congenital heart disease	is treated with	medication
+congenital heart disease	may lead to	heart failure
+congenital heart disease	may lead to	arrhythmia
+metabolic disorder	is diagnosed with	newborn screening
+metabolic disorder	is treated with	dietary restriction
+metabolic disorder	is treated with	enzyme replacement
+metabolic disorder	may lead to	developmental delay
+metabolic disorder	may lead to	organ failure
+genetic syndrome	is diagnosed with	karyotype
+genetic syndrome	is diagnosed with	microarray
+genetic syndrome	is treated with	supportive care
+genetic syndrome	may lead to	growth retardation
+genetic syndrome	may lead to	intellectual disability
+chromosomal abnormality	is diagnosed with	FISH
+chromosomal abnormality	is diagnosed with	array CGH
+chromosomal abnormality	is treated with	growth hormone
+chromosomal abnormality	may lead to	congenital malformation
+chromosomal abnormality	may lead to	feeding difficulty
+inborn error of metabolism	is diagnosed with	plasma amino acids
+inborn error of metabolism	is diagnosed with	urine organic acids
+inborn error of metabolism	is treated with	vitamin supplementation
+inborn error of metabolism	is treated with	pharmacologic therapy
+inborn error of metabolism	may lead to	seizures
+neonatal sepsis	is diagnosed with	blood culture
+neonatal sepsis	is treated with	antibiotics
+neonatal sepsis	is treated with	supportive care
+neonatal sepsis	may lead to	organ dysfunction
+neonatal sepsis	may lead to	mortality
+hypothyroidism	is diagnosed with	TSH test
+hypothyroidism	is treated with	levothyroxine
+hypothyroidism	may lead to	growth failure
+hypothyroidism	may lead to	developmental delay
+neonatal jaundice	is diagnosed with	bilirubin level
+neonatal jaundice	is treated with	phototherapy
+neonatal jaundice	may lead to	kernicterus
+neonatal jaundice	may lead to	hearing loss
+respiratory distress syndrome	is diagnosed with	chest X‑ray
+respiratory distress syndrome	is treated with	surfactant
+respiratory distress syndrome	is treated with	CPAP
+respiratory distress syndrome	may lead to	chronic lung disease
+respiratory distress syndrome	may lead to	mortality
+neonatal abstinence syndrome	is diagnosed with	clinical scoring
+neonatal abstinence syndrome	is treated with	opioid taper
+neonatal abstinence syndrome	is treated with	supportive care
+neonatal abstinence syndrome	may lead to	neurodevelopmental impairment
+neonatal abstinence syndrome	may lead to	feeding difficulty
+congenital diaphragmatic hernia	is diagnosed with	prenatal ultrasound
+congenital diaphragmatic hernia	is treated with	surgical repair
+congenital diaphragmatic hernia	may lead to	pulmonary hypertension
+congenital diaphragmatic hernia	may lead to	mortality
+spina bifida	is diagnosed with	prenatal ultrasound
+spina bifida	is treated with	surgical closure
+spina bifida	may lead to	hydrocephalus
+spina bifida	may lead to	motor impairment
+neonatal abstinence syndrome	is associated with	maternal opioid use
+neonatal abstinence syndrome	is associated with	neonatal withdrawal
+neonatal abstinence syndrome	is associated with	prolonged hospitalization
+neonatal abstinence syndrome	is associated with	readmission risk
+infant	is monitored for	weight gain
+infant	is monitored for	head circumference
+infant	is monitored for	developmental milestones
+infant	is monitored for	feeding tolerance
+infant	is monitored for	sleep patterns
+infant	is screened for	cystic fibrosis
+infant	is screened for	phenylketonuria
+infant	is screened for	galactosemia
+infant	is screened for	congenital hypothyroidism
+infant	is screened for	congenital adrenal hyperplasia
+infant	is treated with	vitamin K injection
+infant	is treated with	iron supplementation
+infant	is treated with	vitamin D supplementation
+infant	is treated with	probiotic
+infant	is treated with	breastfeeding support
+infant	may develop	feeding aversion
+infant	may develop	failure to thrive
+infant	may develop	developmental delay
+infant	may develop	hearing loss
+infant	may develop	vision impairment

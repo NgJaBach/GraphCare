@@ -1,0 +1,100 @@
+chronic kidney disease	is a	progressive renal failure
+chronic kidney disease	causes	hypertension
+chronic kidney disease	leads to	anemia
+chronic kidney disease	results in	electrolyte imbalance
+chronic kidney disease	increases risk of	cardiovascular disease
+chronic kidney disease	is diagnosed by	serum creatinine
+chronic kidney disease	is staged by	estimated glomerular filtration rate
+chronic kidney disease	is staged by	albuminuria
+chronic kidney disease	is treated with	ACE inhibitor
+chronic kidney disease	is treated with	ARB
+chronic kidney disease	is treated with	diuretic
+chronic kidney disease	is treated with	phosphate binder
+chronic kidney disease	is treated with	erythropoietin
+chronic kidney disease	is treated with	vitamin D analog
+chronic kidney disease	is treated with	dietary sodium restriction
+chronic kidney disease	is treated with	protein restriction
+chronic kidney disease	is treated with	potassium restriction
+chronic kidney disease	is treated with	fluid restriction
+chronic kidney disease	is treated with	blood pressure control
+chronic kidney disease	is treated with	weight management
+chronic kidney disease	is treated with	smoking cessation
+chronic kidney disease	is treated with	exercise
+chronic kidney disease	is treated with	glycemic control
+chronic kidney disease	is treated with	lipid control
+chronic kidney disease	is treated with	statin
+chronic kidney disease	is treated with	aspirin
+chronic kidney disease	is treated with	anticoagulation
+chronic kidney disease	is treated with	immunosuppressant
+chronic kidney disease	is treated with	corticosteroid
+chronic kidney disease	is treated with	plasmapheresis
+chronic kidney disease	is treated with	dialysis
+chronic kidney disease	is treated with	kidney transplant
+chronic kidney disease	is associated with	diabetic nephropathy
+chronic kidney disease	is associated with	hypertensive nephrosclerosis
+chronic kidney disease	is associated with	glomerulonephritis
+chronic kidney disease	is associated with	polycystic kidney disease
+chronic kidney disease	is associated with	obstructive uropathy
+chronic kidney disease	is associated with	nephrolithiasis
+chronic kidney disease	is associated with	NSAID use
+chronic kidney disease	is associated with	contrast nephropathy
+chronic kidney disease	is associated with	acute kidney injury
+chronic kidney disease	is associated with	chronic inflammation
+chronic kidney disease	is associated with	oxidative stress
+chronic kidney disease	is associated with	uremic toxins
+chronic kidney disease	is associated with	metabolic acidosis
+chronic kidney disease	is associated with	bone disease
+chronic kidney disease	is associated with	pruritus
+chronic kidney disease	is associated with	restless leg syndrome
+chronic kidney disease	is associated with	sleep apnea
+chronic kidney disease	is associated with	depression
+chronic kidney disease	is associated with	anxiety
+chronic kidney disease	is associated with	malnutrition
+chronic kidney disease	is associated with	hyperphosphatemia
+chronic kidney disease	is associated with	hyperkalemia
+chronic kidney disease	is associated with	hypocalcemia
+chronic kidney disease	is associated with	hyperuricemia
+chronic kidney disease	is associated with	gout
+chronic kidney disease	is associated with	anemia of chronic disease
+chronic kidney disease	is associated with	vitamin D deficiency
+chronic kidney disease	is associated with	secondary hyperparathyroidism
+chronic kidney disease	is associated with	proteinuria
+chronic kidney disease	is associated with	hematuria
+chronic kidney disease	is associated with	oliguria
+chronic kidney disease	is associated with	anuria
+chronic kidney disease	is associated with	edema
+chronic kidney disease	is associated with	hypertension
+chronic kidney disease	is associated with	hyperlipidemia
+chronic kidney disease	is associated with	hyperuricemia
+chronic kidney disease	is associated with	cardiovascular mortality
+chronic kidney disease	is associated with	all-cause mortality
+chronic kidney disease	is associated with	readmission risk
+chronic kidney disease	is associated with	infection risk
+chronic kidney disease	is associated with	sepsis risk
+chronic kidney disease	is associated with	wound healing delay
+chronic kidney disease	is associated with	drug toxicity
+chronic kidney disease	is associated with	medication dosing adjustment
+chronic kidney disease	is associated with	polypharmacy
+chronic kidney disease	is associated with	medication nonadherence
+chronic kidney disease	is associated with	health care utilization
+chronic kidney disease	is associated with	cost burden
+chronic kidney disease	is associated with	quality of life decline
+chronic kidney disease	is associated with	caregiver burden
+chronic kidney disease	is associated with	social isolation
+chronic kidney disease	is associated with	cognitive decline
+chronic kidney disease	is associated with	frailty
+chronic kidney disease	is associated with	falls risk
+chronic kidney disease	is associated with	bone fractures
+chronic kidney disease	is associated with	osteoporosis
+chronic kidney disease	is associated with	vascular calcification
+chronic kidney disease	is associated with	atherosclerosis
+chronic kidney disease	is associated with	coronary artery disease
+chronic kidney disease	is associated with	heart failure
+chronic kidney disease	is associated with	arrhythmia
+chronic kidney disease	is associated with	sudden cardiac death
+chronic kidney disease	is associated with	dialysis initiation
+chronic kidney disease	is associated with	transplant eligibility
+chronic kidney disease	is associated with	immunosuppression
+chronic kidney disease	is associated with	rejection risk
+chronic kidney disease	is associated with	graft survival
+chronic kidney disease	is associated with	patient education

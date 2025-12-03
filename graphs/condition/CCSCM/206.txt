@@ -1,0 +1,100 @@
+osteoporosis	is a	bone disease
+osteoporosis	causes	bone loss
+osteoporosis	increases	fracture risk
+osteoporosis	is diagnosed by	DEXA scan
+DEXA scan	measures	bone density
+bone density	is expressed as	T‑score
+T‑score	indicates	osteoporosis severity
+osteoporosis	is common in	postmenopausal women
+osteoporosis	is common in	elderly men
+osteoporosis	is caused by	estrogen deficiency
+estrogen deficiency	leads to	increased bone resorption
+bone resorption	is mediated by	osteoclasts
+osteoclasts	are activated by	RANK‑L
+RANK‑L	is inhibited by	denosumab
+denosumab	is a	monoclonal antibody
+denosumab	reduces	fracture incidence
+osteoporosis	is treated with	bisphosphonates
+bisphosphonates	are a	class of drugs
+bisphosphonates	include	alendronate
+alendronate	is taken	orally
+alendronate	reduces	bone turnover
+bisphosphonates	include	zoledronic acid
+zoledronic acid	is given	intravenously
+zoledronic acid	improves	bone mineral density
+osteoporosis	is treated with	selective estrogen receptor modulators
+SERMs	include	raloxifene
+raloxifene	reduces	vertebral fractures
+osteoporosis	is treated with	parathyroid hormone
+parathyroid hormone	includes	teriparatide
+teriparatide	stimulates	bone formation
+osteoporosis	is treated with	calcitonin
+calcitonin	is a	hormone
+osteoporosis	is treated with	vitamin D
+vitamin D	is required for	calcium absorption
+vitamin D	is measured by	serum 25‑OH‑D
+serum 25‑OH‑D	indicates	vitamin D status
+vitamin D	is supplemented with	cholecalciferol
+cholecalciferol	is vitamin D3
+osteoporosis	is treated with	calcium
+calcium	is a	mineral
+calcium	is absorbed in	small intestine
+osteoporosis	is associated with	low body mass index
+low BMI	predicts	fracture risk
+osteoporosis	is associated with	smoking
+smoking	increases	bone loss
+osteoporosis	is associated with	alcohol use
+alcohol use	impairs	bone formation
+osteoporosis	is associated with	corticosteroid use
+corticosteroids	cause	secondary osteoporosis
+secondary osteoporosis	is caused by	chronic disease
+osteoporosis	is associated with	rheumatoid arthritis
+rheumatoid arthritis	is treated with	methotrexate
+methotrexate	can cause	bone toxicity
+osteoporosis	is associated with	chronic kidney disease
+chronic kidney disease	reduces	vitamin D activation
+osteoporosis	is associated with	malabsorption syndromes
+malabsorption	reduces	calcium absorption
+osteoporosis	is associated with	hypogonadism
+hypogonadism	leads to	decreased estrogen
+osteoporosis	is associated with	thyroid disorders
+hyperthyroidism	increases	bone turnover
+osteoporosis	is associated with	diabetes mellitus
+diabetes	impairs	bone quality
+osteoporosis	is associated with	chronic inflammation
+chronic inflammation	increases	cytokine production
+cytokines	stimulate	osteoclast activity
+osteoporosis	is associated with	low vitamin K
+vitamin K	is required for	osteocalcin carboxylation
+osteocalcin	is a	bone matrix protein
+osteoporosis	is associated with	sedentary lifestyle
+sedentary lifestyle	reduces	mechanical loading
+mechanical loading	stimulates	bone formation
+osteoporosis	is associated with	low protein intake
+protein intake	supports	bone matrix
+osteoporosis	is associated with	high sodium intake
+high sodium	increases	calcium excretion
+osteoporosis	is associated with	high caffeine intake
+caffeine	reduces	calcium absorption
+osteoporosis	is associated with	low vitamin C
+vitamin C	is required for	collagen synthesis
+collagen	is a	bone matrix component
+osteoporosis	is associated with	low magnesium
+magnesium	is required for	bone mineralization
+osteoporosis	is associated with	low zinc
+zinc	is required for	bone growth
+osteoporosis	is associated with	low selenium
+selenium	is an	antioxidant
+osteoporosis	is associated with	low omega‑3
+omega‑3	reduces	inflammation
+osteoporosis	is associated with	high cortisol
+cortisol	increases	bone resorption
+osteoporosis	is associated with	low physical activity
+physical activity	reduces	fracture risk
+osteoporosis	is associated with	low balance
+low balance	increases	fall risk
+fall risk	increases	fracture risk
+osteoporosis	is treated with	exercise
+exercise	includes	weight‑bearing
+weight‑bearing	improves	bone density
+osteoporosis	is monitored by	repeat DEXA

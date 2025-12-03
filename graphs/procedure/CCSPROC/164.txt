@@ -1,0 +1,100 @@
+arthroscopy	is a	surgical procedure
+arthroscopy	treats	joint pain
+arthroscopy	uses	arthroscope
+arthroscopy	reduces	recovery time
+arthroscopy	performed on	knee
+arthroscopy	performed on	shoulder
+arthroscopy	performed on	hip
+arthroscopy	performed on	ankle
+arthroscopy	requires	anesthesia
+arthroscopy	can detect	meniscus tear
+arthroscopy	can detect	labrum tear
+arthroscopy	can detect	cartilage damage
+arthroscopy	can treat	loose body
+arthroscopy	can treat	synovial cyst
+arthroscopy	can treat	osteophyte
+arthroscopy	improves	range of motion
+arthroscopy	lowers	infection risk
+arthroscopy	lowers	blood loss
+arthroscopy	is less invasive than	open surgery
+arthroscopy	is used for	diagnostic evaluation
+arthroscopy	is used for	therapeutic intervention
+arthroscopy	is performed under	local anesthesia
+arthroscopy	is performed under	general anesthesia
+arthroscopy	is performed under	spinal anesthesia
+arthroscopy	is followed by	physical therapy
+arthroscopy	is followed by	rehabilitation
+arthroscopy	is associated with	postoperative pain
+arthroscopy	is associated with	swelling
+arthroscopy	is associated with	stiffness
+arthroscopy	is contraindicated in	severe osteoarthritis
+arthroscopy	is contraindicated in	active infection
+arthroscopy	is contraindicated in	poor wound healing
+arthroscopy	is indicated for	traumatic injury
+arthroscopy	is indicated for	degenerative disease
+arthroscopy	is indicated for	inflammatory arthritis
+arthroscopy	is indicated for	ligament reconstruction
+arthroscopy	is indicated for	tendon repair
+arthroscopy	is indicated for	cartilage restoration
+arthroscopy	is indicated for	meniscal repair
+arthroscopy	is indicated for	labral repair
+arthroscopy	is indicated for	synovectomy
+arthroscopy	is indicated for	debridement
+arthroscopy	is indicated for	osteochondral graft
+arthroscopy	is indicated for	microfracture
+arthroscopy	is indicated for	subacromial decompression
+arthroscopy	is indicated for	rotator cuff repair
+arthroscopy	is indicated for	ankle arthrodesis
+arthroscopy	is indicated for	hip arthroscopy
+arthroscopy	is indicated for	shoulder instability
+arthroscopy	is indicated for	knee instability
+arthroscopy	is indicated for	ankle instability
+arthroscopy	is indicated for	foot deformity
+arthroscopy	is indicated for	wrist arthroscopy
+arthroscopy	is indicated for	elbow arthroscopy
+arthroscopy	is indicated for	patellar tracking
+arthroscopy	is indicated for	patellar instability
+arthroscopy	is indicated for	patellar tendonitis
+arthroscopy	is indicated for	Achilles tendinopathy
+arthroscopy	is indicated for	plantar fasciitis
+arthroscopy	is indicated for	osteochondritis dissecans
+arthroscopy	is indicated for	chondromalacia
+arthroscopy	is indicated for	meniscal cyst
+arthroscopy	is indicated for	meniscal root tear
+arthroscopy	is indicated for	meniscal ramp lesion
+arthroscopy	is indicated for	meniscal ramp repair
+arthroscopy	is indicated for	meniscal meniscus repair
+arthroscopy	is indicated for	meniscal meniscus debridement
+arthroscopy	is indicated for	meniscal meniscus removal
+arthroscopy	is indicated for	meniscal meniscus replacement
+arthroscopy	is indicated for	meniscal meniscus reconstruction
+arthroscopy	is indicated for	meniscal meniscus augmentation
+arthroscopy	is indicated for	meniscal meniscus graft
+arthroscopy	is indicated for	meniscal meniscus repair
+arthroscopy	is indicated for	meniscal meniscus debridement
+arthroscopy	is indicated for	meniscal meniscus removal
+arthroscopy	is indicated for	meniscal meniscus replacement
+arthroscopy	is indicated for	meniscal meniscus reconstruction
+arthroscopy	is indicated for	meniscal meniscus augmentation
+arthroscopy	is indicated for	meniscal meniscus graft
+arthroscopy	is indicated for	meniscal meniscus repair
+arthroscopy	is indicated for	meniscal meniscus debridement
+arthroscopy	is indicated for	meniscal meniscus removal
+arthroscopy	is indicated for	meniscal meniscus replacement
+arthroscopy	is indicated for	meniscal meniscus reconstruction
+arthroscopy	is indicated for	meniscal meniscus augmentation
+arthroscopy	is indicated for	meniscal meniscus graft
+arthroscopy	is indicated for	meniscal meniscus repair
+arthroscopy	is indicated for	meniscal meniscus debridement
+arthroscopy	is indicated for	meniscal meniscus removal
+arthroscopy	is indicated for	meniscal meniscus replacement
+arthroscopy	is indicated for	meniscal meniscus reconstruction
+arthroscopy	is indicated for	meniscal meniscus augmentation
+arthroscopy	is indicated for	meniscal meniscus graft
+arthroscopy	is indicated for	meniscal meniscus repair
+arthroscopy	is indicated for	meniscal meniscus debridement
+arthroscopy	is indicated for	meniscal meniscus removal
+arthroscopy	is indicated for	meniscal meniscus replacement
+arthroscopy	is indicated for	meniscal meniscus reconstruction
+arthroscopy	is indicated for	meniscal meniscus augmentation
+arthroscopy	is indicated for	meniscal meniscus graft

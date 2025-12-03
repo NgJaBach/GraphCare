@@ -1,0 +1,100 @@
+spinal fusion	is a	surgical procedure
+spinal fusion	treats	spinal instability
+spinal fusion	treats	spondylolisthesis
+spinal fusion	treats	spinal stenosis
+spinal fusion	treats	scoliosis
+spinal fusion	treats	vertebral fracture
+spinal fusion	treats	spinal tumor
+spinal fusion	treats	degenerative disc disease
+spinal fusion	treats	trauma
+spinal fusion	reduces	pain
+spinal fusion	improves	mobility
+spinal fusion	improves	quality of life
+spinal fusion	requires	bone graft
+spinal fusion	requires	instrumentation
+spinal fusion	uses	pedicle screws
+spinal fusion	uses	rods
+spinal fusion	uses	cages
+spinal fusion	uses	plates
+spinal fusion	uses	titanium alloy
+spinal fusion	uses	hydroxyapatite
+spinal fusion	uses	autograft
+spinal fusion	uses	allograft
+spinal fusion	uses	synthetic bone
+spinal fusion	uses	bone morphogenetic protein
+spinal fusion	performed by	orthopedic surgeon
+spinal fusion	performed by	neurosurgeon
+spinal fusion	performed in	operating room
+spinal fusion	performed under	general anesthesia
+spinal fusion	performed under	spinal anesthesia
+spinal fusion	performed with	fluoroscopy
+spinal fusion	performed with	navigation
+spinal fusion	performed with	robotics
+spinal fusion	performed with	intraoperative imaging
+spinal fusion	has	perioperative pain
+spinal fusion	has	blood loss
+spinal fusion	has	infection risk
+spinal fusion	has	hardware failure
+spinal fusion	has	pseudarthrosis
+spinal fusion	has	adjacent segment disease
+spinal fusion	has	postoperative nausea
+spinal fusion	has	length of stay
+spinal fusion	has	readmission risk
+spinal fusion	has	mortality risk
+spinal fusion	has	cost
+spinal fusion	leads to	fusion mass
+spinal fusion	leads to	spinal alignment
+spinal fusion	leads to	reduced disc motion
+spinal fusion	leads to	increased adjacent motion
+spinal fusion	leads to	improved gait
+spinal fusion	leads to	decreased opioid use
+spinal fusion	contraindicated in	osteoporosis
+spinal fusion	contraindicated in	infection
+spinal fusion	contraindicated in	severe kyphosis
+spinal fusion	contraindicated in	pregnancy
+spinal fusion	contraindicated in	active cancer
+spinal fusion	contraindicated in	severe comorbidity
+spinal fusion	contraindicated in	poor bone quality
+spinal fusion	contraindicated in	uncontrolled diabetes
+spinal fusion	contraindicated in	smoking
+spinal fusion	contraindicated in	obesity
+spinal fusion	contraindicated in	psychiatric disorder
+spinal fusion	contraindicated in	substance abuse
+spinal fusion	contraindicated in	anticoagulation
+spinal fusion	contraindicated in	severe anemia
+spinal fusion	contraindicated in	severe infection
+spinal fusion	contraindicated in	severe osteoporosis
+spinal fusion	contraindicated in	severe kyphosis
+spinal fusion	contraindicated in	severe scoliosis
+spinal fusion	contraindicated in	severe spinal deformity
+spinal fusion	contraindicated in	severe spinal instability
+spinal fusion	contraindicated in	severe spinal canal stenosis
+spinal fusion	contraindicated in	severe radiculopathy
+spinal fusion	contraindicated in	severe myelopathy
+spinal fusion	contraindicated in	severe spinal cord compression
+spinal fusion	contraindicated in	severe spinal cord injury
+spinal fusion	contraindicated in	severe spinal cord tumor
+spinal fusion	contraindicated in	severe spinal cord infection
+spinal fusion	contraindicated in	severe spinal cord inflammation
+spinal fusion	contraindicated in	severe spinal cord trauma
+spinal fusion	contraindicated in	severe spinal cord degeneration
+spinal fusion	contraindicated in	severe spinal cord disease
+spinal fusion	contraindicated in	severe spinal cord pathology
+spinal fusion	contraindicated in	severe spinal cord injury
+spinal fusion	contraindicated in	severe spinal cord compression
+spinal fusion	contraindicated in	severe spinal cord tumor
+spinal fusion	contraindicated in	severe spinal cord infection
+spinal fusion	contraindicated in	severe spinal cord inflammation
+spinal fusion	contraindicated in	severe spinal cord trauma
+spinal fusion	contraindicated in	severe spinal cord degeneration
+spinal fusion	contraindicated in	severe spinal cord disease
+spinal fusion	contraindicated in	severe spinal cord pathology
+spinal fusion	contraindicated in	severe spinal cord injury
+spinal fusion	contraindicated in	severe spinal cord compression
+spinal fusion	contraindicated in	severe spinal cord tumor
+spinal fusion	contraindicated in	severe spinal cord infection
+spinal fusion	contraindicated in	severe spinal cord inflammation
+spinal fusion	contraindicated in	severe spinal cord trauma
+spinal fusion	contraindicated in	severe spinal cord degeneration
+spinal fusion	contraindicated in	severe spinal cord disease
+spinal fusion	contraindicated in	severe spinal cord pathology

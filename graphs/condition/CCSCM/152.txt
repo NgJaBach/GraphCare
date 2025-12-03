@@ -1,0 +1,100 @@
+pancreatic disorders	are	diseases
+pancreatic disorders	affect	pancreas
+pancreatic disorders	include	pancreatitis
+pancreatic disorders	include	pancreatic cancer
+pancreatic disorders	include	cystic fibrosis
+pancreatic disorders	include	pancreatic insufficiency
+pancreatitis	is a	inflammation
+pancreatitis	causes	abdominal pain
+pancreatitis	causes	nausea
+pancreatitis	causes	vomiting
+pancreatitis	causes	elevated amylase
+pancreatitis	causes	elevated lipase
+pancreatitis	is diagnosed with	CT scan
+pancreatitis	is diagnosed with	MRI
+pancreatitis	is treated with	fluid resuscitation
+pancreatitis	is treated with	pain control
+pancreatitis	is treated with	antibiotics
+pancreatitis	is treated with	surgery
+pancreatitis	is treated with	endoscopic therapy
+pancreatic cancer	is a	malignancy
+pancreatic cancer	is diagnosed with	endoscopic ultrasound
+pancreatic cancer	is diagnosed with	biopsy
+pancreatic cancer	is treated with	chemotherapy
+pancreatic cancer	is treated with	radiation
+pancreatic cancer	is treated with	surgery
+pancreatic cancer	is treated with	targeted therapy
+pancreatic cancer	is treated with	immunotherapy
+pancreatic cancer	has	poor prognosis
+pancreatic cancer	has	low survival rate
+cystic fibrosis	causes	pancreatic insufficiency
+cystic fibrosis	causes	malabsorption
+cystic fibrosis	causes	steatorrhea
+cystic fibrosis	is diagnosed with	sweat chloride test
+cystic fibrosis	is treated with	pancreatic enzyme replacement
+cystic fibrosis	is treated with	vitamin supplementation
+pancreatic insufficiency	causes	steatorrhea
+pancreatic insufficiency	causes	weight loss
+pancreatic insufficiency	is treated with	pancreatic enzyme replacement
+pancreatic insufficiency	is treated with	high calorie diet
+pancreatic insufficiency	is treated with	vitamin supplementation
+pancreatic disorders	increase	risk of malnutrition
+pancreatic disorders	increase	risk of infection
+pancreatic disorders	increase	risk of diabetes
+pancreatic disorders	increase	risk of cancer
+pancreatic disorders	increase	risk of pancreatitis
+pancreatic disorders	increase	risk of jaundice
+pancreatic disorders	increase	risk of abdominal pain
+pancreatic disorders	increase	risk of vomiting
+pancreatic disorders	increase	risk of weight loss
+pancreatic disorders	increase	risk of malabsorption
+pancreatic disorders	increase	risk of electrolyte imbalance
+pancreatic disorders	increase	risk of hypocalcemia
+pancreatic disorders	increase	risk of hyperamylasemia
+pancreatic disorders	increase	risk of hyperlipasemia
+pancreatic disorders	increase	risk of liver dysfunction
+pancreatic disorders	increase	risk of kidney dysfunction
+pancreatic disorders	increase	risk of sepsis
+pancreatic disorders	increase	risk of organ failure
+pancreatic disorders	increase	risk of mortality
+pancreatic disorders	increase	risk of readmission
+pancreatic disorders	increase	risk of ICU admission
+pancreatic disorders	increase	risk of surgical complications
+pancreatic disorders	increase	risk of postoperative complications
+pancreatic disorders	increase	risk of nutritional deficiency
+pancreatic disorders	increase	risk of vitamin deficiency
+pancreatic disorders	increase	risk of vitamin D deficiency
+pancreatic disorders	increase	risk of vitamin B12 deficiency
+pancreatic disorders	increase	risk of vitamin K deficiency
+pancreatic disorders	increase	risk of vitamin A deficiency
+pancreatic disorders	increase	risk of vitamin E deficiency
+pancreatic disorders	increase	risk of iron deficiency
+pancreatic disorders	increase	risk of zinc deficiency
+pancreatic disorders	increase	risk of magnesium deficiency
+pancreatic disorders	increase	risk of calcium deficiency
+pancreatic disorders	increase	risk of protein deficiency
+pancreatic disorders	increase	risk of energy deficit
+pancreatic disorders	increase	risk of dehydration
+pancreatic disorders	increase	risk of electrolyte imbalance
+pancreatic disorders	increase	risk of acidosis
+pancreatic disorders	increase	risk of alkalosis
+pancreatic disorders	increase	risk of hyperglycemia
+pancreatic disorders	increase	risk of hypoglycemia
+pancreatic disorders	increase	risk of hyperlipidemia
+pancreatic disorders	increase	risk of hypercholesterolemia
+pancreatic disorders	increase	risk of hypertriglyceridemia
+pancreatic disorders	increase	risk of pancreatitis recurrence
+pancreatic disorders	increase	risk of pancreatic duct obstruction
+pancreatic disorders	increase	risk of pancreatic pseudocyst
+pancreatic disorders	increase	risk of pancreatic necrosis
+pancreatic disorders	increase	risk of pancreatic fistula
+pancreatic disorders	increase	risk of pancreatic abscess
+pancreatic disorders	increase	risk of pancreatic carcinoma
+pancreatic disorders	increase	risk of pancreatic adenocarcinoma
+pancreatic disorders	increase	risk of pancreatic neuroendocrine tumor
+pancreatic disorders	increase	risk of pancreatic cyst
+pancreatic disorders	increase	risk of pancreatic ductal adenocarcinoma
+pancreatic disorders	increase	risk of pancreatic ductal carcinoma
+pancreatic disorders	increase	risk of pancreatic ductal neoplasm
+pancreatic disorders	increase	risk of pancreatic ductal lesion
+pancreatic disorders	increase	risk of pancreatic ductal disease

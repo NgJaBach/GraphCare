@@ -1,0 +1,100 @@
+appendicitis	is a	inflammation
+appendicitis	is caused by	bacterial infection
+appendicitis	leads to	abdominal pain
+appendicitis	is diagnosed with	ultrasound
+appendicitis	is treated with	appendectomy
+appendicitis	increases risk of	sepsis
+appendicitis	is associated with	fever
+appendicitis	is a	surgical emergency
+appendicitis	is linked to	perforation
+appendicitis	is monitored by	white blood cell count
+appendicitis	is prevented by	early treatment
+appendicitis	is a	complication of Crohn disease
+appendicitis	is related to	appendicolith
+appendicitis	is evaluated by	CT scan
+appendicitis	is treated with	antibiotics
+appendicitis	is associated with	mortality
+appendicitis	is a	cause of acute abdomen
+appendicitis	is linked to	pregnancy
+appendicitis	is a	risk factor for	postoperative infection
+appendicitis	is a	risk factor for	readmission
+appendicitis	is a	predictor of	ICU admission
+appendicitis	is a	predictor of	length of stay
+appendicitis	is a	predictor of	cost
+appendicitis	is a	predictor of	opioid use
+appendicitis	is a	predictor of	complications
+appendicitis	is a	predictor of	mortality
+appendicitis	is a	predictor of	readmission
+appendicitis	is a	predictor of	surgical site infection
+appendicitis	is a	predictor of	intra-abdominal abscess
+appendicitis	is a	predictor of	postoperative ileus
+appendicitis	is a	predictor of	postoperative pain
+appendicitis	is a	predictor of	postoperative nausea
+appendicitis	is a	predictor of	postoperative vomiting
+appendicitis	is a	predictor of	postoperative delirium
+appendicitis	is a	predictor of	postoperative anemia
+appendicitis	is a	predictor of	postoperative thrombosis
+appendicitis	is a	predictor of	postoperative bleeding
+appendicitis	is a	predictor of	postoperative infection
+appendicitis	is a	predictor of	postoperative complications
+appendicitis	is a	predictor of	postoperative mortality
+appendicitis	is a	predictor of	postoperative readmission
+appendicitis	is a	predictor of	postoperative length of stay
+appendicitis	is a	predictor of	postoperative cost
+appendicitis	is a	predictor of	postoperative quality of life
+appendicitis	is a	predictor of	postoperative functional status
+appendicitis	is a	predictor of	postoperative pain score
+appendicitis	is a	predictor of	postoperative opioid requirement
+appendicitis	is a	predictor of	postoperative nausea score
+appendicitis	is a	predictor of	postoperative vomiting score
+appendicitis	is a	predictor of	postoperative delirium score
+appendicitis	is a	predictor of	postoperative anemia level
+appendicitis	is a	predictor of	postoperative thrombosis risk
+appendicitis	is a	predictor of	postoperative bleeding risk
+appendicitis	is a	predictor of	postoperative infection risk
+appendicitis	is a	predictor of	postoperative complication rate
+appendicitis	is a	predictor of	postoperative mortality rate
+appendicitis	is a	predictor of	postoperative readmission rate
+appendicitis	is a	predictor of	postoperative length of stay
+appendicitis	is a	predictor of	postoperative cost
+appendicitis	is a	predictor of	postoperative quality of life score
+appendicitis	is a	predictor of	postoperative functional status score
+appendicitis	is a	predictor of	postoperative pain score
+appendicitis	is a	predictor of	postoperative opioid requirement
+appendicitis	is a	predictor of	postoperative nausea score
+appendicitis	is a	predictor of	postoperative vomiting score
+appendicitis	is a	predictor of	postoperative delirium score
+appendicitis	is a	predictor of	postoperative anemia level
+appendicitis	is a	predictor of	postoperative thrombosis risk
+appendicitis	is a	predictor of	postoperative bleeding risk
+appendicitis	is a	predictor of	postoperative infection risk
+appendicitis	is a	predictor of	postoperative complication rate
+appendicitis	is a	predictor of	postoperative mortality rate
+appendicitis	is a	predictor of	postoperative readmission rate
+appendicitis	is a	predictor of	postoperative length of stay
+appendicitis	is a	predictor of	postoperative cost
+appendicitis	is a	predictor of	postoperative quality of life score
+appendicitis	is a	predictor of	postoperative functional status score
+appendicitis	is a	predictor of	postoperative pain score
+appendicitis	is a	predictor of	postoperative opioid requirement
+appendicitis	is a	predictor of	postoperative nausea score
+appendicitis	is a	predictor of	postoperative vomiting score
+appendicitis	is a	predictor of	postoperative delirium score
+appendicitis	is a	predictor of	postoperative anemia level
+appendicitis	is a	predictor of	postoperative thrombosis risk
+appendicitis	is a	predictor of	postoperative bleeding risk
+appendicitis	is a	predictor of	postoperative infection risk
+appendicitis	is a	predictor of	postoperative complication rate
+appendicitis	is a	predictor of	postoperative mortality rate
+appendicitis	is a	predictor of	postoperative readmission rate
+appendicitis	is a	predictor of	postoperative length of stay
+appendicitis	is a	predictor of	postoperative cost
+appendicitis	is a	predictor of	postoperative quality of life score
+appendicitis	is a	predictor of	postoperative functional status score
+appendicitis	is a	predictor of	postoperative pain score
+appendicitis	is a	predictor of	postoperative opioid requirement
+appendicitis	is a	predictor of	postoperative nausea score
+appendicitis	is a	predictor of	postoperative vomiting score
+appendicitis	is a	predictor of	postoperative delirium score
+appendicitis	is a	predictor of	postoperative anemia level
+appendicitis	is a	predictor of	postoperative thrombosis risk

@@ -1,0 +1,100 @@
+cancer of pancreas	is a	malignancy
+cancer of pancreas	originates in	pancreatic duct
+cancer of pancreas	causes	jaundice
+cancer of pancreas	causes	weight loss
+cancer of pancreas	causes	abdominal pain
+cancer of pancreas	causes	diabetes
+cancer of pancreas	is diagnosed with	CT scan
+cancer of pancreas	is diagnosed with	MRI
+cancer of pancreas	is diagnosed with	endoscopic ultrasound
+cancer of pancreas	is diagnosed with	biopsy
+cancer of pancreas	is staged by	TNM system
+cancer of pancreas	is staged by	RECIST criteria
+cancer of pancreas	is staged by	CA 19‑9 level
+cancer of pancreas	is treated with	surgery
+cancer of pancreas	is treated with	chemotherapy
+cancer of pancreas	is treated with	radiation
+cancer of pancreas	is treated with	targeted therapy
+cancer of pancreas	is treated with	immunotherapy
+cancer of pancreas	is treated with	palliative care
+pancreaticoduodenectomy	is a	surgical procedure
+pancreaticoduodenectomy	is performed for	resectable cancer of pancreas
+neoadjuvant chemotherapy	is given before	surgery
+gemcitabine	is a	chemotherapy drug
+nab-paclitaxel	is a	chemotherapy drug
+FOLFIRINOX	is a	chemotherapy regimen
+olaparib	is a	PARP inhibitor
+olaparib	is used for	BRCA‑mutated pancreatic cancer
+nivolumab	is a	checkpoint inhibitor
+nivolumab	is used for	MSI‑high pancreatic cancer
+radiation	is combined with	chemotherapy
+radiation	is used for	unresectable cancer of pancreas
+palliative radiation	reduces	pain
+palliative chemotherapy	improves	survival
+CA 19‑9	is a	tumor marker
+CA 19‑9	is elevated in	pancreatic cancer
+CA 19‑9	is used for	monitoring response
+CA 19‑9	is used for	detecting recurrence
+pancreatic cancer	increases	mortality risk
+pancreatic cancer	increases	readmission risk
+pancreatic cancer	increases	risk of venous thromboembolism
+pancreatic cancer	increases	risk of malnutrition
+pancreatic cancer	increases	risk of cachexia
+pancreatic cancer	increases	risk of depression
+pancreatic cancer	increases	risk of delirium
+pancreatic cancer	increases	risk of infection
+pancreatic cancer	increases	risk of sepsis
+pancreatic cancer	increases	risk of organ failure
+pancreatic cancer	increases	risk of ICU admission
+pancreatic cancer	increases	risk of surgical complications
+pancreatic cancer	increases	risk of postoperative pancreatic fistula
+pancreatic cancer	increases	risk of delayed gastric emptying
+pancreatic cancer	increases	risk of hemorrhage
+pancreatic cancer	increases	risk of bile duct obstruction
+pancreatic cancer	increases	risk of cholangitis
+pancreatic cancer	increases	risk of pancreatitis
+pancreatic cancer	increases	risk of anemia
+pancreatic cancer	increases	risk of thrombocytopenia
+pancreatic cancer	increases	risk of leukopenia
+pancreatic cancer	increases	risk of neuropathy
+pancreatic cancer	increases	risk of fatigue
+pancreatic cancer	increases	risk of nausea
+pancreatic cancer	increases	risk of vomiting
+pancreatic cancer	increases	risk of constipation
+pancreatic cancer	increases	risk of diarrhea
+pancreatic cancer	increases	risk of dehydration
+pancreatic cancer	increases	risk of electrolyte imbalance
+pancreatic cancer	increases	risk of hypoglycemia
+pancreatic cancer	increases	risk of hyperglycemia
+pancreatic cancer	increases	risk of hyperlipidemia
+pancreatic cancer	increases	risk of hyperamylasemia
+pancreatic cancer	increases	risk of hyperlipasemia
+pancreatic cancer	increases	risk of liver dysfunction
+pancreatic cancer	increases	risk of renal dysfunction
+pancreatic cancer	increases	risk of cardiac events
+pancreatic cancer	increases	risk of arrhythmia
+pancreatic cancer	increases	risk of heart failure
+pancreatic cancer	increases	risk of stroke
+pancreatic cancer	increases	risk of myocardial infarction
+pancreatic cancer	increases	risk of hypertension
+pancreatic cancer	increases	risk of hypotension
+pancreatic cancer	increases	risk of anemia of chronic disease
+pancreatic cancer	increases	risk of sarcopenia
+pancreatic cancer	increases	risk of frailty
+pancreatic cancer	increases	risk of falls
+pancreatic cancer	increases	risk of pressure ulcers
+pancreatic cancer	increases	risk of urinary tract infection
+pancreatic cancer	increases	risk of pneumonia
+pancreatic cancer	increases	risk of aspiration
+pancreatic cancer	increases	risk of malabsorption
+pancreatic cancer	increases	risk of vitamin deficiency
+pancreatic cancer	increases	risk of bone loss
+pancreatic cancer	increases	risk of osteoporosis
+pancreatic cancer	increases	risk of fractures
+pancreatic cancer	increases	risk of depression
+pancreatic cancer	increases	risk of anxiety
+pancreatic cancer	increases	risk of caregiver burden
+pancreatic cancer	increases	risk of financial toxicity
+pancreatic cancer	increases	risk of treatment abandonment
+pancreatic cancer	increases	risk of clinical trial dropout
+pancreatic cancer	increases	risk of poor quality of life

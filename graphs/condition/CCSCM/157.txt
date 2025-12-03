@@ -1,0 +1,100 @@
+acute renal failure	is a	kidney injury
+acute renal failure	is caused by	hypoperfusion
+acute renal failure	is caused by	nephrotoxins
+acute renal failure	is caused by	sepsis
+acute renal failure	is caused by	obstruction
+acute renal failure	is diagnosed with	serum creatinine
+acute renal failure	is diagnosed with	BUN
+acute renal failure	is diagnosed with	urine output
+acute renal failure	is diagnosed with	fractional excretion
+acute renal failure	is treated with	fluid resuscitation
+acute renal failure	is treated with	diuretics
+acute renal failure	is treated with	dialysis
+acute renal failure	is treated with	vasopressors
+acute renal failure	is treated with	antibiotics
+acute renal failure	is treated with	nephrotoxin avoidance
+acute renal failure	is treated with	blood pressure control
+acute renal failure	is associated with	electrolyte imbalance
+acute renal failure	is associated with	metabolic acidosis
+acute renal failure	is associated with	hyperkalemia
+acute renal failure	is associated with	fluid overload
+acute renal failure	is associated with	uremic encephalopathy
+acute renal failure	increases risk of	mortality
+acute renal failure	increases risk of	readmission
+acute renal failure	increases risk of	chronic kidney disease
+acute renal failure	increases risk of	cardiovascular events
+acute renal failure	increases risk of	infection
+acute renal failure	increases risk of	anemia
+acute renal failure	increases risk of	bone disease
+acute renal failure	increases risk of	malnutrition
+acute renal failure	is a contraindication for	contrast imaging
+acute renal failure	is a contraindication for	certain antibiotics
+acute renal failure	is a contraindication for	high‑dose NSAIDs
+acute renal failure	is a contraindication for	ACE inhibitors
+acute renal failure	is a contraindication for	ARBs
+acute renal failure	is a contraindication for	potassium supplements
+acute renal failure	is a contraindication for	high‑protein diet
+acute renal failure	is a contraindication for	high‑salt diet
+acute renal failure	is a contraindication for	high‑phosphate diet
+acute renal failure	is a contraindication for	high‑potassium diet
+acute renal failure	is a contraindication for	high‑calcium diet
+acute renal failure	is a contraindication for	high‑vitamin D supplements
+acute renal failure	is a contraindication for	high‑dose steroids
+acute renal failure	is a contraindication for	high‑dose immunosuppressants
+acute renal failure	is a contraindication for	high‑dose opioids
+acute renal failure	is a contraindication for	high‑dose sedatives
+acute renal failure	is a contraindication for	high‑dose antiepileptics
+acute renal failure	is a contraindication for	high‑dose anticoagulants
+acute renal failure	is a contraindication for	high‑dose antiplatelets
+acute renal failure	is a contraindication for	high‑dose antihypertensives
+acute renal failure	is a contraindication for	high‑dose diuretics
+acute renal failure	is a contraindication for	high‑dose vasodilators
+acute renal failure	is a contraindication for	high‑dose beta‑blockers
+acute renal failure	is a contraindication for	high‑dose calcium channel blockers
+acute renal failure	is a contraindication for	high‑dose nitrates
+acute renal failure	is a contraindication for	high‑dose statins
+acute renal failure	is a contraindication for	high‑dose antidiabetics
+acute renal failure	is a contraindication for	high‑dose insulin
+acute renal failure	is a contraindication for	high‑dose glucagon
+acute renal failure	is a contraindication for	high‑dose vitamin K
+acute renal failure	is a contraindication for	high‑dose folate
+acute renal failure	is a contraindication for	high‑dose iron
+acute renal failure	is a contraindication for	high‑dose vitamin B12
+acute renal failure	is a contraindication for	high‑dose magnesium
+acute renal failure	is a contraindication for	high‑dose calcium
+acute renal failure	is a contraindication for	high‑dose zinc
+acute renal failure	is a contraindication for	high‑dose copper
+acute renal failure	is a contraindication for	high‑dose selenium
+acute renal failure	is a contraindication for	high‑dose manganese
+acute renal failure	is a contraindication for	high‑dose chromium
+acute renal failure	is a contraindication for	high‑dose iodine
+acute renal failure	is a contraindication for	high‑dose fluoride
+acute renal failure	is a contraindication for	high‑dose thiamine
+acute renal failure	is a contraindication for	high‑dose riboflavin
+acute renal failure	is a contraindication for	high‑dose niacin
+acute renal failure	is a contraindication for	high‑dose pantothenic acid
+acute renal failure	is a contraindication for	high‑dose biotin
+acute renal failure	is a contraindication for	high‑dose folic acid
+acute renal failure	is a contraindication for	high‑dose vitamin C
+acute renal failure	is a contraindication for	high‑dose vitamin E
+acute renal failure	is a contraindication for	high‑dose vitamin A
+acute renal failure	is a contraindication for	high‑dose vitamin D
+acute renal failure	is a contraindication for	high‑dose vitamin K
+acute renal failure	is a contraindication for	high‑dose vitamin B complex
+acute renal failure	is a contraindication for	high‑dose omega‑3
+acute renal failure	is a contraindication for	high‑dose omega‑6
+acute renal failure	is a contraindication for	high‑dose protein
+acute renal failure	is a contraindication for	high‑dose carbohydrate
+acute renal failure	is a contraindication for	high‑dose fat
+acute renal failure	is a contraindication for	high‑dose fiber
+acute renal failure	is a contraindication for	high‑dose vitamin supplement
+acute renal failure	is a contraindication for	high‑dose mineral supplement
+acute renal failure	is a contraindication for	high‑dose herbal supplement
+acute renal failure	is a contraindication for	high‑dose probiotic
+acute renal failure	is a contraindication for	high‑dose prebiotic
+acute renal failure	is a contraindication for	high‑dose synbiotic
+acute renal failure	is a contraindication for	high‑dose nutraceutical
+acute renal failure	is a contraindication for	high‑dose functional food
+acute renal failure	is a contraindication for	high‑dose dietary supplement
+acute renal failure	is a contraindication for	high‑dose vitamin‑rich food
+acute renal failure	is a contraindication for	high‑dose mineral‑rich food

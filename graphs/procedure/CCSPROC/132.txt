@@ -1,0 +1,100 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	removes	uterus
+hysterectomy	indicated for	fibroids
+hysterectomy	indicated for	endometriosis
+hysterectomy	indicated for	cancer
+hysterectomy	reduces	menstrual pain
+hysterectomy	increases	risk of osteoporosis
+hysterectomy	performed with	laparoscopic approach
+hysterectomy	performed with	abdominal approach
+hysterectomy	performed with	vaginal approach
+hysterectomy	associated with	postoperative infection
+hysterectomy	associated with	blood loss
+hysterectomy	associated with	longer hospital stay
+hysterectomy	improves	quality of life
+hysterectomy	contraindicated in	pregnancy
+hysterectomy	contraindicated in	severe anemia
+hysterectomy	contraindicated in	active infection
+hysterectomy	contraindicated in	obesity
+hysterectomy	contraindicated in	cardiac disease
+hysterectomy	contraindicated in	clotting disorder
+hysterectomy	requires	preoperative counseling
+hysterectomy	requires	postoperative analgesia
+hysterectomy	requires	follow‑up imaging
+hysterectomy	requires	hormone replacement therapy
+hysterectomy	requires	contraception counseling
+hysterectomy	requires	thromboprophylaxis
+hysterectomy	requires	nutritional assessment
+hysterectomy	requires	smoking cessation
+hysterectomy	requires	weight management
+hysterectomy	requires	mental health support
+hysterectomy	can lead to	urinary incontinence
+hysterectomy	can lead to	pelvic organ prolapse
+hysterectomy	can lead to	sexual dysfunction
+hysterectomy	can lead to	depression
+hysterectomy	can lead to	anxiety
+hysterectomy	can lead to	chronic pain
+hysterectomy	can lead to	adhesions
+hysterectomy	can lead to	bowel injury
+hysterectomy	can lead to	vascular injury
+hysterectomy	can lead to	nerve damage
+hysterectomy	can lead to	infertility
+hysterectomy	can lead to	early menopause
+hysterectomy	can lead to	hot flashes
+hysterectomy	can lead to	osteoporosis
+hysterectomy	can lead to	cardiovascular risk
+hysterectomy	can lead to	metabolic syndrome
+hysterectomy	can lead to	sleep apnea
+hysterectomy	can lead to	urinary tract infection
+hysterectomy	can lead to	deep vein thrombosis
+hysterectomy	can lead to	pulmonary embolism
+hysterectomy	can lead to	postoperative delirium
+hysterectomy	can lead to	readmission
+hysterectomy	can lead to	mortality
+hysterectomy	can lead to	cost increase
+hysterectomy	can lead to	reduced fertility
+hysterectomy	can lead to	decreased libido
+hysterectomy	can lead to	vaginal dryness
+hysterectomy	can lead to	pelvic floor weakness
+hysterectomy	can lead to	bladder dysfunction
+hysterectomy	can lead to	bowel dysfunction
+hysterectomy	can lead to	sexual dysfunction
+hysterectomy	can lead to	hormonal imbalance
+hysterectomy	can lead to	mood swings
+hysterectomy	can lead to	weight gain
+hysterectomy	can lead to	decreased bone density
+hysterectomy	can lead to	increased fracture risk
+hysterectomy	can lead to	increased cardiovascular events
+hysterectomy	can lead to	increased mortality risk
+hysterectomy	can lead to	increased readmission risk
+hysterectomy	can lead to	increased postoperative complications
+hysterectomy	can lead to	increased infection risk
+hysterectomy	can lead to	increased bleeding risk
+hysterectomy	can lead to	increased pain risk
+hysterectomy	can lead to	increased hospital stay
+hysterectomy	can lead to	increased cost
+hysterectomy	can lead to	decreased sexual satisfaction
+hysterectomy	can lead to	decreased partner satisfaction
+hysterectomy	can lead to	decreased emotional well‑being
+hysterectomy	can lead to	decreased social functioning
+hysterectomy	can lead to	decreased physical functioning
+hysterectomy	can lead to	decreased mental health
+hysterectomy	can lead to	decreased overall health
+hysterectomy	can lead to	increased risk of depression
+hysterectomy	can lead to	increased risk of anxiety
+hysterectomy	can lead to	increased risk of chronic pain
+hysterectomy	can lead to	increased risk of urinary incontinence
+hysterectomy	can lead to	increased risk of pelvic organ prolapse
+hysterectomy	can lead to	increased risk of sexual dysfunction
+hysterectomy	can lead to	increased risk of infertility
+hysterectomy	can lead to	increased risk of early menopause
+hysterectomy	can lead to	increased risk of osteoporosis
+hysterectomy	can lead to	increased risk of cardiovascular disease
+hysterectomy	can lead to	increased risk of metabolic syndrome
+hysterectomy	can lead to	increased risk of sleep apnea
+hysterectomy	can lead to	increased risk of urinary tract infection
+hysterectomy	can lead to	increased risk of deep vein thrombosis
+hysterectomy	can lead to	increased risk of pulmonary embolism
+hysterectomy	can lead to	increased risk of postoperative delirium
+hysterectomy	can lead to	increased risk of readmission
+hysterectomy	can lead to	increased risk of mortality

@@ -1,0 +1,100 @@
+superficial injury	is a	skin trauma
+superficial injury	causes	bruising
+superficial injury	results in	discoloration
+superficial injury	is treated with	ice
+superficial injury	is treated with	compression
+superficial injury	is treated with	elevation
+superficial injury	is treated with	rest
+superficial injury	is treated with	analgesics
+superficial injury	is treated with	topical steroids
+superficial injury	is treated with	antihistamines
+superficial injury	may lead to	infection
+superficial injury	may lead to	scarring
+superficial injury	may lead to	hyperpigmentation
+superficial injury	may lead to	hypopigmentation
+superficial injury	may lead to	edema
+superficial injury	may lead to	pain
+superficial injury	may lead to	swelling
+superficial injury	may lead to	tenderness
+superficial injury	may lead to	delayed healing
+superficial injury	may lead to	allergic reaction
+superficial injury	is a risk factor for	pressure ulcer
+superficial injury	is a risk factor for	venous thrombosis
+superficial injury	is a risk factor for	cellulitis
+superficial injury	is a risk factor for	necrotizing fasciitis
+superficial injury	is a risk factor for	post‑traumatic stress
+superficial injury	is a risk factor for	chronic pain
+superficial injury	is a risk factor for	keloid formation
+superficial injury	is a risk factor for	pigmentary disorder
+superficial injury	is a risk factor for	infection
+superficial injury	is a risk factor for	delayed wound closure
+superficial injury	is a risk factor for	secondary injury
+superficial injury	is a risk factor for	scar contracture
+superficial injury	is a risk factor for	impaired mobility
+superficial injury	is a risk factor for	psychological distress
+superficial injury	is a risk factor for	reduced quality of life
+superficial injury	is a risk factor for	occupational injury
+superficial injury	is a risk factor for	sports injury
+superficial injury	is a risk factor for	workplace injury
+superficial injury	is a risk factor for	fall injury
+superficial injury	is a risk factor for	road traffic injury
+superficial injury	is a risk factor for	domestic injury
+superficial injury	is a risk factor for	recreational injury
+superficial injury	is a risk factor for	assault injury
+superficial injury	is a risk factor for	self‑harm injury
+superficial injury	is a risk factor for	accidental injury
+superficial injury	is a risk factor for	occupational hazard
+superficial injury	is a risk factor for	environmental hazard
+superficial injury	is a risk factor for	chemical exposure
+superficial injury	is a risk factor for	thermal injury
+superficial injury	is a risk factor for	electrical injury
+superficial injury	is a risk factor for	radiation injury
+superficial injury	is a risk factor for	mechanical injury
+superficial injury	is a risk factor for	blunt trauma
+superficial injury	is a risk factor for	penetrating trauma
+superficial injury	is a risk factor for	crush injury
+superficial injury	is a risk factor for	blast injury
+superficial injury	is a risk factor for	ballistic injury
+superficial injury	is a risk factor for	chemical burn
+superficial injury	is a risk factor for	thermal burn
+superficial injury	is a risk factor for	electrical burn
+superficial injury	is a risk factor for	radiation burn
+superficial injury	is a risk factor for	friction burn
+superficial injury	is a risk factor for	chemical irritation
+superficial injury	is a risk factor for	thermal irritation
+superficial injury	is a risk factor for	electrical irritation
+superficial injury	is a risk factor for	radiation irritation
+superficial injury	is a risk factor for	friction irritation
+superficial injury	is a risk factor for	allergic dermatitis
+superficial injury	is a risk factor for	contact dermatitis
+superficial injury	is a risk factor for	irritant dermatitis
+superficial injury	is a risk factor for	photodermatitis
+superficial injury	is a risk factor for	mechanical irritation
+superficial injury	is a risk factor for	chemical exposure
+superficial injury	is a risk factor for	thermal exposure
+superficial injury	is a risk factor for	electrical exposure
+superficial injury	is a risk factor for	radiation exposure
+superficial injury	is a risk factor for	friction exposure
+superficial injury	is a risk factor for	trauma sequela
+superficial injury	is a risk factor for	post‑traumatic syndrome
+superficial injury	is a risk factor for	chronic inflammation
+superficial injury	is a risk factor for	systemic inflammation
+superficial injury	is a risk factor for	immune activation
+superficial injury	is a risk factor for	cytokine release
+superficial injury	is a risk factor for	acute phase response
+superficial injury	is a risk factor for	wound healing delay
+superficial injury	is a risk factor for	tissue remodeling
+superficial injury	is a risk factor for	scar tissue formation
+superficial injury	is a risk factor for	fibrosis
+superficial injury	is a risk factor for	contracture
+superficial injury	is a risk factor for	functional limitation
+superficial injury	is a risk factor for	mobility restriction
+superficial injury	is a risk factor for	occupational limitation
+superficial injury	is a risk factor for	activity limitation
+superficial injury	is a risk factor for	pain persistence
+superficial injury	is a risk factor for	psychological impact
+superficial injury	is a risk factor for	depression
+superficial injury	is a risk factor for	anxiety
+superficial injury	is a risk factor for	sleep disturbance
+superficial injury	is a risk factor for	reduced sleep quality
+superficial injury	is a risk factor for	quality of life reduction

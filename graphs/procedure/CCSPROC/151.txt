@@ -1,0 +1,100 @@
+excision	is a	surgical procedure
+excision	targets	semilunar cartilage
+excision	performed on	knee joint
+excision	reduces	joint pain
+excision	improves	knee mobility
+excision	indicated for	meniscal tear
+excision	indicated for	meniscal degeneration
+excision	indicated for	meniscal cyst
+excision	indicated for	meniscal overload
+excision	contraindicated in	severe osteoarthritis
+excision	contraindicated in	active infection
+excision	contraindicated in	poor wound healing
+excision	requires	arthroscopic technique
+excision	can be combined with	meniscectomy
+excision	can be combined with	meniscal repair
+excision	can be combined with	cartilage restoration
+excision	reduces	inflammation
+excision	reduces	mechanical instability
+excision	improves	gait pattern
+excision	improves	athletic performance
+excision	leads to	postoperative swelling
+excision	leads to	postoperative pain
+excision	leads to	postoperative stiffness
+excision	leads to	postoperative rehabilitation
+excision	leads to	improved quality of life
+excision	leads to	reduced need for analgesics
+excision	leads to	decreased risk of secondary cartilage damage
+excision	associated with	blood loss
+excision	associated with	infection risk
+excision	associated with	thromboembolism risk
+excision	associated with	nerve injury
+excision	associated with	arthrofibrosis
+excision	associated with	meniscal healing
+excision	associated with	postoperative range of motion
+excision	associated with	patient satisfaction
+excision	associated with	return to work
+excision	associated with	return to sport
+excision	associated with	hospital stay
+excision	associated with	cost
+excision	associated with	insurance coverage
+excision	requires	preoperative imaging
+excision	requires	MRI
+excision	requires	X‑ray
+excision	requires	physical therapy
+excision	requires	postoperative monitoring
+excision	requires	follow‑up visit
+excision	requires	patient education
+excision	requires	informed consent
+excision	requires	anesthesia
+excision	requires	surgical instruments
+excision	performed by	orthopedic surgeon
+excision	performed by	sports medicine specialist
+excision	performed by	arthroscopist
+excision	performed in	outpatient setting
+excision	performed in	inpatient setting
+excision	performed in	ambulatory surgery center
+excision	performed in	hospital operating room
+excision	performed with	arthroscopic camera
+excision	performed with	shaver
+excision	performed with	meniscal rasp
+excision	performed with	suture device
+excision	performed with	radiofrequency ablation
+excision	performed with	laser
+excision	performed with	arthroscopic portal
+excision	performed with	tourniquet
+excision	performed with	suction irrigation
+excision	performed with	arthroscopic grasper
+excision	performed with	arthroscopic scissors
+excision	performed with	arthroscopic burr
+excision	performed with	arthroscopic needle
+excision	performed with	arthroscopic probe
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction
+excision	performed with	arthroscopic suction

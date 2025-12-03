@@ -1,0 +1,100 @@
+other inflammatory condition of skin	is a	dermatologic disorder
+other inflammatory condition of skin	involves	skin inflammation
+other inflammatory condition of skin	causes	erythema
+other inflammatory condition of skin	causes	edema
+other inflammatory condition of skin	causes	pruritus
+other inflammatory condition of skin	causes	scaling
+other inflammatory condition of skin	causes	ulceration
+other inflammatory condition of skin	causes	pain
+other inflammatory condition of skin	is associated with	allergic reaction
+other inflammatory condition of skin	is associated with	autoimmune disease
+other inflammatory condition of skin	is associated with	infection
+other inflammatory condition of skin	is associated with	trauma
+other inflammatory condition of skin	is associated with	medication
+other inflammatory condition of skin	is associated with	stress
+other inflammatory condition of skin	is associated with	hormonal change
+other inflammatory condition of skin	is diagnosed by	skin biopsy
+other inflammatory condition of skin	is diagnosed by	clinical exam
+other inflammatory condition of skin	is diagnosed by	laboratory test
+other inflammatory condition of skin	is diagnosed by	imaging
+other inflammatory condition of skin	is diagnosed by	patch test
+other inflammatory condition of skin	is treated with	topical steroid
+other inflammatory condition of skin	is treated with	systemic steroid
+other inflammatory condition of skin	is treated with	antihistamine
+other inflammatory condition of skin	is treated with	immunomodulator
+other inflammatory condition of skin	is treated with	phototherapy
+other inflammatory condition of skin	is treated with	biologic
+other inflammatory condition of skin	is treated with	antibiotic
+other inflammatory condition of skin	is treated with	antifungal
+other inflammatory condition of skin	is treated with	keratolytic
+other inflammatory condition of skin	is treated with	emollient
+topical steroid	reduces	inflammation
+topical steroid	reduces	erythema
+topical steroid	reduces	edema
+topical steroid	reduces	pruritus
+systemic steroid	reduces	systemic inflammation
+systemic steroid	reduces	immune response
+antihistamine	reduces	pruritus
+antihistamine	reduces	edema
+immunomodulator	reduces	immune activation
+immunomodulator	reduces	cytokine release
+phototherapy	reduces	skin cell proliferation
+phototherapy	reduces	inflammation
+biologic	targets	TNF-alpha
+biologic	targets	IL-17
+biologic	targets	IL-23
+antibiotic	treats	bacterial infection
+antibiotic	treats	secondary infection
+antifungal	treats	fungal infection
+keratolytic	reduces	scaling
+keratolytic	reduces	hyperkeratosis
+emollient	moisturizes	skin
+emollient	protects	skin barrier
+other inflammatory condition of skin	increases	risk of infection
+other inflammatory condition of skin	increases	risk of scarring
+other inflammatory condition of skin	increases	risk of malignancy
+other inflammatory condition of skin	increases	risk of systemic disease
+other inflammatory condition of skin	leads to	quality of life decline
+other inflammatory condition of skin	leads to	sleep disturbance
+other inflammatory condition of skin	leads to	psychological stress
+other inflammatory condition of skin	leads to	work absenteeism
+other inflammatory condition of skin	leads to	healthcare utilization
+other inflammatory condition of skin	predicts	hospitalization
+other inflammatory condition of skin	predicts	mortality
+other inflammatory condition of skin	predicts	readmission
+other inflammatory condition of skin	predicts	treatment failure
+other inflammatory condition of skin	predicts	flare frequency
+other inflammatory condition of skin	predicts	disease severity
+other inflammatory condition of skin	predicts	comorbidity
+other inflammatory condition of skin	predicts	drug intolerance
+other inflammatory condition of skin	predicts	drug resistance
+other inflammatory condition of skin	is a risk factor for	cardiovascular disease
+other inflammatory condition of skin	is a risk factor for	metabolic syndrome
+other inflammatory condition of skin	is a risk factor for	depression
+other inflammatory condition of skin	is a risk factor for	anxiety
+other inflammatory condition of skin	is a risk factor for	osteoporosis
+other inflammatory condition of skin	is a risk factor for	osteoporosis
+other inflammatory condition of skin	is a risk factor for	anemia
+other inflammatory condition of skin	is a risk factor for	thrombosis
+other inflammatory condition of skin	is a risk factor for	infection
+other inflammatory condition of skin	is a risk factor for	drug toxicity
+other inflammatory condition of skin	is a risk factor for	medication nonadherence
+other inflammatory condition of skin	is a risk factor for	hospitalization
+other inflammatory condition of skin	is a risk factor for	emergency department visit
+other inflammatory condition of skin	is a risk factor for	surgical complication
+other inflammatory condition of skin	is a risk factor for	wound healing delay
+other inflammatory condition of skin	is a risk factor for	skin cancer
+other inflammatory condition of skin	is a risk factor for	melanoma
+other inflammatory condition of skin	is a risk factor for	squamous cell carcinoma
+other inflammatory condition of skin	is a risk factor for	basal cell carcinoma
+other inflammatory condition of skin	is a risk factor for	psoriasis
+other inflammatory condition of skin	is a risk factor for	atopic dermatitis
+other inflammatory condition of skin	is a risk factor for	rosacea
+other inflammatory condition of skin	is a risk factor for	eczema
+other inflammatory condition of skin	is a risk factor for	contact dermatitis
+other inflammatory condition of skin	is a risk factor for	urticaria
+other inflammatory condition of skin	is a risk factor for	drug eruption
+other inflammatory condition of skin	is a risk factor for	allergic contact dermatitis
+other inflammatory condition of skin	is a risk factor for	photodermatitis
+other inflammatory condition of skin	is a risk factor for	lupus erythematosus
+other inflammatory condition of skin	is a risk factor for	systemic sclerosis

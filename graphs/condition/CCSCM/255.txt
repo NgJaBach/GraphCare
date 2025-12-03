@@ -1,0 +1,100 @@
+administrative admission	is a	hospital admission
+administrative admission	is triggered by	discharge paperwork
+administrative admission	requires	insurance verification
+administrative admission	involves	billing department
+administrative admission	is processed by	medical records
+administrative admission	is scheduled with	outpatient clinic
+administrative admission	is linked to	patient demographics
+administrative admission	is recorded in	electronic health record
+administrative admission	is associated with	readmission risk
+administrative admission	is influenced by	socioeconomic status
+administrative admission	is affected by	transportation availability
+administrative admission	is impacted by	caregiver support
+administrative admission	is related to	health literacy
+administrative admission	is connected to	medication adherence
+administrative admission	is correlated with	length of stay
+administrative admission	is linked to	post‑discharge follow‑up
+administrative admission	is associated with	post‑acute care placement
+administrative admission	is related to	home health services
+administrative admission	is connected to	social work referral
+administrative admission	is influenced by	insurance type
+administrative admission	is affected by	policy changes
+administrative admission	is impacted by	Medicaid eligibility
+administrative admission	is related to	Medicare coverage
+administrative admission	is linked to	hospital readmission penalty
+administrative admission	is associated with	quality metrics
+administrative admission	is connected to	patient satisfaction
+administrative admission	is influenced by	patient engagement
+administrative admission	is affected by	health insurance plan
+administrative admission	is impacted by	provider network
+administrative admission	is related to	care coordination
+administrative admission	is linked to	discharge planning
+administrative admission	is associated with	care transition
+administrative admission	is connected to	case management
+administrative admission	is influenced by	clinical guidelines
+administrative admission	is affected by	disease severity
+administrative admission	is impacted by	comorbidity burden
+administrative admission	is related to	functional status
+administrative admission	is linked to	frailty index
+administrative admission	is associated with	delirium risk
+administrative admission	is connected to	infection control
+administrative admission	is influenced by	antimicrobial stewardship
+administrative admission	is affected by	vaccination status
+administrative admission	is impacted by	nutritional status
+administrative admission	is related to	weight loss
+administrative admission	is linked to	sarcopenia
+administrative admission	is associated with	pressure ulcer risk
+administrative admission	is connected to	mobility status
+administrative admission	is influenced by	pain management
+administrative admission	is affected by	opioid use
+administrative admission	is impacted by	mental health
+administrative admission	is related to	depression
+administrative admission	is linked to	anxiety
+administrative admission	is associated with	substance abuse
+administrative admission	is connected to	psychiatric evaluation
+administrative admission	is influenced by	social isolation
+administrative admission	is affected by	housing instability
+administrative admission	is impacted by	food insecurity
+administrative admission	is related to	employment status
+administrative admission	is linked to	income level
+administrative admission	is associated with	educational attainment
+administrative admission	is connected to	health insurance literacy
+administrative admission	is influenced by	language barrier
+administrative admission	is affected by	cultural beliefs
+administrative admission	is impacted by	religious practices
+administrative admission	is related to	health behaviors
+administrative admission	is linked to	smoking status
+administrative admission	is associated with	alcohol consumption
+administrative admission	is connected to	exercise frequency
+administrative admission	is influenced by	diet quality
+administrative admission	is affected by	sleep patterns
+administrative admission	is impacted by	stress level
+administrative admission	is related to	family support
+administrative admission	is linked to	caregiver burden
+administrative admission	is associated with	health insurance coverage
+administrative admission	is connected to	health system navigation
+administrative admission	is influenced by	patient portal use
+administrative admission	is affected by	telehealth access
+administrative admission	is impacted by	mobile health apps
+administrative admission	is related to	electronic prescription
+administrative admission	is linked to	medication reconciliation
+administrative admission	is associated with	polypharmacy
+administrative admission	is connected to	adverse drug reaction
+administrative admission	is influenced by	drug interaction risk
+administrative admission	is affected by	medication cost
+administrative admission	is impacted by	pharmacy benefit manager
+administrative admission	is related to	health technology assessment
+administrative admission	is linked to	clinical decision support
+administrative admission	is associated with	predictive analytics
+administrative admission	is connected to	risk stratification
+administrative admission	is influenced by	machine learning model
+administrative admission	is affected by	data quality
+administrative admission	is impacted by	interoperability
+administrative admission	is related to	health information exchange
+administrative admission	is linked to	patient‑reported outcome
+administrative admission	is associated with	quality improvement
+administrative admission	is connected to	value‑based care
+administrative admission	is influenced by	bundled payment
+administrative admission	is affected by	pay‑for‑performance
+administrative admission	is impacted by	health equity
+administrative admission	is related to	social determinants of health

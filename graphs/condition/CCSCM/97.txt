@@ -1,0 +1,100 @@
+pericarditis	is a	inflammation
+pericarditis	affects	pericardium
+pericarditis	causes	chest pain
+pericarditis	is diagnosed with	ECG
+pericarditis	is treated with	NSAIDs
+pericarditis	may progress to	cardiac tamponade
+endocarditis	is a	infection
+endocarditis	involves	heart valves
+endocarditis	is caused by	bacteria
+endocarditis	is diagnosed with	blood culture
+endocarditis	is treated with	antibiotics
+endocarditis	may lead to	valve dysfunction
+myocarditis	is a	inflammation
+myocarditis	affects	myocardium
+myocarditis	causes	arrhythmia
+myocarditis	is diagnosed with	cardiac MRI
+myocarditis	is treated with	corticosteroids
+myocarditis	may result in	heart failure
+cardiomyopathy	is a	heart disease
+cardiomyopathy	involves	myocardial remodeling
+cardiomyopathy	can be	dilated
+cardiomyopathy	can be	hypertrophic
+cardiomyopathy	can be	restrictive
+cardiomyopathy	is diagnosed with	echocardiogram
+cardiomyopathy	is treated with	beta‑blocker
+cardiomyopathy	is treated with	ACE inhibitor
+cardiomyopathy	may lead to	sudden death
+pericarditis	is associated with	viral infection
+pericarditis	is associated with	autoimmune disease
+endocarditis	is associated with	prosthetic valve
+endocarditis	is associated with	intravenous drug use
+myocarditis	is associated with	viral myocarditis
+myocarditis	is associated with	autoimmune myocarditis
+cardiomyopathy	is associated with	genetic mutation
+cardiomyopathy	is associated with	alcohol abuse
+pericarditis	can be	acute
+pericarditis	can be	chronic
+endocarditis	can be	acute
+endocarditis	can be	subacute
+myocarditis	can be	acute
+myocarditis	can be	chronic
+cardiomyopathy	can be	ischemic
+cardiomyopathy	can be	non‑ischemic
+pericarditis	requires	pericardiocentesis
+endocarditis	requires	valve replacement
+myocarditis	requires	cardiac monitoring
+cardiomyopathy	requires	lifestyle modification
+pericarditis	increases	risk of tamponade
+endocarditis	increases	risk of embolism
+myocarditis	increases	risk of arrhythmia
+cardiomyopathy	increases	risk of heart failure
+pericarditis	is treated with	colchicine
+endocarditis	is treated with	prolonged antibiotics
+myocarditis	is treated with	immunosuppressants
+cardiomyopathy	is treated with	diuretics
+pericarditis	is monitored with	serial ECG
+endocarditis	is monitored with	repeat blood culture
+myocarditis	is monitored with	troponin
+cardiomyopathy	is monitored with	BNP
+pericarditis	can cause	pericardial effusion
+endocarditis	can cause	valvular regurgitation
+myocarditis	can cause	myocardial necrosis
+cardiomyopathy	can cause	ventricular dilation
+pericarditis	is a risk factor for	constrictive pericarditis
+endocarditis	is a risk factor for	heart failure
+myocarditis	is a risk factor for	cardiogenic shock
+cardiomyopathy	is a risk factor for	arrhythmogenic cardiomyopathy
+pericarditis	is treated with	steroids
+endocarditis	is treated with	valve surgery
+myocarditis	is treated with	antiviral
+cardiomyopathy	is treated with	cardiac resynchronization
+pericarditis	is associated with	Dressler syndrome
+endocarditis	is associated with	embolic stroke
+myocarditis	is associated with	myocarditis‑related death
+cardiomyopathy	is associated with	sudden cardiac arrest
+pericarditis	is linked to	rheumatoid arthritis
+endocarditis	is linked to	infective endocarditis
+myocarditis	is linked to	viral myocarditis
+cardiomyopathy	is linked to	hypertrophic cardiomyopathy
+pericarditis	is linked to	tuberculosis
+endocarditis	is linked to	Staphylococcus aureus
+myocarditis	is linked to	Coxsackievirus
+cardiomyopathy	is linked to	DCM
+pericarditis	is treated with	pericardiotomy
+endocarditis	is treated with	valve repair
+myocarditis	is treated with	heart transplant
+cardiomyopathy	is treated with	ICD implantation
+pericarditis	is monitored with	echocardiogram
+endocarditis	is monitored with	transesophageal echo
+myocarditis	is monitored with	cardiac MRI
+cardiomyopathy	is monitored with	Holter monitor
+pericarditis	is a complication of	myocardial infarction
+endocarditis	is a complication of	rheumatic fever
+myocarditis	is a complication of	viral infection
+cardiomyopathy	is a complication of	hypertension
+pericarditis	is a predictor of	mortality
+endocarditis	is a predictor of	readmission
+myocarditis	is a predictor of	heart failure
+cardiomyopathy	is a predictor of	sudden death
+pericarditis	is a target for	preventive therapy

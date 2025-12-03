@@ -1,0 +1,100 @@
+sprains	are a type of	musculoskeletal injury
+sprains	involve	ligament damage
+sprains	cause	joint instability
+sprains	result in	pain
+sprains	lead to	swelling
+sprains	cause	limited mobility
+sprains	are treated with	rest
+sprains	are treated with	ice
+sprains	are treated with	compression
+sprains	are treated with	elevation
+sprains	are treated with	immobilization
+sprains	are treated with	physiotherapy
+sprains	are treated with	anti-inflammatory medication
+sprains	are treated with	analgesics
+sprains	are treated with	bracing
+sprains	are treated with	surgery
+sprains	are diagnosed with	physical examination
+sprains	are diagnosed with	imaging
+sprains	are diagnosed with	X‑ray
+sprains	are diagnosed with	MRI
+sprains	are diagnosed with	ultrasound
+sprains	are diagnosed with	arthroscopy
+sprains	are diagnosed with	laboratory tests
+sprains	are diagnosed with	patient history
+sprains	are associated with	ankle injury
+sprains	are associated with	knee injury
+sprains	are associated with	wrist injury
+sprains	are associated with	shoulder injury
+sprains	are associated with	back injury
+sprains	are associated with	sports activity
+sprains	are associated with	occupational hazard
+sprains	are associated with	aging
+sprains	are associated with	obesity
+sprains	are associated with	osteoporosis
+sprains	are associated with	pregnancy
+sprains	are associated with	diabetes
+sprains	are associated with	hypertension
+sprains	are associated with	smoking
+sprains	are associated with	alcohol use
+sprains	are associated with	vitamin D deficiency
+sprains	are associated with	muscle weakness
+sprains	are associated with	poor balance
+sprains	are associated with	footwear choice
+sprains	are associated with	terrain
+sprains	are associated with	footwear fit
+sprains	are associated with	training intensity
+sprains	are associated with	overuse
+sprains	are associated with	fatigue
+sprains	are associated with	previous injury
+sprains	are associated with	ligament laxity
+sprains	increase risk of	chronic pain
+sprains	increase risk of	recurrent injury
+sprains	increase risk of	post‑traumatic arthritis
+sprains	increase risk of	functional decline
+sprains	increase risk of	depression
+sprains	increase risk of	anxiety
+sprains	increase risk of	reduced quality of life
+sprains	increase risk of	long‑term disability
+sprains	increase risk of	hospitalization
+sprains	increase risk of	readmission
+sprains	increase risk of	mortality
+sprains	are a predictor of	future osteoarthritis
+sprains	are a predictor of	reduced athletic performance
+sprains	are a predictor of	decreased work productivity
+sprains	are a predictor of	increased healthcare cost
+sprains	are a predictor of	need for assistive device
+sprains	are a predictor of	need for surgery
+sprains	are a predictor of	need for rehabilitation
+sprains	are a predictor of	need for pain medication
+sprains	are a predictor of	need for orthotic support
+sprains	are a predictor of	need for physiotherapy
+sprains	are a predictor of	need for occupational therapy
+sprains	are a predictor of	need for mental health support
+sprains	are a predictor of	need for follow‑up visit
+sprains	are a predictor of	risk of falls
+sprains	are a predictor of	risk of future injury
+sprains	are a predictor of	risk of chronic instability
+sprains	are a predictor of	risk of reduced range of motion
+sprains	are a predictor of	risk of muscle atrophy
+sprains	are a predictor of	risk of joint degeneration
+sprains	are a predictor of	risk of decreased balance
+sprains	are a predictor of	risk of impaired gait
+sprains	are a predictor of	risk of impaired proprioception
+sprains	are a predictor of	risk of impaired coordination
+sprains	are a predictor of	risk of impaired functional mobility
+sprains	are a predictor of	risk of impaired daily living
+sprains	are a predictor of	risk of impaired work performance
+sprains	are a predictor of	risk of impaired sports performance
+sprains	are a predictor of	risk of impaired quality of life
+sprains	are a predictor of	risk of increased healthcare utilization
+sprains	are a predictor of	risk of increased medication use
+sprains	are a predictor of	risk of increased surgical interventions
+sprains	are a predictor of	risk of increased rehabilitation sessions
+sprains	are a predictor of	risk of increased assistive device use
+sprains	are a predictor of	risk of increased mental health visits
+sprains	are a predictor of	risk of increased fall risk
+sprains	are a predictor of	risk of increased future injury
+sprains	are a predictor of	risk of increased chronic pain
+sprains	are a predictor of	risk of increased disability
+sprains	are a predictor of	risk of increased mortality

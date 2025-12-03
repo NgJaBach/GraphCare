@@ -1,0 +1,100 @@
+sickle cell anemia	is a	hemoglobinopathy
+sickle cell anemia	is caused by	point mutation
+point mutation	occurs in	β‑globin gene
+β‑globin gene	is part of	hemoglobin
+hemoglobin	carries	oxygen
+sickle cell anemia	causes	hemoglobin S
+hemoglobin S	polymerizes under	low oxygen
+polymerization	leads to	red cell sickling
+red cell sickling	causes	vaso‑occlusion
+vaso‑occlusion	results in	ischemic pain
+ischemic pain	manifests as	vaso‑occlusive crisis
+vaso‑occlusive crisis	treated with	opioid analgesics
+opioid analgesics	are a	pain medication
+vaso‑occlusive crisis	can cause	acute chest syndrome
+acute chest syndrome	is a	pulmonary complication
+pulmonary complication	increases	mortality risk
+sickle cell anemia	predisposes to	stroke
+stroke	is a	cerebrovascular event
+cerebrovascular event	requires	rapid intervention
+rapid intervention	includes	thrombolytics
+thrombolytics	are a	clot‑dissolving drug
+sickle cell anemia	leads to	chronic hemolysis
+chronic hemolysis	causes	anemia
+anemia	results in	fatigue
+fatigue	is a	symptom
+sickle cell anemia	increases	infection risk
+infection risk	is mitigated by	vaccinations
+vaccinations	include	pneumococcal vaccine
+pneumococcal vaccine	prevents	pneumonia
+pneumonia	is a	respiratory infection
+respiratory infection	can worsen	sickle cell anemia
+sickle cell anemia	is screened by	newborn screening
+newborn screening	detects	hemoglobinopathy
+hemoglobinopathy	is monitored by	hemoglobin electrophoresis
+hemoglobin electrophoresis	measures	hemoglobin variants
+hemoglobin variants	include	hemoglobin S
+hemoglobin S	is detected by	sickle cell test
+sickle cell test	is a	diagnostic test
+diagnostic test	informs	treatment plan
+treatment plan	may include	hydroxyurea
+hydroxyurea	is a	disease‑modifying drug
+disease‑modifying drug	reduces	vaso‑occlusive crises
+vaso‑occlusive crises	decrease	hospital readmissions
+hospital readmissions	are a	quality metric
+quality metric	influences	reimbursement
+reimbursement	is affected by	readmission rates
+readmission rates	are predicted by	risk score
+risk score	uses	clinical variables
+clinical variables	include	age
+clinical variables	include	baseline hemoglobin
+clinical variables	include	prior crises
+clinical variables	include	infection history
+clinical variables	include	hydroxyurea use
+sickle cell anemia	can cause	leg ulcers
+leg ulcers	are a	chronic wound
+chronic wound	requires	wound care
+wound care	may involve	debridement
+debridement	is performed by	surgeon
+surgeon	is a	specialist
+specialist	may be	hematologist
+hematologist	manages	sickle cell anemia
+sickle cell anemia	may lead to	pulmonary hypertension
+pulmonary hypertension	is a	cardiovascular complication
+cardiovascular complication	is treated with	endothelin receptor antagonists
+endothelin receptor antagonists	are a	drug class
+drug class	reduces	pulmonary pressures
+pulmonary pressures	lower	mortality
+sickle cell anemia	is associated with	iron overload
+iron overload	results from	transfusions
+transfusions	are given for	severe anemia
+severe anemia	requires	blood transfusion
+blood transfusion	can cause	alloimmunization
+alloimmunization	complicates	future transfusions
+future transfusions	may need	cross‑matching
+cross‑matching	is a	laboratory procedure
+laboratory procedure	informs	transfusion safety
+transfusion safety	improves	patient outcomes
+patient outcomes	include	survival
+survival	is a	mortality metric
+mortality metric	is used for	risk stratification
+risk stratification	guides	therapy intensity
+therapy intensity	may involve	stem cell transplant
+stem cell transplant	is a	curative option
+curative option	requires	matched donor
+matched donor	is identified by	HLA typing
+HLA typing	is a	genetic test
+genetic test	informs	transplant eligibility
+transplant eligibility	determines	treatment pathway
+treatment pathway	includes	conditioning regimen
+conditioning regimen	uses	chemotherapy
+chemotherapy	is a	cytotoxic agent
+cytotoxic agent	can cause	immunosuppression
+immunosuppression	increases	infection risk
+infection risk	is monitored by	prophylaxis
+prophylaxis	includes	trimethoprim‑sulfamethoxazole
+trimethoprim‑sulfamethoxazole	is a	antibiotic
+antibiotic	prevents	Pneumocystis jirovecii
+Pneumocystis jirovecii	causes	opportunistic infection
+opportunistic infection	worsens	prognosis
+prognosis	is predicted by	clinical score

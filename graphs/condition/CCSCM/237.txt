@@ -1,0 +1,100 @@
+device complication	is a	adverse event
+device complication	occurs after	implantation
+device complication	can cause	infection
+device complication	can cause	thrombosis
+device complication	can cause	embolism
+device complication	can cause	bleeding
+device complication	can cause	pain
+device complication	can cause	dysfunction
+device complication	can cause	failure
+device complication	can cause	migration
+device complication	can cause	fracture
+device complication	can cause	erosion
+device complication	can cause	erosion of tissue
+device complication	can cause	erosion of organ
+device complication	can cause	erosion of vessel
+device complication	can cause	erosion of bone
+device complication	can cause	erosion of skin
+device complication	can cause	erosion of cartilage
+device complication	can cause	erosion of nerve
+device complication	can cause	erosion of artery
+device complication	can cause	erosion of vein
+device complication	can cause	erosion of valve
+device complication	can cause	erosion of stent
+device complication	can cause	erosion of graft
+device complication	can cause	erosion of prosthesis
+device complication	can cause	erosion of implant
+device complication	can cause	erosion of hardware
+device complication	can cause	erosion of scaffold
+device complication	can cause	erosion of mesh
+device complication	can cause	erosion of valve prosthesis
+device complication	can cause	erosion of vascular graft
+device complication	can cause	erosion of cardiac device
+device complication	can cause	erosion of orthopedic implant
+device complication	can cause	erosion of dental implant
+device complication	can cause	erosion of ocular implant
+device complication	can cause	erosion of cochlear implant
+device complication	can cause	erosion of pacemaker
+device complication	can cause	erosion of defibrillator
+device complication	can cause	erosion of shunt
+device complication	can cause	erosion of valve replacement
+device complication	can cause	erosion of joint replacement
+device complication	can cause	erosion of spinal cage
+device complication	can cause	erosion of hip prosthesis
+device complication	can cause	erosion of knee prosthesis
+device complication	can cause	erosion of shoulder prosthesis
+device complication	can cause	erosion of ankle prosthesis
+device complication	can cause	erosion of wrist prosthesis
+device complication	can cause	erosion of elbow prosthesis
+device complication	can cause	erosion of hand prosthesis
+device complication	can cause	erosion of foot prosthesis
+device complication	can cause	erosion of vascular graft
+device complication	can cause	erosion of synthetic graft
+device complication	can cause	erosion of biological graft
+device complication	can cause	erosion of tissue-engineered graft
+device complication	can cause	erosion of vascular scaffold
+device complication	can cause	erosion of cardiac scaffold
+device complication	can cause	erosion of orthopedic scaffold
+device complication	can cause	erosion of dental scaffold
+device complication	can cause	erosion of ocular scaffold
+device complication	can cause	erosion of cochlear scaffold
+device complication	can cause	erosion of pacemaker scaffold
+device complication	can cause	erosion of defibrillator scaffold
+device complication	can cause	erosion of shunt scaffold
+device complication	can cause	erosion of valve scaffold
+device complication	can cause	erosion of joint scaffold
+device complication	can cause	erosion of spinal scaffold
+device complication	can cause	erosion of hip scaffold
+device complication	can cause	erosion of knee scaffold
+device complication	can cause	erosion of shoulder scaffold
+device complication	can cause	erosion of ankle scaffold
+device complication	can cause	erosion of wrist scaffold
+device complication	can cause	erosion of elbow scaffold
+device complication	can cause	erosion of hand scaffold
+device complication	can cause	erosion of foot scaffold
+device complication	can cause	erosion of vascular implant
+device complication	can cause	erosion of cardiac implant
+device complication	can cause	erosion of orthopedic implant
+device complication	can cause	erosion of dental implant
+device complication	can cause	erosion of ocular implant
+device complication	can cause	erosion of cochlear implant
+device complication	can cause	erosion of pacemaker implant
+device complication	can cause	erosion of defibrillator implant
+device complication	can cause	erosion of shunt implant
+device complication	can cause	erosion of valve implant
+device complication	can cause	erosion of joint implant
+device complication	can cause	erosion of spinal implant
+device complication	can cause	erosion of hip implant
+device complication	can cause	erosion of knee implant
+device complication	can cause	erosion of shoulder implant
+device complication	can cause	erosion of ankle implant
+device complication	can cause	erosion of wrist implant
+device complication	can cause	erosion of elbow implant
+device complication	can cause	erosion of hand implant
+device complication	can cause	erosion of foot implant
+device complication	can cause	erosion of vascular prosthesis
+device complication	can cause	erosion of cardiac prosthesis
+device complication	can cause	erosion of orthopedic prosthesis
+device complication	can cause	erosion of dental prosthesis
+device complication	can cause	erosion of ocular prosthesis
+device complication	can cause	erosion of cochlear prosthesis

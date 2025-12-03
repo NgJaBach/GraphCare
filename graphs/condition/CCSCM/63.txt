@@ -1,0 +1,100 @@
+leukemia	is a	cancer
+leukemia	originates from	white blood cells
+leukemia	causes	anemia
+leukemia	causes	infections
+leukemia	causes	fatigue
+leukemia	is treated with	chemotherapy
+leukemia	is treated with	radiation
+leukemia	is treated with	stem cell transplant
+leukemia	is diagnosed by	blood smear
+leukemia	is diagnosed by	bone marrow biopsy
+leukemia	is diagnosed by	flow cytometry
+leukemia	is associated with	chromosomal translocation
+leukemia	is associated with	Philadelphia chromosome
+leukemia	is associated with	BCR‑ABL fusion
+leukemia	is associated with	p53 mutation
+leukemia	is associated with	FLT3 mutation
+leukemia	is associated with	NPM1 mutation
+leukemia	is associated with	CML
+leukemia	is associated with	ALL
+leukemia	is associated with	AML
+leukemia	is associated with	CLL
+leukemia	is associated with	MDS
+leukemia	is associated with	MPN
+leukemia	is associated with	myelofibrosis
+leukemia	is associated with	lymphoma
+leukemia	is associated with	myeloma
+leukemia	is associated with	autoimmune disease
+leukemia	is associated with	viral infection
+leukemia	is associated with	HIV
+leukemia	is associated with	hepatitis C
+leukemia	is associated with	EBV
+leukemia	is associated with	CMV
+leukemia	is associated with	HPV
+leukemia	is associated with	smoking
+leukemia	is associated with	benzene
+leukemia	is associated with	radiation
+leukemia	is associated with	chemotherapy
+leukemia	is associated with	occupational exposure
+leukemia	is associated with	genetic predisposition
+leukemia	is associated with	Down syndrome
+leukemia	is associated with	Bloom syndrome
+leukemia	is associated with	Li‑Fraumeni syndrome
+leukemia	is associated with	Fanconi anemia
+leukemia	is associated with	GATA2 deficiency
+leukemia	is associated with	TET2 mutation
+leukemia	is associated with	DNMT3A mutation
+leukemia	is associated with	IDH1 mutation
+leukemia	is associated with	IDH2 mutation
+leukemia	is associated with	RUNX1 mutation
+leukemia	is associated with	CEBPA mutation
+leukemia	is associated with	WT1 mutation
+leukemia	is associated with	TP53 mutation
+leukemia	is associated with	KRAS mutation
+leukemia	is associated with	NRAS mutation
+leukemia	is associated with	BRAF mutation
+leukemia	is associated with	JAK2 mutation
+leukemia	is associated with	CALR mutation
+leukemia	is associated with	MPL mutation
+leukemia	is associated with	MYC amplification
+leukemia	is associated with	MYB amplification
+leukemia	is associated with	ETV6‑RUNX1 fusion
+leukemia	is associated with	TEL‑AML1 fusion
+leukemia	is associated with	MLL rearrangement
+leukemia	is associated with	KMT2A fusion
+leukemia	is associated with	NUP98 fusion
+leukemia	is associated with	PML‑RARA fusion
+leukemia	is associated with	BCL2 overexpression
+leukemia	is associated with	BCL6 overexpression
+leukemia	is associated with	MYC overexpression
+leukemia	is associated with	FLT3‑ITD mutation
+leukemia	is associated with	FLT3‑TKD mutation
+leukemia	is associated with	NPM1 mutation
+leukemia	is associated with	CEBPA mutation
+leukemia	is associated with	RUNX1 mutation
+leukemia	is associated with	TP53 mutation
+leukemia	is associated with	CDKN2A deletion
+leukemia	is associated with	CDKN2B deletion
+leukemia	is associated with	EZH2 mutation
+leukemia	is associated with	ASXL1 mutation
+leukemia	is associated with	SRSF2 mutation
+leukemia	is associated with	SF3B1 mutation
+leukemia	is associated with	U2AF1 mutation
+leukemia	is associated with	ZRSR2 mutation
+leukemia	is associated with	TET2 mutation
+leukemia	is associated with	DNMT3A mutation
+leukemia	is associated with	IDH1 mutation
+leukemia	is associated with	IDH2 mutation
+leukemia	is associated with	RUNX1 mutation
+leukemia	is associated with	CEBPA mutation
+leukemia	is associated with	WT1 mutation
+leukemia	is associated with	TP53 mutation
+leukemia	is associated with	KRAS mutation
+leukemia	is associated with	NRAS mutation
+leukemia	is associated with	BRAF mutation
+leukemia	is associated with	JAK2 mutation
+leukemia	is associated with	CALR mutation
+leukemia	is associated with	MPL mutation
+leukemia	is associated with	MYC amplification
+leukemia	is associated with	MYB amplification
+leukemia	is associated with	ETV6‑RUNX1 fusion

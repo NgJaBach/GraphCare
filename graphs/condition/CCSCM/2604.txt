@@ -1,0 +1,100 @@
+fire	causes	burn
+burn	results in	tissue damage
+tissue damage	leads to	inflammation
+inflammation	triggers	pain
+pain	prompts	emergency care
+emergency care	includes	wound cleaning
+wound cleaning	requires	antiseptic
+antiseptic	reduces	infection risk
+infection risk	increases	sepsis probability
+sepsis	predicts	mortality
+mortality	is a key outcome
+burn	classified by	depth
+depth	determines	treatment plan
+treatment plan	may include	debridement
+debridement	improves	healing
+healing	depends on	nutrition
+nutrition	assessed by	albumin level
+albumin level	correlates with	wound closure
+wound closure	reduces	readmission
+readmission	is a risk factor
+fire	can cause	smoke inhalation
+smoke inhalation	leads to	airway injury
+airway injury	requires	intubation
+intubation	increases	ICU stay
+ICU stay	predicts	complications
+complications	include	pneumonia
+pneumonia	worsens	prognosis
+prognosis	informs	discharge planning
+discharge planning	involves	home care
+home care	reduces	rehospitalization
+rehospitalization	is a cost driver
+cost driver	influences	insurance claims
+insurance claims	reflect	resource utilization
+resource utilization	guides	policy
+policy	sets	reimbursement rates
+reimbursement rates	affect	provider behavior
+provider behavior	impacts	treatment choice
+treatment choice	affects	patient outcomes
+patient outcomes	measured by	quality metrics
+quality metrics	used for	performance evaluation
+performance evaluation	informs	credentialing
+credentialing	determines	access to care
+access to care	influences	health disparities
+health disparities	drive	public health initiatives
+public health initiatives	target	prevention
+prevention	includes	fire safety education
+fire safety education	reduces	burn incidence
+burn incidence	lowers	emergency visits
+emergency visits	decrease	healthcare burden
+healthcare burden	mitigated by	telemedicine
+telemedicine	supports	follow‑up care
+follow‑up care	ensures	scar management
+scar management	improves	cosmetic outcome
+cosmetic outcome	enhances	quality of life
+quality of life	measured by	SF‑36
+SF‑36	predicts	functional status
+functional status	determines	return to work
+return to work	affects	socioeconomic status
+socioeconomic status	correlates with	health literacy
+health literacy	predicts	medication adherence
+medication adherence	influences	infection control
+infection control	reduces	antibiotic resistance
+antibiotic resistance	increases	treatment cost
+treatment cost	drives	cost‑effectiveness analysis
+cost‑effectiveness analysis	informs	drug selection
+drug selection	includes	topical antibiotics
+topical antibiotics	used for	superficial burns
+superficial burns	treated with	silver sulfadiazine
+silver sulfadiazine	is a	antimicrobial
+antimicrobial	prevents	colonization
+colonization	leads to	biofilm formation
+biofilm formation	hampers	wound healing
+wound healing	monitored by	wound size
+wound size	predicts	graft necessity
+graft necessity	requires	skin graft
+skin graft	sourced from	autograft
+autograft	harvested from	donor site
+donor site	heals by	secondary intention
+secondary intention	takes	longer time
+longer time	increases	caregiver burden
+caregiver burden	measured by	Zarit index
+Zarit index	correlates with	depression
+depression	reduces	adherence
+adherence	affects	recurrence
+recurrence	leads to	readmission
+readmission	triggers	quality improvement
+quality improvement	uses	root cause analysis
+root cause analysis	identifies	system gaps
+system gaps	addressed by	protocol development
+protocol development	standardizes	burn care
+burn care	follows	Advanced Trauma Life Support
+ATLS	includes	airway management
+airway management	critical for	inhalation injury
+inhalation injury	assessed by	bronchoscopy
+bronchoscopy	guides	ventilator strategy
+ventilator strategy	reduces	ventilator‑associated pneumonia
+ventilator‑associated pneumonia	lowers	ICU mortality
+ICU mortality	is a key metric
+key metric	informs	benchmarking
+benchmarking	drives	continuous improvement

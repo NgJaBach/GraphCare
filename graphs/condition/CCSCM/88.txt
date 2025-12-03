@@ -1,0 +1,100 @@
+glaucoma	is a	optic neuropathy
+glaucoma	causes	vision loss
+glaucoma	leads to	blindness
+glaucoma	is diagnosed by	intraocular pressure
+glaucoma	is diagnosed by	optic disc cupping
+glaucoma	is diagnosed by	visual field test
+glaucoma	is treated with	eye drops
+glaucoma	is treated with	laser therapy
+glaucoma	is treated with	surgery
+glaucoma	is prevented by	regular eye exam
+glaucoma	is associated with	age
+glaucoma	is associated with	myopia
+glaucoma	is associated with	diabetes
+glaucoma	is associated with	hypertension
+glaucoma	is associated with	family history
+glaucoma	is associated with	African‑American ethnicity
+glaucoma	is associated with	steroid use
+glaucoma	is associated with	ocular trauma
+glaucoma	is associated with	high myopia
+glaucoma	is associated with	narrow angle
+glaucoma	is associated with	pigment dispersion
+glaucoma	is associated with	pseudoexfoliation
+glaucoma	is associated with	ocular hypertension
+glaucoma	is associated with	systemic lupus erythematosus
+glaucoma	is associated with	rheumatoid arthritis
+glaucoma	is associated with	pregnancy
+glaucoma	is associated with	chronic kidney disease
+glaucoma	is associated with	heart disease
+glaucoma	is associated with	high cholesterol
+glaucoma	is associated with	smoking
+glaucoma	is associated with	alcohol use
+glaucoma	is associated with	obesity
+glaucoma	is associated with	high caffeine intake
+glaucoma	is associated with	low vitamin D
+glaucoma	is associated with	low omega‑3
+glaucoma	is associated with	high salt intake
+glaucoma	is associated with	low physical activity
+glaucoma	is associated with	high stress
+glaucoma	is associated with	sleep apnea
+glaucoma	is associated with	migraine
+glaucoma	is associated with	cataract surgery
+glaucoma	is associated with	ocular inflammation
+glaucoma	is associated with	ocular ischemia
+glaucoma	is associated with	ocular tumors
+glaucoma	is associated with	ocular infections
+glaucoma	is associated with	ocular allergies
+glaucoma	is associated with	ocular surface disease
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection
+glaucoma	is associated with	ocular surface allergy
+glaucoma	is associated with	ocular surface dryness
+glaucoma	is associated with	ocular surface inflammation
+glaucoma	is associated with	ocular surface neoplasia
+glaucoma	is associated with	ocular surface trauma
+glaucoma	is associated with	ocular surface infection

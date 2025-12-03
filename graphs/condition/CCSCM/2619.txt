@@ -1,0 +1,100 @@
+e codes	classify	endocrine disorders
+e codes	include	unspecified endocrine disease
+e codes	used in	hospital billing
+e codes	required for	insurance claims
+e codes	coded by	medical coder
+e codes	part of	ICD‑10 system
+e codes	represent	endocrine conditions
+e codes	indicate	diagnosis severity
+e codes	guide	treatment planning
+e codes	influence	reimbursement rates
+e codes	affect	patient prognosis
+e codes	used in	clinical research
+e codes	help track	disease prevalence
+e codes	assist in	public health surveillance
+e codes	support	quality metrics
+e codes	inform	resource allocation
+e codes	enable	comparative effectiveness studies
+e codes	facilitate	cohort identification
+e codes	used for	readmission risk
+e codes	predict	mortality risk
+e codes	correlate with	medication adherence
+e codes	linked to	surgical outcomes
+e codes	associated with	comorbidity burden
+e codes	used in	predictive modeling
+e codes	improve	clinical decision support
+e codes	help identify	high‑risk patients
+e codes	support	care coordination
+e codes	used in	electronic health record
+e codes	integrated with	laboratory data
+e codes	combined with	imaging results
+e codes	mapped to	SNOMED CT
+e codes	mapped to	LOINC
+e codes	mapped to	RxNorm
+e codes	used in	pharmacy claims
+e codes	influence	drug therapy selection
+e codes	guide	endocrine specialist referral
+e codes	indicate	need for endocrine surgery
+e codes	used to	monitor treatment response
+e codes	help assess	endocrine therapy efficacy
+e codes	support	guideline adherence
+e codes	used in	clinical audit
+e codes	enable	benchmarking
+e codes	assist in	cost‑effectiveness analysis
+e codes	inform	health policy
+e codes	used for	population health management
+e codes	aid in	risk stratification
+e codes	predict	hospitalization likelihood
+e codes	correlate with	length of stay
+e codes	associated with	ICU admission
+e codes	linked to	post‑operative complications
+e codes	used in	mortality prediction models
+e codes	improve	early warning systems
+e codes	support	telemedicine triage
+e codes	used in	patient education
+e codes	help identify	medication side effects
+e codes	guide	dose adjustment
+e codes	indicate	endocrine hormone levels
+e codes	correlate with	lab abnormalities
+e codes	used in	pharmacogenomic studies
+e codes	assist in	adverse event reporting
+e codes	support	clinical trial enrollment
+e codes	used for	eligibility criteria
+e codes	help monitor	clinical trial safety
+e codes	inform	drug‑drug interaction risk
+e codes	used in	medication reconciliation
+e codes	aid in	deprescribing decisions
+e codes	support	chronic disease management
+e codes	used in	care pathways
+e codes	help track	disease progression
+e codes	correlate with	patient‑reported outcomes
+e codes	linked to	health‑related quality of life
+e codes	used in	health‑technology assessment
+e codes	inform	reimbursement policy
+e codes	support	value‑based purchasing
+e codes	used in	bundled payment models
+e codes	assist in	risk‑adjusted performance metrics
+e codes	help identify	gaps in care
+e codes	guide	preventive screening
+e codes	indicate	need for lifestyle counseling
+e codes	used in	patient‑centred care plans
+e codes	support	shared decision making
+e codes	aid in	health literacy assessment
+e codes	inform	social determinants of health
+e codes	used in	community health initiatives
+e codes	help evaluate	program effectiveness
+e codes	correlate with	health‑care utilization
+e codes	linked to	outpatient visits
+e codes	used in	emergency department triage
+e codes	support	rapid response teams
+e codes	aid in	disaster preparedness
+e codes	inform	workforce planning
+e codes	used in	medical education
+e codes	help train	clinical coders
+e codes	support	inter‑disciplinary collaboration
+e codes	used in	quality improvement
+e codes	enable	data‑driven interventions
+e codes	assist in	patient safety initiatives
+e codes	guide	medication safety protocols
+e codes	help identify	adverse drug events
+e codes	support	continuous monitoring systems

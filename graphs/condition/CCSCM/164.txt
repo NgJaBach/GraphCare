@@ -1,0 +1,100 @@
+hyperplasia of prostate	is a	benign condition
+hyperplasia of prostate	causes	urinary obstruction
+hyperplasia of prostate	leads to	nocturia
+hyperplasia of prostate	causes	weak stream
+hyperplasia of prostate	causes	post‑void residual
+hyperplasia of prostate	is diagnosed with	PSA test
+hyperplasia of prostate	is diagnosed with	digital rectal exam
+hyperplasia of prostate	is diagnosed with	transrectal ultrasound
+hyperplasia of prostate	is diagnosed with	prostate MRI
+hyperplasia of prostate	is treated with	alpha‑blocker
+hyperplasia of prostate	is treated with	5‑alpha‑reductase inhibitor
+hyperplasia of prostate	is treated with	combination therapy
+hyperplasia of prostate	is treated with	laser therapy
+hyperplasia of prostate	is treated with	transurethral resection
+alpha‑blocker	reduces	urinary symptoms
+5‑alpha‑reductase inhibitor	shrinks	prostate size
+laser therapy	reduces	prostate volume
+transurethral resection	removes	prostate tissue
+alpha‑blocker	is a	medication
+5‑alpha‑reductase inhibitor	is a	medication
+alpha‑blocker	improves	quality of life
+5‑alpha‑reductase inhibitor	reduces	risk of surgery
+alpha‑blocker	may cause	dizziness
+5‑alpha‑reductase inhibitor	may cause	sexual dysfunction
+hyperplasia of prostate	increases	risk of urinary tract infection
+hyperplasia of prostate	increases	risk of bladder stones
+hyperplasia of prostate	increases	risk of acute urinary retention
+hyperplasia of prostate	increases	risk of kidney damage
+hyperplasia of prostate	is associated with	metabolic syndrome
+hyperplasia of prostate	is associated with	hypertension
+hyperplasia of prostate	is associated with	diabetes
+hyperplasia of prostate	is associated with	obesity
+hyperplasia of prostate	is associated with	dyslipidemia
+hyperplasia of prostate	is associated with	cardiovascular disease
+hyperplasia of prostate	is associated with	erectile dysfunction
+hyperplasia of prostate	is associated with	sleep apnea
+hyperplasia of prostate	is associated with	prostate cancer risk
+hyperplasia of prostate	is associated with	increased PSA
+hyperplasia of prostate	is associated with	increased urinary frequency
+hyperplasia of prostate	is associated with	nocturnal enuresis
+hyperplasia of prostate	is associated with	urinary urgency
+hyperplasia of prostate	is associated with	urinary incontinence
+hyperplasia of prostate	is associated with	bladder dysfunction
+hyperplasia of prostate	is associated with	renal insufficiency
+hyperplasia of prostate	is associated with	anemia
+hyperplasia of prostate	is associated with	bone density loss
+hyperplasia of prostate	is associated with	depression
+hyperplasia of prostate	is associated with	anxiety
+hyperplasia of prostate	is associated with	fatigue
+hyperplasia of prostate	is associated with	decreased libido
+hyperplasia of prostate	is associated with	erectile dysfunction
+hyperplasia of prostate	is associated with	urinary tract stones
+hyperplasia of prostate	is associated with	bladder cancer risk
+hyperplasia of prostate	is associated with	prostate biopsy need
+hyperplasia of prostate	is associated with	prostate surgery risk
+hyperplasia of prostate	is associated with	postoperative complications
+hyperplasia of prostate	is associated with	readmission risk
+hyperplasia of prostate	is associated with	mortality risk
+hyperplasia of prostate	is associated with	cardiovascular mortality
+hyperplasia of prostate	is associated with	all‑cause mortality
+hyperplasia of prostate	is associated with	cancer mortality
+hyperplasia of prostate	is associated with	urinary tract infection recurrence
+hyperplasia of prostate	is associated with	bladder dysfunction severity
+hyperplasia of prostate	is associated with	prostate volume
+hyperplasia of prostate	is associated with	PSA velocity
+hyperplasia of prostate	is associated with	prostate-specific antigen density
+hyperplasia of prostate	is associated with	prostate imaging score
+hyperplasia of prostate	is associated with	prostate biopsy outcome
+hyperplasia of prostate	is associated with	prostate cancer screening
+hyperplasia of prostate	is associated with	prostate cancer staging
+hyperplasia of prostate	is associated with	prostate cancer grade
+hyperplasia of prostate	is associated with	prostate cancer prognosis
+hyperplasia of prostate	is associated with	prostate cancer recurrence
+hyperplasia of prostate	is associated with	prostate cancer mortality
+hyperplasia of prostate	is associated with	prostate cancer treatment choice
+hyperplasia of prostate	is associated with	prostate cancer therapy response
+hyperplasia of prostate	is associated with	prostate cancer survivorship
+hyperplasia of prostate	is associated with	prostate cancer complications
+hyperplasia of prostate	is associated with	prostate cancer quality of life
+hyperplasia of prostate	is associated with	prostate cancer cost
+hyperplasia of prostate	is associated with	prostate cancer screening adherence
+hyperplasia of prostate	is associated with	prostate cancer risk factors
+hyperplasia of prostate	is associated with	prostate cancer prevention
+hyperplasia of prostate	is associated with	prostate cancer early detection
+hyperplasia of prostate	is associated with	prostate cancer late detection
+hyperplasia of prostate	is associated with	prostate cancer treatment side effects
+hyperplasia of prostate	is associated with	prostate cancer patient education
+hyperplasia of prostate	is associated with	prostate cancer clinical trials
+hyperplasia of prostate	is associated with	prostate cancer guideline adherence
+hyperplasia of prostate	is associated with	prostate cancer multidisciplinary care
+hyperplasia of prostate	is associated with	prostate cancer survivorship care
+hyperplasia of prostate	is associated with	prostate cancer palliative care
+hyperplasia of prostate	is associated with	prostate cancer health disparities
+hyperplasia of prostate	is associated with	prostate cancer screening intervals
+hyperplasia of prostate	is associated with	prostate cancer risk stratification
+hyperplasia of prostate	is associated with	prostate cancer treatment sequencing
+hyperplasia of prostate	is associated with	prostate cancer quality metrics
+hyperplasia of prostate	is associated with	prostate cancer cost‑effectiveness
+hyperplasia of prostate	is associated with	prostate cancer patient‑reported outcomes
+hyperplasia of prostate	is associated with	prostate cancer survivorship outcomes

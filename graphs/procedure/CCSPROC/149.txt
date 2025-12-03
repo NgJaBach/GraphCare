@@ -1,0 +1,100 @@
+arthroscopy	is a	medical procedure
+arthroscopy	used for	joint evaluation
+arthroscopy	performed on	knee
+arthroscopy	performed on	shoulder
+arthroscopy	performed on	hip
+arthroscopy	performed on	ankle
+arthroscopy	performed on	elbow
+arthroscopy	performed on	wrist
+arthroscopy	requires	anesthesia
+arthroscopy	uses	arthroscope
+arthroscope	is a	imaging device
+arthroscope	provides	real‑time video
+arthroscopy	reduces	recovery time
+arthroscopy	reduces	hospital stay
+arthroscopy	reduces	postoperative pain
+arthroscopy	reduces	infection risk
+arthroscopy	reduces	blood loss
+arthroscopy	increases	diagnostic accuracy
+arthroscopy	increases	treatment precision
+arthroscopy	increases	patient satisfaction
+arthroscopy	can detect	meniscal tear
+arthroscopy	can detect	ligament injury
+arthroscopy	can detect	cartilage defect
+arthroscopy	can detect	osteochondritis
+arthroscopy	can detect	synovial cyst
+arthroscopy	can detect	loose body
+arthroscopy	can detect	subluxation
+arthroscopy	can treat	meniscal repair
+arthroscopy	can treat	ligament reconstruction
+arthroscopy	can treat	cartilage debridement
+arthroscopy	can treat	osteophyte removal
+arthroscopy	can treat	synovectomy
+arthroscopy	can treat	loose body removal
+arthroscopy	can treat	subluxation reduction
+arthroscopy	can treat	arthrolysis
+arthroscopy	can treat	arthroplasty
+arthroscopy	can treat	arthrodesis
+arthroscopy	can treat	joint lavage
+arthroscopy	can treat	chondroplasty
+arthroscopy	can treat	microfracture
+arthroscopy	can treat	osteochondral graft
+arthroscopy	can treat	meniscal transplant
+arthroscopy	can treat	ligament augmentation
+arthroscopy	can treat	capsular plication
+arthroscopy	can treat	rotator cuff repair
+arthroscopy	can treat	shoulder instability
+arthroscopy	can treat	glenoid labrum tear
+arthroscopy	can treat	acromioclavicular joint injury
+arthroscopy	can treat	biceps tenodesis
+arthroscopy	can treat	subacromial decompression
+arthroscopy	can treat	hip labral tear
+arthroscopy	can treat	femoroacetabular impingement
+arthroscopy	can treat	hip osteoarthritis
+arthroscopy	can treat	ankle ligament repair
+arthroscopy	can treat	ankle fracture fixation
+arthroscopy	can treat	ankle arthrodesis
+arthroscopy	can treat	wrist arthroscopy
+arthroscopy	can treat	carpal tunnel release
+arthroscopy	can treat	wrist arthroplasty
+arthroscopy	can treat	elbow arthroscopy
+arthroscopy	can treat	elbow arthroplasty
+arthroscopy	can treat	elbow ligament reconstruction
+arthroscopy	can treat	elbow osteoarthritis
+arthroscopy	can treat	knee arthroscopy
+arthroscopy	can treat	ACL reconstruction
+arthroscopy	can treat	PCL reconstruction
+arthroscopy	can treat	MCL repair
+arthroscopy	can treat	LCL repair
+arthroscopy	can treat	meniscus debridement
+arthroscopy	can treat	meniscus repair
+arthroscopy	can treat	cartilage restoration
+arthroscopy	can treat	osteochondral autograft
+arthroscopy	can treat	osteochondral allograft
+arthroscopy	can treat	osteochondral mosaicplasty
+arthroscopy	can treat	osteochondral autotransplant
+arthroscopy	can treat	osteochondral allotransplant
+arthroscopy	can treat	osteochondral mosaic
+arthroscopy	can treat	osteochondral grafting
+arthroscopy	can treat	osteochondral transplantation
+arthroscopy	can treat	osteochondral repair
+arthroscopy	can treat	osteochondral reconstruction
+arthroscopy	can treat	osteochondral restoration
+arthroscopy	can treat	osteochondral replacement
+arthroscopy	can treat	osteochondral augmentation
+arthroscopy	can treat	osteochondral fixation
+arthroscopy	can treat	osteochondral stabilization
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration
+arthroscopy	can treat	osteochondral integration

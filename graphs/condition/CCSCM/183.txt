@@ -1,0 +1,100 @@
+hypertension	is a	pregnancy complication
+hypertension	increases	maternal risk
+hypertension	leads to	preeclampsia
+preeclampsia	is a	hypertensive disorder
+preeclampsia	causes	placental abruption
+placental abruption	results in	fetal distress
+fetal distress	requires	emergency delivery
+emergency delivery	is a	cesarean section
+cesarean section	increases	postoperative pain
+postoperative pain	necessitates	opioid therapy
+opioid therapy	risks	respiratory depression
+respiratory depression	requires	ICU admission
+ICU admission	prolongs	hospital stay
+hospital stay	raises	infection risk
+infection risk	leads to	sepsis
+sepsis	causes	organ failure
+organ failure	results in	mortality
+mortality	is a	adverse outcome
+adverse outcome	predicts	readmission
+readmission	indicates	inadequate discharge planning
+discharge planning	improves	patient education
+patient education	reduces	medication errors
+medication errors	increase	readmission
+readmission	is a	quality metric
+quality metric	informs	hospital rating
+hospital rating	affects	patient choice
+patient choice	influences	insurance coverage
+insurance coverage	determines	medication access
+medication access	affects	adherence
+adherence	predicts	blood pressure control
+blood pressure control	reduces	hypertensive crisis
+hypertensive crisis	causes	stroke
+stroke	leads to	disability
+disability	requires	long‑term care
+long‑term care	increases	healthcare cost
+healthcare cost	drives	policy change
+policy change	updates	clinical guidelines
+clinical guidelines	recommend	low‑dose aspirin
+low‑dose aspirin	prevents	preeclampsia
+preeclampsia	is prevented by	aspirin
+aspirin	contraindicated in	advanced renal disease
+advanced renal disease	is a	risk factor
+risk factor	predicts	nephropathy
+nephropathy	requires	dialysis
+dialysis	increases	hospitalization
+hospitalization	leads to	depression
+depression	reduces	self‑management
+self‑management	improves	blood pressure
+blood pressure	monitored by	home BP monitor
+home BP monitor	alerts	clinician
+clinician alert	triggers	medication adjustment
+medication adjustment	improves	BP control
+BP control	reduces	cardiovascular events
+cardiovascular events	cause	mortality
+mortality	is a	public health concern
+public health concern	prompts	screening programs
+screening programs	identify	high‑risk patients
+high‑risk patients	receive	antihypertensives
+antihypertensives	include	labetalol
+labetalol	is a	beta‑blocker
+beta‑blocker	reduces	heart rate
+heart rate	lowers	myocardial oxygen demand
+myocardial oxygen demand	decreases	angina
+angina	treated with	nitroglycerin
+nitroglycerin	is a	vasodilator
+vasodilator	lowers	systemic vascular resistance
+systemic vascular resistance	reduces	blood pressure
+blood pressure	measured by	sphygmomanometer
+sphygmomanometer	requires	cuff size
+cuff size	affects	accuracy
+accuracy	influences	diagnosis
+diagnosis	informs	treatment plan
+treatment plan	includes	lifestyle modification
+lifestyle modification	involves	diet
+diet	follows	DASH diet
+DASH diet	lowers	sodium intake
+sodium intake	reduces	water retention
+water retention	causes	edema
+edema	indicates	fluid overload
+fluid overload	treated with	diuretics
+diuretics	are a	thiazide
+thiazide	reduces	extracellular volume
+extracellular volume	lowers	blood pressure
+blood pressure	monitored in	prenatal clinic
+prenatal clinic	schedules	follow‑up visits
+follow‑up visits	detect	complications
+complications	may include	eclampsia
+eclampsia	treated with	magnesium sulfate
+magnesium sulfate	prevents	seizures
+seizures	cause	maternal morbidity
+maternal morbidity	leads to	long‑term sequelae
+long‑term sequelae	include	chronic hypertension
+chronic hypertension	managed with	ACE inhibitors
+ACE inhibitors	contraindicated in	pregnancy
+contradiction	leads to	postpartum therapy
+postpartum therapy	includes	beta‑blockers
+beta‑blockers	monitored by	fetal heart rate
+fetal heart rate	assessed with	Doppler
+Doppler	detects	fetal growth restriction
+fetal growth restriction	predicts	low birth weight

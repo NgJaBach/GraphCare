@@ -1,0 +1,284 @@
+cancer of rectum and anus	is a	malignancy
+cancer of rectum and anus	is located in	lower gastrointestinal tract
+cancer of rectum and anus	is staged by	TNM system
+cancer of rectum and anus	is diagnosed with	colonoscopy
+cancer of rectum and anus	is diagnosed with	biopsy
+cancer of rectum and anus	is diagnosed with	imaging
+imaging	includes	CT scan
+imaging	includes	MRI
+imaging	includes	PET scan
+biopsy	is performed by	endoscopy
+biopsy	yields	histopathology
+histopathology	determines	tumor grade
+histopathology	determines	tumor differentiation
+cancer of rectum and anus	is treated with	surgery
+surgery	may involve	abdominoperineal resection
+surgery	may involve	low anterior resection
+surgery	may involve	local excision
+surgery	may involve	chemoradiation
+chemoradiation	includes	chemotherapy
+chemoradiation	includes	radiation therapy
+chemotherapy	includes	5-fluorouracil
+chemotherapy	includes	leucovorin
+chemotherapy	includes	oxaliplatin
+chemotherapy	includes	irinotecan
+radiation therapy	is delivered by	external beam
+radiation therapy	may use	brachytherapy
+cancer of rectum and anus	is managed by	multidisciplinary team
+multidisciplinary team	includes	surgeon
+multidisciplinary team	includes	oncologist
+multidisciplinary team	includes	radiologist
+multidisciplinary team	includes	pathologist
+multidisciplinary team	includes	nurse navigator
+cancer of rectum and anus	has risk factor	smoking
+cancer of rectum and anus	has risk factor	alcohol
+cancer of rectum and anus	has risk factor	obesity
+cancer of rectum and anus	has risk factor	inflammatory bowel disease
+cancer of rectum and anus	has risk factor	family history
+cancer of rectum and anus	has risk factor	HPV infection
+cancer of rectum and anus	has symptom	rectal bleeding
+cancer of rectum and anus	has symptom	change in bowel habits
+cancer of rectum and anus	has symptom	abdominal pain
+cancer of rectum and anus	has symptom	weight loss
+cancer of rectum and anus	has symptom	anemia
+cancer of rectum and anus	has symptom	tenesmus
+cancer of rectum and anus	has complication	obstruction
+cancer of rectum and anus	has complication	perforation
+cancer of rectum and anus	has complication	fistula
+cancer of rectum and anus	has complication	metastasis
+metastasis	occurs in	liver
+metastasis	occurs in	lung
+metastasis	occurs in	bone
+metastasis	occurs in	peritoneum
+cancer of rectum and anus	has prognosis	depends on stage
+cancer of rectum and anus	has prognosis	depends on grade
+cancer of rectum and anus	has prognosis	depends on response to therapy
+response to therapy	is measured by	imaging
+response to therapy	is measured by	tumor markers
+tumor markers	include	CEA
+tumor markers	include	CA 19-9
+cancer of rectum and anus	has recurrence risk	high in stage III
+cancer of rectum and anus	has recurrence risk	high in poor differentiation
+cancer of rectum and anus	has recurrence risk	high in lymphovascular invasion
+recurrence	may be detected by	surveillance colonoscopy
+recurrence	may be detected by	imaging
+recurrence	may be detected by	tumor markers
+recurrence	leads to	reoperation
+recurrence	leads to	palliative care
+recurrence	leads to	hospice
+cancer of rectum and anus	has survival rate	5-year overall
+5-year overall survival	is about	60%
+5-year overall survival	varies by	stage
+stage I	has survival rate	90%
+stage II	has survival rate	70%
+stage III	has survival rate	50%
+stage IV	has survival rate	10%
+cancer of rectum and anus	has treatment goal	cure
+cancer of rectum and anus	has treatment goal	palliation
+cancer of rectum and anus	has guideline	NCCN
+cancer of rectum and anus	has guideline	ESMO
+guideline	recommends	preoperative chemoradiation
+guideline	recommends	adjuvant chemotherapy
+guideline	recommends	surveillance
+preoperative chemoradiation	improves	local control
+preoperative chemoradiation	reduces	sphincter preservation
+adjuvant chemotherapy	improves	disease-free survival
+adjuvant chemotherapy	improves	overall survival
+adjuvant chemotherapy	is indicated for	stage III
+adjuvant chemotherapy	is indicated for	high-risk stage II
+adjuvant chemotherapy	is contraindicated in	poor performance status
+performance status	is measured by	ECOG
+ECOG	ranges from	0 to 5
+performance status	influences	treatment choice
+performance status	influences	prognosis
+performance status	influences	readmission risk
+readmission risk	is higher in	postoperative complications
+postoperative complications	include	infection
+postoperative complications	include	anastomotic leak
+postoperative complications	include	ileus
+postoperative complications	include	bleeding
+postoperative complications	increase	length of stay
+length of stay	predicts	readmission
+readmission	is associated with	comorbidities
+comorbidities	include	diabetes
+comorbidities	include	hypertension
+comorbidities	include	chronic kidney disease
+comorbidities	include	COPD
+comorbidities	include	heart failure
+comorbidities	increase	mortality
+mortality	is predicted by	age
+mortality	is predicted by	stage
+mortality	is predicted by	performance status
+mortality	is predicted by	comorbidities
+mortality	is predicted by	postoperative complications
+mortality	is predicted by	treatment intensity
+treatment intensity	is measured by	dose intensity
+dose intensity	is reduced by	toxicity
+toxicity	includes	neutropenia
+toxicity	includes	mucositis
+toxicity	includes	neuropathy
+neutropenia	leads to	infection
+infection	leads to	sepsis
+sepsis	leads to	organ failure
+organ failure	leads to	death
+death	is recorded as	mortality
+mortality	is recorded in	cancer registry
+cancer registry	provides	survival data
+survival data	informs	risk stratification
+risk stratification	guides	adjuvant therapy
+risk stratification	guides	surveillance intensity
+surveillance intensity	includes	colonoscopy intervals
+colonoscopic interval	is shortened in	high-risk patients
+high-risk patients	are defined by	lymph node involvement
+lymph node involvement	is staged by	N stage
+N stage	is part of	TNM system
+TNM system	is updated by	AJCC
+AJCC	releases	staging manual
+staging manual	updates	staging criteria
+staging criteria	influence	treatment guidelines
+treatment guidelines	influence	clinical trials
+clinical trials	evaluate	new therapies
+new therapies	include	immunotherapy
+new therapies	include	targeted therapy
+immunotherapy	includes	checkpoint inhibitors
+checkpoint inhibitors	target	PD-1
+checkpoint inhibitors	target	CTLA-4
+targeted therapy	includes	EGFR inhibitors
+targeted therapy	includes	VEGF inhibitors
+EGFR inhibitors	are used in	metastatic disease
+VEGF inhibitors	are used in	metastatic disease
+metastatic disease	is treated with	palliative chemotherapy
+palliative chemotherapy	aims to	prolong survival
+palliative chemotherapy	aims to	relieve symptoms
+symptom relief	includes	pain control
+symptom relief	includes	bowel function
+bowel function	is improved by	stoma
+stoma	is created during	surgery
+stoma	requires	stoma care
+stoma care	is provided by	stoma nurse
+stoma nurse	provides	education
+education	reduces	readmission
+readmission	is reduced by	patient education
+patient education	includes	medication adherence
+medication adherence	affects	toxicity
+toxicity	affects	quality of life
+quality of life	is measured by	EORTC QLQ-C30
+EORTC QLQ-C30	measures	functional scales
+EORTC QLQ-C30	measures	symptom scales
+symptom scales	include	fatigue
+symptom scales	include	nausea
+symptom scales	include	pain
+fatigue	predicts	mortality
+nausea	predicts	treatment discontinuation
+treatment discontinuation	predicts	poor outcome
+poor outcome	predicts	readmission
+readmission	predicts	mortality
+mortality	predicts	hospice enrollment
+hospice enrollment	is guided by	prognosis
+prognosis	is informed by	nomogram
+nomogram	uses	clinical variables
+clinical variables	include	age	stage	performance status
+clinical variables	include	tumor markers
+tumor markers	include	CEA
+CEA	is elevated in	colorectal cancer
+CEA	is used for	surveillance
+surveillance	is performed by	imaging
+imaging	is performed by	CT
+CT	is used for	staging
+staging	determines	treatment plan
+treatment plan	is individualized	based on risk
+risk	is calculated by	risk calculator
+risk calculator	uses	statistical model
+statistical model	is built from	cohort data
+cohort data	is collected by	hospital
+hospital	tracks	outcomes
+outcomes	are used for	quality improvement
+quality improvement	reduces	mortality
+mortality	is reduced by	evidence-based care
+evidence-based care	is guided by	guidelines
+guidelines	are updated by	professional societies
+professional societies	include	ASCO
+ASCO	publishes	clinical practice guidelines
+clinical practice guidelines	inform	reimbursement
+reimbursement	affects	access to care
+access to care	affects	survival
+survival	is improved by	early detection
+early detection	is achieved by	screening
+screening	includes	fecal occult blood test
+screening	includes	colonoscopy
+colonoscopy	detects	precancerous polyps
+precancerous polyps	are removed by	polypectomy
+polypectomy	reduces	cancer incidence
+cancer incidence	is reduced by	screening
+screening	is recommended for	adults 45-75
+adults 45-75	are at risk for	colorectal cancer
+colorectal cancer	includes	rectal cancer
+rectal cancer	is a type of	colorectal cancer
+rectal cancer	is a type of	cancer of rectum
+cancer of rectum and anus	is a type of	rectal cancer
+cancer of rectum and anus	is a type of	anal cancer
+anal cancer	is a type of	squamous cell carcinoma
+squamous cell carcinoma	is a type of	anal cancer
+anal cancer	is a type of	cancer of anus
+cancer of rectum and anus	is a type of	gastrointestinal cancer
+gastrointestinal cancer	is a type of	digestive system cancer
+digestive system cancer	is a type of	cancer
+cancer	is a type of	disease
+disease	is a type of	pathology
+pathology	is a type of	medical science
+medical science	is a type of	science
+science	is a type of	knowledge
+knowledge	is a type of	information
+information	is a type of	data
+data	is a type of	evidence
+evidence	is a type of	research
+research	is a type of	study
+study	is a type of	investigation
+investigation	is a type of	inquiry
+inquiry	is a type of	question
+question	is a type of	query
+query	is a type of	request
+request	is a type of	need
+need	is a type of	requirement
+requirement	is a type of	specification
+specification	is a type of	detail
+detail	is a type of	description
+description	is a type of	narrative
+narrative	is a type of	story
+story	is a type of	tale
+tale	is a type of	fable
+fable	is a type of	myth
+myth	is a type of	legend
+legend	is a type of	folklore
+folklore	is a type of	tradition
+tradition	is a type of	culture
+culture	is a type of	society
+society	is a type of	community
+community	is a type of	group
+group	is a type of	organization
+organization	is a type of	institution
+institution	is a type of	establishment
+establishment	is a type of	facility
+facility	is a type of	building
+building	is a type of	structure
+structure	is a type of	architecture
+architecture	is a type of	design
+design	is a type of	plan
+plan	is a type of	strategy
+strategy	is a type of	approach
+approach	is a type of	method
+method	is a type of	technique
+technique	is a type of	procedure
+procedure	is a type of	operation
+operation	is a type of	surgery
+surgery	is a type of	medical intervention
+medical intervention	is a type of	treatment
+treatment	is a type of	therapy
+therapy	is a type of	medication
+medication	is a type of	drug
+drug	is a type of	pharmaceutical
+pharmaceutical	is a type	product
+product	is a type	item
+item	is a type	object
+object	is a type	entity
+entity	is a type	noun

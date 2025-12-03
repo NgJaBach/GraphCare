@@ -1,0 +1,100 @@
+schizophrenia	is a	psychiatric disorder
+schizophrenia	causes	hallucinations
+schizophrenia	causes	delusions
+schizophrenia	causes	disorganized speech
+schizophrenia	causes	negative symptoms
+schizophrenia	is treated with	antipsychotics
+schizophrenia	is treated with	psychosocial therapy
+schizophrenia	increases	risk of suicide
+schizophrenia	increases	risk of substance abuse
+schizophrenia	increases	risk of unemployment
+schizophrenia	increases	risk of homelessness
+schizophrenia	is associated with	dopamine dysregulation
+schizophrenia	is associated with	glutamate imbalance
+schizophrenia	is associated with	GABA deficiency
+schizophrenia	is associated with	neuroinflammation
+schizophrenia	is associated with	reduced hippocampal volume
+schizophrenia	is associated with	enlarged ventricles
+schizophrenia	is associated with	white matter abnormalities
+schizophrenia	is associated with	abnormal brain connectivity
+schizophrenia	is associated with	early life stress
+schizophrenia	is associated with	prenatal infection
+schizophrenia	is associated with	maternal smoking
+schizophrenia	is associated with	cannabis use
+schizophrenia	is associated with	urban upbringing
+schizophrenia	is associated with	family history
+schizophrenia	is associated with	genetic polymorphism
+schizophrenia	is associated with	copy number variation
+schizophrenia	is associated with	epigenetic change
+schizophrenia	is associated with	vitamin D deficiency
+schizophrenia	is associated with	sleep disruption
+schizophrenia	is associated with	metabolic syndrome
+schizophrenia	is associated with	cardiovascular disease
+schizophrenia	is associated with	increased mortality
+schizophrenia	is associated with	reduced life expectancy
+schizophrenia	is associated with	higher hospitalization rate
+schizophrenia	is associated with	longer hospital stay
+schizophrenia	is associated with	higher readmission rate
+schizophrenia	is associated with	medication nonadherence
+schizophrenia	is associated with	poor medication adherence
+schizophrenia	is associated with	polypharmacy
+schizophrenia	is associated with	clozapine requirement
+schizophrenia	is associated with	clozapine-induced agranulocytosis
+schizophrenia	is associated with	clozapine-induced metabolic syndrome
+schizophrenia	is associated with	antipsychotic-induced extrapyramidal symptoms
+schizophrenia	is associated with	antipsychotic-induced weight gain
+schizophrenia	is associated with	antipsychotic-induced diabetes
+schizophrenia	is associated with	antipsychotic-induced dyslipidemia
+schizophrenia	is associated with	antipsychotic-induced QT prolongation
+schizophrenia	is associated with	antipsychotic-induced sedation
+schizophrenia	is associated with	antipsychotic-induced sexual dysfunction
+schizophrenia	is associated with	antipsychotic-induced cognitive decline
+schizophrenia	is associated with	antipsychotic-induced prolactin elevation
+schizophrenia	is associated with	antipsychotic-induced hyperprolactinemia
+schizophrenia	is associated with	antipsychotic-induced akathisia
+schizophrenia	is associated with	antipsychotic-induced tardive dyskinesia
+schizophrenia	is associated with	antipsychotic-induced neuroleptic malignant syndrome
+schizophrenia	is associated with	antipsychotic-induced orthostatic hypotension
+schizophrenia	is associated with	antipsychotic-induced weight loss
+schizophrenia	is associated with	antipsychotic-induced sedation
+schizophrenia	is associated with	antipsychotic-induced cognitive impairment
+schizophrenia	is associated with	antipsychotic-induced metabolic side effects
+schizophrenia	is associated with	antipsychotic-induced cardiovascular risk
+schizophrenia	is associated with	antipsychotic-induced endocrine dysfunction
+schizophrenia	is associated with	antipsychotic-induced liver toxicity
+schizophrenia	is associated with	antipsychotic-induced renal toxicity
+schizophrenia	is associated with	antipsychotic-induced ocular toxicity
+schizophrenia	is associated with	antipsychotic-induced dermatologic reactions
+schizophrenia	is associated with	antipsychotic-induced hypersensitivity
+schizophrenia	is associated with	antipsychotic-induced drug interactions
+schizophrenia	is associated with	antipsychotic-induced drug resistance
+schizophrenia	is associated with	antipsychotic-induced drug withdrawal
+schizophrenia	is associated with	antipsychotic-induced drug dependence
+schizophrenia	is associated with	antipsychotic-induced drug toxicity
+schizophrenia	is associated with	antipsychotic-induced drug-induced psychosis
+schizophrenia	is associated with	antipsychotic-induced drug-induced mania
+schizophrenia	is associated with	antipsychotic-induced drug-induced depression
+schizophrenia	is associated with	antipsychotic-induced drug-induced anxiety
+schizophrenia	is associated with	antipsychotic-induced drug-induced insomnia
+schizophrenia	is associated with	antipsychotic-induced drug-induced fatigue
+schizophrenia	is associated with	antipsychotic-induced drug-induced appetite changes
+schizophrenia	is associated with	antipsychotic-induced drug-induced weight changes
+schizophrenia	is associated with	antipsychotic-induced drug-induced metabolic syndrome
+schizophrenia	is associated with	antipsychotic-induced drug-induced cardiovascular events
+schizophrenia	is associated with	antipsychotic-induced drug-induced endocrine disorders
+schizophrenia	is associated with	antipsychotic-induced drug-induced hepatic injury
+schizophrenia	is associated with	antipsychotic-induced drug-induced renal injury
+schizophrenia	is associated with	antipsychotic-induced drug-induced ocular injury
+schizophrenia	is associated with	antipsychotic-induced drug-induced dermatologic injury
+schizophrenia	is associated with	antipsychotic-induced drug-induced hypersensitivity
+schizophrenia	is associated with	antipsychotic-induced drug-induced drug interactions
+schizophrenia	is associated with	antipsychotic-induced drug-induced drug resistance
+schizophrenia	is associated with	antipsychotic-induced drug-induced withdrawal
+schizophrenia	is associated with	antipsychotic-induced drug-induced dependence
+schizophrenia	is associated with	antipsychotic-induced drug-induced toxicity
+schizophrenia	is associated with	antipsychotic-induced drug-induced psychosis
+schizophrenia	is associated with	antipsychotic-induced drug-induced mania
+schizophrenia	is associated with	antipsychotic-induced drug-induced depression
+schizophrenia	is associated with	antipsychotic-induced drug-induced anxiety
+schizophrenia	is associated with	antipsychotic-induced drug-induced insomnia
+schizophrenia	is associated with	antipsychotic-induced drug-induced fatigue
