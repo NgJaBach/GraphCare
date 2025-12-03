@@ -54,7 +54,7 @@ def load_dataset(load_processed_dataset, dataset, task):
 
         if dataset == "mimic3":
             ds = MIMIC3Dataset(
-            root="D:/Lab/Research/HERMES-EHR/dataset/raw/mimic-iii", 
+            root="/data/physionet.org/files/mimiciii/1.4/", 
             tables=["DIAGNOSES_ICD", "PROCEDURES_ICD", "PRESCRIPTIONS"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -64,7 +64,7 @@ def load_dataset(load_processed_dataset, dataset, task):
             )
         elif dataset == "mimic4":
             ds = MIMIC4Dataset(
-            root="D:/Lab/Research/HERMES-EHR/dataset/raw/mimic-iv", 
+            root="/data/physionet.org/files/mimiciv/2.0/hosp/", 
             tables=["diagnoses_icd", "procedures_icd", "prescriptions"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
