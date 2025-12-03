@@ -1,0 +1,100 @@
+vitamin K	is a	cofactor
+vitamin K	activates	clotting factors
+clotting factors	include	factor II
+clotting factors	include	factor VII
+clotting factors	include	factor IX
+clotting factors	include	factor X
+clotting factors	are needed for	coagulation
+coagulation	prevents	hemorrhage
+hemorrhage	leads to	blood loss
+blood loss	causes	anemia
+anemia	reduces	oxygen delivery
+oxygen delivery	is critical for	organ function
+organ function	failure leads to	mortality
+vitamin K	deficiency causes	bleeding disorders
+bleeding disorders	increase	readmission risk
+vitamin K	is found in	leafy greens
+leafy greens	are high in	folate
+folate	is essential for	DNA synthesis
+DNA synthesis	is required for	cell proliferation
+cell proliferation	occurs in	bone marrow
+bone marrow	produces	platelets
+platelets	are needed for	clot formation
+clot formation	is part of	hemostasis
+hemostasis	is disrupted by	anticoagulants
+anticoagulants	include	warfarin
+warfarin	inhibits	vitamin K cycle
+vitamin K cycle	is necessary for	gamma‑carboxylation
+gamma‑carboxylation	modifies	clotting factors
+clotting factors	are measured by	INR
+INR	is monitored in	warfarin therapy
+warfarin therapy	requires	dose adjustment
+dose adjustment	depends on	liver function
+liver function	is impaired by	hepatitis
+hepatitis	increases	bleeding risk
+bleeding risk	is mitigated by	vitamin K supplementation
+vitamin K supplementation	is given as	oral tablets
+oral tablets	have	bioavailability
+bioavailability	is affected by	fat intake
+fat intake	is influenced by	diet
+diet	influences	nutrient absorption
+nutrient absorption	is reduced by	malabsorption
+malabsorption	occurs in	celiac disease
+celiac disease	leads to	vitamin K deficiency
+vitamin K deficiency	causes	prolonged clotting time
+prolonged clotting time	is measured by	PT
+PT	is part of	coagulation panel
+coagulation panel	is ordered for	bleeding assessment
+bleeding assessment	informs	transfusion strategy
+transfusion strategy	includes	platelet transfusion
+platelet transfusion	is guided by	platelet count
+platelet count	is low in	thrombocytopenia
+thrombocytopenia	can be caused by	chemotherapy
+chemotherapy	increases	infection risk
+infection risk	leads to	sepsis
+sepsis	requires	ICU admission
+ICU admission	increases	mortality
+mortality	is predicted by	APACHE score
+APACHE score	incorporates	coagulation parameters
+coagulation parameters	include	INR
+INR	is influenced by	vitamin K intake
+vitamin K intake	is monitored by	dietary recall
+dietary recall	is collected during	admission
+admission	triggers	discharge planning
+discharge planning	includes	medication reconciliation
+medication reconciliation	checks for	warfarin
+warfarin	requires	INR monitoring
+INR monitoring	is done by	point‑of‑care testing
+point‑of‑care testing	improves	adherence
+adherence	reduces	readmission
+readmission	is predicted by	comorbidity index
+comorbidity index	includes	liver disease
+liver disease	affects	vitamin K metabolism
+vitamin K metabolism	is impaired by	cholestasis
+cholestasis	is treated with	bile acids
+bile acids	enhance	vitamin K absorption
+vitamin K absorption	is measured by	plasma levels
+plasma levels	guide	supplementation dose
+supplementation dose	is adjusted for	renal function
+renal function	is assessed by	eGFR
+eGFR	is reduced in	chronic kidney disease
+chronic kidney disease	increases	bleeding risk
+bleeding risk	is mitigated by	vitamin K
+vitamin K	is contraindicated in	hypervitaminosis K
+hypervitaminosis K	leads to	thrombosis
+thrombosis	is treated with	heparin
+heparin	is monitored by	aPTT
+aPTT	is influenced by	factor VIII
+factor VIII	is elevated in	liver disease
+liver disease	also causes	vitamin K deficiency
+vitamin K deficiency	is corrected by	vitamin K1
+vitamin K1	is administered via	IV route
+IV route	bypasses	gastrointestinal tract
+bypassing GI tract	is useful in	malabsorption
+malabsorption	includes	pancreatic insufficiency
+pancreatic insufficiency	is treated with	enzyme replacement
+enzyme replacement	improves	fat digestion
+fat digestion	enhances	vitamin K absorption
+vitamin K absorption	reduces	bleeding episodes
+bleeding episodes	lower	mortality risk
+mortality risk	is a target for	quality improvement

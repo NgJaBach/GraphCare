@@ -1,0 +1,100 @@
+i.v. solution additives	are	excipients
+i.v. solution additives	improve	solubility
+i.v. solution additives	stabilize	drugs
+i.v. solution additives	reduce	precipitation
+i.v. solution additives	prevent	crystallization
+i.v. solution additives	enhance	bioavailability
+i.v. solution additives	control	osmolarity
+i.v. solution additives	adjust	pH
+i.v. solution additives	maintain	isotonicity
+i.v. solution additives	reduce	irritation
+i.v. solution additives	lower	viscosity
+i.v. solution additives	improve	flow rate
+i.v. solution additives	protect	vascular integrity
+i.v. solution additives	reduce	hemolysis
+i.v. solution additives	prevent	catheter occlusion
+i.v. solution additives	mitigate	drug‑drug interaction
+i.v. solution additives	reduce	infusion time
+i.v. solution additives	enhance	patient comfort
+i.v. solution additives	lower	cost
+i.v. solution additives	improve	shelf life
+i.v. solution additives	are	antioxidants
+i.v. solution additives	include	ascorbic acid
+i.v. solution additives	include	glutathione
+i.v. solution additives	include	sodium bicarbonate
+i.v. solution additives	include	potassium chloride
+i.v. solution additives	include	calcium chloride
+i.v. solution additives	include	magnesium sulfate
+i.v. solution additives	include	phosphate buffer
+i.v. solution additives	include	citrate buffer
+i.v. solution additives	include	polysorbate
+i.v. solution additives	include	glycerol
+i.v. solution additives	include	mannitol
+i.v. solution additives	include	sucrose
+i.v. solution additives	include	dextrose
+i.v. solution additives	include	saline
+i.v. solution additives	include	lactated Ringer’s
+i.v. solution additives	include	Hartmann’s
+i.v. solution additives	include	D5W
+i.v. solution additives	include	NS
+i.v. solution additives	include	0.9% saline
+i.v. solution additives	are	osmotic agents
+i.v. solution additives	reduce	edema
+i.v. solution additives	are	buffering agents
+i.v. solution additives	maintain	therapeutic pH
+i.v. solution additives	are	preservative agents
+i.v. solution additives	prevent	microbial growth
+i.v. solution additives	include	benzyl alcohol
+i.v. solution additives	include	phenol
+i.v. solution additives	are	stabilizing agents
+i.v. solution additives	prevent	protein denaturation
+i.v. solution additives	improve	drug stability
+i.v. solution additives	are	viscosity modifiers
+i.v. solution additives	reduce	resistance
+i.v. solution additives	are	pH modifiers
+i.v. solution additives	adjust	acidity
+i.v. solution additives	are	electrolyte supplements
+i.v. solution additives	restore	electrolyte balance
+i.v. solution additives	are	osmotic balancers
+i.v. solution additives	maintain	tonicity
+i.v. solution additives	are	anti‑oxidants
+i.v. solution additives	reduce	oxidative stress
+i.v. solution additives	are	anti‑crystallization agents
+i.v. solution additives	prevent	drug precipitation
+i.v. solution additives	are	anti‑hemolytic agents
+i.v. solution additives	reduce	hemolysis risk
+i.v. solution additives	are	anti‑inflammatory agents
+i.v. solution additives	reduce	inflammation
+i.v. solution additives	are	anti‑thrombotic agents
+i.v. solution additives	reduce	clot formation
+i.v. solution additives	are	anti‑bacterial agents
+i.v. solution additives	prevent	infection
+i.v. solution additives	are	anti‑viral agents
+i.v. solution additives	reduce	viral contamination
+i.v. solution additives	are	anti‑fungal agents
+i.v. solution additives	reduce	fungal growth
+i.v. solution additives	are	anti‑aggregatory agents
+i.v. solution additives	reduce	platelet aggregation
+i.v. solution additives	are	anti‑oxidative agents
+i.v. solution additives	reduce	oxidative damage
+i.v. solution additives	are	anti‑hypersensitivity agents
+i.v. solution additives	reduce	allergic reaction
+i.v. solution additives	are	anti‑emetic agents
+i.v. solution additives	reduce	nausea
+i.v. solution additives	are	anti‑nausea agents
+i.v. solution additives	reduce	vomiting
+i.v. solution additives	are	anti‑pain agents
+i.v. solution additives	reduce	pain
+i.v. solution additives	are	anti‑nausea agents
+i.v. solution additives	reduce	discomfort
+i.v. solution additives	are	anti‑hypotensive agents
+i.v. solution additives	reduce	low blood pressure
+i.v. solution additives	are	anti‑hyperglycemic agents
+i.v. solution additives	reduce	high glucose
+i.v. solution additives	are	anti‑hyperkalemic agents
+i.v. solution additives	reduce	high potassium
+i.v. solution additives	are	anti‑hypernatremic agents
+i.v. solution additives	reduce	high sodium
+i.v. solution additives	are	anti‑hypoglycemic agents
+i.v. solution additives	reduce	low glucose
+i.v. solution additives	are	anti‑hypokalemic agents

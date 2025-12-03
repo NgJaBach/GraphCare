@@ -1,0 +1,100 @@
+nasogastric tube	is a	medical device
+nasogastric tube	used for	gastric decompression
+nasogastric tube	used for	enteral feeding
+nasogastric tube	used for	medication administration
+nasogastric tube	inserted via	nasal passage
+nasogastric tube	inserted into	stomach
+nasogastric tube	requires	endoscopic guidance
+nasogastric tube	can cause	nasal irritation
+nasogastric tube	can cause	esophageal ulcer
+nasogastric tube	can cause	aspiration pneumonia
+nasogastric tube	increases risk of	infection
+nasogastric tube	increases risk of	tube dislodgement
+nasogastric tube	reduces risk of	gastric volvulus
+nasogastric tube	reduces risk of	gastric distension
+nasogastric tube	improves	nutritional status
+nasogastric tube	improves	patient comfort
+nasogastric tube	improves	medication absorption
+nasogastric tube	improves	monitoring of gastric output
+nasogastric tube	contraindicated in	esophageal varices
+nasogastric tube	contraindicated in	severe facial trauma
+nasogastric tube	contraindicated in	recent abdominal surgery
+nasogastric tube	contraindicated in	swallowing disorder
+nasogastric tube	contraindicated in	severe nasal obstruction
+nasogastric tube	contraindicated in	tracheostomy
+nasogastric tube	contraindicated in	esophageal stricture
+nasogastric tube	contraindicated in	severe coagulopathy
+nasogastric tube	contraindicated in	pregnancy
+nasogastric tube	contraindicated in	severe respiratory failure
+nasogastric tube	contraindicated in	gastric outlet obstruction
+nasogastric tube	contraindicated in	gastric perforation
+nasogastric tube	contraindicated in	severe vomiting
+nasogastric tube	contraindicated in	severe constipation
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension
+nasogastric tube	contraindicated in	severe abdominal pain
+nasogastric tube	contraindicated in	severe abdominal tenderness
+nasogastric tube	contraindicated in	severe abdominal guarding
+nasogastric tube	contraindicated in	severe abdominal rigidity
+nasogastric tube	contraindicated in	severe abdominal distension

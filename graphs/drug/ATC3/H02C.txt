@@ -1,0 +1,100 @@
+antiadrenal preparations	are	medications
+antiadrenal preparations	treat	adrenal insufficiency
+antiadrenal preparations	contain	corticosteroids
+corticosteroids	mimic	cortisol
+cortisol	regulates	metabolism
+cortisol	suppresses	inflammation
+antiadrenal preparations	reduce	adrenal crisis
+adrenal crisis	causes	hypotension
+hypotension	leads to	organ failure
+antiadrenal preparations	prevent	mortality
+mortality	decreases	with early therapy
+antiadrenal preparations	administered	orally
+antiadrenal preparations	also given	intravenously
+intravenous	used in	critical care
+critical care	monitors	blood pressure
+blood pressure	measured	continuously
+continuous monitoring	predicts	readmission
+readmission	associated with	dose adjustment
+dose adjustment	guided by	serum cortisol
+serum cortisol	measured	via ELISA
+ELISA	detects	hormone levels
+hormone levels	inform	dosing schedule
+dosing schedule	impacts	side effects
+side effects	include	hyperglycemia
+hyperglycemia	managed by	insulin
+insulin	prescribed	with glucocorticoids
+glucocorticoids	cause	immunosuppression
+immunosuppression	increases	infection risk
+infection risk	predicts	ICU admission
+ICU admission	correlates with	length of stay
+length of stay	affects	cost
+cost	influences	insurance coverage
+insurance coverage	determines	medication adherence
+medication adherence	predicts	relapse
+relapse	leads to	emergency department visit
+emergency department visit	records	vital signs
+vital signs	trend	cardiovascular risk
+cardiovascular risk	assessed by	Framingham score
+Framingham score	includes	blood pressure
+blood pressure	influenced by	antihypertensives
+antihypertensives	interact with	antiadrenal preparations
+drug interaction	causes	altered pharmacokinetics
+pharmacokinetics	measured by	plasma concentration
+plasma concentration	predicts	therapeutic window
+therapeutic window	ensures	efficacy
+efficacy	measured by	symptom relief
+symptom relief	reported in	patient diaries
+patient diaries	analyzed by	natural language processing
+natural language processing	extracts	adherence patterns
+adherence patterns	correlate with	quality of life
+quality of life	scored by	SF‑36
+SF‑36	includes	mental health
+mental health	affected by	chronic illness
+chronic illness	managed by	multidisciplinary team
+multidisciplinary team	includes	endocrinologist
+endocrinologist	prescribes	antiadrenal preparations
+prescription	recorded in	electronic health record
+electronic health record	used for	predictive modeling
+predictive modeling	identifies	high‑risk patients
+high‑risk patients	receive	intensified monitoring
+intensified monitoring	reduces	readmission
+readmission	tracked by	hospital quality metrics
+hospital quality metrics	influence	reimbursement
+reimbursement	affects	drug availability
+drug availability	determines	formulary status
+formulary status	impacts	prescribing patterns
+prescribing patterns	studied in	pharmacoepidemiology
+pharmacoepidemiology	informs	guideline updates
+guideline updates	recommend	tapering schedules
+tapering schedules	minimize	adrenal suppression
+adrenal suppression	measured by	ACTH stimulation test
+ACTH stimulation test	predicts	adrenal reserve
+adrenal reserve	correlates with	stress tolerance
+stress tolerance	assessed by	exercise test
+exercise test	monitors	heart rate variability
+heart rate variability	indicates	autonomic function
+autonomic function	altered by	glucocorticoids
+glucocorticoids	modulate	gene expression
+gene expression	studied via	RNA‑seq
+RNA‑seq	identifies	biomarkers
+biomarkers	predict	treatment response
+treatment response	guides	personalized therapy
+personalized therapy	reduces	adverse events
+adverse events	tracked by	pharmacovigilance
+pharmacovigilance	reports	drug safety
+drug safety	reviewed by	regulatory agencies
+regulatory agencies	issue	safety warnings
+safety warnings	influence	clinician behavior
+clinician behavior	measured by	survey data
+survey data	informs	educational interventions
+educational interventions	improve	prescribing accuracy
+prescribing accuracy	lowers	medication errors
+medication errors	reduce	hospital complications
+hospital complications	affect	patient satisfaction
+patient satisfaction	linked to	readmission rates
+readmission rates	used in	value‑based purchasing
+value‑based purchasing	incentivizes	quality improvement
+quality improvement	includes	medication reconciliation
+medication reconciliation	prevents	drug‑drug interactions
+drug‑drug interactions	reduce	morbidity

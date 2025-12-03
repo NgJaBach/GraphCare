@@ -1,0 +1,100 @@
+drugs	treat	functional gastrointestinal disorders
+functional gastrointestinal disorders	include	irritable bowel syndrome
+functional gastrointestinal disorders	include	functional dyspepsia
+irritable bowel syndrome	classified as	IBS-C
+irritable bowel syndrome	classified as	IBS-D
+irritable bowel syndrome	classified as	IBS-M
+functional dyspepsia	classified as	post‑prandial distress syndrome
+functional dyspepsia	classified as	epigastric pain syndrome
+drugs	include	antispasmodics
+drugs	include	tricyclic antidepressants
+drugs	include	selective serotonin reuptake inhibitors
+drugs	include	serotonin‑norepinephrine reuptake inhibitors
+drugs	include	bile acid sequestrants
+drugs	include	prokinetics
+drugs	include	antidiarrheals
+drugs	include	laxatives
+antispasmodics	reduce	abdominal pain
+antispasmodics	reduce	cramping
+tricyclic antidepressants	reduce	visceral hypersensitivity
+tricyclic antidepressants	reduce	pain
+selective serotonin reuptake inhibitors	reduce	anxiety
+selective serotonin reuptake inhibitors	reduce	depression
+serotonin‑norepinephrine reuptake inhibitors	reduce	pain
+serotonin‑norepinephrine reuptake inhibitors	reduce	constipation
+bile acid sequestrants	bind	bile acids
+bile acid sequestrants	reduce	diarrhea
+bile acid sequestrants	reduce	bloating
+prokinetics	increase	gastric motility
+prokinetics	reduce	nausea
+prokinetics	reduce	vomiting
+antidiarrheals	reduce	stool frequency
+antidiarrheals	reduce	urgency
+laxatives	increase	stool frequency
+laxatives	relieve	constipation
+drugs	have	side effects
+side effects	include	constipation
+side effects	include	nausea
+side effects	include	dizziness
+side effects	include	dry mouth
+drugs	are prescribed	by gastroenterologists
+gastroenterologists	assess	symptom severity
+symptom severity	predicts	treatment response
+treatment response	predicts	quality of life
+quality of life	predicts	healthcare utilization
+healthcare utilization	predicts	readmission risk
+readmission risk	predicts	mortality risk
+drugs	require	dose adjustment
+dose adjustment	based on	renal function
+dose adjustment	based on	hepatic function
+renal function	predicts	drug clearance
+hepatic function	predicts	drug metabolism
+drug clearance	predicts	serum concentration
+serum concentration	predicts	efficacy
+serum concentration	predicts	toxicity
+efficacy	predicts	symptom improvement
+toxicity	predicts	adverse event rate
+adverse event rate	predicts	medication discontinuation
+medication discontinuation	predicts	relapse
+relapse	predicts	long‑term morbidity
+long‑term morbidity	predicts	mortality
+drugs	are monitored	by therapeutic drug monitoring
+therapeutic drug monitoring	improves	safety
+therapeutic drug monitoring	improves	efficacy
+drugs	are contraindicated	in pregnancy
+drugs	are contraindicated	in lactation
+drugs	are contraindicated	in hepatic disease
+drugs	are contraindicated	in renal disease
+drugs	are contraindicated	in elderly
+elderly	have	higher risk of falls
+higher risk of falls	predicts	hospitalization
+hospitalization	predicts	mortality
+drugs	are classified	by mechanism
+mechanism	influences	drug selection
+drug selection	influences	patient adherence
+patient adherence	influences	treatment outcome
+treatment outcome	influences	disease progression
+disease progression	influences	mortality
+drugs	have	pharmacokinetics
+pharmacokinetics	include	absorption
+pharmacokinetics	include	distribution
+pharmacokinetics	include	metabolism
+pharmacokinetics	include	excretion
+absorption	predicts	onset of action
+onset of action	predicts	patient satisfaction
+patient satisfaction	predicts	adherence
+adherence	predicts	relapse
+relapse	predicts	readmission
+readmission	predicts	cost
+cost	predicts	resource allocation
+resource allocation	predicts	health system strain
+health system strain	predicts	mortality
+drugs	are evaluated	in clinical trials
+clinical trials	assess	efficacy
+clinical trials	assess	safety
+efficacy	predicts	guideline recommendation
+guideline recommendation	influences	prescribing patterns
+prescribing patterns	influence	population health
+population health	influences	disease burden
+disease burden	influences	mortality
+mortality	influences	public health policy

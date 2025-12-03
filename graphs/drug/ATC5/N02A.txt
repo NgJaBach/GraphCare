@@ -1,0 +1,100 @@
+opioid analgesics	are	drugs
+opioid analgesics	treat	pain
+opioid analgesics	act on	opioid receptors
+opioid receptors	located in	central nervous system
+opioid analgesics	cause	euphoria
+opioid analgesics	cause	respiratory depression
+respiratory depression	leads to	death
+opioid analgesics	cause	constipation
+constipation	requires	laxatives
+opioid analgesics	cause	nausea
+nausea	treated with	antiemetics
+opioid analgesics	cause	tolerance
+tolerance	leads to	dose escalation
+dose escalation	increases	overdose risk
+opioid analgesics	cause	dependence
+dependence	leads to	withdrawal
+withdrawal	treated with	methadone
+methadone	is	opioid agonist
+opioid analgesics	used for	cancer pain
+opioid analgesics	used for	post‑operative pain
+opioid analgesics	used for	chronic non‑cancer pain
+opioid analgesics	contraindicated in	severe COPD
+opioid analgesics	contraindicated in	severe hepatic impairment
+opioid analgesics	contraindicated in	severe renal impairment
+opioid analgesics	contraindicated in	pregnancy
+opioid analgesics	contraindicated in	lactation
+opioid analgesics	interact with	benzodiazepines
+benzodiazepines	increase	respiratory depression
+opioid analgesics	interact with	alcohol
+alcohol	increases	sedation
+opioid analgesics	interact with	CYP2D6 inhibitors
+CYP2D6 inhibitors	reduce	opioid metabolism
+opioid analgesics	metabolized by	CYP3A4
+CYP3A4 inhibitors	increase	opioid levels
+CYP3A4 inducers	decrease	opioid levels
+opioid analgesics	have	half‑life
+half‑life	influences	dosing interval
+opioid analgesics	have	bioavailability
+bioavailability	affects	oral dosing
+opioid analgesics	have	potency
+potency	determines	equianalgesic dose
+equianalgesic dose	used for	opioid conversion
+opioid analgesics	have	side‑effect profile
+side‑effect profile	includes	pruritus
+pruritus	treated with	antihistamines
+opioid analgesics	have	abuse potential
+abuse potential	leads to	prescription monitoring
+prescription monitoring	reduces	diversion
+diversion	leads to	illicit use
+illicit use	causes	overdose
+overdose	treated with	naloxone
+naloxone	is	opioid antagonist
+opioid analgesics	have	formulation
+formulation	includes	immediate‑release
+formulation	includes	extended‑release
+extended‑release	reduces	dosing frequency
+extended‑release	increases	risk of overdose
+opioid analgesics	have	route of administration
+route of administration	includes	intravenous
+route of administration	includes	oral
+route of administration	includes	transdermal
+transdermal	used for	chronic pain
+opioid analgesics	have	pharmacokinetics
+pharmacokinetics	includes	absorption
+pharmacokinetics	includes	distribution
+pharmacokinetics	includes	metabolism
+pharmacokinetics	includes	excretion
+excretion	occurs via	kidneys
+excretion	occurs via	liver
+opioid analgesics	have	drug interactions
+drug interactions	increase	adverse events
+adverse events	lead to	hospital admission
+hospital admission	predicts	readmission risk
+readmission risk	influenced by	opioid dose
+opioid dose	correlates with	mortality
+mortality	increased by	high opioid dose
+high opioid dose	associated with	cancer patients
+cancer patients	require	opioid titration
+opioid titration	guided by	pain score
+pain score	measured by	numeric rating scale
+numeric rating scale	ranges	0‑10
+opioid analgesics	used in	palliative care
+palliative care	focuses on	symptom control
+symptom control	includes	pain management
+pain management	uses	multimodal therapy
+multimodal therapy	includes	non‑opioid analgesics
+non‑opioid analgesics	include	NSAIDs
+NSAIDs	interact with	opioids
+opioid‑NSAID interaction	increases	GI bleeding
+GI bleeding	leads to	anemia
+anemia	worsens	pain perception
+pain perception	influences	opioid requirement
+opioid requirement	predicts	functional decline
+functional decline	predicts	mortality
+mortality	predicted by	comorbidity index
+comorbidity index	includes	Charlson score
+Charlson score	predicts	1‑year mortality
+1‑year mortality	influenced by	opioid use
+opioid use	associated with	reduced quality of life
+quality of life	measured by	EQ‑5D

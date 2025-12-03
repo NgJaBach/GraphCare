@@ -1,0 +1,100 @@
+antiadrenergic agents	act on	central nervous system
+antiadrenergic agents	inhibit	norepinephrine reuptake
+antiadrenergic agents	treat	hypertension
+antiadrenergic agents	reduce	blood pressure
+antiadrenergic agents	lower	heart rate
+antiadrenergic agents	block	β‑adrenergic receptors
+antiadrenergic agents	block	α‑adrenergic receptors
+antiadrenergic agents	cause	orthostatic hypotension
+antiadrenergic agents	cause	dizziness
+antiadrenergic agents	cause	fatigue
+antiadrenergic agents	cause	dry mouth
+antiadrenergic agents	cause	constipation
+antiadrenergic agents	cause	blurred vision
+antiadrenergic agents	cause	sexual dysfunction
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	heart failure
+antiadrenergic agents	contraindicated in	severe aortic stenosis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	myasthenia gravis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	myasthenia gravis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	myasthenia gravis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	myasthenia gravis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	myasthenia gravis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	myasthenia gravis
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	elderly
+antiadrenergic agents	contraindicated in	depression
+antiadrenergic agents	contraindicated in	anxiety
+antiadrenergic agents	contraindicated in	bipolar disorder
+antiadrenergic agents	contraindicated in	psychosis
+antiadrenergic agents	contraindicated in	seizure disorder
+antiadrenergic agents	contraindicated in	glaucoma

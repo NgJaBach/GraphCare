@@ -1,0 +1,100 @@
+combinations of antibacterials	treat	bacterial infections
+combinations of antibacterials	reduce	resistance
+combinations of antibacterials	increase	efficacy
+combinations of antibacterials	used in	hospital settings
+combinations of antibacterials	prescribed for	pneumonia
+combinations of antibacterials	prescribed for	urinary tract infection
+combinations of antibacterials	prescribed for	sepsis
+combinations of antibacterials	prescribed for	meningitis
+combinations of antibacterials	prescribed for	osteomyelitis
+combinations of antibacterials	prescribed for	endocarditis
+combinations of antibacterials	prescribed for	cellulitis
+combinations of antibacterials	prescribed for	wound infection
+combinations of antibacterials	prescribed for	intra-abdominal infection
+combinations of antibacterials	prescribed for	pneumonia in ICU
+combinations of antibacterials	prescribed for	ventilator-associated pneumonia
+combinations of antibacterials	prescribed for	catheter-associated infection
+combinations of antibacterials	prescribed for	surgical site infection
+combinations of antibacterials	prescribed for	neonatal sepsis
+combinations of antibacterials	prescribed for	burn wound infection
+combinations of antibacterials	prescribed for	osteomyelitis in diabetics
+combinations of antibacterials	prescribed for	prosthetic joint infection
+combinations of antibacterials	prescribed for	peritonitis
+combinations of antibacterials	prescribed for	meningitis in children
+combinations of antibacterials	prescribed for	hospital-acquired infection
+combinations of antibacterials	prescribed for	community-acquired infection
+combinations of antibacterials	prescribed for	polymicrobial infection
+combinations of antibacterials	prescribed for	biofilm infection
+combinations of antibacterials	prescribed for	resistant gram-negative infection
+combinations of antibacterials	prescribed for	resistant gram-positive infection
+combinations of antibacterials	prescribed for	multidrug-resistant infection
+combinations of antibacterials	prescribed for	carbapenem-resistant infection
+combinations of antibacterials	prescribed for	vancomycin-resistant infection
+combinations of antibacterials	prescribed for	MRSA infection
+combinations of antibacterials	prescribed for	VRE infection
+combinations of antibacterials	prescribed for	ESBL infection
+combinations of antibacterials	prescribed for	Pseudomonas infection
+combinations of antibacterials	prescribed for	Acinetobacter infection
+combinations of antibacterials	prescribed for	Klebsiella infection
+combinations of antibacterials	prescribed for	Enterobacter infection
+combinations of antibacterials	prescribed for	Staphylococcus infection
+combinations of antibacterials	prescribed for	Streptococcus infection
+combinations of antibacterials	prescribed for	Enterococcus infection
+combinations of antibacterials	prescribed for	anaerobic infection
+combinations of antibacterials	prescribed for	fungal infection
+combinations of antibacterials	prescribed for	viral infection
+combinations of antibacterials	prescribed for	mixed infection
+combinations of antibacterials	prescribed for	prophylaxis
+combinations of antibacterials	used in	antibiotic stewardship
+combinations of antibacterials	reduce	mortality
+combinations of antibacterials	reduce	length of stay
+combinations of antibacterials	reduce	readmission
+combinations of antibacterials	reduce	adverse drug reaction
+combinations of antibacterials	reduce	drug toxicity
+combinations of antibacterials	reduce	nephrotoxicity
+combinations of antibacterials	reduce	ototoxicity
+combinations of antibacterials	reduce	hepatotoxicity
+combinations of antibacterials	reduce	allergic reaction
+combinations of antibacterials	reduce	Clostridioides difficile
+combinations of antibacterials	reduce	cost
+combinations of antibacterials	increase	patient compliance
+combinations of antibacterials	increase	drug synergy
+combinations of antibacterials	increase	pharmacodynamic coverage
+combinations of antibacterials	increase	pharmacokinetic coverage
+combinations of antibacterials	increase	spectrum
+combinations of antibacterials	increase	safety
+combinations of antibacterials	increase	tolerance
+combinations of antibacterials	increase	dosage flexibility
+combinations of antibacterials	increase	dosing interval
+combinations of antibacterials	increase	patient satisfaction
+combinations of antibacterials	increase	quality of life
+combinations of antibacterials	contraindicated in	pregnancy
+combinations of antibacterials	contraindicated in	lactation
+combinations of antibacterials	contraindicated in	renal impairment
+combinations of antibacterials	contraindicated in	hepatic impairment
+combinations of antibacterials	contraindicated in	allergy to beta-lactam
+combinations of antibacterials	contraindicated in	allergy to macrolide
+combinations of antibacterials	contraindicated in	allergy to aminoglycoside
+combinations of antibacterials	contraindicated in	allergy to fluoroquinolone
+combinations of antibacterials	contraindicated in	allergy to carbapenem
+combinations of antibacterials	contraindicated in	allergy to vancomycin
+combinations of antibacterials	contraindicated in	allergy to polymyxin
+combinations of antibacterials	contraindicated in	allergy to cephalosporin
+combinations of antibacterials	contraindicated in	allergy to tetracycline
+combinations of antibacterials	contraindicated in	allergy to sulfonamide
+combinations of antibacterials	contraindicated in	allergy to nitrofurantoin
+combinations of antibacterials	contraindicated in	allergy to clindamycin
+combinations of antibacterials	contraindicated in	allergy to rifampin
+combinations of antibacterials	contraindicated in	allergy to linezolid
+combinations of antibacterials	contraindicated in	allergy to daptomycin
+combinations of antibacterials	contraindicated in	allergy to colistin
+combinations of antibacterials	contraindicated in	allergy to gentamicin
+combinations of antibacterials	contraindicated in	allergy to amikacin
+combinations of antibacterials	contraindicated in	allergy to tobramycin
+combinations of antibacterials	contraindicated in	allergy to ciprofloxacin
+combinations of antibacterials	contraindicated in	allergy to levofloxacin
+combinations of antibacterials	contraindicated in	allergy to moxifloxacin
+combinations of antibacterials	contraindicated in	allergy to azithromycin
+combinations of antibacterials	contraindicated in	allergy to clarithromycin
+combinations of antibacterials	contraindicated in	allergy to erythromycin
+combinations of antibacterials	contraindicated in	allergy to doxycycline

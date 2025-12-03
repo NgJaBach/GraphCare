@@ -1,0 +1,100 @@
+vitamin B1	is a	nutrient
+vitamin B1	also called	thiamine
+vitamin B1	required for	carbohydrate metabolism
+vitamin B1	required for	nerve function
+vitamin B1	required for	muscle function
+vitamin B1	deficiency causes	beriberi
+vitamin B1	deficiency causes	Wernicke encephalopathy
+vitamin B1	deficiency causes	Korsakoff syndrome
+vitamin B1	deficiency causes	fatigue
+vitamin B1	deficiency causes	irritability
+vitamin B1	deficiency causes	loss of appetite
+vitamin B1	deficiency causes	weight loss
+vitamin B1	deficiency causes	heart failure
+vitamin B1	deficiency causes	peripheral neuropathy
+vitamin B1	deficiency causes	anemia
+vitamin B1	deficiency causes	impaired cognition
+vitamin B1	deficiency causes	impaired memory
+vitamin B1	deficiency causes	impaired concentration
+vitamin B1	deficiency causes	impaired coordination
+vitamin B1	deficiency causes	impaired speech
+vitamin B1	deficiency causes	impaired vision
+vitamin B1	deficiency causes	impaired hearing
+vitamin B1	deficiency causes	impaired balance
+vitamin B1	deficiency causes	impaired reflexes
+vitamin B1	deficiency causes	impaired gait
+vitamin B1	deficiency causes	impaired swallowing
+vitamin B1	deficiency causes	impaired breathing
+vitamin B1	deficiency causes	impaired heart rhythm
+vitamin B1	deficiency causes	impaired blood pressure
+vitamin B1	deficiency causes	impaired glucose tolerance
+vitamin B1	deficiency causes	impaired insulin secretion
+vitamin B1	deficiency causes	impaired lipid metabolism
+vitamin B1	deficiency causes	impaired protein synthesis
+vitamin B1	deficiency causes	impaired DNA repair
+vitamin B1	deficiency causes	impaired cell proliferation
+vitamin B1	deficiency causes	impaired wound healing
+vitamin B1	deficiency causes	impaired immune function
+vitamin B1	deficiency causes	impaired antioxidant defense
+vitamin B1	deficiency causes	impaired detoxification
+vitamin B1	deficiency causes	impaired stress response
+vitamin B1	deficiency causes	impaired sleep quality
+vitamin B1	deficiency causes	impaired mood
+vitamin B1	deficiency causes	impaired anxiety
+vitamin B1	deficiency causes	impaired depression
+vitamin B1	deficiency causes	impaired cognition
+vitamin B1	deficiency causes	impaired learning
+vitamin B1	deficiency causes	impaired memory
+vitamin B1	deficiency causes	impaired executive function
+vitamin B1	deficiency causes	impaired attention
+vitamin B1	deficiency causes	impaired processing speed
+vitamin B1	deficiency causes	impaired reaction time
+vitamin B1	deficiency causes	impaired decision making
+vitamin B1	deficiency causes	impaired problem solving
+vitamin B1	deficiency causes	impaired reasoning
+vitamin B1	deficiency causes	impaired judgment
+vitamin B1	deficiency causes	impaired perception
+vitamin B1	deficiency causes	impaired spatial awareness
+vitamin B1	deficiency causes	impaired visual acuity
+vitamin B1	deficiency causes	impaired hearing acuity
+vitamin B1	deficiency causes	impaired taste
+vitamin B1	deficiency causes	impaired smell
+vitamin B1	deficiency causes	impaired speech
+vitamin B1	deficiency causes	impaired swallowing
+vitamin B1	deficiency causes	impaired breathing
+vitamin B1	deficiency causes	impaired heart rhythm
+vitamin B1	deficiency causes	impaired blood pressure
+vitamin B1	deficiency causes	impaired glucose tolerance
+vitamin B1	deficiency causes	impaired insulin secretion
+vitamin B1	deficiency causes	impaired lipid metabolism
+vitamin B1	deficiency causes	impaired protein synthesis
+vitamin B1	deficiency causes	impaired DNA repair
+vitamin B1	deficiency causes	impaired cell proliferation
+vitamin B1	deficiency causes	impaired wound healing
+vitamin B1	deficiency causes	impaired immune function
+vitamin B1	deficiency causes	impaired antioxidant defense
+vitamin B1	deficiency causes	impaired detoxification
+vitamin B1	deficiency causes	impaired stress response
+vitamin B1	deficiency causes	impaired sleep quality
+vitamin B1	deficiency causes	impaired mood
+vitamin B1	deficiency causes	impaired anxiety
+vitamin B1	deficiency causes	impaired depression
+vitamin B1	deficiency causes	impaired cognition
+vitamin B1	deficiency causes	impaired learning
+vitamin B1	deficiency causes	impaired memory
+vitamin B1	deficiency causes	impaired executive function
+vitamin B1	deficiency causes	impaired attention
+vitamin B1	deficiency causes	impaired processing speed
+vitamin B1	deficiency causes	impaired reaction time
+vitamin B1	deficiency causes	impaired decision making
+vitamin B1	deficiency causes	impaired problem solving
+vitamin B1	deficiency causes	impaired reasoning
+vitamin B1	deficiency causes	impaired judgment
+vitamin B1	deficiency causes	impaired perception
+vitamin B1	deficiency causes	impaired spatial awareness
+vitamin B1	deficiency causes	impaired visual acuity
+vitamin B1	deficiency causes	impaired hearing acuity
+vitamin B1	deficiency causes	impaired taste
+vitamin B1	deficiency causes	impaired smell
+vitamin B1	deficiency causes	impaired speech
+vitamin B1	deficiency causes	impaired swallowing

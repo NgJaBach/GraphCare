@@ -1,0 +1,100 @@
+hemorrhoids	treated with	topical agents
+anal fissures	treated with	topical agents
+topical agents	include	lidocaine
+topical agents	include	hydrocortisone
+topical agents	include	witch hazel
+topical agents	include	pramoxine
+topical agents	include	diclofenac
+topical agents	include	nitroglycerin
+topical agents	include	calcium channel blockers
+topical agents	include	corticosteroids
+topical agents	include	anesthetics
+topical agents	include	vasoconstrictors
+lidocaine	reduces	pain
+hydrocortisone	reduces	inflammation
+witch hazel	reduces	itching
+pramoxine	reduces	itching
+diclofenac	reduces	inflammation
+nitroglycerin	relaxes	sphincter
+calcium channel blockers	relaxes	sphincter
+corticosteroids	reduce	edema
+anesthetics	reduce	pain
+vasoconstrictors	reduce	bleeding
+lidocaine	has	short duration
+hydrocortisone	has	systemic absorption risk
+witch hazel	has	astringent properties
+pramoxine	has	minimal systemic absorption
+diclofenac	has	anti‑inflammatory effect
+nitroglycerin	has	contraindication in hypotension
+calcium channel blockers	have	side effect of flushing
+corticosteroids	have	risk of skin atrophy
+anesthetics	have	risk of local irritation
+vasoconstrictors	have	risk of ischemia
+topical agents	are applied	once daily
+topical agents	are applied	twice daily
+topical agents	are applied	thrice daily
+topical agents	are applied	as directed
+topical agents	are applied	after bowel movement
+topical agents	are applied	before bowel movement
+topical agents	are applied	in the shower
+topical agents	are applied	in the bathroom
+topical agents	are applied	with cotton pad
+topical agents	are applied	with finger
+topical agents	are applied	in a thin layer
+topical agents	are applied	in a thick layer
+topical agents	are applied	with gentle massage
+topical agents	are applied	with gentle pressure
+topical agents	are applied	after cleaning
+topical agents	are applied	before cleaning
+topical agents	are applied	in a dry area
+topical agents	are applied	in a moist area
+topical agents	are applied	in a warm area
+topical agents	are applied	in a cool area
+topical agents	are applied	in a well‑ventilated area
+topical agents	are applied	in a humid area
+topical agents	are applied	in a shaded area
+topical agents	are applied	in a sunny area
+topical agents	are applied	in a sterile environment
+topical agents	are applied	in a non‑sterile environment
+topical agents	are applied	in a hospital setting
+topical agents	are applied	in a home setting
+topical agents	are applied	in a clinic setting
+topical agents	are applied	in a community setting
+topical agents	are applied	in a rural setting
+topical agents	are applied	in an urban setting
+topical agents	are applied	in a remote setting
+topical agents	are applied	in a telehealth setting
+topical agents	are applied	in a self‑care setting
+topical agents	are applied	in a supervised setting
+topical agents	are applied	in an unsupervised setting
+topical agents	are applied	in a pediatric setting
+topical agents	are applied	in an adult setting
+topical agents	are applied	in a geriatric setting
+topical agents	are applied	in a pregnant setting
+topical agents	are applied	in a lactating setting
+topical agents	are applied	in a post‑operative setting
+topical agents	are applied	in a chronic setting
+topical agents	are applied	in an acute setting
+topical agents	are applied	in a preventive setting
+topical agents	are applied	in a therapeutic setting
+topical agents	are applied	in a diagnostic setting
+topical agents	are applied	in a research setting
+topical agents	are applied	in a clinical trial
+topical agents	are applied	in a real‑world setting
+topical agents	are applied	in a controlled setting
+topical agents	are applied	in an uncontrolled setting
+topical agents	are applied	in a high‑risk setting
+topical agents	are applied	in a low‑risk setting
+topical agents	are applied	in a moderate‑risk setting
+topical agents	are applied	in a resource‑limited setting
+topical agents	are applied	in a resource‑rich setting
+topical agents	are applied	in a rural clinic
+topical agents	are applied	in an urban hospital
+topical agents	are applied	in a telemedicine visit
+topical agents	are applied	in a home visit
+topical agents	are applied	in a community health center
+topical agents	are applied	in a specialty clinic
+topical agents	are applied	in a general practice
+topical agents	are applied	in a private practice
+topical agents	are applied	in a public health setting
+topical agents	are applied	in a global health setting

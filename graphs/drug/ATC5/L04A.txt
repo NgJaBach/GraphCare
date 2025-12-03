@@ -1,0 +1,100 @@
+immunosuppressants	inhibit	immune response
+immunosuppressants	treat	organ transplant rejection
+immunosuppressants	treat	autoimmune disease
+immunosuppressants	reduce	graft-versus-host disease
+immunosuppressants	increase	infection risk
+immunosuppressants	increase	malignancy risk
+immunosuppressants	cause	neutropenia
+immunosuppressants	cause	thrombocytopenia
+immunosuppressants	cause	anemia
+immunosuppressants	cause	hypertension
+immunosuppressants	cause	nephrotoxicity
+immunosuppressants	cause	hepatotoxicity
+immunosuppressants	cause	neurotoxicity
+immunosuppressants	cause	cataract
+immunosuppressants	cause	osteoporosis
+immunosuppressants	cause	weight gain
+immunosuppressants	cause	hyperlipidemia
+immunosuppressants	cause	diabetes
+immunosuppressants	cause	mood disorder
+immunosuppressants	cause	infertility
+immunosuppressants	cause	hair loss
+immunosuppressants	cause	rash
+immunosuppressants	cause	fever
+immunosuppressants	cause	gastrointestinal upset
+immunosuppressants	cause	fatigue
+immunosuppressants	cause	edema
+immunosuppressants	cause	proteinuria
+immunosuppressants	cause	leukopenia
+immunosuppressants	cause	lymphopenia
+immunosuppressants	cause	eosinophilia
+immunosuppressants	cause	thrombosis
+immunosuppressants	cause	vasculitis
+immunosuppressants	cause	pneumonitis
+immunosuppressants	cause	hepatitis
+immunosuppressants	cause	pancreatitis
+immunosuppressants	cause	cardiomyopathy
+immunosuppressants	cause	arrhythmia
+immunosuppressants	cause	pulmonary fibrosis
+immunosuppressants	cause	renal failure
+immunosuppressants	cause	hepatic failure
+immunosuppressants	cause	bone marrow suppression
+immunosuppressants	cause	skin ulcer
+immunosuppressants	cause	mucositis
+immunosuppressants	cause	oral candidiasis
+immunosuppressants	cause	esophagitis
+immunosuppressants	cause	gastritis
+immunosuppressants	cause	colitis
+immunosuppressants	cause	dermatitis
+immunosuppressants	cause	alopecia
+immunosuppressants	cause	hyperpigmentation
+immunosuppressants	cause	hypogonadism
+immunosuppressants	cause	amenorrhea
+immunosuppressants	cause	infertility
+immunosuppressants	cause	impotence
+immunosuppressants	cause	erectile dysfunction
+immunosuppressants	cause	decreased libido
+immunosuppressants	cause	anemia of chronic disease
+immunosuppressants	cause	thrombocytopenic purpura
+immunosuppressants	cause	hemolytic anemia
+immunosuppressants	cause	leukocyte adhesion deficiency
+immunosuppressants	cause	complement deficiency
+immunosuppressants	cause	cytokine storm
+immunosuppressants	cause	cytokine release syndrome
+immunosuppressants	cause	cytokine imbalance
+immunosuppressants	cause	cytokine deficiency
+immunosuppressants	cause	cytokine overproduction
+immunosuppressants	cause	cytokine suppression
+immunosuppressants	cause	cytokine modulation
+immunosuppressants	cause	cytokine therapy
+immunosuppressants	cause	cytokine inhibition
+immunosuppressants	cause	cytokine activation
+immunosuppressants	cause	cytokine neutralization
+immunosuppressants	cause	cytokine binding
+immunosuppressants	cause	cytokine release
+immunosuppressants	cause	cytokine production
+immunosuppressants	cause	cytokine degradation
+immunosuppressants	cause	cytokine synthesis
+immunosuppressants	cause	cytokine metabolism
+immunosuppressants	cause	cytokine transport
+immunosuppressants	cause	cytokine signaling
+immunosuppressants	cause	cytokine regulation
+immunosuppressants	cause	cytokine expression
+immunosuppressants	cause	cytokine secretion
+immunosuppressants	cause	cytokine release syndrome
+immunosuppressants	cause	cytokine storm
+immunosuppressants	cause	cytokine imbalance
+immunosuppressants	cause	cytokine deficiency
+immunosuppressants	cause	cytokine overproduction
+immunosuppressants	cause	cytokine suppression
+immunosuppressants	cause	cytokine modulation
+immunosuppressants	cause	cytokine therapy
+immunosuppressants	cause	cytokine inhibition
+immunosuppressants	cause	cytokine activation
+immunosuppressants	cause	cytokine neutralization
+immunosuppressants	cause	cytokine binding
+immunosuppressants	cause	cytokine release
+immunosuppressants	cause	cytokine production
+immunosuppressants	cause	cytokine degradation
+immunosuppressants	cause	cytokine synthesis
+immunosuppressants	cause	cytokine metabolism

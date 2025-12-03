@@ -1,0 +1,100 @@
+antispasmodics	are	drugs
+analgesics	are	drugs
+antispasmodics	treat	muscle spasm
+analgesics	treat	pain
+antispasmodics	used with	analgesics
+combination therapy	improves	symptom relief
+combination therapy	reduces	opioid requirement
+combination therapy	lowers	side‑effect burden
+antispasmodics	reduce	gastrointestinal cramping
+analgesics	reduce	nociceptive pain
+antispasmodics	block	acetylcholine
+analgesics	block	COX enzymes
+antispasmodics	include	hyoscine
+analgesics	include	ibuprofen
+hyoscine	is	anticholinergic
+ibuprofen	is	NSAID
+NSAID	cause	gastric ulcer
+anticholinergic	cause	dry mouth
+dry mouth	leads to	dental caries
+combination therapy	decreases	opioid‑related constipation
+opioid‑related constipation	leads to	bowel obstruction
+combination therapy	improves	patient compliance
+patient compliance	predicts	readmission risk
+readmission risk	predicts	mortality
+combination therapy	reduces	hospital stay
+hospital stay	predicts	cost
+cost	predicts	insurance claim
+insurance claim	predicts	socioeconomic status
+socioeconomic status	predicts	health literacy
+health literacy	predicts	medication adherence
+medication adherence	predicts	disease progression
+disease progression	predicts	mortality
+antispasmodics	cause	urinary retention
+urinary retention	leads to	bladder infection
+bladder infection	leads to	sepsis
+sepsis	leads to	organ failure
+organ failure	leads to	mortality
+analgesics	cause	hepatotoxicity
+hepatotoxicity	leads to	liver failure
+liver failure	leads to	mortality
+combination therapy	monitored by	serum drug levels
+serum drug levels	predict	toxicity
+toxicity	predicts	ICU admission
+ICU admission	predicts	mortality
+antispasmodics	used in	irritable bowel syndrome
+analgesics	used in	postoperative pain
+postoperative pain	predicts	chronic pain
+chronic pain	predicts	opioid dependence
+opioid dependence	predicts	overdose
+overdose	predicts	mortality
+combination therapy	reduces	opioid dose
+opioid dose	predicts	overdose
+combination therapy	reduces	nausea
+nausea	predicts	vomiting
+vomiting	predicts	dehydration
+dehydration	predicts	renal failure
+renal failure	predicts	mortality
+antispasmodics	reduce	spasm frequency
+spasm frequency	predicts	quality of life
+quality of life	predicts	depression
+depression	predicts	suicide risk
+suicide risk	predicts	mortality
+analgesics	reduce	anxiety
+anxiety	predicts	sleep disturbance
+sleep disturbance	predicts	cardiovascular risk
+cardiovascular risk	predicts	mortality
+combination therapy	improves	functional status
+functional status	predicts	independence
+independence	predicts	fall risk
+fall risk	predicts	fracture
+fracture	predicts	hospitalization
+hospitalization	predicts	readmission
+readmission	predicts	mortality
+antispasmodics	cause	tachycardia
+tachycardia	leads to	arrhythmia
+arrhythmia	leads to	sudden cardiac death
+sudden cardiac death	predicts	mortality
+analgesics	cause	respiratory depression
+respiratory depression	leads to	hypoxia
+hypoxia	leads to	brain injury
+brain injury	leads to	mortality
+combination therapy	reduces	drug interactions
+drug interactions	predict	adverse events
+adverse events	predict	mortality
+antispasmodics	used in	menstrual cramps
+menstrual cramps	predict	absenteeism
+absenteeism	predicts	productivity loss
+productivity loss	predicts	economic burden
+economic burden	predicts	healthcare utilization
+healthcare utilization	predicts	readmission
+readmission	predicts	mortality
+combination therapy	monitored by	ECG
+ECG	detects	QT prolongation
+QT prolongation	predicts	torsades
+torsades	predicts	sudden death
+sudden death	predicts	mortality
+antispasmodics	reduce	spasm severity
+spasm severity	predicts	analgesic requirement
+analgesic requirement	predicts	opioid exposure
+opioid exposure	predicts	mortality

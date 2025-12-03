@@ -1,0 +1,100 @@
+psychostimulants	treat	ADHD
+psychostimulants	enhance	cognition
+psychostimulants	increase	dopamine
+psychostimulants	increase	norepinephrine
+psychostimulants	improve	attention
+psychostimulants	improve	working memory
+psychostimulants	improve	executive function
+psychostimulants	reduce	impulsivity
+psychostimulants	reduce	hyperactivity
+psychostimulants	increase	heart rate
+psychostimulants	increase	blood pressure
+psychostimulants	cause	insomnia
+psychostimulants	cause	appetite loss
+psychostimulants	cause	anxiety
+psychostimulants	cause	tachycardia
+psychostimulants	cause	hypertension
+psychostimulants	cause	arrhythmia
+psychostimulants	cause	withdrawal
+psychostimulants	cause	dependence
+psychostimulants	cause	tolerance
+psychostimulants	contraindicated	pregnancy
+psychostimulants	contraindicated	cardiac disease
+psychostimulants	contraindicated	glaucoma
+psychostimulants	contraindicated	anxiety disorders
+psychostimulants	contraindicated	bipolar disorder
+psychostimulants	contraindicated	substance abuse
+psychostimulants	contraindicated	hypertension
+psychostimulants	contraindicated	tachycardia
+psychostimulants	contraindicated	arrhythmia
+psychostimulants	contraindicated	heart failure
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease
+psychostimulants	contraindicated	severe liver disease
+psychostimulants	contraindicated	severe kidney disease
+psychostimulants	contraindicated	severe psychiatric illness
+psychostimulants	contraindicated	severe anxiety
+psychostimulants	contraindicated	severe depression
+psychostimulants	contraindicated	severe insomnia
+psychostimulants	contraindicated	severe hypertension
+psychostimulants	contraindicated	severe tachycardia
+psychostimulants	contraindicated	severe arrhythmia
+psychostimulants	contraindicated	severe heart disease

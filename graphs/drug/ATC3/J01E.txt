@@ -1,0 +1,100 @@
+sulfonamides	are	antibiotics
+trimethoprim	is	antibiotic
+sulfonamides	inhibit	dihydropteroate synthase
+trimethoprim	inhibits	dihydrofolate reductase
+sulfonamides	block	folate synthesis
+trimethoprim	blocks	folate synthesis
+sulfonamides	used for	urinary tract infection
+trimethoprim	used for	urinary tract infection
+sulfonamides	used for	respiratory infection
+trimethoprim	used for	respiratory infection
+sulfonamides	used for	gastrointestinal infection
+trimethoprim	used for	gastrointestinal infection
+sulfonamides	used for	skin infection
+trimethoprim	used for	skin infection
+sulfonamides	used for	meningitis
+trimethoprim	used for	meningitis
+sulfonamides	used for	septicemia
+trimethoprim	used for	septicemia
+sulfonamides	used for	osteomyelitis
+trimethoprim	used for	osteomyelitis
+sulfonamides	used for	bone infection
+trimethoprim	used for	bone infection
+sulfonamides	used for	endocarditis
+trimethoprim	used for	endocarditis
+sulfonamides	used for	peritonitis
+trimethoprim	used for	peritonitis
+sulfonamides	used for	pneumonia
+trimethoprim	used for	pneumonia
+sulfonamides	used for	bronchitis
+trimethoprim	used for	bronchitis
+sulfonamides	used for	sinusitis
+trimethoprim	used for	sinusitis
+sulfonamides	used for	otitis media
+trimethoprim	used for	otitis media
+sulfonamides	used for	conjunctivitis
+trimethoprim	used for	conjunctivitis
+sulfonamides	used for	mastoiditis
+trimethoprim	used for	mastoiditis
+sulfonamides	used for	pharyngitis
+trimethoprim	used for	pharyngitis
+sulfonamides	used for	cervicitis
+trimethoprim	used for	cervicitis
+sulfonamides	used for	vaginitis
+trimethoprim	used for	vaginitis
+sulfonamides	used for	prostatitis
+trimethoprim	used for	prostatitis
+sulfonamides	used for	epididymitis
+trimethoprim	used for	epididymitis
+sulfonamides	used for	cholecystitis
+trimethoprim	used for	cholecystitis
+sulfonamides	used for	pyelonephritis
+trimethoprim	used for	pyelonephritis
+sulfonamides	used for	cystitis
+trimethoprim	used for	cystitis
+sulfonamides	used for	prostatitis
+trimethoprim	used for	prostatitis
+sulfonamides	contraindicated in	pregnancy
+trimethoprim	contraindicated in	pregnancy
+sulfonamides	contraindicated in	lactation
+trimethoprim	contraindicated in	lactation
+sulfonamides	contraindicated in	renal impairment
+trimethoprim	contraindicated in	renal impairment
+sulfonamides	contraindicated in	hepatic impairment
+trimethoprim	contraindicated in	hepatic impairment
+sulfonamides	contraindicated in	G6PD deficiency
+trimethoprim	contraindicated in	G6PD deficiency
+sulfonamides	cause	rash
+trimethoprim	cause	rash
+sulfonamides	cause	Stevens–Johnson syndrome
+trimethoprim	cause	Stevens–Johnson syndrome
+sulfonamides	cause	nephritis
+trimethoprim	cause	nephritis
+sulfonamides	cause	hepatotoxicity
+trimethoprim	cause	hepatotoxicity
+sulfonamides	cause	bone marrow suppression
+trimethoprim	cause	bone marrow suppression
+sulfonamides	cause	hyperuricemia
+trimethoprim	cause	hyperuricemia
+sulfonamides	cause	photosensitivity
+trimethoprim	cause	photosensitivity
+sulfonamides	interact with	warfarin
+trimethoprim	interact with	warfarin
+sulfonamides	interact with	methotrexate
+trimethoprim	interact with	methotrexate
+sulfonamides	interact with	digoxin
+trimethoprim	interact with	digoxin
+sulfonamides	interact with	NSAIDs
+trimethoprim	interact with	NSAIDs
+sulfonamides	interact with	proton pump inhibitors
+trimethoprim	interact with	proton pump inhibitors
+sulfonamides	reduce	drug clearance
+trimethoprim	reduce	drug clearance
+sulfonamides	increase	risk of sepsis
+trimethoprim	increase	risk of sepsis
+sulfonamides	improve	survival in sepsis
+trimethoprim	improve	survival in sepsis
+sulfonamides	shorten	hospital stay
+trimethoprim	shorten	hospital stay
+sulfonamides	reduce	mortality in pneumonia
+trimethoprim	reduce	mortality in pneumonia

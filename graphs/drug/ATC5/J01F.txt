@@ -1,0 +1,100 @@
+macrolides	are	antibiotics
+lincosamides	are	antibiotics
+streptogramins	are	antibiotics
+macrolides	inhibit	bacterial protein synthesis
+lincosamides	inhibit	bacterial protein synthesis
+streptogramins	inhibit	bacterial protein synthesis
+macrolides	bind	50S ribosomal subunit
+lincosamides	bind	50S ribosomal subunit
+streptogramins	bind	50S ribosomal subunit
+macrolides	treat	respiratory infections
+lincosamides	treat	anaerobic infections
+streptogramins	treat	resistant infections
+macrolides	cause	gastrointestinal upset
+lincosamides	cause	gastrointestinal upset
+streptogramins	cause	gastrointestinal upset
+macrolides	cause	QT prolongation
+lincosamides	cause	QT prolongation
+streptogramins	cause	QT prolongation
+macrolides	contraindicated in	pregnancy
+lincosamides	contraindicated in	pregnancy
+streptogramins	contraindicated in	pregnancy
+macrolides	metabolized by	CYP3A4
+lincosamides	metabolized by	CYP3A4
+streptogramins	metabolized by	CYP3A4
+macrolides	interact with	statins
+lincosamides	interact with	statins
+streptogramins	interact with	statins
+macrolides	increase	risk of liver injury
+lincosamides	increase	risk of liver injury
+streptogramins	increase	risk of liver injury
+macrolides	reduce	efficacy of oral contraceptives
+lincosamides	reduce	efficacy of oral contraceptives
+streptogramins	reduce	efficacy of oral contraceptives
+macrolides	used in	macrolide‑resistant infections
+lincosamides	used in	clindamycin‑resistant infections
+streptogramins	used in	vancomycin‑resistant infections
+macrolides	have	high protein binding
+lincosamides	have	high protein binding
+streptogramins	have	high protein binding
+macrolides	cause	macrolide‑induced diarrhea
+lincosamides	cause	clindamycin‑induced diarrhea
+streptogramins	cause	streptogramin‑induced diarrhea
+macrolides	associated with	Clostridioides difficile infection
+lincosamides	associated with	Clostridioides difficile infection
+streptogramins	associated with	Clostridioides difficile infection
+macrolides	used for	Mycoplasma pneumoniae
+lincosamides	used for	anaerobic streptococci
+streptogramins	used for	Gram‑positive cocci
+macrolides	have	broad spectrum
+lincosamides	have	narrow spectrum
+streptogramins	have	broad spectrum
+macrolides	cause	resistance via 23S rRNA mutation
+lincosamides	cause	resistance via methylation
+streptogramins	cause	resistance via efflux pumps
+macrolides	effective against	Streptococcus pneumoniae
+lincosamides	effective against	Peptostreptococcus
+streptogramins	effective against	Enterococcus faecalis
+macrolides	used in	allergic patients to penicillin
+lincosamides	used in	allergic patients to penicillin
+streptogramins	used in	allergic patients to penicillin
+macrolides	have	oral bioavailability
+lincosamides	have	oral bioavailability
+streptogramins	have	oral bioavailability
+macrolides	cause	hepatotoxicity
+lincosamides	cause	hepatotoxicity
+streptogramins	cause	hepatotoxicity
+macrolides	associated with	arrhythmia
+lincosamides	associated with	arrhythmia
+streptogramins	associated with	arrhythmia
+macrolides	used in	community‑acquired pneumonia
+lincosamides	used in	intra‑abdominal infections
+streptogramins	used in	skin and soft tissue infections
+macrolides	have	long half‑life
+lincosamides	have	short half‑life
+streptogramins	have	intermediate half‑life
+macrolides	cause	drug‑drug interactions
+lincosamides	cause	drug‑drug interactions
+streptogramins	cause	drug‑drug interactions
+macrolides	increase	risk of sepsis in ICU
+lincosamides	increase	risk of sepsis in ICU
+streptogramins	increase	risk of sepsis in ICU
+macrolides	used in	prophylaxis of infective endocarditis
+lincosamides	used in	prophylaxis of infective endocarditis
+streptogramins	used in	prophylaxis of infective endocarditis
+macrolides	associated with	taste disturbance
+lincosamides	associated with	taste disturbance
+streptogramins	associated with	taste disturbance
+macrolides	cause	ototoxicity
+lincosamides	cause	ototoxicity
+streptogramins	cause	ototoxicity
+macrolides	used in	otitis media
+lincosamides	used in	otitis media
+streptogramins	used in	otitis media
+macrolides	have	high cost
+lincosamides	have	moderate cost
+streptogramins	have	high cost
+macrolides	associated with	renal toxicity
+lincosamides	associated with	renal toxicity
+streptogramins	associated with	renal toxicity
+macrolides	used in	treatment of pertussis

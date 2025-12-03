@@ -1,0 +1,100 @@
+antispasmodics	treat	gastrointestinal spasms
+anticholinergics	block	acetylcholine
+antispasmodics	reduce	smooth muscle tone
+anticholinergics	cause	dry mouth
+antispasmodics	used for	irritable bowel syndrome
+anticholinergics	used for	Parkinson’s disease
+antispasmodics	inhibit	cholinergic receptors
+anticholinergics	inhibit	parasympathetic activity
+antispasmodics	improve	constipation
+anticholinergics	improve	urinary retention
+antispasmodics	contraindicated in	asthma
+anticholinergics	contraindicated in	glaucoma
+antispasmodics	interact with	beta‑blockers
+anticholinergics	interact with	antipsychotics
+antispasmodics	enhance	opioid analgesia
+anticholinergics	enhance	antipsychotic sedation
+antispasmodics	reduce	postoperative ileus
+anticholinergics	reduce	postoperative nausea
+antispasmodics	cause	urinary retention
+anticholinergics	cause	constipation
+antispasmodics	are metabolized by	liver
+anticholinergics	are metabolized by	kidney
+antispasmodics	have	anticholinergic burden
+anticholinergics	have	anticholinergic burden
+antispasmodics	are prescribed with	antispasmodic combinations
+anticholinergics	are prescribed with	anticholinergic combinations
+antispasmodics	are used with	antispasmodic‑anticholinergic combo
+anticholinergics	are used with	anticholinergic‑antispasmodic combo
+antispasmodics	improve	dysphagia
+anticholinergics	improve	overactive bladder
+antispasmodics	reduce	colonic transit time
+anticholinergics	reduce	colonic transit time
+antispasmodics	increase	gastric emptying
+anticholinergics	increase	gastric emptying
+antispasmodics	are contraindicated with	anticholinergic drugs
+anticholinergics	are contraindicated with	antispasmodic drugs
+antispasmodics	cause	blurred vision
+anticholinergics	cause	blurred vision
+antispasmodics	cause	tachycardia
+anticholinergics	cause	tachycardia
+antispasmodics	are used in	postoperative pain
+anticholinergics	are used in	postoperative pain
+antispasmodics	are used in	chronic constipation
+anticholinergics	are used in	chronic constipation
+antispasmodics	are used in	functional dyspepsia
+anticholinergics	are used in	functional dyspepsia
+antispasmodics	are used in	irritable bowel syndrome
+anticholinergics	are used in	irritable bowel syndrome
+antispasmodics	are used in	diverticulitis
+anticholinergics	are used in	diverticulitis
+antispasmodics	are used in	peptic ulcer disease
+anticholinergics	are used in	peptic ulcer disease
+antispasmodics	are used in	pancreatitis
+anticholinergics	are used in	pancreatitis
+antispasmodics	are used in	biliary colic
+anticholinergics	are used in	biliary colic
+antispasmodics	are used in	urinary tract infection
+anticholinergics	are used in	urinary tract infection
+antispasmodics	are used in	cystitis
+anticholinergics	are used in	cystitis
+antispasmodics	are used in	prostatitis
+anticholinergics	are used in	prostatitis
+antispasmodics	are used in	colitis
+anticholinergics	are used in	colitis
+antispasmodics	are used in	Crohn’s disease
+anticholinergics	are used in	Crohn’s disease
+antispasmodics	are used in	ulcerative colitis
+anticholinergics	are used in	ulcerative colitis
+antispasmodics	are used in	functional abdominal pain
+anticholinergics	are used in	functional abdominal pain
+antispasmodics	are used in	abdominal migraine
+anticholinergics	are used in	abdominal migraine
+antispasmodics	are used in	dyspepsia
+anticholinergics	are used in	dyspepsia
+antispasmodics	are used in	gastritis
+anticholinergics	are used in	gastritis
+antispasmodics	are used in	reflux
+anticholinergics	are used in	reflux
+antispasmodics	are used in	esophagitis
+anticholinergics	are used in	esophagitis
+antispasmodics	are used in	gastroparesis
+anticholinergics	are used in	gastroparesis
+antispasmodics	are used in	biliary dyskinesia
+anticholinergics	are used in	biliary dyskinesia
+antispasmodics	are used in	intestinal pseudo‑obstruction
+anticholinergics	are used in	intestinal pseudo‑obstruction
+antispasmodics	are used in	chronic abdominal pain
+anticholinergics	are used in	chronic abdominal pain
+antispasmodics	are used in	abdominal cramping
+anticholinergics	are used in	abdominal cramping
+antispasmodics	are used in	pelvic floor dysfunction
+anticholinergics	are used in	pelvic floor dysfunction
+antispasmodics	are used in	urinary incontinence
+anticholinergics	are used in	urinary incontinence
+antispasmodics	are used in	overactive bladder
+anticholinergics	are used in	overactive bladder
+antispasmodics	are used in	functional constipation
+anticholinergics	are used in	functional constipation
+antispasmodics	are used in	irritable bowel syndrome
+anticholinergics	are used in	irritable bowel syndrome

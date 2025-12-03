@@ -1,0 +1,100 @@
+antiinfectives	used for	eye infections
+antiinfectives	used for	ear infections
+antiinfectives	include	antibiotics
+antiinfectives	include	antivirals
+antiinfectives	include	antifungals
+antibiotics	treat	bacterial conjunctivitis
+antibiotics	treat	bacterial otitis media
+antivirals	treat	viral conjunctivitis
+antivirals	treat	viral otitis media
+antifungals	treat	fungal keratitis
+antifungals	treat	fungal otitis externa
+antiinfectives	administered as	eye drops
+antiinfectives	administered as	ear drops
+eye drops	improve	visual acuity
+ear drops	improve	hearing function
+antiinfectives	reduce	inflammation
+antiinfectives	reduce	pain
+antiinfectives	reduce	swelling
+antiinfectives	reduce	infection risk
+antiinfectives	prevent	recurrence
+antiinfectives	prevent	complications
+antiinfectives	contraindicated in	allergy to penicillin
+antiinfectives	contraindicated in	pregnancy
+antiinfectives	contraindicated in	lactation
+antiinfectives	contraindicated in	renal impairment
+antiinfectives	contraindicated in	hepatic impairment
+antiinfectives	contraindicated in	immunosuppression
+antiinfectives	cause	ocular irritation
+antiinfectives	cause	tinnitus
+antiinfectives	cause	vertigo
+antiinfectives	cause	rash
+antiinfectives	cause	nausea
+antiinfectives	cause	diarrhea
+antiinfectives	cause	photosensitivity
+antiinfectives	cause	systemic absorption
+antiinfectives	cause	resistance
+antiinfectives	cause	microbiome disruption
+antiinfectives	cause	ototoxicity
+antiinfectives	cause	corneal staining
+antiinfectives	cause	corneal ulceration
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal edema
+antiinfectives	cause	corneal haze
+antiinfectives	cause	corneal scarring
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity
+antiinfectives	cause	corneal abrasion
+antiinfectives	cause	corneal melt
+antiinfectives	cause	corneal perforation
+antiinfectives	cause	corneal ulcer
+antiinfectives	cause	corneal infection
+antiinfectives	cause	corneal toxicity

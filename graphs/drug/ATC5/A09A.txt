@@ -1,0 +1,100 @@
+digestive enzymes	are produced by	pancreas
+pancreas	secretes	lipase
+pancreas	secretes	amylase
+pancreas	secretes	protease
+lipase	digests	fat
+amylase	digests	carbohydrate
+protease	digests	protein
+digestion	occurs in	small intestine
+small intestine	absorbs	glucose
+small intestine	absorbs	amino acids
+small intestine	absorbs	fatty acids
+bile	emulsifies	fat
+bile	is produced by	liver
+liver	stores	bile
+pancreatic insufficiency	causes	steatorrhea
+steatorrhea	indicates	fat malabsorption
+malabsorption	leads to	vitamin deficiency
+vitamin deficiency	includes	vitamin A
+vitamin deficiency	includes	vitamin D
+vitamin deficiency	includes	vitamin E
+vitamin deficiency	includes	vitamin K
+cystic fibrosis	causes	pancreatic insufficiency
+pancreatic insufficiency	increases	risk of	diabetes
+diabetes	is type	type 2
+type 2 diabetes	is associated with	obesity
+obesity	is linked to	metabolic syndrome
+metabolic syndrome	increases	cardiovascular risk
+cardiovascular risk	includes	atherosclerosis
+atherosclerosis	is driven by	systemic inflammation
+systemic inflammation	is mediated by	cytokines
+cytokines	include	TNF‑α
+cytokines	include	IL‑6
+TNF‑α	promotes	insulin resistance
+IL‑6	promotes	insulin resistance
+insulin resistance	leads to	hyperglycemia
+hyperglycemia	causes	glycation
+glycation	damages	endothelial cells
+endothelial damage	contributes to	atherosclerosis
+bile acids	regulate	gut microbiota
+gut microbiota	produce	short‑chain fatty acids
+short‑chain fatty acids	include	butyrate
+butyrate	nourishes	colonocytes
+colonocytes	maintain	gut barrier
+gut barrier	integrity is controlled by	tight junctions
+tight junctions	are regulated by	zonulin
+zonulin	increases	gut permeability
+gut permeability	allows	endotoxin
+endotoxin	triggers	inflammation
+inflammation	exacerbates	metabolic syndrome
+metabolic syndrome	predisposes to	colorectal cancer
+colorectal cancer	is screened by	colonoscopy
+colonoscopy	detects	colon polyps
+colon polyps	can be removed by	polypectomy
+polypectomy	reduces	cancer risk
+lactase	digests	lactose
+lactase deficiency	causes	lactose intolerance
+lactose intolerance	results in	bloating
+bloating	is a symptom of	small intestinal bacterial overgrowth
+small intestinal bacterial overgrowth	is treated with	antibiotics
+antibiotics	alter	microbiome
+microbiome	influences	gut‑brain axis
+gut‑brain axis	modulates	mood
+mood	affects	appetite
+appetite	is regulated by	ghrelin
+ghrelin	stimulates	hunger
+hunger	drives	food intake
+food intake	determines	energy balance
+energy balance	determines	weight
+weight	is a factor in	obesity
+obesity	is treated by	bariatric surgery
+bariatric surgery	includes	gastric bypass
+gastric bypass	reduces	nutrient absorption
+reduced absorption	can cause	iron deficiency
+iron deficiency	leads to	anemia
+anemia	presents with	fatigue
+fatigue	impairs	quality of life
+quality of life	is measured by	patient‑reported outcomes
+patient‑reported outcomes	predict	readmission risk
+readmission risk	is higher in	post‑bariatric patients
+post‑bariatric patients	require	vitamin supplementation
+vitamin supplementation	includes	vitamin B12
+vitamin B12	is absorbed in	ileum
+ileum	is affected by	Crohn disease
+Crohn disease	causes	malabsorption
+malabsorption	leads to	protein‑energy wasting
+protein‑energy wasting	predicts	mortality
+mortality	is reduced by	early nutrition
+early nutrition	is guided by	nutritional assessment
+nutritional assessment	uses	Subjective Global Assessment
+Subjective Global Assessment	predicts	hospital outcomes
+hospital outcomes	include	length of stay
+length of stay	correlates with	cost
+cost	is a factor in	healthcare utilization
+healthcare utilization	is influenced by	disease severity
+disease severity	is measured by	clinical scoring
+clinical scoring	informs	treatment decisions
+treatment decisions	affect	survival
+survival	is improved by	early intervention
+early intervention	relies on	diagnostic imaging
+diagnostic imaging	includes	CT scan

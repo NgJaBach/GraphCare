@@ -1,0 +1,100 @@
+bile therapy	treats	cholestasis
+lipotropics	enhance	liver function
+bile therapy	includes	ursodeoxycholic acid
+lipotropics	include	silymarin
+ursodeoxycholic acid	improves	bile flow
+silymarin	protects	hepatocytes
+bile therapy	reduces	bilirubin
+lipotropics	reduce	oxidative stress
+cholestasis	causes	pruritus
+pruritus	relieved by	bile therapy
+bile therapy	lowers	liver enzymes
+lipotropics	lower	triglycerides
+ursonol	is a	bile acid
+ursonol	used in	bile therapy
+bile therapy	contraindicated in	pregnancy
+lipotropics	contraindicated in	liver failure
+bile therapy	improves	fat absorption
+lipotropics	improve	protein synthesis
+cholestasis	increases	risk of cirrhosis
+bile therapy	prevents	cirrhosis
+lipotropics	reduce	inflammation
+bile therapy	prescribed with	vitamin K
+lipotropics	prescribed with	vitamin E
+ursodeoxycholic acid	reduces	gallstone formation
+silymarin	reduces	fibrosis
+bile therapy	monitored by	liver function tests
+lipotropics	monitored by	lipid panel
+bile therapy	dosage	10‑15 mg/kg/day
+lipotropics	dosage	200‑400 mg/day
+bile therapy	side effect	nausea
+lipotropics	side effect	headache
+bile therapy	interacts with	anticoagulants
+lipotropics	interact with	statins
+bile therapy	improves	quality of life
+lipotropics	improve	liver regeneration
+cholestasis	associated with	pruritus
+pruritus	treated by	antihistamines
+bile therapy	reduces	pruritus
+lipotropics	reduce	hepatic steatosis
+bile therapy	used in	primary biliary cholangitis
+lipotropics	used in	non‑alcoholic fatty liver disease
+bile therapy	improves	bile acid synthesis
+lipotropics	improve	mitochondrial function
+bile therapy	reduces	serum bilirubin
+lipotropics	reduce	serum ALT
+bile therapy	reduces	serum AST
+lipotropics	reduce	serum GGT
+bile therapy	reduces	serum ALP
+lipotropics	reduce	serum LDH
+bile therapy	reduces	serum ammonia
+lipotropics	reduce	serum ammonia
+bile therapy	improves	coagulation profile
+lipotropics	improve	coagulation profile
+bile therapy	used with	cholestyramine
+lipotropics	used with	omega‑3 fatty acids
+bile therapy	reduces	risk of hepatic encephalopathy
+lipotropics	reduce	risk of hepatic encephalopathy
+bile therapy	reduces	mortality
+lipotropics	reduce	mortality
+bile therapy	improves	survival
+lipotropics	improve	survival
+bile therapy	reduces	hospital readmission
+lipotropics	reduce	hospital readmission
+bile therapy	reduces	length of stay
+lipotropics	reduce	length of stay
+bile therapy	improves	liver stiffness
+lipotropics	improve	liver stiffness
+bile therapy	reduces	fibrosis score
+lipotropics	reduce	fibrosis score
+bile therapy	improves	portal hypertension
+lipotropics	improve	portal hypertension
+bile therapy	reduces	variceal bleeding
+lipotropics	reduce	variceal bleeding
+bile therapy	improves	ascites control
+lipotropics	improve	ascites control
+bile therapy	reduces	hepatic encephalopathy episodes
+lipotropics	reduce	hepatic encephalopathy episodes
+bile therapy	improves	patient-reported outcomes
+lipotropics	improve	patient-reported outcomes
+bile therapy	reduces	cost of care
+lipotropics	reduce	cost of care
+bile therapy	used in	neonatal cholestasis
+lipotropics	used in	neonatal cholestasis
+bile therapy	reduces	bilirubin neurotoxicity
+lipotropics	reduce	bilirubin neurotoxicity
+bile therapy	improves	neurodevelopment
+lipotropics	improve	neurodevelopment
+bile therapy	reduces	risk of gallbladder cancer
+lipotropics	reduce	risk of gallbladder cancer
+bile therapy	improves	gut microbiota
+lipotropics	improve	gut microbiota
+bile therapy	reduces	bacterial overgrowth
+lipotropics	reduce	bacterial overgrowth
+bile therapy	improves	bile acid pool
+lipotropics	improve	bile acid pool
+bile therapy	reduces	bile acid toxicity
+lipotropics	reduce	bile acid toxicity
+bile therapy	improves	liver regeneration
+lipotropics	improve	liver regeneration
+bile therapy	combined with	lipotropics	improves	overall prognosis

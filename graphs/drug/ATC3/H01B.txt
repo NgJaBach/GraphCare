@@ -1,0 +1,100 @@
+posterior pituitary	secretes	oxytocin
+posterior pituitary	secretes	vasopressin
+oxytocin	stimulates	uterine contraction
+oxytocin	promotes	milk ejection
+vasopressin	regulates	water reabsorption
+vasopressin	increases	blood pressure
+oxytocin	used for	labor induction
+vasopressin	used for	diabetes insipidus
+oxytocin	causes	uterine hyperstimulation
+vasopressin	causes	hyponatremia
+oxytocin	binds	oxytocin receptor
+vasopressin	binds	V1 receptor
+vasopressin	binds	V2 receptor
+oxytocin	binds	V1 receptor
+oxytocin	increases	uterine blood flow
+vasopressin	increases	renal sodium retention
+oxytocin	decreases	postpartum hemorrhage
+vasopressin	decreases	urine output
+oxytocin	is synthesized	by hypothalamus
+vasopressin	is synthesized	by hypothalamus
+oxytocin	transported	via posterior pituitary
+vasopressin	transported	via posterior pituitary
+oxytocin	stored	in posterior pituitary
+vasopressin	stored	in posterior pituitary
+oxytocin	released	by nipple stimulation
+vasopressin	released	by osmotic stimulus
+oxytocin	released	by emotional bonding
+vasopressin	released	by stress
+oxytocin	has	antidiuretic effect
+vasopressin	has	antidiuretic effect
+oxytocin	has	cardiovascular effect
+vasopressin	has	cardiovascular effect
+oxytocin	is a peptide
+vasopressin	is a peptide
+oxytocin	is a hormone
+vasopressin	is a hormone
+oxytocin	is used	in obstetrics
+vasopressin	is used	in nephrology
+oxytocin	is contraindicated	in preeclampsia
+vasopressin	is contraindicated	in heart failure
+oxytocin	is associated	with uterine rupture
+vasopressin	is associated	with hyponatremia
+oxytocin	is measured	in blood tests
+vasopressin	is measured	in blood tests
+oxytocin	is synthesized	via gene OXT
+vasopressin	is synthesized	via gene AVP
+oxytocin	is regulated	by oxytocin receptor
+vasopressin	is regulated	by V2 receptor
+oxytocin	is regulated	by V1 receptor
+vasopressin	is regulated	by V1 receptor
+oxytocin	is a target	for drug therapy
+vasopressin	is a target	for drug therapy
+oxytocin	is a biomarker	for labor onset
+vasopressin	is a biomarker	for water balance
+oxytocin	is a factor	in social bonding
+vasopressin	is a factor	in stress response
+oxytocin	is a factor	in postpartum depression
+vasopressin	is a factor	in SIADH
+oxytocin	is a factor	in preterm labor
+vasopressin	is a factor	in hyponatremia
+oxytocin	is a factor	in uterine atony
+vasopressin	is a factor	in water retention
+oxytocin	is a factor	in lactation
+vasopressin	is a factor	in blood pressure
+oxytocin	is a factor	in uterine contraction
+vasopressin	is a factor	in renal function
+oxytocin	is a factor	in parturition
+vasopressin	is a factor	in antidiuresis
+oxytocin	is a factor	in maternal bonding
+vasopressin	is a factor	in osmoregulation
+oxytocin	is a factor	in cardiovascular regulation
+vasopressin	is a factor	in neuroendocrine regulation
+oxytocin	is a factor	in uterine tone
+vasopressin	is a factor	in vasoconstriction
+oxytocin	is a factor	in parturient pain
+vasopressin	is a factor	in fluid balance
+oxytocin	is a factor	in uterine involution
+vasopressin	is a factor	in blood volume
+oxytocin	is a factor	in maternal behavior
+vasopressin	is a factor	in thirst
+oxytocin	is a factor	in postpartum hemorrhage
+vasopressin	is a factor	in hyponatremia
+oxytocin	is a factor	in uterine contraction strength
+vasopressin	is a factor	in renal concentrating
+oxytocin	is a factor	in uterine contraction timing
+vasopressin	is a factor	in water reabsorption
+oxytocin	is a factor	in parturient uterine activity
+vasopressin	is a factor	in blood pressure regulation
+oxytocin	is a factor	in lactation initiation
+vasopressin	is a factor	in fluid homeostasis
+oxytocin	is a factor	in uterine involution
+vasopressin	is a factor	in antidiuretic hormone
+oxytocin	is a factor	in maternal bonding
+vasopressin	is a factor	in osmoregulation
+oxytocin	is a factor	in uterine contraction
+vasopressin	is a factor	in renal water reabsorption
+oxytocin	is a factor	in parturition
+vasopressin	is a factor	in blood volume
+oxytocin	is a factor	in postpartum recovery
+vasopressin	is a factor	in fluid balance

@@ -1,0 +1,100 @@
+ophthalmologicals	belong to	ATC
+ATC	classifies	drugs
+ophthalmologicals	include	eye drops
+ophthalmologicals	include	eye ointments
+ophthalmologicals	include	eye gels
+ophthalmologicals	include	eye solutions
+ophthalmologicals	include	eye suspensions
+ophthalmologicals	include	eye tablets
+ophthalmologicals	include	eye capsules
+ophthalmologicals	include	eye syringes
+ophthalmologicals	include	eye patches
+ophthalmologicals	include	eye implants
+ophthalmologicals	include	eye lenses
+ophthalmologicals	include	eye contact lenses
+ophthalmologicals	include	eye glasses
+ophthalmologicals	include	eye surgery devices
+ophthalmologicals	include	eye diagnostic tools
+ophthalmologicals	include	eye imaging agents
+ophthalmologicals	include	eye anesthetics
+ophthalmologicals	include	eye anti‑inflammatories
+ophthalmologicals	include	eye antibiotics
+ophthalmologicals	include	eye antivirals
+ophthalmologicals	include	eye antifungals
+ophthalmologicals	include	eye steroids
+ophthalmologicals	include	eye non‑steroidal anti‑inflammatories
+ophthalmologicals	include	eye cycloplegics
+ophthalmologicals	include	eye mydriatics
+ophthalmologicals	include	eye vasodilators
+ophthalmologicals	include	eye vasoconstrictors
+ophthalmologicals	include	eye antihistamines
+ophthalmologicals	include	eye decongestants
+ophthalmologicals	include	eye lubricants
+ophthalmologicals	include	eye tear substitutes
+ophthalmologicals	include	eye anti‑glaucoma agents
+ophthalmologicals	include	eye ocular hypotensives
+ophthalmologicals	include	eye ocular hypertonics
+ophthalmologicals	include	eye ocular antioxidants
+ophthalmologicals	include	eye ocular vitamins
+ophthalmologicals	include	eye ocular minerals
+ophthalmologicals	include	eye ocular peptides
+ophthalmologicals	include	eye ocular hormones
+ophthalmologicals	include	eye ocular biologics
+ophthalmologicals	include	eye ocular gene therapies
+ophthalmologicals	include	eye ocular vaccines
+ophthalmologicals	include	eye ocular immunotherapies
+ophthalmologicals	include	eye ocular chemotherapies
+ophthalmologicals	include	eye ocular radiotherapies
+ophthalmologicals	include	eye ocular phototherapies
+ophthalmologicals	include	eye ocular cryotherapies
+ophthalmologicals	include	eye ocular thermotherapies
+ophthalmologicals	include	eye ocular laser devices
+ophthalmologicals	include	eye ocular surgical instruments
+ophthalmologicals	include	eye ocular sutures
+ophthalmologicals	include	eye ocular adhesives
+ophthalmologicals	include	eye ocular implants
+ophthalmologicals	include	eye ocular prostheses
+ophthalmologicals	include	eye ocular contact lens solutions
+ophthalmologicals	include	eye ocular cleaning solutions
+ophthalmologicals	include	eye ocular disinfectants
+ophthalmologicals	include	eye ocular antiseptics
+ophthalmologicals	include	eye ocular lubricants
+ophthalmologicals	include	eye ocular ointment bases
+ophthalmologicals	include	eye ocular drop bases
+ophthalmologicals	include	eye ocular gel bases
+ophthalmologicals	include	eye ocular suspension bases
+ophthalmologicals	include	eye ocular solution bases
+ophthalmologicals	include	eye ocular tablet bases
+ophthalmologicals	include	eye ocular capsule bases
+ophthalmologicals	include	eye ocular syringe bases
+ophthalmologicals	include	eye ocular patch bases
+ophthalmologicals	include	eye ocular implant materials
+ophthalmologicals	include	eye ocular lens materials
+ophthalmologicals	include	eye ocular contact lens materials
+ophthalmologicals	include	eye ocular surgical device materials
+ophthalmologicals	include	eye ocular diagnostic device materials
+ophthalmologicals	include	eye ocular imaging agent materials
+ophthalmologicals	include	eye ocular anesthetic agents
+ophthalmologicals	include	eye ocular anti‑inflammatory agents
+ophthalmologicals	include	eye ocular antibiotic agents
+ophthalmologicals	include	eye ocular antiviral agents
+ophthalmologicals	include	eye ocular antifungal agents
+ophthalmologicals	include	eye ocular steroid agents
+ophthalmologicals	include	eye ocular non‑steroidal anti‑inflammatory agents
+ophthalmologicals	include	eye ocular cycloplegic agents
+ophthalmologicals	include	eye ocular mydriatic agents
+ophthalmologicals	include	eye ocular vasodilator agents
+ophthalmologicals	include	eye ocular vasoconstrictor agents
+ophthalmologicals	include	eye ocular antihistamine agents
+ophthalmologicals	include	eye ocular decongestant agents
+ophthalmologicals	include	eye ocular lubricant agents
+ophthalmologicals	include	eye ocular tear substitute agents
+ophthalmologicals	include	eye ocular anti‑glaucoma agents
+ophthalmologicals	include	eye ocular ocular hypotensive agents
+ophthalmologicals	include	eye ocular ocular hypertonic agents
+ophthalmologicals	include	eye ocular antioxidant agents
+ophthalmologicals	include	eye ocular vitamin agents
+ophthalmologicals	include	eye ocular mineral agents
+ophthalmologicals	include	eye ocular peptide agents
+ophthalmologicals	include	eye ocular hormone agents
+ophthalmologicals	include	eye ocular biologic agents

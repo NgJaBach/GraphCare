@@ -1,0 +1,100 @@
+antibacterials	classified by	ATC
+ATC	codes	antibacterial
+antibacterials	include	macrolides
+macrolides	treat	respiratory infections
+macrolides	cause	QT prolongation
+macrolides	interact with	azithromycin
+macrolides	metabolized by	CYP3A4
+antibacterials	include	tetracyclines
+tetracyclines	treat	acne
+tetracyclines	contraindicated in	pregnancy
+tetracyclines	cause	photosensitivity
+antibacterials	include	fluoroquinolones
+fluoroquinolones	treat	urinary tract infections
+fluoroquinolones	cause	tendon rupture
+fluoroquinolones	interact with	antacids
+fluoroquinolones	excreted by	kidneys
+antibacterials	include	beta‑lactams
+beta‑lactams	include	penicillins
+penicillins	treat	streptococcal pharyngitis
+penicillins	cause	anaphylaxis
+penicillins	metabolized by	beta‑lactamase
+beta‑lactams	include	cephalosporins
+cephalosporins	treat	meningitis
+cephalosporins	cause	rash
+cephalosporins	interact with	probenecid
+beta‑lactams	include	carbapenems
+carbapenems	treat	multidrug‑resistant infections
+carbapenems	cause	Clostridioides difficile colitis
+carbapenems	excreted by	kidneys
+antibacterials	include	aminoglycosides
+aminoglycosides	treat	septicemia
+aminoglycosides	cause	nephrotoxicity
+aminoglycosides	cause	ototoxicity
+aminoglycosides	interact with	neuromuscular blockers
+aminoglycosides	require	therapeutic drug monitoring
+antibacterials	include	sulfonamides
+sulfonamides	treat	Pneumocystis jirovecii
+sulfonamides	cause	Stevens‑Johnson syndrome
+sulfonamides	interact with	warfarin
+sulfonamides	metabolized by	CYP2C9
+antibacterials	include	macrolide‑lincosamide‑streptogramin (MLS) group
+MLS	treat	skin infections
+MLS	cause	gastrointestinal upset
+MLS	interact with	erythromycin
+antibacterials	include	oxazolidinones
+oxazolidinones	treat	MRSA
+oxazolidinones	cause	thrombocytopenia
+oxazolidinones	interact with	serotonergic drugs
+oxazolidinones	metabolized by	CYP3A4
+antibacterials	include	nitroimidazoles
+nitroimidazoles	treat	anaerobic infections
+nitroimidazoles	cause	teratogenicity
+nitroimidazoles	interact with	alcohol
+nitroimidazoles	excreted by	kidneys
+antibacterials	include	glycopeptides
+glycopeptides	treat	vancomycin‑resistant Enterococcus
+glycopeptides	cause	red man syndrome
+glycopeptides	interact with	heparin
+glycopeptides	require	infusion rate control
+antibacterials	include	polymyxins
+polymyxins	treat	carbapenem‑resistant Acinetobacter
+polymyxins	cause	nephrotoxicity
+polymyxins	interact with	aminoglycosides
+polymyxins	excreted by	kidneys
+antibacterials	include	nitrofurantoin
+nitrofurantoin	treat	uncomplicated UTIs
+nitrofurantoin	cause	pulmonary fibrosis
+nitrofurantoin	interact with	antacids
+nitrofurantoin	excreted by	kidneys
+antibacterials	include	fosfomycin
+fosfomycin	treat	cystitis
+fosfomycin	cause	gastrointestinal upset
+fosfomycin	interact with	proton pump inhibitors
+fosfomycin	excreted by	kidneys
+antibacterials	include	nitrofurazone
+nitrofurazone	treat	skin infections
+nitrofurazone	cause	skin irritation
+nitrofurazone	interact with	topical steroids
+nitrofurazone	metabolized by	skin enzymes
+antibacterials	include	clindamycin
+clindamycin	treat	anaerobic infections
+clindamycin	cause	C. difficile colitis
+clindamycin	interact with	warfarin
+clindamycin	metabolized by	CYP3A4
+antibacterials	include	rifamycins
+rifamycins	treat	tuberculosis
+rifamycins	cause	hepatotoxicity
+rifamycins	interact with	oral contraceptives
+rifamycins	induce	CYP3A4
+antibacterials	include	daptomycin
+daptomycin	treat	MRSA bacteremia
+daptomycin	cause	myopathy
+daptomycin	interact with	statins
+daptomycin	excreted by	kidneys
+antibacterials	include	linezolid
+linezolid	treat	VRE
+linezolid	cause	serotonin syndrome
+linezolid	interact with	SSRIs
+linezolid	metabolized by	CYP3A4
+antibacterials	predict	resistance patterns

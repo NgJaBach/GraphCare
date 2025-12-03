@@ -1,0 +1,100 @@
+antineoplastic agents	classified by	ATC
+ATC	contains	antineoplastic agents
+antineoplastic agents	include	chemotherapy
+chemotherapy	is a	treatment
+chemotherapy	targets	cancer cells
+cancer cells	exhibit	uncontrolled proliferation
+uncontrolled proliferation	leads to	tumor growth
+tumor growth	causes	metastasis
+metastasis	increases	mortality risk
+mortality risk	predicts	poor prognosis
+poor prognosis	indicates	need for aggressive therapy
+aggressive therapy	may involve	combination chemotherapy
+combination chemotherapy	reduces	relapse rate
+relapse rate	affects	readmission probability
+readmission probability	informs	discharge planning
+discharge planning	improves	patient outcomes
+patient outcomes	measured by	survival rate
+survival rate	depends on	treatment efficacy
+treatment efficacy	measured by	response rate
+response rate	correlates with	biomarker expression
+biomarker expression	assessed by	immunohistochemistry
+immunohistochemistry	detects	HER2
+HER2	is a	receptor
+receptor	targeted by	trastuzumab
+trastuzumab	is a	monoclonal antibody
+monoclonal antibody	classified as	targeted therapy
+targeted therapy	reduces	side effect burden
+side effect burden	improves	quality of life
+quality of life	predicts	adherence
+adherence	influences	treatment success
+treatment success	measured by	progression-free survival
+progression-free survival	depends on	drug potency
+drug potency	linked to	pharmacokinetics
+pharmacokinetics	described by	half-life
+half-life	affects	dosing schedule
+dosing schedule	impacts	toxicity profile
+toxicity profile	includes	neutropenia
+neutropenia	increases	infection risk
+infection risk	raises	hospitalization rate
+hospitalization rate	predicts	readmission risk
+readmission risk	informs	resource allocation
+resource allocation	optimizes	cost-effectiveness
+cost-effectiveness	evaluated by	incremental cost‑effectiveness ratio
+incremental cost‑effectiveness ratio	guides	reimbursement decisions
+reimbursement decisions	influence	drug availability
+drug availability	affects	treatment choice
+treatment choice	guided by	clinical guidelines
+clinical guidelines	based on	evidence hierarchy
+evidence hierarchy	ranks	randomized controlled trials
+randomized controlled trials	produce	hazard ratios
+hazard ratios	estimate	relative risk
+relative risk	used in	meta‑analysis
+meta‑analysis	informs	systematic reviews
+systematic reviews	summarize	drug efficacy
+drug efficacy	compared across	drug classes
+drug classes	include	alkylating agents
+alkylating agents	act by	DNA cross‑linking
+DNA cross‑linking	induces	apoptosis
+apoptosis	reduces	tumor burden
+tumor burden	measured by	imaging
+imaging	utilizes	PET‑CT
+PET‑CT	detects	metabolic activity
+metabolic activity	indicates	residual disease
+residual disease	predicts	recurrence
+recurrence	increases	surveillance intensity
+surveillance intensity	requires	follow‑up visits
+follow‑up visits	improve	early detection
+early detection	lowers	mortality
+mortality	tracked by	cancer registry
+cancer registry	provides	epidemiological data
+epidemiological data	used for	population health
+population health	informs	public health policy
+public health policy	shapes	screening programs
+screening programs	target	high‑risk groups
+high‑risk groups	identified by	risk calculators
+risk calculators	incorporate	genetic variants
+genetic variants	discovered by	genome‑wide association studies
+genome‑wide association studies	identify	susceptibility loci
+susceptibility loci	linked to	drug response
+drug response	predicts	pharmacogenomic profile
+pharmacogenomic profile	guides	personalized medicine
+personalized medicine	reduces	adverse events
+adverse events	monitored by	adverse event reporting
+adverse event reporting	feeds into	pharmacovigilance
+pharmacovigilance	detects	safety signals
+safety signals	trigger	label changes
+label changes	affect	prescribing patterns
+prescribing patterns	influence	drug utilization
+drug utilization	measured by	prescription claims
+prescription claims	analyzed for	adherence metrics
+adherence metrics	correlate with	treatment outcomes
+treatment outcomes	evaluated by	survival statistics
+survival statistics	reported in	clinical trials
+clinical trials	register	trial phases
+trial phases	progress from	phase I to phase III
+phase III	confirms	efficacy
+efficacy	supports	regulatory approval
+regulatory approval	grants	market access
+market access	ensures	patient access
+patient access	determines	health equity

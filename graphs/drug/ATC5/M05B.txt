@@ -1,0 +1,100 @@
+bisphosphonates	inhibit	osteoclast activity
+bisphosphonates	reduce	bone resorption
+bisphosphonates	increase	bone density
+bisphosphonates	used for	osteoporosis
+bisphosphonates	cause	osteonecrosis
+bisphosphonates	cause	atypical femur fracture
+bisphosphonates	administered	orally
+bisphosphonates	administered	intravenously
+bisphosphonates	contraindicated in	renal impairment
+bisphosphonates	contraindicated in	hypocalcemia
+denosumab	inhibits	RANKL
+denosumab	reduces	osteoclast formation
+denosumab	increases	bone mineral density
+denosumab	used for	metastatic bone disease
+denosumab	causes	hypocalcemia
+denosumab	causes	skin rash
+denosumab	administered	subcutaneously
+denosumab	contraindicated in	uncontrolled infection
+calcitonin	decreases	bone resorption
+calcitonin	used for	Paget disease
+calcitonin	causes	nausea
+calcitonin	causes	flushing
+calcitonin	administered	intranasally
+calcitonin	contraindicated in	severe renal disease
+parathyroid hormone analog	stimulates	bone formation
+parathyroid hormone analog	used for	severe osteoporosis
+parathyroid hormone analog	causes	hypercalcemia
+parathyroid hormone analog	causes	nausea
+parathyroid hormone analog	administered	subcutaneously
+parathyroid hormone analog	contraindicated in	bone metastasis
+vitamin D	promotes	calcium absorption
+vitamin D	promotes	bone mineralization
+vitamin D	deficiency causes	osteomalacia
+vitamin D	deficiency causes	rickets
+vitamin D	administered	orally
+vitamin D	contraindicated in	hypercalcemia
+calcium supplements	increase	serum calcium
+calcium supplements	used with	vitamin D
+calcium supplements	cause	constipation
+calcium supplements	cause	kidney stones
+calcium supplements	contraindicated in	hypercalcemia
+sclerostin inhibitor	promotes	bone formation
+sclerostin inhibitor	used for	osteoporosis
+sclerostin inhibitor	causes	back pain
+sclerostin inhibitor	causes	injection site reaction
+sclerostin inhibitor	administered	subcutaneously
+sclerostin inhibitor	contraindicated in	bone metastasis
+osteoprotegerin	binds	RANKL
+osteoprotegerin	inhibits	osteoclastogenesis
+osteoprotegerin	used in	gene therapy
+osteoprotegerin	causes	immune reaction
+osteoprotegerin	contraindicated in	autoimmune disease
+bone morphogenetic protein	stimulates	osteoblast differentiation
+bone morphogenetic protein	used for	fracture healing
+bone morphogenetic protein	causes	ectopic bone formation
+bone morphogenetic protein	causes	inflammation
+bone morphogenetic protein	administered	locally
+bone morphogenetic protein	contraindicated in	cancer
+anti-sclerostin antibody	increases	bone density
+anti-sclerostin antibody	reduces	fracture risk
+anti-sclerostin antibody	causes	back pain
+anti-sclerostin antibody	causes	injection site pain
+anti-sclerostin antibody	administered	subcutaneously
+anti-sclerostin antibody	contraindicated in	bone metastasis
+denosumab	increases	fracture risk after discontinuation
+bisphosphonates	increase	risk of atypical fracture
+bisphosphonates	increase	risk of osteonecrosis
+bisphosphonates	improve	hip fracture healing
+bisphosphonates	improve	vertebral fracture healing
+bisphosphonates	improve	spinal cord compression risk
+bisphosphonates	reduce	mortality in metastatic bone disease
+denosumab	reduces	skeletal morbidity
+denosumab	reduces	bone pain
+denosumab	reduces	need for surgery
+calcitonin	reduces	bone pain
+calcitonin	reduces	fracture risk in Paget
+parathyroid hormone analog	reduces	fracture risk
+parathyroid hormone analog	reduces	bone loss
+vitamin D	reduces	risk of falls
+vitamin D	reduces	risk of fractures
+calcium supplements	reduce	risk of osteoporosis
+calcium supplements	reduce	risk of fractures
+sclerostin inhibitor	reduces	fracture risk
+osteoprotegerin	reduces	bone resorption
+osteoprotegerin	reduces	bone loss
+bone morphogenetic protein	reduces	nonunion rate
+bone morphogenetic protein	reduces	healing time
+anti-sclerostin antibody	reduces	fracture risk
+anti-sclerostin antibody	reduces	bone loss
+bisphosphonates	associated with	hypocalcemia
+bisphosphonates	associated with	esophageal irritation
+denosumab	associated with	infection risk
+denosumab	associated with	skin rash
+calcitonin	associated with	headache
+calcitonin	associated with	dizziness
+parathyroid hormone analog	associated with	hypercalcemia
+parathyroid hormone analog	associated with	nausea
+vitamin D	associated with	hypercalcemia
+vitamin D	associated with	hypercalciuria
+calcium supplements	associated with	kidney stones

@@ -1,0 +1,100 @@
+blood glucose lowering drugs	are	medication
+blood glucose lowering drugs	treat	type 2 diabetes
+blood glucose lowering drugs	reduce	fasting glucose
+blood glucose lowering drugs	lower	post‑prandial glucose
+blood glucose lowering drugs	improve	HbA1c
+blood glucose lowering drugs	include	metformin
+blood glucose lowering drugs	include	sulfonylureas
+blood glucose lowering drugs	include	thiazolidinediones
+blood glucose lowering drugs	include	DPP‑4 inhibitors
+blood glucose lowering drugs	include	GLP‑1 agonists
+blood glucose lowering drugs	include	SGLT2 inhibitors
+blood glucose lowering drugs	exclude	insulin
+metformin	is a	biguanide
+metformin	decreases	hepatic gluconeogenesis
+metformin	improves	insulin sensitivity
+metformin	causes	lactic acidosis
+metformin	contraindicated	renal impairment
+sulfonylureas	stimulate	pancreatic β‑cells
+sulfonylureas	cause	hypoglycemia
+sulfonylureas	associated	weight gain
+sulfonylureas	include	glipizide
+sulfonylureas	include	glyburide
+thiazolidinediones	activate	PPARγ
+thiazolidinediones	improve	adiponectin
+thiazolidinediones	cause	edema
+thiazolidinediones	contraindicated	heart failure
+thiazolidinediones	include	pioglitazone
+thiazolidinediones	include	rosiglitazone
+DPP‑4 inhibitors	inhibit	DPP‑4 enzyme
+DPP‑4 inhibitors	increase	GLP‑1 levels
+DPP‑4 inhibitors	cause	mild hypoglycemia
+DPP‑4 inhibitors	include	sitagliptin
+DPP‑4 inhibitors	include	saxagliptin
+GLP‑1 agonists	mimic	GLP‑1 hormone
+GLP‑1 agonists	stimulate	insulin secretion
+GLP‑1 agonists	suppress	glucagon release
+GLP‑1 agonists	cause	nausea
+GLP‑1 agonists	include	exenatide
+GLP‑1 agonists	include	liraglutide
+SGLT2 inhibitors	block	renal SGLT2 transporter
+SGLT2 inhibitors	increase	urinary glucose excretion
+SGLT2 inhibitors	cause	genital infections
+SGLT2 inhibitors	associated	weight loss
+SGLT2 inhibitors	include	empagliflozin
+SGLT2 inhibitors	include	dapagliflozin
+blood glucose lowering drugs	reduce	cardiovascular risk
+blood glucose lowering drugs	reduce	nephropathy progression
+blood glucose lowering drugs	reduce	retinopathy progression
+blood glucose lowering drugs	reduce	neuropathy risk
+blood glucose lowering drugs	may cause	gastrointestinal upset
+blood glucose lowering drugs	may cause	skin rash
+blood glucose lowering drugs	may cause	hypoglycemia
+blood glucose lowering drugs	may cause	weight change
+blood glucose lowering drugs	may cause	renal impairment
+blood glucose lowering drugs	may cause	bone fracture
+blood glucose lowering drugs	may cause	ketoacidosis
+blood glucose lowering drugs	may cause	pancreatitis
+blood glucose lowering drugs	may cause	liver injury
+blood glucose lowering drugs	may cause	cardiovascular events
+blood glucose lowering drugs	may cause	urinary tract infection
+blood glucose lowering drugs	may cause	genital infection
+blood glucose lowering drugs	may cause	dehydration
+blood glucose lowering drugs	may cause	electrolyte imbalance
+blood glucose lowering drugs	may cause	hypokalemia
+blood glucose lowering drugs	may cause	hyperuricemia
+blood glucose lowering drugs	may cause	gout
+blood glucose lowering drugs	may cause	anemia
+blood glucose lowering drugs	may cause	thrombocytopenia
+blood glucose lowering drugs	may cause	pancreatitis
+blood glucose lowering drugs	may cause	allergic reaction
+blood glucose lowering drugs	may cause	drug interactions
+blood glucose lowering drugs	may cause	drug‑drug interaction
+blood glucose lowering drugs	may cause	drug‑drug interaction with ACE inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with diuretics
+blood glucose lowering drugs	may cause	drug‑drug interaction with NSAIDs
+blood glucose lowering drugs	may cause	drug‑drug interaction with metformin
+blood glucose lowering drugs	may cause	drug‑drug interaction with SGLT2 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with GLP‑1 agonists
+blood glucose lowering drugs	may cause	drug‑drug interaction with sulfonylureas
+blood glucose lowering drugs	may cause	drug‑drug interaction with thiazolidinediones
+blood glucose lowering drugs	may cause	drug‑drug interaction with DPP‑4 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with GLP‑1 agonists
+blood glucose lowering drugs	may cause	drug‑drug interaction with SGLT2 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with metformin
+blood glucose lowering drugs	may cause	drug‑drug interaction with sulfonylureas
+blood glucose lowering drugs	may cause	drug‑drug interaction with thiazolidinediones
+blood glucose lowering drugs	may cause	drug‑drug interaction with DPP‑4 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with GLP‑1 agonists
+blood glucose lowering drugs	may cause	drug‑drug interaction with SGLT2 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with metformin
+blood glucose lowering drugs	may cause	drug‑drug interaction with sulfonylureas
+blood glucose lowering drugs	may cause	drug‑drug interaction with thiazolidinediones
+blood glucose lowering drugs	may cause	drug‑drug interaction with DPP‑4 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with GLP‑1 agonists
+blood glucose lowering drugs	may cause	drug‑drug interaction with SGLT2 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with metformin
+blood glucose lowering drugs	may cause	drug‑drug interaction with sulfonylureas
+blood glucose lowering drugs	may cause	drug‑drug interaction with thiazolidinediones
+blood glucose lowering drugs	may cause	drug‑drug interaction with DPP‑4 inhibitors
+blood glucose lowering drugs	may cause	drug‑drug interaction with GLP‑1 agonists

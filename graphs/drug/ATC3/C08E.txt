@@ -1,0 +1,100 @@
+non‑selective calcium channel blockers	inhibit	calcium influx
+calcium influx	reduces	muscle contraction
+muscle contraction	lowers	blood pressure
+non‑selective calcium channel blockers	treat	hypertension
+non‑selective calcium channel blockers	treat	angina
+non‑selective calcium channel blockers	treat	arrhythmia
+non‑selective calcium channel blockers	treat	migraine
+non‑selective calcium channel blockers	treat	Raynaud’s disease
+non‑selective calcium channel blockers	cause	peripheral edema
+peripheral edema	leads to	swelling
+non‑selective calcium channel blockers	cause	constipation
+constipation	leads to	abdominal pain
+non‑selective calcium channel blockers	cause	dizziness
+dizziness	leads to	falls
+non‑selective calcium channel blockers	cause	flushing
+flushing	leads to	facial redness
+non‑selective calcium channel blockers	cause	bradycardia
+bradycardia	leads to	syncope
+non‑selective calcium channel blockers	cause	hypotension
+hypotension	leads to	fainting
+non‑selective calcium channel blockers	interact with	beta‑blockers
+beta‑blockers	increase	risk of bradycardia
+non‑selective calcium channel blockers	interact with	digoxin
+digoxin	increases	toxicity risk
+non‑selective calcium channel blockers	interact with	alcohol
+alcohol	amplifies	hypotension
+non‑selective calcium channel blockers	contraindicated in	severe aortic stenosis
+severe aortic stenosis	increases	mortality risk
+non‑selective calcium channel blockers	contraindicated in	heart failure
+heart failure	worsens	ejection fraction
+non‑selective calcium channel blockers	contraindicated in	severe bradycardia
+severe bradycardia	increases	syncope risk
+non‑selective calcium channel blockers	contraindicated in	pregnancy
+pregnancy	increases	fetal risk
+non‑selective calcium channel blockers	contraindicated in	lactation
+lactation	increases	infant exposure
+non‑selective calcium channel blockers	metabolized by	CYP3A4
+CYP3A4	inhibited by	ketoconazole
+ketoconazole	raises	drug levels
+non‑selective calcium channel blockers	metabolized by	CYP3A4
+CYP3A4	induced by	rifampin
+rifampin	lowers	drug levels
+non‑selective calcium channel blockers	excreted by	kidneys
+kidneys	impaired by	chronic kidney disease
+chronic kidney disease	requires	dose adjustment
+non‑selective calcium channel blockers	used in	pediatric hypertension
+pediatric hypertension	improves	growth
+non‑selective calcium channel blockers	used in	post‑myocardial infarction
+post‑myocardial infarction	reduces	mortality
+non‑selective calcium channel blockers	used in	vasospastic angina
+vasospastic angina	reduces	vasospasm
+non‑selective calcium channel blockers	used in	supraventricular tachycardia
+supraventricular tachycardia	reduces	heart rate
+non‑selective calcium channel blockers	used in	chronic migraine
+chronic migraine	reduces	headache frequency
+non‑selective calcium channel blockers	used in	Raynaud’s phenomenon
+Raynaud’s phenomenon	reduces	digital ischemia
+non‑selective calcium channel blockers	used in	hypertension with left ventricular hypertrophy
+left ventricular hypertrophy	improves	diastolic function
+non‑selective calcium channel blockers	used in	hypertension with proteinuria
+proteinuria	improves	renal outcomes
+non‑selective calcium channel blockers	used in	hypertension with hyperlipidemia
+hyperlipidemia	improves	cardiovascular risk
+non‑selective calcium channel blockers	used in	hypertension with diabetes
+diabetes	improves	vascular health
+non‑selective calcium channel blockers	used in	hypertension with chronic obstructive pulmonary disease
+COPD	improves	exercise tolerance
+non‑selective calcium channel blockers	used in	hypertension with chronic kidney disease
+chronic kidney disease	improves	blood pressure control
+non‑selective calcium channel blockers	used in	hypertension with metabolic syndrome
+metabolic syndrome	improves	insulin sensitivity
+non‑selective calcium channel blockers	used in	hypertension with sleep apnea
+sleep apnea	improves	nocturnal blood pressure
+non‑selective calcium channel blockers	used in	hypertension with obesity
+obesity	improves	weight management
+non‑selective calcium channel blockers	used in	hypertension with anxiety
+anxiety	improves	blood pressure variability
+non‑selective calcium channel blockers	used in	hypertension with depression
+depression	improves	medication adherence
+non‑selective calcium channel blockers	used in	hypertension with chronic pain
+chronic pain	improves	quality of life
+non‑selective calcium channel blockers	used in	hypertension with osteoporosis
+osteoporosis	improves	bone density
+non‑selective calcium channel blockers	used in	hypertension with chronic liver disease
+chronic liver disease	improves	drug metabolism
+non‑selective calcium channel blockers	used in	hypertension with chronic infectious disease
+chronic infectious disease	improves	immune function
+non‑selective calcium channel blockers	used in	hypertension with autoimmune disease
+autoimmune disease	improves	inflammation
+non‑selective calcium channel blockers	used in	hypertension with neurodegenerative disease
+neurodegenerative disease	improves	autonomic function
+non‑selective calcium channel blockers	used in	hypertension with psychiatric disorder
+psychiatric disorder	improves	medication compliance
+non‑selective calcium channel blockers	used in	hypertension with endocrine disorder
+endocrine disorder	improves	hormonal balance
+non‑selective calcium channel blockers	used in	hypertension with vascular disease
+vascular disease	improves	arterial compliance
+non‑selective calcium channel blockers	used in	hypertension with peripheral artery disease
+peripheral artery disease	improves	walking distance
+non‑selective calcium channel blockers	used in	hypertension with erectile dysfunction

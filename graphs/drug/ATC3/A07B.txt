@@ -1,0 +1,100 @@
+intestinal adsorbents	are a	drug
+intestinal adsorbents	treat	constipation
+intestinal adsorbents	treat	diarrhea
+intestinal adsorbents	treat	hyperlipidemia
+intestinal adsorbents	treat	hyperuricemia
+intestinal adsorbents	treat	hyperphosphatemia
+intestinal adsorbents	treat	drug toxicity
+intestinal adsorbents	bind	bile acids
+intestinal adsorbents	bind	cholesterol
+intestinal adsorbents	bind	uric acid
+intestinal adsorbents	bind	phosphate
+intestinal adsorbents	bind	opioids
+intestinal adsorbents	bind	antibiotics
+intestinal adsorbents	bind	antiepileptics
+intestinal adsorbents	bind	iron
+intestinal adsorbents	bind	calcium
+intestinal adsorbents	bind	magnesium
+intestinal adsorbents	bind	zinc
+intestinal adsorbents	bind	copper
+intestinal adsorbents	bind	lead
+intestinal adsorbents	bind	mercury
+intestinal adsorbents	bind	arsenic
+intestinal adsorbents	bind	cadmium
+intestinal adsorbents	bind	fluoride
+intestinal adsorbents	bind	heavy metals
+intestinal adsorbents	reduce	serum cholesterol
+intestinal adsorbents	reduce	serum uric acid
+intestinal adsorbents	reduce	serum phosphate
+intestinal adsorbents	reduce	serum drug levels
+intestinal adsorbents	reduce	drug toxicity
+intestinal adsorbents	improve	lipid profile
+intestinal adsorbents	improve	renal function
+intestinal adsorbents	improve	gastrointestinal symptoms
+intestinal adsorbents	improve	quality of life
+intestinal adsorbents	cause	constipation
+intestinal adsorbents	cause	diarrhea
+intestinal adsorbents	cause	bloating
+intestinal adsorbents	cause	nausea
+intestinal adsorbents	cause	abdominal pain
+intestinal adsorbents	cause	electrolyte imbalance
+intestinal adsorbents	contraindicated in	severe dehydration
+intestinal adsorbents	contraindicated in	severe constipation
+intestinal adsorbents	contraindicated in	renal failure
+intestinal adsorbents	contraindicated in	pregnancy
+intestinal adsorbents	contraindicated in	lactation
+intestinal adsorbents	interact with	antacids
+intestinal adsorbents	interact with	iron supplements
+intestinal adsorbents	interact with	calcium supplements
+intestinal adsorbents	interact with	magnesium supplements
+intestinal adsorbents	interact with	zinc supplements
+intestinal adsorbents	interact with	copper supplements
+intestinal adsorbents	interact with	antibiotics
+intestinal adsorbents	interact with	antiepileptics
+intestinal adsorbents	interact with	opioids
+intestinal adsorbents	interact with	chemotherapy agents
+intestinal adsorbents	interact with	levothyroxine
+intestinal adsorbents	interact with	vitamin D
+intestinal adsorbents	interact with	vitamin K
+intestinal adsorbents	interact with	bile acid sequestrants
+intestinal adsorbents	dosage	1–2 tablets daily
+intestinal adsorbents	dosage	2–4 tablets daily
+intestinal adsorbents	dosage	4–6 tablets daily
+intestinal adsorbents	dosage	6–8 tablets daily
+intestinal adsorbents	dosage	8–10 tablets daily
+intestinal adsorbents	dosage	10–12 tablets daily
+intestinal adsorbents	dosage	12–14 tablets daily
+intestinal adsorbents	dosage	14–16 tablets daily
+intestinal adsorbents	dosage	16–18 tablets daily
+intestinal adsorbents	dosage	18–20 tablets daily
+intestinal adsorbents	dosage	20–22 tablets daily
+intestinal adsorbents	dosage	22–24 tablets daily
+intestinal adsorbents	dosage	24–26 tablets daily
+intestinal adsorbents	dosage	26–28 tablets daily
+intestinal adsorbents	dosage	28–30 tablets daily
+intestinal adsorbents	dosage	30–32 tablets daily
+intestinal adsorbents	dosage	32–34 tablets daily
+intestinal adsorbents	dosage	34–36 tablets daily
+intestinal adsorbents	dosage	36–38 tablets daily
+intestinal adsorbents	dosage	38–40 tablets daily
+intestinal adsorbents	dosage	40–42 tablets daily
+intestinal adsorbents	dosage	42–44 tablets daily
+intestinal adsorbents	dosage	44–46 tablets daily
+intestinal adsorbents	dosage	46–48 tablets daily
+intestinal adsorbents	dosage	48–50 tablets daily
+intestinal adsorbents	dosage	50–52 tablets daily
+intestinal adsorbents	dosage	52–54 tablets daily
+intestinal adsorbents	dosage	54–56 tablets daily
+intestinal adsorbents	dosage	56–58 tablets daily
+intestinal adsorbents	dosage	58–60 tablets daily
+intestinal adsorbents	dosage	60–62 tablets daily
+intestinal adsorbents	dosage	62–64 tablets daily
+intestinal adsorbents	dosage	64–66 tablets daily
+intestinal adsorbents	dosage	66–68 tablets daily
+intestinal adsorbents	dosage	68–70 tablets daily
+intestinal adsorbents	dosage	70–72 tablets daily
+intestinal adsorbents	dosage	72–74 tablets daily
+intestinal adsorbents	dosage	74–76 tablets daily
+intestinal adsorbents	dosage	76–78 tablets daily
+intestinal adsorbents	dosage	78–80 tablets daily
+intestinal adsorbents	dosage	80–82 tablets daily

@@ -1,0 +1,100 @@
+contrast aortogram	is a	imaging test
+contrast aortogram	visualizes	aorta
+contrast aortogram	uses	iodinated contrast
+contrast aortogram	detects	aneurysm
+contrast aortogram	detects	dissection
+contrast aortogram	detects	stenosis
+contrast aortogram	detects	occlusion
+contrast aortogram	guides	endovascular repair
+contrast aortogram	guides	stent placement
+contrast aortogram	guides	graft selection
+contrast aortogram	informs	surgical planning
+contrast aortogram	informs	risk stratification
+contrast aortogram	informs	prognosis
+contrast aortogram	requires	arterial access
+contrast aortogram	requires	fluoroscopy
+contrast aortogram	requires	radiation
+contrast aortogram	requires	contrast dose
+contrast aortogram	contraindicated in	renal failure
+contrast aortogram	contraindicated in	iodine allergy
+contrast aortogram	contraindicated in	pregnancy
+contrast aortogram	contraindicated in	severe anemia
+contrast aortogram	contraindicated in	uncontrolled hypertension
+contrast aortogram	contraindicated in	active infection
+contrast aortogram	contraindicated in	recent myocardial infarction
+contrast aortogram	associated with	contrast-induced nephropathy
+contrast aortogram	associated with	allergic reaction
+contrast aortogram	associated with	radiation exposure
+contrast aortogram	associated with	vascular injury
+contrast aortogram	associated with	arrhythmia
+contrast aortogram	associated with	hypotension
+contrast aortogram	improves	diagnostic accuracy
+contrast aortogram	improves	treatment planning
+contrast aortogram	improves	patient outcomes
+contrast aortogram	improves	surgical success
+contrast aortogram	improves	postoperative monitoring
+contrast aortogram	improves	mortality prediction
+contrast aortogram	improves	readmission prediction
+contrast aortogram	improves	complication prediction
+contrast aortogram	improves	length of stay prediction
+contrast aortogram	improves	cost prediction
+contrast aortogram	predicts	need for blood transfusion
+contrast aortogram	predicts	need for ICU stay
+contrast aortogram	predicts	need for reintervention
+contrast aortogram	predicts	need for graft infection
+contrast aortogram	predicts	need for endoleak
+contrast aortogram	predicts	need for aneurysm rupture
+contrast aortogram	predicts	need for surgical conversion
+contrast aortogram	predicts	need for postoperative imaging
+contrast aortogram	predicts	need for medication adjustment
+contrast aortogram	predicts	need for anticoagulation
+contrast aortogram	predicts	need for antiplatelet therapy
+contrast aortogram	predicts	need for statin therapy
+contrast aortogram	predicts	need for antihypertensive therapy
+contrast aortogram	predicts	need for lipid management
+contrast aortogram	predicts	need for diabetes control
+contrast aortogram	predicts	need for smoking cessation
+contrast aortogram	predicts	need for lifestyle modification
+contrast aortogram	predicts	need for rehabilitation
+contrast aortogram	predicts	need for follow‑up imaging
+contrast aortogram	predicts	need for endovascular surveillance
+contrast aortogram	predicts	need for surgical surveillance
+contrast aortogram	predicts	need for graft surveillance
+contrast aortogram	predicts	need for aneurysm surveillance
+contrast aortogram	predicts	need for dissection surveillance
+contrast aortogram	predicts	need for stent surveillance
+contrast aortogram	predicts	need for endoleak surveillance
+contrast aortogram	predicts	need for infection surveillance
+contrast aortogram	predicts	need for thrombus surveillance
+contrast aortogram	predicts	need for embolic surveillance
+contrast aortogram	predicts	need for graft migration surveillance
+contrast aortogram	predicts	need for graft kinking surveillance
+contrast aortogram	predicts	need for graft fracture surveillance
+contrast aortogram	predicts	need for graft infection surveillance
+contrast aortogram	predicts	need for graft occlusion surveillance
+contrast aortogram	predicts	need for graft restenosis surveillance
+contrast aortogram	predicts	need for graft thrombosis surveillance
+contrast aortogram	predicts	need for graft aneurysm surveillance
+contrast aortogram	predicts	need for graft dissection surveillance
+contrast aortogram	predicts	need for graft rupture surveillance
+contrast aortogram	predicts	need for graft migration surveillance
+contrast aortogram	predicts	need for graft kinking surveillance
+contrast aortogram	predicts	need for graft fracture surveillance
+contrast aortogram	predicts	need for graft infection surveillance
+contrast aortogram	predicts	need for graft occlusion surveillance
+contrast aortogram	predicts	need for graft restenosis surveillance
+contrast aortogram	predicts	need for graft thrombosis surveillance
+contrast aortogram	predicts	need for graft aneurysm surveillance
+contrast aortogram	predicts	need for graft dissection surveillance
+contrast aortogram	predicts	need for graft rupture surveillance
+contrast aortogram	predicts	need for graft migration surveillance
+contrast aortogram	predicts	need for graft kinking surveillance
+contrast aortogram	predicts	need for graft fracture surveillance
+contrast aortogram	predicts	need for graft infection surveillance
+contrast aortogram	predicts	need for graft occlusion surveillance
+contrast aortogram	predicts	need for graft restenosis surveillance
+contrast aortogram	predicts	need for graft thrombosis surveillance
+contrast aortogram	predicts	need for graft aneurysm surveillance
+contrast aortogram	predicts	need for graft dissection surveillance
+contrast aortogram	predicts	need for graft rupture surveillance
+contrast aortogram	predicts	need for graft migration surveillance

@@ -1,0 +1,100 @@
+hernia repair	is a	surgical procedure
+hernia repair	treats	hernia
+hernia repair	reduces	recurrence
+hernia repair	improves	quality of life
+hernia repair	requires	anesthesia
+hernia repair	can be	open surgery
+hernia repair	can be	laparoscopic surgery
+hernia repair	can be	robotic surgery
+hernia repair	uses	mesh
+hernia repair	uses	sutures
+hernia repair	involves	tissue approximation
+hernia repair	involves	fascial repair
+hernia repair	involves	abdominal wall reconstruction
+hernia repair	involves	incision
+hernia repair	involves	postoperative care
+hernia repair	leads to	pain reduction
+hernia repair	leads to	bowel function improvement
+hernia repair	leads to	return to work
+hernia repair	leads to	decreased hernia-related complications
+hernia repair	can cause	infection
+hernia repair	can cause	seroma
+hernia repair	can cause	hematoma
+hernia repair	can cause	mesh erosion
+hernia repair	can cause	chronic pain
+hernia repair	can cause	adhesions
+hernia repair	can cause	wound dehiscence
+hernia repair	can cause	postoperative nausea
+hernia repair	can cause	respiratory complications
+hernia repair	can cause	thromboembolism
+hernia repair	can cause	anesthesia complications
+hernia repair	is associated with	obesity
+hernia repair	is associated with	smoking
+hernia repair	is associated with	chronic cough
+hernia repair	is associated with	heavy lifting
+hernia repair	is associated with	age
+hernia repair	is associated with	male gender
+hernia repair	is associated with	connective tissue disorders
+hernia repair	is associated with	prior abdominal surgery
+hernia repair	is associated with	diabetes
+hernia repair	is associated with	malnutrition
+hernia repair	is associated with	steroid use
+hernia repair	is associated with	pregnancy
+hernia repair	is associated with	hernia type
+hernia repair	is associated with	hernia size
+hernia repair	is associated with	hernia location
+hernia repair	is associated with	hernia severity
+hernia repair	is associated with	surgeon experience
+hernia repair	is associated with	hospital volume
+hernia repair	is associated with	postoperative monitoring
+hernia repair	is associated with	discharge planning
+hernia repair	is associated with	readmission risk
+hernia repair	is associated with	mortality risk
+hernia repair	is associated with	cost
+hernia repair	is associated with	length of stay
+hernia repair	is associated with	patient satisfaction
+hernia repair	is associated with	quality metrics
+hernia repair	is associated with	insurance coverage
+hernia repair	is associated with	postoperative rehabilitation
+hernia repair	is associated with	pain management
+hernia repair	is associated with	opioid use
+hernia repair	is associated with	physical therapy
+hernia repair	is associated with	return to sports
+hernia repair	is associated with	recurrence prediction
+hernia repair	is associated with	mesh type
+hernia repair	is associated with	mesh fixation
+hernia repair	is associated with	mesh material
+hernia repair	is associated with	mesh size
+hernia repair	is associated with	mesh placement
+hernia repair	is associated with	mesh infection
+hernia repair	is associated with	mesh rejection
+hernia repair	is associated with	mesh durability
+hernia repair	is associated with	mesh cost
+hernia repair	is associated with	mesh brand
+hernia repair	is associated with	mesh brand preference
+hernia repair	is associated with	mesh brand outcomes
+hernia repair	is associated with	mesh brand complications
+hernia repair	is associated with	mesh brand durability
+hernia repair	is associated with	mesh brand cost
+hernia repair	is associated with	mesh brand availability
+hernia repair	is associated with	mesh brand selection
+hernia repair	is associated with	mesh brand guidelines
+hernia repair	is associated with	mesh brand recommendations
+hernia repair	is associated with	mesh brand evidence
+hernia repair	is associated with	mesh brand studies
+hernia repair	is associated with	mesh brand trials
+hernia repair	is associated with	mesh brand reviews
+hernia repair	is associated with	mesh brand meta‑analysis
+hernia repair	is associated with	mesh brand systematic review
+hernia repair	is associated with	mesh brand guidelines
+hernia repair	is associated with	mesh brand consensus
+hernia repair	is associated with	mesh brand practice
+hernia repair	is associated with	mesh brand policy
+hernia repair	is associated with	mesh brand regulation
+hernia repair	is associated with	mesh brand approval
+hernia repair	is associated with	mesh brand safety
+hernia repair	is associated with	mesh brand efficacy
+hernia repair	is associated with	mesh brand durability
+hernia repair	is associated with	mesh brand longevity
+hernia repair	is associated with	mesh brand performance
+hernia repair	is associated with	mesh brand outcomes

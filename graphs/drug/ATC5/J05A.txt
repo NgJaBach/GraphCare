@@ -1,0 +1,100 @@
+direct acting antivirals	treat	hepatitis C
+direct acting antivirals	inhibit	NS5A
+direct acting antivirals	inhibit	NS5B
+direct acting antivirals	inhibit	protease
+direct acting antivirals	reduce	viral load
+direct acting antivirals	improve	sustained virologic response
+direct acting antivirals	shorten	treatment duration
+direct acting antivirals	increase	cure rate
+direct acting antivirals	used with	ribavirin
+direct acting antivirals	used with	interferon
+direct acting antivirals	contraindicated in	pregnancy
+direct acting antivirals	contraindicated in	severe renal impairment
+direct acting antivirals	contraindicated in	severe hepatic impairment
+direct acting antivirals	cause	headache
+direct acting antivirals	cause	fatigue
+direct acting antivirals	cause	rash
+direct acting antivirals	cause	anemia
+direct acting antivirals	cause	insomnia
+direct acting antivirals	interact with	CYP3A inhibitors
+direct acting antivirals	interact with	CYP3A inducers
+direct acting antivirals	interact with	warfarin
+direct acting antivirals	interact with	statins
+direct acting antivirals	interact with	antiretroviral agents
+direct acting antivirals	increase	risk of drug‑drug interaction
+direct acting antivirals	reduce	risk of hepatotoxicity
+direct acting antivirals	reduce	risk of cirrhosis progression
+direct acting antivirals	reduce	risk of hepatocellular carcinoma
+direct acting antivirals	improve	liver function tests
+direct acting antivirals	improve	quality of life
+direct acting antivirals	improve	survival
+direct acting antivirals	used in	genotype 1
+direct acting antivirals	used in	genotype 2
+direct acting antivirals	used in	genotype 3
+direct acting antivirals	used in	genotype 4
+direct acting antivirals	used in	genotype 5
+direct acting antivirals	used in	genotype 6
+direct acting antivirals	used in	mixed genotype
+direct acting antivirals	used in	treatment‑naïve patients
+direct acting antivirals	used in	treatment‑experienced patients
+direct acting antivirals	used in	patients with cirrhosis
+direct acting antivirals	used in	patients with renal disease
+direct acting antivirals	used in	patients with HIV
+direct acting antivirals	used in	patients with HBV
+direct acting antivirals	used in	patients with HCV‑related lymphoma
+direct acting antivirals	used in	patients with post‑transplant HCV
+direct acting antivirals	used in	patients with liver transplant
+direct acting antivirals	used in	patients with kidney transplant
+direct acting antivirals	used in	patients with diabetes
+direct acting antivirals	used in	patients with obesity
+direct acting antivirals	used in	patients with metabolic syndrome
+direct acting antivirals	used in	patients with cardiovascular disease
+direct acting antivirals	used in	patients with chronic kidney disease
+direct acting antivirals	used in	patients with chronic obstructive pulmonary disease
+direct acting antivirals	used in	patients with psychiatric disorders
+direct acting antivirals	used in	patients with autoimmune disease
+direct acting antivirals	used in	patients with malignancy
+direct acting antivirals	used in	patients with pregnancy risk
+direct acting antivirals	used in	patients with breastfeeding
+direct acting antivirals	used in	patients with immunosuppression
+direct acting antivirals	used in	patients with prior interferon failure
+direct acting antivirals	used in	patients with prior ribavirin failure
+direct acting antivirals	used in	patients with prior protease inhibitor failure
+direct acting antivirals	used in	patients with prior NS5A inhibitor failure
+direct acting antivirals	used in	patients with prior NS5B inhibitor failure
+direct acting antivirals	used in	patients with prior triple therapy failure
+direct acting antivirals	used in	patients with prior quadruple therapy failure
+direct acting antivirals	used in	patients with prior dual therapy failure
+direct acting antivirals	used in	patients with prior monotherapy failure
+direct acting antivirals	used in	patients with prior combination therapy failure
+direct acting antivirals	used in	patients with prior salvage therapy
+direct acting antivirals	used in	patients with prior treatment‑induced resistance
+direct acting antivirals	used in	patients with prior viral breakthrough
+direct acting antivirals	used in	patients with prior relapse
+direct acting antivirals	used in	patients with prior sustained virologic response failure
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse
+direct acting antivirals	used in	patients with prior virologic breakthrough
+direct acting antivirals	used in	patients with prior virologic failure
+direct acting antivirals	used in	patients with prior virologic relapse

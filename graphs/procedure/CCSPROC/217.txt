@@ -1,0 +1,100 @@
+other respiratory therapy	is a	medical treatment
+other respiratory therapy	used for	lung disease
+other respiratory therapy	improves	oxygenation
+other respiratory therapy	reduces	dyspnea
+other respiratory therapy	includes	nebulization
+nebulization	delivers	medication
+nebulization	used for	asthma
+nebulization	used for	COPD
+other respiratory therapy	includes	bronchodilator
+bronchodilator	relaxes	airway
+bronchodilator	reduces	bronchospasm
+other respiratory therapy	includes	steroid
+steroid	reduces	inflammation
+steroid	used for	exacerbation
+other respiratory therapy	includes	mucolytic
+mucolytic	thins	mucus
+mucolytic	used for	bronchiectasis
+other respiratory therapy	includes	physiotherapy
+physiotherapy	improves	lung clearance
+physiotherapy	includes	chest percussion
+chest percussion	removes	secretions
+physiotherapy	includes	breathing exercises
+breathing exercises	increase	lung capacity
+breathing exercises	used for	pulmonary rehab
+other respiratory therapy	includes	oxygen therapy
+oxygen therapy	increases	SpO2
+oxygen therapy	used for	hypoxemia
+other respiratory therapy	includes	noninvasive ventilation
+noninvasive ventilation	reduces	work of breathing
+noninvasive ventilation	used for	ARDS
+other respiratory therapy	includes	invasive ventilation
+invasive ventilation	supports	respiration
+invasive ventilation	used for	severe pneumonia
+other respiratory therapy	includes	pulmonary rehabilitation
+pulmonary rehabilitation	improves	quality of life
+pulmonary rehabilitation	reduces	readmission
+other respiratory therapy	includes	cough assist
+cough assist	enhances	cough strength
+cough assist	used for	neuromuscular disease
+other respiratory therapy	includes	airway clearance device
+airway clearance device	reduces	infection
+airway clearance device	used for	cystic fibrosis
+other respiratory therapy	includes	humidification
+humidification	moistens	airways
+humidification	reduces	airway irritation
+other respiratory therapy	includes	suction
+suction	removes	secretions
+suction	used for	ventilated patient
+other respiratory therapy	includes	incentive spirometry
+incentive spirometry	encourages	deep breathing
+incentive spirometry	used for	post‑operative care
+other respiratory therapy	includes	pulmonary function testing
+pulmonary function testing	measures	lung capacity
+pulmonary function testing	guides	therapy
+other respiratory therapy	includes	spirometry
+spirometry	detects	obstruction
+spirometry	used for	COPD
+other respiratory therapy	includes	bronchoscopy
+bronchoscopy	visualizes	airway
+bronchoscopy	removes	foreign body
+bronchoscopy	used for	diagnosis
+other respiratory therapy	includes	pleural drainage
+pleural drainage	removes	pleural fluid
+pleural drainage	used for	pleural effusion
+other respiratory therapy	includes	thoracentesis
+thoracentesis	samples	pleural fluid
+thoracentesis	used for	diagnosis
+other respiratory therapy	includes	pulmonary embolism treatment
+pulmonary embolism treatment	uses	anticoagulant
+anticoagulant	prevents	clot
+other respiratory therapy	includes	pulmonary hypertension therapy
+pulmonary hypertension therapy	reduces	pulmonary pressure
+pulmonary hypertension therapy	uses	endothelin antagonist
+endothelin antagonist	lowers	vasoconstriction
+other respiratory therapy	includes	immunotherapy
+immunotherapy	targets	allergens
+immunotherapy	used for	allergic asthma
+other respiratory therapy	includes	gene therapy
+gene therapy	corrects	CFTR mutation
+gene therapy	used for	cystic fibrosis
+other respiratory therapy	includes	stem cell therapy
+stem cell therapy	regenerates	lung tissue
+stem cell therapy	used for	pulmonary fibrosis
+other respiratory therapy	includes	telehealth monitoring
+telehealth monitoring	tracks	respiratory status
+telehealth monitoring	reduces	readmission
+other respiratory therapy	includes	patient education
+patient education	improves	adherence
+patient education	reduces	complications
+other respiratory therapy	includes	medication titration
+medication titration	optimizes	dose
+medication titration	reduces	side effects
+other respiratory therapy	includes	palliative care
+palliative care	manages	dyspnea
+palliative care	improves	comfort
+other respiratory therapy	includes	sleep apnea treatment
+sleep apnea treatment	uses	CPAP
+CPAP	reduces	apnea events
+other respiratory therapy	includes	vaccination
+vaccination	prevents	influenza

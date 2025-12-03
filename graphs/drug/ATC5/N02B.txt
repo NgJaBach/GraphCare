@@ -1,0 +1,100 @@
+analgesics	classified by	ATC
+antipyretics	classified by	ATC
+ATC	contains	analgesics
+ATC	contains	antipyretics
+analgesics	include	NSAIDs
+analgesics	include	opioids
+analgesics	include	paracetamol
+antipyretics	include	paracetamol
+NSAIDs	reduce	inflammation
+NSAIDs	reduce	pain
+NSAIDs	reduce	fever
+opioids	relieve	severe pain
+opioids	increase	risk of dependence
+paracetamol	treat	mild pain
+paracetamol	treat	fever
+paracetamol	contraindicated in	liver disease
+analgesics	prescribed for	postoperative pain
+analgesics	prescribed for	cancer pain
+analgesics	prescribed for	musculoskeletal pain
+antipyretics	prescribed for	viral fever
+antipyretics	prescribed for	influenza
+antipyretics	prescribed for	dengue
+NSAIDs	contraindicated in	peptic ulcer
+NSAIDs	contraindicated in	renal impairment
+opioids	contraindicated in	respiratory depression
+paracetamol	contraindicated in	chronic alcoholism
+analgesics	used in	pain management protocols
+antipyretics	used in	fever management protocols
+analgesics	dosage adjusted by	age
+analgesics	dosage adjusted by	weight
+analgesics	dosage adjusted by	renal function
+antipyretics	dosage adjusted by	age
+antipyretics	dosage adjusted by	weight
+analgesics	monitored for	gastrointestinal bleeding
+analgesics	monitored for	respiratory depression
+analgesics	monitored for	liver toxicity
+antipyretics	monitored for	hepatotoxicity
+analgesics	combined with	acetaminophen
+analgesics	combined with	ibuprofen
+analgesics	combined with	naproxen
+antipyretics	combined with	ibuprofen
+antipyretics	combined with	aspirin
+analgesics	used in	chronic pain management
+antipyretics	used in	pediatric fever
+analgesics	used in	acute pain
+antipyretics	used in	post‑vaccination fever
+NSAIDs	inhibit	COX‑1
+NSAIDs	inhibit	COX‑2
+opioids	bind to	mu‑receptor
+opioids	bind to	kappa‑receptor
+paracetamol	metabolized by	CYP2E1
+paracetamol	metabolized by	glucuronidation
+analgesics	cause	constipation
+analgesics	cause	sedation
+analgesics	cause	nausea
+antipyretics	cause	rash
+antipyretics	cause	vomiting
+analgesics	reduce	opioid requirement
+antipyretics	reduce	fever spikes
+analgesics	improve	quality of life
+antipyretics	improve	comfort
+analgesics	used in	emergency department
+antipyretics	used in	outpatient clinic
+analgesics	prescribed by	primary care
+antipyretics	prescribed by	pediatrician
+analgesics	prescribed by	anesthesiologist
+antipyretics	prescribed by	internist
+analgesics	monitored by	pharmacy
+antipyretics	monitored by	pharmacy
+analgesics	subject to	drug‑drug interactions
+antipyretics	subject to	drug‑drug interactions
+analgesics	subject to	medication‑related adverse events
+antipyretics	subject to	medication‑related adverse events
+analgesics	used in	postoperative analgesia
+antipyretics	used in	febrile seizures
+analgesics	used in	neuropathic pain
+antipyretics	used in	influenza‑like illness
+analgesics	used in	osteoarthritis
+antipyretics	used in	malaria
+analgesics	used in	rheumatoid arthritis
+antipyretics	used in	dengue fever
+analgesics	used in	sickle cell pain
+antipyretics	used in	COVID‑19 fever
+analgesics	used in	cancer cachexia
+antipyretics	used in	vaccine‑induced fever
+analgesics	used in	dental pain
+antipyretics	used in	post‑operative fever
+analgesics	used in	sports injury
+antipyretics	used in	viral infection
+analgesics	used in	chronic back pain
+antipyretics	used in	headache
+analgesics	used in	migraine
+antipyretics	used in	fever‑related discomfort
+analgesics	used in	pain‑related hospitalization
+antipyretics	used in	fever‑related hospitalization
+analgesics	reduce	hospital readmission
+antipyretics	reduce	hospital readmission
+analgesics	improve	mortality in severe pain
+antipyretics	improve	mortality in fever
+analgesics	predict	opioid‑related mortality

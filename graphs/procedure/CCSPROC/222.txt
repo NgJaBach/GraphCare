@@ -1,0 +1,100 @@
+blood transfusion	is a	medical intervention
+blood transfusion	requires	blood donor
+blood transfusion	involves	blood component
+blood transfusion	uses	red blood cell
+blood transfusion	uses	plasma
+blood transfusion	uses	platelet
+blood transfusion	uses	cryoprecipitate
+blood transfusion	is performed	in hospital
+blood transfusion	is performed	in ICU
+blood transfusion	is performed	in operating room
+blood transfusion	is performed	for anemia
+blood transfusion	is performed	for hemorrhage
+blood transfusion	is performed	for thrombocytopenia
+blood transfusion	is performed	for clotting disorder
+blood transfusion	is performed	for sickle cell crisis
+blood transfusion	is performed	for leukemia
+blood transfusion	is performed	for trauma
+blood transfusion	is performed	for surgery
+blood transfusion	is performed	for chemotherapy
+blood transfusion	is performed	for anemia of chronic disease
+blood transfusion	is performed	for hemophilia
+blood transfusion	is performed	for aplastic anemia
+blood transfusion	is performed	for myelodysplastic syndrome
+blood transfusion	is performed	for thalassemia
+blood transfusion	is performed	for postoperative bleeding
+blood transfusion	is performed	for obstetric hemorrhage
+blood transfusion	is performed	for postpartum hemorrhage
+blood transfusion	is performed	for ectopic pregnancy
+blood transfusion	is performed	for placenta previa
+blood transfusion	is performed	for preeclampsia
+blood transfusion	is performed	for anemia in pregnancy
+blood transfusion	is performed	for transfusion reaction
+blood transfusion	is performed	for transfusion-associated graft-versus-host disease
+blood transfusion	is performed	for transfusion-transmitted infection
+blood transfusion	is performed	for transfusion-associated circulatory overload
+blood transfusion	is performed	for transfusion-related acute lung injury
+blood transfusion	is performed	for transfusion-associated hemolysis
+blood transfusion	is performed	for transfusion-associated fever
+blood transfusion	is performed	for transfusion-associated allergic reaction
+blood transfusion	is performed	for transfusion-associated anaphylaxis
+blood transfusion	is performed	for transfusion-associated sepsis
+blood transfusion	is performed	for transfusion-associated viral infection
+blood transfusion	is performed	for transfusion-associated bacterial infection
+blood transfusion	is performed	for transfusion-associated fungal infection
+blood transfusion	is performed	for transfusion-associated parasitic infection
+blood transfusion	is performed	for transfusion-associated prion disease
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted malaria
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted babesiosis
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted hepatitis B
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted hepatitis C
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted hepatitis D
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted hepatitis E
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HTLV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted CMV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted EBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HSV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted VZV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Toxoplasma
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Mycoplasma
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Chagas
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Zika
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted dengue
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted West Nile
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Ebola
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Lassa
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted Marburg
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted SARS-CoV-2
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted influenza
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted RSV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted parvovirus B19
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted adenovirus
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted enterovirus
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted rhinovirus
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted coronavirus
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV-2
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HTLV-1
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HTLV-2
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV-1
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HCV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HIV
+blood transfusion	is performed	for transfusion-associated transfusion-transmitted HBV

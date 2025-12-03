@@ -1,0 +1,100 @@
+nasal endoscopy	is a	diagnostic procedure
+nasal endoscopy	used for	sinus evaluation
+nasal endoscopy	detects	polyps
+nasal endoscopy	detects	tumors
+nasal endoscopy	guides	biopsy
+nasal endoscopy	reduces	diagnostic delay
+nasal endoscopy	requires	sedation
+nasal endoscopy	contraindicated in	severe coagulopathy
+nasal endoscopy	improves	patient comfort
+nasal endoscopy	increases	diagnostic accuracy
+nasal endoscopy	performed by	ENT specialist
+nasal endoscopy	followed by	imaging
+nasal endoscopy	can be combined with	laser therapy
+nasal endoscopy	reduces	need for open surgery
+nasal endoscopy	associated with	minimal bleeding
+nasal endoscopy	requires	nasal decongestion
+nasal endoscopy	uses	flexible scope
+nasal endoscopy	uses	rigid scope
+nasal endoscopy	can be used for	allergy testing
+nasal endoscopy	can be used for	sinus stenting
+nasal endoscopy	can be used for	stent removal
+nasal endoscopy	can be used for	mucosal sampling
+nasal endoscopy	can be used for	polypectomy
+nasal endoscopy	can be used for	tumor debulking
+nasal endoscopy	can be used for	foreign body removal
+nasal endoscopy	can be used for	sinus irrigation
+nasal endoscopy	can be used for	mucosal biopsy
+nasal endoscopy	can be used for	sinus mapping
+nasal endoscopy	can be used for	sinus drainage assessment
+nasal endoscopy	can be used for	sinus mucosa evaluation
+nasal endoscopy	can be used for	sinus mucosal thickness measurement
+nasal endoscopy	can be used for	sinus mucosal inflammation assessment
+nasal endoscopy	can be used for	sinus mucosal edema assessment
+nasal endoscopy	can be used for	sinus mucosal vascularity assessment
+nasal endoscopy	can be used for	sinus mucosal granulation assessment
+nasal endoscopy	can be used for	sinus mucosal scarring assessment
+nasal endoscopy	can be used for	sinus mucosal fibrosis assessment
+nasal endoscopy	can be used for	sinus mucosal atrophy assessment
+nasal endoscopy	can be used for	sinus mucosal hyperplasia assessment
+nasal endoscopy	can be used for	sinus mucosal metaplasia assessment
+nasal endoscopy	can be used for	sinus mucosal dysplasia assessment
+nasal endoscopy	can be used for	sinus mucosal carcinoma assessment
+nasal endoscopy	can be used for	sinus mucosal benign tumor assessment
+nasal endoscopy	can be used for	sinus mucosal malignant tumor assessment
+nasal endoscopy	can be used for	sinus mucosal inflammatory disease assessment
+nasal endoscopy	can be used for	sinus mucosal infection assessment
+nasal endoscopy	can be used for	sinus mucosal allergy assessment
+nasal endoscopy	can be used for	sinus mucosal vasculitis assessment
+nasal endoscopy	can be used for	sinus mucosal granulomatous disease assessment
+nasal endoscopy	can be used for	sinus mucosal fungal disease assessment
+nasal endoscopy	can be used for	sinus mucosal bacterial disease assessment
+nasal endoscopy	can be used for	sinus mucosal viral disease assessment
+nasal endoscopy	can be used for	sinus mucosal parasitic disease assessment
+nasal endoscopy	can be used for	sinus mucosal neoplastic disease assessment
+nasal endoscopy	can be used for	sinus mucosal non‑neoplastic disease assessment
+nasal endoscopy	can be used for	sinus mucosal structural disease assessment
+nasal endoscopy	can be used for	sinus mucosal functional disease assessment
+nasal endoscopy	can be used for	sinus mucosal cosmetic disease assessment
+nasal endoscopy	can be used for	sinus mucosal psychosocial disease assessment
+nasal endoscopy	can be used for	sinus mucosal quality‑of‑life assessment
+nasal endoscopy	can be used for	sinus mucosal symptom assessment
+nasal endoscopy	can be used for	sinus mucosal objective assessment
+nasal endoscopy	can be used for	sinus mucosal subjective assessment
+nasal endoscopy	can be used for	sinus mucosal diagnostic confirmation
+nasal endoscopy	can be used for	sinus mucosal therapeutic planning
+nasal endoscopy	can be used for	sinus mucosal postoperative monitoring
+nasal endoscopy	can be used for	sinus mucosal recurrence detection
+nasal endoscopy	can be used for	sinus mucosal surveillance
+nasal endoscopy	can be used for	sinus mucosal risk stratification
+nasal endoscopy	can be used for	sinus mucosal prognosis estimation
+nasal endoscopy	can be used for	sinus mucosal outcome prediction
+nasal endoscopy	can be used for	sinus mucosal treatment efficacy assessment
+nasal endoscopy	can be used for	sinus mucosal complication detection
+nasal endoscopy	can be used for	sinus mucosal adverse event monitoring
+nasal endoscopy	can be used for	sinus mucosal patient education
+nasal endoscopy	can be used for	sinus mucosal shared decision‑making
+nasal endoscopy	can be used for	sinus mucosal informed consent
+nasal endoscopy	can be used for	sinus mucosal health‑care utilization analysis
+nasal endoscopy	can be used for	sinus mucosal cost‑effectiveness analysis
+nasal endoscopy	can be used for	sinus mucosal resource allocation
+nasal endoscopy	can be used for	sinus mucosal quality improvement
+nasal endoscopy	can be used for	sinus mucosal performance measurement
+nasal endoscopy	can be used for	sinus mucosal benchmarking
+nasal endoscopy	can be used for	sinus mucosal data analytics
+nasal endoscopy	can be used for	sinus mucosal predictive modeling
+nasal endoscopy	can be used for	sinus mucosal risk prediction
+nasal endoscopy	can be used for	sinus mucosal outcome prediction
+nasal endoscopy	can be used for	sinus mucosal decision support
+nasal endoscopy	can be used for	sinus mucosal clinical pathway
+nasal endoscopy	can be used for	sinus mucosal guideline adherence
+nasal endoscopy	can be used for	sinus mucosal audit
+nasal endoscopy	can be used for	sinus mucosal quality metrics
+nasal endoscopy	can be used for	sinus mucosal patient‑reported outcomes
+nasal endoscopy	can be used for	sinus mucosal health‑status monitoring
+nasal endoscopy	can be used for	sinus mucosal early warning
+nasal endoscopy	can be used for	sinus mucosal predictive analytics
+nasal endoscopy	can be used for	sinus mucosal population health
+nasal endoscopy	can be used for	sinus mucosal epidemiology
+nasal endoscopy	can be used for	sinus mucosal surveillance program
+nasal endoscopy	can be used for	sinus mucosal quality‑improvement initiative

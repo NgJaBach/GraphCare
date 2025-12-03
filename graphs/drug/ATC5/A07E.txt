@@ -1,0 +1,100 @@
+intestinal anti‑inflammatory agents	are	drugs
+intestinal anti‑inflammatory agents	treat	inflammatory bowel disease
+intestinal anti‑inflammatory agents	include	mesalamine
+intestinal anti‑inflammatory agents	include	sulfasalazine
+intestinal anti‑inflammatory agents	include	balsalazide
+intestinal anti‑inflammatory agents	include	olsalazine
+intestinal anti‑inflammatory agents	include	5‑ASA
+mesalamine	is a	5‑ASA
+mesalamine	reduces	intestinal inflammation
+mesalamine	improves	ulcerative colitis
+mesalamine	improves	Crohn’s disease
+mesalamine	has	low systemic absorption
+mesalamine	causes	diarrhea
+mesalamine	causes	abdominal pain
+mesalamine	causes	headache
+mesalamine	contraindicated in	renal impairment
+mesalamine	contraindicated in	pregnancy
+sulfasalazine	is a	prodrug
+sulfasalazine	metabolized to	sulfapyridine
+sulfasalazine	metabolized to	mesalamine
+sulfasalazine	causes	sulfa allergy
+sulfasalazine	causes	nausea
+sulfasalazine	causes	rash
+sulfasalazine	contraindicated in	sulfa allergy
+balsalazide	is a	prodrug
+balsalazide	releases	mesalamine
+balsalazide	targets	terminal ileum
+balsalazide	causes	mild nausea
+balsalazide	causes	abdominal cramping
+balsalazide	contraindicated in	severe constipation
+olsalazine	is a	prodrug
+olsalazine	releases	mesalamine
+olsalazine	targets	colon
+olsalazine	causes	mild diarrhea
+olsalazine	causes	headache
+olsalazine	contraindicated in	severe renal disease
+intestinal anti‑inflammatory agents	reduce	relapse rate
+intestinal anti‑inflammatory agents	reduce	hospitalization
+intestinal anti‑inflammatory agents	reduce	surgery
+intestinal anti‑inflammatory agents	improve	quality of life
+intestinal anti‑inflammatory agents	improve	mucosal healing
+intestinal anti‑inflammatory agents	improve	endoscopic remission
+intestinal anti‑inflammatory agents	improve	histologic remission
+intestinal anti‑inflammatory agents	are	first‑line therapy
+intestinal anti‑inflammatory agents	are	maintenance therapy
+intestinal anti‑inflammatory agents	are	adjunct to steroids
+intestinal anti‑inflammatory agents	are	adjunct to immunomodulators
+intestinal anti‑inflammatory agents	are	adjunct to biologics
+intestinal anti‑inflammatory agents	are	safe in pregnancy
+intestinal anti‑inflammatory agents	are	safe in lactation
+intestinal anti‑inflammatory agents	are	associated with	low mortality
+intestinal anti‑inflammatory agents	are	associated with	low readmission
+intestinal anti‑inflammatory agents	are	associated with	low infection risk
+intestinal anti‑inflammatory agents	are	associated with	low malignancy risk
+intestinal anti‑inflammatory agents	are	associated with	low cardiovascular risk
+intestinal anti‑inflammatory agents	are	associated with	low drug interactions
+intestinal anti‑inflammatory agents	are	associated with	low drug resistance
+intestinal anti‑inflammatory agents	are	associated with	low cost
+intestinal anti‑inflammatory agents	are	associated with	high patient adherence
+intestinal anti‑inflammatory agents	are	associated with	high patient satisfaction
+intestinal anti‑inflammatory agents	are	associated with	low discontinuation
+intestinal anti‑inflammatory agents	are	associated with	low side‑effect profile
+intestinal anti‑inflammatory agents	are	associated with	low hepatotoxicity
+intestinal anti‑inflammatory agents	are	associated with	low nephrotoxicity
+intestinal anti‑inflammatory agents	are	associated with	low hematologic toxicity
+intestinal anti‑inflammatory agents	are	associated with	low gastrointestinal toxicity
+intestinal anti‑inflammatory agents	are	associated with	low allergic reactions
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with NSAIDs
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with anticoagulants
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antibiotics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antivirals
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antidiabetics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with statins
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antihypertensives
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antiepileptics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antidepressants
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antipsychotics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antihistamines
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with bronchodilators
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antithrombotics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antimalarials
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antituberculars
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with antiretrovirals
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with immunosuppressants
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with biologics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with small molecules
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with vaccines
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with supplements
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with herbal remedies
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with over‑the‑counter medications
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with prescription medications
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with investigational drugs
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with experimental therapies
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with gene‑therapy products
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with cell‑therapy products
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with biologic‑derived products
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with synthetic biologics
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with monoclonal antibodies
+intestinal anti‑inflammatory agents	are	associated with	low drug‑drug interactions with fusion proteins

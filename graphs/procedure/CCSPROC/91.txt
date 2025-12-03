@@ -1,0 +1,100 @@
+peritoneal dialysis	is a	renal replacement therapy
+peritoneal dialysis	treats	end-stage renal disease
+peritoneal dialysis	reduces	hospitalization rate
+peritoneal dialysis	improves	quality of life
+peritoneal dialysis	requires	peritoneal catheter
+peritoneal catheter	inserted by	surgeon
+peritoneal catheter	can cause	infection
+peritoneal catheter	can cause	mechanical failure
+peritoneal dialysis	uses	dialysate solution
+dialysate solution	contains	glucose
+dialysate solution	contains	electrolytes
+dialysate solution	can cause	hyperglycemia
+dialysate solution	can cause	fluid overload
+peritoneal dialysis	performed	at home
+peritoneal dialysis	performed	in clinic
+peritoneal dialysis	schedule	continuous ambulatory
+peritoneal dialysis	schedule	automated peritoneal
+continuous ambulatory	requires	manual exchanges
+automated peritoneal	requires	cycler machine
+peritoneal dialysis	associated with	peritonitis
+peritonitis	causes	mortality
+peritonitis	treated by	antibiotics
+peritonitis	treated by	catheter removal
+peritoneal dialysis	associated with	exit-site infection
+exit-site infection	treated by	topical antibiotics
+exit-site infection	treated by	catheter replacement
+peritoneal dialysis	associated with	catheter malfunction
+catheter malfunction	treated by	surgical revision
+peritoneal dialysis	associated with	ultrafiltration failure
+ultrafiltration failure	causes	fluid overload
+ultrafiltration failure	treated by	dialysate adjustment
+ultrafiltration failure	treated by	dietary restriction
+peritoneal dialysis	associated with	metabolic acidosis
+metabolic acidosis	treated by	bicarbonate supplementation
+peritoneal dialysis	associated with	hyperkalemia
+hyperkalemia	treated by	potassium binder
+hyperkalemia	treated by	dialysis adjustment
+peritoneal dialysis	associated with	hypoalbuminemia
+hypoalbuminemia	treated by	nutritional support
+peritoneal dialysis	associated with	weight loss
+weight loss	treated by	dietary counseling
+peritoneal dialysis	associated with	abdominal discomfort
+abdominal discomfort	treated by	analgesics
+peritoneal dialysis	associated with	constipation
+constipation	treated by	laxatives
+peritoneal dialysis	associated with	nausea
+nausea	treated by	antiemetics
+peritoneal dialysis	associated with	vomiting
+vomiting	treated by	antiemetics
+peritoneal dialysis	associated with	dizziness
+dizziness	treated by	hydration
+peritoneal dialysis	associated with	anemia
+anemia	treated by	erythropoiesis-stimulating agent
+anemia	treated by	iron supplementation
+peritoneal dialysis	associated with	bone disease
+bone disease	treated by	vitamin D analog
+bone disease	treated by	calcium supplementation
+peritoneal dialysis	associated with	cardiovascular risk
+cardiovascular risk	increased by	hypertension
+cardiovascular risk	increased by	dyslipidemia
+cardiovascular risk	increased by	left ventricular hypertrophy
+peritoneal dialysis	associated with	infection risk
+infection risk	increased by	immunosuppression
+infection risk	increased by	malnutrition
+peritoneal dialysis	associated with	mortality
+mortality	increased by	peritonitis
+mortality	increased by	cardiovascular disease
+mortality	increased by	malnutrition
+peritoneal dialysis	associated with	readmission
+readmission	caused by	infection
+readmission	caused by	fluid overload
+readmission	caused by	metabolic complications
+peritoneal dialysis	associated with	patient satisfaction
+patient satisfaction	increased by	home autonomy
+patient satisfaction	increased by	reduced travel
+patient satisfaction	decreased by	complications
+peritoneal dialysis	associated with	cost
+cost	lower than	hemodialysis
+cost	higher than	hemodialysis
+peritoneal dialysis	associated with	training
+training	required for	patient
+training	required for	caregiver
+training	reduces	technique failure
+peritoneal dialysis	associated with	technique survival
+technique survival	depends on	patient adherence
+technique survival	depends on	catheter patency
+technique survival	depends on	infection control
+peritoneal dialysis	associated with	dialysis adequacy
+dialysis adequacy	measured by	Kt/V
+dialysis adequacy	measured by	creatinine clearance
+dialysis adequacy	affects	mortality
+dialysis adequacy	affects	hospitalization
+peritoneal dialysis	associated with	residual renal function
+residual renal function	preserved by	low-dose steroids
+residual renal function	preserved by	low-protein diet
+residual renal function	preserved by	adequate hydration
+peritoneal dialysis	associated with	patient selection
+patient selection	based on	comorbidities
+patient selection	based on	lifestyle
+patient selection	based on	anatomical suitability

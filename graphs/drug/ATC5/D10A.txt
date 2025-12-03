@@ -1,0 +1,100 @@
+anti‑acne preparations	are	topical
+anti‑acne preparations	treat	acne
+anti‑acne preparations	contain	benzoyl peroxide
+benzoyl peroxide	reduces	bacterial load
+benzoyl peroxide	causes	skin irritation
+anti‑acne preparations	contain	salicylic acid
+salicylic acid	exfoliates	dead skin cells
+salicylic acid	penetrates	pores
+anti‑acne preparations	contain	retinoids
+retinoids	normalize	keratinization
+retinoids	increase	cell turnover
+retinoids	may cause	photosensitivity
+anti‑acne preparations	contain	antibiotics
+antibiotics	target	Cutibacterium acnes
+antibiotics	risk	resistance
+antibiotics	include	clindamycin
+clindamycin	reduces	inflammation
+anti‑acne preparations	contain	azelaic acid
+azelaic acid	has	anti‑inflammatory
+azelaic acid	reduces	keratinization
+anti‑acne preparations	contain	niacinamide
+niacinamide	improves	barrier function
+niacinamide	reduces	hyperpigmentation
+anti‑acne preparations	contain	sulfur
+sulfur	removes	excess oil
+sulfur	has	keratolytic
+anti‑acne preparations	contain	tea tree oil
+tea tree oil	has	antimicrobial
+tea tree oil	may cause	dermatitis
+anti‑acne preparations	contain	benzoyl chloride
+benzoyl chloride	oxidizes	bacteria
+benzoyl chloride	causes	bleaching
+anti‑acne preparations	contain	glycolic acid
+glycolic acid	exfoliates	surface
+glycolic acid	increases	absorption
+anti‑acne preparations	contain	alpha hydroxy acids
+alpha hydroxy acids	improve	texture
+anti‑acne preparations	contain	zinc oxide
+zinc oxide	protects	skin
+zinc oxide	reduces	inflammation
+anti‑acne preparations	contain	silicone
+silicone	occludes	pores
+silicone	reduces	oiliness
+anti‑acne preparations	contain	fragrance
+fragrance	can cause	allergic reaction
+anti‑acne preparations	are	non‑comedogenic
+anti‑acne preparations	are	fragrance‑free
+anti‑acne preparations	are	alcohol‑free
+anti‑acne preparations	are	pH‑balanced
+anti‑acne preparations	are	suitable	for	oily skin
+anti‑acne preparations	are	suitable	for	acne‑prone skin
+anti‑acne preparations	are	suitable	for	teenagers
+anti‑acne preparations	are	suitable	for	adults
+anti‑acne preparations	are	suitable	for	post‑acne scars
+anti‑acne preparations	are	suitable	for	mild acne
+anti‑acne preparations	are	suitable	for	moderate acne
+anti‑acne preparations	are	suitable	for	severe acne
+anti‑acne preparations	are	suitable	for	cystic acne
+anti‑acne preparations	are	suitable	for	hormonal acne
+anti‑acne preparations	are	suitable	for	acne vulgaris
+anti‑acne preparations	are	suitable	for	acne rosacea
+anti‑acne preparations	are	suitable	for	acne scars
+anti‑acne preparations	are	suitable	for	acne lesions
+anti‑acne preparations	are	suitable	for	acne treatment
+anti‑acne preparations	are	suitable	for	acne prevention
+anti‑acne preparations	are	suitable	for	acne control
+anti‑acne preparations	are	suitable	for	acne management
+anti‑acne preparations	are	suitable	for	acne therapy
+anti‑acne preparations	are	suitable	for	acne regimen
+anti‑acne preparations	are	suitable	for	acne care
+anti‑acne preparations	are	suitable	for	acne patients
+anti‑acne preparations	are	suitable	for	acne sufferers
+anti‑acne preparations	are	suitable	for	acne‑affected skin
+anti‑acne preparations	are	suitable	for	acne‑prone areas
+anti‑acne preparations	are	suitable	for	acne‑prone zones
+anti‑acne preparations	are	suitable	for	acne‑prone regions
+anti‑acne preparations	are	suitable	for	acne‑prone sites
+anti‑acne preparations	are	suitable	for	acne‑prone faces
+anti‑acne preparations	are	suitable	for	acne‑prone necks
+anti‑acne preparations	are	suitable	for	acne‑prone chests
+anti‑acne preparations	are	suitable	for	acne‑prone backs
+anti‑acne preparations	are	suitable	for	acne‑prone bodies
+anti‑acne preparations	are	suitable	for	acne‑prone skin types
+anti‑acne preparations	are	suitable	for	acne‑prone conditions
+anti‑acne preparations	are	suitable	for	acne‑prone disorders
+anti‑acne preparations	are	suitable	for	acne‑prone diseases
+anti‑acne preparations	are	suitable	for	acne‑prone treatments
+anti‑acne preparations	are	suitable	for	acne‑prone therapies
+anti‑acne preparations	are	suitable	for	acne‑prone regimens
+anti‑acne preparations	are	suitable	for	acne‑prone protocols
+anti‑acne preparations	are	suitable	for	acne‑prone plans
+anti‑acne preparations	are	suitable	for	acne‑prone schedules
+anti‑acne preparations	are	suitable	for	acne‑prone routines
+anti‑acne preparations	are	suitable	for	acne‑prone applications
+anti‑acne preparations	are	suitable	for	acne‑prone usage
+anti‑acne preparations	are	suitable	for	acne‑prone therapy
+anti‑acne preparations	are	suitable	for	acne‑prone treatment
+anti‑acne preparations	are	suitable	for	acne‑prone regimen
+anti‑acne preparations	are	suitable	for	acne‑prone care
+anti‑acne preparations	are	suitable	for	acne‑prone patients

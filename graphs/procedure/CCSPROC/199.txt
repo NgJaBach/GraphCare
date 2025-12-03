@@ -1,0 +1,100 @@
+EEG	is a	diagnostic test
+EEG	measures	brain activity
+EEG	records	electrical potentials
+EEG	uses	scalp electrodes
+EEG	detects	seizures
+EEG	identifies	epileptiform discharges
+EEG	monitors	sleep stages
+EEG	evaluates	coma
+EEG	guides	epilepsy surgery
+EEG	informs	antiepileptic therapy
+EEG	predicts	seizure recurrence
+EEG	assesses	brain death
+EEG	detects	cortical dysfunction
+EEG	measures	event‑related potentials
+EEG	records	auditory evoked potentials
+EEG	records	visual evoked potentials
+EEG	records	somatosensory evoked potentials
+EEG	measures	sleep spindles
+EEG	measures	K‑complexes
+EEG	measures	delta waves
+EEG	measures	theta waves
+EEG	measures	alpha waves
+EEG	measures	beta waves
+EEG	measures	gamma waves
+EEG	detects	hypsarrhythmia
+EEG	detects	burst suppression
+EEG	detects	periodic lateralized epileptiform discharges
+EEG	detects	photoparoxysmal response
+EEG	detects	cortical spreading depression
+EEG	detects	encephalopathy
+EEG	detects	metabolic encephalopathy
+EEG	detects	toxic encephalopathy
+EEG	detects	hypoxic injury
+EEG	detects	post‑anoxic seizures
+EEG	detects	status epilepticus
+EEG	detects	non‑convulsive status epilepticus
+EEG	detects	subclinical seizures
+EEG	detects	interictal spikes
+EEG	detects	sharp‑wave complexes
+EEG	detects	spike‑and‑wave patterns
+EEG	detects	focal slowing
+EEG	detects	generalized slowing
+EEG	detects	diffuse slowing
+EEG	detects	focal encephalopathy
+EEG	detects	posterior reversible encephalopathy syndrome
+EEG	detects	cerebral vasospasm
+EEG	detects	brain tumor activity
+EEG	detects	cortical dysplasia
+EEG	detects	Rasmussen encephalitis
+EEG	detects	neurodegenerative disease
+EEG	predicts	postoperative delirium
+EEG	predicts	ICU mortality
+EEG	predicts	long‑term cognitive outcome
+EEG	predicts	seizure freedom
+EEG	predicts	drug resistance
+EEG	predicts	surgical success
+EEG	predicts	readmission risk
+EEG	predicts	seizure burden
+EEG	predicts	seizure severity
+EEG	predicts	response to benzodiazepines
+EEG	predicts	response to valproate
+EEG	predicts	response to levetiracetam
+EEG	predicts	response to carbamazepine
+EEG	predicts	response to lamotrigine
+EEG	predicts	response to topiramate
+EEG	predicts	response to phenobarbital
+EEG	predicts	response to lacosamide
+EEG	predicts	response to vigabatrin
+EEG	predicts	response to ketogenic diet
+EEG	predicts	response to vagus nerve stimulation
+EEG	predicts	response to responsive neurostimulation
+EEG	predicts	response to deep brain stimulation
+EEG	predicts	response to cortical stimulation
+EEG	predicts	response to neuromodulation
+EEG	informs	medication tapering
+EEG	informs	medication escalation
+EEG	informs	surgical candidacy
+EEG	informs	prognosis
+EEG	informs	discharge planning
+EEG	informs	rehabilitation goals
+EEG	informs	family counseling
+EEG	informs	ICU monitoring
+EEG	informs	neurocritical care
+EEG	informs	emergency department triage
+EEG	informs	pediatric epilepsy care
+EEG	informs	adult epilepsy care
+EEG	informs	geriatric epilepsy care
+EEG	informs	neonatal seizure monitoring
+EEG	informs	post‑stroke monitoring
+EEG	informs	post‑traumatic brain injury monitoring
+EEG	informs	post‑surgical monitoring
+EEG	informs	post‑anesthesia monitoring
+EEG	informs	post‑cardiac arrest monitoring
+EEG	informs	post‑sepsis monitoring
+EEG	informs	post‑infection monitoring
+EEG	informs	post‑vaccination monitoring
+EEG	informs	post‑drug toxicity monitoring
+EEG	informs	post‑metabolic disorder monitoring
+EEG	informs	post‑autoimmune disorder monitoring
+EEG	informs	post‑neurodegenerative disorder monitoring

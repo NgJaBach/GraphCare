@@ -1,0 +1,100 @@
+ARBs	inhibit	angiotensin II
+ARBs	block	AT1 receptor
+AT1 receptor	mediates	vasoconstriction
+vasoconstriction	increases	blood pressure
+blood pressure	measured by	systolic pressure
+blood pressure	measured by	diastolic pressure
+ARBs	treat	hypertension
+hypertension	risk factor for	stroke
+hypertension	risk factor for	myocardial infarction
+ARBs	reduce	proteinuria
+proteinuria	marker of	kidney disease
+kidney disease	classified by	eGFR
+eGFR	calculated from	serum creatinine
+serum creatinine	measured by	blood test
+ARBs	used in	heart failure
+heart failure	classified by	NYHA class
+NYHA class	predicts	mortality
+mortality	predicted by	LVEF
+LVEF	measured by	echocardiogram
+echocardiogram	performed by	cardiologist
+ARBs	prescribed with	ACE inhibitors
+ACE inhibitors	contraindicated in	pregnancy
+pregnancy	monitored by	obstetrician
+ARBs	side effect	hyperkalemia
+hyperkalemia	monitored by	potassium level
+potassium level	measured by	blood test
+ARBs	side effect	cough
+cough	differential diagnosis	ACE inhibitor cough
+ARBs	side effect	dizziness
+dizziness	leads to	fall risk
+fall risk	increases	readmission
+readmission	predicted by	frailty score
+frailty score	calculated from	gait speed
+gait speed	measured by	4‑meter walk
+ARBs	drug class	antihypertensive
+antihypertensive	subclass	vasodilator
+vasodilator	mechanism	nitric oxide
+nitric oxide	produced by	endothelial cells
+endothelial cells	dysfunction in	diabetes
+diabetes	risk factor for	ARBs efficacy
+ARBs	efficacy	measured by	BP reduction
+BP reduction	correlated with	cardiovascular events
+cardiovascular events	include	arrhythmia
+arrhythmia	detected by	ECG
+ECG	performed by	electrophysiologist
+ARBs	dosage	titrated by	clinician
+clinician	specialty	internal medicine
+internal medicine	consults	pharmacy
+pharmacy	monitors	drug interactions
+drug interactions	include	potassium‑sparing diuretic
+potassium‑sparing diuretic	increases	potassium level
+potassium level	high risk for	arrhythmia
+arrhythmia	treated with	beta‑blocker
+beta‑blocker	contraindicated in	asthma
+asthma	monitored by	pulmonologist
+pulmonologist	uses	spirometry
+spirometry	measures	FEV1
+FEV1	predicts	exacerbation risk
+exacerbation risk	leads to	hospitalization
+hospitalization	predicted by	comorbidity index
+comorbidity index	includes	COPD
+COPD	risk factor for	ARBs side effect
+ARBs	contraindicated in	severe renal impairment
+renal impairment	staged by	CKD stage
+CKD stage	staged by	eGFR
+eGFR	declines with	age
+age	risk factor for	polypharmacy
+polypharmacy	increases	adverse drug reaction
+adverse drug reaction	monitored by	pharmacist
+pharmacist	reviews	medication list
+medication list	includes	ARBs
+ARBs	brand name	losartan
+losartan	metabolized by	CYP2C9
+CYP2C9	polymorphism	affects drug level
+drug level	measured by	plasma concentration
+plasma concentration	informs	dose adjustment
+dose adjustment	guided by	therapeutic drug monitoring
+therapeutic drug monitoring	performed by	clinical pharmacology
+clinical pharmacology	collaborates with	cardiology
+cardiology	monitors	heart rate
+heart rate	measured by	Holter monitor
+Holter monitor	records	arrhythmia episodes
+arrhythmia episodes	predict	sudden cardiac death
+sudden cardiac death	prevented by	ICD
+ICD	implanted by	electrophysiology
+electrophysiology	uses	cardiac imaging
+cardiac imaging	includes	cardiac MRI
+cardiac MRI	assesses	myocardial fibrosis
+myocardial fibrosis	predicts	heart failure progression
+heart failure progression	leads to	increased mortality
+mortality	reduced by	ARBs therapy
+ARBs therapy	adherence measured by	pharmacy refill
+pharmacy refill	indicates	medication possession ratio
+medication possession ratio	predicts	adherence
+adherence	influences	blood pressure control
+blood pressure control	reduces	stroke risk
+stroke risk	mitigated by	antiplatelet therapy
+antiplatelet therapy	contraindicated with	anticoagulant
+anticoagulant	monitored by	INR
+INR	maintained within	therapeutic range

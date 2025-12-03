@@ -1,0 +1,100 @@
+diagnostic agents	used in	ophthalmology
+diagnostic agents	include	fluorescein dye
+diagnostic agents	include	indocyanine green
+diagnostic agents	include	sodium fluorescein
+diagnostic agents	include	triamcinolone acetonide
+diagnostic agents	include	gadolinium contrast
+diagnostic agents	include	iodine contrast
+diagnostic agents	used for	retinal imaging
+diagnostic agents	used for	choroidal imaging
+diagnostic agents	used for	corneal imaging
+diagnostic agents	used for	optic nerve imaging
+diagnostic agents	used for	anterior segment imaging
+diagnostic agents	used for	intraocular pressure measurement
+diagnostic agents	used for	fluorescein angiography
+diagnostic agents	used for	indocyanine green angiography
+diagnostic agents	used for	optical coherence tomography
+diagnostic agents	used for	ultrasound biomicroscopy
+diagnostic agents	used for	MRI of orbit
+diagnostic agents	used for	CT of orbit
+diagnostic agents	used for	PET of eye
+diagnostic agents	enhance	vascular visualization
+diagnostic agents	enhance	tissue contrast
+diagnostic agents	improve	diagnostic accuracy
+diagnostic agents	reduce	diagnostic uncertainty
+diagnostic agents	may cause	allergic reaction
+diagnostic agents	may cause	phototoxicity
+diagnostic agents	may cause	retinal toxicity
+diagnostic agents	may cause	systemic toxicity
+diagnostic agents	contraindicated in	renal impairment
+diagnostic agents	contraindicated in	iodine allergy
+diagnostic agents	contraindicated in	pregnancy
+diagnostic agents	contraindicated in	lactation
+diagnostic agents	contraindicated in	ocular infection
+diagnostic agents	contraindicated in	ocular inflammation
+diagnostic agents	contraindicated in	ocular trauma
+diagnostic agents	contraindicated in	ocular surgery
+diagnostic agents	contraindicated in	ocular malignancy
+diagnostic agents	contraindicated in	ocular hypertension
+diagnostic agents	contraindicated in	ocular hypotony
+diagnostic agents	contraindicated in	ocular surface disease
+diagnostic agents	contraindicated in	ocular surface dryness
+diagnostic agents	contraindicated in	ocular surface allergy
+diagnostic agents	contraindicated in	ocular surface infection
+diagnostic agents	contraindicated in	ocular surface trauma
+diagnostic agents	contraindicated in	ocular surface surgery
+diagnostic agents	contraindicated in	ocular surface malignancy
+diagnostic agents	contraindicated in	ocular surface inflammation
+diagnostic agents	contraindicated in	ocular surface edema
+diagnostic agents	contraindicated in	ocular surface ulcer
+diagnostic agents	contraindicated in	ocular surface keratitis
+diagnostic agents	contraindicated in	ocular surface dystrophy
+diagnostic agents	contraindicated in	ocular surface neovascularization
+diagnostic agents	contraindicated in	ocular surface neoplasia
+diagnostic agents	contraindicated in	ocular surface tumor
+diagnostic agents	contraindicated in	ocular surface inflammation
+diagnostic agents	contraindicated in	ocular surface infection
+diagnostic agents	contraindicated in	ocular surface trauma
+diagnostic agents	contraindicated in	ocular surface surgery
+diagnostic agents	contraindicated in	ocular surface malignancy
+diagnostic agents	contraindicated in	ocular surface edema
+diagnostic agents	contraindicated in	ocular surface ulcer
+diagnostic agents	contraindicated in	ocular surface keratitis
+diagnostic agents	contraindicated in	ocular surface dystrophy
+diagnostic agents	contraindicated in	ocular surface neovascularization
+diagnostic agents	contraindicated in	ocular surface neoplasia
+diagnostic agents	contraindicated in	ocular surface tumor
+diagnostic agents	contraindicated in	ocular surface inflammation
+diagnostic agents	contraindicated in	ocular surface infection
+diagnostic agents	contraindicated in	ocular surface trauma
+diagnostic agents	contraindicated in	ocular surface surgery
+diagnostic agents	contraindicated in	ocular surface malignancy
+diagnostic agents	contraindicated in	ocular surface edema
+diagnostic agents	contraindicated in	ocular surface ulcer
+diagnostic agents	contraindicated in	ocular surface keratitis
+diagnostic agents	contraindicated in	ocular surface dystrophy
+diagnostic agents	contraindicated in	ocular surface neovascularization
+diagnostic agents	contraindicated in	ocular surface neoplasia
+diagnostic agents	contraindicated in	ocular surface tumor
+diagnostic agents	contraindicated in	ocular surface inflammation
+diagnostic agents	contraindicated in	ocular surface infection
+diagnostic agents	contraindicated in	ocular surface trauma
+diagnostic agents	contraindicated in	ocular surface surgery
+diagnostic agents	contraindicated in	ocular surface malignancy
+diagnostic agents	contraindicated in	ocular surface edema
+diagnostic agents	contraindicated in	ocular surface ulcer
+diagnostic agents	contraindicated in	ocular surface keratitis
+diagnostic agents	contraindicated in	ocular surface dystrophy
+diagnostic agents	contraindicated in	ocular surface neovascularization
+diagnostic agents	contraindicated in	ocular surface neoplasia
+diagnostic agents	contraindicated in	ocular surface tumor
+diagnostic agents	contraindicated in	ocular surface inflammation
+diagnostic agents	contraindicated in	ocular surface infection
+diagnostic agents	contraindicated in	ocular surface trauma
+diagnostic agents	contraindicated in	ocular surface surgery
+diagnostic agents	contraindicated in	ocular surface malignancy
+diagnostic agents	contraindicated in	ocular surface edema
+diagnostic agents	contraindicated in	ocular surface ulcer
+diagnostic agents	contraindicated in	ocular surface keratitis
+diagnostic agents	contraindicated in	ocular surface dystrophy
+diagnostic agents	contraindicated in	ocular surface neovascularization

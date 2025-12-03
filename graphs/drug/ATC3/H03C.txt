@@ -1,0 +1,100 @@
+iodine therapy drugs	contain	potassium iodide
+iodine therapy drugs	contain	Lugol's solution
+iodine therapy drugs	contain	radioactive iodine
+potassium iodide	used for	hyperthyroidism
+potassium iodide	used for	thyroid blockade
+potassium iodide	used for	radiation protection
+Lugol's solution	used for	thyroid enlargement
+Lugol's solution	used for	iodine deficiency
+Lugol's solution	used for	preoperative preparation
+radioactive iodine	used for	thyroid cancer
+radioactive iodine	used for	Graves' disease
+radioactive iodine	used for	hyperthyroidism
+iodine therapy drugs	reduce	thyroid hormone synthesis
+iodine therapy drugs	reduce	thyroid hormone release
+iodine therapy drugs	reduce	thyroid volume
+iodine therapy drugs	reduce	radiation exposure
+iodine therapy drugs	increase	urinary iodine excretion
+iodine therapy drugs	increase	serum iodine levels
+iodine therapy drugs	increase	thyroid uptake
+iodine therapy drugs	increase	thyroid radioactivity
+iodine therapy drugs	cause	nausea
+iodine therapy drugs	cause	vomiting
+iodine therapy drugs	cause	abdominal pain
+iodine therapy drugs	cause	skin rash
+iodine therapy drugs	cause	metallic taste
+iodine therapy drugs	cause	hyperthyroidism relapse
+iodine therapy drugs	cause	thyroiditis
+iodine therapy drugs	cause	allergic reaction
+iodine therapy drugs	cause	hyperthyroidism remission
+iodine therapy drugs	contraindicated in	pregnancy
+iodine therapy drugs	contraindicated in	lactation
+iodine therapy drugs	contraindicated in	renal failure
+iodine therapy drugs	contraindicated in	iodine allergy
+iodine therapy drugs	contraindicated in	hyperthyroidism without iodine
+iodine therapy drugs	contraindicated in	thyroid storm
+iodine therapy drugs	contraindicated in	severe anemia
+iodine therapy drugs	contraindicated in	uncontrolled hypertension
+iodine therapy drugs	contraindicated in	severe liver disease
+iodine therapy drugs	contraindicated in	severe cardiac disease
+iodine therapy drugs	contraindicated in	severe metabolic disorder
+iodine therapy drugs	contraindicated in	severe electrolyte imbalance
+iodine therapy drugs	contraindicated in	severe thyroid dysfunction
+iodine therapy drugs	contraindicated in	severe endocrine disorder
+iodine therapy drugs	contraindicated in	severe immune deficiency
+iodine therapy drugs	contraindicated in	severe psychiatric disorder
+iodine therapy drugs	contraindicated in	severe neurological disorder
+iodine therapy drugs	contraindicated in	severe musculoskeletal disorder
+iodine therapy drugs	contraindicated in	severe respiratory disorder
+iodine therapy drugs	contraindicated in	severe gastrointestinal disorder
+iodine therapy drugs	contraindicated in	severe dermatological disorder
+iodine therapy drugs	contraindicated in	severe reproductive disorder
+iodine therapy drugs	contraindicated in	severe developmental disorder
+iodine therapy drugs	contraindicated in	severe behavioral disorder
+iodine therapy drugs	contraindicated in	severe sleep disorder
+iodine therapy drugs	contraindicated in	severe pain disorder
+iodine therapy drugs	contraindicated in	severe infection
+iodine therapy drugs	contraindicated in	severe sepsis
+iodine therapy drugs	contraindicated in	severe shock
+iodine therapy drugs	contraindicated in	severe trauma
+iodine therapy drugs	contraindicated in	severe burns
+iodine therapy drugs	contraindicated in	severe radiation exposure
+iodine therapy drugs	contraindicated in	severe chemical exposure
+iodine therapy drugs	contraindicated in	severe environmental exposure
+iodine therapy drugs	contraindicated in	severe occupational exposure
+iodine therapy drugs	contraindicated in	severe recreational drug use
+iodine therapy drugs	contraindicated in	severe alcohol abuse
+iodine therapy drugs	contraindicated in	severe tobacco use
+iodine therapy drugs	contraindicated in	severe illicit drug use
+iodine therapy drugs	contraindicated in	severe prescription drug use
+iodine therapy drugs	contraindicated in	severe over-the-counter drug use
+iodine therapy drugs	contraindicated in	severe herbal supplement use
+iodine therapy drugs	contraindicated in	severe dietary supplement use
+iodine therapy drugs	contraindicated in	severe vitamin deficiency
+iodine therapy drugs	contraindicated in	severe mineral deficiency
+iodine therapy drugs	contraindicated in	severe protein deficiency
+iodine therapy drugs	contraindicated in	severe carbohydrate deficiency
+iodine therapy drugs	contraindicated in	severe fat deficiency
+iodine therapy drugs	contraindicated in	severe electrolyte imbalance
+iodine therapy drugs	contraindicated in	severe metabolic acidosis
+iodine therapy drugs	contraindicated in	severe metabolic alkalosis
+iodine therapy drugs	contraindicated in	severe acid-base disorder
+iodine therapy drugs	contraindicated in	severe endocrine disorder
+iodine therapy drugs	contraindicated in	severe hormonal imbalance
+iodine therapy drugs	contraindicated in	severe pituitary disorder
+iodine therapy drugs	contraindicated in	severe adrenal disorder
+iodine therapy drugs	contraindicated in	severe parathyroid disorder
+iodine therapy drugs	contraindicated in	severe thyroid disorder
+iodine therapy drugs	contraindicated in	severe pituitary tumor
+iodine therapy drugs	contraindicated in	severe adrenal tumor
+iodine therapy drugs	contraindicated in	severe parathyroid tumor
+iodine therapy drugs	contraindicated in	severe thyroid tumor
+iodine therapy drugs	contraindicated in	severe pituitary dysfunction
+iodine therapy drugs	contraindicated in	severe adrenal dysfunction
+iodine therapy drugs	contraindicated in	severe parathyroid dysfunction
+iodine therapy drugs	contraindicated in	severe thyroid dysfunction
+iodine therapy drugs	contraindicated in	severe pituitary disease
+iodine therapy drugs	contraindicated in	severe adrenal disease
+iodine therapy drugs	contraindicated in	severe parathyroid disease
+iodine therapy drugs	contraindicated in	severe thyroid disease
+iodine therapy drugs	contraindicated in	severe endocrine disease

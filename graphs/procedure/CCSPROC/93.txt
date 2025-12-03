@@ -1,0 +1,100 @@
+sclerotherapy	is a	therapeutic procedure
+sclerotherapy	treats	esophageal varices
+sclerotherapy	reduces	bleeding risk
+sclerotherapy	requires	endoscopic guidance
+sclerotherapy	contraindicated in	coagulopathy
+band ligation	is a	therapeutic procedure
+band ligation	treats	esophageal varices
+band ligation	reduces	rebleeding
+band ligation	requires	endoscopic equipment
+band ligation	contraindicated in	severe thrombocytopenia
+endoscopic variceal obturation	is a	therapeutic procedure
+endoscopic variceal obturation	uses	cyanoacrylate
+endoscopic variceal obturation	treats	gastric varices
+endoscopic variceal obturation	reduces	mortality
+endoscopic variceal obturation	contraindicated in	uncontrolled infection
+endoscopic mucosal resection	is a	therapeutic procedure
+endoscopic mucosal resection	removes	early GI cancers
+endoscopic mucosal resection	requires	specialized knives
+endoscopic mucosal resection	contraindicated in	large lesions
+endoscopic submucosal dissection	is a	therapeutic procedure
+endoscopic submucosal dissection	removes	superficial tumors
+endoscopic submucosal dissection	requires	high‑resolution imaging
+endoscopic submucosal dissection	contraindicated in	poor sedation tolerance
+endoscopic ultrasound‑guided fine‑needle aspiration	is a	diagnostic procedure
+endoscopic ultrasound‑guided fine‑needle aspiration	samples	pancreatic masses
+endoscopic ultrasound‑guided fine‑needle aspiration	improves	staging accuracy
+endoscopic ultrasound‑guided fine‑needle aspiration	contraindicated in	severe ascites
+endoscopic ultrasound‑guided drainage	is a	therapeutic procedure
+endoscopic ultrasound‑guided drainage	treats	pancreatic pseudocysts
+endoscopic ultrasound‑guided drainage	reduces	infection risk
+endoscopic ultrasound‑guided drainage	contraindicated in	uncorrected coagulopathy
+endoscopic retrograde cholangiopancreatography	is a	therapeutic procedure
+endoscopic retrograde cholangiopancreatography	performs	biliary stenting
+endoscopic retrograde cholangiopancreatography	treats	choledocholithiasis
+endoscopic retrograde cholangiopancreatography	reduces	jaundice
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe pancreatitis
+endoscopic retrograde cholangiopancreatography	requires	fluoroscopy
+endoscopic retrograde cholangiopancreatography	contraindicated in	pregnancy
+endoscopic retrograde cholangiopancreatography	uses	sphincterotomy
+endoscopic retrograde cholangiopancreatography	reduces	stone recurrence
+endoscopic retrograde cholangiopancreatography	contraindicated in	uncontrolled bleeding
+endoscopic retrograde cholangiopancreatography	requires	skilled endoscopist
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe cardiopulmonary disease
+endoscopic retrograde cholangiopancreatography	uses	biliary brush cytology
+endoscopic retrograde cholangiopancreatography	improves	diagnosis of cholangiocarcinoma
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe cholangitis
+endoscopic retrograde cholangiopancreatography	requires	bowel preparation
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe hepatic failure
+endoscopic retrograde cholangiopancreatography	uses	pancreatic duct stenting
+endoscopic retrograde cholangiopancreatography	reduces	pancreatitis risk
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe allergic reaction to contrast
+endoscopic retrograde cholangiopancreatography	requires	intravenous sedation
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe electrolyte imbalance
+endoscopic retrograde cholangiopancreatography	uses	balloon dilation
+endoscopic retrograde cholangiopancreatography	improves	bile flow
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe pancreatitis
+endoscopic retrograde cholangiopancreatography	requires	fluoroscopic guidance
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe renal failure
+endoscopic retrograde cholangiopancreatography	uses	ERCP‑guided biopsy
+endoscopic retrograde cholangiopancreatography	reduces	biliary obstruction
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe anemia
+endoscopic retrograde cholangiopancreatography	requires	informed consent
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe infection
+endoscopic retrograde cholangiopancreatography	uses	cholangiography
+endoscopic retrograde cholangiopancreatography	improves	diagnostic yield
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe thrombocytopenia
+endoscopic retrograde cholangiopancreatography	requires	bowel prep
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe hepatic encephalopathy
+endoscopic retrograde cholangiopancreatography	uses	pancreatic duct stent
+endoscopic retrograde cholangiopancreatography	reduces	post‑procedure pancreatitis
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe cardiopulmonary instability
+endoscopic retrograde cholangiopancreatography	requires	skilled anesthesia
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe coagulopathy
+endoscopic retrograde cholangiopancreatography	uses	sphincterotomy
+endoscopic retrograde cholangiopancreatography	improves	bile drainage
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe infection
+endoscopic retrograde cholangiopancreatography	requires	fluoroscopy
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe hepatic failure
+endoscopic retrograde cholangiopancreatography	uses	biliary stent
+endoscopic retrograde cholangiopancreatography	reduces	biliary obstruction
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe thrombocytopenia
+endoscopic retrograde cholangiopancreatography	requires	informed consent
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe infection
+endoscopic retrograde cholangiopancreatography	uses	cholangiography
+endoscopic retrograde cholangiopancreatography	improves	diagnostic accuracy
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe renal failure
+endoscopic retrograde cholangiopancreatography	requires	bowel preparation
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe anemia
+endoscopic retrograde cholangiopancreatography	uses	ERCP‑guided biopsy
+endoscopic retrograde cholangiopancreatography	reduces	biliary obstruction
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe cardiopulmonary disease
+endoscopic retrograde cholangiopancreatography	requires	skilled endoscopist
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe hepatic encephalopathy
+endoscopic retrograde cholangiopancreatography	uses	pancreatic duct stent
+endoscopic retrograde cholangiopancreatography	reduces	post‑procedure pancreatitis
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe infection
+endoscopic retrograde cholangiopancreatography	requires	fluoroscopic guidance
+endoscopic retrograde cholangiopancreatography	contraindicated in	severe renal failure
+endoscopic retrograde cholangiopancreatography	uses	biliary stent
+endoscopic retrograde cholangiopancreatography	reduces	biliary obstruction

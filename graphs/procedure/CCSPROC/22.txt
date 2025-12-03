@@ -1,0 +1,100 @@
+tympanoplasty	is a	surgical procedure
+tympanoplasty	treats	hearing loss
+tympanoplasty	repairs	tympanic membrane
+tympanoplasty	improves	sound conduction
+tympanoplasty	reduces	ear infections
+tympanoplasty	performed	by otolaryngologist
+tympanoplasty	uses	graft material
+tympanoplasty	can be	open approach
+tympanoplasty	can be	endoscopic approach
+tympanoplasty	requires	local anesthesia
+tympanoplasty	may need	general anesthesia
+tympanoplasty	has	postoperative pain
+tympanoplasty	leads to	scar tissue
+tympanoplasty	risks	bleeding
+tympanoplasty	risks	infection
+tympanoplasty	risks	graft failure
+tympanoplasty	improves	speech intelligibility
+tympanoplasty	benefits	pediatric patients
+tympanoplasty	benefits	adult patients
+tympanoplasty	contraindicated	in active infection
+tympanoplasty	contraindicated	in uncontrolled diabetes
+tympanoplasty	contraindicated	in severe anemia
+tympanoplasty	indicated	in cholesteatoma
+tympanoplasty	indicated	in chronic otitis media
+tympanoplasty	indicated	in tympanic membrane perforation
+tympanoplasty	indicated	in eustachian tube dysfunction
+tympanoplasty	indicated	in ossicular chain disruption
+tympanoplasty	indicated	in tympanosclerosis
+tympanoplasty	indicated	in tympanic membrane retraction
+tympanoplasty	indicated	in tympanic membrane retraction pockets
+tympanoplasty	indicated	in tympanic membrane retraction with cholesteatoma
+tympanoplasty	indicated	in tympanic membrane perforation >50%
+tympanoplasty	indicated	in tympanic membrane perforation >6 months
+tympanoplasty	indicated	in tympanic membrane perforation >2 cm
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss >30 dB
+tympanoplasty	indicated	in tympanic membrane perforation with conductive hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with sensorineural hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with mixed hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea
+tympanoplasty	indicated	in tympanic membrane perforation with vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo and tinnitus and otalgia and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with vertigo and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss and vertigo
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and vertigo and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss and vertigo and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with hearing loss and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with vertigo and tinnitus and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss and vertigo and tinnitus
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss and vertigo and otalgia
+tympanoplasty	indicated	in tympanic membrane perforation with otorrhea and hearing loss and tinnitus and otalgia

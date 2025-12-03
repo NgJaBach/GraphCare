@@ -1,0 +1,100 @@
+cancer chemotherapy	is a	treatment
+cancer chemotherapy	treats	malignant tumors
+cancer chemotherapy	uses	cytotoxic drugs
+cancer chemotherapy	reduces	tumor size
+cancer chemotherapy	causes	nausea
+cancer chemotherapy	causes	hair loss
+cancer chemotherapy	causes	immunosuppression
+cancer chemotherapy	increases	infection risk
+cancer chemotherapy	improves	survival rate
+cancer chemotherapy	is given	intravenously
+cancer chemotherapy	can be	adjuvant
+cancer chemotherapy	can be	neoadjuvant
+cancer chemotherapy	can be	palliative
+cancer chemotherapy	is monitored	blood counts
+cancer chemotherapy	is monitored	liver function
+cancer chemotherapy	is monitored	kidney function
+cancer chemotherapy	is adjusted	dosage
+cancer chemotherapy	is scheduled	cycles
+cancer chemotherapy	is combined	radiation therapy
+cancer chemotherapy	is combined	targeted therapy
+cancer chemotherapy	is combined	immunotherapy
+cancer chemotherapy	is contraindicated	pregnancy
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	uncontrolled infection
+cancer chemotherapy	is contraindicated	severe liver disease
+cancer chemotherapy	is contraindicated	severe kidney disease
+cancer chemotherapy	is contraindicated	hypersensitivity
+cancer chemotherapy	is contraindicated	recent surgery
+cancer chemotherapy	is contraindicated	bone marrow transplant
+cancer chemotherapy	is contraindicated	active tuberculosis
+cancer chemotherapy	is contraindicated	HIV with low CD4
+cancer chemotherapy	is contraindicated	uncontrolled hypertension
+cancer chemotherapy	is contraindicated	severe cardiac disease
+cancer chemotherapy	is contraindicated	severe pulmonary disease
+cancer chemotherapy	is contraindicated	severe neuropathy
+cancer chemotherapy	is contraindicated	severe mucositis
+cancer chemotherapy	is contraindicated	severe dermatitis
+cancer chemotherapy	is contraindicated	severe gastrointestinal bleeding
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia
+cancer chemotherapy	is contraindicated	severe neutropenia
+cancer chemotherapy	is contraindicated	severe liver dysfunction
+cancer chemotherapy	is contraindicated	severe kidney dysfunction
+cancer chemotherapy	is contraindicated	severe heart failure
+cancer chemotherapy	is contraindicated	severe lung disease
+cancer chemotherapy	is contraindicated	severe bone marrow suppression
+cancer chemotherapy	is contraindicated	severe allergic reaction
+cancer chemotherapy	is contraindicated	severe infection
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia
+cancer chemotherapy	is contraindicated	severe neutropenia
+cancer chemotherapy	is contraindicated	severe liver dysfunction
+cancer chemotherapy	is contraindicated	severe kidney dysfunction
+cancer chemotherapy	is contraindicated	severe heart failure
+cancer chemotherapy	is contraindicated	severe lung disease
+cancer chemotherapy	is contraindicated	severe bone marrow suppression
+cancer chemotherapy	is contraindicated	severe allergic reaction
+cancer chemotherapy	is contraindicated	severe infection
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia
+cancer chemotherapy	is contraindicated	severe neutropenia
+cancer chemotherapy	is contraindicated	severe liver dysfunction
+cancer chemotherapy	is contraindicated	severe kidney dysfunction
+cancer chemotherapy	is contraindicated	severe heart failure
+cancer chemotherapy	is contraindicated	severe lung disease
+cancer chemotherapy	is contraindicated	severe bone marrow suppression
+cancer chemotherapy	is contraindicated	severe allergic reaction
+cancer chemotherapy	is contraindicated	severe infection
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia
+cancer chemotherapy	is contraindicated	severe neutropenia
+cancer chemotherapy	is contraindicated	severe liver dysfunction
+cancer chemotherapy	is contraindicated	severe kidney dysfunction
+cancer chemotherapy	is contraindicated	severe heart failure
+cancer chemotherapy	is contraindicated	severe lung disease
+cancer chemotherapy	is contraindicated	severe bone marrow suppression
+cancer chemotherapy	is contraindicated	severe allergic reaction
+cancer chemotherapy	is contraindicated	severe infection
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia
+cancer chemotherapy	is contraindicated	severe neutropenia
+cancer chemotherapy	is contraindicated	severe liver dysfunction
+cancer chemotherapy	is contraindicated	severe kidney dysfunction
+cancer chemotherapy	is contraindicated	severe heart failure
+cancer chemotherapy	is contraindicated	severe lung disease
+cancer chemotherapy	is contraindicated	severe bone marrow suppression
+cancer chemotherapy	is contraindicated	severe allergic reaction
+cancer chemotherapy	is contraindicated	severe infection
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia
+cancer chemotherapy	is contraindicated	severe neutropenia
+cancer chemotherapy	is contraindicated	severe liver dysfunction
+cancer chemotherapy	is contraindicated	severe kidney dysfunction
+cancer chemotherapy	is contraindicated	severe heart failure
+cancer chemotherapy	is contraindicated	severe lung disease
+cancer chemotherapy	is contraindicated	severe bone marrow suppression
+cancer chemotherapy	is contraindicated	severe allergic reaction
+cancer chemotherapy	is contraindicated	severe infection
+cancer chemotherapy	is contraindicated	severe anemia
+cancer chemotherapy	is contraindicated	severe thrombocytopenia

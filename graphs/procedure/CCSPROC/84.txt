@@ -1,0 +1,100 @@
+cholecystectomy	is a	surgical procedure
+cholecystectomy	removes	gallbladder
+cholecystectomy	treats	gallstones
+cholecystectomy	treats	cholecystitis
+cholecystectomy	reduces	biliary pain
+cholecystectomy	requires	anesthesia
+cholecystectomy	performed via	laparoscopic approach
+cholecystectomy	performed via	open approach
+cholecystectomy	has	postoperative complications
+cholecystectomy	increases	risk of bile duct injury
+cholecystectomy	increases	risk of infection
+cholecystectomy	increases	risk of bleeding
+cholecystectomy	reduces	risk of gallbladder cancer
+cholecystectomy	reduces	risk of pancreatitis
+cholecystectomy	improves	quality of life
+cholecystectomy	requires	hospital stay
+cholecystectomy	requires	postoperative pain control
+cholecystectomy	requires	early ambulation
+cholecystectomy	requires	dietary modification
+cholecystectomy	requires	follow‑up imaging
+cholecystectomy	is indicated by	RUQ pain
+cholecystectomy	is indicated by	abnormal LFTs
+cholecystectomy	is indicated by	ultrasound findings
+cholecystectomy	is indicated by	ERCP findings
+cholecystectomy	is indicated by	cholecystitis diagnosis
+common duct exploration	is a	surgical procedure
+common duct exploration	removes	common bile duct stones
+common duct exploration	treats	choledocholithiasis
+common duct exploration	reduces	jaundice
+common duct exploration	reduces	cholangitis
+common duct exploration	requires	intraoperative cholangiography
+common duct exploration	requires	bile duct clearance
+common duct exploration	requires	stent placement
+common duct exploration	requires	postoperative imaging
+common duct exploration	has	postoperative complications
+common duct exploration	increases	risk of bile leak
+common duct exploration	increases	risk of pancreatitis
+common duct exploration	increases	risk of infection
+common duct exploration	increases	risk of bleeding
+common duct exploration	reduces	recurrence of stones
+common duct exploration	reduces	need for ERCP
+common duct exploration	improves	liver function
+common duct exploration	improves	patient comfort
+common duct exploration	is indicated by	abnormal bilirubin
+common duct exploration	is indicated by	dilated CBD on imaging
+common duct exploration	is indicated by	failed ERCP
+common duct exploration	is indicated by	cholangiogram findings
+cholecystectomy	is combined with	common duct exploration
+combined procedure	reduces	total operative time
+combined procedure	reduces	hospital stay
+combined procedure	reduces	cost
+combined procedure	increases	surgical complexity
+combined procedure	increases	risk of bile duct injury
+combined procedure	increases	risk of infection
+combined procedure	increases	risk of pancreatitis
+combined procedure	requires	experienced surgeon
+combined procedure	requires	advanced imaging
+combined procedure	requires	intraoperative cholangiography
+combined procedure	requires	postoperative monitoring
+combined procedure	requires	early ambulation
+combined procedure	requires	pain management
+combined procedure	requires	dietary counseling
+combined procedure	requires	follow‑up imaging
+combined procedure	improves	patient outcomes
+combined procedure	improves	stone clearance
+combined procedure	improves	quality of life
+combined procedure	improves	reduces readmission
+combined procedure	improves	reduces mortality
+combined procedure	improves	reduces complications
+cholecystectomy	predicts	postoperative pain level
+cholecystectomy	predicts	length of stay
+cholecystectomy	predicts	readmission risk
+cholecystectomy	predicts	mortality risk
+common duct exploration	predicts	bile leak risk
+common duct exploration	predicts	pancreatitis risk
+common duct exploration	predicts	readmission risk
+common duct exploration	predicts	mortality risk
+combined procedure	predicts	overall complication rate
+combined procedure	predicts	postoperative liver function
+combined procedure	predicts	stone recurrence
+combined procedure	predicts	patient satisfaction
+cholecystectomy	contraindicated by	severe cardiopulmonary disease
+cholecystectomy	contraindicated by	uncontrolled infection
+cholecystectomy	contraindicated by	pregnancy
+common duct exploration	contraindicated by	severe pancreatitis
+common duct exploration	contraindicated by	coagulopathy
+common duct exploration	contraindicated by	pregnancy
+combined procedure	contraindicated by	high surgical risk
+combined procedure	contraindicated by	severe liver disease
+cholecystectomy	benefits	patients with gallstones
+cholecystectomy	benefits	patients with cholecystitis
+common duct exploration	benefits	patients with choledocholithiasis
+common duct exploration	benefits	patients with cholangitis
+combined procedure	benefits	patients with concurrent stones
+combined procedure	benefits	patients with high stone burden
+cholecystectomy	reduces	risk of gallbladder perforation
+common duct exploration	reduces	risk of bile duct obstruction
+combined procedure	reduces	need for repeat ERCP
+combined procedure	reduces	overall morbidity
+combined procedure	reduces	overall mortality

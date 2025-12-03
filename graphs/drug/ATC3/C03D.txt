@@ -1,0 +1,100 @@
+potassium‑sparing diuretics	inhibit	sodium‑potassium pump
+potassium‑sparing diuretics	increase	urinary potassium excretion
+potassium‑sparing diuretics	decrease	serum potassium
+potassium‑sparing diuretics	treat	hypertension
+potassium‑sparing diuretics	treat	edema
+potassium‑sparing diuretics	used with	thiazide diuretics
+potassium‑sparing diuretics	reduce	risk of hyperkalemia
+potassium‑sparing diuretics	contraindicated in	renal failure
+potassium‑sparing diuretics	contraindicated in	hyperkalemia
+potassium‑sparing diuretics	contraindicated in	Addison disease
+potassium‑sparing diuretics	contraindicated in	cirrhosis
+potassium‑sparing diuretics	contraindicated in	heart failure
+potassium‑sparing diuretics	contraindicated in	pregnancy
+potassium‑sparing diuretics	contraindicated in	lactation
+potassium‑sparing diuretics	contraindicated in	severe hepatic disease
+potassium‑sparing diuretics	contraindicated in	severe hypertension
+potassium‑sparing diuretics	contraindicated in	severe edema
+potassium‑sparing diuretics	contraindicated in	severe renal impairment
+potassium‑sparing diuretics	contraindicated in	severe liver disease
+potassium‑sparing diuretics	contraindicated in	severe cardiac disease
+potassium‑sparing diuretics	contraindicated in	severe metabolic acidosis
+potassium‑sparing diuretics	contraindicated in	severe metabolic alkalosis
+potassium‑sparing diuretics	contraindicated in	severe electrolyte imbalance
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality
+potassium‑sparing diuretics	contraindicated in	severe endocrine disorder
+potassium‑sparing diuretics	contraindicated in	severe endocrine disease
+potassium‑sparing diuretics	contraindicated in	severe endocrine dysfunction
+potassium‑sparing diuretics	contraindicated in	severe endocrine pathology
+potassium‑sparing diuretics	contraindicated in	severe endocrine condition
+potassium‑sparing diuretics	contraindicated in	severe endocrine state
+potassium‑sparing diuretics	contraindicated in	severe endocrine abnormality

@@ -1,0 +1,100 @@
+anti‑acne preparations	are	drug
+anti‑acne preparations	treat	acne
+anti‑acne preparations	are	systemic
+anti‑acne preparations	include	isotretinoin
+anti‑acne preparations	include	oral antibiotics
+isotretinoin	is	retinoid
+isotretinoin	reduces	sebum
+isotretinoin	reduces	keratinization
+isotretinoin	causes	teratogenicity
+isotretinoin	requires	pregnancy test
+isotretinoin	causes	dry skin
+isotretinoin	causes	mood changes
+isotretinoin	improves	cystic acne
+isotretinoin	improves	nodular acne
+isotretinoin	improves	inflammatory acne
+oral antibiotics	include	doxycycline
+oral antibiotics	include	minocycline
+oral antibiotics	include	tetracycline
+doxycycline	reduces	inflammation
+doxycycline	reduces	bacterial load
+doxycycline	causes	photosensitivity
+doxycycline	causes	gastrointestinal upset
+minocycline	reduces	inflammation
+minocycline	causes	pigmentation
+minocycline	causes	photosensitivity
+tetracycline	reduces	inflammation
+tetracycline	causes	photosensitivity
+tetracycline	causes	gastrointestinal upset
+oral antibiotics	require	6‑month course
+oral antibiotics	contraindicated	pregnancy
+oral antibiotics	contraindicated	liver disease
+oral antibiotics	contraindicated	kidney disease
+oral antibiotics	contraindicated	age < 8
+oral antibiotics	contraindicated	age > 65
+oral antibiotics	contraindicated	antibiotic resistance
+oral antibiotics	improve	acne severity
+oral antibiotics	improve	acne lesions
+oral antibiotics	improve	acne scars
+oral antibiotics	improve	quality of life
+anti‑acne preparations	have	side effects
+side effects	include	nausea
+side effects	include	vomiting
+side effects	include	abdominal pain
+side effects	include	headache
+side effects	include	dizziness
+side effects	include	rash
+side effects	include	photosensitivity
+side effects	include	teratogenicity
+side effects	include	depression
+side effects	include	liver toxicity
+side effects	include	kidney toxicity
+side effects	include	mucosal dryness
+side effects	include	hyperlipidemia
+side effects	include	elevated liver enzymes
+side effects	include	elevated triglycerides
+side effects	include	elevated cholesterol
+side effects	include	increased risk of fractures
+side effects	include	increased risk of infections
+side effects	include	increased risk of bone loss
+side effects	include	increased risk of depression
+side effects	include	increased risk of suicide
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects
+side effects	include	increased risk of birth defects

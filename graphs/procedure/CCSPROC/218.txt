@@ -1,0 +1,100 @@
+psychological evaluation	is a	assessment
+psychiatric evaluation	is a	assessment
+evaluation	includes	history taking
+evaluation	includes	mental status exam
+evaluation	includes	symptom inventory
+evaluation	includes	collateral interview
+evaluation	includes	neuropsychological testing
+evaluation	includes	laboratory testing
+evaluation	includes	imaging
+evaluation	determines	diagnosis
+evaluation	determines	severity
+evaluation	determines	treatment plan
+evaluation	determines	prognosis
+evaluation	informs	medication choice
+evaluation	informs	psychotherapy type
+evaluation	informs	referral need
+evaluation	informs	risk assessment
+evaluation	informs	safety plan
+evaluation	informs	discharge planning
+evaluation	informs	follow‑up schedule
+evaluation	informs	insurance coverage
+evaluation	informs	patient education
+evaluation	informs	caregiver involvement
+evaluation	informs	legal status
+evaluation	informs	cultural context
+evaluation	informs	socioeconomic factors
+evaluation	informs	comorbidity screening
+evaluation	informs	substance use assessment
+evaluation	informs	sleep assessment
+evaluation	informs	nutritional assessment
+evaluation	informs	occupational assessment
+evaluation	informs	family dynamics
+evaluation	informs	school performance
+evaluation	informs	vocational status
+evaluation	informs	housing stability
+evaluation	informs	financial strain
+evaluation	informs	legal issues
+evaluation	informs	religious beliefs
+evaluation	informs	gender identity
+evaluation	informs	sexual orientation
+evaluation	informs	trauma history
+evaluation	informs	grief status
+evaluation	informs	coping style
+evaluation	informs	resilience level
+evaluation	informs	social support
+evaluation	informs	community resources
+evaluation	informs	health literacy
+evaluation	informs	language proficiency
+evaluation	informs	technology access
+evaluation	informs	transportation availability
+evaluation	informs	insurance type
+evaluation	informs	prior treatment response
+evaluation	informs	medication adherence
+evaluation	informs	side‑effect tolerance
+evaluation	informs	polypharmacy risk
+evaluation	informs	drug interactions
+evaluation	informs	pharmacogenomics
+evaluation	informs	therapeutic alliance
+evaluation	informs	patient motivation
+evaluation	informs	readiness to change
+evaluation	informs	self‑esteem level
+evaluation	informs	body image
+evaluation	informs	self‑harm risk
+evaluation	informs	suicide risk
+evaluation	informs	homicidal ideation
+evaluation	informs	psychosis risk
+evaluation	informs	mania risk
+evaluation	informs	anxiety level
+evaluation	informs	depression level
+evaluation	informs	PTSD severity
+evaluation	informs	OCD severity
+evaluation	informs	eating disorder severity
+evaluation	informs	substance use severity
+evaluation	informs	sleep disorder severity
+evaluation	informs	chronic pain severity
+evaluation	informs	functional impairment
+evaluation	informs	quality of life
+evaluation	informs	mortality risk
+evaluation	informs	readmission risk
+evaluation	informs	hospitalization risk
+evaluation	informs	emergency department use
+evaluation	informs	outpatient visit frequency
+evaluation	informs	medication cost
+evaluation	informs	adherence barriers
+evaluation	informs	stigma level
+evaluation	informs	health system navigation
+evaluation	informs	patient satisfaction
+evaluation	informs	therapeutic outcome
+evaluation	informs	treatment adherence
+evaluation	informs	relapse risk
+evaluation	informs	recovery trajectory
+evaluation	informs	functional recovery
+evaluation	informs	social integration
+evaluation	informs	vocational recovery
+evaluation	informs	housing stability
+evaluation	informs	financial stability
+evaluation	informs	legal stability
+evaluation	informs	spiritual well‑being
+evaluation	informs	community engagement
+evaluation	informs	future health goals

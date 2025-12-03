@@ -1,0 +1,200 @@
+beta blocking agents	treat	hypertension
+beta blocking agents	reduce	heart rate
+beta blocking agents	block	beta‑adrenergic receptors
+beta blocking agents	decrease	cardiac output
+beta blocking agents	lower	blood pressure
+beta blocking agents	prevent	myocardial infarction
+beta blocking agents	reduce	arrhythmia risk
+beta blocking agents	improve	survival after MI
+beta blocking agents	cause	fatigue
+beta blocking agents	cause	bradycardia
+beta blocking agents	cause	hypotension
+beta blocking agents	cause	dizziness
+beta blocking agents	cause	depression
+beta blocking agents	cause	erectile dysfunction
+beta blocking agents	cause	bronchospasm
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	contraindicated in	COPD
+beta blocking agents	contraindicated in	severe bradycardia
+beta blocking agents	contraindicated in	second‑degree AV block
+beta blocking agents	contraindicated in	heart failure
+beta blocking agents	contraindicated in	severe peripheral vascular disease
+beta blocking agents	contraindicated in	type 1 diabetes
+beta blocking agents	contraindicated in	type 2 diabetes
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+beta blocking agents	contraindicated in	lactation
+beta blocking agents	contraindicated in	severe hyperlipidemia
+beta blocking agents	contraindicated in	severe hyperthyroidism
+beta blocking agents	contraindicated in	severe hypoglycemia
+beta blocking agents	contraindicated in	severe anemia
+beta blocking agents	contraindicated in	severe hypotension
+beta blocking agents	contraindicated in	severe renal impairment
+beta blocking agents	contraindicated in	severe hepatic impairment
+beta blocking agents	contraindicated in	pregnancy
+thiazides	treat	hypertension
+thiazides	reduce	plasma volume
+thiazides	inhibit	NaCl reabsorption
+thiazides	increase	potassium excretion
+thiazides	cause	hypokalemia
+thiazides	cause	hyponatremia
+thiazides	cause	hyperglycemia
+thiazides	cause	hyperlipidemia
+thiazides	cause	hyperuricemia
+thiazides	cause	hypercalcemia
+thiazides	cause	gout flare
+thiazides	cause	photosensitivity
+thiazides	cause	dizziness
+thiazides	cause	fatigue
+thiazides	contraindicated in	severe renal impairment
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy
+thiazides	contraindicated in	lactation
+thiazides	contraindicated in	severe hypercalcemia
+thiazides	contraindicated in	severe hyperkalemia
+thiazides	contraindicated in	severe hyponatremia
+thiazides	contraindicated in	severe hypoglycemia
+thiazides	contraindicated in	severe hyperlipidemia
+thiazides	contraindicated in	severe gout
+thiazides	contraindicated in	severe photosensitivity
+thiazides	contraindicated in	severe dizziness
+thiazides	contraindicated in	severe fatigue
+thiazides	contraindicated in	severe renal failure
+thiazides	contraindicated in	pregnancy

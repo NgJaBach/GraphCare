@@ -1,0 +1,100 @@
+direct acting antivirals	target	viral replication
+direct acting antivirals	inhibit	protease
+direct acting antivirals	inhibit	polymerase
+direct acting antivirals	inhibit	integrase
+direct acting antivirals	treat	hepatitis C
+direct acting antivirals	treat	hepatitis B
+direct acting antivirals	treat	HIV
+direct acting antivirals	treat	influenza
+direct acting antivirals	treat	RSV
+direct acting antivirals	treat	COVID‑19
+direct acting antivirals	improve	virologic response
+direct acting antivirals	improve	sustained virologic response
+direct acting antivirals	reduce	liver fibrosis
+direct acting antivirals	reduce	cirrhosis risk
+direct acting antivirals	reduce	hepatocellular carcinoma risk
+direct acting antivirals	reduce	mortality
+direct acting antivirals	reduce	hospitalization
+direct acting antivirals	reduce	readmission
+direct acting antivirals	increase	quality of life
+direct acting antivirals	increase	treatment adherence
+direct acting antivirals	increase	drug‑drug interaction awareness
+direct acting antivirals	cause	nausea
+direct acting antivirals	cause	fatigue
+direct acting antivirals	cause	headache
+direct acting antivirals	cause	rash
+direct acting antivirals	cause	anemia
+direct acting antivirals	cause	thrombocytopenia
+direct acting antivirals	cause	renal impairment
+direct acting antivirals	cause	QT prolongation
+direct acting antivirals	cause	hepatotoxicity
+direct acting antivirals	cause	drug resistance
+direct acting antivirals	contraindicated	pregnancy
+direct acting antivirals	contraindicated	lactation
+direct acting antivirals	contraindicated	severe renal failure
+direct acting antivirals	contraindicated	severe hepatic failure
+direct acting antivirals	contraindicated	known hypersensitivity
+direct acting antivirals	contraindicated	concurrent use of certain antibiotics
+direct acting antivirals	contraindicated	concurrent use of certain antifungals
+direct acting antivirals	contraindicated	concurrent use of certain antivirals
+direct acting antivirals	contraindicated	concurrent use of certain immunosuppressants
+direct acting antivirals	contraindicated	concurrent use of certain chemotherapeutics
+direct acting antivirals	contraindicated	concurrent use of certain anticoagulants
+direct acting antivirals	contraindicated	concurrent use of certain antiarrhythmics
+direct acting antivirals	contraindicated	concurrent use of certain antiepileptics
+direct acting antivirals	contraindicated	concurrent use of certain antipsychotics
+direct acting antivirals	contraindicated	concurrent use of certain steroids
+direct acting antivirals	contraindicated	concurrent use of certain biologics
+direct acting antivirals	contraindicated	concurrent use of certain vaccines
+direct acting antivirals	contraindicated	concurrent use of certain herbal supplements
+direct acting antivirals	contraindicated	concurrent use of certain over‑the‑counter drugs
+direct acting antivirals	contraindicated	concurrent use of certain dietary supplements
+direct acting antivirals	contraindicated	concurrent use of certain analgesics
+direct acting antivirals	contraindicated	concurrent use of certain antipyretics
+direct acting antivirals	contraindicated	concurrent use of certain antihypertensives
+direct acting antivirals	contraindicated	concurrent use of certain lipid‑lowering agents
+direct acting antivirals	contraindicated	concurrent use of certain antidiabetics
+direct acting antivirals	contraindicated	concurrent use of certain antithrombotics
+direct acting antivirals	contraindicated	concurrent use of certain antimalarials
+direct acting antivirals	contraindicated	concurrent use of certain antituberculars
+direct acting antivirals	contraindicated	concurrent use of certain antineoplastics
+direct acting antivirals	contraindicated	concurrent use of certain immunomodulators
+direct acting antivirals	contraindicated	concurrent use of certain anti‑inflammatories
+direct acting antivirals	contraindicated	concurrent use of certain anti‑allergics
+direct acting antivirals	contraindicated	concurrent use of certain anti‑obesity drugs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑cancer drugs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑infectives
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral drugs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑bacterial drugs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑fungal drugs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑parasitic drugs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral agents
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral medications
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral therapies
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral treatments
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral regimens
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral protocols
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral courses
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral programs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral plans
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral strategies
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral approaches
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral methods
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral techniques
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral modalities
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral mechanisms
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral systems
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral platforms
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral frameworks
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral models
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral concepts
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral theories
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral hypotheses
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral assumptions
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral beliefs
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral convictions
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral judgments
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral opinions
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral viewpoints
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral perspectives
+direct acting antivirals	contraindicated	concurrent use of certain anti‑viral stances

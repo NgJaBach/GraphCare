@@ -1,0 +1,100 @@
+progestogens and estrogens	are	hormone therapy
+hormone therapy	treats	menopausal symptoms
+menopausal symptoms	include	hot flashes
+hormone therapy	reduces	bone loss
+bone loss	causes	osteoporosis
+hormone therapy	lowers	fracture risk
+fracture risk	increases	mortality
+hormone therapy	improves	cardiovascular health
+cardiovascular health	reduces	heart attack
+heart attack	leads to	mortality
+hormone therapy	may increase	breast cancer risk
+breast cancer	causes	mortality
+hormone therapy	may increase	endometrial cancer risk
+endometrial cancer	causes	mortality
+hormone therapy	may increase	stroke risk
+stroke	causes	disability
+hormone therapy	may increase	venous thromboembolism
+venous thromboembolism	causes	pulmonary embolism
+pulmonary embolism	causes	mortality
+hormone therapy	may improve	sexual function
+sexual function	improves	quality of life
+quality of life	reduces	depression
+depression	leads to	suicide risk
+hormone therapy	may improve	mood
+mood	reduces	anxiety
+anxiety	leads to	sleep disturbance
+sleep disturbance	causes	fatigue
+fatigue	reduces	work productivity
+work productivity	reduces	economic output
+hormone therapy	may reduce	urinary incontinence
+urinary incontinence	improves	self‑esteem
+self‑esteem	reduces	social isolation
+social isolation	increases	mortality
+hormone therapy	may reduce	vaginal dryness
+vaginal dryness	improves	sexual satisfaction
+sexual satisfaction	reduces	relationship conflict
+relationship conflict	leads to	divorce
+divorce	increases	financial strain
+financial strain	causes	medication non‑adherence
+medication non‑adherence	leads to	disease progression
+disease progression	increases	readmission risk
+readmission risk	increases	healthcare cost
+hormone therapy	may reduce	hot flashes
+hot flashes	improve	sleep quality
+sleep quality	reduces	daytime somnolence
+daytime somnolence	causes	motor vehicle accidents
+motor vehicle accidents	increase	injury risk
+injury risk	leads to	hospitalization
+hospitalization	increases	readmission risk
+hormone therapy	may reduce	vaginal atrophy
+vaginal atrophy	improves	urinary symptoms
+urinary symptoms	reduce	urinary tract infections
+urinary tract infections	cause	hospitalization
+hormone therapy	may reduce	osteoporosis
+osteoporosis	reduces	fracture risk
+fracture risk	reduces	disability
+disability	increases	caregiver burden
+caregiver burden	leads to	caregiver depression
+caregiver depression	increases	healthcare utilization
+hormone therapy	may reduce	cardiovascular events
+cardiovascular events	reduce	mortality
+mortality	reduces	life expectancy
+life expectancy	increases	population aging
+population aging	increases	demand for geriatric care
+geriatric care	requires	multidisciplinary teams
+multidisciplinary teams	improve	care coordination
+care coordination	reduces	readmission
+readmission	reduces	healthcare cost
+hormone therapy	may increase	liver enzyme elevation
+liver enzyme elevation	leads to	hepatotoxicity
+hepatotoxicity	causes	hospitalization
+hospitalization	increases	readmission
+hormone therapy	may increase	gastric irritation
+gastric irritation	causes	dyspepsia
+dyspepsia	leads to	medication discontinuation
+medication discontinuation	increases	symptom recurrence
+symptom recurrence	increases	healthcare visits
+healthcare visits	increase	cost
+hormone therapy	may improve	bone mineral density
+bone mineral density	reduces	fracture risk
+fracture risk	reduces	mortality
+mortality	reduces	life expectancy
+life expectancy	increases	population health
+population health	improves	public health metrics
+public health metrics	guide	policy decisions
+policy decisions	affect	insurance coverage
+insurance coverage	influences	medication adherence
+medication adherence	predicts	treatment success
+treatment success	reduces	disease burden
+disease burden	lowers	societal costs
+societal costs	free resources	for research
+research	advances	drug development
+drug development	leads to	new therapies
+new therapies	improve	patient outcomes
+patient outcomes	reduce	mortality
+mortality	decreases	healthcare utilization
+healthcare utilization	lowers	readmission
+readmission	reduces	quality of life
+quality of life	improves	patient satisfaction
+patient satisfaction	boosts	adherence

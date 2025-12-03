@@ -1,0 +1,100 @@
+antifungals	treat	systemic fungal infections
+antifungals	include	azoles
+antifungals	include	echinocandins
+antifungals	include	polyenes
+antifungals	include	allylamines
+azoles	inhibit	ergosterol synthesis
+azoles	target	lanosterol 14‑α‑demethylase
+azoles	cause	hepatotoxicity
+azoles	cause	QT prolongation
+azoles	interact with	CYP3A4 inhibitors
+azoles	interact with	CYP3A4 inducers
+azoles	used for	candidiasis
+azoles	used for	aspergillosis
+azoles	used for	cryptococcosis
+azoles	used for	histoplasmosis
+azoles	used for	blastomycosis
+azoles	used for	endemic mycoses
+azoles	used for	mucormycosis
+azoles	used for	zygomycosis
+azoles	used for	dermatophytosis
+azoles	used for	onychomycosis
+azoles	used for	tinea versicolor
+azoles	used for	pityriasis versicolor
+azoles	used for	pityriasis rosea
+azoles	used for	pityriasis alba
+azoles	used for	pityriasis rubra
+azoles	used for	pityriasis lichenoides
+azoles	used for	pityriasis folliculitis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis granulomatosa
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis
+azoles	used for	pityriasis nodularis

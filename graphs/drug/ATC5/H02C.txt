@@ -1,0 +1,100 @@
+antiadrenal preparations	are	drugs
+antiadrenal preparations	treat	adrenal insufficiency
+antiadrenal preparations	contain	corticosteroids
+antiadrenal preparations	include	hydrocortisone
+antiadrenal preparations	include	prednisone
+antiadrenal preparations	include	dexamethasone
+antiadrenal preparations	are	anti‑inflammatory agents
+antiadrenal preparations	reduce	inflammation
+antiadrenal preparations	suppress	immune response
+antiadrenal preparations	used in	asthma
+antiadrenal preparations	used in	COPD
+antiadrenal preparations	used in	rheumatoid arthritis
+antiadrenal preparations	used in	lupus
+antiadrenal preparations	used in	transplant rejection
+antiadrenal preparations	used in	allergic reactions
+antiadrenal preparations	used in	skin disorders
+antiadrenal preparations	used in	gastrointestinal disorders
+antiadrenal preparations	used in	endocrine disorders
+antiadrenal preparations	used in	neuromuscular disorders
+antiadrenal preparations	used in	ocular inflammation
+antiadrenal preparations	used in	uveitis
+antiadrenal preparations	used in	pericarditis
+antiadrenal preparations	used in	vasculitis
+antiadrenal preparations	used in	sepsis
+antiadrenal preparations	used in	shock
+antiadrenal preparations	used in	trauma
+antiadrenal preparations	used in	burns
+antiadrenal preparations	used in	critical illness
+antiadrenal preparations	used in	cancer therapy
+antiadrenal preparations	used in	chemotherapy
+antiadrenal preparations	used in	radiotherapy
+antiadrenal preparations	used in	organ failure
+antiadrenal preparations	used in	endocrine crisis
+antiadrenal preparations	used in	adrenal crisis
+antiadrenal preparations	used in	Addison’s disease
+antiadrenal preparations	used in	Cushing’s syndrome
+antiadrenal preparations	used in	congenital adrenal hyperplasia
+antiadrenal preparations	used in	adrenal tumors
+antiadrenal preparations	used in	adrenalectomy
+antiadrenal preparations	used in	pituitary disorders
+antiadrenal preparations	used in	thyroid disorders
+antiadrenal preparations	used in	diabetes
+antiadrenal preparations	used in	hypertension
+antiadrenal preparations	used in	heart failure
+antiadrenal preparations	used in	renal disease
+antiadrenal preparations	used in	liver disease
+antiadrenal preparations	used in	pregnancy
+antiadrenal preparations	used in	lactation
+antiadrenal preparations	used in	pediatric care
+antiadrenal preparations	used in	geriatric care
+antiadrenal preparations	administered	orally
+antiadrenal preparations	administered	intravenously
+antiadrenal preparations	administered	intramuscularly
+antiadrenal preparations	administered	subcutaneously
+antiadrenal preparations	administered	inhalation
+antiadrenal preparations	administered	topical
+antiadrenal preparations	dosage	depends on condition
+antiadrenal preparations	dosage	adjusted for age
+antiadrenal preparations	dosage	adjusted for weight
+antiadrenal preparations	dosage	adjusted for renal function
+antiadrenal preparations	dosage	adjusted for hepatic function
+antiadrenal preparations	dosage	adjusted for pregnancy
+antiadrenal preparations	dosage	adjusted for lactation
+antiadrenal preparations	side effects	include	weight gain
+antiadrenal preparations	side effects	include	hypertension
+antiadrenal preparations	side effects	include	hyperglycemia
+antiadrenal preparations	side effects	include	osteoporosis
+antiadrenal preparations	side effects	include	mood changes
+antiadrenal preparations	side effects	include	insomnia
+antiadrenal preparations	side effects	include	GI ulcer
+antiadrenal preparations	side effects	include	infection risk
+antiadrenal preparations	side effects	include	adrenal suppression
+antiadrenal preparations	side effects	include	Cushingoid appearance
+antiadrenal preparations	side effects	include	cataracts
+antiadrenal preparations	side effects	include	glaucoma
+antiadrenal preparations	side effects	include	skin thinning
+antiadrenal preparations	side effects	include	muscle weakness
+antiadrenal preparations	side effects	include	electrolyte imbalance
+antiadrenal preparations	side effects	include	mood swings
+antiadrenal preparations	contraindicated	in	active infection
+antiadrenal preparations	contraindicated	in	uncontrolled diabetes
+antiadrenal preparations	contraindicated	in	severe hypertension
+antiadrenal preparations	contraindicated	in	peptic ulcer
+antiadrenal preparations	contraindicated	in	pregnancy category C
+antiadrenal preparations	contraindicated	in	lactation
+antiadrenal preparations	contraindicated	in	severe osteoporosis
+antiadrenal preparations	contraindicated	in	adrenal crisis
+antiadrenal preparations	contraindicated	in	severe liver disease
+antiadrenal preparations	contraindicated	in	severe renal disease
+antiadrenal preparations	monitoring	requires	blood pressure
+antiadrenal preparations	monitoring	requires	blood glucose
+antiadrenal preparations	monitoring	requires	bone density
+antiadrenal preparations	monitoring	requires	serum electrolytes
+antiadrenal preparations	monitoring	requires	adrenal function
+antiadrenal preparations	monitoring	requires	infection signs
+antiadrenal preparations	monitoring	requires	ocular pressure
+antiadrenal preparations	monitoring	requires	mental status
+antiadrenal preparations	monitoring	requires	weight
+antiadrenal preparations	monitoring	requires	liver enzymes
+antiadrenal preparations	monitoring	requires	renal function

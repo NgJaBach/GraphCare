@@ -1,0 +1,100 @@
+vasodilators	treat	hypertension
+vasodilators	treat	angina
+vasodilators	treat	heart failure
+vasodilators	improve	cardiac output
+vasodilators	reduce	afterload
+vasodilators	reduce	preload
+vasodilators	lower	blood pressure
+vasodilators	lower	systemic vascular resistance
+vasodilators	lower	pulmonary vascular resistance
+vasodilators	increase	coronary perfusion
+vasodilators	decrease	myocardial oxygen demand
+vasodilators	cause	reflex tachycardia
+vasodilators	cause	headache
+vasodilators	cause	flushing
+vasodilators	cause	dizziness
+vasodilators	cause	hypotension
+vasodilators	contraindicated in	severe aortic stenosis
+vasodilators	contraindicated in	uncontrolled arrhythmias
+vasodilators	contraindicated in	pregnancy
+vasodilators	contraindicated in	renal failure
+vasodilators	contraindicated in	hepatic failure
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute myocardial infarction
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	severe renal impairment
+vasodilators	contraindicated in	severe hepatic impairment
+vasodilators	contraindicated in	severe anemia
+vasodilators	contraindicated in	severe hypovolemia
+vasodilators	contraindicated in	severe hypotension
+vasodilators	contraindicated in	acute heart failure
+vasodilators	contraindicated in	severe bradycardia
+vasodilators	contraindicated in	severe heart block
+vasodilators	contraindicated in	severe hypotension

@@ -1,0 +1,100 @@
+lipid modifying agents	are	drugs
+lipid modifying agents	treat	hyperlipidemia
+lipid modifying agents	reduce	LDL‑cholesterol
+lipid modifying agents	increase	HDL‑cholesterol
+lipid modifying agents	lower	triglycerides
+lipid modifying agents	prevent	atherosclerosis
+lipid modifying agents	reduce	cardiovascular risk
+lipid modifying agents	include	statins
+lipid modifying agents	include	fibrates
+lipid modifying agents	include	niacin
+lipid modifying agents	include	bile‑acid sequestrants
+lipid modifying agents	include	PCSK9 inhibitors
+statins	inhibit	HMG‑CoA reductase
+statins	cause	myopathy
+statins	cause	hepatotoxicity
+statins	improve	endothelial function
+statins	reduce	plaque burden
+fibrates	activate	PPAR‑α
+fibrates	lower	VLDL
+fibrates	cause	gallstones
+niacin	raise	HDL‑cholesterol
+niacin	cause	flushing
+bile‑acid sequestrants	bind	bile acids
+bile‑acid sequestrants	increase	LDL‑receptor expression
+PCSK9 inhibitors	block	PCSK9
+PCSK9 inhibitors	increase	LDL‑receptor recycling
+PCSK9 inhibitors	reduce	LDL‑cholesterol by 60%
+PCSK9 inhibitors	are	monoclonal antibodies
+lipid modifying agents	are	first‑line therapy
+lipid modifying agents	are	second‑line therapy
+lipid modifying agents	are	adjunct therapy
+lipid modifying agents	are	preventive medicine
+lipid modifying agents	are	chronic therapy
+lipid modifying agents	are	oral medications
+lipid modifying agents	are	injectable medications
+lipid modifying agents	are	prescription drugs
+lipid modifying agents	are	over‑the‑counter drugs
+lipid modifying agents	are	lifestyle supplements
+lipid modifying agents	are	nutraceuticals
+lipid modifying agents	are	dietary interventions
+lipid modifying agents	are	exercise programs
+lipid modifying agents	are	weight‑loss programs
+lipid modifying agents	are	smoking‑cessation aids
+lipid modifying agents	are	blood‑pressure medications
+lipid modifying agents	are	antidiabetic drugs
+lipid modifying agents	are	anti‑inflammatory drugs
+lipid modifying agents	are	anticoagulants
+lipid modifying agents	are	antiplatelet agents
+lipid modifying agents	are	beta‑blockers
+lipid modifying agents	are	ACE inhibitors
+lipid modifying agents	are	ARBs
+lipid modifying agents	are	calcium‑channel blockers
+lipid modifying agents	are	diuretics
+lipid modifying agents	are	statin‑resistant drugs
+lipid modifying agents	are	statin‑intolerant drugs
+lipid modifying agents	are	combination therapies
+lipid modifying agents	are	fixed‑dose combinations
+lipid modifying agents	are	generic drugs
+lipid modifying agents	are	brand‑name drugs
+lipid modifying agents	are	drug classes
+lipid modifying agents	are	pharmacologic agents
+lipid modifying agents	are	therapeutic agents
+lipid modifying agents	are	prescription medications
+lipid modifying agents	are	drug therapies
+lipid modifying agents	are	cholesterol‑lowering drugs
+lipid modifying agents	are	triglyceride‑lowering drugs
+lipid modifying agents	are	lipid‑modifying agents
+lipid modifying agents	are	lipid‑lowering agents
+lipid modifying agents	are	lipid‑modifying therapy
+lipid modifying agents	are	lipid‑modifying medication
+lipid modifying agents	are	lipid‑modifying prescription
+lipid modifying agents	are	lipid‑modifying treatment
+lipid modifying agents	are	lipid‑modifying regimen
+lipid modifying agents	are	lipid‑modifying protocol
+lipid modifying agents	are	lipid‑modifying plan
+lipid modifying agents	are	lipid‑modifying strategy
+lipid modifying agents	are	lipid‑modifying approach
+lipid modifying agents	are	lipid‑modifying program
+lipid modifying agents	are	lipid‑modifying intervention
+lipid modifying agents	are	lipid‑modifying measure
+lipid modifying agents	are	lipid‑modifying action
+lipid modifying agents	are	lipid‑modifying step
+lipid modifying agents	are	lipid‑modifying component
+lipid modifying agents	are	lipid‑modifying element
+lipid modifying agents	are	lipid‑modifying factor
+lipid modifying agents	are	lipid‑modifying variable
+lipid modifying agents	are	lipid‑modifying parameter
+lipid modifying agents	are	lipid‑modifying indicator
+lipid modifying agents	are	lipid‑modifying marker
+lipid modifying agents	are	lipid‑modifying predictor
+lipid modifying agents	are	lipid‑modifying outcome
+lipid modifying agents	are	lipid‑modifying endpoint
+lipid modifying agents	are	lipid‑modifying goal
+lipid modifying agents	are	lipid‑modifying target
+lipid modifying agents	are	lipid‑modifying objective
+lipid modifying agents	are	lipid‑modifying aim
+lipid modifying agents	are	lipid‑modifying purpose
+lipid modifying agents	are	lipid‑modifying function
+lipid modifying agents	are	lipid‑modifying role
+lipid modifying agents	are	lipid‑modifying responsibility

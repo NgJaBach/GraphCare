@@ -1,0 +1,100 @@
+antiinflammatory agents	treat	arthritis
+antirheumatic agents	treat	rheumatoid arthritis
+combination therapy	reduces	disease activity
+combination therapy	lowers	flare frequency
+combination therapy	improves	joint function
+antiinflammatory agents	inhibit	cyclooxygenase
+antirheumatic agents	inhibit	TNF‑α
+combination therapy	increases	remission rate
+combination therapy	decreases	radiographic progression
+combination therapy	reduces	corticosteroid dose
+antiinflammatory agents	cause	gastrointestinal ulcer
+antirheumatic agents	cause	infection risk
+combination therapy	increases	adverse event risk
+combination therapy	improves	quality of life
+antiinflammatory agents	are	NSAIDs
+antirheumatic agents	are	biologics
+combination therapy	includes	methotrexate
+combination therapy	includes	sulfasalazine
+combination therapy	includes	hydroxychloroquine
+combination therapy	includes	leflunomide
+combination therapy	includes	TNF‑α inhibitors
+combination therapy	includes	IL‑6 inhibitors
+combination therapy	includes	JAK inhibitors
+combination therapy	includes	corticosteroids
+combination therapy	includes	NSAIDs
+combination therapy	improves	functional status
+combination therapy	reduces	work absenteeism
+combination therapy	reduces	disability index
+combination therapy	reduces	mortality risk
+combination therapy	reduces	cardiovascular events
+combination therapy	reduces	bone erosion
+combination therapy	reduces	pain score
+combination therapy	reduces	swelling
+combination therapy	reduces	stiffness
+combination therapy	reduces	fatigue
+combination therapy	reduces	anemia
+combination therapy	reduces	anemia risk
+combination therapy	reduces	anemia severity
+combination therapy	reduces	anemia incidence
+combination therapy	reduces	anemia prevalence
+combination therapy	reduces	anemia burden
+combination therapy	reduces	anemia complications
+combination therapy	reduces	anemia outcomes
+combination therapy	reduces	anemia mortality
+combination therapy	reduces	anemia morbidity
+combination therapy	reduces	anemia hospitalization
+combination therapy	reduces	anemia readmission
+combination therapy	reduces	anemia relapse
+combination therapy	reduces	anemia flare
+combination therapy	reduces	anemia progression
+combination therapy	reduces	anemia deterioration
+combination therapy	reduces	anemia risk factors
+combination therapy	reduces	anemia triggers
+combination therapy	reduces	anemia causes
+combination therapy	reduces	anemia symptoms
+combination therapy	reduces	anemia signs
+combination therapy	reduces	anemia laboratory values
+combination therapy	reduces	anemia hemoglobin
+combination therapy	reduces	anemia hematocrit
+combination therapy	reduces	anemia ferritin
+combination therapy	reduces	anemia transferrin
+combination therapy	reduces	anemia iron
+combination therapy	reduces	anemia erythropoietin
+combination therapy	reduces	anemia reticulocyte
+combination therapy	reduces	anemia platelet
+combination therapy	reduces	anemia white blood cell
+combination therapy	reduces	anemia red blood cell
+combination therapy	reduces	anemia mean corpuscular volume
+combination therapy	reduces	anemia mean corpuscular hemoglobin
+combination therapy	reduces	anemia mean corpuscular hemoglobin concentration
+combination therapy	reduces	anemia red cell distribution width
+combination therapy	reduces	anemia hemoglobinopathy
+combination therapy	reduces	anemia hemoglobin variant
+combination therapy	reduces	anemia hemoglobin level
+combination therapy	reduces	anemia hemoglobin concentration
+combination therapy	reduces	anemia hemoglobin content
+combination therapy	reduces	anemia hemoglobin synthesis
+combination therapy	reduces	anemia hemoglobin production
+combination therapy	reduces	anemia hemoglobin degradation
+combination therapy	reduces	anemia hemoglobin turnover
+combination therapy	reduces	anemia hemoglobin loss
+combination therapy	reduces	anemia hemoglobin deficiency
+combination therapy	reduces	anemia hemoglobin insufficiency
+combination therapy	reduces	anemia hemoglobin shortage
+combination therapy	reduces	anemia hemoglobin depletion
+combination therapy	reduces	anemia hemoglobin depletion risk
+combination therapy	reduces	anemia hemoglobin depletion severity
+combination therapy	reduces	anemia hemoglobin depletion incidence
+combination therapy	reduces	anemia hemoglobin depletion prevalence
+combination therapy	reduces	anemia hemoglobin depletion burden
+combination therapy	reduces	anemia hemoglobin depletion complications
+combination therapy	reduces	anemia hemoglobin depletion outcomes
+combination therapy	reduces	anemia hemoglobin depletion mortality
+combination therapy	reduces	anemia hemoglobin depletion morbidity
+combination therapy	reduces	anemia hemoglobin depletion hospitalization
+combination therapy	reduces	anemia hemoglobin depletion readmission
+combination therapy	reduces	anemia hemoglobin depletion relapse
+combination therapy	reduces	anemia hemoglobin depletion flare
+combination therapy	reduces	anemia hemoglobin depletion progression
+combination therapy	reduces	anemia hemoglobin depletion deterioration

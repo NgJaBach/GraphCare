@@ -1,0 +1,100 @@
+propulsives	are	chemicals
+propulsives	used in	rockets
+propulsives	generate	thrust
+propulsives	contain	oxidizers
+propulsives	contain	fuels
+propulsives	produce	combustion
+combustion	releases	energy
+energy	propels	spacecraft
+propulsives	classified as	solid
+propulsives	classified as	liquid
+propulsives	classified as	hybrid
+solid propulsives	contain	ammonium perchlorate
+solid propulsives	contain	aluminum powder
+solid propulsives	contain	binder
+liquid propulsives	contain	hydrazine
+liquid propulsives	contain	nitrogen tetroxide
+liquid propulsives	contain	kerosene
+hybrid propulsives	combine	solid grain
+hybrid propulsives	combine	liquid oxidizer
+propulsives	require	ignition system
+ignition system	initiates	combustion
+combustion	produces	exhaust gases
+exhaust gases	create	reaction mass
+reaction mass	provides	momentum
+momentum	equals	force × time
+force	equals	mass × acceleration
+propulsives	influence	flight trajectory
+flight trajectory	determines	orbital insertion
+orbital insertion	critical for	satellite deployment
+satellite deployment	depends on	propulsives performance
+propulsives performance	measured by	specific impulse
+specific impulse	expressed as	seconds
+specific impulse	higher for	liquid propulsives
+specific impulse	lower for	solid propulsives
+specific impulse	influenced by	oxidizer ratio
+oxidizer ratio	affects	combustion temperature
+combustion temperature	affects	nozzle efficiency
+nozzle efficiency	affects	thrust
+thrust	determines	acceleration
+acceleration	affects	mission duration
+mission duration	affects	fuel consumption
+fuel consumption	affects	payload capacity
+payload capacity	limits	scientific instruments
+scientific instruments	require	power supply
+power supply	can be	solar panels
+solar panels	generate	electricity
+electricity	powers	onboard systems
+onboard systems	include	guidance
+guidance	requires	sensors
+sensors	include	gyroscopes
+gyroscopes	provide	attitude data
+attitude data	used by	control system
+control system	adjusts	thruster firing
+thruster firing	consumes	propulsives
+propulsives	stored in	tanks
+tanks	made of	composite material
+composite material	reduces	mass
+mass reduction	improves	efficiency
+efficiency	reduces	launch cost
+launch cost	impacts	mission feasibility
+mission feasibility	influences	research funding
+research funding	determines	propulsives development
+propulsives development	involves	material science
+material science	studies	thermal stability
+thermal stability	critical for	propulsives safety
+propulsives safety	assessed by	risk analysis
+risk analysis	identifies	failure modes
+failure modes	include	combustion instability
+combustion instability	mitigated by	grain design
+grain design	optimized by	computational fluid dynamics
+computational fluid dynamics	uses	simulation
+simulation	predicts	performance
+performance	validated by	ground testing
+ground testing	conducted in	vacuum chamber
+vacuum chamber	simulates	space environment
+space environment	includes	microgravity
+microgravity	affects	propulsives behavior
+propulsives behavior	monitored by	telemetry
+telemetry	transmitted to	ground station
+ground station	analyzes	data
+data analysis	informs	design iteration
+design iteration	improves	reliability
+reliability	reduces	launch failures
+launch failures	increase	insurance cost
+insurance cost	influences	commercial launch pricing
+commercial launch pricing	affects	market demand
+market demand	drives	propulsives innovation
+propulsives innovation	leads to	greener fuels
+greener fuels	reduce	toxic emissions
+toxic emissions	lower	environmental impact
+environmental impact	monitored by	regulatory agencies
+regulatory agencies	set	safety standards
+safety standards	enforce	certification
+certification	required for	launch license
+launch license	granted by	national authority
+national authority	oversees	space policy
+space policy	supports	national security
+national security	depends on	rapid launch capability
+rapid launch capability	enabled by	efficient propulsives
+efficient propulsives	essential for	emergency response

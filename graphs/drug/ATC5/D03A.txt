@@ -1,0 +1,100 @@
+cicatrizants	are	wound‑healing agents
+cicatrizants	contain	growth factors
+growth factors	include	TGF‑β
+growth factors	include	PDGF
+growth factors	include	EGF
+cicatrizants	are	topical formulations
+cicatrizants	are	injectable formulations
+cicatrizants	are	hydrogel dressings
+cicatrizants	are	collagen matrices
+cicatrizants	are	silicone sheets
+cicatrizants	improve	scar quality
+scar quality	measured by	Vancouver Scar Scale
+cicatrizants	reduce	hypertrophic scar risk
+cicatrizants	reduce	keloid risk
+cicatrizants	reduce	itching
+cicatrizants	reduce	pain
+cicatrizants	improve	skin elasticity
+cicatrizants	improve	pigmentation
+cicatrizants	improve	texture
+cicatrizants	are	FDA‑approved
+cicatrizants	are	CE‑marked
+cicatrizants	are	used in burn care
+cicatrizants	are	used in plastic surgery
+cicatrizants	are	used in dermatology
+cicatrizants	are	used in orthopedics
+cicatrizants	are	used in ophthalmology
+cicatrizants	are	used in dentistry
+cicatrizants	are	used in wound debridement
+cicatrizants	are	used in post‑operative care
+cicatrizants	are	used in trauma care
+cicatrizants	are	used in chronic wound management
+cicatrizants	are	used in diabetic foot ulcers
+cicatrizants	are	used in pressure ulcer prevention
+cicatrizants	are	used in venous ulcer therapy
+cicatrizants	are	used in arterial ulcer therapy
+cicatrizants	are	used in surgical incision care
+cicatrizants	are	used in burn scar management
+cicatrizants	are	used in radiation dermatitis
+cicatrizants	are	used in scar revision
+cicatrizants	are	used in cosmetic improvement
+cicatrizants	are	used in pediatric wound care
+cicatrizants	are	used in geriatric wound care
+cicatrizants	are	used in immunocompromised patients
+cicatrizants	are	used in obese patients
+cicatrizants	are	used in smokers
+cicatrizants	are	used in patients with diabetes
+cicatrizants	are	used in patients with hypertension
+cicatrizants	are	used in patients with peripheral vascular disease
+cicatrizants	are	used in patients with connective tissue disease
+cicatrizants	are	used in patients with chronic inflammation
+cicatrizants	are	used in patients with obesity
+cicatrizants	are	used in patients with malnutrition
+cicatrizants	are	used in patients with anemia
+cicatrizants	are	used in patients with immunosuppression
+cicatrizants	are	used in patients with autoimmune disease
+cicatrizants	are	used in patients with chronic steroid use
+cicatrizants	are	used in patients with chronic infection
+cicatrizants	are	used in patients with chronic edema
+cicatrizants	are	used in patients with chronic venous stasis
+cicatrizants	are	used in patients with chronic arterial insufficiency
+cicatrizants	are	used in patients with chronic lymphedema
+cicatrizants	are	used in patients with chronic radiation exposure
+cicatrizants	are	used in patients with chronic mechanical stress
+cicatrizants	are	used in patients with chronic friction
+cicatrizants	are	used in patients with chronic shear
+cicatrizants	are	used in patients with chronic pressure
+cicatrizants	are	used in patients with chronic moisture
+cicatrizants	are	used in patients with chronic temperature extremes
+cicatrizants	are	used in patients with chronic UV exposure
+cicatrizants	are	used in patients with chronic chemical exposure
+cicatrizants	are	used in patients with chronic trauma
+cicatrizants	are	used in patients with chronic surgery
+cicatrizants	are	used in patients with chronic infection
+cicatrizants	are	used in patients with chronic inflammation
+cicatrizants	are	used in patients with chronic edema
+cicatrizants	are	used in patients with chronic venous stasis
+cicatrizants	are	used in patients with chronic arterial insufficiency
+cicatrizants	are	used in patients with chronic lymphedema
+cicatrizants	are	used in patients with chronic radiation exposure
+cicatrizants	are	used in patients with chronic mechanical stress
+cicatrizants	are	used in patients with chronic friction
+cicatrizants	are	used in patients with chronic shear
+cicatrizants	are	used in patients with chronic pressure
+cicatrizants	are	used in patients with chronic moisture
+cicatrizants	are	used in patients with chronic temperature extremes
+cicatrizants	are	used in patients with chronic UV exposure
+cicatrizants	are	used in patients with chronic chemical exposure
+cicatrizants	are	used in patients with chronic trauma
+cicatrizants	are	used in patients with chronic surgery
+cicatrizants	are	used in patients with chronic infection
+cicatrizants	are	used in patients with chronic inflammation
+cicatrizants	are	used in patients with chronic edema
+cicatrizants	are	used in patients with chronic venous stasis
+cicatrizants	are	used in patients with chronic arterial insufficiency
+cicatrizants	are	used in patients with chronic lymphedema
+cicatrizants	are	used in patients with chronic radiation exposure
+cicatrizants	are	used in patients with chronic mechanical stress
+cicatrizants	are	used in patients with chronic friction
+cicatrizants	are	used in patients with chronic shear
+cicatrizants	are	used in patients with chronic pressure

@@ -1,0 +1,100 @@
+cytotoxic antibiotics	are a	drug class
+cytotoxic antibiotics	target	cancer cells
+cytotoxic antibiotics	cause	DNA damage
+cytotoxic antibiotics	induce	apoptosis
+cytotoxic antibiotics	are used in	chemotherapy
+cytotoxic antibiotics	include	anthracyclines
+anthracyclines	include	doxorubicin
+anthracyclines	include	daunorubicin
+anthracyclines	cause	cardiotoxicity
+anthracyclines	require	dose limit
+anthracyclines	are metabolized by	CYP3A4
+anthracyclines	interact with	dexrazoxane
+dexrazoxane	reduces	cardiotoxicity
+anthracyclines	are stored in	lysosomes
+anthracyclines	generate	reactive oxygen species
+reactive oxygen species	cause	oxidative stress
+oxidative stress	leads to	cell death
+anthracyclines	are contraindicated in	pregnancy
+anthracyclines	are contraindicated in	heart disease
+anthracyclines	are contraindicated in	renal impairment
+anthracyclines	are contraindicated in	hepatic impairment
+anthracyclines	are contraindicated in	bone marrow suppression
+anthracyclines	are contraindicated in	hypersensitivity
+anthracyclines	are contraindicated in	prior radiation
+anthracyclines	are contraindicated in	prior chemotherapy
+anthracyclines	are contraindicated in	age < 5
+anthracyclines	are contraindicated in	age > 70
+anthracyclines	are contraindicated in	pregnancy
+anthracyclines	are contraindicated in	lactation
+anthracyclines	are contraindicated in	active infection
+anthracyclines	are contraindicated in	uncontrolled hypertension
+anthracyclines	are contraindicated in	uncontrolled diabetes
+anthracyclines	are contraindicated in	uncontrolled thyroid
+anthracyclines	are contraindicated in	uncontrolled anemia
+anthracyclines	are contraindicated in	uncontrolled leukopenia
+anthracyclines	are contraindicated in	uncontrolled thrombocytopenia
+anthracyclines	are contraindicated in	uncontrolled neutropenia
+anthracyclines	are contraindicated in	uncontrolled liver enzymes
+anthracyclines	are contraindicated in	uncontrolled kidney function
+anthracyclines	are contraindicated in	uncontrolled heart rhythm
+anthracyclines	are contraindicated in	uncontrolled blood pressure
+anthracyclines	are contraindicated in	uncontrolled blood glucose
+anthracyclines	are contraindicated in	uncontrolled blood lipids
+anthracyclines	are contraindicated in	uncontrolled blood clotting
+anthracyclines	are contraindicated in	uncontrolled blood oxygen
+anthracyclines	are contraindicated in	uncontrolled blood pH
+anthracyclines	are contraindicated in	uncontrolled blood calcium
+anthracyclines	are contraindicated in	uncontrolled blood potassium
+anthracyclines	are contraindicated in	uncontrolled blood sodium
+anthracyclines	are contraindicated in	uncontrolled blood magnesium
+anthracyclines	are contraindicated in	uncontrolled blood phosphate
+anthracyclines	are contraindicated in	uncontrolled blood bilirubin
+anthracyclines	are contraindicated in	uncontrolled blood albumin
+anthracyclines	are contraindicated in	uncontrolled blood globulin
+anthracyclines	are contraindicated in	uncontrolled blood hemoglobin
+anthracyclines	are contraindicated in	uncontrolled blood hematocrit
+anthracyclines	are contraindicated in	uncontrolled blood platelet count
+anthracyclines	are contraindicated in	uncontrolled blood white cell count
+anthracyclines	are contraindicated in	uncontrolled blood red cell count
+anthracyclines	are contraindicated in	uncontrolled blood lymphocyte count
+anthracyclines	are contraindicated in	uncontrolled blood monocyte count
+anthracyclines	are contraindicated in	uncontrolled blood neutrophil count
+anthracyclines	are contraindicated in	uncontrolled blood eosinophil count
+anthracyclines	are contraindicated in	uncontrolled blood basophil count
+anthracyclines	are contraindicated in	uncontrolled blood platelet aggregation
+anthracyclines	are contraindicated in	uncontrolled blood clotting time
+anthracyclines	are contraindicated in	uncontrolled blood fibrinogen
+anthracyclines	are contraindicated in	uncontrolled blood D-dimer
+anthracyclines	are contraindicated in	uncontrolled blood prothrombin time
+anthracyclines	are contraindicated in	uncontrolled blood activated partial thromboplastin time
+anthracyclines	are contraindicated in	uncontrolled blood INR
+anthracyclines	are contraindicated in	uncontrolled blood platelet function
+anthracyclines	are contraindicated in	uncontrolled blood coagulation
+anthracyclines	are contraindicated in	uncontrolled blood fibrinolysis
+anthracyclines	are contraindicated in	uncontrolled blood fibrin degradation
+anthracyclines	are contraindicated in	uncontrolled blood clot formation
+anthracyclines	are contraindicated in	uncontrolled blood clot dissolution
+anthracyclines	are contraindicated in	uncontrolled blood platelet count
+anthracyclines	are contraindicated in	uncontrolled blood platelet aggregation
+anthracyclines	are contraindicated in	uncontrolled blood platelet function
+anthracyclines	are contraindicated in	uncontrolled blood platelet lifespan
+anthracyclines	are contraindicated in	uncontrolled blood platelet production
+anthracyclines	are contraindicated in	uncontrolled blood platelet destruction
+anthracyclines	are contraindicated in	uncontrolled blood platelet release
+anthracyclines	are contraindicated in	uncontrolled blood platelet clearance
+anthracyclines	are contraindicated in	uncontrolled blood platelet adhesion
+anthracyclines	are contraindicated in	uncontrolled blood platelet activation
+anthracyclines	are contraindicated in	uncontrolled blood platelet aggregation
+anthracyclines	are contraindicated in	uncontrolled blood platelet function
+anthracyclines	are contraindicated in	uncontrolled blood platelet lifespan
+anthracyclines	are contraindicated in	uncontrolled blood platelet production
+anthracyclines	are contraindicated in	uncontrolled blood platelet destruction
+anthracyclines	are contraindicated in	uncontrolled blood platelet release
+anthracyclines	are contraindicated in	uncontrolled blood platelet clearance
+anthracyclines	are contraindicated in	uncontrolled blood platelet adhesion
+anthracyclines	are contraindicated in	uncontrolled blood platelet activation
+anthracyclines	are contraindicated in	uncontrolled blood platelet aggregation
+anthracyclines	are contraindicated in	uncontrolled blood platelet function
+anthracyclines	are contraindicated in	uncontrolled blood platelet lifespan
+anthracyclines	are contraindicated in	uncontrolled blood platelet production

@@ -1,0 +1,100 @@
+corticosteroids	are	drug
+corticosteroids	treat	inflammation
+corticosteroids	reduce	cytokines
+corticosteroids	inhibit	NF‑κB
+corticosteroids	suppress	immune cells
+corticosteroids	cause	osteoporosis
+corticosteroids	cause	hyperglycemia
+corticosteroids	cause	hypertension
+corticosteroids	cause	gastric ulcer
+corticosteroids	cause	mood changes
+corticosteroids	cause	cataract
+corticosteroids	cause	myopathy
+corticosteroids	cause	adrenal suppression
+corticosteroids	cause	infection risk
+corticosteroids	used for	asthma
+corticosteroids	used for	COPD
+corticosteroids	used for	rheumatoid arthritis
+corticosteroids	used for	lupus
+corticosteroids	used for	psoriasis
+corticosteroids	used for	ulcerative colitis
+corticosteroids	used for	Crohn disease
+corticosteroids	used for	graft‑versus‑host disease
+corticosteroids	used for	organ transplant
+corticosteroids	used for	allergic rhinitis
+corticosteroids	used for	eczema
+corticosteroids	used for	migraine
+corticosteroids	used for	septic shock
+corticosteroids	used for	pericarditis
+corticosteroids	used for	vasculitis
+corticosteroids	used for	myasthenia gravis
+corticosteroids	used for	optic neuritis
+corticosteroids	used for	multiple sclerosis
+corticosteroids	used for	interstitial lung disease
+corticosteroids	used for	sarcoidosis
+corticosteroids	used for	systemic sclerosis
+corticosteroids	used for	dermatomyositis
+corticosteroids	used for	polymyositis
+corticosteroids	used for	systemic vasculitis
+corticosteroids	used for	hemophagocytic lymphohistiocytosis
+corticosteroids	used for	autoimmune hepatitis
+corticosteroids	used for	acute pancreatitis
+corticosteroids	used for	acute respiratory distress syndrome
+corticosteroids	used for	severe sepsis
+corticosteroids	used for	COVID‑19 pneumonia
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	uveitis
+corticosteroids	used for	ocular surface disease
+corticosteroids	used for	systemic lupus erythematosus
+corticosteroids	used for	systemic vasculitis
+corticosteroids	used for	systemic sclerosis
+corticosteroids	used for	systemic amyloidosis
+corticosteroids	used for	systemic infections
+corticosteroids	used for	systemic inflammatory response
+corticosteroids	used for	systemic hypertension
+corticosteroids	used for	systemic edema
+corticosteroids	used for	systemic infections
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic autoimmune disorders
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory conditions
+corticosteroids	used for	systemic inflammatory responses
+corticosteroids	used for	systemic inflammatory syndromes
+corticosteroids	used for	systemic inflammatory diseases
+corticosteroids	used for	systemic inflammatory disorders
+corticosteroids	used for	systemic inflammatory diseases

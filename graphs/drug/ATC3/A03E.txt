@@ -1,0 +1,100 @@
+antispasmodics	treat	gastrointestinal spasms
+anticholinergics	block	acetylcholine
+antispasmodics	reduce	smooth‑muscle tone
+anticholinergics	cause	dry mouth
+antispasmodics	used in	irritable bowel syndrome
+anticholinergics	used in	Parkinson’s disease
+antispasmodics	inhibit	cholinergic receptors
+anticholinergics	inhibit	parasympathetic activity
+antispasmodics	combined with	opioids
+anticholinergics	combined with	antipsychotics
+antispasmodics	increase	risk of constipation
+anticholinergics	increase	risk of urinary retention
+antispasmodics	contraindicated in	asthma
+anticholinergics	contraindicated in	glaucoma
+antispasmodics	metabolized by	CYP3A4
+anticholinergics	metabolized by	CYP2D6
+antispasmodics	interact with	calcium channel blockers
+anticholinergics	interact with	beta‑blockers
+antispasmodics	cause	tachycardia
+anticholinergics	cause	blurred vision
+antispasmodics	used in	postoperative ileus
+anticholinergics	used in	overactive bladder
+antispasmodics	reduce	nausea
+anticholinergics	reduce	salivation
+antispasmodics	improve	bowel motility
+anticholinergics	improve	bladder control
+antispasmodics	dosage adjusted in	renal impairment
+anticholinergics	dosage adjusted in	hepatic impairment
+antispasmodics	may cause	dizziness
+anticholinergics	may cause	confusion
+antispasmodics	used with	antispasmodic synergy
+anticholinergics	used with	anticholinergic burden
+antispasmodics	reduce	risk of postoperative nausea
+anticholinergics	reduce	risk of postoperative nausea
+antispasmodics	reduce	risk of ileus
+anticholinergics	reduce	risk of ileus
+antispasmodics	improve	quality of life
+anticholinergics	improve	quality of life
+antispasmodics	contraindicated with	anticholinergic drugs
+anticholinergics	contraindicated with	antispasmodics
+antispasmodics	used in	chronic constipation
+anticholinergics	used in	chronic constipation
+antispasmodics	used in	dysphagia
+anticholinergics	used in	dysphagia
+antispasmodics	used in	scleroderma
+anticholinergics	used in	scleroderma
+antispasmodics	reduce	abdominal pain
+anticholinergics	reduce	abdominal pain
+antispasmodics	reduce	cramping
+anticholinergics	reduce	cramping
+antispasmodics	used with	laxatives
+anticholinergics	used with	laxatives
+antispasmodics	used with	antidiarrheals
+anticholinergics	used with	antidiarrheals
+antispasmodics	used with	antiemetics
+anticholinergics	used with	antiemetics
+antispasmodics	reduce	postoperative ileus duration
+anticholinergics	reduce	postoperative ileus duration
+antispasmodics	reduce	hospital stay
+anticholinergics	reduce	hospital stay
+antispasmodics	improve	bowel function
+anticholinergics	improve	bowel function
+antispasmodics	improve	patient comfort
+anticholinergics	improve	patient comfort
+antispasmodics	contraindicated in	pregnancy
+anticholinergics	contraindicated in	pregnancy
+antispasmodics	contraindicated in	lactation
+anticholinergics	contraindicated in	lactation
+antispasmodics	contraindicated in	elderly
+anticholinergics	contraindicated in	elderly
+antispasmodics	contraindicated in	children
+anticholinergics	contraindicated in	children
+antispasmodics	contraindicated in	hepatic disease
+anticholinergics	contraindicated in	hepatic disease
+antispasmodics	contraindicated in	renal disease
+anticholinergics	contraindicated in	renal disease
+antispasmodics	contraindicated in	cardiac disease
+anticholinergics	contraindicated in	cardiac disease
+antispasmodics	contraindicated in	respiratory disease
+anticholinergics	contraindicated in	respiratory disease
+antispasmodics	contraindicated in	endocrine disease
+anticholinergics	contraindicated in	endocrine disease
+antispasmodics	contraindicated in	psychiatric disease
+anticholinergics	contraindicated in	psychiatric disease
+antispasmodics	contraindicated in	autoimmune disease
+anticholinergics	contraindicated in	autoimmune disease
+antispasmodics	contraindicated in	metabolic disease
+anticholinergics	contraindicated in	metabolic disease
+antispasmodics	contraindicated in	neurologic disease
+anticholinergics	contraindicated in	neurologic disease
+antispasmodics	contraindicated in	infectious disease
+anticholinergics	contraindicated in	infectious disease
+antispasmodics	contraindicated in	allergic disease
+anticholinergics	contraindicated in	allergic disease
+antispasmodics	contraindicated in	genetic disease
+anticholinergics	contraindicated in	genetic disease
+antispasmodics	contraindicated in	rare disease
+anticholinergics	contraindicated in	rare disease
+antispasmodics	contraindicated in	pregnancy
+anticholinergics	contraindicated in	pregnancy

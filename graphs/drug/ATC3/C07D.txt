@@ -1,0 +1,100 @@
+beta blocking agents	treat	hypertension
+beta blocking agents	reduce	heart rate
+beta blocking agents	lower	blood pressure
+beta blocking agents	prevent	arrhythmia
+beta blocking agents	used in	heart failure
+beta blocking agents	block	beta‑adrenergic receptors
+beta blocking agents	cause	bradycardia
+beta blocking agents	may cause	fatigue
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	improve	survival
+beta blocking agents	interact with	calcium channel blockers
+beta blocking agents	metabolized by	CYP2D6
+beta blocking agents	dosage adjusted in	renal impairment
+beta blocking agents	used for	migraine prophylaxis
+beta blocking agents	reduce	myocardial oxygen demand
+beta blocking agents	decrease	ventricular remodeling
+beta blocking agents	cause	cold extremities
+beta blocking agents	may mask	hypoglycemia symptoms
+beta blocking agents	used with	ACE inhibitors
+beta blocking agents	reduce	stroke risk
+beta blocking agents	improve	exercise tolerance
+beta blocking agents	contraindicated in	severe peripheral arterial disease
+beta blocking agents	cause	sexual dysfunction
+beta blocking agents	used for	post‑myocardial infarction
+beta blocking agents	reduce	arrhythmia recurrence
+beta blocking agents	may cause	depression
+beta blocking agents	interact with	beta‑agonists
+beta blocking agents	reduce	heart failure mortality
+beta blocking agents	used in	chronic obstructive pulmonary disease
+beta blocking agents	cause	weight gain
+beta blocking agents	reduce	catecholamine release
+beta blocking agents	used for	hypertension in pregnancy
+beta blocking agents	contraindicated in	severe bradycardia
+beta blocking agents	reduce	angina episodes
+beta blocking agents	cause	dizziness
+beta blocking agents	used with	diuretics
+beta blocking agents	reduce	myocardial infarction risk
+beta blocking agents	cause	sleep disturbances
+beta blocking agents	interact with	beta‑blocker antagonists
+beta blocking agents	reduce	cardiac output
+beta blocking agents	used for	hypertension in diabetes
+beta blocking agents	cause	constipation
+beta blocking agents	reduce	sympathetic tone
+beta blocking agents	contraindicated in	severe heart block
+beta blocking agents	reduce	tachycardia
+beta blocking agents	cause	edema
+beta blocking agents	used in	post‑cardiac surgery
+beta blocking agents	reduce	mortality after MI
+beta blocking agents	cause	fatigue
+beta blocking agents	interact with	antihistamines
+thiazides	treat	hypertension
+thiazides	cause	hypokalemia
+thiazides	reduce	edema
+thiazides	increase	uric acid
+thiazides	cause	hyperglycemia
+thiazides	reduce	calcium oxalate stones
+thiazides	increase	LDL cholesterol
+thiazides	reduce	blood pressure
+thiazides	used in	heart failure
+thiazides	cause	photosensitivity
+thiazides	contraindicated in	severe renal failure
+thiazides	interact with	digoxin
+thiazides	metabolized by	liver
+thiazides	dosage adjusted in	elderly
+thiazides	reduce	stroke risk
+thiazides	cause	gout flare
+thiazides	used with	ACE inhibitors
+thiazides	reduce	albuminuria
+thiazides	cause	dizziness
+thiazides	interact with	NSAIDs
+thiazides	reduce	cardiovascular events
+thiazides	cause	dehydration
+thiazides	used for	edema in cirrhosis
+thiazides	reduce	blood pressure variability
+thiazides	cause	hypomagnesemia
+thiazides	interact with	oral contraceptives
+thiazides	reduce	renal stone recurrence
+thiazides	cause	fatigue
+thiazides	used in	resistant hypertension
+thiazides	reduce	mortality in heart failure
+other diuretics	treat	edema
+other diuretics	include	loop diuretics
+other diuretics	include	potassium‑sparing diuretics
+other diuretics	cause	electrolyte imbalance
+other diuretics	reduce	blood pressure
+other diuretics	used in	heart failure
+other diuretics	cause	ototoxicity
+other diuretics	contraindicated in	severe renal impairment
+other diuretics	interact with	NSAIDs
+other diuretics	metabolized by	liver
+other diuretics	dosage adjusted in	elderly
+other diuretics	reduce	mortality in heart failure
+other diuretics	cause	dehydration
+other diuretics	used with	ACE inhibitors
+other diuretics	reduce	edema in nephrotic syndrome
+other diuretics	cause	hypokalemia
+other diuretics	interact with	digoxin
+other diuretics	reduce	blood pressure variability
+other diuretics	cause	fatigue
+other diuretics	used for	hypertension in pregnancy

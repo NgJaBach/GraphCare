@@ -1,0 +1,100 @@
+thiazides	are	diuretics
+thiazides	treat	hypertension
+thiazides	treat	edema
+thiazides	inhibit	Na⁺/Cl⁻ symporter
+Na⁺/Cl⁻ symporter	located in	distal tubule
+distal tubule	part of	nephron
+nephron	part of	kidney
+kidney	filters	blood
+blood	contains	sodium
+sodium	reabsorbed by	Na⁺/Cl⁻ symporter
+thiazides	reduce	sodium reabsorption
+reduced sodium reabsorption	increases	urine output
+urine output	decreases	blood volume
+blood volume	decreases	blood pressure
+blood pressure	decreases	cardiovascular risk
+thiazides	cause	hypokalemia
+hypokalemia	leads to	muscle weakness
+hypokalemia	leads to	arrhythmia
+arrhythmia	increases	mortality
+thiazides	cause	hyperglycemia
+hyperglycemia	worsens	diabetes
+diabetes	increases	cardiovascular risk
+thiazides	cause	hyperlipidemia
+hyperlipidemia	increases	atherosclerosis
+atherosclerosis	increases	stroke risk
+thiazides	cause	hyperuricemia
+hyperuricemia	causes	gout
+gout	causes	joint pain
+joint pain	reduces	quality of life
+thiazides	cause	photosensitivity
+photosensitivity	leads to	skin rash
+skin rash	leads to	medication discontinuation
+medication discontinuation	reduces	blood pressure control
+blood pressure control	improves	renal function
+renal function	improves	survival
+thiazides	used with	ACE inhibitors
+ACE inhibitors	reduce	proteinuria
+proteinuria	indicates	kidney damage
+kidney damage	predicts	mortality
+thiazides	used with	ARBs
+ARBs	reduce	heart failure
+heart failure	reduces	readmission
+readmission	reduces	healthcare cost
+thiazides	contraindicated in	pregnancy
+pregnancy	increases	fetal risk
+fetal risk	leads to	medication avoidance
+medication avoidance	leads to	uncontrolled hypertension
+uncontrolled hypertension	increases	stroke
+stroke	increases	disability
+thiazides	contraindicated in	severe renal impairment
+renal impairment	reduces	drug clearance
+drug clearance	reduces	efficacy
+efficacy	reduces	blood pressure control
+blood pressure control	improves	survival
+thiazides	contraindicated in	hyperkalemia
+hyperkalemia	worsens	cardiac conduction
+cardiac conduction	worsens	arrhythmia
+arrhythmia	increases	sudden death
+thiazides	contraindicated in	severe liver disease
+liver disease	impairs	drug metabolism
+drug metabolism	impairs	drug efficacy
+drug efficacy	reduces	blood pressure control
+blood pressure control	reduces	end‑stage renal disease
+end‑stage renal disease	increases	dialysis need
+dialysis need	increases	mortality
+thiazides	effective in	elderly
+elderly	have	higher cardiovascular risk
+higher cardiovascular risk	benefits from	blood pressure control
+blood pressure control	reduces	myocardial infarction
+myocardial infarction	reduces	mortality
+thiazides	effective in	obese
+obesity	increases	hypertension
+hypertension	treated by	thiazides
+treatment	improves	metabolic profile
+metabolic profile	improves	insulin sensitivity
+insulin sensitivity	reduces	diabetes risk
+diabetes risk	reduces	cardiovascular events
+cardiovascular events	reduce	readmission
+readmission	reduces	quality of life
+thiazides	used in	chronic kidney disease stage 3
+CKD stage 3	benefits from	blood pressure control
+blood pressure control	slows	CKD progression
+CKD progression	reduces	dialysis initiation
+dialysis initiation	increases	mortality
+thiazides	used in	heart failure with preserved EF
+HFpEF	improves	exercise tolerance
+exercise tolerance	improves	quality of life
+quality of life	reduces	depression
+depression	reduces	medication adherence
+medication adherence	improves	blood pressure control
+blood pressure control	reduces	stroke
+stroke	reduces	disability
+disability	reduces	caregiver burden
+caregiver burden	reduces	healthcare utilization
+healthcare utilization	reduces	cost
+cost	reduces	patient financial strain
+patient financial strain	reduces	medication adherence
+medication adherence	improves	long‑term outcomes
+long‑term outcomes	improve	survival
+survival	improves	life expectancy

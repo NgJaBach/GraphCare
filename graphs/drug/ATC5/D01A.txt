@@ -1,0 +1,100 @@
+antifungals	are	drugs
+antifungals	used for	skin infections
+antifungals	treat	athlete’s foot
+antifungals	treat	ringworm
+antifungals	treat	candidiasis
+antifungals	treat	tinea versicolor
+antifungals	treat	seborrheic dermatitis
+antifungals	treat	nail fungus
+antifungals	applied	topically
+topical application	reduces	systemic exposure
+topical application	limits	drug interactions
+antifungals	include	clotrimazole
+antifungals	include	miconazole
+antifungals	include	terbinafine
+antifungals	include	ketoconazole
+antifungals	include	econazole
+antifungals	include	ciclopirox
+antifungals	include	tolnaftate
+antifungals	include	nystatin
+antifungals	include	fluconazole
+clotrimazole	effective against	dermatophytes
+clotrimazole	effective against	Candida
+miconazole	effective against	dermatophytes
+miconazole	effective against	Candida
+terbinafine	effective against	dermatophytes
+terbinafine	effective against	nail fungus
+ketoconazole	effective against	dermatophytes
+ketoconazole	effective against	yeast
+econazole	effective against	dermatophytes
+econazole	effective against	yeast
+ciclopirox	effective against	dermatophytes
+ciclopirox	effective against	yeast
+tolnaftate	effective against	dermatophytes
+tolnaftate	effective against	yeast
+nystatin	effective against	Candida
+fluconazole	effective against	Candida
+antifungals	cause	local irritation
+antifungals	cause	burning sensation
+antifungals	cause	rash
+antifungals	cause	dryness
+antifungals	cause	photosensitivity
+antifungals	cause	allergic contact dermatitis
+antifungals	cause	systemic absorption
+antifungals	cause	hepatotoxicity
+antifungals	cause	QT prolongation
+antifungals	cause	drug interactions
+antifungals	contraindicated in	pregnancy
+antifungals	contraindicated in	lactation
+antifungals	contraindicated in	liver disease
+antifungals	contraindicated in	renal disease
+antifungals	contraindicated in	elderly
+antifungals	contraindicated in	children
+antifungals	contraindicated in	immunocompromised
+antifungals	contraindicated in	severe skin disease
+antifungals	contraindicated in	systemic fungal infection
+antifungals	contraindicated in	fungal allergy
+antifungals	contraindicated in	hypersensitivity
+antifungals	contraindicated in	concurrent steroid use
+antifungals	contraindicated in	concurrent antibiotic use
+antifungals	contraindicated in	concurrent antiviral use
+antifungals	contraindicated in	concurrent immunosuppressant use
+antifungals	contraindicated in	concurrent chemotherapy
+antifungals	contraindicated in	concurrent radiation therapy
+antifungals	contraindicated in	concurrent biologic therapy
+antifungals	contraindicated in	concurrent hormonal therapy
+antifungals	contraindicated in	concurrent anticoagulant therapy
+antifungals	contraindicated in	concurrent antiplatelet therapy
+antifungals	contraindicated in	concurrent NSAID therapy
+antifungals	contraindicated in	concurrent opioid therapy
+antifungals	contraindicated in	concurrent benzodiazepine therapy
+antifungals	contraindicated in	concurrent antihypertensive therapy
+antifungals	contraindicated in	concurrent antidiabetic therapy
+antifungals	contraindicated in	concurrent antiepileptic therapy
+antifungals	contraindicated in	concurrent antipsychotic therapy
+antifungals	contraindicated in	concurrent antidepressant therapy
+antifungals	contraindicated in	concurrent antimalarial therapy
+antifungals	contraindicated in	concurrent antitubercular therapy
+antifungals	contraindicated in	concurrent antiretroviral therapy
+antifungals	contraindicated in	concurrent anticoagulant therapy
+antifungals	contraindicated in	concurrent antithrombotic therapy
+antifungals	contraindicated in	concurrent antipsychotic therapy
+antifungals	contraindicated in	concurrent antineoplastic therapy
+antifungals	contraindicated in	concurrent immunomodulator therapy
+antifungals	contraindicated in	concurrent biologic therapy
+antifungals	contraindicated in	concurrent hormonal therapy
+antifungals	contraindicated in	concurrent anti-inflammatory therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-bacterial therapy
+antifungals	contraindicated in	concurrent anti-fungal therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy
+antifungals	contraindicated in	concurrent anti-viral therapy

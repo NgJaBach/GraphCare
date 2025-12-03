@@ -1,0 +1,100 @@
+dapsone	is a	antibiotic
+dapsone	treats	leprosy
+dapsone	reduces	bacterial load
+dapsone	causes	hemolysis
+dapsone	contraindicated in	G6PD deficiency
+clofazimine	is a	antibiotic
+clofazimine	treats	leprosy
+clofazimine	causes	skin discoloration
+clofazimine	accumulates in	macrophages
+rifampin	is a	antibiotic
+rifampin	treats	leprosy
+rifampin	induces	cytochrome P450
+rifampin	reduces	drug levels
+rifampin	contraindicated with	warfarin
+ethambutol	is a	antibiotic
+ethambutol	treats	leprosy
+ethambutol	causes	optic neuropathy
+ethambutol	requires	baseline eye exam
+dapsone	used in	multidrug therapy
+clofazimine	used in	multidrug therapy
+rifampin	used in	multidrug therapy
+ethambutol	used in	multidrug therapy
+multidrug therapy	reduces	relapse risk
+multidrug therapy	duration	12 months
+multidrug therapy	improves	treatment success
+dapsone	metabolized by	N-acetyltransferase
+N-acetyltransferase	polymorphism	affects toxicity
+clofazimine	metabolized by	hepatic enzymes
+rifampin	metabolized by	CYP3A4
+ethambutol	excreted by	kidneys
+renal impairment	requires	dose adjustment
+dapsone	interacts with	sulfonamides
+clofazimine	interacts with	antiretroviral drugs
+rifampin	interacts with	antiretroviral drugs
+ethambutol	interacts with	antiretroviral drugs
+dapsone	causes	methemoglobinemia
+methemoglobinemia	treated with	methylene blue
+dapsone	causes	skin rash
+skin rash	indicates	hypersensitivity
+hypersensitivity	requires	drug discontinuation
+dapsone	causes	leukopenia
+leukopenia	indicates	bone marrow suppression
+clofazimine	causes	peripheral neuropathy
+peripheral neuropathy	monitored by	nerve conduction studies
+rifampin	causes	hepatotoxicity
+hepatotoxicity	monitored by	liver enzymes
+ethambutol	causes	visual acuity loss
+visual acuity loss	monitored by	visual field test
+dapsone	used in	leprosy reaction management
+clofazimine	used in	leprosy reaction management
+rifampin	used in	leprosy reaction management
+ethambutol	used in	leprosy reaction management
+leprosy reaction	type 1	is a	immune reaction
+leprosy reaction	type 2	is a	immune complex reaction
+type 1 reaction	treated with	corticosteroids
+type 2 reaction	treated with	thalidomide
+thalidomide	contraindicated in	pregnancy
+corticosteroids	cause	immunosuppression
+immunosuppression	increases	infection risk
+dapsone	reduces	erythema nodosum leprosum
+clofazimine	reduces	erythema nodosum leprosum
+rifampin	reduces	erythema nodosum leprosum
+ethambutol	reduces	erythema nodosum leprosum
+dapsone	reduces	nerve damage
+clofazimine	reduces	nerve damage
+rifampin	reduces	nerve damage
+ethambutol	reduces	nerve damage
+dapsone	contraindicated in	pregnancy
+clofazimine	contraindicated in	pregnancy
+rifampin	contraindicated in	pregnancy
+ethambutol	contraindicated in	pregnancy
+dapsone	contraindicated in	lactation
+clofazimine	contraindicated in	lactation
+rifampin	contraindicated in	lactation
+ethambutol	contraindicated in	lactation
+dapsone	contraindicated in	severe liver disease
+clofazimine	contraindicated in	severe liver disease
+rifampin	contraindicated in	severe liver disease
+ethambutol	contraindicated in	severe liver disease
+dapsone	contraindicated in	severe kidney disease
+clofazimine	contraindicated in	severe kidney disease
+rifampin	contraindicated in	severe kidney disease
+ethambutol	contraindicated in	severe kidney disease
+dapsone	contraindicated in	severe anemia
+clofazimine	contraindicated in	severe anemia
+rifampin	contraindicated in	severe anemia
+ethambutol	contraindicated in	severe anemia
+dapsone	contraindicated in	severe hypertension
+clofazimine	contraindicated in	severe hypertension
+rifampin	contraindicated in	severe hypertension
+ethambutol	contraindicated in	severe hypertension
+dapsone	contraindicated in	severe diabetes
+clofazimine	contraindicated in	severe diabetes
+rifampin	contraindicated in	severe diabetes
+ethambutol	contraindicated in	severe diabetes
+dapsone	contraindicated in	severe osteoporosis
+clofazimine	contraindicated in	severe osteoporosis
+rifampin	contraindicated in	severe osteoporosis
+ethambutol	contraindicated in	severe osteoporosis
+dapsone	contraindicated in	severe cardiovascular disease

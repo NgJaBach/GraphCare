@@ -1,0 +1,100 @@
+muscle relaxants	are	drugs
+muscle relaxants	target	skeletal muscle
+muscle relaxants	reduce	muscle spasm
+muscle relaxants	improve	mobility
+muscle relaxants	treat	back pain
+muscle relaxants	treat	neck pain
+muscle relaxants	treat	fibromyalgia
+muscle relaxants	treat	spasticity
+muscle relaxants	treat	multiple sclerosis
+muscle relaxants	treat	cerebral palsy
+muscle relaxants	treat	stroke
+muscle relaxants	treat	spinal cord injury
+muscle relaxants	treat	orthopedic surgery
+muscle relaxants	treat	post‑operative pain
+muscle relaxants	used	pre‑operative
+muscle relaxants	used	post‑operative
+muscle relaxants	used	acute
+muscle relaxants	used	chronic
+muscle relaxants	used	inpatient
+muscle relaxants	used	outpatient
+muscle relaxants	administered	orally
+muscle relaxants	administered	intravenously
+muscle relaxants	administered	intramuscularly
+muscle relaxants	administered	rectally
+muscle relaxants	metabolized	liver
+muscle relaxants	excreted	kidney
+muscle relaxants	have	side effects
+side effects	include	drowsiness
+side effects	include	dizziness
+side effects	include	dry mouth
+side effects	include	constipation
+side effects	include	blurred vision
+side effects	include	nausea
+side effects	include	vomiting
+side effects	include	confusion
+side effects	include	hypotension
+side effects	include	respiratory depression
+side effects	include	dependence
+side effects	include	withdrawal
+side effects	include	allergic reaction
+side effects	include	rash
+side effects	include	itching
+side effects	include	edema
+side effects	include	fatigue
+side effects	include	headache
+side effects	include	insomnia
+side effects	include	anxiety
+side effects	include	depression
+side effects	include	memory loss
+side effects	include	impaired coordination
+side effects	include	impaired judgment
+side effects	include	impaired driving
+side effects	include	increased fall risk
+side effects	include	impaired cognition
+side effects	include	increased infection risk
+side effects	include	decreased appetite
+side effects	include	weight gain
+side effects	include	decreased libido
+side effects	include	sexual dysfunction
+side effects	include	urinary retention
+side effects	include	constipation
+side effects	include	liver toxicity
+side effects	include	renal toxicity
+side effects	include	cardiotoxicity
+side effects	include	arrhythmia
+side effects	include	QT prolongation
+side effects	include	bradycardia
+side effects	include	tachycardia
+side effects	include	hypertension
+side effects	include	hypotension
+side effects	include	syncope
+side effects	include	seizures
+side effects	include	psychosis
+side effects	include	hallucinations
+side effects	include	agitation
+side effects	include	delirium
+side effects	include	coma
+side effects	include	death
+muscle relaxants	contraindicated	pregnancy
+muscle relaxants	contraindicated	lactation
+muscle relaxants	contraindicated	hepatic disease
+muscle relaxants	contraindicated	renal disease
+muscle relaxants	contraindicated	elderly
+muscle relaxants	contraindicated	children
+muscle relaxants	contraindicated	alcohol use
+muscle relaxants	contraindicated	CNS depressants
+muscle relaxants	contraindicated	seizure disorder
+muscle relaxants	contraindicated	heart block
+muscle relaxants	contraindicated	asthma
+muscle relaxants	contraindicated	COPD
+muscle relaxants	contraindicated	glaucoma
+muscle relaxants	contraindicated	myasthenia gravis
+muscle relaxants	contraindicated	pregnancy
+muscle relaxants	contraindicated	lactation
+muscle relaxants	contraindicated	hepatic disease
+muscle relaxants	contraindicated	renal disease
+muscle relaxants	contraindicated	elderly
+muscle relaxants	contraindicated	children
+muscle relaxants	contraindicated	alcohol use
+muscle relaxants	contraindicated	CNS depressants

@@ -1,0 +1,100 @@
+glycogenolytic hormones	are	endocrine
+glycogenolytic hormones	include	glucagon
+glycogenolytic hormones	include	epinephrine
+glycogenolytic hormones	include	norepinephrine
+glycogenolytic hormones	stimulate	glycogenolysis
+glycogenolysis	releases	glucose
+glucose	enters	bloodstream
+bloodstream	raises	blood glucose
+high blood glucose	triggers	insulin release
+insulin	inhibits	glycogenolysis
+glycogenolytic hormones	bind	G‑protein coupled receptors
+G‑protein coupled receptors	activate	adenylate cyclase
+adenylate cyclase	converts	ATP to cAMP
+cAMP	activates	protein kinase A
+protein kinase A	phosphorylates	glycogen phosphorylase
+glycogen phosphorylase	breaks	glycogen
+glycogenolytic hormones	increase	hepatic glycogenolysis
+hepatic glycogenolysis	supplies	gluconeogenesis
+gluconeogenesis	produces	glucose
+glycogenolytic hormones	increase	renal gluconeogenesis
+renal gluconeogenesis	contributes	fasting glucose
+glycogenolytic hormones	elevate	lipolysis
+lipolysis	releases	free fatty acids
+free fatty acids	used by	liver
+liver	converts	fatty acids to ketone bodies
+ketone bodies	serve as	alternative fuel
+glycogenolytic hormones	are released during	stress
+stress	activates	sympathetic nervous system
+sympathetic nervous system	secretes	epinephrine
+epinephrine	increases	heart rate
+heart rate	raises	cardiac output
+cardiac output	improves	tissue perfusion
+tissue perfusion	supports	glucose utilization
+glycogenolytic hormones	are elevated in	diabetes mellitus
+diabetes mellitus	leads to	hyperglycemia
+hyperglycemia	causes	diabetic ketoacidosis
+diabetic ketoacidosis	treated with	insulin therapy
+insulin therapy	reduces	glycogenolytic hormone levels
+glycogenolytic hormones	are suppressed by	glucocorticoids
+glucocorticoids	increase	gluconeogenesis
+gluconeogenesis	supplies	glucose during fasting
+fasting	triggers	glucagon release
+glucagon	secreted by	pancreatic alpha cells
+pancreatic alpha cells	respond to	low glucose
+low glucose	activates	glucagon secretion
+glucagon	promotes	glycogenolysis
+glycogenolysis	is inhibited by	insulin
+insulin	secreted by	pancreatic beta cells
+beta cells	respond to	high glucose
+high glucose	stimulates	insulin secretion
+insulin	promotes	glycogenesis
+glycogenesis	stores	glucose as glycogen
+glycogen stores	located in	liver
+glycogen stores	located in	muscle
+muscle glycogen	used during	exercise
+exercise	increases	epinephrine release
+epinephrine	enhances	glycogenolysis
+glycogenolysis	supplies	ATP for muscle contraction
+ATP	fuels	muscle contraction
+muscle contraction	increases	oxygen demand
+oxygen demand	met by	increased cardiac output
+cardiac output	regulated by	autonomic nervous system
+autonomic nervous system	modulates	heart rate
+heart rate	influences	blood pressure
+blood pressure	affects	organ perfusion
+organ perfusion	critical for	kidney function
+kidney function	regulates	electrolyte balance
+electrolyte balance	influenced by	aldosterone
+aldosterone	secreted by	adrenal cortex
+adrenal cortex	responds to	angiotensin II
+angiotensin II	stimulates	aldosterone release
+aldosterone	increases	sodium reabsorption
+sodium reabsorption	raises	blood volume
+blood volume	elevates	blood pressure
+blood pressure	modulated by	baroreceptors
+baroreceptors	detect	pressure changes
+pressure changes	trigger	autonomic reflexes
+autonomic reflexes	adjust	heart rate
+heart rate	determines	cardiac output
+cardiac output	determines	tissue oxygenation
+tissue oxygenation	essential for	cellular metabolism
+cellular metabolism	requires	glucose
+glucose	obtained from	dietary intake
+dietary intake	influences	blood glucose
+blood glucose	regulated by	insulin and glucagon
+insulin and glucagon	maintain	glucose homeostasis
+glucose homeostasis	disrupted in	metabolic syndrome
+metabolic syndrome	increases	cardiovascular risk
+cardiovascular risk	mitigated by	lifestyle changes
+lifestyle changes	include	diet modification
+diet modification	reduces	insulin resistance
+insulin resistance	lowers	glucagon levels
+lower glucagon	decreases	glycogenolysis
+decreased glycogenolysis	stabilizes	blood glucose
+stable blood glucose	reduces	hypoglycemia risk
+hypoglycemia risk	lowered by	glucose monitoring
+glucose monitoring	informs	insulin dosing
+insulin dosing	tailored by	continuous glucose monitoring
+continuous glucose monitoring	improves	glycemic control
+glycemic control	reduces	long‑term complications

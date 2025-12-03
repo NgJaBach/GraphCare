@@ -1,0 +1,100 @@
+rehabilitation	is a	treatment
+detoxification	is a	medical process
+rehabilitation	reduces	relapse
+detoxification	reduces	withdrawal
+rehabilitation	improves	quality of life
+detoxification	improves	survival
+rehabilitation	includes	counseling
+detoxification	includes	medication
+rehabilitation	includes	group therapy
+detoxification	includes	monitoring
+rehabilitation	includes	skill building
+detoxification	includes	hydration
+rehabilitation	includes	education
+detoxification	includes	nutrition
+rehabilitation	includes	relapse prevention
+detoxification	includes	vital signs
+rehabilitation	includes	aftercare
+detoxification	includes	benzodiazepines
+rehabilitation	includes	CBT
+detoxification	includes	methadone
+rehabilitation	includes	medication-assisted therapy
+detoxification	includes	buprenorphine
+rehabilitation	includes	motivational interviewing
+detoxification	includes	clonidine
+rehabilitation	includes	family therapy
+detoxification	includes	opioid antagonists
+rehabilitation	includes	peer support
+detoxification	includes	antipsychotics
+rehabilitation	includes	vocational training
+detoxification	includes	anticonvulsants
+rehabilitation	includes	case management
+detoxification	includes	antiemetics
+rehabilitation	includes	relapse risk assessment
+detoxification	includes	antihypertensives
+rehabilitation	includes	substance use assessment
+detoxification	includes	anti‑inflammatory
+rehabilitation	includes	self‑management
+detoxification	includes	antidiarrheals
+rehabilitation	includes	coping skills
+detoxification	includes	antipsychotic
+rehabilitation	includes	mindfulness
+detoxification	includes	anti‑nausea
+rehabilitation	includes	relapse monitoring
+detoxification	includes	anti‑seizure
+rehabilitation	includes	life skills
+detoxification	includes	anti‑inflammatory
+rehabilitation	includes	health education
+detoxification	includes	anti‑emetic
+rehabilitation	includes	behavioral therapy
+detoxification	includes	anti‑nausea
+rehabilitation	includes	relapse counseling
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention plan
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic
+rehabilitation	includes	relapse prevention
+detoxification	includes	anti‑emetic

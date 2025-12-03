@@ -1,0 +1,100 @@
+anti‑parathyroid agents	treat	hyperparathyroidism
+anti‑parathyroid agents	inhibit	parathyroid hormone
+anti‑parathyroid agents	reduce	serum calcium
+anti‑parathyroid agents	lower	bone resorption
+anti‑parathyroid agents	increase	bone density
+anti‑parathyroid agents	prevent	kidney stones
+anti‑parathyroid agents	reduce	urinary calcium
+anti‑parathyroid agents	improve	renal function
+anti‑parathyroid agents	decrease	fracture risk
+anti‑parathyroid agents	used in	chronic kidney disease
+anti‑parathyroid agents	used in	dialysis patients
+anti‑parathyroid agents	used in	osteoporosis
+anti‑parathyroid agents	used in	bone pain
+anti‑parathyroid agents	contraindicated in	hypocalcemia
+anti‑parathyroid agents	contraindicated in	severe renal impairment
+anti‑parathyroid agents	contraindicated in	pregnancy
+anti‑parathyroid agents	contraindicated in	lactation
+anti‑parathyroid agents	side effect	nausea
+anti‑parathyroid agents	side effect	vomiting
+anti‑parathyroid agents	side effect	constipation
+anti‑parathyroid agents	side effect	headache
+anti‑parathyroid agents	side effect	fatigue
+anti‑parathyroid agents	side effect	rash
+anti‑parathyroid agents	side effect	hypocalcemia
+anti‑parathyroid agents	side effect	hyperphosphatemia
+anti‑parathyroid agents	side effect	bone pain
+anti‑parathyroid agents	side effect	dizziness
+anti‑parathyroid agents	side effect	muscle cramps
+anti‑parathyroid agents	side effect	edema
+anti‑parathyroid agents	side effect	fever
+anti‑parathyroid agents	side effect	infection
+anti‑parathyroid agents	side effect	allergic reaction
+anti‑parathyroid agents	dosage	oral
+anti‑parathyroid agents	dosage	intravenous
+anti‑parathyroid agents	dosage	subcutaneous
+anti‑parathyroid agents	dosage	once daily
+anti‑parathyroid agents	dosage	twice daily
+anti‑parathyroid agents	dosage	titrated
+anti‑parathyroid agents	dosage	weight‑based
+anti‑parathyroid agents	dosage	renal‑adjusted
+anti‑parathyroid agents	monitoring	serum calcium
+anti‑parathyroid agents	monitoring	serum phosphate
+anti‑parathyroid agents	monitoring	renal function
+anti‑parathyroid agents	monitoring	bone turnover markers
+anti‑parathyroid agents	monitoring	adverse events
+anti‑parathyroid agents	monitoring	compliance
+anti‑parathyroid agents	monitoring	drug interactions
+anti‑parathyroid agents	monitoring	vitamin D levels
+anti‑parathyroid agents	monitoring	magnesium levels
+anti‑parathyroid agents	monitoring	urinary calcium
+anti‑parathyroid agents	monitoring	bone density scans
+anti‑parathyroid agents	monitoring	fracture incidence
+anti‑parathyroid agents	monitoring	quality of life
+anti‑parathyroid agents	monitoring	mortality
+anti‑parathyroid agents	monitoring	readmission
+anti‑parathyroid agents	monitoring	hospitalization
+anti‑parathyroid agents	monitoring	emergency visits
+anti‑parathyroid agents	monitoring	cost
+anti‑parathyroid agents	monitoring	adherence
+anti‑parathyroid agents	monitoring	patient education
+anti‑parathyroid agents	monitoring	dietary calcium
+anti‑parathyroid agents	monitoring	fluid intake
+anti‑parathyroid agents	monitoring	exercise
+anti‑parathyroid agents	monitoring	smoking status
+anti‑parathyroid agents	monitoring	alcohol consumption
+anti‑parathyroid agents	monitoring	comorbidities
+anti‑parathyroid agents	monitoring	medication list
+anti‑parathyroid agents	monitoring	laboratory trends
+anti‑parathyroid agents	monitoring	imaging studies
+anti‑parathyroid agents	monitoring	clinical guidelines
+anti‑parathyroid agents	monitoring	evidence‑based practice
+anti‑parathyroid agents	monitoring	patient‑reported outcomes
+anti‑parathyroid agents	monitoring	adverse drug reaction
+anti‑parathyroid agents	monitoring	drug‑drug interaction
+anti‑parathyroid agents	monitoring	drug‑food interaction
+anti‑parathyroid agents	monitoring	drug‑disease interaction
+anti‑parathyroid agents	monitoring	drug‑age interaction
+anti‑parathyroid agents	monitoring	drug‑gender interaction
+anti‑parathyroid agents	monitoring	drug‑ethnicity interaction
+anti‑parathyroid agents	monitoring	drug‑genotype interaction
+anti‑parathyroid agents	monitoring	drug‑dose interaction
+anti‑parathyroid agents	monitoring	drug‑frequency interaction
+anti‑parathyroid agents	monitoring	drug‑route interaction
+anti‑parathyroid agents	monitoring	drug‑duration interaction
+anti‑parathyroid agents	monitoring	drug‑form interaction
+anti‑parathyroid agents	monitoring	drug‑label interaction
+anti‑parathyroid agents	monitoring	drug‑regimen interaction
+anti‑parathyroid agents	monitoring	drug‑therapy interaction
+anti‑parathyroid agents	monitoring	drug‑adherence interaction
+anti‑parathyroid agents	monitoring	drug‑cost interaction
+anti‑parathyroid agents	monitoring	drug‑insurance interaction
+anti‑parathyroid agents	monitoring	drug‑pharmacy interaction
+anti‑parathyroid agents	monitoring	drug‑clinical trial interaction
+anti‑parathyroid agents	monitoring	drug‑regulatory interaction
+anti‑parathyroid agents	monitoring	drug‑public health interaction
+anti‑parathyroid agents	monitoring	drug‑societal interaction
+anti‑parathyroid agents	monitoring	drug‑ethical interaction
+anti‑parathyroid agents	monitoring	drug‑legal interaction
+anti‑parathyroid agents	monitoring	drug‑policy interaction
+anti‑parathyroid agents	monitoring	drug‑research interaction

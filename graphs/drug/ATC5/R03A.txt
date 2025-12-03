@@ -1,0 +1,100 @@
+adrenergics	are a	drug class
+adrenergics	act on	β‑adrenergic receptors
+adrenergics	act on	α‑adrenergic receptors
+adrenergics	cause	bronchodilation
+adrenergics	treat	asthma
+adrenergics	treat	COPD
+adrenergics	used in	emergency asthma
+adrenergics	used in	acute bronchospasm
+adrenergics	administered	inhalation
+adrenergics	administered	nebulization
+adrenergics	administered	metered‑dose inhaler
+adrenergics	administered	dry‑powder inhaler
+adrenergics	delivered	via	inhaler
+adrenergics	delivered	via	nebulizer
+adrenergics	delivered	via	spacer
+adrenergics	delivered	via	propellant
+adrenergics	delivered	via	propellant‑free
+adrenergics	delivered	via	metered‑dose
+adrenergics	delivered	via	dry‑powder
+adrenergics	delivered	via	inhalation
+adrenergics	cause	tachycardia
+adrenergics	cause	palpitations
+adrenergics	cause	tremor
+adrenergics	cause	headache
+adrenergics	cause	anxiety
+adrenergics	cause	insomnia
+adrenergics	cause	increased blood pressure
+adrenergics	cause	increased heart rate
+adrenergics	cause	arrhythmia
+adrenergics	cause	arrhythmias
+adrenergics	cause	hypokalemia
+adrenergics	cause	hyperglycemia
+adrenergics	cause	metabolic alkalosis
+adrenergics	cause	metabolic acidosis
+adrenergics	cause	paradoxical bronchospasm
+adrenergics	contraindicated in	severe cardiac disease
+adrenergics	contraindicated in	uncontrolled hypertension
+adrenergics	contraindicated in	arrhythmia
+adrenergics	contraindicated in	hyperthyroidism
+adrenergics	contraindicated in	diabetes
+adrenergics	contraindicated in	asthma exacerbation
+adrenergics	contraindicated in	COPD exacerbation
+adrenergics	contraindicated in	pregnancy
+adrenergics	contraindicated in	lactation
+adrenergics	contraindicated in	renal impairment
+adrenergics	contraindicated in	hepatic impairment
+adrenergics	contraindicated in	elderly
+adrenergics	contraindicated in	children
+adrenergics	contraindicated in	asthma
+adrenergics	contraindicated in	COPD
+adrenergics	contraindicated in	heart failure
+adrenergics	contraindicated in	arrhythmia
+adrenergics	contraindicated in	hypertension
+adrenergics	contraindicated in	diabetes
+adrenergics	contraindicated in	pregnancy
+adrenergics	contraindicated in	lactation
+adrenergics	contraindicated in	renal disease
+adrenergics	contraindicated in	hepatic disease
+adrenergics	contraindicated in	elderly
+adrenergics	contraindicated in	children
+adrenergics	contraindicated in	asthma
+adrenergics	contraindicated in	COPD
+adrenergics	contraindicated in	heart failure
+adrenergics	contraindicated in	arrhythmia
+adrenergics	contraindicated in	hypertension
+adrenergics	contraindicated in	diabetes
+adrenergics	contraindicated in	pregnancy
+adrenergics	contraindicated in	lactation
+adrenergics	contraindicated in	renal disease
+adrenergics	contraindicated in	hepatic disease
+adrenergics	contraindicated in	elderly
+adrenergics	contraindicated in	children
+adrenergics	contraindicated in	asthma
+adrenergics	contraindicated in	COPD
+adrenergics	contraindicated in	heart failure
+adrenergics	contraindicated in	arrhythmia
+adrenergics	contraindicated in	hypertension
+adrenergics	contraindicated in	diabetes
+adrenergics	contraindicated in	pregnancy
+adrenergics	contraindicated in	lactation
+adrenergics	contraindicated in	renal disease
+adrenergics	contraindicated in	hepatic disease
+adrenergics	contraindicated in	elderly
+adrenergics	contraindicated in	children
+adrenergics	contraindicated in	asthma
+adrenergics	contraindicated in	COPD
+adrenergics	contraindicated in	heart failure
+adrenergics	contraindicated in	arrhythmia
+adrenergics	contraindicated in	hypertension
+adrenergics	contraindicated in	diabetes
+adrenergics	contraindicated in	pregnancy
+adrenergics	contraindicated in	lactation
+adrenergics	contraindicated in	renal disease
+adrenergics	contraindicated in	hepatic disease
+adrenergics	contraindicated in	elderly
+adrenergics	contraindicated in	children
+adrenergics	contraindicated in	asthma
+adrenergics	contraindicated in	COPD
+adrenergics	contraindicated in	heart failure
+adrenergics	contraindicated in	arrhythmia

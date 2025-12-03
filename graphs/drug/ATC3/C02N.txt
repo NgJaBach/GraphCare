@@ -1,0 +1,100 @@
+antihypertensives	belong to	ATC‑GR C02
+ATC‑GR C02	includes	diuretics
+ATC‑GR C02	includes	ACE‑inhibitors
+ATC‑GR C02	includes	ARBs
+ATC‑GR C02	includes	beta‑blockers
+ATC‑GR C02	includes	calcium‑channel blockers
+diuretics	reduce	plasma volume
+diuretics	lower	blood pressure
+ACE‑inhibitors	block	ACE
+ACE‑inhibitors	increase	bradykinin
+ACE‑inhibitors	lower	angiotensin II
+ARBs	block	AT1 receptor
+ARBs	prevent	vasoconstriction
+beta‑blockers	inhibit	beta‑adrenergic receptors
+beta‑blockers	decrease	heart rate
+beta‑blockers	reduce	myocardial oxygen demand
+calcium‑channel blockers	inhibit	L‑type channels
+calcium‑channel blockers	cause	vasodilation
+combination therapy	improves	blood pressure control
+combination therapy	reduces	monotherapy failure
+combination therapy	increases	patient adherence
+combination therapy	may increase	adverse events
+combination therapy	can cause	hypotension
+combination therapy	can cause	electrolyte imbalance
+combination therapy	can cause	bradycardia
+combination therapy	can cause	dizziness
+combination therapy	can cause	cough
+combination therapy	can cause	constipation
+combination therapy	can cause	edema
+combination therapy	can cause	sexual dysfunction
+combination therapy	can cause	renal impairment
+combination therapy	can cause	hyperkalemia
+combination therapy	can cause	hypokalemia
+combination therapy	can cause	hyperglycemia
+combination therapy	can cause	hypoglycemia
+combination therapy	can cause	anemia
+combination therapy	can cause	fatigue
+combination therapy	can cause	headache
+combination therapy	can cause	rash
+combination therapy	can cause	photosensitivity
+combination therapy	can cause	tinnitus
+combination therapy	can cause	visual disturbances
+combination therapy	can cause	muscle cramps
+combination therapy	can cause	gout
+combination therapy	can cause	pancreatitis
+combination therapy	can cause	liver injury
+combination therapy	can cause	kidney stones
+combination therapy	can cause	pregnancy complications
+combination therapy	can cause	fetal toxicity
+combination therapy	can cause	neonatal bradycardia
+combination therapy	can cause	neonatal hypotension
+combination therapy	can cause	neonatal hyperkalemia
+combination therapy	can cause	neonatal renal failure
+combination therapy	can cause	neonatal hypoglycemia
+combination therapy	can cause	neonatal hyperglycemia
+combination therapy	can cause	neonatal anemia
+combination therapy	can cause	neonatal jaundice
+combination therapy	can cause	neonatal liver dysfunction
+combination therapy	can cause	neonatal kidney dysfunction
+combination therapy	can cause	neonatal respiratory distress
+combination therapy	can cause	neonatal seizures
+combination therapy	can cause	neonatal hypertension
+combination therapy	can cause	neonatal hypotension
+combination therapy	can cause	neonatal bradycardia
+combination therapy	can cause	neonatal tachycardia
+combination therapy	can cause	neonatal arrhythmia
+combination therapy	can cause	neonatal edema
+combination therapy	can cause	neonatal hypernatremia
+combination therapy	can cause	neonatal hyponatremia
+combination therapy	can cause	neonatal hypokalemia
+combination therapy	can cause	neonatal hyperkalemia
+combination therapy	can cause	neonatal hypoglycemia
+combination therapy	can cause	neonatal hyperglycemia
+combination therapy	can cause	neonatal anemia
+combination therapy	can cause	neonatal jaundice
+combination therapy	can cause	neonatal liver dysfunction
+combination therapy	can cause	neonatal kidney dysfunction
+combination therapy	can cause	neonatal respiratory distress
+combination therapy	can cause	neonatal seizures
+combination therapy	can cause	neonatal hypertension
+combination therapy	can cause	neonatal hypotension
+combination therapy	can cause	neonatal bradycardia
+combination therapy	can cause	neonatal tachycardia
+combination therapy	can cause	neonatal arrhythmia
+combination therapy	can cause	neonatal edema
+combination therapy	can cause	neonatal hypernatremia
+combination therapy	can cause	neonatal hyponatremia
+combination therapy	can cause	neonatal hypokalemia
+combination therapy	can cause	neonatal hyperkalemia
+combination therapy	can cause	neonatal hypoglycemia
+combination therapy	can cause	neonatal hyperglycemia
+combination therapy	can cause	neonatal anemia
+combination therapy	can cause	neonatal jaundice
+combination therapy	can cause	neonatal liver dysfunction
+combination therapy	can cause	neonatal kidney dysfunction
+combination therapy	can cause	neonatal respiratory distress
+combination therapy	can cause	neonatal seizures
+combination therapy	can cause	neonatal hypertension
+combination therapy	can cause	neonatal hypotension
+combination therapy	can cause	neonatal bradycardia

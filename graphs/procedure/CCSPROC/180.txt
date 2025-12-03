@@ -1,0 +1,100 @@
+CT scan	is a	imaging modality
+CT scan	uses	X‑ray radiation
+CT scan	produces	cross‑sectional images
+CT scan	detects	tumors
+CT scan	detects	fractures
+CT scan	detects	infections
+CT scan	detects	vascular disease
+CT scan	detects	bone lesions
+CT scan	detects	lung nodules
+CT scan	detects	liver cysts
+CT scan	detects	kidney stones
+CT scan	detects	abdominal aortic aneurysm
+CT scan	detects	brain hemorrhage
+CT scan	detects	spinal cord compression
+CT scan	detects	pulmonary embolism
+CT scan	detects	bone metastasis
+CT scan	detects	soft‑tissue sarcoma
+CT scan	detects	cardiac masses
+CT scan	detects	mediastinal lymphadenopathy
+CT scan	detects	sinusitis
+CT scan	detects	dental abscess
+CT scan	detects	pelvic inflammatory disease
+CT scan	detects	appendicitis
+CT scan	detects	pancreatitis
+CT scan	detects	gallstones
+CT scan	detects	splenic infarct
+CT scan	detects	hepatic steatosis
+CT scan	detects	renal cysts
+CT scan	detects	adrenal adenoma
+CT scan	detects	thyroid nodule
+CT scan	detects	breast calcification
+CT scan	detects	bone marrow edema
+CT scan	detects	osteomyelitis
+CT scan	detects	septic arthritis
+CT scan	detects	meningioma
+CT scan	detects	pituitary macroadenoma
+CT scan	detects	aneurysm rupture
+CT scan	detects	traumatic brain injury
+CT scan	detects	intracranial bleed
+CT scan	detects	hydrocephalus
+CT scan	detects	spinal fracture
+CT scan	detects	disc herniation
+CT scan	detects	spinal stenosis
+CT scan	detects	vertebral compression
+CT scan	detects	scoliosis
+CT scan	detects	kyphosis
+CT scan	detects	spondylolisthesis
+CT scan	detects	spinal tumor
+CT scan	detects	epidural abscess
+CT scan	detects	spinal cord edema
+CT scan	detects	bone infection
+CT scan	detects	bone cyst
+CT scan	detects	bone tumor
+CT scan	detects	bone metastasis
+CT scan	detects	bone fracture
+CT scan	detects	bone remodeling
+CT scan	detects	bone density loss
+CT scan	detects	bone marrow infiltration
+CT scan	detects	bone marrow edema
+CT scan	detects	bone marrow hyperplasia
+CT scan	detects	bone marrow suppression
+CT scan	detects	bone marrow necrosis
+CT scan	detects	bone marrow fibrosis
+CT scan	detects	bone marrow aplasia
+CT scan	detects	bone marrow leukemia
+CT scan	detects	bone marrow lymphoma
+CT scan	detects	bone marrow plasmacytoma
+CT scan	detects	bone marrow myeloma
+CT scan	detects	bone marrow infiltration
+CT scan	detects	bone marrow metastasis
+CT scan	detects	bone marrow edema
+CT scan	detects	bone marrow hyperplasia
+CT scan	detects	bone marrow suppression
+CT scan	detects	bone marrow necrosis
+CT scan	detects	bone marrow fibrosis
+CT scan	detects	bone marrow aplasia
+CT scan	detects	bone marrow leukemia
+CT scan	detects	bone marrow lymphoma
+CT scan	detects	bone marrow plasmacytoma
+CT scan	detects	bone marrow myeloma
+CT scan	detects	bone marrow infiltration
+CT scan	detects	bone marrow metastasis
+CT scan	detects	bone marrow edema
+CT scan	detects	bone marrow hyperplasia
+CT scan	detects	bone marrow suppression
+CT scan	detects	bone marrow necrosis
+CT scan	detects	bone marrow fibrosis
+CT scan	detects	bone marrow aplasia
+CT scan	detects	bone marrow leukemia
+CT scan	detects	bone marrow lymphoma
+CT scan	detects	bone marrow plasmacytoma
+CT scan	detects	bone marrow myeloma
+CT scan	detects	bone marrow infiltration
+CT scan	detects	bone marrow metastasis
+CT scan	detects	bone marrow edema
+CT scan	detects	bone marrow hyperplasia
+CT scan	detects	bone marrow suppression
+CT scan	detects	bone marrow necrosis
+CT scan	detects	bone marrow fibrosis
+CT scan	detects	bone marrow aplasia

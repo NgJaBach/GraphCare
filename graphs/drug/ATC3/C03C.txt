@@ -1,0 +1,100 @@
+high‑ceiling diuretics	inhibit	Na⁺/K⁺/2Cl⁻ cotransporter
+Na⁺/K⁺/2Cl⁻ cotransporter	located in	distal convoluted tubule
+high‑ceiling diuretics	increase	urine output
+urine output	reduces	blood volume
+blood volume	lowers	blood pressure
+high‑ceiling diuretics	cause	hypokalemia
+hypokalemia	leads to	arrhythmia
+arrhythmia	increases	mortality risk
+high‑ceiling diuretics	contraindicated in	renal failure
+renal failure	associated with	decreased drug clearance
+decreased drug clearance	causes	hypernatremia
+hypernatremia	results in	neurological symptoms
+high‑ceiling diuretics	used in	heart failure
+heart failure	predicts	readmission risk
+readmission risk	correlates with	diuretic dose
+diuretic dose	influences	electrolyte imbalance
+electrolyte imbalance	predicts	mortality
+high‑ceiling diuretics	combined with	ACE inhibitors
+ACE inhibitors	reduce	proteinuria
+proteinuria	indicates	kidney damage
+kidney damage	worsens	diuretic efficacy
+diuretic efficacy	measured by	urine sodium
+urine sodium	reflects	diuretic response
+diuretic response	predicts	survival
+high‑ceiling diuretics	cause	metabolic alkalosis
+metabolic alkalosis	leads to	muscle weakness
+muscle weakness	increases	fall risk
+fall risk	predicts	hospitalization
+high‑ceiling diuretics	interact with	NSAIDs
+NSAIDs	reduce	diuretic effect
+reduced diuretic effect	increases	edema
+edema	predicts	poor quality of life
+poor quality of life	correlates with	depression
+depression	associated with	higher mortality
+high‑ceiling diuretics	metabolized by	liver
+liver metabolism	impaired in	cirrhosis
+cirrhosis	leads to	drug accumulation
+drug accumulation	causes	toxicity
+toxicity	increases	readmission
+high‑ceiling diuretics	prescribed with	potassium supplements
+potassium supplements	prevent	hypokalemia
+preventing hypokalemia	reduces	arrhythmia
+arrhythmia	lowers	mortality
+high‑ceiling diuretics	used in	nephrotic syndrome
+nephrotic syndrome	associated with	hyperlipidemia
+hyperlipidemia	predicts	cardiovascular events
+cardiovascular events	increase	mortality
+high‑ceiling diuretics	cause	dehydration
+dehydration	leads to	orthostatic hypotension
+orthostatic hypotension	predicts	falls
+falls	increase	fracture risk
+fracture risk	correlates with	mortality
+high‑ceiling diuretics	used in	hypertension
+hypertension	predicts	stroke risk
+stroke risk	increases	mortality
+high‑ceiling diuretics	improve	NYHA class
+NYHA class	predicts	survival
+survival	inversely related to	diuretic dose
+diuretic dose	adjusted by	serum creatinine
+serum creatinine	indicates	renal function
+renal function	predicts	drug clearance
+drug clearance	affects	drug levels
+drug levels	influence	efficacy
+efficacy	measured by	weight loss
+weight loss	reflects	fluid removal
+fluid removal	predicts	symptom relief
+symptom relief	improves	adherence
+adherence	reduces	readmission
+readmission	associated with	cost
+cost	impacts	healthcare utilization
+high‑ceiling diuretics	cause	hyponatremia
+hyponatremia	leads to	confusion
+confusion	increases	fall risk
+fall risk	predicts	hospitalization
+hospitalization	correlates with	mortality
+high‑ceiling diuretics	used with	beta blockers
+beta blockers	reduce	heart rate
+heart rate	predicts	mortality
+mortality	inversely related to	beta blocker use
+beta blocker use	improves	survival
+high‑ceiling diuretics	contraindicated in	pregnancy
+pregnancy	requires	alternative therapy
+alternative therapy	reduces	fetal risk
+fetal risk	associated with	teratogenicity
+teratogenicity	increases	adverse outcomes
+high‑ceiling diuretics	cause	gout flare
+gout flare	leads to	joint pain
+joint pain	reduces	mobility
+mobility	predicts	fall risk
+fall risk	increases	hospitalization
+hospitalization	correlates with	readmission
+readmission	linked to	medication non‑adherence
+medication non‑adherence	caused by	side effects
+side effects	include	dizziness
+dizziness	increases	fall risk
+fall risk	predicts	mortality
+high‑ceiling diuretics	reduce	edema
+edema reduction	improves	exercise tolerance
+exercise tolerance	predicts	survival
+survival	inversely related to	diuretic side effects

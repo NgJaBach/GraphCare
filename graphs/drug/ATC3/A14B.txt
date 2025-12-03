@@ -1,0 +1,100 @@
+anabolic agents	belong to	ATC group
+ATC group	includes	anabolic steroids
+anabolic steroids	used for	muscle wasting
+anabolic steroids	used for	osteoporosis
+anabolic steroids	used for	anemia
+anabolic steroids	used for	hormone deficiency
+anabolic steroids	cause	liver toxicity
+anabolic steroids	cause	cardiovascular disease
+anabolic steroids	cause	mood disorders
+anabolic steroids	cause	infertility
+anabolic steroids	metabolized by	liver
+anabolic steroids	excreted by	kidneys
+anabolic steroids	interact with	CYP3A4
+anabolic steroids	interact with	estrogen
+anabolic steroids	interact with	testosterone
+anabolic steroids	contraindicated in	liver disease
+anabolic steroids	contraindicated in	hypertension
+anabolic steroids	contraindicated in	psychiatric illness
+anabolic steroids	contraindicated in	pregnancy
+anabolic steroids	contraindicated in	breast cancer
+anabolic steroids	contraindicated in	prostate cancer
+anabolic steroids	contraindicated in	renal failure
+anabolic steroids	contraindicated in	hyperlipidemia
+anabolic steroids	contraindicated in	cardiovascular disease
+anabolic steroids	contraindicated in	endocrine disorders
+anabolic steroids	contraindicated in	liver tumor
+anabolic steroids	contraindicated in	bone fracture
+anabolic steroids	contraindicated in	chronic infection
+anabolic steroids	contraindicated in	autoimmune disease
+anabolic steroids	contraindicated in	chronic pain
+anabolic steroids	contraindicated in	chronic fatigue
+anabolic steroids	contraindicated in	chronic kidney disease
+anabolic steroids	contraindicated in	chronic liver disease
+anabolic steroids	contraindicated in	chronic lung disease
+anabolic steroids	contraindicated in	chronic heart failure
+anabolic steroids	contraindicated in	chronic hypertension
+anabolic steroids	contraindicated in	chronic pain syndrome
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy
+anabolic steroids	contraindicated in	chronic pain management
+anabolic steroids	contraindicated in	chronic pain treatment
+anabolic steroids	contraindicated in	chronic pain therapy

@@ -1,0 +1,100 @@
+antithyroid preparations	treat	hyperthyroidism
+antithyroid preparations	inhibit	thyroid hormone synthesis
+antithyroid preparations	include	propylthiouracil
+antithyroid preparations	include	methimazole
+antithyroid preparations	include	carbimazole
+antithyroid preparations	include	thiamazole
+antithyroid preparations	include	iopanoic acid
+antithyroid preparations	contraindicated in	pregnancy
+antithyroid preparations	contraindicated in	liver disease
+antithyroid preparations	contraindicated in	severe renal impairment
+antithyroid preparations	cause	agranulocytosis
+antithyroid preparations	cause	hepatotoxicity
+antithyroid preparations	cause	rash
+antithyroid preparations	cause	fever
+antithyroid preparations	cause	arthralgia
+antithyroid preparations	cause	alopecia
+antithyroid preparations	cause	neutropenia
+antithyroid preparations	cause	thrombocytopenia
+antithyroid preparations	cause	anemia
+antithyroid preparations	cause	skin lesions
+antithyroid preparations	cause	gastrointestinal upset
+antithyroid preparations	cause	headache
+antithyroid preparations	cause	dizziness
+antithyroid preparations	cause	fatigue
+antithyroid preparations	cause	weight gain
+antithyroid preparations	cause	increased appetite
+antithyroid preparations	cause	menstrual irregularities
+antithyroid preparations	cause	hair loss
+antithyroid preparations	cause	muscle pain
+antithyroid preparations	cause	visual disturbances
+antithyroid preparations	cause	hearing loss
+antithyroid preparations	cause	tinnitus
+antithyroid preparations	cause	neuropathy
+antithyroid preparations	cause	pancreatitis
+antithyroid preparations	cause	interstitial nephritis
+antithyroid preparations	cause	cholestatic jaundice
+antithyroid preparations	cause	acute liver failure
+antithyroid preparations	cause	chronic liver disease
+antithyroid preparations	cause	drug-induced lupus
+antithyroid preparations	cause	hypersensitivity reaction
+antithyroid preparations	cause	anaphylaxis
+antithyroid preparations	cause	drug rash with eosinophilia
+antithyroid preparations	cause	Stevens–Johnson syndrome
+antithyroid preparations	cause	toxic epidermal necrolysis
+antithyroid preparations	cause	bone marrow suppression
+antithyroid preparations	cause	thrombosis
+antithyroid preparations	cause	embolism
+antithyroid preparations	cause	cardiovascular events
+antithyroid preparations	cause	arrhythmia
+antithyroid preparations	cause	heart failure
+antithyroid preparations	cause	hypertension
+antithyroid preparations	cause	hypotension
+antithyroid preparations	cause	edema
+antithyroid preparations	cause	proteinuria
+antithyroid preparations	cause	hematuria
+antithyroid preparations	cause	renal failure
+antithyroid preparations	cause	electrolyte imbalance
+antithyroid preparations	cause	hypokalemia
+antithyroid preparations	cause	hyperkalemia
+antithyroid preparations	cause	hypocalcemia
+antithyroid preparations	cause	hypercalcemia
+antithyroid preparations	cause	hypomagnesemia
+antithyroid preparations	cause	hypermagnesemia
+antithyroid preparations	cause	anemia of chronic disease
+antithyroid preparations	cause	iron deficiency
+antithyroid preparations	cause	vitamin D deficiency
+antithyroid preparations	cause	vitamin B12 deficiency
+antithyroid preparations	cause	folate deficiency
+antithyroid preparations	cause	malabsorption
+antithyroid preparations	cause	gastrointestinal bleeding
+antithyroid preparations	cause	ulceration
+antithyroid preparations	cause	constipation
+antithyroid preparations	cause	diarrhea
+antithyroid preparations	cause	nausea
+antithyroid preparations	cause	vomiting
+antithyroid preparations	cause	taste disturbance
+antithyroid preparations	cause	metallic taste
+antithyroid preparations	cause	dysphagia
+antithyroid preparations	cause	xerostomia
+antithyroid preparations	cause	dry mouth
+antithyroid preparations	cause	oral ulcers
+antithyroid preparations	cause	sore throat
+antithyroid preparations	cause	pharyngitis
+antithyroid preparations	cause	cough
+antithyroid preparations	cause	sore throat
+antithyroid preparations	cause	bronchitis
+antithyroid preparations	cause	pneumonia
+antithyroid preparations	cause	asthma
+antithyroid preparations	cause	allergic rhinitis
+antithyroid preparations	cause	sinusitis
+antithyroid preparations	cause	otitis media
+antithyroid preparations	cause	hearing loss
+antithyroid preparations	cause	tinnitus
+antithyroid preparations	cause	vertigo
+antithyroid preparations	cause	visual impairment
+antithyroid preparations	cause	cataract
+antithyroid preparations	cause	glaucoma
+antithyroid preparations	cause	macular degeneration
+antithyroid preparations	cause	retinal detachment
+antithyroid preparations	cause	optic neuropathy

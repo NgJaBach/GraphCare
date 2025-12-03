@@ -1,0 +1,100 @@
+pacemaker	is a	device
+pacemaker	treats	arrhythmia
+pacemaker	implanted in	chest
+pacemaker	requires	battery
+pacemaker	monitored by	telemetry
+pacemaker	signals	heart
+pacemaker	can be	single‑chamber
+pacemaker	can be	dual‑chamber
+pacemaker	can be	biventricular
+pacemaker	may have	leads
+pacemaker	leads connect to	myocardium
+pacemaker	leads attach to	atrium
+pacemaker	leads attach to	ventricle
+pacemaker	leads attach to	coronary sinus
+pacemaker	may have	sensing function
+pacemaker	may have	pacing function
+pacemaker	may have	anti‑tachycardia function
+pacemaker	may have	defibrillation function
+pacemaker	can be	MRI‑compatible
+pacemaker	contraindicated in	severe renal failure
+pacemaker	contraindicated in	active infection
+pacemaker	contraindicated in	pregnancy
+pacemaker	insertion requires	sterile field
+pacemaker	insertion requires	fluoroscopy
+pacemaker	insertion requires	local anesthesia
+pacemaker	insertion requires	anticoagulation management
+pacemaker	insertion may cause	pneumothorax
+pacemaker	insertion may cause	infection
+pacemaker	insertion may cause	lead dislodgement
+pacemaker	insertion may cause	hematoma
+pacemaker	insertion may cause	venous thrombosis
+pacemaker	insertion may cause	device erosion
+pacemaker	insertion may cause	cardiac tamponade
+pacemaker	insertion may cause	arrhythmia
+pacemaker	insertion may cause	stroke
+pacemaker	insertion may cause	death
+pacemaker	insertion may cause	lead fracture
+pacemaker	insertion may cause	lead failure
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma
+pacemaker	insertion may cause	pocket erosion
+pacemaker	insertion may cause	pocket pain
+pacemaker	insertion may cause	pocket swelling
+pacemaker	insertion may cause	pocket infection
+pacemaker	insertion may cause	pocket hematoma

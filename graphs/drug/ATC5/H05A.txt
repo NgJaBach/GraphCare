@@ -1,0 +1,100 @@
+parathyroid hormone	is a	peptide
+parathyroid hormone	regulates	calcium
+parathyroid hormone	increases	bone resorption
+parathyroid hormone	increases	renal calcium reabsorption
+parathyroid hormone	increases	vitamin D activation
+parathyroid hormone	is secreted by	parathyroid gland
+parathyroid hormone	is measured by	serum PTH test
+parathyroid hormone	is elevated in	hyperparathyroidism
+parathyroid hormone	is decreased in	hypoparathyroidism
+parathyroid hormone	is a target for	drug therapy
+parathyroid hormone	is used in	osteoporosis treatment
+parathyroid hormone	is used in	hypoparathyroidism treatment
+parathyroid hormone	is analog of	PTH(1-34)
+parathyroid hormone	is analog of	PTH(1-84)
+parathyroid hormone	is analog of	teriparatide
+parathyroid hormone	is analog of	abaloparatide
+teriparatide	is a	PTH analog
+teriparatide	is approved by	FDA
+teriparatide	is indicated for	postmenopausal osteoporosis
+teriparatide	is indicated for	glucocorticoid‑induced osteoporosis
+teriparatide	is administered by	subcutaneous injection
+teriparatide	improves	bone mineral density
+teriparatide	reduces	fracture risk
+teriparatide	has side effect	hypercalcemia
+teriparatide	has side effect	injection site reaction
+abaloparatide	is a	PTHrP analog
+abaloparatide	is approved by	FDA
+abaloparatide	is indicated for	postmenopausal osteoporosis
+abaloparatide	is administered by	subcutaneous injection
+abaloparatide	improves	bone mineral density
+abaloparatide	reduces	fracture risk
+abaloparatide	has side effect	hypercalcemia
+abaloparatide	has side effect	injection site reaction
+PTHrP	is a	parathyroid hormone‑related protein
+PTHrP	mimics	PTH activity
+PTHrP	is overexpressed in	certain cancers
+PTHrP	causes	humoral hypercalcemia of malignancy
+PTHrP	is measured by	serum PTHrP test
+PTHrP	is a target for	cancer therapy
+PTHrP	is a target for	bone metastasis therapy
+PTHrP	is a target for	bone remodeling drugs
+PTHrP	is a target for	anti‑osteoclast agents
+PTHrP	is a target for	bisphosphonates
+PTHrP	is a target for	denosumab
+PTHrP	is a target for	romosozumab
+PTHrP	is a target for	teriparatide
+PTHrP	is a target for	abaloparatide
+PTHrP	is a target for	calcitonin
+PTHrP	is a target for	vitamin D analogs
+PTHrP	is a target for	calcium‑lowering agents
+PTHrP	is a target for	dialysis
+PTHrP	is a target for	renal transplantation
+PTHrP	is a target for	bone‑cancer surgery
+PTHrP	is a target for	radiotherapy
+PTHrP	is a target for	chemotherapy
+PTHrP	is a target for	immunotherapy
+PTHrP	is a target for	targeted therapy
+PTHrP	is a target for	gene therapy
+PTHrP	is a target for	peptide therapy
+PTHrP	is a target for	antibody therapy
+PTHrP	is a target for	small‑molecule therapy
+PTHrP	is a target for	drug delivery
+PTHrP	is a target for	nanomedicine
+PTHrP	is a target for	biomarker discovery
+PTHrP	is a target for	prognostic modeling
+PTHrP	is a target for	predictive analytics
+PTHrP	is a target for	risk stratification
+PTHrP	is a target for	clinical decision support
+PTHrP	is a target for	machine‑learning models
+PTHrP	is a target for	deep‑learning models
+PTHrP	is a target for	natural‑language processing
+PTHrP	is a target for	electronic health record integration
+PTHrP	is a target for	patient‑reported outcomes
+PTHrP	is a target for	quality‑of‑life assessment
+PTHrP	is a target for	cost‑effectiveness analysis
+PTHrP	is a target for	health‑technology assessment
+PTHrP	is a target for	pharmacoeconomics
+PTHrP	is a target for	comparative effectiveness research
+PTHrP	is a target for	real‑world evidence
+PTHrP	is a target for	post‑marketing surveillance
+PTHrP	is a target for	adverse‑event monitoring
+PTHrP	is a target for	signal‑detection algorithms
+PTHrP	is a target for	pharmacovigilance
+PTHrP	is a target for	regulatory science
+PTHrP	is a target for	clinical trial design
+PTHrP	is a target for	adaptive trial design
+PTHrP	is a target for	biomarker‑driven trials
+PTHrP	is a target for	precision medicine
+PTHrP	is a target for	personalized therapy
+PTHrP	is a target for	patient‑specific dosing
+PTHrP	is a target for	pharmacogenomics
+PTHrP	is a target for	metabolomics
+PTHrP	is a target for	proteomics
+PTHrP	is a target for	transcriptomics
+PTHrP	is a target for	epigenomics
+PTHrP	is a target for	microbiome research
+PTHrP	is a target for	systems biology
+PTHrP	is a target for	network pharmacology
+PTHrP	is a target for	multi‑omics integration
+PTHrP	is a target for	translational research

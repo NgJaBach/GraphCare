@@ -1,0 +1,100 @@
+iron antianemic preparations	treat	anemia
+iron antianemic preparations	contain	elemental iron
+iron antianemic preparations	are	oral medication
+iron antianemic preparations	are	prescription drug
+iron antianemic preparations	are	over‑the‑counter
+iron antianemic preparations	improve	hemoglobin
+iron antianemic preparations	increase	ferritin
+iron antianemic preparations	reduce	fatigue
+iron antianemic preparations	reduce	pallor
+iron antianemic preparations	reduce	shortness of breath
+iron antianemic preparations	reduce	tachycardia
+iron antianemic preparations	reduce	restless leg syndrome
+iron antianemic preparations	cause	nausea
+iron antianemic preparations	cause	constipation
+iron antianemic preparations	cause	dark stools
+iron antianemic preparations	cause	abdominal pain
+iron antianemic preparations	cause	metallic taste
+iron antianemic preparations	cause	skin discoloration
+iron antianemic preparations	cause	vomiting
+iron antianemic preparations	cause	headache
+iron antianemic preparations	cause	dizziness
+iron antianemic preparations	cause	allergic reaction
+iron antianemic preparations	contraindicated in	hemochromatosis
+iron antianemic preparations	contraindicated in	iron overload
+iron antianemic preparations	contraindicated in	pregnancy
+iron antianemic preparations	contraindicated in	lactation
+iron antianemic preparations	contraindicated in	renal failure
+iron antianemic preparations	contraindicated in	liver disease
+iron antianemic preparations	contraindicated in	inflammatory bowel disease
+iron antianemic preparations	contraindicated in	celiac disease
+iron antianemic preparations	contraindicated in	gastric ulcer
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric cancer
+iron antianemic preparations	contraindicated in	gastric surgery
+iron antianemic preparations	contraindicated in	gastric stasis
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation
+iron antianemic preparations	contraindicated in	gastric dysmotility
+iron antianemic preparations	contraindicated in	gastric carcinoma
+iron antianemic preparations	contraindicated in	gastric polyps
+iron antianemic preparations	contraindicated in	gastric ulcers
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation
+iron antianemic preparations	contraindicated in	gastric dysmotility
+iron antianemic preparations	contraindicated in	gastric carcinoma
+iron antianemic preparations	contraindicated in	gastric polyps
+iron antianemic preparations	contraindicated in	gastric ulcers
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation
+iron antianemic preparations	contraindicated in	gastric dysmotility
+iron antianemic preparations	contraindicated in	gastric carcinoma
+iron antianemic preparations	contraindicated in	gastric polyps
+iron antianemic preparations	contraindicated in	gastric ulcers
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation
+iron antianemic preparations	contraindicated in	gastric dysmotility
+iron antianemic preparations	contraindicated in	gastric carcinoma
+iron antianemic preparations	contraindicated in	gastric polyps
+iron antianemic preparations	contraindicated in	gastric ulcers
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation
+iron antianemic preparations	contraindicated in	gastric dysmotility
+iron antianemic preparations	contraindicated in	gastric carcinoma
+iron antianemic preparations	contraindicated in	gastric polyps
+iron antianemic preparations	contraindicated in	gastric ulcers
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation
+iron antianemic preparations	contraindicated in	gastric dysmotility
+iron antianemic preparations	contraindicated in	gastric carcinoma
+iron antianemic preparations	contraindicated in	gastric polyps
+iron antianemic preparations	contraindicated in	gastric ulcers
+iron antianemic preparations	contraindicated in	gastric reflux
+iron antianemic preparations	contraindicated in	gastric bleeding
+iron antianemic preparations	contraindicated in	gastric perforation
+iron antianemic preparations	contraindicated in	gastric obstruction
+iron antianemic preparations	contraindicated in	gastric infection
+iron antianemic preparations	contraindicated in	gastric inflammation

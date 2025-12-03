@@ -1,0 +1,100 @@
+blood	is a	biological fluid
+blood	contains	red blood cells
+blood	contains	white blood cells
+blood	contains	platelets
+blood	contains	plasma
+red blood cells	carry	oxygen
+white blood cells	fight	infection
+platelets	clot	blood
+plasma	transports	nutrients
+plasma	contains	clotting factors
+clotting factors	initiate	coagulation
+coagulation	prevents	hemorrhage
+blood	is collected	from donor
+donor	must	be screened
+screening	checks	infectious diseases
+infectious diseases	include	HIV
+infectious diseases	include	hepatitis B
+infectious diseases	include	hepatitis C
+blood	is processed	into components
+components	include	red cell concentrate
+components	include	platelet concentrate
+components	include	plasma fraction
+red cell concentrate	used for	anemia
+platelet concentrate	used for	thrombocytopenia
+plasma fraction	used for	clotting disorders
+plasma fraction	contains	factor VIII
+factor VIII	treats	hemophilia A
+factor IX	treats	hemophilia B
+factor IX	found in	plasma fraction
+plasma fraction	used for	immune globulin
+immune globulin	treats	immunodeficiency
+immune globulin	derived from	plasma
+blood	stored	at 4°C
+storage	limits	bacterial growth
+storage	requires	refrigeration
+blood	shelf life	42 days
+platelets	shelf life	5 days
+red cells	shelf life	42 days
+plasma	shelf life	1 year
+blood	transfused	into patient
+transfusion	risks	transfusion reactions
+transfusion reactions	include	febrile non-hemolytic
+transfusion reactions	include	allergic
+transfusion reactions	include	hemolytic
+hemolytic reaction	caused by	ABO mismatch
+ABO mismatch	leads to	hemolysis
+hemolysis	causes	renal failure
+transfusion	monitored	by hemoglobin
+hemoglobin	indicates	oxygen carrying capacity
+oxygen carrying capacity	measured by	pulse oximetry
+pulse oximetry	measures	SpO2
+SpO2	indicates	tissue oxygenation
+tissue oxygenation	critical for	organ function
+organ function	assessed by	creatinine
+creatinine	indicates	kidney function
+kidney function	impaired by	anemia
+anemia	treated with	iron supplementation
+iron supplementation	delivered as	oral iron
+oral iron	absorbed in	duodenum
+duodenum	requires	gastric acid
+gastric acid	reduced by	proton pump inhibitors
+proton pump inhibitors	reduce	iron absorption
+iron absorption	increased by	vitamin C
+vitamin C	sourced from	citrus fruits
+citrus fruits	contain	vitamin C
+vitamin C	enhances	iron bioavailability
+iron bioavailability	affects	anemia resolution
+anemia resolution	improves	exercise tolerance
+exercise tolerance	measured by	VO2 max
+VO2 max	predicts	cardiovascular risk
+cardiovascular risk	mitigated by	statins
+statins	lower	LDL cholesterol
+LDL cholesterol	associated with	atherosclerosis
+atherosclerosis	leads to	myocardial infarction
+myocardial infarction	treated with	reperfusion therapy
+reperfusion therapy	includes	PCI
+PCI	requires	antiplatelet therapy
+antiplatelet therapy	includes	aspirin
+aspirin	inhibits	COX-1
+COX-1	reduces	thromboxane A2
+thromboxane A2	promotes	platelet aggregation
+platelet aggregation	prevents	clot dissolution
+clot dissolution	facilitated by	fibrinolysis
+fibrinolysis	mediated by	plasmin
+plasmin	activated from	plasminogen
+plasminogen	present in	plasma
+plasma	contains	antithrombin
+antithrombin	inhibits	thrombin
+thrombin	converts	fibrinogen to fibrin
+fibrin	forms	stable clot
+stable clot	essential for	wound healing
+wound healing	requires	collagen synthesis
+collagen synthesis	stimulated by	vitamin C
+vitamin C	also required for	immune function
+immune function	compromised by	immunosuppressants
+immunosuppressants	used in	transplant rejection
+transplant rejection	prevented by	tacrolimus
+tacrolimus	inhibits	calcineurin
+calcineurin	activates	NFAT
+NFAT	drives	T‑cell activation

@@ -1,0 +1,100 @@
+hormonal therapy	is a	gynecological drug
+hormonal therapy	treats	menstrual disorders
+hormonal therapy	reduces	endometriosis pain
+hormonal therapy	prevents	ovarian cysts
+hormonal therapy	lowers	uterine bleeding
+hormonal therapy	causes	weight gain
+hormonal therapy	causes	mood swings
+hormonal therapy	contraindicated in	pregnancy
+hormonal therapy	contraindicated in	breast cancer
+hormonal therapy	contraindicated in	thromboembolism
+hormonal therapy	improves	bone density
+hormonal therapy	reduces	fracture risk
+hormonal therapy	used for	menopause symptoms
+hormonal therapy	used for	infertility treatment
+hormonal therapy	used for	contraception
+hormonal therapy	used for	hormone replacement
+hormonal therapy	interacts with	anticoagulants
+hormonal therapy	interacts with	SSRIs
+hormonal therapy	interacts with	CYP3A4 inhibitors
+hormonal therapy	metabolized by	liver
+hormonal therapy	excreted by	kidneys
+hormonal therapy	has half‑life	12‑24 hours
+hormonal therapy	dosage	0.5‑2 mg daily
+hormonal therapy	side effect	nausea
+hormonal therapy	side effect	headache
+hormonal therapy	side effect	breast tenderness
+hormonal therapy	side effect	acne
+hormonal therapy	side effect	dizziness
+hormonal therapy	side effect	hot flashes
+hormonal therapy	side effect	vaginal dryness
+hormonal therapy	side effect	decreased libido
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia
+hormonal therapy	side effect	anemia

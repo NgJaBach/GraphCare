@@ -1,0 +1,100 @@
+anticestodals	are	drugs
+anticestodals	treat	cestode infection
+anticestodals	target	tapeworm
+anticestodals	inhibit	protease
+anticestodals	inhibit	cysteine protease
+anticestodals	inhibit	serine protease
+anticestodals	inhibit	aspartic protease
+anticestodals	block	parasite metabolism
+anticestodals	block	parasite cell wall synthesis
+anticestodals	block	parasite protein synthesis
+anticestodals	block	parasite DNA replication
+anticestodals	block	parasite fatty acid synthesis
+anticestodals	block	parasite cholesterol uptake
+anticestodals	block	parasite energy production
+anticestodals	block	parasite motility
+anticestodals	block	parasite attachment
+anticestodals	block	parasite reproduction
+anticestodals	cause	parasite death
+anticestodals	cause	parasite paralysis
+anticestodals	cause	parasite detachment
+anticestodals	cause	parasite excretion
+anticestodals	cause	parasite immune evasion failure
+anticestodals	cause	parasite antigen release
+anticestodals	cause	parasite inflammation
+anticestodals	cause	host side effects
+anticestodals	cause	nausea
+anticestodals	cause	vomiting
+anticestodals	cause	abdominal pain
+anticestodals	cause	diarrhea
+anticestodals	cause	dizziness
+anticestodals	cause	headache
+anticestodals	cause	rash
+anticestodals	cause	pruritus
+anticestodals	cause	hepatotoxicity
+anticestodals	cause	nephrotoxicity
+anticestodals	cause	anemia
+anticestodals	cause	thrombocytopenia
+anticestodals	cause	leukopenia
+anticestodals	cause	hypersensitivity
+anticestodals	cause	allergic reaction
+anticestodals	cause	anaphylaxis
+anticestodals	cause	drug‑drug interaction
+anticestodals	cause	drug‑food interaction
+anticestodals	cause	drug‑disease interaction
+anticestodals	cause	treatment failure
+anticestodals	cause	resistance
+anticestodals	cause	relapse
+anticestodals	cause	reinfection
+anticestodals	cause	mortality
+anticestodals	cause	morbidity
+anticestodals	improve	treatment outcome
+anticestodals	improve	cure rate
+anticestodals	improve	patient compliance
+anticestodals	improve	quality of life
+anticestodals	improve	survival
+anticestodals	improve	hospitalization duration
+anticestodals	improve	readmission risk
+anticestodals	improve	cost‑effectiveness
+anticestodals	improve	drug‑safety profile
+anticestodals	improve	drug‑efficacy profile
+anticestodals	are	first‑line therapy
+anticestodals	are	second‑line therapy
+anticestodals	are	adjunct therapy
+anticestodals	are	prophylactic agent
+anticestodals	are	combination therapy
+anticestodals	are	oral medication
+anticestodals	are	injectable medication
+anticestodals	are	topical medication
+anticestodals	are	veterinary drug
+anticestodals	are	human drug
+anticestodals	are	approved by FDA
+anticestodals	are	approved by EMA
+anticestodals	are	approved by WHO
+anticestodals	are	generic drug
+anticestodals	are	brand name drug
+anticestodals	are	prescription drug
+anticestodals	are	over‑the‑counter drug
+anticestodals	are	investigational drug
+anticestodals	are	drug class
+anticestodals	belong to	benzimidazole
+anticestodals	belong to	nitazoxanide
+anticestodals	belong to	praziquantel
+anticestodals	belong to	albendazole
+anticestodals	belong to	mebendazole
+anticestodals	belong to	niclosamide
+anticestodals	belong to	oxantel
+anticestodals	belong to	niclosamide
+anticestodals	belong to	niclosamide
+anticestodals	belong to	niclosamide
+anticestodals	belong to	niclosamide
+anticestodals	are	effective against	Taenia solium
+anticestodals	are	effective against	Echinococcus granulosus
+anticestodals	are	effective against	Diphyllobothrium latum
+anticestodals	are	effective against	Hymenolepis nana
+anticestodals	are	effective against	Taenia saginata
+anticestodals	are	effective against	Taenia asiatica
+anticestodals	are	effective against	Hymenolepis diminuta
+anticestodals	are	effective against	Davaine’s tapeworm
+anticestodals	are	effective against	Gyracantha
+anticestodals	are	effective against	Dipylidium caninum

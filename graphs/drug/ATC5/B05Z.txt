@@ -1,0 +1,100 @@
+hemodialytics	are	drugs
+hemofiltrates	are	drugs
+hemodialytics	treat	renal failure
+hemofiltrates	treat	renal failure
+hemodialytics	used in	dialysis
+hemofiltrates	used in	dialysis
+hemodialytics	reduce	serum creatinine
+hemofiltrates	reduce	serum creatinine
+hemodialytics	lower	potassium
+hemofiltrates	lower	potassium
+hemodialytics	lower	phosphate
+hemofiltrates	lower	phosphate
+hemodialytics	improve	uremic symptoms
+hemofiltrates	improve	uremic symptoms
+hemodialytics	cause	hypotension
+hemofiltrates	cause	hypotension
+hemodialytics	cause	nausea
+hemofiltrates	cause	nausea
+hemodialytics	cause	vomiting
+hemofiltrates	cause	vomiting
+hemodialytics	cause	electrolyte imbalance
+hemofiltrates	cause	electrolyte imbalance
+hemodialytics	contraindicated in	severe anemia
+hemofiltrates	contraindicated in	severe anemia
+hemodialytics	contraindicated in	active infection
+hemofiltrates	contraindicated in	active infection
+hemodialytics	contraindicated in	pregnancy
+hemofiltrates	contraindicated in	pregnancy
+hemodialytics	contraindicated in	lactation
+hemofiltrates	contraindicated in	lactation
+hemodialytics	interact with	diuretics
+hemofiltrates	interact with	diuretics
+hemodialytics	interact with	ACE inhibitors
+hemofiltrates	interact with	ACE inhibitors
+hemodialytics	interact with	ARBs
+hemofiltrates	interact with	ARBs
+hemodialytics	interact with	NSAIDs
+hemofiltrates	interact with	NSAIDs
+hemodialytics	interact with	beta blockers
+hemofiltrates	interact with	beta blockers
+hemodialytics	improve	blood pressure control
+hemofiltrates	improve	blood pressure control
+hemodialytics	improve	fluid balance
+hemofiltrates	improve	fluid balance
+hemodialytics	improve	acid–base balance
+hemofiltrates	improve	acid–base balance
+hemodialytics	improve	metabolic waste removal
+hemofiltrates	improve	metabolic waste removal
+hemodialytics	reduce	hospital readmission
+hemofiltrates	reduce	hospital readmission
+hemodialytics	reduce	mortality
+hemofiltrates	reduce	mortality
+hemodialytics	used with	bicarbonate buffer
+hemofiltrates	used with	bicarbonate buffer
+hemodialytics	used with	calcium gluconate
+hemofiltrates	used with	calcium gluconate
+hemodialytics	used with	potassium chloride
+hemofiltrates	used with	potassium chloride
+hemodialytics	used with	phosphate binders
+hemofiltrates	used with	phosphate binders
+hemodialytics	used with	vitamin D analogs
+hemofiltrates	used with	vitamin D analogs
+hemodialytics	used in	acute kidney injury
+hemofiltrates	used in	acute kidney injury
+hemodialytics	used in	chronic kidney disease
+hemofiltrates	used in	chronic kidney disease
+hemodialytics	used in	dialysis initiation
+hemofiltrates	used in	dialysis initiation
+hemodialytics	used in	dialysis maintenance
+hemofiltrates	used in	dialysis maintenance
+hemodialytics	used in	fluid overload
+hemofiltrates	used in	fluid overload
+hemodialytics	used in	hyperkalemia
+hemofiltrates	used in	hyperkalemia
+hemodialytics	used in	hyperphosphatemia
+hemofiltrates	used in	hyperphosphatemia
+hemodialytics	used in	metabolic acidosis
+hemofiltrates	used in	metabolic acidosis
+hemodialytics	used in	uremic encephalopathy
+hemofiltrates	used in	uremic encephalopathy
+hemodialytics	associated with	infection risk
+hemofiltrates	associated with	infection risk
+hemodialytics	associated with	bleeding risk
+hemofiltrates	associated with	bleeding risk
+hemodialytics	associated with	thrombosis
+hemofiltrates	associated with	thrombosis
+hemodialytics	associated with	catheter complications
+hemofiltrates	associated with	catheter complications
+hemodialytics	associated with	vascular access failure
+hemofiltrates	associated with	vascular access failure
+hemodialytics	associated with	cardiovascular events
+hemofiltrates	associated with	cardiovascular events
+hemodialytics	associated with	mortality risk
+hemofiltrates	associated with	mortality risk
+hemodialytics	monitored by	serum creatinine
+hemofiltrates	monitored by	serum creatinine
+hemodialytics	monitored by	potassium level
+hemofiltrates	monitored by	potassium level
+hemodialytics	monitored by	phosphate level
+hemofiltrates	monitored by	phosphate level

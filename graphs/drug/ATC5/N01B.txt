@@ -1,0 +1,100 @@
+local anesthetics	are	drugs
+local anesthetics	block	nerve conduction
+local anesthetics	used in	dental procedures
+local anesthetics	used in	minor surgeries
+local anesthetics	used in	epidural analgesia
+local anesthetics	used in	spinal anesthesia
+local anesthetics	used in	regional anesthesia
+local anesthetics	used in	topical anesthesia
+local anesthetics	classified by	potency
+local anesthetics	classified by	duration
+local anesthetics	classified by	lipid solubility
+local anesthetics	classified by	protein binding
+local anesthetics	classified by	onset
+local anesthetics	classified by	toxicity
+local anesthetics	include	lidocaine
+local anesthetics	include	bupivacaine
+local anesthetics	include	ropivacaine
+local anesthetics	include	mepivacaine
+local anesthetics	include	prilocaine
+local anesthetics	include	procaine
+local anesthetics	include	tetracaine
+local anesthetics	include	chloroprocaine
+local anesthetics	include	articaine
+local anesthetics	include	cocaine
+local anesthetics	have	amide bond
+local anesthetics	have	ester bond
+local anesthetics	metabolized by	liver
+local anesthetics	metabolized by	plasma esterases
+local anesthetics	excreted by	kidneys
+local anesthetics	can cause	methemoglobinemia
+local anesthetics	can cause	systemic toxicity
+local anesthetics	can cause	cardiac arrhythmia
+local anesthetics	can cause	CNS toxicity
+local anesthetics	can cause	allergic reaction
+local anesthetics	contraindicated in	pregnancy
+local anesthetics	contraindicated in	severe hepatic disease
+local anesthetics	contraindicated in	severe renal disease
+local anesthetics	contraindicated in	cardiac disease
+local anesthetics	contraindicated in	epilepsy
+local anesthetics	contraindicated in	lactation
+local anesthetics	contraindicated in	age < 1 year
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity
+local anesthetics	contraindicated in	obesity

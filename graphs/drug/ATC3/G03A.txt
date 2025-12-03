@@ -1,0 +1,100 @@
+hormonal contraceptives	contain	estrogen
+hormonal contraceptives	contain	progestin
+estrogen	reduces	ovulation
+progestin	thickens	cervical mucus
+cervical mucus	blocks	sperm
+hormonal contraceptives	prevent	pregnancy
+hormonal contraceptives	reduce	menstrual cramps
+hormonal contraceptives	lower	endometrial thickness
+endometrial thickness	decreases	implantation risk
+hormonal contraceptives	treat	acne
+hormonal contraceptives	treat	hirsutism
+hormonal contraceptives	treat	dysmenorrhea
+hormonal contraceptives	increase	bone density
+bone density	protects	osteoporosis
+hormonal contraceptives	cause	weight gain
+weight gain	increases	cardiovascular risk
+hormonal contraceptives	cause	nausea
+nausea	leads to	medication discontinuation
+hormonal contraceptives	cause	breast tenderness
+breast tenderness	leads to	decreased adherence
+hormonal contraceptives	increase	blood clot risk
+blood clot risk	predicts	venous thromboembolism
+venous thromboembolism	predicts	mortality
+hormonal contraceptives	increase	migraine frequency
+migraine frequency	predicts	emergency department visits
+hormonal contraceptives	reduce	endometriosis pain
+endometriosis pain	reduces	opioid use
+hormonal contraceptives	reduce	ovarian cysts
+ovarian cysts	reduce	surgical interventions
+hormonal contraceptives	reduce	dysmenorrhea severity
+dysmenorrhea severity	reduces	school absenteeism
+hormonal contraceptives	reduce	acne severity
+acne severity	improves	self‑esteem
+hormonal contraceptives	reduce	androgen levels
+androgen levels	reduce	hirsutism
+hirsutism	improves	quality of life
+hormonal contraceptives	reduce	menstrual bleeding
+menstrual bleeding	reduces	anemia risk
+anemia risk	reduces	hospitalization
+hormonal contraceptives	increase	liver enzyme levels
+liver enzyme levels	predict	hepatotoxicity
+hepatotoxicity	predicts	readmission
+hormonal contraceptives	increase	lipid levels
+lipid levels	predict	atherosclerosis
+atherosclerosis	predicts	cardiovascular events
+cardiovascular events	predict	mortality
+hormonal contraceptives	reduce	menstrual irregularity
+menstrual irregularity	reduces	anxiety
+anxiety	reduces	healthcare utilization
+hormonal contraceptives	reduce	ovarian hyperstimulation
+ovarian hyperstimulation	reduces	infertility treatment
+infertility treatment	reduces	cost
+hormonal contraceptives	reduce	breast cancer risk
+breast cancer risk	predicts	survival
+hormonal contraceptives	reduce	endometrial cancer risk
+endometrial cancer risk	predicts	mortality
+hormonal contraceptives	increase	breast density
+breast density	predicts	mammography sensitivity
+mammography sensitivity	predicts	early detection
+early detection	predicts	survival
+hormonal contraceptives	reduce	menstrual pain
+menstrual pain	reduces	analgesic use
+analgesic use	reduces	drug interactions
+drug interactions	reduce	adverse events
+adverse events	reduce	readmission
+hormonal contraceptives	reduce	dysmenorrhea episodes
+dysmenorrhea episodes	reduce	school absenteeism
+school absenteeism	reduces	academic performance
+academic performance	improves	future health outcomes
+hormonal contraceptives	reduce	acne flare‑ups
+acne flare‑ups	reduce	self‑esteem
+self‑esteem	improves	adherence
+adherence	reduces	unintended pregnancy
+unintended pregnancy	reduces	maternal morbidity
+maternal morbidity	reduces	neonatal complications
+neonatal complications	reduce	infant mortality
+hormonal contraceptives	reduce	menstrual spotting
+menstrual spotting	reduces	anxiety
+anxiety	reduces	healthcare visits
+healthcare visits	reduce	cost
+hormonal contraceptives	reduce	ovarian cyst formation
+ovarian cyst formation	reduces	surgical risk
+surgical risk	reduces	postoperative complications
+postoperative complications	reduce	readmission
+hormonal contraceptives	reduce	dysmenorrhea severity
+dysmenorrhea severity	reduces	opioid prescriptions
+opioid prescriptions	reduce	overdose risk
+overdose risk	reduces	mortality
+hormonal contraceptives	reduce	menstrual irregularity
+menstrual irregularity	reduces	anxiety
+anxiety	reduces	depression
+depression	reduces	suicide risk
+suicide risk	reduces	mortality
+hormonal contraceptives	increase	breast tenderness
+breast tenderness	leads to	discontinuation
+discontinuation	increases	unintended pregnancy
+unintended pregnancy	increases	maternal morbidity
+maternal morbidity	increases	neonatal complications
+neonatal complications	increase	infant mortality
+infant mortality	reduces	population health

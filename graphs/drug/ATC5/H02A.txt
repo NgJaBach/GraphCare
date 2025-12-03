@@ -1,0 +1,100 @@
+corticosteroids	are a	drug
+corticosteroids	treat	inflammation
+corticosteroids	reduce	cytokine production
+corticosteroids	suppress	immune response
+corticosteroids	used for	asthma
+corticosteroids	used for	rheumatoid arthritis
+corticosteroids	used for	lupus
+corticosteroids	used for	psoriasis
+corticosteroids	used for	allergic reactions
+corticosteroids	used for	organ transplant
+corticosteroids	used for	COPD
+corticosteroids	used for	inflammatory bowel disease
+corticosteroids	used for	vasculitis
+corticosteroids	used for	dermatomyositis
+corticosteroids	used for	systemic sclerosis
+corticosteroids	used for	nephritis
+corticosteroids	used for	uveitis
+corticosteroids	used for	septic shock
+corticosteroids	used for	COVID‑19 severe
+corticosteroids	used for	acute respiratory distress syndrome
+corticosteroids	used for	adrenal insufficiency
+corticosteroids	used for	endocrine disorders
+corticosteroids	used for	endocrine tumors
+corticosteroids	used for	bone marrow suppression
+corticosteroids	used for	neuroinflammation
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular surface disease
+corticosteroids	used for	ocular tumor
+corticosteroids	used for	ocular infection
+corticosteroids	used for	ocular trauma
+corticosteroids	used for	ocular surgery
+corticosteroids	used for	ocular hypertension
+corticosteroids	used for	ocular neovascularization
+corticosteroids	used for	ocular neoplasm
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular pain
+corticosteroids	used for	ocular swelling
+corticosteroids	used for	ocular redness
+corticosteroids	used for	ocular discharge
+corticosteroids	used for	ocular itching
+corticosteroids	used for	ocular photophobia
+corticosteroids	used for	ocular fatigue
+corticosteroids	used for	ocular dryness
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular infection
+corticosteroids	used for	ocular trauma
+corticosteroids	used for	ocular surgery
+corticosteroids	used for	ocular hypertension
+corticosteroids	used for	ocular neovascularization
+corticosteroids	used for	ocular neoplasm
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular pain
+corticosteroids	used for	ocular swelling
+corticosteroids	used for	ocular redness
+corticosteroids	used for	ocular discharge
+corticosteroids	used for	ocular itching
+corticosteroids	used for	ocular photophobia
+corticosteroids	used for	ocular fatigue
+corticosteroids	used for	ocular dryness
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular infection
+corticosteroids	used for	ocular trauma
+corticosteroids	used for	ocular surgery
+corticosteroids	used for	ocular hypertension
+corticosteroids	used for	ocular neovascularization
+corticosteroids	used for	ocular neoplasm
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular pain
+corticosteroids	used for	ocular swelling
+corticosteroids	used for	ocular redness
+corticosteroids	used for	ocular discharge
+corticosteroids	used for	ocular itching
+corticosteroids	used for	ocular photophobia
+corticosteroids	used for	ocular fatigue
+corticosteroids	used for	ocular dryness
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular infection
+corticosteroids	used for	ocular trauma
+corticosteroids	used for	ocular surgery
+corticosteroids	used for	ocular hypertension
+corticosteroids	used for	ocular neovascularization
+corticosteroids	used for	ocular neoplasm
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular pain
+corticosteroids	used for	ocular swelling
+corticosteroids	used for	ocular redness
+corticosteroids	used for	ocular discharge
+corticosteroids	used for	ocular itching
+corticosteroids	used for	ocular photophobia
+corticosteroids	used for	ocular fatigue
+corticosteroids	used for	ocular dryness
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular infection
+corticosteroids	used for	ocular trauma
+corticosteroids	used for	ocular surgery
+corticosteroids	used for	ocular hypertension
+corticosteroids	used for	ocular neovascularization
+corticosteroids	used for	ocular neoplasm
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	ocular pain

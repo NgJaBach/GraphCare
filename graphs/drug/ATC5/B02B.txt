@@ -1,0 +1,100 @@
+vitamin K	is a	cofactor
+vitamin K	activates	clotting factors
+clotting factors	include	factor II
+clotting factors	include	factor VII
+clotting factors	include	factor IX
+clotting factors	include	factor X
+clotting factors	are needed for	coagulation
+coagulation	prevents	hemorrhage
+hemorrhage	increases	mortality
+vitamin K	deficiency causes	bleeding
+bleeding	leads to	anemia
+anemia	predicts	readmission
+vitamin K	is found in	leafy greens
+leafy greens	are high in	folate
+folate	reduces	cardiovascular risk
+vitamin K	is absorbed	via bile
+bile	is produced by	liver
+liver	dysfunction leads to	coagulopathy
+coagulopathy	requires	vitamin K therapy
+vitamin K therapy	given as	injection
+injection	preferred over	oral
+oral	has	variable absorption
+variable absorption	causes	dose adjustment
+dose adjustment	improves	therapeutic outcome
+vitamin K	is antagonized by	warfarin
+warfarin	is a	anticoagulant
+anticoagulant	used for	atrial fibrillation
+atrial fibrillation	increases	stroke risk
+stroke risk	mitigated by	anticoagulant
+anticoagulant	monitored by	INR
+INR	is calculated from	PT
+PT	measures	clotting time
+clotting time	predicts	bleeding risk
+bleeding risk	predicts	hospitalization
+hospitalization	predicts	mortality
+vitamin K	is also a	vitamin
+vitamin	classified as	fat‑soluble
+fat‑soluble	stored in	adipose tissue
+adipose tissue	releases	vitamin K
+release	occurs during	fasting
+fasting	increases	vitamin K levels
+vitamin K	interacts with	antibiotics
+antibiotics	reduce	gut flora
+gut flora	synthesize	vitamin K
+synthesis	decreases	vitamin K
+decrease	leads to	subtherapeutic INR
+subtherapeutic INR	causes	clotting
+clotting	leads to	thrombosis
+thrombosis	causes	embolism
+embolism	predicts	mortality
+vitamin K	used in	newborn screening
+newborn screening	detects	hemophilia
+hemophilia	requires	vitamin K
+vitamin K	used in	surgical prophylaxis
+surgical prophylaxis	reduces	postoperative bleeding
+postoperative bleeding	reduces	transfusion
+transfusion	reduces	infection risk
+infection risk	predicts	ICU stay
+ICU stay	predicts	readmission
+vitamin K	is measured by	plasma level
+plasma level	correlates with	dietary intake
+dietary intake	predicts	cardiovascular health
+cardiovascular health	predicts	mortality
+vitamin K	is a	therapeutic target
+therapeutic target	used for	osteoporosis
+osteoporosis	increases	fracture risk
+fracture risk	predicts	hospitalization
+hospitalization	predicts	mortality
+vitamin K	is a	biomarker
+biomarker	indicates	liver function
+liver function	predicts	drug metabolism
+drug metabolism	affects	warfarin clearance
+warfarin clearance	determines	dose
+dose	affects	INR stability
+INR stability	predicts	bleeding events
+bleeding events	predict	readmission
+vitamin K	is synthesized by	gut bacteria
+gut bacteria	altered by	diet
+diet	influences	microbiome
+microbiome	influences	vitamin K
+vitamin K	is a	co‑factor for	gamma‑carboxylation
+gamma‑carboxylation	required for	protein C
+protein C	is an	anticoagulant
+anticoagulant	reduces	clot formation
+clot formation	reduces	ischemic stroke
+ischemic stroke	reduces	mortality
+vitamin K	is a	component of	bone matrix
+bone matrix	supports	bone strength
+bone strength	reduces	fracture risk
+fracture risk	reduces	mortality
+vitamin K	is a	component of	vitamin K2
+vitamin K2	found in	fermented foods
+fermented foods	contain	probiotics
+probiotics	improve	gut health
+gut health	improves	vitamin K absorption
+absorption	improves	coagulation
+coagulation	improves	surgical outcomes
+surgical outcomes	reduce	complications
+complications	reduce	readmission
+readmission	reduces	healthcare cost

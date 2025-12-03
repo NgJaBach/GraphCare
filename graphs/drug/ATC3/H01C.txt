@@ -1,0 +1,100 @@
+hypothalamic hormones	secreted by	hypothalamus
+hypothalamic hormones	regulate	pituitary gland
+hypothalamic hormones	control	endocrine system
+hypothalamic hormones	include	oxytocin
+hypothalamic hormones	include	vasopressin
+hypothalamic hormones	include	TRH
+hypothalamic hormones	include	CRH
+hypothalamic hormones	include	GnRH
+hypothalamic hormones	include	GHRH
+hypothalamic hormones	include	somatostatin
+oxytocin	stimulates	uterine contraction
+oxytocin	promotes	lactation
+vasopressin	increases	water reabsorption
+vasopressin	constricts	blood vessels
+TRH	stimulates	TSH release
+TRH	stimulates	prolactin release
+CRH	stimulates	ACTH release
+CRH	stimulates	cortisol release
+GnRH	stimulates	LH release
+GnRH	stimulates	FSH release
+GHRH	stimulates	GH release
+somatostatin	inhibits	GH release
+somatostatin	inhibits	insulin release
+hypothalamic hormones	influence	body temperature
+hypothalamic hormones	influence	appetite
+hypothalamic hormones	influence	sleep
+hypothalamic hormones	influence	stress response
+hypothalamic hormones	influence	reproductive function
+hypothalamic hormones	influence	growth
+hypothalamic hormones	influence	metabolism
+hypothalamic hormones	are released via	hypothalamo‑hypophyseal tract
+hypothalamic hormones	act on	anterior pituitary
+hypothalamic hormones	act on	posterior pituitary
+hypothalamic hormones	are regulated by	circadian rhythm
+hypothalamic hormones	are regulated by	feedback loops
+hypothalamic hormones	are regulated by	neurotransmitters
+hypothalamic hormones	are regulated by	hormones
+hypothalamic hormones	are regulated by	stress
+hypothalamic hormones	are regulated by	sleep
+hypothalamic hormones	are regulated by	feeding
+hypothalamic hormones	are regulated by	temperature
+hypothalamic hormones	are regulated by	hormonal status
+hypothalamic hormones	are regulated by	neural input
+hypothalamic hormones	are regulated by	endocrine signals
+hypothalamic hormones	are regulated by	cytokines
+hypothalamic hormones	are regulated by	immune signals
+hypothalamic hormones	are regulated by	metabolic signals
+hypothalamic hormones	are regulated by	blood glucose
+hypothalamic hormones	are regulated by	insulin
+hypothalamic hormones	are regulated by	leptin
+hypothalamic hormones	are regulated by	ghrelin
+hypothalamic hormones	are regulated by	adiponectin
+hypothalamic hormones	are regulated by	cortisol
+hypothalamic hormones	are regulated by	thyroid hormones
+hypothalamic hormones	are regulated by	sex steroids
+hypothalamic hormones	are regulated by	growth hormone
+hypothalamic hormones	are regulated by	prolactin
+hypothalamic hormones	are regulated by	insulin-like growth factor
+hypothalamic hormones	are regulated by	cytokine milieu
+hypothalamic hormones	are regulated by	inflammatory status
+hypothalamic hormones	are regulated by	hypoxia
+hypothalamic hormones	are regulated by	oxygen levels
+hypothalamic hormones	are regulated by	blood pressure
+hypothalamic hormones	are regulated by	osmolarity
+hypothalamic hormones	are regulated by	sodium levels
+hypothalamic hormones	are regulated by	potassium levels
+hypothalamic hormones	are regulated by	calcium levels
+hypothalamic hormones	are regulated by	magnesium levels
+hypothalamic hormones	are regulated by	vitamin D
+hypothalamic hormones	are regulated by	vitamin A
+hypothalamic hormones	are regulated by	vitamin B
+hypothalamic hormones	are regulated by	vitamin K
+hypothalamic hormones	are regulated by	folate
+hypothalamic hormones	are regulated by	iron
+hypothalamic hormones	are regulated by	zinc
+hypothalamic hormones	are regulated by	copper
+hypothalamic hormones	are regulated by	selenium
+hypothalamic hormones	are regulated by	manganese
+hypothalamic hormones	are regulated by	iodine
+hypothalamic hormones	are regulated by	fluoride
+hypothalamic hormones	are regulated by	chloride
+hypothalamic hormones	are regulated by	bicarbonate
+hypothalamic hormones	are regulated by	phosphate
+hypothalamic hormones	are regulated by	lactate
+hypothalamic hormones	are regulated by	pyruvate
+hypothalamic hormones	are regulated by	ketone bodies
+hypothalamic hormones	are regulated by	amino acids
+hypothalamic hormones	are regulated by	neurotransmitter levels
+hypothalamic hormones	are regulated by	synaptic plasticity
+hypothalamic hormones	are regulated by	neurogenesis
+hypothalamic hormones	are regulated by	glial activity
+hypothalamic hormones	are regulated by	microglial activation
+hypothalamic hormones	are regulated by	astrocyte function
+hypothalamic hormones	are regulated by	oligodendrocyte activity
+hypothalamic hormones	are regulated by	blood‑brain barrier
+hypothalamic hormones	are regulated by	cerebrospinal fluid
+hypothalamic hormones	are regulated by	neurohormonal axis
+hypothalamic hormones	are regulated by	endocrine‑immune crosstalk
+hypothalamic hormones	are regulated by	metabolic syndrome
+hypothalamic hormones	are regulated by	obesity

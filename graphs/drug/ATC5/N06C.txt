@@ -1,0 +1,100 @@
+psycholeptics	are	drugs
+psychoanaleptics	are	drugs
+psycholeptics	treat	anxiety
+psychoanaleptics	treat	depression
+psycholeptics	reduce	agitation
+psychoanaleptics	increase	mood
+psycholeptics	cause	sedation
+psychoanaleptics	cause	euphoria
+psycholeptics	have	side effects
+psychoanaleptics	have	side effects
+side effects	include	nausea
+side effects	include	dizziness
+side effects	include	constipation
+side effects	include	weight gain
+side effects	include	sexual dysfunction
+psycholeptics	are	anxiolytics
+psychoanaleptics	are	antidepressants
+psycholeptics	are	antipsychotics
+psychoanaleptics	are	stimulants
+psycholeptics	are	benzodiazepines
+psychoanaleptics	are	SSRIs
+psycholeptics	are	MAOIs
+psychoanaleptics	are	tricyclics
+psycholeptics	are	anticholinergics
+psychoanaleptics	are	dopamine agonists
+psycholeptics	are	serotonin agonists
+psychoanaleptics	are	norepinephrine reuptake inhibitors
+psycholeptics	are	GABA agonists
+psychoanaleptics	are	glutamate modulators
+psycholeptics	are	opioid antagonists
+psychoanaleptics	are	beta blockers
+psycholeptics	are	antihistamines
+psychoanaleptics	are	antipsychotics
+psycholeptics	are	sedatives
+psychoanaleptics	are	anxiolytics
+psycholeptics	are	hypnotics
+psychoanaleptics	are	mood stabilizers
+psycholeptics	are	antipsychotics
+psychoanaleptics	are	stimulants
+psycholeptics	are	hypnotics
+psychoanaleptics	are	anxiolytics
+psycholeptics	are	antidepressants
+psychoanaleptics	are	antipsychotics
+psycholeptics	are	sedatives
+psychoanaleptics	are	mood stabilizers
+psycholeptics	are	hypnotics
+psychoanaleptics	are	stimulants
+psycholeptics	are	anxiolytics
+psychoanaleptics	are	antidepressants
+psycholeptics	are	antipsychotics
+psychoanaleptics	are	sedatives
+psycholeptics	are	mood stabilizers
+psychoanaleptics	are	hypnotics
+psycholeptics	are	stimulants
+psychoanaleptics	are	anxiolytics
+psycholeptics	are	antidepressants
+psychoanaleptics	are	antipsychotics
+psycholeptics	are	sedatives
+psychoanaleptics	are	mood stabilizers
+psycholeptics	are	hypnotics
+psychoanaleptics	are	stimulants
+psycholeptics	are	anxiolytics
+psychoanaleptics	are	antidepressants
+psycholeptics	are	antipsychotics
+psychoanaleptics	are	sedatives
+psycholeptics	are	mood stabilizers
+psychoanaleptics	are	hypnotics
+psycholeptics	are	stimulants
+psychoanaleptics	are	anxiolytics
+psycholeptics	are	antidepressants
+psychoanaleptics	are	antipsychotics
+psycholeptics	are	sedatives
+psychoanaleptics	are	mood stabilizers
+psycholeptics	are	hypnotics
+psychoanaleptics	are	stimulants
+psycholeptics	are	anxiolytics
+psychoanaleptics	are	antidepressants
+psycholeptics	are	antipsychotics
+psychoanaleptics	are	sedatives
+psycholeptics	are	mood stabilizers
+psychoanaleptics	are	hypnotics
+psycholeptics	are	stimulants
+psychoanaleptics	are	anxiolytics
+psycholeptics	are	antidepressants
+psychoanaleptics	are	antipsychotics
+psycholeptics	are	sedatives
+psychoanaleptics	are	mood stabilizers
+psycholeptics	are	hypnotics
+psychoanaleptics	are	stimulants
+psycholeptics	are	anxiolytics
+psychoanaleptics	are	antidepressants
+psycholeptics	are	antipsychotics
+psychoanaleptics	are	sedatives
+psycholeptics	are	mood stabilizers
+psychoanaleptics	are	hypnotics
+psycholeptics	are	stimulants
+psychoanaleptics	are	anxiolytics
+psycholeptics	are	antidepressants
+psychoanaleptics	are	antipsychotics
+psycholeptics	are	sedatives

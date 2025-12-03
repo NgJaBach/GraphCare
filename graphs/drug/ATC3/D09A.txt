@@ -1,0 +1,100 @@
+medicated dressings	are	wound care
+medicated dressings	contain	antiseptic
+medicated dressings	reduce	infection
+medicated dressings	promote	healing
+medicated dressings	contain	silver
+silver	has	antimicrobial
+silver	reduces	bacterial growth
+medicated dressings	contain	iodine
+iodine	has	antiseptic
+iodine	reduces	viral infection
+medicated dressings	contain	honey
+honey	has	anti‑inflammatory
+honey	promotes	granulation
+medicated dressings	contain	antibiotic
+antibiotic	prevents	antibiotic resistance
+antibiotic	reduces	wound colonization
+medicated dressings	are	hydrocolloid
+hydrocolloid	provides	moist environment
+moist environment	accelerates	epithelialization
+medicated dressings	are	alginate
+alginate	absorbs	exudate
+exudate	reduces	maceration
+medicated dressings	are	foam
+foam	cushions	pressure points
+pressure points	reduce	shear
+medicated dressings	are	film
+film	protects	wound
+wound	reduces	contamination
+medicated dressings	are	hydrogel
+hydrogel	cools	pain
+pain	improves	patient comfort
+medicated dressings	are	antimicrobial
+antimicrobial	prevents	biofilm
+biofilm	reduces	healing
+medicated dressings	are	non‑adhesive
+non‑adhesive	reduces	dressing trauma
+dressing trauma	reduces	pain
+medicated dressings	are	silicone
+silicone	reduces	scarring
+scarring	improves	cosmetic outcome
+medicated dressings	are	hydrogel‑gel
+hydrogel‑gel	releases	growth factors
+growth factors	stimulate	fibroblast
+fibroblast	produces	collagen
+collagen	strengthens	tissue
+medicated dressings	are	silver‑ion
+silver‑ion	reduces	MRSA
+MRSA	reduces	treatment failure
+medicated dressings	are	chlorhexidine
+chlorhexidine	reduces	Staphylococcus
+Staphylococcus	reduces	wound complications
+medicated dressings	are	antibiotic‑impregnated
+antibiotic‑impregnated	reduces	systemic antibiotics
+systemic antibiotics	reduce	side effects
+side effects	improve	patient adherence
+medicated dressings	are	hydrocolloid‑gel
+hydrocolloid‑gel	maintains	pH
+pH	optimal	5.5
+optimal pH	promotes	keratinocyte
+keratinocyte	migrates	wound
+medicated dressings	are	bioactive
+bioactive	contains	peptides
+peptides	enhance	angiogenesis
+angiogenesis	improves	perfusion
+perfution	reduces	hypoxia
+hypoxia	reduces	necrosis
+medicated dressings	are	antimicrobial‑gel
+antimicrobial‑gel	releases	silver nanoparticles
+silver nanoparticles	reduce	biofilm formation
+biofilm formation	reduces	chronic wounds
+medicated dressings	are	hydrogel‑film
+hydrogel‑film	provides	barrier
+barrier	prevents	moisture loss
+moisture loss	reduces	desiccation
+desiccation	reduces	pain
+medicated dressings	are	foam‑gel
+foam‑gel	absorbs	exudate
+exudate	reduces	maceration
+medicated dressings	are	silicone‑gel
+silicone‑gel	reduces	scar tissue
+scar tissue	improves	functional outcome
+medicated dressings	are	hydrocolloid‑silicone
+hydrocolloid‑silicone	combines	moisture and protection
+moisture	promotes	collagen remodeling
+collagen remodeling	improves	wound strength
+medicated dressings	are	antimicrobial‑film
+antimicrobial‑film	reduces	bacterial load
+bacterial load	reduces	systemic infection
+systemic infection	reduces	mortality
+medicated dressings	are	antibiotic‑gel
+antibiotic‑gel	reduces	recurrence
+recurrence	improves	long‑term outcome
+medicated dressings	are	hydrogel‑film
+hydrogel‑film	enhances	oxygen diffusion
+oxygen diffusion	promotes	fibroblast activity
+fibroblast activity	increases	collagen deposition
+collagen deposition	strengthens	scar
+scar	reduces	contracture
+contracture	improves	mobility
+mobility	improves	quality of life

@@ -1,0 +1,100 @@
+selective calcium channel blockers	target	vascular smooth muscle
+vascular smooth muscle	regulates	blood pressure
+blood pressure	influences	cardiovascular risk
+cardiovascular risk	predicts	stroke
+stroke	leads to	disability
+disability	increases	readmission
+readmission	indicates	disease severity
+disease severity	guides	medication choice
+medication choice	includes	selective calcium channel blockers
+selective calcium channel blockers	reduce	peripheral resistance
+peripheral resistance	lowers	systolic blood pressure
+systolic blood pressure	correlates with	hypertension
+hypertension	treated by	calcium channel blockers
+calcium channel blockers	improve	exercise tolerance
+exercise tolerance	predicts	mortality
+mortality	associated with	heart failure
+heart failure	managed by	diuretics
+diuretics	used with	calcium channel blockers
+combination therapy	enhances	blood pressure control
+blood pressure control	reduces	cardiovascular events
+cardiovascular events	include	myocardial infarction
+myocardial infarction	requires	reperfusion therapy
+reperfusion therapy	improves	survival
+survival	depends on	timely intervention
+timely intervention	facilitated by	emergency department
+emergency department	triage	based on blood pressure
+blood pressure	measured by	cuff sphygmomanometer
+cuff sphygmomanometer	provides	systolic/diastolic values
+systolic/diastolic values	used in	risk scores
+risk scores	predict	10‑year mortality
+10‑year mortality	informs	preventive strategies
+preventive strategies	include	lifestyle modification
+lifestyle modification	reduces	obesity
+obesity	increases	insulin resistance
+insulin resistance	leads to	type 2 diabetes
+type 2 diabetes	treated with	metformin
+metformin	used with	calcium channel blockers
+drug interaction	may cause	hyperkalemia
+hyperkalemia	monitored by	serum potassium
+serum potassium	measured in	blood test
+blood test	scheduled	outpatient clinic
+outpatient clinic	offers	medication counseling
+medication counseling	improves	adherence
+adherence	predicts	therapeutic outcome
+therapeutic outcome	measured by	blood pressure variability
+blood pressure variability	linked to	arrhythmia
+arrhythmia	detected by	Holter monitor
+Holter monitor	records	ECG data
+ECG data	analyzed by	cardiologist
+cardiologist	prescribes	beta‑blocker
+beta‑blocker	combined with	calcium channel blocker
+combination therapy	reduces	heart rate
+heart rate	associated with	mortality
+mortality	influenced by	age
+age	considered in	pharmacokinetics
+pharmacokinetics	affects	drug clearance
+drug clearance	measured by	liver function
+liver function	assessed via	ALT/AST
+ALT/AST	abnormal	indicates	hepatic injury
+hepatic injury	contraindicates	certain drugs
+contraindications	listed in	prescribing information
+prescribing information	updated by	FDA
+FDA	approves	drug label
+drug label	includes	dosage
+dosage	adjusted for	renal function
+renal function	evaluated by	eGFR
+eGFR	calculated from	serum creatinine
+serum creatinine	measured in	blood test
+blood test	part of	routine checkup
+routine checkup	scheduled	annually
+annual checkup	includes	blood pressure
+blood pressure	tracked over time	trend analysis
+trend analysis	predicts	hypertension progression
+hypertension progression	leads to	end‑stage renal disease
+end‑stage renal disease	treated with	dialysis
+dialysis	requires	vascular access
+vascular access	created by	surgeon
+surgeon	performs	arteriovenous fistula
+arteriovenous fistula	reduces	infection risk
+infection risk	lowers	mortality
+mortality	influenced by	comorbidities
+comorbidities	include	chronic kidney disease
+chronic kidney disease	managed with	ACE inhibitor
+ACE inhibitor	combined with	calcium channel blocker
+combination therapy	improves	renal protection
+renal protection	measured by	proteinuria
+proteinuria	detected by	urine dipstick
+urine dipstick	performed at	clinic
+clinic	provides	patient education
+patient education	enhances	self‑monitoring
+self‑monitoring	involves	home blood pressure
+home blood pressure	recorded in	diary
+diary	reviewed by	nurse practitioner
+nurse practitioner	adjusts	medication
+medication adjustment	based on	blood pressure trend
+blood pressure trend	informs	prognosis
+prognosis	used for	shared decision‑making
+shared decision‑making	improves	patient satisfaction
+patient satisfaction	correlates with	adherence
+adherence	predicts	long‑term outcomes

@@ -1,0 +1,100 @@
+inflammation	indicates	immune response
+infection	triggers	inflammation
+inflammation	causes	pain
+infection	causes	fever
+inflammation	causes	redness
+infection	causes	swelling
+inflammation	causes	heat
+infection	causes	tissue damage
+inflammation	measured by	C-reactive protein
+infection	measured by	white blood cell count
+inflammation	measured by	erythrocyte sedimentation rate
+infection	measured by	procalcitonin
+inflammation	detected by	imaging
+infection	detected by	culture
+inflammation	detected by	biomarker panel
+infection	detected by	PCR
+inflammation	predicts	sepsis
+infection	predicts	organ failure
+inflammation	predicts	mortality
+infection	predicts	readmission
+inflammation	predicts	chronic disease
+infection	predicts	antibiotic resistance
+inflammation	treated with	NSAIDs
+infection	treated with	antibiotics
+inflammation	treated with	corticosteroids
+infection	treated with	antivirals
+inflammation	treated with	immunomodulators
+infection	treated with	antifungals
+inflammation	reduces	immune dysfunction
+infection	reduces	immune dysfunction
+inflammation	associated with	cardiovascular risk
+infection	associated with	cardiovascular risk
+inflammation	associated with	diabetes
+infection	associated with	diabetes
+inflammation	associated with	obesity
+infection	associated with	obesity
+inflammation	associated with	cancer
+infection	associated with	cancer
+inflammation	associated with	neurodegeneration
+infection	associated with	neurodegeneration
+inflammation	associated with	autoimmune disease
+infection	associated with	autoimmune disease
+inflammation	linked to	cytokine storm
+infection	linked to	cytokine storm
+inflammation	linked to	acute respiratory distress syndrome
+infection	linked to	acute respiratory distress syndrome
+inflammation	linked to	ARDS
+infection	linked to	ARDS
+inflammation	linked to	organ dysfunction
+infection	linked to	organ dysfunction
+inflammation	predicts	ICU admission
+infection	predicts	ICU admission
+inflammation	predicts	mechanical ventilation
+infection	predicts	mechanical ventilation
+inflammation	predicts	length of stay
+infection	predicts	length of stay
+inflammation	predicts	cost
+infection	predicts	cost
+inflammation	improves	diagnostic accuracy
+infection	improves	diagnostic accuracy
+inflammation	enhances	imaging contrast
+infection	enhances	imaging contrast
+inflammation	informs	treatment choice
+infection	informs	treatment choice
+inflammation	informs	antibiotic stewardship
+infection	informs	antibiotic stewardship
+inflammation	informs	de-escalation
+infection	informs	de-escalation
+inflammation	informs	prognosis
+infection	informs	prognosis
+inflammation	informs	vaccination strategy
+infection	informs	vaccination strategy
+inflammation	informs	public health policy
+infection	informs	public health policy
+inflammation	used in	sepsis scoring
+infection	used in	sepsis scoring
+inflammation	used in	risk stratification
+infection	used in	risk stratification
+inflammation	used in	clinical decision support
+infection	used in	clinical decision support
+inflammation	used in	machine learning model
+infection	used in	machine learning model
+inflammation	used in	predictive analytics
+infection	used in	predictive analytics
+inflammation	used in	early warning system
+infection	used in	early warning system
+inflammation	used in	patient monitoring
+infection	used in	patient monitoring
+inflammation	used in	telemedicine
+infection	used in	telemedicine
+inflammation	reduces	hospital readmission
+infection	reduces	hospital readmission
+inflammation	reduces	mortality
+infection	reduces	mortality
+inflammation	reduces	complications
+infection	reduces	complications
+inflammation	reduces	healthcare cost
+infection	reduces	healthcare cost
+inflammation	supports	personalized medicine
+infection	supports	personalized medicine

@@ -1,0 +1,100 @@
+antithrombotic agents	are	drugs
+antithrombotic agents	prevent	thrombosis
+antithrombotic agents	reduce	stroke risk
+antithrombotic agents	reduce	myocardial infarction risk
+antithrombotic agents	include	anticoagulants
+antithrombotic agents	include	antiplatelets
+antithrombotic agents	include	fibrinolytics
+antithrombotic agents	include	thrombolytics
+antithrombotic agents	include	antithrombotic drugs
+antithrombotic agents	are	prescription medications
+antithrombotic agents	are	over‑the‑counter medications
+antithrombotic agents	are	prescription-only medications
+antithrombotic agents	are	OTC medications
+antithrombotic agents	are	therapeutic agents
+antithrombotic agents	are	cardiovascular drugs
+antithrombotic agents	are	blood‑thinning drugs
+antithrombotic agents	are	clot‑preventing drugs
+antithrombotic agents	are	hemostasis modulators
+antithrombotic agents	are	pharmacologic agents
+antithrombotic agents	are	medical therapies
+antithrombotic agents	are	drug classes
+antithrombotic agents	are	therapeutic classes
+antithrombotic agents	are	drug categories
+antithrombotic agents	are	drug groups
+antithrombotic agents	are	drug families
+antithrombotic agents	are	drug subclasses
+antithrombotic agents	are	drug types
+antithrombotic agents	are	drug indications
+antithrombotic agents	are	drug indications for stroke
+antithrombotic agents	are	drug indications for MI
+antithrombotic agents	are	drug indications for atrial fibrillation
+antithrombotic agents	are	drug indications for venous thromboembolism
+antithrombotic agents	are	drug indications for deep vein thrombosis
+antithrombotic agents	are	drug indications for pulmonary embolism
+antithrombotic agents	are	drug indications for peripheral arterial disease
+antithrombotic agents	are	drug indications for coronary artery disease
+antithrombotic agents	are	drug indications for heart failure
+antithrombotic agents	are	drug indications for mechanical heart valves
+antithrombotic agents	are	drug indications for atrial flutter
+antithrombotic agents	are	drug indications for stroke prevention
+antithrombotic agents	are	drug indications for acute coronary syndrome
+antithrombotic agents	are	drug indications for stable angina
+antithrombotic agents	are	drug indications for unstable angina
+antithrombotic agents	are	drug indications for carotid artery disease
+antithrombotic agents	are	drug indications for aortic dissection
+antithrombotic agents	are	drug indications for thrombotic disorders
+antithrombotic agents	are	drug indications for thrombophilia
+antithrombotic agents	are	drug indications for hypercoagulability
+antithrombotic agents	are	drug indications for inherited thrombophilia
+antithrombotic agents	are	drug indications for acquired thrombophilia
+antithrombotic agents	are	drug indications for pregnancy thrombosis
+antithrombotic agents	are	drug indications for postpartum thrombosis
+antithrombotic agents	are	drug indications for cancer‑associated thrombosis
+antithrombotic agents	are	drug indications for orthopedic surgery
+antithrombotic agents	are	drug indications for cardiac surgery
+antithrombotic agents	are	drug indications for vascular surgery
+antithrombotic agents	are	drug indications for neurosurgery
+antithrombotic agents	are	drug indications for trauma
+antithrombotic agents	are	drug indications for burn injury
+antithrombotic agents	are	drug indications for critical care
+antithrombotic agents	are	drug indications for ICU
+antithrombotic agents	are	drug indications for sepsis
+antithrombotic agents	are	drug indications for COVID‑19
+antithrombotic agents	are	drug indications for COVID‑19 complications
+antithrombotic agents	are	drug indications for COVID‑19 thrombosis
+antithrombotic agents	are	drug indications for COVID‑19 stroke
+antithrombotic agents	are	drug indications for COVID‑19 pulmonary embolism
+antithrombotic agents	are	drug indications for COVID‑19 myocardial injury
+antithrombotic agents	are	drug indications for COVID‑19 heart failure
+antithrombotic agents	are	drug indications for COVID‑19 arrhythmia
+antithrombotic agents	are	drug indications for COVID‑19 atrial fibrillation
+antithrombotic agents	are	drug indications for COVID‑19 stroke prevention
+antithrombotic agents	are	drug indications for COVID‑19 myocardial infarction
+antithrombotic agents	are	drug indications for COVID‑19 venous thromboembolism
+antithrombotic agents	are	drug indications for COVID‑19 pulmonary embolism
+antithrombotic agents	are	drug indications for COVID‑19 deep vein thrombosis
+antithrombotic agents	are	drug indications for COVID‑19 arterial thrombosis
+antithrombotic agents	are	drug indications for COVID‑19 arterial embolism
+antithrombotic agents	are	drug indications for COVID‑19 microthrombosis
+antithrombotic agents	are	drug indications for COVID‑19 coagulopathy
+antithrombotic agents	are	drug indications for COVID‑19 disseminated intravascular coagulation
+antithrombotic agents	are	drug indications for COVID‑19 thrombocytopenia
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet aggregation
+antithrombotic agents	are	drug indications for COVID‑19 platelet inhibition
+antithrombotic agents	are	drug indications for COVID‑19 platelet consumption
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation
+antithrombotic agents	are	drug indications for COVID‑19 platelet dysfunction
+antithrombotic agents	are	drug indications for COVID‑19 platelet activation

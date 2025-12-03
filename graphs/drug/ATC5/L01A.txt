@@ -1,0 +1,100 @@
+alkylating agents	are a	drug class
+alkylating agents	treat	cancer
+alkylating agents	cause	DNA damage
+DNA damage	leads to	apoptosis
+alkylating agents	induce	myelosuppression
+myelosuppression	increases	infection risk
+infection risk	leads to	sepsis
+alkylating agents	cause	alopecia
+alopecia	causes	patient distress
+patient distress	reduces	quality of life
+quality of life	predicts	treatment adherence
+treatment adherence	affects	survival rate
+survival rate	predicts	overall mortality
+alkylating agents	used in	chemotherapy
+chemotherapy	scheduled	cycles
+cycles	determine	cumulative dose
+cumulative dose	correlates with	toxicity
+toxicity	measured by	grade 3/4 events
+grade 3/4 events	predict	readmission
+readmission	increases	healthcare cost
+healthcare cost	predicts	resource allocation
+resource allocation	influences	hospital staffing
+hospital staffing	affects	patient wait time
+patient wait time	predicts	patient satisfaction
+patient satisfaction	correlates with	hospital rating
+hospital rating	influences	referral patterns
+referral patterns	affect	patient volume
+patient volume	predicts	bed occupancy
+bed occupancy	determines	discharge timing
+discharge timing	influences	readmission risk
+readmission risk	associated with	comorbidity index
+comorbidity index	includes	diabetes
+diabetes	increases	infection risk
+infection risk	leads to	antibiotic use
+antibiotic use	causes	resistance
+resistance	predicts	treatment failure
+treatment failure	results in	disease progression
+disease progression	measured by	tumor burden
+tumor burden	correlates with	prognosis
+prognosis	predicts	survival
+survival	influenced by	age
+age	affects	pharmacokinetics
+pharmacokinetics	determine	drug clearance
+drug clearance	influences	toxicity
+toxicity	measured by	liver enzymes
+liver enzymes	indicate	hepatic dysfunction
+hepatic dysfunction	predicts	dose adjustment
+dose adjustment	required for	elderly
+elderly	have	reduced renal function
+renal function	affects	drug excretion
+drug excretion	determines	drug accumulation
+drug accumulation	leads to	neurotoxicity
+neurotoxicity	manifests as	neuropathy
+neuropathy	reduces	mobility
+mobility	predicts	fall risk
+fall risk	increases	hospitalization
+hospitalization	leads to	delirium
+delirium	associated with	longer stay
+longer stay	predicts	cost escalation
+cost escalation	drives	insurance premiums
+insurance premiums	affect	patient access
+patient access	influences	treatment initiation
+treatment initiation	delays	disease control
+disease control	measured by	remission rate
+remission rate	predicts	relapse
+relapse	requires	second-line therapy
+second-line therapy	includes	targeted agents
+targeted agents	used after	alkylating agents
+alkylating agents	cause	cross-resistance
+cross-resistance	reduces	efficacy
+efficacy	measured by	progression-free survival
+progression-free survival	predicts	overall survival
+overall survival	influenced by	performance status
+performance status	assessed by	ECOG
+ECOG	predicts	treatment choice
+treatment choice	determines	side effect profile
+side effect profile	includes	nausea
+nausea	treated with	antiemetics
+antiemetics	reduce	treatment discontinuation
+treatment discontinuation	leads to	suboptimal dosing
+suboptimal dosing	results in	lower response
+lower response	associated with	poor prognosis
+poor prognosis	increases	palliative care need
+palliative care need	affects	caregiver burden
+caregiver burden	predicts	caregiver depression
+caregiver depression	reduces	home care quality
+home care quality	influences	readmission
+readmission	correlates with	social support
+social support	measured by	support score
+support score	predicts	adherence
+adherence	determines	treatment outcome
+treatment outcome	measured by	response rate
+response rate	predicts	survival
+survival	influenced by	tumor genetics
+tumor genetics	include	BRCA mutation
+BRCA mutation	increases	sensitivity to alkylating agents
+sensitivity	leads to	higher response
+higher response	reduces	recurrence
+recurrence	predicts	second-line therapy
+second-line therapy	may include	immunotherapy

@@ -1,0 +1,100 @@
+proctoscopy	is a	medical procedure
+proctoscopy	examines	anorectal canal
+proctoscopy	uses	flexible scope
+proctoscopy	performed by	gastroenterologist
+proctoscopy	detects	hemorrhoids
+proctoscopy	detects	fissures
+proctoscopy	detects	polyps
+proctoscopy	detects	tumors
+proctoscopy	detects	inflammation
+proctoscopy	detects	infection
+proctoscopy	guides	biopsy
+proctoscopy	guides	sclerotherapy
+proctoscopy	guides	cauterization
+proctoscopy	requires	local anesthesia
+proctoscopy	requires	patient cooperation
+proctoscopy	has	low complication rate
+proctoscopy	contraindicated in	severe anal stenosis
+proctoscopy	contraindicated in	active perianal abscess
+proctoscopy	contraindicated in	severe bleeding disorder
+proctoscopy	improves	diagnostic accuracy
+proctoscopy	reduces	unnecessary surgery
+proctoscopy	reduces	patient discomfort
+proctoscopy	is part of	colorectal cancer screening
+proctoscopy	is part of	inflammatory bowel disease evaluation
+proctoscopy	is part of	anal fistula assessment
+proctoscopy	is part of	postoperative surveillance
+proctoscopy	is a	diagnostic tool
+proctoscopy	is a	therapeutic tool
+anorectal biopsy	is a	diagnostic procedure
+anorectal biopsy	samples	mucosal tissue
+anorectal biopsy	samples	submucosal tissue
+anorectal biopsy	samples	muscularis layer
+anorectal biopsy	performed during	proctoscopy
+anorectal biopsy	performed by	pathologist
+anorectal biopsy	requires	histopathology
+anorectal biopsy	detects	dysplasia
+anorectal biopsy	detects	carcinoma
+anorectal biopsy	detects	granulomatous inflammation
+anorectal biopsy	detects	infectious lesions
+anorectal biopsy	detects	benign polyps
+anorectal biopsy	detects	vascular malformations
+anorectal biopsy	informs	treatment plan
+anorectal biopsy	informs	prognosis
+anorectal biopsy	informs	surveillance interval
+anorectal biopsy	informs	need for surgery
+anorectal biopsy	informs	need for chemotherapy
+anorectal biopsy	informs	need for radiation
+anorectal biopsy	informs	need for immunotherapy
+anorectal biopsy	informs	need for antibiotics
+anorectal biopsy	informs	need for antifungals
+anorectal biopsy	informs	need for steroids
+anorectal biopsy	informs	need for biologics
+anorectal biopsy	informs	need for surveillance
+anorectal biopsy	informs	need for palliative care
+anorectal biopsy	informs	need for endoscopic removal
+anorectal biopsy	informs	need for surgical resection
+anorectal biopsy	informs	need for stenting
+anorectal biopsy	informs	need for drainage
+anorectal biopsy	informs	need for follow‑up imaging
+anorectal biopsy	informs	need for multidisciplinary review
+anorectal biopsy	informs	need for patient counseling
+anorectal biopsy	informs	need for genetic testing
+anorectal biopsy	informs	need for lifestyle modification
+anorectal biopsy	informs	need for dietary changes
+anorectal biopsy	informs	need for bowel training
+anorectal biopsy	informs	need for pelvic floor therapy
+anorectal biopsy	informs	need for pain management
+anorectal biopsy	informs	need for psychological support
+anorectal biopsy	informs	need for palliative surgery
+anorectal biopsy	informs	need for hospice referral
+anorectal biopsy	informs	need for clinical trial enrollment
+anorectal biopsy	informs	need for registry participation
+anorectal biopsy	informs	need for quality improvement
+anorectal biopsy	informs	need for cost‑effectiveness analysis
+anorectal biopsy	informs	need for health‑system planning
+anorectal biopsy	informs	need for resource allocation
+anorectal biopsy	informs	need for policy development
+anorectal biopsy	informs	need for guideline update
+anorectal biopsy	informs	need for educational program
+anorectal biopsy	informs	need for patient education
+anorectal biopsy	informs	need for caregiver training
+anorectal biopsy	informs	need for community outreach
+anorectal biopsy	informs	need for telemedicine follow‑up
+anorectal biopsy	informs	need for mobile health monitoring
+anorectal biopsy	informs	need for wearable sensor data
+anorectal biopsy	informs	need for electronic health record integration
+anorectal biopsy	informs	need for predictive modeling
+anorectal biopsy	informs	need for machine learning risk score
+anorectal biopsy	informs	need for AI pathology review
+anorectal biopsy	informs	need for decision support system
+anorectal biopsy	informs	need for patient‑reported outcome collection
+anorectal biopsy	informs	need for quality‑of‑life assessment
+anorectal biopsy	informs	need for cost‑utility analysis
+anorectal biopsy	informs	need for health‑equity evaluation
+anorectal biopsy	informs	need for population health surveillance
+anorectal biopsy	informs	need for epidemiologic study
+anorectal biopsy	informs	need for clinical audit
+anorectal biopsy	informs	need for peer review
+anorectal biopsy	informs	need for continuous improvement
+anorectal biopsy	informs	need for future research

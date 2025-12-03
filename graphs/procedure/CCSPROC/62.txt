@@ -1,0 +1,100 @@
+echocardiogram	is a	diagnostic procedure
+echocardiogram	measures	cardiac function
+echocardiogram	detects	valve disease
+echocardiogram	detects	cardiomyopathy
+echocardiogram	detects	pericardial effusion
+echocardiogram	uses	ultrasound
+echocardiogram	is performed	bedside
+echocardiogram	is performed	in ICU
+echocardiogram	is performed	in outpatient
+echocardiogram	requires	trained sonographer
+echocardiogram	can be	portable
+echocardiogram	is contraindicated	in severe claustrophobia
+echocardiogram	is safe	for pregnancy
+echocardiogram	is noninvasive	for patients
+echocardiogram	is used	for heart failure
+echocardiogram	is used	for arrhythmia
+echocardiogram	is used	for congenital heart disease
+echocardiogram	is used	for cardiac tamponade
+echocardiogram	is used	for pulmonary hypertension
+echocardiogram	is used	for myocarditis
+echocardiogram	is used	for pericarditis
+echocardiogram	is used	for cardiac amyloidosis
+echocardiogram	is used	for cardiac sarcoidosis
+echocardiogram	is used	for cardiac ischemia
+echocardiogram	is used	for cardiac stress
+echocardiogram	is used	for cardiac remodeling
+echocardiogram	is used	for cardiac biomarkers
+echocardiogram	is used	for cardiac imaging
+echocardiogram	is used	for cardiac surgery planning
+echocardiogram	is used	for cardiac catheterization guidance
+echocardiogram	is used	for cardiac MRI planning
+echocardiogram	is used	for cardiac CT planning
+echocardiogram	is used	for cardiac ultrasound guidance
+echocardiogram	is used	for cardiac echo-guided procedures
+echocardiogram	is used	for cardiac echo-guided injections
+echocardiogram	is used	for cardiac echo-guided biopsies
+echocardiogram	is used	for cardiac echo-guided ablations
+echocardiogram	is used	for cardiac echo-guided device implantation
+echocardiogram	is used	for cardiac echo-guided pacemaker implantation
+echocardiogram	is used	for cardiac echo-guided defibrillator implantation
+echocardiogram	is used	for cardiac echo-guided valve replacement
+echocardiogram	is used	for cardiac echo-guided valve repair
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure
+echocardiogram	is used	for cardiac echo-guided septal puncture
+echocardiogram	is used	for cardiac echo-guided septal injection
+echocardiogram	is used	for cardiac echo-guided septal ablation
+echocardiogram	is used	for cardiac echo-guided septal myectomy
+echocardiogram	is used	for cardiac echo-guided septal closure

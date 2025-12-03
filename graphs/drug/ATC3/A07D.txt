@@ -1,0 +1,100 @@
+antiproliferatives	are	drugs
+antiproliferatives	treat	cancer
+antiproliferatives	inhibit	cell division
+antiproliferatives	target	DNA replication
+antiproliferatives	target	microtubule dynamics
+antiproliferatives	target	protein synthesis
+antiproliferatives	include	alkylating agents
+antiproliferatives	include	antimetabolites
+antiproliferatives	include	topoisomerase inhibitors
+antiproliferatives	include	taxanes
+antiproliferatives	include	vinca alkaloids
+antiproliferatives	include	platinum compounds
+antiproliferatives	include	monoclonal antibodies
+antiproliferatives	include	tyrosine kinase inhibitors
+antiproliferatives	cause	neutropenia
+antiproliferatives	cause	alopecia
+antiproliferatives	cause	mucositis
+antiproliferatives	cause	cardiotoxicity
+antiproliferatives	cause	nephrotoxicity
+antiproliferatives	cause	neuropathy
+antiproliferatives	cause	myelosuppression
+antiproliferatives	cause	nausea
+antiproliferatives	cause	vomiting
+antiproliferatives	cause	anemia
+antiproliferatives	cause	thrombocytopenia
+antiproliferatives	cause	infection risk
+antiproliferatives	require	dose adjustment
+antiproliferatives	require	monitoring
+antiproliferatives	require	supportive care
+antiproliferatives	require	antiemetics
+antiproliferatives	require	growth factors
+antiproliferatives	require	hydration
+antiproliferatives	require	prophylactic antibiotics
+antiproliferatives	are	cytotoxic
+antiproliferatives	are	non‑cytotoxic
+antiproliferatives	are	targeted
+antiproliferatives	are	immunomodulatory
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal
+antiproliferatives	are	intraperitoneal
+antiproliferatives	are	topical
+antiproliferatives	are	intravesical
+antiproliferatives	are	intravitreal
+antiproliferatives	are	intranasal
+antiproliferatives	are	transdermal
+antiproliferatives	are	subcutaneous
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal
+antiproliferatives	are	intraperitoneal
+antiproliferatives	are	topical
+antiproliferatives	are	intravesical
+antiproliferatives	are	intravitreal
+antiproliferatives	are	intranasal
+antiproliferatives	are	transdermal
+antiproliferatives	are	subcutaneous
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal
+antiproliferatives	are	intraperitoneal
+antiproliferatives	are	topical
+antiproliferatives	are	intravesical
+antiproliferatives	are	intravitreal
+antiproliferatives	are	intranasal
+antiproliferatives	are	transdermal
+antiproliferatives	are	subcutaneous
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal
+antiproliferatives	are	intraperitoneal
+antiproliferatives	are	topical
+antiproliferatives	are	intravesical
+antiproliferatives	are	intravitreal
+antiproliferatives	are	intranasal
+antiproliferatives	are	transdermal
+antiproliferatives	are	subcutaneous
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal
+antiproliferatives	are	intraperitoneal
+antiproliferatives	are	topical
+antiproliferatives	are	intravesical
+antiproliferatives	are	intravitreal
+antiproliferatives	are	intranasal
+antiproliferatives	are	transdermal
+antiproliferatives	are	subcutaneous
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal
+antiproliferatives	are	intraperitoneal
+antiproliferatives	are	topical
+antiproliferatives	are	intravesical
+antiproliferatives	are	intravitreal
+antiproliferatives	are	intranasal
+antiproliferatives	are	transdermal
+antiproliferatives	are	subcutaneous
+antiproliferatives	are	oral
+antiproliferatives	are	intravenous
+antiproliferatives	are	intrathecal

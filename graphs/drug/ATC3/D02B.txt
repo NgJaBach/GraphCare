@@ -1,0 +1,100 @@
+sunscreen	protects	skin
+sunscreen	contains	SPF
+SPF	measures	UV‑B protection
+UV‑B	causes	sunburn
+sunscreen	reduces	skin cancer
+sunscreen	applied	before sun exposure
+sunscreen	re‑applied	every 2 hours
+sunscreen	is a	topical agent
+sunscreen	is available	over‑the‑counter
+sunscreen	is available	prescription
+sunscreen	contains	zinc oxide
+sunscreen	contains	titanium dioxide
+zinc oxide	is a	mineral filter
+titanium dioxide	is a	mineral filter
+mineral filter	is non‑irritating
+mineral filter	is broad‑spectrum
+sunscreen	contains	avobenzone
+avobenzone	is an	organic filter
+organic filter	absorbs	UVA
+organic filter	absorbs	UV‑A
+UVA	causes	photoaging
+photoaging	causes	wrinkles
+photoaging	causes	hyperpigmentation
+sunscreen	contains	octinoxate
+octinoxate	is an	organic filter
+organic filter	absorbs	UV‑B
+sunscreen	contains	oxybenzone
+oxybenzone	is an	organic filter
+oxybenzone	is a	potential allergen
+allergen	causes	contact dermatitis
+contact dermatitis	causes	itching
+sunscreen	is formulated	for sensitive skin
+sensitive skin	requires	fragrance‑free formula
+fragrance‑free formula	reduces	irritation
+sunscreen	is formulated	for oily skin
+oily skin	requires	mattifying finish
+mattifying finish	reduces	shine
+sunscreen	is formulated	for dry skin
+dry skin	requires	hydrating agents
+hydrating agents	include	glycerin
+glycerin	is a	humectant
+humectant	attracts	moisture
+sunscreen	is formulated	for children
+children	require	lower SPF
+lower SPF	is adequate	for children
+sunscreen	is formulated	for adults
+adults	require	higher SPF
+higher SPF	reduces	cumulative sun damage
+cumulative sun damage	increases	melanoma risk
+melanoma	is a	skin cancer
+skin cancer	is preventable	with sunscreen
+sunscreen	is used	in dermatology
+dermatology	treats	actinic keratosis
+actinic keratosis	is a	precancerous lesion
+precancerous lesion	can progress	to squamous cell carcinoma
+squamous cell carcinoma	is a	skin cancer
+sunscreen	is used	in oncology
+oncology	monitors	UV exposure
+UV exposure	is a	risk factor
+risk factor	increases	recurrence
+recurrence	is a	poor prognosis
+sunscreen	is used	in sports medicine
+sports medicine	recommends	protective clothing
+protective clothing	reduces	UV penetration
+UV penetration	is measured	by UPF
+UPF	is a	clothing rating
+clothing rating	is high	for long sleeves
+long sleeves	provide	full arm coverage
+full arm coverage	reduces	sunburn
+sunscreen	is used	in ophthalmology
+ophthalmology	uses	sunglasses
+sunglasses	block	UV‑A
+sunglasses	block	UV‑B
+UV‑A	causes	cataracts
+cataracts	cause	vision loss
+vision loss	leads to	disability
+sunglasses	reduce	glare
+glare	improves	visual comfort
+visual comfort	improves	athletic performance
+athletic performance	improves	injury prevention
+injury prevention	reduces	medical costs
+medical costs	affect	health economics
+health economics	influence	insurance premiums
+insurance premiums	influence	patient adherence
+patient adherence	affects	treatment outcomes
+treatment outcomes	influence	mortality
+mortality	is a	healthcare metric
+healthcare metric	used	in quality assessment
+quality assessment	informs	policy decisions
+policy decisions	shape	public health guidelines
+public health guidelines	recommend	SPF 30
+SPF 30	blocks	97% of UV‑B
+blocking UV‑B	prevents	erythema
+erythema	is a	sign of sunburn
+sunburn	increases	inflammation
+inflammation	leads to	systemic symptoms
+systemic symptoms	include	fatigue
+fatigue	reduces	quality of life
+quality of life	is a	patient‑reported outcome
+patient‑reported outcome	guides	clinical decision‑making

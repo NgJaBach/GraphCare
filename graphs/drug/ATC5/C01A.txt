@@ -1,0 +1,100 @@
+cardiac glycosides	are	drugs
+cardiac glycosides	treat	heart failure
+cardiac glycosides	treat	atrial fibrillation
+cardiac glycosides	increase	cardiac contractility
+cardiac glycosides	inhibit	Na⁺/K⁺‑ATPase
+Na⁺/K⁺‑ATPase	regulates	intracellular Na⁺
+intracellular Na⁺	affects	Ca²⁺ influx
+Ca²⁺ influx	enhances	myocardial force
+cardiac glycosides	derived from	foxglove
+foxglove	contains	digitoxin
+digitoxin	is a	cardiac glycoside
+cardiac glycosides	include	digoxin
+digoxin	used for	ventricular arrhythmia
+digoxin	has	narrow therapeutic index
+narrow therapeutic index	leads to	toxicity risk
+digoxin toxicity	causes	nausea
+digoxin toxicity	causes	vomiting
+digoxin toxicity	causes	visual changes
+visual changes	include	yellow‑green halos
+digoxin toxicity	causes	arrhythmia
+arrhythmia	can be	ventricular tachycardia
+cardiac glycosides	contraindicated in	hyperkalemia
+hyperkalemia	increases	arrhythmia risk
+cardiac glycosides	contraindicated in	renal failure
+renal failure	reduces	drug clearance
+cardiac glycosides	contraindicated in	hepatic failure
+hepatic failure	reduces	metabolism
+cardiac glycosides	interact with	amiodarone
+amiodarone	increases	digoxin levels
+cardiac glycosides	interact with	verapamil
+verapamil	increases	digoxin levels
+cardiac glycosides	interact with	quinidine
+quinidine	increases	digoxin levels
+cardiac glycosides	interact with	cimetidine
+cimetidine	increases	digoxin levels
+cardiac glycosides	interact with	beta‑blockers
+beta‑blockers	mask	digoxin toxicity
+cardiac glycosides	monitored by	serum digoxin level
+serum digoxin level	measured in	blood
+blood	sampled via	venipuncture
+cardiac glycosides	dosage adjusted by	renal function
+renal function	assessed by	eGFR
+eGFR	calculated from	creatinine
+creatinine	measured in	serum
+cardiac glycosides	dosage adjusted by	age
+age	influences	drug metabolism
+cardiac glycosides	dosage adjusted by	weight
+weight	influences	volume of distribution
+cardiac glycosides	used in	chronic heart failure
+chronic heart failure	predicts	mortality
+cardiac glycosides	improve	ejection fraction
+ejection fraction	predicts	survival
+cardiac glycosides	reduce	hospital readmission
+hospital readmission	predicts	healthcare cost
+cardiac glycosides	reduce	mortality
+mortality	predicted by	NYHA class
+NYHA class	graded by	functional capacity
+functional capacity	measured by	6‑minute walk
+6‑minute walk	predicts	prognosis
+cardiac glycosides	associated with	bradycardia
+bradycardia	leads to	syncope
+syncope	increases	fall risk
+fall risk	predicts	injury
+injury	leads to	hospitalization
+hospitalization	increases	readmission risk
+cardiac glycosides	used with	ACE inhibitors
+ACE inhibitors	reduce	afterload
+afterload	reduces	cardiac workload
+cardiac workload	reduces	ischemia
+ischemia	predicts	arrhythmia
+arrhythmia	treated by	antiarrhythmic drugs
+antiarrhythmic drugs	include	amiodarone
+amiodarone	interacts with	digoxin
+digoxin	metabolized by	CYP3A4
+CYP3A4	inhibited by	ketoconazole
+ketoconazole	increases	digoxin levels
+digoxin	excreted by	kidneys
+kidneys	function assessed by	creatinine clearance
+creatinine clearance	predicts	drug clearance
+drug clearance	influences	dosing interval
+dosing interval	affects	trough level
+trough level	predicts	toxicity
+toxicity	leads to	mortality
+mortality	predicted by	serum digoxin level
+serum digoxin level	monitored by	immunoassay
+immunoassay	detects	digoxin concentration
+digoxin concentration	expressed as	ng/mL
+ng/mL	used to	guide therapy
+therapy	guided by	clinical guidelines
+clinical guidelines	recommend	target range
+target range	set at	0.5‑2.0 ng/mL
+cardiac glycosides	contraindicated in	pregnancy
+pregnancy	increases	fetal risk
+fetal risk	includes	teratogenicity
+teratogenicity	leads to	congenital defects
+congenital defects	increase	neonatal morbidity
+neonatal morbidity	predicts	long‑term outcomes
+long‑term outcomes	influenced by	early intervention
+early intervention	improves	survival
+survival	measured by	5‑year mortality

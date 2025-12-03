@@ -1,0 +1,100 @@
+antianemic preparations	belong to	ATC
+antianemic preparations	treat	anemia
+antianemic preparations	include	iron salts
+iron salts	are	mineral supplement
+iron salts	cause	constipation
+iron salts	cause	nausea
+iron salts	cause	dark stool
+iron salts	are	oral medication
+iron salts	are	intravenous medication
+iron salts	are	parenteral medication
+antianemic preparations	include	folic acid
+folic acid	is	vitamin
+folic acid	prevent	neural tube defects
+folic acid	cause	headache
+folic acid	cause	rash
+folic acid	is	oral medication
+antianemic preparations	include	vitamin B12
+vitamin B12	is	vitamin
+vitamin B12	treat	pernicious anemia
+vitamin B12	cause	neuropathy
+vitamin B12	cause	constipation
+vitamin B12	is	oral medication
+vitamin B12	is	intramuscular medication
+antianemic preparations	include	erythropoiesis‑stimulating agents
+erythropoiesis‑stimulating agents	are	biologic
+erythropoiesis‑stimulating agents	treat	chronic kidney disease anemia
+erythropoiesis‑stimulating agents	cause	hypertension
+erythropoiesis‑stimulating agents	cause	thromboembolism
+erythropoiesis‑stimulating agents	are	subcutaneous medication
+erythropoiesis‑stimulating agents	are	intravenous medication
+antianemic preparations	include	blood transfusion
+blood transfusion	is	procedure
+blood transfusion	treat	severe anemia
+blood transfusion	cause	transfusion reaction
+blood transfusion	cause	iron overload
+blood transfusion	cause	infection
+blood transfusion	is	inpatient procedure
+antianemic preparations	include	darbepoetin alfa
+darbepoetin alfa	is	erythropoiesis‑stimulating agent
+darbepoetin alfa	cause	hypertension
+darbepoetin alfa	cause	thromboembolism
+darbepoetin alfa	is	subcutaneous medication
+antianemic preparations	include	epoetin alfa
+epoetin alfa	is	erythropoiesis‑stimulating agent
+epoetin alfa	cause	hypertension
+epoetin alfa	cause	thromboembolism
+epoetin alfa	is	subcutaneous medication
+antianemic preparations	include	ferric carboxymaltose
+ferric carboxymaltose	is	iron salt
+ferric carboxymaltose	cause	constipation
+ferric carboxymaltose	cause	nausea
+ferric carboxymaltose	is	intravenous medication
+antianemic preparations	include	ferrous sulfate
+ferrous sulfate	is	iron salt
+ferrous sulfate	cause	constipation
+ferrous sulfate	cause	nausea
+ferrous sulfate	is	oral medication
+antianemic preparations	include	ferrous gluconate
+ferrous gluconate	is	iron salt
+ferrous gluconate	cause	constipation
+ferrous gluconate	cause	nausea
+ferrous gluconate	is	oral medication
+antianemic preparations	include	ferrous fumarate
+ferrous fumarate	is	iron salt
+ferrous fumarate	cause	constipation
+ferrous fumarate	cause	nausea
+ferrous fumarate	is	oral medication
+antianemic preparations	include	ferrous bisglycinate
+ferrous bisglycinate	is	iron salt
+ferrous bisglycinate	cause	constipation
+ferrous bisglycinate	cause	nausea
+ferrous bisglycinate	is	oral medication
+antianemic preparations	include	folinic acid
+folinic acid	is	vitamin
+folinic acid	treat	folate deficiency
+folinic acid	cause	headache
+folinic acid	cause	rash
+folinic acid	is	oral medication
+antianemic preparations	include	methylcobalamin
+methylcobalamin	is	vitamin B12
+methylcobalamin	treat	pernicious anemia
+methylcobalamin	cause	neuropathy
+methylcobalamin	cause	constipation
+methylcobalamin	is	oral medication
+methylcobalamin	is	intramuscular medication
+antianemic preparations	include	sodium ferric gluconate complex
+sodium ferric gluconate complex	is	iron salt
+sodium ferric gluconate complex	cause	constipation
+sodium ferric gluconate complex	cause	nausea
+sodium ferric gluconate complex	is	intravenous medication
+antianemic preparations	include	iron dextran
+iron dextran	is	iron salt
+iron dextran	cause	anaphylaxis
+iron dextran	cause	constipation
+iron dextran	cause	nausea
+iron dextran	is	intravenous medication
+antianemic preparations	include	vitamin D
+vitamin D	is	vitamin
+vitamin D	treat	osteomalacia
+vitamin D	cause	hypercalcemia

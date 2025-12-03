@@ -1,0 +1,815 @@
+ophthalmology	is a	medical specialty
+ophthalmology	focuses on	eye
+eye	contains	cornea
+eye	contains	lens
+eye	contains	retina
+eye	contains	optic nerve
+eye	contains	sclera
+eye	contains	iris
+eye	contains	pupil
+eye	contains	vitreous
+eye	contains	aqueous humor
+eye	has	visual acuity
+eye	has	color vision
+eye	has	depth perception
+eye	has	peripheral vision
+eye	has	night vision
+eye	is affected by	cataract
+eye	is affected by	glaucoma
+eye	is affected by	macular degeneration
+eye	is affected by	diabetic retinopathy
+eye	is affected by	retinal detachment
+eye	is affected by	uveitis
+eye	is affected by	conjunctivitis
+eye	is affected by	dry eye
+eye	is affected by	astigmatism
+eye	is affected by	myopia
+eye	is affected by	hyperopia
+eye	is affected by	presbyopia
+eye	is affected by	amblyopia
+eye	is affected by	strabismus
+eye	is affected by	keratoconus
+eye	is affected by	retinal vein occlusion
+eye	is affected by	optic neuropathy
+eye	is affected by	ocular hypertension
+eye	is affected by	ocular trauma
+eye	is affected by	ocular infection
+eye	is affected by	ocular inflammation
+eye	is affected by	ocular allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular tumor
+eye	is affected by	ocular edema
+eye	is affected by	ocular pain
+eye	is affected by	visual field loss
+eye	is affected by	color vision deficiency
+eye	is affected by	night blindness
+eye	is affected by	photophobia
+eye	is affected by	diplopia
+eye	is affected by	ocular motility disorder
+eye	is affected by	ocular fatigue
+eye	is affected by	ocular dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness
+eye	is affected by	ocular surface inflammation
+eye	is affected by	ocular surface infection
+eye	is affected by	ocular surface allergy
+eye	is affected by	ocular surface disease
+eye	is affected by	ocular surface tumor
+eye	is affected by	ocular surface edema
+eye	is affected by	ocular surface pain
+eye	is affected by	ocular surface visual field loss
+eye	is affected by	ocular surface color vision deficiency
+eye	is affected by	ocular surface night blindness
+eye	is affected by	ocular surface photophobia
+eye	is affected by	ocular surface diplopia
+eye	is affected by	ocular surface motility disorder
+eye	is affected by	ocular surface fatigue
+eye	is affected by	ocular surface dryness

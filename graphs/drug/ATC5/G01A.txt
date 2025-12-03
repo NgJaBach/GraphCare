@@ -1,0 +1,100 @@
+antiinfectives	are	drugs
+antiseptics	are	drugs
+antiinfectives	treat	bacterial infections
+antiseptics	treat	skin infections
+antiinfectives	include	antibiotics
+antiseptics	include	disinfectants
+antibiotics	are	antiinfectives
+disinfectants	are	antiseptics
+antibiotics	reduce	mortality
+disinfectants	reduce	hospital-acquired infections
+antibiotics	cause	resistance
+disinfectants	cause	skin irritation
+antibiotics	are	prescription drugs
+disinfectants	are	over-the-counter products
+antibiotics	are	broad-spectrum
+antibiotics	are	narrow-spectrum
+broad-spectrum	target	gram-positive bacteria
+broad-spectrum	target	gram-negative bacteria
+narrow-spectrum	target	staphylococcus
+narrow-spectrum	target	streptococcus
+antibiotics	are	first-line therapy
+antibiotics	are	second-line therapy
+antibiotics	are	prophylactic
+disinfectants	are	alcohol-based
+disinfectants	are	chlorine-based
+disinfectants	are	quaternary ammonium
+alcohol-based	kill	viruses
+chlorine-based	kill	bacteria
+quaternary ammonium	kill	fungi
+antibiotics	have	side effects
+side effects	include	nausea
+side effects	include	diarrhea
+side effects	include	allergic reactions
+disinfectants	have	side effects
+side effects	include	contact dermatitis
+side effects	include	respiratory irritation
+antibiotics	are	contraindicated in pregnancy
+antibiotics	are	contraindicated in lactation
+disinfectants	are	contraindicated in children
+disinfectants	are	contraindicated in pets
+antibiotics	are	effective against MRSA
+antibiotics	are	effective against VRE
+disinfectants	are	effective against C. difficile spores
+disinfectants	are	effective against influenza
+antibiotics	are	used in surgery
+disinfectants	are	used in surgery
+antibiotics	are	used in wound care
+disinfectants	are	used in wound care
+antibiotics	are	used in urinary tract infections
+disinfectants	are	used in urinary tract infections
+antibiotics	are	used in respiratory infections
+disinfectants	are	used in respiratory infections
+antibiotics	are	used in gastrointestinal infections
+disinfectants	are	used in gastrointestinal infections
+antibiotics	are	used in meningitis
+disinfectants	are	used in meningitis
+antibiotics	are	used in sepsis
+disinfectants	are	used in sepsis
+antibiotics	are	used in osteomyelitis
+disinfectants	are	used in osteomyelitis
+antibiotics	are	used in endocarditis
+disinfectants	are	used in endocarditis
+antibiotics	are	used in cellulitis
+disinfectants	are	used in cellulitis
+antibiotics	are	used in pneumonia
+disinfectants	are	used in pneumonia
+antibiotics	are	used in sinusitis
+disinfectants	are	used in sinusitis
+antibiotics	are	used in otitis media
+disinfectants	are	used in otitis media
+antibiotics	are	used in mastoiditis
+disinfectants	are	used in mastoiditis
+antibiotics	are	used in meningitis
+disinfectants	are	used in meningitis
+antibiotics	are	used in septic arthritis
+disinfectants	are	used in septic arthritis
+antibiotics	are	used in prosthetic joint infection
+disinfectants	are	used in prosthetic joint infection
+antibiotics	are	used in catheter-associated infections
+disinfectants	are	used in catheter-associated infections
+antibiotics	are	used in ventilator-associated pneumonia
+disinfectants	are	used in ventilator-associated pneumonia
+antibiotics	are	used in surgical site infections
+disinfectants	are	used in surgical site infections
+antibiotics	are	used in burn infections
+disinfectants	are	used in burn infections
+antibiotics	are	used in neonatal infections
+disinfectants	are	used in neonatal infections
+antibiotics	are	used in pediatric infections
+disinfectants	are	used in pediatric infections
+antibiotics	are	used in adult infections
+disinfectants	are	used in adult infections
+antibiotics	are	used in immunocompromised patients
+disinfectants	are	used in immunocompromised patients
+antibiotics	are	used in patients with renal impairment
+disinfectants	are	used in patients with renal impairment
+antibiotics	are	used in patients with hepatic impairment
+disinfectants	are	used in patients with hepatic impairment
+antibiotics	are	used in patients with allergies
+disinfectants	are	used in patients with allergies

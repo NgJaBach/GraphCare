@@ -1,0 +1,100 @@
+antiadrenergic agents	act on	peripheral receptors
+antiadrenergic agents	inhibit	norepinephrine reuptake
+antiadrenergic agents	block	alpha‑1 receptors
+antiadrenergic agents	block	beta‑1 receptors
+antiadrenergic agents	block	beta‑2 receptors
+antiadrenergic agents	reduce	blood pressure
+antiadrenergic agents	reduce	heart rate
+antiadrenergic agents	reduce	cardiac output
+antiadrenergic agents	reduce	peripheral resistance
+antiadrenergic agents	treat	hypertension
+antiadrenergic agents	treat	arrhythmia
+antiadrenergic agents	treat	angina
+antiadrenergic agents	treat	heart failure
+antiadrenergic agents	treat	Raynaud’s phenomenon
+antiadrenergic agents	treat	migraine
+antiadrenergic agents	treat	pre‑eclampsia
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	severe aortic stenosis
+antiadrenergic agents	contraindicated in	severe COPD
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	side effect	orthostatic hypotension
+antiadrenergic agents	side effect	dizziness
+antiadrenergic agents	side effect	fatigue
+antiadrenergic agents	side effect	headache
+antiadrenergic agents	side effect	nausea
+antiadrenergic agents	side effect	vomiting
+antiadrenergic agents	side effect	constipation
+antiadrenergic agents	side effect	blurred vision
+antiadrenergic agents	side effect	dry mouth
+antiadrenergic agents	side effect	sexual dysfunction
+antiadrenergic agents	side effect	tachycardia
+antiadrenergic agents	side effect	arrhythmia
+antiadrenergic agents	side effect	edema
+antiadrenergic agents	side effect	weight gain
+antiadrenergic agents	side effect	hyperglycemia
+antiadrenergic agents	side effect	hyperlipidemia
+antiadrenergic agents	side effect	insomnia
+antiadrenergic agents	side effect	anxiety
+antiadrenergic agents	side effect	depression
+antiadrenergic agents	drug interaction	calcium channel blockers
+antiadrenergic agents	drug interaction	diuretics
+antiadrenergic agents	drug interaction	ACE inhibitors
+antiadrenergic agents	drug interaction	ARBs
+antiadrenergic agents	drug interaction	beta‑blockers
+antiadrenergic agents	drug interaction	digoxin
+antiadrenergic agents	drug interaction	NSAIDs
+antiadrenergic agents	drug interaction	MAO inhibitors
+antiadrenergic agents	drug interaction	SSRIs
+antiadrenergic agents	drug interaction	tricyclic antidepressants
+antiadrenergic agents	drug interaction	lithium
+antiadrenergic agents	drug interaction	warfarin
+antiadrenergic agents	drug interaction	clopidogrel
+antiadrenergic agents	drug interaction	statins
+antiadrenergic agents	drug interaction	corticosteroids
+antiadrenergic agents	drug interaction	alcohol
+antiadrenergic agents	drug interaction	caffeine
+antiadrenergic agents	pharmacokinetics	hepatic metabolism
+antiadrenergic agents	pharmacokinetics	renal excretion
+antiadrenergic agents	pharmacokinetics	half‑life
+antiadrenergic agents	pharmacokinetics	bioavailability
+antiadrenergic agents	pharmacodynamics	receptor affinity
+antiadrenergic agents	pharmacodynamics	dose‑response
+antiadrenergic agents	pharmacodynamics	therapeutic window
+antiadrenergic agents	dosage	oral administration
+antiadrenergic agents	dosage	intravenous administration
+antiadrenergic agents	dosage	subcutaneous administration
+antiadrenergic agents	dosage	topical application
+antiadrenergic agents	dosage	transdermal patch
+antiadrenergic agents	dosage	inhalation
+antiadrenergic agents	dosage	intramuscular injection
+antiadrenergic agents	monitoring	blood pressure
+antiadrenergic agents	monitoring	heart rate
+antiadrenergic agents	monitoring	ECG
+antiadrenergic agents	monitoring	renal function
+antiadrenergic agents	monitoring	liver function
+antiadrenergic agents	monitoring	electrolytes
+antiadrenergic agents	monitoring	glucose
+antiadrenergic agents	monitoring	lipids
+antiadrenergic agents	monitoring	weight
+antiadrenergic agents	monitoring	mental status
+antiadrenergic agents	monitoring	adverse events
+antiadrenergic agents	indication	essential hypertension
+antiadrenergic agents	indication	secondary hypertension
+antiadrenergic agents	indication	supraventricular tachycardia
+antiadrenergic agents	indication	ventricular tachycardia
+antiadrenergic agents	indication	atrial fibrillation
+antiadrenergic agents	indication	ventricular fibrillation
+antiadrenergic agents	indication	post‑myocardial infarction
+antiadrenergic agents	indication	heart transplant
+antiadrenergic agents	indication	vasospastic angina
+antiadrenergic agents	indication	pheochromocytoma
+antiadrenergic agents	indication	catecholamine crisis
+antiadrenergic agents	indication	pre‑operative management
+antiadrenergic agents	indication	postoperative hypertension
+antiadrenergic agents	indication	chronic obstructive pulmonary disease
+antiadrenergic agents	indication	asthma exacerbation

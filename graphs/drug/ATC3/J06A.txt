@@ -1,0 +1,100 @@
+immune sera	contain	antibodies
+immune sera	target	pathogens
+immune sera	treat	infections
+immune sera	used for	sepsis
+immune sera	administered	intravenously
+immune sera	reduce	mortality
+immune sera	prevent	organ failure
+immune sera	improve	survival
+immune sera	decrease	ICU stay
+immune sera	lower	ICU mortality
+immune sera	reduce	hospital readmission
+immune sera	lower	infection recurrence
+immune sera	enhance	immune response
+immune sera	boost	antibody titers
+immune sera	neutralize	toxins
+immune sera	neutralize	exotoxins
+immune sera	neutralize	endotoxins
+immune sera	block	bacterial adhesion
+immune sera	block	viral entry
+immune sera	inhibit	bacterial growth
+immune sera	inhibit	viral replication
+immune sera	complement	activation
+immune sera	activate	phagocytosis
+immune sera	activate	opsonization
+immune sera	activate	complement cascade
+immune sera	reduce	cytokine storm
+immune sera	modulate	immune dysregulation
+immune sera	used in	burn patients
+immune sera	used in	trauma patients
+immune sera	used in	post‑operative infections
+immune sera	used in	neonatal sepsis
+immune sera	used in	elderly infections
+immune sera	contraindicated in	severe allergies
+immune sera	contraindicated in	hyper‑IgE syndrome
+immune sera	contraindicated in	IgA deficiency
+immune sera	contraindicated in	renal failure
+immune sera	contraindicated in	hepatic failure
+immune sera	contraindicated in	pregnancy
+immune sera	contraindicated in	lactation
+immune sera	side effect	anaphylaxis
+immune sera	side effect	fever
+immune sera	side effect	chills
+immune sera	side effect	rash
+immune sera	side effect	hypotension
+immune sera	side effect	thrombocytopenia
+immune sera	side effect	hemolysis
+immune sera	side effect	serum sickness
+immune sera	side effect	renal toxicity
+immune sera	side effect	hepatic toxicity
+immune sera	dosage	weight‑based
+immune sera	dosage	10 mg/kg
+immune sera	dosage	20 mg/kg
+immune sera	dosage	30 mg/kg
+immune sera	dosage	40 mg/kg
+immune sera	dosage	50 mg/kg
+immune sera	infusion rate	1 ml/min
+immune sera	infusion rate	2 ml/min
+immune sera	infusion rate	3 ml/min
+immune sera	infusion rate	4 ml/min
+immune sera	infusion rate	5 ml/min
+immune sera	storage	2–8 °C
+immune sera	shelf life	12 months
+immune sera	formulation	plasma‑derived
+immune sera	formulation	recombinant
+immune sera	formulation	monoclonal
+immune sera	formulation	polyclonal
+immune sera	manufacturing	GMP
+immune sera	manufacturing	QC
+immune sera	manufacturing	batch testing
+immune sera	regulatory approval	FDA
+immune sera	regulatory approval	EMA
+immune sera	regulatory approval	WHO
+immune sera	cost	high
+immune sera	cost	expensive
+immune sera	cost	reimbursement
+immune sera	cost	insurance coverage
+immune sera	cost	out‑of‑pocket
+immune sera	economic impact	ICU cost reduction
+immune sera	economic impact	hospital cost reduction
+immune sera	economic impact	readmission cost reduction
+immune sera	economic impact	mortality cost reduction
+immune sera	research	clinical trials
+immune sera	research	phase III
+immune sera	research	meta‑analysis
+immune sera	research	systematic review
+immune sera	research	pharmacokinetics
+immune sera	research	pharmacodynamics
+immune sera	research	immunogenicity
+immune sera	research	safety profile
+immune sera	research	efficacy
+immune sera	research	dosing strategy
+immune sera	research	biomarker
+immune sera	research	outcome measure
+immune sera	research	patient selection
+immune sera	research	subgroup analysis
+immune sera	research	adverse event monitoring
+immune sera	research	long‑term follow‑up
+immune sera	research	cost‑effectiveness
+immune sera	research	health‑technology assessment
+immune sera	research	guideline development

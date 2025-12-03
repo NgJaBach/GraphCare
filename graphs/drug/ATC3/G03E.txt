@@ -1,0 +1,100 @@
+androgens	combine with	female sex hormones
+androgens	stimulate	muscle growth
+female sex hormones	regulate	menstrual cycle
+androgens	increase	libido
+female sex hormones	influence	bone density
+androgens	affect	mood
+female sex hormones	modulate	fat distribution
+androgens	cause	acne
+female sex hormones	prevent	osteoporosis
+androgens	used in	hormone therapy
+female sex hormones	used in	contraception
+androgens	interact with	estrogen receptors
+female sex hormones	interact with	androgen receptors
+androgens	increase	hemoglobin
+female sex hormones	increase	HDL cholesterol
+androgens	decrease	LDL cholesterol
+female sex hormones	decrease	triglycerides
+androgens	promote	hair growth
+female sex hormones	inhibit	hair loss
+androgens	cause	hirsutism
+female sex hormones	cause	breast development
+androgens	used for	anemia treatment
+female sex hormones	used for	menopausal symptoms
+androgens	affect	liver enzymes
+female sex hormones	affect	liver enzymes
+androgens	increase	risk of cardiovascular disease
+female sex hormones	reduce	risk of cardiovascular disease
+androgens	increase	risk of prostate cancer
+female sex hormones	increase	risk of breast cancer
+androgens	used in	transgender therapy
+female sex hormones	used in	transgender therapy
+androgens	modulate	insulin sensitivity
+female sex hormones	modulate	insulin sensitivity
+androgens	influence	sleep patterns
+female sex hormones	influence	sleep patterns
+androgens	cause	mood swings
+female sex hormones	cause	mood swings
+androgens	increase	muscle mass
+female sex hormones	increase	body fat
+androgens	reduce	body fat
+female sex hormones	reduce	body fat
+androgens	used for	androgen deficiency
+female sex hormones	used for	estrogen deficiency
+androgens	interact with	cytochrome P450
+female sex hormones	interact with	cytochrome P450
+androgens	increase	risk of liver tumors
+female sex hormones	increase	risk of liver tumors
+androgens	cause	voice deepening
+female sex hormones	cause	voice deepening
+androgens	increase	bone turnover
+female sex hormones	increase	bone turnover
+androgens	used in	polycystic ovary syndrome
+female sex hormones	used in	polycystic ovary syndrome
+androgens	reduce	ovarian cysts
+female sex hormones	reduce	ovarian cysts
+androgens	increase	risk of thromboembolism
+female sex hormones	increase	risk of thromboembolism
+androgens	cause	liver dysfunction
+female sex hormones	cause	liver dysfunction
+androgens	increase	testosterone levels
+female sex hormones	increase	estrogen levels
+androgens	decrease	estrogen levels
+female sex hormones	decrease	testosterone levels
+androgens	used in	acne treatment
+female sex hormones	used in	acne treatment
+androgens	cause	hair thinning
+female sex hormones	cause	hair thinning
+androgens	increase	risk of stroke
+female sex hormones	increase	risk of stroke
+androgens	increase	risk of hypertension
+female sex hormones	increase	risk of hypertension
+androgens	influence	lipid profile
+female sex hormones	influence	lipid profile
+androgens	used for	hypogonadism
+female sex hormones	used for	hypogonadism
+androgens	increase	appetite
+female sex hormones	increase	appetite
+androgens	decrease	appetite
+female sex hormones	decrease	appetite
+androgens	affect	immune function
+female sex hormones	affect	immune function
+androgens	increase	risk of liver fibrosis
+female sex hormones	increase	risk of liver fibrosis
+androgens	used in	androgen replacement therapy
+female sex hormones	used in	estrogen replacement therapy
+androgens	interact with	progesterone
+female sex hormones	interact with	progesterone
+androgens	increase	risk of gynecomastia
+female sex hormones	increase	risk of gynecomastia
+androgens	used in	athletic performance
+female sex hormones	used in	athletic performance
+androgens	increase	risk of liver adenoma
+female sex hormones	increase	risk of liver adenoma
+androgens	cause	increased red blood cell count
+female sex hormones	cause	increased red blood cell count
+androgens	influence	menstrual irregularity
+female sex hormones	influence	menstrual irregularity
+androgens	used in	fertility treatment
+female sex hormones	used in	fertility treatment
+androgens	increase	risk of androgenic alopecia

@@ -1,0 +1,100 @@
+vascular bypass	is a	surgical procedure
+vascular shunt	is a	surgical procedure
+vascular bypass	treats	peripheral artery disease
+vascular shunt	treats	venous insufficiency
+vascular bypass	improves	blood flow
+vascular shunt	improves	venous return
+vascular bypass	uses	graft material
+vascular shunt	uses	synthetic conduit
+graft material	can be	autologous vein
+graft material	can be	synthetic polymer
+synthetic conduit	can be	PTFE
+synthetic conduit	can be	Dacron
+autologous vein	can be	saphenous vein
+autologous vein	can be	basilic vein
+vascular bypass	requires	anesthesia
+vascular shunt	requires	anesthesia
+anesthesia	can be	general
+anesthesia	can be	regional
+vascular bypass	has risk	infection
+vascular shunt	has risk	infection
+vascular bypass	has risk	thrombosis
+vascular shunt	has risk	thrombosis
+vascular bypass	has risk	graft occlusion
+vascular shunt	has risk	shunt occlusion
+vascular bypass	has risk	bleeding
+vascular shunt	has risk	bleeding
+vascular bypass	has risk	nerve injury
+vascular shunt	has risk	nerve injury
+vascular bypass	has risk	wound dehiscence
+vascular shunt	has risk	wound dehiscence
+vascular bypass	can be	endovascular
+vascular shunt	can be	endovascular
+endovascular bypass	uses	stent graft
+endovascular shunt	uses	covered stent
+stent graft	can be	nitinol
+covered stent	can be	polytetrafluoroethylene
+vascular bypass	improves	limb salvage
+vascular shunt	improves	limb salvage
+vascular bypass	improves	quality of life
+vascular shunt	improves	quality of life
+vascular bypass	reduces	claudication
+vascular shunt	reduces	claudication
+vascular bypass	reduces	rest pain
+vascular shunt	reduces	rest pain
+vascular bypass	reduces	ulcer healing time
+vascular shunt	reduces	ulcer healing time
+vascular bypass	requires	postoperative care
+vascular shunt	requires	postoperative care
+postoperative care	includes	anticoagulation
+postoperative care	includes	antiplatelet therapy
+anticoagulation	can be	warfarin
+anticoagulation	can be	DOAC
+antiplatelet therapy	can be	aspirin
+antiplatelet therapy	can be	clopidogrel
+vascular bypass	monitored by	duplex ultrasound
+vascular shunt	monitored by	duplex ultrasound
+duplex ultrasound	detects	flow velocity
+duplex ultrasound	detects	stenosis
+vascular bypass	monitored by	CT angiography
+vascular shunt	monitored by	CT angiography
+CT angiography	visualizes	vessel patency
+CT angiography	visualizes	graft integrity
+vascular bypass	associated with	hospital stay
+vascular shunt	associated with	hospital stay
+hospital stay	predicts	readmission risk
+hospital stay	predicts	mortality risk
+readmission risk	influenced by	infection
+mortality risk	influenced by	thrombosis
+mortality risk	influenced by	graft occlusion
+readmission risk	influenced by	wound complications
+wound complications	influenced by	diabetes
+diabetes	increases	infection risk
+diabetes	increases	thrombosis risk
+diabetes	increases	wound healing time
+vascular bypass	contraindicated in	severe renal failure
+vascular shunt	contraindicated in	severe renal failure
+severe renal failure	contraindicates	contrast use
+contrast use	contraindicates	CT angiography
+CT angiography	contraindicated in	renal failure
+vascular bypass	contraindicated in	active infection
+vascular shunt	contraindicated in	active infection
+active infection	contraindicates	graft placement
+active infection	contraindicates	shunt placement
+vascular bypass	indicated in	critical limb ischemia
+vascular shunt	indicated in	venous thrombosis
+critical limb ischemia	predicts	amputation risk
+venous thrombosis	predicts	pulmonary embolism risk
+pulmonary embolism risk	predicts	mortality
+amputation risk	predicts	mortality
+vascular bypass	improves	walking distance
+vascular shunt	improves	walking distance
+walking distance	predicts	functional status
+functional status	predicts	quality of life
+quality of life	predicts	patient satisfaction
+patient satisfaction	predicts	adherence to therapy
+adherence to therapy	predicts	long-term outcomes
+long-term outcomes	predicts	survival
+survival	influenced by	age
+age	influences	surgical risk
+surgical risk	influences	mortality

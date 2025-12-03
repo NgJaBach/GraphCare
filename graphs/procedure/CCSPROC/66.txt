@@ -1,0 +1,100 @@
+splenectomy	is a	surgical procedure
+splenectomy	removes	spleen
+splenectomy	indicated for	hypersplenism
+splenectomy	indicated for	splenic rupture
+splenectomy	indicated for	splenic infarct
+splenectomy	indicated for	splenic abscess
+splenectomy	indicated for	splenic cyst
+splenectomy	indicated for	splenic tumor
+splenectomy	indicated for	hereditary spherocytosis
+splenectomy	indicated for	immune thrombocytopenia
+splenectomy	indicated for	sickle cell disease
+splenectomy	indicated for	thrombocytopenia
+splenectomy	indicated for	portal hypertension
+splenectomy	indicated for	splenomegaly
+splenectomy	reduces	platelet destruction
+splenectomy	increases	infection risk
+splenectomy	increases	sepsis risk
+splenectomy	increases	pneumococcal infection
+splenectomy	increases	meningococcal infection
+splenectomy	increases	encapsulated bacteria infection
+splenectomy	requires	vaccination
+splenectomy	requires	pneumococcal vaccine
+splenectomy	requires	meningococcal vaccine
+splenectomy	requires	Haemophilus influenzae type b vaccine
+splenectomy	requires	antibiotic prophylaxis
+splenectomy	requires	lifelong monitoring
+splenectomy	reduces	portal pressure
+splenectomy	reduces	variceal bleeding
+splenectomy	reduces	hypersplenism symptoms
+splenectomy	reduces	anemia
+splenectomy	reduces	thrombocytopenia
+splenectomy	reduces	splenic pain
+splenectomy	reduces	splenic size
+splenectomy	increases	platelet count
+splenectomy	increases	risk of thrombosis
+splenectomy	increases	risk of pulmonary embolism
+splenectomy	increases	risk of deep vein thrombosis
+splenectomy	increases	risk of stroke
+splenectomy	increases	risk of myocardial infarction
+splenectomy	increases	risk of venous thromboembolism
+splenectomy	increases	risk of cardiovascular disease
+splenectomy	increases	risk of autoimmune disease
+splenectomy	increases	risk of malignancy
+splenectomy	increases	risk of lymphoma
+splenectomy	increases	risk of leukemia
+splenectomy	increases	risk of gastric cancer
+splenectomy	increases	risk of colorectal cancer
+splenectomy	increases	risk of pancreatic cancer
+splenectomy	increases	risk of liver cancer
+splenectomy	increases	risk of biliary tract cancer
+splenectomy	increases	risk of infection-related mortality
+splenectomy	increases	risk of readmission
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of bleeding
+splenectomy	increases	risk of infection
+splenectomy	increases	risk of organ dysfunction
+splenectomy	increases	risk of mortality
+splenectomy	increases	risk of long-term morbidity
+splenectomy	increases	risk of postoperative pain
+splenectomy	increases	risk of postoperative ileus
+splenectomy	increases	risk of postoperative infection
+splenectomy	increases	risk of postoperative anemia
+splenectomy	increases	risk of postoperative thrombocytosis
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of postoperative mortality
+splenectomy	increases	risk of postoperative readmission
+splenectomy	increases	risk of postoperative infection
+splenectomy	increases	risk of postoperative bleeding
+splenectomy	increases	risk of postoperative thrombosis
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of postoperative morbidity
+splenectomy	increases	risk of postoperative mortality
+splenectomy	increases	risk of postoperative readmission
+splenectomy	increases	risk of postoperative infection
+splenectomy	increases	risk of postoperative bleeding
+splenectomy	increases	risk of postoperative thrombosis
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of postoperative morbidity
+splenectomy	increases	risk of postoperative mortality
+splenectomy	increases	risk of postoperative readmission
+splenectomy	increases	risk of postoperative infection
+splenectomy	increases	risk of postoperative bleeding
+splenectomy	increases	risk of postoperative thrombosis
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of postoperative morbidity
+splenectomy	increases	risk of postoperative mortality
+splenectomy	increases	risk of postoperative readmission
+splenectomy	increases	risk of postoperative infection
+splenectomy	increases	risk of postoperative bleeding
+splenectomy	increases	risk of postoperative thrombosis
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of postoperative morbidity
+splenectomy	increases	risk of postoperative mortality
+splenectomy	increases	risk of postoperative readmission
+splenectomy	increases	risk of postoperative infection
+splenectomy	increases	risk of postoperative bleeding
+splenectomy	increases	risk of postoperative thrombosis
+splenectomy	increases	risk of postoperative complications
+splenectomy	increases	risk of postoperative morbidity
+splenectomy	increases	risk of postoperative mortality

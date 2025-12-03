@@ -1,0 +1,100 @@
+swan-ganz catheterization	is a	invasive procedure
+swan-ganz catheterization	used for	hemodynamic monitoring
+swan-ganz catheterization	measures	pulmonary artery pressure
+swan-ganz catheterization	measures	cardiac output
+swan-ganz catheterization	measures	central venous pressure
+swan-ganz catheterization	measures	mixed venous oxygen saturation
+swan-ganz catheterization	requires	central venous access
+swan-ganz catheterization	performed by	intensivist
+swan-ganz catheterization	performed by	cardiac surgeon
+swan-ganz catheterization	performed by	interventional cardiologist
+swan-ganz catheterization	performed in	ICU
+swan-ganz catheterization	performed in	cardiac catheterization lab
+swan-ganz catheterization	contraindicated in	severe coagulopathy
+swan-ganz catheterization	contraindicated in	active infection
+swan-ganz catheterization	contraindicated in	thrombocytopenia
+swan-ganz catheterization	contraindicated in	severe arrhythmia
+swan-ganz catheterization	improves	fluid management
+swan-ganz catheterization	improves	vasoactive drug titration
+swan-ganz catheterization	improves	oxygen delivery
+swan-ganz catheterization	improves	mortality prediction
+swan-ganz catheterization	improves	readmission prediction
+swan-ganz catheterization	improves	length of stay prediction
+swan-ganz catheterization	improves	risk stratification
+swan-ganz catheterization	improves	early detection of shock
+swan-ganz catheterization	improves	early detection of tamponade
+swan-ganz catheterization	improves	early detection of pulmonary edema
+swan-ganz catheterization	improves	early detection of right heart failure
+swan-ganz catheterization	improves	early detection of left heart failure
+swan-ganz catheterization	improves	early detection of sepsis
+swan-ganz catheterization	improves	early detection of ARDS
+swan-ganz catheterization	improves	early detection of cardiogenic shock
+swan-ganz catheterization	improves	early detection of hypovolemia
+swan-ganz catheterization	improves	early detection of hypervolemia
+swan-ganz catheterization	improves	early detection of fluid overload
+swan-ganz catheterization	improves	early detection of fluid depletion
+swan-ganz catheterization	improves	early detection of pulmonary hypertension
+swan-ganz catheterization	improves	early detection of pulmonary embolism
+swan-ganz catheterization	improves	early detection of myocardial infarction
+swan-ganz catheterization	improves	early detection of arrhythmia
+swan-ganz catheterization	improves	early detection of ischemia
+swan-ganz catheterization	improves	early detection of hypoxia
+swan-ganz catheterization	improves	early detection of hypercapnia
+swan-ganz catheterization	improves	early detection of metabolic acidosis
+swan-ganz catheterization	improves	early detection of lactic acidosis
+swan-ganz catheterization	improves	early detection of renal dysfunction
+swan-ganz catheterization	improves	early detection of hepatic dysfunction
+swan-ganz catheterization	improves	early detection of endocrine dysfunction
+swan-ganz catheterization	improves	early detection of neurologic dysfunction
+swan-ganz catheterization	improves	early detection of immunologic dysfunction
+swan-ganz catheterization	improves	early detection of infectious complications
+swan-ganz catheterization	improves	early detection of thrombotic complications
+swan-ganz catheterization	improves	early detection of bleeding complications
+swan-ganz catheterization	improves	early detection of catheter malposition
+swan-ganz catheterization	improves	early detection of catheter occlusion
+swan-ganz catheterization	improves	early detection of catheter infection
+swan-ganz catheterization	improves	early detection of catheter thrombosis
+swan-ganz catheterization	improves	early detection of catheter embolism
+swan-ganz catheterization	improves	early detection of catheter displacement
+swan-ganz catheterization	improves	early detection of catheter kinking
+swan-ganz catheterization	improves	early detection of catheter fracture
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion
+swan-ganz catheterization	improves	early detection of catheter erosion

@@ -1,0 +1,100 @@
+vitamin A	is a	nutrient
+vitamin A	classified in	ATC
+vitamin B1	is a	nutrient
+vitamin B1	classified in	ATC
+vitamin B2	is a	nutrient
+vitamin B2	classified in	ATC
+vitamin B3	is a	nutrient
+vitamin B3	classified in	ATC
+vitamin B5	is a	nutrient
+vitamin B5	classified in	ATC
+vitamin B6	is a	nutrient
+vitamin B6	classified in	ATC
+vitamin B7	is a	nutrient
+vitamin B7	classified in	ATC
+vitamin B9	is a	nutrient
+vitamin B9	classified in	ATC
+vitamin B12	is a	nutrient
+vitamin B12	classified in	ATC
+vitamin C	is a	nutrient
+vitamin C	classified in	ATC
+vitamin D	is a	nutrient
+vitamin D	classified in	ATC
+vitamin E	is a	nutrient
+vitamin E	classified in	ATC
+vitamin K	is a	nutrient
+vitamin K	classified in	ATC
+calcium	is a	nutrient
+calcium	classified in	ATC
+iron	is a	nutrient
+iron	classified in	ATC
+magnesium	is a	nutrient
+magnesium	classified in	ATC
+zinc	is a	nutrient
+zinc	classified in	ATC
+selenium	is a	nutrient
+selenium	classified in	ATC
+copper	is a	nutrient
+copper	classified in	ATC
+iodine	is a	nutrient
+iodine	classified in	ATC
+phosphorus	is a	nutrient
+phosphorus	classified in	ATC
+potassium	is a	nutrient
+potassium	classified in	ATC
+sodium	is a	nutrient
+sodium	classified in	ATC
+chloride	is a	nutrient
+chloride	classified in	ATC
+protein	is a	nutrient
+protein	classified in	ATC
+carbohydrate	is a	nutrient
+carbohydrate	classified in	ATC
+fat	is a	nutrient
+fat	classified in	ATC
+omega‑3	is a	nutrient
+omega‑3	classified in	ATC
+omega‑6	is a	nutrient
+omega‑6	classified in	ATC
+fiber	is a	nutrient
+fiber	classified in	ATC
+vitamin A	treats	deficiency
+vitamin B1	treats	beriberi
+vitamin B2	treats	riboflavin deficiency
+vitamin B3	treats	pellagra
+vitamin B5	treats	adrenal insufficiency
+vitamin B6	treats	peripheral neuropathy
+vitamin B7	treats	hair loss
+vitamin B9	treats	neural tube defects
+vitamin B12	treats	pernicious anemia
+vitamin C	treats	scurvy
+vitamin D	treats	rickets
+vitamin E	treats	neurological disorders
+vitamin K	treats	bleeding disorders
+calcium	treats	osteoporosis
+iron	treats	anemia
+magnesium	treats	migraine
+zinc	treats	zinc deficiency
+selenium	treats	selenosis
+copper	treats	Wilson disease
+iodine	treats	hypothyroidism
+phosphorus	treats	hypophosphatemia
+potassium	treats	hypokalemia
+sodium	treats	hyponatremia
+protein	treats	malnutrition
+carbohydrate	treats	hypoglycemia
+fat	treats	fat‑soluble vitamin deficiency
+omega‑3	reduces	cardiovascular risk
+omega‑6	reduces	inflammation
+fiber	reduces	cholesterol
+vitamin A	causes	hypervitaminosis
+vitamin B1	causes	neuropathy
+vitamin B2	causes	skin rash
+vitamin B3	causes	flushing
+vitamin B5	causes	nausea
+vitamin B6	causes	neuropathy
+vitamin B7	causes	acne
+vitamin B9	causes	megaloblastic anemia
+vitamin B12	causes	neuropathy
+vitamin C	causes	kidney stones
+vitamin D	causes	hypercalcemia

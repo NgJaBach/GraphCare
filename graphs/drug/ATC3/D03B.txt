@@ -1,0 +1,100 @@
+enzymes	used for	wound healing
+enzymes	used for	ulcer treatment
+enzymes	improve	tissue regeneration
+enzymes	reduce	scarring
+enzymes	accelerate	collagen synthesis
+enzymes	promote	angiogenesis
+enzymes	decrease	infection risk
+enzymes	lower	pain levels
+enzymes	enhance	cell migration
+enzymes	stimulate	fibroblast activity
+enzymes	facilitate	extracellular matrix remodeling
+enzymes	inhibit	matrix metalloproteinases
+enzymes	modulate	inflammatory cytokines
+enzymes	support	granulation tissue formation
+enzymes	aid	epithelialization
+enzymes	reduce	wound exudate
+enzymes	improve	oxygen delivery
+enzymes	increase	growth factor release
+enzymes	promote	wound contraction
+enzymes	decrease	bacterial biofilm
+enzymes	enhance	wound closure rate
+enzymes	lower	hospitalization duration
+enzymes	reduce	readmission risk
+enzymes	improve	patient quality of life
+enzymes	lower	healthcare costs
+enzymes	used in	topical formulations
+enzymes	used in	hydrogel dressings
+enzymes	used in	collagen matrices
+enzymes	used in	bioactive films
+enzymes	used in	wound exudate management
+enzymes	derived from	bacterial sources
+enzymes	derived from	plant sources
+enzymes	derived from	mammalian sources
+enzymes	include	collagenase
+enzymes	include	trypsin
+enzymes	include	chymotrypsin
+enzymes	include	papain
+enzymes	include	bromelain
+enzymes	include	hyaluronidase
+enzymes	include	protease
+enzymes	include	elastase
+enzymes	include	lactoferrin
+enzymes	include	lysozyme
+enzymes	include	metalloproteinase inhibitors
+enzymes	combined with	silver nanoparticles
+enzymes	combined with	antimicrobial peptides
+enzymes	combined with	growth factors
+enzymes	combined with	platelet-rich plasma
+enzymes	combined with	stem cells
+enzymes	combined with	hydroxyapatite
+enzymes	combined with	chitosan
+enzymes	combined with	alginate
+enzymes	combined with	fibrin glue
+enzymes	combined with	nanofiber scaffolds
+enzymes	combined with	bioactive glass
+enzymes	combined with	silver sulfadiazine
+enzymes	combined with	silver sulfadiazine	reduces	cytotoxicity
+enzymes	combined with	silver sulfadiazine	enhances	antibacterial activity
+enzymes	combined with	silver sulfadiazine	improves	wound closure
+enzymes	combined with	silver sulfadiazine	lowers	infection rate
+enzymes	combined with	silver sulfadiazine	reduces	scarring
+enzymes	combined with	silver sulfadiazine	improves	patient comfort
+enzymes	combined with	silver sulfadiazine	decreases	cost
+enzymes	combined with	silver sulfadiazine	shortens	healing time
+enzymes	combined with	silver sulfadiazine	reduces	hospitalization
+enzymes	combined with	silver sulfadiazine	lowers	readmission
+enzymes	combined with	silver sulfadiazine	improves	quality of life
+enzymes	combined with	silver sulfadiazine	reduces	adverse events
+enzymes	combined with	silver sulfadiazine	improves	patient satisfaction
+enzymes	combined with	silver sulfadiazine	reduces	pain
+enzymes	combined with	silver sulfadiazine	improves	oxygenation
+enzymes	combined with	silver sulfadiazine	enhances	collagen deposition
+enzymes	combined with	silver sulfadiazine	reduces	bacterial load
+enzymes	combined with	silver sulfadiazine	improves	immune response
+enzymes	combined with	silver sulfadiazine	reduces	inflammation
+enzymes	combined with	silver sulfadiazine	improves	granulation
+enzymes	combined with	silver sulfadiazine	reduces	necrosis
+enzymes	combined with	silver sulfadiazine	improves	epithelialization
+enzymes	combined with	silver sulfadiazine	reduces	edema
+enzymes	combined with	silver sulfadiazine	improves	wound perfusion
+enzymes	combined with	silver sulfadiazine	reduces	wound odor
+enzymes	combined with	silver sulfadiazine	improves	dressing adherence
+enzymes	combined with	silver sulfadiazine	reduces	dressing changes
+enzymes	combined with	silver sulfadiazine	improves	cost‑effectiveness
+enzymes	combined with	silver sulfadiazine	reduces	adverse reactions
+enzymes	combined with	silver sulfadiazine	improves	patient outcomes
+enzymes	combined with	silver sulfadiazine	reduces	complications
+enzymes	combined with	silver sulfadiazine	improves	healing trajectory
+enzymes	combined with	silver sulfadiazine	reduces	treatment duration
+enzymes	combined with	silver sulfadiazine	improves	clinical metrics
+enzymes	combined with	silver sulfadiazine	reduces	mortality
+enzymes	combined with	silver sulfadiazine	improves	survival
+enzymes	combined with	silver sulfadiazine	reduces	morbidity
+enzymes	combined with	silver sulfadiazine	improves	functional recovery
+enzymes	combined with	silver sulfadiazine	reduces	long‑term sequelae
+enzymes	combined with	silver sulfadiazine	improves	tissue quality
+enzymes	combined with	silver sulfadiazine	reduces	scar hyperplasia
+enzymes	combined with	silver sulfadiazine	improves	cosmetic outcome
+enzymes	combined with	silver sulfadiazine	reduces	patient anxiety
+enzymes	combined with	silver sulfadiazine	improves	overall care satisfaction

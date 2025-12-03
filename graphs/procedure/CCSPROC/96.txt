@@ -1,0 +1,100 @@
+colonoscopy	is a	therapeutic procedure
+colonoscopy	treats	polyps
+colonoscopy	removes	adenomas
+colonoscopy	prevents	colorectal cancer
+colonoscopy	uses	snare
+colonoscopy	uses	cautery
+colonoscopy	uses	argon plasma
+colonoscopy	uses	cryotherapy
+colonoscopy	uses	laser
+colonoscopy	uses	electrocautery
+colonoscopy	uses	argon plasma coagulation
+colonoscopy	uses	argon plasma therapy
+colonoscopy	uses	argon plasma ablation
+colonoscopy	uses	argon plasma coagulation therapy
+colonoscopy	uses	argon plasma coagulation ablation
+colonoscopy	uses	argon plasma coagulation treatment
+colonoscopy	uses	argon plasma coagulation procedure
+colonoscopy	uses	argon plasma coagulation technique
+colonoscopy	uses	argon plasma coagulation method
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system
+colonoscopy	uses	argon plasma coagulation apparatus
+colonoscopy	uses	argon plasma coagulation machine
+colonoscopy	uses	argon plasma coagulation tool
+colonoscopy	uses	argon plasma coagulation device
+colonoscopy	uses	argon plasma coagulation instrument
+colonoscopy	uses	argon plasma coagulation equipment
+colonoscopy	uses	argon plasma coagulation system

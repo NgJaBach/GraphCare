@@ -1,0 +1,100 @@
+viral vaccines	prevent	viral infection
+viral vaccines	target	virus
+viral vaccines	stimulate	immune response
+immune response	produces	antibodies
+antibodies	neutralize	virus
+viral vaccines	reduce	disease severity
+viral vaccines	lower	mortality rate
+viral vaccines	decrease	hospitalization rate
+viral vaccines	improve	herd immunity
+herd immunity	protects	vulnerable population
+viral vaccines	require	cold chain
+cold chain	ensures	vaccine potency
+vaccine potency	affects	efficacy
+vaccine efficacy	predicts	protection duration
+protection duration	influences	booster schedule
+booster schedule	determines	long‑term immunity
+long‑term immunity	reduces	reinfection risk
+reinfection risk	lowers	outbreak probability
+outbreak probability	impacts	public health policy
+public health policy	guides	vaccination campaign
+vaccination campaign	increases	coverage rate
+coverage rate	correlates	disease incidence
+disease incidence	inversely relates	vaccine uptake
+vaccine uptake	affected by	vaccine hesitancy
+vaccine hesitancy	driven by	misinformation
+misinformation	spread through	social media
+social media	can amplify	vaccine myths
+vaccine myths	cause	adverse events perception
+adverse events perception	influences	vaccine acceptance
+vaccine acceptance	determines	herd immunity threshold
+herd immunity threshold	depends on	basic reproduction number
+basic reproduction number	varies with	virus strain
+virus strain	influences	vaccine design
+vaccine design	selects	antigenic target
+antigenic target	may be	spike protein
+spike protein	mutated in	variants
+variants	may escape	neutralizing antibodies
+neutralizing antibodies	measured by	serology test
+serology test	informs	immune status
+immune status	predicts	susceptibility
+susceptibility	affects	infection risk
+infection risk	modulated by	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	vaccine reactogenicity
+vaccine reactogenicity	leads to	adverse event
+adverse event	may be	fever
+fever	can be	symptom of infection
+symptom of infection	triggers	clinical evaluation
+clinical evaluation	may result in	hospitalization
+hospitalization	associated with	resource utilization
+resource utilization	impacts	health system capacity
+health system capacity	influences	patient outcomes
+patient outcomes	reflected in	mortality rate
+mortality rate	used in	risk stratification
+risk stratification	guides	treatment allocation
+treatment allocation	affects	survival probability
+survival probability	estimated by	prognostic model
+prognostic model	incorporates	vaccination status
+vaccination status	categorized as	fully vaccinated
+fully vaccinated	defined by	two doses
+two doses	may be	homologous series
+homologous series	compared to	heterologous series
+heterologous series	may improve	immunogenicity
+immunogenicity	measured by	neutralizing titer
+neutralizing titer	predicts	protection level
+protection level	influences	breakthrough infection
+breakthrough infection	associated with	viral load
+viral load	correlates with	transmissibility
+transmissibility	drives	epidemic curve
+epidemic curve	informs	public health response
+public health response	includes	mask mandates
+mask mandates	reduce	exposure risk
+exposure risk	lowers	infection probability
+infection probability	depends on	contact rate
+contact rate	affected by	mobility patterns
+mobility patterns	tracked by	smartphone data
+smartphone data	used for	contact tracing
+contact tracing	identifies	close contacts
+close contacts	recommended	quarantine
+quarantine	reduces	secondary transmission
+secondary transmission	measured by	secondary attack rate
+secondary attack rate	informs	outbreak control
+outbreak control	guided by	vaccination coverage
+vaccination coverage	monitored by	surveillance system
+surveillance system	collects	seroprevalence data
+seroprevalence data	estimates	population immunity
+population immunity	predicts	epidemic potential
+epidemic potential	influences	vaccine procurement
+vaccine procurement	determines	supply chain
+supply chain	affects	vaccine availability
+vaccine availability	impacts	equity of distribution
+equity of distribution	measured by	Gini coefficient
+Gini coefficient	reflects	inequality
+inequality	associated with	health disparities
+health disparities	lead to	differential outcomes
+differential outcomes	analyzed by	health economics
+health economics	informs	cost‑effectiveness analysis
+cost‑effectiveness analysis	guides	policy decisions
+policy decisions	shape	immunization schedule
+immunization schedule	determines	future vaccine strategy

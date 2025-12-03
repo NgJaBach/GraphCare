@@ -1,0 +1,100 @@
+colostomy	is a	surgical procedure
+colostomy	creates	stoma
+colostomy	requires	bowel diversion
+colostomy	can be	temporary
+colostomy	can be	permanent
+temporary colostomy	used for	acute obstruction
+permanent colostomy	used for	chronic disease
+colostomy	reduces	fecal contamination
+colostomy	improves	quality of life
+colostomy	increases	risk of skin irritation
+colostomy	increases	risk of infection
+colostomy	increases	risk of dehydration
+colostomy	increases	risk of electrolyte imbalance
+colostomy	requires	stoma care
+stoma care	performed by	wound nurse
+stoma care	involves	appliance fitting
+stoma care	involves	skin protection
+stoma care	involves	education
+colostomy	associated with	constipation
+colostomy	associated with	diarrhea
+colostomy	associated with	stoma prolapse
+colostomy	associated with	stoma retraction
+colostomy	associated with	stoma necrosis
+colostomy	associated with	peristomal hernia
+colostomy	associated with	parastomal hernia
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain
+colostomy	associated with	parastomal bleeding
+colostomy	associated with	parastomal edema
+colostomy	associated with	parastomal erythema
+colostomy	associated with	parastomal dermatitis
+colostomy	associated with	parastomal cellulitis
+colostomy	associated with	parastomal abscess
+colostomy	associated with	parastomal fistula
+colostomy	associated with	parastomal ulcer
+colostomy	associated with	parastomal infection
+colostomy	associated with	parastomal pain

@@ -1,0 +1,100 @@
+beta blocking agents	inhibit	adrenergic receptors
+beta blocking agents	reduce	heart rate
+beta blocking agents	lower	blood pressure
+beta blocking agents	treat	hypertension
+beta blocking agents	treat	angina
+beta blocking agents	treat	heart failure
+beta blocking agents	prevent	arrhythmia
+beta blocking agents	reduce	mortality
+beta blocking agents	contraindicated	asthma
+beta blocking agents	contraindicated	COPD
+beta blocking agents	contraindicated	severe bradycardia
+beta blocking agents	contraindicated	second‑degree AV block
+beta blocking agents	contraindicated	heart block
+beta blocking agents	contraindicated	severe hypotension
+beta blocking agents	contraindicated	type 1 diabetes
+beta blocking agents	contraindicated	type 2 diabetes
+beta blocking agents	contraindicated	severe peripheral vascular disease
+beta blocking agents	contraindicated	severe hepatic impairment
+beta blocking agents	contraindicated	severe renal impairment
+beta blocking agents	contraindicated	pregnancy
+beta blocking agents	contraindicated	lactation
+beta blocking agents	contraindicated	elderly
+beta blocking agents	contraindicated	low body weight
+beta blocking agents	contraindicated	drug interactions
+beta blocking agents	interact with	calcium channel blockers
+beta blocking agents	interact with	digoxin
+beta blocking agents	interact with	diuretics
+beta blocking agents	interact with	antidiabetic drugs
+beta blocking agents	interact with	antidepressants
+beta blocking agents	interact with	opioids
+beta blocking agents	interact with	benzodiazepines
+beta blocking agents	interact with	antipsychotics
+beta blocking agents	interact with	antihistamines
+beta blocking agents	interact with	NSAIDs
+beta blocking agents	interact with	statins
+beta blocking agents	interact with	antiplatelet agents
+beta blocking agents	interact with	anticoagulants
+beta blocking agents	interact with	antiretroviral drugs
+beta blocking agents	interact with	antimalarials
+beta blocking agents	interact with	antiepileptics
+beta blocking agents	interact with	antipsychotics
+beta blocking agents	interact with	antidiarrheals
+beta blocking agents	interact with	antitussives
+beta blocking agents	interact with	antihyperglycemics
+beta blocking agents	interact with	antihyperlipidemics
+beta blocking agents	interact with	antihistamines
+beta blocking agents	interact with	antacids
+beta blocking agents	interact with	antithrombotics
+beta blocking agents	interact with	antineoplastics
+beta blocking agents	interact with	antituberculars
+beta blocking agents	interact with	antipsychotics
+beta blocking agents	interact with	antiepileptics
+beta blocking agents	interact with	antimalarials
+beta blocking agents	interact with	antidiarrheals
+beta blocking agents	interact with	antitussives
+beta blocking agents	interact with	antihyperglycemics
+beta blocking agents	interact with	antihyperlipidemics
+beta blocking agents	interact with	antihistamines
+beta blocking agents	interact with	antacids
+beta blocking agents	interact with	antithrombotics
+beta blocking agents	interact with	antineoplastics
+beta blocking agents	interact with	antituberculars
+beta blocking agents	interact with	antipsychotics
+beta blocking agents	interact with	antiepileptics
+beta blocking agents	interact with	antimalarials
+beta blocking agents	interact with	antidiarrheals
+beta blocking agents	interact with	antitussives
+beta blocking agents	interact with	antihyperglycemics
+beta blocking agents	interact with	antihyperlipidemics
+beta blocking agents	interact with	antihistamines
+beta blocking agents	interact with	antacids
+beta blocking agents	interact with	antithrombotics
+beta blocking agents	interact with	antineoplastics
+beta blocking agents	interact with	antituberculars
+beta blocking agents	interact with	antipsychotics
+beta blocking agents	interact with	antiepileptics
+beta blocking agents	interact with	antimalarials
+beta blocking agents	interact with	antidiarrheals
+beta blocking agents	interact with	antitussives
+beta blocking agents	interact with	antihyperglycemics
+beta blocking agents	interact with	antihyperlipidemics
+beta blocking agents	interact with	antihistamines
+beta blocking agents	interact with	antacids
+beta blocking agents	interact with	antithrombotics
+beta blocking agents	interact with	antineoplastics
+beta blocking agents	interact with	antituberculars
+beta blocking agents	interact with	antipsychotics
+beta blocking agents	interact with	antiepileptics
+beta blocking agents	interact with	antimalarials
+beta blocking agents	interact with	antidiarrheals
+beta blocking agents	interact with	antitussives
+beta blocking agents	interact with	antihyperglycemics
+beta blocking agents	interact with	antihyperlipidemics
+beta blocking agents	interact with	antihistamines
+beta blocking agents	interact with	antacids
+beta blocking agents	interact with	antithrombotics
+beta blocking agents	interact with	antineoplastics
+beta blocking agents	interact with	antituberculars
+beta blocking agents	combine with	ACE inhibitors
+beta blocking agents	combine with	ARBs

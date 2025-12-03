@@ -1,0 +1,100 @@
+glycogenolytic hormones	are	endocrine
+glycogenolytic hormones	include	glucagon
+glycogenolytic hormones	include	epinephrine
+glycogenolytic hormones	include	norepinephrine
+glucagon	is secreted by	pancreatic α‑cells
+epinephrine	is secreted by	adrenal medulla
+norepinephrine	is secreted by	adrenal medulla
+glucagon	stimulates	hepatic glycogenolysis
+epinephrine	stimulates	hepatic glycogenolysis
+norepinephrine	stimulates	hepatic glycogenolysis
+glycogenolytic hormones	raise	blood glucose
+glycogenolytic hormones	increase	glycogen phosphorylase
+glycogenolytic hormones	activate	cAMP pathway
+cAMP pathway	activates	protein kinase A
+protein kinase A	phosphorylates	glycogen phosphorylase kinase
+glycogen phosphorylase kinase	activates	glycogen phosphorylase
+glycogen phosphorylase	breaks	glycogen
+glycogenolytic hormones	inhibit	glycogen synthase
+glycogenolytic hormones	promote	gluconeogenesis
+glucagon	binds	glucagon receptor
+epinephrine	binds	β‑adrenergic receptor
+norepinephrine	binds	α‑adrenergic receptor
+glucagon receptor	is a	G‑protein coupled receptor
+β‑adrenergic receptor	is a	G‑protein coupled receptor
+α‑adrenergic receptor	is a	G‑protein coupled receptor
+glucagon	increases	hepatic ATP
+epinephrine	increases	hepatic ATP
+norepinephrine	increases	hepatic ATP
+glycogenolytic hormones	are elevated during	fasting
+glycogenolytic hormones	are elevated during	exercise
+glycogenolytic hormones	are elevated during	stress
+glycogenolytic hormones	are suppressed by	insulin
+insulin	inhibits	glycogenolysis
+glycogenolytic hormones	are measured by	plasma assay
+plasma glucagon	correlates with	hypoglycemia risk
+plasma epinephrine	correlates with	cardiac arrhythmia risk
+plasma norepinephrine	correlates with	hypertension risk
+glycogenolytic hormones	predict	postoperative hypoglycemia
+glycogenolytic hormones	predict	ICU mortality
+glycogenolytic hormones	predict	readmission for heart failure
+glycogenolytic hormones	are targets for	glucagon receptor antagonists
+glucagon receptor antagonists	used in	type 2 diabetes
+glycogenolytic hormones	are modulated by	sympathetic nervous system
+sympathetic nervous system	releases	norepinephrine
+sympathetic nervous system	releases	epinephrine
+glycogenolytic hormones	influence	insulin sensitivity
+glycogenolytic hormones	influence	lipid metabolism
+glycogenolytic hormones	influence	protein catabolism
+glycogenolytic hormones	are increased in	sepsis
+glycogenolytic hormones	are increased in	critical illness
+glycogenolytic hormones	are increased in	trauma
+glycogenolytic hormones	are increased in	burn injury
+glycogenolytic hormones	are increased in	major surgery
+glycogenolytic hormones	are increased in	chronic kidney disease
+glycogenolytic hormones	are increased in	heart failure
+glycogenolytic hormones	are increased in	liver disease
+glycogenolytic hormones	are increased in	adrenal insufficiency
+glycogenolytic hormones	are increased in	pheochromocytoma
+glycogenolytic hormones	are increased in	Cushing syndrome
+glycogenolytic hormones	are increased in	diabetes mellitus
+glycogenolytic hormones	are increased in	hypoglycemia
+glycogenolytic hormones	are increased in	anorexia nervosa
+glycogenolytic hormones	are increased in	cachexia
+glycogenolytic hormones	are increased in	obesity
+glycogenolytic hormones	are increased in	metabolic syndrome
+glycogenolytic hormones	are increased in	hyperthyroidism
+glycogenolytic hormones	are increased in	hypothyroidism
+glycogenolytic hormones	are increased in	pregnancy
+glycogenolytic hormones	are increased in	lactation
+glycogenolytic hormones	are increased in	menopause
+glycogenolytic hormones	are increased in	aging
+glycogenolytic hormones	are increased in	chronic stress
+glycogenolytic hormones	are increased in	depression
+glycogenolytic hormones	are increased in	anxiety
+glycogenolytic hormones	are increased in	insomnia
+glycogenolytic hormones	are increased in	sleep apnea
+glycogenolytic hormones	are increased in	circadian rhythm disruption
+glycogenolytic hormones	are increased in	shift work
+glycogenolytic hormones	are increased in	jet lag
+glycogenolytic hormones	are increased in	high altitude
+glycogenolytic hormones	are increased in	hypoxia
+glycogenolytic hormones	are increased in	anemia
+glycogenolytic hormones	are increased in	iron deficiency
+glycogenolytic hormones	are increased in	vitamin D deficiency
+glycogenolytic hormones	are increased in	vitamin B12 deficiency
+glycogenolytic hormones	are increased in	folate deficiency
+glycogenolytic hormones	are increased in	chronic inflammation
+glycogenolytic hormones	are increased in	autoimmune disease
+glycogenolytic hormones	are increased in	rheumatologic disease
+glycogenolytic hormones	are increased in	cancer
+glycogenolytic hormones	are increased in	chemotherapy
+glycogenolytic hormones	are increased in	radiotherapy
+glycogenolytic hormones	are increased in	bone marrow transplant
+glycogenolytic hormones	are increased in	organ transplant
+glycogenolytic hormones	are increased in	sepsis
+glycogenolytic hormones	are increased in	septic shock
+glycogenolytic hormones	are increased in	ARDS
+glycogenolytic hormones	are increased in	ARDS
+glycogenolytic hormones	are increased in	ARDS
+glycogenolytic hormones	are increased in	ARDS

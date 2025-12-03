@@ -1,0 +1,100 @@
+decongestants	are	medication
+decongestants	treat	nasal congestion
+nasal preparations	are	topical
+nasal preparations	contain	decongestants
+decongestants	act on	alpha‑adrenergic receptors
+alpha‑adrenergic receptors	cause	vasoconstriction
+vasoconstriction	reduces	nasal edema
+nasal edema	leads to	breathing difficulty
+breathing difficulty	improves with	decongestants
+decongestants	are	over‑the‑counter
+over‑the‑counter	requires	no prescription
+decongestants	have	side effects
+side effects	include	tachycardia
+side effects	include	hypertension
+side effects	include	insomnia
+decongestants	contraindicated in	hypertension
+decongestants	contraindicated in	heart disease
+decongestants	contraindicated in	pregnancy
+decongestants	contraindicated in	glaucoma
+decongestants	contraindicated in	asthma
+decongestants	contraindicated in	diabetes
+decongestants	contraindicated in	elderly
+decongestants	contraindicated in	children
+decongestants	contraindicated in	renal impairment
+decongestants	contraindicated in	hepatic impairment
+decongestants	contraindicated in	thyroid disorders
+decongestants	contraindicated in	pregnancy
+decongestants	contraindicated in	lactation
+decongestants	contraindicated in	chronic cough
+decongestants	contraindicated in	nasal polyps
+decongestants	contraindicated in	nasal septal perforation
+decongestants	contraindicated in	chronic sinusitis
+decongestants	contraindicated in	chronic rhinitis
+decongestants	contraindicated in	chronic nasal bleeding
+decongestants	contraindicated in	chronic nasal dryness
+decongestants	contraindicated in	chronic nasal irritation
+decongestants	contraindicated in	chronic nasal infection
+decongestants	contraindicated in	chronic nasal inflammation
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal swelling
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion
+decongestants	contraindicated in	chronic nasal congestion

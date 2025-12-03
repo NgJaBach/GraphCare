@@ -1,0 +1,100 @@
+beta blocking agents	treat	hypertension
+beta blocking agents	reduce	heart rate
+beta blocking agents	lower	blood pressure
+beta blocking agents	prevent	arrhythmia
+beta blocking agents	reduce	myocardial oxygen demand
+beta blocking agents	block	β‑adrenergic receptors
+beta blocking agents	cause	bradycardia
+beta blocking agents	cause	fatigue
+beta blocking agents	cause	cold extremities
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	contraindicated in	COPD
+beta blocking agents	contraindicated in	heart failure
+beta blocking agents	contraindicated in	second‑degree AV block
+beta blocking agents	contraindicated in	severe bradycardia
+beta blocking agents	used with	ACE inhibitors
+beta blocking agents	used with	ARBs
+beta blocking agents	used with	diuretics
+beta blocking agents	used with	calcium channel blockers
+beta blocking agents	used with	nitrates
+beta blocking agents	used with	anticoagulants
+beta blocking agents	used with	statins
+beta blocking agents	used with	antidiabetic drugs
+beta blocking agents	used with	insulin
+beta blocking agents	used with	sulfonylureas
+beta blocking agents	used with	thiazolidinediones
+beta blocking agents	used with	GLP‑1 agonists
+beta blocking agents	used with	SGLT2 inhibitors
+beta blocking agents	used with	diuretics	for	fluid overload
+beta blocking agents	used with	diuretics	for	electrolyte balance
+beta blocking agents	used with	diuretics	for	edema
+beta blocking agents	used with	diuretics	for	heart failure
+beta blocking agents	used with	diuretics	for	hypertension
+beta blocking agents	used with	diuretics	for	arrhythmia
+beta blocking agents	used with	diuretics	for	post‑MI
+beta blocking agents	used with	diuretics	for	renal protection
+beta blocking agents	used with	diuretics	for	potassium loss
+beta blocking agents	used with	diuretics	for	sodium retention
+beta blocking agents	used with	diuretics	for	fluid retention
+beta blocking agents	used with	diuretics	for	edema control
+beta blocking agents	used with	diuretics	for	blood pressure control
+beta blocking agents	used with	diuretics	for	cardiac remodeling
+beta blocking agents	used with	diuretics	for	heart failure management
+beta blocking agents	used with	diuretics	for	hypertension management
+beta blocking agents	used with	diuretics	for	post‑MI therapy
+beta blocking agents	used with	diuretics	for	arrhythmia prevention
+beta blocking agents	used with	diuretics	for	electrolyte correction
+beta blocking agents	used with	diuretics	for	fluid overload treatment
+beta blocking agents	used with	diuretics	for	renal function preservation
+beta blocking agents	used with	diuretics	for	blood pressure reduction
+beta blocking agents	used with	diuretics	for	heart failure therapy
+beta blocking agents	used with	diuretics	for	hypertension therapy
+beta blocking agents	used with	diuretics	for	arrhythmia therapy
+beta blocking agents	used with	diuretics	for	post‑MI therapy
+beta blocking agents	used with	diuretics	for	electrolyte balance
+beta blocking agents	used with	diuretics	for	fluid balance
+beta blocking agents	used with	diuretics	for	cardiac protection
+beta blocking agents	used with	diuretics	for	renal protection
+beta blocking agents	used with	diuretics	for	blood pressure control
+beta blocking agents	used with	diuretics	for	heart failure management
+beta blocking agents	used with	diuretics	for	hypertension management
+beta blocking agents	used with	diuretics	for	arrhythmia prevention
+beta blocking agents	used with	diuretics	for	post‑MI therapy
+beta blocking agents	used with	diuretics	for	electrolyte correction
+beta blocking agents	used with	diuretics	for	fluid overload
+beta blocking agents	used with	diuretics	for	renal function
+beta blocking agents	used with	diuretics	for	blood pressure
+beta blocking agents	used with	diuretics	for	heart failure
+beta blocking agents	used with	diuretics	for	hypertension
+beta blocking agents	used with	diuretics	for	arrhythmia
+beta blocking agents	used with	diuretics	for	post‑MI
+beta blocking agents	used with	diuretics	for	electrolyte
+beta blocking agents	used with	diuretics	for	fluid
+beta blocking agents	used with	diuretics	for	cardiac
+beta blocking agents	used with	diuretics	for	renal
+beta blocking agents	used with	diuretics	for	blood
+beta blocking agents	used with	diuretics	for	heart
+beta blocking agents	used with	diuretics	for	hypertension
+beta blocking agents	used with	diuretics	for	arrhythmia
+beta blocking agents	used with	diuretics	for	post‑MI
+beta blocking agents	used with	diuretics	for	electrolyte
+beta blocking agents	used with	diuretics	for	fluid
+beta blocking agents	used with	diuretics	for	cardiac
+beta blocking agents	used with	diuretics	for	renal
+beta blocking agents	used with	diuretics	for	blood
+beta blocking agents	used with	diuretics	for	heart
+beta blocking agents	used with	diuretics	for	hypertension
+beta blocking agents	used with	diuretics	for	arrhythmia
+beta blocking agents	used with	diuretics	for	post‑MI
+beta blocking agents	used with	diuretics	for	electrolyte
+beta blocking agents	used with	diuretics	for	fluid
+beta blocking agents	used with	diuretics	for	cardiac
+beta blocking agents	used with	diuretics	for	renal
+beta blocking agents	used with	diuretics	for	blood
+beta blocking agents	used with	diuretics	for	heart
+beta blocking agents	used with	diuretics	for	hypertension
+beta blocking agents	used with	diuretics	for	arrhythmia
+beta blocking agents	used with	diuretics	for	post‑MI
+beta blocking agents	used with	diuretics	for	electrolyte
+beta blocking agents	used with	diuretics	for	fluid
+beta blocking agents	used with	diuretics	for	cardiac

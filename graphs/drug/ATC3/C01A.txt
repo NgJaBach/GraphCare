@@ -1,0 +1,100 @@
+cardiac glycosides	are	drugs
+cardiac glycosides	treat	heart failure
+cardiac glycosides	treat	atrial fibrillation
+cardiac glycosides	increase	cardiac contractility
+cardiac glycosides	decrease	heart rate
+cardiac glycosides	inhibit	Na⁺/K⁺‑ATPase
+Na⁺/K⁺‑ATPase	regulates	intracellular Na⁺
+intracellular Na⁺	affects	Ca²⁺ influx
+Ca²⁺ influx	enhances	myocardial force
+cardiac glycosides	cause	arrhythmias
+arrhythmias	lead to	sudden cardiac death
+cardiac glycosides	have	narrow therapeutic index
+narrow therapeutic index	requires	therapeutic drug monitoring
+therapeutic drug monitoring	measures	serum digoxin
+serum digoxin	correlates with	toxicity risk
+cardiac glycosides	include	digoxin
+cardiac glycosides	include	digitoxin
+cardiac glycosides	include	ouabain
+digoxin	metabolized by	liver
+digoxin	excreted by	kidneys
+digoxin	interacts with	amiodarone
+digoxin	interacts with	verapamil
+digoxin	interacts with	quinidine
+digoxin	interacts with	cimetidine
+digoxin	interacts with	proton pump inhibitors
+digoxin	contraindicated in	renal failure
+digoxin	contraindicated in	hyperkalemia
+digoxin	contraindicated in	hypokalemia
+digoxin	contraindicated in	bradycardia
+digoxin	contraindicated in	atrioventricular block
+digoxin	contraindicated in	ventricular ectopy
+digitoxin	has	longer half‑life
+digitoxin	used in	chronic heart failure
+digitoxin	less	renal clearance
+ouabain	used in	research models
+ouabain	not	approved for clinical use
+cardiac glycosides	cause	nausea
+cardiac glycosides	cause	vomiting
+cardiac glycosides	cause	visual disturbances
+visual disturbances	include	blurred vision
+visual disturbances	include	yellow‑green halos
+cardiac glycosides	cause	dizziness
+cardiac glycosides	cause	fatigue
+cardiac glycosides	cause	anorexia
+cardiac glycosides	cause	constipation
+cardiac glycosides	cause	hypotension
+cardiac glycosides	cause	tachycardia
+cardiac glycosides	cause	palpitations
+cardiac glycosides	cause	syncope
+cardiac glycosides	cause	confusion
+cardiac glycosides	cause	delirium
+cardiac glycosides	cause	seizures
+cardiac glycosides	cause	coma
+cardiac glycosides	cause	death
+cardiac glycosides	used as	positive inotropes
+positive inotropes	improve	ejection fraction
+ejection fraction	predicts	mortality
+cardiac glycosides	improve	exercise tolerance
+exercise tolerance	predicts	quality of life
+cardiac glycosides	reduce	hospital readmission
+hospital readmission	predicts	healthcare cost
+cardiac glycosides	reduce	mortality
+mortality	predicts	survival
+cardiac glycosides	used in	guideline‑based therapy
+guideline‑based therapy	includes	ACE inhibitors
+guideline‑based therapy	includes	beta‑blockers
+guideline‑based therapy	includes	diuretics
+cardiac glycosides	used in	advanced heart failure
+advanced heart failure	predicts	transplant need
+cardiac glycosides	used in	refractory arrhythmias
+refractory arrhythmias	predict	ICD implantation
+ICD implantation	reduces	sudden death
+cardiac glycosides	used in	ventricular tachycardia
+ventricular tachycardia	predicts	arrhythmic death
+cardiac glycosides	used in	atrial flutter
+atrial flutter	predicts	stroke risk
+stroke risk	predicts	anticoagulation
+cardiac glycosides	used in	atrial fibrillation
+atrial fibrillation	predicts	heart failure progression
+heart failure progression	predicts	mortality
+cardiac glycosides	used in	chronic kidney disease
+chronic kidney disease	predicts	drug clearance
+drug clearance	predicts	toxicity
+cardiac glycosides	used in	elderly patients
+elderly patients	predict	fall risk
+fall risk	predicts	hospitalization
+cardiac glycosides	used in	patients with electrolyte imbalance
+electrolyte imbalance	predicts	arrhythmia risk
+arrhythmia risk	predicts	mortality
+cardiac glycosides	used in	patients with liver disease
+liver disease	predicts	drug metabolism
+drug metabolism	predicts	toxicity
+cardiac glycosides	used in	patients with diabetes
+diabetes	predicts	renal function
+renal function	predicts	drug clearance
+cardiac glycosides	used in	patients with hypertension
+hypertension	predicts	cardiovascular risk
+cardiovascular risk	predicts	mortality
+cardiac glycosides	used in	patients with anemia
+anemia	predicts	exercise capacity

@@ -1,0 +1,100 @@
+zinc	is a	mineral supplement
+zinc	belongs to	ATC code A12
+zinc	used for	deficiency treatment
+zinc	used for	immune support
+zinc	contraindicated in	chronic kidney disease
+zinc	side effect	nausea
+zinc	side effect	diarrhea
+zinc	dosage	15‑30 mg/day
+zinc	interacts with	tetracyclines
+zinc	interacts with	penicillamine
+zinc	improves	wound healing
+zinc	reduces	viral replication
+zinc	reduces	duration of common cold
+zinc	increases	risk of copper deficiency
+zinc	recommended for	pregnancy
+zinc	not recommended for	lactation
+zinc	is a	trace element
+zinc	is essential for	enzyme function
+zinc	is essential for	DNA synthesis
+zinc	is essential for	protein synthesis
+zinc	is essential for	cell division
+zinc	is essential for	hormone regulation
+zinc	is essential for	taste perception
+zinc	is essential for	olfactory function
+zinc	is essential for	growth
+zinc	is essential for	reproduction
+zinc	is essential for	immune modulation
+zinc	is essential for	antioxidant defense
+zinc	is essential for	apoptosis regulation
+zinc	is essential for	signal transduction
+zinc	is essential for	transcription regulation
+zinc	is essential for	cellular metabolism
+zinc	is essential for	bone health
+zinc	is essential for	skin integrity
+zinc	is essential for	hair growth
+zinc	is essential for	nail strength
+zinc	is essential for	wound repair
+zinc	is essential for	antiviral activity
+zinc	is essential for	anti-inflammatory activity
+zinc	is essential for	anti-cancer activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-bacterial activity
+zinc	is essential for	anti-fungal activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity
+zinc	is essential for	anti-viral activity

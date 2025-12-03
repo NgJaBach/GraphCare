@@ -1,0 +1,100 @@
+antimycotics	are	drugs
+antimycotics	treat	fungal infections
+antimycotics	include	azoles
+antimycotics	include	polyenes
+antimycotics	include	echinocandins
+antimycotics	include	allylamines
+antimycotics	include	pyrimidine analogs
+azoles	inhibit	ergosterol synthesis
+azoles	target	cytochrome P450
+azoles	cause	hepatotoxicity
+azoles	cause	QT prolongation
+azoles	used for	candidiasis
+azoles	used for	aspergillosis
+azoles	used for	cryptococcosis
+azoles	interact with	statins
+azoles	interact with	warfarin
+azoles	interact with	antiretrovirals
+azoles	contraindicated in	pregnancy
+azoles	contraindicated in	liver disease
+azoles	contraindicated in	renal failure
+azoles	dosage	weight-based
+azoles	dosage	renal-adjusted
+azoles	dosage	hepatic-adjusted
+azoles	monitored by	liver enzymes
+azoles	monitored by	ECG
+azoles	monitored by	drug levels
+azoles	monitored by	therapeutic drug monitoring
+polyene	bind	ergosterol
+polyene	disrupt	fungal cell membrane
+polyene	cause	nephrotoxicity
+polyene	cause	infusion reactions
+polyene	used for	invasive aspergillosis
+polyene	used for	cryptococcal meningitis
+polyene	used for	mucormycosis
+polyene	dosage	weight-based
+polyene	dosage	renal-adjusted
+polyene	monitored by	serum creatinine
+polyene	monitored by	infusion rate
+polyene	monitored by	blood levels
+echinocandin	inhibit	β‑1,3‑glucan synthase
+echinocandin	disrupt	fungal cell wall
+echinocandin	cause	infusion reactions
+echinocandin	cause	mild hepatotoxicity
+echinocandin	used for	candidemia
+echinocandin	used for	invasive candidiasis
+echinocandin	used for	aspergillosis
+echinocandin	dosage	weight-based
+echinocandin	dosage	renal-adjusted
+echinocandin	monitored by	liver enzymes
+echinocandin	monitored by	trough levels
+allylamine	inhibit	squalene epoxidase
+allylamine	cause	hepatotoxicity
+allylamine	cause	photosensitivity
+allylamine	used for	tinea versicolor
+allylamine	used for	pityriasis versicolor
+allylamine	dosage	weight-based
+allylamine	dosage	renal-adjusted
+allylamine	monitored by	liver enzymes
+pyrimidine analog	inhibit	DNA synthesis
+pyrimidine analog	cause	myelosuppression
+pyrimidine analog	cause	mucositis
+pyrimidine analog	used for	cryptococcal meningitis
+pyrimidine analog	used for	histoplasmosis
+pyrimidine analog	dosage	weight-based
+pyrimidine analog	dosage	renal-adjusted
+pyrimidine analog	monitored by	blood counts
+pyrimidine analog	monitored by	liver enzymes
+antimycotics	increase	mortality risk
+antimycotics	reduce	infection recurrence
+antimycotics	improve	survival in invasive candidiasis
+antimycotics	improve	survival in invasive aspergillosis
+antimycotics	improve	survival in cryptococcosis
+antimycotics	improve	survival in mucormycosis
+antimycotics	associated with	drug interactions
+antimycotics	associated with	adverse events
+antimycotics	associated with	therapeutic drug monitoring
+antimycotics	associated with	dosage adjustments
+antimycotics	associated with	renal toxicity
+antimycotics	associated with	hepatic toxicity
+antimycotics	associated with	infusion reactions
+antimycotics	associated with	QT prolongation
+antimycotics	associated with	photosensitivity
+antimycotics	associated with	myelosuppression
+antimycotics	associated with	mucositis
+antimycotics	used in	ICU patients
+antimycotics	used in	immunocompromised patients
+antimycotics	used in	transplant recipients
+antimycotics	used in	neutropenic patients
+antimycotics	used in	patients with central venous catheters
+antimycotics	used in	patients with pulmonary aspergillosis
+antimycotics	used in	patients with CNS fungal infections
+antimycotics	used in	patients with mucormycosis
+antimycotics	used in	patients with cryptococcal meningitis
+antimycotics	used in	patients with histoplasmosis
+antimycotics	used in	patients with blastomycosis
+antimycotics	used in	patients with coccidioidomycosis
+antimycotics	used in	patients with dermatophyte infections
+antimycotics	used in	patients with systemic fungal infections
+antimycotics	used in	patients with invasive fungal infections
+antimycotics	used in	patients with high mortality risk

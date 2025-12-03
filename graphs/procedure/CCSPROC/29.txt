@@ -1,0 +1,100 @@
+dental procedure	is a	medical procedure
+dental procedure	performed by	dentist
+dental procedure	requires	anesthesia
+dental procedure	improves	oral health
+dental procedure	reduces	tooth decay
+dental procedure	prevents	gum disease
+dental procedure	can cause	pain
+dental procedure	can cause	swelling
+dental procedure	can cause	infection
+dental procedure	can cause	bleeding
+dental procedure	can cause	sensitivity
+dental procedure	can cause	tooth loss
+dental procedure	can cause	tooth fracture
+dental procedure	can cause	post‑operative complications
+dental procedure	can lead to	hospitalization
+dental procedure	can lead to	readmission
+dental procedure	can lead to	mortality
+dental procedure	is associated with	cardiovascular risk
+dental procedure	is associated with	respiratory risk
+dental procedure	is associated with	systemic infection
+dental procedure	is associated with	postoperative delirium
+dental procedure	is associated with	postoperative nausea
+dental procedure	is associated with	postoperative vomiting
+dental procedure	is associated with	postoperative pain
+dental procedure	is associated with	postoperative swelling
+dental procedure	is associated with	postoperative infection
+dental procedure	is associated with	postoperative bleeding
+dental procedure	is associated with	postoperative sensitivity
+dental procedure	is associated with	postoperative tooth loss
+dental procedure	is associated with	postoperative tooth fracture
+dental procedure	is associated with	postoperative complications
+dental procedure	is associated with	postoperative hospitalization
+dental procedure	is associated with	postoperative readmission
+dental procedure	is associated with	postoperative mortality
+dental procedure	is associated with	postoperative cardiovascular events
+dental procedure	is associated with	postoperative respiratory events
+dental procedure	is associated with	postoperative systemic infection
+dental procedure	is associated with	postoperative delirium
+dental procedure	is associated with	postoperative nausea
+dental procedure	is associated with	postoperative vomiting
+dental procedure	is associated with	postoperative pain
+dental procedure	is associated with	postoperative swelling
+dental procedure	is associated with	postoperative infection
+dental procedure	is associated with	postoperative bleeding
+dental procedure	is associated with	postoperative sensitivity
+dental procedure	is associated with	postoperative tooth loss
+dental procedure	is associated with	postoperative tooth fracture
+dental procedure	is associated with	postoperative complications
+dental procedure	is associated with	postoperative hospitalization
+dental procedure	is associated with	postoperative readmission
+dental procedure	is associated with	postoperative mortality
+dental procedure	is associated with	postoperative cardiovascular events
+dental procedure	is associated with	postoperative respiratory events
+dental procedure	is associated with	postoperative systemic infection
+dental procedure	is associated with	postoperative delirium
+dental procedure	is associated with	postoperative nausea
+dental procedure	is associated with	postoperative vomiting
+dental procedure	is associated with	postoperative pain
+dental procedure	is associated with	postoperative swelling
+dental procedure	is associated with	postoperative infection
+dental procedure	is associated with	postoperative bleeding
+dental procedure	is associated with	postoperative sensitivity
+dental procedure	is associated with	postoperative tooth loss
+dental procedure	is associated with	postoperative tooth fracture
+dental procedure	is associated with	postoperative complications
+dental procedure	is associated with	postoperative hospitalization
+dental procedure	is associated with	postoperative readmission
+dental procedure	is associated with	postoperative mortality
+dental procedure	is associated with	postoperative cardiovascular events
+dental procedure	is associated with	postoperative respiratory events
+dental procedure	is associated with	postoperative systemic infection
+dental procedure	is associated with	postoperative delirium
+dental procedure	is associated with	postoperative nausea
+dental procedure	is associated with	postoperative vomiting
+dental procedure	is associated with	postoperative pain
+dental procedure	is associated with	postoperative swelling
+dental procedure	is associated with	postoperative infection
+dental procedure	is associated with	postoperative bleeding
+dental procedure	is associated with	postoperative sensitivity
+dental procedure	is associated with	postoperative tooth loss
+dental procedure	is associated with	postoperative tooth fracture
+dental procedure	is associated with	postoperative complications
+dental procedure	is associated with	postoperative hospitalization
+dental procedure	is associated with	postoperative readmission
+dental procedure	is associated with	postoperative mortality
+dental procedure	is associated with	postoperative cardiovascular events
+dental procedure	is associated with	postoperative respiratory events
+dental procedure	is associated with	postoperative systemic infection
+dental procedure	is associated with	postoperative delirium
+dental procedure	is associated with	postoperative nausea
+dental procedure	is associated with	postoperative vomiting
+dental procedure	is associated with	postoperative pain
+dental procedure	is associated with	postoperative swelling
+dental procedure	is associated with	postoperative infection
+dental procedure	is associated with	postoperative bleeding
+dental procedure	is associated with	postoperative sensitivity
+dental procedure	is associated with	postoperative tooth loss
+dental procedure	is associated with	postoperative tooth fracture
+dental procedure	is associated with	postoperative complications
+dental procedure	is associated with	postoperative hospitalization

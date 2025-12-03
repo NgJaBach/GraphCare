@@ -1,0 +1,100 @@
+belladonna	contains	atropine
+belladonna	contains	hyoscyamine
+belladonna	contains	scopolamine
+atropine	is a	antimuscarinic
+hyoscyamine	is a	antimuscarinic
+scopolamine	is a	antimuscarinic
+antimuscarinic	reduces	gut motility
+antimuscarinic	treats	functional dyspepsia
+antimuscarinic	treats	irritable bowel syndrome
+antimuscarinic	reduces	abdominal pain
+antimuscarinic	reduces	bloating
+antimuscarinic	reduces	nausea
+antimuscarinic	reduces	vomiting
+antimuscarinic	reduces	cramping
+antimuscarinic	reduces	diarrhea
+antimuscarinic	reduces	constipation
+antimuscarinic	reduces	urgency
+antimuscarinic	reduces	urgency pain
+antimuscarinic	reduces	stool frequency
+antimuscarinic	reduces	stool consistency
+antimuscarinic	reduces	abdominal distension
+antimuscarinic	reduces	reflux
+antimuscarinic	reduces	heartburn
+antimuscarinic	reduces	gastric acid
+antimuscarinic	reduces	gastric emptying
+antimuscarinic	reduces	gastric motility
+antimuscarinic	reduces	intestinal motility
+antimuscarinic	reduces	colonic motility
+antimuscarinic	reduces	small bowel motility
+antimuscarinic	reduces	large bowel motility
+antimuscarinic	reduces	peristalsis
+antimuscarinic	reduces	secretions
+antimuscarinic	reduces	saliva
+antimuscarinic	reduces	mucus
+antimuscarinic	reduces	tears
+antimuscarinic	reduces	lacrimation
+antimuscarinic	reduces	sweating
+antimuscarinic	reduces	bronchial secretions
+antimuscarinic	reduces	airway resistance
+antimuscarinic	reduces	bronchoconstriction
+antimuscarinic	reduces	cough
+antimuscarinic	reduces	bronchial hyperreactivity
+antimuscarinic	reduces	asthma symptoms
+antimuscarinic	reduces	chronic obstructive pulmonary disease
+antimuscarinic	reduces	nasal congestion
+antimuscarinic	reduces	sinusitis
+antimuscarinic	reduces	pharyngitis
+antimuscarinic	reduces	laryngitis
+antimuscarinic	reduces	phlegm
+antimuscarinic	reduces	phlegm production
+antimuscarinic	reduces	cough reflex
+antimuscarinic	reduces	cough frequency
+antimuscarinic	reduces	cough severity
+antimuscarinic	reduces	cough duration
+antimuscarinic	reduces	cough reflex sensitivity
+antimuscarinic	reduces	cough reflex threshold
+antimuscarinic	reduces	cough reflex excitability
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hypersensitivity
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperreactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability
+antimuscarinic	reduces	cough reflex hyperactivity
+antimuscarinic	reduces	cough reflex hyperresponsiveness
+antimuscarinic	reduces	cough reflex hyperexcitability

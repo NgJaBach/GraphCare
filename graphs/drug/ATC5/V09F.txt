@@ -1,0 +1,100 @@
+thyroid diagnostic radiopharmaceuticals	are	imaging agents
+thyroid diagnostic radiopharmaceuticals	detect	thyroid nodules
+thyroid diagnostic radiopharmaceuticals	use	radioactive iodine
+radioactive iodine	is	I-123
+radioactive iodine	is	I-131
+I-123	has	short half‑life
+I-131	has	long half‑life
+I-123	emits	gamma radiation
+I-131	emits	beta radiation
+gamma radiation	allows	SPECT imaging
+beta radiation	causes	thyroid ablation
+thyroid diagnostic radiopharmaceuticals	are	non‑invasive
+non‑invasive	reduces	procedural risk
+thyroid diagnostic radiopharmaceuticals	improve	diagnostic accuracy
+diagnostic accuracy	predicts	malignancy risk
+malignancy risk	informs	surgical decision
+surgical decision	affects	patient outcome
+patient outcome	predicts	survival rate
+survival rate	correlates	treatment efficacy
+treatment efficacy	guides	therapy choice
+therapy choice	includes	thyroidectomy
+therapy choice	includes	radioactive iodine therapy
+radioactive iodine therapy	uses	I-131
+I-131 therapy	requires	pretreatment
+pretreatment	includes	thyroid hormone withdrawal
+thyroid hormone withdrawal	causes	hypothyroid symptoms
+hypothyroid symptoms	increase	quality‑of‑life burden
+quality‑of‑life burden	predicts	readmission risk
+readmission risk	informs	discharge planning
+discharge planning	reduces	hospital stay
+hospital stay	correlates	cost
+cost	influences	insurance coverage
+insurance coverage	affects	medication adherence
+medication adherence	predicts	recurrence risk
+recurrence risk	informs	follow‑up imaging
+follow‑up imaging	uses	I-123
+I-123 imaging	detects	residual thyroid tissue
+residual thyroid tissue	indicates	incomplete ablation
+incomplete ablation	requires	repeat therapy
+repeat therapy	increases	cumulative radiation dose
+cumulative radiation dose	correlates	secondary cancer risk
+secondary cancer risk	predicts	long‑term mortality
+long‑term mortality	informs	survivorship care
+survivorship care	includes	lifestyle counseling
+lifestyle counseling	improves	cardiovascular health
+cardiovascular health	reduces	mortality
+mortality	predicts	life expectancy
+life expectancy	guides	advance care planning
+advance care planning	involves	patient preferences
+patient preferences	influence	treatment intensity
+treatment intensity	affects	side‑effect profile
+side‑effect profile	includes	xerostomia
+xerostomia	reduces	oral health
+oral health	predicts	infection risk
+infection risk	increases	hospital admission
+hospital admission	raises	healthcare utilization
+healthcare utilization	impacts	payer mix
+payer mix	determines	reimbursement rates
+reimbursement rates	influence	resource allocation
+resource allocation	affects	staff availability
+staff availability	determines	wait times
+wait times	correlate	patient satisfaction
+patient satisfaction	predicts	adherence
+adherence	influences	therapeutic outcome
+therapeutic outcome	measured by	thyroglobulin levels
+thyroglobulin levels	monitored	post‑thyroidectomy
+post‑thyroidectomy	requires	dietary iodine restriction
+dietary iodine restriction	reduces	diagnostic interference
+diagnostic interference	improves	imaging quality
+imaging quality	enhances	lesion detection
+lesion detection	informs	biopsy decision
+biopsy decision	uses	fine‑needle aspiration
+fine‑needle aspiration	yields	cytology results
+cytology results	guide	risk stratification
+risk stratification	determines	surveillance interval
+surveillance interval	affects	patient anxiety
+patient anxiety	predicts	mental health status
+mental health status	correlates	adherence
+adherence	influences	recurrence surveillance
+recurrence surveillance	uses	I-123 imaging
+I-123 imaging	requires	low‑dose CT
+low‑dose CT	reduces	radiation exposure
+radiation exposure	mitigates	stochastic risk
+stochastic risk	informs	risk communication
+risk communication	improves	shared decision‑making
+shared decision‑making	leads to	personalized care
+personalized care	optimizes	treatment outcomes
+treatment outcomes	measured by	quality‑adjusted life years
+quality‑adjusted life years	used in	cost‑effectiveness analysis
+cost‑effectiveness analysis	guides	policy decisions
+policy decisions	shape	clinical guidelines
+clinical guidelines	recommend	use of I-123
+use of I-123	reduces	radiation burden
+radiation burden	lowers	patient risk
+patient risk	predicts	morbidity
+morbidity	correlates	functional status
+functional status	influences	caregiver burden
+caregiver burden	affects	healthcare utilization
+healthcare utilization	determines	readmission probability
+readmission probability	informs	discharge criteria

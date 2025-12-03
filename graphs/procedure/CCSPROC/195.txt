@@ -1,0 +1,447 @@
+diagnostic ultrasound	is a	imaging modality
+diagnostic ultrasound	used for	urinary tract evaluation
+diagnostic ultrasound	detects	kidney stones
+diagnostic ultrasound	detects	ureteral obstruction
+diagnostic ultrasound	detects	bladder wall thickening
+diagnostic ultrasound	detects	hydronephrosis
+diagnostic ultrasound	detects	pyelonephritis
+diagnostic ultrasound	detects	renal cyst
+diagnostic ultrasound	detects	renal tumor
+diagnostic ultrasound	detects	bladder tumor
+diagnostic ultrasound	detects	urethral stricture
+diagnostic ultrasound	detects	prostate enlargement
+diagnostic ultrasound	detects	post‑void residual
+diagnostic ultrasound	guides	catheter placement
+diagnostic ultrasound	guides	percutaneous nephrostomy
+diagnostic ultrasound	guides	cystoscopy planning
+diagnostic ultrasound	guides	ureteral stent placement
+diagnostic ultrasound	measures	bladder volume
+diagnostic ultrasound	measures	renal parenchymal thickness
+diagnostic ultrasound	measures	renal resistive index
+diagnostic ultrasound	measures	bladder compliance
+diagnostic ultrasound	measures	ureteral diameter
+diagnostic ultrasound	measures	kidney length
+diagnostic ultrasound	measures	bladder wall thickness
+diagnostic ultrasound	measures	renal cortical thickness
+diagnostic ultrasound	measures	bladder capacity
+diagnostic ultrasound	measures	renal pelvis diameter
+diagnostic ultrasound	measures	ureteral flow velocity
+diagnostic ultrasound	measures	bladder outlet obstruction
+diagnostic ultrasound	measures	bladder pressure
+diagnostic ultrasound	measures	renal perfusion
+diagnostic ultrasound	measures	bladder contractility
+diagnostic ultrasound	measures	ureteral peristalsis
+diagnostic ultrasound	measures	kidney cortical echogenicity
+diagnostic ultrasound	measures	bladder mucosal thickness
+diagnostic ultrasound	measures	renal medullary thickness
+diagnostic ultrasound	measures	bladder wall stiffness
+diagnostic ultrasound	measures	ureteral wall thickness
+diagnostic ultrasound	measures	renal vein diameter
+diagnostic ultrasound	measures	bladder outlet resistance
+diagnostic ultrasound	measures	renal artery diameter
+diagnostic ultrasound	measures	bladder wall perfusion
+diagnostic ultrasound	measures	renal cortical blood flow
+diagnostic ultrasound	measures	bladder wall elasticity
+diagnostic ultrasound	measures	ureteral wall perfusion
+diagnostic ultrasound	measures	renal vein flow
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	renal cortical thickness ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness ratio
+diagnostic ultrasound	measures	ureteral peristalsis frequency
+diagnostic ultrasound	measures	renal resistive index ratio
+diagnostic ultrasound	measures	bladder compliance ratio
+diagnostic ultrasound	measures	renal perfusion index
+diagnostic ultrasound	measures	bladder outlet resistance ratio
+diagnostic ultrasound	measures	renal cortical blood flow ratio
+diagnostic ultrasound	measures	bladder wall perfusion ratio
+diagnostic ultrasound	measures	ureteral wall perfusion ratio
+diagnostic ultrasound	measures	renal vein flow ratio
+diagnostic ultrasound	measures	bladder wall stiffness ratio
+diagnostic ultrasound	measures	ureteral diameter ratio
+diagnostic ultrasound	measures	renal pelvis diameter ratio
+diagnostic ultrasound	measures	bladder volume ratio
+diagnostic ultrasound	measures	renal length ratio
+diagnostic ultrasound	measures	bladder capacity ratio
+diagnostic ultrasound	measures	renal cortical echogenicity ratio
+diagnostic ultrasound	measures	bladder wall thickness

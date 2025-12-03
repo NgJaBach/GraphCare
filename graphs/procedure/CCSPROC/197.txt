@@ -1,0 +1,100 @@
+ultrasound	is a	imaging modality
+ultrasound	uses	sound waves
+ultrasound	is non‑invasive	procedure
+ultrasound	is safe	for pregnant
+ultrasound	is safe	for children
+ultrasound	is safe	for adults
+ultrasound	is low‑cost	imaging
+ultrasound	is portable	equipment
+ultrasound	is real‑time	imaging
+ultrasound	is operator‑dependent	accuracy
+ultrasound	is limited	bone penetration
+ultrasound	is limited	gas interference
+ultrasound	is limited	deep tissue
+ultrasound	is used for	abdominal imaging
+ultrasound	is used for	pelvic imaging
+ultrasound	is used for	cardiac imaging
+ultrasound	is used for	musculoskeletal imaging
+ultrasound	is used for	vascular imaging
+ultrasound	is used for	obstetric imaging
+ultrasound	is used for	fetal monitoring
+ultrasound	is used for	thyroid evaluation
+ultrasound	is used for	breast evaluation
+ultrasound	is used for	prostate evaluation
+ultrasound	is used for	renal evaluation
+ultrasound	is used for	hepatic evaluation
+ultrasound	is used for	splenic evaluation
+ultrasound	is used for	pancreatic evaluation
+ultrasound	is used for	gallbladder evaluation
+ultrasound	is used for	adrenal evaluation
+ultrasound	is used for	thyroid nodule
+ultrasound	is used for	breast mass
+ultrasound	is used for	vascular stenosis
+ultrasound	is used for	deep vein thrombosis
+ultrasound	is used for	carotid plaque
+ultrasound	is used for	aneurysm detection
+ultrasound	is used for	cardiac tamponade
+ultrasound	is used for	pericardial effusion
+ultrasound	is used for	pleural effusion
+ultrasound	is used for	ascites
+ultrasound	is used for	organ injury
+ultrasound	is used for	trauma assessment
+ultrasound	is used for	guided biopsy
+ultrasound	is used for	guided drainage
+ultrasound	is used for	guided ablation
+ultrasound	is used for	guided injection
+ultrasound	is used for	fetal growth
+ultrasound	is used for	fetal anomaly
+ultrasound	is used for	fetal heart rate
+ultrasound	is used for	fetal presentation
+ultrasound	is used for	fetal position
+ultrasound	is used for	fetal viability
+ultrasound	is used for	fetal weight
+ultrasound	is used for	fetal anatomy
+ultrasound	is used for	fetal movement
+ultrasound	is used for	fetal placenta
+ultrasound	is used for	fetal umbilical cord
+ultrasound	is used for	fetal nuchal translucency
+ultrasound	is used for	fetal nuchal fold
+ultrasound	is used for	fetal nuchal thickness
+ultrasound	is used for	fetal nuchal translucency screening
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement
+ultrasound	is used for	fetal nuchal thickness measurement
+ultrasound	is used for	fetal nuchal translucency measurement
+ultrasound	is used for	fetal nuchal fold measurement

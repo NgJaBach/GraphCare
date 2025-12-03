@@ -1,0 +1,100 @@
+skin	is a	organ
+breast	is a	gland
+skin	protects	body
+breast	produces	milk
+skin	contains	keratinocytes
+breast	contains	adipocytes
+skin	has	dermis
+breast	has	mammary ducts
+skin	has	sweat glands
+breast	has	lactiferous ducts
+skin	is affected by	eczema
+breast	is affected by	mastitis
+skin	is affected by	psoriasis
+breast	is affected by	breast cancer
+skin	is treated with	topical steroids
+breast	is treated with	lumpectomy
+skin	is treated with	cryotherapy
+breast	is treated with	mastectomy
+skin	is treated with	laser therapy
+breast	is treated with	radiation therapy
+skin	is treated with	phototherapy
+breast	is treated with	chemotherapy
+skin	is treated with	retinoids
+breast	is treated with	hormone therapy
+skin	is treated with	surgical excision
+breast	is treated with	sentinel lymph node biopsy
+skin	is treated with	dermabrasion
+breast	is treated with	reconstruction
+skin	is treated with	microdermabrasion
+breast	is treated with	nipple-sparing mastectomy
+skin	is treated with	chemical peel
+breast	is treated with	nipple reconstruction
+skin	is treated with	scar revision
+breast	is treated with	nipple-sparing reconstruction
+skin	is treated with	wound dressing
+breast	is treated with	breast implant
+skin	is treated with	scar excision
+breast	is treated with	fat grafting
+skin	is treated with	silicone gel
+breast	is treated with	fat transfer
+skin	is treated with	dermal fillers
+breast	is treated with	fat grafting
+skin	is treated with	dermal graft
+breast	is treated with	tissue expander
+skin	is treated with	dermal matrix
+breast	is treated with	autologous tissue
+skin	is treated with	epidermal graft
+breast	is treated with	allograft
+skin	is treated with	grafting
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft
+skin	is treated with	graft
+breast	is treated with	allograft

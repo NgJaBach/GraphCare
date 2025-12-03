@@ -1,0 +1,169 @@
+laminectomy	is a	surgical procedure
+laminectomy	removes	lamina
+laminectomy	treats	spinal stenosis
+laminectomy	reduces	nerve compression
+laminectomy	performed on	lumbar spine
+laminectomy	performed on	cervical spine
+laminectomy	performed on	thoracic spine
+laminectomy	requires	general anesthesia
+laminectomy	involves	bone removal
+laminectomy	may cause	postoperative pain
+laminectomy	may lead to	spinal instability
+laminectomy	can be combined with	fusion
+laminectomy	improves	gait
+laminectomy	improves	urinary function
+laminectomy	improves	sexual function
+laminectomy	reduces	radicular pain
+laminectomy	reduces	myelopathic symptoms
+laminectomy	reduces	muscle weakness
+laminectomy	reduces	sensory loss
+laminectomy	reduces	bladder dysfunction
+laminectomy	reduces	bowel dysfunction
+laminectomy	reduces	scoliosis progression
+laminectomy	reduces	kyphosis progression
+laminectomy	reduces	kyphosis severity
+laminectomy	reduces	kyphosis pain
+laminectomy	reduces	kyphosis deformity
+laminectomy	reduces	kyphosis instability
+laminectomy	reduces	kyphosis instability risk
+laminectomy	reduces	kyphosis instability probability
+laminectomy	reduces	kyphosis instability likelihood
+laminectomy	reduces	kyphosis instability chance
+laminectomy	reduces	kyphosis instability risk factor
+laminectomy	reduces	kyphosis instability factor
+laminectomy	reduces	kyphosis instability predictor
+laminectomy	reduces	kyphosis instability indicator
+laminectomy	reduces	kyphosis instability marker
+laminectomy	reduces	kyphosis instability sign
+laminectomy	reduces	kyphosis instability symptom
+laminectomy	reduces	kyphosis instability complaint
+laminectomy	reduces	kyphosis instability discomfort
+laminectomy	reduces	kyphosis instability distress
+laminectomy	reduces	kyphosis instability pain level
+laminectomy	reduces	kyphosis instability pain score
+laminectomy	reduces	kyphosis instability pain severity
+laminectomy	reduces	kyphosis instability pain intensity
+laminectomy	reduces	kyphosis instability pain intensity score
+laminectomy	reduces	kyphosis instability pain intensity level
+laminectomy	reduces	kyphosis instability pain intensity measure
+laminectomy	reduces	kyphosis instability pain intensity metric
+laminectomy	reduces	kyphosis instability pain intensity index
+laminectomy	reduces	kyphosis instability pain intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity marker
+laminectomy	reduces	kyphosis instability pain intensity sign
+laminectomy	reduces	kyphosis instability pain intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity distress
+laminectomy	reduces	kyphosis instability pain intensity level
+laminectomy	reduces	kyphosis instability pain intensity score
+laminectomy	reduces	kyphosis instability pain intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity distress
+laminectomy	reduces	kyphosis instability pain intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity distress
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity distress
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity distress
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity distress
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity distress
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity severity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity score
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity level
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity measure
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity metric
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity index
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity indicator
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity marker
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity sign
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity symptom
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity complaint
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity discomfort
+laminectomy	reduces	kyphosis instability pain intensity intensity intensity intensity intensity intensity intensity intensity distress

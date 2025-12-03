@@ -1,0 +1,100 @@
+hormones	are	chemical messengers
+hormones	are	produced by glands
+hormones	regulate	metabolism
+hormones	regulate	growth
+hormones	regulate	reproduction
+hormones	regulate	mood
+hormones	act on	target cells
+hormones	bind	receptors
+hormones	signal	intracellular pathways
+hormones	influence	gene expression
+hormones	are	classified by structure
+hormones	are	classified by function
+hormones	are	classified by source
+hormones	are	classified by half‑life
+hormones	are	classified by solubility
+hormones	are	classified by receptor type
+hormones	are	classified by transport protein
+hormones	are	classified by synthesis pathway
+hormones	are	classified by secretion pattern
+hormones	are	classified by endocrine organ
+hormones	are	classified by disease association
+hormones	are	classified by therapeutic use
+hormones	are	classified by dosage form
+hormones	are	classified by route of administration
+hormones	are	classified by half‑life
+hormones	are	classified by receptor subtype
+hormones	are	classified by binding affinity
+hormones	are	classified by potency
+hormones	are	classified by side‑effect profile
+hormones	are	classified by pharmacokinetics
+hormones	are	classified by pharmacodynamics
+hormones	are	classified by therapeutic index
+hormones	are	classified by drug interactions
+hormones	are	classified by contraindications
+hormones	are	classified by patient population
+hormones	are	classified by age group
+hormones	are	classified by sex
+hormones	are	classified by pregnancy status
+hormones	are	classified by lactation status
+hormones	are	classified by renal function
+hormones	are	classified by hepatic function
+hormones	are	classified by genetic polymorphism
+hormones	are	classified by disease severity
+hormones	are	classified by comorbidities
+hormones	are	classified by biomarker levels
+hormones	are	classified by laboratory values
+hormones	are	classified by imaging findings
+hormones	are	classified by clinical trial phase
+hormones	are	classified by regulatory status
+hormones	are	classified by approval status
+hormones	are	classified by market availability
+hormones	are	classified by cost
+hormones	are	classified by insurance coverage
+hormones	are	classified by patient adherence
+hormones	are	classified by dosing frequency
+hormones	are	classified by formulation type
+hormones	are	classified by excipient content
+hormones	are	classified by storage conditions
+hormones	are	classified by shelf life
+hormones	are	classified by stability
+hormones	are	classified by immunogenicity
+hormones	are	classified by allergenicity
+hormones	are	classified by toxicity
+hormones	are	classified by carcinogenicity
+hormones	are	classified by teratogenicity
+hormones	are	classified by reproductive toxicity
+hormones	are	classified by neurotoxicity
+hormones	are	classified by cardiotoxicity
+hormones	are	classified by hepatotoxicity
+hormones	are	classified by nephrotoxicity
+hormones	are	classified by immunosuppression
+hormones	are	classified by endocrine disruption
+hormones	are	classified by environmental persistence
+hormones	are	classified by bioaccumulation
+hormones	are	classified by regulatory monitoring
+hormones	are	classified by adverse event reporting
+hormones	are	classified by pharmacovigilance
+hormones	are	classified by post‑marketing surveillance
+hormones	are	classified by patient education
+hormones	are	classified by counseling topics
+hormones	are	classified by dosage adjustment
+hormones	are	classified by therapeutic monitoring
+hormones	are	classified by lab monitoring
+hormones	are	classified by imaging monitoring
+hormones	are	classified by symptom monitoring
+hormones	are	classified by quality of life
+hormones	are	classified by cost‑effectiveness
+hormones	are	classified by health‑system impact
+hormones	are	classified by policy guidelines
+hormones	are	classified by clinical practice
+hormones	are	classified by evidence hierarchy
+hormones	are	classified by guideline recommendation
+hormones	are	classified by consensus statements
+hormones	are	classified by expert opinion
+hormones	are	classified by patient preference
+hormones	are	classified by cultural acceptance
+hormones	are	classified by geographic availability
+hormones	are	classified by supply chain
+hormones	are	classified by manufacturing process
+hormones	are	classified by quality control

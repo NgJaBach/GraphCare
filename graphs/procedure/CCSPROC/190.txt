@@ -1,0 +1,100 @@
+contrast arteriogram	is a	imaging study
+contrast arteriogram	visualizes	femoral artery
+contrast arteriogram	visualizes	popliteal artery
+contrast arteriogram	visualizes	tibial arteries
+contrast arteriogram	visualizes	peroneal artery
+contrast arteriogram	visualizes	dorsalis pedis artery
+contrast arteriogram	visualizes	posterior tibial artery
+contrast arteriogram	detects	arterial stenosis
+contrast arteriogram	detects	arterial occlusion
+contrast arteriogram	detects	aneurysm
+contrast arteriogram	detects	arteriovenous malformation
+contrast arteriogram	detects	plaque burden
+contrast arteriogram	detects	thrombus
+contrast arteriogram	detects	embolus
+contrast arteriogram	guides	endovascular therapy
+contrast arteriogram	guides	stent placement
+contrast arteriogram	guides	angioplasty
+contrast arteriogram	guides	bypass planning
+contrast arteriogram	informs	surgical risk
+contrast arteriogram	informs	revascularization strategy
+contrast arteriogram	informs	prognosis
+contrast arteriogram	informs	mortality risk
+contrast arteriogram	informs	readmission risk
+contrast arteriogram	informs	limb salvage probability
+contrast arteriogram	informs	wound healing potential
+contrast arteriogram	informs	infection risk
+contrast arteriogram	informs	graft patency
+contrast arteriogram	informs	need for reintervention
+contrast arteriogram	informs	anticoagulation necessity
+contrast arteriogram	informs	antiplatelet therapy
+contrast arteriogram	informs	statin therapy
+contrast arteriogram	informs	blood pressure control
+contrast arteriogram	informs	diabetes management
+contrast arteriogram	informs	smoking cessation
+contrast arteriogram	informs	lipid lowering
+contrast arteriogram	informs	exercise prescription
+contrast arteriogram	informs	dietary counseling
+contrast arteriogram	informs	weight management
+contrast arteriogram	informs	peripheral artery disease staging
+contrast arteriogram	informs	Rutherford classification
+contrast arteriogram	informs	ankle‑brachial index correlation
+contrast arteriogram	informs	duplex ultrasound comparison
+contrast arteriogram	informs	CT angiography comparison
+contrast arteriogram	informs	MR angiography comparison
+contrast arteriogram	informs	invasive vs non‑invasive imaging choice
+contrast arteriogram	informs	radiation exposure
+contrast arteriogram	informs	contrast nephropathy risk
+contrast arteriogram	informs	allergy risk
+contrast arteriogram	informs	procedural time
+contrast arteriogram	informs	hospital stay length
+contrast arteriogram	informs	cost analysis
+contrast arteriogram	informs	quality‑adjusted life years
+contrast arteriogram	informs	patient satisfaction
+contrast arteriogram	informs	caregiver burden
+contrast arteriogram	informs	rehabilitation planning
+contrast arteriogram	informs	prosthetic fitting
+contrast arteriogram	informs	prosthesis selection
+contrast arteriogram	informs	amputation risk
+contrast arteriogram	informs	limb‑preserving surgery
+contrast arteriogram	informs	endarterectomy candidacy
+contrast arteriogram	informs	drug‑eluting stent selection
+contrast arteriogram	informs	bare‑metal stent selection
+contrast arteriogram	informs	drug therapy adjustment
+contrast arteriogram	informs	procedural complications
+contrast arteriogram	informs	bleeding risk
+contrast arteriogram	informs	access site complications
+contrast arteriogram	informs	pseudoaneurysm risk
+contrast arteriogram	informs	arteriovenous fistula risk
+contrast arteriogram	informs	infection risk
+contrast arteriogram	informs	embolic event risk
+contrast arteriogram	informs	contrast reaction risk
+contrast arteriogram	informs	contrast dose optimization
+contrast arteriogram	informs	hydration protocol
+contrast arteriogram	informs	pre‑procedure labs
+contrast arteriogram	informs	post‑procedure monitoring
+contrast arteriogram	informs	follow‑up imaging schedule
+contrast arteriogram	informs	surveillance strategy
+contrast arteriogram	informs	medication adherence
+contrast arteriogram	informs	lifestyle modification
+contrast arteriogram	informs	patient education
+contrast arteriogram	informs	shared decision making
+contrast arteriogram	informs	multidisciplinary team
+contrast arteriogram	informs	vascular surgeon input
+contrast arteriogram	informs	interventional radiologist input
+contrast arteriogram	informs	cardiologist input
+contrast arteriogram	informs	nephrologist input
+contrast arteriogram	informs	anesthesiology input
+contrast arteriogram	informs	nursing care plan
+contrast arteriogram	informs	physiotherapy plan
+contrast arteriogram	informs	occupational therapy plan
+contrast arteriogram	informs	social work assessment
+contrast arteriogram	informs	palliative care consideration
+contrast arteriogram	informs	end‑of‑life planning
+contrast arteriogram	informs	health‑system resource allocation
+contrast arteriogram	informs	clinical trial eligibility
+contrast arteriogram	informs	registry enrollment
+contrast arteriogram	informs	quality improvement metrics
+contrast arteriogram	informs	patient‑reported outcomes
+contrast arteriogram	informs	cost‑effectiveness analysis
+contrast arteriogram	informs	policy development

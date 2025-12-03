@@ -1,0 +1,100 @@
+extracorporeal circulation	is a	medical device
+extracorporeal circulation	used for	cardiac support
+extracorporeal circulation	assists	open heart surgery
+extracorporeal circulation	reduces	myocardial workload
+extracorporeal circulation	improves	oxygenation
+extracorporeal circulation	lowers	blood pressure
+extracorporeal circulation	requires	cannulation
+cannulation	involves	arterial access
+cannulation	involves	venous access
+arterial access	can be	femoral artery
+venous access	can be	femoral vein
+extracorporeal circulation	uses	oxygenator
+oxygenator	exchanges	oxygen and carbon dioxide
+extracorporeal circulation	uses	pump
+pump	maintains	blood flow
+pump	can be	centrifugal
+pump	can be	roller
+extracorporeal circulation	includes	heat exchanger
+heat exchanger	regulates	body temperature
+extracorporeal circulation	requires	anticoagulation
+anticoagulation	uses	heparin
+heparin	prevents	clot formation
+extracorporeal circulation	monitors	hemolysis
+hemolysis	indicates	circuit damage
+extracorporeal circulation	monitors	platelet count
+platelet count	indicates	bleeding risk
+extracorporeal circulation	monitors	coagulation profile
+coagulation profile	indicates	clotting status
+extracorporeal circulation	reduces	pulmonary hypertension
+pulmonary hypertension	improves	postoperative recovery
+extracorporeal circulation	decreases	ventricular preload
+ventricular preload	reduces	myocardial oxygen demand
+extracorporeal circulation	improves	renal perfusion
+renal perfusion	reduces	acute kidney injury
+extracorporeal circulation	supports	liver function
+liver function	reduces	postoperative jaundice
+extracorporeal circulation	can be	cardiopulmonary bypass
+cardiopulmonary bypass	is a	type of extracorporeal circulation
+extracorporeal circulation	can be	extracorporeal membrane oxygenation
+extracorporeal membrane oxygenation	is used for	severe cardiac failure
+extracorporeal membrane oxygenation	can be	venoarterial
+extracorporeal membrane oxygenation	can be	venovenous
+extracorporeal circulation	improves	survival rate
+survival rate	depends on	patient age
+survival rate	depends on	comorbidities
+extracorporeal circulation	increases	ICU length of stay
+ICU length of stay	predicts	readmission risk
+extracorporeal circulation	increases	cost
+cost	influences	hospital reimbursement
+extracorporeal circulation	requires	specialized staff
+specialized staff	includes	perfusionist
+perfumer	monitors	circuit parameters
+circuit parameters	include	flow rate
+circuit parameters	include	pressure
+flow rate	affects	oxygen delivery
+pressure	affects	vascular injury risk
+extracorporeal circulation	can cause	hemolysis
+hemolysis	leads to	anemia
+anemia	requires	transfusion
+transfusion	increases	infection risk
+infection risk	predicts	postoperative complications
+extracorporeal circulation	can cause	inflammatory response
+inflammatory response	leads to	cytokine release
+cytokine release	causes	organ dysfunction
+organ dysfunction	predicts	mortality
+mortality	is influenced by	surgical complexity
+surgical complexity	measured by	CPB time
+CPB time	predicts	neurologic injury
+neurologic injury	predicts	long-term disability
+extracorporeal circulation	can be	off-pump
+off-pump	reduces	CPB time
+off-pump	reduces	blood loss
+blood loss	reduces	transfusion need
+transfusion need	reduces	infection risk
+extracorporeal circulation	can be	minimally invasive
+minimally invasive	reduces	postoperative pain
+postoperative pain	reduces	opioid use
+opioid use	reduces	respiratory depression
+respiratory depression	reduces	ICU stay
+ICU stay	reduces	readmission rate
+readmission rate	predicts	hospital quality
+hospital quality	influences	patient satisfaction
+patient satisfaction	predicts	adherence to therapy
+adherence to therapy	improves	long-term outcomes
+extracorporeal circulation	can be	hybrid procedure
+hybrid procedure	combines	surgical and interventional techniques
+interventional techniques	include	catheter-based valve repair
+catheter-based valve repair	reduces	recovery time
+recovery time	reduces	cost
+cost	influences	insurance coverage
+insurance coverage	affects	patient access
+patient access	influences	early detection
+early detection	reduces	mortality
+mortality	is reduced by	timely intervention
+timely intervention	depends on	diagnostic accuracy
+diagnostic accuracy	improved by	imaging
+imaging	includes	echocardiography
+echocardiography	guides	cannulation site
+cannulation site	affects	complication rate
+complication rate	predicts	long-term survival

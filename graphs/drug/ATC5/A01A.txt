@@ -1,0 +1,100 @@
+stomatological preparations	are	dental products
+stomatological preparations	include	mouthwash
+stomatological preparations	include	toothpaste
+stomatological preparations	include	dental floss
+stomatological preparations	include	dental rinse
+stomatological preparations	include	dental gel
+stomatological preparations	include	dental paste
+stomatological preparations	include	dental spray
+stomatological preparations	contain	fluoride
+stomatological preparations	contain	antiseptic
+stomatological preparations	contain	antibacterial
+stomatological preparations	contain	anti‑plaque
+stomatological preparations	contain	desensitizing
+stomatological preparations	contain	whitening
+stomatological preparations	contain	xylitol
+stomatological preparations	contain	chlorhexidine
+stomatological preparations	contain	cetylpyridinium
+stomatological preparations	contain	essential oils
+stomatological preparations	contain	sorbitol
+stomatological preparations	contain	sodium fluoride
+stomatological preparations	used for	plaque removal
+stomatological preparations	used for	cavity prevention
+stomatological preparations	used for	gum health
+stomatological preparations	used for	breath freshening
+stomatological preparations	used for	tooth sensitivity
+stomatological preparations	used for	oral hygiene
+stomatological preparations	used for	dental care
+stomatological preparations	used for	dental cleaning
+stomatological preparations	used for	oral health
+stomatological preparations	recommended by	dentist
+stomatological preparations	recommended by	dental hygienist
+stomatological preparations	recommended for	adults
+stomatological preparations	recommended for	children
+stomatological preparations	recommended for	pregnant women
+stomatological preparations	contraindicated in	allergy to fluoride
+stomatological preparations	contraindicated in	hypersensitivity to chlorhexidine
+stomatological preparations	contraindicated in	severe xerostomia
+stomatological preparations	contraindicated in	renal failure
+stomatological preparations	contraindicated in	pregnancy
+stomatological preparations	contraindicated in	lactation
+stomatological preparations	side effect	tooth staining
+stomatological preparations	side effect	taste alteration
+stomatological preparations	side effect	mucosal irritation
+stomatological preparations	side effect	allergic reaction
+stomatological preparations	side effect	dry mouth
+stomatological preparations	side effect	gastrointestinal upset
+stomatological preparations	side effect	systemic toxicity
+stomatological preparations	side effect	increased caries risk
+stomatological preparations	side effect	oral candidiasis
+stomatological preparations	side effect	oral mucositis
+stomatological preparations	dosage	recommended twice daily
+stomatological preparations	dosage	recommended once daily
+stomatological preparations	dosage	recommended thrice daily
+stomatological preparations	dosage	recommended as needed
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds
+stomatological preparations	dosage	recommended for 2 minutes
+stomatological preparations	dosage	recommended for 1 minute
+stomatological preparations	dosage	recommended for 30 seconds
+stomatological preparations	dosage	recommended for 60 seconds

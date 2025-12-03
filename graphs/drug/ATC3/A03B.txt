@@ -1,0 +1,100 @@
+belladonna	contains	atropine
+belladonna	contains	scopolamine
+belladonna	used for	functional gastrointestinal disorders
+atropine	treats	nausea
+atropine	treats	vomiting
+scopolamine	treats	nausea
+scopolamine	treats	vomiting
+atropine	reduces	gastric motility
+scopolamine	reduces	gastric motility
+atropine	reduces	intestinal spasms
+scopolamine	reduces	intestinal spasms
+belladonna	is a	plant
+belladonna	is a	alkaloid source
+belladonna	is a	toxic plant
+belladonna	is a	traditional medicine
+belladonna	is a	anticholinergic
+belladonna	is a	antispasmodic
+belladonna	is a	antiemetic
+belladonna	is a	anti-inflammatory
+belladonna	is a	bronchodilator
+belladonna	is a	mydriatic
+belladonna	is a	antimuscarinic
+belladonna	is a	anticholinergic drug
+belladonna	is a	drug precursor
+belladonna	is a	botanical extract
+belladonna	is a	natural product
+belladonna	is a	source of atropine
+belladonna	is a	source of scopolamine
+belladonna	is a	source of hyoscyamine
+belladonna	is a	source of anisodamine
+belladonna	is a	source of hyoscine
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropic acid
+belladonna	is a	source of tropine
+belladonna	is a	source of tropinone
+belladonna	is a	source of tropine alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids
+belladonna	is a	source of tropane alkaloids

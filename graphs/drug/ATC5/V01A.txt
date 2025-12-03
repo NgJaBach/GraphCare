@@ -1,0 +1,100 @@
+allergens	cause	allergic reaction
+allergens	trigger	IgE production
+IgE production	leads to	mast cell degranulation
+mast cell degranulation	releases	histamine
+histamine	causes	vasodilation
+vasodilation	results in	edema
+edema	manifests as	swelling
+allergens	include	pollen
+allergens	include	dust mites
+allergens	include	pet dander
+allergens	include	mold spores
+allergens	include	food proteins
+food proteins	include	peanuts
+food proteins	include	shellfish
+food proteins	include	eggs
+allergens	include	insect venom
+insect venom	include	bee venom
+insect venom	include	wasp venom
+allergens	include	latex
+allergens	include	medication
+medication	include	penicillin
+medication	include	sulfa drugs
+allergens	cause	asthma exacerbation
+asthma exacerbation	predicts	hospital readmission
+allergens	cause	rhinitis
+rhinitis	predicts	sinus infection
+allergens	cause	conjunctivitis
+conjunctivitis	predicts	eye infection
+allergens	cause	anaphylaxis
+anaphylaxis	requires	epinephrine
+epinephrine	administered via	auto‑injector
+auto‑injector	improves	survival
+allergens	detected by	skin prick test
+skin prick test	predicts	allergy severity
+allergens	detected by	serum IgE test
+serum IgE test	predicts	allergic disease
+allergens	measured by	specific IgE
+specific IgE	correlates with	symptom intensity
+allergens	managed by	avoidance
+avoidance	reduces	exposure
+avoidance	lowers	symptom frequency
+allergens	managed by	pharmacotherapy
+pharmacotherapy	includes	antihistamines
+pharmacotherapy	includes	leukotriene modifiers
+pharmacotherapy	includes	corticosteroids
+antihistamines	reduce	itching
+leukotriene modifiers	reduce	bronchoconstriction
+corticosteroids	reduce	inflammation
+allergens	managed by	immunotherapy
+immunotherapy	involves	allergen injections
+allergen injections	induce	tolerance
+tolerance	decreases	IgE levels
+IgE levels	predict	relapse risk
+relapse risk	predicts	readmission
+allergens	influence	quality of life
+quality of life	measured by	SF‑36
+SF‑36	predicts	healthcare utilization
+allergens	associated with	comorbidities
+comorbidities	include	chronic rhinosinusitis
+comorbidities	include	atopic dermatitis
+atopic dermatitis	predicts	infection risk
+infection risk	predicts	antibiotic use
+allergens	linked to	genetic predisposition
+genetic predisposition	includes	HLA‑DRB1
+HLA‑DRB1	associated with	asthma
+asthma	predicts	mortality
+mortality	influenced by	allergen exposure
+allergen exposure	measured by	environmental monitoring
+environmental monitoring	informs	public health
+public health	implements	pollen alerts
+pollen alerts	reduce	emergency visits
+emergency visits	predict	cost
+cost	influences	insurance coverage
+insurance coverage	affects	treatment adherence
+treatment adherence	predicts	outcome
+outcome	measured by	remission rate
+remission rate	predicts	long‑term survival
+long‑term survival	influenced by	allergen control
+allergen control	achieved by	air filtration
+air filtration	reduces	indoor allergens
+indoor allergens	include	pet dander
+pet dander	measured by	dust analysis
+dust analysis	predicts	exposure level
+exposure level	predicts	symptom burden
+symptom burden	predicts	medication use
+medication use	predicts	side effect risk
+side effect risk	predicts	hospitalization
+hospitalization	predicts	mortality
+mortality	influenced by	age
+age	predicts	disease progression
+disease progression	predicts	readmission
+readmission	predicts	quality of care
+quality of care	measured by	patient satisfaction
+patient satisfaction	predicts	adherence
+adherence	predicts	relapse
+relapse	predicts	emergency department visit
+emergency department visit	predicts	cost
+cost	predicts	insurance premium
+insurance premium	influences	access to care
+access to care	predicts	health outcome

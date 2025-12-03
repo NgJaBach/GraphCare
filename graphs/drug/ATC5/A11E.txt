@@ -1,0 +1,100 @@
+vitamin B‑complex	is a	supplement
+vitamin B‑complex	contains	vitamin B1
+vitamin B‑complex	contains	vitamin B2
+vitamin B‑complex	contains	vitamin B3
+vitamin B‑complex	contains	vitamin B5
+vitamin B‑complex	contains	vitamin B6
+vitamin B‑complex	contains	vitamin B7
+vitamin B‑complex	contains	vitamin B9
+vitamin B‑complex	contains	vitamin B12
+vitamin B‑complex	used for	energy metabolism
+vitamin B‑complex	used for	nervous system health
+vitamin B‑complex	used for	skin health
+vitamin B‑complex	used for	hair health
+vitamin B‑complex	used for	immune support
+vitamin B‑complex	used for	anemia prevention
+vitamin B‑complex	used for	mood regulation
+vitamin B‑complex	used for	cardiovascular health
+vitamin B‑complex	used for	pregnancy support
+vitamin B‑complex	used for	wound healing
+vitamin B‑complex	used for	cognitive function
+vitamin B‑complex	recommended for	elderly
+vitamin B‑complex	recommended for	pregnant women
+vitamin B‑complex	recommended for	athletes
+vitamin B‑complex	recommended for	smokers
+vitamin B‑complex	recommended for	vegans
+vitamin B‑complex	contraindicated in	kidney disease
+vitamin B‑complex	contraindicated in	liver disease
+vitamin B‑complex	contraindicated in	pregnancy (high doses)
+vitamin B‑complex	interacts with	anticonvulsants
+vitamin B‑complex	interacts with	anticoagulants
+vitamin B‑complex	interacts with	chemotherapy
+vitamin B‑complex	interacts with	antidepressants
+vitamin B‑complex	interacts with	statins
+vitamin B‑complex	interacts with	antacids
+vitamin B‑complex	dosage	50 mg
+vitamin B‑complex	dosage	100 mg
+vitamin B‑complex	dosage	200 mg
+vitamin B‑complex	dosage	400 mg
+vitamin B‑complex	dosage	800 mg
+vitamin B‑complex	form	tablet
+vitamin B‑complex	form	capsule
+vitamin B‑complex	form	liquid
+vitamin B‑complex	form	chewable
+vitamin B‑complex	form	lozenge
+vitamin B‑complex	form	powder
+vitamin B‑complex	route	oral
+vitamin B‑complex	route	sublingual
+vitamin B‑complex	route	intravenous
+vitamin B‑complex	side effect	nausea
+vitamin B‑complex	side effect	headache
+vitamin B‑complex	side effect	dizziness
+vitamin B‑complex	side effect	rash
+vitamin B‑complex	side effect	flushing
+vitamin B‑complex	side effect	insomnia
+vitamin B‑complex	side effect	increased appetite
+vitamin B‑complex	side effect	elevated liver enzymes
+vitamin B‑complex	side effect	neuropathy (high doses)
+vitamin B‑complex	efficacy	improves fatigue
+vitamin B‑complex	efficacy	reduces depression
+vitamin B‑complex	efficacy	lowers homocysteine
+vitamin B‑complex	efficacy	improves wound healing
+vitamin B‑complex	efficacy	supports pregnancy
+vitamin B‑complex	efficacy	reduces anemia
+vitamin B‑complex	efficacy	improves hair growth
+vitamin B‑complex	efficacy	improves skin health
+vitamin B‑complex	efficacy	improves cognition
+vitamin B‑complex	efficacy	reduces cardiovascular risk
+vitamin B‑complex	efficacy	improves exercise performance
+vitamin B‑complex	efficacy	reduces migraine frequency
+vitamin B‑complex	efficacy	improves sleep quality
+vitamin B‑complex	efficacy	reduces inflammation
+vitamin B‑complex	efficacy	improves liver function
+vitamin B‑complex	efficacy	improves immune function
+vitamin B‑complex	efficacy	improves mood
+vitamin B‑complex	efficacy	improves memory
+vitamin B‑complex	efficacy	improves vision
+vitamin B‑complex	efficacy	improves hearing
+vitamin B‑complex	efficacy	improves digestion
+vitamin B‑complex	efficacy	improves blood flow
+vitamin B‑complex	efficacy	improves hormone balance
+vitamin B‑complex	efficacy	improves bone health
+vitamin B‑complex	efficacy	improves joint health
+vitamin B‑complex	efficacy	improves respiratory function
+vitamin B‑complex	efficacy	improves kidney function
+vitamin B‑complex	efficacy	improves mental clarity
+vitamin B‑complex	efficacy	improves sleep patterns
+vitamin B‑complex	efficacy	improves appetite
+vitamin B‑complex	efficacy	improves metabolism
+vitamin B‑complex	efficacy	improves cardiovascular endurance
+vitamin B‑complex	efficacy	improves athletic recovery
+vitamin B‑complex	efficacy	improves mood stability
+vitamin B‑complex	efficacy	improves skin elasticity
+vitamin B‑complex	efficacy	improves hair thickness
+vitamin B‑complex	efficacy	improves nail strength
+vitamin B‑complex	efficacy	improves oral health
+vitamin B‑complex	efficacy	improves digestion
+vitamin B‑complex	efficacy	improves blood pressure
+vitamin B‑complex	efficacy	improves cholesterol
+vitamin B‑complex	efficacy	improves immune response
+vitamin B‑complex	efficacy	improves overall vitality

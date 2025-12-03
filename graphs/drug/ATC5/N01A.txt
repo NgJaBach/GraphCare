@@ -1,0 +1,100 @@
+anesthetics	are a	drug
+anesthetics	used for	surgery
+anesthetics	induce	unconsciousness
+anesthetics	suppress	pain
+anesthetics	administered	intravenously
+anesthetics	administered	inhalational
+anesthetics	monitored by	anesthesiologist
+anesthetics	affect	heart rate
+anesthetics	affect	blood pressure
+anesthetics	affect	respiration
+anesthetics	can cause	hypotension
+anesthetics	can cause	bradycardia
+anesthetics	can cause	hypoxia
+anesthetics	can cause	nausea
+anesthetics	can cause	vomiting
+anesthetics	can cause	arrhythmia
+anesthetics	can cause	allergic reaction
+anesthetics	can cause	malignant hyperthermia
+anesthetics	can cause	postoperative pain
+anesthetics	can cause	delirium
+anesthetics	can cause	cognitive dysfunction
+anesthetics	can cause	respiratory depression
+anesthetics	can cause	neurotoxicity
+anesthetics	can cause	renal failure
+anesthetics	can cause	hepatic injury
+anesthetics	can cause	blood clotting
+anesthetics	can cause	infection
+anesthetics	can cause	wound healing delay
+anesthetics	can cause	surgical complications
+anesthetics	can cause	mortality
+anesthetics	reduce	postoperative complications
+anesthetics	reduce	surgical time
+anesthetics	reduce	patient anxiety
+anesthetics	reduce	postoperative nausea
+anesthetics	reduce	postoperative vomiting
+anesthetics	reduce	pain medication requirement
+anesthetics	reduce	opioid consumption
+anesthetics	reduce	hospital stay
+anesthetics	reduce	readmission risk
+anesthetics	improve	surgical outcomes
+anesthetics	improve	patient satisfaction
+anesthetics	improve	recovery speed
+anesthetics	improve	hemodynamic stability
+anesthetics	improve	airway protection
+anesthetics	improve	analgesia quality
+anesthetics	improve	sedation quality
+anesthetics	improve	intraoperative monitoring
+anesthetics	improve	postoperative recovery
+anesthetics	improve	cost‑effectiveness
+anesthetics	improve	quality of life
+anesthetics	contraindicated in	pregnancy
+anesthetics	contraindicated in	severe liver disease
+anesthetics	contraindicated in	severe kidney disease
+anesthetics	contraindicated in	cardiac arrhythmia
+anesthetics	contraindicated in	asthma
+anesthetics	contraindicated in	obesity
+anesthetics	contraindicated in	elderly
+anesthetics	contraindicated in	neuromuscular disease
+anesthetics	contraindicated in	allergy to drug
+anesthetics	contraindicated in	history of malignant hyperthermia
+anesthetics	contraindicated in	uncontrolled hypertension
+anesthetics	contraindicated in	uncontrolled diabetes
+anesthetics	contraindicated in	severe anemia
+anesthetics	contraindicated in	active infection
+anesthetics	contraindicated in	recent stroke
+anesthetics	contraindicated in	severe obesity
+anesthetics	contraindicated in	psychiatric disorder
+anesthetics	contraindicated in	substance abuse
+anesthetics	contraindicated in	pregnancy trimester
+anesthetics	contraindicated in	lactation
+anesthetics	contraindicated in	recent surgery
+anesthetics	contraindicated in	chronic pain
+anesthetics	contraindicated in	chronic opioid use
+anesthetics	contraindicated in	chronic respiratory disease
+anesthetics	contraindicated in	chronic liver disease
+anesthetics	contraindicated in	chronic kidney disease
+anesthetics	contraindicated in	severe malnutrition
+anesthetics	contraindicated in	severe electrolyte imbalance
+anesthetics	contraindicated in	severe hypoxia
+anesthetics	contraindicated in	severe hyperthermia
+anesthetics	contraindicated in	severe hypotension
+anesthetics	contraindicated in	severe hypertension
+anesthetics	contraindicated in	severe bradycardia
+anesthetics	contraindicated in	severe tachycardia
+anesthetics	contraindicated in	severe arrhythmia
+anesthetics	contraindicated in	severe pulmonary hypertension
+anesthetics	contraindicated in	severe anemia
+anesthetics	contraindicated in	severe thrombocytopenia
+anesthetics	contraindicated in	severe coagulopathy
+anesthetics	contraindicated in	severe infection
+anesthetics	contraindicated in	severe sepsis
+anesthetics	contraindicated in	severe shock
+anesthetics	contraindicated in	severe trauma
+anesthetics	contraindicated in	severe burns
+anesthetics	contraindicated in	severe spinal injury
+anesthetics	contraindicated in	severe brain injury
+anesthetics	contraindicated in	severe endocrine disorder
+anesthetics	contraindicated in	severe metabolic disorder
+anesthetics	contraindicated in	severe genetic disorder
+anesthetics	contraindicated in	severe psychiatric disorder

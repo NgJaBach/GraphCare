@@ -1,0 +1,100 @@
+bronchoscopy	is a	medical procedure
+bronchoscopy	used for	airway evaluation
+bronchoscopy	can detect	tumors
+bronchoscopy	can remove	foreign bodies
+bronchoscopy	requires	sedation
+bronchoscopy	involves	endoscope
+bronchoscopy	performed by	pulmonologist
+bronchoscopy	reduces	mortality
+bronchoscopy	improves	diagnosis accuracy
+bronchoscopy	increases	patient comfort
+bronchoscopy	has	risk of bleeding
+bronchoscopy	has	risk of infection
+bronchoscopy	has	risk of pneumothorax
+bronchoscopy	is contraindicated in	severe hypoxia
+bronchoscopy	is indicated in	hemoptysis
+bronchoscopy	is indicated in	suspected lung cancer
+bronchoscopy	is indicated in	chronic cough
+bronchoscopy	is indicated in	lung transplant evaluation
+bronchoscopy	is indicated in	mediastinal mass
+bronchoscopy	is indicated in	airway obstruction
+bronchoscopy	is indicated in	post‑operative monitoring
+bronchoscopy	is indicated in	pleural effusion
+bronchoscopy	is indicated in	tuberculosis
+bronchoscopy	is indicated in	sarcoidosis
+bronchoscopy	is indicated in	cystic fibrosis
+bronchoscopy	is indicated in	bronchiectasis
+bronchoscopy	is indicated in	pneumonia
+bronchoscopy	is indicated in	asthma exacerbation
+bronchoscopy	is indicated in	COPD
+bronchoscopy	is indicated in	lung abscess
+bronchoscopy	is indicated in	pleural disease
+bronchoscopy	is indicated in	mediastinal lymphadenopathy
+bronchoscopy	is indicated in	post‑operative complications
+bronchoscopy	is indicated in	foreign body aspiration
+bronchoscopy	is indicated in	airway trauma
+bronchoscopy	is indicated in	tracheostomy evaluation
+bronchoscopy	is indicated in	bronchial stenosis
+bronchoscopy	is indicated in	bronchial hyperreactivity
+bronchoscopy	is indicated in	lung volume reduction
+bronchoscopy	is indicated in	lung function testing
+bronchoscopy	is indicated in	lung biopsy
+bronchoscopy	is indicated in	mediastinoscopy
+bronchoscopy	is indicated in	thoracic surgery
+bronchoscopy	is indicated in	pulmonary embolism
+bronchoscopy	is indicated in	pulmonary hypertension
+bronchoscopy	is indicated in	lung transplant
+bronchoscopy	is indicated in	lung cancer staging
+bronchoscopy	is indicated in	lung cancer treatment
+bronchoscopy	is indicated in	lung cancer prognosis
+bronchoscopy	is indicated in	lung cancer survival
+bronchoscopy	is indicated in	lung cancer recurrence
+bronchoscopy	is indicated in	lung cancer screening
+bronchoscopy	is indicated in	lung cancer diagnosis
+bronchoscopy	is indicated in	lung cancer therapy
+bronchoscopy	is indicated in	lung cancer management
+bronchoscopy	is indicated in	lung cancer follow‑up
+bronchoscopy	is indicated in	lung cancer monitoring
+bronchoscopy	is indicated in	lung cancer treatment response
+bronchoscopy	is indicated in	lung cancer treatment planning
+bronchoscopy	is indicated in	lung cancer treatment selection
+bronchoscopy	is indicated in	lung cancer treatment outcome
+bronchoscopy	is indicated in	lung cancer treatment side‑effects
+bronchoscopy	is indicated in	lung cancer treatment complications
+bronchoscopy	is indicated in	lung cancer treatment toxicity
+bronchoscopy	is indicated in	lung cancer treatment efficacy
+bronchoscopy	is indicated in	lung cancer treatment safety
+bronchoscopy	is indicated in	lung cancer treatment quality
+bronchoscopy	is indicated in	lung cancer treatment cost
+bronchoscopy	is indicated in	lung cancer treatment value
+bronchoscopy	is indicated in	lung cancer treatment adherence
+bronchoscopy	is indicated in	lung cancer treatment compliance
+bronchoscopy	is indicated in	lung cancer treatment monitoring
+bronchoscopy	is indicated in	lung cancer treatment evaluation
+bronchoscopy	is indicated in	lung cancer treatment decision
+bronchoscopy	is indicated in	lung cancer treatment guideline
+bronchoscopy	is indicated in	lung cancer treatment protocol
+bronchoscopy	is indicated in	lung cancer treatment standard
+bronchoscopy	is indicated in	lung cancer treatment best practice
+bronchoscopy	is indicated in	lung cancer treatment research
+bronchoscopy	is indicated in	lung cancer treatment trial
+bronchoscopy	is indicated in	lung cancer treatment study
+bronchoscopy	is indicated in	lung cancer treatment evidence
+bronchoscopy	is indicated in	lung cancer treatment data
+bronchoscopy	is indicated in	lung cancer treatment outcome
+bronchoscopy	is indicated in	lung cancer treatment survival
+bronchoscopy	is indicated in	lung cancer treatment mortality
+bronchoscopy	is indicated in	lung cancer treatment readmission
+bronchoscopy	is indicated in	lung cancer treatment complications
+bronchoscopy	is indicated in	lung cancer treatment side‑effects
+bronchoscopy	is indicated in	lung cancer treatment toxicity
+bronchoscopy	is indicated in	lung cancer treatment efficacy
+bronchoscopy	is indicated in	lung cancer treatment safety
+bronchoscopy	is indicated in	lung cancer treatment quality
+bronchoscopy	is indicated in	lung cancer treatment cost
+bronchoscopy	is indicated in	lung cancer treatment value
+bronchoscopy	is indicated in	lung cancer treatment adherence
+bronchoscopy	is indicated in	lung cancer treatment compliance
+bronchoscopy	is indicated in	lung cancer treatment monitoring
+bronchoscopy	is indicated in	lung cancer treatment evaluation
+bronchoscopy	is indicated in	lung cancer treatment decision

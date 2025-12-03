@@ -1,0 +1,100 @@
+irrigating solutions	used in	surgery
+irrigating solutions	reduce	tissue damage
+irrigating solutions	maintain	temperature
+irrigating solutions	prevent	hypothermia
+irrigating solutions	improve	visibility
+irrigating solutions	contain	saline
+irrigating solutions	contain	glucose
+irrigating solutions	contain	electrolytes
+irrigating solutions	are sterile	irrigation
+irrigating solutions	are isotonic	fluid
+irrigating solutions	are hypotonic	fluid
+irrigating solutions	are hypertonic	fluid
+irrigating solutions	used in	neurosurgery
+irrigating solutions	used in	cardiac surgery
+irrigating solutions	used in	orthopedic surgery
+irrigating solutions	used in	ophthalmic surgery
+irrigating solutions	used in	dental surgery
+irrigating solutions	used in	laparoscopic surgery
+irrigating solutions	used in	transplant surgery
+irrigating solutions	reduce	postoperative pain
+irrigating solutions	reduce	infection risk
+irrigating solutions	reduce	blood loss
+irrigating solutions	reduce	edema
+irrigating solutions	improve	healing
+irrigating solutions	improve	patient outcome
+irrigating solutions	are delivered by	irrigation pump
+irrigating solutions	are delivered by	gravity
+irrigating solutions	are delivered by	suction
+irrigating solutions	are monitored by	flow meter
+irrigating solutions	are monitored by	pressure gauge
+irrigating solutions	are monitored by	temperature probe
+irrigating solutions	are stored in	sterile bag
+irrigating solutions	are stored in	refrigerated container
+irrigating solutions	are stored in	room temperature
+irrigating solutions	are mixed with	anesthetic
+irrigating solutions	are mixed with	antibiotic
+irrigating solutions	are mixed with	vasoconstrictor
+irrigating solutions	are mixed with	anticoagulant
+irrigating solutions	are mixed with	antifungal
+irrigating solutions	are mixed with	anti-inflammatory
+blood substitutes	are used in	transfusion
+blood substitutes	are used in	emergency medicine
+blood substitutes	are used in	military medicine
+blood substitutes	are used in	space medicine
+blood substitutes	are used in	veterinary medicine
+blood substitutes	are used in	research
+blood substitutes	reduce	blood loss
+blood substitutes	reduce	transfusion reactions
+blood substitutes	reduce	storage requirements
+blood substitutes	reduce	cost
+blood substitutes	improve	oxygen delivery
+blood substitutes	improve	patient survival
+blood substitutes	improve	logistics
+blood substitutes	are hemoglobin-based	product
+blood substitutes	are polymerized	hemoglobin
+blood substitutes	are perfluorocarbon	emulsion
+blood substitutes	are synthetic	oxygen carrier
+blood substitutes	are derived from	bovine
+blood substitutes	are derived from	human
+blood substitutes	are derived from	plant
+blood substitutes	are manufactured by	recombinant DNA
+blood substitutes	are manufactured by	chemical synthesis
+blood substitutes	are manufactured by	extraction
+blood substitutes	are stored in	cryogenic container
+blood substitutes	are stored in	refrigerated container
+blood substitutes	are stored in	room temperature
+blood substitutes	are administered by	intravenous
+blood substitutes	are administered by	intraoperative
+blood substitutes	are administered by	intra-arterial
+blood substitutes	are monitored by	hemoglobin level
+blood substitutes	are monitored by	oxygen saturation
+blood substitutes	are monitored by	lactate level
+blood substitutes	are monitored by	renal function
+blood substitutes	are monitored by	liver function
+blood substitutes	are monitored by	inflammatory markers
+perfusion	is essential for	organ viability
+perfusion	is measured by	flow rate
+perfusion	is measured by	pressure gradient
+perfusion	is measured by	oxygen consumption
+perfusion	is measured by	carbon dioxide production
+perfusion	is regulated by	vasoconstriction
+perfusion	is regulated by	vasodilation
+perfusion	is regulated by	cardiac output
+perfusion	is regulated by	blood volume
+perfusion	is regulated by	blood pressure
+perfusion	is regulated by	microcirculation
+perfusion	is improved by	vasodilators
+perfusion	is improved by	inotropes
+perfusion	is improved by	fluid resuscitation
+perfusion	is improved by	oxygen therapy
+perfusion	is impaired by	ischemia
+perfusion	is impaired by	embolism
+perfusion	is impaired by	hypovolemia
+perfusion	is impaired by	vasospasm
+perfusion	is impaired by	microthrombi
+perfusion	is monitored by	Doppler
+perfusion	is monitored by	near-infrared spectroscopy
+perfusion	is monitored by	arterial line
+perfusion	is monitored by	capnography
+perfusion	is monitored by	lactate clearance

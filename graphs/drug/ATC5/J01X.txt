@@ -1,0 +1,100 @@
+antibacterials	belong to	ATC
+ATC	classifies	drugs
+antibacterials	treat	bacterial infections
+bacterial infections	cause	sepsis
+sepsis	leads to	organ failure
+organ failure	predicts	mortality
+mortality	predicts	readmission
+readmission	increases	healthcare cost
+healthcare cost	drives	insurance premiums
+insurance premiums	affect	medication adherence
+medication adherence	influences	treatment success
+treatment success	reduces	relapse
+relapse	raises	antibiotic resistance
+antibiotic resistance	causes	treatment failure
+treatment failure	necessitates	drug escalation
+drug escalation	increases	adverse events
+adverse events	lead to	hospitalization
+hospitalization	prolongs	recovery time
+recovery time	predicts	quality of life
+quality of life	correlates with	patient satisfaction
+patient satisfaction	affects	adherence
+adherence	improves	cure rate
+cure rate	lowers	mortality
+mortality	inversely related to	age
+age	modifies	drug pharmacokinetics
+pharmacokinetics	influence	dosing
+dosing	determines	therapeutic index
+therapeutic index	balances	efficacy and toxicity
+toxicity	manifests as	nephrotoxicity
+nephrotoxicity	requires	dose adjustment
+dose adjustment	guided by	renal function
+renal function	measured by	eGFR
+eGFR	predicts	drug clearance
+drug clearance	informs	half‑life
+half‑life	dictates	dosing interval
+dosing interval	affects	patient convenience
+patient convenience	improves	adherence
+adherence	reduces	resistance
+resistance	linked to	bacterial genetics
+bacterial genetics	studied by	genomics
+genomics	identifies	resistance genes
+resistance genes	guide	antibiotic selection
+antibiotic selection	optimizes	treatment outcome
+treatment outcome	predicts	readmission risk
+readmission risk	informs	discharge planning
+discharge planning	includes	follow‑up visits
+follow‑up visits	monitor	infection recurrence
+infection recurrence	signals	treatment failure
+treatment failure	triggers	alternative therapy
+alternative therapy	may be	combination therapy
+combination therapy	reduces	monotherapy toxicity
+monotherapy toxicity	includes	hepatotoxicity
+hepatotoxicity	monitored by	liver enzymes
+liver enzymes	elevated in	drug-induced liver injury
+drug-induced liver injury	leads to	treatment discontinuation
+treatment discontinuation	causes	subtherapeutic exposure
+subtherapeutic exposure	fosters	resistance
+resistance	increases	mortality
+mortality	correlates with	ICU admission
+ICU admission	requires	intensive monitoring
+intensive monitoring	includes	vital signs
+vital signs	detect	sepsis progression
+sepsis progression	necessitates	vasopressors
+vasopressors	used in	septic shock
+septic shock	predicts	organ dysfunction
+organ dysfunction	measured by	SOFA score
+SOFA score	predicts	mortality
+mortality	inversely related to	early intervention
+early intervention	facilitated by	rapid diagnostics
+rapid diagnostics	identify	pathogen
+pathogen	determines	antibiotic spectrum
+antibiotic spectrum	matches	drug class
+drug class	includes	beta‑lactams
+beta‑lactams	inhibit	bacterial cell wall
+cell wall inhibition	causes	bacterial lysis
+bacterial lysis	releases	endotoxin
+endotoxin	triggers	inflammatory cascade
+inflammatory cascade	measured by	cytokine levels
+cytokine levels	guide	anti‑inflammatory therapy
+anti‑inflammatory therapy	reduces	tissue damage
+tissue damage	lowers	mortality
+mortality	associated with	comorbidities
+comorbidities	include	diabetes
+diabetes	impairs	immune response
+immune response	affects	infection clearance
+infection clearance	determines	cure rate
+cure rate	influences	long‑term outcomes
+long‑term outcomes	reflected in	functional status
+functional status	predicts	rehospitalization
+rehospitalization	increases	readmission rate
+readmission rate	used in	quality metrics
+quality metrics	impact	hospital reimbursement
+hospital reimbursement	drives	resource allocation
+resource allocation	affects	staffing levels
+staffing levels	influence	patient monitoring
+patient monitoring	reduces	adverse events
+adverse events	lower	mortality
+mortality	informs	public health surveillance
+public health surveillance	guides	antibiotic stewardship
+antibiotic stewardship	curbs	resistance development

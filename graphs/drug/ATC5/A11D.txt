@@ -1,0 +1,100 @@
+vitamin B1	is a	nutrient
+vitamin B1	is a	vitamin
+vitamin B1	is essential for	carbohydrate metabolism
+vitamin B1	is essential for	energy production
+vitamin B1	is essential for	nervous system
+vitamin B1	is essential for	heart function
+vitamin B1	deficiency causes	beriberi
+vitamin B1	deficiency causes	Wernicke encephalopathy
+vitamin B1	deficiency causes	Korsakoff syndrome
+vitamin B1	deficiency causes	neuropathy
+vitamin B1	deficiency causes	anemia
+vitamin B1	deficiency causes	fatigue
+vitamin B1	deficiency causes	irritability
+vitamin B1	deficiency causes	memory loss
+vitamin B1	deficiency causes	heart failure
+vitamin B1	deficiency causes	shortness of breath
+vitamin B1	deficiency causes	edema
+vitamin B1	deficiency causes	muscle weakness
+vitamin B1	deficiency causes	seizures
+vitamin B1	deficiency causes	depression
+vitamin B1	deficiency causes	confusion
+vitamin B1	deficiency causes	vomiting
+vitamin B1	deficiency causes	loss of appetite
+vitamin B1	deficiency causes	weight loss
+vitamin B1	deficiency causes	increased mortality
+vitamin B1	deficiency causes	readmission
+vitamin B1	deficiency causes	prolonged hospital stay
+vitamin B1	deficiency causes	ICU admission
+vitamin B1	deficiency causes	arrhythmia
+vitamin B1	deficiency causes	hypotension
+vitamin B1	deficiency causes	hypoglycemia
+vitamin B1	deficiency causes	hyperglycemia
+vitamin B1	deficiency causes	electrolyte imbalance
+vitamin B1	deficiency causes	impaired cognition
+vitamin B1	deficiency causes	impaired memory
+vitamin B1	deficiency causes	impaired attention
+vitamin B1	deficiency causes	impaired executive function
+vitamin B1	deficiency causes	impaired processing speed
+vitamin B1	deficiency causes	impaired visuospatial skills
+vitamin B1	deficiency causes	impaired language
+vitamin B1	deficiency causes	impaired motor function
+vitamin B1	deficiency causes	impaired balance
+vitamin B1	deficiency causes	impaired gait
+vitamin B1	deficiency causes	impaired coordination
+vitamin B1	deficiency causes	impaired reflexes
+vitamin B1	deficiency causes	impaired sensation
+vitamin B1	deficiency causes	impaired vision
+vitamin B1	deficiency causes	impaired hearing
+vitamin B1	deficiency causes	impaired taste
+vitamin B1	deficiency causes	impaired smell
+vitamin B1	deficiency causes	impaired sleep
+vitamin B1	deficiency causes	impaired appetite
+vitamin B1	deficiency causes	impaired digestion
+vitamin B1	deficiency causes	impaired absorption
+vitamin B1	deficiency causes	impaired metabolism
+vitamin B1	deficiency causes	impaired detoxification
+vitamin B1	deficiency causes	impaired immune function
+vitamin B1	deficiency causes	impaired wound healing
+vitamin B1	deficiency causes	impaired tissue repair
+vitamin B1	deficiency causes	impaired organ function
+vitamin B1	deficiency causes	impaired endocrine function
+vitamin B1	deficiency causes	impaired cardiovascular function
+vitamin B1	deficiency causes	impaired respiratory function
+vitamin B1	deficiency causes	impaired renal function
+vitamin B1	deficiency causes	impaired hepatic function
+vitamin B1	deficiency causes	impaired gastrointestinal function
+vitamin B1	deficiency causes	impaired musculoskeletal function
+vitamin B1	deficiency causes	impaired integumentary function
+vitamin B1	deficiency causes	impaired reproductive function
+vitamin B1	deficiency causes	impaired endocrine regulation
+vitamin B1	deficiency causes	impaired hormonal balance
+vitamin B1	deficiency causes	impaired neurotransmission
+vitamin B1	deficiency causes	impaired synaptic plasticity
+vitamin B1	deficiency causes	impaired neurogenesis
+vitamin B1	deficiency causes	impaired myelination
+vitamin B1	deficiency causes	impaired axonal transport
+vitamin B1	deficiency causes	impaired mitochondrial function
+vitamin B1	deficiency causes	impaired oxidative phosphorylation
+vitamin B1	deficiency causes	impaired glycolysis
+vitamin B1	deficiency causes	impaired pentose phosphate pathway
+vitamin B1	deficiency causes	impaired transketolase activity
+vitamin B1	deficiency causes	impaired pyruvate dehydrogenase activity
+vitamin B1	deficiency causes	impaired alpha‑ketoglutarate dehydrogenase activity
+vitamin B1	deficiency causes	impaired B1‑dependent enzymes
+vitamin B1	deficiency causes	impaired thiamine pyrophosphate synthesis
+vitamin B1	deficiency causes	impaired thiamine transport
+vitamin B1	deficiency causes	impaired thiamine salvage
+vitamin B1	deficiency causes	impaired thiamine absorption
+vitamin B1	deficiency causes	impaired thiamine metabolism
+vitamin B1	deficiency causes	impaired thiamine utilization
+vitamin B1	deficiency causes	impaired thiamine deficiency
+vitamin B1	deficiency causes	impaired thiamine deficiency syndrome
+vitamin B1	deficiency causes	impaired thiamine deficiency risk
+vitamin B1	deficiency causes	impaired thiamine deficiency screening
+vitamin B1	deficiency causes	impaired thiamine deficiency diagnosis
+vitamin B1	deficiency causes	impaired thiamine deficiency treatment
+vitamin B1	deficiency causes	impaired thiamine deficiency prevention
+vitamin B1	deficiency causes	impaired thiamine deficiency management
+vitamin B1	deficiency causes	impaired thiamine deficiency outcomes
+vitamin B1	deficiency causes	impaired thiamine deficiency prognosis

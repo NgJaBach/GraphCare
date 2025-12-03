@@ -1,0 +1,100 @@
+anxiolytics	are a	drug
+anxiolytics	treat	anxiety
+anxiolytics	include	benzodiazepines
+anxiolytics	include	SSRIs
+anxiolytics	include	buspirone
+benzodiazepines	cause	sedation
+benzodiazepines	cause	muscle relaxation
+benzodiazepines	cause	dependence
+benzodiazepines	cause	withdrawal
+benzodiazepines	are metabolized	liver
+benzodiazepines	contraindicated	pregnancy
+benzodiazepines	contraindicated	elderly
+SSRIs	treat	depression
+SSRIs	treat	anxiety
+SSRIs	cause	sexual dysfunction
+SSRIs	cause	weight gain
+SSRIs	cause	serotonin syndrome
+SSRIs	contraindicated	MAOIs
+SSRIs	contraindicated	pregnancy
+buspirone	treat	generalized anxiety
+buspirone	cause	dizziness
+buspirone	cause	nausea
+buspirone	contraindicated	pregnancy
+anxiolytics	improve	sleep quality
+anxiolytics	reduce	panic attacks
+anxiolytics	reduce	social anxiety
+anxiolytics	reduce	performance anxiety
+anxiolytics	reduce	post‑traumatic stress
+anxiolytics	increase	risk of falls
+anxiolytics	increase	risk of fractures
+anxiolytics	increase	risk of delirium
+anxiolytics	increase	risk of overdose
+anxiolytics	increase	risk of respiratory depression
+anxiolytics	increase	risk of cognitive decline
+anxiolytics	increase	risk of abuse
+anxiolytics	increase	risk of withdrawal
+anxiolytics	increase	risk of dependence
+anxiolytics	increase	risk of tolerance
+anxiolytics	increase	risk of hospital readmission
+anxiolytics	increase	risk of mortality
+anxiolytics	used	emergency department
+anxiolytics	used	inpatient care
+anxiolytics	used	outpatient care
+anxiolytics	used	telehealth
+anxiolytics	prescribed	primary care
+anxiolytics	prescribed	psychiatry
+anxiolytics	prescribed	neurology
+anxiolytics	prescribed	geriatrics
+anxiolytics	prescribed	addiction medicine
+anxiolytics	prescribed	pain management
+anxiolytics	prescribed	sleep clinic
+anxiolytics	prescribed	substance abuse treatment
+anxiolytics	prescribed	ICU
+anxiolytics	prescribed	palliative care
+anxiolytics	prescribed	hospice
+anxiolytics	prescribed	neonatal care
+anxiolytics	prescribed	obstetrics
+anxiolytics	prescribed	oncology
+anxiolytics	prescribed	cardiology
+anxiolytics	prescribed	endocrinology
+anxiolytics	prescribed	rheumatology
+anxiolytics	prescribed	ophthalmology
+anxiolytics	prescribed	dermatology
+anxiolytics	prescribed	urology
+anxiolytics	prescribed	orthopedics
+anxiolytics	prescribed	ENT
+anxiolytics	prescribed	neurosurgery
+anxiolytics	prescribed	transplant
+anxiolytics	prescribed	rehabilitation
+anxiolytics	prescribed	mental health
+anxiolytics	prescribed	substance use disorder
+anxiolytics	prescribed	chronic pain
+anxiolytics	prescribed	insomnia
+anxiolytics	prescribed	PTSD
+anxiolytics	prescribed	OCD
+anxiolytics	prescribed	social anxiety
+anxiolytics	prescribed	panic disorder
+anxiolytics	prescribed	agoraphobia
+anxiolytics	prescribed	generalized anxiety
+anxiolytics	prescribed	specific phobia
+anxiolytics	prescribed	adjustment disorder
+anxiolytics	prescribed	pre‑operative anxiety
+anxiolytics	prescribed	post‑operative anxiety
+anxiolytics	prescribed	anxiety in ICU
+anxiolytics	prescribed	anxiety in oncology
+anxiolytics	prescribed	anxiety in pregnancy
+anxiolytics	prescribed	anxiety in elderly
+anxiolytics	prescribed	anxiety in children
+anxiolytics	prescribed	anxiety in adolescents
+anxiolytics	prescribed	anxiety in veterans
+anxiolytics	prescribed	anxiety in refugees
+anxiolytics	prescribed	anxiety in homeless
+anxiolytics	prescribed	anxiety in ICU survivors
+anxiolytics	prescribed	anxiety in ICU patients
+anxiolytics	prescribed	anxiety in ICU staff
+anxiolytics	prescribed	anxiety in ICU families
+anxiolytics	prescribed	anxiety in ICU survivors
+anxiolytics	prescribed	anxiety in ICU patients
+anxiolytics	prescribed	anxiety in ICU staff
+anxiolytics	prescribed	anxiety in ICU families

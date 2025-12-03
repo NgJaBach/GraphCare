@@ -1,0 +1,100 @@
+antiinfectives	treat	bacterial infection
+antiinfectives	treat	viral infection
+antiinfectives	treat	fungal infection
+antiinfectives	treat	parasitic infection
+antiinfectives	inhibit	bacterial growth
+antiinfectives	inhibit	viral replication
+antiinfectives	inhibit	fungal growth
+antiinfectives	inhibit	parasite replication
+antiinfectives	reduce	infection severity
+antiinfectives	reduce	hospitalization rate
+antiinfectives	reduce	mortality rate
+antiinfectives	reduce	readmission rate
+antiinfectives	increase	antibiotic resistance
+antiinfectives	increase	drug interactions
+antiinfectives	increase	adverse events
+antiinfectives	increase	cost of care
+antiinfectives	are classified by	mechanism of action
+antiinfectives	are classified by	spectrum of activity
+antiinfectives	are classified by	pharmacokinetics
+antiinfectives	are classified by	route of administration
+antiinfectives	are prescribed for	urinary tract infection
+antiinfectives	are prescribed for	respiratory infection
+antiinfectives	are prescribed for	skin infection
+antiinfectives	are prescribed for	surgical prophylaxis
+antiinfectives	are prescribed for	meningitis
+antiinfectives	are prescribed for	sepsis
+antiinfectives	are prescribed for	osteomyelitis
+antiinfectives	are prescribed for	endocarditis
+antiinfectives	are prescribed for	tuberculosis
+antiinfectives	are prescribed for	HIV infection
+antiinfectives	are prescribed for	hepatitis B
+antiinfectives	are prescribed for	hepatitis C
+antiinfectives	are prescribed for	influenza
+antiinfectives	are prescribed for	COVID‑19
+antiinfectives	are prescribed for	malaria
+antiinfectives	are prescribed for	leishmaniasis
+antiinfectives	are prescribed for	candidiasis
+antiinfectives	are prescribed for	aspergillosis
+antiinfectives	are prescribed for	cryptococcosis
+antiinfectives	are prescribed for	dermatophyte infection
+antiinfectives	are prescribed for	wound infection
+antiinfectives	are prescribed for	burn infection
+antiinfectives	are prescribed for	neonatal infection
+antiinfectives	are prescribed for	pediatric infection
+antiinfectives	are prescribed for	geriatric infection
+antiinfectives	are prescribed for	immunocompromised patient
+antiinfectives	are prescribed for	transplant patient
+antiinfectives	are prescribed for	ICU patient
+antiinfectives	are prescribed for	outpatient setting
+antiinfectives	are prescribed for	inpatient setting
+antiinfectives	are contraindicated in	pregnancy
+antiinfectives	are contraindicated in	lactation
+antiinfectives	are contraindicated in	renal impairment
+antiinfectives	are contraindicated in	hepatic impairment
+antiinfectives	are contraindicated in	allergy to drug
+antiinfectives	are contraindicated in	drug‑drug interaction
+antiinfectives	are contraindicated in	immunosuppression
+antiinfectives	are contraindicated in	severe infection
+antiinfectives	are contraindicated in	multi‑drug resistant organism
+antiinfectives	are contraindicated in	high‑dose therapy
+antiinfectives	are monitored by	therapeutic drug monitoring
+antiinfectives	are monitored by	serum drug level
+antiinfectives	are monitored by	renal function test
+antiinfectives	are monitored by	liver function test
+antiinfectives	are monitored by	complete blood count
+antiinfectives	are monitored by	drug‑interaction screen
+antiinfectives	are monitored by	adverse event reporting
+antiinfectives	are monitored by	microbiology culture
+antiinfectives	are monitored by	resistance pattern
+antiinfectives	are monitored by	patient adherence
+antiinfectives	are used with	antiseptics
+antiinfectives	are used with	disinfectants
+antiinfectives	are used with	sterilants
+antiinfectives	are used with	antiseptic solution
+antiinfectives	are used with	antiseptic wipes
+antiinfectives	are used with	antiseptic soap
+antiinfectives	are used with	antiseptic spray
+antiinfectives	are used with	antiseptic gel
+antiinfectives	are used with	antiseptic cream
+antiinfectives	are used with	antiseptic ointment
+antiinfectives	are combined with	antibiotics
+antiinfectives	are combined with	antivirals
+antiinfectives	are combined with	antifungals
+antiinfectives	are combined with	antiparasitics
+antiinfectives	are combined with	anti‑inflammatory
+antiinfectives	are combined with	analgesic
+antiinfectives	are combined with	antipyretic
+antiinfectives	are combined with	immunomodulator
+antiinfectives	are combined with	vaccine
+antiinfectives	are combined with	supportive care
+antiinfectives	are combined with	oxygen therapy
+antiinfectives	are combined with	mechanical ventilation
+antiinfectives	are combined with	dialysis
+antiinfectives	are combined with	surgery
+antiinfectives	are combined with	physiotherapy
+antiinfectives	are combined with	nutrition support
+antiinfectives	are combined with	rehabilitation
+antiinfectives	are combined with	palliative care
+antiinfectives	are combined with	mental health support
+antiinfectives	are combined with	patient education

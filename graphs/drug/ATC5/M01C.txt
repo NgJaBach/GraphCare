@@ -1,0 +1,100 @@
+specific antirheumatic agents	are a	drug class
+specific antirheumatic agents	treat	rheumatoid arthritis
+specific antirheumatic agents	reduce	joint inflammation
+specific antirheumatic agents	inhibit	cytokine production
+specific antirheumatic agents	block	TNF‑α
+specific antirheumatic agents	block	IL‑6
+specific antirheumatic agents	block	IL‑1
+specific antirheumatic agents	block	B‑cell activation
+specific antirheumatic agents	block	T‑cell activation
+specific antirheumatic agents	decrease	disease activity
+specific antirheumatic agents	improve	functional status
+specific antirheumatic agents	prevent	joint damage
+specific antirheumatic agents	reduce	radiographic progression
+specific antirheumatic agents	lower	CRP levels
+specific antirheumatic agents	lower	ESR levels
+specific antirheumatic agents	increase	remission rate
+specific antirheumatic agents	increase	quality of life
+specific antirheumatic agents	are used	first‑line therapy
+specific antirheumatic agents	are used	second‑line therapy
+specific antirheumatic agents	are used	biologic therapy
+specific antirheumatic agents	are used	targeted therapy
+specific antirheumatic agents	are used	disease‑modifying
+specific antirheumatic agents	are used	immunomodulatory
+specific antirheumatic agents	are used	anti‑inflammatory
+specific antirheumatic agents	are used	steroid‑sparing
+specific antirheumatic agents	are used	pain control
+specific antirheumatic agents	are used	functional improvement
+specific antirheumatic agents	are used	radiographic stability
+specific antirheumatic agents	are used	long‑term safety
+specific antirheumatic agents	are used	infection risk
+specific antirheumatic agents	are used	malignancy risk
+specific antirheumatic agents	are used	cardiovascular risk
+specific antirheumatic agents	are used	hepatic toxicity
+specific antirheumatic agents	are used	hematologic toxicity
+specific antirheumatic agents	are used	ocular toxicity
+specific antirheumatic agents	are used	renal toxicity
+specific antirheumatic agents	are used	infusion reactions
+specific antirheumatic agents	are used	injection site reactions
+specific antirheumatic agents	are used	hypersensitivity
+specific antirheumatic agents	are used	teratogenicity
+specific antirheumatic agents	are used	teratogenic risk
+specific antirheumatic agents	are used	pregnancy category
+specific antirheumatic agents	are used	lactation safety
+specific antirheumatic agents	are used	drug interactions
+specific antirheumatic agents	are used	pharmacokinetics
+specific antirheumatic agents	are used	pharmacodynamics
+specific antirheumatic agents	are used	dosing schedule
+specific antirheumatic agents	are used	route of administration
+specific antirheumatic agents	are used	oral therapy
+specific antirheumatic agents	are used	intravenous therapy
+specific antirheumatic agents	are used	subcutaneous therapy
+specific antirheumatic agents	are used	biosimilar
+specific antirheumatic agents	are used	cost‑effectiveness
+specific antirheumatic agents	are used	health‑economic impact
+specific antirheumatic agents	are used	patient adherence
+specific antirheumatic agents	are used	monitoring requirements
+specific antirheumatic agents	are used	laboratory monitoring
+specific antirheumatic agents	are used	imaging monitoring
+specific antirheumatic agents	are used	clinical trials
+specific antirheumatic agents	are used	real‑world evidence
+specific antirheumatic agents	are used	registry data
+specific antirheumatic agents	are used	post‑marketing surveillance
+specific antirheumatic agents	are used	adverse event reporting
+specific antirheumatic agents	are used	pharmacovigilance
+specific antirheumatic agents	are used	patient education
+specific antirheumatic agents	are used	shared decision‑making
+specific antirheumatic agents	are used	treatment escalation
+specific antirheumatic agents	are used	treatment de‑escalation
+specific antirheumatic agents	are used	tapering protocol
+specific antirheumatic agents	are used	combination therapy
+specific antirheumatic agents	are used	monotherapy
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction
+specific antirheumatic agents	are used	drug‑drug interaction

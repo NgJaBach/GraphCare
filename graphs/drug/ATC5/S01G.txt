@@ -1,0 +1,100 @@
+decongestants	treat	nasal congestion
+antiallergics	treat	allergic rhinitis
+decongestants	are	oral medication
+antiallergics	are	oral medication
+decongestants	contain	pseudoephedrine
+antiallergics	contain	loratadine
+pseudoephedrine	is a	sympathomimetic
+loratadine	is a	second‑generation antihistamine
+sympathomimetic	cause	vasoconstriction
+vasoconstriction	reduces	nasal edema
+antihistamine	blocks	H1 receptors
+H1 receptor blockade	reduces	sneezing
+decongestants	may cause	hypertension
+antiallergics	may cause	drowsiness
+decongestants	contraindicated	in pregnancy
+antiallergics	contraindicated	in pregnancy
+pseudoephedrine	is regulated	by DEA
+loratadine	is metabolized	by CYP3A4
+CYP3A4 inhibition	increases	loratadine levels
+decongestants	increase	heart rate
+antiallergics	reduce	allergic inflammation
+decongestants	used in	flu treatment
+antiallergics	used in	hay fever
+decongestants	cause	insomnia
+antiallergics	cause	dry mouth
+decongestants	are available	OTC
+antiallergics	are available	OTC
+pseudoephedrine	is a	beta‑adrenergic agonist
+beta‑adrenergic agonist	stimulates	adrenergic receptors
+adrenergic receptor stimulation	leads to	bronchodilation
+bronchodilation	helps	asthma patients
+decongestants	may worsen	asthma
+antiallergics	may worsen	asthma
+decongestants	can be combined	with antihistamines
+antiallergics	can be combined	with antihistamines
+combined therapy	improves	symptom relief
+decongestants	have	short half‑life
+antiallergics	have	long half‑life
+short half‑life	requires	frequent dosing
+long half‑life	allows	once‑daily dosing
+decongestants	may cause	rebound congestion
+rebound congestion	leads to	chronic use
+chronic use	increases	risk of dependency
+antiallergics	are non‑sedating
+non‑sedating	preferred	for daytime use
+decongestants	can be used	intranasally
+intranasal use	reduces	systemic exposure
+intranasal use	may cause	nasal irritation
+antiallergics	can be used	topically
+topical use	reduces	systemic side effects
+decongestants	are contraindicated	in heart disease
+antiallergics	are contraindicated	in liver disease
+pseudoephedrine	is metabolized	by MAO
+MAO inhibition	increases	pseudoephedrine toxicity
+loratadine	is excreted	renally
+renal impairment	reduces	loratadine clearance
+decongestants	may interact	with MAO inhibitors
+antiallergics	may interact	with CYP3A4 inhibitors
+CYP3A4 inhibitors	increase	loratadine concentration
+decongestants	can cause	tachycardia
+tachycardia	predicts	cardiovascular risk
+antiallergics	reduce	histamine‑mediated itching
+histamine‑mediated itching	improves	quality of life
+decongestants	are used	in combination therapy
+antiallergics	are used	in combination therapy
+combination therapy	reduces	medication burden
+decongestants	are contraindicated	in glaucoma
+antiallergics	are contraindicated	in glaucoma
+pseudoephedrine	increases	intraocular pressure
+loratadine	has	low ocular side effects
+decongestants	may cause	anxiety
+anxiety	predicts	poor adherence
+antiallergics	are safe	in pregnancy category B
+pregnancy category B	indicates	low risk
+decongestants	are contraindicated	in lactation
+antiallergics	are safe	in lactation
+decongestants	can be used	in pediatric patients
+antiallergics	can be used	in pediatric patients
+pediatric use	requires	dose adjustment
+dose adjustment	based on	weight
+decongestants	may cause	urinary retention
+urinary retention	predicts	hospitalization
+antiallergics	may cause	hepatic enzyme induction
+hepatic enzyme induction	reduces	drug efficacy
+decongestants	are metabolized	by CYP2D6
+CYP2D6 polymorphism	affects	pseudoephedrine metabolism
+antiallergics	are metabolized	by CYP3A4
+CYP3A4 polymorphism	affects	loratadine metabolism
+decongestants	can be used	in chronic sinusitis
+antiallergics	can be used	in chronic sinusitis
+chronic sinusitis	predicts	long‑term medication use
+long‑term medication use	predicts	readmission risk
+decongestants	may interact	with beta‑blockers
+beta‑blocker interaction	reduces	decongestant efficacy
+antiallergics	may interact	with antihypertensives
+antihypertensive interaction	increases	blood pressure variability
+decongestants	can cause	rebound nasal congestion
+rebound congestion	leads to	increased medication use
+increased medication use	predicts	medication‑related complications
+decongestants	are monitored	for cardiovascular events

@@ -1,0 +1,100 @@
+corticosteroids	are	drugs
+corticosteroids	treat	inflammation
+corticosteroids	reduce	edema
+corticosteroids	suppress	immune response
+corticosteroids	used in	asthma
+corticosteroids	used in	COPD
+corticosteroids	used in	rheumatoid arthritis
+corticosteroids	used in	lupus
+corticosteroids	used in	eczema
+corticosteroids	used in	psoriasis
+corticosteroids	used in	organ transplant
+corticosteroids	used in	cancer therapy
+corticosteroids	used in	allergic reactions
+corticosteroids	used in	migraine prophylaxis
+corticosteroids	used in	ocular inflammation
+corticosteroids	used in	ocular surgery
+corticosteroids	used in	dermatology
+corticosteroids	used in	neurology
+corticosteroids	used in	cardiology
+corticosteroids	used in	nephrology
+corticosteroids	used in	gastroenterology
+corticosteroids	used in	endocrinology
+corticosteroids	used in	hematology
+corticosteroids	used in	oncology
+corticosteroids	used in	infectious disease
+corticosteroids	used in	critical care
+corticosteroids	used in	pediatrics
+corticosteroids	used in	geriatrics
+corticosteroids	used in	obstetrics
+corticosteroids	used in	anesthesia
+corticosteroids	used in	surgery
+corticosteroids	used in	trauma
+corticosteroids	used in	sepsis
+corticosteroids	used in	ARDS
+corticosteroids	used in	COVID‑19
+corticosteroids	used in	viral infections
+corticosteroids	used in	bacterial infections
+corticosteroids	used in	fungal infections
+corticosteroids	used in	parasitic infections
+corticosteroids	used in	autoimmune disease
+corticosteroids	used in	vasculitis
+corticosteroids	used in	vasculopathy
+corticosteroids	used in	uveitis
+corticosteroids	used in	iritis
+corticosteroids	used in	scleritis
+corticosteroids	used in	ocular hypertension
+corticosteroids	used in	glaucoma
+corticosteroids	used in	cataract surgery
+corticosteroids	used in	retinal detachment
+corticosteroids	used in	macular edema
+corticosteroids	used in	diabetic retinopathy
+corticosteroids	used in	diabetic macular edema
+corticosteroids	used in	age‑related macular degeneration
+corticosteroids	used in	ocular trauma
+corticosteroids	used in	ocular infection
+corticosteroids	used in	ocular neovascularization
+corticosteroids	used in	ocular tumor
+corticosteroids	used in	ocular metastasis
+corticosteroids	used in	ocular inflammation
+corticosteroids	used in	ocular surgery
+corticosteroids	used in	ocular pain
+corticosteroids	used in	ocular allergy
+corticosteroids	used in	ocular trauma
+corticosteroids	used in	ocular infection
+corticosteroids	used in	ocular neovascularization
+corticosteroids	used in	ocular tumor
+corticosteroids	used in	ocular metastasis
+corticosteroids	used in	ocular inflammation
+corticosteroids	used in	ocular surgery
+corticosteroids	used in	ocular pain
+corticosteroids	used in	ocular allergy
+corticosteroids	used in	ocular trauma
+corticosteroids	used in	ocular infection
+corticosteroids	used in	ocular neovascularization
+corticosteroids	used in	ocular tumor
+corticosteroids	used in	ocular metastasis
+corticosteroids	used in	ocular inflammation
+corticosteroids	used in	ocular surgery
+corticosteroids	used in	ocular pain
+corticosteroids	used in	ocular allergy
+corticosteroids	used in	ocular trauma
+corticosteroids	used in	ocular infection
+corticosteroids	used in	ocular neovascularization
+corticosteroids	used in	ocular tumor
+corticosteroids	used in	ocular metastasis
+corticosteroids	used in	ocular inflammation
+corticosteroids	used in	ocular surgery
+corticosteroids	used in	ocular pain
+corticosteroids	used in	ocular allergy
+corticosteroids	used in	ocular trauma
+corticosteroids	used in	ocular infection
+corticosteroids	used in	ocular neovascularization
+corticosteroids	used in	ocular tumor
+corticosteroids	used in	ocular metastasis
+corticosteroids	used in	ocular inflammation
+corticosteroids	used in	ocular surgery
+corticosteroids	used in	ocular pain
+corticosteroids	used in	ocular allergy
+corticosteroids	used in	ocular trauma
+corticosteroids	used in	ocular infection

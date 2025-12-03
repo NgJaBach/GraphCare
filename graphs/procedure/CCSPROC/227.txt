@@ -1,0 +1,100 @@
+other diagnostic procedures	are a	medical test
+other diagnostic procedures	include	imaging
+other diagnostic procedures	include	laboratory
+other diagnostic procedures	include	functional
+other diagnostic procedures	include	invasive
+other diagnostic procedures	include	non‑invasive
+imaging	is a	diagnostic procedure
+laboratory	is a	diagnostic procedure
+functional	is a	diagnostic procedure
+invasive	is a	diagnostic procedure
+non‑invasive	is a	diagnostic procedure
+imaging	uses	X‑ray
+imaging	uses	CT
+imaging	uses	MRI
+imaging	uses	ultrasound
+imaging	uses	PET
+laboratory	measures	blood
+laboratory	measures	urine
+laboratory	measures	tissue
+laboratory	measures	cerebrospinal fluid
+functional	tests	cardiac function
+functional	tests	pulmonary function
+functional	tests	neurocognitive function
+invasive	involves	biopsy
+invasive	involves	endoscopy
+invasive	involves	catheterization
+non‑invasive	uses	ECG
+non‑invasive	uses	spirometry
+non‑invasive	uses	EEG
+non‑invasive	uses	echocardiography
+X‑ray	detects	fractures
+X‑ray	detects	pneumonia
+CT	detects	tumors
+CT	detects	vascular disease
+MRI	detects	brain lesions
+MRI	detects	spinal cord injury
+ultrasound	detects	gallstones
+ultrasound	detects	fetal anomalies
+PET	detects	metabolic activity
+PET	detects	cancer
+blood	contains	glucose
+blood	contains	hemoglobin
+blood	contains	white blood cells
+urine	contains	protein
+urine	contains	ketones
+urine	contains	glucose
+tissue	contains	malignant cells
+tissue	contains	inflammatory cells
+cerebrospinal fluid	contains	oligoclonal bands
+cerebrospinal fluid	contains	elevated protein
+cardiac function	measured by	ejection fraction
+cardiac function	measured by	cardiac output
+pulmonary function	measured by	FEV1
+pulmonary function	measured by	FVC
+neurocognitive function	measured by	MMSE
+neurocognitive function	measured by	MoCA
+biopsy	yields	histology
+biopsy	yields	cytology
+endoscopy	visualizes	gastrointestinal tract
+endoscopy	visualizes	respiratory tract
+catheterization	assesses	coronary artery disease
+catheterization	assesses	pulmonary hypertension
+ECG	detects	arrhythmia
+ECG	detects	myocardial infarction
+spirometry	detects	asthma
+spirometry	detects	COPD
+EEG	detects	seizures
+EEG	detects	encephalopathy
+echocardiography	visualizes	heart valves
+echocardiography	visualizes	cardiac chambers
+fractures	predict	bone fragility
+pneumonia	predict	hospitalization
+tumors	predict	mortality
+vascular disease	predict	stroke
+brain lesions	predict	neurological deficit
+spinal cord injury	predict	paralysis
+gallstones	predict	cholecystitis
+fetal anomalies	predict	neonatal morbidity
+cancer	predict	survival
+glucose	predicts	diabetes
+hemoglobin	predicts	anemia
+white blood cells	predict	infection
+protein	predicts	kidney disease
+ketones	predict	ketoacidosis
+malignant cells	predict	metastasis
+inflammatory cells	predict	autoimmune disease
+oligoclonal bands	predict	multiple sclerosis
+elevated protein	predict	CNS infection
+ejection fraction	predicts	heart failure
+cardiac output	predicts	low output syndrome
+FEV1	predicts	mortality in COPD
+FVC	predicts	lung capacity
+MMSE	predicts	dementia progression
+MoCA	predicts	mild cognitive impairment
+histology	guides	treatment plan
+cytology	guides	chemotherapy
+visualizes	informs	surgical decision
+assesses	informs	revascularization
+detects	informs	preventive care
+predicts	informs	resource allocation

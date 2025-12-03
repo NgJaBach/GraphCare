@@ -1,0 +1,100 @@
+urinary system	includes	kidneys
+urinary system	includes	ureters
+urinary system	includes	bladder
+urinary system	includes	urethra
+kidneys	produce	urine
+ureters	transport	urine
+bladder	stores	urine
+urethra	expels	urine
+urinary system	functions	waste elimination
+urinary system	functions	fluid balance
+urinary system	functions	acid–base regulation
+urinary system	functions	blood pressure regulation
+urinary system	is part of	excretory system
+kidney	contains	nephrons
+nephron	filters	blood
+nephron	reabsorbs	water
+nephron	reabsorbs	electrolytes
+nephron	secretes	waste
+urinary system	is affected by	hypertension
+urinary system	is affected by	diabetes
+urinary system	is affected by	dehydration
+urinary system	is affected by	infection
+urinary system	is affected by	obstruction
+urinary system	is affected by	nephrolithiasis
+urinary system	is affected by	kidney disease
+urinary system	is monitored by	urinalysis
+urinary system	is monitored by	serum creatinine
+urinary system	is monitored by	eGFR
+urinary system	is monitored by	urine protein
+urinary system	is monitored by	urine albumin
+urinary system	is monitored by	urine sediment
+urinary system	is monitored by	urine culture
+urinary system	is monitored by	urine pH
+urinary system	is monitored by	urine specific gravity
+urinary system	is monitored by	urine osmolality
+urinary system	is monitored by	blood urea nitrogen
+urinary system	is monitored by	cystatin C
+urinary system	is monitored by	urinary sodium
+urinary system	is monitored by	urinary potassium
+urinary system	is monitored by	urinary chloride
+urinary system	is monitored by	urinary calcium
+urinary system	is monitored by	urinary phosphate
+urinary system	is monitored by	urinary magnesium
+urinary system	is monitored by	urinary uric acid
+urinary system	is monitored by	urinary bilirubin
+urinary system	is monitored by	urinary ketones
+urinary system	is monitored by	urinary glucose
+urinary system	is monitored by	urinary leukocytes
+urinary system	is monitored by	urinary erythrocytes
+urinary system	is monitored by	urinary casts
+urinary system	is monitored by	urinary crystals
+urinary system	is monitored by	urinary sediment microscopy
+urinary system	is monitored by	urinary flow rate
+urinary system	is monitored by	urinary volume
+urinary system	is monitored by	urinary pH trend
+urinary system	is monitored by	urinary osmolality trend
+urinary system	is monitored by	urinary protein/creatinine ratio
+urinary system	is monitored by	urinary albumin/creatinine ratio
+urinary system	is monitored by	urinary microalbumin
+urinary system	is monitored by	urinary leukocyte esterase
+urinary system	is monitored by	urinary nitrite
+urinary system	is monitored by	urinary hematuria
+urinary system	is monitored by	urinary pyuria
+urinary system	is monitored by	urinary bacteriuria
+urinary system	is monitored by	urinary fungal elements
+urinary system	is monitored by	urinary parasite detection
+urinary system	is monitored by	urinary viral markers
+urinary system	is monitored by	urinary imaging
+urinary system	is monitored by	renal ultrasound
+urinary system	is monitored by	CT urography
+urinary system	is monitored by	MRI urography
+urinary system	is monitored by	nuclear medicine scan
+urinary system	is monitored by	cystoscopy
+urinary system	is monitored by	urethroscopy
+urinary system	is monitored by	ureteral stent placement
+urinary system	is monitored by	percutaneous nephrostomy
+urinary system	is monitored by	urinary catheterization
+urinary system	is monitored by	bladder pressure measurement
+urinary system	is monitored by	bladder compliance testing
+urinary system	is monitored by	bladder capacity measurement
+urinary system	is monitored by	bladder voiding diary
+urinary system	is monitored by	bladder flowmetry
+urinary system	is monitored by	bladder ultrasound
+urinary system	is monitored by	bladder biopsy
+urinary system	is monitored by	urinary biomarkers
+urinary system	is monitored by	NGAL
+urinary system	is monitored by	KIM-1
+urinary system	is monitored by	cystatin C
+urinary system	is monitored by	beta-2 microglobulin
+urinary system	is monitored by	urinary interleukin-6
+urinary system	is monitored by	urinary tumor markers
+urinary system	is monitored by	urinary DNA methylation
+urinary system	is monitored by	urinary proteomics
+urinary system	is monitored by	urinary metabolomics
+urinary system	is monitored by	urinary microbiome
+urinary system	is monitored by	urinary metabolite profiling
+urinary system	is monitored by	urinary cytokine panel
+urinary system	is monitored by	urinary oxidative stress markers
+urinary system	is monitored by	urinary lipid peroxidation
+urinary system	is monitored by	urinary advanced glycation end‑products

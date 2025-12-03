@@ -1,0 +1,100 @@
+antimigraine preparations	are	medication
+antimigraine preparations	treat	migraine
+antimigraine preparations	include	triptans
+triptans	block	serotonin receptors
+serotonin receptors	located on	cranial arteries
+cranial arteries	dilate during	migraine
+triptans	cause	vasoconstriction
+vasoconstriction	reduces	headache
+antimigraine preparations	contain	NSAIDs
+NSAIDs	inhibit	COX enzymes
+COX enzymes	produce	prostaglandins
+prostaglandins	sensitize	pain receptors
+pain receptors	transmit	pain signals
+antimigraine preparations	include	ergotamine
+ergotamine	is	vasoconstrictor
+vasoconstrictor	limits	blood flow
+limited blood flow	decreases	neurogenic inflammation
+neurogenic inflammation	triggers	migraine
+antimigraine preparations	are	prescription drugs
+prescription drugs	require	physician evaluation
+physician evaluation	assesses	contraindications
+contraindications	include	cardiovascular disease
+cardiovascular disease	increases	risk of stroke
+stroke	is	severe complication
+antimigraine preparations	may cause	nausea
+nausea	leads to	poor compliance
+poor compliance	reduces	treatment efficacy
+treatment efficacy	predicts	remission
+remission	lowers	recurrence
+recurrence	increases	healthcare costs
+healthcare costs	affect	insurance premiums
+insurance premiums	influence	medication adherence
+medication adherence	determines	long‑term outcome
+long‑term outcome	predicts	mortality
+mortality	associated with	chronic migraine
+chronic migraine	linked to	depression
+depression	worsens	pain perception
+pain perception	modulates	opioid use
+opioid use	raises	risk of dependence
+dependence	leads to	readmission
+readmission	signals	disease severity
+disease severity	informs	treatment escalation
+treatment escalation	may involve	neuromodulation
+neuromodulation	includes	occipital nerve stimulation
+occipital nerve stimulation	reduces	headache frequency
+headache frequency	predicts	quality of life
+quality of life	correlates with	productivity
+productivity	impacts	socioeconomic status
+socioeconomic status	influences	access to care
+access to care	determines	early intervention
+early intervention	decreases	disability
+disability	reduces	caregiver burden
+caregiver burden	affects	mental health
+mental health	affects	medication choice
+medication choice	guided by	pharmacogenomics
+pharmacogenomics	identifies	CYP2D6 variants
+CYP2D6 variants	alter	drug metabolism
+drug metabolism	affects	plasma concentration
+plasma concentration	determines	therapeutic window
+therapeutic window	predicts	adverse events
+adverse events	include	hepatotoxicity
+hepatotoxicity	monitored by	liver enzymes
+liver enzymes	measured	ALT/AST
+ALT/AST	elevated	indicates	liver injury
+liver injury	necessitates	drug discontinuation
+drug discontinuation	may cause	rebound headache
+rebound headache	increases	medication overuse
+medication overuse	leads to	medication‑overuse headache
+medication‑overuse headache	requires	withdrawal
+withdrawal	managed by	low‑dose triptans
+low‑dose triptans	reduce	side‑effect profile
+side‑effect profile	improves	adherence
+adherence	linked to	treatment satisfaction
+treatment satisfaction	predicts	patient retention
+patient retention	affects	longitudinal data quality
+longitudinal data quality	supports	predictive modeling
+predictive modeling	identifies	high‑risk patients
+high‑risk patients	benefit from	prophylactic therapy
+prophylactic therapy	includes	beta‑blockers
+beta‑blockers	reduce	sympathetic tone
+sympathetic tone	lowers	blood pressure
+blood pressure	monitored by	home BP
+home BP	informs	medication titration
+medication titration	optimizes	efficacy
+efficacy	reduces	emergency visits
+emergency visits	decrease	hospital admissions
+hospital admissions	lower	readmission risk
+readmission risk	predicts	mortality
+mortality	influenced by	comorbidities
+comorbidities	include	obesity
+obesity	increases	inflammation
+inflammation	exacerbates	migraine
+migraine	worsens	sleep quality
+sleep quality	impacts	cognitive function
+cognitive function	affects	daily activity
+daily activity	measured by	activity tracker
+activity tracker	provides	objective data
+objective data	used in	risk stratification
+risk stratification	guides	personalized care
+personalized care	improves	health outcomes

@@ -1,0 +1,100 @@
+drugs	treat	tuberculosis
+drugs	include	isoniazid
+drugs	include	rifampin
+drugs	include	pyrazinamide
+drugs	include	ethambutol
+drugs	include	streptomycin
+drugs	include	amikacin
+drugs	include	kanamycin
+drugs	include	capreomycin
+drugs	include	levofloxacin
+drugs	include	moxifloxacin
+drugs	include	bedaquiline
+drugs	include	delamanid
+drugs	include	linezolid
+drugs	include	clofazimine
+drugs	include	cycloserine
+drugs	include	ethionamide
+drugs	include	para-aminosalicylic acid
+drugs	include	pyrazinamide	is a	antitubercular
+isoniazid	inhibits	mycobacterial cell wall synthesis
+rifampin	inhibits	RNA polymerase
+pyrazinamide	active	in acidic environment
+ethambutol	inhibits	arabinogalactan synthesis
+streptomycin	binds	30S ribosomal subunit
+amikacin	binds	30S ribosomal subunit
+kanamycin	binds	30S ribosomal subunit
+capreomycin	binds	50S ribosomal subunit
+levofloxacin	inhibits	DNA gyrase
+moxifloxacin	inhibits	DNA gyrase
+bedaquiline	inhibits	ATP synthase
+delamanid	inhibits	mycolic acid synthesis
+linezolid	inhibits	50S ribosomal subunit
+clofazimine	disrupts	mycobacterial membrane
+cycloserine	inhibits	pyridoxal phosphate enzymes
+ethionamide	inhibits	mycolic acid synthesis
+para-aminosalicylic acid	inhibits	folate synthesis
+drugs	cause	hepatotoxicity
+drugs	cause	peripheral neuropathy
+drugs	cause	visual disturbances
+drugs	cause	ototoxicity
+drugs	cause	bone marrow suppression
+drugs	cause	gastrointestinal upset
+drugs	cause	skin rash
+drugs	cause	drug‑drug interactions
+drugs	contraindicated	in pregnancy
+drugs	contraindicated	in hepatic impairment
+drugs	contraindicated	in renal impairment
+drugs	contraindicated	in elderly
+drugs	contraindicated	in children
+drugs	recommended	with pyridoxine
+drugs	recommended	with fluoroquinolone
+drugs	recommended	with linezolid
+drugs	recommended	with bedaquiline
+drugs	recommended	with delamanid
+drugs	recommended	with clofazimine
+drugs	recommended	with ethionamide
+drugs	recommended	with cycloserine
+drugs	recommended	with para-aminosalicylic acid
+drugs	recommended	with amikacin
+drugs	recommended	with kanamycin
+drugs	recommended	with capreomycin
+drugs	recommended	with streptomycin
+drugs	recommended	with pyrazinamide
+drugs	recommended	with ethambutol
+drugs	recommended	with isoniazid
+drugs	recommended	with rifampin
+drugs	recommended	with levofloxacin
+drugs	recommended	with moxifloxacin
+drugs	recommended	with bedaquiline
+drugs	recommended	with delamanid
+drugs	recommended	with linezolid
+drugs	recommended	with clofazimine
+drugs	recommended	with cycloserine
+drugs	recommended	with ethionamide
+drugs	recommended	with para-aminosalicylic acid
+drugs	recommended	with amikacin
+drugs	recommended	with kanamycin
+drugs	recommended	with capreomycin
+drugs	recommended	with streptomycin
+drugs	recommended	with pyrazinamide
+drugs	recommended	with ethambutol
+drugs	recommended	with isoniazid
+drugs	recommended	with rifampin
+drugs	recommended	with levofloxacin
+drugs	recommended	with moxifloxacin
+drugs	recommended	with bedaquiline
+drugs	recommended	with delamanid
+drugs	recommended	with linezolid
+drugs	recommended	with clofazimine
+drugs	recommended	with cycloserine
+drugs	recommended	with ethionamide
+drugs	recommended	with para-aminosalicylic acid
+drugs	recommended	with amikacin
+drugs	recommended	with kanamycin
+drugs	recommended	with capreomycin
+drugs	recommended	with streptomycin
+drugs	recommended	with pyrazinamide
+drugs	recommended	with ethambutol
+drugs	recommended	with isoniazid
+drugs	recommended	with rifampin

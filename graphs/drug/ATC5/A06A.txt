@@ -1,0 +1,100 @@
+drugs for constipation	treat	constipation
+drugs for constipation	include	laxatives
+laxatives	are	medications
+laxatives	act on	gastrointestinal tract
+laxatives	increase	bowel motility
+laxatives	reduce	stool hardness
+laxatives	can be	bulk-forming
+bulk‑forming laxatives	contain	psyllium
+psyllium	is	fiber
+fiber	promotes	stool bulk
+bulk‑forming laxatives	require	water intake
+water intake	improves	laxative efficacy
+laxatives	can be	osmotic
+osmotic laxatives	include	polyethylene glycol
+polyethylene glycol	is	non‑absorbable
+non‑absorbable	draws	water into colon
+water in colon	softens	stool
+osmotic laxatives	may cause	bloating
+laxatives	can be	stimulant
+stimulant laxatives	include	senna
+senna	contains	anthraquinones
+anthraquinones	stimulate	colonic muscle
+colonic muscle	increases	peristalsis
+peristalsis	facilitates	stool passage
+stimulant laxatives	may cause	abdominal cramps
+laxatives	can be	stool softeners
+stool softeners	include	docusate sodium
+docusate sodium	is	surfactant
+surfactant	reduces	surface tension
+reduced surface tension	softens	stool
+laxatives	can be	lubricants
+lubricants	include	mineral oil
+mineral oil	coats	stool
+coated stool	eases	passage
+mineral oil	may cause	steatorrhea
+laxatives	can be	prescription
+prescription laxatives	require	physician order
+physician order	ensures	appropriate use
+appropriate use	reduces	adverse events
+laxatives	may cause	electrolyte imbalance
+electrolyte imbalance	leads to	dehydration
+dehydration	increases	kidney injury risk
+kidney injury risk	predicts	readmission
+readmission	indicates	treatment failure
+treatment failure	predicts	mortality
+mortality	associated with	severe constipation
+severe constipation	linked to	fecal impaction
+fecal impaction	increases	infection risk
+infection risk	predicts	ICU admission
+ICU admission	predicts	mortality
+laxatives	may interact	with opioids
+opioids	cause	constipation
+constipation	worsens	opioid analgesia
+opioid‑related constipation	predicts	prolonged stay
+prolonged stay	predicts	readmission
+readmission	increases	healthcare cost
+healthcare cost	predicts	resource utilization
+resource utilization	informs	budgeting
+budgeting	guides	drug formulary
+drug formulary	includes	cost‑effective laxatives
+cost‑effective laxatives	reduce	out‑of‑pocket expense
+out‑of‑pocket expense	improves	adherence
+adherence	predicts	treatment success
+treatment success	reduces	mortality
+mortality	decreases	hospital burden
+hospital burden	predicts	staffing needs
+staffing needs	influence	patient outcomes
+patient outcomes	measured by	quality metrics
+quality metrics	used for	reimbursement
+reimbursement	affects	drug availability
+drug availability	impacts	treatment choice
+treatment choice	influences	side‑effect profile
+side‑effect profile	affects	patient satisfaction
+patient satisfaction	predicts	adherence
+adherence	reduces	relapse
+relapse	predicts	readmission
+readmission	increases	mortality risk
+mortality risk	modulated by	age
+age	correlates with	constipation severity
+constipation severity	predicts	hospitalization
+hospitalization	associated with	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	constipation risk
+constipation risk	predicts	cardiovascular events
+cardiovascular events	predict	mortality
+mortality	influenced by	smoking status
+smoking status	affects	drug metabolism
+drug metabolism	alters	laxative efficacy
+laxative efficacy	predicts	symptom relief
+symptom relief	reduces	anxiety
+anxiety	lowers	constipation recurrence
+constipation recurrence	predicts	long‑term morbidity
+long‑term morbidity	correlates with	frailty
+frailty	predicts	mortality
+mortality	linked to	nutritional status
+nutritional status	influenced by	fiber intake
+fiber intake	promotes	bowel health
+bowel health	reduces	constipation
+constipation	improves	quality of life
+quality of life	predicts	overall survival

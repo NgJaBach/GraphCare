@@ -1,0 +1,100 @@
+coronary thrombolysis	is a	treatment
+coronary thrombolysis	treats	myocardial infarction
+coronary thrombolysis	uses	fibrinolytic agents
+coronary thrombolysis	reduces	mortality
+coronary thrombolysis	improves	survival
+coronary thrombolysis	is indicated for	ST‑segment elevation myocardial infarction
+coronary thrombolysis	is contraindicated in	hemorrhagic stroke
+coronary thrombolysis	is contraindicated in	recent surgery
+coronary thrombolysis	is contraindicated in	pregnancy
+coronary thrombolysis	is contraindicated in	uncontrolled hypertension
+coronary thrombolysis	is contraindicated in	active bleeding
+coronary thrombolysis	is contraindicated in	severe aortic stenosis
+coronary thrombolysis	is contraindicated in	myocardial rupture
+coronary thrombolysis	is contraindicated in	recent myocardial infarction
+coronary thrombolysis	is contraindicated in	known clotting disorder
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	severe renal impairment
+coronary thrombolysis	is contraindicated in	severe hepatic impairment
+coronary thrombolysis	is contraindicated in	severe anemia
+coronary thrombolysis	is contraindicated in	severe thrombocytopenia
+coronary thrombolysis	is contraindicated in	severe coagulopathy
+coronary thrombolysis	is contraindicated in	recent head trauma
+coronary thrombolysis	is contraindicated in	recent abdominal surgery
+coronary thrombolysis	is contraindicated in	recent pelvic surgery
+coronary thrombolysis	is contraindicated in	recent eye surgery
+coronary thrombolysis	is contraindicated in	recent dental procedure
+coronary thrombolysis	is contraindicated in	recent bone fracture
+coronary thrombolysis	is contraindicated in	recent spinal surgery
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent myocardial infarction
+coronary thrombolysis	is contraindicated in	recent stroke
+coronary thrombolysis	is contraindicated in	recent pulmonary embolism
+coronary thrombolysis	is contraindicated in	recent deep vein thrombosis
+coronary thrombolysis	is contraindicated in	recent pulmonary hypertension
+coronary thrombolysis	is contraindicated in	recent aortic dissection
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery
+coronary thrombolysis	is contraindicated in	recent intracranial trauma
+coronary thrombolysis	is contraindicated in	recent intracranial hemorrhage
+coronary thrombolysis	is contraindicated in	recent intracranial aneurysm
+coronary thrombolysis	is contraindicated in	recent intracranial tumor
+coronary thrombolysis	is contraindicated in	recent intracranial infection
+coronary thrombolysis	is contraindicated in	recent intracranial surgery

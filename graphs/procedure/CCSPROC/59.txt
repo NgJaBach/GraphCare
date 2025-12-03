@@ -1,0 +1,100 @@
+carotid endarterectomy	is a	surgical procedure
+carotid endarterectomy	treats	carotid stenosis
+carotid endarterectomy	reduces	stroke risk
+carotid endarterectomy	performed on	carotid artery
+carotid endarterectomy	requires	general anesthesia
+carotid endarterectomy	has	perioperative complications
+carotid endarterectomy	improves	cerebral perfusion
+carotid endarterectomy	indicated for	symptomatic carotid disease
+carotid endarterectomy	contraindicated in	severe comorbidities
+carotid endarterectomy	followed by	antiplatelet therapy
+carotid stenting	is a	endovascular procedure
+carotid stenting	treats	carotid stenosis
+carotid stenting	uses	balloon-expandable stent
+carotid stenting	performed under	local anesthesia
+carotid stenting	associated with	restenosis
+carotid stenting	reduces	procedural morbidity
+carotid stenting	indicated for	high surgical risk
+carotid stenting	requires	dual antiplatelet therapy
+carotid stenting	monitored by	duplex ultrasound
+carotid stenting	has	access site complications
+cerebral angiography	is a	diagnostic imaging
+cerebral angiography	visualizes	intracranial vessels
+cerebral angiography	uses	iodinated contrast
+cerebral angiography	performed by	interventional radiologist
+cerebral angiography	risks	contrast nephropathy
+cerebral angiography	guides	endovascular therapy
+cerebral angiography	detects	aneurysms
+cerebral angiography	detects	arteriovenous malformations
+cerebral angiography	detects	vasculitis
+cerebral angiography	requires	arterial puncture
+cerebral angiography	followed by	antiplatelet therapy
+intracranial stenting	is a	endovascular procedure
+intracranial stenting	treats	intracranial stenosis
+intracranial stenting	uses	drug-eluting stent
+intracranial stenting	performed under	general anesthesia
+intracranial stenting	associated with	hemorrhage
+intracranial stenting	improves	cerebral blood flow
+intracranial stenting	indicated for	symptomatic intracranial disease
+intracranial stenting	requires	dual antiplatelet therapy
+intracranial stenting	monitored by	perfusion imaging
+intracranial stenting	has	long-term patency issues
+transcranial Doppler	is a	noninvasive ultrasound
+transcranial Doppler	measures	cerebral blood velocity
+transcranial Doppler	detects	vasospasm
+transcranial Doppler	used for	monitoring after subarachnoid hemorrhage
+transcranial Doppler	requires	acoustic window
+transcranial Doppler	guides	vasodilator therapy
+transcranial Doppler	has	operator variability
+transcranial Doppler	predicts	delayed cerebral ischemia
+transcranial Doppler	is complementary to	MRI
+carotid duplex ultrasound	is a	diagnostic test
+carotid duplex ultrasound	assesses	plaque morphology
+carotid duplex ultrasound	quantifies	stenosis degree
+carotid duplex ultrasound	guides	surgical decision
+carotid duplex ultrasound	is noninvasive
+carotid duplex ultrasound	has	high sensitivity
+carotid duplex ultrasound	detects	plaque ulceration
+carotid duplex ultrasound	predicts	stroke risk
+carotid duplex ultrasound	requires	skilled sonographer
+carotid duplex ultrasound	is cost-effective
+intracranial aneurysm clipping	is a	microsurgical procedure
+intracranial aneurysm clipping	treats	aneurysm
+intracranial aneurysm clipping	uses	titanium clip
+intracranial aneurysm clipping	performed under	general anesthesia
+intracranial aneurysm clipping	reduces	rupture risk
+intracranial aneurysm clipping	has	postoperative complications
+intracranial aneurysm clipping	indicated for	ruptured aneurysm
+intracranial aneurysm clipping	requires	intraoperative monitoring
+intracranial aneurysm clipping	followed by	imaging surveillance
+intracranial aneurysm clipping	has	long-term durability
+endovascular coiling	is a	minimally invasive procedure
+endovascular coiling	treats	intracranial aneurysm
+endovascular coiling	uses	platinum coils
+endovascular coiling	performed under	local anesthesia
+endovascular coiling	associated with	recurrence
+endovascular coiling	reduces	surgical morbidity
+endovascular coiling	indicated for	unruptured aneurysm
+endovascular coiling	requires	antiplatelet therapy
+endovascular coiling	monitored by	angiography
+endovascular coiling	has	procedural radiation exposure
+carotid artery stenting	is a	hybrid procedure
+carotid artery stenting	treats	carotid stenosis
+carotid artery stenting	uses	self-expanding stent
+carotid artery stenting	performed under	local anesthesia
+carotid artery stenting	associated with	embolic events
+carotid artery stenting	improves	procedural speed
+carotid artery stenting	indicated for	high surgical risk
+carotid artery stenting	requires	dual antiplatelet therapy
+carotid artery stenting	monitored by	intraprocedural imaging
+carotid artery stenting	has	restenosis risk
+intracranial angioplasty	is a	balloon procedure
+intracranial angioplasty	treats	intracranial stenosis
+intracranial angioplasty	uses	balloon catheter
+intracranial angioplasty	performed under	general anesthesia
+intracranial angioplasty	associated with	vessel injury
+intracranial angioplasty	improves	flow velocity
+intracranial angioplasty	indicated for	symptomatic stenosis
+intracranial angioplasty	requires	antiplatelet therapy
+intracranial angioplasty	monitored by	angiography
+intracranial angioplasty	has	restenosis potential

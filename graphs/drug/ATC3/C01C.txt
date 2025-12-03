@@ -1,0 +1,100 @@
+cardiac stimulants	are	drugs
+cardiac stimulants	increase	heart rate
+cardiac stimulants	increase	myocardial contractility
+cardiac stimulants	improve	cardiac output
+cardiac stimulants	treat	heart failure
+cardiac stimulants	treat	bradycardia
+cardiac stimulants	treat	hypotension
+cardiac stimulants	contraindicated	arrhythmia
+cardiac stimulants	contraindicated	myocardial infarction
+cardiac stimulants	contraindicated	severe hypertension
+cardiac stimulants	contraindicated	tachycardia
+cardiac stimulants	contraindicated	electrolyte imbalance
+cardiac stimulants	contraindicated	renal failure
+cardiac stimulants	contraindicated	hepatic failure
+cardiac stimulants	contraindicated	pregnancy
+cardiac stimulants	contraindicated	lactation
+cardiac stimulants	contraindicated	age > 80
+cardiac stimulants	contraindicated	pediatric
+cardiac stimulants	contraindicated	allergy
+cardiac stimulants	contraindicated	drug interaction
+cardiac stimulants	interact with	beta‑blockers
+cardiac stimulants	interact with	calcium channel blockers
+cardiac stimulants	interact with	digoxin
+cardiac stimulants	interact with	diuretics
+cardiac stimulants	interact with	ACE inhibitors
+cardiac stimulants	interact with	ARBs
+cardiac stimulants	interact with	nitrates
+cardiac stimulants	interact with	antipsychotics
+cardiac stimulants	interact with	antidepressants
+cardiac stimulants	interact with	antiarrhythmics
+cardiac stimulants	interact with	opioids
+cardiac stimulants	interact with	stimulants
+cardiac stimulants	interact with	alcohol
+cardiac stimulants	interact with	caffeine
+cardiac stimulants	interact with	nicotine
+cardiac stimulants	interact with	herbal supplements
+cardiac stimulants	side effect	tachycardia
+cardiac stimulants	side effect	palpitations
+cardiac stimulants	side effect	hypertension
+cardiac stimulants	side effect	arrhythmia
+cardiac stimulants	side effect	anxiety
+cardiac stimulants	side effect	insomnia
+cardiac stimulants	side effect	tremor
+cardiac stimulants	side effect	headache
+cardiac stimulants	side effect	nausea
+cardiac stimulants	side effect	vomiting
+cardiac stimulants	side effect	diarrhea
+cardiac stimulants	side effect	constipation
+cardiac stimulants	side effect	sweating
+cardiac stimulants	side effect	flushing
+cardiac stimulants	side effect	dizziness
+cardiac stimulants	side effect	fatigue
+cardiac stimulants	side effect	edema
+cardiac stimulants	side effect	chest pain
+cardiac stimulants	side effect	shortness of breath
+cardiac stimulants	side effect	myocardial infarction
+cardiac stimulants	side effect	stroke
+cardiac stimulants	side effect	sudden death
+cardiac stimulants	dosage	low
+cardiac stimulants	dosage	moderate
+cardiac stimulants	dosage	high
+cardiac stimulants	route	oral
+cardiac stimulants	route	intravenous
+cardiac stimulants	route	subcutaneous
+cardiac stimulants	route	transdermal
+cardiac stimulants	formulation	tablet
+cardiac stimulants	formulation	capsule
+cardiac stimulants	formulation	solution
+cardiac stimulants	formulation	patch
+cardiac stimulants	formulation	injection
+cardiac stimulants	pharmacokinetics	absorption
+cardiac stimulants	pharmacokinetics	distribution
+cardiac stimulants	pharmacokinetics	metabolism
+cardiac stimulants	pharmacokinetics	excretion
+cardiac stimulants	half‑life	short
+cardiac stimulants	half‑life	long
+cardiac stimulants	half‑life	variable
+cardiac stimulants	mechanism	sympathetic activation
+cardiac stimulants	mechanism	beta‑adrenergic stimulation
+cardiac stimulants	mechanism	alpha‑adrenergic stimulation
+cardiac stimulants	mechanism	direct myocardial stimulation
+cardiac stimulants	mechanism	indirect catecholamine release
+cardiac stimulants	mechanism	phosphodiesterase inhibition
+cardiac stimulants	mechanism	calcium channel opening
+cardiac stimulants	mechanism	adenosine inhibition
+cardiac stimulants	mechanism	nitric oxide modulation
+cardiac stimulants	mechanism	potassium channel blockade
+cardiac stimulants	mechanism	sodium channel modulation
+cardiac stimulants	monitoring	ECG
+cardiac stimulants	monitoring	blood pressure
+cardiac stimulants	monitoring	heart rate
+cardiac stimulants	monitoring	serum electrolytes
+cardiac stimulants	monitoring	renal function
+cardiac stimulants	monitoring	liver function
+cardiac stimulants	monitoring	drug levels
+cardiac stimulants	monitoring	adverse events
+cardiac stimulants	indication	cardiogenic shock
+cardiac stimulants	indication	low cardiac output
+cardiac stimulants	indication	vasodilatory shock
+cardiac stimulants	indication	septic shock

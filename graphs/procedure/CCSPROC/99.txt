@@ -1,0 +1,100 @@
+surgery	is a	procedure
+surgery	treats	disease
+surgery	reduces	mortality
+surgery	increases	recovery
+surgery	requires	anesthesia
+surgery	involves	incision
+surgery	performed by	surgeon
+surgery	performed in	operating room
+surgery	followed by	rehabilitation
+surgery	leads to	hospitalization
+surgery	causes	pain
+surgery	causes	infection
+surgery	causes	bleeding
+surgery	causes	scarring
+surgery	requires	blood transfusion
+surgery	requires	postoperative care
+surgery	requires	antibiotics
+surgery	requires	wound care
+surgery	requires	physiotherapy
+surgery	requires	dietary modification
+surgery	can be	open
+surgery	can be	laparoscopic
+surgery	can be	robotic
+surgery	can be	minimally invasive
+surgery	can be	endoscopic
+surgery	can be	outpatient
+surgery	can be	inpatient
+surgery	can be	emergency
+surgery	can be	elective
+surgery	can be	staged
+surgery	can be	combined
+surgery	can be	partial
+surgery	can be	total
+surgery	can be	radical
+surgery	can be	palliative
+surgery	can be	reconstructive
+surgery	can be	ablative
+surgery	can be	diagnostic
+surgery	can be	therapeutic
+surgery	can be	prophylactic
+surgery	can be	bariatric
+surgery	can be	transplant
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography
+surgery	can be	endoscopic sphincterotomy
+surgery	can be	endoscopic stent placement
+surgery	can be	endoscopic mucosal resection
+surgery	can be	endoscopic submucosal dissection
+surgery	can be	endoscopic ultrasound-guided fine needle aspiration
+surgery	can be	endoscopic retrograde cholangiopancreatography

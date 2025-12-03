@@ -1,0 +1,100 @@
+beta blocking agents	inhibit	β‑adrenergic receptors
+β‑adrenergic receptors	mediate	sympathetic tone
+beta blocking agents	reduce	heart rate
+beta blocking agents	lower	blood pressure
+beta blocking agents	decrease	myocardial oxygen demand
+beta blocking agents	treat	hypertension
+beta blocking agents	treat	angina
+beta blocking agents	treat	arrhythmias
+beta blocking agents	treat	heart failure
+beta blocking agents	prevent	myocardial infarction
+beta blocking agents	reduce	mortality
+beta blocking agents	improve	ejection fraction
+beta blocking agents	cause	bradycardia
+beta blocking agents	cause	fatigue
+beta blocking agents	cause	dizziness
+beta blocking agents	cause	cold extremities
+beta blocking agents	cause	sexual dysfunction
+beta blocking agents	contraindicated	asthma
+beta blocking agents	contraindicated	COPD
+beta blocking agents	contraindicated	severe bradycardia
+beta blocking agents	contraindicated	second‑degree AV block
+beta blocking agents	contraindicated	heart block
+beta blocking agents	contraindicated	severe hypotension
+beta blocking agents	contraindicated	severe peripheral arterial disease
+beta blocking agents	contraindicated	severe heart failure
+beta blocking agents	contraindicated	severe hepatic impairment
+beta blocking agents	contraindicated	severe renal impairment
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia
+beta blocking agents	contraindicated	severe hypoglycemia
+beta blocking agents	contraindicated	severe depression
+beta blocking agents	contraindicated	severe sleep apnea
+beta blocking agents	contraindicated	severe peripheral neuropathy
+beta blocking agents	contraindicated	severe hyperlipidemia
+beta blocking agents	contraindicated	severe metabolic syndrome
+beta blocking agents	contraindicated	severe obesity
+beta blocking agents	contraindicated	severe anemia

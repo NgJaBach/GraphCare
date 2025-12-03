@@ -1,0 +1,337 @@
+diagnostic ultrasound of head and neck	is a	imaging modality
+diagnostic ultrasound of head and neck	is used for	evaluation
+diagnostic ultrasound of head and neck	is used for	thyroid nodule assessment
+diagnostic ultrasound of head and neck	is used for	parotid gland evaluation
+diagnostic ultrasound of head and neck	is used for	salivary gland imaging
+diagnostic ultrasound of head and neck	is used for	neck mass characterization
+diagnostic ultrasound of head and neck	is used for	carotid artery assessment
+diagnostic ultrasound of head and neck	is used for	vascular flow measurement
+diagnostic ultrasound of head and neck	is used for	lymph node evaluation
+diagnostic ultrasound of head and neck	is used for	cystic lesion detection
+diagnostic ultrasound of head and neck	is used for	solid lesion differentiation
+diagnostic ultrasound of head and neck	is used for	thyroid nodule risk stratification
+diagnostic ultrasound of head and neck	is used for	guiding fine‑needle aspiration
+diagnostic ultrasound of head and neck	is used for	guiding core needle biopsy
+diagnostic ultrasound of head and neck	is used for	monitoring treatment response
+diagnostic ultrasound of head and neck	is used for	detecting carotid plaque
+diagnostic ultrasound of head and neck	is used for	assessing carotid stenosis
+diagnostic ultrasound of head and neck	is used for	evaluating jugular vein patency
+diagnostic ultrasound of head and neck	is used for	detecting carotid aneurysm
+diagnostic ultrasound of head and neck	is used for	evaluating thyroiditis
+diagnostic ultrasound of head and neck	is used for	detecting thyroid abscess
+diagnostic ultrasound of head and neck	is used for	evaluating neck trauma
+diagnostic ultrasound of head and neck	is used for	assessing cervical spine soft tissue
+diagnostic ultrasound of head and neck	is used for	evaluating congenital neck masses
+diagnostic ultrasound of head and neck	is used for	detecting thyroid cysts
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodules >1 cm
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodules <1 cm
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule composition
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule vascularity
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule calcifications
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule shape
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule margins
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule size
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule growth
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule stability
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule benignity
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy probability
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy likelihood
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk score
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk stratification
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk assessment
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk evaluation
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk determination
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk calculation
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring system
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring methodology
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring approach
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring algorithm
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring model
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring framework
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring protocol
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring guideline
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring standard
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring criteria
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring rules
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring metrics
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring measures
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indicators
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices
+diagnostic ultrasound of head and neck	is used for	evaluating thyroid nodule malignancy risk scoring indices

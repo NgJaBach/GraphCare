@@ -1,0 +1,100 @@
+antiglaucoma preparations	treat	glaucoma
+antiglaucoma preparations	lower	intraocular pressure
+antiglaucoma preparations	contain	prostaglandin analogues
+antiglaucoma preparations	contain	beta‑blockers
+antiglaucoma preparations	contain	carbonic anhydrase inhibitors
+antiglaucoma preparations	contain	alpha‑agonists
+antiglaucoma preparations	contain	cholinergic agents
+antiglaucoma preparations	are	eye drops
+antiglaucoma preparations	are	ophthalmic solutions
+antiglaucoma preparations	are	preservative‑free
+antiglaucoma preparations	are	once‑daily
+antiglaucoma preparations	are	twice‑daily
+antiglaucoma preparations	are	as needed
+antiglaucoma preparations	are	prescription
+antiglaucoma preparations	are	over‑the‑counter
+antiglaucoma preparations	are	generic
+antiglaucoma preparations	are	branded
+antiglaucoma preparations	are	combination
+antiglaucoma preparations	are	monotherapy
+antiglaucoma preparations	are	adjunct therapy
+antiglaucoma preparations	are	contraindicated	in	pregnancy
+antiglaucoma preparations	are	contraindicated	in	lactation
+antiglaucoma preparations	are	contraindicated	in	asthma
+antiglaucoma preparations	are	contraindicated	in	heart failure
+antiglaucoma preparations	are	contraindicated	in	glaucoma pigmentary
+antiglaucoma preparations	are	contraindicated	in	ocular allergy
+antiglaucoma preparations	are	contraindicated	in	ocular infection
+antiglaucoma preparations	are	contraindicated	in	ocular trauma
+antiglaucoma preparations	are	contraindicated	in	ocular surgery
+antiglaucoma preparations	are	contraindicated	in	ocular inflammation
+antiglaucoma preparations	are	contraindicated	in	ocular hypertension
+antiglaucoma preparations	are	contraindicated	in	ocular pain
+antiglaucoma preparations	are	contraindicated	in	ocular dryness
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface infection
+antiglaucoma preparations	are	contraindicated	in	ocular surface inflammation
+antiglaucoma preparations	are	contraindicated	in	ocular surface trauma
+antiglaucoma preparations	are	contraindicated	in	ocular surface surgery
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease
+antiglaucoma preparations	are	contraindicated	in	ocular surface disease

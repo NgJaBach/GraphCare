@@ -1,0 +1,100 @@
+corticosteroid dermatological preparations	are	medication
+corticosteroid dermatological preparations	treat	eczema
+corticosteroid dermatological preparations	treat	psoriasis
+corticosteroid dermatological preparations	treat	dermatitis
+corticosteroid dermatological preparations	reduce	inflammation
+corticosteroid dermatological preparations	reduce	itching
+corticosteroid dermatological preparations	contain	glucocorticoid
+glucocorticoid	is a	steroid
+corticosteroid dermatological preparations	are	topical
+topical	applied to	skin
+skin	exhibits	redness
+redness	indicates	inflammation
+corticosteroid dermatological preparations	have	potency
+potency	measured in	potency scale
+potency scale	ranges from	low
+potency scale	ranges to	high
+corticosteroid dermatological preparations	can cause	skin thinning
+skin thinning	increases	risk of bruising
+corticosteroid dermatological preparations	can cause	striae
+striae	are	stretch marks
+corticosteroid dermatological preparations	can cause	telangiectasia
+telangiectasia	are	dilated capillaries
+corticosteroid dermatological preparations	can cause	acneiform eruptions
+acneiform eruptions	are	acne-like lesions
+corticosteroid dermatological preparations	can cause	contact dermatitis
+contact dermatitis	is	allergic reaction
+corticosteroid dermatological preparations	are	classified by	class
+class	indicates	potency
+corticosteroid dermatological preparations	are	classified by	vehicle
+vehicle	can be	ointment
+vehicle	can be	cream
+vehicle	can be	lotion
+vehicle	can be	gel
+vehicle	can be	spray
+vehicle	affects	absorption
+absorption	influences	efficacy
+efficacy	predicts	symptom relief
+symptom relief	reduces	patient discomfort
+patient discomfort	improves	quality of life
+corticosteroid dermatological preparations	are	contraindicated in	pregnancy
+pregnancy	increases	risk of fetal exposure
+fetal exposure	may cause	growth restriction
+growth restriction	leads to	low birth weight
+corticosteroid dermatological preparations	are	contraindicated in	infants
+infants	have	thin skin
+thin skin	increases	absorption
+absorption	increases	systemic exposure
+systemic exposure	can cause	adrenal suppression
+adrenal suppression	leads to	cortisol deficiency
+cortisol deficiency	results in	fatigue
+fatigue	reduces	daily functioning
+corticosteroid dermatological preparations	are	contraindicated in	immunocompromised patients
+immunocompromised patients	have	increased infection risk
+infection risk	leads to	delayed wound healing
+delayed wound healing	increases	hospitalization
+hospitalization	predicts	readmission
+readmission	predicts	mortality
+mortality	is	outcome measure
+corticosteroid dermatological preparations	are	used in	atopic dermatitis
+atopic dermatitis	is	chronic
+chronic	requires	long-term therapy
+long-term therapy	increases	risk of side effects
+side effects	include	skin atrophy
+skin atrophy	is	measurable by	skin thickness
+skin thickness	measured by	ultrasound
+ultrasound	predicts	treatment response
+treatment response	informs	dosage adjustment
+dosage adjustment	reduces	adverse events
+adverse events	improve	patient adherence
+patient adherence	predicts	treatment success
+treatment success	reduces	relapse
+relapse	increases	healthcare utilization
+healthcare utilization	predicts	cost
+cost	is	economic burden
+economic burden	influences	insurance coverage
+insurance coverage	determines	prescription availability
+prescription availability	affects	patient access
+patient access	impacts	disease progression
+disease progression	leads to	disability
+disability	is	measured by	disability index
+disability index	predicts	mortality
+mortality	is	influenced by	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	infection risk
+infection risk	increases	readmission
+readmission	is	predictor of	30‑day mortality
+30‑day mortality	is	quality metric
+quality metric	drives	hospital reimbursement
+hospital reimbursement	influences	resource allocation
+resource allocation	affects	treatment availability
+treatment availability	determines	clinical outcomes
+clinical outcomes	are	captured by	electronic health record
+electronic health record	provides	data for	predictive modeling
+predictive modeling	identifies	high‑risk patients
+high‑risk patients	receive	targeted interventions
+targeted interventions	reduce	adverse events
+adverse events	lower	mortality
+mortality	is	ultimate endpoint
+endpoint	informs	guideline updates
+guideline updates	refine	corticosteroid dermatological preparations usage

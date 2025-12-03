@@ -1,0 +1,100 @@
+skeleton diagnostic radiopharmaceuticals	are used for	bone imaging
+bone imaging	detects	bone metastases
+bone metastases	predict	cancer progression
+skeleton diagnostic radiopharmaceuticals	contain	technetium‑99m
+technetium‑99m	is a	radioisotope
+radioisotope	emits	gamma radiation
+gamma radiation	is detected by	gamma camera
+gamma camera	produces	bone scan
+bone scan	shows	osteoblastic activity
+osteoblastic activity	indicates	bone remodeling
+bone remodeling	can signal	osteoporosis
+osteoporosis	increases	fracture risk
+fracture risk	leads to	hospitalization
+hospitalization	raises	mortality risk
+mortality risk	is a	prognostic factor
+skeleton diagnostic radiopharmaceuticals	are administered via	intravenous injection
+intravenous injection	requires	venous access
+venous access	can cause	phlebitis
+phlebitis	may lead to	readmission
+readmission	is a	quality metric
+bone scan	is performed	after fasting
+fasting	reduces	gastrointestinal interference
+gastrointestinal interference	improves	image quality
+image quality	affects	diagnostic accuracy
+diagnostic accuracy	influences	treatment plan
+treatment plan	determines	patient outcome
+patient outcome	is measured by	survival rate
+survival rate	is a	clinical endpoint
+clinical endpoint	guides	drug development
+drug development	targets	bone turnover
+bone turnover	is regulated by	parathyroid hormone
+parathyroid hormone	is measured by	serum assay
+serum assay	informs	bisphosphonate therapy
+bisphosphonate therapy	reduces	bone resorption
+bone resorption	lowers	fracture incidence
+fracture incidence	decreases	emergency visits
+emergency visits	affect	healthcare costs
+healthcare costs	impact	insurance premiums
+insurance premiums	influence	medication adherence
+medication adherence	predicts	disease control
+disease control	is reflected in	bone density score
+bone density score	is obtained by	DEXA scan
+DEXA scan	complements	bone scan
+bone scan	can detect	early metastasis
+early metastasis	improves	survival probability
+survival probability	is a	prognostic indicator
+prognostic indicator	guides	palliative care
+palliative care	reduces	symptom burden
+symptom burden	improves	quality of life
+quality of life	is assessed by	patient‑reported outcomes
+patient‑reported outcomes	inform	clinical trials
+clinical trials	generate	evidence‑based guidelines
+evidence‑based guidelines	recommend	imaging frequency
+imaging frequency	affects	radiation exposure
+radiation exposure	is monitored by	dose‑area product
+dose‑area product	limits	cumulative dose
+cumulative dose	reduces	secondary cancer risk
+secondary cancer risk	is a	long‑term concern
+long‑term concern	necessitates	risk‑benefit analysis
+risk‑benefit analysis	informs	policy decisions
+policy decisions	shape	reimbursement rates
+reimbursement rates	influence	provider behavior
+provider behavior	determines	imaging utilization
+imaging utilization	correlates with	healthcare disparities
+healthcare disparities	are addressed by	public health initiatives
+public health initiatives	target	bone health education
+bone health education	increases	calcium intake
+calcium intake	supports	bone mineralization
+bone mineralization	strengthens	skeletal integrity
+skeletal integrity	reduces	fall risk
+fall risk	lowers	injury incidence
+injury incidence	decreases	mortality rate
+mortality rate	is a	population health metric
+population health metric	guides	resource allocation
+resource allocation	affects	imaging availability
+imaging availability	determines	diagnostic timeliness
+diagnostic timeliness	impacts	treatment efficacy
+treatment efficacy	is measured by	remission rate
+remission rate	predicts	long‑term survival
+long‑term survival	is a	health outcome
+health outcome	is used in	health technology assessment
+health technology assessment	evaluates	cost‑effectiveness
+cost‑effectiveness	informs	drug pricing
+drug pricing	influences	patient access
+patient access	determines	adherence rates
+adherence rates	affect	disease progression
+disease progression	is monitored by	serial imaging
+serial imaging	requires	standardized protocols
+standardized protocols	improve	inter‑observer agreement
+inter‑observer agreement	enhances	clinical decision‑making
+clinical decision‑making	reduces	unnecessary procedures
+unnecessary procedures	lower	healthcare utilization
+healthcare utilization	is tracked by	administrative data
+administrative data	supports	predictive modeling
+predictive modeling	forecasts	readmission risk
+readmission risk	is mitigated by	discharge planning
+discharge planning	includes	follow‑up imaging
+follow‑up imaging	ensures	disease stability
+disease stability	leads to	improved prognosis
+improved prognosis	is a	patient‑centered goal

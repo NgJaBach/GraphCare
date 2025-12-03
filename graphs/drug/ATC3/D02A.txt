@@ -1,0 +1,100 @@
+emollients	are	skin‑care
+protectives	are	barrier
+emollients	reduce	dryness
+protectives	reduce	irritation
+emollients	contain	humectants
+protectives	contain	occlusives
+humectants	attract	moisture
+occlusives	seal	skin
+emollients	improve	skin‑elasticity
+protectives	improve	skin‑strength
+emollients	used for	eczema
+protectives	used for	psoriasis
+emollients	used for	dermatitis
+protectives	used for	burns
+emollients	prevent	fissures
+protectives	prevent	fissures
+emollients	reduce	scaling
+protectives	reduce	scaling
+emollients	soothe	itching
+protectives	soothe	itching
+emollients	contain	ceramides
+protectives	contain	ceramides
+ceramides	restore	lipid‑barrier
+emollients	contain	fatty‑acids
+protectives	contain	fatty‑acids
+fatty‑acids	nourish	epidermis
+emollients	are	fragrance‑free
+protectives	are	fragrance‑free
+emollients	are	hypoallergenic
+protectives	are	hypoallergenic
+emollients	are	non‑comedogenic
+protectives	are	non‑comedogenic
+emollients	applied	twice‑daily
+protectives	applied	twice‑daily
+emollients	improve	barrier‑function
+protectives	improve	barrier‑function
+emollients	reduce	transepidermal‑water‑loss
+protectives	reduce	transepidermal‑water‑loss
+emollients	increase	skin‑hydration
+protectives	increase	skin‑hydration
+emollients	contain	glycerin
+protectives	contain	glycerin
+glycerin	is	humectant
+emollients	contain	panthenol
+protectives	contain	panthenol
+panthenol	promotes	wound‑healing
+emollients	contain	allantoin
+protectives	contain	allantoin
+allantoin	calms	inflammation
+emollients	contain	niacinamide
+protectives	contain	niacinamide
+niacinamide	reduces	erythema
+emollients	contain	vitamin‑E
+protectives	contain	vitamin‑E
+vitamin‑E	protects	free‑radicals
+emollients	are	emollient‑rich
+protectives	are	protective‑rich
+emollients	used in	neonatal
+protectives	used in	neonatal
+emollients	used in	pediatric
+protectives	used in	pediatric
+emollients	used in	geriatric
+protectives	used in	geriatric
+emollients	reduce	hospitalization
+protectives	reduce	hospitalization
+emollients	lower	infection‑risk
+protectives	lower	infection‑risk
+emollients	improve	quality‑of‑life
+protectives	improve	quality‑of‑life
+emollients	are	cost‑effective
+protectives	are	cost‑effective
+emollients	are	over‑the‑counter
+protectives	are	over‑the‑counter
+emollients	are	prescription
+protectives	are	prescription
+emollients	are	dermatology
+protectives	are	dermatology
+emollients	are	cosmetic
+protectives	are	cosmetic
+emollients	are	therapeutic
+protectives	are	therapeutic
+emollients	are	non‑steroidal
+protectives	are	non‑steroidal
+emollients	are	steroid‑free
+protectives	are	steroid‑free
+emollients	are	anti‑inflammatory
+protectives	are	anti‑inflammatory
+emollients	are	anti‑pruritic
+protectives	are	anti‑pruritic
+emollients	are	anti‑scaling
+protectives	are	anti‑scaling
+emollients	are	anti‑dryness
+protectives	are	anti‑dryness
+emollients	are	anti‑erosion
+protectives	are	anti‑erosion
+emollients	are	anti‑contact
+protectives	are	anti‑contact
+emollients	are	anti‑allergy
+protectives	are	anti‑allergy
+emollients	are	anti‑infection

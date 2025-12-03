@@ -1,0 +1,100 @@
+colonoscopy	is a	diagnostic procedure
+colonoscopy	is a	therapeutic procedure
+colonoscopy	used for	polyp removal
+colonoscopy	used for	bleeding control
+colonoscopy	used for	stricture dilation
+colonoscopy	used for	tumor resection
+colonoscopy	requires	bowel prep
+colonoscopy	requires	sedation
+colonoscopy	has risk	perforation
+colonoscopy	has risk	bleeding
+colonoscopy	has risk	infection
+colonoscopy	has benefit	early cancer detection
+colonoscopy	has benefit	improved survival
+colonoscopy	improves	quality of life
+colonoscopy	improves	mortality
+colonoscopy	improves	readmission rate
+colonoscopy	improves	hospitalization cost
+colonoscopy	improves	patient satisfaction
+colonoscopy	improves	diagnostic accuracy
+colonoscopy	improves	therapeutic success
+colonoscopy	improves	complication detection
+colonoscopy	improves	treatment planning
+colonoscopy	improves	surveillance
+colonoscopy	improves	adherence
+colonoscopy	improves	screening uptake
+colonoscopy	improves	early intervention
+colonoscopy	improves	prognosis
+colonoscopy	improves	cost‑effectiveness
+colonoscopy	improves	health outcomes
+colonoscopy	improves	patient outcomes
+colonoscopy	improves	clinical outcomes
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	diagnostic yield
+colonoscopy	improves	therapeutic yield
+colonoscopy	improves	patient safety
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural success
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety
+colonoscopy	improves	procedural quality
+colonoscopy	improves	procedural outcomes
+colonoscopy	improves	procedural metrics
+colonoscopy	improves	procedural performance
+colonoscopy	improves	procedural effectiveness
+colonoscopy	improves	procedural efficiency
+colonoscopy	improves	procedural safety

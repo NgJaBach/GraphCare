@@ -1,0 +1,100 @@
+androgens	are	hormones
+androgens	produced by	testes
+androgens	produced by	ovaries
+androgens	produced by	adrenal glands
+androgens	regulate	male secondary sex traits
+androgens	regulate	female secondary sex traits
+androgens	stimulate	spermatogenesis
+androgens	stimulate	libido
+androgens	stimulate	muscle growth
+androgens	stimulate	bone density
+androgens	inhibit	estrogen synthesis
+androgens	convert to	estrogen
+androgens	convert to	dihydrotestosterone
+androgens	bind to	androgen receptor
+androgens	activate	gene transcription
+androgens	increase	hemoglobin
+androgens	increase	red blood cell count
+androgens	increase	appetite
+androgens	increase	aggression
+androgens	decrease	fat mass
+androgens	decrease	body fat
+androgens	decrease	osteoporosis risk
+androgens	decrease	depression symptoms
+androgens	decrease	fatigue
+androgens	decrease	erectile dysfunction
+androgens	decrease	infertility risk
+androgens	increase	risk of prostate cancer
+androgens	increase	risk of androgenic alopecia
+androgens	increase	risk of acne
+androgens	increase	risk of hirsutism
+androgens	increase	risk of polycystic ovary syndrome
+androgens	increase	risk of liver dysfunction
+androgens	increase	risk of cardiovascular disease
+androgens	increase	risk of sleep apnea
+androgens	increase	risk of mood swings
+androgens	increase	risk of aggression
+androgens	increase	risk of hypertension
+androgens	increase	risk of dyslipidemia
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic fibrosis
+androgens	increase	risk of gynecomastia
+androgens	increase	risk of breast cancer
+androgens	increase	risk of testicular cancer
+androgens	increase	risk of adrenal hyperplasia
+androgens	increase	risk of infertility
+androgens	increase	risk of erectile dysfunction
+androgens	increase	risk of urinary retention
+androgens	increase	risk of prostate enlargement
+androgens	increase	risk of urinary incontinence
+androgens	increase	risk of metabolic syndrome
+androgens	increase	risk of type 2 diabetes
+androgens	increase	risk of insulin resistance
+androgens	increase	risk of hyperuricemia
+androgens	increase	risk of gout
+androgens	increase	risk of kidney stones
+androgens	increase	risk of gallstones
+androgens	increase	risk of pancreatitis
+androgens	increase	risk of liver cirrhosis
+androgens	increase	risk of hepatic adenoma
+androgens	increase	risk of hepatic carcinoma
+androgens	increase	risk of hepatic failure
+androgens	increase	risk of hepatic encephalopathy
+androgens	increase	risk of hepatic fibrosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis
+androgens	increase	risk of hepatic steatosis

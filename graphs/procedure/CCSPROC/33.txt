@@ -1,0 +1,100 @@
+nasal septoplasty	corrects	deviated septum
+nasal septoplasty	reduces	nasal obstruction
+nasal septoplasty	improves	breathing
+nasal septoplasty	performed by	ENT surgeon
+nasal septoplasty	requires	general anesthesia
+nasal septoplasty	has	postoperative swelling
+nasal septoplasty	can cause	bleeding
+nasal septoplasty	leads to	improved sleep
+nasal septoplasty	reduces	snoring
+nasal septoplasty	may cause	nasal crusting
+nasal septoplasty	is indicated for	chronic rhinosinusitis
+nasal septoplasty	improves	olfactory function
+nasal septoplasty	is a	surgical procedure
+nasal septoplasty	requires	nasal packing
+nasal septoplasty	can be combined with	turbinate reduction
+nasal septoplasty	improves	facial symmetry
+nasal septoplasty	reduces	postoperative pain
+nasal septoplasty	has	risk of infection
+nasal septoplasty	is covered by	insurance
+nasal septoplasty	is performed in	outpatient setting
+nasal septoplasty	improves	quality of life
+nasal septoplasty	reduces	need for nasal steroids
+nasal septoplasty	can be performed under	local anesthesia
+nasal septoplasty	is a	corrective surgery
+nasal septoplasty	has	recovery time
+nasal septoplasty	may cause	nasal septal perforation
+nasal septoplasty	is a	minimally invasive surgery
+nasal septoplasty	improves	speech resonance
+nasal septoplasty	reduces	nasal congestion
+nasal septoplasty	is a	common ENT procedure
+nasal septoplasty	can be combined with	rhinoplasty
+nasal septoplasty	improves	nasal airflow
+nasal septoplasty	reduces	post‑operative complications
+nasal septoplasty	is indicated for	nasal trauma
+nasal septoplasty	improves	nasal mucosa health
+nasal septoplasty	reduces	need for nasal packing
+nasal septoplasty	is a	reconstructive surgery
+nasal septoplasty	improves	nasal valve function
+nasal septoplasty	reduces	nasal septal deviation
+nasal septoplasty	is performed with	endoscopic guidance
+nasal septoplasty	improves	patient satisfaction
+nasal septoplasty	reduces	risk of chronic sinusitis
+nasal septoplasty	is a	standard of care
+nasal septoplasty	improves	nasal breathing
+nasal septoplasty	reduces	postoperative edema
+nasal septoplasty	is a	common corrective procedure
+nasal septoplasty	improves	nasal cavity volume
+nasal septoplasty	reduces	nasal septal inflammation
+nasal septoplasty	is a	surgical intervention
+nasal septoplasty	improves	nasal mucosal blood flow
+nasal septoplasty	reduces	nasal septal pain
+nasal septoplasty	is a	routine ENT surgery
+nasal septoplasty	improves	nasal septal integrity
+nasal septoplasty	reduces	nasal septal perforation risk
+nasal septoplasty	is a	corrective ENT procedure
+nasal septoplasty	improves	nasal septal alignment
+nasal septoplasty	reduces	nasal septal deviation severity
+nasal septoplasty	is a	surgical correction
+nasal septoplasty	improves	nasal septal function
+nasal septoplasty	reduces	nasal septal complications
+nasal septoplasty	is a	nasal surgery
+nasal septoplasty	improves	nasal septal health
+nasal septoplasty	reduces	nasal septal inflammation
+nasal septoplasty	is a	nasal corrective procedure
+nasal septoplasty	improves	nasal septal stability
+nasal septoplasty	reduces	nasal septal deformity
+nasal septoplasty	is a	nasal correction
+nasal septoplasty	improves	nasal septal alignment
+nasal septoplasty	reduces	nasal septal deviation
+nasal septoplasty	is a	nasal surgery
+nasal septoplasty	improves	nasal septal function
+nasal septoplasty	reduces	nasal septal complications
+nasal septoplasty	is a	nasal corrective surgery
+nasal septoplasty	improves	nasal septal health
+nasal septoplasty	reduces	nasal septal inflammation
+nasal septoplasty	is a	nasal procedure
+nasal septoplasty	improves	nasal septal stability
+nasal septoplasty	reduces	nasal septal deformity
+nasal septoplasty	is a	nasal surgery
+nasal septoplasty	improves	nasal septal alignment
+nasal septoplasty	reduces	nasal septal deviation
+nasal septoplasty	is a	nasal correction
+nasal septoplasty	improves	nasal septal function
+nasal septoplasty	reduces	nasal septal complications
+nasal septoplasty	is a	nasal corrective procedure
+nasal septoplasty	improves	nasal septal health
+nasal septoplasty	reduces	nasal septal inflammation
+nasal septoplasty	is a	nasal surgery
+nasal septoplasty	improves	nasal septal stability
+nasal septoplasty	reduces	nasal septal deformity
+nasal septoplasty	is a	nasal procedure
+nasal septoplasty	improves	nasal septal alignment
+nasal septoplasty	reduces	nasal septal deviation
+nasal septoplasty	is a	nasal correction
+nasal septoplasty	improves	nasal septal function
+nasal septoplasty	reduces	nasal septal complications
+nasal septoplasty	is a	nasal corrective surgery
+nasal septoplasty	improves	nasal septal health
+nasal septoplasty	reduces	nasal septal inflammation
+nasal septoplasty	is a	nasal surgery

@@ -1,0 +1,100 @@
+ace inhibitors	inhibit	angiotensin‑converting enzyme
+ace inhibitors	lower	blood pressure
+ace inhibitors	treat	hypertension
+ace inhibitors	treat	heart failure
+ace inhibitors	reduce	mortality
+ace inhibitors	reduce	hospitalization
+ace inhibitors	cause	cough
+ace inhibitors	cause	hyperkalemia
+ace inhibitors	cause	angioedema
+ace inhibitors	improve	renal function
+ace inhibitors	improve	left ventricular ejection fraction
+ace inhibitors	improve	exercise tolerance
+ace inhibitors	improve	quality of life
+ace inhibitors	contraindicated in	pregnancy
+ace inhibitors	contraindicated in	renal artery stenosis
+ace inhibitors	contraindicated in	severe renal impairment
+ace inhibitors	contraindicated in	hyperkalemia
+ace inhibitors	contraindicated in	ACE inhibitor intolerance
+ace inhibitors	contraindicated in	angiotensin receptor blocker use
+ace inhibitors	contraindicated in	bilateral renal artery stenosis
+ace inhibitors	contraindicated in	type 1 diabetes
+ace inhibitors	contraindicated in	type 2 diabetes
+ace inhibitors	contraindicated in	chronic kidney disease
+ace inhibitors	contraindicated in	low sodium diet
+ace inhibitors	contraindicated in	high potassium diet
+ace inhibitors	contraindicated in	electrolyte imbalance
+ace inhibitors	contraindicated in	liver disease
+ace inhibitors	contraindicated in	adrenal insufficiency
+ace inhibitors	contraindicated in	adrenal crisis
+ace inhibitors	contraindicated in	severe hypotension
+ace inhibitors	contraindicated in	orthostatic hypotension
+ace inhibitors	contraindicated in	severe anemia
+ace inhibitors	contraindicated in	severe dehydration
+ace inhibitors	contraindicated in	severe hyponatremia
+ace inhibitors	contraindicated in	severe hyperkalemia
+ace inhibitors	contraindicated in	severe hypernatremia
+ace inhibitors	contraindicated in	severe hypokalemia
+ace inhibitors	contraindicated in	severe hypomagnesemia
+ace inhibitors	contraindicated in	severe hypophosphatemia
+ace inhibitors	contraindicated in	severe hypocalcemia
+ace inhibitors	contraindicated in	severe hypocalcitonemia
+ace inhibitors	contraindicated in	severe hypoglycemia
+ace inhibitors	contraindicated in	severe hyperglycemia
+ace inhibitors	contraindicated in	severe hyperlipidemia
+ace inhibitors	contraindicated in	severe hyperuricemia
+ace inhibitors	contraindicated in	severe hyperthyroidism
+ace inhibitors	contraindicated in	severe hypothyroidism
+ace inhibitors	contraindicated in	severe anemia
+ace inhibitors	contraindicated in	severe thrombocytopenia
+ace inhibitors	contraindicated in	severe leukopenia
+ace inhibitors	contraindicated in	severe neutropenia
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia
+ace inhibitors	contraindicated in	severe basophilia
+ace inhibitors	contraindicated in	severe lymphocytosis
+ace inhibitors	contraindicated in	severe monocytosis
+ace inhibitors	contraindicated in	severe thrombocytosis
+ace inhibitors	contraindicated in	severe leukocytosis
+ace inhibitors	contraindicated in	severe eosinophilia

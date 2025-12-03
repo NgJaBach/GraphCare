@@ -1,0 +1,100 @@
+intubation	is a	procedure
+intubation	requires	airway
+intubation	uses	endotracheal tube
+intubation	performed by	anesthesiologist
+intubation	performed by	intensivist
+intubation	performed by	emergency physician
+intubation	indicated for	airway protection
+intubation	indicated for	oxygenation
+intubation	indicated for	ventilation
+intubation	indicated for	aspiration prevention
+intubation	indicated for	severe hypoxia
+intubation	indicated for	severe hypercapnia
+intubation	indicated for	trauma
+intubation	indicated for	cardiac arrest
+intubation	indicated for	surgery
+intubation	indicated for	sedation
+intubation	indicated for	neuromuscular blockade
+intubation	contraindicated in	cervical spine injury
+intubation	contraindicated in	severe facial trauma
+intubation	contraindicated in	difficult airway
+intubation	contraindicated in	laryngeal edema
+intubation	contraindicated in	severe obesity
+intubation	contraindicated in	esophageal varices
+intubation	leads to	mechanical ventilation
+intubation	leads to	sedation requirement
+intubation	leads to	infection risk
+intubation	leads to	ventilator-associated pneumonia
+intubation	leads to	barotrauma
+intubation	leads to	volutrauma
+intubation	leads to	atelectasis
+intubation	leads to	tracheal injury
+intubation	leads to	laryngospasm
+intubation	leads to	aspiration
+intubation	leads to	hemodynamic instability
+intubation	leads to	increased intracranial pressure
+intubation	leads to	decreased cardiac output
+intubation	leads to	decreased oxygen saturation
+intubation	leads to	increased mortality
+intubation	leads to	prolonged ICU stay
+intubation	leads to	increased cost
+intubation	associated with	cuff pressure monitoring
+intubation	associated with	suctioning
+intubation	associated with	oral hygiene
+intubation	associated with	sedation protocol
+intubation	associated with	weaning protocol
+intubation	associated with	spontaneous breathing trial
+intubation	associated with	pressure support ventilation
+intubation	associated with	high-frequency oscillatory ventilation
+intubation	associated with	prone positioning
+intubation	associated with	lung protective strategy
+intubation	associated with	low tidal volume
+intubation	associated with	plateau pressure
+intubation	associated with	driving pressure
+intubation	associated with	PEEP
+intubation	associated with	FiO₂
+intubation	associated with	arterial blood gas
+intubation	associated with	chest X-ray
+intubation	associated with	ultrasound
+intubation	associated with	capnography
+intubation	associated with	pulse oximetry
+intubation	associated with	hemodynamic monitoring
+intubation	associated with	fluid balance
+intubation	associated with	vasopressor use
+intubation	associated with	renal replacement therapy
+intubation	associated with	nutritional support
+intubation	associated with	enteral feeding
+intubation	associated with	parenteral nutrition
+intubation	associated with	delirium prevention
+intubation	associated with	early mobilization
+intubation	associated with	infection control
+intubation	associated with	hand hygiene
+intubation	associated with	barrier precautions
+intubation	associated with	antimicrobial stewardship
+intubation	associated with	antibiotic prophylaxis
+intubation	associated with	ventilator bundle
+intubation	associated with	weaning failure
+intubation	associated with	reintubation
+intubation	associated with	extubation failure
+intubation	associated with	tracheostomy
+intubation	associated with	tracheostomy timing
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy care
+intubation	associated with	tracheostomy weaning
+intubation	associated with	tracheostomy decannulation
+intubation	associated with	tracheostomy mortality
+intubation	associated with	tracheostomy cost
+intubation	associated with	tracheostomy quality
+intubation	associated with	tracheostomy guidelines
+intubation	associated with	tracheostomy registry
+intubation	associated with	tracheostomy training
+intubation	associated with	tracheostomy simulation
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy outcomes
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy complications
+intubation	associated with	tracheostomy complications

@@ -1,0 +1,100 @@
+irrigating solutions	used in	surgery
+irrigating solutions	reduce	tissue damage
+irrigating solutions	maintain	temperature
+irrigating solutions	contain	electrolytes
+irrigating solutions	improve	visibility
+irrigating solutions	prevent	hypothermia
+irrigating solutions	lower	infection risk
+irrigating solutions	are sterile	irrigation
+irrigating solutions	are isotonic	fluids
+irrigating solutions	are hypotonic	fluids
+irrigating solutions	are hypertonic	fluids
+irrigating solutions	are balanced	solutions
+irrigating solutions	are saline	solutions
+irrigating solutions	are glucose	solutions
+irrigating solutions	are lactated	Ringer’s
+irrigating solutions	are dextrose	solutions
+irrigating solutions	are buffered	solutions
+irrigating solutions	are non‑buffered	solutions
+irrigating solutions	are pH‑adjusted	solutions
+irrigating solutions	are pH‑neutral	solutions
+irrigating solutions	are pH‑acidic	solutions
+irrigating solutions	are pH‑basic	solutions
+irrigating solutions	are used in	ophthalmic surgery
+irrigating solutions	are used in	cardiac surgery
+irrigating solutions	are used in	neurosurgery
+irrigating solutions	are used in	orthopedic surgery
+irrigating solutions	are used in	vascular surgery
+irrigating solutions	are used in	transplant surgery
+irrigating solutions	are used in	endoscopic procedures
+irrigating solutions	are used in	laparoscopic surgery
+irrigating solutions	are used in	robotic surgery
+irrigating solutions	are used in	trauma surgery
+irrigating solutions	are used in	burn care
+irrigating solutions	are used in	dental surgery
+irrigating solutions	are used in	gynecologic surgery
+irrigating solutions	are used in	urologic surgery
+irrigating solutions	are used in	ENT surgery
+irrigating solutions	are used in	plastic surgery
+irrigating solutions	are used in	bariatric surgery
+irrigating solutions	are used in	cardiac catheterization
+irrigating solutions	are used in	angiography
+irrigating solutions	are used in	interventional radiology
+irrigating solutions	are used in	endovascular therapy
+irrigating solutions	are used in	spinal surgery
+irrigating solutions	are used in	joint replacement
+irrigating solutions	are used in	arthroscopy
+irrigating solutions	are used in	tendon repair
+irrigating solutions	are used in	ligament reconstruction
+irrigating solutions	are used in	fracture fixation
+irrigating solutions	are used in	spinal fusion
+irrigating solutions	are used in	tumor resection
+irrigating solutions	are used in	organ procurement
+irrigating solutions	are used in	organ preservation
+irrigating solutions	are used in	organ transplantation
+irrigating solutions	are used in	organ perfusion
+irrigating solutions	are used in	organ storage
+irrigating solutions	are used in	organ transport
+irrigating solutions	are used in	organ reconditioning
+irrigating solutions	are used in	organ viability testing
+irrigating solutions	are used in	organ perfusion therapy
+blood substitutes	are synthetic	hemoglobin
+blood substitutes	are polymerized	hemoglobin
+blood substitutes	are perfluorocarbon	emulsions
+blood substitutes	are oxygen carriers	fluids
+blood substitutes	are oxygen carriers	solutions
+blood substitutes	are oxygen carriers	emulsions
+blood substitutes	are oxygen carriers	nanoparticles
+blood substitutes	are oxygen carriers	liposomes
+blood substitutes	are oxygen carriers	microbubbles
+blood substitutes	are oxygen carriers	oxygenated	solutions
+blood substitutes	are oxygen carriers	oxygenated	emulsions
+blood substitutes	are oxygen carriers	oxygenated	nanoparticles
+blood substitutes	are oxygen carriers	oxygenated	liposomes
+blood substitutes	are oxygen carriers	oxygenated	microbubbles
+blood substitutes	are used in	hemorrhagic shock
+blood substitutes	are used in	trauma
+blood substitutes	are used in	surgery
+blood substitutes	are used in	cardiac surgery
+blood substitutes	are used in	organ perfusion
+blood substitutes	are used in	organ preservation
+blood substitutes	are used in	organ transplantation
+blood substitutes	are used in	burn care
+blood substitutes	are used in	emergency medicine
+blood substitutes	are used in	military medicine
+blood substitutes	are used in	space medicine
+blood substitutes	are used in	veterinary medicine
+blood substitutes	are used in	research
+blood substitutes	improve	oxygen delivery
+blood substitutes	reduce	blood transfusion
+blood substitutes	reduce	alloimmunization
+blood substitutes	reduce	infection risk
+blood substitutes	reduce	storage time
+blood substitutes	reduce	cost
+blood substitutes	increase	safety
+blood substitutes	increase	shelf life
+blood substitutes	increase	availability
+blood substitutes	increase	patient survival
+blood substitutes	increase	organ viability
+blood substitutes	increase	perfusion efficiency
+blood substitutes	increase	oxygenation

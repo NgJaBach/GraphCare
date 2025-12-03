@@ -1,0 +1,100 @@
+heart valve procedures	treat	valve disease
+heart valve procedures	include	valve replacement
+heart valve procedures	include	valve repair
+heart valve procedures	performed	cardiac surgery
+heart valve procedures	reduce	heart failure
+heart valve procedures	improve	ejection fraction
+heart valve procedures	lower	pulmonary hypertension
+heart valve procedures	decrease	mortality
+heart valve procedures	increase	survival rate
+heart valve procedures	require	cardiothoracic surgeon
+heart valve procedures	involve	sternotomy
+heart valve procedures	can be	minimally invasive
+heart valve procedures	can be	robotic-assisted
+heart valve procedures	use	prosthetic valve
+heart valve procedures	use	biological valve
+heart valve procedures	use	mechanical valve
+heart valve procedures	use	tissue valve
+heart valve procedures	use	valve clip
+heart valve procedures	use	annuloplasty ring
+heart valve procedures	use	transcatheter valve
+heart valve procedures	involve	cardiopulmonary bypass
+heart valve procedures	involve	aortic valve
+heart valve procedures	involve	mitral valve
+heart valve procedures	involve	tricuspid valve
+heart valve procedures	involve	pulmonary valve
+heart valve procedures	treat	aortic stenosis
+heart valve procedures	treat	aortic regurgitation
+heart valve procedures	treat	mitral stenosis
+heart valve procedures	treat	mitral regurgitation
+heart valve procedures	treat	tricuspid regurgitation
+heart valve procedures	treat	pulmonary stenosis
+heart valve procedures	treat	pulmonary regurgitation
+heart valve procedures	reduce	left ventricular dilation
+heart valve procedures	reduce	right ventricular dilation
+heart valve procedures	reduce	atrial enlargement
+heart valve procedures	reduce	arrhythmia
+heart valve procedures	reduce	heart murmur
+heart valve procedures	reduce	syncope
+heart valve procedures	reduce	dyspnea
+heart valve procedures	reduce	edema
+heart valve procedures	reduce	fatigue
+heart valve procedures	reduce	exercise intolerance
+heart valve procedures	reduce	hospitalization
+heart valve procedures	reduce	readmission
+heart valve procedures	improve	quality of life
+heart valve procedures	improve	exercise capacity
+heart valve procedures	improve	functional class
+heart valve procedures	improve	NYHA class
+heart valve procedures	improve	echocardiogram
+heart valve procedures	improve	cardiac MRI
+heart valve procedures	improve	cardiac CT
+heart valve procedures	improve	valve gradient
+heart valve procedures	improve	valve area
+heart valve procedures	improve	valve function
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	anticoagulation
+heart valve procedures	improve	antiplatelet therapy
+heart valve procedures	improve	anticoagulation management
+heart valve procedures	improve	postoperative care
+heart valve procedures	improve	rehabilitation
+heart valve procedures	improve	patient education
+heart valve procedures	improve	follow-up
+heart valve procedures	improve	surveillance
+heart valve procedures	improve	early detection
+heart valve procedures	improve	risk stratification
+heart valve procedures	improve	surgical candidacy
+heart valve procedures	improve	valve selection
+heart valve procedures	improve	valve sizing
+heart valve procedures	improve	valve positioning
+heart valve procedures	improve	valve anchoring
+heart valve procedures	improve	valve sealing
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve hemodynamics
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability
+heart valve procedures	improve	valve durability

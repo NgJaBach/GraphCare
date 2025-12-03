@@ -1,0 +1,100 @@
+nose	is a	body part
+nose	has	nasal cavity
+nose	has	nasal septum
+nose	has	nasal cartilage
+nose	has	nasal bone
+nose	has	nasal skin
+nose	has	nasal mucosa
+nose	has	nasal turbinates
+nose	has	nasal valve
+nose	has	nasal tip
+nose	has	nasal dorsum
+nose	has	nasal bridge
+nose	has	nasal alae
+nose	has	nasal root
+nose	has	nasal aperture
+nose	is part of	face
+nose	is part of	skull
+nose	is part of	respiratory system
+nose	is part of	olfactory system
+nose	is part of	aesthetic anatomy
+plastic procedures on nose	is a	cosmetic surgery
+plastic procedures on nose	is a	reconstructive surgery
+plastic procedures on nose	is performed by	plastic surgeon
+plastic procedures on nose	is performed by	ENT surgeon
+plastic procedures on nose	is performed on	patient
+plastic procedures on nose	is performed to	improve appearance
+plastic procedures on nose	is performed to	restore function
+plastic procedures on nose	is performed to	correct deformity
+plastic procedures on nose	is performed to	treat trauma
+plastic procedures on nose	is performed to	treat congenital anomaly
+plastic procedures on nose	is performed to	treat cancer
+plastic procedures on nose	is performed to	treat infection
+plastic procedures on nose	is performed to	treat swelling
+plastic procedures on nose	is performed to	treat scar
+plastic procedures on nose	is performed to	treat nasal obstruction
+plastic procedures on nose	includes	rhinoplasty
+plastic procedures on nose	includes	septoplasty
+plastic procedures on nose	includes	alarplasty
+plastic procedures on nose	includes	dorsal augmentation
+plastic procedures on nose	includes	tip refinement
+plastic procedures on nose	includes	nasal graft
+plastic procedures on nose	includes	cartilage harvest
+plastic procedures on nose	includes	bone graft
+plastic procedures on nose	includes	dermal filler
+plastic procedures on nose	includes	fat graft
+plastic procedures on nose	includes	silicone implant
+plastic procedures on nose	includes	autologous graft
+plastic procedures on nose	includes	alloplastic graft
+plastic procedures on nose	includes	scar revision
+plastic procedures on nose	includes	rhinoplasty revision
+plastic procedures on nose	includes	nasal reconstruction
+plastic procedures on nose	includes	nasal flap
+plastic procedures on nose	includes	nasal lining
+plastic procedures on nose	includes	nasal lining graft
+plastic procedures on nose	includes	nasal valve repair
+plastic procedures on nose	includes	nasal valve dilation
+plastic procedures on nose	includes	nasal valve reconstruction
+plastic procedures on nose	includes	nasal septum correction
+plastic procedures on nose	includes	nasal septum graft
+plastic procedures on nose	includes	nasal septum resection
+plastic procedures on nose	includes	nasal septum reshaping
+plastic procedures on nose	includes	nasal septum realignment
+plastic procedures on nose	includes	nasal septum stabilization
+plastic procedures on nose	includes	nasal septum fixation
+plastic procedures on nose	includes	nasal septum suturing
+plastic procedures on nose	includes	nasal septum repair
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction
+plastic procedures on nose	includes	nasal septum reconstruction

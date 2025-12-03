@@ -1,0 +1,100 @@
+antispasmodics	are	drugs
+psycholeptics	are	drugs
+antispasmodics	treat	gastrointestinal spasms
+psycholeptics	treat	anxiety
+antispasmodics	reduce	cramping
+psycholeptics	reduce	agitation
+antispasmodics	block	muscarinic receptors
+psycholeptics	block	dopamine receptors
+antispasmodics	improve	bowel motility
+psycholeptics	improve	sleep quality
+antispasmodics	used for	irritable bowel syndrome
+psycholeptics	used for	panic disorder
+antispasmodics	contraindicated in	asthma
+psycholeptics	contraindicated in	Parkinson disease
+antispasmodics	cause	dry mouth
+psycholeptics	cause	sedation
+antispasmodics	may cause	constipation
+psycholeptics	may cause	orthostatic hypotension
+antispasmodics	interact with	anticholinergics
+psycholeptics	interact with	benzodiazepines
+antispasmodics	reduce	abdominal pain
+psycholeptics	reduce	muscle tension
+antispasmodics	improve	quality of life
+psycholeptics	improve	quality of life
+antispasmodics	used in	postoperative ileus
+psycholeptics	used in	insomnia
+antispasmodics	are	anticholinergic
+psycholeptics	are	central nervous system depressants
+antispasmodics	are	antispasmodic
+psycholeptics	are	anxiolytic
+antispasmodics	may reduce	nausea
+psycholeptics	may reduce	tremor
+antispasmodics	may increase	heart rate
+psycholeptics	may increase	heart rate
+antispasmodics	may cause	urinary retention
+psycholeptics	may cause	urinary retention
+antispasmodics	are	first‑generation
+psycholeptics	are	second‑generation
+antispasmodics	are	non‑selective
+psycholeptics	are	selective
+antispasmodics	used with	laxatives
+psycholeptics	used with	antihistamines
+antispasmodics	improve	bowel emptying
+psycholeptics	improve	cognitive function
+antispasmodics	reduce	spasm frequency
+psycholeptics	reduce	spasm frequency
+antispasmodics	reduce	spasm severity
+psycholeptics	reduce	spasm severity
+antispasmodics	are	contraindicated in	pregnancy
+psycholeptics	are	contraindicated in	pregnancy
+antispasmodics	are	contraindicated in	lactation
+psycholeptics	are	contraindicated in	lactation
+antispasmodics	are	contraindicated in	elderly
+psycholeptics	are	contraindicated in	elderly
+antispasmodics	are	contraindicated in	renal impairment
+psycholeptics	are	contraindicated in	renal impairment
+antispasmodics	are	contraindicated in	hepatic impairment
+psycholeptics	are	contraindicated in	hepatic impairment
+antispasmodics	are	contraindicated in	cardiac disease
+psycholeptics	are	contraindicated in	cardiac disease
+antispasmodics	are	contraindicated in	glaucoma
+psycholeptics	are	contraindicated in	glaucoma
+antispasmodics	are	contraindicated in	myasthenia gravis
+psycholeptics	are	contraindicated in	myasthenia gravis
+antispasmodics	are	contraindicated in	pregnancy
+psycholeptics	are	contraindicated in	pregnancy
+antispasmodics	are	contraindicated in	lactation
+psycholeptics	are	contraindicated in	lactation
+antispasmodics	are	contraindicated in	elderly
+psycholeptics	are	contraindicated in	elderly
+antispasmodics	are	contraindicated in	renal impairment
+psycholeptics	are	contraindicated in	renal impairment
+antispasmodics	are	contraindicated in	hepatic impairment
+psycholeptics	are	contraindicated in	hepatic impairment
+antispasmodics	are	contraindicated in	cardiac disease
+psycholeptics	are	contraindicated in	cardiac disease
+antispasmodics	are	contraindicated in	glaucoma
+psycholeptics	are	contraindicated in	glaucoma
+antispasmodics	are	contraindicated in	myasthenia gravis
+psycholeptics	are	contraindicated in	myasthenia gravis
+antispasmodics	are	contraindicated in	pregnancy
+psycholeptics	are	contraindicated in	pregnancy
+antispasmodics	are	contraindicated in	lactation
+psycholeptics	are	contraindicated in	lactation
+antispasmodics	are	contraindicated in	elderly
+psycholeptics	are	contraindicated in	elderly
+antispasmodics	are	contraindicated in	renal impairment
+psycholeptics	are	contraindicated in	renal impairment
+antispasmodics	are	contraindicated in	hepatic impairment
+psycholeptics	are	contraindicated in	hepatic impairment
+antispasmodics	are	contraindicated in	cardiac disease
+psycholeptics	are	contraindicated in	cardiac disease
+antispasmodics	are	contraindicated in	glaucoma
+psycholeptics	are	contraindicated in	glaucoma
+antispasmodics	are	contraindicated in	myasthenia gravis
+psycholeptics	are	contraindicated in	myasthenia gravis
+antispasmodics	are	contraindicated in	pregnancy
+psycholeptics	are	contraindicated in	pregnancy
+antispasmodics	are	contraindicated in	lactation
+psycholeptics	are	contraindicated in	lactation

@@ -1,0 +1,100 @@
+antiobesity preparations	are	drug
+antiobesity preparations	treat	obesity
+antiobesity preparations	reduce	body weight
+antiobesity preparations	lower	BMI
+antiobesity preparations	improve	insulin sensitivity
+antiobesity preparations	decrease	triglycerides
+antiobesity preparations	lower	LDL cholesterol
+antiobesity preparations	increase	HDL cholesterol
+antiobesity preparations	reduce	blood pressure
+antiobesity preparations	improve	lipid profile
+antiobesity preparations	are	prescription medication
+antiobesity preparations	require	physician supervision
+antiobesity preparations	have	side effects
+side effects	include	nausea
+side effects	include	vomiting
+side effects	include	constipation
+side effects	include	diarrhea
+side effects	include	headache
+side effects	include	dizziness
+side effects	include	insomnia
+side effects	include	anxiety
+side effects	include	depression
+side effects	include	liver toxicity
+side effects	include	pancreatitis
+antiobesity preparations	contraindicated	pregnancy
+antiobesity preparations	contraindicated	lactation
+antiobesity preparations	contraindicated	hepatic disease
+antiobesity preparations	contraindicated	renal disease
+antiobesity preparations	contraindicated	cardiac disease
+antiobesity preparations	contraindicated	uncontrolled hypertension
+antiobesity preparations	contraindicated	uncontrolled diabetes
+antiobesity preparations	contraindicated	thyroid disorder
+antiobesity preparations	contraindicated	eating disorder
+antiobesity preparations	contraindicated	psychiatric disorder
+antiobesity preparations	contraindicated	substance abuse
+antiobesity preparations	contraindicated	recent weight loss surgery
+antiobesity preparations	contraindicated	recent bariatric surgery
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric banding
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric pouch
+antiobesity preparations	contraindicated	recent gastric tube
+antiobesity preparations	contraindicated	recent gastric stent
+antiobesity preparations	contraindicated	recent gastric balloon
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass
+antiobesity preparations	contraindicated	recent gastric band
+antiobesity preparations	contraindicated	recent gastric sleeve
+antiobesity preparations	contraindicated	recent gastric bypass

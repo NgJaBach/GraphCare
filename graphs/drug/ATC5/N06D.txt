@@ -1,0 +1,100 @@
+donepezil	is a	cholinesterase inhibitor
+donepezil	treats	Alzheimer’s disease
+donepezil	improves	cognitive function
+donepezil	reduces	neurofibrillary tangles
+donepezil	has	mild nausea
+donepezil	causes	bradycardia
+donepezil	interacts with	anticholinergics
+donepezil	contraindicated in	severe heart block
+donepezil	metabolized by	CYP2D6
+donepezil	half‑life	70 h
+donepezil	dosage	5 mg daily
+donepezil	dosage	10 mg daily
+donepezil	approved by	FDA
+donepezil	approved in	1996
+donepezil	brand name	Aricept
+rivastigmine	is a	cholinesterase inhibitor
+rivastigmine	treats	Alzheimer’s disease
+rivastigmine	treats	Parkinson’s dementia
+rivastigmine	improves	memory
+rivastigmine	causes	nausea
+rivastigmine	causes	vomiting
+rivastigmine	interacts with	anticholinergics
+rivastigmine	contraindicated in	severe hepatic impairment
+rivastigmine	metabolized by	CYP2D6
+rivastigmine	half‑life	1.5 h
+rivastigmine	dosage	1.5 mg twice daily
+rivastigmine	dosage	3 mg twice daily
+rivastigmine	approved by	FDA
+rivastigmine	approved in	2004
+rivastigmine	brand name	Exelon
+galantamine	is a	cholinesterase inhibitor
+galantamine	treats	Alzheimer’s disease
+galantamine	improves	attention
+galantamine	causes	diarrhea
+galantamine	causes	dizziness
+galantamine	interacts with	anticholinergics
+galantamine	contraindicated in	severe hepatic impairment
+galantamine	metabolized by	CYP3A4
+galantamine	half‑life	7 h
+galantamine	dosage	8 mg daily
+galantamine	dosage	16 mg daily
+galantamine	approved by	FDA
+galantamine	approved in	2001
+galantamine	brand name	Razadyne
+memantine	is a	NMDA antagonist
+memantine	treats	Alzheimer’s disease
+memantine	reduces	excitotoxicity
+memantine	causes	constipation
+memantine	causes	headache
+memantine	interacts with	antipsychotics
+memantine	contraindicated in	severe renal impairment
+memantine	metabolized by	renal excretion
+memantine	half‑life	60 h
+memantine	dosage	10 mg daily
+memantine	dosage	20 mg daily
+memantine	approved by	FDA
+memantine	approved in	2003
+memantine	brand name	Namenda
+donepezil	improves	daily living activities
+rivastigmine	improves	daily living activities
+galantamine	improves	daily living activities
+memantine	improves	daily living activities
+donepezil	reduces	caregiver burden
+rivastigmine	reduces	caregiver burden
+galantamine	reduces	caregiver burden
+memantine	reduces	caregiver burden
+donepezil	may delay	disease progression
+rivastigmine	may delay	disease progression
+galantamine	may delay	disease progression
+memantine	may delay	disease progression
+donepezil	used in	mild‑to‑moderate Alzheimer’s
+rivastigmine	used in	mild‑to‑moderate Alzheimer’s
+galantamine	used in	mild‑to‑moderate Alzheimer’s
+memantine	used in	moderate‑to‑severe Alzheimer’s
+donepezil	contraindicated in	severe hepatic disease
+rivastigmine	contraindicated in	severe hepatic disease
+galantamine	contraindicated in	severe hepatic disease
+memantine	contraindicated in	severe hepatic disease
+donepezil	may cause	weight loss
+rivastigmine	may cause	weight loss
+galantamine	may cause	weight loss
+memantine	may cause	weight loss
+donepezil	can be combined with	memantine
+rivastigmine	can be combined with	memantine
+galantamine	can be combined with	memantine
+donepezil	improves	functional status
+rivastigmine	improves	functional status
+galantamine	improves	functional status
+memantine	improves	functional status
+donepezil	reduces	mortality risk
+rivastigmine	reduces	mortality risk
+galantamine	reduces	mortality risk
+memantine	reduces	mortality risk
+donepezil	reduces	hospitalization rate
+rivastigmine	reduces	hospitalization rate
+galantamine	reduces	hospitalization rate
+memantine	reduces	hospitalization rate
+donepezil	associated with	improved quality of life
+rivastigmine	associated with	improved quality of life
+galantamine	associated with	improved quality of life

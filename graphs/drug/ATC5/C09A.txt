@@ -1,0 +1,100 @@
+ACE inhibitors	are	drug
+ACE inhibitors	treat	hypertension
+ACE inhibitors	treat	heart failure
+ACE inhibitors	reduce	mortality
+ACE inhibitors	lower	blood pressure
+ACE inhibitors	block	ACE enzyme
+ACE inhibitors	inhibit	angiotensin‑converting enzyme
+ACE inhibitors	prevent	angiotensin II formation
+ACE inhibitors	cause	cough
+ACE inhibitors	cause	hyperkalemia
+ACE inhibitors	cause	hypotension
+ACE inhibitors	cause	angioedema
+ACE inhibitors	contraindicated in	pregnancy
+ACE inhibitors	contraindicated in	renal failure
+ACE inhibitors	contraindicated in	hyperkalemia
+ACE inhibitors	interact with	potassium supplements
+ACE inhibitors	interact with	NSAIDs
+ACE inhibitors	interact with	diuretics
+ACE inhibitors	interact with	ARBs
+ACE inhibitors	interact with	ACE inhibitor withdrawal
+ACE inhibitors	improve	left ventricular ejection fraction
+ACE inhibitors	improve	exercise tolerance
+ACE inhibitors	improve	quality of life
+ACE inhibitors	improve	renal function
+ACE inhibitors	improve	proteinuria
+ACE inhibitors	improve	survival
+ACE inhibitors	improve	myocardial infarction outcomes
+ACE inhibitors	improve	stroke prevention
+ACE inhibitors	improve	diabetic nephropathy
+ACE inhibitors	improve	heart failure mortality
+ACE inhibitors	improve	arrhythmia risk
+ACE inhibitors	improve	endothelial function
+ACE inhibitors	improve	arterial compliance
+ACE inhibitors	improve	vascular remodeling
+ACE inhibitors	improve	cardiac remodeling
+ACE inhibitors	improve	diastolic function
+ACE inhibitors	improve	pulmonary hypertension
+ACE inhibitors	improve	cardiac output
+ACE inhibitors	improve	blood flow
+ACE inhibitors	improve	capillary permeability
+ACE inhibitors	improve	anti‑inflammatory effect
+ACE inhibitors	improve	anti‑fibrotic effect
+ACE inhibitors	improve	anti‑thrombotic effect
+ACE inhibitors	improve	anti‑apoptotic effect
+ACE inhibitors	improve	anti‑oxidant effect
+ACE inhibitors	improve	anti‑angiogenic effect
+ACE inhibitors	improve	anti‑cancer effect
+ACE inhibitors	improve	anti‑viral effect
+ACE inhibitors	improve	anti‑bacterial effect
+ACE inhibitors	improve	anti‑fungal effect
+ACE inhibitors	improve	anti‑parasite effect
+ACE inhibitors	improve	anti‑inflammatory effect
+ACE inhibitors	improve	anti‑thrombotic effect
+ACE inhibitors	improve	anti‑oxidant effect
+ACE inhibitors	improve	anti‑fibrotic effect
+ACE inhibitors	improve	anti‑angiogenic effect
+ACE inhibitors	improve	anti‑cancer effect
+ACE inhibitors	improve	anti‑viral effect
+ACE inhibitors	improve	anti‑bacterial effect
+ACE inhibitors	improve	anti‑fungal effect
+ACE inhibitors	improve	anti‑parasite effect
+ACE inhibitors	improve	anti‑inflammatory effect
+ACE inhibitors	improve	anti‑thrombotic effect
+ACE inhibitors	improve	anti‑oxidant effect
+ACE inhibitors	improve	anti‑fibrotic effect
+ACE inhibitors	improve	anti‑angiogenic effect
+ACE inhibitors	improve	anti‑cancer effect
+ACE inhibitors	improve	anti‑viral effect
+ACE inhibitors	improve	anti‑bacterial effect
+ACE inhibitors	improve	anti‑fungal effect
+ACE inhibitors	improve	anti‑parasite effect
+ACE inhibitors	improve	anti‑inflammatory effect
+ACE inhibitors	improve	anti‑thrombotic effect
+ACE inhibitors	improve	anti‑oxidant effect
+ACE inhibitors	improve	anti‑fibrotic effect
+ACE inhibitors	improve	anti‑angiogenic effect
+ACE inhibitors	improve	anti‑cancer effect
+ACE inhibitors	improve	anti‑viral effect
+ACE inhibitors	improve	anti‑bacterial effect
+ACE inhibitors	improve	anti‑fungal effect
+ACE inhibitors	improve	anti‑parasite effect
+ACE inhibitors	improve	anti‑inflammatory effect
+ACE inhibitors	improve	anti‑thrombotic effect
+ACE inhibitors	improve	anti‑oxidant effect
+ACE inhibitors	improve	anti‑fibrotic effect
+ACE inhibitors	improve	anti‑angiogenic effect
+ACE inhibitors	improve	anti‑cancer effect
+ACE inhibitors	improve	anti‑viral effect
+ACE inhibitors	improve	anti‑bacterial effect
+ACE inhibitors	improve	anti‑fungal effect
+ACE inhibitors	improve	anti‑parasite effect
+ACE inhibitors	improve	anti‑inflammatory effect
+ACE inhibitors	improve	anti‑thrombotic effect
+ACE inhibitors	improve	anti‑oxidant effect
+ACE inhibitors	improve	anti‑fibrotic effect
+ACE inhibitors	improve	anti‑angiogenic effect
+ACE inhibitors	improve	anti‑cancer effect
+ACE inhibitors	improve	anti‑viral effect
+ACE inhibitors	improve	anti‑bacterial effect
+ACE inhibitors	improve	anti‑fungal effect

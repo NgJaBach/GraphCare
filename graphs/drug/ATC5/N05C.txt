@@ -1,0 +1,100 @@
+hypnotics	are	drugs
+sedatives	are	drugs
+hypnotics	treat	insomnia
+sedatives	treat	anxiety
+hypnotics	reduce	sleep latency
+sedatives	reduce	muscle tension
+hypnotics	increase	sleep duration
+sedatives	increase	relaxation
+hypnotics	belong to	benzodiazepines
+sedatives	belong to	barbiturates
+hypnotics	belong to	non‑benzodiazepine hypnotics
+sedatives	belong to	alpha‑2 agonists
+hypnotics	are	prescription drugs
+sedatives	are	prescription drugs
+hypnotics	can cause	dependence
+sedatives	can cause	dependence
+hypnotics	can cause	withdrawal
+sedatives	can cause	withdrawal
+hypnotics	can cause	daytime sedation
+sedatives	can cause	daytime sedation
+hypnotics	can cause	memory impairment
+sedatives	can cause	memory impairment
+hypnotics	can cause	respiratory depression
+sedatives	can cause	respiratory depression
+hypnotics	are	GABA‑A agonists
+sedatives	are	GABA‑A agonists
+hypnotics	are	GABA‑B agonists
+sedatives	are	GABA‑B agonists
+hypnotics	are	melatonin receptor agonists
+sedatives	are	melatonin receptor agonists
+hypnotics	are	orexin antagonists
+sedatives	are	orexin antagonists
+hypnotics	are	antihistamines
+sedatives	are	antihistamines
+hypnotics	are	anticholinergics
+sedatives	are	anticholinergics
+hypnotics	are	antihypertensives
+sedatives	are	antihypertensives
+hypnotics	are	antipsychotics
+sedatives	are	antipsychotics
+hypnotics	are	antidepressants
+sedatives	are	antidepressants
+hypnotics	are	anticonvulsants
+sedatives	are	anticonvulsants
+hypnotics	are	analgesics
+sedatives	are	analgesics
+hypnotics	are	anti‑emetics
+sedatives	are	anti‑emetics
+hypnotics	are	anti‑inflammatory drugs
+sedatives	are	anti‑inflammatory drugs
+hypnotics	are	anti‑arrhythmics
+sedatives	are	anti‑arrhythmics
+hypnotics	are	anti‑epileptics
+sedatives	are	anti‑epileptics
+hypnotics	are	anti‑depressants
+sedatives	are	anti‑depressants
+hypnotics	are	anti‑psychotics
+sedatives	are	anti‑psychotics
+hypnotics	are	anti‑inflammatory agents
+sedatives	are	anti‑inflammatory agents
+hypnotics	are	anti‑arrhythmic agents
+sedatives	are	anti‑arrhythmic agents
+hypnotics	are	anti‑epileptic agents
+sedatives	are	anti‑epileptic agents
+hypnotics	are	anti‑depressant agents
+sedatives	are	anti‑depressant agents
+hypnotics	are	anti‑psychotic agents
+sedatives	are	anti‑psychotic agents
+hypnotics	are	anti‑inflammatory agent
+sedatives	are	anti‑inflammatory agent
+hypnotics	are	anti‑arrhythmic agent
+sedatives	are	anti‑arrhythmic agent
+hypnotics	are	anti‑epileptic agent
+sedatives	are	anti‑epileptic agent
+hypnotics	are	anti‑depressant agent
+sedatives	are	anti‑depressant agent
+hypnotics	are	anti‑psychotic agent
+sedatives	are	anti‑psychotic agent
+hypnotics	are	anti‑inflammatory
+sedatives	are	anti‑inflammatory
+hypnotics	are	anti‑arrhythmic
+sedatives	are	anti‑arrhythmic
+hypnotics	are	anti‑epileptic
+sedatives	are	anti‑epileptic
+hypnotics	are	anti‑depressant
+sedatives	are	anti‑depressant
+hypnotics	are	anti‑psychotic
+sedatives	are	anti‑psychotic
+hypnotics	are	anti‑inflammatory drugs
+sedatives	are	anti‑inflammatory drugs
+hypnotics	are	anti‑arrhythmic drugs
+sedatives	are	anti‑arrhythmic drugs
+hypnotics	are	anti‑epileptic drugs
+sedatives	are	anti‑epileptic drugs
+hypnotics	are	anti‑depressant drugs
+sedatives	are	anti‑depressant drugs
+hypnotics	are	anti‑psychotic drugs
+sedatives	are	anti‑psychotic drugs
+hypnotics	are	anti‑inflammatory agent
+sedatives	are	anti‑inflammatory agent

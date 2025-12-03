@@ -1,0 +1,100 @@
+mastoidectomy	is a	surgical procedure
+mastoidectomy	treats	chronic otitis media
+mastoidectomy	treats	cholesteatoma
+mastoidectomy	treats	mastoiditis
+mastoidectomy	treats	labyrinthitis
+mastoidectomy	treats	vertigo
+mastoidectomy	treats	hearing loss
+mastoidectomy	treats	tinnitus
+mastoidectomy	treats	facial nerve paralysis
+mastoidectomy	treats	intracranial abscess
+mastoidectomy	prevents	meningitis
+mastoidectomy	prevents	brain abscess
+mastoidectomy	prevents	hearing deterioration
+mastoidectomy	prevents	vertigo recurrence
+mastoidectomy	prevents	facial nerve damage
+mastoidectomy	requires	general anesthesia
+mastoidectomy	requires	postoperative antibiotics
+mastoidectomy	requires	tympanoplasty
+mastoidectomy	requires	hearing aid
+mastoidectomy	requires	vestibular rehabilitation
+mastoidectomy	requires	facial nerve monitoring
+mastoidectomy	requires	intraoperative imaging
+mastoidectomy	requires	blood transfusion
+mastoidectomy	requires	surgical team
+mastoidectomy	requires	preoperative imaging
+mastoidectomy	requires	patient consent
+mastoidectomy	performed by	otolaryngologist
+mastoidectomy	performed by	neurosurgeon
+mastoidectomy	performed by	anesthesiologist
+mastoidectomy	performed by	surgical nurse
+mastoidectomy	performed by	resident
+mastoidectomy	performed by	fellow
+mastoidectomy	performed by	assistant
+mastoidectomy	performed on	adult
+mastoidectomy	performed on	pediatric
+mastoidectomy	performed on	elderly
+mastoidectomy	performed on	patient with diabetes
+mastoidectomy	performed on	patient with hypertension
+mastoidectomy	performed on	patient with anemia
+mastoidectomy	performed on	patient with immunosuppression
+mastoidectomy	performed on	patient with coagulation disorder
+mastoidectomy	performed on	patient with obesity
+mastoidectomy	performed on	patient with smoking history
+mastoidectomy	performed on	patient with prior ear surgery
+mastoidectomy	performed on	patient with cranial trauma
+mastoidectomy	performed on	patient with skull base tumor
+mastoidectomy	performed on	patient with congenital ear anomaly
+mastoidectomy	performed on	patient with autoimmune disease
+mastoidectomy	performed on	patient with cholesteatoma
+mastoidectomy	performed on	patient with mastoiditis
+mastoidectomy	performed on	patient with otitis media
+mastoidectomy	performed on	patient with vertigo
+mastoidectomy	performed on	patient with facial paralysis
+mastoidectomy	performed on	patient with hearing loss
+mastoidectomy	performed on	patient with tinnitus
+mastoidectomy	performed on	patient with intracranial infection
+mastoidectomy	performed on	patient with brain abscess
+mastoidectomy	performed on	patient with meningitis
+mastoidectomy	performed on	patient with labyrinthitis
+mastoidectomy	performed on	patient with vestibular dysfunction
+mastoidectomy	performed on	patient with facial nerve dysfunction
+mastoidectomy	performed on	patient with cranial nerve palsy
+mastoidectomy	performed on	patient with skull base erosion
+mastoidectomy	performed on	patient with bone loss
+mastoidectomy	performed on	patient with ossicular chain disruption
+mastoidectomy	performed on	patient with tympanic membrane perforation
+mastoidectomy	performed on	patient with middle ear effusion
+mastoidectomy	performed on	patient with chronic ear discharge
+mastoidectomy	performed on	patient with ear pain
+mastoidectomy	performed on	patient with ear swelling
+mastoidectomy	performed on	patient with ear infection
+mastoidectomy	performed on	patient with ear trauma
+mastoidectomy	performed on	patient with ear tumor
+mastoidectomy	performed on	patient with ear cyst
+mastoidectomy	performed on	patient with ear polyp
+mastoidectomy	performed on	patient with ear granuloma
+mastoidectomy	performed on	patient with ear abscess
+mastoidectomy	performed on	patient with ear necrosis
+mastoidectomy	performed on	patient with ear cellulitis
+mastoidectomy	performed on	patient with ear edema
+mastoidectomy	performed on	patient with ear inflammation
+mastoidectomy	performed on	patient with ear infection history
+mastoidectomy	performed on	patient with ear surgery history
+mastoidectomy	performed on	patient with ear disease
+mastoidectomy	performed on	patient with ear pathology
+mastoidectomy	performed on	patient with ear disorder
+mastoidectomy	performed on	patient with ear condition
+mastoidectomy	performed on	patient with ear symptom
+mastoidectomy	performed on	patient with ear sign
+mastoidectomy	performed on	patient with ear complaint
+mastoidectomy	performed on	patient with ear problem
+mastoidectomy	performed on	patient with ear issue
+mastoidectomy	performed on	patient with ear disease
+mastoidectomy	performed on	patient with ear infection
+mastoidectomy	performed on	patient with ear inflammation
+mastoidectomy	performed on	patient with ear abscess
+mastoidectomy	performed on	patient with ear necrosis
+mastoidectomy	performed on	patient with ear cellulitis
+mastoidectomy	performed on	patient with ear edema
+mastoidectomy	performed on	patient with ear pathology

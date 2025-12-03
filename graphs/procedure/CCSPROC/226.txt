@@ -1,0 +1,602 @@
+radiology	is a	medical field
+diagnostic radiology	is a	radiology
+diagnostic radiology	uses	imaging
+imaging	includes	X‑ray
+imaging	includes	CT
+imaging	includes	MRI
+imaging	includes	PET
+imaging	includes	ultrasound
+X‑ray	is a	radiation imaging
+CT	is a	computed tomography
+MRI	is a	magnetic resonance imaging
+PET	is a	positron emission tomography
+ultrasound	is a	acoustic imaging
+CT	uses	ionizing radiation
+MRI	uses	magnetic field
+PET	uses	radioactive tracer
+ultrasound	uses	high‑frequency sound
+diagnostic radiology	provides	anatomical detail
+diagnostic radiology	provides	functional information
+diagnostic radiology	aids	disease detection
+disease detection	improves	patient outcomes
+diagnostic radiology	reduces	diagnostic uncertainty
+diagnostic radiology	informs	treatment planning
+diagnostic radiology	informs	surgical approach
+diagnostic radiology	informs	radiation therapy
+diagnostic radiology	informs	chemotherapy
+diagnostic radiology	informs	clinical trials
+diagnostic radiology	informs	prognosis
+diagnostic radiology	informs	risk stratification
+diagnostic radiology	informs	follow‑up
+diagnostic radiology	informs	monitoring
+diagnostic radiology	informs	disease progression
+diagnostic radiology	informs	recurrence detection
+diagnostic radiology	informs	treatment response
+diagnostic radiology	informs	quality of life
+diagnostic radiology	informs	cost‑effectiveness
+diagnostic radiology	informs	health‑system planning
+diagnostic radiology	informs	policy
+diagnostic radiology	informs	guideline development
+diagnostic radiology	informs	reimbursement
+diagnostic radiology	informs	patient education
+diagnostic radiology	informs	shared decision‑making
+diagnostic radiology	informs	clinical workflow
+diagnostic radiology	informs	triage
+diagnostic radiology	informs	emergency care
+diagnostic radiology	informs	outpatient care
+diagnostic radiology	informs	inpatient care
+diagnostic radiology	informs	surgical scheduling
+diagnostic radiology	informs	anesthesia planning
+diagnostic radiology	informs	peri‑operative monitoring
+diagnostic radiology	informs	post‑operative surveillance
+diagnostic radiology	informs	rehabilitation
+diagnostic radiology	informs	palliative care
+diagnostic radiology	informs	end‑of‑life decisions
+diagnostic radiology	informs	caregiver support
+diagnostic radiology	informs	health‑literacy
+diagnostic radiology	informs	patient‑reported outcomes
+diagnostic radiology	informs	clinical research
+diagnostic radiology	informs	biomarker discovery
+diagnostic radiology	informs	precision medicine
+diagnostic radiology	informs	personalized therapy
+diagnostic radiology	informs	drug development
+diagnostic radiology	informs	clinical trial design
+diagnostic radiology	informs	endpoint selection
+diagnostic radiology	informs	sample size calculation
+diagnostic radiology	informs	statistical analysis
+diagnostic radiology	informs	regulatory approval
+diagnostic radiology	informs	post‑marketing surveillance
+diagnostic radiology	informs	pharmacovigilance
+diagnostic radiology	informs	adverse event monitoring
+diagnostic radiology	informs	safety assessment
+diagnostic radiology	informs	efficacy assessment
+diagnostic radiology	informs	dose optimization
+diagnostic radiology	informs	therapeutic index
+diagnostic radiology	informs	drug‑drug interaction
+diagnostic radiology	informs	pharmacokinetics
+diagnostic radiology	informs	pharmacodynamics
+diagnostic radiology	informs	biomarker validation
+diagnostic radiology	informs	imaging genetics
+diagnostic radiology	informs	radiogenomics
+diagnostic radiology	informs	radiomics
+diagnostic radiology	informs	artificial intelligence
+diagnostic radiology	informs	machine learning
+diagnostic radiology	informs	deep learning
+diagnostic radiology	informs	computer vision
+diagnostic radiology	informs	image segmentation
+diagnostic radiology	informs	disease classification
+diagnostic radiology	informs	risk prediction
+diagnostic radiology	informs	clinical decision support
+diagnostic radiology	informs	workflow automation
+diagnostic radiology	informs	tele‑radiology
+diagnostic radiology	informs	remote consultation
+diagnostic radiology	informs	patient triage
+diagnostic radiology	informs	resource allocation
+diagnostic radiology	informs	health‑care economics
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	budget impact
+diagnostic radiology	informs	value assessment
+diagnostic radiology	informs	health‑technology assessment
+diagnostic radiology	informs	reimbursement policy
+diagnostic radiology	informs	payer decisions
+diagnostic radiology	informs	provider incentives
+diagnostic radiology	informs	quality metrics
+diagnostic radiology	informs	performance measurement
+diagnostic radiology	informs	accreditation
+diagnostic radiology	informs	accreditation standards
+diagnostic radiology	informs	safety protocols
+diagnostic radiology	informs	radiation safety
+diagnostic radiology	informs	dose reduction
+diagnostic radiology	informs	image quality
+diagnostic radiology	informs	noise reduction
+diagnostic radiology	informs	contrast enhancement
+diagnostic radiology	informs	artifact mitigation
+diagnostic radiology	informs	image reconstruction
+diagnostic radiology	informs	image registration
+diagnostic radiology	informs	multimodal fusion
+diagnostic radiology	informs	data integration
+diagnostic radiology	informs	electronic health record
+diagnostic radiology	informs	data interoperability
+diagnostic radiology	informs	health informatics
+diagnostic radiology	informs	big data
+diagnostic radiology	informs	data analytics
+diagnostic radiology	informs	predictive modeling
+diagnostic radiology	informs	outcome prediction
+diagnostic radiology	informs	mortality prediction
+diagnostic radiology	informs	readmission prediction
+diagnostic radiology	informs	length‑of‑stay prediction
+diagnostic radiology	informs	complication prediction
+diagnostic radiology	informs	adverse event prediction
+diagnostic radiology	informs	treatment response prediction
+diagnostic radiology	informs	survival prediction
+diagnostic radiology	informs	disease recurrence prediction
+diagnostic radiology	informs	therapy selection
+diagnostic radiology	informs	drug recommendation
+diagnostic radiology	informs	surgical candidacy
+diagnostic radiology	informs	organ‑function assessment
+diagnostic radiology	informs	staging
+diagnostic radiology	informs	grading
+diagnostic radiology	informs	biomarker imaging
+diagnostic radiology	informs	theranostics
+diagnostic radiology	informs	targeted therapy
+diagnostic radiology	informs	clinical trial eligibility
+diagnostic radiology	informs	patient stratification
+diagnostic radiology	informs	precision oncology
+diagnostic radiology	informs	cardiovascular risk assessment
+diagnostic radiology	informs	pulmonary function assessment
+diagnostic radiology	informs	musculoskeletal evaluation
+diagnostic radiology	informs	neuroimaging
+diagnostic radiology	informs	neurodegenerative disease detection
+diagnostic radiology	informs	stroke assessment
+diagnostic radiology	informs	trauma evaluation
+diagnostic radiology	informs	infection detection
+diagnostic radiology	informs	oncology staging
+diagnostic radiology	informs	infection imaging
+diagnostic radiology	informs	inflammatory disease imaging
+diagnostic radiology	informs	autoimmune disease imaging
+diagnostic radiology	informs	metabolic disease imaging
+diagnostic radiology	informs	endocrine disease imaging
+diagnostic radiology	informs	gastrointestinal disease imaging
+diagnostic radiology	informs	genitourinary disease imaging
+diagnostic radiology	informs	musculoskeletal disease imaging
+diagnostic radiology	informs	dermatologic disease imaging
+diagnostic radiology	informs	ocular disease imaging
+diagnostic radiology	informs	ENT disease imaging
+diagnostic radiology	informs	pediatric imaging
+diagnostic radiology	informs	geriatric imaging
+diagnostic radiology	informs	obstetric imaging
+diagnostic radiology	informs	prenatal imaging
+diagnostic radiology	informs	fetal imaging
+diagnostic radiology	informs	neonatal imaging
+diagnostic radiology	informs	oncology imaging
+diagnostic radiology	informs	radiotherapy planning
+diagnostic radiology	informs	brachytherapy planning
+diagnostic radiology	informs	image‑guided therapy
+diagnostic radiology	informs	interventional radiology
+diagnostic radiology	informs	minimally invasive procedures
+diagnostic radiology	informs	catheterization
+diagnostic radiology	informs	embolization
+diagnostic radiology	informs	ablation
+diagnostic radiology	informs	drainage
+diagnostic radiology	informs	biopsy
+diagnostic radiology	informs	stenting
+diagnostic radiology	informs	vascular access
+diagnostic radiology	informs	endovascular therapy
+diagnostic radiology	informs	neurointervention
+diagnostic radiology	informs	cardiac intervention
+diagnostic radiology	informs	orthopedic intervention
+diagnostic radiology	informs	oncology intervention
+diagnostic radiology	informs	pain management
+diagnostic radiology	informs	palliative intervention
+diagnostic radiology	informs	surgical navigation
+diagnostic radiology	informs	robotic surgery
+diagnostic radiology	informs	image fusion
+diagnostic radiology	informs	augmented reality
+diagnostic radiology	informs	virtual reality
+diagnostic radiology	informs	simulation
+diagnostic radiology	informs	training
+diagnostic radiology	informs	competency assessment
+diagnostic radiology	informs	credentialing
+diagnostic radiology	informs	quality improvement
+diagnostic radiology	informs	patient safety
+diagnostic radiology	informs	error reduction
+diagnostic radiology	informs	diagnostic accuracy
+diagnostic radiology	informs	sensitivity
+diagnostic radiology	informs	specificity
+diagnostic radiology	informs	predictive value
+diagnostic radiology	informs	diagnostic odds ratio
+diagnostic radiology	informs	likelihood ratio
+diagnostic radiology	informs	receiver operating characteristic
+diagnostic radiology	informs	area under curve
+diagnostic radiology	informs	calibration
+diagnostic radiology	informs	validation
+diagnostic radiology	informs	external validation
+diagnostic radiology	informs	internal validation
+diagnostic radiology	informs	cross‑validation
+diagnostic radiology	informs	bootstrapping
+diagnostic radiology	informs	model updating
+diagnostic radiology	informs	model transportability
+diagnostic radiology	informs	model interpretability
+diagnostic radiology	informs	explainable AI
+diagnostic radiology	informs	fairness
+diagnostic radiology	informs	bias mitigation
+diagnostic radiology	informs	transparency
+diagnostic radiology	informs	reproducibility
+diagnostic radiology	informs	generalizability
+diagnostic radiology	informs	clinical utility
+diagnostic radiology	informs	decision curve analysis
+diagnostic radiology	informs	net benefit
+diagnostic radiology	informs	cost‑utility
+diagnostic radiology	informs	cost‑benefit
+diagnostic radiology	informs	budget impact
+diagnostic radiology	informs	health‑system impact
+diagnostic radiology	informs	patient outcomes
+diagnostic radiology	informs	survival
+diagnostic radiology	informs	quality of life
+diagnostic radiology	informs	functional status
+diagnostic radiology	informs	symptom relief
+diagnostic radiology	informs	satisfaction
+diagnostic radiology	informs	adherence
+diagnostic radiology	informs	compliance
+diagnostic radiology	informs	health‑care utilization
+diagnostic radiology	informs	readmission
+diagnostic radiology	informs	mortality
+diagnostic radiology	informs	complications
+diagnostic radiology	informs	adverse events
+diagnostic radiology	informs	healthcare costs
+diagnostic radiology	informs	resource use
+diagnostic radiology	informs	length of stay
+diagnostic radiology	informs	ICU admission
+diagnostic radiology	informs	emergency department visits
+diagnostic radiology	informs	outpatient visits
+diagnostic radiology	informs	surgical complications
+diagnostic radiology	informs	radiation exposure
+diagnostic radiology	informs	cumulative dose
+diagnostic radiology	informs	dose‑area product
+diagnostic radiology	informs	dose‑length product
+diagnostic radiology	informs	effective dose
+diagnostic radiology	informs	organ dose
+diagnostic radiology	informs	dose‑optimization protocols
+diagnostic radiology	informs	low‑dose CT
+diagnostic radiology	informs	dose‑reduction strategies
+diagnostic radiology	informs	iterative reconstruction
+diagnostic radiology	informs	photon‑counting CT
+diagnostic radiology	informs	MRI safety
+diagnostic radiology	informs	contrast‑enhanced MRI
+diagnostic radiology	informs	gadolinium deposition
+diagnostic radiology	informs	ultrasound safety
+diagnostic radiology	informs	Doppler imaging
+diagnostic radiology	informs	elastography
+diagnostic radiology	informs	contrast‑enhanced ultrasound
+diagnostic radiology	informs	imaging biomarkers
+diagnostic radiology	informs	radiographic staging
+diagnostic radiology	informs	CT‑guided biopsy
+diagnostic radiology	informs	MRI‑guided biopsy
+diagnostic radiology	informs	ultrasound‑guided biopsy
+diagnostic radiology	informs	PET‑CT staging
+diagnostic radiology	informs	PET‑MRI functional imaging
+diagnostic radiology	informs	hybrid imaging
+diagnostic radiology	informs	image‑guided therapy
+diagnostic radiology	informs	real‑time imaging
+diagnostic radiology	informs	intraoperative imaging
+diagnostic radiology	informs	navigation systems
+diagnostic radiology	informs	surgical planning
+diagnostic radiology	informs	robotic assistance
+diagnostic radiology	informs	minimally invasive surgery
+diagnostic radiology	informs	endovascular procedures
+diagnostic radiology	informs	interventional oncology
+diagnostic radiology	informs	image‑guided ablation
+diagnostic radiology	informs	embolization
+diagnostic radiology	informs	stenting
+diagnostic radiology	informs	drainage
+diagnostic radiology	informs	biopsy
+diagnostic radiology	informs	catheter placement
+diagnostic radiology	informs	vascular access
+diagnostic radiology	informs	cardiac interventions
+diagnostic radiology	informs	neurointerventions
+diagnostic radiology	informs	orthopedic interventions
+diagnostic radiology	informs	pain management
+diagnostic radiology	informs	palliative care
+diagnostic radiology	informs	radiation therapy planning
+diagnostic radiology	informs	brachytherapy planning
+diagnostic radiology	informs	dose painting
+diagnostic radiology	informs	adaptive radiotherapy
+diagnostic radiology	informs	image guidance
+diagnostic radiology	informs	stereotactic radiosurgery
+diagnostic radiology	informs	volumetric modulated arc therapy
+diagnostic radiology	informs	intensity‑modulated radiotherapy
+diagnostic radiology	informs	proton therapy
+diagnostic radiology	informs	carbon ion therapy
+diagnostic radiology	informs	radiobiology
+diagnostic radiology	informs	tumor microenvironment
+diagnostic radiology	informs	tumor heterogeneity
+diagnostic radiology	informs	imaging genetics
+diagnostic radiology	informs	radiogenomics
+diagnostic radiology	informs	radiomics
+diagnostic radiology	informs	feature extraction
+diagnostic radiology	informs	texture analysis
+diagnostic radiology	informs	shape analysis
+diagnostic radiology	informs	intensity analysis
+diagnostic radiology	informs	histogram analysis
+diagnostic radiology	informs	wavelet analysis
+diagnostic radiology	informs	deep learning
+diagnostic radiology	informs	convolutional neural networks
+diagnostic radiology	informs	transfer learning
+diagnostic radiology	informs	federated learning
+diagnostic radiology	informs	multi‑center studies
+diagnostic radiology	informs	data sharing
+diagnostic radiology	informs	privacy
+diagnostic radiology	informs	de‑identification
+diagnostic radiology	informs	consent
+diagnostic radiology	informs	ethics
+diagnostic radiology	informs	regulatory compliance
+diagnostic radiology	informs	FDA approval
+diagnostic radiology	informs	CE marking
+diagnostic radiology	informs	quality assurance
+diagnostic radiology	informs	accreditation
+diagnostic radiology	informs	peer review
+diagnostic radiology	informs	audit
+diagnostic radiology	informs	continuous improvement
+diagnostic radiology	informs	performance metrics
+diagnostic radiology	informs	benchmarking
+diagnostic radiology	informs	best practices
+diagnostic radiology	informs	guidelines
+diagnostic radiology	informs	consensus statements
+diagnostic radiology	informs	clinical pathways
+diagnostic radiology	informs	care bundles
+diagnostic radiology	informs	value‑based care
+diagnostic radiology	informs	bundled payment
+diagnostic radiology	informs	pay‑for‑performance
+diagnostic radiology	informs	quality‑adjusted life years
+diagnostic radiology	informs	incremental cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	health‑technology assessment
+diagnostic radiology	informs	budget impact analysis
+diagnostic radiology	informs	health‑care economics
+diagnostic radiology	informs	economic modeling
+diagnostic radiology	informs	cost‑minimization
+diagnostic radiology	informs	cost‑maximization
+diagnostic radiology	informs	cost‑effectiveness
+diagnostic radiology	informs	cost‑benefit
+diagnostic radiology	informs	cost‑utility
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier
+diagnostic radiology	informs	cost‑effectiveness analysis
+diagnostic radiology	informs	cost‑benefit analysis
+diagnostic radiology	informs	cost‑utility analysis
+diagnostic radiology	informs	cost‑effectiveness ratio
+diagnostic radiology	informs	cost‑benefit ratio
+diagnostic radiology	informs	cost‑utility ratio
+diagnostic radiology	informs	cost‑effectiveness threshold
+diagnostic radiology	informs	cost‑benefit threshold
+diagnostic radiology	informs	cost‑utility threshold
+diagnostic radiology	informs	cost‑effectiveness frontier
+diagnostic radiology	informs	cost‑benefit frontier
+diagnostic radiology	informs	cost‑utility frontier

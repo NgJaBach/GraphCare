@@ -1,0 +1,100 @@
+vitamin B12	is a	nutrient
+folic acid	is a	nutrient
+vitamin B12	required for	DNA synthesis
+folic acid	required for	DNA synthesis
+vitamin B12	required for	red blood cell formation
+folic acid	required for	red blood cell formation
+vitamin B12	deficiency causes	anemia
+folic acid	deficiency causes	anemia
+vitamin B12	deficiency causes	neuropathy
+folic acid	deficiency causes	neural tube defects
+vitamin B12	deficiency causes	cognitive decline
+folic acid	deficiency causes	cognitive decline
+vitamin B12	deficiency causes	depression
+folic acid	deficiency causes	depression
+vitamin B12	deficiency causes	fatigue
+folic acid	deficiency causes	fatigue
+vitamin B12	deficiency causes	memory loss
+folic acid	deficiency causes	memory loss
+vitamin B12	deficiency causes	impaired wound healing
+folic acid	deficiency causes	impaired wound healing
+vitamin B12	deficiency causes	elevated homocysteine
+folic acid	deficiency causes	elevated homocysteine
+vitamin B12	deficiency causes	increased cardiovascular risk
+folic acid	deficiency causes	increased cardiovascular risk
+vitamin B12	deficiency causes	increased stroke risk
+folic acid	deficiency causes	increased stroke risk
+vitamin B12	deficiency causes	increased dementia risk
+folic acid	deficiency causes	increased dementia risk
+vitamin B12	deficiency causes	increased pregnancy complications
+folic acid	deficiency causes	increased pregnancy complications
+vitamin B12	deficiency causes	increased miscarriage risk
+folic acid	deficiency causes	increased miscarriage risk
+vitamin B12	deficiency causes	increased preterm birth
+folic acid	deficiency causes	increased preterm birth
+vitamin B12	deficiency causes	increased low birth weight
+folic acid	deficiency causes	increased low birth weight
+vitamin B12	deficiency causes	increased neural tube defects
+folic acid	deficiency causes	increased neural tube defects
+vitamin B12	deficiency causes	increased congenital heart defects
+folic acid	deficiency causes	increased congenital heart defects
+vitamin B12	deficiency causes	increased spina bifida
+folic acid	deficiency causes	increased spina bifida
+vitamin B12	deficiency causes	increased anencephaly
+folic acid	deficiency causes	increased anencephaly
+vitamin B12	deficiency causes	increased cleft palate
+folic acid	deficiency causes	increased cleft palate
+vitamin B12	deficiency causes	increased growth retardation
+folic acid	deficiency causes	increased growth retardation
+vitamin B12	deficiency causes	increased developmental delay
+folic acid	deficiency causes	increased developmental delay
+vitamin B12	deficiency causes	increased microcephaly
+folic acid	deficiency causes	increased microcephaly
+vitamin B12	deficiency causes	increased macrocytosis
+folic acid	deficiency causes	increased macrocytosis
+vitamin B12	deficiency causes	increased megaloblastic anemia
+folic acid	deficiency causes	increased megaloblastic anemia
+vitamin B12	deficiency causes	increased homocysteine
+folic acid	deficiency causes	increased homocysteine
+vitamin B12	deficiency causes	increased methylmalonic acid
+folic acid	deficiency causes	increased methylmalonic acid
+vitamin B12	deficiency causes	increased methylation defects
+folic acid	deficiency causes	increased methylation defects
+vitamin B12	deficiency causes	increased oxidative stress
+folic acid	deficiency causes	increased oxidative stress
+vitamin B12	deficiency causes	increased inflammation
+folic acid	deficiency causes	increased inflammation
+vitamin B12	deficiency causes	increased risk of Alzheimer’s
+folic acid	deficiency causes	increased risk of Alzheimer’s
+vitamin B12	deficiency causes	increased risk of Parkinson’s
+folic acid	deficiency causes	increased risk of Parkinson’s
+vitamin B12	deficiency causes	increased risk of multiple sclerosis
+folic acid	deficiency causes	increased risk of multiple sclerosis
+vitamin B12	deficiency causes	increased risk of depression
+folic acid	deficiency causes	increased risk of depression
+vitamin B12	deficiency causes	increased risk of anxiety
+folic acid	deficiency causes	increased risk of anxiety
+vitamin B12	deficiency causes	increased risk of suicide
+folic acid	deficiency causes	increased risk of suicide
+vitamin B12	deficiency causes	increased risk of heart failure
+folic acid	deficiency causes	increased risk of heart failure
+vitamin B12	deficiency causes	increased risk of atrial fibrillation
+folic acid	deficiency causes	increased risk of atrial fibrillation
+vitamin B12	deficiency causes	increased risk of hypertension
+folic acid	deficiency causes	increased risk of hypertension
+vitamin B12	deficiency causes	increased risk of stroke
+folic acid	deficiency causes	increased risk of stroke
+vitamin B12	deficiency causes	increased risk of cancer
+folic acid	deficiency causes	increased risk of cancer
+vitamin B12	deficiency causes	increased risk of colorectal cancer
+folic acid	deficiency causes	increased risk of colorectal cancer
+vitamin B12	deficiency causes	increased risk of breast cancer
+folic acid	deficiency causes	increased risk of breast cancer
+vitamin B12	deficiency causes	increased risk of prostate cancer
+folic acid	deficiency causes	increased risk of prostate cancer
+vitamin B12	deficiency causes	increased risk of lung cancer
+folic acid	deficiency causes	increased risk of lung cancer
+vitamin B12	deficiency causes	increased risk of liver disease
+folic acid	deficiency causes	increased risk of liver disease
+vitamin B12	deficiency causes	increased risk of kidney disease
+folic acid	deficiency causes	increased risk of kidney disease

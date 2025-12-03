@@ -1,0 +1,100 @@
+colonoscopy	is a	diagnostic procedure
+colonoscopy	examines	colon
+colonoscopy	detects	polyps
+colonoscopy	detects	colorectal cancer
+colonoscopy	requires	bowel prep
+colonoscopy	can cause	perforation
+colonoscopy	can cause	bleeding
+colonoscopy	is performed	outpatient
+colonoscopy	uses	sedation
+colonoscopy	uses	flexible scope
+colonoscopy	can be followed by	polypectomy
+colonoscopy	can be followed by	biopsy
+colonoscopy	is indicated for	screening
+colonoscopy	is indicated for	surveillance
+colonoscopy	is indicated for	evaluation of symptoms
+colonoscopy	is contraindicated in	severe diverticulitis
+colonoscopy	is contraindicated in	uncontrolled bleeding
+colonoscopy	is contraindicated in	severe cardiopulmonary disease
+colonoscopy	is recommended for	patients >50 years
+colonoscopy	is recommended for	patients with family history
+sigmoidoscopy	is a	diagnostic procedure
+sigmoidoscopy	examines	rectum and sigmoid colon
+sigmoidoscopy	detects	rectal cancer
+sigmoidoscopy	detects	inflammatory bowel disease
+sigmoidoscopy	requires	minimal bowel prep
+sigmoidoscopy	can cause	perforation
+sigmoidoscopy	can cause	bleeding
+sigmoidoscopy	is performed	outpatient
+sigmoidoscopy	uses	rigid scope
+sigmoidoscopy	can be followed by	biopsy
+sigmoidoscopy	is indicated for	screening
+sigmoidoscopy	is indicated for	surveillance
+sigmoidoscopy	is indicated for	evaluation of symptoms
+sigmoidoscopy	is contraindicated in	severe diverticulitis
+sigmoidoscopy	is contraindicated in	uncontrolled bleeding
+sigmoidoscopy	is contraindicated in	severe cardiopulmonary disease
+sigmoidoscopy	is recommended for	patients >50 years
+sigmoidoscopy	is recommended for	patients with family history
+capsule endoscopy	is a	diagnostic procedure
+capsule endoscopy	examines	small intestine
+capsule endoscopy	detects	obscure GI bleeding
+capsule endoscopy	detects	small bowel tumors
+capsule endoscopy	requires	no bowel prep
+capsule endoscopy	can cause	capsule retention
+capsule endoscopy	is performed	outpatient
+capsule endoscopy	uses	ingestible camera
+capsule endoscopy	can be followed by	enteroscopy
+capsule endoscopy	is indicated for	obscure bleeding
+capsule endoscopy	is indicated for	Crohn disease
+capsule endoscopy	is contraindicated in	strictures
+capsule endoscopy	is contraindicated in	swallowing disorders
+capsule endoscopy	is recommended for	patients >50 years
+capsule endoscopy	is recommended for	patients with anemia
+CT enterography	is a	diagnostic procedure
+CT enterography	examines	small intestine
+CT enterography	detects	Crohn disease
+CT enterography	detects	small bowel obstruction
+CT enterography	requires	oral contrast
+CT enterography	requires	IV contrast
+CT enterography	can cause	radiation exposure
+CT enterography	can cause	contrast allergy
+CT enterography	is performed	inpatient
+CT enterography	uses	CT scanner
+CT enterography	is indicated for	Crohn disease
+CT enterography	is indicated for	small bowel obstruction
+CT enterography	is contraindicated in	renal insufficiency
+CT enterography	is contraindicated in	pregnancy
+CT enterography	is recommended for	patients with suspected Crohn
+MRI enterography	is a	diagnostic procedure
+MRI enterography	examines	small intestine
+MRI enterography	detects	Crohn disease
+MRI enterography	detects	small bowel tumors
+MRI enterography	requires	oral contrast
+MRI enterography	requires	IV contrast
+MRI enterography	can cause	contrast reaction
+MRI enterography	can cause	claustrophobia
+MRI enterography	is performed	outpatient
+MRI enterography	uses	MRI scanner
+MRI enterography	is indicated for	Crohn disease
+MRI enterography	is contraindicated in	pacemaker
+MRI enterography	is contraindicated in	pregnancy
+MRI enterography	is recommended for	patients with Crohn
+barium enema	is a	diagnostic procedure
+barium enema	examines	colon
+barium enema	detects	diverticulosis
+barium enema	detects	colorectal cancer
+barium enema	requires	barium contrast
+barium enema	can cause	constipation
+barium enema	can cause	allergic reaction
+barium enema	is performed	outpatient
+barium enema	uses	radiography
+barium enema	is indicated for	suspected diverticulosis
+barium enema	is contraindicated in	bowel obstruction
+barium enema	is contraindicated in	severe constipation
+barium enema	is recommended for	patients with suspected diverticulosis
+flexible sigmoidoscopy	is a	diagnostic procedure
+flexible sigmoidoscopy	examines	rectum and sigmoid colon
+flexible sigmoidoscopy	detects	rectal cancer
+flexible sigmoidoscopy	detects	inflammatory bowel disease
+flexible sigmoidoscopy	requires	minimal bowel prep

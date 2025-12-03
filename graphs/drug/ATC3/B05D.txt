@@ -1,0 +1,100 @@
+peritoneal dialysis	is a	renal replacement
+peritoneal dialysis	treats	end‑stage kidney disease
+peritoneal dialysis	uses	peritoneal membrane
+peritoneal dialysis	involves	dialysate
+dialysate	contains	sodium
+dialysate	contains	glucose
+dialysate	contains	lactate
+dialysate	contains	bicarbonate
+dialysate	can be	hypertonic
+dialysate	can be	isotonic
+dialysate	can be	hypotonic
+peritoneal dialysis	performed	at home
+peritoneal dialysis	performed	in hospital
+peritoneal dialysis	requires	catheter
+catheter	inserted	surgically
+catheter	can be	Tenckhoff
+catheter	can be	non‑Tenckhoff
+peritoneal dialysis	has	CAPD
+peritoneal dialysis	has	APD
+CAPD	uses	manual exchanges
+APD	uses	automated machine
+APD	uses	cycler
+peritoneal dialysis	reduces	hospitalization
+peritoneal dialysis	reduces	infection risk
+peritoneal dialysis	increases	quality of life
+peritoneal dialysis	can cause	peritonitis
+peritonitis	is a	catheter infection
+peritonitis	treated with	antibiotics
+peritonitis	can lead to	catheter removal
+peritoneal dialysis	can cause	exit‑site infection
+exit‑site infection	treated with	topical antibiotics
+peritoneal dialysis	can cause	mechanical complications
+mechanical complications	include	catheter obstruction
+mechanical complications	include	catheter migration
+peritoneal dialysis	can cause	hernia
+hernia	treated with	surgical repair
+peritoneal dialysis	can cause	fluid overload
+fluid overload	treated with	ultrafiltration
+peritoneal dialysis	can cause	electrolyte imbalance
+electrolyte imbalance	includes	hyperkalemia
+electrolyte imbalance	includes	hypocalcemia
+peritoneal dialysis	can cause	glucose toxicity
+glucose toxicity	leads to	insulin resistance
+peritoneal dialysis	can cause	weight gain
+weight gain	due to	hypertonic dialysate
+peritoneal dialysis	can cause	abdominal discomfort
+abdominal discomfort	treated with	analgesics
+peritoneal dialysis	can cause	peritoneal sclerosis
+peritoneal sclerosis	leads to	dialysis failure
+dialysis failure	requires	transition to hemodialysis
+peritoneal dialysis	can improve	blood pressure control
+blood pressure control	improves	cardiovascular risk
+peritoneal dialysis	can reduce	anemia
+anemia	treated with	erythropoiesis‑stimulating agents
+peritoneal dialysis	can reduce	bone disease
+bone disease	treated with	vitamin D analogs
+peritoneal dialysis	can reduce	metabolic acidosis
+metabolic acidosis	treated with	bicarbonate
+peritoneal dialysis	can reduce	hyperphosphatemia
+hyperphosphatemia	treated with	phosphate binders
+peritoneal dialysis	can reduce	uremic pruritus
+uremic pruritus	treated with	antihistamines
+peritoneal dialysis	can reduce	fluid retention
+fluid retention	treated with	diuretics
+peritoneal dialysis	can reduce	hospitalization cost
+hospitalization cost	reduced by	home therapy
+peritoneal dialysis	can reduce	travel burden
+travel burden	reduced by	self‑care
+peritoneal dialysis	can improve	dietary flexibility
+dietary flexibility	improves	patient satisfaction
+peritoneal dialysis	can improve	sleep quality
+sleep quality	improves	overall health
+peritoneal dialysis	can improve	mental health
+mental health	improves	depression scores
+peritoneal dialysis	can improve	independence
+independence	measured by	activity of daily living
+peritoneal dialysis	can improve	exercise tolerance
+exercise tolerance	measured by	6‑minute walk
+peritoneal dialysis	can improve	cardiac output
+cardiac output	measured by	echocardiography
+peritoneal dialysis	can improve	pulmonary function
+pulmonary function	measured by	spirometry
+peritoneal dialysis	can improve	nutritional status
+nutritional status	measured by	albumin
+peritoneal dialysis	can improve	serum creatinine
+serum creatinine	decreases	with dialysis
+peritoneal dialysis	can improve	urea clearance
+urea clearance	measured by	Kt/V
+peritoneal dialysis	can improve	beta‑2 microglobulin clearance
+beta‑2 microglobulin clearance	reduces	amyloidosis
+peritoneal dialysis	can improve	quality‑adjusted life years
+quality‑adjusted life years	increases	with home therapy
+peritoneal dialysis	can improve	cost‑effectiveness
+cost‑effectiveness	evaluated by	incremental cost‑utility ratio
+peritoneal dialysis	can improve	patient‑reported outcomes
+patient‑reported outcomes	measured by	KDQOL‑SF
+peritoneal dialysis	can improve	adherence
+adherence	measured by	exchange logs
+peritoneal dialysis	can improve	survival
+survival	compared to	hemodialysis

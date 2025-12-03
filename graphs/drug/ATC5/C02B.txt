@@ -1,0 +1,100 @@
+antiadrenergic agents	block	adrenergic receptors
+antiadrenergic agents	inhibit	sympathetic transmission
+antiadrenergic agents	used for	hypertension
+antiadrenergic agents	used for	arrhythmia
+antiadrenergic agents	used for	angina
+antiadrenergic agents	used for	heart failure
+antiadrenergic agents	used for	glaucoma
+antiadrenergic agents	used for	migraine
+antiadrenergic agents	used for	asthma
+antiadrenergic agents	used for	anxiety
+antiadrenergic agents	cause	orthostatic hypotension
+antiadrenergic agents	cause	tachycardia
+antiadrenergic agents	cause	dry mouth
+antiadrenergic agents	cause	blurred vision
+antiadrenergic agents	cause	constipation
+antiadrenergic agents	cause	urinary retention
+antiadrenergic agents	cause	sexual dysfunction
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation
+antiadrenergic agents	contraindicated in	severe renal impairment
+antiadrenergic agents	contraindicated in	severe hepatic impairment
+antiadrenergic agents	contraindicated in	asthma
+antiadrenergic agents	contraindicated in	glaucoma
+antiadrenergic agents	contraindicated in	orthostatic hypotension
+antiadrenergic agents	contraindicated in	tachycardia
+antiadrenergic agents	contraindicated in	heart block
+antiadrenergic agents	contraindicated in	pregnancy
+antiadrenergic agents	contraindicated in	lactation

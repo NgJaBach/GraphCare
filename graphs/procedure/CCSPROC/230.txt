@@ -1,0 +1,100 @@
+extracorporeal shock wave	is a	medical therapy
+extracorporeal shock wave	uses	high‑energy sound
+extracorporeal shock wave	treats	musculoskeletal pain
+extracorporeal shock wave	treats	plantar fasciitis
+extracorporeal shock wave	treats	tennis elbow
+extracorporeal shock wave	treats	calcific tendinitis
+extracorporeal shock wave	treats	shoulder tendinopathy
+extracorporeal shock wave	treats	Achilles tendinopathy
+extracorporeal shock wave	treats	lateral epicondylitis
+extracorporeal shock wave	treats	medial epicondylitis
+extracorporeal shock wave	treats	patellar tendinopathy
+extracorporeal shock wave	treats	hamstring tendinopathy
+extracorporeal shock wave	treats	plantar fascia rupture
+extracorporeal shock wave	treats	osteoarthritis
+extracorporeal shock wave	treats	osteochondritis
+extracorporeal shock wave	treats	bone marrow edema
+extracorporeal shock wave	treats	non‑union fracture
+extracorporeal shock wave	treats	avascular necrosis
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	treats	avascular necrosis of femoral neck
+extracorporeal shock wave	treats	avascular necrosis of femoral head
+extracorporeal shock wave	treats	avascular necrosis of humeral head
+extracorporeal shock wave	treats	avascular necrosis of talus
+extracorporeal shock wave	treats	avascular necrosis of scaphoid
+extracorporeal shock wave	treats	avascular necrosis of metacarpal head
+extracorporeal shock wave	treats	avascular necrosis of phalanx
+extracorporeal shock wave	treats	avascular necrosis of metatarsal head
+extracorporeal shock wave	improves	bone healing
+extracorporeal shock wave	reduces	inflammation
+extracorporeal shock wave	increases	blood flow

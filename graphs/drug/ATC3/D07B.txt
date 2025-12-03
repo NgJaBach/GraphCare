@@ -1,0 +1,100 @@
+corticosteroids	reduce	inflammation
+corticosteroids	suppress	immune response
+corticosteroids	treat	allergic reactions
+corticosteroids	treat	asthma
+corticosteroids	treat	eczema
+corticosteroids	treat	rheumatoid arthritis
+corticosteroids	treat	psoriasis
+corticosteroids	treat	lupus
+corticosteroids	treat	graft-versus-host disease
+corticosteroids	treat	organ transplant rejection
+corticosteroids	treat	severe infections
+corticosteroids	cause	immunosuppression
+corticosteroids	cause	hyperglycemia
+corticosteroids	cause	osteoporosis
+corticosteroids	cause	weight gain
+corticosteroids	cause	mood swings
+corticosteroids	cause	increased infection risk
+corticosteroids	cause	adrenal suppression
+corticosteroids	cause	skin thinning
+corticosteroids	cause	cataracts
+corticosteroids	cause	glaucoma
+corticosteroids	cause	gastric ulcers
+corticosteroids	cause	hypertension
+corticosteroids	cause	insomnia
+corticosteroids	cause	increased appetite
+corticosteroids	cause	muscle weakness
+corticosteroids	cause	increased cortisol
+corticosteroids	cause	decreased wound healing
+corticosteroids	cause	increased blood pressure
+corticosteroids	cause	increased heart rate
+corticosteroids	cause	increased risk of sepsis
+corticosteroids	cause	increased risk of pneumonia
+corticosteroids	cause	increased risk of urinary tract infection
+corticosteroids	cause	increased risk of fungal infection
+corticosteroids	cause	increased risk of viral infection
+corticosteroids	cause	increased risk of bacterial infection
+corticosteroids	cause	increased risk of tuberculosis
+corticosteroids	cause	increased risk of herpes zoster
+corticosteroids	cause	increased risk of skin infection
+corticosteroids	cause	increased risk of surgical site infection
+corticosteroids	cause	increased risk of wound dehiscence
+corticosteroids	cause	increased risk of osteomyelitis
+corticosteroids	cause	increased risk of septic arthritis
+corticosteroids	cause	increased risk of septic shock
+corticosteroids	cause	increased risk of septic emboli
+corticosteroids	cause	increased risk of septic thrombophlebitis
+corticosteroids	cause	increased risk of septic peritonitis
+corticosteroids	cause	increased risk of septic encephalitis
+corticosteroids	cause	increased risk of septic myocarditis
+corticosteroids	cause	increased risk of septic endocarditis
+corticosteroids	cause	increased risk of septic vasculitis
+corticosteroids	cause	increased risk of septic arthritis
+corticosteroids	cause	increased risk of septic osteitis
+corticosteroids	cause	increased risk of septic spondylitis
+corticosteroids	cause	increased risk of septic discitis
+corticosteroids	cause	increased risk of septic epidural abscess
+corticosteroids	cause	increased risk of septic meningitis
+corticosteroids	cause	increased risk of septic encephalopathy
+corticosteroids	cause	increased risk of septic shock
+corticosteroids	cause	increased risk of septic emboli
+corticosteroids	cause	increased risk of septic thrombosis
+corticosteroids	cause	increased risk of septic phlebitis
+corticosteroids	cause	increased risk of septic peritonitis
+corticosteroids	cause	increased risk of septic encephalitis
+corticosteroids	cause	increased risk of septic myocarditis
+corticosteroids	cause	increased risk of septic endocarditis
+corticosteroids	cause	increased risk of septic vasculitis
+corticosteroids	cause	increased risk of septic arthritis
+corticosteroids	cause	increased risk of septic osteitis
+corticosteroids	cause	increased risk of septic spondylitis
+corticosteroids	cause	increased risk of septic discitis
+corticosteroids	cause	increased risk of septic epidural abscess
+corticosteroids	cause	increased risk of septic meningitis
+corticosteroids	cause	increased risk of septic encephalopathy
+corticosteroids	cause	increased risk of septic shock
+corticosteroids	cause	increased risk of septic emboli
+corticosteroids	cause	increased risk of septic thrombosis
+corticosteroids	cause	increased risk of septic phlebitis
+corticosteroids	cause	increased risk of septic peritonitis
+corticosteroids	cause	increased risk of septic encephalitis
+corticosteroids	cause	increased risk of septic myocarditis
+corticosteroids	cause	increased risk of septic endocarditis
+corticosteroids	cause	increased risk of septic vasculitis
+corticosteroids	cause	increased risk of septic arthritis
+corticosteroids	cause	increased risk of septic osteitis
+corticosteroids	cause	increased risk of septic spondylitis
+corticosteroids	cause	increased risk of septic discitis
+corticosteroids	cause	increased risk of septic epidural abscess
+corticosteroids	cause	increased risk of septic meningitis
+corticosteroids	cause	increased risk of septic encephalopathy
+corticosteroids	cause	increased risk of septic shock
+corticosteroids	cause	increased risk of septic emboli
+corticosteroids	cause	increased risk of septic thrombosis
+corticosteroids	cause	increased risk of septic phlebitis
+corticosteroids	cause	increased risk of septic peritonitis
+corticosteroids	cause	increased risk of septic encephalitis
+corticosteroids	cause	increased risk of septic myocarditis
+corticosteroids	cause	increased risk of septic endocarditis
+corticosteroids	cause	increased risk of septic vasculitis
+corticosteroids	cause	increased risk of septic arthritis

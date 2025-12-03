@@ -1,0 +1,100 @@
+ascorbic acid	is a	vitamin
+ascorbic acid	is a	antioxidant
+ascorbic acid	is a	water‑soluble vitamin
+ascorbic acid	is a	nutrient
+ascorbic acid	is a	dietary supplement
+ascorbic acid	is a	pro‑vitamin
+ascorbic acid	is a	cofactor
+ascorbic acid	is a	precursor
+ascorbic acid	is a	regulator
+ascorbic acid	is a	therapeutic agent
+ascorbic acid	is a	drug
+ascorbic acid	is a	food additive
+ascorbic acid	is a	preservative
+ascorbic acid	is a	flavor enhancer
+ascorbic acid	is a	stabilizer
+ascorbic acid	is a	chelator
+ascorbic acid	is a	pro‑drug
+ascorbic acid	is a	nutraceutical
+ascorbic acid	is a	supplement
+ascorbic acid	is a	micronutrient
+ascorbic acid	is a	co‑enzyme
+ascorbic acid	is a	redox agent
+ascorbic acid	is a	pro‑oxidant
+ascorbic acid	is a	pro‑drug
+ascorbic acid	is a	therapeutic
+ascorbic acid	is used for	scurvy
+ascorbic acid	is used for	wound healing
+ascorbic acid	is used for	immune support
+ascorbic acid	is used for	antioxidant therapy
+ascorbic acid	is used for	iron absorption
+ascorbic acid	is used for	collagen synthesis
+ascorbic acid	is used for	anti‑inflammatory
+ascorbic acid	is used for	cardiovascular health
+ascorbic acid	is used for	cancer prevention
+ascorbic acid	is used for	radiation protection
+ascorbic acid	is used for	skin care
+ascorbic acid	is used for	eye health
+ascorbic acid	is used for	dental health
+ascorbic acid	is used for	bone health
+ascorbic acid	is used for	anemia treatment
+ascorbic acid	is used for	hypertension management
+ascorbic acid	is used for	stroke prevention
+ascorbic acid	is used for	infection control
+ascorbic acid	is used for	postoperative recovery
+ascorbic acid	is used for	chronic disease management
+ascorbic acid	is combined with	zinc
+ascorbic acid	is combined with	copper
+ascorbic acid	is combined with	selenium
+ascorbic acid	is combined with	vitamin E
+ascorbic acid	is combined with	beta‑carotene
+ascorbic acid	is combined with	folic acid
+ascorbic acid	is combined with	magnesium
+ascorbic acid	is combined with	calcium
+ascorbic acid	is combined with	iron
+ascorbic acid	is combined with	probiotics
+ascorbic acid	is combined with	omega‑3
+ascorbic acid	is combined with	melatonin
+ascorbic acid	is combined with	glucosamine
+ascorbic acid	is combined with	chondroitin
+ascorbic acid	is combined with	curcumin
+ascorbic acid	is combined with	quercetin
+ascorbic acid	is combined with	resveratrol
+ascorbic acid	is combined with	green tea extract
+ascorbic acid	is combined with	garlic extract
+ascorbic acid	is combined with	vitamin D
+ascorbic acid	is combined with	magnesium sulfate
+ascorbic acid	is combined with	potassium
+ascorbic acid	is combined with	sodium
+ascorbic acid	is combined with	niacin
+ascorbic acid	is combined with	riboflavin
+ascorbic acid	enhances	iron absorption
+ascorbic acid	enhances	collagen synthesis
+ascorbic acid	enhances	wound healing
+ascorbic acid	enhances	immune function
+ascorbic acid	enhances	antioxidant capacity
+ascorbic acid	enhances	skin elasticity
+ascorbic acid	enhances	DNA repair
+ascorbic acid	enhances	glutathione synthesis
+ascorbic acid	enhances	nitric oxide production
+ascorbic acid	enhances	platelet function
+ascorbic acid	reduces	oxidative stress
+ascorbic acid	reduces	inflammation
+ascorbic acid	reduces	risk of cardiovascular disease
+ascorbic acid	reduces	risk of stroke
+ascorbic acid	reduces	risk of cancer
+ascorbic acid	reduces	risk of cataracts
+ascorbic acid	reduces	risk of age‑related macular degeneration
+ascorbic acid	reduces	risk of hypertension
+ascorbic acid	reduces	risk of chronic kidney disease
+ascorbic acid	reduces	risk of osteoporosis
+ascorbic acid	is metabolized by	liver
+ascorbic acid	is excreted by	kidneys
+ascorbic acid	is absorbed by	small intestine
+ascorbic acid	is transported by	SVCT1
+ascorbic acid	is transported by	SVCT2
+ascorbic acid	is degraded by	oxidative enzymes
+ascorbic acid	is stored in	adrenal glands
+ascorbic acid	is stored in	kidneys
+ascorbic acid	is stored in	liver
+ascorbic acid	is stored in	spleen

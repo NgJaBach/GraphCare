@@ -1,0 +1,819 @@
+upper gastrointestinal endoscopy	is a	medical procedure
+upper gastrointestinal endoscopy	used for	diagnosis
+upper gastrointestinal endoscopy	used for	staging
+upper gastrointestinal endoscopy	used for	surveillance
+upper gastrointestinal endoscopy	performed with	endoscope
+upper gastrointestinal endoscopy	performed by	gastroenterologist
+upper gastrointestinal endoscopy	performed in	endoscopy suite
+upper gastrointestinal endoscopy	requires	sedation
+upper gastrointestinal endoscopy	requires	bowel preparation
+upper gastrointestinal endoscopy	can detect	ulcers
+upper gastrointestinal endoscopy	can detect	erosions
+upper gastrointestinal endoscopy	can detect	polyps
+upper gastrointestinal endoscopy	can detect	tumors
+upper gastrointestinal endoscopy	can detect	inflammation
+upper gastrointestinal endoscopy	can detect	varices
+upper gastrointestinal endoscopy	can detect	bleeding
+upper gastrointestinal endoscopy	can detect	strictures
+upper gastrointestinal endoscopy	can detect	reflux esophagitis
+upper gastrointestinal endoscopy	can detect	Barrett esophagus
+upper gastrointestinal endoscopy	can detect	gastric cancer
+upper gastrointestinal endoscopy	can detect	esophageal cancer
+upper gastrointestinal endoscopy	can detect	gastric ulcer
+upper gastrointestinal endoscopy	can detect	duodenal ulcer
+upper gastrointestinal endoscopy	can detect	gastric polyps
+upper gastrointestinal endoscopy	can detect	duodenal polyps
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	esophageal varices
+upper gastrointestinal endoscopy	can detect	portal hypertension
+upper gastrointestinal endoscopy	can detect	celiac disease
+upper gastrointestinal endoscopy	can detect	Crohn disease
+upper gastrointestinal endoscopy	can detect	ulcerative colitis
+upper gastrointestinal endoscopy	can detect	gastritis
+upper gastrointestinal endoscopy	can detect	esophagitis
+upper gastrointestinal endoscopy	can detect	gastric dysplasia
+upper gastrointestinal endoscopy	can detect	esophageal dysplasia
+upper gastrointestinal endoscopy	can detect	gastric atrophy
+upper gastrointestinal endoscopy	can detect	intestinal metaplasia
+upper gastrointestinal endoscopy	can detect	Helicobacter pylori
+upper gastrointestinal endoscopy	can detect	gastric hyperplasia
+upper gastrointestinal endoscopy	can detect	gastric adenoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	esophageal squamous cell carcinoma
+upper gastrointestinal endoscopy	can detect	esophageal adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	can detect	gastric carcinoid
+upper gastrointestinal endoscopy	can detect	gastric adenocarcinoma
+upper gastrointestinal endoscopy	can detect	gastric lymphoma
+upper gastrointestinal endoscopy	can detect	gastric stromal tumor
+upper gastrointestinal endoscopy	...

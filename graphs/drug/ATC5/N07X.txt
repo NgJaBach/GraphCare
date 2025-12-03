@@ -1,0 +1,100 @@
+antidepressant	is a	drug
+antidepressant	treats	depression
+antidepressant	blocks	serotonin reuptake
+antidepressant	may cause	weight gain
+antidepressant	contraindicated in	pregnancy
+antidepressant	interacts with	MAO inhibitors
+antidepressant	improves	sleep quality
+antidepressant	reduces	anxiety
+antidepressant	prescribed for	chronic pain
+antidepressant	metabolized by	CYP2D6
+antidepressant	side effect	sexual dysfunction
+antidepressant	dosage	titrated
+antidepressant	brand name	Prozac
+antidepressant	generic name	fluoxetine
+antidepressant	half‑life	4–6 days
+antidepressant	cost	moderate
+antidepressant	availability	oral
+antidepressant	contraindicated with	SSRIs
+antidepressant	used in	bipolar disorder
+antidepressant	improves	cognitive function
+antidepressant	reduces	suicide risk
+antidepressant	may cause	serotonin syndrome
+antidepressant	requires	baseline ECG
+antidepressant	recommended for	PTSD
+antidepressant	can be combined with	benzodiazepine
+antidepressant	monitored by	blood tests
+antidepressant	contraindicated in	liver disease
+antidepressant	used in	menopausal symptoms
+antidepressant	improves	appetite
+antidepressant	may cause	dry mouth
+antidepressant	used in	fibromyalgia
+antidepressant	interacts with	warfarin
+antidepressant	reduces	inflammation
+antidepressant	can be taken with	food
+antidepressant	contraindicated in	severe renal impairment
+antidepressant	used in	obsessive‑compulsive disorder
+antidepressant	improves	quality of life
+antidepressant	may cause	tremor
+antidepressant	contraindicated in	seizure disorder
+antidepressant	used in	eating disorders
+antidepressant	reduces	fatigue
+antidepressant	may cause	constipation
+antidepressant	contraindicated in	pregnancy category X
+antidepressant	used in	social anxiety
+antidepressant	improves	motivation
+antidepressant	may cause	nausea
+antidepressant	contraindicated in	lactation
+antidepressant	used in	chronic insomnia
+antidepressant	reduces	relapse
+antidepressant	may cause	headache
+antidepressant	contraindicated in	cardiac arrhythmia
+antidepressant	used in	pre‑operative anxiety
+antidepressant	improves	mood
+antidepressant	may cause	dizziness
+antidepressant	contraindicated in	severe hypertension
+antidepressant	used in	depression with psychosis
+antidepressant	reduces	suicidal ideation
+antidepressant	may cause	rash
+antidepressant	contraindicated in	thyroid disease
+antidepressant	used in	post‑traumatic stress
+antidepressant	improves	concentration
+antidepressant	may cause	blurred vision
+antidepressant	contraindicated in	pregnancy trimester 1
+antidepressant	used in	menopausal hot flashes
+antidepressant	reduces	depressive episodes
+antidepressant	may cause	insomnia
+antidepressant	contraindicated in	severe hepatic failure
+antidepressant	used in	anxiety‑related insomnia
+antidepressant	improves	sleep architecture
+antidepressant	may cause	weight loss
+antidepressant	contraindicated in	severe kidney disease
+antidepressant	used in	chronic low back pain
+antidepressant	reduces	pain perception
+antidepressant	may cause	agitation
+antidepressant	contraindicated in	severe anemia
+antidepressant	used in	chronic fatigue syndrome
+antidepressant	improves	energy level
+antidepressant	may cause	increased appetite
+antidepressant	contraindicated in	severe depression with psychosis
+antidepressant	used in	pre‑operative anxiety
+antidepressant	reduces	hospital readmission
+antidepressant	may cause	orthostatic hypotension
+antidepressant	contraindicated in	severe cardiovascular disease
+antidepressant	used in	depression with comorbid anxiety
+antidepressant	improves	functional status
+antidepressant	may cause	increased sweating
+antidepressant	contraindicated in	severe liver disease
+antidepressant	used in	depression with insomnia
+antidepressant	reduces	mortality
+antidepressant	may cause	constipation
+antidepressant	contraindicated in	severe renal impairment
+antidepressant	used in	depression with chronic illness
+antidepressant	improves	social functioning
+antidepressant	may cause	dry eyes
+antidepressant	contraindicated in	pregnancy after 12 weeks
+antidepressant	used in	depression with anxiety disorders
+antidepressant	reduces	relapse risk
+antidepressant	may cause	fatigue
+antidepressant	contraindicated in	severe cardiac arrhythmia
+antidepressant	used in	depression with chronic pain

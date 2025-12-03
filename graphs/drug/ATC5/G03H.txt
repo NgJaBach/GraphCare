@@ -1,0 +1,100 @@
+antiandrogen	inhibits	androgen receptors
+antiandrogen	blocks	testosterone action
+antiandrogen	used for	prostate cancer
+antiandrogen	used for	hirsutism
+antiandrogen	used for	acne
+antiandrogen	used for	androgenic alopecia
+antiandrogen	used for	gender dysphoria
+antiandrogen	reduces	PSA levels
+antiandrogen	reduces	tumor growth
+antiandrogen	causes	gynecomastia
+antiandrogen	causes	decreased libido
+antiandrogen	causes	hot flashes
+antiandrogen	causes	mood changes
+antiandrogen	causes	liver toxicity
+antiandrogen	metabolized by	CYP3A4
+antiandrogen	contraindicated in	pregnancy
+antiandrogen	contraindicated in	liver disease
+antiandrogen	contraindicated in	renal impairment
+antiandrogen	interacts with	anticoagulants
+antiandrogen	interacts with	statins
+antiandrogen	interacts with	CYP3A4 inhibitors
+antiandrogen	interacts with	CYP3A4 inducers
+antiandrogen	improves	bone density
+antiandrogen	improves	lipid profile
+antiandrogen	improves	insulin sensitivity
+antiandrogen	improves	cardiovascular risk
+antiandrogen	improves	quality of life
+antiandrogen	improves	sexual function in transgender women
+antiandrogen	improves	hair growth in women
+antiandrogen	improves	acne severity
+antiandrogen	improves	hirsutism score
+antiandrogen	improves	menstrual regularity
+antiandrogen	improves	ovarian cysts
+antiandrogen	improves	androgenic alopecia progression
+antiandrogen	improves	prostate volume
+antiandrogen	improves	PSA decline rate
+antiandrogen	improves	survival in prostate cancer
+antiandrogen	improves	progression‑free survival
+antiandrogen	improves	overall survival
+antiandrogen	improves	time to castration‑resistance
+antiandrogen	improves	bone metastasis control
+antiandrogen	improves	urinary symptoms
+antiandrogen	improves	erectile dysfunction in men
+antiandrogen	improves	sexual satisfaction in women
+antiandrogen	improves	mood stability
+antiandrogen	improves	sleep quality
+antiandrogen	improves	energy levels
+antiandrogen	improves	weight management
+antiandrogen	improves	metabolic syndrome markers
+antiandrogen	improves	cardiovascular event risk
+antiandrogen	improves	liver enzyme trends
+antiandrogen	improves	renal function markers
+antiandrogen	improves	patient adherence
+antiandrogen	improves	treatment satisfaction
+antiandrogen	improves	quality of life scores
+antiandrogen	improves	depression scores
+antiandrogen	improves	anxiety scores
+antiandrogen	improves	sexual health indices
+antiandrogen	improves	hormonal balance
+antiandrogen	improves	reproductive health
+antiandrogen	improves	fertility outcomes
+antiandrogen	improves	pregnancy risk profile
+antiandrogen	improves	cancer recurrence risk
+antiandrogen	improves	metastasis risk
+antiandrogen	improves	overall health status
+antiandrogen	improves	patient survival
+antiandrogen	improves	disease‑specific survival
+antiandrogen	improves	time to progression
+antiandrogen	improves	time to death
+antiandrogen	improves	hospitalization risk
+antiandrogen	improves	readmission risk
+antiandrogen	improves	emergency department visits
+antiandrogen	improves	outpatient visits
+antiandrogen	improves	medication adherence
+antiandrogen	improves	health‑care utilization
+antiandrogen	improves	cost‑effectiveness
+antiandrogen	improves	health‑care costs
+antiandrogen	improves	quality‑adjusted life years
+antiandrogen	improves	patient‑reported outcomes
+antiandrogen	improves	clinical trial endpoints
+antiandrogen	improves	biomarker levels
+antiandrogen	improves	PSA velocity
+antiandrogen	improves	PSA doubling time
+antiandrogen	improves	imaging findings
+antiandrogen	improves	bone scan results
+antiandrogen	improves	MRI findings
+antiandrogen	improves	CT scan results
+antiandrogen	improves	PET scan findings
+antiandrogen	improves	ultrasound results
+antiandrogen	improves	laboratory values
+antiandrogen	improves	endocrine panel
+antiandrogen	improves	metabolic panel
+antiandrogen	improves	liver panel
+antiandrogen	improves	renal panel
+antiandrogen	improves	complete blood count
+antiandrogen	improves	coagulation profile
+antiandrogen	improves	cardiac biomarkers
+antiandrogen	improves	inflammatory markers
+antiandrogen	improves	genetic testing results
+antiandrogen	improves	pharmacogenomic profile

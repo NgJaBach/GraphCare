@@ -1,0 +1,100 @@
+vascular catheterization	is a	medical procedure
+vascular catheterization	used for	diagnosis
+vascular catheterization	used for	treatment
+vascular catheterization	performed on	peripheral vessels
+vascular catheterization	performed on	renal arteries
+vascular catheterization	performed on	hepatic arteries
+vascular catheterization	performed on	mesenteric arteries
+vascular catheterization	performed on	iliac arteries
+vascular catheterization	performed on	femoral arteries
+vascular catheterization	performed on	radial arteries
+vascular catheterization	performed on	brachial arteries
+vascular catheterization	performed on	popliteal arteries
+vascular catheterization	performed on	tibial arteries
+vascular catheterization	performed on	carotid arteries
+vascular catheterization	performed on	vertebral arteries
+vascular catheterization	performed on	subclavian arteries
+vascular catheterization	performed on	axillary arteries
+vascular catheterization	performed on	ulnar arteries
+vascular catheterization	performed on	dorsal arteries
+vascular catheterization	performed on	pedal arteries
+vascular catheterization	performed on	coronary arteries	excluded
+vascular catheterization	performed on	pulmonary arteries	excluded
+vascular catheterization	performed on	aortic arch	excluded
+vascular catheterization	performed on	superior vena cava	excluded
+vascular catheterization	performed on	inferior vena cava	excluded
+vascular catheterization	performed on	jugular veins	excluded
+vascular catheterization	performed on	subclavian veins	excluded
+vascular catheterization	performed on	femoral veins	excluded
+vascular catheterization	performed on	iliac veins	excluded
+vascular catheterization	performed on	renal veins	excluded
+vascular catheterization	performed on	hepatic veins	excluded
+vascular catheterization	performed on	portal vein	excluded
+vascular catheterization	performed on	mesenteric veins	excluded
+vascular catheterization	performed on	splenic vein	excluded
+vascular catheterization	performed on	splenic artery	excluded
+vascular catheterization	performed on	hepatic artery	excluded
+vascular catheterization	performed on	renal artery	excluded
+vascular catheterization	performed on	mesenteric artery	excluded
+vascular catheterization	performed on	iliac artery	excluded
+vascular catheterization	performed on	femoral artery	excluded
+vascular catheterization	performed on	radial artery	excluded
+vascular catheterization	performed on	brachial artery	excluded
+vascular catheterization	performed on	popliteal artery	excluded
+vascular catheterization	performed on	tibial artery	excluded
+vascular catheterization	performed on	carotid artery	excluded
+vascular catheterization	performed on	vertebral artery	excluded
+vascular catheterization	performed on	subclavian artery	excluded
+vascular catheterization	performed on	axillary artery	excluded
+vascular catheterization	performed on	ulnar artery	excluded
+vascular catheterization	performed on	dorsal artery	excluded
+vascular catheterization	performed on	pedal artery	excluded
+vascular catheterization	used for	angiography
+vascular catheterization	used for	angioplasty
+vascular catheterization	used for	stent placement
+vascular catheterization	used for	embolization
+vascular catheterization	used for	thrombolysis
+vascular catheterization	used for	clot retrieval
+vascular catheterization	used for	contrast injection
+vascular catheterization	used for	pressure measurement
+vascular catheterization	used for	flow assessment
+vascular catheterization	used for	drug delivery
+vascular catheterization	used for	tissue sampling
+vascular catheterization	used for	biopsy
+vascular catheterization	used for	valve deployment
+vascular catheterization	used for	aneurysm repair
+vascular catheterization	used for	vessel dilation
+vascular catheterization	used for	vessel occlusion
+vascular catheterization	used for	vessel stenting
+vascular catheterization	used for	vessel embolization
+vascular catheterization	used for	vessel angioplasty
+vascular catheterization	used for	vessel imaging
+vascular catheterization	used for	vessel mapping
+vascular catheterization	used for	vessel assessment
+vascular catheterization	used for	vessel monitoring
+vascular catheterization	used for	vessel evaluation
+vascular catheterization	used for	vessel diagnosis
+vascular catheterization	used for	vessel treatment
+vascular catheterization	used for	vessel intervention
+vascular catheterization	used for	vessel access
+vascular catheterization	used for	vessel cannulation
+vascular catheterization	used for	vessel sheath insertion
+vascular catheterization	used for	vessel guidewire insertion
+vascular catheterization	used for	vessel catheter placement
+vascular catheterization	used for	vessel sheath removal
+vascular catheterization	used for	vessel sheath exchange
+vascular catheterization	used for	vessel guidewire exchange
+vascular catheterization	used for	vessel catheter exchange
+vascular catheterization	used for	vessel sheath removal
+vascular catheterization	used for	vessel sheath exchange
+vascular catheterization	used for	vessel guidewire exchange
+vascular catheterization	used for	vessel catheter exchange
+vascular catheterization	used for	vessel sheath removal
+vascular catheterization	used for	vessel sheath exchange
+vascular catheterization	used for	vessel guidewire exchange
+vascular catheterization	used for	vessel catheter exchange
+vascular catheterization	used for	vessel sheath removal
+vascular catheterization	used for	vessel sheath exchange
+vascular catheterization	used for	vessel guidewire exchange
+vascular catheterization	used for	vessel catheter exchange
+vascular catheterization	used for	vessel sheath removal

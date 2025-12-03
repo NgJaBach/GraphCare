@@ -1,0 +1,100 @@
+topical products	treat	joint pain
+topical products	treat	muscular pain
+topical products	contain	NSAIDs
+topical products	contain	capsaicin
+topical products	contain	menthol
+topical products	contain	lidocaine
+topical products	contain	diclofenac
+topical products	contain	arnica
+topical products	contain	turmeric
+topical products	contain	willow bark
+topical products	reduce	inflammation
+topical products	reduce	swelling
+topical products	reduce	pain
+topical products	improve	mobility
+topical products	improve	range of motion
+topical products	improve	quality of life
+topical products	are applied	skin
+topical products	are absorbed	dermis
+topical products	are absorbed	subcutaneous tissue
+topical products	are absorbed	systemic circulation
+topical products	have	low systemic side effects
+topical products	have	local side effects
+topical products	have	skin irritation
+topical products	have	allergic reaction
+topical products	have	contact dermatitis
+topical products	are contraindicated	in open wounds
+topical products	are contraindicated	in burns
+topical products	are contraindicated	in eczema
+topical products	are contraindicated	in pregnancy
+topical products	are contraindicated	in lactation
+topical products	are contraindicated	in children under 12
+topical products	are contraindicated	in patients with liver disease
+topical products	are contraindicated	in patients with kidney disease
+topical products	are contraindicated	in patients with heart disease
+topical products	are contraindicated	in patients with hypertension
+topical products	are contraindicated	in patients with peptic ulcer
+topical products	are contraindicated	in patients with asthma
+topical products	are contraindicated	in patients with psoriasis
+topical products	are contraindicated	in patients with dermatitis
+topical products	are contraindicated	in patients with allergies to NSAIDs
+topical products	are contraindicated	in patients with allergies to capsaicin
+topical products	are contraindicated	in patients with allergies to menthol
+topical products	are contraindicated	in patients with allergies to lidocaine
+topical products	are contraindicated	in patients with allergies to diclofenac
+topical products	are contraindicated	in patients with allergies to arnica
+topical products	are contraindicated	in patients with allergies to turmeric
+topical products	are contraindicated	in patients with allergies to willow bark
+topical products	are recommended	for acute pain
+topical products	are recommended	for chronic pain
+topical products	are recommended	for osteoarthritis
+topical products	are recommended	for rheumatoid arthritis
+topical products	are recommended	for tendinitis
+topical products	are recommended	for bursitis
+topical products	are recommended	for sprains
+topical products	are recommended	for strains
+topical products	are recommended	for muscle cramps
+topical products	are recommended	for back pain
+topical products	are recommended	for neck pain
+topical products	are recommended	for shoulder pain
+topical products	are recommended	for knee pain
+topical products	are recommended	for hip pain
+topical products	are recommended	for ankle pain
+topical products	are recommended	for foot pain
+topical products	are recommended	for wrist pain
+topical products	are recommended	for elbow pain
+topical products	are recommended	for hand pain
+topical products	are recommended	for foot pain
+topical products	are recommended	for joint stiffness
+topical products	are recommended	for muscle stiffness
+topical products	are recommended	for post‑exercise soreness
+topical products	are recommended	for sports injuries
+topical products	are recommended	for arthritis flare
+topical products	are recommended	for chronic back pain
+topical products	are recommended	for chronic neck pain
+topical products	are recommended	for chronic knee pain
+topical products	are recommended	for chronic shoulder pain
+topical products	are recommended	for chronic hip pain
+topical products	are recommended	for chronic ankle pain
+topical products	are recommended	for chronic foot pain
+topical products	are recommended	for chronic hand pain
+topical products	are recommended	for chronic wrist pain
+topical products	are recommended	for chronic elbow pain
+topical products	are recommended	for chronic muscle pain
+topical products	are recommended	for chronic joint pain
+topical products	are recommended	for chronic muscular pain
+topical products	are used	to reduce opioid use
+topical products	are used	to reduce NSAID systemic exposure
+topical products	are used	to improve adherence
+topical products	are used	to improve patient satisfaction
+topical products	are used	to reduce healthcare costs
+topical products	are used	to reduce hospital readmission
+topical products	are used	to reduce emergency department visits
+topical products	are used	to reduce pain medication prescriptions
+topical products	are used	to reduce pain medication side effects
+topical products	are used	to reduce pain medication interactions
+topical products	are used	to reduce pain medication dependence
+topical products	are used	to reduce pain medication tolerance
+topical products	are used	to reduce pain medication withdrawal
+topical products	are used	to reduce pain medication misuse
+topical products	are used	to reduce pain medication abuse

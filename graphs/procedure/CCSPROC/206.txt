@@ -1,0 +1,100 @@
+microscopic examination	is a	diagnostic technique
+microscopic examination	used for	bacterial detection
+microscopic examination	used for	fungal detection
+microscopic examination	used for	parasitic detection
+microscopic examination	used for	toxin detection
+bacterial smear	is a	sample type
+bacterial smear	used for	Gram staining
+bacterial smear	used for	rapid identification
+bacterial smear	can detect	Gram‑positive bacteria
+bacterial smear	can detect	Gram‑negative bacteria
+bacterial smear	can detect	spirochetes
+bacterial smear	can detect	cocci
+bacterial smear	can detect	rods
+bacterial smear	can detect	filamentous bacteria
+bacterial smear	can detect	biofilm
+bacterial smear	can detect	bacterial colonies
+bacterial smear	can detect	bacterial motility
+bacterial smear	can detect	bacterial morphology
+bacterial smear	can detect	bacterial load
+bacterial smear	can detect	bacterial resistance
+bacterial smear	can detect	bacterial contamination
+bacterial smear	can detect	bacterial infection
+bacterial smear	can detect	bacterial pneumonia
+bacterial smear	can detect	bacterial meningitis
+bacterial smear	can detect	bacterial sepsis
+bacterial smear	can detect	bacterial urinary tract infection
+bacterial smear	can detect	bacterial wound infection
+bacterial smear	can detect	bacterial bloodstream infection
+bacterial smear	can detect	bacterial gastrointestinal infection
+bacterial smear	can detect	bacterial respiratory infection
+bacterial smear	can detect	bacterial skin infection
+bacterial smear	can detect	bacterial eye infection
+bacterial smear	can detect	bacterial ear infection
+bacterial smear	can detect	bacterial throat infection
+bacterial smear	can detect	bacterial sinus infection
+bacterial smear	can detect	bacterial dental infection
+bacterial smear	can detect	bacterial periodontal infection
+bacterial smear	can detect	bacterial otitis media
+bacterial smear	can detect	bacterial pneumonia
+bacterial smear	can detect	bacterial meningitis
+bacterial smear	can detect	bacterial sepsis
+bacterial smear	can detect	bacterial urinary tract infection
+bacterial smear	can detect	bacterial wound infection
+bacterial smear	can detect	bacterial bloodstream infection
+bacterial smear	can detect	bacterial gastrointestinal infection
+bacterial smear	can detect	bacterial respiratory infection
+bacterial smear	can detect	bacterial skin infection
+bacterial smear	can detect	bacterial eye infection
+bacterial smear	can detect	bacterial ear infection
+bacterial smear	can detect	bacterial throat infection
+bacterial smear	can detect	bacterial sinus infection
+bacterial smear	can detect	bacterial dental infection
+bacterial smear	can detect	bacterial periodontal infection
+bacterial smear	can detect	bacterial otitis media
+bacterial smear	can detect	bacterial pneumonia
+bacterial smear	can detect	bacterial meningitis
+bacterial smear	can detect	bacterial sepsis
+bacterial smear	can detect	bacterial urinary tract infection
+bacterial smear	can detect	bacterial wound infection
+bacterial smear	can detect	bacterial bloodstream infection
+bacterial smear	can detect	bacterial gastrointestinal infection
+bacterial smear	can detect	bacterial respiratory infection
+bacterial smear	can detect	bacterial skin infection
+bacterial smear	can detect	bacterial eye infection
+bacterial smear	can detect	bacterial ear infection
+bacterial smear	can detect	bacterial throat infection
+bacterial smear	can detect	bacterial sinus infection
+bacterial smear	can detect	bacterial dental infection
+bacterial smear	can detect	bacterial periodontal infection
+bacterial smear	can detect	bacterial otitis media
+bacterial smear	can detect	bacterial pneumonia
+bacterial smear	can detect	bacterial meningitis
+bacterial smear	can detect	bacterial sepsis
+bacterial smear	can detect	bacterial urinary tract infection
+bacterial smear	can detect	bacterial wound infection
+bacterial smear	can detect	bacterial bloodstream infection
+bacterial smear	can detect	bacterial gastrointestinal infection
+bacterial smear	can detect	bacterial respiratory infection
+bacterial smear	can detect	bacterial skin infection
+bacterial smear	can detect	bacterial eye infection
+bacterial smear	can detect	bacterial ear infection
+bacterial smear	can detect	bacterial throat infection
+bacterial smear	can detect	bacterial sinus infection
+bacterial smear	can detect	bacterial dental infection
+bacterial smear	can detect	bacterial periodontal infection
+bacterial smear	can detect	bacterial otitis media
+bacterial smear	can detect	bacterial pneumonia
+bacterial smear	can detect	bacterial meningitis
+bacterial smear	can detect	bacterial sepsis
+bacterial smear	can detect	bacterial urinary tract infection
+bacterial smear	can detect	bacterial wound infection
+bacterial smear	can detect	bacterial bloodstream infection
+bacterial smear	can detect	bacterial gastrointestinal infection
+bacterial smear	can detect	bacterial respiratory infection
+bacterial smear	can detect	bacterial skin infection
+bacterial smear	can detect	bacterial eye infection
+bacterial smear	can detect	bacterial ear infection
+bacterial smear	can detect	bacterial throat infection
+bacterial smear	can detect	bacterial sinus infection
+bacterial smear	can detect	bacterial dental infection

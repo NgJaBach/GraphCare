@@ -1,0 +1,100 @@
+therapeutic radiopharmaceuticals	belong to	ATC
+ATC	classifies	therapeutic radiopharmaceuticals
+therapeutic radiopharmaceuticals	used for	cancer treatment
+cancer treatment	requires	radiotherapy
+radiotherapy	employs	therapeutic radiopharmaceuticals
+therapeutic radiopharmaceuticals	deliver	targeted radiation
+targeted radiation	kills	tumor cells
+tumor cells	express	specific receptors
+specific receptors	bind to	radiopharmaceuticals
+radiopharmaceuticals	contain	radioactive isotopes
+radioactive isotopes	emit	beta particles
+beta particles	damage	DNA
+DNA damage	induces	apoptosis
+apoptosis	reduces	tumor burden
+tumor burden	correlates with	survival
+survival	predicts	prognosis
+prognosis	informs	treatment plan
+treatment plan	includes	dose calculation
+dose calculation	uses	dosimetry
+dosimetry	measures	absorbed dose
+absorbed dose	predicts	toxicity
+toxicity	affects	quality of life
+quality of life	influences	readmission risk
+readmission risk	predicts	healthcare cost
+healthcare cost	informs	resource allocation
+resource allocation	optimizes	hospital throughput
+hospital throughput	improves	patient flow
+patient flow	reduces	waiting time
+waiting time	lowers	patient anxiety
+patient anxiety	decreases	medication non‑adherence
+medication non‑adherence	increases	relapse risk
+relapse risk	necessitates	salvage therapy
+salvage therapy	may use	alternative radiopharmaceuticals
+alternative radiopharmaceuticals	differ in	half‑life
+half‑life	determines	logistical planning
+logistical planning	affects	inventory management
+inventory management	impacts	drug availability
+drug availability	influences	treatment initiation
+treatment initiation	correlates with	early response
+early response	predicts	long‑term survival
+long‑term survival	used in	clinical trials
+clinical trials	report	efficacy data
+efficacy data	guide	regulatory approval
+regulatory approval	sets	reimbursement policy
+reimbursement policy	determines	patient access
+patient access	affects	adherence rates
+adherence rates	influence	outcome variability
+outcome variability	drives	personalized medicine
+personalized medicine	relies on	biomarker profiling
+biomarker profiling	identifies	targetable receptors
+targetable receptors	select	specific radiopharmaceuticals
+specific radiopharmaceuticals	have	affinity
+affinity	affects	tumor uptake
+tumor uptake	measured by	PET imaging
+PET imaging	quantifies	standardized uptake value
+standardized uptake value	predicts	therapeutic response
+therapeutic response	informs	dose escalation
+dose escalation	balances	efficacy and toxicity
+efficacy	measured by	progression‑free survival
+progression‑free survival	correlates with	overall survival
+overall survival	used in	health‑economic models
+health‑economic models	estimate	cost‑effectiveness
+cost‑effectiveness	guides	payer decisions
+payer decisions	influence	formulary status
+formulary status	determines	prescribing patterns
+prescribing patterns	affect	drug utilization
+drug utilization	monitored by	pharmacy data
+pharmacy data	reveal	adherence trends
+adherence trends	predict	hospitalization rates
+hospitalization rates	impact	readmission risk
+readmission risk	used in	risk stratification
+risk stratification	informs	discharge planning
+discharge planning	includes	home‑care services
+home‑care services	reduce	complications
+complications	lower	mortality
+mortality	is a key	outcome metric
+outcome metric	feeds back	quality improvement
+quality improvement	updates	clinical guidelines
+clinical guidelines	recommend	specific radiopharmaceuticals
+specific radiopharmaceuticals	are	technetium‑99m agents
+technetium‑99m agents	are	short‑half‑life
+short‑half‑life	enables	outpatient therapy
+outpatient therapy	improves	patient convenience
+patient convenience	boosts	adherence
+adherence	reduces	treatment failure
+treatment failure	increases	secondary interventions
+secondary interventions	may involve	surgery
+surgery	requires	pre‑operative imaging
+pre‑operative imaging	uses	radiopharmaceuticals
+radiopharmaceuticals	are	diagnostic agents
+diagnostic agents	guide	therapeutic decisions
+therapeutic decisions	impact	survival
+survival	is influenced by	comorbidities
+comorbidities	affect	treatment tolerance
+treatment tolerance	determines	dose limits
+dose limits	set	safety thresholds
+safety thresholds	derived from	toxicity studies
+toxicity studies	report	adverse events
+adverse events	predict	monitoring frequency
+monitoring frequency	reduces	emergency visits

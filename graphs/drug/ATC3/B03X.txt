@@ -1,0 +1,100 @@
+antianemic preparations	belong to	ATC
+ATC	classifies	drugs
+antianemic preparations	include	iron salts
+iron salts	are	supplements
+iron salts	treat	iron deficiency
+iron deficiency	causes	anemia
+anemia	leads to	fatigue
+fatigue	reduces	productivity
+antianemic preparations	include	folic acid
+folic acid	prevents	neural tube defects
+neural tube defects	occur in	pregnancy
+pregnancy	requires	prenatal vitamins
+prenatal vitamins	contain	folic acid
+antianemic preparations	include	vitamin B12
+vitamin B12	treats	pernicious anemia
+pernicious anemia	causes	neuropathy
+neuropathy	impairs	gait
+antianemic preparations	include	erythropoietin
+erythropoietin	stimulates	erythropoiesis
+erythropoiesis	increases	hemoglobin
+hemoglobin	improves	oxygen transport
+oxygen transport	reduces	hypoxia
+hypoxia	causes	organ dysfunction
+organ dysfunction	predicts	mortality
+antianemic preparations	include	darbepoetin alfa
+darbepoetin alfa	is a	synthetic erythropoietin
+synthetic erythropoietin	used in	chronic kidney disease
+chronic kidney disease	leads to	anemia
+anemia	increases	readmission risk
+readmission risk	predicts	hospital stay
+hospital stay	costs	healthcare
+healthcare costs	influence	insurance premiums
+insurance premiums	affect	patient adherence
+patient adherence	determines	treatment efficacy
+treatment efficacy	measured by	hemoglobin level
+hemoglobin level	monitored by	CBC
+CBC	detects	anemia
+anemia	classified by	MCV
+MCV	indicates	iron deficiency
+iron deficiency	treated with	iron sucrose
+iron sucrose	administered	intravenously
+intravenously	bypasses	GI absorption
+GI absorption	limited by	gastric pH
+gastric pH	altered by	proton pump inhibitors
+proton pump inhibitors	reduce	iron absorption
+iron absorption	necessary for	hemoglobin synthesis
+hemoglobin synthesis	requires	heme
+heme	derived from	iron
+iron	sourced from	diet
+diet	includes	red meat
+red meat	high in	heme iron
+heme iron	absorbed	efficiently
+efficient absorption	reduces	iron deficiency
+iron deficiency	leads to	microcytic anemia
+microcytic anemia	diagnosed by	low MCV
+low MCV	indicates	iron deficiency
+iron deficiency	treated with	ferrous sulfate
+ferrous sulfate	causes	GI upset
+GI upset	reduces	adherence
+adherence	predicts	treatment success
+treatment success	measured by	reticulocyte count
+reticulocyte count	rises after	erythropoietin
+erythropoietin	contraindicated in	uncontrolled hypertension
+uncontrolled hypertension	monitored by	blood pressure
+blood pressure	measured by	cuff
+cuff	used in	primary care
+primary care	prescribes	antianemic preparations
+prescriptions	tracked by	pharmacy records
+pharmacy records	used for	medication reconciliation
+medication reconciliation	reduces	adverse drug events
+adverse drug events	increase	mortality
+mortality	predicted by	risk scores
+risk scores	include	comorbidity index
+comorbidity index	accounts for	anemia severity
+anemia severity	correlates with	hospitalization rate
+hospitalization rate	influences	quality metrics
+quality metrics	affect	hospital reimbursement
+hospital reimbursement	drives	resource allocation
+resource allocation	determines	availability of iron therapy
+availability	impacts	patient outcomes
+patient outcomes	measured by	functional status
+functional status	assessed by	6‑minute walk test
+6‑minute walk test	predicts	mortality
+mortality	linked to	anemia type
+anemia type	classified by	RBC morphology
+RBC morphology	examined in	peripheral smear
+peripheral smear	shows	microcytosis
+microcytosis	indicates	iron deficiency
+iron deficiency	treated with	oral iron
+oral iron	less effective than	IV iron
+IV iron	used in	severe anemia
+severe anemia	requires	transfusion
+transfusion	carries	infection risk
+infection risk	increases	readmission
+readmission	tracked by	hospital data
+hospital data	informs	predictive models
+predictive models	guide	treatment pathways
+treatment pathways	optimize	patient care
+patient care	improves	survival
+survival	measured by	1‑year mortality

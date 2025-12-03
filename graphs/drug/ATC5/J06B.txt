@@ -1,0 +1,100 @@
+immunoglobulins	are	proteins
+immunoglobulins	function	antibodies
+immunoglobulins	produced by	B‑cells
+B‑cells	differentiate into	plasma cells
+plasma cells	secrete	immunoglobulins
+immunoglobulins	bind	antigens
+antigens	trigger	immune response
+immunoglobulins	neutralize	toxins
+immunoglobulins	opsonize	bacteria
+immunoglobulins	activate	complement
+complement	causes	lysis
+immunoglobulins	subclass	IgG
+IgG	is	most abundant
+IgG	crosses	placenta
+placenta	transfers	IgG
+IgG	protects	fetus
+immunoglobulins	subclass	IgM
+IgM	initiates	classical pathway
+immunoglobulins	subclass	IgA
+IgA	found in	mucosal secretions
+IgA	prevents	pathogen adhesion
+immunoglobulins	subclass	IgE
+IgE	mediates	allergic reactions
+allergic reactions	cause	anaphylaxis
+immunoglobulins	subclass	IgD
+IgD	acts as	B‑cell receptor
+B‑cell receptor	signals	activation
+immunoglobulins	isotype	IgG1
+IgG1	effective against	viruses
+immunoglobulins	isotype	IgG2
+IgG2	effective against	polysaccharides
+immunoglobulins	isotype	IgG3
+IgG3	has	long hinge
+immunoglobulins	isotype	IgG4
+IgG4	is	anti‑inflammatory
+immunoglobulins	used in	diagnostics
+diagnostics	include	ELISA
+ELISA	detects	antigen‑antibody
+immunoglobulins	used in	therapy
+therapy	includes	monoclonal antibodies
+monoclonal antibodies	target	cancer cells
+cancer cells	express	antigens
+immunoglobulins	used in	immunotherapy
+immunotherapy	improves	survival
+immunoglobulins	measured by	serum levels
+serum levels	indicate	immune status
+immune status	predicts	infection risk
+infection risk	influences	hospitalization
+hospitalization	predicts	readmission
+readmission	associated with	comorbidities
+immunoglobulins	deficiency	leads to	immunodeficiency
+immunodeficiency	increases	infection frequency
+infection frequency	predicts	mortality
+mortality	influenced by	age
+age	correlates with	immunoglobulin levels
+immunoglobulin levels	decline	with age
+age	predicts	vaccine response
+vaccine response	depends on	immunoglobulin
+immunoglobulin	class	IgG4
+IgG4	associated with	IgG4‑related disease
+IgG4‑related disease	causes	organ fibrosis
+organ fibrosis	leads to	organ failure
+organ failure	predicts	mortality
+immunoglobulins	cross‑react	autoantigens
+autoantigens	cause	autoimmune disease
+autoimmune disease	treated with	immunoglobulin therapy
+immunoglobulin therapy	reduces	disease activity
+disease activity	predicts	flare frequency
+flare frequency	predicts	hospitalization
+hospitalization	predicts	ICU admission
+ICU admission	predicts	mortality
+mortality	influenced by	sepsis
+sepsis	associated with	low immunoglobulin
+low immunoglobulin	predicts	poor outcome
+poor outcome	predicts	long‑term morbidity
+long‑term morbidity	predicts	quality of life
+quality of life	measured by	functional status
+functional status	predicts	readmission
+readmission	associated with	frailty
+frailty	correlates with	immunoglobulin
+immunoglobulin	modulates	cytokine profile
+cytokine profile	predicts	inflammation
+inflammation	predicts	cardiovascular risk
+cardiovascular risk	predicts	mortality
+mortality	influenced by	renal function
+renal function	affected by	immunoglobulin deposition
+immunoglobulin deposition	causes	glomerulonephritis
+glomerulonephritis	leads to	CKD
+CKD	predicts	cardiovascular events
+cardiovascular events	predict	readmission
+readmission	predicts	mortality
+mortality	influenced by	nutritional status
+nutritional status	correlates with	immunoglobulin
+immunoglobulin	used as	biomarker
+biomarker	predicts	disease progression
+disease progression	predicts	treatment response
+treatment response	predicts	survival
+survival	influenced by	comorbidity index
+comorbidity index	includes	immunoglobulin level
+immunoglobulin level	predicts	overall prognosis

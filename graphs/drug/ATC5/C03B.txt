@@ -1,0 +1,100 @@
+low‑ceiling diuretics	are a	drug class
+low‑ceiling diuretics	exclude	thiazides
+low‑ceiling diuretics	act on	proximal tubule
+low‑ceiling diuretics	inhibit	sodium‑glucose cotransporter
+low‑ceiling diuretics	reduce	sodium reabsorption
+low‑ceiling diuretics	increase	water excretion
+low‑ceiling diuretics	cause	mild diuresis
+low‑ceiling diuretics	used for	mild edema
+low‑ceiling diuretics	used for	mild hypertension
+low‑ceiling diuretics	contraindicated in	severe renal failure
+low‑ceiling diuretics	contraindicated in	hyperkalemia
+low‑ceiling diuretics	contraindicated in	pregnancy
+low‑ceiling diuretics	contraindicated in	lactation
+low‑ceiling diuretics	interact with	ACE inhibitors
+low‑ceiling diuretics	interact with	ARBs
+low‑ceiling diuretics	interact with	potassium supplements
+low‑ceiling diuretics	interact with	NSAIDs
+low‑ceiling diuretics	interact with	digoxin
+low‑ceiling diuretics	cause	mild hypokalemia
+low‑ceiling diuretics	cause	mild hyponatremia
+low‑ceiling diuretics	cause	mild dehydration
+low‑ceiling diuretics	cause	mild dizziness
+low‑ceiling diuretics	cause	mild fatigue
+low‑ceiling diuretics	cause	mild headache
+low‑ceiling diuretics	cause	mild hyperglycemia
+low‑ceiling diuretics	cause	mild hyperuricemia
+low‑ceiling diuretics	cause	mild hyperlipidemia
+low‑ceiling diuretics	cause	mild hyperuricemia
+low‑ceiling diuretics	cause	mild metabolic alkalosis
+low‑ceiling diuretics	cause	mild metabolic acidosis
+low‑ceiling diuretics	cause	mild electrolyte imbalance
+low‑ceiling diuretics	cause	mild renal dysfunction
+low‑ceiling diuretics	cause	mild renal tubular acidosis
+low‑ceiling diuretics	cause	mild urinary tract infection
+low‑ceiling diuretics	cause	mild urinary stone
+low‑ceiling diuretics	cause	mild gout flare
+low‑ceiling diuretics	cause	mild bone loss
+low‑ceiling diuretics	cause	mild muscle cramps
+low‑ceiling diuretics	cause	mild hair loss
+low‑ceiling diuretics	cause	mild skin rash
+low‑ceiling diuretics	cause	mild tinnitus
+low‑ceiling diuretics	cause	mild vision changes
+low‑ceiling diuretics	cause	mild hearing loss
+low‑ceiling diuretics	cause	mild nausea
+low‑ceiling diuretics	cause	mild vomiting
+low‑ceiling diuretics	cause	mild abdominal pain
+low‑ceiling diuretics	cause	mild constipation
+low‑ceiling diuretics	cause	mild diarrhea
+low‑ceiling diuretics	cause	mild insomnia
+low‑ceiling diuretics	cause	mild anxiety
+low‑ceiling diuretics	cause	mild depression
+low‑ceiling diuretics	cause	mild cognitive decline
+low‑ceiling diuretics	cause	mild memory loss
+low‑ceiling diuretics	cause	mild urinary retention
+low‑ceiling diuretics	cause	mild urinary incontinence
+low‑ceiling diuretics	cause	mild urinary urgency
+low‑ceiling diuretics	cause	mild urinary frequency
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy
+low‑ceiling diuretics	cause	mild urinary hesitancy

@@ -1,0 +1,100 @@
+bacterial vaccines	prevent	bacterial infections
+viral vaccines	prevent	viral infections
+combined vaccines	reduce	vaccine visits
+combined vaccines	improve	compliance
+combined vaccines	lower	cost
+combined vaccines	increase	coverage
+combined vaccines	reduce	adverse events
+combined vaccines	maintain	immunogenicity
+combined vaccines	contain	antigens
+antigens	stimulate	immune response
+immune response	includes	antibodies
+immune response	includes	T cells
+antibodies	neutralize	pathogens
+T cells	kill	infected cells
+combined vaccines	schedule	immunization schedule
+immunization schedule	follow	guidelines
+guidelines	issued by	WHO
+guidelines	issued by	CDC
+WHO	sets	global standards
+CDC	sets	national standards
+combined vaccines	licensed by	FDA
+FDA	approves	vaccine safety
+vaccine safety	assessed by	clinical trials
+clinical trials	phase	I
+clinical trials	phase	II
+clinical trials	phase	III
+clinical trials	phase	IV
+phase III	confirms	efficacy
+phase IV	monitors	post‑marketing safety
+combined vaccines	contain	adjuvants
+adjuvants	enhance	immune response
+adjuvants	include	aluminum salts
+adjuvants	include	MF59
+MF59	is	oil‑in‑water emulsion
+combined vaccines	use	preservative
+preservative	is	thimerosal
+thimerosal	removed	from	many vaccines
+combined vaccines	are	injectable
+injectable	route	intramuscular
+injectable	route	subcutaneous
+combined vaccines	can be	oral
+oral	route	gut immunity
+gut immunity	protects	enteric pathogens
+combined vaccines	reduce	disease burden
+disease burden	measured by	DALYs
+DALYs	calculated by	WHO
+combined vaccines	lower	hospitalization rates
+hospitalization rates	affect	healthcare costs
+healthcare costs	impact	payer budgets
+payer budgets	influence	reimbursement
+reimbursement	determined by	CMS
+CMS	sets	payment rates
+payment rates	affect	provider behavior
+provider behavior	influences	vaccine uptake
+vaccine uptake	predicts	herd immunity
+herd immunity	reduces	transmission
+transmission	measured by	R0
+R0	influenced by	vaccine coverage
+vaccine coverage	reported by	national surveys
+national surveys	conducted by	NIS
+NIS	collects	immunization data
+immunization data	used for	surveillance
+surveillance	detects	outbreaks
+outbreaks	trigger	emergency use
+emergency use	authorized by	WHO
+WHO	issues	emergency use listing
+emergency use listing	allows	rapid deployment
+rapid deployment	requires	cold chain
+cold chain	maintained by	logistics
+logistics	managed by	health ministries
+health ministries	coordinate	vaccination campaigns
+vaccination campaigns	target	high‑risk groups
+high‑risk groups	include	children
+high‑risk groups	include	elderly
+high‑risk groups	include	immunocompromised
+immunocompromised	may need	alternative schedules
+alternative schedules	involve	booster doses
+booster doses	improve	long‑term immunity
+long‑term immunity	measured by	serology
+serology	tests	antibody titers
+antibody titers	correlate with	protection
+protection	reduces	mortality
+mortality	tracked by	vital statistics
+vital statistics	reported to	CDC
+CDC	publishes	vaccine effectiveness
+vaccine effectiveness	informs	policy
+policy	guides	funding
+funding	supports	research
+research	leads to	new vaccine candidates
+new vaccine candidates	undergo	preclinical studies
+preclinical studies	use	animal models
+animal models	predict	human response
+human response	assessed by	immunogenicity
+immunogenicity	assessed by	ELISA
+ELISA	measures	antibody levels
+antibody levels	predict	neutralization
+neutralization	measured by	plaque reduction
+plaque reduction	indicates	efficacy
+efficacy	validated by	real‑world studies
+real‑world studies	provide	safety data

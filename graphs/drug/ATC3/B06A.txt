@@ -1,0 +1,100 @@
+B03	is a	ATC class
+B03	contains	anticoagulants
+B03	contains	antiplatelets
+B03	contains	thrombolytics
+B03	contains	fibrinolytics
+B03	contains	heparins
+B03	contains	low‑molecular‑weight heparins
+B03	contains	vitamin K antagonists
+B03	contains	direct oral anticoagulants
+B03	contains	platelet inhibitors
+B03	contains	antithrombotic agents
+B03	contains	fibrinogen inhibitors
+B03	contains	clotting factor concentrates
+B03	contains	clotting factor inhibitors
+B03	contains	thrombin inhibitors
+B03	contains	antithrombin III concentrates
+B03	contains	antithrombin III inhibitors
+B03	contains	fibrin sealants
+B03	contains	fibrin glue
+B03	contains	fibrinogen replacement
+B03	contains	clotting factor VIIa
+B03	contains	clotting factor VIII
+B03	contains	clotting factor IX
+B03	contains	clotting factor X
+B03	contains	clotting factor XI
+B03	contains	clotting factor XII
+B03	contains	clotting factor XIII
+B03	contains	clotting factor XIIa
+B03	contains	clotting factor XIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor VIIa
+B03	contains	clotting factor IIa
+B03	contains	clotting factor IIb
+B03	contains	clotting factor III
+B03	contains	clotting factor IV
+B03	contains	clotting factor V
+B03	contains	clotting factor VI
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor X
+B03	contains	clotting factor XI
+B03	contains	clotting factor XII
+B03	contains	clotting factor XIII
+B03	contains	clotting factor XIIa
+B03	contains	clotting factor XIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor VIIa
+B03	contains	clotting factor IIa
+B03	contains	clotting factor IIb
+B03	contains	clotting factor III
+B03	contains	clotting factor IV
+B03	contains	clotting factor V
+B03	contains	clotting factor VI
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor X
+B03	contains	clotting factor XI
+B03	contains	clotting factor XII
+B03	contains	clotting factor XIII
+B03	contains	clotting factor XIIa
+B03	contains	clotting factor XIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor VIIa
+B03	contains	clotting factor IIa
+B03	contains	clotting factor IIb
+B03	contains	clotting factor III
+B03	contains	clotting factor IV
+B03	contains	clotting factor V
+B03	contains	clotting factor VI
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor X
+B03	contains	clotting factor XI
+B03	contains	clotting factor XII
+B03	contains	clotting factor XIII
+B03	contains	clotting factor XIIa
+B03	contains	clotting factor XIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor VIIa
+B03	contains	clotting factor IIa
+B03	contains	clotting factor IIb
+B03	contains	clotting factor III
+B03	contains	clotting factor IV
+B03	contains	clotting factor V
+B03	contains	clotting factor VI
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor X
+B03	contains	clotting factor XI
+B03	contains	clotting factor XII
+B03	contains	clotting factor XIII
+B03	contains	clotting factor XIIa
+B03	contains	clotting factor XIa
+B03	contains	clotting factor IXa
+B03	contains	clotting factor VIIIa
+B03	contains	clotting factor VIIa

@@ -1,0 +1,100 @@
+intravenous pyelogram	is a	imaging test
+intravenous pyelogram	uses	contrast dye
+intravenous pyelogram	visualizes	kidneys
+intravenous pyelogram	visualizes	ureters
+intravenous pyelogram	visualizes	bladder
+intravenous pyelogram	detects	kidney stones
+intravenous pyelogram	detects	ureteral strictures
+intravenous pyelogram	detects	renal tumors
+intravenous pyelogram	detects	hydronephrosis
+intravenous pyelogram	detects	urinary tract infections
+intravenous pyelogram	requires	intravenous access
+intravenous pyelogram	requires	patient fasting
+intravenous pyelogram	contraindicated in	renal insufficiency
+intravenous pyelogram	contraindicated in	pregnancy
+intravenous pyelogram	contraindicated in	contrast allergy
+intravenous pyelogram	preceded by	renal function test
+intravenous pyelogram	followed by	post‑contrast monitoring
+intravenous pyelogram	can be replaced by	CT urography
+intravenous pyelogram	can be replaced by	MRI urography
+intravenous pyelogram	improves	surgical planning
+intravenous pyelogram	improves	diagnostic accuracy
+intravenous pyelogram	reduces	unnecessary surgery
+intravenous pyelogram	increases	radiation exposure
+intravenous pyelogram	increases	contrast nephropathy risk
+intravenous pyelogram	is performed by	radiologist
+intravenous pyelogram	is performed in	outpatient setting
+intravenous pyelogram	is performed in	inpatient setting
+intravenous pyelogram	is part of	urologic workup
+intravenous pyelogram	is part of	renal evaluation
+intravenous pyelogram	is part of	cancer staging
+intravenous pyelogram	is part of	trauma assessment
+intravenous pyelogram	is part of	nephrology consult
+intravenous pyelogram	is associated with	patient discomfort
+intravenous pyelogram	is associated with	mild nausea
+intravenous pyelogram	is associated with	transient hypertension
+intravenous pyelogram	is associated with	transient tachycardia
+intravenous pyelogram	is associated with	post‑procedure pain
+intravenous pyelogram	is associated with	urinary urgency
+intravenous pyelogram	is associated with	hematuria
+intravenous pyelogram	is associated with	allergic reaction
+intravenous pyelogram	is associated with	contrast extravasation
+intravenous pyelogram	is associated with	radiation dose
+intravenous pyelogram	is associated with	cost
+intravenous pyelogram	is associated with	insurance coverage
+intravenous pyelogram	is associated with	patient anxiety
+intravenous pyelogram	is associated with	diagnostic delay
+intravenous pyelogram	is associated with	improved prognosis
+intravenous pyelogram	is associated with	surgical outcomes
+intravenous pyelogram	is associated with	readmission risk
+intravenous pyelogram	is associated with	mortality risk
+intravenous pyelogram	is linked to	renal function decline
+intravenous pyelogram	is linked to	postoperative complications
+intravenous pyelogram	is linked to	infection risk
+intravenous pyelogram	is linked to	contrast nephropathy
+intravenous pyelogram	is linked to	allergic reaction severity
+intravenous pyelogram	is linked to	patient age
+intravenous pyelogram	is linked to	patient gender
+intravenous pyelogram	is linked to	comorbidity burden
+intravenous pyelogram	is linked to	BMI
+intravenous pyelogram	is linked to	smoking status
+intravenous pyelogram	is linked to	diabetes status
+intravenous pyelogram	is linked to	hypertension status
+intravenous pyelogram	is linked to	chronic kidney disease stage
+intravenous pyelogram	is linked to	prior urologic surgery
+intravenous pyelogram	is linked to	medication use
+intravenous pyelogram	is linked to	hydration status
+intravenous pyelogram	is linked to	contrast dose
+intravenous pyelogram	is linked to	imaging protocol
+intravenous pyelogram	is linked to	image quality
+intravenous pyelogram	is linked to	diagnostic yield
+intravenous pyelogram	is linked to	interobserver variability
+intravenous pyelogram	is linked to	radiologist experience
+intravenous pyelogram	is linked to	equipment type
+intravenous pyelogram	is linked to	facility volume
+intravenous pyelogram	is linked to	patient satisfaction
+intravenous pyelogram	is linked to	healthcare utilization
+intravenous pyelogram	is linked to	cost‑effectiveness
+intravenous pyelogram	is linked to	guideline adherence
+intravenous pyelogram	is linked to	clinical pathway
+intravenous pyelogram	is linked to	decision support
+intravenous pyelogram	is linked to	electronic health record
+intravenous pyelogram	is linked to	data analytics
+intravenous pyelogram	is linked to	predictive modeling
+intravenous pyelogram	is linked to	risk stratification
+intravenous pyelogram	is linked to	treatment planning
+intravenous pyelogram	is linked to	surgical timing
+intravenous pyelogram	is linked to	postoperative monitoring
+intravenous pyelogram	is linked to	discharge planning
+intravenous pyelogram	is linked to	follow‑up imaging
+intravenous pyelogram	is linked to	patient education
+intravenous pyelogram	is linked to	consent process
+intravenous pyelogram	is linked to	quality metrics
+intravenous pyelogram	is linked to	accreditation standards
+intravenous pyelogram	is linked to	malpractice risk
+intravenous pyelogram	is linked to	reimbursement rates
+intravenous pyelogram	is linked to	clinical trial eligibility
+intravenous pyelogram	is linked to	research data
+intravenous pyelogram	is linked to	patient outcomes
+intravenous pyelogram	is linked to	survival rate
+intravenous pyelogram	is linked to	quality of life

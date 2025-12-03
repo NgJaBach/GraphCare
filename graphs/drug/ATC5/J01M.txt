@@ -1,0 +1,100 @@
+quinolone antibacterials	are	antibiotics
+quinolone antibacterials	target	bacterial DNA gyrase
+quinolone antibacterials	inhibit	bacterial topoisomerase IV
+quinolone antibacterials	treat	urinary tract infections
+quinolone antibacterials	treat	respiratory tract infections
+quinolone antibacterials	treat	gastrointestinal infections
+quinolone antibacterials	treat	skin infections
+quinolone antibacterials	treat	bone infections
+quinolone antibacterials	treat	meningitis
+quinolone antibacterials	treat	septicemia
+quinolone antibacterials	treat	chlamydia
+quinolone antibacterials	treat	gonorrhea
+quinolone antibacterials	treat	Lyme disease
+quinolone antibacterials	treat	plague
+quinolone antibacterials	treat	typhoid
+quinolone antibacterials	treat	anthrax
+quinolone antibacterials	treat	plague
+quinolone antibacterials	treat	brucellosis
+quinolone antibacterials	treat	melioidosis
+quinolone antibacterials	treat	Q fever
+quinolone antibacterials	treat	leptospirosis
+quinolone antibacterials	treat	rickettsial infections
+quinolone antibacterials	treat	viral infections	false
+quinolone antibacterials	contraindicated	pregnancy
+quinolone antibacterials	contraindicated	lactation
+quinolone antibacterials	contraindicated	children
+quinolone antibacterials	contraindicated	patients with tendon disorders
+quinolone antibacterials	contraindicated	patients with myasthenia gravis
+quinolone antibacterials	contraindicated	patients with seizure disorders
+quinolone antibacterials	contraindicated	patients with hepatic impairment
+quinolone antibacterials	contraindicated	patients with renal impairment
+quinolone antibacterials	contraindicated	patients with QT prolongation
+quinolone antibacterials	cause	tendon rupture
+quinolone antibacterials	cause	arthropathy
+quinolone antibacterials	cause	CNS toxicity
+quinolone antibacterials	cause	phototoxicity
+quinolone antibacterials	cause	hypoglycemia
+quinolone antibacterials	cause	serotonin syndrome
+quinolone antibacterials	cause	renal toxicity
+quinolone antibacterials	cause	hepatotoxicity
+quinolone antibacterials	cause	QT prolongation
+quinolone antibacterials	cause	peripheral neuropathy
+quinolone antibacterials	cause	allergic reactions
+quinolone antibacterials	cause	drug interactions
+quinolone antibacterials	interact with	antacids
+quinolone antibacterials	interact with	iron supplements
+quinolone antibacterials	interact with	magnesium supplements
+quinolone antibacterials	interact with	calcium supplements
+quinolone antibacterials	interact with	fluoroquinolone antibiotics	same class
+quinolone antibacterials	interact with	warfarin
+quinolone antibacterials	interact with	antiepileptics
+quinolone antibacterials	interact with	SSRIs
+quinolone antibacterials	interact with	MAO inhibitors
+quinolone antibacterials	interact with	NSAIDs
+quinolone antibacterials	interact with	corticosteroids
+quinolone antibacterials	interact with	statins
+quinolone antibacterials	interact with	antihistamines
+quinolone antibacterials	interact with	antipsychotics
+quinolone antibacterials	interact with	antidiabetics
+quinolone antibacterials	interact with	antihypertensives
+quinolone antibacterials	interact with	antimalarials
+quinolone antibacterials	interact with	antiarrhythmics
+quinolone antibacterials	interact with	antitubercular drugs
+quinolone antibacterials	interact with	antiretroviral drugs
+quinolone antibacterials	interact with	immunosuppressants
+quinolone antibacterials	interact with	antipsychotics	false
+quinolone antibacterials	interact with	antidiarrheals	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antiallergics	false
+quinolone antibacterials	interact with	antidiabetics	false
+quinolone antibacterials	interact with	antiepileptics	false
+quinolone antibacterials	interact with	antipsychotics	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false
+quinolone antibacterials	interact with	antitussives	false

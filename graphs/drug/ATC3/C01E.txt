@@ -1,0 +1,100 @@
+cardiac preparations	belong to	ATC
+cardiac preparations	classified by	therapeutic group
+cardiac preparations	include	beta‑blockers
+beta‑blockers	reduce	heart rate
+beta‑blockers	lower	blood pressure
+beta‑blockers	treat	hypertension
+beta‑blockers	treat	angina
+beta‑blockers	treat	heart failure
+beta‑blockers	contraindicated in	asthma
+beta‑blockers	contraindicated in	COPD
+beta‑blockers	interact with	calcium‑channel blockers
+beta‑blockers	interact with	digoxin
+beta‑blockers	cause	bradycardia
+beta‑blockers	cause	fatigue
+cardiac preparations	include	calcium‑channel blockers
+calcium‑channel blockers	reduce	myocardial contractility
+calcium‑channel blockers	lower	blood pressure
+calcium‑channel blockers	treat	hypertension
+calcium‑channel blockers	treat	angina
+calcium‑channel blockers	treat	arrhythmia
+calcium‑channel blockers	contraindicated in	heart failure
+calcium‑channel blockers	contraindicated in	severe aortic stenosis
+calcium‑channel blockers	interact with	beta‑blockers
+calcium‑channel blockers	interact with	digoxin
+calcium‑channel blockers	cause	peripheral edema
+calcium‑channel blockers	cause	constipation
+cardiac preparations	include	ACE inhibitors
+ACE inhibitors	inhibit	angiotensin‑converting enzyme
+ACE inhibitors	lower	blood pressure
+ACE inhibitors	treat	hypertension
+ACE inhibitors	treat	heart failure
+ACE inhibitors	treat	diabetic nephropathy
+ACE inhibitors	contraindicated in	pregnancy
+ACE inhibitors	contraindicated in	hyperkalemia
+ACE inhibitors	interact with	potassium supplements
+ACE inhibitors	interact with	diuretics
+ACE inhibitors	cause	cough
+ACE inhibitors	cause	hyperkalemia
+cardiac preparations	include	ARBs
+ARBs	block	angiotensin II receptors
+ARBs	lower	blood pressure
+ARBs	treat	hypertension
+ARBs	treat	heart failure
+ARBs	treat	diabetic nephropathy
+ARBs	contraindicated in	pregnancy
+ARBs	contraindicated in	hyperkalemia
+ARBs	interact with	potassium supplements
+ARBs	interact with	diuretics
+ARBs	cause	dizziness
+ARBs	cause	hyperkalemia
+cardiac preparations	include	diuretics
+diuretics	increase	urine output
+diuretics	lower	blood pressure
+diuretics	treat	hypertension
+diuretics	treat	edema
+diuretics	contraindicated in	severe renal failure
+diuretics	interact with	ACE inhibitors
+diuretics	interact with	ARBs
+diuretics	cause	electrolyte imbalance
+diuretics	cause	dehydration
+cardiac preparations	include	nitrates
+nitrates	dilate	coronary arteries
+nitrates	relieve	angina
+nitrates	cause	headache
+nitrates	cause	hypotension
+nitrates	interact with	phosphodiesterase inhibitors
+cardiac preparations	include	anticoagulants
+anticoagulants	inhibit	clot formation
+anticoagulants	reduce	stroke risk
+anticoagulants	contraindicated in	active bleeding
+anticoagulants	interact with	NSAIDs
+anticoagulants	interact with	warfarin
+anticoagulants	cause	bleeding
+anticoagulants	cause	bruising
+cardiac preparations	include	antiplatelets
+antiplatelets	inhibit	platelet aggregation
+antiplatelets	reduce	myocardial infarction risk
+antiplatelets	contraindicated in	active bleeding
+antiplatelets	interact with	NSAIDs
+antiplatelets	interact with	warfarin
+antiplatelets	cause	bleeding
+antiplatelets	cause	bruising
+cardiac preparations	include	statins
+statins	inhibit	HMG‑CoA reductase
+statins	lower	LDL cholesterol
+statins	reduce	cardiovascular events
+statins	contraindicated in	active liver disease
+statins	interact with	fibrates
+statins	interact with	certain antibiotics
+statins	cause	myopathy
+statins	cause	liver enzyme elevation
+cardiac preparations	include	antiarrhythmics
+antiarrhythmics	modify	cardiac conduction
+antiarrhythmics	treat	atrial fibrillation
+antiarrhythmics	treat	ventricular tachycardia
+antiarrhythmics	contraindicated in	structural heart disease
+antiarrhythmics	interact with	beta‑blockers
+antiarrhythmics	interact with	calcium‑channel blockers
+antiarrhythmics	cause	proarrhythmia
+antiarrhythmics	cause	QT prolongation

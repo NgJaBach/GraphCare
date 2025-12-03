@@ -1,0 +1,100 @@
+contraceptives	are	medication
+contraceptives	used for	pregnancy prevention
+contraceptives	applied topically	skin
+topical contraceptives	contain	progestin
+topical contraceptives	contain	estrogen
+progestin	inhibits	ovulation
+estrogen	stabilizes	cervical mucus
+topical contraceptives	reduce	sperm motility
+topical contraceptives	decrease	endometrial receptivity
+topical contraceptives	have	low systemic absorption
+low systemic absorption	lowers	hormonal side effects
+topical contraceptives	cause	local irritation
+local irritation	can lead to	dermatitis
+dermatitis	requires	topical steroids
+topical contraceptives	are	non‑invasive
+non‑invasive	increases	patient adherence
+patient adherence	predicts	contraceptive efficacy
+contraceptive efficacy	inversely related to	pregnancy rate
+pregnancy rate	predicts	maternal morbidity
+maternal morbidity	predicts	neonatal complications
+neonatal complications	predict	readmission risk
+readmission risk	predicts	healthcare cost
+healthcare cost	predicts	insurance utilization
+insurance utilization	predicts	socioeconomic status
+socioeconomic status	predicts	health literacy
+health literacy	predicts	medication adherence
+medication adherence	predicts	drug efficacy
+drug efficacy	predicts	patient satisfaction
+patient satisfaction	predicts	clinic visit frequency
+clinic visit frequency	predicts	preventive care uptake
+preventive care uptake	predicts	chronic disease management
+chronic disease management	predicts	mortality risk
+mortality risk	predicts	life expectancy
+life expectancy	predicts	quality of life
+quality of life	predicts	mental health status
+mental health status	predicts	adherence to therapy
+adherence to therapy	predicts	disease progression
+disease progression	predicts	hospitalization rate
+hospitalization rate	predicts	readmission probability
+readmission probability	predicts	post‑discharge complications
+post‑discharge complications	predict	caregiver burden
+caregiver burden	predicts	caregiver health
+caregiver health	predicts	family support
+family support	predicts	patient resilience
+patient resilience	predicts	recovery speed
+recovery speed	predicts	return to work
+return to work	predicts	economic productivity
+economic productivity	predicts	community health
+community health	predicts	public health interventions
+public health interventions	predict	vaccination rates
+vaccination rates	predict	infection prevalence
+infection prevalence	predicts	antibiotic usage
+antibiotic usage	predicts	resistance patterns
+resistance patterns	predict	treatment failure
+treatment failure	predicts	mortality
+mortality	predicts	life expectancy
+life expectancy	predicts	population aging
+population aging	predicts	healthcare demand
+healthcare demand	predicts	resource allocation
+resource allocation	predicts	hospital capacity
+hospital capacity	predicts	emergency department wait times
+emergency department wait times	predict	patient satisfaction
+patient satisfaction	predicts	loyalty to provider
+loyalty to provider	predicts	referral patterns
+referral patterns	predict	specialist utilization
+specialist utilization	predicts	diagnostic accuracy
+diagnostic accuracy	predicts	treatment appropriateness
+treatment appropriateness	predicts	clinical outcomes
+clinical outcomes	predict	quality metrics
+quality metrics	predict	reimbursement rates
+reimbursement rates	predict	practice sustainability
+practice sustainability	predicts	workforce stability
+workforce stability	predicts	provider burnout
+provider burnout	predicts	patient safety
+patient safety	predicts	adverse event rates
+adverse event rates	predict	litigation risk
+litigation risk	predicts	insurance premiums
+insurance premiums	predict	affordability
+affordability	predicts	medication access
+medication access	predicts	adherence
+adherence	predicts	therapeutic drug monitoring
+therapeutic drug monitoring	predicts	drug toxicity
+drug toxicity	predicts	hospitalization
+hospitalization	predicts	ICU admission
+ICU admission	predicts	organ failure
+organ failure	predicts	mortality
+mortality	predicts	life expectancy
+life expectancy	predicts	population health
+population health	predicts	policy changes
+policy changes	predict	drug approval
+drug approval	predicts	market availability
+market availability	predicts	prescribing patterns
+prescribing patterns	predict	drug utilization
+drug utilization	predicts	pharmacoeconomic outcomes
+pharmacoeconomic outcomes	predict	budget impact
+budget impact	predicts	payer coverage
+payer coverage	predicts	out‑of‑pocket costs
+out‑of‑pocket costs	predict	medication abandonment
+medication abandonment	predicts	disease relapse
+disease relapse	predicts	long‑term morbidity

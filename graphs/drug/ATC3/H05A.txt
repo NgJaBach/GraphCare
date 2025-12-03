@@ -1,0 +1,100 @@
+parathyroid hormone	is a	protein
+parathyroid hormone	regulates	calcium
+parathyroid hormone	regulates	phosphate
+parathyroid hormone	secreted by	parathyroid gland
+parathyroid hormone	activates	vitamin D
+parathyroid hormone	increases	bone resorption
+parathyroid hormone	increases	kidney reabsorption
+parathyroid hormone	decreases	renal excretion
+parathyroid hormone	binds	PTH1R
+parathyroid hormone	binds	PTH2R
+PTH1R	expressed in	bone
+PTH1R	expressed in	kidney
+PTH2R	expressed in	brain
+PTH1R	activates	cAMP
+PTH1R	activates	PLC
+cAMP	activates	PKA
+PLC	produces	IP3
+IP3	releases	calcium
+PTH analogues	mimic	parathyroid hormone
+PTH analogues	used for	osteoporosis
+PTH analogues	used for	hypoparathyroidism
+PTH analogues	increase	bone formation
+PTH analogues	increase	serum calcium
+PTH analogues	decrease	serum phosphate
+PTH analogues	administered	subcutaneously
+PTH analogues	dosage	50 µg
+PTH analogues	half‑life	1 hour
+PTH analogues	side effect	nausea
+PTH analogues	side effect	headache
+PTH analogues	side effect	hypercalcemia
+PTH analogues	contraindicated in	hypercalcemia
+PTH analogues	contraindicated in	renal failure
+PTH analogues	contraindicated in	bone metastasis
+PTH analogues	monitored by	serum calcium
+PTH analogues	monitored by	serum phosphate
+PTH analogues	monitored by	renal function
+PTH analogues	monitored by	bone density
+PTH analogues	efficacy	measured by DXA
+PTH analogues	efficacy	measured by serum calcium
+PTH analogues	efficacy	measured by bone turnover markers
+PTH analogues	efficacy	measured by fracture risk
+PTH analogues	efficacy	measured by quality of life
+PTH analogues	cost	high
+PTH analogues	insurance coverage	variable
+PTH analogues	patient adherence	low
+PTH analogues	alternative	bisphosphonates
+PTH analogues	alternative	denosumab
+PTH analogues	alternative	teriparatide
+PTH analogues	alternative	abaloparatide
+PTH analogues	alternative	calcitriol
+PTH analogues	alternative	calcium supplements
+PTH analogues	alternative	vitamin D supplements
+PTH analogues	alternative	lifestyle changes
+PTH analogues	research	gene therapy
+PTH analogues	research	long‑acting formulations
+PTH analogues	research	oral delivery
+PTH analogues	research	combination therapy
+PTH analogues	research	personalized dosing
+PTH analogues	research	biomarker discovery
+PTH analogues	research	pharmacogenomics
+PTH analogues	research	safety profile
+PTH analogues	research	efficacy in CKD
+PTH analogues	research	efficacy in post‑menopausal women
+PTH analogues	research	efficacy in men
+PTH analogues	research	efficacy in children
+PTH analogues	research	efficacy in elderly
+PTH analogues	research	efficacy in dialysis patients
+PTH analogues	research	efficacy in bone metastasis
+PTH analogues	research	efficacy in sarcopenia
+PTH analogues	research	efficacy in fracture healing
+PTH analogues	research	efficacy in bone grafts
+PTH analogues	research	efficacy in osteoporosis prevention
+PTH analogues	research	efficacy in bone quality
+PTH analogues	research	efficacy in bone microarchitecture
+PTH analogues	research	efficacy in bone turnover
+PTH analogues	research	efficacy in bone remodeling
+PTH analogues	research	efficacy in bone mineral density
+PTH analogues	research	efficacy in bone strength
+PTH analogues	research	efficacy in bone fracture risk
+PTH analogues	research	efficacy in bone pain
+PTH analogues	research	efficacy in bone healing time
+PTH analogues	research	efficacy in bone regeneration
+PTH analogues	research	efficacy in bone metabolism
+PTH analogues	research	efficacy in bone turnover markers
+PTH analogues	research	efficacy in bone turnover rate
+PTH analogues	research	efficacy in bone turnover dynamics
+PTH analogues	research	efficacy in bone turnover regulation
+PTH analogues	research	efficacy in bone turnover balance
+PTH analogues	research	efficacy in bone turnover homeostasis
+PTH analogues	research	efficacy in bone turnover signaling
+PTH analogues	research	efficacy in bone turnover pathways
+PTH analogues	research	efficacy in bone turnover mechanisms
+PTH analogues	research	efficacy in bone turnover modulation
+PTH analogues	research	efficacy in bone turnover control
+PTH analogues	research	efficacy in bone turnover assessment
+PTH analogues	research	efficacy in bone turnover monitoring
+PTH analogues	research	efficacy in bone turnover prediction
+PTH analogues	research	efficacy in bone turnover prognosis
+PTH analogues	research	efficacy in bone turnover outcomes
+PTH analogues	research	efficacy in bone turnover improvement

@@ -1,0 +1,100 @@
+contraceptives	are	drugs
+contraceptives	used for	pregnancy prevention
+contraceptives	applied topically	skin
+topical contraceptives	contain	hormones
+hormones	include	estrogen
+hormones	include	progestin
+estrogen	prevents	ovulation
+progestin	thickens	cervical mucus
+cervical mucus	blocks	sperm
+topical contraceptives	reduce	systemic absorption
+reduced absorption	lowers	side‑effect risk
+side‑effects	may include	skin irritation
+skin irritation	can cause	redness
+skin irritation	can cause	itching
+topical contraceptives	are	non‑invasive
+non‑invasive	improves	patient adherence
+patient adherence	predicts	contraceptive efficacy
+contraceptive efficacy	predicts	pregnancy rate
+pregnancy rate	inversely related	contraceptive use
+contraceptives	available as	creams
+contraceptives	available as	gels
+contraceptives	available as	ointments
+creams	formulated with	silicone
+silicone	enhances	skin penetration
+gel	contains	carbomer
+carbomer	stabilizes	viscosity
+ointment	contains	lanolin
+lanolin	moisturizes	skin
+skin moisturization	reduces	barrier disruption
+barrier disruption	increases	drug absorption
+drug absorption	affects	hormone levels
+hormone levels	affect	systemic exposure
+systemic exposure	associated with	weight gain
+weight gain	associated with	metabolic syndrome
+metabolic syndrome	increases	cardiovascular risk
+cardiovascular risk	predicts	mortality
+mortality	increases	with age
+age	is a risk factor	for	cardiovascular disease
+cardiovascular disease	can be prevented by	healthy lifestyle
+healthy lifestyle	includes	exercise
+exercise	reduces	blood pressure
+blood pressure	reduces	stroke risk
+stroke risk	predicts	readmission
+readmission	increases	healthcare cost
+healthcare cost	is	economic burden
+economic burden	motivates	cost‑effective therapy
+cost‑effective therapy	includes	topical contraceptives
+topical contraceptives	have	low cost
+low cost	improves	accessibility
+accessibility	predicts	usage rates
+usage rates	predict	population health
+population health	measured by	birth rate
+birth rate	inversely related	contraceptive use
+contraceptive use	associated with	reduced maternal mortality
+maternal mortality	decreases	with prenatal care
+prenatal care	includes	folic acid
+folic acid	reduces	neural tube defects
+neural tube defects	reduce	infant mortality
+infant mortality	decreases	with vaccination
+vaccination	includes	HPV vaccine
+HPV vaccine	prevents	cervical cancer
+cervical cancer	reduces	mortality
+mortality	influenced by	screening
+screening	includes	Pap smear
+Pap smear	detects	precancerous lesions
+precancerous lesions	treated with	cryotherapy
+cryotherapy	requires	local anesthesia
+local anesthesia	administered with	lidocaine
+lidocaine	reduces	pain
+pain	affects	patient compliance
+patient compliance	predicts	treatment success
+treatment success	reduces	recurrence
+recurrence	lowers	long‑term risk
+long‑term risk	includes	infertility
+infertility	can be caused by	hormonal imbalance
+hormonal imbalance	treated with	contraceptives
+contraceptives	can be prescribed	by OB‑GYN
+OB‑GYN	monitors	hormone levels
+hormone levels	monitored with	blood tests
+blood tests	detect	liver function
+liver function	affects	drug metabolism
+drug metabolism	influences	drug efficacy
+drug efficacy	predicts	contraceptive failure
+contraceptive failure	leads to	unintended pregnancy
+unintended pregnancy	increases	maternal stress
+maternal stress	linked to	preterm birth
+preterm birth	increases	neonatal morbidity
+neonatal morbidity	predicts	long‑term disability
+long‑term disability	increases	caregiver burden
+caregiver burden	affects	mental health
+mental health	influenced by	support groups
+support groups	improve	coping
+coping	reduces	depression
+depression	lowers	quality of life
+quality of life	measured by	SF‑36
+SF‑36	scores	reflect	health status
+health status	predicts	mortality
+mortality	influenced by	socioeconomic status
+socioeconomic status	affects	access to care
+access to care	improves	health outcomes

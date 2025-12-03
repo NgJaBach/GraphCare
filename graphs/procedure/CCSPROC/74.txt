@@ -1,0 +1,100 @@
+gastrectomy	is a	surgical procedure
+gastrectomy	removes	stomach
+gastrectomy	performed for	gastric cancer
+gastrectomy	performed for	peptic ulcer
+gastrectomy	performed for	obesity
+gastrectomy	performed for	refractory reflux
+gastrectomy	performed for	gastric polyps
+gastrectomy	performed for	gastric lymphoma
+gastrectomy	performed for	gastric stromal tumor
+gastrectomy	performed for	gastric bleeding
+gastrectomy	performed for	gastric stenosis
+gastrectomy	performed for	gastric dysplasia
+gastrectomy	performed for	gastric metastasis
+gastrectomy	performed for	gastric obstruction
+gastrectomy	performed for	gastric perforation
+gastrectomy	performed for	gastric fistula
+gastrectomy	performed for	gastric infection
+gastrectomy	performed for	gastric inflammation
+gastrectomy	performed for	gastric pain
+gastrectomy	performed for	gastric dysphagia
+gastrectomy	performed for	gastric reflux
+gastrectomy	performed for	gastric motility disorder
+gastrectomy	performed for	gastric hypomotility
+gastrectomy	performed for	gastric hyperplasia
+gastrectomy	performed for	gastric atrophy
+gastrectomy	performed for	gastric ulceration
+gastrectomy	performed for	gastric carcinoma
+gastrectomy	performed for	gastric adenocarcinoma
+gastrectomy	performed for	gastric squamous cell carcinoma
+gastrectomy	performed for	gastric neuroendocrine tumor
+gastrectomy	performed for	gastric carcinoid
+gastrectomy	performed for	gastric lymphoma
+gastrectomy	performed for	gastric sarcoma
+gastrectomy	performed for	gastric metastasis
+gastrectomy	performed for	gastric stump cancer
+gastrectomy	performed for	gastric stump ulcer
+gastrectomy	performed for	gastric stump stenosis
+gastrectomy	performed for	gastric stump bleeding
+gastrectomy	performed for	gastric stump fistula
+gastrectomy	performed for	gastric stump infection
+gastrectomy	performed for	gastric stump inflammation
+gastrectomy	performed for	gastric stump pain
+gastrectomy	performed for	gastric stump dysphagia
+gastrectomy	performed for	gastric stump reflux
+gastrectomy	performed for	gastric stump motility disorder
+gastrectomy	performed for	gastric stump hypomotility
+gastrectomy	performed for	gastric stump hyperplasia
+gastrectomy	performed for	gastric stump atrophy
+gastrectomy	performed for	gastric stump ulceration
+gastrectomy	performed for	gastric stump carcinoma
+gastrectomy	performed for	gastric stump adenocarcinoma
+gastrectomy	performed for	gastric stump squamous cell carcinoma
+gastrectomy	performed for	gastric stump neuroendocrine tumor
+gastrectomy	performed for	gastric stump carcinoid
+gastrectomy	performed for	gastric stump lymphoma
+gastrectomy	performed for	gastric stump sarcoma
+gastrectomy	performed for	gastric stump metastasis
+gastrectomy	performed for	gastric stump stump cancer
+gastrectomy	performed for	gastric stump stump ulcer
+gastrectomy	performed for	gastric stump stump stenosis
+gastrectomy	performed for	gastric stump stump bleeding
+gastrectomy	performed for	gastric stump stump fistula
+gastrectomy	performed for	gastric stump stump infection
+gastrectomy	performed for	gastric stump stump inflammation
+gastrectomy	performed for	gastric stump stump pain
+gastrectomy	performed for	gastric stump stump dysphagia
+gastrectomy	performed for	gastric stump stump reflux
+gastrectomy	performed for	gastric stump stump motility disorder
+gastrectomy	performed for	gastric stump stump hypomotility
+gastrectomy	performed for	gastric stump stump hyperplasia
+gastrectomy	performed for	gastric stump stump atrophy
+gastrectomy	performed for	gastric stump stump ulceration
+gastrectomy	performed for	gastric stump stump carcinoma
+gastrectomy	performed for	gastric stump stump adenocarcinoma
+gastrectomy	performed for	gastric stump stump squamous cell carcinoma
+gastrectomy	performed for	gastric stump stump neuroendocrine tumor
+gastrectomy	performed for	gastric stump stump carcinoid
+gastrectomy	performed for	gastric stump stump lymphoma
+gastrectomy	performed for	gastric stump stump sarcoma
+gastrectomy	performed for	gastric stump stump metastasis
+gastrectomy	performed for	gastric stump stump cancer
+gastrectomy	performed for	gastric stump stump ulcer
+gastrectomy	performed for	gastric stump stump stenosis
+gastrectomy	performed for	gastric stump stump bleeding
+gastrectomy	performed for	gastric stump stump fistula
+gastrectomy	performed for	gastric stump stump infection
+gastrectomy	performed for	gastric stump stump inflammation
+gastrectomy	performed for	gastric stump stump pain
+gastrectomy	performed for	gastric stump stump dysphagia
+gastrectomy	performed for	gastric stump stump reflux
+gastrectomy	performed for	gastric stump stump motility disorder
+gastrectomy	performed for	gastric stump stump hypomotility
+gastrectomy	performed for	gastric stump stump hyperplasia
+gastrectomy	performed for	gastric stump stump atrophy
+gastrectomy	performed for	gastric stump stump ulceration
+gastrectomy	performed for	gastric stump stump carcinoma
+gastrectomy	performed for	gastric stump stump adenocarcinoma
+gastrectomy	performed for	gastric stump stump squamous cell carcinoma
+gastrectomy	performed for	gastric stump stump neuroendocrine tumor
+gastrectomy	performed for	gastric stump stump carcinoid

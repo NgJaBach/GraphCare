@@ -1,0 +1,100 @@
+amphenicols	are	antibiotics
+amphenicols	inhibit	bacterial ribosomes
+amphenicols	bind	50S subunit
+amphenicols	block	protein synthesis
+amphenicols	effective	Gram‑positive bacteria
+amphenicols	less effective	Gram‑negative bacteria
+amphenicols	include	chloramphenicol
+amphenicols	include	thiamphenicol
+amphenicols	include	florfenicol
+chloramphenicol	used for	meningitis
+chloramphenicol	used for	typhoid fever
+chloramphenicol	contraindicated in	newborns
+chloramphenicol	contraindicated in	patients with aplastic anemia
+chloramphenicol	causes	bone marrow suppression
+chloramphenicol	causes	gray baby syndrome
+chloramphenicol	metabolized by	liver
+chloramphenicol	excreted by	kidneys
+chloramphenicol	half‑life	3–4 hours
+chloramphenicol	dosage	30–45 mg/kg/day
+chloramphenicol	route	intravenous
+chloramphenicol	route	oral
+chloramphenicol	side effect	nausea
+chloramphenicol	side effect	vomiting
+chloramphenicol	side effect	headache
+chloramphenicol	side effect	rash
+chloramphenicol	side effect	dizziness
+chloramphenicol	side effect	hepatotoxicity
+chloramphenicol	side effect	nephrotoxicity
+chloramphenicol	side effect	thrombocytopenia
+chloramphenicol	side effect	leukopenia
+chloramphenicol	side effect	anemia
+chloramphenicol	side effect	neutropenia
+chloramphenicol	side effect	aplastic anemia
+chloramphenicol	side effect	bone marrow failure
+chloramphenicol	side effect	gray baby syndrome
+chloramphenicol	side effect	ototoxicity
+chloramphenicol	side effect	neurotoxicity
+chloramphenicol	side effect	photosensitivity
+chloramphenicol	side effect	hypersensitivity
+chloramphenicol	side effect	drug‑induced liver injury
+chloramphenicol	side effect	drug‑induced kidney injury
+chloramphenicol	side effect	drug‑induced thrombocytopenia
+chloramphenicol	side effect	drug‑induced neutropenia
+chloramphenicol	side effect	drug‑induced anemia
+chloramphenicol	side effect	drug‑induced aplastic anemia
+chloramphenicol	side effect	drug‑induced bone marrow failure
+chloramphenicol	side effect	drug‑induced gray baby syndrome
+chloramphenicol	side effect	drug‑induced ototoxicity
+chloramphenicol	side effect	drug‑induced neurotoxicity
+chloramphenicol	side effect	drug‑induced photosensitivity
+chloramphenicol	side effect	drug‑induced hypersensitivity
+chloramphenicol	side effect	drug‑induced liver injury
+chloramphenicol	side effect	drug‑induced kidney injury
+chloramphenicol	side effect	drug‑induced thrombocytopenia
+chloramphenicol	side effect	drug‑induced neutropenia
+chloramphenicol	side effect	drug‑induced anemia
+chloramphenicol	side effect	drug‑induced aplastic anemia
+chloramphenicol	side effect	drug‑induced bone marrow failure
+chloramphenicol	side effect	drug‑induced gray baby syndrome
+chloramphenicol	side effect	drug‑induced ototoxicity
+chloramphenicol	side effect	drug‑induced neurotoxicity
+chloramphenicol	side effect	drug‑induced photosensitivity
+chloramphenicol	side effect	drug‑induced hypersensitivity
+chloramphenicol	side effect	drug‑induced liver injury
+chloramphenicol	side effect	drug‑induced kidney injury
+chloramphenicol	side effect	drug‑induced thrombocytopenia
+chloramphenicol	side effect	drug‑induced neutropenia
+chloramphenicol	side effect	drug‑induced anemia
+chloramphenicol	side effect	drug‑induced aplastic anemia
+chloramphenicol	side effect	drug‑induced bone marrow failure
+chloramphenicol	side effect	drug‑induced gray baby syndrome
+chloramphenicol	side effect	drug‑induced ototoxicity
+chloramphenicol	side effect	drug‑induced neurotoxicity
+chloramphenicol	side effect	drug‑induced photosensitivity
+chloramphenicol	side effect	drug‑induced hypersensitivity
+chloramphenicol	side effect	drug‑induced liver injury
+chloramphenicol	side effect	drug‑induced kidney injury
+chloramphenicol	side effect	drug‑induced thrombocytopenia
+chloramphenicol	side effect	drug‑induced neutropenia
+chloramphenicol	side effect	drug‑induced anemia
+chloramphenicol	side effect	drug‑induced aplastic anemia
+chloramphenicol	side effect	drug‑induced bone marrow failure
+chloramphenicol	side effect	drug‑induced gray baby syndrome
+chloramphenicol	side effect	drug‑induced ototoxicity
+chloramphenicol	side effect	drug‑induced neurotoxicity
+chloramphenicol	side effect	drug‑induced photosensitivity
+chloramphenicol	side effect	drug‑induced hypersensitivity
+chloramphenicol	side effect	drug‑induced liver injury
+chloramphenicol	side effect	drug‑induced kidney injury
+chloramphenicol	side effect	drug‑induced thrombocytopenia
+chloramphenicol	side effect	drug‑induced neutropenia
+chloramphenicol	side effect	drug‑induced anemia
+chloramphenicol	side effect	drug‑induced aplastic anemia
+chloramphenicol	side effect	drug‑induced bone marrow failure
+chloramphenicol	side effect	drug‑induced gray baby syndrome
+chloramphenicol	side effect	drug‑induced ototoxicity
+chloramphenicol	side effect	drug‑induced neurotoxicity
+chloramphenicol	side effect	drug‑induced photosensitivity
+chloramphenicol	side effect	drug‑induced hypersensitivity
+chloramphenicol	side effect	drug‑induced liver injury

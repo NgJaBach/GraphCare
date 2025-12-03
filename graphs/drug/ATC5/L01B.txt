@@ -1,0 +1,100 @@
+antimetabolites	are	drugs
+antimetabolites	inhibit	DNA synthesis
+antimetabolites	treat	cancer
+antimetabolites	include	methotrexate
+antimetabolites	include	5-fluorouracil
+antimetabolites	include	cytarabine
+antimetabolites	include	pemetrexed
+antimetabolites	include	hydroxyurea
+antimetabolites	are	chemotherapeutics
+antimetabolites	block	folate pathway
+antimetabolites	block	thymidylate synthase
+antimetabolites	block	dihydrofolate reductase
+antimetabolites	block	ribonucleotide reductase
+antimetabolites	cause	myelosuppression
+antimetabolites	cause	mucositis
+antimetabolites	cause	alopecia
+antimetabolites	cause	nausea
+antimetabolites	cause	vomiting
+antimetabolites	cause	anemia
+antimetabolites	cause	neutropenia
+antimetabolites	cause	thrombocytopenia
+antimetabolites	cause	infection risk
+antimetabolites	are	antineoplastic agents
+antimetabolites	are	cytotoxic drugs
+antimetabolites	are	targeted therapies
+antimetabolites	are	folate analogues
+antimetabolites	are	nucleoside analogues
+antimetabolites	are	prodrugs
+antimetabolites	are	metabolized	by	liver
+antimetabolites	are	eliminated	by	kidneys
+antimetabolites	are	contraindicated	in	pregnancy
+antimetabolites	are	contraindicated	in	renal failure
+antimetabolites	are	contraindicated	in	hepatic failure
+antimetabolites	are	contraindicated	in	active infection
+antimetabolites	are	contraindicated	in	severe anemia
+antimetabolites	are	contraindicated	in	thrombocytopenia
+antimetabolites	are	contraindicated	in	neutropenia
+antimetabolites	are	contraindicated	in	hypersensitivity
+antimetabolites	are	contraindicated	in	pregnancy
+antimetabolites	are	contraindicated	in	lactation
+antimetabolites	are	contraindicated	in	active bleeding
+antimetabolites	are	contraindicated	in	severe liver disease
+antimetabolites	are	contraindicated	in	severe kidney disease
+antimetabolites	are	contraindicated	in	severe malnutrition
+antimetabolites	are	contraindicated	in	severe infection
+antimetabolites	are	contraindicated	in	severe anemia
+antimetabolites	are	contraindicated	in	severe thrombocytopenia
+antimetabolites	are	contraindicated	in	severe neutropenia
+antimetabolites	are	contraindicated	in	severe hypersensitivity
+antimetabolites	are	contraindicated	in	severe pregnancy
+antimetabolites	are	contraindicated	in	severe lactation
+antimetabolites	are	contraindicated	in	severe bleeding
+antimetabolites	are	contraindicated	in	severe liver disease
+antimetabolites	are	contraindicated	in	severe kidney disease
+antimetabolites	are	contraindicated	in	severe malnutrition
+antimetabolites	are	contraindicated	in	severe infection
+antimetabolites	are	contraindicated	in	severe anemia
+antimetabolites	are	contraindicated	in	severe thrombocytopenia
+antimetabolites	are	contraindicated	in	severe neutropenia
+antimetabolites	are	contraindicated	in	severe hypersensitivity
+antimetabolites	are	contraindicated	in	severe pregnancy
+antimetabolites	are	contraindicated	in	severe lactation
+antimetabolites	are	contraindicated	in	severe bleeding
+antimetabolites	are	contraindicated	in	severe liver disease
+antimetabolites	are	contraindicated	in	severe kidney disease
+antimetabolites	are	contraindicated	in	severe malnutrition
+antimetabolites	are	contraindicated	in	severe infection
+antimetabolites	are	contraindicated	in	severe anemia
+antimetabolites	are	contraindicated	in	severe thrombocytopenia
+antimetabolites	are	contraindicated	in	severe neutropenia
+antimetabolites	are	contraindicated	in	severe hypersensitivity
+antimetabolites	are	contraindicated	in	severe pregnancy
+antimetabolites	are	contraindicated	in	severe lactation
+antimetabolites	are	contraindicated	in	severe bleeding
+antimetabolites	are	contraindicated	in	severe liver disease
+antimetabolites	are	contraindicated	in	severe kidney disease
+antimetabolites	are	contraindicated	in	severe malnutrition
+antimetabolites	are	contraindicated	in	severe infection
+antimetabolites	are	contraindicated	in	severe anemia
+antimetabolites	are	contraindicated	in	severe thrombocytopenia
+antimetabolites	are	contraindicated	in	severe neutropenia
+antimetabolites	are	contraindicated	in	severe hypersensitivity
+antimetabolites	are	contraindicated	in	severe pregnancy
+antimetabolites	are	contraindicated	in	severe lactation
+antimetabolites	are	contraindicated	in	severe bleeding
+antimetabolites	are	contraindicated	in	severe liver disease
+antimetabolites	are	contraindicated	in	severe kidney disease
+antimetabolites	are	contraindicated	in	severe malnutrition
+antimetabolites	are	contraindicated	in	severe infection
+antimetabolites	are	contraindicated	in	severe anemia
+antimetabolites	are	contraindicated	in	severe thrombocytopenia
+antimetabolites	are	contraindicated	in	severe neutropenia
+antimetabolites	are	contraindicated	in	severe hypersensitivity
+antimetabolites	are	contraindicated	in	severe pregnancy
+antimetabolites	are	contraindicated	in	severe lactation
+antimetabolites	are	contraindicated	in	severe bleeding
+antimetabolites	are	contraindicated	in	severe liver disease
+antimetabolites	are	contraindicated	in	severe kidney disease
+antimetabolites	are	contraindicated	in	severe malnutrition
+antimetabolites	are	contraindicated	in	severe infection

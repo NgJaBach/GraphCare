@@ -1,0 +1,100 @@
+ARBs	inhibit	angiotensin II
+ARBs	block	AT1 receptor
+ARBs	lower	blood pressure
+ARBs	treat	hypertension
+ARBs	reduce	heart failure
+ARBs	improve	renal function
+ARBs	prevent	stroke
+ARBs	decrease	mortality
+ARBs	used with	diuretics
+ARBs	used with	ACE inhibitors
+ARBs	used with	beta‑blockers
+ARBs	used with	calcium‑channel blockers
+ARBs	used with	statins
+ARBs	used with	antiplatelets
+ARBs	used with	nitrates
+ARBs	used with	aldosterone antagonists
+ARBs	used with	nitrates
+ARBs	combined	with	potassium‑sparing diuretics
+ARBs	combined	with	ACE inhibitors
+ARBs	combined	with	ARBs
+ARBs	combined	with	beta‑blockers
+ARBs	combined	with	calcium‑channel blockers
+ARBs	combined	with	diuretics
+ARBs	combined	with	statins
+ARBs	combined	with	antiplatelets
+ARBs	combined	with	nitrates
+ARBs	combined	with	aldosterone antagonists
+ARBs	contraindicated in	pregnancy
+ARBs	contraindicated in	hyperkalemia
+ARBs	contraindicated in	renal impairment
+ARBs	contraindicated in	hypotension
+ARBs	contraindicated in	angioedema
+ARBs	side effect	hyperkalemia
+ARBs	side effect	hypotension
+ARBs	side effect	dizziness
+ARBs	side effect	cough
+ARBs	side effect	renal dysfunction
+ARBs	side effect	fatigue
+ARBs	side effect	headache
+ARBs	side effect	back pain
+ARBs	side effect	arthralgia
+ARBs	side effect	rash
+ARBs	side effect	nausea
+ARBs	side effect	diarrhea
+ARBs	side effect	anemia
+ARBs	side effect	increased creatinine
+ARBs	side effect	decreased glomerular filtration
+ARBs	side effect	increased potassium
+ARBs	side effect	decreased blood pressure
+ARBs	side effect	syncope
+ARBs	side effect	edema
+ARBs	side effect	muscle pain
+ARBs	side effect	insomnia
+ARBs	side effect	depression
+ARBs	side effect	anxiety
+ARBs	side effect	weight gain
+ARBs	side effect	decreased libido
+ARBs	side effect	erectile dysfunction
+ARBs	side effect	sexual dysfunction
+ARBs	side effect	increased urination
+ARBs	side effect	decreased appetite
+ARBs	side effect	increased thirst
+ARBs	side effect	increased uric acid
+ARBs	side effect	gout flare
+ARBs	side effect	increased liver enzymes
+ARBs	side effect	rash
+ARBs	side effect	pruritus
+ARBs	side effect	photosensitivity
+ARBs	side effect	visual disturbances
+ARBs	side effect	hearing loss
+ARBs	side effect	tinnitus
+ARBs	side effect	vertigo
+ARBs	side effect	memory loss
+ARBs	side effect	confusion
+ARBs	side effect	cognitive decline
+ARBs	side effect	neuropathy
+ARBs	side effect	myalgia
+ARBs	side effect	arthralgia
+ARBs	side effect	back pain
+ARBs	side effect	abdominal pain
+ARBs	side effect	nausea
+ARBs	side effect	vomiting
+ARBs	side effect	diarrhea
+ARBs	side effect	constipation
+ARBs	side effect	flatulence
+ARBs	side effect	bloating
+ARBs	side effect	abdominal distension
+ARBs	side effect	anorexia
+ARBs	side effect	weight loss
+ARBs	side effect	increased appetite
+ARBs	side effect	increased thirst
+ARBs	side effect	increased urination
+ARBs	side effect	decreased libido
+ARBs	side effect	erectile dysfunction
+ARBs	side effect	sexual dysfunction
+ARBs	side effect	depression
+ARBs	side effect	anxiety
+ARBs	side effect	insomnia
+ARBs	side effect	fatigue
+ARBs	side effect	headache

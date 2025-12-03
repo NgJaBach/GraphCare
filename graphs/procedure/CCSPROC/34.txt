@@ -1,0 +1,100 @@
+tracheostomy	is a	surgical procedure
+tracheostomy	creates	airway
+tracheostomy	used for	ventilation
+tracheostomy	used for	secretion clearance
+tracheostomy	used for	airway protection
+tracheostomy	performed by	ENT surgeon
+tracheostomy	performed by	thoracic surgeon
+tracheostomy	performed by	critical care physician
+tracheostomy	performed on	ICU patient
+tracheostomy	performed on	trauma patient
+tracheostomy	performed on	neuromuscular disease patient
+tracheostomy	performed on	obstructive airway patient
+tracheostomy	performed on	prolonged intubation patient
+tracheostomy	performed on	COVID‑19 patient
+tracheostomy	performed on	burn patient
+tracheostomy	performed on	pediatric patient
+tracheostomy	performed on	adult patient
+tracheostomy	performed on	elderly patient
+tracheostomy	performed on	obese patient
+tracheostomy	performed on	obese patient	risk factor
+tracheostomy	performed on	patient with cervical spine injury
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with tracheal stenosis
+tracheostomy	performed on	patient with laryngeal paralysis
+tracheostomy	performed on	patient with ALS
+tracheostomy	performed on	patient with Guillain‑Barré
+tracheostomy	performed on	patient with myasthenia gravis
+tracheostomy	performed on	patient with spinal cord injury
+tracheostomy	performed on	patient with severe COPD
+tracheostomy	performed on	patient with severe asthma
+tracheostomy	performed on	patient with severe pneumonia
+tracheostomy	performed on	patient with ARDS
+tracheostomy	performed on	patient with sepsis
+tracheostomy	performed on	patient with trauma
+tracheostomy	performed on	patient with burns
+tracheostomy	performed on	patient with head‑neck cancer
+tracheostomy	performed on	patient with neck mass
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway infection
+tracheostomy	performed on	patient with airway inflammation
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis
+tracheostomy	performed on	patient with airway tumor
+tracheostomy	performed on	patient with airway foreign body
+tracheostomy	performed on	patient with airway trauma
+tracheostomy	performed on	patient with airway obstruction
+tracheostomy	performed on	patient with airway edema
+tracheostomy	performed on	patient with airway collapse
+tracheostomy	performed on	patient with airway stenosis

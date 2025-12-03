@@ -1,0 +1,100 @@
+antipsoriatics	are	drugs
+antipsoriatics	treat	psoriasis
+psoriasis	is	chronic
+psoriasis	causes	skin lesions
+skin lesions	cause	itching
+itching	leads to	sleep disturbance
+sleep disturbance	increases	depression
+depression	predicts	treatment non‑adherence
+treatment non‑adherence	raises	relapse risk
+relapse risk	increases	healthcare cost
+antipsoriatics	include	methotrexate
+antipsoriatics	include	cyclosporine
+antipsoriatics	include	biologics
+biologics	include	adalimumab
+biologics	include	etanercept
+biologics	include	ustekinumab
+biologics	include	secukinumab
+biologics	include	ixekizumab
+methotrexate	is	immunosuppressant
+cyclosporine	is	immunosuppressant
+methotrexate	causes	hepatotoxicity
+cyclosporine	causes	nephrotoxicity
+biologics	cause	infusion reactions
+infusion reactions	predict	hospitalization
+hospitalization	predicts	readmission
+readmission	predicts	mortality
+mortality	increases	with comorbidities
+comorbidities	include	cardiovascular disease
+cardiovascular disease	increases	mortality
+cardiovascular disease	increases	drug toxicity
+drug toxicity	increases	adverse events
+adverse events	increase	treatment discontinuation
+treatment discontinuation	leads to	disease flare
+disease flare	leads to	joint pain
+joint pain	predicts	reduced quality of life
+quality of life	predicts	depression
+depression	predicts	suicide risk
+suicide risk	predicts	mortality
+antipsoriatics	require	monitoring
+monitoring	includes	liver function tests
+liver function tests	detect	hepatotoxicity
+monitoring	includes	kidney function tests
+kidney function tests	detect	nephrotoxicity
+monitoring	includes	CBC
+CBC	detects	cytopenia
+cytopenia	predicts	infection risk
+infection risk	predicts	hospitalization
+hospitalization	predicts	mortality
+antipsoriatics	are	prescription drugs
+prescription drugs	require	insurance coverage
+insurance coverage	affects	adherence
+adherence	predicts	disease control
+disease control	predicts	flare frequency
+flare frequency	predicts	joint damage
+joint damage	predicts	disability
+disability	predicts	unemployment
+unemployment	predicts	financial strain
+financial strain	predicts	medication non‑adherence
+medication non‑adherence	predicts	flare
+flare	predicts	increased steroid use
+steroid use	predicts	osteoporosis
+osteoporosis	predicts	fracture risk
+fracture risk	predicts	mortality
+antipsoriatics	are	disease‑modifying
+disease‑modifying	reduce	disease activity
+disease activity	reduces	joint inflammation
+joint inflammation	reduces	pain
+pain	reduces	disability
+disability	reduces	mortality
+antipsoriatics	are	long‑term therapy
+long‑term therapy	requires	risk‑benefit assessment
+risk‑benefit assessment	includes	patient preference
+patient preference	influences	drug choice
+drug choice	influences	side‑effect profile
+side‑effect profile	influences	adherence
+adherence	influences	treatment outcome
+treatment outcome	influences	quality of life
+quality of life	influences	mental health
+mental health	influences	treatment adherence
+treatment adherence	influences	relapse
+relapse	influences	healthcare utilization
+healthcare utilization	influences	cost
+cost	influences	access to therapy
+access to therapy	influences	disease severity
+disease severity	influences	mortality
+mortality	influenced by	age
+age	influences	drug metabolism
+drug metabolism	influences	toxicity
+toxicity	influences	adverse events
+adverse events	influence	readmission
+readmission	influences	mortality
+mortality	influenced by	smoking
+smoking	increases	cardiovascular risk
+cardiovascular risk	increases	mortality
+antipsoriatics	are	indicated for moderate‑to‑severe
+moderate‑to‑severe	defined by	PASI score
+PASI score	predicts	treatment response
+treatment response	predicts	remission
+remission	predicts	reduced mortality
+reduced mortality	predicts	longer life expectancy

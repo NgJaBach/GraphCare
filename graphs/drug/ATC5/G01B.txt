@@ -1,0 +1,100 @@
+antiinfectives	are used with	corticosteroids
+antiseptics	are used with	corticosteroids
+antiinfectives	reduce	infection risk
+antiseptics	reduce	infection risk
+corticosteroids	increase	infection risk
+corticosteroids	suppress	immune response
+antiinfectives	prevent	opportunistic infection
+antiseptics	prevent	opportunistic infection
+antiinfectives	treat	bacterial infection
+antiseptics	treat	bacterial infection
+antiinfectives	treat	fungal infection
+antiseptics	treat	fungal infection
+corticosteroids	treat	inflammation
+corticosteroids	treat	allergic reaction
+antiinfectives	used for	post‑operative prophylaxis
+antiseptics	used for	post‑operative prophylaxis
+corticosteroids	used for	asthma
+corticosteroids	used for	COPD
+antiinfectives	used for	pneumonia
+antiseptics	used for	pneumonia
+corticosteroids	used for	rheumatoid arthritis
+antiinfectives	used for	sepsis
+antiseptics	used for	sepsis
+corticosteroids	used for	ulcerative colitis
+antiinfectives	used for	urinary tract infection
+antiseptics	used for	urinary tract infection
+corticosteroids	used for	systemic lupus erythematosus
+antiinfectives	used for	meningitis
+antiseptics	used for	meningitis
+corticosteroids	used for	dermatomyositis
+antiinfectives	used for	osteomyelitis
+antiseptics	used for	osteomyelitis
+corticosteroids	used for	vasculitis
+antiinfectives	used for	endocarditis
+antiseptics	used for	endocarditis
+corticosteroids	used for	transplant rejection
+antiinfectives	used for	cystic fibrosis infection
+antiseptics	used for	cystic fibrosis infection
+corticosteroids	used for	ocular inflammation
+antiinfectives	used for	skin infection
+antiseptics	used for	skin infection
+corticosteroids	used for	allergic rhinitis
+antiinfectives	used for	dental infection
+antiseptics	used for	dental infection
+corticosteroids	used for	migraine
+antiinfectives	used for	burn wound infection
+antiseptics	used for	burn wound infection
+corticosteroids	used for	oral ulcers
+antiinfectives	used for	sinusitis
+antiseptics	used for	sinusitis
+corticosteroids	used for	pericarditis
+antiinfectives	used for	prostatitis
+antiseptics	used for	prostatitis
+corticosteroids	used for	myasthenia gravis
+antiinfectives	used for	cholangitis
+antiseptics	used for	cholangitis
+corticosteroids	used for	pancreatitis
+antiinfectives	used for	pharyngitis
+antiseptics	used for	pharyngitis
+corticosteroids	used for	scleritis
+antiinfectives	used for	conjunctivitis
+antiseptics	used for	conjunctivitis
+corticosteroids	used for	uveitis
+antiinfectives	used for	otitis media
+antiseptics	used for	otitis media
+corticosteroids	used for	sarcoidosis
+antiinfectives	used for	gastroenteritis
+antiseptics	used for	gastroenteritis
+corticosteroids	used for	hemophagocytic lymphohistiocytosis
+antiinfectives	used for	viral infection
+antiseptics	used for	viral infection
+corticosteroids	used for	Kawasaki disease
+antiinfectives	used for	HIV infection
+antiseptics	used for	HIV infection
+corticosteroids	used for	multiple sclerosis
+antiinfectives	used for	tuberculosis
+antiseptics	used for	tuberculosis
+corticosteroids	used for	acute graft‑versus‑host disease
+antiinfectives	used for	viral pneumonia
+antiseptics	used for	viral pneumonia
+corticosteroids	used for	acute respiratory distress syndrome
+antiinfectives	used for	viral meningitis
+antiseptics	used for	viral meningitis
+corticosteroids	used for	systemic sclerosis
+antiinfectives	used for	fungal pneumonia
+antiseptics	used for	fungal pneumonia
+corticosteroids	used for	peritonitis
+antiinfectives	used for	peritonitis
+antiseptics	used for	peritonitis
+corticosteroids	used for	septic shock
+antiinfectives	used for	septic shock
+antiseptics	used for	septic shock
+corticosteroids	used for	acute pancreatitis
+antiinfectives	used for	acute pancreatitis
+antiseptics	used for	acute pancreatitis
+corticosteroids	used for	acute liver failure
+antiinfectives	used for	acute liver failure
+antiseptics	used for	acute liver failure
+corticosteroids	used for	acute kidney injury
+antiinfectives	used for	acute kidney injury

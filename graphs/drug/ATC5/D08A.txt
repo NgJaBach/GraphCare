@@ -1,0 +1,100 @@
+antiseptics	are	chemicals
+disinfectants	are	chemicals
+antiseptics	used on	skin
+disinfectants	used on	surfaces
+antiseptics	reduce	bacterial load
+disinfectants	reduce	viral load
+antiseptics	reduce	fungal load
+disinfectants	reduce	fungal load
+antiseptics	prevent	infection
+disinfectants	prevent	infection
+antiseptics	are	topical
+disinfectants	are	environmental
+antiseptics	include	alcohol
+disinfectants	include	bleach
+antiseptics	include	chlorhexidine
+disinfectants	include	quaternary ammonium
+antiseptics	include	povidone‑iodine
+disinfectants	include	hydrogen peroxide
+antiseptics	are	FDA‑approved
+disinfectants	are	EPA‑registered
+antiseptics	are	non‑irritating
+disinfectants	are	corrosive
+antiseptics	are	antiseptic
+disinfectants	are	disinfectant
+antiseptics	act on	gram‑positive bacteria
+disinfectants	act on	gram‑negative bacteria
+antiseptics	act on	spores
+disinfectants	act on	spores
+antiseptics	act on	viruses
+disinfectants	act on	viruses
+antiseptics	act on	fungi
+disinfectants	act on	fungi
+antiseptics	are	effective against	MRSA
+disinfectants	are	effective against	MRSA
+antiseptics	are	effective against	C. difficile
+disinfectants	are	effective against	C. difficile
+antiseptics	are	effective against	SARS‑CoV‑2
+disinfectants	are	effective against	SARS‑CoV‑2
+antiseptics	are	effective against	influenza
+disinfectants	are	effective against	influenza
+antiseptics	are	effective against	HSV
+disinfectants	are	effective against	HSV
+antiseptics	are	effective against	HPV
+disinfectants	are	effective against	HPV
+antiseptics	are	effective against	HPV
+disinfectants	are	effective against	HPV
+antiseptics	are	effective against	HIV
+disinfectants	are	effective against	HIV
+antiseptics	are	effective against	hepatitis B
+disinfectants	are	effective against	hepatitis B
+antiseptics	are	effective against	hepatitis C
+disinfectants	are	effective against	hepatitis C
+antiseptics	are	effective against	tuberculosis
+disinfectants	are	effective against	tuberculosis
+antiseptics	are	effective against	malaria parasite
+disinfectants	are	effective against	malaria parasite
+antiseptics	are	effective against	parasites
+disinfectants	are	effective against	parasites
+antiseptics	are	effective against	biofilm
+disinfectants	are	effective against	biofilm
+antiseptics	are	effective against	endotoxins
+disinfectants	are	effective against	endotoxins
+antiseptics	are	used in	hospitals
+disinfectants	are	used in	hospitals
+antiseptics	are	used in	clinics
+disinfectants	are	used in	clinics
+antiseptics	are	used in	laboratories
+disinfectants	are	used in	laboratories
+antiseptics	are	used in	food industry
+disinfectants	are	used in	food industry
+antiseptics	are	used in	dental
+disinfectants	are	used in	dental
+antiseptics	are	used in	agriculture
+disinfectants	are	used in	agriculture
+antiseptics	are	used in	personal care
+disinfectants	are	used in	personal care
+antiseptics	are	used in	veterinary
+disinfectants	are	used in	veterinary
+antiseptics	are	used in	public health
+disinfectants	are	used in	public health
+antiseptics	reduce	surgical site infection
+disinfectants	reduce	surgical site infection
+antiseptics	reduce	catheter‑associated infection
+disinfectants	reduce	catheter‑associated infection
+antiseptics	reduce	ventilator‑associated pneumonia
+disinfectants	reduce	ventilator‑associated pneumonia
+antiseptics	reduce	hand‑related infection
+disinfectants	reduce	hand‑related infection
+antiseptics	reduce	hospital‑acquired infection
+disinfectants	reduce	hospital‑acquired infection
+antiseptics	reduce	mortality
+disinfectants	reduce	mortality
+antiseptics	reduce	readmission
+disinfectants	reduce	readmission
+antiseptics	are	contraindicated in	burns
+disinfectants	are	contraindicated in	burns
+antiseptics	cause	skin irritation
+disinfectants	cause	respiratory irritation
+antiseptics	cause	allergic reaction
+disinfectants	cause	corrosion

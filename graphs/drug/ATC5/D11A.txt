@@ -1,0 +1,100 @@
+dermatological preparations	belong to	ATC
+ATC	classifies	drug categories
+dermatological preparations	include	topical steroids
+topical steroids	treat	eczema
+topical steroids	reduce	inflammation
+topical steroids	cause	skin atrophy
+topical steroids	have	potency levels
+potency levels	range	low to high
+low potency steroids	used for	mild dermatitis
+high potency steroids	used for	severe psoriasis
+dermatological preparations	include	topical antibiotics
+topical antibiotics	treat	bacterial skin infections
+topical antibiotics	include	mupirocin
+mupirocin	effective against	Staphylococcus aureus
+mupirocin	used for	impetigo
+dermatological preparations	include	topical antifungals
+topical antifungals	treat	tinea corporis
+topical antifungals	include	clotrimazole
+clotrimazole	effective against	Candida albicans
+dermatological preparations	include	topical calcineurin inhibitors
+topical calcineurin inhibitors	treat	atopic dermatitis
+topical calcineurin inhibitors	include	tacrolimus
+tacrolimus	reduces	cytokine production
+dermatological preparations	include	topical retinoids
+topical retinoids	treat	acne vulgaris
+topical retinoids	include	tretinoin
+tretinoin	normalizes	keratinization
+dermatological preparations	include	topical antihistamines
+topical antihistamines	relieve	pruritus
+topical antihistamines	include	diphenhydramine
+diphenhydramine	causes	skin dryness
+dermatological preparations	include	topical emollients
+topical emollients	moisturize	skin
+topical emollients	contain	ceramides
+ceramides	restore	lipid barrier
+dermatological preparations	include	topical sunscreens
+topical sunscreens	protect	skin from UV
+topical sunscreens	contain	zinc oxide
+zinc oxide	offers	broad‑spectrum protection
+dermatological preparations	include	topical anesthetics
+topical anesthetics	relieve	pain
+topical anesthetics	include	lidocaine
+lidocaine	used for	minor burns
+dermatological preparations	include	topical anti‑inflammatory agents
+topical anti‑inflammatory agents	treat	contact dermatitis
+topical anti‑inflammatory agents	include	diclofenac
+diclofenac	reduces	prostaglandin synthesis
+dermatological preparations	include	topical immunomodulators
+topical immunomodulators	treat	alopecia areata
+topical immunomodulators	include	imiquimod
+imiquimod	stimulates	interferon‑α
+dermatological preparations	include	topical vasodilators
+topical vasodilators	treat	Raynaud’s phenomenon
+topical vasodilators	include	nitroglycerin
+nitroglycerin	causes	flushing
+dermatological preparations	include	topical anti‑psoriatic agents
+topical anti‑psoriatic agents	treat	plaque psoriasis
+topical anti‑psoriatic agents	include	calcipotriol
+calcipotriol	modulates	vitamin D receptor
+dermatological preparations	include	topical anti‑viral agents
+topical anti‑viral agents	treat	herpes simplex
+topical anti‑viral agents	include	acyclovir
+acyclovir	inhibits	viral DNA polymerase
+dermatological preparations	include	topical anti‑bacterial agents
+topical anti‑bacterial agents	treat	folliculitis
+topical anti‑bacterial agents	include	benzoyl peroxide
+benzoyl peroxide	oxidizes	bacterial cell walls
+dermatological preparations	include	topical anti‑fungal agents
+topical anti‑fungal agents	treat	seborrheic dermatitis
+topical anti‑fungal agents	include	ketoconazole
+ketoconazole	disrupts	ergosterol synthesis
+dermatological preparations	include	topical anti‑inflammatory steroids
+topical anti‑inflammatory steroids	reduce	edema
+dermatological preparations	include	topical anti‑pruritic agents
+topical anti‑pruritic agents	relieve	itching
+dermatological preparations	include	topical anti‑inflammatory agents
+topical anti‑inflammatory agents	reduce	cytokine release
+dermatological preparations	include	topical anti‑inflammatory creams
+topical anti‑inflammatory creams	contain	hydrocortisone
+hydrocortisone	is a	low‑potency steroid
+dermatological preparations	include	topical anti‑inflammatory ointments
+topical anti‑inflammatory ointments	used for	eczema
+dermatological preparations	include	topical anti‑inflammatory gels
+topical anti‑inflammatory gels	used for	psoriasis
+dermatological preparations	include	topical anti‑inflammatory lotions
+topical anti‑inflammatory lotions	used for	dermatitis
+dermatological preparations	include	topical anti‑inflammatory sprays
+topical anti‑inflammatory sprays	used for	acne
+dermatological preparations	include	topical anti‑inflammatory patches
+topical anti‑inflammatory patches	deliver	medication
+dermatological preparations	include	topical anti‑inflammatory gels
+topical anti‑inflammatory gels	contain	diclofenac
+dermatological preparations	include	topical anti‑inflammatory creams
+topical anti‑inflammatory creams	contain	mometasone
+mometasone	is a	medium‑potency steroid
+dermatological preparations	include	topical anti‑inflammatory ointments
+topical anti‑inflammatory ointments	contain	betamethasone
+betamethasone	is a	high‑potency steroid
+dermatological preparations	include	topical anti‑inflammatory lotions
+topical anti‑inflammatory lotions	contain	clobetasol

@@ -1,0 +1,100 @@
+tonsillectomy	is a	surgical procedure
+adenoidectomy	is a	surgical procedure
+tonsillectomy	removes	tonsils
+adenoidectomy	removes	adenoids
+tonsillectomy	treats	recurrent tonsillitis
+adenoidectomy	treats	obstructive sleep apnea
+tonsillectomy	reduces	throat infections
+adenoidectomy	reduces	nasal congestion
+tonsillectomy	improves	quality of life
+adenoidectomy	improves	breathing
+tonsillectomy	performed	by ENT surgeon
+adenoidectomy	performed	by ENT surgeon
+tonsillectomy	requires	general anesthesia
+adenoidectomy	requires	general anesthesia
+tonsillectomy	has	postoperative pain
+adenoidectomy	has	postoperative pain
+tonsillectomy	has	bleeding risk
+adenoidectomy	has	bleeding risk
+tonsillectomy	has	infection risk
+adenoidectomy	has	infection risk
+tonsillectomy	has	dehydration risk
+adenoidectomy	has	dehydration risk
+tonsillectomy	can cause	scarring
+adenoidectomy	can cause	scarring
+tonsillectomy	can cause	hearing loss
+adenoidectomy	can cause	hearing loss
+tonsillectomy	can cause	speech changes
+adenoidectomy	can cause	speech changes
+tonsillectomy	can cause	sleep apnea recurrence
+adenoidectomy	can cause	sleep apnea recurrence
+tonsillectomy	reduces	antibiotic use
+adenoidectomy	reduces	antibiotic use
+tonsillectomy	reduces	hospital readmission
+adenoidectomy	reduces	hospital readmission
+tonsillectomy	improves	immune function
+adenoidectomy	improves	immune function
+tonsillectomy	increases	postoperative care visits
+adenoidectomy	increases	postoperative care visits
+tonsillectomy	contraindicated	in bleeding disorders
+adenoidectomy	contraindicated	in bleeding disorders
+tonsillectomy	contraindicated	in uncontrolled asthma
+adenoidectomy	contraindicated	in uncontrolled asthma
+tonsillectomy	contraindicated	in severe obesity
+adenoidectomy	contraindicated	in severe obesity
+tonsillectomy	contraindicated	in chronic steroid use
+adenoidectomy	contraindicated	in chronic steroid use
+tonsillectomy	recommended	for recurrent tonsillitis
+adenoidectomy	recommended	for obstructive sleep apnea
+tonsillectomy	recommended	for chronic ear infections
+adenoidectomy	recommended	for chronic ear infections
+tonsillectomy	recommended	for snoring
+adenoidectomy	recommended	for snoring
+tonsillectomy	recommended	for adenoid hypertrophy
+adenoidectomy	recommended	for adenoid hypertrophy
+tonsillectomy	recommended	for pediatric patients
+adenoidectomy	recommended	for pediatric patients
+tonsillectomy	recommended	for adults with recurrent infections
+adenoidectomy	recommended	for adults with recurrent infections
+tonsillectomy	associated with	postoperative nausea
+adenoidectomy	associated with	postoperative nausea
+tonsillectomy	associated with	postoperative vomiting
+adenoidectomy	associated with	postoperative vomiting
+tonsillectomy	associated with	postoperative fever
+adenoidectomy	associated with	postoperative fever
+tonsillectomy	associated with	postoperative bleeding
+adenoidectomy	associated with	postoperative bleeding
+tonsillectomy	associated with	postoperative infection
+adenoidectomy	associated with	postoperative infection
+tonsillectomy	associated with	postoperative dehydration
+adenoidectomy	associated with	postoperative dehydration
+tonsillectomy	associated with	postoperative pain score
+adenoidectomy	associated with	postoperative pain score
+tonsillectomy	associated with	postoperative opioid use
+adenoidectomy	associated with	postoperative opioid use
+tonsillectomy	associated with	postoperative antibiotic use
+adenoidectomy	associated with	postoperative antibiotic use
+tonsillectomy	associated with	postoperative complications
+adenoidectomy	associated with	postoperative complications
+tonsillectomy	associated with	postoperative hospital stay
+adenoidectomy	associated with	postoperative hospital stay
+tonsillectomy	associated with	postoperative readmission
+adenoidectomy	associated with	postoperative readmission
+tonsillectomy	associated with	postoperative mortality
+adenoidectomy	associated with	postoperative mortality
+tonsillectomy	improves	sleep quality
+adenoidectomy	improves	sleep quality
+tonsillectomy	improves	respiratory function
+adenoidectomy	improves	respiratory function
+tonsillectomy	improves	hearing thresholds
+adenoidectomy	improves	hearing thresholds
+tonsillectomy	improves	speech intelligibility
+adenoidectomy	improves	speech intelligibility
+tonsillectomy	improves	growth parameters
+adenoidectomy	improves	growth parameters
+tonsillectomy	improves	immune markers
+adenoidectomy	improves	immune markers
+tonsillectomy	improves	parental satisfaction
+adenoidectomy	improves	parental satisfaction
+tonsillectomy	improves	school attendance
+adenoidectomy	improves	school attendance

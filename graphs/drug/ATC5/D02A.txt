@@ -1,0 +1,100 @@
+emollients	are	topical agents
+protectives	are	barrier creams
+emollients	reduce	skin dryness
+protectives	prevent	skin irritation
+emollients	contain	humectants
+protectives	contain	occlusives
+humectants	attract	water
+occlusives	form	protective film
+protective film	lock in	moisture
+emollients	improve	skin elasticity
+protectives	shield	skin from allergens
+emollients	used in	eczema
+protectives	used in	psoriasis
+emollients	used in	atopic dermatitis
+protectives	used in	contact dermatitis
+emollients	reduce	itching
+protectives	reduce	inflammation
+emollients	contain	ceramides
+ceramides	restore	lipid barrier
+protectives	contain	zinc oxide
+zinc oxide	provide	UV protection
+emollients	are	non‑irritating
+protectives	are	fragrance‑free
+emollients	are	hypoallergenic
+protectives	are	dermatologically tested
+emollients	applied	twice daily
+protectives	applied	after bathing
+emollients	enhance	skin barrier function
+protectives	reduce	transepidermal water loss
+emollients	used in	neonatal care
+protectives	used in	burn care
+emollients	improve	wound healing
+protectives	reduce	scar formation
+emollients	contain	glycerin
+glycerin	is	humectant
+protectives	contain	petrolatum
+petrolatum	is	occlusive
+emollients	are	emollient creams
+protectives	are	protective ointments
+emollients	are	emollient lotions
+protectives	are	protective gels
+emollients	reduce	xerosis
+protectives	reduce	maceration
+emollients	used in	chronic pruritus
+protectives	used in	occupational dermatitis
+emollients	improve	skin hydration
+protectives	improve	skin barrier integrity
+emollients	are	non‑comedogenic
+protectives	are	non‑comedogenic
+emollients	are	suitable for children
+protectives	are	suitable for children
+emollients	are	suitable for adults
+protectives	are	suitable for adults
+emollients	are	suitable for elderly
+protectives	are	suitable for elderly
+emollients	are	suitable for pregnant
+protectives	are	suitable for pregnant
+emollients	are	suitable for lactating
+protectives	are	suitable for lactating
+emollients	are	suitable for immunocompromised
+protectives	are	suitable for immunocompromised
+emollients	are	suitable for post‑operative
+protectives	are	suitable for post‑operative
+emollients	are	suitable for burn
+protectives	are	suitable for burn
+emollients	are	suitable for ulcer
+protectives	are	suitable for ulcer
+emollients	are	suitable for surgical
+protectives	are	suitable for surgical
+emollients	are	suitable for cosmetic
+protectives	are	suitable for cosmetic
+emollients	are	suitable for therapeutic
+protectives	are	suitable for therapeutic
+emollients	are	suitable for cosmetic
+protectives	are	suitable for cosmetic
+emollients	are	suitable for therapeutic
+protectives	are	suitable for therapeutic
+emollients	are	suitable for dermatology
+protectives	are	suitable for dermatology
+emollients	are	suitable for wound
+protectives	are	suitable for wound
+emollients	are	suitable for skin
+protectives	are	suitable for skin
+emollients	are	suitable for barrier
+protectives	are	suitable for barrier
+emollients	are	suitable for moisture
+protectives	are	suitable for moisture
+emollients	are	suitable for hydration
+protectives	are	suitable for hydration
+emollients	are	suitable for protection
+protectives	are	suitable for protection
+emollients	are	suitable for therapy
+protectives	are	suitable for therapy
+emollients	are	suitable for prevention
+protectives	are	suitable for prevention
+emollients	are	suitable for treatment
+protectives	are	suitable for treatment
+emollients	are	suitable for care
+protectives	are	suitable for care
+emollients	are	suitable for management

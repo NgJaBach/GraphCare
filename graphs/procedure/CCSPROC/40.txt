@@ -1,0 +1,100 @@
+bronchoscopy	is a	diagnostic procedure
+bronchoscopy	examines	airway
+bronchoscopy	detects	tumors
+bronchoscopy	detects	infections
+bronchoscopy	detects	inflammation
+bronchoscopy	detects	bleeding
+bronchoscopy	uses	fiberoptic scope
+bronchoscopy	uses	suction
+bronchoscopy	uses	biopsy
+bronchoscopy	uses	lavage
+bronchoscopy	uses	cryoprobe
+bronchoscopy	can be	flexible
+bronchoscopy	can be	rigid
+bronchoscopy	is performed	outpatient
+bronchoscopy	is performed	inpatient
+bronchoscopy	requires	sedation
+bronchoscopy	requires	local anesthesia
+bronchoscopy	is guided by	fluoroscopy
+bronchoscopy	is guided by	CT
+bronchoscopy	is guided by	ultrasound
+bronchoscopy	is guided by	endobronchial ultrasound
+bronchoscopy	is guided by	virtual bronchoscopy
+bronchoscopy	is used for	staging
+bronchoscopy	is used for	sampling
+bronchoscopy	is used for	therapy
+bronchoscopy	is used for	airway clearance
+bronchoscopy	is used for	stent placement
+bronchoscopy	is used for	tumor debulking
+bronchoscopy	is used for	foreign body removal
+bronchoscopy	is used for	mucus plug removal
+bronchoscopy	is used for	bronchoalveolar lavage
+bronchoscopy	is used for	cytology
+bronchoscopy	is used for	histology
+bronchoscopy	is used for	microbiology
+bronchoscopy	is used for	molecular testing
+bronchoscopy	is used for	immunohistochemistry
+bronchoscopy	is used for	PCR
+bronchoscopy	is used for	next‑generation sequencing
+bronchoscopy	is used for	drug sensitivity
+bronchoscopy	is used for	prognosis
+bronchoscopy	is used for	monitoring
+bronchoscopy	is used for	follow‑up
+bronchoscopy	is used for	symptom relief
+bronchoscopy	is used for	palliative care
+bronchoscopy	is used for	airway reconstruction
+bronchoscopy	is used for	airway stenting
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation
+bronchoscopy	is used for	airway dilation

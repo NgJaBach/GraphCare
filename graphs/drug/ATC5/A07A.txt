@@ -1,0 +1,100 @@
+intestinal antiinfectives	are	drugs
+intestinal antiinfectives	treat	bacterial enteritis
+intestinal antiinfectives	treat	viral gastroenteritis
+intestinal antiinfectives	treat	parasitic dysentery
+intestinal antiinfectives	treat	Clostridioides difficile
+intestinal antiinfectives	treat	Helicobacter pylori
+intestinal antiinfectives	treat	Salmonella
+intestinal antiinfectives	treat	Shigella
+intestinal antiinfectives	treat	Campylobacter
+intestinal antiinfectives	treat	E. coli
+intestinal antiinfectives	treat	Yersinia
+intestinal antiinfectives	treat	Vibrio
+intestinal antiinfectives	treat	Giardia
+intestinal antiinfectives	treat	Cryptosporidium
+intestinal antiinfectives	treat	Entamoeba
+intestinal antiinfectives	treat	C. difficile
+intestinal antiinfectives	reduce	mortality
+intestinal antiinfectives	reduce	readmission
+intestinal antiinfectives	reduce	complications
+intestinal antiinfectives	reduce	length of stay
+intestinal antiinfectives	improve	symptom resolution
+intestinal antiinfectives	improve	quality of life
+intestinal antiinfectives	improve	stool frequency
+intestinal antiinfectives	improve	fever
+intestinal antiinfectives	improve	abdominal pain
+intestinal antiinfectives	improve	dehydration
+intestinal antiinfectives	improve	electrolyte balance
+intestinal antiinfectives	improve	nutritional status
+intestinal antiinfectives	improve	immune response
+intestinal antiinfectives	improve	microbiome diversity
+intestinal antiinfectives	improve	antibiotic stewardship
+intestinal antiinfectives	improve	resistance patterns
+intestinal antiinfectives	improve	cost‑effectiveness
+intestinal antiinfectives	improve	patient satisfaction
+intestinal antiinfectives	improve	adherence
+intestinal antiinfectives	improve	dosing schedule
+intestinal antiinfectives	improve	safety profile
+intestinal antiinfectives	improve	drug interactions
+intestinal antiinfectives	improve	pharmacokinetics
+intestinal antiinfectives	improve	pharmacodynamics
+intestinal antiinfectives	improve	bioavailability
+intestinal antiinfectives	improve	absorption
+intestinal antiinfectives	improve	distribution
+intestinal antiinfectives	improve	metabolism
+intestinal antiinfectives	improve	excretion
+intestinal antiinfectives	improve	half‑life
+intestinal antiinfectives	improve	therapeutic index
+intestinal antiinfectives	improve	side‑effect profile
+intestinal antiinfectives	improve	drug‑drug interaction risk
+intestinal antiinfectives	improve	drug‑disease interaction risk
+intestinal antiinfectives	improve	patient‑specific dosing
+intestinal antiinfectives	improve	renal dosing
+intestinal antiinfectives	improve	hepatic dosing
+intestinal antiinfectives	improve	age‑specific dosing
+intestinal antiinfectives	improve	pregnancy safety
+intestinal antiinfectives	improve	lactation safety
+intestinal antiinfectives	improve	pediatric safety
+intestinal antiinfectives	improve	geriatric safety
+intestinal antiinfectives	improve	comorbidity management
+intestinal antiinfectives	improve	infection control
+intestinal antiinfectives	improve	antimicrobial spectrum
+intestinal antiinfectives	improve	resistance prevention
+intestinal antiinfectives	improve	microbiota preservation
+intestinal antiinfectives	improve	probiotic synergy
+intestinal antiinfectives	improve	vaccination response
+intestinal antiinfectives	improve	immune modulation
+intestinal antiinfectives	improve	gut barrier function
+intestinal antiinfectives	improve	mucosal immunity
+intestinal antiinfectives	improve	cytokine balance
+intestinal antiinfectives	improve	inflammatory markers
+intestinal antiinfectives	improve	C‑reactive protein
+intestinal antiinfectives	improve	white blood cell count
+intestinal antiinfectives	improve	stool culture clearance
+intestinal antiinfectives	improve	PCR clearance
+intestinal antiinfectives	improve	imaging resolution
+intestinal antiinfectives	improve	endoscopy findings
+intestinal antiinfectives	improve	colonoscopy outcomes
+intestinal antiinfectives	improve	histology
+intestinal antiinfectives	improve	biomarker levels
+intestinal antiinfectives	improve	recurrence risk
+intestinal antiinfectives	improve	relapse prevention
+intestinal antiinfectives	improve	long‑term outcomes
+intestinal antiinfectives	improve	survival
+intestinal antiinfectives	improve	rehospitalization
+intestinal antiinfectives	improve	emergency visits
+intestinal antiinfectives	improve	outpatient visits
+intestinal antiinfectives	improve	medication adherence
+intestinal antiinfectives	improve	health‑care utilization
+intestinal antiinfectives	improve	cost savings
+intestinal antiinfectives	improve	quality‑adjusted life years
+intestinal antiinfectives	improve	patient‑reported outcomes
+intestinal antiinfectives	improve	caregiver burden
+intestinal antiinfectives	improve	public health impact
+intestinal antiinfectives	improve	antimicrobial resistance burden
+intestinal antiinfectives	improve	environmental impact
+intestinal antiinfectives	improve	waste reduction
+intestinal antiinfectives	improve	sustainability
+intestinal antiinfectives	improve	global health
+intestinal antiinfectives	improve	equity
+intestinal antiinfectives	improve	access

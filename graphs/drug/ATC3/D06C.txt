@@ -1,0 +1,100 @@
+antibiotics	combine with	chemotherapeutics
+combination therapy	reduces	resistance
+combination therapy	improves	survival
+combination therapy	lowers	toxicity
+antibiotics	target	bacteria
+chemotherapeutics	target	cancer cells
+antibiotics	inhibit	DNA replication
+chemotherapeutics	inhibit	DNA replication
+antibiotics	inhibit	protein synthesis
+chemotherapeutics	inhibit	protein synthesis
+antibiotics	inhibit	cell wall synthesis
+chemotherapeutics	inhibit	cell division
+antibiotics	reduce	infection
+chemotherapeutics	reduce	tumor burden
+antibiotics	prevent	opportunistic infections
+chemotherapeutics	prevent	metastasis
+antibiotics	used in	neutropenic patients
+chemotherapeutics	used in	solid tumors
+antibiotics	used in	hematologic malignancies
+chemotherapeutics	used in	hematologic malignancies
+antibiotics	cause	microbiome disruption
+chemotherapeutics	cause	immunosuppression
+antibiotics	cause	antibiotic resistance
+chemotherapeutics	cause	cardiotoxicity
+antibiotics	cause	nephrotoxicity
+chemotherapeutics	cause	neurotoxicity
+antibiotics	mitigate	sepsis
+chemotherapeutics	mitigate	tumor progression
+antibiotics	synergize with	platinum agents
+chemotherapeutics	synergize with	beta-lactams
+antibiotics	synergize with	anthracyclines
+chemotherapeutics	synergize with	macrolides
+antibiotics	antagonize	taxanes
+chemotherapeutics	antagonize	fluoroquinolones
+antibiotics	enhance	drug delivery
+chemotherapeutics	enhance	immune checkpoint inhibitors
+antibiotics	reduce	hospital stay
+chemotherapeutics	reduce	relapse rate
+antibiotics	increase	patient compliance
+chemotherapeutics	increase	quality of life
+antibiotics	monitored by	therapeutic drug monitoring
+chemotherapeutics	monitored by	pharmacokinetic profiling
+antibiotics	dosage adjusted by	renal function
+chemotherapeutics	dosage adjusted by	hepatic function
+antibiotics	contraindicated in	pregnancy
+chemotherapeutics	contraindicated in	pregnancy
+antibiotics	contraindicated in	lactation
+chemotherapeutics	contraindicated in	lactation
+antibiotics	contraindicated in	renal impairment
+chemotherapeutics	contraindicated in	hepatic impairment
+antibiotics	contraindicated in	severe allergy
+chemotherapeutics	contraindicated in	severe allergy
+antibiotics	contraindicated in	myasthenia gravis
+chemotherapeutics	contraindicated in	myasthenia gravis
+antibiotics	contraindicated in	G6PD deficiency
+chemotherapeutics	contraindicated in	G6PD deficiency
+antibiotics	contraindicated in	cystic fibrosis
+chemotherapeutics	contraindicated in	cystic fibrosis
+antibiotics	contraindicated in	HIV infection
+chemotherapeutics	contraindicated in	HIV infection
+antibiotics	contraindicated in	tuberculosis
+chemotherapeutics	contraindicated in	tuberculosis
+antibiotics	contraindicated in	malaria
+chemotherapeutics	contraindicated in	malaria
+antibiotics	contraindicated in	viral infections
+chemotherapeutics	contraindicated in	viral infections
+antibiotics	contraindicated in	fungal infections
+chemotherapeutics	contraindicated in	fungal infections
+antibiotics	contraindicated in	parasitic infections
+chemotherapeutics	contraindicated in	parasitic infections
+antibiotics	contraindicated in	autoimmune disease
+chemotherapeutics	contraindicated in	autoimmune disease
+antibiotics	contraindicated in	chronic kidney disease
+chemotherapeutics	contraindicated in	chronic kidney disease
+antibiotics	contraindicated in	liver disease
+chemotherapeutics	contraindicated in	liver disease
+antibiotics	contraindicated in	heart disease
+chemotherapeutics	contraindicated in	heart disease
+antibiotics	contraindicated in	lung disease
+chemotherapeutics	contraindicated in	lung disease
+antibiotics	contraindicated in	bone marrow failure
+chemotherapeutics	contraindicated in	bone marrow failure
+antibiotics	contraindicated in	pregnancy category X
+chemotherapeutics	contraindicated in	pregnancy category X
+antibiotics	contraindicated in	lactation category B
+chemotherapeutics	contraindicated in	lactation category B
+antibiotics	contraindicated in	pregnancy category D
+chemotherapeutics	contraindicated in	pregnancy category D
+antibiotics	contraindicated in	pregnancy category C
+chemotherapeutics	contraindicated in	pregnancy category C
+antibiotics	contraindicated in	pregnancy category B
+chemotherapeutics	contraindicated in	pregnancy category B
+antibiotics	contraindicated in	pregnancy category A
+chemotherapeutics	contraindicated in	pregnancy category A
+antibiotics	contraindicated in	pregnancy category X
+chemotherapeutics	contraindicated in	pregnancy category X
+antibiotics	contraindicated in	pregnancy category Y
+chemotherapeutics	contraindicated in	pregnancy category Y
+antibiotics	contraindicated in	pregnancy category Z
+chemotherapeutics	contraindicated in	pregnancy category Z

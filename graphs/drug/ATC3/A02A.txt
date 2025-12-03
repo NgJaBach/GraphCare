@@ -1,0 +1,100 @@
+antacids	treat	heartburn
+antacids	neutralize	stomach acid
+antacids	contain	magnesium
+antacids	contain	calcium
+antacids	contain	aluminum
+antacids	reduce	gastric pH
+antacids	relieve	dyspepsia
+antacids	prevent	esophagitis
+antacids	used for	GERD
+antacids	used for	reflux
+antacids	used for	peptic ulcer
+antacids	used for	gastritis
+antacids	used for	acid reflux
+antacids	used for	nausea
+antacids	used for	vomiting
+antacids	used for	indigestion
+antacids	used for	stomach pain
+antacids	used for	acid indigestion
+antacids	used for	acid reflux disease
+antacids	used for	acid reflux symptoms
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux medication
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription
+antacids	used for	acid reflux over‑the‑counter
+antacids	used for	acid reflux therapy
+antacids	used for	acid reflux treatment
+antacids	used for	acid reflux management
+antacids	used for	acid reflux relief
+antacids	used for	acid reflux control
+antacids	used for	acid reflux prevention
+antacids	used for	acid reflux cure
+antacids	used for	acid reflux drug
+antacids	used for	acid reflux prescription

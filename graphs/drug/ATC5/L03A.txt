@@ -1,0 +1,100 @@
+immunostimulants	are	drugs
+immunostimulants	activate	immune cells
+immunostimulants	enhance	antibody production
+immunostimulants	stimulate	cytokine release
+immunostimulants	increase	T‑cell activity
+immunostimulants	boost	NK‑cell function
+immunostimulants	upregulate	MHC expression
+immunostimulants	modulate	innate immunity
+immunostimulants	used in	vaccine adjuvants
+immunostimulants	used in	cancer therapy
+immunostimulants	used in	infectious disease
+immunostimulants	used in	autoimmune disorders
+immunostimulants	used in	transplant rejection
+immunostimulants	reduce	infection risk
+immunostimulants	reduce	mortality
+immunostimulants	reduce	readmission
+immunostimulants	improve	vaccine efficacy
+immunostimulants	improve	tumor response
+immunostimulants	improve	wound healing
+immunostimulants	improve	sepsis outcome
+immunostimulants	cause	fever
+immunostimulants	cause	fatigue
+immunostimulants	cause	injection site pain
+immunostimulants	cause	allergic reaction
+immunostimulants	cause	cytokine storm
+immunostimulants	contraindicated in	immunodeficiency
+immunostimulants	contraindicated in	autoimmune flare
+immunostimulants	contraindicated in	pregnancy
+immunostimulants	contraindicated in	lactation
+immunostimulants	contraindicated in	organ transplant
+immunostimulants	interact with	immunosuppressants
+immunostimulants	interact with	steroids
+immunostimulants	interact with	biologics
+immunostimulants	interact with	antibiotics
+immunostimulants	interact with	antivirals
+immunostimulants	metabolized by	liver
+immunostimulants	excreted by	kidneys
+immunostimulants	dosage	depends on weight
+immunostimulants	dosage	depends on age
+immunostimulants	dosage	depends on renal function
+immunostimulants	dosage	depends on liver function
+immunostimulants	dosage	adjusted for pregnancy
+immunostimulants	dosage	adjusted for lactation
+immunostimulants	route	injection
+immunostimulants	route	oral
+immunostimulants	route	topical
+immunostimulants	route	intranasal
+immunostimulants	formulation	adjuvant
+immunostimulants	formulation	nanoparticle
+immunostimulants	formulation	liposome
+immunostimulants	formulation	protein
+immunostimulants	formulation	polysaccharide
+immunostimulants	formulation	synthetic peptide
+immunostimulants	formulation	viral vector
+immunostimulants	formulation	DNA plasmid
+immunostimulants	formulation	mRNA
+immunostimulants	mechanism	toll‑like receptor activation
+immunostimulants	mechanism	NOD‑like receptor activation
+immunostimulants	mechanism	STING pathway activation
+immunostimulants	mechanism	inflammasome activation
+immunostimulants	mechanism	antigen presentation enhancement
+immunostimulants	mechanism	B‑cell activation
+immunostimulants	mechanism	dendritic cell maturation
+immunostimulants	mechanism	macrophage polarization
+immunostimulants	mechanism	complement activation
+immunostimulants	mechanism	chemokine induction
+immunostimulants	mechanism	interferon induction
+immunostimulants	mechanism	prostaglandin modulation
+immunostimulants	mechanism	nitric oxide production
+immunostimulants	mechanism	reactive oxygen species generation
+immunostimulants	mechanism	apoptosis induction in infected cells
+immunostimulants	mechanism	autophagy induction
+immunostimulants	mechanism	epigenetic modulation
+immunostimulants	mechanism	metabolic reprogramming
+immunostimulants	mechanism	checkpoint inhibition
+immunostimulants	mechanism	memory T‑cell formation
+immunostimulants	mechanism	antibody affinity maturation
+immunostimulants	mechanism	B‑cell class switching
+immunostimulants	mechanism	cytokine network modulation
+immunostimulants	mechanism	immunoglobulin secretion
+immunostimulants	mechanism	leukocyte recruitment
+immunostimulants	mechanism	vascular permeability
+immunostimulants	mechanism	granulocyte‑macrophage colony‑stimulating factor production
+immunostimulants	mechanism	interleukin‑12 production
+immunostimulants	mechanism	interferon‑γ production
+immunostimulants	mechanism	tumor necrosis factor‑α production
+immunostimulants	mechanism	IL‑6 production
+immunostimulants	mechanism	IL‑10 production
+immunostimulants	mechanism	IL‑1β production
+immunostimulants	mechanism	chemokine‑C‑type ligand production
+immunostimulants	mechanism	chemokine‑D‑type ligand production
+immunostimulants	mechanism	chemokine‑E‑type ligand production
+immunostimulants	mechanism	chemokine‑F‑type ligand production
+immunostimulants	mechanism	chemokine‑G‑type ligand production
+immunostimulants	mechanism	chemokine‑H‑type ligand production
+immunostimulants	mechanism	chemokine‑I‑type ligand production
+immunostimulants	mechanism	chemokine‑J‑type ligand production
+immunostimulants	mechanism	chemokine‑K‑type ligand production
+immunostimulants	mechanism	chemokine‑L‑type ligand production
+immunostimulants	mechanism	chemokine‑M‑type ligand production

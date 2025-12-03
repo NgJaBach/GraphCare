@@ -1,0 +1,100 @@
+selective calcium channel blockers	are	drug
+selective calcium channel blockers	target	L-type calcium channels
+L-type calcium channels	are found in	cardiac myocytes
+cardiac myocytes	generate	action potentials
+action potentials	regulate	heart rate
+heart rate	influences	cardiac output
+cardiac output	determines	blood pressure
+blood pressure	is regulated by	sympathetic nervous system
+sympathetic nervous system	releases	norepinephrine
+norepinephrine	binds to	β-adrenergic receptors
+β-adrenergic receptors	stimulate	calcium influx
+calcium influx	increases	contractility
+contractility	affects	stroke volume
+stroke volume	contributes to	cardiac output
+cardiac output	is a predictor of	mortality
+mortality	is a key outcome in	heart failure
+heart failure	is treated with	selective calcium channel blockers
+selective calcium channel blockers	reduce	myocardial oxygen demand
+myocardial oxygen demand	is linked to	angina
+angina	is a symptom of	coronary artery disease
+coronary artery disease	increases	readmission risk
+readmission risk	is a target for	quality improvement
+quality improvement	uses	predictive analytics
+predictive analytics	relies on	electronic health records
+electronic health records	contain	medication lists
+medication lists	include	selective calcium channel blockers
+selective calcium channel blockers	have	side effect profile
+side effect profile	includes	peripheral edema
+peripheral edema	can lead to	patient non‑adherence
+patient non‑adherence	increases	hospitalization rate
+hospitalization rate	is a metric for	healthcare utilization
+healthcare utilization	is reduced by	medication optimization
+medication optimization	involves	drug‑drug interaction screening
+drug‑drug interaction screening	identifies	contraindications
+contraindications	include	β‑blocker use
+β‑blocker use	is common in	atrial fibrillation
+atrial fibrillation	is associated with	stroke risk
+stroke risk	is mitigated by	anticoagulation
+anticoagulation	requires	renal function assessment
+renal function assessment	uses	estimated glomerular filtration rate
+estimated glomerular filtration rate	predicts	drug clearance
+drug clearance	affects	drug efficacy
+drug efficacy	influences	blood pressure control
+blood pressure control	is a goal of	hypertension management
+hypertension management	includes	lifestyle modification
+lifestyle modification	includes	sodium restriction
+sodium restriction	reduces	blood pressure
+blood pressure	is monitored by	home blood pressure monitoring
+home blood pressure monitoring	improves	patient engagement
+patient engagement	predicts	medication adherence
+medication adherence	is a predictor of	long‑term outcomes
+long‑term outcomes	include	mortality and morbidity
+mortality and morbidity	are outcomes in	cardiovascular risk models
+cardiovascular risk models	use	risk scores
+risk scores	incorporate	age
+age	is a risk factor for	cardiovascular disease
+cardiovascular disease	is treated with	calcium channel blockers
+calcium channel blockers	are classified by	pharmacokinetics
+pharmacokinetics	include	half‑life
+half‑life	determines	dosing frequency
+dosing frequency	affects	patient adherence
+patient adherence	influences	therapeutic drug monitoring
+therapeutic drug monitoring	ensures	therapeutic levels
+therapeutic levels	prevent	adverse events
+adverse events	include	hypotension
+hypotension	can cause	syncope
+syncope	leads to	falls
+falls	increase	fracture risk
+fracture risk	is a predictor of	mortality
+mortality	is a key endpoint in	clinical trials
+clinical trials	evaluate	drug efficacy
+drug efficacy	is measured by	blood pressure reduction
+blood pressure reduction	correlates with	cardiovascular event reduction
+cardiovascular event reduction	is a goal of	preventive cardiology
+preventive cardiology	uses	risk factor modification
+risk factor modification	includes	smoking cessation
+smoking cessation	reduces	cardiovascular risk
+cardiovascular risk	is assessed by	Framingham score
+Framingham score	uses	cholesterol levels
+cholesterol levels	are managed by	statins
+statins	interact with	calcium channel blockers
+interaction	can increase	drug concentration
+drug concentration	may cause	bradycardia
+bradycardia	is a sign of	over‑inhibition of calcium channels
+over‑inhibition	leads to	decreased cardiac output
+decreased cardiac output	causes	fatigue
+fatigue	reduces	quality of life
+quality of life	is measured by	patient‑reported outcomes
+patient‑reported outcomes	inform	shared decision making
+shared decision making	improves	treatment satisfaction
+treatment satisfaction	predicts	adherence
+adherence	is essential for	blood pressure control
+blood pressure control	reduces	readmission risk
+readmission risk	is a target for	value‑based care
+value‑based care	incentivizes	medication optimization
+medication optimization	includes	deprescribing
+deprescribing	reduces	polypharmacy
+polypharmacy	increases	adverse drug events
+adverse drug events	are a cause of	emergency department visits
+emergency department visits	predict	future hospitalizations

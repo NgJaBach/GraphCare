@@ -1,0 +1,100 @@
+vitamin B‑complex	contains	thiamine
+vitamin B‑complex	contains	riboflavin
+vitamin B‑complex	contains	niacin
+vitamin B‑complex	contains	pantothenic acid
+vitamin B‑complex	contains	pyridoxine
+vitamin B‑complex	contains	biotin
+vitamin B‑complex	contains	folic acid
+vitamin B‑complex	contains	cobalamin
+vitamin B‑complex	used for	energy metabolism
+vitamin B‑complex	used for	nervous system health
+vitamin B‑complex	used for	anemia prevention
+vitamin B‑complex	used for	skin health
+vitamin B‑complex	used for	hair growth
+vitamin B‑complex	used for	mood regulation
+vitamin B‑complex	used for	cardiovascular support
+vitamin B‑complex	used for	pregnancy support
+vitamin B‑complex	used for	wound healing
+vitamin B‑complex	used for	immune function
+vitamin B‑complex	used for	cognitive function
+vitamin B‑complex	used for	fatigue reduction
+vitamin B‑complex	contraindicated in	severe kidney disease
+vitamin B‑complex	contraindicated in	pregnancy (high doses)
+vitamin B‑complex	contraindicated in	hypersensitivity to B‑vitamins
+vitamin B‑complex	interacts with	antiepileptic drugs
+vitamin B‑complex	interacts with	anticoagulants
+vitamin B‑complex	interacts with	chemotherapy agents
+vitamin B‑complex	interacts with	statins
+vitamin B‑complex	interacts with	antibiotics
+vitamin B‑complex	interacts with	antidepressants
+vitamin B‑complex	dosage	50 mg/day
+vitamin B‑complex	dosage	100 mg/day
+vitamin B‑complex	dosage	200 mg/day
+vitamin B‑complex	dosage	400 mg/day
+vitamin B‑complex	dosage	800 mg/day
+vitamin B‑complex	form	tablet
+vitamin B‑complex	form	capsule
+vitamin B‑complex	form	chewable
+vitamin B‑complex	form	liquid
+vitamin B‑complex	form	lozenge
+vitamin B‑complex	route	oral
+vitamin B‑complex	route	sublingual
+vitamin B‑complex	route	intravenous
+vitamin B‑complex	route	intramuscular
+vitamin B‑complex	storage	room temperature
+vitamin B‑complex	storage	refrigerated
+vitamin B‑complex	shelf life	2 years
+vitamin B‑complex	shelf life	5 years
+vitamin B‑complex	side effect	nausea
+vitamin B‑complex	side effect	headache
+vitamin B‑complex	side effect	rash
+vitamin B‑complex	side effect	dizziness
+vitamin B‑complex	side effect	flushing
+vitamin B‑complex	side effect	insomnia
+vitamin B‑complex	side effect	increased urination
+vitamin B‑complex	side effect	diarrhea
+vitamin B‑complex	side effect	abdominal pain
+vitamin B‑complex	side effect	allergic reaction
+vitamin B‑complex	side effect	neuropathy (high doses)
+vitamin B‑complex	side effect	hyperthyroidism (high doses)
+vitamin B‑complex	side effect	vitamin B12 toxicity
+vitamin B‑complex	side effect	vitamin B6 toxicity
+vitamin B‑complex	side effect	vitamin B1 toxicity
+vitamin B‑complex	side effect	vitamin B2 toxicity
+vitamin B‑complex	side effect	vitamin B3 toxicity
+vitamin B‑complex	side effect	vitamin B5 toxicity
+vitamin B‑complex	side effect	vitamin B7 toxicity
+vitamin B‑complex	side effect	vitamin B9 toxicity
+vitamin B‑complex	side effect	vitamin B12 toxicity
+vitamin B‑complex	side effect	vitamin B6 toxicity
+vitamin B‑complex	side effect	vitamin B1 toxicity
+vitamin B‑complex	side effect	vitamin B2 toxicity
+vitamin B‑complex	side effect	vitamin B3 toxicity
+vitamin B‑complex	side effect	vitamin B5 toxicity
+vitamin B‑complex	side effect	vitamin B7 toxicity
+vitamin B‑complex	side effect	vitamin B9 toxicity
+vitamin B‑complex	side effect	vitamin B12 toxicity
+vitamin B‑complex	side effect	vitamin B6 toxicity
+vitamin B‑complex	side effect	vitamin B1 toxicity
+vitamin B‑complex	side effect	vitamin B2 toxicity
+vitamin B‑complex	side effect	vitamin B3 toxicity
+vitamin B‑complex	side effect	vitamin B5 toxicity
+vitamin B‑complex	side effect	vitamin B7 toxicity
+vitamin B‑complex	side effect	vitamin B9 toxicity
+vitamin B‑complex	side effect	vitamin B12 toxicity
+vitamin B‑complex	side effect	vitamin B6 toxicity
+vitamin B‑complex	side effect	vitamin B1 toxicity
+vitamin B‑complex	side effect	vitamin B2 toxicity
+vitamin B‑complex	side effect	vitamin B3 toxicity
+vitamin B‑complex	side effect	vitamin B5 toxicity
+vitamin B‑complex	side effect	vitamin B7 toxicity
+vitamin B‑complex	side effect	vitamin B9 toxicity
+vitamin B‑complex	side effect	vitamin B12 toxicity
+vitamin B‑complex	side effect	vitamin B6 toxicity
+vitamin B‑complex	side effect	vitamin B1 toxicity
+vitamin B‑complex	side effect	vitamin B2 toxicity
+vitamin B‑complex	side effect	vitamin B3 toxicity
+vitamin B‑complex	side effect	vitamin B5 toxicity
+vitamin B‑complex	side effect	vitamin B7 toxicity
+vitamin B‑complex	side effect	vitamin B9 toxicity
+vitamin B‑complex	side effect	vitamin B12 toxicity

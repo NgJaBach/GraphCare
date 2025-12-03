@@ -1,0 +1,100 @@
+iodine therapy drugs	are	medication
+iodine therapy drugs	treat	hyperthyroidism
+iodine therapy drugs	contain	radioactive iodine
+radioactive iodine	is	isotope
+radioactive iodine	used for	thyroid ablation
+thyroid ablation	reduces	thyroid hormone
+thyroid hormone	regulates	metabolism
+iodine therapy drugs	administered	orally
+iodine therapy drugs	administered	intravenously
+iodine therapy drugs	cause	nausea
+iodine therapy drugs	cause	vomiting
+iodine therapy drugs	cause	dry mouth
+iodine therapy drugs	cause	fatigue
+iodine therapy drugs	cause	hair loss
+iodine therapy drugs	cause	skin rash
+iodine therapy drugs	cause	eye irritation
+iodine therapy drugs	cause	radiation sickness
+iodine therapy drugs	contraindicated	pregnancy
+iodine therapy drugs	contraindicated	lactation
+iodine therapy drugs	contraindicated	renal impairment
+iodine therapy drugs	contraindicated	thyroid cancer
+iodine therapy drugs	contraindicated	Graves disease
+iodine therapy drugs	contraindicated	thyroiditis
+iodine therapy drugs	contraindicated	iodine allergy
+iodine therapy drugs	contraindicated	iodine deficiency
+iodine therapy drugs	contraindicated	hyperthyroidism
+iodine therapy drugs	contraindicated	hypothyroidism
+iodine therapy drugs	contraindicated	goiter
+iodine therapy drugs	contraindicated	thyroid nodules
+iodine therapy drugs	contraindicated	thyroidectomy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy
+iodine therapy drugs	contraindicated	radioactive iodine therapy

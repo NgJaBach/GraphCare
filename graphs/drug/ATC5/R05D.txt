@@ -1,0 +1,100 @@
+cough suppressants	are a	medication
+cough suppressants	treat	dry cough
+cough suppressants	inhibit	cough reflex
+cough suppressants	contain	dextromethorphan
+dextromethorphan	is a	NMDA antagonist
+dextromethorphan	block	glutamate receptors
+cough suppressants	reduce	throat irritation
+cough suppressants	are contraindicated	in children < 6
+cough suppressants	contraindicated	in asthma
+cough suppressants	contraindicated	in COPD
+cough suppressants	contraindicated	in liver disease
+cough suppressants	contraindicated	in pregnancy
+cough suppressants	contraindicated	in breastfeeding
+cough suppressants	contraindicated	with MAO inhibitors
+cough suppressants	contraindicated	with SSRIs
+cough suppressants	contraindicated	with tricyclic antidepressants
+cough suppressants	contraindicated	with opioids
+cough suppressants	contraindicated	with benzodiazepines
+cough suppressants	contraindicated	with alcohol
+cough suppressants	contraindicated	with antihistamines
+cough suppressants	contraindicated	with antihypertensives
+cough suppressants	contraindicated	with anticholinergics
+cough suppressants	contraindicated	with antipsychotics
+cough suppressants	contraindicated	with antiepileptics
+cough suppressants	contraindicated	with antihyperglycemics
+cough suppressants	contraindicated	with antithrombotics
+cough suppressants	contraindicated	with antacids
+cough suppressants	contraindicated	with antidiarrheals
+cough suppressants	contraindicated	with antitussives
+cough suppressants	contraindicated	with antitussive combinations
+cough suppressants	contraindicated	with antitussive expectorants
+cough suppressants	contraindicated	with antitussive decongestants
+cough suppressants	contraindicated	with antitussive antihistamines
+cough suppressants	contraindicated	with antitussive anticholinergics
+cough suppressants	contraindicated	with antitussive antipyretics
+cough suppressants	contraindicated	with antitussive analgesics
+cough suppressants	contraindicated	with antitussive steroids
+cough suppressants	contraindicated	with antitussive bronchodilators
+cough suppressants	contraindicated	with antitussive mucolytics
+cough suppressants	contraindicated	with antitussive antitussive
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations
+cough suppressants	contraindicated	with antitussive antitussive combinations

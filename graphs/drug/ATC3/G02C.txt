@@ -1,0 +1,100 @@
+other gynecologicals	belong to	ATC group G
+ATC group G	includes	hormonal contraceptives
+hormonal contraceptives	are used for	pregnancy prevention
+hormonal contraceptives	contain	estrogen
+hormonal contraceptives	contain	progestin
+estrogen	increases	clotting risk
+progestin	reduces	endometrial hyperplasia
+hormonal contraceptives	cause	breast tenderness
+hormonal contraceptives	cause	nausea
+hormonal contraceptives	cause	weight gain
+hormonal contraceptives	interact with	anticoagulants
+hormonal contraceptives	contraindicated in	smoking >35
+hormonal contraceptives	contraindicated in	hypertension
+hormonal contraceptives	contraindicated in	thromboembolism
+hormonal contraceptives	contraindicated in	liver disease
+hormonal contraceptives	contraindicated in	breast cancer
+hormonal contraceptives	contraindicated in	migraine with aura
+hormonal contraceptives	contraindicated in	pregnancy
+hormonal contraceptives	contraindicated in	lactation
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	uncontrolled diabetes
+hormonal contraceptives	contraindicated in	severe renal disease
+hormonal contraceptives	contraindicated in	severe hepatic disease
+hormonal contraceptives	contraindicated in	active infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease
+hormonal contraceptives	contraindicated in	severe hypertension
+hormonal contraceptives	contraindicated in	severe thrombophilia
+hormonal contraceptives	contraindicated in	severe migraine
+hormonal contraceptives	contraindicated in	severe infection
+hormonal contraceptives	contraindicated in	severe depression
+hormonal contraceptives	contraindicated in	severe cardiovascular disease
+hormonal contraceptives	contraindicated in	severe osteoporosis
+hormonal contraceptives	contraindicated in	severe anemia
+hormonal contraceptives	contraindicated in	severe liver disease
+hormonal contraceptives	contraindicated in	severe kidney disease

@@ -1,0 +1,100 @@
+electrolytes	maintain	fluid balance
+electrolytes	regulate	nerve conduction
+electrolytes	support	muscle contraction
+electrolytes	include	sodium
+electrolytes	include	potassium
+electrolytes	include	chloride
+electrolytes	include	bicarbonate
+electrolytes	include	calcium
+electrolytes	include	magnesium
+electrolytes	balance	blood pressure
+electrolytes	balance	acid–base
+electrolytes	are lost	through	diarrhea
+electrolytes	are replenished	by	oral rehydration
+electrolytes	are replenished	by	intravenous fluids
+carbohydrates	provide	energy
+carbohydrates	include	glucose
+carbohydrates	include	sucrose
+carbohydrates	include	lactose
+carbohydrates	include	fructose
+carbohydrates	are absorbed	in	small intestine
+carbohydrates	are metabolized	by	liver
+carbohydrates	are used	for	glycogen synthesis
+carbohydrates	are used	for	ATP production
+carbohydrates	are combined	with	electrolytes	in	ORS
+antidiarrheals	reduce	stool frequency
+antidiarrheals	reduce	abdominal cramping
+antidiarrheals	include	loperamide
+antidiarrheals	include	diphenoxylate
+antidiarrheals	include	bismuth subsalicylate
+antidiarrheals	act	by	slowing gut motility
+antidiarrheals	act	by	binding	opioid receptors
+antidiarrheals	act	by	coating	mucosa
+antidiarrheals	contraindicated	in	ileus
+antidiarrheals	contraindicated	in	bacterial dysentery
+intestinal antiinflammatory agents	reduce	mucosal inflammation
+intestinal antiinflammatory agents	reduce	cytokine production
+intestinal antiinflammatory agents	include	mesalamine
+intestinal antiinflammatory agents	include	sulfasalazine
+intestinal antiinflammatory agents	include	budesonide
+intestinal antiinflammatory agents	act	by	inhibiting	COX
+intestinal antiinflammatory agents	act	by	inhibiting	NF‑κB
+intestinal antiinflammatory agents	used	for	ulcerative colitis
+intestinal antiinflammatory agents	used	for	Crohn disease
+intestinal antiinfective agents	target	bacteria
+intestinal antiinfective agents	target	parasites
+intestinal antiinfective agents	target	viruses
+intestinal antiinfective agents	include	metronidazole
+intestinal antiinfective agents	include	ciprofloxacin
+intestinal antiinfective agents	include	azithromycin
+intestinal antiinfective agents	act	by	disrupting	DNA synthesis
+intestinal antiinfective agents	act	by	inhibiting	protein synthesis
+intestinal antiinfective agents	act	by	blocking	nucleic acid replication
+intestinal antiinfective agents	used	for	traveler's diarrhea
+intestinal antiinfective agents	used	for	dysentery
+intestinal antiinfective agents	used	for	giardia
+electrolytes	are measured	in	serum
+electrolytes	are measured	in	urine
+electrolytes	are measured	in	stool
+electrolytes	are monitored	in	ICU
+electrolytes	are monitored	in	dialysis
+electrolytes	are monitored	in	dehydration
+carbohydrates	are monitored	in	glucose tolerance test
+carbohydrates	are monitored	in	HbA1c
+carbohydrates	are monitored	in	fasting glucose
+antidiarrheals	are prescribed	for	acute diarrhea
+antidiarrheals	are prescribed	for	chronic diarrhea
+antidiarrheals	are prescribed	for	IBS‑C
+intestinal antiinflammatory agents	are prescribed	for	flare‑up
+intestinal antiinflammatory agents	are prescribed	for	maintenance
+intestinal antiinflammatory agents	are prescribed	for	induction
+intestinal antiinfective agents	are prescribed	for	bacterial colitis
+intestinal antiinfective agents	are prescribed	for	parasitic infection
+intestinal antiinfective agents	are prescribed	for	viral gastroenteritis
+electrolytes	deficiency	leads	to	arrhythmia
+electrolytes	deficiency	leads	to	muscle weakness
+electrolytes	deficiency	leads	to	seizures
+electrolytes	excess	leads	to	hypertension
+electrolytes	excess	leads	to	edema
+electrolytes	excess	leads	to	hypernatremia
+carbohydrates	excess	leads	to	hyperglycemia
+carbohydrates	excess	leads	to	weight gain
+carbohydrates	excess	leads	to	insulin resistance
+antidiarrheals	side effect	includes	constipation
+antidiarrheals	side effect	includes	nausea
+antidiarrheals	side effect	includes	dizziness
+intestinal antiinflammatory agents	side effect	includes	abdominal pain
+intestinal antiinflammatory agents	side effect	includes	headache
+intestinal antiinflammatory agents	side effect	includes	rash
+intestinal antiinfective agents	side effect	includes	diarrhea
+intestinal antiinfective agents	side effect	includes	nausea
+intestinal antiinfective agents	side effect	includes	rash
+electrolytes	supplementation	improves	recovery
+electrolytes	supplementation	reduces	mortality
+electrolytes	supplementation	improves	ICU outcomes
+carbohydrates	supplementation	improves	energy
+carbohydrates	supplementation	improves	exercise performance
+carbohydrates	supplementation	improves	wound healing
+antidiarrheals	reduce	hospital readmission
+intestinal antiinflammatory agents	reduce	relapse
+intestinal antiinfective agents	reduce	infection duration

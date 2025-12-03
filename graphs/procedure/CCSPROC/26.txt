@@ -1,0 +1,100 @@
+ear procedure	is a	medical intervention
+ear procedure	targets	hearing loss
+ear procedure	improves	auditory function
+ear procedure	reduces	tinnitus
+ear procedure	prevents	vertigo
+ear procedure	treats	ear infection
+ear procedure	restores	balance
+ear procedure	involves	surgical technique
+ear procedure	requires	anesthesia
+ear procedure	performed by	otolaryngologist
+ear procedure	uses	microscope
+ear procedure	employs	micro‑instrumentation
+ear procedure	can be	outpatient
+ear procedure	may need	hospitalization
+ear procedure	has	postoperative pain
+ear procedure	leads to	hearing improvement
+ear procedure	may cause	dizziness
+ear procedure	may cause	infection
+ear procedure	has	risk of bleeding
+ear procedure	has	risk of hearing loss
+ear procedure	has	risk of facial nerve damage
+ear procedure	has	risk of labyrinthitis
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of tinnitus
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertigo
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio
+ear procedure	has	risk of vertio

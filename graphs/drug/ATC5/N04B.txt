@@ -1,0 +1,100 @@
+dopaminergic agents	are a	drug class
+dopaminergic agents	target	dopamine receptors
+dopaminergic agents	treat	Parkinson’s disease
+dopaminergic agents	treat	restless leg syndrome
+dopaminergic agents	treat	acute coronary syndrome
+dopaminergic agents	treat	hypotension
+dopaminergic agents	treat	renal failure
+dopaminergic agents	treat	anemia
+dopaminergic agents	treat	erectile dysfunction
+dopaminergic agents	are used	in ICU
+dopaminergic agents	are used	in cardiac care
+dopaminergic agents	are used	in nephrology
+dopaminergic agents	are used	in hematology
+dopaminergic agents	are used	in neurology
+dopaminergic agents	are used	in endocrinology
+dopaminergic agents	are used	in urology
+dopaminergic agents	are used	in oncology
+dopaminergic agents	are used	in geriatrics
+dopaminergic agents	are used	in pediatrics
+dopaminergic agents	are used	in anesthesia
+dopaminergic agents	are used	in critical care
+dopaminergic agents	are used	in emergency medicine
+dopaminergic agents	are used	in cardiology
+dopaminergic agents	are used	in nephrology
+dopaminergic agents	are used	in hematology
+dopaminergic agents	are used	in oncology
+dopaminergic agents	are used	in psychiatry
+dopaminergic agents	are used	in pain management
+dopaminergic agents	are used	in sleep medicine
+dopaminergic agents	are used	in reproductive health
+dopaminergic agents	are used	in metabolic disorders
+dopaminergic agents	are used	in vascular medicine
+dopaminergic agents	are used	in transplant medicine
+dopaminergic agents	are used	in infectious disease
+dopaminergic agents	are used	in rheumatology
+dopaminergic agents	are used	in pulmonology
+dopaminergic agents	are used	in dermatology
+dopaminergic agents	are used	in ophthalmology
+dopaminergic agents	are used	in otolaryngology
+dopaminergic agents	are used	in gastroenterology
+dopaminergic agents	are used	in endocrinology
+dopaminergic agents	are used	in neurosurgery
+dopaminergic agents	are used	in orthopedics
+dopaminergic agents	are used	in plastic surgery
+dopaminergic agents	are used	in urology
+dopaminergic agents	are used	in radiology
+dopaminergic agents	are used	in pathology
+dopaminergic agents	are used	in genetics
+dopaminergic agents	are used	in pharmacogenomics
+dopaminergic agents	are used	in precision medicine
+dopaminergic agents	are used	in clinical trials
+dopaminergic agents	are used	in drug development
+dopaminergic agents	are used	in health economics
+dopaminergic agents	are used	in pharmacovigilance
+dopaminergic agents	are used	in drug safety
+dopaminergic agents	are used	in adverse event monitoring
+dopaminergic agents	are used	in medication reconciliation
+dopaminergic agents	are used	in polypharmacy management
+dopaminergic agents	are used	in deprescribing
+dopaminergic agents	are used	in medication adherence
+dopaminergic agents	are used	in patient education
+dopaminergic agents	are used	in shared decision making
+dopaminergic agents	are used	in value‑based care
+dopaminergic agents	are used	in cost‑effectiveness analysis
+dopaminergic agents	are used	in health‑technology assessment
+dopaminergic agents	are used	in guideline development
+dopaminergic agents	are used	in quality improvement
+dopaminergic agents	are used	in clinical decision support
+dopaminergic agents	are used	in predictive analytics
+dopaminergic agents	are used	in machine learning models
+dopaminergic agents	are used	in risk stratification
+dopaminergic agents	are used	in prognostic modeling
+dopaminergic agents	are used	in mortality prediction
+dopaminergic agents	are used	in readmission prediction
+dopaminergic agents	are used	in length‑of‑stay prediction
+dopaminergic agents	are used	in ICU mortality prediction
+dopaminergic agents	are used	in cardiac arrest prediction
+dopaminergic agents	are used	in sepsis prediction
+dopaminergic agents	are used	in AKI prediction
+dopaminergic agents	are used	in anemia prediction
+dopaminergic agents	are used	in delirium prediction
+dopaminergic agents	are used	in falls prediction
+dopaminergic agents	are used	in pressure ulcer prediction
+dopaminergic agents	are used	in medication‑related harm prediction
+dopaminergic agents	are used	in drug‑drug interaction prediction
+dopaminergic agents	are used	in pharmacogenomic risk prediction
+dopaminergic agents	are used	in adverse event prediction
+dopaminergic agents	are used	in therapeutic drug monitoring
+dopaminergic agents	are used	in dose optimization
+dopaminergic agents	are used	in therapeutic drug monitoring
+dopaminergic agents	are used	in pharmacokinetic modeling
+dopaminergic agents	are used	in pharmacodynamic modeling
+dopaminergic agents	are used	in drug‑interaction modeling
+dopaminergic agents	are used	in clinical pathway design
+dopaminergic agents	are used	in care coordination
+dopaminergic agents	are used	in patient‑specific therapy
+dopaminergic agents	are used	in precision dosing
+dopaminergic agents	are used	in real‑world evidence generation
+dopaminergic agents	are used	in post‑marketing surveillance
+dopaminergic agents	are used	in health‑policy analysis

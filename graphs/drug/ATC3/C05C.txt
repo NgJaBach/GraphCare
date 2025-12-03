@@ -1,0 +1,100 @@
+capillary stabilizing agents	are	drugs
+capillary stabilizing agents	treat	microvascular leakage
+capillary stabilizing agents	reduce	edema
+capillary stabilizing agents	improve	tissue perfusion
+capillary stabilizing agents	inhibit	endothelial apoptosis
+capillary stabilizing agents	enhance	vascular integrity
+capillary stabilizing agents	prevent	hemorrhage
+capillary stabilizing agents	used in	sepsis
+capillary stabilizing agents	used in	trauma
+capillary stabilizing agents	used in	burns
+capillary stabilizing agents	used in	ARDS
+capillary stabilizing agents	used in	shock
+capillary stabilizing agents	used in	ischemia
+capillary stabilizing agents	used in	organ transplantation
+capillary stabilizing agents	used in	wound healing
+capillary stabilizing agents	used in	diabetic ulcers
+capillary stabilizing agents	used in	chronic venous insufficiency
+capillary stabilizing agents	used in	inflammatory diseases
+capillary stabilizing agents	used in	cancer therapy
+capillary stabilizing agents	used in	radiation therapy
+capillary stabilizing agents	reduce	capillary permeability
+capillary stabilizing agents	increase	endothelial junctions
+capillary stabilizing agents	upregulate	VE‑cadherin
+capillary stabilizing agents	downregulate	VEGF
+capillary stabilizing agents	downregulate	MMP‑9
+capillary stabilizing agents	inhibit	NF‑κB
+capillary stabilizing agents	inhibit	TNF‑α
+capillary stabilizing agents	inhibit	IL‑6
+capillary stabilizing agents	modulate	nitric oxide
+capillary stabilizing agents	modulate	prostaglandins
+capillary stabilizing agents	modulate	endothelin‑1
+capillary stabilizing agents	bind	integrins
+capillary stabilizing agents	bind	extracellular matrix
+capillary stabilizing agents	interact with	corticosteroids
+capillary stabilizing agents	synergize with	anticoagulants
+capillary stabilizing agents	antagonize	bradykinin
+capillary stabilizing agents	antagonize	histamine
+capillary stabilizing agents	antagonize	serotonin
+capillary stabilizing agents	are	anti‑inflammatory
+capillary stabilizing agents	are	vasoprotective
+capillary stabilizing agents	are	hemostatic
+capillary stabilizing agents	are	anti‑edematous
+capillary stabilizing agents	are	endothelial‑protective
+capillary stabilizing agents	are	therapeutic
+capillary stabilizing agents	are	investigational
+capillary stabilizing agents	are	FDA‑approved
+capillary stabilizing agents	are	off‑label
+capillary stabilizing agents	are	orally‑available
+capillary stabilizing agents	are	intravenously‑administered
+capillary stabilizing agents	are	subcutaneously‑administered
+capillary stabilizing agents	are	topical
+capillary stabilizing agents	are	biodegradable
+capillary stabilizing agents	are	non‑steroidal
+capillary stabilizing agents	are	steroidal
+capillary stabilizing agents	are	peptide‑based
+capillary stabilizing agents	are	small‑molecule
+capillary stabilizing agents	are	monoclonal antibody
+capillary stabilizing agents	are	gene‑therapy vector
+capillary stabilizing agents	are	nanomedicine
+capillary stabilizing agents	are	hydrogel
+capillary stabilizing agents	are	protein‑based
+capillary stabilizing agents	are	synthetic
+capillary stabilizing agents	are	natural
+capillary stabilizing agents	are	derived
+capillary stabilizing agents	are	stable
+capillary stabilizing agents	are	potent
+capillary stabilizing agents	are	selective
+capillary stabilizing agents	are	broad‑spectrum
+capillary stabilizing agents	are	targeted
+capillary stabilizing agents	are	dose‑dependent
+capillary stabilizing agents	are	time‑dependent
+capillary stabilizing agents	are	safe
+capillary stabilizing agents	are	toxic
+capillary stabilizing agents	cause	hypotension
+capillary stabilizing agents	cause	bradycardia
+capillary stabilizing agents	cause	rash
+capillary stabilizing agents	cause	nausea
+capillary stabilizing agents	cause	vomiting
+capillary stabilizing agents	cause	headache
+capillary stabilizing agents	cause	dizziness
+capillary stabilizing agents	cause	renal impairment
+capillary stabilizing agents	cause	hepatotoxicity
+capillary stabilizing agents	cause	allergic reaction
+capillary stabilizing agents	cause	anaphylaxis
+capillary stabilizing agents	contraindicated in	pregnancy
+capillary stabilizing agents	contraindicated in	lactation
+capillary stabilizing agents	contraindicated in	renal failure
+capillary stabilizing agents	contraindicated in	hepatic failure
+capillary stabilizing agents	contraindicated in	hypersensitivity
+capillary stabilizing agents	contraindicated in	uncontrolled hypertension
+capillary stabilizing agents	contraindicated in	bleeding disorders
+capillary stabilizing agents	contraindicated in	active infection
+capillary stabilizing agents	contraindicated in	immunosuppression
+capillary stabilizing agents	contraindicated in	severe anemia
+capillary stabilizing agents	contraindicated in	severe thrombocytopenia
+capillary stabilizing agents	contraindicated in	severe neutropenia
+capillary stabilizing agents	contraindicated in	severe liver disease
+capillary stabilizing agents	contraindicated in	severe kidney disease
+capillary stabilizing agents	contraindicated in	severe heart failure
+capillary stabilizing agents	contraindicated in	severe pulmonary hypertension

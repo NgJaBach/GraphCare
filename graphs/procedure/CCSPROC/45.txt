@@ -1,0 +1,100 @@
+PTCA	is a	cardiac procedure
+PTCA	treats	coronary artery disease
+PTCA	uses	balloon catheter
+PTCA	involves	arterial access
+PTCA	performed	by cardiologist
+PTCA	reduces	angina
+PTCA	improves	myocardial perfusion
+PTCA	requires	anticoagulation
+PTCA	can be	elective
+PTCA	can be	emergent
+PTCA	follows	coronary angiography
+PTCA	uses	guidewire
+PTCA	may use	stent
+PTCA	can use	drug‑eluting stent
+PTCA	can use	bare‑metal stent
+PTCA	may use	balloon angioplasty
+PTCA	can be	single‑vessel
+PTCA	can be	multi‑vessel
+PTCA	may cause	vessel dissection
+PTCA	may cause	restenosis
+PTCA	may cause	thrombosis
+PTCA	may cause	bleeding
+PTCA	may cause	contrast nephropathy
+PTCA	may cause	arrhythmia
+PTCA	reduces	mortality
+PTCA	reduces	need for bypass
+PTCA	reduces	hospital stay
+PTCA	reduces	cost
+PTCA	improves	quality of life
+PTCA	is preferred	for stable angina
+PTCA	is preferred	for NSTEMI
+PTCA	is preferred	for STEMI (in selected cases)
+PTCA	contraindicated	in severe calcification
+PTCA	contraindicated	in small vessels
+PTCA	contraindicated	in active bleeding
+PTCA	contraindicated	in severe renal failure
+PTCA	contraindicated	in severe contrast allergy
+PTCA	is guided	by fluoroscopy
+PTCA	uses	iodinated contrast
+PTCA	uses	heparin
+PTCA	uses	dual antiplatelet therapy
+PTCA	uses	aspirin
+PTCA	uses	clopidogrel
+PTCA	uses	ticagrelor
+PTCA	uses	prasugrel
+PTCA	uses	glycoprotein IIb/IIIa inhibitors
+PTCA	uses	radial access
+PTCA	uses	femoral access
+PTCA	can be	performed via radial artery
+PTCA	can be	performed via femoral artery
+PTCA	can be	performed under local anesthesia
+PTCA	can be	performed under conscious sedation
+PTCA	can be	performed under general anesthesia
+PTCA	is part of	percutaneous coronary intervention
+PTCA	is part of	coronary artery bypass grafting (CABG) planning
+PTCA	is part of	cardiac catheterization lab workflow
+PTCA	is monitored	by ECG
+PTCA	is monitored	by blood pressure
+PTCA	is monitored	by heart rate
+PTCA	is monitored	by oxygen saturation
+PTCA	is associated	with reduced rehospitalization
+PTCA	is associated	with reduced heart failure
+PTCA	is associated	with improved ejection fraction
+PTCA	is associated	with reduced need for repeat PCI
+PTCA	is associated	with reduced need for repeat CABG
+PTCA	is associated	with improved exercise tolerance
+PTCA	is associated	with reduced angina frequency
+PTCA	is associated	with improved survival
+PTCA	is associated	with lower stroke risk
+PTCA	is associated	with lower bleeding risk
+PTCA	is associated	with lower contrast-induced nephropathy
+PTCA	is associated	with lower infection risk
+PTCA	is associated	with lower procedural complications
+PTCA	is associated	with higher cost in drug‑eluting stents
+PTCA	is associated	with higher cost in bare‑metal stents
+PTCA	is associated	with higher cost in radial access
+PTCA	is associated	with higher cost in femoral access
+PTCA	is associated	with higher cost in dual antiplatelet therapy
+PTCA	is associated	with higher cost in glycoprotein IIb/IIIa inhibitors
+PTCA	is associated	with higher cost in contrast media
+PTCA	is associated	with higher cost in hospital stay
+PTCA	is associated	with higher cost in post‑procedure monitoring
+PTCA	is associated	with higher cost in readmission
+PTCA	is associated	with higher cost in long‑term medication
+PTCA	is associated	with higher cost in follow‑up imaging
+PTCA	is associated	with higher cost in patient transportation
+PTCA	is associated	with higher cost in staff training
+PTCA	is associated	with higher cost in equipment maintenance
+PTCA	is associated	with higher cost in quality improvement programs
+PTCA	is associated	with higher cost in patient education
+PTCA	is associated	with higher cost in preventive cardiology
+PTCA	is associated	with higher cost in cardiovascular research
+PTCA	is associated	with higher cost in health insurance premiums
+PTCA	is associated	with higher cost in national health budgets
+PTCA	is associated	with higher cost in global health initiatives
+PTCA	is associated	with higher cost in medical device regulation
+PTCA	is associated	with higher cost in clinical trials
+PTCA	is associated	with higher cost in patient adherence programs
+PTCA	is associated	with higher cost in telemedicine follow‑up
+PTCA	is associated	with higher cost in multidisciplinary care teams

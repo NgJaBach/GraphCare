@@ -1,0 +1,100 @@
+immunoglobulins	are	proteins
+immunoglobulins	are	antibodies
+immunoglobulins	produced by	B‑cells
+B‑cells	differentiate into	plasma cells
+plasma cells	secrete	immunoglobulins
+immunoglobulins	bind to	antigens
+antigens	trigger	immune response
+immunoglobulins	neutralize	toxins
+immunoglobulins	opsonize	pathogens
+immunoglobulins	activate	complement
+complement	leads to	lysis
+immunoglobulins	classified as	IgG
+immunoglobulins	classified as	IgM
+immunoglobulins	classified as	IgA
+immunoglobulins	classified as	IgD
+immunoglobulins	classified as	IgE
+IgG	is	most abundant
+IgM	is	first responder
+IgA	is	secretory
+IgE	mediates	allergy
+immunoglobulins	cross‑link	Fc receptors
+Fc receptors	located on	macrophages
+macrophages	phagocytose	opsonized bacteria
+immunoglobulins	cross‑link	B‑cell receptors
+B‑cell receptors	signal	B‑cell activation
+immunoglobulins	undergo	isotype switching
+isotype switching	requires	cytokines
+cytokines	include	IL‑4
+cytokines	include	IFN‑γ
+immunoglobulins	are	diagnostic markers
+diagnostic markers	used for	autoimmune disease
+diagnostic markers	used for	infection
+immunoglobulins	measured by	ELISA
+ELISA	detects	IgG levels
+ELISA	detects	IgM levels
+immunoglobulins	used in	immunotherapy
+immunotherapy	includes	monoclonal antibodies
+monoclonal antibodies	target	tumor antigens
+immunoglobulins	used in	passive immunity
+passive immunity	provides	immediate protection
+immunoglobulins	administered as	IVIG
+IVIG	treats	immune thrombocytopenia
+IVIG	treats	Guillain‑Barré syndrome
+IVIG	treats	Kawasaki disease
+immunoglobulins	have	half‑life
+half‑life	varies by	IgG
+half‑life	varies by	IgM
+immunoglobulins	influence	vaccine efficacy
+vaccine efficacy	depends on	antibody titers
+antibody titers	predict	protection
+immunoglobulins	correlate with	disease severity
+disease severity	predicts	mortality
+immunoglobulins	elevated in	sepsis
+sepsis	associated with	organ failure
+immunoglobulins	decreased in	immunodeficiency
+immunodeficiency	leads to	recurrent infections
+immunoglobulins	modulate	inflammation
+inflammation	drives	chronic disease
+immunoglobulins	interact with	FcRn
+FcRn	prolongs	IgG half‑life
+immunoglobulins	cross‑react with	autoantigens
+autoantigens	cause	autoimmune disease
+autoimmune disease	treated with	immunosuppressants
+immunosuppressants	reduce	antibody production
+immunoglobulins	are	biomarkers
+biomarkers	predict	treatment response
+treatment response	informs	therapy adjustment
+immunoglobulins	used in	organ transplantation
+organ transplantation	requires	antibody monitoring
+antibody monitoring	prevents	rejection
+rejection	leads to	graft loss
+immunoglobulins	are	components of serum
+serum	contains	albumin
+serum	contains	globulins
+globulins	include	immunoglobulins
+immunoglobulins	contribute to	immune memory
+immune memory	reduces	reinfection risk
+reinfection risk	lowers	hospitalization
+hospitalization	predicts	readmission
+readmission	associated with	comorbidities
+comorbidities	include	diabetes
+comorbidities	include	hypertension
+immunoglobulins	altered in	pregnancy
+pregnancy	increases	IgG transfer
+IgG transfer	protects	neonate
+neonate	at risk for	neonatal sepsis
+neonatal sepsis	requires	early antibiotics
+early antibiotics	improve	survival
+survival	inversely related to	antibody deficiency
+antibody deficiency	predicts	mortality
+mortality	influenced by	age
+age	modifies	immunoglobulin levels
+immunoglobulin levels	guide	vaccination schedule
+vaccination schedule	reduces	disease burden
+disease burden	lowers	healthcare costs
+healthcare costs	impact	resource allocation
+resource allocation	affects	patient outcomes
+patient outcomes	measured by	quality of life
+quality of life	improves with	effective therapy
+effective therapy	depends on	accurate diagnostics

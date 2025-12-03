@@ -1,0 +1,100 @@
+Dermatological preparations	belong to	ATC
+ATC	classifies	dermatological preparations
+Dermatological preparations	used for	skin disorders
+Skin disorders	include	eczema
+Skin disorders	include	psoriasis
+Skin disorders	include	dermatitis
+Dermatological preparations	contain	corticosteroids
+Corticosteroids	reduce	inflammation
+Dermatological preparations	contain	antifungals
+Antifungals	treat	fungal infections
+Dermatological preparations	contain	antibiotics
+Antibiotics	treat	bacterial infections
+Dermatological preparations	contain	emollients
+Emollients	moisturize	skin
+Dermatological preparations	contain	keratolytics
+Keratolytics	soften	scales
+Dermatological preparations	contain	calcineurin inhibitors
+Calcineurin inhibitors	suppress	immune response
+Dermatological preparations	contain	retinoids
+Retinoids	normalize	keratinization
+Dermatological preparations	contain	antihistamines
+Antihistamines	relieve	itching
+Dermatological preparations	contain	phototherapy agents
+Phototherapy agents	used in	psoriasis
+Dermatological preparations	contain	topical anesthetics
+Topical anesthetics	reduce	pain
+Dermatological preparations	contain	antiseptics
+Antiseptics	prevent	infection
+Dermatological preparations	contain	barrier creams
+Barrier creams	protect	skin
+Dermatological preparations	contain	anti‑inflammatory agents
+Anti‑inflammatory agents	reduce	redness
+Dermatological preparations	contain	anti‑pruritic agents
+Anti‑pruritic agents	reduce	scratching
+Dermatological preparations	contain	anti‑viral agents
+Anti‑viral agents	treat	herpes
+Dermatological preparations	contain	anti‑bacterial agents
+Anti‑bacterial agents	treat	staph infections
+Dermatological preparations	contain	anti‑fungal agents
+Anti‑fungal agents	treat	athlete’s foot
+Dermatological preparations	contain	anti‑bacterial agents	topical
+Topical anti‑bacterial agents	used in	wound care
+Dermatological preparations	contain	anti‑inflammatory agents	topical
+Topical anti‑inflammatory agents	used in	acne
+Dermatological preparations	contain	anti‑acne agents
+Anti‑acne agents	treat	comedones
+Dermatological preparations	contain	anti‑acne agents	benzoyl peroxide
+Benzoyl peroxide	kill	bacteria
+Dermatological preparations	contain	anti‑acne agents	salicylic acid
+Salicylic acid	exfoliate	skin
+Dermatological preparations	contain	anti‑acne agents	retinoids
+Retinoids	reduce	pore blockage
+Dermatological preparations	contain	anti‑acne agents	antibiotics
+Antibiotics	reduce	inflammation
+Dermatological preparations	contain	anti‑acne agents	hormonal
+Hormonal agents	regulate	sebum
+Dermatological preparations	contain	anti‑acne agents	topical steroids
+Topical steroids	reduce	redness
+Dermatological preparations	contain	anti‑acne agents	topical retinoids
+Topical retinoids	normalize	cell turnover
+Dermatological preparations	contain	anti‑acne agents	topical antibiotics
+Topical antibiotics	treat	Propionibacterium acnes
+Dermatological preparations	contain	anti‑acne agents	topical benzoyl peroxide
+Topical benzoyl peroxide	oxidize	bacteria
+Dermatological preparations	contain	anti‑acne agents	topical azelaic acid
+Azelaic acid	reduce	keratinization
+Dermatological preparations	contain	anti‑acne agents	topical niacinamide
+Niacinamide	improve	barrier function
+Dermatological preparations	contain	anti‑acne agents	topical tea tree oil
+Tea tree oil	has	antimicrobial
+Dermatological preparations	contain	anti‑acne agents	topical sulfur
+Sulfur	reduces	sebum
+Dermatological preparations	contain	anti‑acne agents	topical azithromycin
+Azithromycin	reduces	inflammation
+Dermatological preparations	contain	anti‑acne agents	topical clindamycin
+Clindamycin	inhibits	bacterial protein synthesis
+Dermatological preparations	contain	anti‑acne agents	topical doxycycline
+Doxycycline	inhibits	bacterial growth
+Dermatological preparations	contain	anti‑acne agents	topical minocycline
+Minocycline	reduces	inflammation
+Dermatological preparations	contain	anti‑acne agents	topical ivermectin
+Ivermectin	kills	Demodex
+Dermatological preparations	contain	anti‑acne agents	topical azelaic acid
+Azelaic acid	reduces	keratinization
+Dermatological preparations	contain	anti‑acne agents	topical niacinamide
+Niacinamide	improves	barrier
+Dermatological preparations	contain	anti‑acne agents	topical tea tree oil
+Tea tree oil	antimicrobial
+Dermatological preparations	contain	anti‑acne agents	topical sulfur
+Sulfur	reduces	sebum
+Dermatological preparations	contain	anti‑acne agents	topical azithromycin
+Azithromycin	anti‑inflammatory
+Dermatological preparations	contain	anti‑acne agents	topical clindamycin
+Clindamycin	antibacterial
+Dermatological preparations	contain	anti‑acne agents	topical doxycycline
+Doxycycline	antibacterial
+Dermatological preparations	contain	anti‑acne agents	topical minocycline
+Minocycline	antibacterial
+Dermatological preparations	contain	anti‑acne agents	topical ivermectin
+Ivermectin	antiparasitic

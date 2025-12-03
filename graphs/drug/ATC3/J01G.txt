@@ -1,0 +1,100 @@
+aminoglycoside antibacterials	are	antibiotics
+aminoglycoside antibacterials	target	bacterial ribosome
+aminoglycoside antibacterials	inhibit	protein synthesis
+aminoglycoside antibacterials	effective against	gram‑negative bacteria
+aminoglycoside antibacterials	effective against	Pseudomonas aeruginosa
+aminoglycoside antibacterials	effective against	Acinetobacter baumannii
+aminoglycoside antibacterials	effective against	Enterobacter species
+aminoglycoside antibacterials	effective against	Klebsiella pneumoniae
+aminoglycoside antibacterials	effective against	Escherichia coli
+aminoglycoside antibacterials	effective against	Proteus mirabilis
+aminoglycoside antibacterials	effective against	Stenotrophomonas maltophilia
+aminoglycoside antibacterials	less effective against	gram‑positive bacteria
+aminoglycoside antibacterials	used for	septicemia
+aminoglycoside antibacterials	used for	pneumonia
+aminoglycoside antibacterials	used for	urinary tract infection
+aminoglycoside antibacterials	used for	meningitis
+aminoglycoside antibacterials	used for	osteomyelitis
+aminoglycoside antibacterials	used for	endocarditis
+aminoglycoside antibacterials	used for	wound infection
+aminoglycoside antibacterials	administered	intravenously
+aminoglycoside antibacterials	administered	intramuscularly
+aminoglycoside antibacterials	administered	intrathecally
+aminoglycoside antibacterials	dosage	depends on renal function
+aminoglycoside antibacterials	dosage	adjusted for age
+aminoglycoside antibacterials	dosage	adjusted for weight
+aminoglycoside antibacterials	monitored by	trough level
+aminoglycoside antibacterials	monitored by	peak level
+aminoglycoside antibacterials	monitored by	serum creatinine
+aminoglycoside antibacterials	monitored by	urine output
+aminoglycoside antibacterials	monitored by	hearing test
+aminoglycoside antibacterials	monitored by	vestibular function
+aminoglycoside antibacterials	side effect	nephrotoxicity
+aminoglycoside antibacterials	side effect	ototoxicity
+aminoglycoside antibacterials	side effect	neuromuscular blockade
+aminoglycoside antibacterials	side effect	rash
+aminoglycoside antibacterials	side effect	fever
+aminoglycoside antibacterials	side effect	hypotension
+aminoglycoside antibacterials	contraindicated in	pregnancy
+aminoglycoside antibacterials	contraindicated in	lactation
+aminoglycoside antibacterials	contraindicated in	severe renal impairment
+aminoglycoside antibacterials	contraindicated in	severe hearing loss
+aminoglycoside antibacterials	contraindicated in	severe vestibular dysfunction
+aminoglycoside antibacterials	interacts with	neuromuscular blockers
+aminoglycoside antibacterials	interacts with	loop diuretics
+aminoglycoside antibacterials	interacts with	ACE inhibitors
+aminoglycoside antibacterials	interacts with	ARBs
+aminoglycoside antibacterials	interacts with	NSAIDs
+aminoglycoside antibacterials	resistance mechanism	modifying enzymes
+aminoglycoside antibacterials	resistance mechanism	ribosomal mutations
+aminoglycoside antibacterials	resistance mechanism	efflux pumps
+aminoglycoside antibacterials	resistance mechanism	decreased uptake
+aminoglycoside antibacterials	resistance mechanism	plasmid transfer
+aminoglycoside antibacterials	synergy with	beta‑lactams
+aminoglycoside antibacterials	synergy with	carbapenems
+aminoglycoside antibacterials	synergy with	vancomycin
+aminoglycoside antibacterials	synergy with	polymyxins
+aminoglycoside antibacterials	synergy with	fluoroquinolones
+aminoglycoside antibacterials	synergy with	tetracyclines
+aminoglycoside antibacterials	synergy with	clindamycin
+aminoglycoside antibacterials	synergy with	rifampin
+aminoglycoside antibacterials	synergy with	linezolid
+aminoglycoside antibacterials	synergy with	daptomycin
+aminoglycoside antibacterials	synergy with	fosfomycin
+aminoglycoside antibacterials	synergy with	ceftazidime
+aminoglycoside antibacterials	synergy with	cefepime
+aminoglycoside antibacterials	synergy with	meropenem
+aminoglycoside antibacterials	synergy with	imipenem
+aminoglycoside antibacterials	synergy with	amikacin
+aminoglycoside antibacterials	synergy with	gentamicin
+aminoglycoside antibacterials	synergy with	tobramycin
+aminoglycoside antibacterials	synergy with	netilmicin
+aminoglycoside antibacterials	synergy with	kanamycin
+aminoglycoside antibacterials	synergy with	neomycin
+aminoglycoside antibacterials	synergy with	paromomycin
+aminoglycoside antibacterials	synergy with	streptomycin
+aminoglycoside antibacterials	synergy with	amoxicillin
+aminoglycoside antibacterials	synergy with	ampicillin
+aminoglycoside antibacterials	synergy with	penicillin
+aminoglycoside antibacterials	synergy with	cephalexin
+aminoglycoside antibacterials	synergy with	cefuroxime
+aminoglycoside antibacterials	synergy with	cefotaxime
+aminoglycoside antibacterials	synergy with	ceftriaxone
+aminoglycoside antibacterials	synergy with	cefepime
+aminoglycoside antibacterials	synergy with	cefoperazone
+aminoglycoside antibacterials	synergy with	cefotetan
+aminoglycoside antibacterials	synergy with	cefuroxime
+aminoglycoside antibacterials	synergy with	cefazolin
+aminoglycoside antibacterials	synergy with	cefuroxime
+aminoglycoside antibacterials	synergy with	cefotaxime
+aminoglycoside antibacterials	synergy with	ceftriaxone
+aminoglycoside antibacterials	synergy with	cefepime
+aminoglycoside antibacterials	synergy with	cefoperazone
+aminoglycoside antibacterials	synergy with	cefotetan
+aminoglycoside antibacterials	synergy with	cefazolin
+aminoglycoside antibacterials	synergy with	cefuroxime
+aminoglycoside antibacterials	synergy with	cefotaxime
+aminoglycoside antibacterials	synergy with	ceftriaxone
+aminoglycoside antibacterials	synergy with	cefepime
+aminoglycoside antibacterials	synergy with	cefoperazone
+aminoglycoside antibacterials	synergy with	cefotetan

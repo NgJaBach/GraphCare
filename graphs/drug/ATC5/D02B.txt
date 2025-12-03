@@ -1,0 +1,100 @@
+sunscreen	protects	skin
+sunscreen	blocks	UV‑B
+sunscreen	blocks	UVA
+sunscreen	contains	zinc oxide
+sunscreen	contains	titanium dioxide
+sunscreen	contains	avobenzone
+sunscreen	contains	octinoxate
+sunscreen	contains	oxybenzone
+sunscreen	contains	homosalate
+sunscreen	contains	octocrylene
+sunscreen	has	SPF
+SPF	measures	UV‑B protection
+SPF	correlates with	photostability
+photostability	affects	efficacy
+efficacy	predicts	skin‑cancer risk
+skin‑cancer risk	predicts	melanoma
+skin‑cancer risk	predicts	basal‑cell carcinoma
+skin‑cancer risk	predicts	squamous‑cell carcinoma
+sunscreen	is applied	topically
+topical application	requires	reapplication
+reapplication	recommended	every 2 hours
+reapplication	recommended	after swimming
+sunscreen	is tested	in vitro
+in vitro testing	uses	UV‑spectrophotometry
+UV‑spectrophotometry	measures	absorbance
+absorbance	indicates	photoinhibition
+photoinhibition	reduces	DNA damage
+DNA damage	leads to	mutations
+mutations	cause	carcinogenesis
+sunscreen	is regulated	by FDA
+FDA regulation	requires	safety data
+safety data	includes	phototoxicity
+phototoxicity	assessed	by skin‑patch test
+skin‑patch test	detects	allergic contact dermatitis
+allergic contact dermatitis	causes	erythema
+erythema	indicates	inflammation
+inflammation	increases	cytokine release
+cytokine release	predicts	systemic inflammation
+systemic inflammation	predicts	cardiovascular risk
+cardiovascular risk	predicts	mortality
+mortality	is outcome	for elderly
+elderly	use	sunscreen
+sunscreen	is formulated	for children
+children	have	higher UV sensitivity
+higher UV sensitivity	increases	sunburn risk
+sunburn	causes	erythema
+erythema	indicates	acute inflammation
+acute inflammation	predicts	pain
+pain	leads to	reduced outdoor activity
+reduced outdoor activity	reduces	vitamin D synthesis
+vitamin D synthesis	influences	bone health
+bone health	predicts	osteoporosis
+osteoporosis	predicts	fracture risk
+fracture risk	predicts	hospitalization
+hospitalization	predicts	readmission
+readmission	is metric	for quality care
+quality care	measured	by CMS
+CMS measurement	uses	risk adjustment
+risk adjustment	incorporates	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	infection risk
+infection risk	increases	antibiotic use
+antibiotic use	leads to	resistance
+resistance	reduces	treatment efficacy
+treatment efficacy	predicts	mortality
+mortality	is outcome	for sepsis
+sepsis	is triggered	by bacterial infection
+bacterial infection	detected	by culture
+culture	identifies	pathogen
+pathogen	may be	MRSA
+MRSA	requires	vancomycin
+vancomycin	has	nephrotoxicity
+nephrotoxicity	predicts	acute kidney injury
+acute kidney injury	predicts	dialysis
+dialysis	predicts	mortality
+mortality	is outcome	for CKD
+CKD	is risk factor	for cardiovascular disease
+cardiovascular disease	is risk factor	for stroke
+stroke	leads to	disability
+disability	increases	caregiver burden
+caregiver burden	predicts	depression
+depression	predicts	suicide risk
+suicide risk	predicts	mortality
+mortality	is outcome	for mental illness
+mental illness	treated	with antidepressants
+antidepressants	may cause	weight gain
+weight gain	increases	metabolic syndrome
+metabolic syndrome	increases	insulin resistance
+insulin resistance	leads to	type 2 diabetes
+type 2 diabetes	increases	foot ulcer risk
+foot ulcer risk	leads to	amputation
+amputation	increases	mortality
+mortality	is outcome	for peripheral artery disease
+peripheral artery disease	treated	with statins
+statins	reduce	LDL
+LDL reduction	decreases	atherosclerosis
+atherosclerosis	reduces	myocardial infarction
+myocardial infarction	reduces	mortality
+mortality	is outcome	for cardiovascular disease
+cardiovascular disease	is prevented	by sunscreen

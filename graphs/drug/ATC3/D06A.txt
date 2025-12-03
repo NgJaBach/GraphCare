@@ -1,0 +1,100 @@
+antibiotics	are	drug
+antibiotics	used for	skin infection
+antibiotics	applied topically	skin
+topical antibiotics	reduce	bacterial load
+topical antibiotics	treat	impetigo
+topical antibiotics	treat	folliculitis
+topical antibiotics	treat	cellulitis
+topical antibiotics	treat	wound infection
+topical antibiotics	treat	acne
+topical antibiotics	treat	eczema
+topical antibiotics	treat	psoriasis
+topical antibiotics	treat	burn infection
+topical antibiotics	treat	surgical site infection
+topical antibiotics	reduce	healing time
+topical antibiotics	improve	wound closure
+topical antibiotics	prevent	infection spread
+topical antibiotics	used with	antiseptic
+topical antibiotics	used with	steroid
+topical antibiotics	used with	moisturizer
+topical antibiotics	contraindicated in	pregnancy
+topical antibiotics	contraindicated in	lactation
+topical antibiotics	contraindicated in	allergy
+topical antibiotics	contraindicated in	renal impairment
+topical antibiotics	contraindicated in	hepatic impairment
+topical antibiotics	contraindicated in	immunosuppression
+topical antibiotics	contraindicated in	severe skin disease
+topical antibiotics	contraindicated in	contact dermatitis
+topical antibiotics	contraindicated in	ulcerative colitis
+topical antibiotics	contraindicated in	psoriasis
+topical antibiotics	contraindicated in	eczema
+topical antibiotics	contraindicated in	burn
+topical antibiotics	contraindicated in	surgical wound
+topical antibiotics	contraindicated in	diabetic foot
+topical antibiotics	contraindicated in	pressure ulcer
+topical antibiotics	contraindicated in	venous ulcer
+topical antibiotics	contraindicated in	arterial ulcer
+topical antibiotics	contraindicated in	traumatic wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site
+topical antibiotics	contraindicated in	infected trauma
+topical antibiotics	contraindicated in	infected skin
+topical antibiotics	contraindicated in	infected wound
+topical antibiotics	contraindicated in	infected ulcer
+topical antibiotics	contraindicated in	infected burn
+topical antibiotics	contraindicated in	infected surgical site

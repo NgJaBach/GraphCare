@@ -1,0 +1,100 @@
+electrographic cardiac monitoring	is a	diagnostic tool
+electrographic cardiac monitoring	measures	heart rhythm
+electrographic cardiac monitoring	records	ECG signals
+electrographic cardiac monitoring	detects	arrhythmia
+electrographic cardiac monitoring	identifies	atrial fibrillation
+electrographic cardiac monitoring	identifies	ventricular tachycardia
+electrographic cardiac monitoring	identifies	ST‑segment elevation
+electrographic cardiac monitoring	identifies	QT prolongation
+electrographic cardiac monitoring	monitors	cardiac conduction
+electrographic cardiac monitoring	monitors	heart rate variability
+electrographic cardiac monitoring	assists in	pacemaker programming
+electrographic cardiac monitoring	assists in	implantable cardioverter‑defibrillator testing
+electrographic cardiac monitoring	used for	postoperative cardiac surveillance
+electrographic cardiac monitoring	used for	intensive care monitoring
+electrographic cardiac monitoring	used for	telemetry
+electrographic cardiac monitoring	used for	sleep apnea screening
+electrographic cardiac monitoring	used for	drug cardiotoxicity assessment
+electrographic cardiac monitoring	used for	heart failure management
+electrographic cardiac monitoring	used for	arrhythmia ablation guidance
+electrographic cardiac monitoring	used for	cardiac arrest detection
+electrographic cardiac monitoring	improves	early arrhythmia detection
+electrographic cardiac monitoring	reduces	missed arrhythmia events
+electrographic cardiac monitoring	increases	patient safety
+electrographic cardiac monitoring	reduces	ICU length of stay
+electrographic cardiac monitoring	reduces	readmission risk
+electrographic cardiac monitoring	informs	antiarrhythmic drug selection
+electrographic cardiac monitoring	informs	beta‑blocker dosing
+electrographic cardiac monitoring	informs	amiodarone therapy
+electrographic cardiac monitoring	informs	digoxin monitoring
+electrographic cardiac monitoring	informs	anticoagulation strategy
+electrographic cardiac monitoring	informs	pacemaker threshold testing
+electrographic cardiac monitoring	informs	ICD shock analysis
+electrographic cardiac monitoring	informs	cardiac resynchronization therapy
+electrographic cardiac monitoring	informs	heart transplant assessment
+electrographic cardiac monitoring	informs	cardiac rehabilitation
+electrographic cardiac monitoring	informs	arrhythmia risk stratification
+electrographic cardiac monitoring	informs	sudden cardiac death prediction
+electrographic cardiac monitoring	informs	myocardial infarction diagnosis
+electrographic cardiac monitoring	informs	ischemia detection
+electrographic cardiac monitoring	informs	pericardial effusion monitoring
+electrographic cardiac monitoring	informs	myocarditis surveillance
+electrographic cardiac monitoring	informs	cardiac tamponade detection
+electrographic cardiac monitoring	informs	cardiac tamponade management
+electrographic cardiac monitoring	informs	cardiac tamponade prognosis
+electrographic cardiac monitoring	informs	cardiac tamponade treatment
+electrographic cardiac monitoring	informs	cardiac tamponade outcome
+electrographic cardiac monitoring	informs	cardiac tamponade complications
+electrographic cardiac monitoring	informs	cardiac tamponade mortality
+electrographic cardiac monitoring	informs	cardiac tamponade readmission
+electrographic cardiac monitoring	informs	cardiac tamponade discharge planning
+electrographic cardiac monitoring	informs	cardiac tamponade follow‑up
+electrographic cardiac monitoring	informs	cardiac tamponade therapy adjustment
+electrographic cardiac monitoring	informs	cardiac tamponade medication selection
+electrographic cardiac monitoring	informs	cardiac tamponade device implantation
+electrographic cardiac monitoring	informs	cardiac tamponade surgical timing
+electrographic cardiac monitoring	informs	cardiac tamponade surgical outcome
+electrographic cardiac monitoring	informs	cardiac tamponade surgical complications
+electrographic cardiac monitoring	informs	cardiac tamponade surgical mortality
+electrographic cardiac monitoring	informs	cardiac tamponade surgical readmission
+electrographic cardiac monitoring	informs	cardiac tamponade surgical discharge planning
+electrographic cardiac monitoring	informs	cardiac tamponade surgical follow‑up
+electrographic cardiac monitoring	informs	cardiac tamponade surgical therapy adjustment
+electrographic cardiac monitoring	informs	cardiac tamponade surgical medication selection
+electrographic cardiac monitoring	informs	cardiac tamponade surgical device implantation
+electrographic cardiac monitoring	informs	cardiac tamponade surgical timing
+electrographic cardiac monitoring	informs	cardiac tamponade surgical outcome
+electrographic cardiac monitoring	informs	cardiac tamponade surgical complications
+electrographic cardiac monitoring	informs	cardiac tamponade surgical mortality
+electrographic cardiac monitoring	informs	cardiac tamponade surgical readmission
+electrographic cardiac monitoring	informs	cardiac tamponade surgical discharge planning
+electrographic cardiac monitoring	informs	cardiac tamponade surgical follow‑up
+electrographic cardiac monitoring	informs	cardiac tamponade surgical therapy adjustment
+electrographic cardiac monitoring	informs	cardiac tamponade surgical medication selection
+electrographic cardiac monitoring	informs	cardiac tamponade surgical device implantation
+electrographic cardiac monitoring	informs	cardiac tamponade surgical timing
+electrographic cardiac monitoring	informs	cardiac tamponade surgical outcome
+electrographic cardiac monitoring	informs	cardiac tamponade surgical complications
+electrographic cardiac monitoring	informs	cardiac tamponade surgical mortality
+electrographic cardiac monitoring	informs	cardiac tamponade surgical readmission
+electrographic cardiac monitoring	informs	cardiac tamponade surgical discharge planning
+electrographic cardiac monitoring	informs	cardiac tamponade surgical follow‑up
+electrographic cardiac monitoring	informs	cardiac tamponade surgical therapy adjustment
+electrographic cardiac monitoring	informs	cardiac tamponade surgical medication selection
+electrographic cardiac monitoring	informs	cardiac tamponade surgical device implantation
+electrographic cardiac monitoring	informs	cardiac tamponade surgical timing
+electrographic cardiac monitoring	informs	cardiac tamponade surgical outcome
+electrographic cardiac monitoring	informs	cardiac tamponade surgical complications
+electrographic cardiac monitoring	informs	cardiac tamponade surgical mortality
+electrographic cardiac monitoring	informs	cardiac tamponade surgical readmission
+electrographic cardiac monitoring	informs	cardiac tamponade surgical discharge planning
+electrographic cardiac monitoring	informs	cardiac tamponade surgical follow‑up
+electrographic cardiac monitoring	informs	cardiac tamponade surgical therapy adjustment
+electrographic cardiac monitoring	informs	cardiac tamponade surgical medication selection
+electrographic cardiac monitoring	informs	cardiac tamponade surgical device implantation
+electrographic cardiac monitoring	informs	cardiac tamponade surgical timing
+electrographic cardiac monitoring	informs	cardiac tamponade surgical outcome
+electrographic cardiac monitoring	informs	cardiac tamponade surgical complications
+electrographic cardiac monitoring	informs	cardiac tamponade surgical mortality
+electrographic cardiac monitoring	informs	cardiac tamponade surgical readmission
+electrographic cardiac monitoring	informs	cardiac tamponade surgical discharge planning

@@ -1,0 +1,100 @@
+vaccination	is a	preventive measure
+vaccination	protects against	infection
+vaccination	reduces	disease incidence
+vaccination	lowers	mortality rate
+vaccination	decreases	hospital admissions
+vaccination	improves	herd immunity
+vaccination	is administered by	healthcare provider
+vaccination	delivered via	injection
+vaccination	can be oral	for	polio
+vaccination	requires	booster dose
+vaccination	scheduled at	infancy
+vaccination	scheduled at	adolescence
+vaccination	scheduled at	adulthood
+vaccination	scheduled at	elderly
+vaccination	contraindicated in	immunocompromised
+vaccination	contraindicated in	pregnancy
+vaccination	contraindicated in	severe allergy
+vaccination	contraindicated in	febrile illness
+vaccination	contraindicated in	recent surgery
+vaccination	contraindicated in	chronic disease
+vaccination	contraindicated in	autoimmune disorder
+vaccination	contraindicated in	organ transplant
+vaccination	contraindicated in	live vaccine
+vaccination	contraindicated in	inactivated vaccine
+vaccination	contraindicated in	adjuvant
+vaccination	contraindicated in	vaccine storage
+vaccination	contraindicated in	vaccine handling
+vaccination	contraindicated in	vaccine schedule
+vaccination	contraindicated in	vaccine efficacy
+vaccination	contraindicated in	vaccine safety
+vaccination	contraindicated in	vaccine side effect
+vaccination	contraindicated in	vaccine reaction
+vaccination	contraindicated in	vaccine hesitancy
+vaccination	contraindicated in	vaccine refusal
+vaccination	contraindicated in	vaccine misinformation
+vaccination	contraindicated in	vaccine policy
+vaccination	contraindicated in	vaccine mandate
+vaccination	contraindicated in	vaccine coverage
+vaccination	contraindicated in	vaccine uptake
+vaccination	contraindicated in	vaccine access
+vaccination	contraindicated in	vaccine distribution
+vaccination	contraindicated in	vaccine supply
+vaccination	contraindicated in	vaccine demand
+vaccination	contraindicated in	vaccine cost
+vaccination	contraindicated in	vaccine reimbursement
+vaccination	contraindicated in	vaccine insurance
+vaccination	contraindicated in	vaccine financing
+vaccination	contraindicated in	vaccine research
+vaccination	contraindicated in	vaccine development
+vaccination	contraindicated in	vaccine trial
+vaccination	contraindicated in	vaccine approval
+vaccination	contraindicated in	vaccine regulation
+vaccination	contraindicated in	vaccine monitoring
+vaccination	contraindicated in	vaccine surveillance
+vaccination	contraindicated in	vaccine reporting
+vaccination	contraindicated in	vaccine audit
+vaccination	contraindicated in	vaccine quality
+vaccination	contraindicated in	vaccine potency
+vaccination	contraindicated in	vaccine stability
+vaccination	contraindicated in	vaccine shelf life
+vaccination	contraindicated in	vaccine storage temperature
+vaccination	contraindicated in	vaccine cold chain
+vaccination	contraindicated in	vaccine logistics
+vaccination	contraindicated in	vaccine inventory
+vaccination	contraindicated in	vaccine wastage
+vaccination	contraindicated in	vaccine wastage reduction
+vaccination	contraindicated in	vaccine wastage prevention
+vaccination	contraindicated in	vaccine wastage control
+vaccination	contraindicated in	vaccine wastage monitoring
+vaccination	contraindicated in	vaccine wastage reporting
+vaccination	contraindicated in	vaccine wastage audit
+vaccination	contraindicated in	vaccine wastage analysis
+vaccination	contraindicated in	vaccine wastage optimization
+vaccination	contraindicated in	vaccine wastage management
+vaccination	contraindicated in	vaccine wastage reduction strategy
+vaccination	contraindicated in	vaccine wastage reduction program
+vaccination	contraindicated in	vaccine wastage reduction initiative
+vaccination	contraindicated in	vaccine wastage reduction policy
+vaccination	contraindicated in	vaccine wastage reduction guideline
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol
+vaccination	contraindicated in	vaccine wastage reduction protocol

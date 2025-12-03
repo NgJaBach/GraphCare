@@ -1,0 +1,100 @@
+antithrombotic agents	treat	thrombosis
+antithrombotic agents	prevent	embolism
+antithrombotic agents	reduce	stroke risk
+antithrombotic agents	lower	myocardial infarction
+antithrombotic agents	include	anticoagulants
+antithrombotic agents	include	antiplatelets
+antithrombotic agents	include	fibrinolytics
+antithrombotic agents	include	thrombolytics
+anticoagulants	inhibit	coagulation cascade
+anticoagulants	include	warfarin
+anticoagulants	include	heparin
+anticoagulants	include	DOACs
+DOACs	include	apixaban
+DOACs	include	rivaroxaban
+DOACs	include	dabigatran
+DOACs	include	edoxaban
+antiplatelets	inhibit	platelet aggregation
+antiplatelets	include	aspirin
+antiplatelets	include	clopidogrel
+antiplatelets	include	ticagrelor
+antiplatelets	include	prasugrel
+fibrinolytics	dissolve	fibrin clot
+fibrinolytics	include	alteplase
+fibrinolytics	include	reteplase
+fibrinolytics	include	tenecteplase
+antithrombotic agents	used in	atrial fibrillation
+antithrombotic agents	used in	venous thromboembolism
+antithrombotic agents	used in	coronary artery disease
+antithrombotic agents	used in	peripheral artery disease
+antithrombotic agents	used in	mechanical heart valve
+antithrombotic agents	contraindicated in	active bleeding
+antithrombotic agents	contraindicated in	severe thrombocytopenia
+antithrombotic agents	contraindicated in	recent stroke
+antithrombotic agents	contraindicated in	pregnancy
+antithrombotic agents	monitored by	INR
+antithrombotic agents	monitored by	aPTT
+antithrombotic agents	monitored by	anti‑Xa
+antithrombotic agents	monitored by	renal function
+antithrombotic agents	interact with	NSAIDs
+antithrombotic agents	interact with	SSRIs
+antithrombotic agents	interact with	CYP3A4 inhibitors
+antithrombotic agents	interact with	CYP2C9 inhibitors
+antithrombotic agents	cause	bleeding risk
+antithrombotic agents	cause	bruising
+antithrombotic agents	cause	anemia
+antithrombotic agents	cause	thrombocytopenia
+antithrombotic agents	cause	GI ulcer
+antithrombotic agents	cause	intracranial hemorrhage
+antithrombotic agents	benefit	mortality reduction
+antithrombotic agents	benefit	quality of life
+antithrombotic agents	benefit	rehospitalization reduction
+antithrombotic agents	benefit	readmission prediction
+antithrombotic agents	benefit	cost‑effectiveness
+antithrombotic agents	dosage	weight‑based
+antithrombotic agents	dosage	renal‑adjusted
+antithrombotic agents	dosage	age‑adjusted
+antithrombotic agents	dosage	drug‑drug interaction
+antithrombotic agents	dosage	therapeutic window
+antithrombotic agents	dosage	loading dose
+antithrombotic agents	dosage	maintenance dose
+antithrombotic agents	administration	oral
+antithrombotic agents	administration	intravenous
+antithrombotic agents	administration	subcutaneous
+antithrombotic agents	administration	transdermal
+antithrombotic agents	administration	implantable
+antithrombotic agents	monitoring	platelet count
+antithrombotic agents	monitoring	coagulation profile
+antithrombotic agents	monitoring	renal function
+antithrombotic agents	monitoring	liver function
+antithrombotic agents	monitoring	drug levels
+antithrombotic agents	monitoring	adverse events
+antithrombotic agents	monitoring	patient adherence
+antithrombotic agents	monitoring	drug interactions
+antithrombotic agents	monitoring	genetic polymorphisms
+antithrombotic agents	monitoring	pharmacogenomics
+antithrombotic agents	monitoring	therapeutic drug monitoring
+antithrombotic agents	monitoring	risk scores
+antithrombotic agents	monitoring	HAS‑BLED score
+antithrombotic agents	monitoring	CHA₂DS₂‑VASc score
+antithrombotic agents	monitoring	VTE risk assessment
+antithrombotic agents	monitoring	bleeding risk assessment
+antithrombotic agents	monitoring	patient education
+antithrombotic agents	monitoring	lifestyle modification
+antithrombotic agents	monitoring	diet
+antithrombotic agents	monitoring	alcohol consumption
+antithrombotic agents	monitoring	smoking cessation
+antithrombotic agents	monitoring	exercise
+antithrombotic agents	monitoring	weight management
+antithrombotic agents	monitoring	medication reconciliation
+antithrombotic agents	monitoring	electronic health record alerts
+antithrombotic agents	monitoring	clinical decision support
+antithrombotic agents	monitoring	predictive analytics
+antithrombotic agents	monitoring	machine learning models
+antithrombotic agents	monitoring	risk stratification
+antithrombotic agents	monitoring	outcome prediction
+antithrombotic agents	monitoring	readmission risk
+antithrombotic agents	monitoring	mortality risk
+antithrombotic agents	monitoring	adverse event prediction
+antithrombotic agents	monitoring	drug efficacy
+antithrombotic agents	monitoring	patient satisfaction

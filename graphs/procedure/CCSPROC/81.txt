@@ -1,0 +1,100 @@
+hemorrhoid procedures	is a	surgical intervention
+hemorrhoid procedures	treat	hemorrhoids
+hemorrhoid procedures	reduce	bleeding
+hemorrhoid procedures	improve	quality of life
+hemorrhoid procedures	decrease	pain
+hemorrhoid procedures	prevent	prolapse
+hemorrhoid procedures	involve	tissue removal
+hemorrhoid procedures	use	stapling
+hemorrhoid procedures	use	banding
+hemorrhoid procedures	use	sclerotherapy
+hemorrhoid procedures	use	laser
+hemorrhoid procedures	use	radiofrequency
+hemorrhoid procedures	use	cryotherapy
+hemorrhoid procedures	use	infrared coagulation
+hemorrhoid procedures	use	electrocautery
+hemorrhoid procedures	use	micro‑surgery
+hemorrhoid procedures	require	anesthesia
+hemorrhoid procedures	require	local anesthesia
+hemorrhoid procedures	require	sedation
+hemorrhoid procedures	require	hospital stay
+hemorrhoid procedures	require	postoperative care
+hemorrhoid procedures	have	recovery time
+hemorrhoid procedures	have	complication risk
+hemorrhoid procedures	have	recurrence risk
+hemorrhoid procedures	have	infection risk
+hemorrhoid procedures	have	bleeding risk
+hemorrhoid procedures	have	pain risk
+hemorrhoid procedures	have	constipation risk
+hemorrhoid procedures	have	stricture risk
+hemorrhoid procedures	have	thrombosis risk
+hemorrhoid procedures	have	anesthesia risk
+hemorrhoid procedures	have	cost
+hemorrhoid procedures	have	insurance coverage
+hemorrhoid procedures	have	patient satisfaction
+hemorrhoid procedures	have	hospital readmission
+hemorrhoid procedures	have	length of stay
+hemorrhoid procedures	have	mortality rate
+hemorrhoid procedures	have	morbidity rate
+hemorrhoid procedures	have	success rate
+hemorrhoid procedures	have	failure rate
+hemorrhoid procedures	have	postoperative pain
+hemorrhoid procedures	have	postoperative bleeding
+hemorrhoid procedures	have	postoperative infection
+hemorrhoid procedures	have	postoperative constipation
+hemorrhoid procedures	have	postoperative stricture
+hemorrhoid procedures	have	postoperative thrombosis
+hemorrhoid procedures	have	postoperative anemia
+hemorrhoid procedures	have	postoperative nausea
+hemorrhoid procedures	have	postoperative vomiting
+hemorrhoid procedures	have	postoperative fatigue
+hemorrhoid procedures	have	postoperative anxiety
+hemorrhoid procedures	have	postoperative depression
+hemorrhoid procedures	have	postoperative sleep disturbance
+hemorrhoid procedures	have	postoperative mobility limitation
+hemorrhoid procedures	have	postoperative diet restriction
+hemorrhoid procedures	have	postoperative activity restriction
+hemorrhoid procedures	have	postoperative wound care
+hemorrhoid procedures	have	postoperative follow‑up
+hemorrhoid procedures	have	postoperative imaging
+hemorrhoid procedures	have	postoperative laboratory
+hemorrhoid procedures	have	postoperative medication
+hemorrhoid procedures	have	postoperative physiotherapy
+hemorrhoid procedures	have	postoperative counseling
+hemorrhoid procedures	have	postoperative diet plan
+hemorrhoid procedures	have	postoperative stool softener
+hemorrhoid procedures	have	postoperative pain medication
+hemorrhoid procedures	have	postoperative antibiotic
+hemorrhoid procedures	have	postoperative anticoagulant
+hemorrhoid procedures	have	postoperative anti‑inflammatory
+hemorrhoid procedures	have	postoperative analgesic
+hemorrhoid procedures	have	postoperative anti‑nausea
+hemorrhoid procedures	have	postoperative anti‑vomiting
+hemorrhoid procedures	have	postoperative anti‑fatigue
+hemorrhoid procedures	have	postoperative anti‑anxiety
+hemorrhoid procedures	have	postoperative anti‑depression
+hemorrhoid procedures	have	postoperative anti‑sleep
+hemorrhoid procedures	have	postoperative anti‑mobility
+hemorrhoid procedures	have	postoperative anti‑diet
+hemorrhoid procedures	have	postoperative anti‑activity
+hemorrhoid procedures	have	postoperative anti‑wound
+hemorrhoid procedures	have	postoperative anti‑follow‑up
+hemorrhoid procedures	have	postoperative anti‑imaging
+hemorrhoid procedures	have	postoperative anti‑lab
+hemorrhoid procedures	have	postoperative anti‑medication
+hemorrhoid procedures	have	postoperative anti‑physiotherapy
+hemorrhoid procedures	have	postoperative anti‑counseling
+hemorrhoid procedures	have	postoperative anti‑diet plan
+hemorrhoid procedures	have	postoperative anti‑stool softener
+hemorrhoid procedures	have	postoperative anti‑pain medication
+hemorrhoid procedures	have	postoperative anti‑antibiotic
+hemorrhoid procedures	have	postoperative anti‑anticoagulant
+hemorrhoid procedures	have	postoperative anti‑anti‑inflammatory
+hemorrhoid procedures	have	postoperative anti‑analgesic
+hemorrhoid procedures	have	postoperative anti‑nausea medication
+hemorrhoid procedures	have	postoperative anti‑vomiting medication
+hemorrhoid procedures	have	postoperative anti‑fatigue medication
+hemorrhoid procedures	have	postoperative anti‑anxiety medication
+hemorrhoid procedures	have	postoperative anti‑depression medication
+hemorrhoid procedures	have	postoperative anti‑sleep medication
+hemorrhoid procedures	have	postoperative anti‑mobility medication

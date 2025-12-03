@@ -1,0 +1,100 @@
+corticosteroid	is a	drug
+corticosteroid	treats	inflammation
+corticosteroid	reduces	edema
+corticosteroid	inhibits	cytokine
+corticosteroid	suppresses	immune response
+corticosteroid	used for	eczema
+corticosteroid	used for	psoriasis
+corticosteroid	used for	dermatitis
+corticosteroid	used for	urticaria
+corticosteroid	used for	allergic reaction
+corticosteroid	applied topically	skin
+corticosteroid	absorbed through	epidermis
+corticosteroid	penetrates	dermis
+corticosteroid	metabolized by	liver
+corticosteroid	excreted by	kidneys
+corticosteroid	side effect	skin atrophy
+corticosteroid	side effect	striae
+corticosteroid	side effect	telangiectasia
+corticosteroid	side effect	acne
+corticosteroid	side effect	contact dermatitis
+corticosteroid	contraindicated in	immunocompromised patient
+corticosteroid	contraindicated in	fungal infection
+corticosteroid	contraindicated in	viral infection
+corticosteroid	contraindicated in	pregnancy
+corticosteroid	contraindicated in	lactation
+corticosteroid	contraindicated in	children under 2
+corticosteroid	contraindicated in	systemic disease
+corticosteroid	dosage	depends on potency
+corticosteroid	potency	classified as high
+corticosteroid	potency	classified as medium
+corticosteroid	potency	classified as low
+corticosteroid	potency	classified as ultra‑low
+corticosteroid	potency	affects skin thickness
+corticosteroid	potency	affects absorption rate
+corticosteroid	potency	affects side‑effect risk
+corticosteroid	potency	influences efficacy
+corticosteroid	formulation	ointment
+corticosteroid	formulation	cream
+corticosteroid	formulation	lotion
+corticosteroid	formulation	gel
+corticosteroid	formulation	spray
+corticosteroid	formulation	foam
+corticosteroid	formulation	patch
+corticosteroid	formulation	solution
+corticosteroid	formulation	emulsion
+corticosteroid	formulation	paste
+corticosteroid	formulation	ointment	contains	vehicle
+corticosteroid	formulation	cream	contains	humectant
+corticosteroid	formulation	gel	contains	polymer
+corticosteroid	formulation	spray	contains	propellant
+corticosteroid	formulation	foam	contains	surfactant
+corticosteroid	formulation	patch	contains	adhesive
+corticosteroid	formulation	solution	contains	solvent
+corticosteroid	formulation	emulsion	contains	oil
+corticosteroid	formulation	paste	contains	thickener
+corticosteroid	vehicle	influences	penetration
+corticosteroid	vehicle	influences	irritation
+corticosteroid	vehicle	influences	stability
+corticosteroid	vehicle	influences	shelf life
+corticosteroid	vehicle	influences	patient adherence
+corticosteroid	patient adherence	improves	outcome
+corticosteroid	patient adherence	decreases	relapse
+corticosteroid	patient adherence	decreases	readmission
+corticosteroid	patient adherence	increases	cost
+corticosteroid	patient adherence	influenced by	cost
+corticosteroid	patient adherence	influenced by	convenience
+corticosteroid	patient adherence	influenced by	side‑effects
+corticosteroid	patient adherence	influenced by	education
+corticosteroid	patient adherence	influenced by	provider instruction
+corticosteroid	drug interaction	with	systemic steroids
+corticosteroid	drug interaction	with	immunosuppressants
+corticosteroid	drug interaction	with	NSAIDs
+corticosteroid	drug interaction	with	antihistamines
+corticosteroid	drug interaction	with	antibiotics
+corticosteroid	drug interaction	with	antifungals
+corticosteroid	drug interaction	with	antivirals
+corticosteroid	drug interaction	with	topical retinoids
+corticosteroid	drug interaction	with	phototherapy
+corticosteroid	drug interaction	with	UV exposure
+corticosteroid	drug interaction	with	systemic steroids
+corticosteroid	drug interaction	with	oral steroids
+corticosteroid	drug interaction	with	oral immunosuppressants
+corticosteroid	drug interaction	with	oral antibiotics
+corticosteroid	drug interaction	with	oral antifungals
+corticosteroid	drug interaction	with	oral antivirals
+corticosteroid	drug interaction	with	oral retinoids
+corticosteroid	drug interaction	with	oral phototherapy
+corticosteroid	drug interaction	with	oral UV
+corticosteroid	drug interaction	with	systemic immunosuppressants
+corticosteroid	drug interaction	with	systemic antibiotics
+corticosteroid	drug interaction	with	systemic antifungals
+corticosteroid	drug interaction	with	systemic antivirals
+corticosteroid	drug interaction	with	systemic retinoids
+corticosteroid	drug interaction	with	systemic phototherapy
+corticosteroid	drug interaction	with	systemic UV
+corticosteroid	risk factor	for	systemic absorption
+corticosteroid	risk factor	for	adrenal suppression
+corticosteroid	risk factor	for	osteoporosis
+corticosteroid	risk factor	for	hypertension
+corticosteroid	risk factor	for	hyperglycemia

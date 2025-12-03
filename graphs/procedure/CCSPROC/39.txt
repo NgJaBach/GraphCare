@@ -1,0 +1,100 @@
+incision of pleura	is a	surgical procedure
+incision of pleura	used for	pleural access
+incision of pleura	performed during	thoracotomy
+incision of pleura	requires	general anesthesia
+incision of pleura	reduces	pleural pressure
+incision of pleura	increases	risk of infection
+incision of pleura	associated with	postoperative pain
+incision of pleura	can cause	pneumothorax
+incision of pleura	leads to	pleural drainage
+incision of pleura	improves	lung expansion
+thoracentesis	is a	diagnostic procedure
+thoracentesis	is a	therapeutic procedure
+thoracentesis	uses	needle aspiration
+thoracentesis	performed with	ultrasound guidance
+thoracentesis	reduces	pleural effusion
+thoracentesis	can detect	malignant cells
+thoracentesis	can detect	infection
+thoracentesis	can detect	chylothorax
+thoracentesis	has risk of	pneumothorax
+thoracentesis	has risk of	bleeding
+thoracentesis	has risk of	infection
+thoracentesis	requires	sterile technique
+thoracentesis	performed by	pulmonologist
+thoracentesis	performed by	radiologist
+thoracentesis	performed by	surgeon
+thoracentesis	improves	dyspnea
+thoracentesis	improves	oxygenation
+thoracentesis	improves	quality of life
+chest drainage	is a	therapeutic intervention
+chest drainage	uses	chest tube
+chest drainage	used for	pleural effusion
+chest drainage	used for	pneumothorax
+chest drainage	used for	empyema
+chest drainage	requires	suction
+chest drainage	requires	drainage system
+chest drainage	reduces	intrathoracic pressure
+chest drainage	reduces	pleural fluid
+chest drainage	reduces	infection spread
+chest drainage	increases	risk of tube blockage
+chest drainage	increases	risk of infection
+chest drainage	increases	risk of bleeding
+chest drainage	increases	risk of re-expansion pulmonary edema
+chest drainage	improves	lung re-expansion
+chest drainage	improves	respiratory mechanics
+chest drainage	improves	hemodynamics
+chest tube	is a	component of	chest drainage
+chest tube	made of	silicone
+chest tube	made of	polyurethane
+chest tube	has	internal diameter
+chest tube	has	external diameter
+chest tube	has	multiple side holes
+chest tube	has	drainage port
+chest tube	placed at	intercostal space
+chest tube	placed at	5th intercostal space
+chest tube	placed at	mid-axillary line
+chest tube	inserted by	Seldinger technique
+chest tube	inserted by	direct cutdown
+chest tube	secured by	sutures
+chest tube	secured by	adhesive
+chest tube	monitored by	drainage volume
+chest tube	monitored by	air leak
+chest tube	monitored by	chest X‑ray
+chest tube	removed when	drainage < 200 mL/day
+chest tube	removed when	no air leak
+chest tube	removed when	lung fully expanded
+thoracentesis	contraindicated in	coagulopathy
+thoracentesis	contraindicated in	severe hypoxemia
+thoracentesis	contraindicated in	obesity
+incision of pleura	contraindicated in	severe adhesions
+incision of pleura	contraindicated in	tumor invasion
+chest drainage	contraindicated in	small effusion
+chest drainage	contraindicated in	simple parapneumonic effusion
+chest drainage	contraindicated in	loculated effusion
+thoracentesis	improves	diagnostic yield
+thoracentesis	improves	patient comfort
+chest drainage	improves	infection control
+chest drainage	improves	ventilatory support
+incision of pleura	improves	surgical exposure
+incision of pleura	improves	access for pleurodesis
+thoracentesis	used for	pleurodesis guidance
+chest drainage	used for	pleurodesis drainage
+incision of pleura	associated with	pleurodesis
+thoracentesis	associated with	pleurodesis
+chest drainage	associated with	pleurodesis
+incision of pleura	associated with	pleural biopsy
+thoracentesis	associated with	pleural biopsy
+chest drainage	associated with	pleural biopsy
+incision of pleura	increases	postoperative complications
+thoracentesis	increases	procedural complications
+chest drainage	increases	hospital stay
+incision of pleura	predicts	mortality in pleural disease
+thoracentesis	predicts	mortality in pleural effusion
+chest drainage	predicts	mortality in empyema
+incision of pleura	predicts	readmission risk
+thoracentesis	predicts	readmission risk
+chest drainage	predicts	readmission risk
+incision of pleura	predicts	ICU admission
+thoracentesis	predicts	ICU admission
+chest drainage	predicts	ICU admission
+incision of pleura	predicts	length of stay

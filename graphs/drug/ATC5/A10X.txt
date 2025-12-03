@@ -1,0 +1,100 @@
+Metformin	is a	drug
+Metformin	treats	type 2 diabetes
+Metformin	reduces	hepatic glucose production
+Metformin	improves	insulin sensitivity
+Metformin	causes	lactic acidosis
+Metformin	contraindicated in	renal failure
+Metformin	dosage	500 mg
+Metformin	brand	Glucophage
+Metformin	mechanism	AMPK activation
+Metformin	side effect	gastrointestinal upset
+Sulfonylureas	are a	drug class
+Sulfonylureas	stimulate	insulin secretion
+Sulfonylureas	include	glipizide
+Sulfonylureas	include	glyburide
+Sulfonylureas	cause	hypoglycemia
+Sulfonylureas	contraindicated in	severe renal impairment
+Sulfonylureas	dosage	5 mg
+Sulfonylureas	brand	Diamicron
+Sulfonylureas	mechanism	K⁺ channel blockade
+GLP‑1 agonists	are a	drug class
+GLP‑1 agonists	increase	insulin secretion
+GLP‑1 agonists	decrease	glucagon secretion
+GLP‑1 agonists	include	exenatide
+GLP‑1 agonists	include	liraglutide
+GLP‑1 agonists	cause	nausea
+GLP‑1 agonists	contraindicated in	pancreatitis
+GLP‑1 agonists	dosage	0.6 µg
+GLP‑1 agonists	brand	Byetta
+GLP‑1 agonists	mechanism	GLP‑1 receptor activation
+DPP‑4 inhibitors	are a	drug class
+DPP‑4 inhibitors	prolong	GLP‑1 activity
+DPP‑4 inhibitors	include	sitagliptin
+DPP‑4 inhibitors	include	saxagliptin
+DPP‑4 inhibitors	cause	nasopharyngitis
+DPP‑4 inhibitors	contraindicated in	severe renal impairment
+DPP‑4 inhibitors	dosage	100 mg
+DPP‑4 inhibitors	brand	Januvia
+DPP‑4 inhibitors	mechanism	DPP‑4 inhibition
+SGLT2 inhibitors	are a	drug class
+SGLT2 inhibitors	reduce	renal glucose reabsorption
+SGLT2 inhibitors	include	canagliflozin
+SGLT2 inhibitors	include	dapagliflozin
+SGLT2 inhibitors	cause	genital mycotic infection
+SGLT2 inhibitors	contraindicated in	severe renal disease
+SGLT2 inhibitors	dosage	300 mg
+SGLT2 inhibitors	brand	Invokana
+SGLT2 inhibitors	mechanism	SGLT2 blockade
+Insulin	is a	hormone
+Insulin	treats	type 1 diabetes
+Insulin	treats	advanced type 2 diabetes
+Insulin	types	rapid‑acting
+Insulin	types	long‑acting
+Insulin	side effect	hypoglycemia
+Insulin	contraindicated in	severe hypoglycemia
+Insulin	dosage	variable
+Insulin	brand	Humulin
+Insulin	mechanism	receptor binding
+Meglitinides	are a	drug class
+Meglitinides	stimulate	insulin secretion
+Meglitinides	include	repaglinide
+Meglitinides	include	nateglinide
+Meglitinides	cause	hypoglycemia
+Meglitinides	contraindicated in	severe renal impairment
+Meglitinides	dosage	0.5 mg
+Meglitinides	brand	Starlix
+Meglitinides	mechanism	K⁺ channel blockade
+Thiazolidinediones	are a	drug class
+Thiazolidinediones	improve	insulin sensitivity
+Thiazolidinediones	include	pioglitazone
+Thiazolidinediones	include	rosiglitazone
+Thiazolidinediones	cause	edema
+Thiazolidinediones	contraindicated in	heart failure
+Thiazolidinediones	dosage	30 mg
+Thiazolidinediones	brand	Actos
+Thiazolidinediones	mechanism	PPAR‑γ activation
+Alpha‑glucosidase inhibitors	are a	drug class
+Alpha‑glucosidase inhibitors	delay	carbohydrate absorption
+Alpha‑glucosidase inhibitors	include	acarbose
+Alpha‑glucosidase inhibitors	include	miglitol
+Alpha‑glucosidase inhibitors	cause	flatulence
+Alpha‑glucosidase inhibitors	contraindicated in	severe GI disease
+Alpha‑glucosidase inhibitors	dosage	25 mg
+Alpha‑glucosidase inhibitors	brand	Precose
+Alpha‑glucosidase inhibitors	mechanism	enzyme inhibition
+Combination therapy	improves	glycemic control
+Combination therapy	reduces	monotherapy failure
+Combination therapy	increases	drug interactions
+Combination therapy	may reduce	hypoglycemia risk
+Combination therapy	requires	monitoring
+Metformin	reduces	cardiovascular events
+Sulfonylureas	increase	cardiovascular risk
+GLP‑1 agonists	reduce	weight
+SGLT2 inhibitors	reduce	heart failure hospitalization
+Insulin	increases	infection risk
+Thiazolidinediones	increase	bone fracture risk
+Alpha‑glucosidase inhibitors	improve	post‑prandial glucose
+DPP‑4 inhibitors	neutral	cardiovascular risk
+Meglitinides	short‑acting	reduce	post‑prandial glucose
+Combination therapy	may include	metformin + sulfonylurea
+Combination therapy	may include	metformin + GLP‑1 agonist

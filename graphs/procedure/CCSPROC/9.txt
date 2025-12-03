@@ -1,0 +1,100 @@
+other or therapeutic nervous system procedures	is a	medical procedure
+other or therapeutic nervous system procedures	treats	neurological disorders
+other or therapeutic nervous system procedures	improves	motor function
+other or therapeutic nervous system procedures	reduces	pain
+other or therapeutic nervous system procedures	enhances	cognition
+other or therapeutic nervous system procedures	used for	stroke rehabilitation
+other or therapeutic nervous system procedures	used for	spinal cord injury
+other or therapeutic nervous system procedures	used for	Parkinson’s disease
+other or therapeutic nervous system procedures	used for	multiple sclerosis
+other or therapeutic nervous system procedures	used for	epilepsy
+other or therapeutic nervous system procedures	used for	neuropathic pain
+other or therapeutic nervous system procedures	used for	traumatic brain injury
+other or therapeutic nervous system procedures	used for	depression
+other or therapeutic nervous system procedures	used for	anxiety
+other or therapeutic nervous system procedures	used for	insomnia
+other or therapeutic nervous system procedures	used for	chronic fatigue syndrome
+other or therapeutic nervous system procedures	used for	fibromyalgia
+other or therapeutic nervous system procedures	used for	migraine
+other or therapeutic nervous system procedures	used for	vertigo
+other or therapeutic nervous system procedures	used for	tinnitus
+other or therapeutic nervous system procedures	used for	peripheral neuropathy
+other or therapeutic nervous system procedures	used for	carpal tunnel syndrome
+other or therapeutic nervous system procedures	used for	radiculopathy
+other or therapeutic nervous system procedures	used for	myasthenia gravis
+other or therapeutic nervous system procedures	used for	Guillain‑Barré syndrome
+other or therapeutic nervous system procedures	used for	ALS
+other or therapeutic nervous system procedures	used for	Huntington’s disease
+other or therapeutic nervous system procedures	used for	Alzheimer’s disease
+other or therapeutic nervous system procedures	used for	dementia
+other or therapeutic nervous system procedures	used for	cerebral palsy
+other or therapeutic nervous system procedures	used for	spasticity
+other or therapeutic nervous system procedures	used for	dystonia
+other or therapeutic nervous system procedures	used for	tremor
+other or therapeutic nervous system procedures	used for	neuropathic itch
+other or therapeutic nervous system procedures	used for	post‑herpetic neuralgia
+other or therapeutic nervous system procedures	used for	phantom limb pain
+other or therapeutic nervous system procedures	used for	chronic migraine
+other or therapeutic nervous system procedures	used for	cluster headache
+other or therapeutic nervous system procedures	used for	migraine aura
+other or therapeutic nervous system procedures	used for	migraine without aura
+other or therapeutic nervous system procedures	used for	migraine with aura
+other or therapeutic nervous system procedures	used for	migraine prophylaxis
+other or therapeutic nervous system procedures	used for	migraine treatment
+other or therapeutic nervous system procedures	used for	migraine diagnosis
+other or therapeutic nervous system procedures	used for	migraine management
+other or therapeutic nervous system procedures	used for	migraine prevention
+other or therapeutic nervous system procedures	used for	migraine therapy
+other or therapeutic nervous system procedures	used for	migraine care
+other or therapeutic nervous system procedures	used for	migraine relief
+other or therapeutic nervous system procedures	used for	migraine control
+other or therapeutic nervous system procedures	used for	migraine treatment plan
+other or therapeutic nervous system procedures	used for	migraine management plan
+other or therapeutic nervous system procedures	used for	migraine prevention plan
+other or therapeutic nervous system procedures	used for	migraine therapy plan
+other or therapeutic nervous system procedures	used for	migraine care plan
+other or therapeutic nervous system procedures	used for	migraine relief plan
+other or therapeutic nervous system procedures	used for	migraine control plan
+other or therapeutic nervous system procedures	used for	migraine treatment protocol
+other or therapeutic nervous system procedures	used for	migraine management protocol
+other or therapeutic nervous system procedures	used for	migraine prevention protocol
+other or therapeutic nervous system procedures	used for	migraine therapy protocol
+other or therapeutic nervous system procedures	used for	migraine care protocol
+other or therapeutic nervous system procedures	used for	migraine relief protocol
+other or therapeutic nervous system procedures	used for	migraine control protocol
+other or therapeutic nervous system procedures	used for	migraine treatment guideline
+other or therapeutic nervous system procedures	used for	migraine management guideline
+other or therapeutic nervous system procedures	used for	migraine prevention guideline
+other or therapeutic nervous system procedures	used for	migraine therapy guideline
+other or therapeutic nervous system procedures	used for	migraine care guideline
+other or therapeutic nervous system procedures	used for	migraine relief guideline
+other or therapeutic nervous system procedures	used for	migraine control guideline
+other or therapeutic nervous system procedures	used for	migraine treatment strategy
+other or therapeutic nervous system procedures	used for	migraine management strategy
+other or therapeutic nervous system procedures	used for	migraine prevention strategy
+other or therapeutic nervous system procedures	used for	migraine therapy strategy
+other or therapeutic nervous system procedures	used for	migraine care strategy
+other or therapeutic nervous system procedures	used for	migraine relief strategy
+other or therapeutic nervous system procedures	used for	migraine control strategy
+other or therapeutic nervous system procedures	used for	migraine treatment plan
+other or therapeutic nervous system procedures	used for	migraine management plan
+other or therapeutic nervous system procedures	used for	migraine prevention plan
+other or therapeutic nervous system procedures	used for	migraine therapy plan
+other or therapeutic nervous system procedures	used for	migraine care plan
+other or therapeutic nervous system procedures	used for	migraine relief plan
+other or therapeutic nervous system procedures	used for	migraine control plan
+other or therapeutic nervous system procedures	used for	migraine treatment protocol
+other or therapeutic nervous system procedures	used for	migraine management protocol
+other or therapeutic nervous system procedures	used for	migraine prevention protocol
+other or therapeutic nervous system procedures	used for	migraine therapy protocol
+other or therapeutic nervous system procedures	used for	migraine care protocol
+other or therapeutic nervous system procedures	used for	migraine relief protocol
+other or therapeutic nervous system procedures	used for	migraine control protocol
+other or therapeutic nervous system procedures	used for	migraine treatment guideline
+other or therapeutic nervous system procedures	used for	migraine management guideline
+other or therapeutic nervous system procedures	used for	migraine prevention guideline
+other or therapeutic nervous system procedures	used for	migraine therapy guideline
+other or therapeutic nervous system procedures	used for	migraine care guideline
+other or therapeutic nervous system procedures	used for	migraine relief guideline
+other or therapeutic nervous system procedures	used for	migraine control guideline
+other or therapeutic nervous system procedures	used for	migraine treatment strategy

@@ -1,0 +1,100 @@
+tumour detection radiopharmaceuticals	are	imaging agents
+tumour detection radiopharmaceuticals	target	malignant cells
+tumour detection radiopharmaceuticals	bind	tumour receptors
+tumour detection radiopharmaceuticals	emit	gamma rays
+gamma rays	detected by	PET scanners
+PET scanners	produce	3‑D images
+3‑D images	reveal	tumour size
+tumour size	predicts	prognosis
+tumour detection radiopharmaceuticals	labeled with	technetium‑99m
+technetium‑99m	has	half‑life 6 h
+half‑life 6 h	limits	radiation dose
+radiopharmaceuticals	used in	staging
+staging	informs	treatment plan
+treatment plan	guides	surgery
+surgery	reduces	mortality
+radiopharmaceuticals	used in	surveillance
+surveillance	detects	recurrence
+recurrence	increases	readmission risk
+readmission risk	predicts	healthcare cost
+radiopharmaceuticals	administered via	intravenous route
+intravenous route	ensures	systemic distribution
+systemic distribution	reaches	primary tumour
+primary tumour	may express	HER2
+HER2	is	therapeutic target
+therapeutic target	linked to	trastuzumab
+trastuzumab	improves	survival
+survival	inversely related to	tumour burden
+tumour burden	measured by	SUVmax
+SUVmax	derived from	PET uptake
+PET uptake	correlates with	Ki‑67
+Ki‑67	indicates	proliferation rate
+proliferation rate	predicts	aggressiveness
+aggressiveness	affects	chemotherapy choice
+chemotherapy choice	influences	toxicity
+toxicity	impacts	quality of life
+quality of life	measured by	ECOG score
+ECOG score	predicts	overall survival
+overall survival	is	key endpoint
+radiopharmaceuticals	may contain	iodine‑123
+iodine‑123	used for	thyroid imaging
+thyroid imaging	detects	metastases
+metastases	alter	staging
+staging	determines	eligibility for immunotherapy
+immunotherapy	includes	PD‑1 inhibitors
+PD‑1 inhibitors	reduce	relapse rate
+relapse rate	lowers	readmission frequency
+readmission frequency	reduces	hospital burden
+hospital burden	affects	resource allocation
+resource allocation	influences	treatment access
+treatment access	determines	patient adherence
+patient adherence	predicts	treatment efficacy
+treatment efficacy	reflected in	remission rate
+remission rate	inversely related to	tumour volume
+tumour volume	estimated by	volumetric analysis
+volumetric analysis	uses	CT scans
+CT scans	complement	PET imaging
+PET imaging	enhances	diagnostic accuracy
+diagnostic accuracy	reduces	misdiagnosis
+misdiagnosis	leads to	inappropriate therapy
+inappropriate therapy	increases	morbidity
+morbidity	elevates	mortality risk
+mortality risk	is	outcome metric
+outcome metric	guides	clinical trials
+clinical trials	evaluate	new tracers
+new tracers	may target	PSMA
+PSMA	expressed in	prostate cancer
+prostate cancer	treated with	radioligand therapy
+radioligand therapy	uses	lutetium‑177
+lutetium‑177	emits	beta particles
+beta particles	cause	tumour cell death
+tumour cell death	reduces	tumour burden
+tumour burden	lowers	PSA levels
+PSA levels	monitor	disease activity
+disease activity	informs	surveillance strategy
+surveillance strategy	includes	repeat imaging
+repeat imaging	detects	early progression
+early progression	prompts	therapy adjustment
+therapy adjustment	may involve	dose escalation
+dose escalation	increases	side effect risk
+side effect risk	managed by	supportive care
+supportive care	improves	patient comfort
+patient comfort	correlates with	adherence
+adherence	predicts	long‑term survival
+long‑term survival	measured by	5‑year survival
+5‑year survival	depends on	initial tumour stage
+initial tumour stage	determined by	imaging
+imaging	includes	MRI
+MRI	provides	soft‑tissue contrast
+soft‑tissue contrast	aids	margin assessment
+margin assessment	guides	resection completeness
+resection completeness	affects	local recurrence
+local recurrence	increases	re‑operation rate
+re‑operation rate	raises	healthcare utilization
+healthcare utilization	impacts	payer policies
+payer policies	influence	drug reimbursement
+drug reimbursement	determines	access to radiopharmaceuticals
+access to radiopharmaceuticals	affects	diagnostic equity
+diagnostic equity	linked to	socioeconomic status
+socioeconomic status	predicts	health disparities
+health disparities	drive	public health interventions

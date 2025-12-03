@@ -1,0 +1,100 @@
+lower gastrointestinal x‑ray	is a	imaging test
+lower gastrointestinal x‑ray	visualizes	colon
+lower gastrointestinal x‑ray	visualizes	rectum
+lower gastrointestinal x‑ray	visualizes	sigmoid colon
+lower gastrointestinal x‑ray	visualizes	descending colon
+lower gastrointestinal x‑ray	visualizes	ascending colon
+lower gastrointestinal x‑ray	visualizes	cecum
+lower gastrointestinal x‑ray	visualizes	small bowel
+lower gastrointestinal x‑ray	detects	diverticulosis
+lower gastrointestinal x‑ray	detects	diverticulitis
+lower gastrointestinal x‑ray	detects	colorectal cancer
+lower gastrointestinal x‑ray	detects	polyps
+lower gastrointestinal x‑ray	detects	obstruction
+lower gastrointestinal x‑ray	detects	perforation
+lower gastrointestinal x‑ray	detects	fistula
+lower gastrointestinal x‑ray	detects	volvulus
+lower gastrointestinal x‑ray	detects	ischemia
+lower gastrointestinal x‑ray	detects	inflammatory bowel disease
+lower gastrointestinal x‑ray	detects	Crohn disease
+lower gastrointestinal x‑ray	detects	ulcerative colitis
+lower gastrointestinal x‑ray	detects	radiation enteritis
+lower gastrointestinal x‑ray	detects	mesenteric thrombosis
+lower gastrointestinal x‑ray	detects	mesenteric ischemia
+lower gastrointestinal x‑ray	detects	foreign body
+lower gastrointestinal x‑ray	detects	abscess
+lower gastrointestinal x‑ray	detects	stricture
+lower gastrointestinal x‑ray	detects	stenosis
+lower gastrointestinal x‑ray	detects	ileus
+lower gastrointestinal x‑ray	detects	colitis
+lower gastrointestinal x‑ray	detects	colonic pseudo‑obstruction
+lower gastrointestinal x‑ray	detects	colonic volvulus
+lower gastrointestinal x‑ray	detects	colonic carcinoma
+lower gastrointestinal x‑ray	detects	colonic lymphoma
+lower gastrointestinal x‑ray	detects	colonic tuberculosis
+lower gastrointestinal x‑ray	detects	colonic amyloidosis
+lower gastrointestinal x‑ray	detects	colonic sarcoidosis
+lower gastrointestinal x‑ray	detects	colonic ischemic colitis
+lower gastrointestinal x‑ray	detects	colonic diverticulitis
+lower gastrointestinal x‑ray	detects	colonic abscess
+lower gastrointestinal x‑ray	detects	colonic fistula
+lower gastrointestinal x‑ray	detects	colonic perforation
+lower gastrointestinal x‑ray	detects	colonic obstruction
+lower gastrointestinal x‑ray	detects	colonic stenosis
+lower gastrointestinal x‑ray	detects	colonic stricture
+lower gastrointestinal x‑ray	detects	colonic volvulus
+lower gastrointestinal x‑ray	detects	colonic pseudomyxoma
+lower gastrointestinal x‑ray	detects	colonic adenoma
+lower gastrointestinal x‑ray	detects	colonic hyperplastic polyp
+lower gastrointestinal x‑ray	detects	colonic sessile polyp
+lower gastrointestinal x‑ray	detects	colonic tubular adenoma
+lower gastrointestinal x‑ray	detects	colonic villous adenoma
+lower gastrointestinal x‑ray	detects	colonic serrated polyp
+lower gastrointestinal x‑ray	detects	colonic hyperplastic polyp
+lower gastrointestinal x‑ray	detects	colonic inflammatory polyp
+lower gastrointestinal x‑ray	detects	colonic hamartoma
+lower gastrointestinal x‑ray	detects	colonic lipoma
+lower gastrointestinal x‑ray	detects	colonic carcinoid
+lower gastrointestinal x‑ray	detects	colonic lymphoma
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis
+lower gastrointestinal x‑ray	detects	colonic metastasis

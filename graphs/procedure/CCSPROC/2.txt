@@ -1,0 +1,100 @@
+extracranial ventricular shunt	is a	medical device
+extracranial ventricular shunt	treats	hydrocephalus
+extracranial ventricular shunt	reduces	intracranial pressure
+extracranial ventricular shunt	requires	surgical procedure
+extracranial ventricular shunt	is implanted	in skull
+extracranial ventricular shunt	connects	ventricle to subcutaneous reservoir
+extracranial ventricular shunt	can fail	due to blockage
+extracranial ventricular shunt	can fail	due to infection
+extracranial ventricular shunt	can fail	due to mechanical wear
+extracranial ventricular shunt	can fail	due to valve malfunction
+extracranial ventricular shunt	is monitored	by imaging
+extracranial ventricular shunt	is monitored	by pressure sensor
+extracranial ventricular shunt	is monitored	by ultrasound
+extracranial ventricular shunt	is monitored	by CT scan
+extracranial ventricular shunt	is monitored	by MRI
+extracranial ventricular shunt	is monitored	by X‑ray
+extracranial ventricular shunt	is monitored	by shuntogram
+extracranial ventricular shunt	is monitored	by lumbar puncture
+extracranial ventricular shunt	is monitored	by CSF analysis
+extracranial ventricular shunt	is monitored	by neuro‑imaging
+extracranial ventricular shunt	is replaced	when malfunctioning
+extracranial ventricular shunt	is replaced	when infected
+extracranial ventricular shunt	is replaced	when occluded
+extracranial ventricular shunt	is replaced	when aged
+extracranial ventricular shunt	is removed	when contraindicated
+extracranial ventricular shunt	is removed	when causing complications
+extracranial ventricular shunt	is removed	when patient declines
+extracranial ventricular shunt	is removed	when alternative therapy chosen
+extracranial ventricular shunt	is inserted	via craniotomy
+extracranial ventricular shunt	is inserted	via burr hole
+extracranial ventricular shunt	is inserted	via endoscopic approach
+extracranial ventricular shunt	is inserted	via stereotactic guidance
+extracranial ventricular shunt	is inserted	under general anesthesia
+extracranial ventricular shunt	is inserted	under local anesthesia
+extracranial ventricular shunt	is inserted	with antibiotic prophylaxis
+extracranial ventricular shunt	is inserted	with sterile technique
+extracranial ventricular shunt	is inserted	with imaging guidance
+extracranial ventricular shunt	is inserted	with intra‑operative monitoring
+extracranial ventricular shunt	is inserted	with postoperative care
+extracranial ventricular shunt	is inserted	with postoperative antibiotics
+extracranial ventricular shunt	is inserted	with postoperative imaging
+extracranial ventricular shunt	is inserted	with postoperative CSF monitoring
+extracranial ventricular shunt	is inserted	with postoperative neuro‑assessment
+extracranial ventricular shunt	is inserted	with postoperative pain control
+extracranial ventricular shunt	is inserted	with postoperative infection surveillance
+extracranial ventricular shunt	is inserted	with postoperative pressure monitoring
+extracranial ventricular shunt	is inserted	with postoperative valve testing
+extracranial ventricular shunt	is inserted	with postoperative drainage
+extracranial ventricular shunt	is inserted	with postoperative wound care
+extracranial ventricular shunt	is inserted	with postoperative follow‑up
+extracranial ventricular shunt	is inserted	with postoperative rehabilitation
+extracranial ventricular shunt	is inserted	with postoperative education
+extracranial ventricular shunt	is inserted	with postoperative monitoring
+extracranial ventricular shunt	is inserted	with postoperative imaging
+extracranial ventricular shunt	is inserted	with postoperative CSF sampling
+extracranial ventricular shunt	is inserted	with postoperative neuro‑imaging
+extracranial ventricular shunt	is inserted	with postoperative pressure sensor
+extracranial ventricular shunt	is inserted	with postoperative valve adjustment
+extracranial ventricular shunt	is inserted	with postoperative drainage
+extracranial ventricular shunt	is inserted	with postoperative wound closure
+extracranial ventricular shunt	is inserted	with postoperative monitoring
+extracranial ventricular shunt	is inserted	with postoperative imaging
+extracranial ventricular shunt	is inserted	with postoperative CSF analysis
+extracranial ventricular shunt	is inserted	with postoperative neuro‑assessment
+extracranial ventricular shunt	is inserted	with postoperative pain control
+extracranial ventricular shunt	is inserted	with postoperative infection surveillance
+extracranial ventricular shunt	is inserted	with postoperative pressure monitoring
+extracranial ventricular shunt	is inserted	with postoperative valve testing
+extracranial ventricular shunt	is inserted	with postoperative drainage
+extracranial ventricular shunt	is inserted	with postoperative wound care
+extracranial ventricular shunt	is inserted	with postoperative follow‑up
+extracranial ventricular shunt	is inserted	with postoperative rehabilitation
+extracranial ventricular shunt	is inserted	with postoperative education
+extracranial ventricular shunt	is inserted	with postoperative monitoring
+extracranial ventricular shunt	is inserted	with postoperative imaging
+extracranial ventricular shunt	is inserted	with postoperative CSF sampling
+extracranial ventricular shunt	is inserted	with postoperative neuro‑imaging
+extracranial ventricular shunt	is inserted	with postoperative pressure sensor
+extracranial ventricular shunt	is inserted	with postoperative valve adjustment
+extracranial ventricular shunt	is inserted	with postoperative drainage
+extracranial ventricular shunt	is inserted	with postoperative wound closure
+extracranial ventricular shunt	is inserted	with postoperative monitoring
+extracranial ventricular shunt	is inserted	with postoperative imaging
+extracranial ventricular shunt	is inserted	with postoperative CSF analysis
+extracranial ventricular shunt	is inserted	with postoperative neuro‑assessment
+extracranial ventricular shunt	is inserted	with postoperative pain control
+extracranial ventricular shunt	is inserted	with postoperative infection surveillance
+extracranial ventricular shunt	is inserted	with postoperative pressure monitoring
+extracranial ventricular shunt	is inserted	with postoperative valve testing
+extracranial ventricular shunt	is inserted	with postoperative drainage
+extracranial ventricular shunt	is inserted	with postoperative wound care
+extracranial ventricular shunt	is inserted	with postoperative follow‑up
+extracranial ventricular shunt	is inserted	with postoperative rehabilitation
+extracranial ventricular shunt	is inserted	with postoperative education
+extracranial ventricular shunt	is inserted	with postoperative monitoring
+extracranial ventricular shunt	is inserted	with postoperative imaging
+extracranial ventricular shunt	is inserted	with postoperative CSF sampling
+extracranial ventricular shunt	is inserted	with postoperative neuro‑imaging
+extracranial ventricular shunt	is inserted	with postoperative pressure sensor
+extracranial ventricular shunt	is inserted	with postoperative valve adjustment

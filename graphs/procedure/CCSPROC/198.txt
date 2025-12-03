@@ -1,0 +1,237 @@
+magnetic resonance imaging	is a	imaging modality
+magnetic resonance imaging	used for	diagnosis
+magnetic resonance imaging	used for	staging
+magnetic resonance imaging	used for	monitoring
+magnetic resonance imaging	used for	treatment planning
+magnetic resonance imaging	used for	surgical guidance
+magnetic resonance imaging	used for	radiation therapy planning
+magnetic resonance imaging	used for	functional imaging
+magnetic resonance imaging	used for	perfusion imaging
+magnetic resonance imaging	used for	diffusion imaging
+magnetic resonance imaging	used for	spectroscopy
+magnetic resonance imaging	used for	tumor grading
+magnetic resonance imaging	used for	tumor characterization
+magnetic resonance imaging	used for	bone marrow assessment
+magnetic resonance imaging	used for	spinal cord evaluation
+magnetic resonance imaging	used for	brain mapping
+magnetic resonance imaging	used for	cardiac imaging
+magnetic resonance imaging	used for	vascular imaging
+magnetic resonance imaging	used for	musculoskeletal imaging
+magnetic resonance imaging	used for	breast imaging
+magnetic resonance imaging	used for	prostate imaging
+magnetic resonance imaging	used for	liver imaging
+magnetic resonance imaging	used for	kidney imaging
+magnetic resonance imaging	used for	pancreatic imaging
+magnetic resonance imaging	used for	adrenal imaging
+magnetic resonance imaging	used for	thyroid imaging
+magnetic resonance imaging	used for	pituitary imaging
+magnetic resonance imaging	used for	ocular imaging
+magnetic resonance imaging	used for	dental imaging
+magnetic resonance imaging	used for	fetal imaging
+magnetic resonance imaging	used for	neonatal imaging
+magnetic resonance imaging	used for	pediatric imaging
+magnetic resonance imaging	used for	geriatric imaging
+magnetic resonance imaging	used for	oncology
+magnetic resonance imaging	used for	neurology
+magnetic resonance imaging	used for	cardiology
+magnetic resonance imaging	used for	orthopedics
+magnetic resonance imaging	used for	endocrinology
+magnetic resonance imaging	used for	gastroenterology
+magnetic resonance imaging	used for	urology
+magnetic resonance imaging	used for	nephrology
+magnetic resonance imaging	used for	pulmonology
+magnetic resonance imaging	used for	rheumatology
+magnetic resonance imaging	used for	infectious disease
+magnetic resonance imaging	used for	trauma assessment
+magnetic resonance imaging	used for	post‑operative evaluation
+magnetic resonance imaging	used for	pre‑operative evaluation
+magnetic resonance imaging	used for	clinical trials
+magnetic resonance imaging	used for	biomarker discovery
+magnetic resonance imaging	used for	disease progression monitoring
+magnetic resonance imaging	used for	remission assessment
+magnetic resonance imaging	used for	relapse detection
+magnetic resonance imaging	used for	survival prediction
+magnetic resonance imaging	used for	quality of life assessment
+magnetic resonance imaging	used for	cost‑effectiveness analysis
+magnetic resonance imaging	used for	health‑system planning
+magnetic resonance imaging	used for	patient education
+magnetic resonance imaging	used for	tele‑radiology
+magnetic resonance imaging	used for	artificial intelligence
+magnetic resonance imaging	used for	machine learning
+magnetic resonance imaging	used for	deep learning
+magnetic resonance imaging	used for	image segmentation
+magnetic resonance imaging	used for	image registration
+magnetic resonance imaging	used for	image reconstruction
+magnetic resonance imaging	used for	image enhancement
+magnetic resonance imaging	used for	image fusion
+magnetic resonance imaging	used for	image quantification
+magnetic resonance imaging	used for	image annotation
+magnetic resonance imaging	used for	image standardization
+magnetic resonance imaging	used for	image harmonization
+magnetic resonance imaging	used for	image compression
+magnetic resonance imaging	used for	image sharing
+magnetic resonance imaging	used for	image interpretation
+magnetic resonance imaging	used for	radiomics
+magnetic resonance imaging	used for	phenotyping
+magnetic resonance imaging	used for	genotype‑phenotype correlation
+magnetic resonance imaging	used for	pharmacokinetics
+magnetic resonance imaging	used for	pharmacodynamics
+magnetic resonance imaging	used for	drug response prediction
+magnetic resonance imaging	used for	toxicity monitoring
+magnetic resonance imaging	used for	biomarker validation
+magnetic resonance imaging	used for	clinical decision support
+magnetic resonance imaging	used for	risk stratification
+magnetic resonance imaging	used for	prognostication
+magnetic resonance imaging	used for	mortality prediction
+magnetic resonance imaging	used for	readmission prediction
+magnetic resonance imaging	used for	complication prediction
+magnetic resonance imaging	used for	adverse event prediction
+magnetic resonance imaging	used for	surgical outcome prediction
+magnetic resonance imaging	used for	rehabilitation outcome prediction
+magnetic resonance imaging	used for	functional outcome prediction
+magnetic resonance imaging	used for	quality‑adjusted life‑year estimation
+magnetic resonance imaging	used for	health‑care utilization prediction
+magnetic resonance imaging	used for	cost prediction
+magnetic resonance imaging	used for	resource allocation
+magnetic resonance imaging	used for	policy development
+magnetic resonance imaging	used for	guideline creation
+magnetic resonance imaging	used for	clinical pathway optimization
+magnetic resonance imaging	used for	workflow improvement
+magnetic resonance imaging	used for	patient triage
+magnetic resonance imaging	used for	emergency department triage
+magnetic resonance imaging	used for	outpatient scheduling
+magnetic resonance imaging	used for	inpatient bed management
+magnetic resonance imaging	used for	discharge planning
+magnetic resonance imaging	used for	follow‑up scheduling
+magnetic resonance imaging	used for	patient monitoring
+magnetic resonance imaging	used for	remote monitoring
+magnetic resonance imaging	used for	telemedicine
+magnetic resonance imaging	used for	virtual reality
+magnetic resonance imaging	used for	augmented reality
+magnetic resonance imaging	used for	surgical simulation
+magnetic resonance imaging	used for	training
+magnetic resonance imaging	used for	education
+magnetic resonance imaging	used for	research
+magnetic resonance imaging	used for	data sharing
+magnetic resonance imaging	used for	data integration
+magnetic resonance imaging	used for	interoperability
+magnetic resonance imaging	used for	standardization
+magnetic resonance imaging	used for	quality control
+magnetic resonance imaging	used for	accreditation
+magnetic resonance imaging	used for	performance measurement
+magnetic resonance imaging	used for	benchmarking
+magnetic resonance imaging	used for	continuous improvement
+magnetic resonance imaging	used for	patient safety
+magnetic resonance imaging	used for	radiation safety
+magnetic resonance imaging	used for	contrast agent safety
+magnetic resonance imaging	used for	device safety
+magnetic resonance imaging	used for	protocol optimization
+magnetic resonance imaging	used for	scan time reduction
+magnetic resonance imaging	used for	motion artifact reduction
+magnetic resonance imaging	used for	noise reduction
+magnetic resonance imaging	used for	resolution enhancement
+magnetic resonance imaging	used for	field strength adaptation
+magnetic resonance imaging	used for	coil selection
+magnetic resonance imaging	used for	patient positioning
+magnetic resonance imaging	used for	sedation management
+magnetic resonance imaging	used for	claustrophobia management
+magnetic resonance imaging	used for	pediatric sedation
+magnetic resonance imaging	used for	geriatric sedation
+magnetic resonance imaging	used for	contrast‑enhanced imaging
+magnetic resonance imaging	used for	non‑contrast imaging
+magnetic resonance imaging	used for	gadolinium‑based contrast
+magnetic resonance imaging	used for	iron‑based contrast
+magnetic resonance imaging	used for	manganese‑based contrast
+magnetic resonance imaging	used for	ferumoxytol imaging
+magnetic resonance imaging	used for	diffusion tensor imaging
+magnetic resonance imaging	used for	tractography
+magnetic resonance imaging	used for	functional connectivity
+magnetic resonance imaging	used for	resting‑state fMRI
+magnetic resonance imaging	used for	task‑based fMRI
+magnetic resonance imaging	used for	neurovascular imaging
+magnetic resonance imaging	used for	cerebral perfusion
+magnetic resonance imaging	used for	cerebral blood flow
+magnetic resonance imaging	used for	cerebral blood volume
+magnetic resonance imaging	used for	cerebral oxygenation
+magnetic resonance imaging	used for	cerebral metabolism
+magnetic resonance imaging	used for	cerebral microstructure
+magnetic resonance imaging	used for	cerebral microvasculature
+magnetic resonance imaging	used for	brain tumor grading
+magnetic resonance imaging	used for	brain metastasis detection
+magnetic resonance imaging	used for	brain abscess detection
+magnetic resonance imaging	used for	brain aneurysm detection
+magnetic resonance imaging	used for	brain stroke assessment
+magnetic resonance imaging	used for	brain trauma assessment
+magnetic resonance imaging	used for	brain infection assessment
+magnetic resonance imaging	used for	brain demyelination assessment
+magnetic resonance imaging	used for	brain vascular malformation assessment
+magnetic resonance imaging	used for	brain functional assessment
+magnetic resonance imaging	used for	brain connectivity assessment
+magnetic resonance imaging	used for	brain metabolic assessment
+magnetic resonance imaging	used for	brain perfusion assessment
+magnetic resonance imaging	used for	brain oxygenation assessment
+magnetic resonance imaging	used for	brain microstructure assessment
+magnetic resonance imaging	used for	brain microvasculature assessment
+magnetic resonance imaging	used for	brain tumor segmentation
+magnetic resonance imaging	used for	brain tumor volume measurement
+magnetic resonance imaging	used for	brain tumor recurrence detection
+magnetic resonance imaging	used for	brain tumor treatment monitoring
+magnetic resonance imaging	used for	brain tumor response assessment
+magnetic resonance imaging	used for	brain tumor prognosis
+magnetic resonance imaging	used for	brain tumor survival prediction
+magnetic resonance imaging	used for	brain tumor risk stratification
+magnetic resonance imaging	used for	brain tumor surgical planning
+magnetic resonance imaging	used for	brain tumor radiation planning
+magnetic resonance imaging	used for	brain tumor chemotherapy planning
+magnetic resonance imaging	used for	brain tumor immunotherapy planning
+magnetic resonance imaging	used for	brain tumor targeted therapy planning
+magnetic resonance imaging	used for	brain tumor precision medicine
+magnetic resonance imaging	used for	brain tumor clinical trial enrollment
+magnetic resonance imaging	used for	brain tumor outcome prediction
+magnetic resonance imaging	used for	brain tumor quality of life assessment
+magnetic resonance imaging	used for	brain tumor cost analysis
+magnetic resonance imaging	used for	brain tumor health‑system impact
+magnetic resonance imaging	used for	brain tumor policy development
+magnetic resonance imaging	used for	brain tumor guideline creation
+magnetic resonance imaging	used for	brain tumor clinical pathway optimization
+magnetic resonance imaging	used for	brain tumor workflow improvement
+magnetic resonance imaging	used for	brain tumor patient triage
+magnetic resonance imaging	used for	brain tumor emergency department triage
+magnetic resonance imaging	used for	brain tumor outpatient scheduling
+magnetic resonance imaging	used for	brain tumor inpatient bed management
+magnetic resonance imaging	used for	brain tumor discharge planning
+magnetic resonance imaging	used for	brain tumor follow‑up scheduling
+magnetic resonance imaging	used for	brain tumor patient monitoring
+magnetic resonance imaging	used for	brain tumor remote monitoring
+magnetic resonance imaging	used for	brain tumor telemedicine
+magnetic resonance imaging	used for	brain tumor virtual reality
+magnetic resonance imaging	used for	brain tumor augmented reality
+magnetic resonance imaging	used for	brain tumor surgical simulation
+magnetic resonance imaging	used for	brain tumor training
+magnetic resonance imaging	used for	brain tumor education
+magnetic resonance imaging	used for	brain tumor research
+magnetic resonance imaging	used for	brain tumor data sharing
+magnetic resonance imaging	used for	brain tumor data integration
+magnetic resonance imaging	used for	brain tumor interoperability
+magnetic resonance imaging	used for	brain tumor standardization
+magnetic resonance imaging	used for	brain tumor quality control
+magnetic resonance imaging	used for	brain tumor accreditation
+magnetic resonance imaging	used for	brain tumor performance measurement
+magnetic resonance imaging	used for	brain tumor benchmarking
+magnetic resonance imaging	used for	brain tumor continuous improvement
+magnetic resonance imaging	used for	brain tumor patient safety
+magnetic resonance imaging	used for	brain tumor radiation safety
+magnetic resonance imaging	used for	brain tumor contrast agent safety
+magnetic resonance imaging	used for	brain tumor device safety
+magnetic resonance imaging	used for	brain tumor protocol optimization
+magnetic resonance imaging	used for	brain tumor scan time reduction
+magnetic resonance imaging	used for	brain tumor motion artifact reduction
+magnetic resonance imaging	used for	brain tumor noise reduction
+magnetic resonance imaging	used for	brain tumor resolution enhancement
+magnetic resonance imaging	used for	brain tumor field strength adaptation
+magnetic resonance imaging	used for	brain tumor coil selection
+magnetic resonance imaging	used for	brain tumor patient positioning
+magnetic resonance imaging	used for	brain tumor sedation management
+magnetic resonance imaging	used for	brain tumor claustrophobia management
+magnetic resonance imaging	used for	brain tumor pediatric sedation
+magnetic resonance imaging	used for	brain tumor geriatric sedation

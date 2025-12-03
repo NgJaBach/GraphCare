@@ -1,0 +1,100 @@
+antibiotics	are	drugs
+antibiotics	used for	skin infections
+antibiotics	applied topically	skin
+topical antibiotics	reduce	bacterial load
+topical antibiotics	treat	impetigo
+topical antibiotics	treat	folliculitis
+topical antibiotics	treat	cellulitis
+topical antibiotics	treat	wound infection
+topical antibiotics	treat	acne
+topical antibiotics	treat	eczema
+topical antibiotics	treat	psoriasis
+topical antibiotics	treat	burn infection
+topical antibiotics	treat	surgical site infection
+topical antibiotics	reduce	healing time
+topical antibiotics	improve	wound healing
+topical antibiotics	prevent	infection spread
+topical antibiotics	used with	antiseptics
+topical antibiotics	used with	corticosteroids
+topical antibiotics	used with	moisturizers
+topical antibiotics	contraindicated in	pregnancy
+topical antibiotics	contraindicated in	lactation
+topical antibiotics	contraindicated in	renal impairment
+topical antibiotics	contraindicated in	hepatic impairment
+topical antibiotics	contraindicated in	allergy to penicillin
+topical antibiotics	contraindicated in	allergy to macrolides
+topical antibiotics	contraindicated in	allergy to clindamycin
+topical antibiotics	contraindicated in	allergy to mupirocin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin
+topical antibiotics	contraindicated in	allergy to bacitracin

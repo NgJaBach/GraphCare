@@ -1,0 +1,100 @@
+radiopharmaceuticals	used for	imaging
+radiopharmaceuticals	target	respiratory
+radiopharmaceuticals	labeled with	radioisotope
+radioisotope	emits	gamma
+gamma	detected by	gamma camera
+gamma camera	produces	scan
+scan	visualizes	lung
+scan	detects	nodule
+nodule	indicates	malignancy
+radiopharmaceuticals	administered via	inhalation
+inhalation	delivers	aerosol
+aerosol	contains	radiotracer
+radiotracer	binds to	alveoli
+alveoli	reflect	ventilation
+ventilation	assessed by	ventilation‑perfusion
+ventilation‑perfusion	identifies	embolism
+embolism	treated with	anticoagulant
+anticoagulant	prescribed for	pulmonary embolism
+pulmonary embolism	risk factor	smoking
+smoking	increases	lung cancer
+lung cancer	screened by	low‑dose CT
+low‑dose CT	uses	radiopharmaceutical
+radiopharmaceutical	improves	sensitivity
+sensitivity	predicts	early detection
+early detection	reduces	mortality
+mortality	correlates with	stage
+stage	determined by	TNM
+TNM	includes	tumor size
+tumor size	measured by	imaging
+imaging	performed with	PET
+PET	uses	fluorodeoxyglucose
+fluorodeoxyglucose	accumulates in	tumor
+tumor	shows	metabolic activity
+metabolic activity	indicates	aggressiveness
+aggressiveness	guides	therapy
+therapy	may be	chemotherapy
+chemotherapy	combined with	targeted therapy
+targeted therapy	targets	EGFR
+EGFR	mutation	predicts	response
+response	measured by	progression‑free survival
+progression‑free survival	predicts	overall survival
+overall survival	influenced by	comorbidities
+comorbidities	include	COPD
+COPD	diagnosed by	spirometry
+spirometry	shows	FEV1
+FEV1	predicts	readmission
+readmission	risk increased by	infection
+infection	treated with	antibiotics
+antibiotics	selected by	culture
+culture	identifies	pathogen
+pathogen	may be	MRSA
+MRSA	requires	vancomycin
+vancomycin	monitored by	trough level
+trough level	ensures	efficacy
+efficacy	reduces	mortality
+mortality	reduced by	early imaging
+early imaging	facilitated by	portable scanner
+portable scanner	used in	ICU
+ICU	monitors	oxygen saturation
+oxygen saturation	maintained at	>90%
+>90%	lowers	hypoxia
+hypoxia	leads to	organ failure
+organ failure	requires	dialysis
+dialysis	scheduled by	nephrologist
+nephrologist	consults	pulmonologist
+pulmonologist	evaluates	ventilation
+ventilation	adjusted by	mechanical ventilator
+mechanical ventilator	settings	PEEP
+PEEP	optimized by	lung compliance
+lung compliance	measured by	pressure‑volume curve
+pressure‑volume curve	derived from	spirometry
+spirometry	influenced by	smoking cessation
+smoking cessation	improves	lung function
+lung function	predicts	exercise tolerance
+exercise tolerance	assessed by	6‑minute walk
+6‑minute walk	predicts	quality of life
+quality of life	measured by	SF‑36
+SF‑36	scores	mental health
+mental health	affected by	depression
+depression	treated with	SSRI
+SSRI	contraindicated in	QT prolongation
+QT prolongation	screened by	ECG
+ECG	shows	T wave
+T wave	abnormal	indicates	arrhythmia
+arrhythmia	managed by	beta‑blocker
+beta‑blocker	reduces	mortality
+mortality	decreased by	guideline adherence
+guideline adherence	monitored by	audit
+audit	reports	compliance
+compliance	improves	patient outcomes
+patient outcomes	tracked by	registry
+registry	collects	imaging data
+imaging data	used for	AI analysis
+AI analysis	predicts	recurrence
+recurrence	leads to	re‑treatment
+re‑treatment	increases	cost
+cost	managed by	health economics
+health economics	informs	policy
+policy	shapes	reimbursement
+reimbursement	affects	access

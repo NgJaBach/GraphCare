@@ -1,0 +1,100 @@
+IV solutions	deliver	fluids
+IV solutions	deliver	electrolytes
+IV solutions	deliver	nutrients
+IV solutions	used in	parenteral administration
+IV solutions	prevent	dehydration
+IV solutions	correct	electrolyte imbalance
+IV solutions	provide	glucose
+IV solutions	provide	amino acids
+IV solutions	provide	vitamins
+IV solutions	contain	sodium
+IV solutions	contain	potassium
+IV solutions	contain	chloride
+IV solutions	contain	calcium
+IV solutions	contain	magnesium
+IV solutions	contain	phosphate
+IV solutions	contain	lactate
+IV solutions	contain	acetate
+IV solutions	contain	dextrose
+IV solutions	contain	amino acids
+IV solutions	contain	trace elements
+IV solutions	used in	critical care
+IV solutions	used in	surgery
+IV solutions	used in	trauma
+IV solutions	used in	sepsis
+IV solutions	used in	burn care
+IV solutions	used in	neonatal care
+IV solutions	used in	oncology
+IV solutions	used in	dialysis
+IV solutions	used in	emergency medicine
+IV solutions	used in	intensive care
+IV solutions	reduce	risk of hypovolemia
+IV solutions	reduce	risk of hypernatremia
+IV solutions	reduce	risk of hyperkalemia
+IV solutions	reduce	risk of hypocalcemia
+IV solutions	reduce	risk of hypomagnesemia
+IV solutions	reduce	risk of hypophosphatemia
+IV solutions	reduce	risk of acidosis
+IV solutions	reduce	risk of alkalosis
+IV solutions	reduce	risk of hypoglycemia
+IV solutions	reduce	risk of hyperglycemia
+IV solutions	improve	hemodynamic stability
+IV solutions	improve	oxygen delivery
+IV solutions	improve	organ perfusion
+IV solutions	improve	metabolic balance
+IV solutions	improve	immune function
+IV solutions	improve	wound healing
+IV solutions	improve	nutritional status
+IV solutions	improve	survival rate
+IV solutions	associated with	electrolyte toxicity
+IV solutions	associated with	fluid overload
+IV solutions	associated with	infection risk
+IV solutions	associated with	phlebitis
+IV solutions	associated with	line sepsis
+IV solutions	associated with	hyperchloremic acidosis
+IV solutions	associated with	hypoglycemia
+IV solutions	associated with	hyperglycemia
+IV solutions	associated with	metabolic alkalosis
+IV solutions	associated with	metabolic acidosis
+IV solutions	associated with	hypocalcemia
+IV solutions	associated with	hypomagnesemia
+IV solutions	associated with	hypophosphatemia
+IV solutions	contraindicated in	renal failure
+IV solutions	contraindicated in	heart failure
+IV solutions	contraindicated in	liver failure
+IV solutions	contraindicated in	severe hypernatremia
+IV solutions	contraindicated in	severe hyperkalemia
+IV solutions	contraindicated in	severe hypocalcemia
+IV solutions	contraindicated in	severe hypomagnesemia
+IV solutions	contraindicated in	severe hypophosphatemia
+IV solutions	contraindicated in	severe acidosis
+IV solutions	contraindicated in	severe alkalosis
+IV solutions	contraindicated in	severe hypoglycemia
+IV solutions	contraindicated in	severe hyperglycemia
+IV solutions	recommended in	hypovolemic shock
+IV solutions	recommended in	septic shock
+IV solutions	recommended in	postoperative fluid loss
+IV solutions	recommended in	burn fluid loss
+IV solutions	recommended in	neonatal hypoglycemia
+IV solutions	recommended in	malnutrition
+IV solutions	recommended in	electrolyte depletion
+IV solutions	recommended in	renal replacement therapy
+IV solutions	recommended in	cardiac surgery
+IV solutions	recommended in	major trauma
+IV solutions	recommended in	critical illness
+IV solutions	recommended in	ICU stay
+IV solutions	recommended in	sepsis management
+IV solutions	recommended in	burn management
+IV solutions	recommended in	neonatal intensive care
+IV solutions	recommended in	oncology chemotherapy
+IV solutions	recommended in	dialysis initiation
+IV solutions	recommended in	emergency fluid resuscitation
+IV solutions	recommended in	fluid restriction protocols
+IV solutions	recommended in	electrolyte monitoring
+IV solutions	recommended in	nutritional support
+IV solutions	recommended in	postoperative recovery
+IV solutions	recommended in	critical care protocols
+IV solutions	recommended in	infection control
+IV solutions	recommended in	patient safety
+IV solutions	monitored by	serum electrolytes
+IV solutions	monitored by	serum glucose

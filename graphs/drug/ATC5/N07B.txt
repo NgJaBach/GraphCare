@@ -1,0 +1,100 @@
+opioid	is a	drug
+opioid	treats	pain
+opioid	causes	addiction
+opioid	is prescribed	by	physician
+opioid	has	side effect	nausea
+opioid	has	side effect	constipation
+opioid	has	side effect	respiratory depression
+opioid	is metabolized	by	liver
+opioid	is excreted	by	kidney
+opioid	is stored	in	brain
+opioid	binds	to	mu receptor
+opioid	binds	to	delta receptor
+opioid	binds	to	kappa receptor
+opioid	increases	dopamine
+opioid	increases	serotonin
+opioid	increases	norepinephrine
+opioid	decreases	pain perception
+opioid	decreases	withdrawal symptoms
+opioid	increases	risk	overdose
+opioid	increases	risk	mortality
+opioid	increases	risk	relapse
+opioid	is used	for	opioid use disorder
+opioid	is used	for	chronic pain
+opioid	is used	for	acute pain
+opioid	is used	for	palliative care
+opioid	is used	for	anesthesia
+opioid	is used	for	sedation
+opioid	is used	for	cough suppression
+opioid	is used	for	labor pain
+opioid	is used	for	dental pain
+opioid	is used	for	post‑operative pain
+opioid	is used	for	cancer pain
+opioid	is used	for	neuropathic pain
+opioid	is used	for	inflammatory pain
+opioid	is used	for	musculoskeletal pain
+opioid	is used	for	headache
+opioid	is used	for	migraine
+opioid	is used	for	back pain
+opioid	is used	for	joint pain
+opioid	is used	for	abdominal pain
+opioid	is used	for	renal colic
+opioid	is used	for	dental extraction
+opioid	is used	for	burn pain
+opioid	is used	for	post‑surgical pain
+opioid	is used	for	labor analgesia
+opioid	is used	for	palliative sedation
+opioid	is used	for	opioid tolerance
+opioid	is used	for	opioid dependence
+opioid	is used	for	opioid withdrawal
+opioid	is used	for	opioid detoxification
+opioid	is used	for	opioid substitution
+opioid	is used	for	opioid maintenance
+opioid	is used	for	opioid therapy
+opioid	is used	for	opioid treatment
+opioid	is used	for	opioid management
+opioid	is used	for	opioid prescription
+opioid	is used	for	opioid dosage
+opioid	is used	for	opioid monitoring
+opioid	is used	for	opioid compliance
+opioid	is used	for	opioid safety
+opioid	is used	for	opioid risk
+opioid	is used	for	opioid harm
+opioid	is used	for	opioid abuse
+opioid	is used	for	opioid misuse
+opioid	is used	for	opioid addiction
+opioid	is used	for	opioid dependence
+opioid	is used	for	opioid withdrawal
+opioid	is used	for	opioid detox
+opioid	is used	for	opioid treatment
+opioid	is used	for	opioid therapy
+opioid	is used	for	opioid management
+opioid	is used	for	opioid prescription
+opioid	is used	for	opioid dosage
+opioid	is used	for	opioid monitoring
+opioid	is used	for	opioid compliance
+opioid	is used	for	opioid safety
+opioid	is used	for	opioid risk
+opioid	is used	for	opioid harm
+opioid	is used	for	opioid abuse
+opioid	is used	for	opioid misuse
+opioid	is used	for	opioid addiction
+opioid	is used	for	opioid dependence
+opioid	is used	for	opioid withdrawal
+opioid	is used	for	opioid detox
+opioid	is used	for	opioid treatment
+opioid	is used	for	opioid therapy
+opioid	is used	for	opioid management
+opioid	is used	for	opioid prescription
+opioid	is used	for	opioid dosage
+opioid	is used	for	opioid monitoring
+opioid	is used	for	opioid compliance
+opioid	is used	for	opioid safety
+opioid	is used	for	opioid risk
+opioid	is used	for	opioid harm
+opioid	is used	for	opioid abuse
+opioid	is used	for	opioid misuse
+opioid	is used	for	opioid addiction
+opioid	is used	for	opioid dependence
+opioid	is used	for	opioid withdrawal
+opioid	is used	for	opioid detox

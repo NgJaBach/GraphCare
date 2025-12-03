@@ -1,0 +1,100 @@
+antiemetics	treat	nausea
+antiemetics	treat	vomiting
+antiemetics	prevent	chemotherapy‑induced nausea
+antiemetics	prevent	postoperative nausea
+antiemetics	prevent	motion sickness
+antiemetics	prevent	pregnancy‑related nausea
+antiemetics	act on	serotonin receptors
+antiemetics	act on	dopamine receptors
+antiemetics	act on	histamine receptors
+antiemetics	act on	neurokinin‑1 receptors
+antiemetics	include	ondansetron
+antiemetics	include	metoclopramide
+antiemetics	include	prochlorperazine
+antiemetics	include	dexamethasone
+antiemetics	include	promethazine
+antiemetics	include	palonosetron
+antiemetics	include	aprepitant
+antiemetics	include	droperidol
+antiemetics	include	scopolamine
+antiemetics	include	dimenhydrinate
+antiemetics	contraindicated in	pregnancy
+antiemetics	contraindicated in	lactation
+antiemetics	contraindicated in	hepatic impairment
+antiemetics	contraindicated in	renal impairment
+antiemetics	contraindicated in	elderly
+antiemetics	contraindicated in	children
+antiemetics	cause	drowsiness
+antiemetics	cause	dry mouth
+antiemetics	cause	blurred vision
+antiemetics	cause	constipation
+antiemetics	cause	orthostatic hypotension
+antiemetics	cause	extrapyramidal symptoms
+antiemetics	cause	serotonin syndrome
+antiemetics	cause	QT prolongation
+antiemetics	cause	nausea
+antiemetics	cause	vomiting
+antiemetics	cause	headache
+antiemetics	cause	dizziness
+antiemetics	cause	rash
+antiemetics	cause	allergic reaction
+antiemetics	improve	patient comfort
+antiemetics	improve	oral intake
+antiemetics	improve	treatment adherence
+antiemetics	improve	quality of life
+antiemetics	improve	hospital stay
+antiemetics	improve	discharge timing
+antiemetics	improve	survival
+antiemetics	improve	chemotherapy tolerance
+antiemetics	improve	surgical outcomes
+antiemetics	improve	postoperative recovery
+antiemetics	reduce	readmission risk
+antiemetics	reduce	ICU admission
+antiemetics	reduce	length of stay
+antiemetics	reduce	medication errors
+antiemetics	reduce	cost
+antiemetics	reduce	mortality
+antiemetics	reduce	complications
+antiemetics	reduce	nausea severity
+antiemetics	reduce	vomiting frequency
+antiemetics	reduce	need for rescue therapy
+antiemetics	reduce	need for intravenous fluids
+antiemetics	reduce	need for anti‑emetic escalation
+antiemetics	reduce	need for hospitalization
+antiemetics	reduce	need for palliative care
+antiemetics	reduce	need for ICU transfer
+antiemetics	reduce	need for surgery
+antiemetics	reduce	need for blood transfusion
+antiemetics	reduce	need for ICU monitoring
+antiemetics	reduce	need for ICU resources
+antiemetics	reduce	need for ICU staff
+antiemetics	reduce	need for ICU equipment
+antiemetics	reduce	need for ICU beds
+antiemetics	reduce	need for ICU drugs
+antiemetics	reduce	need for ICU procedures
+antiemetics	reduce	need for ICU visits
+antiemetics	reduce	need for ICU care
+antiemetics	reduce	need for ICU admission
+antiemetics	reduce	need for ICU transfer
+antiemetics	reduce	need for ICU monitoring
+antiemetics	reduce	need for ICU resources
+antiemetics	reduce	need for ICU staff
+antiemetics	reduce	need for ICU equipment
+antiemetics	reduce	need for ICU beds
+antiemetics	reduce	need for ICU drugs
+antiemetics	reduce	need for ICU procedures
+antiemetics	reduce	need for ICU visits
+antiemetics	reduce	need for ICU care
+antiemetics	reduce	need for ICU admission
+antiemetics	reduce	need for ICU transfer
+antiemetics	reduce	need for ICU monitoring
+antiemetics	reduce	need for ICU resources
+antiemetics	reduce	need for ICU staff
+antiemetics	reduce	need for ICU equipment
+antiemetics	reduce	need for ICU beds
+antiemetics	reduce	need for ICU drugs
+antiemetics	reduce	need for ICU procedures
+antiemetics	reduce	need for ICU visits
+antiemetics	reduce	need for ICU care
+antiemetics	reduce	need for ICU admission
+antiemetics	reduce	need for ICU transfer

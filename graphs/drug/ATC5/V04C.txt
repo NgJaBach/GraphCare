@@ -1,0 +1,100 @@
+diagnostic agents	belong to	ATC
+diagnostic agents	include	contrast media
+contrast media	used for	imaging
+imaging	includes	CT
+imaging	includes	MRI
+imaging	includes	PET
+imaging	includes	X‑ray
+contrast media	used in	CT
+contrast media	used in	MRI
+contrast media	used in	PET
+contrast media	used in	X‑ray
+contrast media	classified as	iodinated
+contrast media	classified as	gadolinium
+contrast media	classified as	radioactive
+iodinated	used for	CT
+gadolinium	used for	MRI
+radioactive	used for	PET
+radioactive	used for	SPECT
+diagnostic agents	include	radiopharmaceuticals
+radiopharmaceuticals	used in	PET
+radiopharmaceuticals	used in	SPECT
+radiopharmaceuticals	contain	technetium
+radiopharmaceuticals	contain	iodine‑131
+radiopharmaceuticals	contain	fluorine‑18
+diagnostic agents	include	nuclear tracers
+nuclear tracers	used in	PET
+nuclear tracers	used in	SPECT
+nuclear tracers	contain	fluorine‑18
+nuclear tracers	contain	technetium‑99m
+diagnostic agents	include	optical dyes
+optical dyes	used for	fluorescence imaging
+optical dyes	include	indocyanine green
+optical dyes	include	fluorescein
+diagnostic agents	include	ultrasound contrast agents
+ultrasound contrast agents	used in	ultrasound
+ultrasound contrast agents	contain	microbubbles
+diagnostic agents	include	magnetic resonance contrast agents
+magnetic resonance contrast agents	used in	MRI
+magnetic resonance contrast agents	contain	gadolinium
+diagnostic agents	include	CT contrast agents
+CT contrast agents	used in	CT
+CT contrast agents	contain	iodine
+diagnostic agents	include	X‑ray contrast agents
+X‑ray contrast agents	used in	X‑ray
+X‑ray contrast agents	contain	iodine
+diagnostic agents	include	PET tracers
+PET tracers	used in	PET
+PET tracers	contain	fluorine‑18
+diagnostic agents	include	SPECT tracers
+SPECT tracers	used in	SPECT
+SPECT tracers	contain	technetium‑99m
+diagnostic agents	include	nuclear imaging agents
+nuclear imaging agents	used in	PET
+nuclear imaging agents	used in	SPECT
+diagnostic agents	include	functional imaging agents
+functional imaging agents	used in	PET
+functional imaging agents	used in	SPECT
+diagnostic agents	include	molecular imaging agents
+molecular imaging agents	used in	PET
+molecular imaging agents	used in	SPECT
+diagnostic agents	include	positron emitters
+positron emitters	used in	PET
+diagnostic agents	include	gamma emitters
+gamma emitters	used in	SPECT
+diagnostic agents	include	radionuclides
+radionuclides	used in	PET
+radionuclides	used in	SPECT
+diagnostic agents	include	imaging biomarkers
+imaging biomarkers	used in	PET
+imaging biomarkers	used in	SPECT
+diagnostic agents	include	contrast-enhanced ultrasound
+contrast-enhanced ultrasound	used in	ultrasound
+contrast-enhanced ultrasound	contain	microbubbles
+diagnostic agents	include	contrast-enhanced CT
+contrast-enhanced CT	used in	CT
+contrast-enhanced CT	contain	iodine
+diagnostic agents	include	contrast-enhanced MRI
+contrast-enhanced MRI	used in	MRI
+contrast-enhanced MRI	contain	gadolinium
+diagnostic agents	include	contrast-enhanced X‑ray
+contrast-enhanced X‑ray	used in	X‑ray
+contrast-enhanced X‑ray	contain	iodine
+diagnostic agents	include	radiopaque agents
+radiopaque agents	used in	X‑ray
+radiopaque agents	contain	iodine
+diagnostic agents	include	radiolabeled compounds
+radiolabeled compounds	used in	PET
+radiolabeled compounds	used in	SPECT
+diagnostic agents	include	tracer studies
+tracer studies	use	radiopharmaceuticals
+tracer studies	use	optical dyes
+diagnostic agents	include	imaging agents
+imaging agents	used in	CT
+imaging agents	used in	MRI
+imaging agents	used in	PET
+imaging agents	used in	SPECT
+diagnostic agents	include	diagnostic contrast
+diagnostic contrast	used in	imaging
+diagnostic contrast	contains	iodine
+diagnostic contrast	contains	gadolinium

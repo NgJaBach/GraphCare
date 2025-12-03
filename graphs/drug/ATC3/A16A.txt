@@ -1,0 +1,100 @@
+A10	is a	ATC class
+A10	contains	antidiabetic agents
+A10	contains	hypolipidemic agents
+A10	contains	anti‑obesity drugs
+A10	contains	anti‑hyperuricemic drugs
+A10	contains	anti‑gout drugs
+A10	contains	anti‑cancer drugs
+A10	contains	anti‑inflammatory drugs
+A10	contains	anti‑infective drugs
+A10	contains	anti‑nausea drugs
+A10	contains	anti‑emetic drugs
+A10	contains	anti‑diarrheal drugs
+A10	contains	anti‑constipation drugs
+A10	contains	anti‑obesity drugs	e.g.	orlistat
+A10	contains	antidiabetic drugs	e.g.	metformin
+A10	contains	hypolipidemic drugs	e.g.	atorvastatin
+A10	contains	anti‑hyperuricemic drugs	e.g.	allopurinol
+A10	contains	anti‑gout drugs	e.g.	colchicine
+A10	contains	anti‑cancer drugs	e.g.	methotrexate
+A10	contains	anti‑inflammatory drugs	e.g.	ibuprofen
+A10	contains	anti‑infective drugs	e.g.	amoxicillin
+A10	contains	anti‑nausea drugs	e.g.	ondansetron
+A10	contains	anti‑emetic drugs	e.g.	metoclopramide
+A10	contains	anti‑diarrheal drugs	e.g.	loperamide
+A10	contains	anti‑constipation drugs	e.g.	polyethylene glycol
+A10	is used for	diabetes management
+A10	is used for	hyperlipidemia treatment
+A10	is used for	obesity treatment
+A10	is used for	gout treatment
+A10	is used for	cancer therapy
+A10	is used for	inflammation control
+A10	is used for	infection control
+A10	is used for	nausea control
+A10	is used for	emesis control
+A10	is used for	diarrhea control
+A10	is used for	constipation control
+A10	improves	glycemic control
+A10	lowers	LDL cholesterol
+A10	reduces	body weight
+A10	lowers	serum uric acid
+A10	reduces	tumor burden
+A10	reduces	inflammatory markers
+A10	reduces	infection rate
+A10	reduces	nausea episodes
+A10	reduces	vomiting frequency
+A10	reduces	diarrhea frequency
+A10	reduces	constipation severity
+A10	is contraindicated in	renal impairment
+A10	is contraindicated in	hepatic impairment
+A10	is contraindicated in	pregnancy
+A10	is contraindicated in	lactation
+A10	is contraindicated in	hypersensitivity
+A10	is associated with	hypoglycemia
+A10	is associated with	myopathy
+A10	is associated with	gastrointestinal upset
+A10	is associated with	rash
+A10	is associated with	hepatotoxicity
+A10	is associated with	renal failure
+A10	is associated with	teratogenicity
+A10	is associated with	teratogenicity	e.g.	thalidomide
+A10	is associated with	drug interactions
+A10	interacts with	CYP3A4 inhibitors
+A10	interacts with	CYP3A4 inducers
+A10	interacts with	anticoagulants
+A10	interacts with	antiplatelets
+A10	interacts with	diuretics
+A10	interacts with	beta‑blockers
+A10	is monitored by	HbA1c
+A10	is monitored by	lipid panel
+A10	is monitored by	weight
+A10	is monitored by	uric acid
+A10	is monitored by	liver enzymes
+A10	is monitored by	renal function
+A10	is monitored by	pregnancy test
+A10	is monitored by	drug level
+A10	is predicted by	comorbidity score
+A10	is predicted by	age
+A10	is predicted by	BMI
+A10	is predicted by	baseline glucose
+A10	is predicted by	baseline lipids
+A10	is predicted by	baseline uric acid
+A10	is predicted by	genetic polymorphisms
+A10	is predicted by	medication adherence
+A10	is predicted by	socioeconomic status
+A10	is associated with	readmission risk
+A10	is associated with	mortality risk
+A10	is associated with	hospitalization duration
+A10	is associated with	quality of life
+A10	is associated with	cost burden
+A10	is used in	clinical guidelines
+A10	is recommended by	ADA
+A10	is recommended by	AHA
+A10	is recommended by	NICE
+A10	is recommended by	WHO
+A10	is included in	formulary
+A10	is covered by	insurance
+A10	is reimbursed by	Medicare
+A10	is reimbursed by	Medicaid
+A10	is reimbursed by	private insurers
+A10	is studied in	pharmacogenomics research

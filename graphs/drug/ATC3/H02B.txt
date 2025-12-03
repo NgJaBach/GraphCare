@@ -1,0 +1,100 @@
+corticosteroids	are	drugs
+corticosteroids	treat	inflammation
+corticosteroids	reduce	cytokines
+corticosteroids	inhibit	NF‑κB
+corticosteroids	suppress	immune response
+corticosteroids	cause	osteoporosis
+corticosteroids	cause	hyperglycemia
+corticosteroids	cause	hypertension
+corticosteroids	cause	weight gain
+corticosteroids	cause	mood changes
+corticosteroids	cause	gastric ulcer
+corticosteroids	cause	cataract
+corticosteroids	cause	glaucoma
+corticosteroids	cause	adrenal suppression
+corticosteroids	cause	infection risk
+corticosteroids	used for	asthma
+corticosteroids	used for	COPD
+corticosteroids	used for	rheumatoid arthritis
+corticosteroids	used for	lupus
+corticosteroids	used for	psoriasis
+corticosteroids	used for	inflammatory bowel disease
+corticosteroids	used for	transplant rejection
+corticosteroids	used for	allergic reaction
+corticosteroids	used for	sepsis
+corticosteroids	used for	dermatomyositis
+corticosteroids	used for	vasculitis
+corticosteroids	used for	uveitis
+corticosteroids	used for	nephritis
+corticosteroids	used for	pancreatitis
+corticosteroids	used for	acute kidney injury
+corticosteroids	used for	acute respiratory distress syndrome
+corticosteroids	used for	shock
+corticosteroids	used for	cancer pain
+corticosteroids	used for	chemotherapy side effect
+corticosteroids	used for	pre‑operative prophylaxis
+corticosteroids	used for	post‑operative inflammation
+corticosteroids	used for	ocular inflammation
+corticosteroids	used for	dermatologic flare
+corticosteroids	used for	endocrine disorders
+corticosteroids	used for	metabolic syndrome
+corticosteroids	used for	neuroinflammation
+corticosteroids	used for	cardiac inflammation
+corticosteroids	used for	vascular injury
+corticosteroids	used for	autoimmune disease
+corticosteroids	used for	organ dysfunction
+corticosteroids	used for	systemic sclerosis
+corticosteroids	used for	sarcoidosis
+corticosteroids	used for	myositis
+corticosteroids	used for	polymyositis
+corticosteroids	used for	dermatomyositis
+corticosteroids	used for	eosinophilic granulomatosis
+corticosteroids	used for	IgA vasculitis
+corticosteroids	used for	Henoch–Schönlein purpura
+corticosteroids	used for	Kawasaki disease
+corticosteroids	used for	neonatal sepsis
+corticosteroids	used for	neonatal lung disease
+corticosteroids	used for	neonatal adrenal insufficiency
+corticosteroids	used for	neonatal meningitis
+corticosteroids	used for	neonatal hypoglycemia
+corticosteroids	used for	neonatal hyperbilirubinemia
+corticosteroids	used for	neonatal necrotizing enterocolitis
+corticosteroids	used for	neonatal retinopathy
+corticosteroids	used for	neonatal thrombosis
+corticosteroids	used for	neonatal sepsis
+corticosteroids	used for	neonatal respiratory distress
+corticosteroids	used for	neonatal pulmonary hypertension
+corticosteroids	used for	neonatal brain injury
+corticosteroids	used for	neonatal seizures
+corticosteroids	used for	neonatal anemia
+corticosteroids	used for	neonatal thrombocytopenia
+corticosteroids	used for	neonatal hypocalcemia
+corticosteroids	used for	neonatal hypernatremia
+corticosteroids	used for	neonatal hyponatremia
+corticosteroids	used for	neonatal hypoglycemia
+corticosteroids	used for	neonatal hyperglycemia
+corticosteroids	used for	neonatal hyperthyroidism
+corticosteroids	used for	neonatal hypothyroidism
+corticosteroids	used for	neonatal hyperlipidemia
+corticosteroids	used for	neonatal hypolipidemia
+corticosteroids	used for	neonatal hyperuricemia
+corticosteroids	used for	neonatal hypouricemia
+corticosteroids	used for	neonatal hyperphosphatemia
+corticosteroids	used for	neonatal hypophosphatemia
+corticosteroids	used for	neonatal hypercalcemia
+corticosteroids	used for	neonatal hypocalcemia
+corticosteroids	used for	neonatal hypermagnesemia
+corticosteroids	used for	neonatal hypomagnesemia
+corticosteroids	used for	neonatal hyperpotassium
+corticosteroids	used for	neonatal hypopotassium
+corticosteroids	used for	neonatal hypernatremia
+corticosteroids	used for	neonatal hyponatremia
+corticosteroids	used for	neonatal hyperglycemia
+corticosteroids	used for	neonatal hypoglycemia
+corticosteroids	used for	neonatal hyperthyroidism
+corticosteroids	used for	neonatal hypothyroidism
+corticosteroids	used for	neonatal hyperlipidemia
+corticosteroids	used for	neonatal hypolipidemia
+corticosteroids	used for	neonatal hyperuricemia
+corticosteroids	used for	neonatal hypouricemia
+corticosteroids	used for	neonatal hyperphosphatemia

@@ -1,0 +1,100 @@
+peritoneal dialysis	is a	renal replacement therapy
+peritoneal dialysis	treats	end‑stage kidney disease
+peritoneal dialysis	reduces	hospitalization rate
+peritoneal dialysis	improves	quality of life
+peritoneal dialysis	requires	peritoneal catheter
+peritoneal catheter	is inserted	surgically
+surgical insertion	needs	local anesthesia
+peritoneal dialysis	uses	dialysate solution
+dialysate solution	contains	glucose
+dialysate solution	contains	electrolytes
+dialysate solution	may contain	icodextrin
+icodextrin	provides	long‑term ultrafiltration
+peritoneal dialysis	can be	continuous ambulatory
+peritoneal dialysis	can be	automated
+automated	uses	cycler machine
+cycler machine	operates	overnight
+overnight	reduces	patient burden
+patient burden	decreases	caregiver stress
+peritoneal dialysis	has	lower infection risk
+lower infection risk	compared to	hemodialysis
+peritoneal dialysis	has	lower cardiovascular risk
+lower cardiovascular risk	leads to	reduced mortality
+reduced mortality	improves	survival rate
+survival rate	depends on	patient age
+patient age	influences	dialysis modality choice
+dialysis modality choice	guided by	comorbidities
+comorbidities	include	diabetes
+diabetes	increases	peritonitis risk
+peritonitis	is	catheter infection
+catheter infection	treated with	antibiotics
+antibiotics	selected by	culture sensitivity
+culture sensitivity	obtained from	peritoneal fluid
+peritoneal fluid	sampled by	peritoneal tap
+peritoneal tap	performed	bedside
+bedside	reduces	transport time
+transport time	affects	treatment delay
+treatment delay	worsens	outcomes
+outcomes	measured by	dialysis adequacy
+dialysis adequacy	quantified by	Kt/V
+Kt/V	calculated from	creatinine clearance
+creatinine clearance	measured by	urine collection
+urine collection	requires	patient compliance
+patient compliance	influenced by	education level
+education level	improves	self‑care
+self‑care	reduces	technique failure
+technique failure	leads to	modality switch
+modality switch	often to	hemodialysis
+hemodialysis	associated with	vascular access
+vascular access	can be	arteriovenous fistula
+arteriovenous fistula	has	lower infection rate
+lower infection rate	improves	patient survival
+patient survival	influenced by	nutritional status
+nutritional status	assessed by	serum albumin
+serum albumin	predicts	mortality risk
+mortality risk	used in	risk stratification
+risk stratification	guides	treatment plan
+treatment plan	includes	medication adjustment
+medication adjustment	considers	drug clearance
+drug clearance	reduced by	kidney failure
+kidney failure	necessitates	dose reduction
+dose reduction	prevents	drug toxicity
+drug toxicity	monitored by	laboratory tests
+laboratory tests	include	electrolytes
+electrolytes	monitored for	hyperkalemia
+hyperkalemia	treated with	dialysis
+dialysis	can be	peritoneal
+peritoneal	provides	continuous fluid removal
+continuous fluid removal	maintains	fluid balance
+fluid balance	affects	blood pressure
+blood pressure	regulated by	antihypertensives
+antihypertensives	selected by	renal function
+renal function	assessed by	eGFR
+eGFR	calculated from	creatinine
+creatinine	influenced by	muscle mass
+muscle mass	estimated by	body mass index
+body mass index	predicts	cardiovascular risk
+cardiovascular risk	linked to	mortality
+mortality	reduced by	early intervention
+early intervention	requires	timely referral
+timely referral	depends on	primary care
+primary care	monitors	kidney function
+kidney function	monitored by	urinalysis
+urinalysis	detects	proteinuria
+proteinuria	indicates	kidney damage
+kidney damage	progresses to	dialysis requirement
+dialysis requirement	may be	peritoneal
+peritoneal	offers	home autonomy
+home autonomy	improves	mental health
+mental health	assessed by	depression screening
+depression screening	performed by	PHQ‑9
+PHQ‑9	scores	guide therapy
+therapy	may include	antidepressants
+antidepressants	must consider	drug interactions
+drug interactions	evaluated by	pharmacogenomics
+pharmacogenomics	informs	dosing
+dosing	tailored to	patient genetics
+patient genetics	influence	drug metabolism
+drug metabolism	affects	side effect profile
+side effect profile	monitored by	follow‑up visits
+follow‑up visits	scheduled	quarterly

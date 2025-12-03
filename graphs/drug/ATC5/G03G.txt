@@ -1,0 +1,100 @@
+gonadotropins	are	hormones
+gonadotropins	stimulate	ovulation
+ovulation	is	reproductive process
+ovulation stimulants	include	clomiphene
+clomiphene	is	selective estrogen receptor modulator
+clomiphene	used for	infertility
+infertility	can be	anovulatory
+anovulatory	condition	amenorrhea
+amenorrhea	may cause	subfertility
+gonadotropins	include	FSH
+gonadotropins	include	LH
+FSH	promotes	follicle growth
+LH	triggers	ovulation
+follicle growth	leads to	estrogen production
+estrogen production	supports	endometrial thickening
+endometrial thickening	is	implantation site
+implantation	is	pregnancy initiation
+ovulation stimulants	can cause	ovarian hyperstimulation
+ovarian hyperstimulation	increases	risk of OHSS
+OHSS	manifests as	abdominal pain
+abdominal pain	may require	hospitalization
+hospitalization	indicates	severe OHSS
+severe OHSS	associated with	electrolyte imbalance
+electrolyte imbalance	can lead to	cardiac arrhythmia
+cardiac arrhythmia	requires	emergency care
+ovulation stimulants	may cause	mood changes
+mood changes	include	anxiety
+anxiety	can affect	treatment adherence
+treatment adherence	influences	pregnancy success
+pregnancy success	measured by	live birth rate
+live birth rate	predicts	long‑term child health
+child health	influenced by	maternal hormone levels
+maternal hormone levels	altered by	gonadotropin therapy
+gonadotropin therapy	requires	dosage adjustment
+dosage adjustment	guided by	serum estradiol
+serum estradiol	measured in	blood test
+blood test	informs	treatment plan
+treatment plan	includes	monitoring schedule
+monitoring schedule	reduces	risk of complications
+complications	include	ectopic pregnancy
+ectopic pregnancy	detected by	beta‑hCG
+beta‑hCG	measured in	urine test
+urine test	used for	early pregnancy detection
+early pregnancy detection	improves	outcomes
+outcomes	measured by	miscarriage rate
+miscarriage rate	influenced by	ovarian reserve
+ovarian reserve	assessed by	AMH
+AMH	measured in	serum
+serum	contains	anti‑Müllerian hormone
+anti‑Müllerian hormone	predicts	response to stimulation
+response to stimulation	predicts	cycle cancellation
+cycle cancellation	reduces	patient stress
+patient stress	lowers	depression risk
+depression risk	impacts	overall health
+overall health	affects	medication metabolism
+medication metabolism	varies by	CYP450
+CYP450	metabolizes	clomiphene
+clomiphene	metabolized into	active metabolites
+active metabolites	bind to	estrogen receptors
+estrogen receptors	located in	uterus
+uterus	prepares for	implantation
+implantation	requires	progesterone
+progesterone	produced by	corpus luteum
+corpus luteum	forms after	ovulation
+ovulation	triggered by	LH surge
+LH surge	induced by	GnRH
+GnRH	secreted by	hypothalamus
+hypothalamus	regulates	reproductive axis
+reproductive axis	includes	pituitary
+pituitary	releases	gonadotropins
+gonadotropins	include	hMG
+hMG	contains	FSH and LH
+FSH	promotes	follicular maturation
+follicular maturation	leads to	dominant follicle
+dominant follicle	secretes	estradiol
+estradiol	signals	endometrial receptivity
+endometrial receptivity	critical for	embryo implantation
+embryo implantation	failure leads to	infertility
+infertility	treated with	assisted reproductive technology
+assisted reproductive technology	includes	IVF
+IVF	requires	ovarian stimulation
+ovarian stimulation	uses	gonadotropins
+gonadotropins	dosage based on	body mass index
+body mass index	correlates with	drug clearance
+drug clearance	affects	serum drug levels
+serum drug levels	influence	side effect profile
+side effect profile	includes	hot flashes
+hot flashes	managed by	antihistamines
+antihistamines	reduce	vasomotor symptoms
+vasomotor symptoms	improve	quality of life
+quality of life	predicts	treatment satisfaction
+treatment satisfaction	linked to	adherence
+adherence	determines	therapeutic outcome
+therapeutic outcome	measured by	pregnancy rate
+pregnancy rate	influenced by	age
+age	affects	ovarian reserve
+ovarian reserve	measured by	antral follicle count
+antral follicle count	obtained via	ultrasound
+ultrasound	visualizes	ovarian follicles
+ovarian follicles	indicate	fertility potential
