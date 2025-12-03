@@ -1,0 +1,100 @@
+peripheral and visceral atherosclerosis	is a	vascular disease
+peripheral and visceral atherosclerosis	involves	atherosclerotic plaque
+peripheral and visceral atherosclerosis	is defined by	atherosclerotic plaque
+peripheral and visceral atherosclerosis	progresses with	aging
+peripheral and visceral atherosclerosis	causes	luminal narrowing
+peripheral and visceral atherosclerosis	leads to	ischemia
+peripheral and visceral atherosclerosis	causes	claudication
+peripheral and visceral atherosclerosis	causes	limb ischemia
+peripheral and visceral atherosclerosis	causes	mesenteric ischemia
+peripheral and visceral atherosclerosis	causes	renal artery stenosis
+peripheral and visceral atherosclerosis	associated with	smoking
+peripheral and visceral atherosclerosis	associated with	diabetes mellitus
+peripheral and visceral atherosclerosis	associated with	hypertension
+peripheral and visceral atherosclerosis	associated with	hyperlipidemia
+peripheral and visceral atherosclerosis	associated with	obesity
+peripheral and visceral atherosclerosis	associated with	physical inactivity
+peripheral and visceral atherosclerosis	diagnosed by	duplex ultrasound
+peripheral and visceral atherosclerosis	diagnosed by	CT angiography
+peripheral and visceral atherosclerosis	diagnosed by	MR angiography
+peripheral and visceral atherosclerosis	assessed by	ankle-brachial index
+peripheral and visceral atherosclerosis	evaluated by	lipid profile
+peripheral and visceral atherosclerosis	evaluated by	imaging study
+peripheral and visceral atherosclerosis	confirmed by	angiography
+peripheral and visceral atherosclerosis	monitored by	blood pressure monitoring
+peripheral and visceral atherosclerosis	monitored by	lipid panel
+peripheral and visceral atherosclerosis	treatment with	statins
+peripheral and visceral atherosclerosis	treatment with	antiplatelet therapy
+peripheral and visceral atherosclerosis	treatment with	anticoagulation
+peripheral and visceral atherosclerosis	managed with	lifestyle modification
+peripheral and visceral atherosclerosis	managed with	smoking cessation
+peripheral and visceral atherosclerosis	treated with	revascularization
+peripheral and visceral atherosclerosis	treated with	PCSK9 inhibitors
+peripheral and visceral atherosclerosis	treated with	ACE inhibitors
+peripheral and visceral atherosclerosis	treated with	ARBs
+peripheral and visceral atherosclerosis	treated with	aspirin
+peripheral and visceral atherosclerosis	prognosis	mortality
+peripheral and visceral atherosclerosis	prognosis	heart failure
+peripheral and visceral atherosclerosis	prognosis	stroke
+peripheral and visceral atherosclerosis	prognosis	hospitalization
+peripheral and visceral atherosclerosis	complications	limb amputation
+peripheral and visceral atherosclerosis	associated with	aging
+peripheral and visceral atherosclerosis	more common in	males
+peripheral and visceral atherosclerosis	more common in	diabetics
+peripheral and visceral atherosclerosis	predisposes to	renal failure
+peripheral and visceral atherosclerosis	predisposes to	chronic kidney disease
+peripheral and visceral atherosclerosis	associated with	endothelial dysfunction
+peripheral and visceral atherosclerosis	associated with	inflammation
+peripheral and visceral atherosclerosis	associated with	oxidative stress
+peripheral and visceral atherosclerosis	influences	blood flow
+peripheral and visceral atherosclerosis	reduces	walking distance
+peripheral and visceral atherosclerosis	increases	hospitalization rate
+peripheral and visceral atherosclerosis	affects	quality of life
+peripheral and visceral atherosclerosis	worsens	endothelial function
+peripheral and visceral atherosclerosis	correlates with	C-reactive protein
+peripheral and visceral atherosclerosis	correlates with	homocysteine
+peripheral and visceral atherosclerosis	observed in	autopsy studies
+peripheral and visceral atherosclerosis	presents with	claudication
+peripheral and visceral atherosclerosis	requires	follow-up imaging
+peripheral and visceral atherosclerosis	contributes to	plaque burden
+peripheral and visceral atherosclerosis	shows	arterial stiffness
+peripheral and visceral atherosclerosis	shows	reduced ankle-brachial index
+peripheral and visceral atherosclerosis	associated with	renal perfusion decrease
+peripheral and visceral atherosclerosis	progresses to	multi-vessel disease
+peripheral and visceral atherosclerosis	complicates	surgical planning
+peripheral and visceral atherosclerosis	exacerbated by	smoking
+peripheral and visceral atherosclerosis	associated with	kidney disease
+peripheral and visceral atherosclerosis	associated with	stroke risk
+peripheral and visceral atherosclerosis	associated with	myocardial perfusion deficit
+peripheral and visceral atherosclerosis	increased risk of	readmission
+peripheral and visceral atherosclerosis	linked to	life expectancy
+peripheral and visceral atherosclerosis	linked to	cardiovascular mortality
+peripheral and visceral atherosclerosis	modifiable by	diet
+peripheral and visceral atherosclerosis	modifiable by	exercise
+peripheral and visceral atherosclerosis	modified by	smoking cessation
+peripheral and visceral atherosclerosis	influences	physical function
+peripheral and visceral atherosclerosis	linked with	insulin resistance
+peripheral and visceral atherosclerosis	associated with	plaque calcification
+peripheral and visceral atherosclerosis	requires	vascular imaging
+peripheral and visceral atherosclerosis	indicates	polyvascular disease
+peripheral and visceral atherosclerosis	relates to	aortic atherosclerosis
+peripheral and visceral atherosclerosis	associated with	lipoprotein(a)
+peripheral and visceral atherosclerosis	correlated with	obesity
+peripheral and visceral atherosclerosis	correlated with	sedentary lifestyle
+peripheral and visceral atherosclerosis	associated with	renal artery disease
+peripheral and visceral atherosclerosis	associated with	abdominal aorta disease
+peripheral and visceral atherosclerosis	increases	arterial calcification
+peripheral and visceral atherosclerosis	linked to	cholesterol burden
+peripheral and visceral atherosclerosis	associated with	microvascular disease
+peripheral and visceral atherosclerosis	increases	healthcare utilization
+peripheral and visceral atherosclerosis	presents with	leg pain
+peripheral and visceral atherosclerosis	presents with	abdominal pain
+peripheral and visceral atherosclerosis	increases	mortality risk
+peripheral and visceral atherosclerosis	predicts	hospitalization risk
+peripheral and visceral atherosclerosis	correlates with	systolic dysfunction
+peripheral and visceral atherosclerosis	linked with	frailty
+peripheral and visceral atherosclerosis	associated with	elderly mortality
+peripheral and visceral atherosclerosis	indicate	systemic atherosclerosis
+peripheral and visceral atherosclerosis	suggests	polyvascular involvement
+peripheral and visceral atherosclerosis	associated with	plaque burden in arteries
+peripheral and visceral atherosclerosis	presents with	claudication pain

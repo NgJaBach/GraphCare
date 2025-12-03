@@ -1,0 +1,100 @@
+gastritis	associated with	Helicobacter pylori
+gastritis	caused by	NSAID use
+gastritis	treated with	proton pump inhibitors
+gastritis	presents with	epigastric pain
+gastritis	may progress to	peptic ulcer disease
+gastric ulcer	associated with	Helicobacter pylori
+gastric ulcer	caused by	NSAID use
+gastric ulcer	treated with	proton pump inhibitors
+gastric ulcer	presents with	epigastric pain
+gastric ulcer	may cause	GI bleeding
+gastric ulcer	diagnosed by	endoscopy
+duodenal ulcer	associated with	Helicobacter pylori
+duodenal ulcer	caused by	NSAID use
+duodenal ulcer	treated with	proton pump inhibitors
+duodenal ulcer	presents with	nocturnal pain
+duodenal ulcer	improves with	meals
+duodenal ulcer	may cause	GI bleeding
+duodenal ulcer	diagnosed by	endoscopy
+peptic ulcer disease	associated with	smoking
+peptic ulcer disease	associated with	Helicobacter pylori
+peptic ulcer disease	caused by	NSAID use
+peptic ulcer disease	treated with	proton pump inhibitors
+peptic ulcer disease	presents with	epigastric pain
+peptic ulcer disease	may cause	GI bleeding
+peptic ulcer disease	diagnosed by	endoscopy
+gastric cancer	associated with	smoking
+gastric cancer	associated with	Helicobacter pylori infection
+gastric cancer	increases	mortality
+gastric cancer	treated with	chemotherapy
+gastric cancer	diagnosed by	biopsy
+gastric cancer	presents with	weight loss
+gastric cancer	metastasizes to	liver
+gastric cancer	metastasizes to	peritoneum
+gastric cancer	screened with	endoscopy
+gastric cancer	treated with	surgical resection
+duodenal cancer	treated with	surgical resection
+duodenal cancer	diagnosed by	endoscopy
+duodenal cancer	presents with	abdominal pain
+duodenal cancer	metastasizes to	liver
+duodenal cancer	treated with	chemotherapy
+gastric outlet obstruction	caused by	gastric cancer
+gastric outlet obstruction	caused by	peptic ulcer disease
+gastric outlet obstruction	presents with	vomiting
+gastric outlet obstruction	treated with	nasogastric decompression
+gastric outlet obstruction	diagnosed by	imaging
+pyloric stenosis	treated with	pyloromyotomy
+pyloric stenosis	presents with	projectile vomiting
+gastric polyps	associated with	chronic gastritis
+gastric polyps	treated with	polypectomy
+gastric polyps	associated with	stomach cancer
+gastric diverticulum	diagnosed by	endoscopy
+gastric diverticulum	treated with	surgical resection
+gastric diverticulum	presents with	epigastric pain
+duodenitis	associated with	NSAID use
+duodenitis	caused by	H. pylori
+duodenitis	treated with	proton pump inhibitors
+duodenitis	presents with	abdominal pain
+duodenitis	diagnosed by	endoscopy
+gastric erosion	associated with	NSAID use
+gastric erosion	treated with	proton pump inhibitors
+gastric erosion	presents with	upper abdominal pain
+gastric erosion	may cause	GI bleeding
+gastroparesis	associated with	diabetes mellitus
+gastroparesis	treated with	prokinetic agents
+gastroparesis	presents with	nausea
+gastroparesis	diagnosed by	gastric emptying study
+gastric volvulus	is a	surgical emergency
+gastric volvulus	treated with	emergency surgery
+autoimmune gastritis	associated with	parietal cell antibodies
+autoimmune gastritis	associated with	pernicious anemia
+autoimmune gastritis	associated with	intestinal metaplasia
+gastric cancer	prognosis depends on	stage
+gastric cancer	associated with	Epstein-Barr virus
+gastric cancer	diagnosed by	CT scan
+gastric cancer	stage determined by	imaging
+gastric cancer	treated with	radiation therapy
+gastric cancer	treated with	targeted therapy
+gastric cancer	treated with	immunotherapy
+gastric cancer	presents with	anemia
+gastric cancer	presents with	early satiety
+gastric cancer	presents with	upper GI obstruction
+gastric cancer	screen for	high-risk individuals
+gastric cancer	risk factor for	cachexia
+gastric cancer	associated with	p53 mutation
+gastric cancer	associated with	chromosomal instability
+gastric cancer	metastasizes to	ovaries
+gastric cancer	metastasizes to	lungs
+gastric cancer	metastasizes to	brain
+gastric cancer	diagnosed by	endoscopy
+gastric cancer	biopsy confirms	cancer
+gastric erosion	may progress to	ulceration
+gastric ulcer	can be	chronic
+gastric outlet obstruction	can occur with	gastric cancer
+gastric outlet obstruction	can occur with	peptic ulcer disease
+gastric polyps	increased risk of	malignancy
+duodenitis	associated with	celiac disease
+gastric erosion	relieved by	antacids
+gastric ulcer	recurrence after healing	risk high
+gastric cancer	response to	chemotherapy
+gastric cancer	prognosis is	poor

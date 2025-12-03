@@ -1,0 +1,200 @@
+cardiac arrest	is a	medical emergency
+ventricular fibrillation	is a	shockable rhythm
+cardiac arrest	defined as	loss of pulse
+ventricular fibrillation	is a	cardiac arrhythmia
+cardiac arrest	may cause	sudden death
+ventricular fibrillation	requires	defibrillation
+defibrillation	is a	standard therapy for ventricular fibrillation
+AED	is used for	ventricular fibrillation
+cardiac arrest	requires	chest compressions
+chest compressions	are part of	resuscitation during cardiac arrest
+epinephrine	is used during	cardiac arrest
+amiodarone	is used for	ventricular fibrillation
+hypoxia	predisposes to	cardiac arrest
+electrolyte disturbance	predisposes to	ventricular fibrillation
+myocardial infarction	predisposes to	ventricular fibrillation
+coronary artery disease	is a risk factor for	cardiac arrest
+hypovolemia	predisposes to	cardiac arrest
+sepsis	predisposes to	cardiac arrest
+cardiac arrest	leads to	cerebral ischemia
+ventricular fibrillation	leads to	hemodynamic instability
+return of spontaneous circulation	indicates	resuscitation success
+post-arrest syndrome	occurs after	cardiac arrest
+therapeutic hypothermia	is used after	cardiac arrest
+targeted temperature management	is a	neuroprotection strategy
+neuroprotection	is provided by	therapeutic hypothermia
+airway management	is performed during	resuscitation
+oxygen therapy	is provided during	resuscitation
+intraosseous access	is established during	cardiac arrest
+emergency responders	initiate	defibrillation
+paramedics	perform	defibrillation
+emergency department	manages	cardiac arrest
+ambulance	transports	cardiac arrest patient
+survival	depends on	time to defibrillation
+survival	depends on	quality of CPR
+first defibrillation	terminates	ventricular fibrillation
+ventricular fibrillation	is associated with	myocardial ischemia
+ischemia	can trigger	ventricular fibrillation
+resuscitation	aims for	return of spontaneous circulation
+electrocardiogram	shows	ventricular fibrillation
+shockable rhythm	predicts	higher survival
+post-arrest care	includes	airway and ventilation management
+glycemic control	is part of	post-arrest care
+vasopressors	are used in	post-arrest care
+neuroprognostication	is performed after	cardiac arrest
+serum lactate	is a marker for	resuscitation quality
+cerebral perfusion	is reduced during	cardiac arrest
+renal perfusion	is restored after	return of spontaneous circulation
+organ dysfunction	follows	cardiac arrest
+multiorgan failure	can occur after	cardiac arrest
+neurocognitive impairment	occurs after	cardiac arrest
+pupillary reflex	predicts	neurological outcome
+EEG	is used for	prognosis after cardiac arrest
+neuron-specific enolase	is a biomarker for	brain injury after cardiac arrest
+lactate clearance	indicates	ROSC
+temperature management	influences	neurological outcome
+pH	falls during	cardiac arrest
+ischemic brain injury	results from	brain injury after cardiac arrest
+cardiac arrest	increases	risk of arrhythmias
+arterial blood gas	informs	resuscitation status
+oxygenation	influences	survivor rate
+ventilation	maintains	carbon dioxide levels during resuscitation
+cardiopulmonary resuscitation	improves	microcirculation
+post-resuscitation shock	occurs with	return of spontaneous circulation
+temperature modulation	reduces	neuronal injury
+neuroinflammation	follows	cardiac arrest
+blood-brain barrier disruption	is caused by	cardiac arrest
+cardiac arrest	causes	blood-brain barrier disruption
+blood-brain barrier disruption	contributes to	cerebral edema
+cerebral edema	results from	brain injury after cardiac arrest
+renal failure	occurs after	cardiac arrest
+hepatic dysfunction	occurs after	cardiac arrest
+immune dysfunction	follows	cardiac arrest
+coagulopathy	occurs after	cardiac arrest
+inflammation	occurs after	resuscitation
+disability	worsens	quality of life post-arrest
+hospital admission	follows	return of spontaneous circulation
+long-term survival	depends on	quality of care
+critical care	manages	post-arrest care
+bystander CPR	improves	survival
+public awareness	improves	bystander CPR rates
+CPR training	increases	bystander intervention
+first aid	includes	AED use
+outcome prediction	uses	initial rhythm
+shock energy	influences	defibrillation success
+manual defibrillator	is used for	treating ventricular fibrillation
+external chest compressions	provide	perfusion during cardiac arrest
+airway protection	improves	ventilation during resuscitation
+family counseling	accompanies	prognosis discussion after cardiac arrest
+organ donation	considered after	cardiac arrest
+elderly population	has	cardiac arrest
+risk stratification	informs	resuscitation approach
+clinical trials	explore	new therapies for ventricular fibrillation
+multidisciplinary team	manages	post-arrest care
+emergency medicine	advances	resuscitation techniques
+real-time monitoring	guides	defibrillation timing
+rapid ROSC	leads to	better outcomes
+bystander defibrillation	reduces	time to shock
+bystander intervention	reduces	neurological injury
+survival rate	improves with	rapid ROSC
+cardiac arrest	is a	life-threatening event
+ventricular fibrillation	is a	malignant arrhythmia
+ventricular fibrillation	can cause	cardiac arrest
+cardiac arrest	causes	brain injury
+cardiac arrest	requires	resuscitation
+defibrillator	is used for	ventricular fibrillation
+defibrillation	terminates	ventricular fibrillation
+cardiopulmonary resuscitation	is performed during	cardiac arrest
+cardiopulmonary resuscitation	improves	survival
+epinephrine	is administered during	cardiac arrest
+amiodarone	is used for	ventricular fibrillation
+electrocardiogram	detects	ventricular fibrillation
+electrocardiography	monitors	heart rhythm
+hypoxia	results in	brain injury
+ischemia	leads to	ventricular fibrillation
+myocardial infarction	predisposes to	ventricular fibrillation
+coronary artery disease	increases risk of	cardiac arrest
+ischemic heart disease	increases risk of	ventricular fibrillation
+shock	is delivered by	defibrillator
+cardiac arrest	occurs due to	ventricular fibrillation
+hypoxemia	predisposes to	cardiac arrest
+resuscitation	success depends on	quality of CPR
+quality of CPR	correlates with	survival
+defibrillator	delivers	shock
+shock	restores	sinus rhythm
+defibrillation	saves	life
+epinephrine	improves	coronary perfusion
+epinephrine	improves	cerebral perfusion
+amiodarone	reduces	ventricular fibrillation recurrence
+therapeutic hypothermia	improves	neurological outcome
+neuroprotection	aims for	favorable neurological outcome
+neuronal injury	results in	long-term disability
+timing of defibrillation	affects	survival
+pulse	absent during	cardiac arrest
+unconsciousness	occurs in	cardiac arrest
+cerebral ischemia	follows	cardiac arrest
+brain perfusion	decreases during	cardiac arrest
+outcome	determined by	time to defibrillation
+time to defibrillation	shortens	hospital stay
+cpr quality	correlates with	survival
+coronary thrombosis	causes	myocardial infarction
+myocardial infarction	triggers	ventricular fibrillation
+electrolyte imbalance	predisposes to	ventricular fibrillation
+cardiac arrest	is a cause of	death
+pulse check	is performed during	CPR
+intraosseous access	is used during	resuscitation
+airway management	is part of	resuscitation
+cooling therapy	is a component of	post-resuscitation care
+post-resuscitation care	improves	neurological outcome
+survival to discharge	depends on	initial rhythm
+initial rhythm	includes	ventricular fibrillation
+post-arrest care	reduces	mortality
+mortality	is associated with	cardiac arrest
+neurorecovery	depends on	time to defibrillation
+vasopressor therapy	supports	hemodynamics during resuscitation
+resuscitation	is guided by	advanced cardiac life support protocol
+airway	is secured during	resuscitation
+ventilation	is provided during	resuscitation
+oxygenation	is maintained during	resuscitation
+capnography	monitors	resuscitation quality
+emergency medical services	deliver	defibrillation
+layperson	performs	chest compressions
+chest compressions	maintain	cerebral perfusion
+first aid	includes	chest compressions
+central line	provides	access during resuscitation
+defibrillation cycle	comprises	shocks
+shock delivery	optimizes	resuscitation outcome
+neurorecovery	depends on	time to defibrillation
+cerebral edema	occurs after	cardiac arrest
+renal failure	can occur after	cardiac arrest
+infection	risk after	resuscitation
+blood glucose	impacts	outcomes after cardiac arrest
+lipid levels	influence	risk of cardiac arrest
+beta-blocker therapy	reduces	arrhythmia risk
+timely defibrillation	improves	survival
+delivered shock	achieves	rhythm normalization
+rhythm normalization	enables	perfusion
+perfusion	enables	oxygen delivery
+oxygen delivery	supports	tissue preservation
+tissue preservation	improves	survival
+cardiac arrest	occurs commonly with	myocardial infarction
+defibrillation	is recommended for	ventricular fibrillation
+ventricular fibrillation	is treated with	defibrillation
+cardiac arrest	occurs in	hospital settings
+bystander CPR	increases	survival
+bystander	performs	CPR
+layperson	trained in	CPR
+CPR	may be aided by	automatic external defibrillator
+layperson	uses	automatic external defibrillator
+automatic external defibrillator	provides	defibrillation
+defibrillation timing	affects	survival
+early defibrillation	reduces	mortality
+mortality	is reduced by	defibrillation
+cardiac arrest	increases	healthcare utilization
+healthcare utilization	increases after	cardiac arrest
+economic burden	increases after	cardiac arrest
+hospital admission	follows	cardiac arrest
+readmission risk	increases after	cardiac arrest
+survivor	has	quality of life
+quality of life	affected by	cardiac arrest
+rehabilitation	focuses on	physical function after cardiac arrest

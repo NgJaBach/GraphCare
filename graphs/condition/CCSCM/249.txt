@@ -1,0 +1,107 @@
+shock	is a	medical condition
+shock	causes	hypoperfusion
+shock	causes	hypotension
+shock	results in	lactic acidosis
+shock	leads to	organ dysfunction
+hypovolemic shock	caused by	hemorrhage
+hypovolemic shock	treated with	fluids
+hypovolemic shock	increases	mortality
+cardiogenic shock	caused by	myocardial infarction
+cardiogenic shock	caused by	arrhythmia
+cardiogenic shock	treated with	inotropes
+cardiogenic shock	requires	mechanical ventilation
+cardiogenic shock	associated with	high mortality
+obstructive shock	caused by	tamponade
+obstructive shock	caused by	massive pulmonary embolism
+obstructive shock	treated with	pericardiocentesis
+septic shock	is a	distributive shock
+septic shock	caused by	infection
+septic shock	associated with	hyperlactatemia
+septic shock	treated with	antibiotics
+septic shock	treated with	fluid resuscitation
+anaphylactic shock	is a	distributive shock
+anaphylactic shock	caused by	allergen
+anaphylactic shock	treated with	epinephrine
+neurogenic shock	is a	distributive shock
+neurogenic shock	caused by	spinal injury
+neurogenic shock	treated with	fluids
+shock	associated with	tachycardia
+shock	associated with	cool skin
+shock	associated with	oliguria
+shock	diagnosed by	hypotension
+shock	diagnosed by	low urine output
+shock	monitored by	mean arterial pressure
+shock	monitored by	lactate
+shock	monitored by	urine output
+shock	managed with	vasopressor therapy
+vasopressor therapy	includes	norepinephrine
+vasopressor therapy	includes	vasopressin
+norepinephrine	is a	vasopressor
+dopamine	is a	vasopressor
+epinephrine	is a	vasopressor
+shock	treated with	crystalloids
+crystalloids	used for	fluid resuscitation
+blood transfusion	used for	hemorrhagic shock
+hemorrhagic shock	requires	blood products
+lactate	is a	biomarker of shock severity
+lactate	high in	septic shock
+urine output	is reduced in	shock
+mean arterial pressure	target in	shock management
+MAP	maintained by	vasopressor
+central venous pressure	reflects	preload
+preload	affects	cardiac output
+cardiac output	decreases	in shock
+systemic vascular resistance	decreases in	distributive shock
+systemic vascular resistance	increases in	cardiogenic shock
+troponin	elevated in	cardiogenic shock
+myocardial infarction	often leads to	cardiogenic shock
+arrhythmia	can cause	cardiogenic shock
+tamponade	can cause	obstructive shock
+massive pulmonary embolism	can cause	obstructive shock
+sepsis	associated with	septic shock
+infection	leads to	septic shock
+shock	increases	respiratory rate
+shock	leads to	metabolic acidosis
+metabolic acidosis	observed in	shock
+vasopressor	support	mean arterial pressure
+antibiotics	indicated for	septic shock
+fluid resuscitation	recommended for	hypovolemic shock
+fluid resuscitation	controversial in	cardiogenic shock
+inotrope	supports	cardiac output
+inotrope	includes	dobutamine
+dobutamine	is an	inotrope
+mechanical ventilation	required for	shock with respiratory failure
+intubation	performed for	shock
+coronary revascularization	may prevent	cardiogenic shock
+upon shock	prognosis	worse with age
+age	associated with	mortality in shock
+kidney injury	occurs in	shock
+acute kidney injury	occurs in	septic shock
+MODS	occurs in	severe shock
+vasopressor	adverse effect	ischemia
+vasopressor	adverse effect	arrhythmia
+shock	increases	sympathetic tone
+sympathetic tone	elevates	heart rate
+hemorrhage	reduces	blood volume
+hypovolemia	reduces	venous return
+venous return	reduces	cardiac output
+cardiac output	affects	tissue perfusion
+tissue perfusion	ensures	organ function
+shock	causes	tissue hypoxia
+shock	triggers	inflammatory response
+inflammatory response	amplifies	vasodilation
+shock	associated with	fever
+fever	common in	septic shock
+shock	alters	acid-base balance
+anion gap	increased in	shock
+central line placement	used for	shock management
+ventricular assist device	reserved for	cardiogenic shock
+ECMO	used for	refractory shock
+refractory shock	defined as	shock despite therapy
+shock	increases	sympathetic activation
+sympathetic activation	elevates	heart rate
+coagulopathy	complicates	septic shock
+disseminated intravascular coagulation	occurs in	septic shock
+DIC	worsens	bleeding risk
+bleeding risk	increases	mortality
+urine	output	indicates	kidney perfusion

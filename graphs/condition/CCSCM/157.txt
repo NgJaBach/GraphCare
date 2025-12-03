@@ -1,0 +1,100 @@
+acute kidney injury	is a	clinical syndrome
+acute kidney injury	reduces	glomerular filtration rate
+creatinine	rises in	acute kidney injury
+urine output	decreases in	acute kidney injury
+potassium	increases in	acute kidney injury
+metabolic acidosis	develops in	acute kidney injury
+BUN	rises in	acute kidney injury
+electrolyte imbalance	occurs in	acute kidney injury
+oliguria	occurs in	acute kidney injury
+anuria	occurs in	acute kidney injury
+hypovolemia	causes	acute kidney injury
+hypotension	causes	acute kidney injury
+dehydration	causes	acute kidney injury
+sepsis	causes	acute kidney injury
+shock	causes	acute kidney injury
+nephrotoxic drugs	causes	acute kidney injury
+nonsteroidal anti-inflammatory drugs	causes	acute kidney injury
+aminoglycoside antibiotics	causes	acute kidney injury
+contrast media	causes	acute kidney injury
+iodinated contrast	causes	acute kidney injury
+contrast-induced nephropathy	is a cause of	acute kidney injury
+renal hypoperfusion	leads to	acute kidney injury
+prerenal azotemia	progresses to	acute kidney injury
+intrinsic renal injury	is a cause of	acute kidney injury
+acute tubular necrosis	is a cause of	acute kidney injury
+acute interstitial nephritis	causes	acute kidney injury
+glomerulonephritis	causes	acute kidney injury
+rhabdomyolysis	causes	acute kidney injury
+myoglobin	damages	renal tubules
+granular casts	indicate	acute tubular necrosis
+urine sediment	shows	acute kidney injury
+eosinophils	present in	acute interstitial nephritis
+renal ultrasound	used for	acute kidney injury evaluation
+urine dipstick	used for	acute kidney injury evaluation
+urinalysis	used for	AKI evaluation
+creatinine	used to assess	kidney injury
+BUN	used to stage	acute kidney injury
+GFR	decreases with	acute kidney injury
+creatinine	rises with	acute kidney injury
+electrolyte disturbances	contribute to	AKI prognosis
+hyperkalemia	increases	mortality in acute kidney injury
+volume overload	occurs in	acute kidney injury
+hypocalcemia	occurs in	acute kidney injury
+hyperphosphatemia	occurs in	acute kidney injury
+metabolic acidosis	worsens	acute kidney injury outcomes
+renal replacement therapy	initiated for	acute kidney injury
+hemodialysis	used for	acute kidney injury
+continuous renal replacement therapy	used for	acute kidney injury
+peritoneal dialysis	used for	acute kidney injury
+renal replacement therapy	indicated for	acute kidney injury
+nephrology consultation	recommended for	acute kidney injury
+ICU admission	associated with	acute kidney injury
+ICU stay	longer in	acute kidney injury
+mortality	increased with	acute kidney injury
+readmission	increased after	acute kidney injury
+length of stay	prolonged by	acute kidney injury
+nephrology input	improves	acute kidney injury outcomes
+fluids	restore	intravascular volume in acute kidney injury
+intravenous fluids	used in	acute kidney injury management
+vasopressors	used in	AKI with shock
+blood pressure	supported by	vasopressor therapy in AKI
+antibiotics	adjust dosing for	acute kidney injury
+antibiotics	adjusted for	acute kidney injury
+nephrotoxic exposure	avoided in	AKI management
+vasopressor therapy	supports	perfusion in acute kidney injury
+intravenous fluids	recommended for	prerenal AKI
+kidney perfusion	improved by	intravenous fluids
+renal perfusion	improved with	intravenous fluids
+urine output monitoring	essential for	AKI management
+electrolyte monitoring	essential for	AKI management
+KDIGO criteria	define	acute kidney injury
+RIFLE criteria	classify	acute kidney injury
+AKI staging	informs	prognosis
+AKI staging	guides	management
+KDIGO criteria	classify	AKI
+RIFLE criteria	classify	AKI
+healthcare costs	increased by	acute kidney injury
+hospital stay	prolonged by	AKI
+long-term dialysis dependence	risk after	AKI
+chronic kidney disease	risk after	AKI
+kidney recovery	occurs in	acute kidney injury
+dialysis independence	achieved in	acute kidney injury
+recovery time	varies with	AKI
+age	increases risk of	acute kidney injury
+diabetes mellitus	increases risk of	acute kidney injury
+hypertension	increases risk of	acute kidney injury
+cardiovascular disease	associated with	acute kidney injury
+liver disease	worsens outcomes in	acute kidney injury
+malignancy	associated with	acute kidney injury
+surgery	associated with	acute kidney injury
+trauma	associated with	acute kidney injury
+infection	associated with	acute kidney injury
+nephrotoxic antibiotics	cause	acute kidney injury
+contrast-induced nephropathy	is a form of	acute kidney injury
+rhabdomyolysis	can cause	acute kidney injury
+urine osmolality	differs in	prerenal AKI
+urine sodium	high in	intrinsic AKI
+AKI staging	uses	KDIGO criteria
+AKI survivors	require	follow-up care
+follow-up care	recommended for	acute kidney injury survivors

@@ -1,0 +1,105 @@
+ectopic pregnancy	is a	nonviable pregnancy
+ectopic pregnancy	located in	fallopian tube
+fallopian tube	site of	ectopic pregnancy
+tubal ectopic pregnancy	subtype of	ectopic pregnancy
+rupture	complication of	ectopic pregnancy
+tubal rupture	leads to	intraperitoneal hemorrhage
+intraperitoneal hemorrhage	causes	hypovolemia
+hypovolemia	requires	transfusion
+transfusion	indicated for	significant blood loss
+pelvic pain	presents with	ectopic pregnancy
+vaginal bleeding	presents with	ectopic pregnancy
+empty uterus	seen on	ultrasound
+adnexal mass	seen on	ultrasound
+transvaginal ultrasound	detects	ectopic pregnancy
+beta-hCG	elevated in	ectopic pregnancy
+beta-hCG	used for	pregnancy confirmation
+ectopic pregnancy	diagnosed by	transvaginal ultrasound
+beta-hCG levels	monitored for	ectopic pregnancy progression
+mortality	risk increased by	ectopic pregnancy
+readmission	risk after	ectopic pregnancy treatment
+methotrexate	used to treat	ectopic pregnancy
+methotrexate	contraindicated in	ruptured ectopic pregnancy
+single-dose methotrexate	efficacy for	ectopic pregnancy
+multidose methotrexate	efficacy for	ectopic pregnancy
+systemic methotrexate	is a	folate antagonist
+folate antagonist	mechanism of	methotrexate
+laparoscopy	preferred approach for	stable ectopic pregnancy
+laparoscopic salpingostomy	preserves	tubal patency
+laparoscopic salpingectomy	treats	tubal ectopic pregnancy
+salpingostomy	preserves	fertility
+salpingectomy	removes	fallopian tube
+conservative management	option for	stable ectopic pregnancy
+expectant management	appropriate for	select ectopic pregnancy
+emergency laparotomy	performed for	ruptured ectopic pregnancy
+ruptured ectopic pregnancy	requires	emergent surgery
+IV fluids	provide for	hemodynamic stabilization
+blood transfusion	indicated for	significant blood loss
+tubal damage	results in	infertility
+infertility	risk after	ectopic pregnancy
+tubal scarring	predisposes to	ectopic recurrence
+recurrence	risk after	prior ectopic pregnancy
+tubal patency	preserved by	salpingostomy
+tubal function	affected by	salpingectomy
+future pregnancy	possible after	ectopic pregnancy treatment
+IVF	increases risk for	ectopic pregnancy
+assisted reproduction	increases risk for	ectopic pregnancy
+smoking	increases risk for	ectopic pregnancy
+pelvic inflammatory disease	increases risk for	tubal ectopic pregnancy
+tubal surgery	increases risk for	ectopic pregnancy
+prior ectopic pregnancy	increases likelihood of	recurrent ectopic pregnancy
+age	associated with	ectopic pregnancy
+IUD use	increases risk for	ectopic pregnancy
+adnexal tenderness	present in	ectopic pregnancy
+hCG trend	monitored for	treatment response
+beta-hCG decline	indicates	treatment success
+treatment success	defined by	decline in beta-hCG
+emergency management	includes	surgical intervention
+surgical intervention	includes	laparoscopy
+laparoscopy	allows	tubal-sparing
+tubal-sparing	aims for	fertility preservation
+fertility preservation	achieved by	tubal-sparing
+tubal patency	preserved by	salpingostomy
+tubal recurrence risk	reduced by	salpingectomy
+salpingectomy	reduces	future ectopic recurrence
+salpingectomy	preserves	ovarian function
+expectant management	requires	hemodynamic stability
+hemodynamic stability	prerequisite for	conservative management
+drug therapy	option for	stable ectopic pregnancy
+diagnostic laparoscopy	used for	suspected ectopic pregnancy
+imaging	guides	management decisions
+clinical stability	determines	management approach
+ultrasound findings	influence	management plan
+emergency department	initial evaluation for	suspected ectopic pregnancy
+clinical guidelines	standardize	ectopic pregnancy management
+postoperative recovery	affected by	surgical approach
+length of hospital stay	linked to	treatment modality
+postoperative infection	risk with	laparotomy
+postoperative pain	management with	analgesia
+analgesia	used for	postoperative care
+blood pressure	monitored during	ectopic management
+oxygen saturation	monitored during	ectopic management
+treatment guideline	informs	management of ectopic pregnancy
+community hospital	may require	transfer for rupture
+diagnosis coding	used for	ectopic pregnancy billing
+fertility outcome	influenced by	ectopic pregnancy treatment
+future intrauterine pregnancy	possible after	ectopic management
+imaging follow-up	essential for	ectopic management
+beta-hCG normalization	time to	weeks after treatment
+treatment modality	influences	hospital stay length
+bleeding risk	correlates with	rupture timing
+fertility outcomes	trend after	tubal-sparing surgery
+recovery trajectory	depends on	management approach
+uterine protection	considered in	conservative management
+transfusion threshold	guides	transfusion decision
+ligation consideration	arises in	difficult ectopic cases
+reproductive planning	influenced by	ectopic pregnancy history
+diagnostic accuracy	improved by	transvaginal ultrasound
+embolization option	considered in	select ectopic cases
+uterine preservation	prioritized in	fertility-desiring patients
+post-treatment surveillance	recommended for	ectopic pregnancy
+clinical suspicion	prompts	imaging evaluation
+hemodynamic monitoring	necessary for	ruptured ectopic
+emergency preparedness	essential for	ruptured ectopic management
+fetal viability	absent in	ectopic pregnancy
+patient counseling	important for	ectopic management

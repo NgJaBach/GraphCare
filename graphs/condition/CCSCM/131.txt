@@ -1,0 +1,100 @@
+respiratory failure	may cause	hypoxemia
+respiratory failure	may cause	hypercapnia
+respiratory failure	is associated with	acute respiratory distress syndrome
+respiratory failure	requires	mechanical ventilation
+respiratory failure	treated with	oxygen therapy
+respiratory failure	managed in	intensive care unit
+respiratory failure	increases	mortality
+respiratory failure	increases	length of stay
+respiratory failure	predisposes to	multi-organ failure
+pneumonia	may cause	respiratory failure
+sepsis	may cause	respiratory failure
+COPD	predisposes to	respiratory failure
+ARDS	is a form of	respiratory failure
+pulmonary edema	can cause	respiratory failure
+asthma	may cause	respiratory failure
+pulmonary embolism	can cause	respiratory failure
+obesity	is a risk factor for	respiratory failure
+smoking	is a risk factor for	respiratory failure
+age	is a risk factor for	respiratory failure
+hypoxemia	is a consequence of	respiratory failure
+hypercapnia	is a consequence of	respiratory failure
+mechanical ventilation	is a treatment for	respiratory failure
+endotracheal intubation	is used for	airway management in respiratory failure
+noninvasive ventilation	reduces	intubation need
+oxygen therapy	improves	oxygenation in respiratory failure
+arterial blood gas	assesses	gas exchange status
+chest radiograph	detects	pulmonary edema
+pulmonary edema	causes	respiratory failure
+left heart failure	causes	pulmonary edema
+ARDS	is a complication of	respiratory failure
+acute respiratory distress syndrome	is a form of	respiratory failure
+bronchodilator therapy	improves	airway obstruction in respiratory failure
+invasive ventilation	is a form of	mechanical ventilation
+noninvasive ventilation	is a form of	respiratory support
+respiratory failure	increases	ICU admission
+ICU admission	increases	healthcare cost
+healthcare cost	increases	hospital expenditure
+hospital expenditure	increases	resource utilization
+CPAP	is a modality for	respiratory failure
+BiPAP	is a modality for	respiratory failure
+nasal cannula	delivers	oxygen therapy
+endotracheal tube	is used for	airway management in respiratory failure
+tracheostomy	may be required for	prolonged ventilation
+ventilator-associated pneumonia	is a complication of	mechanical ventilation
+barotrauma	can occur	during mechanical ventilation
+pneumothorax	can result from	mechanical ventilation
+arterial line	is used for	hemodynamic monitoring
+blood gas analysis	informs	ventilator settings
+venous thromboembolism	risk increases	during critical illness
+antibiotics	treat	pneumonia in respiratory failure
+diuretic therapy	treats	pulmonary edema
+vasopressor therapy	is used for	shock in respiratory failure
+renal failure	coexists with	respiratory failure
+multi-organ failure	indicates	high mortality
+renal failure	worsens	respiratory failure prognosis
+hemodynamic instability	complicates	respiratory failure management
+psychological distress	associated with	critical illness
+sedation	used for	mechanical ventilation
+analgesia	used for	mechanical ventilation
+delirium	common in	ventilated patients
+delirium	associated with	longer hospital stay
+early mobility	improves	outcomes in respiratory failure
+nutrition support	improves	recovery in respiratory failure
+protein-energy malnutrition	worsens	respiratory failure outcomes
+thromboembolism prophylaxis	reduces	DVT in respiratory failure
+heparin	used for	thromboembolism prophylaxis
+glycemic control	influences	infection risk
+diabetes mellitus	worsens	infection risk in respiratory failure
+electrolyte abnormalities	occur in	respiratory failure
+coagulopathy	occurs in	critical illness
+post-extubation stridor	occurs after	extubation
+extubation	occurs after	ventilation in respiratory failure
+suctioning	used for	airway clearance
+bronchoscopy	used for	airway clearance
+pneumonia	requires	antibiotics
+antibiotics	guide	therapy for pneumonia
+oxygen toxicity	risks	prolonged high FiO2
+FiO2	is adjusted during	mechanical ventilation
+pH	reflects	acid-base status
+acid-base status	influences	ventilator strategy
+SOFA score	predicts	mortality
+APACHE II score	predicts	mortality
+ventilator duration	correlates with	mortality
+ventilator duration	correlates with	length of stay
+weaning trials	facilitate	ventilator liberation
+spontaneous breathing trial	facilitates	weaning
+prolonged ventilation	increases	risk of VAP
+sedation	contributes to	delirium
+muscle weakness	occurs in	critical illness
+early physical therapy	preserves	muscle strength
+nutrition support	reduces	infection risk
+glucose control	influences	infection risk
+glycemic variability	worsens	outcomes in respiratory failure
+diuretic therapy	reduces	pulmonary edema progression
+lung compliance	decreases	during respiratory failure
+airway edema	worsens	airway resistance
+airway resistance	increases	work of breathing
+pulmonary hyperinflation	coexists with	COPD
+pulmonary embolism	is associated with	hypoxemia
+cardiac arrest	can follow	respiratory failure

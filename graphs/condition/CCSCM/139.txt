@@ -1,0 +1,100 @@
+gastroduodenal ulcer	is a	peptic ulcer disease
+gastroduodenal ulcer	associated with	Helicobacter pylori infection
+gastroduodenal ulcer	associated with	NSAID use
+gastroduodenal ulcer	associated with	smoking
+gastroduodenal ulcer	associated with	alcohol use
+gastroduodenal ulcer	associated with	aging
+gastroduodenal ulcer	associated with	iron deficiency anemia
+gastroduodenal ulcer	complication	perforation
+gastroduodenal ulcer	complication	gastric outlet obstruction
+gastroduodenal ulcer	diagnosed by	endoscopy
+gastroduodenal ulcer	diagnosed by	biopsy
+gastroduodenal ulcer	diagnosed by	histology
+Helicobacter pylori infection	detected by	urea breath test
+Helicobacter pylori infection	detected by	rapid urease test
+Helicobacter pylori infection	associated with	gastritis
+Helicobacter pylori infection	associated with	gastric cancer risk
+endoscopy	visualizes	ulcer
+biopsy	shows	chronic inflammation
+urea breath test	positive for	Helicobacter pylori infection
+rapid urease test	positive for	Helicobacter pylori infection
+ulcer	located in	stomach
+ulcer	located in	duodenum
+endoscopy	confirms	gastroduodenal ulcer
+biopsy	confirms	ulcer pathology
+proton pump inhibitors	reduce	gastric acid secretion
+proton pump inhibitors	promote	ulcer healing
+H2 receptor blockers	reduce	gastric acid secretion
+antibiotics	used for	H. pylori eradication therapy
+clarithromycin	is a	antibiotic
+amoxicillin	is a	antibiotic
+metronidazole	is a	antibiotic
+tetracycline	is a	antibiotic
+bismuth subsalicylate	used in	quadruple therapy
+quadruple therapy	includes	metronidazole
+quadruple therapy	includes	tetracycline
+quadruple therapy	includes	proton pump inhibitor
+triple therapy	includes	clarithromycin
+triple therapy	includes	amoxicillin
+triple therapy	includes	proton pump inhibitor
+eradication therapy	improves	ulcer healing
+ulcer healing	associated with	symptom resolution
+gastric outlet obstruction	managed with	endoscopic dilation
+gastric outlet obstruction	managed with	surgical intervention
+anemia	improves with	ulcer healing
+iron deficiency anemia	associated with	chronic ulcer
+mortality	risk increased with	perforation
+readmission	risk increased with	gastroduodenal ulcer
+hospitalization	caused by	gastroduodenal ulcer
+smoking cessation	improves	gastroduodenal ulcer outcome
+alcohol cessation	improves	gastroduodenal ulcer outcome
+weight loss	associated with	chronic gastroduodenal ulcer
+stomach	affected by	gastroduodenal ulcer
+duodenum	affected by	gastroduodenal ulcer
+gastric mucosa	inflamed in	gastroduodenal ulcer
+duodenal mucosa	inflamed in	gastroduodenal ulcer
+mucosal healing	requires	acid suppression
+gastric acid secretion	reduced by	proton pump inhibitors
+gastric acid secretion	reduced by	H2 receptor blockers
+endoscopic surveillance	recommended for	high-risk ulcer
+biopsy	recommended for	suspected ulcer
+pathology	shows	chronic gastritis
+gastric cancer risk	increased by	chronic H. pylori infection
+H. pylori eradication	reduces	gastric cancer risk
+pyloric channel	involved in	gastroduodenal ulcer
+gastric antrum	site of	H. pylori colonization
+gastritis	coexists with	gastroduodenal ulcer
+stomach acid production	increased in	gastritis
+H. pylori reinfection	occurs in	elderly
+eradication failure	leads to	ulcer recurrence
+ulcer recurrence	occurs after	complete therapy
+antibiotic resistance	reduces	eradication rate
+urea breath test	negative after	successful eradication
+gastric mucosa	shows	inflammation
+gastric mucosa	shows	atrophy
+gastric mucosa	shows	intestinal metaplasia
+gastric mucosa	shows	dysplasia
+stool antigen test	detects	H. pylori infection
+serology	detects	past H. pylori infection
+follow-up endoscopy	recommended for	high-risk ulcers
+mispensations: misoprostol	used for	NSAID-induced ulcers
+NSAID-induced gastroduodenal ulcers	treated with	misoprostol
+PPI therapy	used for	ulcer maintenance
+ulcer maintenance therapy	reduces	recurrence
+endoscopic hemostasis	used for	bleeding ulcers
+bleeding ulcers	managed by	endoscopic hemostasis
+perforation	managed by	surgical repair
+gastric perforation	requires	emergent surgery
+duodenal perforation	requires	emergent surgery
+laparoscopic repair	used for	perforation
+high-dose proton pump inhibitors	used for	ulcer healing
+fecal occult blood test	indicates	occult blood
+occult blood	indicates	GI bleeding
+anemia	symptom	fatigue
+fatigue	improves with	iron supplementation
+iron supplementation	treats	iron deficiency anemia
+H. pylori	eradication reduces	ulcer risk
+diet modification	influences	ulcer symptoms
+coffee	not proven	worsen ulcer
+spicy foods	not proven	worsen ulcer
+adherence	impacts	eradication success

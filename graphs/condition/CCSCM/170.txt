@@ -1,0 +1,102 @@
+prolapse of female genital organs	is a	gynecologic condition
+pelvic organ prolapse	is a	form of prolapse
+uterine prolapse	is a subtype of	pelvic organ prolapse
+cystocele	is a subtype of	anterior vaginal wall prolapse
+rectocele	is a subtype of	posterior vaginal wall prolapse
+enterocele	is a subtype of	pelvic organ prolapse
+pelvic organ prolapse	presents with	vaginal bulge
+pelvic organ prolapse	presents with	pelvic pressure
+pelvic organ prolapse	presents with	urinary incontinence
+pelvic organ prolapse	presents with	fecal incontinence
+pelvic organ prolapse	presents with	dyspareunia
+pelvic organ prolapse	affects	sexual function
+pelvic organ prolapse	reduces	quality of life
+multiparity	is a risk factor for	pelvic organ prolapse
+advanced age	is a risk factor for	pelvic organ prolapse
+postmenopausal status	increases risk for	pelvic organ prolapse
+obesity	increases risk for	pelvic organ prolapse
+chronic cough	increases risk for	pelvic organ prolapse
+constipation	increases risk for	pelvic organ prolapse
+heavy lifting	increases risk for	pelvic organ prolapse
+hysterectomy	increases risk for	uterine prolapse
+hysterectomy	increases risk for	pelvic organ prolapse
+pelvic floor weakness	predisposes to	pelvic organ prolapse
+pelvic floor weakness	predisposes to	anterior vaginal wall prolapse
+pessary	is a	nonoperative management for pelvic organ prolapse
+pessary	provides	vaginal support
+pessary	delays	need for surgery
+pelvic floor physical therapy	is a	nonoperative management for pelvic organ prolapse
+pelvic floor physical therapy	strengthens	pelvic floor muscles
+pelvic floor muscle training	improves	pelvic organ prolapse symptoms
+anterior colporrhaphy	is a	surgical repair for anterior vaginal wall prolapse
+posterior colporrhaphy	is a	surgical repair for posterior vaginal wall prolapse
+sacrocolpopexy	is a	surgical repair for pelvic organ prolapse
+vaginal hysterectomy	is a	treatment option for uterine prolapse
+colposuspension	is a	surgical procedure for prolapse
+vaginal mesh repair	is a	surgical repair for pelvic organ prolapse
+recurrence	occurs after	prolapse repair
+mesh erosion	is a	complication of vaginal mesh repair
+surgical repair	carries	infection risk
+surgical repair	carries	bleeding risk
+surgical repair	carries	anesthesia risk
+surgical repair	improves	bulge symptoms
+surgical repair	improves	urinary incontinence when present
+pessary use	preserves	sexual function
+pessary use	reduces	prolapse-related symptoms
+pessary use	associated with	vaginal discharge
+urinary incontinence	improves after	prolapse repair
+fecal incontinence	may improve after	posterior vaginal wall repair
+dyspareunia	worsens with	prolapse
+sexual function	decreases with	prolapse symptoms
+urinary tract infection	risk increases with	pessary use
+ultrasound	used for	evaluation of pelvic organ prolapse
+pelvic examination	used for	diagnosis of pelvic organ prolapse
+dynamic MRI	used for	evaluation of pelvic organ prolapse
+urodynamic testing	is used for	bladder dysfunction in prolapse
+urinalysis	performed for	prolapse evaluation
+parity	correlates with	prolapse severity
+vaginal deliveries	increase risk for	pelvic organ prolapse
+straining	worsens	prolapse symptoms
+weight gain	worsens	prolapse symptoms
+recovery time	depends on	surgical approach
+laparoscopic sacrocolpopexy	has	shorter recovery
+open sacrocolpopexy	has	longer recovery
+postoperative infection	occurs after	prolapse repair
+anesthesia type	influences	recovery in prolapse surgery
+blood loss	affects	operative outcome
+length of hospital stay	correlates with	surgical approach
+surgical outcome	varies with	prolapse severity
+quality of life	improves after	prolapse treatment
+patient satisfaction	correlates with	symptom relief
+vaginal prolapse	impacts	intimate relationships
+intimate relationships	affected by	pelvic organ prolapse
+public health burden	includes	pelvic organ prolapse
+prevalence	increases with	age
+epidemiology	shows	prolapse common in older women
+conservative management	recommended for	mild prolapse
+mild prolapse	managed with	observation
+severe prolapse	requires	surgical repair
+morbidity	related to	prolapse and its treatment
+complication rate	associated with	prolapse repair
+functional outcome	relates to	prolapse severity
+patient education	improves	management of pelvic organ prolapse
+family history	associated with	pelvic organ prolapse
+genetic predisposition	contributes to	pelvic organ prolapse
+laparoscopic approach	used for	sacrocolpopexy
+open approach	used for	sacrocolpopexy
+anatomic cure	defines	prolapse repair success
+surgical approach	influences	recovery and outcome
+patient preference	influences	prolapse treatment choice
+cost of care	varies with	prolapse management
+mild pelvic organ prolapse	managed with	observation
+cost	associated with	prolapse management
+vaginal discharge	can occur with	pessary use
+vaginal irritation	can occur with	pessary use
+local estrogen therapy	used for	vaginal atrophy in prolapse patients
+vaginal atrophy	worsens	prolapse symptoms
+dysuria	present with	bladder prolapse
+urinary urgency	present with	bladder prolapse
+diabetes	increases risk of	prolapse repair complications
+smoking	delays healing after	prolapse repair
+education programs	reduce	healthcare utilization for prolapse
+mild pelvic organ prolapse	monitored with	interval checkups

@@ -1,0 +1,100 @@
+home	is place of occurrence for	fall
+home	is place of occurrence for	burn
+home	is place of occurrence for	poisoning
+home	is place of occurrence for	cut
+home	is place of occurrence for	concussion
+street	is place of occurrence for	pedestrian collision
+street	is place of occurrence for	fall
+street	is place of occurrence for	cut
+street	is place of occurrence for	fracture
+street	is place of occurrence for	crush injury
+highway	is place of occurrence for	vehicle collision
+highway	is place of occurrence for	fall
+highway	is place of occurrence for	fracture
+highway	is place of occurrence for	laceration
+highway	is place of occurrence for	concussion
+workplace	is place of occurrence for	fall
+workplace	is place of occurrence for	crush injury
+workplace	is place of occurrence for	electrical shock
+workplace	is place of occurrence for	fracture
+workplace	is place of occurrence for	cut
+school	is place of occurrence for	fall
+school	is place of occurrence for	poisoning
+school	is place of occurrence for	concussion
+school	is place of occurrence for	fracture
+school	is place of occurrence for	cut
+farm	is place of occurrence for	fall
+farm	is place of occurrence for	crush injury
+farm	is place of occurrence for	poisoning
+farm	is place of occurrence for	electrical shock
+farm	is place of occurrence for	laceration
+factory	is place of occurrence for	crush injury
+factory	is place of occurrence for	fall
+factory	is place of occurrence for	electrical shock
+factory	is place of occurrence for	fracture
+factory	is place of occurrence for	cut
+gym	is place of occurrence for	sprain
+gym	is place of occurrence for	fall
+gym	is place of occurrence for	concussion
+gym	is place of occurrence for	laceration
+gym	is place of occurrence for	fracture
+park	is place of occurrence for	fall
+park	is place of occurrence for	cut
+park	is place of occurrence for	concussion
+park	is place of occurrence for	sprain
+park	is place of occurrence for	poisoning
+sports facility	is place of occurrence for	sprain
+sports facility	is place of occurrence for	fracture
+sports facility	is place of occurrence for	concussion
+sports facility	is place of occurrence for	laceration
+sports facility	is place of occurrence for	burn
+hospital	is place of occurrence for	fall
+hospital	is place of occurrence for	cut
+hospital	is place of occurrence for	fracture
+hospital	is place of occurrence for	concussion
+hospital	is place of occurrence for	burn
+clinic	is place of occurrence for	fall
+clinic	is place of occurrence for	poisoning
+clinic	is place of occurrence for	cut
+clinic	is place of occurrence for	concussion
+clinic	is place of occurrence for	fracture
+construction site	is place of occurrence for	fall
+construction site	is place of occurrence for	crush injury
+construction site	is place of occurrence for	laceration
+construction site	is place of occurrence for	electrical shock
+construction site	is place of occurrence for	fracture
+kitchen	is place of occurrence for	burn
+kitchen	is place of occurrence for	poisoning
+kitchen	is place of occurrence for	cut
+kitchen	is place of occurrence for	fall
+kitchen	is place of occurrence for	concussion
+bathroom	is place of occurrence for	fall
+bathroom	is place of occurrence for	burn
+bathroom	is place of occurrence for	cut
+bathroom	is place of occurrence for	poisoning
+bathroom	is place of occurrence for	electrical shock
+stairs	is place of occurrence for	fall
+stairs	is place of occurrence for	fracture
+stairs	is place of occurrence for	sprain
+stairs	is place of occurrence for	cut
+stairs	is place of occurrence for	concussion
+parking lot	is place of occurrence for	vehicle collision
+parking lot	is place of occurrence for	fall
+parking lot	is place of occurrence for	fracture
+parking lot	is place of occurrence for	contusion
+parking lot	is place of occurrence for	laceration
+shopping mall	is place of occurrence for	fall
+shopping mall	is place of occurrence for	cut
+shopping mall	is place of occurrence for	poisoning
+shopping mall	is place of occurrence for	crush injury
+shopping mall	is place of occurrence for	fracture
+theater	is place of occurrence for	fall
+theater	is place of occurrence for	burn
+theater	is place of occurrence for	concussion
+theater	is place of occurrence for	cut
+theater	is place of occurrence for	crush injury
+stadium	is place of occurrence for	fall
+stadium	is place of occurrence for	sprain
+stadium	is place of occurrence for	laceration
+stadium	is place of occurrence for	concussion
+stadium	is place of occurrence for	fracture

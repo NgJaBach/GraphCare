@@ -1,0 +1,160 @@
+anal fissure	is a	condition
+hemorrhoids	is a	disease
+rectal prolapse	is a	condition
+anal fistula	is a	condition
+rectal cancer	is a	cancer
+anal cancer	is a	cancer
+rectocele	is a	condition
+rectal stenosis	is a	condition
+perianal abscess	is a	infection
+anorectal abscess	is a	infection
+pilonidal sinus	is a	condition
+condyloma acuminata	is a	lesion
+rectal polyp	is a	lesion
+anal polyp	is a	lesion
+fistula-in-ano	is a	lesion
+pruritus ani	is a	symptom
+rectal bleeding	is a	symptom
+fecal incontinence	is a	condition
+constipation	is a	condition
+diarrhea	is a	symptom
+painful defecation	is a	symptom
+tenesmus	is a	symptom
+mucus discharge	is a	symptom
+anal swelling	is a	symptom
+perianal dermatitis	is a	skin condition
+HPV infection	is a	infection
+Crohn's disease	is a	inflammatory disease
+ulcerative colitis	is a	inflammatory disease
+rectal ulcer	is a	lesion
+anal ulcer	is a	lesion
+anal warts	is a	lesion
+hemorrhoidal disease	is a	condition
+anal canal	is a	structure
+rectum	is a	structure
+anal sphincter	is a	muscle
+perianal skin	is a	tissue
+pelvic floor	is a	structure
+seton	is a	device
+fistulotomy	is a	procedure
+fistulectomy	is a	procedure
+hemorrhoidectomy	is a	procedure
+sphincterotomy	is a	procedure
+lateral internal sphincterotomy	is a	procedure
+fissurectomy	is a	procedure
+anoplasty	is a	procedure
+abscess drainage	is a	procedure
+antibiotics	are a	therapy
+fiber supplementation	is a	therapy
+topical corticosteroids	are a	therapy
+topical nitroglycerin	is a	therapy
+botulinum toxin	is a	therapy
+colonoscopy	is a	procedure
+anoscopy	is a	procedure
+sigmoidoscopy	is a	procedure
+biopsy	is a	procedure
+fecal occult blood test	is a	test
+colorectal cancer screening	is a	program
+MRI pelvis	is a	imaging test
+CT scan	is a	imaging test
+ultrasound	is a	imaging test
+hemorrhoids	is a	anal condition
+anal fissure	is a	anal condition
+anal fistula	is a	anal condition
+anorectal abscess	is a	anal condition
+anal cancer	is a	cancer
+rectal cancer	is a	cancer
+rectal prolapse	is a	rectal condition
+anal stenosis	is a	anal condition
+pruritus ani	is a	symptom
+anal warts	is a	skin lesion
+condyloma acuminata	is a	lesion
+rectal polyps	is a	rectal lesion
+rectal ulcers	is a	rectal lesion
+rectal bleeding	is a	symptom
+fecal incontinence	is a	bowel dysfunction
+constipation	is a	bowel disorder
+diarrhea	is a	bowel disorder
+anal canal	is part of	anorectal region
+anorectal region	contains	anal canal
+perianal skin	is a	tissue
+digital rectal exam	is a	diagnostic test
+anoscopy	is a	diagnostic procedure
+colonoscopy	is a	diagnostic procedure
+MRI pelvis	is a	diagnostic imaging modality
+rectal biopsy	is a	diagnostic test
+biopsy	is a	diagnostic test
+fistulotomy	is a	surgical procedure
+hemorrhoidectomy	is a	surgical procedure
+rubber-band ligation	is a	hemorrhoidal treatment
+sclerotherapy	is a	hemorrhoidal treatment
+topical nitroglycerin	is a	medication
+calcium channel blocker	is a	medication class
+nifedipine	is a	medication
+lidocaine	is a	medication
+hydrocortisone	is a	medication
+metronidazole	is a	antibiotic
+ciprofloxacin	is a	antibiotic
+botulinum toxin	is a	medication
+sitz bath	is a	topical therapy
+stool softeners	are a	medication
+high-fiber diet	is a	dietary modification
+pregnancy predisposes to	hemorrhoids
+straining causes	hemorrhoids
+pregnancy associated with	anal fissure
+smoking associated with	anal cancer
+HPV infection associated with	anal cancer
+radiation therapy is a	treatment for	anal cancer
+chemotherapy is a	treatment for	anal cancer
+anal cancer metastasizes to	liver
+rectal cancer metastasizes to	liver
+rectal cancer has	poor prognosis
+anal fistula associated with	Crohn's disease
+seton placement is a	fistula treatment
+fistula-in-ano is a	anal fistula
+perianal abscess leads to	anal fistula
+internal hemorrhoids treated with	rubber-band ligation
+external hemorrhoids treated with	topical therapy
+anal fissure treated with	topical nitroglycerin
+anal fissure treated with	calcium channel blocker
+anal fissure treated with	botulinum toxin
+fecal incontinence caused by	sphincter dysfunction
+sphincter dysfunction leads to	fecal incontinence
+rectal prolapse causes	fecal incontinence
+perianal abscess requires	incision and drainage
+digital rectal exam detects	hemorrhoids
+digital rectal exam detects	anal fissure
+colonoscopy detects	rectal polyps
+colonoscopy detects	rectal cancer
+MRI pelvis assesses	sphincter integrity
+rectal polyps require	surveillance colonoscopy
+condyloma acuminata associated with	HPV infection
+anal canal mucosa is	epithelium
+rectum lies within	anorectal region
+anal cancer screened by	colonoscopy
+fecal incontinence managed with	pelvic floor therapy
+pelvic floor therapy is a	nonoperative management
+anorectal abscess treated with	incision and drainage
+anorectal abscess can cause	fistula
+anal fissure risk for	chronicity
+constipation increases risk for	hemorrhoids
+constipation increases risk for	anal fissure
+diarrhea predisposes to	dermatitis around anus
+anal cancer presents with	anal bleeding
+rectal cancer presents with	rectal bleeding
+rectal cancer presents with	weight loss
+anal fissure presents with	anal pain
+hemorrhoids presents with	rectal bleeding
+rectal prolapse presents with	protrusion through anus
+pruritus ani presents with	itching
+perianal abscess presents with	perianal pain
+anorectal abscess presents with	fever
+anal fistula presents with	intermittent drainage
+fistula-in-ano presents with	drainage
+condyloma acuminata presents with	genital warts
+rectal polyps monitored with	colonoscopy
+hemorrhoidal cushions are located at	anal canal
+anal canal contains	hemorrhoidal cushions
+anal canal lined by	mucosa
+anal cancer detected by	histopathology
+rectal cancer histopathology confirms	diagnosis

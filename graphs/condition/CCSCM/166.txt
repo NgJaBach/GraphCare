@@ -1,0 +1,41 @@
+ENTITY	RELATIONSHIP	ENTITY
+hypospadias	is a	congenital malformation
+hypospadias	associated with	chordee
+epispadias	is a	congenital malformation
+epispadias	associated with	urinary incontinence
+phimosis	is a	foreskin constriction
+paraphimosis	is a	penile emergency
+balanitis	is a	penile infection
+balanoposthitis	is a	penile infection
+urethral stricture	is a	urethral narrowing
+urethral stricture	may cause	urinary retention
+urethral diverticulum	is a	urethral outpouching
+penile cancer	is a	malignant tumor
+penile cancer	associated with	human papillomavirus
+Peyronie's disease	is a	fibrotic disorder
+Peyronie's disease	associated with	penile plaque
+priapism	is a	medical emergency
+erectile dysfunction	is a	sexual dysfunction
+erectile dysfunction	associated with	diabetes mellitus
+cryptorchidism	is a	congenital condition
+cryptorchidism	is a risk factor for	testicular cancer
+cryptorchidism	associated with	infertility
+testicular torsion	is a	surgical emergency
+testicular torsion	requires	detorsion surgery
+testicular cancer	is a	malignant tumor
+testicular cancer	metastasizes to	lymph nodes
+orchitis	is a	testicular inflammation
+epididymitis	is a	epididymal inflammation
+varicocele	is a	scrotal venous dilation
+varicocele	associated with	infertility
+hydrocele	is a	scrotal swelling
+spermatocele	is a	epididymal cyst
+meatal stenosis	is a	urethral narrowing
+penile fracture	is a	penile injury
+penile fracture	requires	surgical repair
+penile abscess	is a	penile infection
+penile ulcer	is a	penile lesion
+penile lichen sclerosus	is a	inflammatory disease
+balanitis xerotica obliterans	is a	inflammatory disease
+urethral fistula	is a	abnormal connection
+paraphimosis	may cause	penile necrosis

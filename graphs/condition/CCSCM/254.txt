@@ -1,0 +1,127 @@
+rehabilitation care	includes	gait training
+rehabilitation care	includes	balance training
+rehabilitation care	includes	strength training
+rehabilitation care	includes	functional assessment
+rehabilitation care	improves	mobility
+rehabilitation care	reduces	fall risk
+prosthesis	requires	fitting
+prosthesis	requires	alignment
+prosthesis	used for	ambulation
+prosthesis	associated with	skin breakdown
+socket	provides	comfort
+socket	requires	liner
+liner	provides	cushioning
+cushioning	reduces	pressure points
+alignment	affects	gait
+alignment	reduces	knee strain
+adjustment	causes	numbness
+adjustment	improves	fit
+fitting	determines	comfort
+fitting	influences	wear time
+fitting	predicts	satisfaction
+prosthesis fit	correlates	durability
+prosthesis fit	predicts	abandonment risk
+below-knee prosthesis	improves	balance
+below-knee prosthesis	reduces	energy expenditure
+above-knee prosthesis	increases	hip load
+knee disarticulation prosthesis	affects	gait symmetry
+transfemoral prosthesis	affects	gait
+myoelectric prosthesis	requires	battery charging
+body-powered prosthesis	provides	durable control
+prosthetic sleeve	improves	socket seal
+socket seal	reduces	air ingress
+liner	reduces	skin irritation
+liner	requires	replacement schedule
+residual limb	changes	circumference
+residual limb	influences	prosthesis fit
+edema	affects	prosthesis fit
+pain	predicts	rehab adherence
+phantom pain	reduces	therapy participation
+infection	increases	wound healing time
+pressure ulcer	risks	prosthesis wear
+skin irritation	causes	device removal
+device removal	delays	rehabilitation milestones
+orthosis	enhances	joint stability
+orthosis	requires	periodic adjustment
+brace	stabilizes	knee
+brace	enables	early mobilization
+ankle-foot orthosis	improves	gait pattern
+ankle-foot orthosis	reduces	plantar flexion contracture
+therapeutic device	requires	electrical inspection
+adjustment	prevents	device malfunction
+device calibration	ensures	accuracy
+sensor	monitors	activity level
+activity level	correlates	mobility outcome
+wearable device	tracks	rehabilitation progress
+prosthesis wear time	predicts	durability
+wear time	relates to	skin condition
+skin condition	affects	continued device use
+follow-up	determines	rehabilitation plan
+rehabilitation plan	guides	therapy type
+therapy type	influences	outcome
+outcome	predicts	discharge readiness
+discharge readiness	affects	readmission risk
+readmission risk	increases	post-discharge complications
+prosthesis acceptance	predicts	long-term use
+prosthesis acceptance	affects	satisfaction
+satisfaction	correlates	wear time
+wear time	reduces	abandonment risk
+abandonment risk	increases	device replacement
+device replacement	occurs	end-of-life
+socket fitting	schedules	adjustment visits
+adjustment visit	triggers	skin assessment
+skin assessment	informs	socket size
+socket size	affects	comfort
+comfort	improves	adherence
+adherence	predicts	rehabilitation outcome
+rehabilitation outcome	leads to	independence
+independence	improves	quality of life
+quality of life	correlates with	patient satisfaction
+patient satisfaction	predicts	continued use
+continuous use	ensures	mobility maintenance
+mobility maintenance	reduces	disability progression
+device failure	prompts	medical evaluation
+medical evaluation	results in	device replacement
+device replacement	improves	safety
+safety	improves	independence
+independence	reduces	caregiver burden
+caregiver burden	increases	hospital visits
+rehabilitation program	reduces	readmission
+prosthesis issues	increase	readmission risk
+fitting test	ensures	prosthesis comfort
+prosthesis comfort	improves	gait efficiency
+gait efficiency	predicts	user satisfaction
+energy expenditure	decreases	with proper alignment
+proper alignment	reduces	pain
+pain	predicts	therapy dropout
+therapy dropout	leads to	prolonged rehabilitation
+prosthesis fabrication	takes	time
+prosthesis fabrication	depends on	stump measurement
+stump measurement	determines	socket size
+socket size	affects	comfort
+comfort	improves	adherence
+adherence	predicts	rehabilitation outcome
+rehabilitation outcome	leads to	independence
+independence	improves	quality of life
+quality of life	correlates with	patient satisfaction
+patient satisfaction	predicts	continued use
+continuous use	ensures	mobility maintenance
+mobility maintenance	reduces	disability progression
+device failure	prompts	medical evaluation
+medical evaluation	results in	device replacement
+device replacement	improves	safety
+safety	improves	independence
+independence	reduces	caregiver burden
+caregiver burden	increases	hospital visits
+rehabilitation program	reduces	readmission
+prosthesis issues	increase	readmission risk
+fitting test	ensures	prosthesis comfort
+prosthesis comfort	improves	gait efficiency
+gait efficiency	predicts	user satisfaction
+energy expenditure	decreases	with proper alignment
+proper alignment	reduces	pain
+pain	reduces	activity engagement
+activity engagement	improves	rehabilitation progress
+prosthesis quality	influences	durability
+durability	affects	replacement timing
+replacement timing	guides	budget planning

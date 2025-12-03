@@ -1,0 +1,100 @@
+fall	causes	fracture
+fall	causes	dislocation
+fall	causes	concussion
+fall	causes	contusion
+fall	causes	sprain
+fall	causes	laceration
+fall	causes	abrasion
+fall	causes	skull fracture
+fall	causes	rib fracture
+fall	causes	intracranial hemorrhage
+blunt force trauma	causes	fracture
+blunt force trauma	causes	contusion
+blunt force trauma	causes	laceration
+blunt force trauma	causes	hemorrhage
+blunt force trauma	causes	concussion
+blunt force trauma	causes	soft tissue injury
+blunt force trauma	causes	ligament injury
+blunt force trauma	causes	dislocation
+motor vehicle collision	causes	fracture
+motor vehicle collision	causes	traumatic brain injury
+motor vehicle collision	causes	spinal injury
+motor vehicle collision	causes	rib fracture
+motor vehicle collision	causes	chest trauma
+motor vehicle collision	causes	internal injury
+motor vehicle collision	causes	hemorrhage
+motor vehicle collision	requires	surgery
+motor vehicle collision	leads to	ICU admission
+penetrating wound	causes	laceration
+penetrating wound	causes	hemorrhage
+penetrating wound	causes	infection
+gunshot wound	causes	hemorrhage
+gunshot wound	causes	infection
+gunshot wound	requires	amputation
+stab wound	causes	bleeding
+stab wound	causes	vascular injury
+crush injury	causes	limb amputation
+crush injury	causes	soft tissue injury
+burn	causes	tissue damage
+burn	causes	scar
+thermal burn	causes	scar
+thermal burn	causes	infection
+chemical burn	causes	tissue necrosis
+electrical burn	causes	cardiac arrest
+electrical burn	causes	arrhythmia
+electrical injury	causes	nerve damage
+electrical injury	causes	tissue necrosis
+smoke inhalation	causes	inhalation injury
+smoke inhalation	causes	hypoxia
+smoke inhalation	causes	pulmonary edema
+drowning	causes	hypoxic brain injury
+drowning	causes	asphyxia
+drowning	causes	pneumonia
+asphyxia	causes	hypoxic injury
+poisoning	causes	organ injury
+poisoning	causes	death
+carbon monoxide poisoning	causes	hypoxia
+cyanide poisoning	causes	metabolic acidosis
+drug overdose	causes	respiratory failure
+drug overdose	causes	coma
+drug overdose	causes	death
+pesticide exposure	causes	cholinergic toxicity
+cold exposure	causes	frostbite
+cold exposure	causes	hypothermia
+heat exposure	causes	heat stroke
+heat exposure	causes	dehydration
+sun exposure	causes	sunburn
+lightning strike	causes	burns
+explosion	causes	traumatic brain injury
+explosion	causes	fracture
+blast injury	causes	concussion
+animal bite	causes	wound infection
+dog bite	causes	infection
+human bite	causes	infection
+animal bite	causes	tetanus
+electrical shock	causes	cardiac arrest
+industrial accident	causes	fracture
+workplace accident	causes	trauma
+sports injury	causes	sprain
+cycling accident	causes	fracture
+auto crash	causes	contusion
+pedestrian collision	causes	fracture
+train collision	causes	blunt trauma
+assault	causes	laceration
+assault	causes	contusion
+assault	causes	fracture
+penetrating weapon	causes	wound infection
+crush syndrome	causes	renal failure
+crush syndrome	causes	electrolyte imbalance
+frostbite	causes	tissue necrosis
+external force	causes	ligament injury
+external force	causes	nerve damage
+external force	causes	vascular injury
+external force	leads to	surgery
+chemical exposure	causes	organ injury
+chemical exposure	causes	death
+radiation exposure	causes	cancer
+radiation exposure	causes	skin burns
+knife wound	causes	infection
+knife wound	causes	bleeding
+knife wound	requires	debridement

@@ -1,0 +1,199 @@
+intestinal infection	is a	condition
+intestinal infection	caused by	bacterial pathogen
+intestinal infection	caused by	viral agent
+intestinal infection	caused by	parasite
+norovirus	causes	diarrhea
+rotavirus	causes	gastroenteritis
+Campylobacter jejuni	causes	gastroenteritis
+Salmonella enterica	causes	gastroenteritis
+Shigella	causes	dysentery
+Escherichia coli	causes	gastroenteritis
+Giardia lamblia	causes	giardiasis
+Entamoeba histolytica	causes	amebic dysentery
+Cryptosporidium parvum	causes	watery diarrhea
+intestinal infection	leads to	dehydration
+intestinal infection	leads to	electrolyte imbalance
+diarrhea	is a symptom of	intestinal infection
+fever	is a symptom of	intestinal infection
+abdominal pain	is a symptom of	intestinal infection
+nausea	is a symptom of	intestinal infection
+vomiting	is a symptom of	intestinal infection
+blood in stool	is a sign of	intestinal infection
+stool culture	detects	bacterial pathogen
+stool culture	detects	Salmonella enterica
+stool culture	detects	Shigella
+stool culture	detects	Campylobacter jejuni
+stool culture	detects	Escherichia coli
+stool culture	used for	diagnosis of intestinal infection
+PCR testing	is used for	diagnosis of intestinal infection
+PCR panel	detects	enteric pathogens
+stool antigen test	detects	Giardia lamblia
+stool antigen test	detects	Cryptosporidium parvum
+fecal-oral transmission	is a route for	intestinal infection
+contaminated food	transmits through	intestinal infection
+contaminated water	transmits through	intestinal infection
+norovirus	transmitted by	contaminated food
+norovirus	transmitted by	person-to-person contact
+antibiotics	are used for	bacterial intestinal infection
+oral rehydration solution	is used for	dehydration due to intestinal infection
+intravenous fluids	are used for	severe dehydration due to intestinal infection
+rehydration therapy	is used for	dehydration due to intestinal infection
+antibiotic therapy	is used for	bacterial intestinal infection
+antibiotic resistance	is a concern in	intestinal infection pathogens
+sanitation	reduces	incidence of intestinal infection
+hand hygiene	reduces	fecal-oral transmission
+hand washing	reduces	fecal-oral transmission
+rotavirus vaccine	prevents	rotavirus gastroenteritis
+improved sanitation	reduces	incidence of intestinal infection
+cryptosporidiosis	is caused by	Cryptosporidium parvum
+amebic dysentery	is caused by	Entamoeba histolytica
+giardiasis	is caused by	Giardia lamblia
+campylobacteriosis	is caused by	Campylobacter jejuni
+salmonellosis	is caused by	Salmonella enterica
+shigellosis	is caused by	Shigella species
+gastroenteritis	is a form of	intestinal infection
+bacterial enteritis	is a type of	intestinal infection
+viral gastroenteritis	is a type of	intestinal infection
+parasitic enteritis	is a type of	intestinal infection
+diarrheal illness	is a form of	intestinal infection
+gastrointestinal tract	is affected by	intestinal infection
+stool sample	collected for	diagnosis of intestinal infection
+fecal occult blood test	detects	blood in stool
+PCR testing	detects	enteric pathogens
+enteric pathogens	include	Salmonella enterica
+enteric pathogens	include	Giardia lamblia
+norovirus outbreak	occurs in	community settings
+cryptosporidium parvum	resists	chlorine disinfection
+antimicrobial stewardship	reduces	antibiotic resistance in intestinal pathogens
+gut microbiota	disrupted by	intestinal infection
+probiotics	adjunct to	therapy for intestinal infection
+recovery time	depends on	pathogen
+age	is risk factor for	dehydration in intestinal infection
+elderly	are at higher risk for	severe dehydration from intestinal infection
+immunocompromised individuals	at higher risk for	severe intestinal infection
+outpatient management	suitable for	mild intestinal infection
+hospitalization	required for	severe intestinal infection
+severe diarrhea	indicates	dehydration
+blood in stool	indicates	invasive intestinal infection
+renal impairment	can result from	dehydration due to intestinal infection
+electrolyte imbalance	necessitates	IV fluids
+rapid antigen test	provides	rapid detection of enteric pathogens
+outbreak	investigated by	public health authorities
+outpatient management	adequate for	mild intestinal infection
+intravenous rehydration	used for	severe dehydration due to intestinal infection
+self-limited infection	resolves with	supportive care
+supportive care	includes	oral rehydration
+oral rehydration therapy	includes	electrolyte replacement
+electrolyte replacement	reduces	risk of electrolyte imbalance
+intravenous fluids	restore	circulating volume
+fecal-oral hygiene	reduces	transmission of intestinal infection
+gastroenteritis due to rotavirus	resolves with	supportive care
+gastroenteritis due to norovirus	resolves with	supportive care
+asymptomatic carriage	contributes to	transmission of intestinal infection
+recurrent infection	suggests	underlying immune deficiency
+empiric therapy	chosen for	suspected bacterial intestinal infection
+targeted therapy	chosen for	identified pathogen
+antibiograms	guide	antibiotic selection for intestinal infection
+travel history	informs	differential diagnosis of intestinal infection
+seasonality	influences	incidence of viral intestinal infections
+supportive care alone	adequate for	mild intestinal infection
+intestinal infection	causes	diarrhea
+intestinal infection	causes	abdominal pain
+intestinal infection	causes	fever
+intestinal infection	causes	vomiting
+intestinal infection	causes	dehydration
+intestinal infection	causes	electrolyte imbalance
+intestinal infection	causes	weight loss
+intestinal infection	transmission	fecal-oral route
+intestinal infection	diagnosed by	stool culture
+intestinal infection	diagnosed by	PCR panel
+stool culture	detects	bacterial pathogen
+PCR panel	detects	enteric pathogen
+enteric pathogen	include	Salmonella
+enteric pathogen	include	Campylobacter
+enteric pathogen	include	Shigella
+enteric pathogen	include	Escherichia coli
+enteric pathogen	include	Norovirus
+enteric pathogen	include	Giardia lamblia
+enteric pathogen	include	Cryptosporidium
+Salmonella	causes	gastroenteritis
+Campylobacter	causes	enteritis
+Shigella	causes	bacillary dysentery
+Escherichia coli	causes	enteritis
+Norovirus	causes	gastroenteritis
+Giardia lamblia	causes	giardiasis
+Cryptosporidium	causes	cryptosporidiosis
+Rotavirus	causes	gastroenteritis
+Clostridioides difficile	causes	pseudomembranous colitis
+Antibiotics	increase	risk of intestinal infection
+Antibiotic exposure	increases	risk of intestinal infection
+Immunosuppression	increases	risk of intestinal infection
+Travel	increases	risk of intestinal infection
+Poor sanitation	increases	risk of intestinal infection
+Contaminated food	causes	intestinal infection
+Contaminated water	causes	intestinal infection
+Foodborne outbreak	involves	intestinal infection
+Diarrhea	is symptom of	intestinal infection
+Fever	is symptom of	intestinal infection
+Nausea	is symptom of	intestinal infection
+Abdominal pain	is symptom of	intestinal infection
+Dehydration	complication of	intestinal infection
+Electrolyte disturbance	complication of	intestinal infection
+Weight loss	complication of	intestinal infection
+Malnutrition	associated with	intestinal infection
+Sepsis	complication of	intestinal infection
+Hospitalization	required for	severe intestinal infection
+Mortality	risk of	intestinal infection
+Readmission	associated with	intestinal infection
+Oral rehydration solution	treats	dehydration
+IV fluids	treats	dehydration
+Rehydration therapy	prevents	dehydration
+Oral antibiotics	not recommended for	viral gastroenteritis
+Antibiotics	used for	bacterial enteritis
+Metronidazole	treats	Giardiasis
+Nitazoxanide	treats	Cryptosporidiosis
+Azithromycin	treats	severe bacterial enteritis
+Ciprofloxacin	treats	uncomplicated bacterial enteritis
+Rifaximin	used for	traveler's diarrhea
+Loperamide	reduces	diarrhea
+Oral rehydration solution	provides	fluids
+Zinc supplement	reduces	diarrhea duration
+Vaccination	prevents	rotavirus infection
+Rotavirus vaccine	prevents	rotavirus infection
+Norovirus outbreak	affects	healthcare facilities
+Season	influences	intestinal infection incidence
+Seasonality	influences	intestinal infection incidence
+Pediatric population	has higher risk of	dehydration
+Elderly population	has higher risk of	severe infection
+Immunocompromised population	has higher risk of	invasive infection
+Stool analysis	used for	diagnosing infection
+Fecal sample	collected for	diagnosis of infection
+Stool PCR	detects	enteric pathogens
+Stool antigen test	detects	Giardia lamblia
+Stool PCR	detects	Norovirus
+Stool PCR	detects	Rotavirus
+Stool PCR	detects	Salmonella
+Stool culture	detects	Salmonella
+Infection control	reduces	outbreak size
+Hand washing	prevents	fecal-oral transmission
+Surface disinfection	prevents	transmission of infection
+Food handling	reduces	contamination
+Water safety	reduces	incidence of infection
+Hygiene practices	reduces	transmission of infection
+Improved sanitation	reduces	incidence of infection
+Pediatric education	improves	management of diarrhea
+Hospital stay length	correlates with	infection severity
+Antimicrobial resistance	complicates	treatment of infection
+Severe dehydration	requires	IV fluids
+Intravenous fluids	corrects	dehydration
+Pediatric cases	characterized by	higher rate of dehydration
+Elderly cases	associated with	higher mortality
+Improper food storage	increases	contamination risk
+Outpatient management	appropriate for	mild infection
+Inpatient management	appropriate for	severe infection
+Antimicrobial stewardship	improves	outcomes of infection
+Blood culture	performed for	bacteremia
+Severe diarrhea	requires	fluid resuscitation
+Recovery time	varies by	patient age
+Nutrition status	affects	infection severity
+Immunization programs	influence	population health

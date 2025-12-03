@@ -1,0 +1,100 @@
+balanitis	is caused by	candida albicans
+balanitis	is caused by	bacteria
+balanitis	risk factor for	diabetes mellitus
+balanitis	risk factor for	poor hygiene
+balanitis	treated with	antifungals
+balanitis	treated with	antibiotics
+balanitis	diagnosed by	clinical examination
+balanitis	diagnosed by	culture
+balanitis	may progress to	balanoposthitis
+balanitis	has symptom	itching
+balanitis	has symptom	redness
+balanoposthitis	is caused by	candida albicans
+balanoposthitis	is caused by	bacteria
+balanoposthitis	risk factor for	uncircumcised status
+balanoposthitis	treated with	antifungals
+balanoposthitis	treated with	antibiotics
+balanoposthitis	diagnosed by	clinical examination
+balanoposthitis	diagnosed by	culture
+balanoposthitis	associated with	poor hygiene
+epididymitis	is caused by	neisseria gonorrhoeae
+epididymitis	is caused by	chlamydia trachomatis
+epididymitis	is caused by	escherichia coli
+epididymitis	risk factor for	urinary tract infection
+epididymitis	risk factor for	catheterization
+epididymitis	treated with	antibiotics
+epididymitis	diagnosed by	scrotal ultrasound
+epididymitis	diagnosed by	urinalysis
+epididymitis	has symptom	scrotal pain
+epididymitis	has symptom	scrotal swelling
+epididymitis	complication for	infertility
+orchitis	is caused by	mumps virus
+orchitis	is caused by	bacterial infection
+orchitis	risk factor for	infertility
+orchitis	treated with	analgesics
+orchitis	treated with	antibiotics
+orchitis	diagnosed by	scrotal ultrasound
+orchitis	has symptom	scrotal swelling
+orchitis	has symptom	testicular pain
+orchitis	may cause	testicular atrophy
+prostatitis	is caused by	bacteria such as escherichia coli
+prostatitis	is associated with	pelvic pain
+prostatitis	risk factor for	urinary retention
+prostatitis	treated with	antibiotics
+prostatitis	diagnosed by	digital rectal examination
+urethritis	is caused by	neisseria gonorrhoeae
+urethritis	is caused by	chlamydia trachomatis
+urethritis	has symptom	urethral discharge
+urethritis	treated with	antibiotics
+urethritis	diagnosed by	urethral swab
+urethritis	associated with	sexually transmitted infection
+posthitis	is associated with	balanitis
+posthitis	treated with	antifungals
+posthitis	treated with	antibiotics
+posthitis	diagnosed by	clinical examination
+penile abscess	is a complication of	balanitis
+penile abscess	treated with	drainage
+penile abscess	associated with	diabetes mellitus
+penile abscess	associated with	immunosuppression
+penile abscess	treated with	antibiotics
+penile abscess	requires	surgical drainage
+lichen sclerosus	is associated with	genital inflammation
+lichen sclerosus	treated with	topical corticosteroids
+lichen sclerosus	diagnosed by	biopsy
+lichen sclerosus	may cause	scarring of glans
+diabetes mellitus	increases risk for	balanitis
+diabetes mellitus	increases risk for	balanoposthitis
+diabetes mellitus	increases risk for	epididymitis
+immunosuppression	increases risk for	infections of genitalia
+uncircumcised status	increases risk for	balanitis
+uncircumcised status	increases risk for	balanoposthitis
+unprotected intercourse	increases risk for	urethritis
+unprotected intercourse	increases risk for	epididymitis
+unprotected intercourse	increases risk for	prostatitis
+mumps infection	causes	orchitis
+neisseria gonorrhoeae	causes	urethritis
+chlamydia trachomatis	causes	urethritis
+chlamydia trachomatis	causes	epididymitis
+neisseria gonorrhoeae	causes	epididymitis
+escherichia coli	causes	prostatitis
+escherichia coli	causes	epididymitis
+candida albicans	colonizes	balanitis
+candida albicans	colonizes	balanoposthitis
+diabetes mellitus	worsens prognosis of	balanitis
+urinary retention	results from	prostatitis
+testicular pain	is symptom of	epididymitis
+testicular pain	is symptom of	orchitis
+dysuria	is symptom of	urethritis
+dysuria	is symptom of	prostatitis
+fever	is symptom of	epididymitis
+scrotal swelling	is symptom of	epididymitis
+penile redness	is symptom of	balanitis
+penile redness	is symptom of	balanoposthitis
+urethral discharge	is symptom of	urethritis
+urethral discharge	is symptom of	prostatitis
+scrotal tenderness	is symptom of	epididymitis
+scrotal tenderness	is symptom of	orchitis
+pelvic pain	is associated with	prostatitis
+pelvic pain	is associated with	epididymitis
+urinalysis	used in	diagnosis of balanitis
+culture	used in	diagnosis of balanitis

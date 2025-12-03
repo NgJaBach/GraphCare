@@ -1,0 +1,30 @@
+external_cause_code	is a	external_cause_class
+external_cause_class	includes	struck_by_mechanism
+external_cause_class	includes	struck_against_mechanism
+struck_by_mechanism	is a	mechanical_force_mechanism
+struck_by_mechanism	causes	traumatic_injury
+traumatic_injury	results in	contusion
+contusion	is a	soft_tissue_injury
+soft_tissue_injury	requires	analgesia
+analgesia	is a	pharmacologic_therapy
+fracture	is a	traumatic_injury
+fracture	leads to	orthopedic_consultation
+blunt_force_mechanism	is a	mechanical_force_mechanism
+blunt_force_mechanism	causes	fracture
+penetrating_mechanism	is a	mechanical_force_mechanism
+penetrating_mechanism	causes	infection
+infection	is a	complication
+head_trauma	is a	traumatic_injury
+head_trauma	associates_with	intracranial_injury
+intracranial_injury	is a	head_injury
+emergency_care	is provided at	emergency_department
+emergency_department	is a	hospital_unit
+hospital_admission	follows	emergency_care
+hospital_admission	increases	length_of_stay
+length_of_stay	is a	hospital_metric
+icu_admission	occurs in	hospital_unit
+icu_admission	increases	resource_utilization
+resource_utilization	is a	hospital_metric
+mortality	is a	patient_outcome
+readmission	is a	patient_outcome
+readmission	predicts	future_resource_use

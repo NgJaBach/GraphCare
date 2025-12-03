@@ -1,0 +1,100 @@
+other inflammatory condition of skin	is a form of	dermatitis
+other inflammatory condition of skin	may present with	pruritus
+other inflammatory condition of skin	presents with	rash
+other inflammatory condition of skin	presents with	erythema
+other inflammatory condition of skin	presents with	edema
+other inflammatory condition of skin	is associated with	atopy
+other inflammatory condition of skin	associated with	asthma
+other inflammatory condition of skin	associated with	allergic rhinitis
+other inflammatory condition of skin	associated with	contact dermatitis
+other inflammatory condition of skin	treated with	topical corticosteroids
+other inflammatory condition of skin	treated with	calcineurin inhibitors
+other inflammatory condition of skin	treated with	moisturizers
+other inflammatory condition of skin	managed with	emollients
+other inflammatory condition of skin	worsened by	irritants
+other inflammatory condition of skin	worsened by	allergens
+other inflammatory condition of skin	treated with	phototherapy
+other inflammatory condition of skin	managed with	barrier repair therapy
+other inflammatory condition of skin	diagnosed by	clinical examination
+other inflammatory condition of skin	diagnosed by	skin biopsy
+other inflammatory condition of skin	shows	spongiosis
+other inflammatory condition of skin	shows	acanthosis
+other inflammatory condition of skin	associated with	Staphylococcus aureus colonization
+other inflammatory condition of skin	associated with	itch-scratch cycle
+other inflammatory condition of skin	increases risk of	skin infections
+other inflammatory condition of skin	predisposes to	lichenification
+other inflammatory condition of skin	may progress to	lichen simplex chronicus
+other inflammatory condition of skin	more common in	children
+other inflammatory condition of skin	more common in	adults
+other inflammatory condition of skin	reduces	sleep quality
+other inflammatory condition of skin	affects	quality of life
+other inflammatory condition of skin	associated with	autoimmune disease
+other inflammatory condition of skin	associated with	obesity
+other inflammatory condition of skin	associated with	metabolic syndrome
+other inflammatory condition of skin	associated with	depression
+other inflammatory condition of skin	associated with	anxiety
+other inflammatory condition of skin	monitored by	clinical scoring systems
+other inflammatory condition of skin	tested with	patch testing
+other inflammatory condition of skin	correlated with	IgE elevation
+other inflammatory condition of skin	correlated with	eosinophilia
+other inflammatory condition of skin	associated with	hyperkeratosis
+other inflammatory condition of skin	treated with	antihistamines
+other inflammatory condition of skin	treated with	systemic steroids
+other inflammatory condition of skin	treated with	immunomodulators
+other inflammatory condition of skin	treated with	antibiotics
+other inflammatory condition of skin	prevented by	barrier repair
+other inflammatory condition of skin	resolved by	remission
+other inflammatory condition of skin	recurs in	seasonal pattern
+other inflammatory condition of skin	has subtypes	dermatitis
+other inflammatory condition of skin	a differential diagnosis for	irritant contact dermatitis
+other inflammatory condition of skin	confused with	psoriasis
+other inflammatory condition of skin	differentiated from	psoriasis
+other inflammatory condition of skin	associated with	hyperpigmentation
+other inflammatory condition of skin	causes	scaling
+other inflammatory condition of skin	causes	crusting
+other inflammatory condition of skin	present with	fissures
+other inflammatory condition of skin	resolved with	moisturizers
+other inflammatory condition of skin	associated with	keratosis pilaris
+other inflammatory condition of skin	seen in	humid climate
+other inflammatory condition of skin	linked with	immune dysregulation
+other inflammatory condition of skin	has	flare
+other inflammatory condition of skin	requires	dermatology referral
+other inflammatory condition of skin	correlated with	sleep disturbance
+other inflammatory condition of skin	associated with	oral steroids
+other inflammatory condition of skin	associated with	biopsy findings
+other inflammatory condition of skin	present with	vesicles
+other inflammatory condition of skin	present with	crusts
+other inflammatory condition of skin	present with	papules
+other inflammatory condition of skin	present with	plaques
+other inflammatory condition of skin	affected by	UV exposure
+other inflammatory condition of skin	triggered by	stress
+other inflammatory condition of skin	occurs in	immunocompromised individuals
+other inflammatory condition of skin	is featured in	chronic skin diseases
+other inflammatory condition of skin	has sun sensitivity	sun sensitivity
+other inflammatory condition of skin	seen with	autoimmune thyroid disease
+other inflammatory condition of skin	associated with	alopecia
+other inflammatory condition of skin	associated with	nail changes
+other inflammatory condition of skin	treated with	wet dressings
+other inflammatory condition of skin	treated with	coal tar
+other inflammatory condition of skin	used in	photochemotherapy
+other inflammatory condition of skin	responds to	humidification
+other inflammatory condition of skin	responds to	drying agents
+other inflammatory condition of skin	linked with	seborrheic dermatitis
+other inflammatory condition of skin	observed in	elderly
+other inflammatory condition of skin	observed in	neonates
+other inflammatory condition of skin	differential diagnosis for	dermatitis
+other inflammatory condition of skin	mimics	dermatitis
+other inflammatory condition of skin	described in	medical literature
+other inflammatory condition of skin	affects	flexural areas
+other inflammatory condition of skin	shows	vesicular lesions
+other inflammatory condition of skin	shows	crusted lesions
+other inflammatory condition of skin	presents with	scaling
+other inflammatory condition of skin	seen in	elderly women
+other inflammatory condition of skin	associated with	dehydration
+other inflammatory condition of skin	leads to	fissured skin
+other inflammatory condition of skin	responds to	topical steroids
+other inflammatory condition of skin	managed with	calcineurin inhibitors
+other inflammatory condition of skin	treated with	vitamin D analogs
+other inflammatory condition of skin	associated with	keratinocyte hyperproliferation
+other inflammatory condition of skin	leads to	skin thickening
+other inflammatory condition of skin	demonstrates	histology features

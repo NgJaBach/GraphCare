@@ -1,0 +1,100 @@
+cancer of other GI organs	metastasizes to	liver
+cancer of other GI organs	metastasizes to	peritoneum
+cancer of other GI organs	metastasizes to	lung
+cancer of other GI organs	metastasizes to	bone
+cancer of other GI organs	metastasizes to	brain
+cancer of other GI organs	metastasizes to	adrenal gland
+cancer of other GI organs	metastasizes to	kidney
+cancer of other GI organs	metastasizes to	spleen
+cancer of other GI organs	metastasizes to	ovary
+cancer of other GI organs	metastasizes to	lymph nodes
+liver metastasis	worsens	prognosis
+peritoneal metastasis	worsens	prognosis
+brain metastasis	worsens	prognosis
+lung metastasis	worsens	prognosis
+bone metastasis	worsens	prognosis
+liver metastasis	increases	mortality
+peritoneal metastasis	increases	mortality
+brain metastasis	increases	mortality
+lung metastasis	increases	mortality
+bone metastasis	increases	mortality
+peritoneal carcinomatosis	presents with	ascites
+ascites	causes	abdominal distension
+carcinoembryonic antigen	is biomarker for	cancer of other GI organs
+carbohydrate antigen 19-9	is biomarker for	cancer of other GI organs
+carcinoembryonic antigen	monitors	disease activity
+staging	determines	prognosis
+TNM staging	guides	treatment decisions
+endoscopy	enables	biopsy
+biopsy	confirms	cancer of other GI organs
+CT scan	detects	peritoneal metastasis
+PET-CT	detects	metastasis
+MRI	assesses	peritoneum
+laparoscopy	aids	staging of cancer of other GI organs
+cytoreductive surgery	indicated for	peritoneal metastasis
+HIPEC	used for	peritoneal metastasis
+chemotherapy	used to treat	cancer of other GI organs
+radiation therapy	used to treat	cancer of other GI organs
+targeted therapy	used to treat	cancer of other GI organs
+immunotherapy	investigated for	cancer of other GI organs
+palliative care	integrated with	cancer treatment
+nutritional support	needed for	cancer of other GI organs
+weight loss	predicts	mortality
+anemia	indicates	advanced disease
+thrombocytosis	correlates with	tumor burden
+neutropenia	results from	chemotherapy
+stent placement	relieves	obstruction
+bowel obstruction	results from	cancer of other GI organs
+malnutrition	worsens	treatment tolerance
+sarcopenia	reduces	physical function
+quality of life	improves with	palliative care
+advanced cancer of other GI organs	associated with	mortality
+obstruction	leads to	hospitalization
+hospitalization	required for	complication management
+surgery	carries	complication risk
+cytoreductive surgery	requires	specialized center
+HIPEC	requires	multidisciplinary team
+malabsorption	results in	nutritional deficiency
+thrombosis	associated with	cancer of other GI organs
+cachexia	correlates with	poor prognosis
+diarrhea	common symptom in	cancer of other GI organs
+constipation	common symptom in	cancer of other GI organs
+fatigue	common symptom in	advanced cancer
+weight loss	hallmark of	cancer of other GI organs
+nausea	indicates	cancer of other GI organs
+vomiting	indicates	cancer of other GI organs
+abdominal pain	is symptom of	cancer of other GI organs
+jaundice	occurs with	liver metastasis
+portal hypertension	occurs with	liver metastasis
+hepatomegaly	accompanies	liver metastasis
+peritoneal thickening	seen with	peritoneal carcinomatosis
+peritoneal fluid	contains	tumor cells
+portal vein invasion	indicates	advanced tumor
+neutrophil to lymphocyte ratio	prognostic for	cancer of other GI organs
+albumin	reflects	nutritional status
+hypoalbuminemia	associated with	poor prognosis
+performance status	influences	treatment options
+ECOG score	assesses	functional status
+functional status	predicts	survival
+peritoneal fluid cytology	indicates	peritoneal metastasis
+tumor burden	indicates	prognosis
+overall survival	is endpoint of	clinical trials
+progression-free survival	is endpoint of	clinical trials
+response rate	measures	tumor shrinkage
+tumor shrinkage	indicates	treatment efficacy
+metastatic pattern	informs	prognosis
+intraperitoneal chemotherapy	used for	peritoneal metastasis
+intraperitoneal chemotherapy	combined with	cytoreductive surgery
+colon cancer	is a type of	cancer of other GI organs
+small bowel cancer	is a type of	cancer of other GI organs
+rectal cancer	is a type of	cancer of other GI organs
+peritoneal metastasis	triggers	weight loss
+advanced disease	limits	surgical options
+hypercoagulability	associated with	cancer of other GI organs
+treatment tolerance	depends on	nutritional status
+postoperative recovery	affects	hospital length of stay
+hospital length of stay	increases with	postoperative complications
+surgical margins	determine	local recurrence
+local recurrence	worsens	prognosis
+palliative chemotherapy	aims to	relieve symptoms
+intraperitoneal chemotherapy	provides	local tumor control

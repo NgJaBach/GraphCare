@@ -1,0 +1,100 @@
+abdominal hernia	is a	protrusion
+abdominal hernia	located in	abdominal wall
+intra-abdominal pressure	increases	hernia risk
+obesity	is risk factor for	abdominal hernia
+older age	is risk factor for	abdominal hernia
+fascial weakness	predisposes to	abdominal hernia
+fascial defect	predisposes to	abdominal hernia
+trauma	precipitates	abdominal hernia
+pregnancy	increases risk for	abdominal hernia
+inguinal hernia	is type of	abdominal hernia
+umbilical hernia	is type of	abdominal hernia
+incisional hernia	is type of	abdominal hernia
+epigastric hernia	is type of	abdominal hernia
+femoral hernia	is type of	abdominal hernia
+spigelian hernia	is type of	abdominal hernia
+hernia sac	contains	omentum
+hernia sac	contains	small intestine
+hernia sac	contains	colon
+sliding hernia	contains	intestine
+physical examination	detects	hernia
+ultrasound	confirms	hernia
+CT scan	evaluates	hernia
+MRI	evaluates	hernia
+bulge	is symptom of	hernia
+pain	is symptom of	hernia
+heaviness	is symptom of	hernia
+bowel obstruction	can complicate	hernia
+strangulation	is complication of	hernia
+incarceration	is complication of	hernia
+ischemia	results from	strangulated hernia
+hernia recurrence	occurs after	repair
+recurrence	risk factors	poor tissue quality
+poor tissue quality	increases	recurrence
+diabetes	increases	wound complications
+smoking	increases	wound infection
+diabetes	increases	infection risk
+obesity	increases	surgical risk
+age	influences	recurrence
+suture technique	influences	recurrence
+nerve injury	can occur during	hernia repair
+chronic pain	can persist after	hernia repair
+mesh infection	requires	mesh removal
+mesh migration	occurs after	hernia repair
+hernia repair	may require	anesthesia
+open repair	is performed for	hernia
+laparoscopic repair	is performed for	hernia
+tension-free repair	is performed for	hernia
+Bassini repair	is performed for	hernia
+Shouldice repair	is performed for	hernia
+Lichtenstein repair	is performed for	hernia
+mesh	used in	hernia repair
+prosthetic mesh	provides	reinforcement
+biologic mesh	used in	hernia repair
+absorbable mesh	used in	hernia repair
+preoperative evaluation	assesses	patient fitness
+local anesthesia	used in	hernia repair
+general anesthesia	used in	hernia repair
+regional anesthesia	used in	hernia repair
+postoperative analgesia	relieves	pain
+seroma	occurs after	hernia repair
+hematoma	occurs after	hernia repair
+wound infection	occurs after	hernia repair
+nerve injury	occurs during	hernia repair
+numbness	persists after	hernia repair
+reoperation	required for	hernia recurrence
+return to activity	occurs after	hernia repair
+watchful waiting	option for	small hernia
+elective repair	recommended for	symptomatic hernia
+emergency repair	required for	strangulated hernia
+aponeurosis	forms	abdominal wall
+inguinal canal	contains	spermatic cord
+peritoneum	lines	abdominal cavity
+omentum	located in	abdomen
+small intestine	contained in	abdomen
+hernia defect	defines	abdominal wall
+mesh reinforcement	reduces	recurrence
+scar tissue	affects	healing
+adhesions	form after	repair
+adhesions	cause	pain
+scar	forms after	repair
+recurrence rate	varies with	repair type
+repair type	influences	recovery
+recovery time	depends on	repair method
+rapid recovery	desired after	repair
+hospital resources	determine	repair success
+patient education	improves	outcomes
+suture material	influences	tissue reaction
+postoperative NPO	duration	surgery
+imaging follow-up	monitors	recurrence
+health literacy	impacts	recovery
+nutrition status	affects	wound healing
+recurrence detection	relies on	imaging
+palpable defect	indicates	recurrence
+watchful waiting	may be chosen for	asymptomatic hernia
+asymptomatic hernia	may be managed with	watchful waiting
+emergency repair	required for	strangulated hernia
+antibiotics	prophylaxis	infection
+antibiotics	prevent	infection
+BMI	influences	surgical planning
+hernia size	dictates	repair method

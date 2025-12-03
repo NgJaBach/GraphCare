@@ -1,0 +1,100 @@
+schizophrenia	is a	psychiatric disorder
+schizophrenia	is a	mental illness
+schizophrenia	is associated with	increased mortality
+schizophrenia	is associated with	suicide risk
+schizophrenia	is associated with	unemployment
+schizophrenia	is associated with	homelessness
+schizophrenia	is associated with	substance use disorder
+family history	has genetic component
+schizophrenia	has genetic component	polygenic risk
+polygenic risk	increases	schizophrenia risk
+urbanicity	increases risk of	schizophrenia
+prenatal infection	increases risk of	schizophrenia
+cannabis use	is associated with	schizophrenia onset
+tobacco use	is associated with	schizophrenia
+neurodevelopmental abnormalities	predispose to	schizophrenia
+dopamine dysregulation	underlies	psychosis
+glutamate dysfunction	contributes to	schizophrenia
+schizophrenia	manifests with	positive symptoms
+schizophrenia	manifests with	negative symptoms
+delusions	are symptoms of	schizophrenia
+hallucinations	are symptoms of	schizophrenia
+cognitive impairment	characterizes	schizophrenia
+executive dysfunction	characterizes	schizophrenia
+working memory deficit	characterizes	schizophrenia
+antipsychotics	treat	schizophrenia
+second-generation antipsychotics	are used for	schizophrenia
+clozapine	is used for	treatment-resistant schizophrenia
+long-acting injectable antipsychotics	improve	adherence
+cognitive behavioral therapy	improves	functioning
+nonadherence	increases	relapse risk
+cognitive remediation therapy	improves	cognitive function
+family therapy	reduces	relapse risk
+psychoeducation	improves	treatment adherence
+inpatient care	reduces	readmission
+community treatment programs	reduce	hospitalization
+metabolic syndrome	is associated with	antipsychotics
+weight gain	is adverse effect of	second-generation antipsychotics
+diabetes	is comorbid with	schizophrenia
+cardiovascular disease	burden in	schizophrenia
+hyperprolactinemia	is adverse effect of	antipsychotics
+tardive dyskinesia	is a potential adverse effect of	antipsychotics
+extrapyramidal symptoms	are adverse effects of	antipsychotics
+clozapine	reduces	suicidality
+clozapine	requires	regular monitoring of blood counts
+antipsychotics	cause	metabolic syndrome
+antipsychotics	cause	weight gain
+negative symptoms	define	schizophrenia
+positive symptoms	define	schizophrenia
+cognitive deficits	present in	schizophrenia
+neuroimaging abnormality	observed in	schizophrenia
+ventricular enlargement	seen in	schizophrenia
+reduced gray matter volume	observed in	schizophrenia
+dopamine hypothesis	supports	schizophrenia
+glutamate hypothesis	supports	schizophrenia
+oxidative stress	implicated in	schizophrenia
+inflammation	associated with	schizophrenia
+early intervention services	improve	long-term outcome
+readmission	associated with	psychotic relapse
+substance use disorder	worsens	schizophrenia prognosis
+depression	co-occurs with	schizophrenia
+anxiety disorder	co-occurs with	schizophrenia
+antidepressants	used for	depressive symptoms in schizophrenia
+antipsychotic polypharmacy	is associated with	adverse effects
+treatment-resistant schizophrenia	requires	clozapine
+psychosis	recurs with	nonadherence to treatment
+family intervention	reduces	relapse risk
+case management	improves	access to care
+supported employment	improves	vocational outcomes
+social skills training	improves	social functioning
+cognitive training	improves	attention
+exercise program	reduces	metabolic risk in schizophrenia
+nutrition counseling	reduces	metabolic syndrome risk
+stigma	reduces	treatment seeking
+adherence	improves	outcomes
+inpatient stay	increases	healthcare costs
+outpatient follow-up	reduces	readmission
+assertive community treatment	reduces	hospitalization
+CBT for psychosis	reduces	hallucinations
+family psychoeducation	improves	insight
+insight	improves	medication adherence
+insight	correlates with	outcome
+neurocognitive impairment	impairs	functioning
+functional impairment	worsens	quality of life
+quality of life	improves with	psychosocial interventions
+community-based care	improves	functioning
+housing support	reduces	homelessness
+mobile health tools	support	treatment adherence
+telepsychiatry	expands	access to care
+peer support	improves	engagement in care
+symptom stabilization	improves	functioning
+antipsychotic combination therapy	associated with	increased adverse events
+long-term antipsychotic use	is associated with	metabolic side effects
+early-onset schizophrenia	associated with	greater cognitive impairment
+late-onset schizophrenia	associated with	different symptom profile
+cerebral atrophy	observed in	schizophrenia
+neuroinflammation	implicated in	schizophrenia
+oxidative stress	contributes to	neuronal damage in schizophrenia
+clozapine	associated with	agranulocytosis
+early intervention clinics	provide	comprehensive care
+comprehensive care	improves	prognosis

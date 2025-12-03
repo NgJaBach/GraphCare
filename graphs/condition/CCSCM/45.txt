@@ -1,0 +1,100 @@
+maintenance chemotherapy	is a	cancer treatment
+radiotherapy	is a	cancer treatment
+maintenance chemotherapy	is used for	disease control
+radiotherapy	is used for	local control
+maintenance chemotherapy	follows	induction chemotherapy
+radiotherapy	follows	surgery
+radiotherapy	is used as	adjuvant therapy
+maintenance chemotherapy	is delivered in	cycles
+radiotherapy	is delivered in	fractions
+maintenance chemotherapy	reduces	relapse risk
+radiotherapy	reduces	local recurrence
+radiotherapy	is used in	palliation
+maintenance chemotherapy	may cause	cytopenia
+maintenance chemotherapy	may cause	fatigue
+maintenance chemotherapy	may cause	nausea
+maintenance chemotherapy	may cause	mucositis
+radiotherapy	may cause	dermatitis
+radiotherapy	may cause	pneumonitis
+radiotherapy	may cause	esophagitis
+radiotherapy	may cause	fibrosis
+radiotherapy	may increase	secondary malignancy risk
+maintenance chemotherapy	requires	monitoring
+radiotherapy	requires	planning
+planning	is performed by	radiation oncologist
+radiotherapy	uses	linear accelerator
+radiotherapy	uses	imaging guidance
+maintenance chemotherapy	uses	cytotoxic agents
+cytotoxic agents	include	platinum compounds
+platinum compounds	are used in	maintenance chemotherapy
+radiotherapy	includes	external beam radiotherapy
+radiotherapy	includes	brachytherapy
+brachytherapy	is a form of	radiotherapy
+external beam radiotherapy	is a form of	radiotherapy
+maintenance chemotherapy	adjusts	dose
+radiotherapy	adjusts	dose
+maintenance chemotherapy	is influenced by	performance status
+radiotherapy	is influenced by	organ function
+maintenance chemotherapy	impacts	immune function
+radiotherapy	impacts	organ function
+combined modality therapy	refers to	radiotherapy and chemotherapy
+combined modality therapy	includes	radiotherapy and chemotherapy
+maintenance chemotherapy	contributes to	treatment burden
+radiotherapy	contributes to	local symptom relief
+maintenance chemotherapy	is titrated by	oncologist
+radiotherapy	is planned with	CT simulation
+CT simulation	provides	dose planning data
+dose planning data	informs	treatment planning
+treatment planning	defines	dose distribution
+dose distribution	determines	tissue exposure
+tissue exposure	relates to	toxicity risk
+toxicity risk	predicts	hospitalization
+hospitalization	is associated with	therapy toxicity
+toxicity	is monitored by	clinician
+maintenance chemotherapy	requires	CBCs
+CBCs	monitor	neutrophil count
+neutrophil count	guides	dose adjustments
+dose adjustments	aim to	maintain tolerability
+skin care	reduces	dermatitis severity
+CT simulation	enables	target delineation
+target delineation	improves	treatment accuracy
+treatment accuracy	improves	local control
+local control	relates to	prognosis
+prognosis	informs	patient counseling
+patient counseling	supports	decision making
+decision making	influences	consent quality
+consent quality	affects	treatment uptake
+treatment uptake	influences	adherence
+adherence	improves	treatment efficacy
+treatment efficacy	informs	guidelines
+guidelines	inform	practice
+practice	guides	management
+management	improves	patient outcomes
+patient outcomes	used for	benchmarking
+benchmarking	uses	health data
+health data	supports	predictive models
+predictive models	inform	risk factors
+risk factors	include	age
+age	is associated with	treatment tolerance
+treatment tolerance	influences	dose intensity
+dose intensity	correlates with	toxicity
+toxicity	leads to	hospital admission
+hospital admission	triggers	discharge planning
+discharge planning	relies on	home health services
+home health services	enable	outpatient chemotherapy
+outpatient chemotherapy	reduces	hospitalization
+patient factors	influence	treatment choice
+treatment choice	affects	resource utilization
+resource utilization	determines	reimbursement
+reimbursement	impacts	access to care
+access to care	improves	survival estimates
+survival estimates	guide	patient counseling
+patient counseling	improves	treatment adherence
+treatment adherence	affects	outcome
+outcome	informs	future treatment decisions
+future treatment decisions	depend on	outcome
+outcome	depends on	tumor response
+tumor response	informs	prognosis
+prognosis	drives	care planning
+care planning	drives	visit schedule
+visit schedule	facilitates	follow-up

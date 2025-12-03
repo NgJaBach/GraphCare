@@ -1,0 +1,100 @@
+diabetes mellitus	is a	chronic metabolic disorder
+diabetes mellitus	managed with	insulin therapy
+diabetes mellitus	managed with	metformin
+diabetes mellitus	causes	retinopathy
+diabetes mellitus	causes	nephropathy
+diabetes mellitus	increases risk of	cardiovascular disease
+diabetes mellitus	associated with	neuropathy
+diabetes mellitus	diagnosed by	fasting plasma glucose
+fasting plasma glucose	is a test for	diabetes mellitus
+HbA1c	is a test for	diabetes mellitus
+diabetes mellitus	treated with	lifestyle modification
+type 1 diabetes mellitus	is a	autoimmune disease
+type 1 diabetes mellitus	requires	insulin therapy
+hypothyroidism	is a	endocrine disorder
+hypothyroidism	treated with	levothyroxine
+levothyroxine	is a	thyroid hormone replacement
+hypothyroidism	caused by	autoimmune thyroiditis
+hypothyroidism	associated with	hyperlipidemia
+hypothyroidism	presents with	fatigue
+hyperthyroidism	is a	endocrine disorder
+hyperthyroidism	treated with	methimazole
+methimazole	is a	thionamide
+hyperthyroidism	caused by	Graves disease
+Graves disease	is a	autoimmune disease
+Graves disease	causes	ophthalmopathy
+ophthalmopathy	leads to	proptosis
+proptosis	is a	clinical finding
+Graves disease	increases risk of	atrial fibrillation
+Cushing's syndrome	is a	hypercortisolism
+Cushing's syndrome	caused by	ACTH excess
+Cushing's syndrome	treated with	surgery
+Cushing's syndrome	associated with	obesity
+Cushing's syndrome	associated with	glucose intolerance
+Addison's disease	is a	adrenal insufficiency
+Addison's disease	caused by	autoimmune destruction
+Addison's disease	treated with	hydrocortisone
+Adrenal crisis	is a	medical emergency
+Adrenal crisis	requires	urgent management
+hyperparathyroidism	causes	hypercalcemia
+hypercalcemia	can cause	kidney stones
+hyperparathyroidism	treated with	parathyroidectomy
+hypoparathyroidism	causes	hypocalcemia
+hypocalcemia	leads to	tetany
+parathyroid hormone	regulates	calcium
+calcitonin	decreases	blood calcium
+diabetes insipidus	is a	endocrine disorder
+diabetes insipidus	caused by	ADH deficiency
+desmopressin	treats	central diabetes insipidus
+central diabetes insipidus	caused by	pituitary damage
+growth hormone deficiency	is a	endocrine disorder
+growth hormone deficiency	treated with	growth hormone
+acromegaly	caused by	GH excess
+GH excess	causes	insulin resistance
+acromegaly	associated with	diabetes mellitus
+pituitary adenoma	causes	hormone excess
+prolactinoma	is a	pituitary tumor
+prolactin	stimulates	lactation
+hypopituitarism	results in	secondary adrenal insufficiency
+hypopituitarism	associated with	pituitary hormone deficiency
+diabetes insipidus	associated with	aquaporin-2 dysfunction
+polycystic ovary syndrome	is a	endocrine disorder
+PCOS	associated with	insulin resistance
+PCOS	associated with	infertility
+PCOS	treated with	metformin
+estrogen deficiency	leads to	osteoporosis
+menopause	involves	estrogen deficiency
+osteoporosis	is a	bone disease
+osteoporosis	worsened by	estrogen deficiency
+vitamin D deficiency	leads to	osteomalacia
+osteomalacia	is a	bone disease
+growth hormone deficiency	may cause	reduced muscle mass
+acromegaly	associated with	cardiomyopathy
+prolactin	inhibits	GnRH
+hyperprolactinemia	causes	infertility
+hyperprolactinemia	treated with	dopamine agonists
+dopamine agonists	treat	hyperprolactinemia
+gonadotropin-releasing hormone	regulates	puberty
+testosterone	is a	androgen hormone
+androgen deficiency	causes	decreased libido
+LH	stimulates	ovulation
+thyroid-stimulating hormone	is a	pituitary hormone
+free T4	reflects	thyroid status
+autoimmune thyroiditis	causes	hypothyroidism
+Hashimoto's thyroiditis	is a	autoimmune disease
+thyroid peroxidase antibodies	indicate	autoimmune thyroid disease
+parathyroid adenoma	is a	parathyroid tumor
+primary hyperparathyroidism	is a	parathyroid disorder
+secondary hyperparathyroidism	is a	parathyroid disorder
+gonads	regulate	reproductive function
+estrogen	regulates	menstrual cycle
+menstrual cycle	regulated by	hormones
+insulin resistance	is a	feature of type 2 diabetes
+glycemic control	indicates	diabetes management success
+premature ovarian insufficiency	is a	female reproductive disorder
+premature ovarian insufficiency	causes	infertility
+hirsutism	is a	symptom of PCOS
+estradiol	is a	form of estrogen
+gonadotropins	regulate	ovarian function
+parathyroid glands	regulate	calcium homeostasis
+parathyroid glands	are	endocrine glands

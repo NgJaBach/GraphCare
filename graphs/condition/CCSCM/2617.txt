@@ -1,0 +1,100 @@
+aspirin	has adverse effect	gastritis
+aspirin	has adverse effect	gastrointestinal bleeding
+aspirin	has adverse effect	peptic ulcer
+ibuprofen	has adverse effect	gastritis
+ibuprofen	has adverse effect	renal impairment
+naproxen	has adverse effect	gastritis
+naproxen	has adverse effect	gastrointestinal bleeding
+paracetamol	has adverse effect	hepatotoxicity
+warfarin	has adverse effect	bleeding
+warfarin	has adverse effect	hemorrhage
+heparin	has adverse effect	bleeding
+insulin	has adverse effect	hypoglycemia
+glipizide	has adverse effect	hypoglycemia
+metformin	has adverse effect	lactic acidosis
+morphine	has adverse effect	respiratory depression
+morphine	has adverse effect	constipation
+fentanyl	has adverse effect	respiratory depression
+codeine	has adverse effect	constipation
+lisinopril	has adverse effect	cough
+lisinopril	has adverse effect	hyperkalemia
+losartan	has adverse effect	hyperkalemia
+amlodipine	has adverse effect	edema
+atorvastatin	has adverse effect	myopathy
+atorvastatin	has adverse effect	rhabdomyolysis
+simvastatin	has adverse effect	myopathy
+prednisone	has adverse effect	hyperglycemia
+prednisone	has adverse effect	osteoporosis
+dexamethasone	has adverse effect	hyperglycemia
+dexamethasone	has adverse effect	osteoporosis
+cisplatin	has adverse effect	nephrotoxicity
+cisplatin	has adverse effect	ototoxicity
+gentamicin	has adverse effect	nephrotoxicity
+vancomycin	has adverse effect	nephrotoxicity
+vancomycin	has adverse effect	red man syndrome
+ciprofloxacin	has adverse effect	tendinopathy
+ciprofloxacin	has adverse effect	QT prolongation
+amoxicillin	has adverse effect	rash
+amoxicillin	has adverse effect	anaphylaxis
+penicillin	has adverse effect	urticaria
+penicillin	has adverse effect	anaphylaxis
+doxycycline	has adverse effect	photosensitivity
+doxycycline	has adverse effect	esophageal irritation
+metoprolol	has adverse effect	bradycardia
+propranolol	has adverse effect	bradycardia
+atenolol	has adverse effect	fatigue
+furosemide	has adverse effect	dehydration
+furosemide	has adverse effect	hypokalemia
+spironolactone	has adverse effect	hyperkalemia
+hydrochlorothiazide	has adverse effect	hypokalemia
+digoxin	has adverse effect	toxicity
+digoxin	has adverse effect	arrhythmia
+clozapine	has adverse effect	agranulocytosis
+lithium	has adverse effect	tremor
+lithium	has adverse effect	hypothyroidism
+methotrexate	has adverse effect	mucositis
+methotrexate	has adverse effect	hepatotoxicity
+cyclophosphamide	has adverse effect	hemorrhagic cystitis
+bleomycin	has adverse effect	pulmonary fibrosis
+doxorubicin	has adverse effect	cardiotoxicity
+trastuzumab	has adverse effect	cardiotoxicity
+tamoxifen	has adverse effect	endometrial cancer risk
+temozolomide	has adverse effect	myelosuppression
+azathioprine	has adverse effect	leukopenia
+cyclosporine	has adverse effect	nephrotoxicity
+tacrolimus	has adverse effect	nephrotoxicity
+amphotericin B	has adverse effect	nephrotoxicity
+ceftriaxone	has adverse effect	diarrhea
+cephalexin	has adverse effect	rash
+clindamycin	has adverse effect	pseudomembranous colitis
+nitrofurantoin	has adverse effect	pulmonary fibrosis
+trimethoprim-sulfamethoxazole	has adverse effect	hyperkalemia
+erythromycin	has adverse effect	QT prolongation
+azithromycin	has adverse effect	GI upset
+rabeprazole	has adverse effect	hypomagnesemia
+omeprazole	has adverse effect	bone fracture
+amoxicillin-clavulanate	has adverse effect	diarrhea
+paroxetine	has adverse effect	hyponatremia
+sertraline	has adverse effect	hyponatremia
+acetazolamide	has adverse effect	paresthesia
+acetazolamide	has adverse effect	metabolic acidosis
+amikacin	has adverse effect	nephrotoxicity
+amikacin	has adverse effect	ototoxicity
+amiodarone	has adverse effect	QT prolongation
+amiodarone	has adverse effect	thyroid dysfunction
+phenytoin	has adverse effect	gingival hyperplasia
+phenytoin	has adverse effect	ataxia
+valproic acid	has adverse effect	hepatotoxicity
+valproic acid	has adverse effect	weight gain
+levetiracetam	has adverse effect	sedation
+lorazepam	has adverse effect	drowsiness
+diazepam	has adverse effect	drowsiness
+clopidogrel	has adverse effect	bleeding
+clopidogrel	has adverse effect	GI bleeding
+nifedipine	has adverse effect	edema
+hydralazine	has adverse effect	tachycardia
+infliximab	has adverse effect	infusion reaction
+ethambutol	has adverse effect	optic neuritis
+daptomycin	has adverse effect	myopathy
+levofloxacin	has adverse effect	tendon rupture
+moxifloxacin	has adverse effect	QT prolongation

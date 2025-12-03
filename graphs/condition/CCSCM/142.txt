@@ -1,0 +1,202 @@
+appendicitis	presents with	right lower quadrant pain
+appendicitis	presents with	fever
+appendicitis	presents with	nausea
+appendicitis	presents with	vomiting
+appendicitis	presents with	anorexia
+fecalith	associated with	appendicitis
+luminal obstruction	associated with	appendicitis
+appendiceal diverticulitis	presents with	right lower quadrant pain
+appendiceal diverticulitis	treated with	antibiotics
+appendiceal diverticulitis	may require	surgery
+appendiceal abscess	presents with	fever
+appendiceal abscess	treated with	antibiotics
+appendiceal abscess	treated with	percutaneous drainage
+appendiceal abscess	may require	surgery
+phlegmon	presents with	abdominal pain
+phlegmon	managed with	antibiotics
+phlegmon	may progress to	abscess
+perforated appendicitis	presents with	diffuse abdominal pain
+perforated appendicitis	leads to	peritonitis
+perforated appendicitis	requires	urgent surgery
+uncomplicated appendicitis	treated with	antibiotics
+acute appendicitis	is a	surgical emergency
+appendectomy	performed for	appendicitis
+laparoscopic appendectomy	used for	appendicitis
+open appendectomy	used for	appendicitis
+appendectomy	reduces	recurrence
+appendectomy	complication of	wound infection
+postoperative ileus	complication of	appendectomy
+peritoneal infection	complication of	perforated appendicitis
+carcinoid tumor of appendix	is a	neuroendocrine tumor
+carcinoid tumor of appendix	treated with	appendectomy
+carcinoid tumor of appendix	risk of	metastasis
+neuroendocrine tumor of appendix	may metastasize to	liver
+neuroendocrine tumor of appendix	prognosis	favorable
+appendiceal mucinous neoplasm	is a	mucinous neoplasm
+appendiceal mucinous neoplasm	may progress to	pseudomyxoma peritonei
+appendiceal mucinous neoplasm	treated with	right hemicolectomy
+pseudomyxoma peritonei	arises from	appendiceal mucinous neoplasm
+pseudomyxoma peritonei	treated with	cytoreductive surgery
+pseudomyxoma peritonei	treated with	HIPEC
+appendiceal mucocele	presents with	abdominal distension
+appendiceal mucocele	risk of	rupture
+ruptured appendiceal mucocele	leads to	pseudomyxoma peritonei
+mucocele of appendix	associated with	mucinous neoplasm
+appendix diverticulum	associated with	appendicitis
+appendiceal diverticulitis	presents with	right lower quadrant pain
+appendiceal diverticulitis	treated with	antibiotics
+appendiceal diverticulitis	may require	surgery
+imaging	used for	diagnosis of appendicitis
+ultrasound	used for	diagnosis of appendicitis
+CT scan	used for	diagnosis of appendicitis
+MRI	used for	diagnosis of appendicitis
+imaging	detects	appendiceal inflammation
+fever	associated with	appendicitis
+nausea	associated with	appendicitis
+vomiting	associated with	appendicitis
+loss of appetite	associated with	appendicitis
+antibiotics	used for	treatment of uncomplicated appendicitis
+antibiotics	effective for	uncomplicated appendicitis
+surgery	required for	perforated appendicitis
+surgery	used for	appendiceal abscess
+laparoscopic surgery	used for	appendicitis
+open surgery	used for	appendicitis
+right iliac fossa	location of	inflamed appendix
+appendix	located in	cecum
+cecum	adjacent to	appendix
+appendectomy	part of	surgical management of appendicitis
+peritoneal carcinomatosis	associated with	pseudomyxoma peritonei
+liver metastasis	risk with	carcinoid tumor of appendix
+ascites	associated with	pseudomyxoma peritonei
+liver metastasis	possible with	neuroendocrine tumor of appendix
+sepsis	complication of	perforated appendicitis
+psoas abscess	rare complication of	appendicitis
+abscess	can arise from	appendicitis
+neutrophilia	present in	appendicitis
+white blood cell count	elevated in	appendicitis
+CRP	elevated in	appendicitis
+immunohistochemistry	used for	diagnosing carcinoid tumor
+goblet cell carcinoid	is a	variant of carcinoid
+goblet cell carcinoid	observed in	appendix
+biopsy	confirms	carcinoid tumor
+biopsy	confirms	mucinous neoplasm
+right lower quadrant pain	differential diagnosis for	appendicitis
+appendix	can be inflamed	appendicitis
+appendix	removed during	appendectomy
+appendix	histology shows	mucinous neoplasm
+appendix	histology shows	neuroendocrine tumor
+appendix	can harbor	neoplasm
+neoplasm	incidental finding	during appendectomy
+pseudomyxoma peritonei	can occur after rupture of	appendiceal mucinous neoplasm
+peritoneal surface	involved by	pseudomyxoma peritonei
+peritoneal spread	characteristic of	pseudomyxoma peritonei
+appendix	part of	large intestine
+appendix	participates in	immune response
+appendectomy	shortens	hospital stay
+carcinoid tumor	often found incidentally	during appendectomy
+appendicitis	is a	inflammatory condition
+acute appendicitis	is a	subset of appendicitis
+fecalith	causes	appendicitis
+lymphoid hyperplasia	causes	appendicitis
+appendiceal obstruction	causes	appendicitis
+appendicitis	may progress to	perforation
+perforation	leads to	peritonitis
+peritonitis	is a	life-threatening complication
+appendicitis	presents with	right lower quadrant pain
+appendicitis	presents with	fever
+appendicitis	diagnosed by	CT scan
+appendicitis	diagnosed by	ultrasound
+appendicitis	diagnosed by	MRI
+CT scan	is used for	diagnosis of appendicitis
+ultrasound	is used for	diagnosis of appendicitis
+MRI	is used for	diagnosis of appendicitis
+appendicitis	treated with	appendectomy
+appendectomy	is a	surgical procedure
+laparoscopic appendectomy	is a	surgical procedure
+open appendectomy	is a	surgical procedure
+appendicitis	treated with	antibiotics
+antibiotics	used in	nonoperative management of appendicitis
+nonoperative management	is an	option for appendicitis
+appendicitis	is a	surgical emergency
+perforated appendicitis	is a	severe form of appendicitis
+appendiceal abscess	is a	complication of appendicitis
+appendiceal phlegmon	is a	complication of appendicitis
+appendiceal abscess	requires	drainage
+drainage	is a	treatment for appendiceal abscess
+peritonitis	is a	complication of perforated appendicitis
+fever	is a	symptom of appendicitis
+leukocytosis	is a	laboratory finding in appendicitis
+neutrophilia	is a	laboratory finding in appendicitis
+C-reactive protein elevation	is a	laboratory finding in appendicitis
+appendiceal diverticulitis	is a	mimic of appendicitis
+appendiceal diverticulum	is a	diverticulum of appendix
+appendiceal diverticulitis	presents with	RLQ pain
+RLQ pain	is a	symptom of appendicitis
+mucocele of appendix	is a	mucinous dilation of appendix
+appendiceal mucocele	is a	mucinous dilation of appendix
+mucocele of appendix	may rupture	pseudomyxoma peritonei
+pseudomyxoma peritonei	is a	mucinous peritoneal carcinomatosis
+pseudomyxoma peritonei	arises from	ruptured appendiceal neoplasm
+mucinous neoplasm	is a	mucin-producing tumor
+mucinous neoplasm of the appendix	is a	mucin-producing tumor
+mucinous neoplasm of the appendix	may cause	mucocele
+carcinoid tumor of the appendix	is a	neuroendocrine tumor
+goblet cell carcinoid	is a	type of carcinoid tumor of the appendix
+appendiceal diverticulosis	is a	diverticular disease of appendix
+appendiceal diverticulitis	is a	inflammatory disease of diverticulum
+appendiceal diverticulitis	may mimic	appendicitis
+rupture of mucocele	leads to	pseudomyxoma peritonei
+pseudomyxoma peritonei	is a	mucinous peritoneal carcinomatosis
+appendiceal tumor	is a	neoplasm of appendix
+appendiceal tumor	may cause	obstruction
+obstruction	causes	appendicitis
+retrocecal appendix	is a	common location
+retrocecal appendix	can complicate	diagnosis of appendicitis
+interval appendectomy	is a	staged surgery after abscess
+interval appendectomy	used after	appendiceal abscess
+interval appendectomy	reduces	recurrent appendicitis
+abscess	is a	localized infection
+abscess	can be	drained
+drainage	is a	treatment for abscess
+abscess	resolves with	antibiotics
+antibiotics	alone	can treat mild appendicitis
+appendectomy	provides	tissue for histology
+histology	confirms	appendicitis
+appendix	is an	anatomical structure
+appendix	located at	cecum
+appendiceal diverticulitis	increases	risk of perforation
+perforation	increases	risk of peritonitis
+peritonitis	requires	rapid management
+rapid management	includes	surgery
+postoperative pain	affects	recovery time
+recovery time	is shorter with	laparoscopic surgery
+recovery time	is longer with	open surgery
+pseudomyxoma peritonei	often requires	cytoreductive surgery
+cytoreductive surgery	is a	treatment for pseudomyxoma peritonei
+appendiceal neoplasm	is a	tumor of appendix
+neoplasm	can be	benign or malignant
+benign neoplasm	includes	adenoma
+malignant neoplasm	includes	adenocarcinoma
+adenocarcinoma	can arise from	appendix
+appendiceal carcinoid	tends to be	indolent
+indolent	indicates	favorable prognosis
+appendicitis	can occur in	pregnancy
+pregnant patient	presents with	abdominal pain
+imaging	used in	pregnancy with appendicitis
+urinalysis	not usually needed	for appendicitis
+interval appendectomy	reduces	recurrence of appendicitis
+abscess	may be	present with	localized tenderness
+appendicitis	may be	misdiagnosed as	diverticulitis
+diverticulitis	may mimic	appendicitis
+imaging	differentiates	appendicitis from diverticulitis
+CT scan	shows	appendiceal thickening
+ultrasound	shows	appendiceal dilation
+appendicitis	outcomes	mortality risk is low with prompt treatment
+appendicitis	management strategy	depends on severity
+appendiceal abscess	management strategy	percutaneous drainage
+percutaneous drainage	used for	appendiceal abscess
+interval appendectomy	indicated after	abscess with phlegmon
+appendectomy	specimen	sent for	histopathology
+histopathology	detects	neoplasia in appendix
+neoplasia	may be	incidental finding during appendectomy
+appendiceal diverticulitis	treatment	antibiotics

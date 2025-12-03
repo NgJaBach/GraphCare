@@ -1,0 +1,111 @@
+prolonged pregnancy	is defined as	post-term pregnancy
+prolonged pregnancy	is defined by	gestational age > 42 weeks
+prolonged pregnancy	increases risk of	stillbirth
+prolonged pregnancy	increases risk of	perinatal death
+prolonged pregnancy	increases risk of	neonatal death
+prolonged pregnancy	increases risk of	meconium aspiration
+prolonged pregnancy	increases risk of	meconium-stained fluid
+prolonged pregnancy	increases risk of	fetal distress
+prolonged pregnancy	increases risk of	placental insufficiency
+prolonged pregnancy	increases risk of	oligohydramnios
+prolonged pregnancy	increases risk of	postmaturity syndrome
+prolonged pregnancy	increases risk of	dystocia
+prolonged pregnancy	increases risk of	cesarean delivery
+prolonged pregnancy	increases risk of	prolonged labor
+prolonged pregnancy	increases risk of	postpartum hemorrhage
+prolonged pregnancy	increases risk of	neonatal intensive care admission
+prolonged pregnancy	increases risk of	respiratory distress syndrome
+prolonged pregnancy	increases risk of	low Apgar score
+parity	is associated with	prolonged pregnancy
+nulliparity	is associated with	prolonged pregnancy
+advanced maternal age	is associated with	prolonged pregnancy
+maternal obesity	is associated with	prolonged pregnancy
+diabetes	is associated with	prolonged pregnancy
+hypertension	is associated with	prolonged pregnancy
+smoking	is associated with	prolonged pregnancy
+induction of labor	is used for	prolonged pregnancy
+cervical ripening	facilitates	induction of labor in prolonged pregnancy
+prostaglandin E2	is used for	cervical ripening
+oxytocin	is used for	induction of labor in prolonged pregnancy
+amniotomy	is used for	induction of labor in prolonged pregnancy
+elective induction	is recommended for	prolonged pregnancy
+fetal surveillance	is recommended for	prolonged pregnancy
+cardiotocography	is used for	fetal surveillance in prolonged pregnancy
+ultrasound	is used for	assessment in prolonged pregnancy
+amniotic fluid	decreases with	prolonged pregnancy
+placental aging	is associated with	prolonged pregnancy
+fetal growth	is affected by	prolonged pregnancy
+neonatal outcome	worsens with	prolonged pregnancy
+delivery mode	shifts toward	cesarean in prolonged pregnancy
+maternal anxiety	increases with	prolonged pregnancy
+labor duration	extends with	prolonged pregnancy
+fetal growth restriction	risk increased by	prolonged pregnancy
+fetal heart rate tracing	abnormalities	prolonged pregnancy
+nonreassuring tracing	triggers	cesarean delivery
+emergency cesarean	performed for	fetal distress
+emergency cesarean	performed for	nonreassuring tracing
+cesarean delivery	is associated with	maternal morbidity
+post-term neonate	is at risk for	hypoglycemia
+meconium-stained fluid	increases risk of	neonatal respiratory distress
+post-term birth	associated with	longer hospital stay
+induction of labor	reduces risk of	intrauterine fetal demise
+timing of induction	influences	cesarean rate in prolonged pregnancy
+cervical dilation	predicts	induction success in prolonged pregnancy
+induction failure	leads to	cesarean delivery in prolonged pregnancy
+oxytocin augmentation	used for	prolonged labor in prolonged pregnancy
+delivery planning	includes	induction option
+placental insufficiency	underlying	post-term pregnancy
+nonreassuring fetal status	triggers	cesarean delivery
+induction of labor	reduces risk of	stillbirth
+fetal surveillance	monitoring	prolonged pregnancy
+placental reserve	declines with	prolonged pregnancy
+umbilical Doppler	utilized for	fetal assessment in prolonged pregnancy
+amnioinfusion	used for	meconium-stained fluid management
+birth outcomes	influenced by	prolonged pregnancy
+care pathway	includes	induction as option
+clinical guidelines	recommend	induction after 42 weeks
+hospital admission	increases with	prolonged pregnancy
+length of stay	increases with	prolonged pregnancy
+readmission rate	increases with	prolonged pregnancy
+intrapartum complications	increase with	prolonged pregnancy
+neonatal hypoglycemia	risk increases with	prolonged pregnancy
+neonatal sepsis	risk increases with	prolonged pregnancy
+neonatal jaundice	risk increases with	prolonged pregnancy
+obstetric interventions	increase with	prolonged pregnancy
+birth injury	risk increases with	prolonged pregnancy
+uterine rupture	risk increases with	prolonged pregnancy
+labor analgesia requirements	increase with	prolonged pregnancy
+postpartum infection	risk increases with	prolonged pregnancy
+postpartum anemia	risk increases with	prolonged pregnancy
+APGAR score	lower with	prolonged pregnancy
+induction timing	affects	neonatal outcome in prolonged pregnancy
+delivery method	influenced by	induction in prolonged pregnancy
+fetal wellbeing	monitored by	fetal surveillance in prolonged pregnancy
+fetal movement assessment	part of	antenatal testing in prolonged pregnancy
+cesarean delivery	rate increases with	prolonged labor in prolonged pregnancy
+uterine perfusion	declines with	prolonged pregnancy
+birth weight	distribution shifts with	prolonged pregnancy
+umbilical cord pH	lower with	prolonged pregnancy
+neonatal respiratory compromise	risk increases with	prolonged pregnancy
+post-term pregnancy	focus of	perinatal care guidelines
+maternal cardiometabolic health	impacts	outcomes in prolonged pregnancy
+neonatal brain injury	risk increases with	prolonged labor in prolonged pregnancy
+care quality	improves with	induction planning in prolonged pregnancy
+fetal reserve	declines with	prolonged pregnancy
+perinatal mortality	increased in	prolonged pregnancy
+risk stratification	useful for	prolonged pregnancy management
+predictive model	includes	gestational age in prolonged pregnancy
+risk factors	include	nulliparity in prolonged pregnancy
+care trajectory	shifts toward	induction when appropriate
+induction method	chosen by	clinician in prolonged pregnancy
+patient preference	influences	induction timing in prolonged pregnancy
+administrative burden	increases with	prolonged pregnancy
+hospital protocol	mandates	monitoring in prolonged pregnancy
+clinical decision making	guided by	fetal surveillance in prolonged pregnancy
+neonatal respiratory failure	associated with	meconium-stained fluid
+labor duration	extended due to	post-term gestation
+antibiotic prophylaxis	used for	prolonged pregnancy delivery
+blood loss	increases with	prolonged pregnancy delivery
+neonatal adaptation	affected by	post-term birth
+postnatal transition	may be delayed in	prolonged pregnancy
+delivery planning	revisited when	post-term

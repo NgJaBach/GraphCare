@@ -1,0 +1,99 @@
+other eye disorders	is a	ocular disease category
+other eye disorders	include	glaucoma
+glaucoma	is a	optic neuropathy
+glaucoma	causes	optic nerve damage
+cataract	is a	lens opacity
+cataract	causes	blurred vision
+diabetic retinopathy	is a	microvascular complication
+diabetic retinopathy	causes	vision loss
+age-related macular degeneration	is a	degenerative condition
+age-related macular degeneration	causes	central vision loss
+retinal detachment	leads to	vision loss
+retinal detachment	treated with	vitrectomy
+retinal detachment	treated with	scleral buckle
+retinal detachment	treated with	pneumatic retinopexy
+conjunctivitis	causes	eye redness
+conjunctivitis	treated with	antibiotic drops
+keratitis	causes	eye pain
+keratitis	treated with	antibiotics
+uveitis	treated with	corticosteroids
+uveitis	associated with	autoimmune disease
+blepharitis	treated with	lid hygiene
+blepharitis	associated with	seborrheic dermatitis
+stye	resolved by	warm compress
+ptosis	corrected by	eyelid surgery
+strabismus	corrected by	eye muscle surgery
+amblyopia	treated with	occlusion therapy
+amblyopia	treated with	patching therapy
+myopia	corrected with	glasses
+myopia	corrected with	contact lenses
+hyperopia	corrected with	contact lenses
+presbyopia	corrected with	reading glasses
+keratoconus	is a	corneal thinning disorder
+keratoconus	causes	distorted vision
+macular edema	associated with	retinal vein occlusion
+diabetic macular edema	is a	complication of diabetes
+diabetic macular edema	causes	vision loss
+ocular hypertension	is a	risk factor for glaucoma
+glaucoma	measured by	intraocular pressure
+intraocular pressure	high in	glaucoma
+diabetic retinopathy	diagnosed by	fluorescein angiography
+diabetic retinopathy	diagnosed by	optical coherence tomography
+macular degeneration	diagnosed by	optical coherence tomography
+glaucoma	diagnosed by	tonometry
+cataract	diagnosed by	slit lamp examination
+conjunctivitis	diagnosed by	clinical examination
+uveitis	diagnosed by	slit lamp examination
+retinal detachment	diagnosed by	ultrasound
+stye	diagnosed by	clinical examination
+stye	treated with	warm compress
+diabetic retinopathy	treated with	laser therapy
+glaucoma	treated with	laser therapy
+glaucoma	treated with	prostaglandin analog
+glaucoma	treated with	beta-blocker
+cataract	treated with	phacoemulsification
+cataract	treated with	intraocular lens implantation
+retinal detachment	treated with	surgical repair
+macular degeneration	treated with	anti-VEGF agents
+age-related macular degeneration	treated with	anti-VEGF therapy
+laser photocoagulation	used for	diabetic retinopathy
+intravitreal injection	used for	diabetic retinopathy
+wet age-related macular degeneration	treated with	anti-VEGF therapy
+vitreous hemorrhage	causes	vision loss
+optic neuritis	presents with	vision loss
+optic neuritis	associated with	multiple sclerosis
+optic nerve pallor	indicates	optic neuropathy
+macula	affected by	age-related macular degeneration
+retina	affected by	diabetic retinopathy
+cornea	affected by	keratoconus
+cornea	transplanted by	keratoplasty
+iris	controls	pupil size
+lens	affected by	cataract
+optic nerve	damaged by	glaucoma
+intraocular pressure	elevated in	glaucoma
+pupillary dilation	used for	fundus examination
+fundus examination	used for	retina assessment
+optical coherence tomography	used for	macular degeneration
+slit lamp examination	used for	anterior segment evaluation
+fluorescein angiography	used for	diabetic retinopathy
+pupil dilation	used for	fundus examination
+ophthalmic imaging	used for	retina evaluation
+phacoemulsification	performed for	cataract
+cataract surgery	results in	improved vision
+anti-VEGF therapy	used for	neovascularization
+bevacizumab	used for	retinal neovascularization
+ranibizumab	used for	macular edema
+aflibercept	used for	retinal vein occlusion edema
+latanoprost	is a	prostaglandin analog
+timolol	is a	beta-blocker
+dorzolamide	is a	carbonic anhydrase inhibitor
+prednisone	used for	ocular inflammation
+cycloplegic agents	used for	pupil dilation
+retinal vein occlusion	associated with	hypertension
+central retinal artery occlusion	causes	sudden vision loss
+diabetic retinopathy	predisposes to	macular edema
+neovascularization	occurs in	diabetic retinopathy
+neovascularization	seen in	age-related macular degeneration
+retinal pigment epithelium	involved in	age-related macular degeneration
+retinal nerve fiber layer	thinning in	glaucoma
+scleral buckle	used for	retinal detachment

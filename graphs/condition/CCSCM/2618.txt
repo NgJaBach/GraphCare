@@ -1,0 +1,100 @@
+e codes	include	other specified external causes
+fall	is external cause of	injury
+fall	leads to	fracture
+fall	results in	hospitalization
+fall	associated with	mortality
+slip	is external cause of	injury
+slip	leads to	fracture
+slip	results in	hospitalization
+motor vehicle crash	is external cause of	injury
+motor vehicle crash	leads to	mortality
+motor vehicle crash	results in	hospitalization
+pedestrian collision	is external cause of	injury
+pedestrian collision	leads to	hospitalization
+bicycle accident	is external cause of	injury
+bicycle accident	results in	fracture
+drowning	is external cause of	injury
+drowning	leads to	asphyxia
+electrocution	is external cause of	injury
+electrocution	results in	cardiac arrest
+burn	is external cause of	injury
+burn	leads to	scarring
+burn	requires	skin graft
+fire	is external cause of	injury
+fire	leads to	smoke inhalation
+explosion	is external cause of	injury
+explosion	results in	trauma
+poisoning	is external cause of	injury
+poisoning	leads to	organ failure
+drug overdose	is external cause of	injury
+drug overdose	leads to	respiratory failure
+alcohol poisoning	is external cause of	injury
+alcohol poisoning	leads to	coma
+chemical exposure	is external cause of	injury
+chemical exposure	results in	toxic effect
+suffocation	is external cause of	injury
+suffocation	leads to	hypoxia
+carbon monoxide poisoning	is external cause of	injury
+carbon monoxide poisoning	leads to	hypoxia
+cold exposure	is external cause of	hypothermia
+cold exposure	leads to	frostbite
+heat exposure	is external cause of	injury
+heat exposure	leads to	heat stroke
+firearm discharge	is external cause of	injury
+gunshot wound	is external cause of	injury
+gunshot wound	leads to	mortality
+knife wound	is external cause of	injury
+stab wound	leads to	infection
+animal bite	is external cause of	injury
+dog bite	leads to	infection
+snake bite	leads to	neurotoxin effect
+insect sting	is external cause of	injury
+scuba diving accident	is external cause of	injury
+scuba diving accident	leads to	arterial gas embolism
+occupational exposure	is external cause of	injury
+workplace accident	leads to	fracture
+construction accident	is external cause of	injury
+industrial accident	leads to	trauma
+watercraft collision	is external cause of	injury
+airplane crash	is external cause of	injury
+train derailment	is external cause of	injury
+train collision	is external cause of	injury
+fall from height	is external cause of	injury
+fall from height	leads to	fracture
+crush injury	is external cause of	injury
+crush injury	results in	limb amputation
+machinery accident	is external cause of	injury
+machinery accident	leads to	amputation
+tractor rollover	is external cause of	injury
+vehicle rollover	is external cause of	injury
+earthquake collapse	is external cause of	injury
+landslide	is external cause of	injury
+flood exposure	is external cause of	injury
+tsunami impact	is external cause of	injury
+hurricane impact	is external cause of	injury
+arson	is external cause of	injury
+gun violence	is external cause of	injury
+homicide	is external cause of	injury
+mugging	is external cause of	injury
+carbon monoxide exposure	is external cause of	injury
+poisoning by pesticide	is external cause of	injury
+poisoning by pesticide	leads to	organ failure
+inhalation injury	is external cause of	injury
+smoke inhalation	leads to	respiratory failure
+occupational poisoning	is external cause of	injury
+chemical inhalation	is external cause of	injury
+exposure to radiation	is external cause of	injury
+radiation exposure	leads to	skin damage
+blast injury	is external cause of	injury
+blast injury	results in	trauma
+near drowning	is external cause of	injury
+water inhalation	leads to	aspiration
+air pollution exposure	is external cause of	injury
+industrial emission	leads to	respiratory failure
+electrocution	leads to	arrhythmia
+electrocution	results in	death
+steam burn	is external cause of	injury
+steam burn	leads to	tissue damage
+mudslide	is external cause of	injury
+landmine exposure	is external cause of	injury
+flare gun accident	is external cause of	injury

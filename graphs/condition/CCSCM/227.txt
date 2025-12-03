@@ -1,0 +1,100 @@
+spinal cord injury	is a	neurological trauma
+spinal cord injury	causes	pneumonia
+spinal cord injury	causes	urinary tract infection
+spinal cord injury	causes	pressure ulcer
+spinal cord injury	causes	deep vein thrombosis
+spinal cord injury	causes	pulmonary embolism
+spinal cord injury	causes	sepsis
+spinal cord injury	causes	neurogenic bladder
+spinal cord injury	causes	neurogenic bowel
+spinal cord injury	causes	autonomic dysreflexia
+spinal cord injury	requires	ventilator support
+spinal cord injury	treated by	decompression surgery
+spinal cord injury	treated with	steroids
+spinal cord injury	leads to	contractures
+spinal cord injury	increases	length of stay
+spinal cord injury	increases	hospital costs
+spinal cord injury	increases	mortality
+spinal cord injury	increases	readmission
+autonomic dysreflexia	is a	complication of spinal cord injury
+autonomic dysreflexia	requires	emergency management
+tetraplegia	is a	spinal cord injury type
+paraplegia	is a	spinal cord injury type
+AIS grade A	indicates	complete injury
+AIS grade B	indicates	sensory incomplete
+rehabilitation	improves	functional outcome
+physical therapy	improves	mobility
+occupational therapy	improves	independence
+assistive device	improves	activities of daily living
+bowel program	manages	neurogenic bowel
+catheterization	manages	neurogenic bladder
+baclofen	reduces	spasticity
+tizanidine	reduces	spasticity
+gabapentin	reduces	neuropathic pain
+pregabalin	reduces	neuropathic pain
+dantrolene	reduces	spasticity
+botulinum toxin	reduces	spasticity
+methylprednisolone	is a	steroid
+decompression surgery	treats	spinal cord compression
+laminectomy	treats	spinal cord compression
+tracheostomy	is performed for	airway management
+intubation	performed for	airway protection
+ventilator	supports	respiration
+respiratory failure	occurs in	spinal cord injury
+pneumonia	complicates	spinal cord injury
+urinary tract infection	complicates	spinal cord injury
+pressure ulcer	complicates	spinal cord injury
+osteoporosis	develops in	spinal cord injury
+bone density loss	occurs in	spinal cord injury
+orthostatic hypotension	occurs in	spinal cord injury
+thermoregulation disorder	occurs in	spinal cord injury
+autonomic dysfunction	occurs in	spinal cord injury
+chronic pain	persists in	spinal cord injury
+depression	occurs in	spinal cord injury
+anxiety	occurs in	spinal cord injury
+sleep disorder	occurs in	spinal cord injury
+memory impairment	occurs in	spinal cord injury
+functional independence	achieved by	rehabilitation
+mobility	improves	physical therapy
+daily living activities	supported by	assistive device
+independence	depends on	rehabilitation outcome
+discharge destination	predicts	readmission
+age	affects	mortality
+AIS grade	influences	prognosis
+injury severity	determines	rehabilitation intensity
+spinal cord injury	increases	caregiver burden
+caregiver burden	reduces	quality of life
+urinary catheterization	improves	bladder drainage
+neurogenic bladder	managed by	catheterization
+neurogenic bowel	managed by	bowel regimen
+bowel regimen	improves	bowel continence
+urinary catheter	ensures	bladder drainage
+bladder drainage	reduces	urinary retention
+scoliosis	develops in	spinal cord injury
+bone fracture risk	increases in	spinal cord injury
+infection risk	increases in	spinal cord injury
+pressure redistribution	reduces	pressure ulcer risk
+skin care	prevents	pressure ulcer
+mobilization	improves	muscle strength
+outcome	depends on	injury severity
+injury severity	predicts	rehabilitation intensity
+AIS grade A	influences	prognosis
+spinal cord injury	affects	autonomic function
+autonomic function	affected by	spinal cord injury
+palliative care	involved in	spinal cord injury
+discharge to home	more likely with	milder injury
+milder injury	correlates with	discharge to home
+ambulatory ability	depends on	motor function
+motor function	determines	ambulatory ability
+rehabilitation intensity	influences	functional independence
+functional independence	improves	quality of life
+quality of life	improves	social participation
+social participation	increases	life satisfaction
+life satisfaction	improves	caregiver well-being
+caregiver well-being	depends on	support services
+support services	improve	caregiver well-being
+fusion	stabilizes	spine
+fusion	used for	spinal stabilization
+spinal stabilization	achieved by	fusion
+kinesiotherapy	used for	motor recovery
+neurorehabilitation	specializes in	spinal cord injury

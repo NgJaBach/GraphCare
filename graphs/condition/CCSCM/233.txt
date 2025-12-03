@@ -1,0 +1,110 @@
+intracranial injury	is a	brain injury
+intracranial injury	is a	head trauma
+intracranial injury	increases risk of	mortality
+intracranial injury	increases risk of	readmission
+intracranial injury	increases risk of	hydrocephalus
+intracranial injury	increases risk of	seizures
+intracranial injury	associated with	edema
+intracranial injury	associated with	hematoma
+intracranial injury	associated with	subdural hematoma
+intracranial injury	associated with	epidural hematoma
+intracranial injury	diagnosed by	CT scan
+intracranial injury	diagnosed by	MRI
+intracranial injury	diagnosed by	CT angiography
+intracranial injury	monitored with	intracranial pressure monitor
+intracranial injury	treated with	craniotomy
+intracranial injury	treated with	craniectomy
+intracranial injury	treated with	burr hole
+intracranial injury	treated with	mannitol
+intracranial injury	treated with	hypertonic saline
+intracranial injury	treated with	anticonvulsant
+intracranial injury	treated with	steroids
+intracranial injury	treated with	mechanical ventilation
+intracranial injury	prognosis predicted by	Glasgow Coma Scale
+intracranial injury	prognosis predicted by	age
+intracranial injury	prognosis predicted by	hematoma
+intracranial injury	prognosis predicted by	intracranial pressure
+intracranial injury	prognosis influenced by	comorbidity
+intracranial injury	risk factor for	disability
+intracranial injury	risk factor for	mortality
+intracranial injury	leads to	coma
+intracranial injury	leads to	seizures
+intracranial injury	leads to	brain herniation
+intracranial injury	associated with	skull fracture
+intracranial injury	associated with	diffuse axonal injury
+intracranial injury	associated with	hydrocephalus
+intracranial injury	associated with	intracranial hypertension
+intracranial injury	associated with	pupillary dilation
+intracranial injury	associated with	anisocoria
+intracranial injury	requiring	neurosurgery
+intracranial injury	requiring	rehabilitation
+intracranial injury	monitored with	pupillary reflex
+intracranial injury	imaging finding	midline shift
+intracranial injury	imaging finding	hematoma
+intracranial injury	imaging finding	edema
+intracranial injury	imaging finding	ischemia
+intracranial injury	imaging finding	herniation
+intracranial injury	outcome	functional status
+intracranial injury	outcome	discharge destination
+intracranial injury	time to treatment	rapid
+intracranial injury	time to treatment	early
+intracranial injury	time to surgery	expedited
+intracranial injury	time to surgery	prompt
+intracranial injury	mechanism	trauma
+intracranial injury	mechanism	blunt force
+intracranial injury	mechanism	penetrating injury
+intracranial injury	mechanism	blunt trauma
+intracranial injury	etiology	accident
+intracranial injury	etiology	fall
+intracranial injury	etiology	assault
+intracranial injury	etiology	sports injury
+intracranial injury	comorbidity association	hypertension
+intracranial injury	comorbidity association	diabetes
+intracranial injury	comorbidity association	smoking
+intracranial injury	disability predictor	residence in care facility
+intracranial injury	disability predictor	age
+intracranial injury	disability predictor	initial severity
+intracranial injury	severity classification	severe
+intracranial injury	severity classification	moderate
+intracranial injury	severity classification	mild
+intracranial injury	prognostic marker	S100B
+intracranial injury	prognostic marker	GFAP
+intracranial injury	ICU admission predictor	age
+intracranial injury	ICU admission predictor	injury severity
+intracranial injury	rehabilitation outcome predictor	family support
+intracranial injury	discharge destination predictor	home
+intracranial injury	discharge destination predictor	rehabilitation facility
+intracranial injury	readmission predictor	discharge planning
+intracranial injury	readmission predictor	medication errors
+intracranial injury	mortality predictor	age
+intracranial injury	mortality predictor	comorbidity burden
+intracranial injury	neurosurgery indication	expanding hematoma
+intracranial injury	neurosurgery indication	worsening neurological status
+intracranial injury	imaging modality	CT
+intracranial injury	imaging modality	MRI
+intracranial injury	edema location	periventricular
+intracranial injury	edema location	cortical
+intracranial injury	edema type	vasogenic
+intracranial injury	edema type	cytotoxic
+intracranial injury	hematoma type	subdural
+intracranial injury	hematoma type	epidural
+intracranial injury	hematoma type	intraparenchymal
+intracranial injury	outcome measure	Glasgow Outcome Scale
+intracranial injury	outcome measure	modified Rankin Scale
+intracranial injury	complication	infection
+intracranial injury	complication	pneumonia
+intracranial injury	complication	thromboembolism
+intracranial injury	discharge planning	social support
+intracranial injury	discharge destination	home
+intracranial injury	discharge destination	rehabilitation facility
+intracranial injury	long-term sequelae	cognitive impairment
+intracranial injury	long-term sequelae	motor deficit
+intracranial injury	long-term sequelae	persistent headache
+intracranial injury	prognosis	functional independence
+intracranial injury	prognosis	independence
+intracranial injury	recovery trajectory	gradual improvement
+intracranial injury	rehabilitation needs	speech therapy
+intracranial injury	rehabilitation needs	physical therapy
+intracranial injury	rehabilitation needs	occupational therapy
+intracranial injury	social determinant	housing stability
+intracranial injury	social determinant	caregiver support

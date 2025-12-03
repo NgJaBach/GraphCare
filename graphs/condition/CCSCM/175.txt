@@ -1,0 +1,100 @@
+bacterial vaginosis	is a	vaginal infection
+bacterial vaginosis	may cause	foul discharge
+bacterial vaginosis	diagnosed by	wet mount
+bacterial vaginosis	treated with	metronidazole
+bacterial vaginosis	associated with	other infections
+candidiasis	is a	fungal infection
+candidiasis	may cause	pruritus
+candidiasis	diagnosed by	microscopy
+candidiasis	treated with	fluconazole
+candidiasis	associated with	diabetes
+trichomoniasis	is a	protozoal infection
+trichomoniasis	may cause	malodorous discharge
+trichomoniasis	diagnosed by	NAAT
+trichomoniasis	treated with	metronidazole
+trichomoniasis	associated with	sexual activity
+vulvovaginal atrophy	is a	gynecologic condition
+vulvovaginal atrophy	occurs with	menopause
+vulvovaginal atrophy	treated with	vaginal estrogen
+pelvic inflammatory disease	is a	pelvic infection
+pelvic inflammatory disease	may cause	infertility
+pelvic inflammatory disease	treated with	antibiotics
+cervicitis	is a	cervical infection
+cervicitis	associated with	Chlamydia infection
+cervicitis	diagnosed by	cervical swab
+cervicitis	treated with	antibiotics
+cervical dysplasia	is a	pre-malignant condition
+cervical dysplasia	may progress to	cervical cancer
+cervical dysplasia	diagnosed by	Pap smear
+cervical dysplasia	treated with	cone biopsy
+cervical cancer	is a	gynecologic cancer
+cervical cancer	diagnosed by	Pap smear
+cervical cancer	treated with	radiotherapy
+cervical cancer	may cause	vaginal bleeding
+hpv infection	increases risk for	cervical cancer
+hpv vaccination	reduces risk for	cervical cancer
+age	is a	risk factor for	cervical cancer
+endometriosis	is a	gynecologic condition
+endometriosis	may cause	pelvic pain
+endometriosis	treated with	GnRH agonists
+endometriosis	associated with	infertility
+endometriosis	may cause	dysmenorrhea
+endometriosis	diagnosed by	laparoscopy
+leiomyoma	is a	benign uterine tumor
+uterine fibroids	is a	benign uterine tumor
+uterine fibroids	may cause	heavy menstrual bleeding
+uterine fibroids	treated with	myomectomy
+uterine fibroids	diagnosed by	ultrasound
+adenomyosis	is a	gynecologic condition
+adenomyosis	may cause	dysmenorrhea
+adenomyosis	treated with	hysterectomy
+endometrial cancer	is a	gynecologic cancer
+endometrial cancer	diagnosed by	endometrial biopsy
+endometrial cancer	treated with	hysterectomy
+endometrial cancer	associated with	postmenopausal bleeding
+ovarian cyst	is a	ovarian mass
+ovarian cyst	may cause	abdominal pain
+ovarian cyst	diagnosed by	ultrasound
+ovarian cyst	treated with	cystectomy
+polycystic ovary syndrome	is a	endocrine disorder
+polycystic ovary syndrome	associated with	insulin resistance
+polycystic ovary syndrome	increases risk for	infertility
+polycystic ovary syndrome	may cause	anovulation
+polycystic ovary syndrome	treated with	metformin
+polycystic ovary syndrome	treated with	hormonal contraception
+ovarian cancer	is a	gynecologic cancer
+ovarian cancer	diagnosed by	ca-125 test
+ovarian cancer	treated with	surgery
+ovarian cancer	may cause	abdominal distension
+ovarian cancer	associated with	family history
+bartholin cyst	is a	vulvar cyst
+bartholin cyst	may cause	swelling
+bartholin gland abscess	is a	vulvar infection
+bartholin gland abscess	treated with	drainage
+vulvar cancer	is a	gynecologic cancer
+vulvar cancer	diagnosed by	biopsy
+vulvar cancer	treated with	surgery
+vulvar cancer	associated with	hpv infection
+vulvar dermatitis	is a	dermatologic condition
+vulvar dermatitis	affects	genital skin
+lichen sclerosus	is a	dermatologic condition
+lichen sclerosus	affects	genital skin
+lichen planus	is a	dermatologic condition
+lichen planus	may affect	genital mucosa
+vaginismus	is a	sexual dysfunction
+vaginismus	may cause	dyspareunia
+dyspareunia	is a	sexual symptom
+dyspareunia	may be associated with	endometriosis
+dyspareunia	treated with	physical therapy
+vaginal discharge	is a	symptom
+cervical polyp	is a	gynecologic lesion
+endocervical polyp	is a	gynecologic lesion
+ovarian cystadenoma	is a	ovarian tumor
+ovarian cystadenoma	treated with	cystectomy
+ovarian cancer	treated with	chemotherapy
+ectopic pregnancy	is a	pregnancy complication
+ectopic pregnancy	diagnosed by	transvaginal ultrasound
+ectopic pregnancy	treated with	methotrexate
+ectopic pregnancy	associated with	tubal pregnancy
+urethral diverticulum	is a	gynecologic condition
+urethral diverticulum	may cause	recurrent urinary tract infection

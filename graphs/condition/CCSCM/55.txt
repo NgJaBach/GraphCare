@@ -1,0 +1,112 @@
+hyponatremia	is a type of	electrolyte disorder
+hypernatremia	is a type of	electrolyte disorder
+hypokalemia	is a type of	electrolyte disorder
+hyperkalemia	is a type of	electrolyte disorder
+hypocalcemia	is a type of	electrolyte disorder
+hypercalcemia	is a type of	electrolyte disorder
+hypomagnesemia	is a type of	electrolyte disorder
+hypermagnesemia	is a type of	electrolyte disorder
+hypophosphatemia	is a type of	electrolyte disorder
+hyperphosphatemia	is a type of	electrolyte disorder
+dehydration	is a type of	fluid deficit
+overhydration	is a type of	fluid overload
+hypovolemia	is a type of	fluid deficit
+hypervolemia	is a type of	fluid overload
+diuretic use	causes	hyponatremia
+diuretic use	causes	hypokalemia
+diuretic use	causes	hypomagnesemia
+diuretic use	causes	hypophosphatemia
+kidney failure	predisposes to	hyperkalemia
+kidney failure	predisposes to	hyperphosphatemia
+CKD	predisposes to	metabolic acidosis
+CKD	predisposes to	hyperkalemia
+SIADH	causes	hyponatremia
+Diabetes insipidus	causes	hypernatremia
+liver cirrhosis	predisposes to	hyponatremia
+adrenal insufficiency	causes	hyperkalemia
+adrenal insufficiency	causes	hyponatremia
+hypoparathyroidism	causes	hypocalcemia
+vitalamin D deficiency	causes	hypocalcemia
+hyperparathyroidism	causes	hypercalcemia
+hypomagnesemia	causes	hypocalcemia
+hypomagnesemia	predisposes to	torsades de pointes
+hypophosphatemia	causes	weakness
+hyperphosphatemia	causes	calcifications
+vomiting	causes	metabolic alkalosis
+vomiting	causes	dehydration
+diarrhea	causes	dehydration
+diarrhea	causes	hypokalemia
+metabolic acidosis	caused by	kidney failure
+metabolic acidosis	caused by	diarrhea
+metabolic alkalosis	caused by	vomiting
+hypocalcemia	presents with	tetany
+hypokalemia	presents with	arrhythmia
+hyperkalemia	presents with	arrhythmia
+hypercalcemia	presents with	kidney stones
+hypomagnesemia	presents with	seizures
+hypermagnesemia	presents with	hypotension
+hypophosphatemia	presents with	muscle weakness
+hyperphosphatemia	presents with	calcifications
+dehydration	managed by	oral rehydration solution
+dehydration	managed by	intravenous fluids
+hyponatremia	treated with	hypertonic saline
+hyponatremia	treated with	fluid restriction
+hypernatremia	treated with	hypotonic fluids
+hypokalemia	treated with	potassium chloride
+hyperkalemia	treated with	calcium gluconate
+hyperkalemia	treated with	insulin
+hyperkalemia	treated with	glucose
+hyperkalemia	treated with	dialysis
+hypocalcemia	treated with	calcium supplementation
+hypomagnesemia	treated with	magnesium supplementation
+hypophosphatemia	treated with	phosphate supplementation
+hyperphosphatemia	treated with	phosphate binders
+hyperphosphatemia	treated with	calcium carbonate
+dialysis	treats	hyperkalemia
+dialysis	treats	hyperphosphatemia
+calcium gluconate	used for	hyperkalemia
+insulin	treats	hyperkalemia
+glucose	coadministered with	insulin
+potassium chloride	used for	hypokalemia
+magnesium sulfate	replaces	magnesium
+calcium carbonate	binds	phosphate
+calcium carbonate	used for	phosphate binding
+sevelamer	used for	hyperphosphatemia
+phosphate binders	used for	hyperphosphatemia
+phosphate binders	used for	hyperphosphatemia
+calcium carbonate	used for	hyperphosphatemia
+dextrose	coadministered with	insulin
+intravenous fluids	used for	dehydration
+isotonic saline	treats	dehydration
+hypertonic saline	used for	severe hyponatremia
+intravenous fluids	provide	sodium
+serum osmolality	reflects	fluid status
+urine sodium	indicates	volume status
+serum potassium	reflects	electrolyte balance
+serum sodium	reflects	fluid balance
+renal disease	increases	risk of electrolyte disturbances
+diabetes mellitus	increases	dehydration risk
+age	increases	electrolyte disturbance risk
+electrolyte disturbance	associated with	mortality
+electrolyte disturbance	predicts	readmission
+electrolyte disturbance	is a complication of	kidney disease
+electrolyte disposal	not applicable	placeholder
+hepatorenal syndrome	associated with	hyponatremia
+metabolic acidosis	associated with	hyperkalemia
+metabolic acidosis	treated with	bicarbonate therapy
+bicarbonate therapy	used for	metabolic acidosis
+hyperkalemia	causes	ECG changes
+hypokalemia	causes	U waves
+QT prolongation	associated with	hypokalemia
+torsades de pointes	associated with	hypomagnesemia
+nephrolithiasis	associated with	hypercalcemia
+nephrolithiasis	associated with	hypercalcemia
+rehydration	improves	electrolyte balance
+pulmonary edema	results from	fluid overload
+edema	associated with	heart failure
+fluid overload	leads to	pulmonary edema
+hyponatremia	associated with	cognitive dysfunction
+hypernatremia	associated with	mental status changes
+hypocalcemia	associated with	neuromuscular irritability
+hyperphosphatemia	associated with	vascular calcification
+hypovolemia	associated with	prerenal azotemia

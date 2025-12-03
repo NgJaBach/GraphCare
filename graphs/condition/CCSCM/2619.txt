@@ -1,0 +1,100 @@
+external cause code	codes for	injury
+external cause code	indicates	injury
+external cause code	codes for	poisoning
+external cause code	indicates	poisoning
+external cause code	codes for	burn
+external cause code	indicates	burn
+external cause code	codes for	drowning
+external cause code	indicates	drowning
+external cause code	codes for	fall
+external cause code	indicates	fall
+external cause code	codes for	asphyxia
+external cause code	indicates	asphyxia
+external cause code	codes for	electrocution
+external cause code	indicates	electrocution
+external cause code	codes for	gunshot wound
+external cause code	indicates	gunshot wound
+external cause code	codes for	stab wound
+external cause code	indicates	stab wound
+external cause code	codes for	fracture
+external cause code	indicates	fracture
+external cause code	codes for	head injury
+external cause code	indicates	head injury
+external cause code	codes for	traumatic brain injury
+external cause code	indicates	traumatic brain injury
+external cause code	codes for	poisoning by ingestion
+external cause code	indicates	poisoning by ingestion
+external cause code	codes for	poisoning by inhalation
+external cause code	indicates	poisoning by inhalation
+external cause code	codes for	overdose
+external cause code	indicates	overdose
+external cause code	codes for	heat exposure
+external cause code	indicates	heat exposure
+external cause code	codes for	exposure to cold
+external cause code	indicates	exposure to cold
+external cause code	codes for	smoke inhalation
+external cause code	indicates	smoke inhalation
+external cause code	codes for	blast injury
+external cause code	indicates	blast injury
+external cause code	codes for	road traffic crash
+external cause code	indicates	road traffic crash
+external cause code	codes for	motor vehicle collision
+external cause code	indicates	motor vehicle collision
+external cause code	codes for	pedestrian injury
+external cause code	indicates	pedestrian injury
+external cause code	codes for	sports injury
+external cause code	indicates	sports injury
+external cause code	codes for	occupational accident
+external cause code	indicates	occupational accident
+external cause code	codes for	industrial accident
+external cause code	indicates	industrial accident
+external cause code	codes for	crush injury
+external cause code	indicates	crush injury
+external cause code	codes for	suffocation
+external cause code	indicates	suffocation
+external cause code	codes for	hypothermia
+external cause code	indicates	hypothermia
+external cause code	codes for	heat stroke
+external cause code	indicates	heat stroke
+external cause code	codes for	chemical exposure
+external cause code	indicates	chemical exposure
+external cause code	codes for	radiation exposure
+external cause code	indicates	radiation exposure
+external cause code	codes for	explosion injury
+external cause code	indicates	explosion injury
+external cause code	codes for	fire injury
+external cause code	indicates	fire injury
+external cause code	codes for	chemical burn
+external cause code	indicates	chemical burn
+external cause code	codes for	electric burn
+external cause code	indicates	electric burn
+external cause code	codes for	bite injury
+external cause code	indicates	bite injury
+external cause code	codes for	animal bite
+external cause code	indicates	animal bite
+external cause code	codes for	fall from height
+external cause code	indicates	fall from height
+external cause code	codes for	neck injury
+external cause code	indicates	neck injury
+external cause code	codes for	spine injury
+external cause code	indicates	spine injury
+external cause code	codes for	skull fracture
+external cause code	indicates	skull fracture
+external cause code	codes for	rib fracture
+external cause code	indicates	rib fracture
+external cause code	codes for	femur fracture
+external cause code	indicates	femur fracture
+external cause code	codes for	tibia fracture
+external cause code	indicates	tibia fracture
+external cause code	codes for	chest injury
+external cause code	indicates	chest injury
+external cause code	codes for	abdominal injury
+external cause code	indicates	abdominal injury
+external cause code	codes for	pelvic fracture
+external cause code	indicates	pelvic fracture
+external cause code	codes for	ankle fracture
+external cause code	indicates	ankle fracture
+external cause code	codes for	shoulder injury
+external cause code	indicates	shoulder injury
+external cause code	codes for	hip fracture
+external cause code	indicates	hip fracture

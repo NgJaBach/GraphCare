@@ -1,0 +1,99 @@
+meningitis	is a	inflammatory disease of meninges
+bacterial meningitis	is a form of	meningitis
+viral meningitis	is a form of	meningitis
+fungal meningitis	is a form of	meningitis
+tuberculous meningitis	is a form of	meningitis
+aseptic meningitis	is a form of	meningitis
+neonatal meningitis	is a form of	meningitis
+Neisseria meningitidis	causes	meningitis
+Streptococcus pneumoniae	causes	meningitis
+Haemophilus influenzae	causes	meningitis
+Listeria monocytogenes	causes	meningitis
+Cryptococcus neoformans	causes	meningitis
+Mycobacterium tuberculosis	causes	tuberculous meningitis
+Enteroviruses	cause	viral meningitis
+Herpes simplex virus	can cause	meningitis
+headache	is a symptom of	meningitis
+neck stiffness	is a sign of	meningitis
+fever	is a symptom of	meningitis
+photophobia	is a symptom of	meningitis
+nausea	is a symptom of	meningitis
+vomiting	is a symptom of	meningitis
+altered mental status	is a symptom of	meningitis
+Kernig sign	indicates	meningitis
+Brudzinski sign	indicates	meningitis
+lumbar puncture	used for	meningitis diagnosis
+CSF analysis	shows	neutrophilic pleocytosis
+CSF glucose	decreased in	bacterial meningitis
+CSF protein	increased in	meningitis
+CSF cell count	elevated in	meningitis
+CSF culture	detects	meningitis pathogen
+PCR test	detects	meningitis pathogen
+CT scan	shows	meningeal enhancement
+MRI	detects	meningitis complications
+blood culture	yields	meningitis pathogen
+vancomycin	used for	meningitis
+third-generation cephalosporin	used for	bacterial meningitis
+ampicillin	used for	Listeria monocytogenes meningitis
+dexamethasone	reduces	inflammation in meningitis
+steroids	used as	adjunctive therapy for meningitis
+intravenous antibiotics	administered for	meningitis
+empirical therapy	includes	broad-spectrum antibiotics
+broad-spectrum antibiotics	initial therapy for	meningitis
+pediatric patients	commonly affected by	meningitis
+elderly patients	have higher mortality from	meningitis
+age	influences	meningitis prognosis
+delay in antibiotic therapy	worsens	meningitis prognosis
+delayed antibiotic therapy	increases	mortality in meningitis
+vaccination	prevents	meningitis
+meningitis vaccines	protect against	Neisseria meningitidis
+pneumococcal vaccine	protects against	pneumococcal meningitis
+Haemophilus influenzae type b vaccine	protects against	Hib meningitis
+hand hygiene	reduces	meningitis transmission
+crowding	increases	meningitis transmission
+outbreaks	involve	meningitis
+immunocompromised status	increases	meningitis risk
+asplenia	increases	meningitis risk
+neonatal period	associated with	meningitis risk
+seizures	occur in	meningitis
+hydrocephalus	can result from	meningitis
+hearing loss	can result from	meningitis
+cerebral edema	complication of	meningitis
+intracranial pressure	elevated in	meningitis
+mortality	associated with	meningitis
+Glasgow outcome scale	used to measure	meningitis outcome
+timely antibiotic therapy	improves	meningitis outcome
+brain injury	can result from	meningitis
+antibiotic resistance	challenges	meningitis treatment
+nosocomial meningitis	occurs in	hospital setting
+post-infectious hydrocephalus	occurs after	meningitis
+hearing impairment	sequela of	meningitis
+memory impairment	sequela of	meningitis
+seizure disorders	long-term sequela of	meningitis
+disease prevalence	varies by	geography in meningitis
+Neisseria meningitidis infection	associated with	meningitis outbreaks
+vaccines	reduce	meningitis incidence
+meningitis vaccine	protects against	Neisseria meningitidis
+blood-brain barrier	disrupted by	meningitis
+inflammation	can cause	blood-brain barrier disruption
+meningeal vasculature	inflamed in	meningitis
+post-exposure prophylaxis	recommended for	meningitis contacts
+rifampin	used for	meningitis contacts
+ciprofloxacin	used for	meningitis contacts
+vaccination programs	reduce	meningitis burden
+neonates	at high risk for	meningitis
+seizures	common in	meningitis
+hearing loss	common in	meningitis
+hydrocephalus	potential complication of	meningitis
+brain abscess	rare complication of	meningitis
+sepsis	may accompany	meningitis
+coagulopathy	may accompany	meningitis
+respiratory failure	rare complication of	meningitis
+hypotension	indicates	sepsis in meningitis
+renal failure	possible complication of	meningitis
+long-term neurological sequelae	possible in	meningitis
+memory impairment	possible sequela of	meningitis
+cognitive impairment	possible sequela of	meningitis
+hearing loss	possible sequela of	meningitis
+death	possible outcome of	meningitis
+mortality rate	varies with	meningitis type

@@ -1,0 +1,101 @@
+alcohol-related liver disease	is a	liver disease
+alcohol-related liver disease	includes	alcoholic fatty liver
+alcohol-related liver disease	includes	alcoholic hepatitis
+alcohol-related liver disease	includes	cirrhosis
+excessive alcohol use	increases risk of	alcohol-related liver disease
+age	influences	mortality in alcohol-related liver disease
+male sex	is a risk factor for	alcohol-related liver disease
+abstinence from alcohol	improves	survival in alcohol-related liver disease
+ascites	is a complication of	alcohol-related liver disease
+hepatic encephalopathy	is a complication of	alcohol-related liver disease
+varices	are a complication of	alcohol-related liver disease
+coagulopathy	is a complication of	alcohol-related liver disease
+hypoalbuminemia	accompanies	alcohol-related liver disease
+jaundice	presents with	alcohol-related liver disease
+hyperbilirubinemia	accompanies	alcohol-related liver disease
+AST	is elevated in	alcohol-related liver disease
+ALT	is elevated in	alcohol-related liver disease
+GGT	is elevated in	alcohol-related liver disease
+bilirubin	increases with	alcohol-related liver disease
+INR	increases in	alcohol-related liver disease
+platelet count	decreases with	alcohol-related liver disease
+liver ultrasound	detects	hepatic steatosis
+abdominal ultrasound	detects	cirrhosis
+liver biopsy	confirms	alcoholic hepatitis
+MELD score	predicts	mortality
+Child-Pugh score	predicts	prognosis
+fibrosis	worsens with	alcohol-related liver disease
+liver stiffness	increases with	alcohol-related liver disease
+hepatic steatosis	is a feature of	alcohol-related liver disease
+ultrasound	shows	hepatic steatosis
+CT scan	shows	cirrhosis
+MRI	shows	liver fibrosis
+MELD score	used for	transplant prioritization
+liver transplantation	considered for	advanced alcohol-related liver disease
+corticosteroids	treat	alcoholic hepatitis
+prednisone	is a	corticosteroid
+methylprednisolone	is a	corticosteroid
+pentoxifylline	used for	alcoholic hepatitis
+nutritional support	recommended for	alcohol-related liver disease
+thiamine supplementation	recommended for	alcohol-related liver disease
+abstinence from alcohol	improves	survival
+antibiotics	used for	spontaneous bacterial peritonitis
+diuretics	used for	ascites
+paracentesis	performed for	ascites
+albumin	used for	large-volume paracentesis
+sodium restriction	recommended for	ascites
+lactulose	treats	hepatic encephalopathy
+rifaximin	treats	hepatic encephalopathy
+nonselective beta-blockers	prevent	variceal bleeding
+carvedilol	is a	nonselective beta-blocker
+beta-blockers	reduce	portal hypertension
+variceal prophylaxis	reduces	variceal bleeding
+diuretics	reduce	edema
+hypomagnesemia	occurs with	alcohol-related liver disease
+malnutrition	worsens	prognosis
+infection	worsens	prognosis of alcoholic hepatitis
+SBP	increases	mortality in cirrhosis
+alcohol	is metabolized by	liver
+ethanol	produces	acetaldehyde
+acetaldehyde	is toxic to	hepatocytes
+oxidative stress	damages	hepatocytes
+cirrhosis	increases	portal hypertension
+portal hypertension	causes	ascites
+alcohol-related liver disease	increases risk of	hepatocellular carcinoma
+hepatocellular carcinoma	risk increased by	alcohol-related liver disease
+sarcopenia	occurs with	alcohol-related liver disease
+hyperammonemia	causes	hepatic encephalopathy
+hepatorenal syndrome	is a complication of	advanced liver disease
+renal dysfunction	occurs with	alcoholic liver disease
+portal vein thrombosis	occurs with	cirrhosis
+coagulation factor deficiency	occurs with	liver failure
+anticoagulation therapy	used for	portal vein thrombosis in cirrhosis
+Vitamin K deficiency	occurs with	alcohol-related liver disease
+glucose intolerance	associated with	alcoholic liver disease
+hyponatremia	indicates	advanced liver disease
+sodium retention	contributes to	ascites
+urea	decreases with	liver failure
+hepatic venous pressure gradient	reflects	portal hypertension
+albumin level	indicates	nutritional status
+protein-energy malnutrition	predicts	poor outcome in alcohol-related liver disease
+transplant candidacy	determined by	MELD score
+infection risk	increases with	cirrhosis
+immune dysfunction	occurs with	alcohol-related liver disease
+gastroesophageal varices	are a complication of	cirrhosis
+variceal bleed	signals	portal hypertension
+TIPS procedure	reduces	variceal bleeding
+portal hypertension	leads to	splenomegaly
+splenomegaly	occurs with	cirrhosis
+ascites	leads to	spontaneous bacterial peritonitis
+SBP	is managed with	antibiotics
+liver function tests	reflect	hepatocellular injury
+serum albumin	correlates with	nutritional status
+serum sodium	correlates with	prognosis in cirrhosis
+hyponatremia	predicts	poor outcome in cirrhosis
+ammonia	correlates with	encephalopathy severity
+sarcopenia	impairs	survival in cirrhosis
+antibiotic prophylaxis	prevents	SBP in cirrhosis
+liver function decline	predicts	hospitalization duration
+alkaline phosphatase	may be elevated in	alcoholic liver disease
+bilirubin	reflects	cholestasis in liver disease
+cholestasis	occurs with	alcoholic liver disease

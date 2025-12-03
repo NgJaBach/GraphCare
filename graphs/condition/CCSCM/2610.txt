@@ -1,0 +1,100 @@
+transport accident	is a	external cause
+external cause	coded as	e-code
+pedestrian	involved in	transport accident
+cyclist	involved in	transport accident
+aircraft	involved in	transport accident
+train	involved in	transport accident
+ship	involved in	transport accident
+boat	involved in	transport accident
+urban area	site of	transport accident
+rural area	site of	transport accident
+injury	results from	transport accident
+injury	type	fracture
+injury	type	concussion
+injury	type	contusion
+injury	type	burn
+injury	severity	mild
+injury	severity	severe
+injury	mechanism	blunt force
+injury	mechanism	penetrating trauma
+injury	mechanism	crush injury
+injury	requires	hospitalization
+hospitalization	leads to	discharge
+hospitalization	duration	short term
+mortality	associated with	transport accident
+mortality	increases with	age
+mortality	associated with	head injury
+head injury	severity	traumatic brain injury
+traumatic brain injury	results in	coma
+coma	duration	prolonged
+injury	leads to	surgery
+surgery	type	orthopedic surgery
+surgery	indication	fracture repair
+fracture	location	femoral fracture
+fracture	location	tibial fracture
+fracture	healing	callus formation
+imaging	used for	diagnosis
+X-ray	used for	fracture detection
+CT scan	used for	fracture evaluation
+MRI	used for	soft tissue injury
+emergency department	receives	transport accident
+ambulance	transports	patient to hospital
+readmission	risk factor	inadequate discharge planning
+protective gear	reduces	injury severity
+helmet	reduces	head injury risk
+non-motorized transport	includes	bicycle crash
+bicycle crash	results in	injury
+cyclist	sustains	knee injury
+injury	leads to	amputation
+amputation	requires	prosthesis
+prosthesis	usage	rehabilitation
+rehabilitation	aims for	functional recovery
+transport accident	location	intersection
+intersection	hazard	traffic signal failure
+traffic signal	state	malfunction
+non-motorized transport accident	includes	pedestrian crash
+pedestrian crash	involves	cyclist
+injury	results in	disability
+disability	reduces	quality of life
+transport accident	increases	emergency department visits
+emergency department visits	contribute to	cost
+cost	associated with	hospitalization
+home discharge	after hospitalization	occurs
+discharge planning	improves	readmission risk
+readmission	risk factor	early discharge
+trauma center	specialization	acute care
+trauma center	outcome	improved survival
+ICU admission	required for	severe trauma
+ICU stay	length	variable
+nursing care	essential	recovery
+pain management	reduces	agitation
+analgesia	route	intravenous
+antibiotics	used for	open fracture
+open fracture	risk	infection
+infection	leads to	sepsis
+sepsis	increases	mortality
+blood loss	leads to	hemorrhagic shock
+hemorrhagic shock	requires	transfusion
+transfusion	carries	infection risk
+coagulopathy	complicates	bleeding control
+radiology department	performs	imaging
+coding	supports	billing
+medical coder	assigns	e-code
+health record	stores	transport accident data
+insurance	covers	hospitalization
+policy	impact	patient access to care
+care continuity	improves	outcomes
+follow-up visit	reduces	readmission risk
+outpatient care	reduces	hospital stay
+occupational therapy	supports	functional recovery
+physical therapy	improves	mobility
+nutrition	supports	wound healing
+sleep quality	influences	recovery rate
+injury	predisposes to	chronic pain
+chronic pain	reduces	quality of life
+rehabilitation facility	location	post-acute care
+post-acute care	includes	home health services
+home health services	support	chronic disease management
+chronic disease	worsens	trauma outcomes
+trauma protocol	ensures	rapid care
+care pathway	standardizes	treatment

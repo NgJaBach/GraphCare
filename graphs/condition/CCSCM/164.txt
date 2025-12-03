@@ -1,0 +1,102 @@
+hyperplasia of prostate	is a	benign prostatic condition
+hyperplasia of prostate	causes	lower urinary tract symptoms
+hyperplasia of prostate	causes	urinary retention
+hyperplasia of prostate	causes	nocturia
+hyperplasia of prostate	causes	urinary hesitancy
+hyperplasia of prostate	causes	weak urinary stream
+hyperplasia of prostate	causes	urgency
+hyperplasia of prostate	causes	frequency
+hyperplasia of prostate	leads to	bladder outlet obstruction
+bladder outlet obstruction	leads to	detrusor hypertrophy
+detrusor hypertrophy	may cause	urge incontinence
+hyperplasia of prostate	predisposes to	urinary tract infection
+hyperplasia of prostate	predisposes to	hydronephrosis
+age	is a risk factor for	hyperplasia of prostate
+family history	is associated with	hyperplasia of prostate
+obesity	associated with	hyperplasia of prostate
+digital rectal examination	is used for	assessment of hyperplasia of prostate
+PSA	is not specific for	hyperplasia of prostate
+transrectal ultrasound	is used for	evaluation of hyperplasia of prostate
+urodynamic testing	helps	evaluate obstruction in hyperplasia
+urine flow rate	indicates	obstruction severity
+post-void residual	correlates with	obstruction severity
+urinalysis	can show	infection or inflammation
+urinary tract infection	risk factors include	urinary retention
+hydronephrosis	may result from	urinary obstruction
+renal function	may decline with	chronic obstruction
+catheterization	provides	relief of urinary retention
+urinary catheter	is used for	drainage in urinary retention
+self-catheterization	used for	chronic urinary retention
+transurethral resection of the prostate	is a	surgical treatment for hyperplasia of prostate
+transurethral resection of the prostate	relieves	urinary obstruction
+open prostatectomy	is a	surgical treatment for large prostates
+laser enucleation of the prostate	is a	surgical treatment for hyperplasia of prostate
+greenlight laser therapy	is a	surgical treatment for hyperplasia of prostate
+TURP	is a	surgical procedure for hyperplasia of prostate
+TURP	relieves	urinary obstruction
+5-alpha-reductase inhibitors	reduce	prostate volume
+finasteride	is a	5-alpha-reductase inhibitor
+dutasteride	is a	5-alpha-reductase inhibitor
+5-alpha-reductase inhibitors	reduce	dihydrotestosterone
+alpha-1 blockers	improve	urinary flow
+tamsulosin	is a	alpha-1 blocker
+terazosin	is a	alpha-1 blocker
+watchful waiting	is a	management option for mild hyperplasia of prostate
+observation	is a	management option for mild hyperplasia of prostate
+antimuscarinic agents	treat	overactive bladder symptoms associated with hyperplasia of prostate
+urinary retention	increases risk of	bladder overdistension
+bladder overdistension	leads to	detrusor dysfunction
+detrusor dysfunction	causes	voiding dysfunction
+age	correlates with	prostate size
+prostate size	correlates with	symptom severity
+prostate volume	increases with	age
+prostate enlargement	associated with	obstruction
+prostate enlargement	compresses	urethra
+urethra	narrows due to	prostate enlargement
+urinary symptoms	impact	quality of life
+quality of life	worsens with	urinary retention
+urine flow rate	improves with	alpha-1 blockers
+post-void residual	reduces with	TURP
+post-void residual	reduces with	finasteride
+prostate-specific antigen	can be elevated with	prostate diseases
+PSA	used in	prostate cancer screening
+prostate cancer	must be ruled out in	evaluation of hyperplasia of prostate
+family history	increases risk for	prostate enlargement
+age	increases likelihood of	surgery for hyperplasia of prostate
+obstruction	worsens	urinary symptoms
+urinary retention	treated with	catheterization
+urinary retention	may require	permanent catheter
+hydronephrosis	may accompany	urinary obstruction
+bladder wall thickening	results from	chronic obstruction
+detrusor overactivity	contributes to	urge incontinence
+urinary incontinence	occurs with	hyperplasia of prostate
+nocturia	is a symptom of	hyperplasia of prostate
+urinary frequency	is a symptom of	hyperplasia of prostate
+urinary urgency	is a symptom of	hyperplasia of prostate
+urinary hesitancy	is a symptom of	hyperplasia of prostate
+urinary retention	is a complication of	hyperplasia of prostate
+urinary stasis	promotes	stone formation
+stone formation	occurs with	urinary obstruction
+urinary tract infection	may complicate	urinary retention
+antibiotics	treat	urinary tract infection
+bladder detrusor	may hypertrophy in	chronic obstruction
+renal perfusion	may be affected by	chronic obstruction
+nephropathy	risk increases with	hydronephrosis
+uroflowmetry	assesses	urine flow rate
+urodynamic study	evaluates	obstruction in hyperplasia of prostate
+prostate gland	enlarges with	age
+age	correlates with	prostate enlargement
+prostate enlargement	often presents with	LUTS
+LUTS	include	nocturia
+LUTS	include	urinary frequency
+LUTS	include	urgency
+LUTS	include	dysuria
+urinary symptoms	varying	severity across patients
+symptom severity	guides	treatment choice
+mild hyperplasia of prostate	managed with	observation
+moderate hyperplasia of prostate	managed with	medical therapy
+severe hyperplasia of prostate	managed with	surgical therapy
+surgical therapy	reduces	obstruction
+medical therapy	aims to	relieve symptoms
+antibiotics	not routinely used for	hyperplasia of prostate
+ PSA test	not definitive for	distinguishing BPH from cancer

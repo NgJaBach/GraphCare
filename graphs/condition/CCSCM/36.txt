@@ -1,0 +1,100 @@
+cancer of thyroid	is a	malignant neoplasm of thyroid
+cancer of thyroid	is a	thyroid malignancy
+papillary thyroid carcinoma	is a	cancer of thyroid
+follicular thyroid carcinoma	is a	cancer of thyroid
+medullary thyroid carcinoma	is a	cancer of thyroid
+anaplastic thyroid carcinoma	is a	cancer of thyroid
+cancer of thyroid	has histology	papillary thyroid carcinoma
+cancer of thyroid	has histology	follicular thyroid carcinoma
+cancer of thyroid	has histology	medullary thyroid carcinoma
+cancer of thyroid	has histology	anaplastic thyroid carcinoma
+cancer of thyroid	metastasizes to	lymph nodes
+cancer of thyroid	metastasizes to	lungs
+cancer of thyroid	metastasizes to	bones
+cancer of thyroid	metastasizes to	liver
+cancer of thyroid	metastasizes to	brain
+papillary thyroid carcinoma	metastasizes to	cervical lymph nodes
+follicular thyroid carcinoma	metastasizes to	bone
+medullary thyroid carcinoma	metastasizes to	liver
+anaplastic thyroid carcinoma	metastasizes to	brain
+cancer of thyroid	treated with	thyroidectomy
+cancer of thyroid	treated with	radioactive iodine therapy
+cancer of thyroid	treated with	external beam radiotherapy
+cancer of thyroid	treated with	chemotherapy
+cancer of thyroid	treated with	targeted therapy
+papillary thyroid carcinoma	treated with	thyroidectomy
+follicular thyroid carcinoma	treated with	thyroidectomy
+medullary thyroid carcinoma	treated with	thyroidectomy
+anaplastic thyroid carcinoma	treated with	palliative care
+medullary thyroid carcinoma	secretes	calcitonin
+papillary thyroid carcinoma	secretes	thyroglobulin
+follicular thyroid carcinoma	secretes	thyroglobulin
+cancer of thyroid	is associated with	ionizing radiation
+cancer of thyroid	is associated with	family history
+ionizing radiation	is a risk factor for	cancer of thyroid
+family history	is a risk factor for	cancer of thyroid
+RET proto-oncogene mutation	is associated with	medullary thyroid carcinoma
+RET proto-oncogene mutation	is associated with	MEN2 syndrome
+BRAF mutation	is associated with	papillary thyroid carcinoma
+RAS mutation	is associated with	follicular thyroid carcinoma
+PTEN mutation	is associated with	cancer of thyroid
+cancer of thyroid	diagnosed by	fine-needle aspiration
+cancer of thyroid	diagnosed by	ultrasound
+cancer of thyroid	diagnosed by	CT scan
+cancer of thyroid	diagnosed by	MRI
+cancer of thyroid	diagnosed by	biopsy
+cancer of thyroid	confirmed by	histopathology
+cancer of thyroid	has biomarker	thyroglobulin
+medullary thyroid carcinoma	has biomarker	calcitonin
+papillary thyroid carcinoma	has biomarker	thyroglobulin
+follicular thyroid carcinoma	has biomarker	thyroglobulin
+cancer of thyroid	prognosis depends on	stage
+cancer of thyroid	prognosis depends on	age
+papillary thyroid carcinoma	prognosis depends on	stage
+follicular thyroid carcinoma	prognosis depends on	stage
+medullary thyroid carcinoma	prognosis depends on	stage
+anaplastic thyroid carcinoma	prognosis depends on	stage
+cancer of thyroid	recurrence after	treatment
+cancer of thyroid	recurrence	after surgery
+papillary thyroid carcinoma	recurrence after	treatment
+follicular thyroid carcinoma	recurrence after	treatment
+medullary thyroid carcinoma	recurrence after	treatment
+anaplastic thyroid carcinoma	recurrence after	treatment
+cancer of thyroid	risk of	second primary cancer
+differentiated thyroid cancer	risk of	distant metastasis
+cancer of thyroid	prognosis depends on	stage
+surgery	reduces	cancer of thyroid mass
+neck dissection	reduces	lymph node metastasis
+radioactive iodine therapy	requires	TSH stimulation
+surgical removal	reduces	tumor burden
+external beam radiotherapy	used for	palliation
+margin status	indicates	prognosis
+extrathyroidal extension	worsens	prognosis
+lymph node involvement	worsens	prognosis
+cervical lymph node metastasis	indicates	advanced disease
+distant metastasis	indicates	stage IV disease
+calcitonin	is a biomarker for	medullary thyroid carcinoma
+thyroglobulin	is a biomarker for	differentiated thyroid cancer
+differentiated thyroid cancer	responds to	iodine therapy
+papillary thyroid carcinoma	responds to	iodine therapy
+follicular thyroid carcinoma	responds to	radioiodine therapy
+medullary thyroid carcinoma	does not respond well to	radioiodine therapy
+anaplastic thyroid carcinoma	responds to	immunotherapy
+cancer of thyroid	involves	cervical lymph nodes
+cancer of thyroid	presents as	neck mass
+neck mass	presents as	symptom of cancer of thyroid
+papillary thyroid carcinoma	presents as	neck mass
+anaplastic thyroid carcinoma	presents with	rapidly enlarging neck mass
+cancer of thyroid	presents with	hoarseness
+cancer of thyroid	presents with	dysphagia
+cancer of thyroid	presents with	throat pain
+radiation exposure	increases risk of	cancer of thyroid
+Hashimoto thyroiditis	associated with	cancer of thyroid
+BRAF mutation	seen in	papillary thyroid carcinoma
+RAS mutation	seen in	follicular thyroid carcinoma
+RET mutation	seen in	medullary thyroid carcinoma
+RET proto-oncogene mutation	present in	MEN2 syndrome
+MEN2 syndrome	includes	medullary thyroid carcinoma
+p53 mutation	seen in	anaplastic thyroid carcinoma
+undifferentiated thyroid carcinoma	classified as	anaplastic thyroid carcinoma
+radioiodine refractory cancer of thyroid	requires	alternative therapy

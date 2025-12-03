@@ -1,0 +1,102 @@
+phlebitis	associated with	intravenous catheter
+intravenous catheter	increases risk of	phlebitis
+superficial phlebitis	affects	superficial vein
+thrombophlebitis	associated with	vein thrombosis
+deep vein thrombosis	is a type of	venous thromboembolism
+venous thromboembolism	includes	deep vein thrombosis
+venous thromboembolism	includes	pulmonary embolism
+deep vein thrombosis	may cause	pulmonary embolism
+pulmonary embolism	causes	hypoxemia
+D-dimer	elevated in	venous thromboembolism
+duplex ultrasonography	used for	deep vein thrombosis
+duplex ultrasonography	diagnostic for	deep vein thrombosis
+ultrasound	used for	detection of thrombosis
+compression therapy	recommended for	superficial thrombophlebitis
+NSAIDs	used for	phlebitis pain
+anticoagulation	used for	deep vein thrombosis
+heparin	used for	deep vein thrombosis
+low-molecular-weight heparin	used for	venous thromboembolism
+warfarin	used for	venous thromboembolism
+apixaban	used for	pulmonary embolism
+rivaroxaban	used for	deep vein thrombosis
+cancer	increases risk of	venous thromboembolism
+surgery	increases risk of	deep vein thrombosis
+pregnancy	increases risk of	venous thromboembolism
+immobility	increases risk of	venous thromboembolism
+obesity	increases risk of	venous thromboembolism
+estrogen therapy	increases risk of	venous thromboembolism
+smoking	increases risk of	thrombosis
+age	increases risk of	venous thromboembolism
+infection	may complicate	catheter-related phlebitis
+catheter-related infection	may accompany	thrombophlebitis
+intravenous catheter	associated with	phlebitis
+central venous catheter	increases risk of	thrombosis
+thrombosis	obstructs	venous lumen
+edema	accompanies	thrombophlebitis
+erythema	is sign of	phlebitis
+tenderness	is sign of	phlebitis
+palpable cord	is sign of	superficial thrombophlebitis
+fever	may accompany	septic thrombophlebitis
+sepsis	can complicate	catheter-related infection
+readmission	associated with	venous thromboembolism
+mortality	risk with	pulmonary embolism
+hospitalization	increases risk of	venous thromboembolism
+central line	increases risk of	infection
+D-dimer	may be elevated in	infection
+DVT	is a type of	venous thromboembolism
+embolus	travels to	lungs
+embolism	causes	hypoxemia
+post-thrombotic syndrome	results in	chronic edema
+venous stasis	contributes to	thrombosis
+Virchow's triad	comprises	venous stasis
+immobilization	leads to	venous stasis
+inflammation	promotes	thrombosis
+pain	is symptom of	phlebitis
+warm compress	used for	phlebitis
+post-thrombotic syndrome	arises after	deep vein thrombosis
+venous insufficiency	associated with	edema
+compression stocking	reduces	edema
+vascular access	risk factor for	phlebitis
+central venous catheter	increases risk of	thrombosis
+leg swelling	caused by	deep vein thrombosis
+cord palpation	reveals	superficial thrombophlebitis
+palpable cord	indicates	superficial thrombophlebitis
+redness	is sign of	phlebitis
+warmth	is sign of	phlebitis
+edema	accompanies	thrombosis
+leg pain	is symptom of	deep vein thrombosis
+tachycardia	occurs with	pulmonary embolism
+hypoxemia	results from	pulmonary embolism
+DVT prophylaxis	includes	pharmacologic prophylaxis
+pharmacologic prophylaxis	includes	LMWH
+LMWH	used for	DVT prophylaxis
+warfarin	requires	INR monitoring
+INR monitoring	required for	warfarin therapy
+renal impairment	affects	DOAC dosing
+renal impairment	contraindicates	DOACs
+hepatic impairment	affects	DOAC dosing
+DOACs	used for	venous thromboembolism
+cancer-associated thrombosis	treated with	anticoagulation
+postoperative prophylaxis	aims for	DVT prevention
+DVT prevention	reduces	recurrence risk
+anticoagulation	reduces	thrombosis recurrence
+recurrence	risk with	thrombosis
+education	reduces	recurrence of thrombosis
+postoperative period	requires	DVT surveillance
+DVT surveillance	detects	thrombus progression
+thrombus progression	leads to	edema
+edema	worsens with	mobility limitation
+mobility limitation	increases	risk of thrombosis
+hemodynamic instability	occurs with	massive pulmonary embolism
+massive pulmonary embolism	causes	shock
+shock	requires	ICU admission
+ICU admission	increases	hospital length of stay
+hospital length of stay	prolongs	immobilization
+immobilization	increases	risk of venous thromboembolism
+venous thrombosis	treated with	anticoagulation
+anticoagulation	is treatment for	venous thrombosis
+vasculature	affected by	thrombosis
+thrombus	adheres to	vessel wall
+recanalization	occurs after	thrombosis
+recanalization	improves	venous outflow
+venous outflow	improves with	recanalization

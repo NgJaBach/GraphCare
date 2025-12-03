@@ -1,0 +1,100 @@
+pneumonia	is a	lung infection
+pneumonia	is caused by	bacteria
+pneumonia	is caused by	virus
+pneumonia	caused by	Streptococcus pneumoniae
+pneumonia	caused by	influenza virus
+pneumonia	caused by	aspiration
+pneumonia	presents with	fever
+pneumonia	presents with	cough
+pneumonia	presents with	dyspnea
+pneumonia	presents with	chest pain
+pneumonia	presents with	tachypnea
+pneumonia	leads to	hypoxemia
+pneumonia	diagnosed by	chest radiograph
+pneumonia	diagnosed by	chest x-ray
+pneumonia	diagnosed by	CT scan
+pneumonia	diagnosed by	sputum culture
+pneumonia	diagnosed by	blood culture
+pneumonia	diagnosed by	complete blood count
+pneumonia	treated with	antibiotics
+pneumonia	treated with	antivirals
+pneumonia	treated with	steroids
+pneumonia	treated with	oxygen therapy
+pneumonia	treated with	mechanical ventilation
+pneumonia	complication	empyema
+pneumonia	complication	pleural effusion
+pneumonia	complication	sepsis
+pneumonia	complication	acute respiratory distress syndrome
+pneumonia	risk factor	smoking
+pneumonia	risk factor	alcoholism
+pneumonia	risk factor	malnutrition
+pneumonia	risk factor	diabetes mellitus
+pneumonia	risk factor	immunosuppression
+pneumonia	risk factor	COPD
+pneumonia	risk factor	congestive heart failure
+pneumonia	occurs in	winter
+pneumonia	occurs in	winter months
+pneumonia	more common in	children
+pneumonia	radiographic finding	focal consolidation
+pneumonia	radiographic finding	lobar consolidation
+pneumonia	radiographic finding	air bronchograms
+pneumonia vaccine	prevents	pneumonia
+pneumonia	associated with	leukocytosis
+pneumonia	associated with	CRP
+pneumonia	classification	infectious disease
+pneumonia	is a type of	lower respiratory tract infection
+pneumonia	agent	Streptococcus pneumoniae
+pneumonia	agent	Haemophilus influenzae
+pneumonia	agent	Legionella pneumophila
+pneumonia	agent	Klebsiella pneumoniae
+pneumonia	agent	Mycoplasma pneumoniae
+pneumonia	agent	Chlamydophila pneumoniae
+pneumonia	agent	Staphylococcus aureus
+pneumonia	agent	Pseudomonas aeruginosa
+pneumonia	presents with	dehydration
+pneumonia	presents with	confusion
+pneumonia	presents with	fatigue
+pneumonia	diagnosed by	procalcitonin
+pneumonia	treated with	macrolides
+pneumonia	treated with	cephalosporins
+pneumonia	treated with	fluoroquinolones
+pneumonia	treated with	beta-lactams
+pneumonia	severity	CURB-65
+pneumonia	assessed by	CURB-65
+pneumonia	hospital admission	required
+pneumonia	length of stay	increased
+pneumonia	ICU admission	possible
+pneumonia	death risk	high
+pneumonia	mortality	rate
+pneumonia	readmission	risk
+pneumonia	antibiotic stewardship	essential
+pneumonia	vaccination status	up-to-date
+pneumonia	seasonality	winter
+pneumonia	coinfection	influenza
+pneumonia	coinfection	SARS-CoV-2
+pneumonia	seasonality	peak in winter
+pneumonia	differential diagnosis	bronchitis
+pneumonia	differential diagnosis	tuberculosis
+pneumonia	comorbidity	COPD
+pneumonia	comorbidity	congestive heart failure
+pneumonia	outcome	recovery
+pneumonia	outcome	death
+pneumonia	imaging	radiography
+pneumonia	imaging	CT scan
+pneumonia	imaging	ultrasound
+pneumonia	guideline	antibiotic selection
+pneumonia	risk stratification	PSI
+pneumonia	predictor	mortality
+pneumonia	predictor	length of stay
+pneumonia	predictor	need for ventilation
+pneumonia	predictor	hypoxemia
+pneumonia	follow-up	radiograph
+pneumonia	follow-up	clinical improvement
+pneumonia	prevention	influenza vaccine
+pneumonia	prevention	pneumococcal vaccine
+pneumonia	hospitalization determinant	severity
+pneumonia	etiologies	bacteria
+pneumonia	etiologies	viruses
+pneumonia	global burden	mortality
+pneumonia	cost	healthcare burden
+pneumonia	prevention	vaccination

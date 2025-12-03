@@ -1,0 +1,96 @@
+psychotropic poisoning	is a	medical emergency
+psychotropic poisoning	may cause	coma
+psychotropic poisoning	may cause	respiratory depression
+psychotropic poisoning	increases	mortality
+psychotropic poisoning	associated with	suicide attempt
+benzodiazepine poisoning	is a	subtype of psychotropic poisoning
+benzodiazepine poisoning	presents with	CNS depression
+benzodiazepine poisoning	treated with	flumazenil
+flumazenil	is a	benzodiazepine antagonist
+barbiturate poisoning	is a	subtype of psychotropic poisoning
+barbiturate poisoning	presents with	respiratory depression
+barbiturate poisoning	treated with	activated charcoal
+activated charcoal	is a	decontamination agent
+barbiturate poisoning	may cause	hypotension
+barbiturate poisoning	may cause	hypoventilation
+barbiturate poisoning	may cause	coma
+tricyclic antidepressant poisoning	is a	subtype of antidepressant poisoning
+tricyclic antidepressant poisoning	may cause	QRS prolongation
+tricyclic antidepressant poisoning	may cause	arrhythmia
+sodium bicarbonate	is used for	tricyclic antidepressant poisoning
+activated charcoal	is used for	antidepressant poisoning
+selective serotonin reuptake inhibitor poisoning	is a	subtype of antidepressant poisoning
+SSRI poisoning	may cause	serotonin syndrome
+serotonin syndrome	is a	complication
+serotonin syndrome	presents with	hyperthermia
+serotonin syndrome	may cause	seizures
+serotonin syndrome	requires	ICU monitoring
+antipsychotic poisoning	is a	subtype of psychotropic poisoning
+antipsychotic poisoning	may cause	QT prolongation
+QT prolongation	is an	ECG finding
+torsades de pointes	is a	arrhythmia
+arrhythmia	may cause	hemodynamic instability
+hemodynamic instability	requires	vasopressor support
+vasopressor support	includes	norepinephrine
+norepinephrine	is a	vasopressor
+intravenous fluids	are used for	hypotension
+lipid emulsion therapy	is used for	lipophilic poisoning
+lipid emulsion therapy	may improve	hemodynamics
+anticholinergic poisoning	is a	subtype of psychotropic poisoning
+anticholinergic poisoning	presents with	delirium
+delirium	is a	neuropsychiatric syndrome
+delirium	may cause	agitation
+physostigmine	is used for	anticholinergic poisoning
+sodium bicarbonate	is used for	tricyclic antidepressant poisoning
+gastric lavage	is a	decontamination method
+gastric lavage	used for	barbiturate poisoning
+toxicology screen	is a	diagnostic test
+toxicology screen	detects	psychotropic agents
+serum drug level	is a	diagnostic measure
+electrocardiogram	is a	diagnostic tool
+QT interval	is a	measurement
+QT prolongation	is an	ECG finding
+torsades de pointes	is a	arrhythmia
+overdose	is a	cause of poisoning
+polypharmacy	increases	overdose risk
+intentional overdose	is a	cause of poisoning
+accidental ingestion	is a	cause of poisoning
+suicidal attempt	is linked with	psychiatric illness
+psychiatric illness	increases	poisoning risk
+co-ingestion	increases	poisoning toxicity
+co-ingestion	involves	multiple agents
+emergency department	manages	poisoning
+emergency department	initiates	decontamination
+emergency department	coordinates	hospital care
+oxygen therapy	is a	supportive measure
+emergency airway management	is a	critical step
+intubation	is a	life-saving procedure
+mechanical ventilation	is a	life-support
+ICU admission	is a	care outcome
+hospital admission	is a	care outcome
+mortality	is a	outcome
+hospitalization	is a	outcome
+length of stay	is a	outcome predictor
+toxicology consultation	provides	management advice
+toxicology service	offers	specialized care
+electrolyte disturbance	is a	complication
+hypokalemia	is a	electrolyte disturbance
+hypokalemia	may cause	arrhythmia
+hypotension	is a	symptom
+hypoxemia	is a	complication
+metabolic acidosis	is a	complication
+lactic acidosis	is a	complication
+renal failure	is a	complication
+hepatic injury	is a	complication
+seizure	is a	complication
+neuroleptic malignant syndrome	is a	potential complication of antipsychotic use
+neuroleptic malignant syndrome	presents with	hyperthermia
+neuroleptic malignant syndrome	requires	cooling
+antidote	is a	therapeutic agent
+physostigmine	is a	acetylcholinesterase inhibitor
+anticholinergic poisoning	is a	subtype of psychotropic poisoning
+pediatric poisoning	is a	demographic focus
+pediatric poisoning	presents with	distinct clinical patterns
+geriatric poisoning	is a	demographic focus
+geriatric poisoning	has	polypharmacy risk
+public health surveillance	is a	component of poisoning management

@@ -1,0 +1,100 @@
+skin and subcutaneous tissue infections	include	cellulitis
+cellulitis	is a type of	skin and subcutaneous tissue infections
+cellulitis	commonly caused by	streptococcus
+cellulitis	commonly caused by	staphylococcus aureus
+streptococcus	is a pathogen for	cellulitis
+staphylococcus aureus	is a pathogen for	cellulitis
+bacteria	cause	cellulitis
+abscess	is a type of	skin and subcutaneous tissue infections
+abscess	requires	incision and drainage
+incision and drainage	performed by	surgeon
+abscess	often treated with	incision and drainage
+furuncle	is a type of	skin and subcutaneous tissue infections
+carbuncle	is a type of	skin and subcutaneous tissue infections
+furuncle	caused by	staphylococcus aureus
+carbuncle	caused by	staphylococcus aureus
+erysipelas	is a type of	skin and subcutaneous tissue infections
+impetigo	is a type of	skin and subcutaneous tissue infections
+impetigo	commonly caused by	streptococcus
+impetigo	commonly caused by	staphylococcus aureus
+streptococcus	causes	impetigo
+staphylococcus aureus	causes	impetigo
+necrotizing fasciitis	is a type of	skin and subcutaneous tissue infections
+necrotizing fasciitis	may cause	sepsis
+necrotizing fasciitis	requires	surgical debridement
+surgical debridement	performed by	surgeon
+diabetes mellitus	risk factor for	skin and subcutaneous tissue infections
+immunosuppression	risk factor for	skin and subcutaneous tissue infections
+venous insufficiency	risk factor for	skin and subcutaneous tissue infections
+edema	risk factor for	skin and subcutaneous tissue infections
+obesity	risk factor for	skin and subcutaneous tissue infections
+age	risk factor for	skin and subcutaneous tissue infections
+wound	predisposes to	skin and subcutaneous tissue infections
+skin breach	predisposes to	skin and subcutaneous tissue infections
+diabetic foot	predisposes to	skin infections
+abscess	management involves	incision and drainage
+wound culture	yields	pathogen
+culture	guides	antibiotic therapy
+antibiotic therapy	used for	skin and subcutaneous tissue infections
+beta-lactam antibiotics	cover	streptococcus
+beta-lactam antibiotics	cover	staphylococcus aureus
+mrsa	resistant to	beta-lactam antibiotics
+mrsa	treatable with	vancomycin
+vancomycin	used for	mrsa infection
+culture results	inform	antibiotic selection
+gram stain	used for	rapid pathogen identification
+ultrasound	used for	abscess evaluation
+ultrasound	differentiates	cellulitis from abscess
+mri	used for	necrotizing fasciitis evaluation
+necrotizing fasciitis	requires	urgent treatment
+hospitalization	required for	necrotizing fasciitis
+surgical drainage	part of	abscess management
+abscess management	includes	incision and drainage
+intravenous therapy	used for	severe infection
+oral antibiotics	used for	mild cellulitis
+amoxicillin	used for	mild cellulitis
+penicillin allergy	contraindication for	beta-lactam antibiotics
+doxycycline	used for	mrsa infections
+trimethoprim-sulfamethoxazole	used for	mrsa infections
+clindamycin	used for	streptococcal infections
+linezolid	used for	mrsa infections
+linezolid	covers	mrsa
+mrsa infection	treated with	vancomycin
+culture results	guide	antibiotic selection
+empiric therapy	chosen for	suspected skin and subcutaneous tissue infections
+outpatient care	suitable for	non-severe skin infections
+inpatient care	required for	severe skin infections
+antibiotic allergy	necessitates	alternative therapy
+doxycycline	alternative for	penicillin allergy
+peripheral vascular disease	increases risk for	cellulitis
+venous stasis ulcers	predispose to	skin infections
+ischemia	predisposes to	infection
+diabetic foot infection	may involve	polymicrobial flora
+polymicrobial flora	involve	diabetic foot infection
+pseudomonas aeruginosa	may involve	diabetic foot infections
+anaerobes	involved in	wound infections
+staphylococcus aureus	colonization associated with	recurrent skin infections
+recurrent skin infections	associated with	immune deficiency
+immune deficiency	predisposes to	skin infections
+hygiene practices	reduce	skin infection risk
+wound care	recommended for	skin infections
+wound cleansing	part of	wound care
+dressing	changed by	clinician
+abscess	treated by	aspiration
+aspiration	performed by	clinician
+diabetes mellitus	associated with	impaired wound healing
+impaired wound healing	increases risk of	infection
+wound infection	may become	systemic infection
+systemic infection	risk factor for	septic shock
+sepsis	requires	hospitalization
+bone involvement	possible complication of	diabetic foot infection
+osteomyelitis	possible complication of	skin infection
+osteomyelitis	diagnosed by	imaging
+imaging	used for	osteomyelitis detection
+gram-negative bacteria	involved in	diabetic foot infections
+vaccination	reduces risk for	streptococcal cellulitis
+education	reduces	recurrence of infections
+hospital readmission	risk associated with	skin infections
+hospital readmission	increases	healthcare burden
+recurrence	occurs with	skin infections
+cephalexin	used for	non-purulent cellulitis

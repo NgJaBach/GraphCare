@@ -1,0 +1,116 @@
+sprains and strains	is a	musculoskeletal injury
+sprains and strains	may cause	swelling
+sprains and strains	may cause	pain
+sprains and strains	may cause	ecchymosis
+sprains and strains	may cause	tenderness
+sprains and strains	limits	range of motion
+sprains and strains	treated with	rest
+sprains and strains	treated with	ice
+sprains and strains	treated with	compression
+sprains and strains	treated with	elevation
+sprains and strains	treated with	NSAIDs
+sprains and strains	treated with	analgesics
+sprains and strains	treated with	physical therapy
+sprains and strains	treated with	immobilization
+sprains and strains	treated with	brace
+sprains and strains	treated with	cast
+sprains and strains	treated with	splint
+sprains and strains	treated with	topical analgesics
+sprains and strains	diagnosed by	physical examination
+sprains and strains	diagnosed by	imaging
+sprains and strains	imaging shows	ligament tear
+sprains and strains	imaging shows	edema
+sprains and strains	imaging shows	joint effusion
+sprains and strains	location	ankle
+sprains and strains	location	knee
+sprains and strains	location	shoulder
+sprains and strains	location	wrist
+sprains and strains	location	hip
+sprains and strains	location	back
+sprains and strains	occurs in	athletes
+sprains and strains	occurs in	manual laborers
+sprains and strains	risk factor	obesity
+sprains and strains	risk factor	smoking
+sprains and strains	risk factor	diabetes
+sprains and strains	prognosis	recovery
+sprains and strains	prognosis	chronic instability
+sprains and strains	prognosis	residual pain
+sprains and strains	recurrence risk	re-injury
+sprains and strains	recurrence risk	chronic pain
+sprains and strains	healing time	weeks
+sprains and strains	healing time	months
+sprains and strains	complications include	stiffness
+sprains and strains	complications include	persistent swelling
+sprains and strains	prevention method	strengthening exercises
+sprains and strains	prevention method	proprioception training
+sprains and strains	prevention method	warm-up
+sprains and strains	prevention method	proper footwear
+sprains and strains	rehabilitation type	proprioception training
+sprains and strains	rehabilitation type	balance training
+sprains and strains	rehabilitation type	range-of-motion exercises
+sprains and strains	therapy outcome	pain relief
+sprains and strains	therapy outcome	mobility improvement
+sprains and strains	therapy outcome	function restoration
+sprains and strains	patient education	home exercise program
+sprains and strains	patient education	activity modification
+sprains and strains	healthcare utilization	urgent care visit
+sprains and strains	healthcare utilization	emergency department visit
+sprains and strains	healthcare utilization	outpatient visit
+sprains and strains	cost	treatment costs
+sprains and strains	economic impact	productivity loss
+sprains and strains	diagnostic criterion	tenderness on palpation
+sprains and strains	diagnostic criterion	swelling
+sprains and strains	diagnostic criterion	decreased range of motion
+sprains and strains	imaging finding	ligament laxity
+sprains and strains	imaging finding	bone bruise
+sprains and strains	imaging finding	tendon thickening
+sprains and strains	severity	grade I injury
+sprains and strains	severity	grade II injury
+sprains and strains	severity	grade III injury
+sprains and strains	comorbidity	obesity
+sprains and strains	comorbidity	diabetes
+sprains and strains	comorbidity	hypertension
+sprains and strains	occupation	laborer
+sprains and strains	occupation	athlete
+sprains and strains	activity	walking
+sprains and strains	activity	running
+sprains and strains	activity	jumping
+sprains and strains	therapy	immobilization
+sprains and strains	therapy	bracing
+sprains and strains	therapy	casting
+sprains and strains	therapy	splinting
+sprains and strains	diagnostic method	physical examination
+sprains and strains	diagnostic method	imaging
+sprains and strains	imaging modality	MRI
+sprains and strains	imaging modality	ultrasound
+sprains and strains	imaging modality	X-ray
+sprains and strains	ligament involvement	lateral collateral ligament
+sprains and strains	ligament involvement	ACL
+sprains and strains	tendon involvement	Achilles tendon
+sprains and strains	muscle involvement	hamstring
+sprains and strains	healing stage	inflammatory phase
+sprains and strains	healing stage	proliferative phase
+sprains and strains	return-to-sport readiness	functional testing
+sprains and strains	return-to-sport readiness	evaluation
+sprains and strains	health service	urgent care
+sprains and strains	health service	emergency department
+sprains and strains	insurance coverage	outpatient costs
+sprains and strains	life stage	adolescence
+sprains and strains	life stage	adulthood
+sprains and strains	life stage	old age
+sprains and strains	follow-up	clinic visit
+sprains and strains	follow-up	imaging
+sprains and strains	quality of life	disability
+sprains and strains	healthcare setting	outpatient clinic
+sprains and strains	therapy modality	cryotherapy
+sprains and strains	therapy modality	heat therapy
+sprains and strains	therapy modality	electrical stimulation
+sprains and strains	patient subgroup	adolescents
+sprains and strains	patient subgroup	adults
+sprains and strains	patient subgroup	elderly
+sprains and strains	social determinant	access to care
+sprains and strains	clinical pathway	first aid
+sprains and strains	insurance status	coverage
+sprains and strains	occupational setting	workplace
+sprains and strains	prognosis after surgical intervention	uncertain
+sprains and strains	data source	clinical notes

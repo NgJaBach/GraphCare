@@ -1,0 +1,83 @@
+posterior urethral valves	causes	bladder outlet obstruction
+posterior urethral valves	associated with	hydronephrosis
+posterior urethral valves	diagnosed by	prenatal ultrasound
+posterior urethral valves	treated with	valve ablation
+posterior urethral valves	managed with	catheterization
+posterior urethral valves	increases risk of	renal scarring
+posterior urethral valves	presents with	urinary obstruction
+ureteropelvic junction obstruction	causes	hydronephrosis
+ureteropelvic junction obstruction	diagnosed by	ultrasound
+ureteropelvic junction obstruction	treated with	pyeloplasty
+ureteropelvic junction obstruction	evaluated by	diuretic renography
+ureteropelvic junction obstruction	associated with	decreased renal function
+ureteropelvic junction obstruction	seen in	infants
+ureteropelvic junction obstruction	may require	surgical intervention
+vesicoureteral reflux	associated with	urinary tract infection
+vesicoureteral reflux	diagnosed by	voiding cystourethrogram
+vesicoureteral reflux	treated with	antibiotic prophylaxis
+vesicoureteral reflux	increases risk of	renal scarring
+vesicoureteral reflux	may resolve in	children
+vesicoureteral reflux	may cause	hydronephrosis
+hypospadias	associated with	chordee
+hypospadias	treated with	hypospadias repair
+hypospadias	diagnosed by	physical examination
+hypospadias	occurs in	males
+hypospadias	may present as	penile malformation
+hypospadias	managed with	surgical repair
+cryptorchidism	associated with	infertility
+cryptorchidism	treated with	orchiopexy
+cryptorchidism	increases risk of	testicular cancer
+cryptorchidism	predisposes to	inguinal hernia
+cryptorchidism	detected by	physical examination
+renal agenesis	results in	oligohydramnios
+renal agenesis	associated with	pulmonary hypoplasia
+renal agenesis	incompatible with	life
+renal agenesis	detected by	prenatal ultrasound
+renal agenesis	leads to	neonatal death
+multicystic dysplastic kidney	presents with	flank mass
+multicystic dysplastic kidney	associated with	renal failure in bilateral cases
+multicystic dysplastic kidney	diagnosed by	ultrasound
+multicystic dysplastic kidney	managed with	nephrectomy in some cases
+multicystic dysplastic kidney	monitored with	imaging surveillance
+horseshoe kidney	associated with	Wilms tumor
+horseshoe kidney	predisposes to	hydronephrosis
+horseshoe kidney	diagnosed by	ultrasound
+horseshoe kidney	managed with	observation
+horseshoe kidney	may cause	renal stones
+ureterocele	causes	urinary obstruction
+ureterocele	diagnosed by	ultrasound
+ureterocele	treated with	surgical repair
+ureterocele	associated with	duplex collecting system
+bladder exstrophy	treated with	pelvic reconstruction
+bladder exstrophy	associated with	urinary incontinence
+bladder exstrophy	risk for	urinary tract infection
+bladder exstrophy	part of	exstrophy-epispadias complex
+bladder exstrophy	diagnosed by	prenatal ultrasound
+prune belly syndrome	associated with	urinary tract dilation
+prune belly syndrome	managed with	abdominal reconstruction
+prune belly syndrome	presents with	abdominal muscle deficiency
+prune belly syndrome	requires	surgical correction
+prune belly syndrome	increases risk of	urinary tract infections
+duplex collecting system	associated with	vesicoureteral reflux
+duplex collecting system	diagnosed by	prenatal ultrasound
+duplex collecting system	treated with	surgical repair
+duplex collecting system	predisposes to	urinary tract infections
+duplex collecting system	may cause	hydronephrosis
+renal dysplasia	leads to	chronic kidney disease
+renal dysplasia	associated with	hypertension
+renal dysplasia	diagnosed by	ultrasound
+renal dysplasia	managed with	observation
+renal dysplasia	can cause	urinary tract infections
+polycystic kidney disease	is inherited as	autosomal dominant pattern
+polycystic kidney disease	diagnosed by	ultrasound
+polycystic kidney disease	progresses to	renal failure
+polycystic kidney disease	associated with	hypertension
+polycystic kidney disease	treated with	supportive therapy
+polycystic kidney disease	increases risk of	kidney stones
+urethral atresia	causes	urinary obstruction
+urethral atresia	diagnosed by	prenatal ultrasound
+urethral atresia	treated with	catheterization
+urethral atresia	associated with	renal failure
+unilateral renal agenesis	associated with	single kidney
+unilateral renal agenesis	diagnosed by	ultrasound
+unilateral renal agenesis	monitored with	imaging surveillance

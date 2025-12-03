@@ -1,0 +1,101 @@
+lymphadenitis	is a	inflammatory condition
+lymphadenitis	is associated with	infection
+lymphadenitis	is caused by	bacteria
+lymphadenitis	caused by	Staphylococcus aureus
+lymphadenitis	caused by	Streptococcus pyogenes
+lymphadenitis	caused by	Bartonella henselae
+lymphadenitis	caused by	Mycobacterium tuberculosis
+lymphadenitis	presents with	lymph node swelling
+lymphadenitis	presents with	fever
+lymphadenitis	presents with	pain
+lymphadenitis	presents with	tenderness
+lymphadenitis	presents with	redness
+lymphadenitis	associated with	leukocytosis
+lymphadenitis	associated with	elevated CRP
+lymphadenitis	associated with	elevated ESR
+lymphadenitis	diagnosed by	ultrasound
+lymphadenitis	diagnosed by	CT scan
+lymphadenitis	diagnosed by	biopsy
+lymphadenitis	diagnosed by	fine-needle aspiration
+lymphadenitis	diagnosed by	lymph node biopsy
+lymphadenitis	diagnosed by	lab test
+lymphadenitis	treated with	antibiotics
+antibiotics	used for	lymphadenitis
+antibiotics	selection guided by	culture results
+culture results	guide	antibiotic selection
+culture results	yield	antibiotic susceptibility
+incision drainage	used for	abscess
+incision drainage	used for	lymph node abscess
+surgical drainage	used for	abscess
+abscess	located in	neck region
+neck region	includes	cervical lymph nodes
+cervical lymph nodes	drain into	deep lymphatic vessels
+trauma	can cause	lymphadenitis
+diabetes	predisposes to	infections including lymphadenitis
+HIV	predisposes to	opportunistic lymphadenitis
+immunocompromised status	increases risk of	lymphadenitis
+bacteremia	can accompany	lymphadenitis
+sepsis	can accompany	severe lymphadenitis
+necrosis	results from	severe lymphadenitis
+granulomatous lymphadenitis	associated with	TB
+granulomatous lymphadenitis	associated with	fungal infection
+tuberculosis	can cause	granulomatous lymphadenitis
+fungal infection	can cause	granulomatous lymphadenitis
+fine-needle aspiration	helps	diagnosis of lymphadenitis
+lymphadenitis	may recur	after treatment
+relapse	occurs	after antibiotic therapy
+readmission risk	increased with	lymphadenitis
+hospitalization	required for	severe cases of lymphadenitis
+readmission risk	increases with	severity of lymphadenitis
+mortality risk	associated with	sepsis from lymphadenitis
+antibiotic resistance	potential in	recurrent lymphadenitis
+ultrasound	reveals	enlarged nodes
+ultrasound	guides	biopsy
+ultrasound	differentiates	reactive vs malignant nodes
+CT scan	reveals	lymph node enlargement
+CT scan	assesses	deep neck spaces
+MRI	evaluates	soft-tissue involvement
+lymph node biopsy	provides	histology
+histology	shows	granulomatous inflammation
+granulomatous inflammation	may indicate	tuberculosis
+granulomatous inflammation	may indicate	fungal infection
+bacteremia	may lead to	sepsis
+sepsis	can cause	organ failure
+organ failure	increases	mortality risk
+penicillin	used for	streptococcal lymphadenitis
+amoxicillin	used for	lymphadenitis
+clindamycin	used for	lymphadenitis
+doxycycline	used for	lymphadenitis
+surgery	considered for	chronic lymphadenitis with abscess
+excision	used for	chronic lymphadenitis
+corticosteroids	not standard	lymphadenitis
+biopsy	recommended for	persistent lymphadenopathy
+persistent lymphadenopathy	prompts	biopsy
+culture	performed for	persistent lymphadenopathy
+ESR	elevated in	lymphadenitis
+CRP	elevated in	lymphadenitis
+WBC	elevated in	lymphadenitis
+fever	indicates	infection
+local swelling	shows	inflammatory signs
+bleeding risk	increased by	incision drainage
+antibiotic duration	depends on	severity
+culture and sensitivity	essential for	targeted antibiotics
+anaerobic bacteria	infrequent cause of	lymphadenitis
+gram stain	used for	rapid diagnosis
+ultrasound-guided drainage	increases	precision
+outpatient management	possible for	mild lymphadenitis
+inpatient management	required for	severe lymphadenitis
+oral antibiotics	used for	mild lymphadenitis
+IV antibiotics	used for	severe lymphadenitis
+analgesia	provided for	pain management in lymphadenitis
+antipyretics	used for	fever in lymphadenitis
+regional lymphadenitis	occurs in	neck
+axillary lymphadenitis	occurs in	armpit
+inguinal lymphadenitis	occurs in	groin
+mesenteric lymphadenitis	involves	abdomen
+cat scratch disease	produces	regional lymphadenitis
+tuberculous lymphadenitis	a form of	TB lymphadenitis
+tuberculous lymphadenitis	more common in	children
+scrofula	refers to	tuberculous lymphadenitis
+differential diagnosis	includes	lymphoma
+malignancy risk	increases with	delayed diagnosis

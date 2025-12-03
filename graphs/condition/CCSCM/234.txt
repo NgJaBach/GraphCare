@@ -1,0 +1,92 @@
+crushing injury	can cause	rhabdomyolysis
+crushing injury	can cause	hyperkalemia
+crushing injury	can cause	metabolic acidosis
+crushing injury	can cause	acute kidney injury
+crushing injury	can cause	tissue necrosis
+crushing injury	can cause	edema
+crushing injury	can cause	hemorrhage
+crushing injury	predisposes to	compartment syndrome
+crushing injury	predisposes to	crush syndrome
+crushing injury	requires	CT scan
+crushing injury	requires	resuscitation
+crushing injury	requires	operation
+crushing injury	diagnosed by	CT scan
+crushing injury	diagnosed by	ultrasound
+crushing injury	diagnosed by	X-ray
+rhabdomyolysis	diagnosed by	CK elevation
+rhabdomyolysis	causes	myoglobinuria
+myoglobinuria	leads to	acute kidney injury
+myoglobinuria	leads to	tubular obstruction
+hyperkalemia	causes	arrhythmia
+arrhythmia	increases	mortality
+acute kidney injury	results in	fluid overload
+acute kidney injury	requires	dialysis
+dialysis	relieves	hyperkalemia
+compartment syndrome	requires	fasciotomy
+fasciotomy	relieves	pressure
+crush syndrome	consists of	rhabdomyolysis
+crush syndrome	associated with	electrolyte abnormalities
+edema	accompanies	crush injury
+crushing injury	leads to	shock
+shock	requires	fluid resuscitation
+fluid resuscitation	increases	urine output
+urine output	indicates	renal perfusion
+renal perfusion	improves	after resuscitation
+rhabdomyolysis	elevates	CK level
+CK level	indicates	muscle injury
+crushing injury	associated with	deep tissue injury
+deep tissue injury	predisposes to	wound infection
+wound infection	delays	wound healing
+wound healing	depends on	tissue perfusion
+tissue perfusion	improves with	fluids
+fluids	reduce	hypovolemia
+hypovolemia	worsens	shock
+shock	increases	mortality
+mortality	associated with	injury severity
+injury severity	determines	discharge destination
+discharge destination	includes	home care
+home care	reduces	readmission risk
+readmission risk	increases	hospitalization cost
+trauma center	improves	outcome
+early intervention	improves	prognosis
+prognosis	depends on	injury severity
+injury severity	determines	discharge timing
+discharge timing	affects	discharge destination
+crushing injury	predisposes to	urinary retention
+urinary retention	requires	catheterization
+catheterization	risks	infection
+infection	increases	antibiotic use
+antibiotic use	reduces	infection duration
+infection duration	affects	recovery time
+recovery time	depends on	injury severity
+injury severity	determines	rehabilitation needs
+rehabilitation needs	depend on	limb damage
+limb damage	affects	mobility
+mobility	improves with	physical therapy
+physical therapy	prevents	contractures
+crushing injury	is associated with	nerve injury
+nerve injury	causes	paresthesia
+paresthesia	indicates	nerve damage
+nerve damage	associated with	neuropathic pain
+neuropathic pain	managed with	analgesia
+analgesia	improves	patient comfort
+analgesia	reduces	sympathetic response
+crushing injury	impacts	quality of life
+quality of life	impacted by	disability
+disability	increases	caregiver burden
+caregiver burden	increases	healthcare costs
+healthcare costs	rise with	prolonged hospitalization
+prolonged hospitalization	increases	risk of infection
+risk of infection	lengthens	recovery
+recovery	requires	follow-up
+follow-up	ensures	monitoring
+monitoring	detects	complications
+complications	include	wound infection
+wound infection	complicates	recovery
+recovery pace	depends on	adherence
+adherence	determines	recovery pace
+recovery pace	improved by	timely treatment
+timely treatment	reduces	mortality
+mortality	decreases with	rapid triage
+rapid triage	improves	survival
+age	influences	mortality

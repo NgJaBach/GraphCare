@@ -1,0 +1,100 @@
+hiv infection	is a	chronic infection
+hiv infection	is a	retroviral infection
+hiv infection	causes	immune dysfunction
+hiv infection	progresses to	aids
+aids	is defined as	acquired immunodeficiency syndrome
+hiv infection	diagnosed by	hiv test
+hiv test	detects	hiv antibodies
+hiv antibody test	confirms	hiv infection
+seroconversion window	duration	weeks
+antiretroviral therapy	reduces	viral load
+hiv infection	reduces	cd4 count
+cd4 count	indicates	immune status
+viral load	monitors	treatment response
+viral suppression	indicates	art efficacy
+adherence	affects	art effectiveness
+drug resistance	emerges with	suboptimal adherence
+drug resistance	leads to	treatment failure
+aids	predisposes to	opportunistic infections
+pneumocystis pneumonia	is an	aids-defining infection
+cryptococcal meningitis	is an	aids-defining illness
+tuberculosis	co-infection with	hiv infection
+hepatitis c virus infection	co-infected with	hiv infection
+hbv infection	co-infected with	hiv infection
+nephrotoxicity	is associated with	tenofovir
+tenofovir	is a	nucleotide reverse transcriptase inhibitor
+emtricitabine	is a	nucleoside reverse transcriptase inhibitor
+efavirenz	is a	non-nucleoside reverse transcriptase inhibitor
+dolutegravir	is a	integrase strand transfer inhibitor
+art	reduces	hiv replication
+hiv replication	depends on	reverse transcription
+reverse transcription	is a target of	reverse transcriptase inhibitors
+art	causes	lipodystrophy
+lipodystrophy	increases	metabolic risk
+nephrotoxicity	occurs with	tenofovir
+osteopenia	occurs with	art
+bone mineral density loss	occurs with	tenofovir
+neuropsychiatric effects	associated with	efavirenz
+weight gain	associated with	insti-based regimens
+integrase inhibitors	block	viral dna integration
+viral reservoir	persists in	latent cells
+latent reservoir	challenges	hiv cure attempts
+early art initiation	improves	long-term outcome
+early art initiation	reduces	hiv-related morbidity
+late art initiation	increases	mortality
+pediatric hiv infection	requires	age-appropriate art dosing
+pregnant hiv-infected women	require	art during pregnancy
+vertical transmission	prevented by	art during pregnancy
+breast milk	can transmit	hiv infection
+neonatal prophylaxis	prevents	hiv transmission
+prenatal care	includes	hiv testing
+hiv testing	recommended for	pregnancy
+sex workers	require	hiv testing
+hiv testing	is recommended by	guidelines
+viral suppression	achieved by	good adherence
+drug interactions	influence	art effectiveness
+rifampin	reduces	art levels
+antiretroviral therapy	requires	regular monitoring
+regular monitoring	includes	cd4 count assessment
+cd4 count trend	indicates	immune recovery
+viral load suppression	predicts	reduced transmission risk
+hiv transmission	occurs via	sexual contact
+hiv transmission	occurs via	blood exposure
+hiv transmission	occurs via	perinatal exposure
+maternal hiv viral load	increases	perinatal transmission risk
+cesarean section	lowers	perinatal transmission
+breastfeeding	transmits	hiv infection
+art during pregnancy	prevents	mother-to-child transmission
+drug resistance testing	informs	art selection
+genotypic resistance testing	informs	art selection
+phenotypic resistance testing	informs	art adjustment
+early art	improves	pediatric outcomes
+single-tablet regimen	improves	adherence
+regimen simplification	improves	adherence
+adherence	improves	virologic suppression
+virologic suppression	reduces	transmission risk
+drug holidays	are discouraged	hiv management
+immune activation	persists	hiv infection
+inflammation	persists	hiv infection
+age	influences	hiv progression
+ethnicity	associated with	hiv prevalence
+socioeconomic status	affects	access to art
+access to art	improves	survival
+healthcare system	enables	art initiation
+art initiation	occurs at	any stage
+baseline cd4 count	guides	art timing
+baseline hiv viral load	guides	art choice
+genotypic resistance testing	guides	art selection
+adherence counseling	supports	art adherence
+lactic acidosis	is a possible adverse event
+hyperlipidemia	is a potential art side effect
+osteopenia	is a art-related complication
+hepatic toxicity	can occur with	art
+lipid abnormalities	associated with	art
+hiv co-infection	influences	liver disease progression
+hbv co-infection	influences	art choice
+hcv co-infection	influences	art choice
+immune restoration	reduces	opportunistic infections
+art	provides	immune restoration
+hiv infection	persists	lifelong antiretroviral therapy
+hiv infection	requires	lifelong antiretroviral therapy

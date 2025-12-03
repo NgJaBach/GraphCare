@@ -1,0 +1,100 @@
+bladder cancer	is a	malignant neoplasm of urinary bladder
+smoking	is risk factor for	bladder cancer
+age	is risk factor for	bladder cancer
+male sex	is risk factor for	bladder cancer
+occupational exposure to aromatic amines	is risk factor for	bladder cancer
+cyclophosphamide	increases risk for	bladder cancer
+radiation exposure	increases risk for	bladder cancer
+schistosoma haematobium infection	is risk factor for	bladder cancer
+hematuria	is presenting symptom of	bladder cancer
+painless hematuria	is presenting symptom of	bladder cancer
+dysuria	is presenting symptom of	bladder cancer
+urinary frequency	is presenting symptom of	bladder cancer
+urinary urgency	is presenting symptom of	bladder cancer
+pelvic pain	is presenting symptom of	bladder cancer
+anemia	worsens prognosis of	bladder cancer
+lymph node involvement	worsens prognosis of	bladder cancer
+distant metastasis	worsens prognosis of	bladder cancer
+tumor grade	correlates with	prognosis
+tumor stage	determines	treatment choice
+muscle invasion	defines	muscle-invasive bladder cancer
+urothelial carcinoma	is histology of	bladder cancer
+cystoscopy	is diagnostic procedure for	bladder cancer
+urine cytology	is diagnostic test for	bladder cancer
+CT urography	is imaging test for	bladder cancer evaluation
+MRI	is imaging test for	bladder cancer staging
+PET-CT	is imaging modality for	bladder cancer restaging
+biopsy	confirms	bladder cancer
+TNM staging	is used for	bladder cancer
+cystectomy	is treatment for	muscle-invasive bladder cancer
+transurethral resection	is treatment for	non-muscle-invasive bladder cancer
+intravesical therapy	is treatment for	non-muscle-invasive bladder cancer
+BCG therapy	is used for	non-muscle-invasive bladder cancer
+mitomycin-C	is used for	non-muscle-invasive bladder cancer
+systemic chemotherapy	is used for	advanced bladder cancer
+immunotherapy	is used for	bladder cancer
+pembrolizumab	is used for	bladder cancer
+atezolizumab	is used for	bladder cancer
+durvalumab	is used for	bladder cancer
+radical cystectomy	is treatment for	muscle-invasive bladder cancer
+neoadjuvant chemotherapy	is treatment for	muscle-invasive bladder cancer
+adjuvant chemotherapy	is treatment for	bladder cancer
+urinary diversion	is result of	radical cystectomy
+recurrence	is common after	non-muscle-invasive bladder cancer treatment
+intravesical therapy	reduces recurrence	bladder cancer
+BCG therapy	reduces recurrence	bladder cancer
+urine cytology	has limited sensitivity for	low-grade bladder cancer
+FGFR3 mutation	associates with	low-grade bladder cancer
+p53 mutation	associates with	high-grade bladder cancer
+tumor mutational burden	predicts	immunotherapy response
+tumor burden	predicts	treatment response
+lymphovascular invasion	indicates	high-grade bladder cancer
+positive margins	predict	recurrence
+lymph node metastasis	indicates	advanced disease
+distant metastasis	indicates	stage IV disease
+positive cytology	predicts	bladder cancer presence
+catheterization	increases risk of	urinary infection
+nephrotoxicity	limits	chemotherapy dosing
+creatinine clearance	influences	chemotherapy dosing
+renal function	affects eligibility for	bladder cancer chemotherapy
+performance status	predicts	bladder cancer mortality
+age	predicts	bladder cancer mortality
+comorbidity burden	increases	readmission
+length of stay	correlates with	readmission
+early detection	improves	survival
+late stage	associated with	poor survival
+surgical margins	influence	recurrence
+postoperative complications	affect	length of stay
+bleeding	is complication of	transurethral resection
+urinary diversion	impacts	quality of life
+quality of life	improves with	surveillance after treatment
+recurrence risk	is reduced by	intravesical therapy
+recurrence risk	is reduced by	BCG therapy
+toxicity	influences	treatment decision
+toxicity	is associated with	chemotherapy
+catheter use	increases risk of	urinary infection
+urinary infection	leads to	hospital readmission
+hospital readmission	occurs after	bladder cancer treatment
+immunotherapy	is recommended for	bladder cancer
+bleeding	increases risk of	transfusion
+transfusion	is necessary after	bladder cancer surgery
+sexual dysfunction	is complication of	radical cystectomy
+urinary incontinence	is complication of	radical cystectomy
+surveillance	detects recurrence	bladder cancer
+surveillance	informs	treatment planning
+muscle-invasive bladder cancer	often requires	cystectomy
+non-muscle-invasive bladder cancer	often treated with	intravesical therapy
+metastatic bladder cancer	treated with	palliative care
+palliative care	improves	quality of life
+treatment response	correlates with	survival
+disease control	predicts	survival
+early detection	leads to	improved prognosis
+vesical neck invasion	indicates	advanced disease
+urethral invasion	indicates	advanced disease
+carcinoma in situ	is associated with	bladder cancer progression
+histology	informs	prognosis
+vascular invasion	indicates	aggressive cancer
+surgical pathology	informs	prognosis
+radiation therapy	provides palliation for	metastatic disease
+anemia	is marker of	advanced disease
+surveillance imaging	detects recurrence	bladder cancer

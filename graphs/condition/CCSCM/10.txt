@@ -1,0 +1,101 @@
+measles vaccine	prevents	measles
+mumps vaccine	prevents	mumps
+rubella vaccine	prevents	rubella
+MMR vaccine	prevents	measles
+polio vaccine	prevents	poliomyelitis
+diphtheria vaccine	prevents	diphtheria
+tetanus vaccine	prevents	tetanus
+pertussis vaccine	prevents	pertussis
+influenza vaccine	prevents	influenza
+hepatitis B vaccine	prevents	hepatitis B
+hepatitis A vaccine	prevents	hepatitis A
+HPV vaccine	prevents	HPV infection
+pneumococcal vaccine	prevents	pneumococcal disease
+meningococcal vaccine	prevents	meningococcal disease
+varicella vaccine	prevents	varicella
+rotavirus vaccine	prevents	rotavirus infection
+yellow fever vaccine	prevents	yellow fever
+rabies vaccine	prevents	rabies infection
+typhoid vaccine	prevents	typhoid fever
+Japanese encephalitis vaccine	prevents	Japanese encephalitis
+tuberculosis screening	detects	TB infection
+IGRA	detects	TB infection
+tuberculin skin test	detects	TB infection
+HIV test	detects	HIV infection
+HBsAg test	detects	hepatitis B infection
+anti-HBs test	detects	hepatitis B immunity
+Hepatitis C antibody test	detects	hepatitis C infection
+Measles IgG	detects	measles immunity
+Varicella IgG	detects	varicella immunity
+Rubella IgG	detects	rubella immunity
+Syphilis test	detects	syphilis infection
+Chlamydia NAAT	detects	chlamydia infection
+Gonorrhea NAAT	detects	gonorrhea infection
+Rapid HIV test	detects	HIV infection
+Hepatitis B surface antibody test	detects	hepatitis B immunity
+HPV DNA test	detects	HPV infection
+Hepatitis C RNA test	detects	hepatitis C infection
+SARS-CoV-2 antigen test	detects	COVID-19 infection
+SARS-CoV-2 PCR test	detects	COVID-19 infection
+Urine culture	detects	urinary tract infection
+Nasal swab PCR	detects	influenza infection
+Chlamydia antibody test	detects	chlamydia exposure
+Pregnancy-associated malaria test	detects	malaria infection
+Measles IgM	detects	acute measles infection
+Rubella IgM	detects	acute rubella infection
+Hepatitis B core antibody	detects	hepatitis B exposure
+Meningococcal carriage	detects	meningococcal carriage
+Tuberculin test reading	detects	TB infection status
+QuantiFERON test	detects	TB infection
+HIV RNA	detects	HIV infection
+Hepatitis B surface antigen	detects	hepatitis B infection
+Hepatitis D antibody	detects	hepatitis D infection
+HPV vaccination	prevents	HPV infection
+Hepatitis A vaccination	prevents	hepatitis A infection
+Tetanus booster	maintains	tetanus immunity
+Maternal vaccination	protects	newborn
+Neonatal immunity	depends on	maternal antibodies
+Immunization schedule	guides	vaccination timing
+Catch-up vaccination schedule	guides	vaccination timing
+Adult vaccination schedule	guides	vaccination timing
+Pediatric vaccination schedule	guides	vaccination timing
+Booster dose	extends	immunity duration
+Live vaccine	contraindicated in	immunocompromised patients
+Inactivated vaccine	safe in	pregnancy
+Maternal immunization guidelines	recommend	vaccination during pregnancy
+Seasonal vaccination	recommended for	elderly population
+Childhood vaccination	recommended for	children
+Adult vaccination	recommended for	adults
+Catch-up vaccination	recommended for	overdue individuals
+Immunization reminder	improves	vaccination adherence
+Vaccine storage	requires	cold chain
+Cold chain	maintains	vaccine potency
+Stock management	ensures	vaccine availability
+Vaccine adverse event reporting	informs	safety surveillance
+VAERS	monitors	vaccine adverse events
+Vaccine effectiveness	correlates with	immune response quality
+Antibody titer	correlates with	protection level
+Immunogenicity	relates to	immune status
+Maternal vaccination	protects	newborn
+Neonatal immunity	depends on	maternal antibodies
+Immunization coverage	predicts	herd immunity level
+Herd immunity	protects	unvaccinated individuals
+Infection rate	declines after	vaccination
+Outbreak risk	decreases with	vaccination
+Cost-effectiveness analysis	informs	immunization policy
+Vaccine uptake	drives	herd immunity
+Vaccine hesitancy	lowers	vaccination rate
+Public health campaign	increases	vaccination uptake
+Immunization program	reduces	disease burden
+Immunization	is part of	preventive care
+Clinic	provides	vaccines
+Vaccine availability	affects	vaccination rate
+Travel vaccination	recommended for	travelers
+Post-exposure prophylaxis	prevents	infection after exposure
+Tetanus booster	maintains	tetanus immunity
+Healthcare worker	recommended to receive	vaccination
+Immunity testing	used for	assessing population immunity
+Serology testing	used for	vaccine response assessment
+Vaccine efficacy	is measured by	serology
+Serum antibody	indicates	protective immunity
+Protective immunity	correlates with	vaccination history

@@ -1,0 +1,97 @@
+hemorrhage during pregnancy	is complication of	pregnancy
+placental abruption	is complication of	pregnancy
+placenta previa	is complication of	pregnancy
+placental abruption	is type of	antepartum hemorrhage
+placenta previa	is type of	antepartum hemorrhage
+placental abruption	presents with	vaginal bleeding
+placental abruption	presents with	abdominal pain
+placental abruption	causes	fetal distress
+placental abruption	increases risk for	preterm birth
+placental abruption	increases risk for	stillbirth
+placental abruption	diagnosed by	ultrasound
+placental abruption	managed with	immediate delivery
+placental abruption	may require	blood transfusion
+placental abruption	associated with	hypertension
+placental abruption	associated with	cocaine use
+placental abruption	associated with	smoking
+placental abruption	associated with	trauma
+placental abruption	associated with	disseminated intravascular coagulation
+placental abruption	leads to	maternal shock
+placental abruption	leads to	neonatal morbidity
+placental abruption	leads to	neonatal death
+placental abruption	occurs in	third trimester
+placental abruption	diagnosed by	clinical examination
+placental abruption	managed with	ICU care
+hemorrhage during pregnancy	presents with	vaginal bleeding
+hemorrhage during pregnancy	presents with	abdominal pain
+hemorrhage during pregnancy	managed with	obstetric emergency care
+hemorrhage during pregnancy	may require	blood transfusion
+hemorrhage during pregnancy	risk factor for	maternal anemia
+hemorrhage during pregnancy	risk factor for	maternal hypotension
+hemorrhage during pregnancy	increases risk for	preterm delivery
+hemorrhage during pregnancy	increases risk for	fetal distress
+hemorrhage during pregnancy	associated with	placenta previa
+hemorrhage during pregnancy	associated with	placental abruption
+antepartum hemorrhage	is type of	hemorrhage during pregnancy
+placenta previa	presents with	painless vaginal bleeding
+placenta previa	presents with	vaginal bleeding
+placenta previa	causes	vaginal bleeding in late pregnancy
+placenta previa	diagnosed by	ultrasound
+placenta previa	associated with	prior cesarean delivery
+placenta previa	associated with	placenta accreta
+placenta previa	increases risk for	cesarean delivery
+placenta previa	managed with	planned cesarean delivery
+placenta previa	associated with	multiparity
+placenta previa	associated with	advanced maternal age
+placenta previa	increases risk for	fetal growth restriction
+placenta previa	may cause	prematurity
+placenta previa	increases risk for	NICU admission
+placenta previa	diagnosed by	transabdominal ultrasound
+placenta previa	diagnosed by	transvaginal ultrasound
+placenta previa	has risk factor	prior cesarean delivery
+placenta previa	has risk factor	multiparity
+placenta previa	has risk factor	advanced maternal age
+placenta previa	has risk factor	prior uterine surgery
+placenta previa	associated with	placenta accreta
+placenta previa	risk factors include	prior cesarean delivery
+hemorrhage during pregnancy	may cause	emergency obstetric care
+hemorrhage during pregnancy	may require	blood transfusion
+blood transfusion	required for	placental abruption
+blood transfusion	required for	hemorrhage during pregnancy
+neonatal morbidity	associated with	placental abruption
+neonatal morbidity	associated with	placenta previa
+neonatal death	associated with	placental abruption
+neonatal death	associated with	placenta previa
+neonatal ICU admission	associated with	placental abruption
+neonatal ICU admission	associated with	placenta previa
+fetal distress	associated with	placental abruption
+emergency delivery	indicated by	placental abruption
+emergency delivery	indicated by	placenta previa
+delivery	mode influenced by	placenta previa
+cesarean delivery	indicated for	placenta previa
+cesarean delivery	indicated for	placental abruption
+preterm birth	associated with	placenta previa
+preterm birth	associated with	placental abruption
+stillbirth	associated with	placental abruption
+stillbirth	associated with	placenta previa
+blood loss	measurement in	hemorrhage during pregnancy
+trauma	risk factor for	placental abruption
+hypertension	risk factor for	placental abruption
+cocaine use	risk factor for	placental abruption
+smoking	risk factor for	placental abruption
+prior cesarean delivery	risk factor for	placenta previa
+multiparity	risk factor for	placenta previa
+advanced maternal age	risk factor for	placenta previa
+prior uterine surgery	risk factor for	placenta previa
+placental accreta	associated with	placenta previa
+placental abruption	risk period is	third trimester
+ultrasound	modality for	diagnosis of placental abruption
+ultrasound	modality for	diagnosis of placenta previa
+obstetric emergency care	required for	antepartum hemorrhage
+ICU care	required for	placental abruption
+ICU care	required for	hemorrhage during pregnancy
+blood transfusion	is a	necessary intervention for hemorrhage during pregnancy
+transabdominal ultrasound	used for	diagnosis of placenta previa
+transvaginal ultrasound	used for	diagnosis of placenta previa
+third trimester	period of	hemorrhage during pregnancy
+neonatal morbidity	linked to	placental previa

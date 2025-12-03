@@ -1,0 +1,100 @@
+gangrene	is a	necrosis of tissue
+gangrene	has forms	wet gangrene
+gangrene	has forms	dry gangrene
+gas gangrene	is a form of	gangrene
+fournier gangrene	is a form of	gangrene
+gas gangrene	is caused by	clostridium perfringens
+clostridium perfringens	produces	alpha-toxin
+diabetes mellitus	increases risk for	gangrene
+peripheral arterial disease	increases risk for	gangrene
+smoking	increases risk for	gangrene
+trauma	predisposes to	gangrene
+diabetic foot ulcer	predisposes to	gangrene
+foot infection	predisposes to	gangrene
+wound infection	predisposes to	gangrene
+immunosuppression	increases risk for	gangrene
+ischemia	leads to	tissue necrosis
+tissue necrosis	is feature of	gangrene
+ischemia	is antecedent to	gangrene
+necrosis	accompanies	gangrene
+gangrene	presents with	foul odor
+gangrene	presents with	skin discoloration
+gangrene	presents with	edema
+gangrene	presents with	tissue loss
+gangrene	associated with	sepsis
+gangrene	associated with	septic shock
+gangrene	increases	mortality
+gangrene	increases	hospital readmission
+gangrene	increases	amputation risk
+debridement	is treatment for	gangrene
+antibiotics	are used to treat	gangrene
+surgery	is used for	gangrene
+diabetic foot infection	leads to	gangrene
+blood flow impairment	causes	gangrene
+vascular occlusion	leads to	ischemia
+hypoxia	promotes	tissue necrosis
+antibiotic therapy	essential for	gangrene management
+penicillin G	used to treat	clostridium perfringens infection
+metronidazole	used for	anaerobic infection associated with gangrene
+clindamycin	used for	anaerobic infection associated with gangrene
+broad-spectrum antibiotics	used to treat	gas gangrene
+intravenous antibiotics	used for	gangrene
+hyperbaric oxygen therapy	adjunct to	debridement for gangrene
+hyperbaric oxygen therapy	used for	gangrene
+negative-pressure wound therapy	used with	debridement for gangrene
+wound care	essential after	debridement for gangrene
+diabetes-related vascular disease	associated with	gangrene
+ischemic limb	at risk for	gangrene
+amputation	may be required for	gangrene
+mortality	associated with	gangrene
+hospitalization	lengthened by	gangrene
+ulcer	complication of	gangrene
+necrosis	leads to	gangrene
+sepsis	arises from	gangrene
+crepitus	indicates	gas gangrene
+tissue ischemia	underlying cause of	gangrene
+diabetic neuropathy	increases risk of	foot gangrene
+arterial thrombosis	causes	limb gangrene
+anaerobic bacteria	involved in	gas gangrene
+alpha-toxin	contributes to	tissue destruction in gas gangrene
+necrotic tissue	requires	debridement
+infection	spreads to surrounding tissue in	gangrene
+ischemic tissue	becomes	gangrenous
+revascularization	prevents	gangrene progression
+diabetes control	improves	gangrene prognosis
+glycemic control	reduces	gangrene progression
+nutrition status	impacts	wound healing in gangrene
+blood glucose	elevated in	diabetic gangrene
+renal impairment	common in	severe gangrene
+organ failure	worsens	sepsis in gangrene
+gram-positive bacteria	involved in	skin gangrene
+gram-negative bacteria	involved in	sepsis associated with gangrene
+pseudomonas	complicates	wound infection
+alpha-toxin	mediates	tissue destruction in gas gangrene
+crepitus	accompanies	gas gangrene
+tissue perfusion	improves with	revascularization
+gangrene	is an	emergency condition
+mortality rate	higher in	gangrene patients
+amputation	reduces	local spread of gangrene
+hospital resources	strained by	gangrene management
+outcome	worsens with	delayed treatment of gangrene
+culture	guides	antibiotic selection in gangrene
+blood culture	used for	detecting bacteremia in gangrene
+wound culture	used for	identifying pathogens in gangrene
+palliative care	involved in	advanced gangrene
+surgical debridement	followed by	wound care and antibiotics
+tissue oxygenation	improved by	hyperbaric therapy
+gas accumulation	occurs in	gas gangrene
+patient education	improves	gangrene outcomes
+vascular surgeons	manage	gangrene
+emergency department	encounters	gangrene
+radiography	detects	gas in tissue
+MRI	evaluates	extent of gangrene
+CT scan	helps plan	debridement in gangrene
+amputation	improves	functional outcome after gangrene
+prosthesis	required after	amputation due to gangrene
+antibiotic stewardship	improves	outcomes in gangrene
+oxygen therapy	improves	tissue oxygenation in gangrene
+wound culture	guides	antibiotic selection in gangrene
+pathogen identification	guides	targeted therapy in gangrene
+emergency surgical team	coordinates	gangrene care

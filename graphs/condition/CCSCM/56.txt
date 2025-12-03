@@ -1,0 +1,100 @@
+cystic fibrosis	is a	genetic disorder
+cystic fibrosis	is caused by	CFTR gene mutation
+CFTR gene mutation	causes	CFTR dysfunction
+CFTR gene mutation	leads to	reduced chloride transport
+reduced chloride transport	causes	thick mucus
+thick mucus	obstructs	airways
+airway obstruction	reduces	gas exchange
+gas exchange	declines with	cystic fibrosis progression
+pancreatic insufficiency	leads to	malabsorption
+malabsorption	causes	nutritional deficiency
+cystic fibrosis	affects	exocrine glands
+sweat chloride test	is used for	diagnosis of cystic fibrosis
+newborn screening	may detect	cystic fibrosis
+nasal potential difference test	assesses	CFTR function
+CFTR modulators	treat	cystic fibrosis
+ivacaftor	is a	CFTR potentiator
+lumacaftor	is a	CFTR corrector
+elexacaftor	is a	CFTR modulator
+modulator therapy	improves	lung function in cystic fibrosis
+triple therapy	is a	CFTR modulator combination
+cystic fibrosis	predisposes to	chronic pulmonary infection
+pseudomonas aeruginosa infection	is common in	cystic fibrosis
+staphylococcus aureus infection	occurs in	cystic fibrosis
+bronchiectasis	develops in	cystic fibrosis
+airway colonization	precedes	chronic infection in cystic fibrosis
+lung function	declines with	disease progression
+pulmonary hypertension	complication of	cystic fibrosis
+hemoptysis	complication of	cystic fibrosis
+respiratory failure	can occur in	cystic fibrosis
+cystic fibrosis-related diabetes	is a	complication of cystic fibrosis
+fat-soluble vitamin deficiency	occurs in	cystic fibrosis
+osteoporosis	common in	cystic fibrosis
+bone density	reduced in	cystic fibrosis
+pancreatic exocrine insufficiency	leads to	steatorrhea
+fecal elastase	decreased in	pancreatic insufficiency
+meconium ileus	presents in	cystic fibrosis
+salty sweat	observed in	cystic fibrosis
+paranasal sinus disease	common in	cystic fibrosis
+nasal polyps	associated with	cystic fibrosis
+digital clubbing	observed in	cystic fibrosis
+exercise tolerance	reduced in	cystic fibrosis
+osteopenia	occurs in	cystic fibrosis
+nutrition therapy	improves	growth in cystic fibrosis
+pancreatic enzyme replacement therapy	replaces	pancreatic enzymes
+fat-soluble vitamins	supplementation improves	nutritional status in cystic fibrosis
+inhaled antibiotics	used for	pulmonary infections in cystic fibrosis
+oral antibiotics	used for	pulmonary infections in cystic fibrosis
+inhaled mucolytics	improve	sputum clearance
+airway clearance device	aids	mucus clearance
+sputum culture	guides	antibiotic therapy
+cystic fibrosis-related liver disease	occurs in	cystic fibrosis
+liver fibrosis	associated with	cystic fibrosis
+infection control measures	reduce	cross-infection risk in cystic fibrosis
+lung function tests	monitor	disease progression in cystic fibrosis
+spirometry	measures	lung function in cystic fibrosis
+ct scan	evaluates	structural changes in cystic fibrosis
+quality of life	affected by	cystic fibrosis
+mortality	associated with	lung disease in cystic fibrosis
+readmission risk	increased after	pulmonary exacerbation in cystic fibrosis
+hospital admission	associated with	pulmonary exacerbation in cystic fibrosis
+pulmonary exacerbation	triggers	hospitalization in cystic fibrosis
+airway inflammation	present in	cystic fibrosis
+neutrophils	release	elastase
+elastase	causes	lung damage
+airway remodeling	occurs in	advanced cystic fibrosis
+infection control programs	improve	care outcomes in cystic fibrosis
+genetic testing	confirms	CFTR mutation
+F508del mutation	is a	common CFTR mutation
+genotype	influences	phenotype in cystic fibrosis
+lung clearance index	correlates with	disease severity in cystic fibrosis
+clinic visits	predict	hospitalization in cystic fibrosis
+home spirometry	enables	remote monitoring in cystic fibrosis
+multidisciplinary team	improves	care in cystic fibrosis
+psychological support	improves	quality of life in cystic fibrosis
+airway clearance therapy	promotes	sputum clearance
+neonatal screening	detects	cystic fibrosis
+CFTR mutation	linked to	cystic fibrosis diagnosis
+F508del mutation	is a	CFTR mutation
+bile duct disease	observed in	cystic fibrosis
+bone mineral density	reduced in	cystic fibrosis
+diabetes mellitus	associated with	CFRD
+meconium ileus	indicates	pancreatic involvement in cystic fibrosis
+sodium chloride concentration in sweat	elevated in	cystic fibrosis
+stool fat	increased in	pancreatic insufficiency in cystic fibrosis
+growth failure	observed in	cystic fibrosis
+bone metabolism	altered in	cystic fibrosis
+antioxidant therapy	evaluated for	cystic fibrosis
+airway infection	persistent in	cystic fibrosis
+pseudomonas colonization	persistent in	cystic fibrosis
+ciprofloxacin	used for	pseudomonas infection in cystic fibrosis
+aztreonam	used for	pseudomonas infection in cystic fibrosis
+lumacaftor-ivacaftor combination	approved for	CF with F508del mutation
+pseudomonas infection	includes	antibiotic therapy in cystic fibrosis
+mucus plugging	contributes to	airway obstruction
+cystic fibrosis	affects	digestive tract
+bile duct disease	associated with	cystic fibrosis
+nasal discharge	present in	cystic fibrosis
+clinical outcomes	improve with	comprehensive care in cystic fibrosis
+quality of care	measured by	hospitalization rate in cystic fibrosis
+research trials	accelerate	treatment options for cystic fibrosis

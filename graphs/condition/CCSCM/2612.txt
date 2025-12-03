@@ -1,0 +1,102 @@
+overexertion	is a	external cause
+overexertion	is a	mechanism of injury
+overexertion	may cause	muscle strain
+overexertion	may cause	back strain
+overexertion	may cause	neck strain
+overexertion	may cause	shoulder strain
+overexertion	may cause	tendinitis
+overexertion	may cause	sprain
+overexertion	may cause	hernia
+overexertion	may cause	rhabdomyolysis
+overexertion	may cause	dehydration
+overexertion	may cause	heat illness
+overexertion	may cause	fatigue
+overexertion	may cause	soreness
+overexertion	may cause	pain
+overexertion	increases risk of	acute injury
+overexertion	increases risk of	musculoskeletal injury
+overexertion	increases risk of	soft tissue injury
+overexertion	increases risk of	disc injury
+overexertion	increases risk of	stress fracture
+overexertion	increases risk of	ligament sprain
+overexertion	increases risk of	joint dislocation
+overexertion	associated with	athletic activity
+overexertion	associated with	heavy lifting
+overexertion	associated with	repetitive motion
+overexertion	associated with	overtraining
+overexertion	associated with	fatigue syndrome
+overexertion	observed in	athletes
+overexertion	observed in	laborers
+overexertion	observed in	manual workers
+overexertion	observed in	endurance athletes
+overexertion	may trigger	exertional angina
+overexertion	may trigger	myocardial infarction
+overexertion	may trigger	arrhythmia
+overexertion	may trigger	syncope
+overexertion	may trigger	stroke
+overexertion	may trigger	sudden death
+myocardial infarction	may be precipitated by	exertion
+angina	may be triggered by	exertion
+arrhythmia	may be triggered by	exertion
+syncope	may be triggered by	exertion
+stroke	may be triggered by	exertion
+sudden death	may be preceded by	exertion
+exertion	is a	form of physical activity
+exertion	leads to	energy expenditure
+exertion	related to	cardiovascular stress
+exertion	related to	heat production
+exertion	constitutes	physical activity
+physical activity	is a	predictor of outcomes
+athlete	at risk for	overexertion
+laborer	at risk for	overexertion
+manual worker	at risk for	overexertion
+endurance athlete	at risk for	overexertion
+exertion	triggers	chest pain
+exertion	triggers	arrhythmia
+exertion	triggers	syncope
+exertion	precipitates	myocardial infarction
+exertion	precipitates	angina
+exertion	related to	exertional injury
+exertion	related to	exertional chest pain
+emergency department	visit	overexertion
+hospitalization	associated with	overexertion
+trauma	caused by	overexertion
+injury	related to	overexertion
+death	associated with	overexertion
+sudden death	associated with	exertion
+myocardial infarction	associated with	exertion
+angina	associated with	exertion
+arrhythmia	associated with	exertion
+syncope	associated with	exertion
+stroke	associated with	exertion
+overexertion	is risk factor for	hospitalization
+exertion	is associated with	energy expenditure
+energy expenditure	associated with	exertion
+energy expenditure	increases	caloric burn
+conditioning	reduces risk of	overexertion
+hydration	improves	performance during exertion
+rest	aids recovery from	overexertion
+sleep	aids recovery from	overexertion
+nutrition	supports recovery from	overexertion
+education	reduces risk of	overexertion
+physical fitness	reduces risk of	overexertion
+proper technique	reduces risk of	overexertion
+protective equipment	reduces risk of	overexertion-related injury
+workload	increases risk of	overexertion
+fatigue	worsens recovery after	overexertion
+heat exposure	increases risk of	overexertion-related illness
+cold exposure	increases risk of	overexertion-related injury
+diuretic	increases risk of	dehydration during exertion
+electrolyte imbalance	increases risk of	arrhythmia
+rhabdomyolysis	may result from	severe overexertion
+back injury	may result from	overexertion
+neck injury	may result from	overexertion
+shoulder injury	may result from	overexertion
+joint injury	may result from	overexertion
+bone fracture	may result from	overexertion
+tendon rupture	may result from	overexertion
+ligament injury	may result from	overexertion
+post-exertional syndrome	is a	related concept
+exertion	is a	physical activity
+physical activity	predicts	hospitalization risk
+external cause code	denotes	mechanism of injury

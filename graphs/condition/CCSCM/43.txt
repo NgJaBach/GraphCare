@@ -1,0 +1,100 @@
+malignant neoplasm without specification of site	is a	cancer
+malignant neoplasm without specification of site	metastasizes to	liver
+malignant neoplasm without specification of site	metastasizes to	lung
+malignant neoplasm without specification of site	metastasizes to	bone
+malignant neoplasm without specification of site	metastasizes to	brain
+malignant neoplasm without specification of site	metastasizes to	lymph node
+malignant neoplasm without specification of site	presents with	weight loss
+malignant neoplasm without specification of site	presents with	fever
+malignant neoplasm without specification of site	presents with	night sweats
+malignant neoplasm without specification of site	presents with	fatigue
+malignant neoplasm without specification of site	presents with	pain
+malignant neoplasm without specification of site	causes	cachexia
+malignant neoplasm without specification of site	causes	anemia
+malignant neoplasm without specification of site	causes	hypercalcemia
+malignant neoplasm without specification of site	is treated with	chemotherapy
+malignant neoplasm without specification of site	is treated with	radiotherapy
+malignant neoplasm without specification of site	is treated with	surgery
+malignant neoplasm without specification of site	is treated with	immunotherapy
+malignant neoplasm without specification of site	is treated with	targeted therapy
+malignant neoplasm without specification of site	is managed with	palliative care
+malignant neoplasm without specification of site	affects	performance status
+malignant neoplasm without specification of site	worsens	quality of life
+malignant neoplasm without specification of site	increases	mortality
+malignant neoplasm without specification of site	increases	readmission risk
+malignant neoplasm without specification of site	increases	length of stay
+malignant neoplasm without specification of site	increases	hospital cost
+malignant neoplasm without specification of site	is diagnosed by	biopsy
+malignant neoplasm without specification of site	is diagnosed by	histology
+malignant neoplasm without specification of site	is diagnosed by	cytology
+malignant neoplasm without specification of site	is detected by	imaging
+malignant neoplasm without specification of site	is detected by	CT scan
+malignant neoplasm without specification of site	is detected by	MRI
+malignant neoplasm without specification of site	has	nodal metastasis
+malignant neoplasm without specification of site	has	distant metastasis
+malignant neoplasm without specification of site	stage	unknown
+malignant neoplasm without specification of site	prognosis	poor
+malignant neoplasm without specification of site	prognosis	unfavorable
+malignant neoplasm without specification of site	correlates with	age
+malignant neoplasm without specification of site	correlates with	performance status
+malignant neoplasm without specification of site	associated with	smoking history
+malignant neoplasm without specification of site	associated with	alcohol use
+malignant neoplasm without specification of site	associated with	obesity
+malignant neoplasm without specification of site	associated with	diabetes
+malignant neoplasm without specification of site	requires	nutritional support
+malignant neoplasm without specification of site	requires	transfusion
+malignant neoplasm without specification of site	influences	drug dosing
+malignant neoplasm without specification of site	influences	kidney function
+malignant neoplasm without specification of site	influences	liver function
+malignant neoplasm without specification of site	influences	renal clearance
+malignant neoplasm without specification of site	responds to	chemotherapy
+malignant neoplasm without specification of site	responds to	immunotherapy
+malignant neoplasm without specification of site	responds to	targeted therapy
+malignant neoplasm without specification of site	responds to	combination therapy
+malignant neoplasm without specification of site	progresses to	metastasis
+malignant neoplasm without specification of site	progresses to	organ involvement
+malignant neoplasm without specification of site	recurs as	local recurrence
+malignant neoplasm without specification of site	recurs as	distant recurrence
+malignant neoplasm without specification of site	surveillance by	imaging studies
+malignant neoplasm without specification of site	monitored by	tumor markers
+malignant neoplasm without specification of site	prognosis depends on	stage
+malignant neoplasm without specification of site	prognosis depends on	performance status
+malignant neoplasm without specification of site	prognosis depends on	age
+malignant neoplasm without specification of site	treatment choice depends on	receptor status
+malignant neoplasm without specification of site	treatment choice depends on	mutation profile
+malignant neoplasm without specification of site	drug resistance	emerges
+malignant neoplasm without specification of site	associated with	neutropenia
+malignant neoplasm without specification of site	associated with	neuropathy
+malignant neoplasm without specification of site	associated with	nausea
+malignant neoplasm without specification of site	associated with	mucositis
+malignant neoplasm without specification of site	causes	pathologic fracture
+malignant neoplasm without specification of site	reduces	mobility
+malignant neoplasm without specification of site	causes	cognitive impairment
+malignant neoplasm without specification of site	indicates	treatment efficacy
+malignant neoplasm without specification of site	indicates	survival
+malignant neoplasm without specification of site	yields	durable response
+malignant neoplasm without specification of site	yields	progression-free survival
+malignant neoplasm without specification of site	causes	dermatitis
+malignant neoplasm without specification of site	causes	infection
+malignant neoplasm without specification of site	improves	overall survival
+malignant neoplasm without specification of site	requires	multidisciplinary care
+malignant neoplasm without specification of site	monitored by	complete blood count
+malignant neoplasm without specification of site	monitored by	liver function tests
+malignant neoplasm without specification of site	monitored by	calcium level
+malignant neoplasm without specification of site	influenced by	age
+malignant neoplasm without specification of site	influenced by	renal function
+malignant neoplasm without specification of site	influenced by	liver function
+malignant neoplasm without specification of site	influenced by	nutritional status
+malignant neoplasm without specification of site	influenced by	performance status
+malignant neoplasm without specification of site	influenced by	comorbidity
+malignant neoplasm without specification of site	risk factor	age
+malignant neoplasm without specification of site	risk factor	smoking
+malignant neoplasm without specification of site	risk factor	alcohol
+malignant neoplasm without specification of site	risk factor	obesity
+malignant neoplasm without specification of site	risk factor	diabetes
+malignant neoplasm without specification of site	biomarker predicts	prognosis
+malignant neoplasm without specification of site	biomarker predicts	therapy response
+malignant neoplasm without specification of site	receptor status informs	therapy
+malignant neoplasm without specification of site	mutation status informs	therapy
+malignant neoplasm without specification of site	supports	care planning
+malignant neoplasm without specification of site	prompts	palliative discussion

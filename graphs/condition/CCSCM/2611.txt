@@ -1,0 +1,101 @@
+fall	causes	fracture
+fall	causes	head injury
+fall	causes	ankle injury
+fall	results in	hospitalization
+motor vehicle crash	causes	injury
+motor vehicle crash	causes	fracture
+motor vehicle crash	results in	death
+drowning	causes	death
+drowning	causes	hypoxia
+drowning	results in	respiratory failure
+burn	causes	burn injury
+burn	results in	dehydration
+smoke inhalation	causes	respiratory failure
+smoke inhalation	causes	hypoxia
+smoke inhalation	associated with	death
+heat exposure	causes	dehydration
+heat wave	causes	dehydration
+heat wave	causes	electrolyte disorder
+cold exposure	causes	hypothermia
+cold exposure	causes	frostbite
+flood	causes	drowning
+flood	causes	injury
+flood	associated with	displacement
+earthquake	causes	fracture
+earthquake	causes	crush injury
+earthquake	results in	hospitalization
+hurricane	causes	injury
+tsunami	causes	drowning
+tsunami	causes	injury
+wildfire	causes	burn injury
+wildfire	causes	smoke inhalation
+lightning strike	causes	burn injury
+lightning strike	causes	cardiac arrest
+volcanic ash	causes	respiratory disorder
+volcanic ash	associated with	airway obstruction
+pollen	causes	allergic reaction
+dust storm	causes	respiratory infection
+air pollution	associated with	respiratory disorder
+air pollution	associated with	cardiovascular disorder
+ultraviolet exposure	associated with	skin cancer
+sun exposure	causes	sunburn
+sun exposure	associated with	skin cancer
+pesticide	causes	poisoning
+chemical exposure	causes	poisoning
+chemical exposure	associated with	dermatitis
+poisoning	caused by	pesticide
+poisoning	caused by	chemical exposure
+radiation exposure	associated with	cancer
+radiation exposure	associated with	organ failure
+waterborne disease	causes	dehydration
+waterborne disease	causes	diarrhea
+rabies	associated with	death
+rabies	requires	treatment
+rabies	requires	postexposure prophylaxis
+myocardial infarction	associated with	death
+myocardial infarction	associated with	disability
+stroke	associated with	death
+stroke	associated with	disability
+sepsis	associated with	mortality
+dehydration	causes	electrolyte disorder
+dehydration	associated with	hospitalization
+electrolyte disorder	associated with	arrhythmia
+electrolyte disorder	associated with	seizure
+skin burn	associated with	infection
+infection	leads to	sepsis
+infection	associated with	hospitalization
+pneumonia	associated with	mortality
+pneumonia	causes	hospitalization
+meningitis	associated with	death
+bone fracture	associated with	immobilization
+immobilization	associated with	pressure ulcer
+animal bite	causes	infection
+animal bite	associated with	rabies
+snake bite	causes	poisoning
+snake bite	associated with	neurotoxic effects
+insect bite	causes	infection
+insect bite	associated with	allergy
+poisoning	caused by	pesticide
+poisoning	caused by	chemical exposure
+radiation exposure	causes	cancer
+radiation exposure	causes	organ failure
+waterborne disease	associated with	diarrhea
+waterborne disease	associated with	dehydration
+pollen	associated with	allergic reaction
+mold exposure	associated with	respiratory disorder
+mold exposure	associated with	asthma
+dust storm	associated with	respiratory infection
+drought	associated with	dehydration
+drought	associated with	malnutrition
+famine	associated with	malnutrition
+earthquake	associated with	homelessness
+hurricane	associated with	homelessness
+tsunami	associated with	homelessness
+mudslide	causes	injury
+landslide	causes	injury
+volcanic eruption	causes	respiratory disorder
+volcanic eruption	associated with	ash exposure
+ash exposure	associated with	respiratory disorder
+pollen exposure	associated with	allergic reaction
+air quality	associated with	respiratory disorder
+air quality	associated with	cardiovascular disorder

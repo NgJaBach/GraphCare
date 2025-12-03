@@ -1,0 +1,100 @@
+other and ill-defined cerebrovascular disease	is associated with	hypertension
+other and ill-defined cerebrovascular disease	is associated with	atrial fibrillation
+other and ill-defined cerebrovascular disease	is associated with	diabetes mellitus
+other and ill-defined cerebrovascular disease	is associated with	smoking
+other and ill-defined cerebrovascular disease	is associated with	obesity
+other and ill-defined cerebrovascular disease	is associated with	dyslipidemia
+other and ill-defined cerebrovascular disease	is associated with	kidney disease
+other and ill-defined cerebrovascular disease	is associated with	old age
+other and ill-defined cerebrovascular disease	is associated with	male sex
+other and ill-defined cerebrovascular disease	is associated with	female sex
+other and ill-defined cerebrovascular disease	increases risk of	mortality
+other and ill-defined cerebrovascular disease	increases risk of	disability
+other and ill-defined cerebrovascular disease	increases risk of	stroke recurrence
+ischemic stroke	is a	type of cerebrovascular event
+hemorrhagic stroke	is a	type of cerebrovascular event
+ischemic stroke	often follows	other cerebrovascular pathology
+atrial fibrillation	increases	embolic risk
+carotid stenosis	increases	stroke risk
+lipid disorders	increases	vascular risk
+hypertension	drives	vascular remodeling
+statin therapy	reduces	LDL cholesterol
+lipid management	reduces	stroke risk
+antiplatelet therapy	reduces	thromboembolism risk
+anticoagulant therapy	reduces	embolic events
+tissue plasminogen activator	treats	acute ischemic stroke
+mechanical thrombectomy	treats	large vessel occlusion
+neuroimaging	identifies	infarction
+CT scan	detects	hemorrhage
+MRI	detects	diffusion restriction
+diffusion restriction	indicates	acute infarct
+infarct	causes	neurologic deficit
+hemorrhagic transformation	worsens	prognosis
+distal thrombosis	causes	tissue damage
+stroke unit	improves	outcome
+rehabilitation	improves	functional outcome
+physical therapy	improves	mobility
+occupational therapy	aids	independence
+speech therapy	improves	communication
+discharge planning	influences	readmission risk
+readmission risk	is predicted by	discharge disposition
+discharge disposition	affects	postdischarge care needs
+postdischarge care	reduces	readmission
+caregiver support	reduces	caregiver burden
+caregiver burden	predicts	readmission risk
+mortality	increases with	age
+age	is a risk factor for	stroke severity
+stroke severity	predicts	mortality
+mortality	depends on	comorbidities
+comorbidities	contribute to	prognosis
+prognosis	is influenced by	treatment timeliness
+treatment timeliness	predicts	outcome
+door-to-needle time	is a metric for	treatment quality
+blood pressure	is controlled by	antihypertensive therapy
+antihypertensive therapy	lowers	blood pressure
+glycemic control	improves	prognosis
+diabetes mellitus	worsens	stroke outcome
+smoking cessation	reduces	stroke risk
+obesity	increases	vascular risk
+exercise	reduces	stroke risk
+dietary modification	reduces	vascular risk
+body mass index	correlates with	vascular risk
+atrial appendage	contributes to	cardioembolism
+cardioembolic stroke	is managed with	anticoagulant therapy
+non-cardioembolic stroke	is managed with	antiplatelet therapy
+ischemic penumbra	is target of	reperfusion therapy
+reperfusion therapy	includes	thrombectomy
+thrombectomy	reduces	infarct size
+tissue plasminogen activator	is used for	acute ischemic stroke
+acute ischemic stroke	requires	urgent evaluation
+time to treatment	predicts	outcome
+door-to-needle time	is a metric for	treatment quality
+discharge planning	affects	readmission risk
+blood glucose	influences	stroke outcome
+glycemic control	influences	prognosis
+stroke unit	reduces	length of stay
+length of stay	influences	hospital costs
+hospital costs	increase with	stroke complications
+post-stroke care	requires	caregiver support
+caregiver support	reduces	caregiver burden
+caregiver burden	predicts	readmission risk
+mortality rate	rises with	age
+age	impacts	mortality
+cardiovascular risk factors	cluster with	cerebrovascular disease
+stroke risk	is influenced by	blood pressure
+blood pressure	is controlled by	antihypertensive therapy
+antihypertensive therapy	lowers	blood pressure
+lipid lowering therapy	reduces	atherosclerotic burden
+statin therapy	reduces	LDL cholesterol
+LDL cholesterol	is a	cardiovascular risk factor
+smoking cessation	reduces	stroke risk
+dietary modification	reduces	vascular risk
+exercise program	reduces	stroke risk
+body mass index	correlates with	vascular risk
+vascular risk	contributes to	cerebrovascular disease
+carotid stenosis	increases	stroke risk
+atrial fibrillation	increases	embolic risk
+cardioembolic stroke	is treated with	anticoagulant therapy
+non-cardioembolic stroke	is treated with	antiplatelet therapy
+stroke recurrence	increases	healthcare costs
+quality of life	declines with	stroke

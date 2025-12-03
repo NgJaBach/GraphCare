@@ -1,0 +1,77 @@
+systemic lupus erythematosus	is an	autoimmune condition
+systemic lupus erythematosus	may cause	nephritis
+anti-nuclear antigen	is a test for	systemic lupus erythematosus
+systemic lupus erythematosus	is treated with	steroids
+methylprednisolone	is a	steroid
+prednisone	is a	steroid
+systemic lupus erythematosus	may cause	arthritis
+systemic lupus erythematosus	may cause	dermatitis
+systemic lupus erythematosus	may cause	serositis
+systemic lupus erythematosus	may cause	fatigue
+systemic lupus erythematosus	may cause	fever
+systemic lupus erythematosus	may cause	weight loss
+systemic lupus erythematosus	is chronic	disease
+photosensitivity	is a feature of	systemic lupus erythematosus
+oral ulcers	are a manifestation of	systemic lupus erythematosus
+malaise	is a symptom observed in	systemic lupus erythematosus
+kidney involvement	is common in	systemic lupus erythematosus
+lupus nephritis	is a major complication of	systemic lupus erythematosus
+proteinuria	accompanies	lupus nephritis
+hematuria	accompanies	lupus nephritis
+hypertension	commonly coexists with	systemic lupus erythematosus
+cardiovascular disease	is associated with	systemic lupus erythematosus
+thromboembolism	risk increased in	systemic lupus erythematosus
+stroke	risk increased in	systemic lupus erythematosus
+Libman-Sacks endocarditis	is associated with	lupus
+pericarditis	occurs in	lupus
+pleuritis	occurs in	lupus
+serositis	is a feature of	lupus
+lupus activity	correlates with	anti-dsDNA
+nephritis	increases	mortality risk in lupus
+nephritis	increases	hospitalization risk in lupus
+systemic lupus erythematosus	may require	immunosuppressive therapy
+immunosuppressive therapy	is used to treat	lupus nephritis
+cyclophosphamide	used for	lupus nephritis
+azathioprine	used for	lupus
+mycophenolate mofetil	used for	lupus nephritis
+belimumab	used for	systemic lupus erythematosus
+rituximab	used for	systemic lupus erythematosus
+lupus nephritis	may necessitate	dialysis
+dialysis	may be required for	lupus nephritis
+renal biopsy	used for	lupus nephritis evaluation
+immunofluorescence	used in	lupus nephritis evaluation
+immune complex	deposits in	glomeruli
+glomeral injury	seen in	lupus nephritis
+complement levels	decreased in	lupus
+C3	decreases in	lupus
+C4	decreases in	lupus
+urinalysis	detects	lupus nephritis
+proteinuria	indicates	nephritis severity
+nephrotic-range proteinuria	indicates	severe lupus nephritis
+hematuria	indicates	glomerular involvement
+hypertension	worsens	lupus outcome
+diabetes mellitus	comorbidity with	lupus
+cardiomyopathy	associated with	lupus
+pericardial effusion	can occur in	lupus
+myocarditis	can occur in	lupus
+stroke	risk elevated by	lupus
+antiphospholipid syndrome	coexists with	lupus
+antiphospholipid antibodies	associated with	lupus
+lupus anticoagulant	positive in	antiphospholipid syndrome
+anticoagulation therapy	used for	lupus with antiphospholipid syndrome
+aspirin	used to prevent	thrombosis in lupus
+hydroxychloroquine	reduces	lupus flares
+hydroxychloroquine	stabilizes	lupus activity
+prednisone	long-term use	causes bone loss
+bone density	decreases with	steroids
+osteoporosis	risk increased by	steroids
+glucocorticoids	cause	hyperglycemia
+hyperglycemia	risk increased by	steroids
+weight gain	associated with	steroid use
+diabetes mellitus	risk increased by	steroid therapy
+infection risk	increases with	immunosuppression
+immunosuppression	increases	infection risk
+nephrotoxicity	associated with	certain lupus therapies
+drugs	may cause	adverse effects in lupus
+lupus erythematosus	recognized as	autoimmune disease
+systemic lupus erythematosus	synonym	disease

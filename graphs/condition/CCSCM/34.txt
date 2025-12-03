@@ -1,0 +1,100 @@
+bladder cancer	presents with	hematuria
+bladder cancer	presents with	dysuria
+bladder cancer	presents with	urinary frequency
+bladder cancer	presents with	nocturia
+bladder cancer	presents with	pelvic pain
+smoking	increases risk of	bladder cancer
+age	increases risk of	bladder cancer
+arsenic exposure	increases risk of	bladder cancer
+aniline dye exposure	increases risk of	bladder cancer
+cyclophosphamide exposure	increases risk of	bladder cancer
+cystectomy	treats	bladder cancer
+radical cystectomy	treats	bladder cancer
+transurethral resection	treats	bladder tumor
+intravesical therapy	treats	non-muscle-invasive bladder cancer
+BCG therapy	treats	non-muscle-invasive bladder cancer
+mitomycin C	treats	non-muscle-invasive bladder cancer
+neoadjuvant chemotherapy	treats	muscle-invasive bladder cancer
+systemic chemotherapy	treats	metastatic bladder cancer
+immunotherapy	treats	bladder cancer
+radiation therapy	treats	bladder cancer
+urinary diversion	results from	bladder cancer surgery
+urothelial carcinoma	is a histology type of	bladder cancer
+carcinoma in situ	occurs with	bladder cancer
+urine cytology	detects	urothelial carcinoma
+urinalysis	detects	hematuria
+cystoscopy	detects	bladder cancer
+CT urography	detects	bladder cancer
+MRI	detects	bladder cancer
+PET-CT	detects	metastasis
+pathology	confirms	bladder cancer
+histology	identifies	urothelial carcinoma
+TP53 mutation	associated with	high-grade bladder cancer
+FGFR3 mutation	associated with	low-grade bladder cancer
+chromosomal instability	observed in	bladder cancer
+tumor stage	influences	treatment choice
+TNM staging	guides	prognosis
+stage IV bladder cancer	has	distant metastases
+bone metastasis	occurs in	bladder cancer
+liver metastasis	occurs in	bladder cancer
+lung metastasis	occurs in	bladder cancer
+pelvic lymph node involvement	indicates	advanced bladder cancer
+recurrence	occurs after	bladder cancer treatment
+surveillance cystoscopy	monitors	bladder cancer after treatment
+urinary cytology	used for	bladder cancer surveillance
+non-muscle-invasive bladder cancer	defined as	Ta/T1 tumors
+muscle-invasive bladder cancer	defined as	T2-T4 tumors
+nephrotoxicity	complication of	cisplatin therapy
+cisplatin therapy	causes	nephrotoxicity
+nephroureterectomy	removes	kidney and ureter
+radical nephroureterectomy	removes	kidney and ureter
+nephrectomy	removes	kidney
+renal cell carcinoma	is a type of	kidney cancer
+kidney cancer	is a cancer of	urinary tract
+renal pelvis cancer	is a cancer of	renal pelvis
+ureteral cancer	is a cancer of	ureter
+upper urinary tract urothelial carcinoma	is a cancer of	upper urinary tract
+urothelial origin	characterizes	bladder cancer
+bladder cancer	prognosis depends on	stage
+bladder cancer	prognosis depends on	tumor grade
+tumor grade	influences	prognosis
+tumor size	influences	recurrence risk
+recurrence risk	increases with	incomplete resection
+incomplete resection	increases	recurrence risk
+surgical margins	determine	recurrence risk
+multimodal therapy	used for	muscle-invasive bladder cancer
+intravesical BCG therapy	induces	immune response
+immune response	mediates	tumor control
+PD-1 inhibitors	used for	bladder cancer
+PD-L1 inhibitors	used for	bladder cancer
+atezolizumab	is a	PD-L1 inhibitor
+pembrolizumab	is a	PD-1 inhibitor
+imaging studies	evaluate	tumor burden
+tumor burden	correlates with	prognosis
+microscopic hematuria	suggests	bladder cancer
+gross hematuria	suggests	bladder cancer
+bladder preservation	goal of	bladder cancer treatment
+cystectomy	followed by	urinary diversion
+salvage cystectomy	performed for	recurrent bladder cancer
+urothelial carcinoma	can be	multifocal in	bladder
+multifocality	common in	bladder cancer
+urine cytology	negative in	low-grade urothelial carcinoma
+mutational profile	guides	targeted therapy
+targeted therapy	used for	bladder cancer
+EGFR amplification	observed in	bladder cancer
+HER2 amplification	observed in	bladder cancer
+DNA methylation	altered in	bladder cancer
+miRNA dysregulation	observed in	bladder cancer
+weight loss	associated with	advanced bladder cancer
+anemia	associated with	advanced bladder cancer
+thrombocytosis	associated with	bladder cancer
+paraneoplastic syndrome	rare in	bladder cancer
+dysuria	symptom with	bladder cancer
+therapy initiation	marks	treatment start
+adjuvant therapy	used after	cystectomy
+neoplasia	refers to	malignant tumor
+malignant tumor	is a	cancer
+neoplasm	refers to	cancer
+cancer care	provided by	oncology
+follow-up	includes	imaging
+survival	improves with	early detection

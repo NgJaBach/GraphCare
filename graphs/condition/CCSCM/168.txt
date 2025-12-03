@@ -1,0 +1,101 @@
+ENTITY	RELATIONSHIP	ENTITY
+ENTITY	RELATIONSHIP	ENTITY
+inflammatory diseases of female pelvic organs	is a	gynecologic infection
+pelvic inflammatory disease	is a	gynecologic infection
+pelvic inflammatory disease	includes	endometritis
+pelvic inflammatory disease	includes	salpingitis
+pelvic inflammatory disease	includes	oophoritis
+pelvic inflammatory disease	includes	parametritis
+pelvic inflammatory disease	includes	tubo-ovarian abscess
+endometritis	is a type of	pelvic inflammatory disease
+salpingitis	is a type of	pelvic inflammatory disease
+oophoritis	is a type of	pelvic inflammatory disease
+parametritis	is a type of	pelvic inflammatory disease
+tubo-ovarian abscess	is a complication of	pelvic inflammatory disease
+PID	can cause	infertility
+PID	can cause	ectopic pregnancy
+PID	increases risk of	chronic pelvic pain
+tubal scarring	results from	PID
+tubal scarring	leads to	infertility
+prior PID	increases risk of	recurrent PID
+recurrent PID	increases risk of	infertility
+PID	presents with	pelvic pain
+PID	presents with	lower abdominal pain
+PID	presents with	fever
+PID	presents with	cervical motion tenderness
+PID	presents with	adnexal tenderness
+PID	presents with	vaginal discharge
+PID	presents with	dyspareunia
+PID	presents with	dysuria
+PID	presents with	malodorous discharge
+new sexual partner	is a risk factor for	PID
+multiple sexual partners	is a risk factor for	PID
+history of chlamydia infection	is a risk factor for	PID
+history of gonorrhea infection	is a risk factor for	PID
+IUD insertion	increases risk of	PID
+age under 25 years	is a risk factor for	PID
+unprotected intercourse	increases risk of	PID
+vaginal douching	is associated with	PID
+transvaginal ultrasound	is used for	PID evaluation
+pelvic ultrasound	is used for	PID evaluation
+cervical swab	is used for	STI testing in PID
+NAAT	is used for	detection of chlamydia and gonorrhea
+gonorrhea infection	is associated with	PID
+chlamydia infection	is associated with	PID
+Neisseria gonorrhoeae	causes	PID
+Chlamydia trachomatis	causes	PID
+Mycoplasma genitalium	is associated with	PID
+CRP elevation	is associated with	PID
+elevated ESR	is associated with	PID
+clinical criteria	are used for	PID diagnosis
+laparoscopy	is used for	PID diagnosis
+transvaginal ultrasound	detects	tubo-ovarian abscess
+tubo-ovarian abscess	can be detected by	transvaginal ultrasound
+laparoscopy	confirms	PID diagnosis
+clinical criteria	support	PID diagnosis
+antibiotic therapy	is a treatment for	PID
+ceftriaxone	is used for	PID
+doxycycline	is used for	PID
+metronidazole	is used for	PID
+intravenous antibiotics	are used for	severe PID
+oral antibiotics	are used for	mild PID
+outpatient therapy	is used for	uncomplicated PID
+hospitalization	is required for	severe PID
+intramuscular ceftriaxone	is used for	PID
+amoxicillin-clavulanate therapy	is used for	PID
+treatment guidelines	recommend	prompt antibiotic therapy for PID
+tubo-ovarian abscess	may require	surgical drainage
+surgical drainage	is a treatment for	tubo-ovarian abscess
+hysterectomy	is rarely performed for	PID
+scar tissue	results from	PID
+adhesions	can form after	PID
+chronic pelvic pain	can persist after	PID
+pregnancy complications	are associated with	PID
+ectopic pregnancy	risk increased after	PID
+fertility impairment	is a possible consequence of	PID
+tubal infertility	is a consequence of	PID
+ovarian function	may be affected by	PID
+barrier contraception	reduces risk of	PID
+combined oral contraceptives	reduce risk of	PID
+STI screening	reduces incidence of	PID
+smoking	increases risk of	PID
+diabetes mellitus	worsens prognosis of	PID
+immunosuppression	increases risk of	PID
+polymicrobial infection	is common in	PID
+pregnancy testing	is performed for	PID evaluation
+urinalysis	is performed for	PID evaluation
+fertility counseling	is recommended after	PID
+reproductive age women	are commonly affected by	PID
+asymptomatic PID	occurs in	some women
+salpingitis	is associated with	infertility
+bacterial vaginosis	coexists with	PID
+gonorrhea infection	coexists with	PID
+chlamydia infection	coexists with	PID
+partner treatment	reduces risk of	PID recurrence
+early antibiotic therapy	improves outcome in	PID
+pregnancy after PID	requires	fertility counseling
+fertility planning after PID	is advised	to preserve fertility
+PID in pregnancy	increases risk of	maternal and fetal complications
+adnexal infection	is a site of	PID
+vaginal infection	coexists with	PID
+healthcare access	improves management of	PID

@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+preeclampsia	increases risk of	placental abruption
+preeclampsia	increases risk of	fetal growth restriction
+preeclampsia	treated with	magnesium sulfate
+preeclampsia	treated with	antihypertensive therapy
+gestational diabetes	increases risk of	macrosomia
+gestational diabetes	increases risk of	cesarean delivery
+gestational diabetes	managed with	insulin therapy
+gestational diabetes	managed with	diet modification
+gestational diabetes	increases risk of	neonatal hypoglycemia
+gestational diabetes	increases risk of	neonatal respiratory distress syndrome
+anemia in pregnancy	increases risk of	preterm birth
+anemia in pregnancy	associated with	low birth weight
+anemia in pregnancy	treated with	iron supplementation
+placenta previa	causes	vaginal bleeding
+placenta previa	increases risk of	cesarean delivery
+placenta accreta	causes	postpartum hemorrhage
+placenta accreta	associated with	placenta previa
+placental abruption	leads to	fetal distress
+placental abruption	increases risk of	maternal shock
+placental abruption	associated with	stillbirth
+hyperemesis gravidarum	causes	weight loss
+hyperemesis gravidarum	causes	dehydration
+hyperemesis gravidarum	may require	intravenous fluids
+intrahepatic cholestasis of pregnancy	associated with	fetal distress
+intrahepatic cholestasis of pregnancy	associated with	stillbirth
+chorioamnionitis	caused by	prolonged rupture of membranes
+chorioamnionitis	leads to	neonatal sepsis
+prolonged rupture of membranes	increases risk of	chorioamnionitis
+prolonged rupture of membranes	increases risk of	neonatal sepsis
+uterine atony	causes	postpartum hemorrhage
+postpartum hemorrhage	treated with	tranexamic acid
+postpartum hemorrhage	increases risk of	maternal anemia
+group B streptococcus colonization	leads to	neonatal sepsis
+group B streptococcus colonization	managed with	intrapartum antibiotic prophylaxis
+ectopic pregnancy	managed with	methotrexate
+ectopic pregnancy	risk factor for	tubal rupture
+ectopic pregnancy	leads to	hemorrhage
+spontaneous abortion	associated with	chromosomal abnormality
+spontaneous abortion	risk factor for	future infertility
+stillbirth	associated with	hypertensive disorders of pregnancy
+twin pregnancy	associated with	preterm birth
+twin pregnancy	increases risk of	cesarean delivery
+polyhydramnios	associated with	fetal malpresentation
+oligohydramnios	associated with	fetal distress
+fetal growth restriction	associated with	placental insufficiency
+fetal growth restriction	increases risk of	perinatal mortality
+placental insufficiency	leads to	fetal hypoxia
+placental insufficiency	associated with	fetal growth restriction
+Rh incompatibility	causes	hemolytic disease of newborn
+Rh incompatibility	prevented by	anti-D prophylaxis
+maternal obesity	increases risk of	gestational diabetes
+maternal obesity	increases risk of	cesarean delivery
+advanced maternal age	increases risk of	chromosomal abnormality
+advanced maternal age	increases risk of	preeclampsia
+smoking during pregnancy	increases risk of	low birth weight
+smoking during pregnancy	increases risk of	placental abruption
+urinary tract infection in pregnancy	increases risk of	pyelonephritis
+urinary tract infection in pregnancy	increases risk of	preterm birth
+asymptomatic bacteriuria	treated with	antibiotics
+asymptomatic bacteriuria	increases risk of	pyelonephritis during pregnancy
+chorioamnionitis	leads to	neonatal respiratory distress
+meconium aspiration syndrome	associated with	fetal distress
+fetal distress	leads to	emergency cesarean delivery
+neonatal hypoglycemia	associated with	maternal diabetes
+neonatal respiratory distress syndrome	associated with	prematurity
+neonatal sepsis	caused by	group B streptococcus
+shoulder dystocia	associated with	macrosomia
+macrosomia	increases risk of	shoulder dystocia
+cesarean delivery	associated with	postpartum infection
+cesarean delivery	increases risk of	NICU admission
+cervical insufficiency	leads to	pregnancy loss
+cervical insufficiency	associated with	preterm birth
+cervical cerclage	indicated for	cervical insufficiency
+antenatal corticosteroids	promote	fetal lung maturity
+intravenous antibiotics	used for	chorioamnionitis
+tocolysis	used for	preterm labor
+preterm labor	managed with	bed rest
+postterm pregnancy	associated with	placental aging
+postpartum depression	associated with	impaired mother-child bonding
+postpartum infection	associated with	cesarean delivery
+placental infarction	associated with	placental insufficiency
+placental infarction	leads to	fetal hypoxia
+amniotic fluid embolism	causes	maternal collapse
+amniotic fluid embolism	associated with	fetal distress
+preeclampsia	can progress to	eclampsia
+eclampsia	causes	maternal seizures
+uterine rupture	associated with	prior uterine surgery
+uterine rupture	leads to	fetal distress
+placental abruption	associated with	neonatal death
+neonatal death	associated with	placental abruption
+chorioamnionitis	increases risk of	preterm birth
+meconium	associated with	fetal distress
+cord prolapse	causes	fetal compromise
+twin-to-twin transfusion syndrome	occurs in	monochorionic twins
+monochorionic twins	at risk of	twin-to-twin transfusion syndrome
+polyhydramnios	associated with	fetal malpresentation
+oligohydramnios	associated with	fetal distress
+intrauterine growth restriction	associated with	placental insufficiency
+fetal distress	associated with	emergency cesarean delivery
+postpartum hemorrhage	risk factor for	maternal anemia

@@ -1,0 +1,100 @@
+rectal cancer	is a	malignant neoplasm of rectum
+anal cancer	is a	malignant neoplasm of anal canal
+rectal cancer	has histology	adenocarcinoma
+anal cancer	has histology	squamous cell carcinoma
+rectal cancer	stage	II-III
+anal cancer	stage	I-III
+neoadjuvant chemoradiation	used for	rectal cancer
+chemoradiation	standard treatment for	anal cancer
+total mesorectal excision	is a	surgical technique for rectal cancer
+low anterior resection	is a	surgical option for mid-upper rectal cancer
+abdominoperineal resection	results in	permanent colostomy
+colostomy	affects	anorectal function
+circumferential resection margin	predicts	local recurrence
+negative margin	indicates	complete tumor clearance
+liver metastasis	indicates	distant spread
+lung metastasis	indicates	distant spread
+bone metastasis	occurs	in advanced disease
+MRI pelvis	used for	rectal cancer staging
+endoscopic ultrasound	used for	rectal cancer staging
+CT chest abdomen pelvis	used for	metastasis evaluation
+PET-CT	improves	detection of metastatic disease
+CEA	is biomarker for	colorectal cancer
+p16	is biomarker for	HPV-driven cancers
+HPV infection	associated with	anal cancer
+HPV16	associated with	anal cancer
+HIV infection	increases risk of	anal cancer
+smoking	increases risk of	rectal cancer
+age	increases risk of	colorectal cancer
+obesity	associated with	colorectal cancer
+family history	increases risk of	colorectal cancer
+immunosuppression	increases risk of	anal cancer
+MSI-H	responds to	pembrolizumab
+MSI-H	predicts response to	immunotherapy
+KRAS mutation	predicts resistance to	anti-EGFR therapy
+NRAS mutation	predicts resistance to	anti-EGFR therapy
+BRAF mutation	associated with	poorer prognosis
+MMR deficiency	associated with	MSI-H
+anal canal	location for	anal cancer
+rectum	location for	rectal cancer
+neoadjuvant therapy	enables	sphincter-sparing surgery
+sphincter-sparing surgery	preserves	continence
+abdominoperineal resection	eliminates	anal sphincter
+surgical margins	affect	local control
+negative circumferential resection margin	improves	local control
+adjuvant chemotherapy	reduces	recurrence risk
+CAPOX	includes	capecitabine and oxaliplatin
+FOLFOX	includes	fluorouracil and oxaliplatin
+capecitabine	used with	radiotherapy
+5-FU	used with	radiotherapy
+mitomycin C	used with	radiotherapy
+radiotherapy	used for	anal cancer
+radiotherapy	used for	rectal cancer
+Nigro protocol	comprises	5-FU and mitomycin C with radiotherapy
+watch-and-wait	strategy for	rectal cancer after chemoradiation
+pathologic complete response	improves	prognosis
+complete clinical response	achieved after	neoadjuvant therapy
+hepatic resection	performed for	liver metastasis
+hepatic metastasis	managed by	systemic chemotherapy
+liver metastasis	most common site of	distant spread in colorectal cancer
+lung metastasis	common site of	distant spread in colorectal cancer
+resection margin	influences	prognosis
+stoma care	requires	education
+colostomy	affects	body image
+surveillance	includes	periodic imaging
+CEA monitoring	tracks	recurrence
+tumor regression grade	correlates with	outcome
+MRI restaging	guides	surgical planning
+tumor burden	reduces with	neoadjuvant therapy
+neoadjuvant radiotherapy dose	influences	toxicity
+radiation toxicity	impacts	quality of life
+anastomotic leak	occurs after	rectal resection
+stoma permanence	linked with	abdominoperineal resection
+sphincter preservation	improves	quality of life
+inguinal lymph node involvement	indicates	advanced disease in anal cancer
+tumor grade	influences	prognosis
+differentiation	reflects	tumor aggressiveness
+clinical trial	evaluates	new therapies for rectal cancer
+immunotherapy	effective for	MSI-H colorectal cancer
+PD-1 inhibitor	used for	MSI-H colorectal cancer
+cetuximab	effective in	KRAS wild-type colorectal cancer
+cetuximab	ineffective in	KRAS mutant colorectal cancer
+line of therapy	determined by	performance status
+performance status	influences	treatment tolerance
+colostomy reversal	feasibility	after abdominoperineal resection
+colostomy reversal	depends on	tumor response
+distant metastasis	increases	mortality
+tumor size	correlates with	stage
+pathology report	informs	adjuvant therapy decisions
+AJCC staging	guides	treatment planning
+oncologic clearance	achieved by	mesorectal excision
+anal canal	borders	anal verge
+rectal cancer	risk factor for	local recurrence
+watch-and-wait strategy	requires	rigorous surveillance
+pathologic response	defines	prognosis
+tumor budding	indicates	aggressive biology
+tumor budding	correlates with	recurrence risk
+neoadjuvant therapy	associated with	higher complete response rate
+adjuvant therapy	associated with	improved disease-free survival
+rectal cancer	requires	multidisciplinary care
+anal cancer	has favorable outcomes with	chemoradiation

@@ -1,0 +1,100 @@
+normal delivery	is a	delivery
+cesarean section	is a	delivery method
+vaginal delivery	is a	delivery method
+assisted vaginal delivery	is a	delivery method
+preterm birth	is a	birth outcome
+term birth	is a	birth outcome
+postterm birth	is a	birth outcome
+low birth weight	is a	neonatal outcome
+neonatal respiratory distress	is a	neonatal complication
+neonatal sepsis	is a	neonatal complication
+neonatal jaundice	is a	neonatal complication
+Apgar score	is a	neonatal assessment
+premature rupture of membranes	is a	labor complication
+placental abruption	is a	obstetric complication
+placenta previa	is a	obstetric complication
+gestational diabetes	is a	obstetric condition
+preeclampsia	is a	obstetric condition
+hypertension	is a	obstetric condition
+obesity	is a	obstetric risk factor
+advanced maternal age	is a	obstetric risk factor
+smoking	is a	obstetric risk factor
+multiparity	is a	pregnancy factor
+fetal distress	is a	obstetric condition
+fetal growth restriction	is a	obstetric condition
+uterine atony	is a	obstetric complication
+postpartum hemorrhage	is a	obstetric complication
+epidural anesthesia	is a	labor analgesia
+labor induction	is a	labor management
+labor augmentation	is a	labor management
+fetal malpresentation	is a	obstetric finding
+singleton pregnancy	is a	pregnancy type
+multiple gestation	is a	pregnancy type
+chorioamnionitis	is a	obstetric infection
+placental insufficiency	is a	placental pathology
+uteroplacental insufficiency	is a	placental pathology
+cesarean section	increases risk for	postpartum infection
+cesarean section	increases risk for	endometritis
+normal delivery	is associated with	uncomplicated newborn
+vaginal delivery	is associated with	shorter labor duration
+premature rupture of membranes	increases risk for	chorioamnionitis
+fetal distress	leads to	cesarean section
+placenta previa	associated with	cesarean section
+placental abruption	associated with	fetal distress
+gestational diabetes	increases risk for	cesarean section
+preeclampsia	increases risk for	placental abruption
+hypertension	associated with	preeclampsia
+obesity	associated with	gestational diabetes
+advanced maternal age	associated with	preterm birth
+smoking	associated with	low birth weight
+multiparity	increases likelihood of	vaginal delivery
+fetal malpresentation	increases likelihood of	cesarean section
+fetal growth restriction	associated with	NICU admission
+neonatal respiratory distress	requires	mechanical ventilation
+neonatal jaundice	treated with	phototherapy
+epidural anesthesia	used during	labor
+labor induction	associated with	cesarean section
+labor augmentation	associated with	vaginal delivery
+fetal malpresentation	associated with	cesarean section
+chorioamnionitis	leads to	postpartum infection
+placental abruption	leads to	fetal distress
+placental insufficiency	associated with	fetal growth restriction
+gestational hypertension	associated with	preeclampsia
+gestational diabetes	associated with	macrosomia
+macrosomia	associated with	cesarean section
+preterm labor	leads to	preterm birth
+uterine scarring	associated with	placenta previa
+uterine fibroids	associated with	cesarean section
+placental accreta	associated with	cesarean section
+infection	associated with	preterm birth
+cervical insufficiency	associated with	preterm birth
+fetal anemia	associated with	fetal distress
+umbilical cord prolapse	leads to	cesarean section
+uterine rupture	is a	obstetric emergency
+neonatal mortality	associated with	preterm birth
+neonatal morbidity	associated with	maternal infection
+postpartum hemorrhage	risk factor for	maternal anemia
+amniotic fluid embolism	is a	obstetric complication
+fetal heartbeat	monitored by	cardiotocography
+fetal monitoring	used for	labor management
+neonatal ICU admission	occurs with	preterm birth
+tocolysis	used for	preterm labor
+cesarean section	indicated by	fetal distress
+vaginal delivery	associated with	shorter hospital stay
+vaginal delivery	associated with	hospital stay
+neonatal sepsis	associated with	mortality
+neonatal mortality	leading to	long-term disability
+placental previa	increases risk for	cesarean section
+labor analgesia	associated with	vaginal delivery
+fetal well-being	indicates	term birth
+obstetric complications	associated with	cesarean section
+uterine scar	associated with	placenta previa
+neonatal bilirubin	associated with	phototherapy requirement
+fetal macrosomia	associated with	cesarean section
+fetal growth restriction	linked with	NICU admission
+uterine scar	leads to	placenta previa
+neonatal mortality	associated with	low birth weight
+breastfeeding	associated with	postpartum recovery
+pregnancy	includes	delivery
+multifetal pregnancy	increases risk for	preterm birth
+normal delivery	indicates	uncomplicated pregnancy

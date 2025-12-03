@@ -1,0 +1,100 @@
+esophageal disorders	is associated with	gastroesophageal reflux disease
+achalasia	is a	esophageal motor disorder
+Barrett's esophagus	is a	premalignant condition
+esophageal cancer	is a	malignant tumor
+esophageal squamous cell carcinoma	is a	malignant tumor
+esophageal adenocarcinoma	is a	malignant tumor
+esophagitis	is a	inflammatory condition
+GERD	is a	reflux disease
+hiatal hernia	is a	anatomical abnormality
+esophageal stricture	is a	narrowing
+esophageal diverticulum	is a	pouch
+Mallory-Weiss syndrome	is a	mucosal tear
+candida esophagitis	is a	fungal infection
+CMV esophagitis	is a	viral infection
+HSV esophagitis	is a	viral infection
+eosinophilic esophagitis	is a	inflammatory disorder
+radiation esophagitis	is a	radiation-induced injury
+peptic stricture	is a	scar-related narrowing
+esophageal ulcer	is a	mucosal lesion
+megaesophagus	is a	dilated esophagus
+endoscopy	is a	diagnostic procedure
+manometry	is a	diagnostic test
+pH monitoring	is a	diagnostic test
+barium swallow	is a	imaging test
+endoscopic ultrasound	is a	imaging modality
+biopsy	is a	diagnostic test
+CT scan	is a	diagnostic imaging
+MRI	is a	imaging modality
+esophagogastroduodenoscopy	is a	diagnostic procedure
+histology	is a	diagnostic result
+cytology	is a	diagnostic test
+surveillance endoscopy	is a	monitoring strategy
+Barrett's metaplasia	is a	histologic finding
+intestinal metaplasia	is a	histologic finding
+mass lesion	is a	abnormality
+pneumatic dilation	is a	dilation procedure
+Heller myotomy	is a	surgical procedure
+fundoplication	is a	surgical procedure
+antireflux surgery	is a	surgical option
+stent placement	is a	therapeutic intervention
+endoscopic dilation	is a	therapy
+radiofrequency ablation	is a	therapeutic procedure
+chemotherapy	is a	systemic therapy
+radiation therapy	is a	local therapy
+proton pump inhibitors	treat	GERD
+H2 receptor antagonists	treat	GERD
+prokinetic agents	improve	esophageal motility
+NSAIDs	worsen	esophageal ulcers
+smoking	increases risk of	esophageal cancer
+alcohol	increases risk of	esophageal cancer
+obesity	increases risk of	gastroesophageal reflux disease
+age	increases risk of	esophageal cancer
+diabetes mellitus	associated with	esophageal dysmotility
+scleroderma	associated with	reflux
+cirrhosis	increases risk of	esophageal varices
+portal hypertension	predisposes to	esophageal varices
+esophageal varices	can cause	hematemesis
+hematemesis	is a	symptom
+dysphagia	is a	symptom
+odynophagia	is a	symptom
+reflux	is a	symptom
+globus sensation	is a	symptom
+dysphagia	predicts	weight loss
+weight loss	indicates	cancer
+esophageal cancer	treated with	chemotherapy
+esophageal cancer	treated with	radiotherapy
+endoscopic surveillance	improves	early cancer detection
+Barrett's esophagus	increases risk of	esophageal adenocarcinoma
+Barrett's esophagus	monitored by	endoscopy
+Barrett's esophagus	diagnosed by	biopsy
+esophageal spasm	presents with	chest pain
+esophageal spasm	is a	motility disorder
+distal esophageal spasm	is a	esophageal motility disorder
+nutcracker esophagus	is a	esophageal motility disorder
+achalasia	associated with	megaesophagus
+achalasia	presents with	dysphagia
+caustic ingestion	causes	esophageal injury
+caustic esophagitis	results from	caustic ingestion
+candida esophagitis	treated with	antifungal therapy
+CMV esophagitis	treated with	antiviral therapy
+HSV esophagitis	treated with	antiviral therapy
+immunosuppression	predisposes to	candida esophagitis
+pregnancy	associated with	reflux esophagitis
+smoking	worsens	reflux
+sleep apnea	associated with	GERD
+dietary modification	is a	management strategy
+Nissen fundoplication	corrects	reflux
+POEM	is a	procedure for achalasia
+botox injection	used for	achalasia
+esophagectomy	is a	surgical procedure
+resection	is a	cancer surgery
+neoadjuvant therapy	achieves	tumor downstaging
+tumor downstaging	enables	surgical resection
+tumor burden	decreases with	resection
+survivorship	equals	improved prognosis
+pneumonia	complication of	aspiration during anesthesia
+aspiration	leads to	pneumonia
+esophageal cancer	prognosis depends on	stage
+early cancer detection	improves	survival
+stent migration	occurs with	esophageal stents

@@ -1,0 +1,100 @@
+anxiety disorder	is a	psychiatric disorder
+major depressive disorder	is a	mood disorder
+bipolar disorder	is a	mood disorder
+schizophrenia	is a	psychotic disorder
+post-traumatic stress disorder	is a	psychiatric disorder
+obsessive-compulsive disorder	is a	psychiatric disorder
+adjustment disorder	is a	psychiatric disorder
+somatic symptom disorder	is a	psychiatric disorder
+illness anxiety disorder	is a	psychiatric disorder
+factitious disorder	is a	psychiatric disorder
+body dysmorphic disorder	is a	psychiatric disorder
+dissociative identity disorder	is a	psychiatric disorder
+personality disorder	is a	psychiatric disorder
+antisocial personality disorder	is a	psychiatric disorder
+borderline personality disorder	is a	psychiatric disorder
+narcissistic personality disorder	is a	psychiatric disorder
+attention-deficit/hyperactivity disorder	is a	neurodevelopmental disorder
+autism spectrum disorder	is a	neurodevelopmental disorder
+catatonia	is a	neuropsychiatric symptom
+insomnia	is a	sleep disturbance
+fatigue	is a	symptom
+panic attack	is a	symptom
+anxiety	is a	symptom
+depressed mood	is a	symptom
+suicidal ideation	is a	symptom
+self-harm	is a	behavior
+psychosis	is a	symptom
+delusions	are features of	psychotic disorder
+hallucinations	are features of	psychotic disorder
+cognitive impairment	is a	symptom
+executive dysfunction	is a	symptom
+insight impairment	is a	symptom
+social withdrawal	is a	symptom
+anhedonia	is a	symptom
+psychomotor agitation	is a	symptom
+psychomotor retardation	is a	symptom
+sleep disturbance	is a	symptom
+substance use disorder	is a	psychiatric disorder
+alcohol use disorder	is a	substance use disorder
+opioid use disorder	is a	substance use disorder
+stimulant use disorder	is a	substance use disorder
+cannabis use disorder	is a	substance use disorder
+eating disorder	is a	psychiatric disorder
+anorexia nervosa	is a	eating disorder
+bulimia nervosa	is a	eating disorder
+binge eating disorder	is a	eating disorder
+premenstrual dysphoric disorder	is a	psychiatric disorder
+seasonal affective disorder	is a	mood disorder
+cyclothymic disorder	is a	mood disorder
+mixed anxiety and depressive disorder	is a	psychiatric disorder
+trauma exposure	increases risk for	post-traumatic stress disorder
+hypervigilance	is a	symptom
+nightmares	are features of	post-traumatic stress disorder
+flashbacks	are features of	post-traumatic stress disorder
+avoidance	is a	symptom
+dissociation	is a	symptom
+grandiosity	is a	symptom
+rapid cycling	is a	feature of bipolar disorder
+schizoaffective disorder	is a	psychiatric disorder
+neurocognitive disorder	is a	psychiatric disorder
+delusional disorder	is a	psychiatric disorder
+hoarding disorder	is a	psychiatric disorder
+kleptomania	is a	psychiatric disorder
+obsessional thoughts	are features of	obsessive-compulsive disorder
+tactile hallucinations	are features of	psychotic disorder
+anxiety disorder	is a risk factor for	cardiovascular disease
+major depressive disorder	is associated with	insomnia
+bipolar disorder	is associated with	sleep disturbance
+schizophrenia	is associated with	metabolic syndrome
+PTSD	is associated with	substance use disorder
+obsessive-compulsive disorder	is treated with	exposure and response prevention
+depression	is associated with	fatigue
+anxiety disorder	is associated with	muscle tension
+panic disorder	is treated with	antidepressants
+adjustment disorder	treated with	psychotherapy
+illness anxiety disorder	treated with	SSRIs
+body dysmorphic disorder	treated with	antidepressants
+somatic symptom disorder	treated with	psychotherapy
+schizophrenia	requires	antipsychotics
+bipolar disorder	requires	mood stabilizers
+major depressive disorder	requires	antidepressants
+PTSD	requires	trauma-focused therapy
+dissociative identity disorder	requires	psychotherapy
+autism spectrum disorder	requires	behavioral therapy
+attention-deficit/hyperactivity disorder	requires	stimulant therapy
+autism spectrum disorder	co-occurs with	intellectual disability
+body dysmorphic disorder	leads to	cosmetic procedures
+eating disorder	increases risk for	electrolyte imbalance
+anorexia nervosa	increases risk for	osteoporosis
+bulimia nervosa	increases risk for	dental erosion
+mixed anxiety and depressive disorder	presents with	fatigue
+panic disorder	co-occurs with	agoraphobia
+agoraphobia	co-occurs with	panic disorder
+adjustment disorder	co-occurs with	substance use disorder
+illness anxiety disorder	co-occurs with	health anxiety
+dissociative disorders	co-occur with	trauma exposure
+schizophrenia	co-occurs with	tobacco use disorder
+major depressive disorder	increases	hospitalization risk
+post-traumatic stress disorder	increases	health care utilization
+obsessive-compulsive disorder	co-occurs with	anxiety disorder

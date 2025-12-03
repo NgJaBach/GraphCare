@@ -1,0 +1,100 @@
+other upper respiratory disease	is a	respiratory disease
+other upper respiratory disease	may cause	sinusitis
+other upper respiratory disease	associated with	nasal obstruction
+other upper respiratory disease	treated with	decongestants
+other upper respiratory disease	treated with	intranasal corticosteroids
+other upper respiratory disease	may require	antibiotics
+nasal obstruction	causes	mouth breathing
+nasal obstruction	worsens with	sleep disturbance
+nasal discharge	accompanies	upper respiratory disease
+sore throat	accompanies	upper respiratory disease
+cough	accompanies	upper respiratory disease
+fever	accompanies	upper respiratory disease
+facial pain	associated with	sinusitis
+facial pressure	associated with	sinusitis
+nasal congestion	characteristic of	rhinitis
+nasal polyps	associated with	chronic rhinosinusitis
+nasal polyps	associated with	asthma
+sinusitis	diagnosed by	CT scan
+sinusitis	treated with	antibiotics
+sinusitis	managed with	nasal saline irrigation
+acute sinusitis	resolves with	supportive care
+chronic rhinosinusitis	defined by	persistent symptoms
+chronic rhinosinusitis	associated with	nasal polyps
+chronic rhinosinusitis	impact on	quality of life
+asthma	worsens with	upper respiratory infection
+allergic rhinitis	coexists with	upper respiratory disease
+otitis media	related to	upper respiratory infection
+epistaxis	associated with	nasal trauma
+epistaxis	worsened by	anticoagulant therapy
+smoking	increases risk for	upper respiratory disease
+air pollution	associated with	nasal symptoms
+viral infection	precedes	upper respiratory disease
+bacterial infection	complicates	upper respiratory disease
+antibiotics	prescribed for	bacterial sinusitis
+amoxicillin	is a	antibiotic
+azithromycin	is a	antibiotic
+doxycycline	is a	antibiotic
+intranasal corticosteroids	used for	nasal inflammation
+systemic corticosteroids	used for	acute sinusitis
+decongestants	provide	symptomatic relief
+antihistamines	relieve	allergic rhinitis symptoms
+nasal saline irrigation	improves	nasal drainage
+nasal spray	recommended for	nasal congestion
+nasal spray	delivers	medicated solution
+risk factors	include	allergic predisposition
+sleep disturbance	associated with	nasal obstruction
+sleep apnea	risk increased by	nasal obstruction
+quality of life	improves with	treatment of upper respiratory disease
+healthcare utilization	increases after	acute sinusitis
+clinic visit	required for	chronic rhinosinusitis
+nasal endoscopy	used for	evaluation of nasal symptoms
+CT sinus	used for	evaluation of sinusitis
+pollen exposure	triggers	allergic rhinitis
+dust mite exposure	triggers	allergic rhinitis
+household irritants	worsen	nasal symptoms
+saline irrigation	provides	mechanical clearance
+intranasal steroids	reduce	nasal swelling
+nasal polyps	cause	nasal obstruction
+nasal obstruction	causes	sleep disturbance
+postnasal drip	causes	throat irritation
+throat irritation	associated with	pharyngitis
+pharyngitis	commonly caused by	viruses
+laryngitis	presents with	hoarseness
+hoarseness	indicates	laryngitis
+bronchitis	may follow	upper respiratory infection
+antibiotic resistance	rises with	overuse of antibiotics
+imaging	guides	surgical planning
+endoscopic sinus surgery	is a treatment for	chronic rhinosinusitis
+balloon sinuplasty	is a procedure for	chronic sinusitis
+surgery	reduces	nasal obstruction
+recurrent sinusitis	leads to	antibiotic exposure
+treatment adherence	improves	outcomes in upper respiratory disease
+patient education	improves	treatment adherence
+immunotherapy	used for	allergic rhinitis
+nasal allergen immunotherapy	reduces	allergic rhinitis symptoms
+smoking cessation	improves	nasal symptoms
+decongestant overuse	causes	rebound congestion
+rebound congestion	results from	decongestant overuse
+vasoconstriction	is mechanism of	decongestants
+antibiotic stewardship	promotes	appropriate antibiotic use
+allergic sensitization	contributes to	chronic rhinosinusitis
+airway inflammation	characterizes	upper respiratory disease
+mucosal edema	common in	rhinitis
+nasal itching	common in	allergic rhinitis
+sneezing	typical of	allergic rhinitis
+nasal dryness	may result from	intranasal corticosteroids
+nasal spray side effects	include	nasal irritation
+nasal irritation	is a side effect of	intranasal corticosteroids
+taste disturbance	may occur with	nasal medication
+nasal mucosa	swelling in	rhinitis
+immunodeficiency	increases risk for	chronic rhinosinusitis
+nasal airflow	improves with	endoscopic sinus surgery
+polyp burden	correlates with	disease severity
+surgery	reduces	nasal obstruction burden
+clinical guideline	recommends	first-line therapy
+first-line therapy	includes	intranasal corticosteroids
+nasal polyps	recurrence after	surgery
+postoperative care	improves	recovery after sinus surgery
+quality of life measures	track	symptom burden
+health outcome	informs	prognosis

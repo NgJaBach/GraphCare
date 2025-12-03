@@ -1,0 +1,100 @@
+fetopelvic disproportion	causes	obstructed labor
+obstructed labor	leads to	cesarean delivery
+fetopelvic disproportion	increases	cesarean rate
+fetal macrosomia	associated with	fetopelvic disproportion
+gestational diabetes	increases	fetal macrosomia
+maternal obesity	increases	risk of fetopelvic disproportion
+nulliparity	increases	risk of fetopelvic disproportion
+pelvic inlet size	determines	vaginal delivery feasibility
+pelvic outlet size	determines	vaginal delivery feasibility
+pelvic deformity	causes	fetopelvic disproportion
+fetal head size	contributes to	fetopelvic disproportion
+dystocia	presents with	prolonged labor
+prolonged labor	increases	cesarean rate
+vaginal delivery	contraindicated by	fetopelvic disproportion
+cesarean delivery	performed for	fetopelvic disproportion
+fetal distress	associated with	obstructed labor
+neonatal distress	results in	NICU admission
+NICU admission	associated with	neonatal distress
+instrumental delivery	used for	dystocia
+forceps delivery	used for	dystocia
+vacuum extraction	used for	dystocia
+cephalopelvic disproportion	equals	fetopelvic disproportion
+pelvimetry	used for	risk assessment of fetopelvic disproportion
+pelvimetry	informs	delivery planning
+fetal weight	correlates with	macrosomia
+fetal weight	correlates with	fetopelvic disproportion
+fetal macrosomia	increases	shoulder dystocia risk
+shoulder dystocia	is associated with	fetal macrosomia
+pelvic brim size	determines	vaginal delivery feasibility
+pelvic width	influences	risk of fetopelvic disproportion
+advanced maternal age	increases	dystocia risk
+primigravida	associated with	dystocia
+assisted vaginal delivery	used for	dystocia
+pelvic canal size	determines	obstetric outcome
+uterine fibroids	contribute to	pelvic distortion
+diabetes mellitus	increases	fetal macrosomia
+gestational diabetes	increases	fetal macrosomia
+obesity	increases	cesarean rate
+fetal weight	influences	delivery mode
+obstruction	associated with	fetopelvic disproportion
+dystocia	increases	neonatal injury risk
+cesarean delivery	associated with	postpartum infection
+postpartum infection	risk increased by	cesarean delivery
+blood loss	increases	cesarean delivery
+hospital stay	prolonged by	cesarean delivery
+neonatal respiratory distress	more common after	cesarean delivery
+neonatal respiratory distress	associated with	fetal distress
+breastfeeding initiation	delayed by	cesarean delivery
+postpartum hemorrhage	risk increased by	cesarean delivery
+maternal fatigue	associated with	prolonged labor
+pelvic floor injury	risk with	vaginal delivery
+pelvic floor dysfunction	risk with	vaginal delivery
+uterine scar	present in	previous cesarean
+trial of labor after cesarean	not recommended for	fetopelvic disproportion
+delivery planning	includes	cesarean option
+cesarean option	chosen due to	fetopelvic disproportion
+tocolysis	not effective for	fetopelvic disproportion
+pelvic examination	performed for	fetopelvic disproportion
+obstetric history	informs	risk of fetopelvic disproportion
+prior pelvic fracture	increases	risk of fetopelvic disproportion
+fetal presentation	affects	delivery plan
+delivery route	selected due to	fetopelvic disproportion
+pelvic dimension	measured by	pelvimetry
+pelvic dimension	determines	delivery method
+fetal size	influences	delivery planning
+delivery method	determined by	fetopelvic disproportion
+delivery outcome	influenced by	fetopelvic disproportion
+obstetric risk factors	include	fetopelvic disproportion
+treatment plan	emphasizes	cesarean delivery
+anesthesia type	chosen for	cesarean delivery
+postoperative care	required after	cesarean delivery
+hospital resources	strained by	cesarean delivery
+neonatal care	required after	obstructed labor
+blood transfusion	needed after	cesarean delivery
+neonatal hypoglycemia	associated with	fetal macrosomia
+neonatal morbidity	associated with	obstructed labor
+neonatal mortality	associated with	fetopelvic disproportion
+maternal fever	associated with	cesarean delivery
+fetal presentation	abnormal in	fetopelvic disproportion
+intrapartum monitoring	used for	labor with fetopelvic disproportion
+delivery complication	associated with	fetopelvic disproportion
+care coordination	necessary for	fetopelvic disproportion
+pain management	tailored for	dystocia
+obstetric anesthesia	used for	cesarean delivery
+blood loss	greater in	cesarean delivery
+uterine atony	risk with	cesarean delivery
+duration of labor	lengthened by	fetopelvic disproportion
+weight gain during pregnancy	associated with	fetal macrosomia
+maternal hypertension	associated with	fetal distress
+fetal distress	managed by	cesarean delivery
+delivery time	extended by	fetopelvic disproportion
+postnatal care	planned for	fetopelvic disproportion
+operative time	longer in	cesarean delivery
+ICU admission	possible after	complicated delivery
+fetal weight	used for	classification of risk
+pelvic insufficiency	relates to	fetopelvic disproportion
+pelvimetry	improves	risk stratification
+uterine contraction pattern	altered by	labor dystocia
+maternal diabetes	increases	cesarean rate
+macrosomic infant	linked to	shoulder dystocia

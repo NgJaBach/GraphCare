@@ -1,0 +1,100 @@
+fall	is an	external cause of injury
+fall	associated with	osteoporosis
+fall	associated with	frailty
+fall	associated with	sarcopenia
+fall	associated with	cognitive impairment
+fall	associated with	dementia
+fall	associated with	visual impairment
+fall	associated with	balance disorder
+fall	associated with	gait disturbance
+fall	associated with	muscle weakness
+fall	associated with	polypharmacy
+fall	associated with	dehydration
+fall	associated with	orthostatic hypotension
+fall	associated with	prior fall
+fall	occurs in	elderly adults
+fall	more common in	females
+fall	more common in	males
+fall	occurs in	home
+fall	occurs in	hospital
+fall	occurs in	nursing facility
+fall	leads to	hip fracture
+fall	leads to	head injury
+fall	leads to	vertebral fracture
+fall	leads to	femur fracture
+fall	leads to	intracranial injury
+fall	leads to	long term disability
+fall	leads to	hospitalization
+fall	leads to	emergency department visit
+fall	results in	fracture
+fall	results in	concussion
+fall	results in	soft tissue injury
+fall	increases risk of	pneumonia
+fall	increases need for	rehabilitation
+fall	increases length of stay	hospital
+fall	increases risk of	nursing home placement
+fall	prevented by	home safety measures
+fall	prevented by	handrails
+fall	prevented by	grab bars
+fall	prevented by	non slip footwear
+fall	prevented by	adequate lighting
+fall	prevented by	balance training
+fall	prevented by	exercise program
+fall	prevented by	vision correction
+fall	prevented by	medication review
+fall	risk reduced by	physical therapy
+fall	risk reduced by	home modification
+fall	risk reduced by	assistive devices
+fall	occurs most often in	nursing facility
+fall	occurs most often in	hospital setting
+fall	occurs most often in	community dwelling
+fall	results in	caregiver strain
+fall	increases need for	rehabilitation services
+fall	affects	quality of life
+fall	affects	independence
+fall	leads to	loss of independence
+fall	increases risk of	institutionalization
+fall	associated with	fear of falling
+fall	associated with	reduced mobility
+fall	associated with	reduced independence
+fall	tracked by	health record
+fall	predicted by	age
+fall	predicted by	frailty
+fall	predicted by	prior fall
+fall	predicted by	gait disturbance
+fall	predicted by	cognitive impairment
+fall	predicted by	osteoporosis
+fall	predicted by	dehydration
+fall	predicted by	polypharmacy
+fall	predicted by	delirium
+fall	predicted by	vision impairment
+fall	predicted by	orthostatic hypotension
+fall	predicted by	muscle weakness
+fall	predicted by	balance impairment
+fall	predicted by	dizziness
+fall	correlated with	fracture severity
+fall	correlated with	brain injury severity
+fall	correlated with	postural instability
+fall	correlated with	sensory deficit
+fall	correlated with	mobility limitation
+fall	correlated with	obesity
+fall	coded under	E-code
+E-code	maps to	fall
+E-code	used for	fall classification
+fall	indicates	mechanism of fall
+fall	specifies	circumstance of fall
+E-code	references	external cause
+fall	described in	health record
+fall	captured by	ICD code
+health record	contains	E-code
+fall event	documented as	E-code
+E-code	records	fall event
+ICD code	used for	injury coding
+fall	included in	injury statistics
+injury statistics	inform	fall prevention programs
+fall	used in	risk prediction model
+risk prediction model	uses	prior fall
+prior fall	resets	risk baseline
+risk baseline	influences	fall probability
+fall probability	estimated by	age
+fall probability	estimated by	frailty

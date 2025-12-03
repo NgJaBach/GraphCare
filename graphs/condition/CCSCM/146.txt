@@ -1,0 +1,178 @@
+diverticulosis	is characterized by	colonic diverticula
+diverticulosis	common in	older adults
+diverticulosis	associated with	low fiber diet
+diverticulosis	associated with	obesity
+diverticulosis	associated with	constipation
+diverticulosis	associated with	physical inactivity
+diverticulosis	predisposes to	diverticulitis
+diverticulitis	is an	inflammatory condition
+diverticulitis	caused by	bacterial infection
+diverticulitis	occurs in	colon
+diverticulitis	presents with	abdominal pain
+diverticulitis	presents with	fever
+diverticulitis	presents with	leukocytosis
+diverticulitis	diagnosed by	CT scan
+diverticulitis	diagnosed by	ultrasound
+diverticulitis	treated with	antibiotics
+diverticulitis	treated with	bowel rest
+diverticulitis	may require	hospitalization
+diverticulitis	can lead to	abscess
+diverticulitis	can lead to	perforation
+diverticulitis	can cause	fistula
+diverticulitis	may result in	peritonitis
+diverticulitis	has	recurrence
+diverticulosis	managed with	high fiber diet
+diverticulosis	managed with	hydration
+diverticulosis	is considered	benign condition
+diverticulitis	may require	surgery
+diverticulitis	treated with	diverticulectomy
+diverticulitis	treated with	sigmoid colectomy
+diverticulitis	risk for	hospital readmission
+diverticulitis	associated with	abscess formation
+diverticulitis	commonly localized to	sigmoid colon
+diverticulosis	occurs in	colon
+diverticulosis	most common in	older adults
+diverticulosis	found on	colonoscopy
+diverticulosis	risk factor for	diverticulitis
+diverticulitis	may require	percutaneous drainage
+diverticulitis	associated with	left lower quadrant tenderness
+diverticulitis	commonly diagnosed with	CT scan
+diverticulitis	can be treated with	intravenous antibiotics
+diverticulitis	may require	diverticulectomy
+diverticulitis	may require	colectomy
+diverticulitis	associated with	abscess
+diverticulosis	can cause	diverticular bleeding
+diverticulosis	can cause	anemia
+diverticulosis	prevented by	high fiber diet
+diverticulosis	prevented by	fiber supplementation
+diverticulitis	associated with	NSAID use
+diverticulitis	associated with	smoking
+diverticulitis	associated with	steroid use
+diverticulitis	risk for	perforation
+diverticulitis	risk for	fistula formation
+diverticulosis	incidental finding on	imaging
+diverticulosis	incidental finding on	colonoscopy
+diverticulitis	follow-up imaging by	CT scan
+diverticulitis	follow-up imaging by	ultrasound
+diverticulitis	long-term complication	stricture
+diverticulitis	long-term complication	fistula formation
+diverticulosis	complications include	diverticular bleeding
+diverticulosis	bleeding risk	diverticular bleeding
+diverticulitis	complication	intra-abdominal abscess
+diverticulitis	complication	colovesical fistula
+diverticulosis	colon changes	diverticula
+diverticulosis	treatment goal	symptom relief
+diverticulitis	hospitalization rate	high among elderly
+diverticulitis	recurrence rate	significant
+diverticulosis	quality of life impact	minimal
+diverticulosis	progression to diverticulitis	possible
+diverticulitis	revenue impact	increased healthcare utilization
+diverticulitis	antibiotic therapy duration	variable
+diverticulitis	surgical cure	limited to complicated cases
+diverticulosis	dietary modification	persists lifelong
+diverticulosis	monitoring needs	none routine unless symptoms
+diverticulitis	imaging findings	colonic wall thickening
+diverticulitis	imaging findings	pericolonic fat stranding
+diverticulosis	age relationship	increasing with age
+diverticulitis	sigmoid involvement	most common
+diverticulosis	colon segment affected	sigmoid colon
+diverticulosis	is a	diverticular disease
+diverticulitis	is a	inflammatory condition
+diverticulosis	occurs in	colon
+diverticulosis	involves	sigmoid colon
+diverticulitis	involves	sigmoid colon
+diverticulitis	causes	abscess
+diverticulitis	causes	perforation
+diverticulitis	causes	peritonitis
+diverticulitis	causes	fistula
+diverticulitis	causes	obstruction
+diverticulosis	causes	diverticular bleeding
+diverticulosis	increases	bleeding risk
+diverticulosis	diagnosed by	colonoscopy
+diverticulitis	diagnosed by	CT scan
+CT scan	reveals	bowel wall thickening
+CT scan	reveals	diverticula
+CT scan	reveals	fat stranding
+diverticulitis	diagnosed by	imaging
+diverticulitis	associated with	fever
+diverticulitis	associated with	leukocytosis
+age	is a	risk factor for diverticulitis
+age	is a	risk factor for diverticulosis
+low-fiber diet	is a	risk factor for diverticulosis
+high-fiber diet	reduces	risk of diverticulosis
+obesity	is a	risk factor for diverticulosis
+physical inactivity	is a	risk factor for diverticulosis
+smoking	is a	risk factor for diverticulitis
+NSAID use	is a	risk factor for diverticulitis
+steroid use	is a	risk factor for diverticulitis
+antibiotics	are used for	acute diverticulitis
+bowel rest	is used for	mild diverticulitis
+outpatient management	is appropriate for	uncomplicated diverticulitis
+surgery	is indicated for	complicated diverticulitis
+sigmoid colectomy	is performed for	complicated diverticulitis
+diverticulitis	may require	hospital admission
+diverticulitis	may require	surgical resection
+colostomy	may result from	diverticulitis surgery
+colovesical fistula	can result from	diverticulitis
+colovaginal fistula	can result from	diverticulitis
+diverticulosis	most common site	sigmoid colon
+diverticulitis	presents with	left lower quadrant pain
+diverticulitis	presents with	fever
+diverticulitis	presents with	abdominal tenderness
+diverticulitis	presents with	leukocytosis
+diverticular disease	includes	diverticulosis and diverticulitis
+diverticular bleeding	is a	common complication of diverticulosis
+colonoscopy	detects	diverticulosis
+barium enema	detects	diverticulosis
+diverticulosis	does not increase	risk of colon cancer
+diverticulosis	found incidentally on	colonoscopy
+diverticulitis	recurrence risk	high in elderly
+resection	reduces	recurrence of diverticulitis
+diverticulitis recurrence	occurs in	some patients
+elective colectomy	considered after	recurrent diverticulitis
+surgical resection	may cure	diverticulitis
+abscess	treated with	antibiotics
+abscess	requires	CT-guided drainage
+perforation	requires	emergency surgery
+peritonitis	requires	broad-spectrum antibiotics
+fistula	requires	surgical repair
+diverticular disease	management includes	high-fiber diet
+high-fiber diet	increases	stool bulk
+dietary fiber	is a	cornerstone of diverticulosis management
+psyllium	used for	diverticulosis management
+dietary fiber	reduces	diverticular symptoms
+colorectal cancer	not associated with	diverticulosis
+diverticulosis	prevalence increases with	age
+diverticulitis	prevalence increases with	age
+sigmoid colon diverticula	are located in	diverticulosis
+diverticulosis	is often found during	imaging
+diverticular disease	common in	elderly
+colon	is site of	diverticular disease
+diverticulosis	often discovered during	colonoscopy
+diverticular disease	increases	hospital admissions
+diverticulitis	increases	length of hospital stay
+colonoscopy	should be avoided during	acute diverticulitis
+sigmoid colon	contains	diverticula
+diverticulosis	is associated with	mild cramping
+diverticulitis	causes	abdominal pain
+diverticulitis	causes	fever
+diverticulitis	causes	elevated white blood cell count
+white blood cell count	elevated in	diverticulitis
+C-reactive protein	elevated in	diverticulitis
+CRP	predicts	diverticulitis severity
+diverticulitis	requires	imaging-guided drainage
+diagnosis of diverticulitis	relies on	CT imaging
+colonoscopy after diverticulitis	recommended to	rule out colorectal cancer
+diverticulosis	can be seen on	CT colonography
+CT colonography	visualizes	diverticula
+diverticulitis	worse with	NSAID use
+diverticulitis	improved with	antibiotics
+diverticulitis	improves with	bowel rest
+uncomplicated diverticulitis	resolved with	antibiotics
+diverticulosis	often found	incidentally
+diverticulosis	may be associated with	angiodysplasia
+diverticular disease	includes	symptomatic diverticulosis
+high-fiber diet	is a	management for diverticulosis
+psyllium	reduces	diverticular symptoms
+antibiotics	used for	complicated diverticulitis
+colonoscopy after diverticulitis	recommended to	rule out colorectal cancer

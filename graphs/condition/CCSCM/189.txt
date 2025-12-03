@@ -1,0 +1,60 @@
+previous c-section	increases risk of	placenta previa
+previous c-section	increases risk of	placenta accreta spectrum
+previous c-section	increases risk of	uterine rupture
+previous c-section	decreases likelihood of	VBAC success
+previous c-section	predicts	emergency cesarean in next birth
+previous c-section	increases likelihood of	repeat cesarean delivery
+previous c-section	increases risk of	postpartum hemorrhage
+previous c-section	increases risk of	cesarean hysterectomy
+previous c-section	increases risk of	cesarean scar pregnancy
+previous c-section	increases risk of	preterm birth
+previous c-section	increases risk of	low birth weight
+previous c-section	increases risk of	NICU admission
+previous c-section	increases risk of	neonatal respiratory distress syndrome
+previous c-section	increases risk of	placental abruption
+previous c-section	increases risk of	morbidly adherent placenta
+previous c-section	increases risk of	postpartum endometritis
+previous c-section	increases risk of	surgical site infection
+previous c-section	increases risk of	intra-abdominal adhesions
+previous c-section	increases risk of	pelvic adhesions
+previous c-section	increases risk of	chronic pelvic pain
+previous c-section	increases risk of	longer hospital stay
+previous c-section	increases risk of	higher blood loss
+previous c-section	increases risk of	blood transfusion
+previous c-section	increases risk of	longer operative time
+previous c-section	decreases likelihood of	vaginal birth in next birth
+previous c-section	increases risk of	failed induction
+previous c-section	increases risk of	failed trial of labor
+previous c-section	increases likelihood of	elective repeat cesarean
+previous c-section	increases risk of	placenta previa recurrence
+previous c-section	increases risk of	placenta accreta recurrence
+previous c-section	increases risk of	placental abnormalities in next pregnancy
+previous c-section	increases risk of	abnormal placentation
+previous c-section	increases risk of	morbid postpartum outcomes
+previous c-section	is risk factor for	cesarean delivery in future pregnancy
+previous c-section	influences	mode of delivery in future pregnancy
+previous c-section	associated with	adhesion formation at surgery
+previous c-section	associated with	intraoperative conversion to open technique
+previous c-section	associated with	extended anesthesia exposure
+previous c-section	associated with	higher readmission rate after delivery
+previous c-section	associated with	increased risk of postpartum fever
+previous c-section	linked to	postpartum wound complications
+previous c-section	linked to	delayed lactation onset
+previous c-section	linked to	neonatal hypothermia at birth
+previous c-section	associated with	maternal fatigue during postpartum period
+previous c-section	associated with	higher healthcare costs
+previous c-section	associated with	longer time to return to baseline function
+previous c-section	linked to	placenta previa in subsequent pregnancies
+previous c-section	linked to	placenta accreta in subsequent pregnancies
+previous c-section	associated with	placenta accreta spectrum in subsequent pregnancies
+previous c-section	linked to	cesarean delivery trend in future pregnancies
+previous c-section	increases risk of	placental previa in next pregnancy
+previous c-section	increases risk of	placental accreta spectrum in next pregnancy
+previous c-section	increases risk of	placental abnormalities in next pregnancy
+previous c-section	increases risk of	morbidly adherent placenta in next pregnancy
+previous c-section	increases risk of	postpartum infection in next birth
+previous c-section	increases risk of	adhesions affecting future surgeries
+previous c-section	influences	risk of uterine rupture in labor
+previous c-section	associated with	higher rate of cesarean delivery in future births
+previous c-section	increases risk of	abnormal placentation in future pregnancy
+previous c-section	increases risk of	neonatal respiratory issues in next birth

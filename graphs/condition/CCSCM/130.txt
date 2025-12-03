@@ -1,0 +1,100 @@
+pleurisy	causes	chest pain
+pleurisy	presents with	pleuritic pain
+pleurisy	associated with	friction rub
+pleurisy	treated with	NSAIDs
+pleurisy	treated with	analgesics
+pleurisy	related to	viral infection
+pleurisy	related to	pneumonia
+pneumothorax	contains	air in pleural space
+pneumothorax	presents with	sudden chest pain
+pneumothorax	presents with	dyspnea
+pneumothorax	diagnosed by	chest X-ray
+pneumothorax	diagnosed by	ultrasound
+pneumothorax	diagnosed by	CT scan
+pneumothorax	risk factor	smoking
+pneumothorax	risk factor	tall stature
+pneumothorax	risk factor	COPD
+pneumothorax	treated with	chest tube
+pneumothorax	treated with	needle decompression
+pneumothorax	treated with	oxygen therapy
+pneumothorax	managed with	observation
+pneumothorax	complication	hypoxemia
+pneumothorax	complication	tension pneumothorax
+tension pneumothorax	leads to	hypotension
+tension pneumothorax	requires	emergent decompression
+spontaneous pneumothorax	occurs in	young males
+spontaneous pneumothorax	associated with	smoking
+secondary pneumothorax	occurs with	COPD
+pneumothorax	associated with	rib fracture
+pneumothorax	recurrence	high risk
+pulmonary collapse	defined as	atelectasis
+pulmonary collapse	associated with	hypoxemia
+pulmonary collapse	diagnosed by	chest X-ray
+pulmonary collapse	treated with	oxygen therapy
+pulmonary collapse	caused by	airway obstruction
+pulmonary collapse	risk factor	shallow breathing
+pulmonary collapse	outcome	improvement with breathing exercises
+pleural rub	sign of	pleurisy
+friction rub	heard on	auscultation
+pleural effusion	can accompany	pleurisy
+pleural effusion	causes	dyspnea
+pleural effusion	diagnosed by	ultrasound
+pleural effusion	diagnosed by	chest X-ray
+pleural effusion	treated with	thoracentesis
+air in pleural space	results in	pneumothorax
+subcutaneous emphysema	can accompany	pneumothorax
+tachycardia	occurs with	pneumothorax
+hypoxemia	results from	pneumothorax
+hypoxemia	managed with	supplemental oxygen
+oxygen therapy	improves	hypoxemia
+chest X-ray	diagnoses	pneumothorax
+ultrasound	detects	pneumothorax
+CT scan	detects	pneumothorax
+needle decompression	relieves	tension pneumothorax
+chest tube	drains	air in pleural space
+thoracentesis	used for	pleural effusion
+air leak	associated with	pneumothorax
+pneumothorax	presents to	emergency department
+spontaneous pneumothorax	recurrence risk	elevated
+pneumothorax	management goal	lung re-expansion
+pneumothorax	follow-up imaging	chest radiography
+pleurisy	follow-up	clinical improvement
+friction rub	audible on	examination
+atelectasis	alternative term	pulmonary collapse
+atelectasis	improved with	incentive spirometry
+atelectasis	associated with	postoperative status
+atelectasis	diagnosed by	chest X-ray
+atelectasis	treated with	oxygen therapy
+air leak	mechanism	rupture of visceral pleura
+air leak	detected by	ultrasound
+air leak	resolved with	chest tube
+pneumothorax	epidemiology	common in smokers
+pneumothorax	epidemiology	more common in tall thin individuals
+pneumothorax	symptom	chest pain
+pneumothorax	symptom	shortness of breath
+pleurisy	symptom	chest pain
+pulmonary collapse	symptom	hypoxemia
+pneumothorax	symptom	tachypnea
+pneumothorax	symptom	chest tightness
+friction rub	sign	chest pain worsens with breathing
+pneumothorax	imaging feature	pleural line
+pleural line	observed on	CT scan
+pneumothorax	classification	primary
+pneumothorax	classification	secondary
+primary pneumothorax	occurs in	spontaneous
+secondary pneumothorax	occurs with	emphysema
+emphysema	predisposes to	pneumothorax
+smoking	increases risk of	pneumothorax
+tallness	associated with	primary spontaneous pneumothorax
+pneumothorax	emergency treatment	chest tube
+tachycardia	indicates	physiologic stress
+hypoxemia	worsened by	pneumothorax
+oxygen therapy	used for	pneumothorax
+oxygen therapy	used for	pleurisy
+oxygen therapy	used for	pulmonary collapse
+analgesia	used for	chest pain
+steroid	used for	pleurisy
+antibiotics	used for	pneumonia
+blood gas analysis	assesses	hypoxemia
+re-admission	risk after	pneumothorax
+mortality	risk after	pneumothorax

@@ -1,0 +1,110 @@
+retinal detachments	is an	ocular emergency
+retinal detachments	may cause	vision loss
+retinal detachments	require	surgical repair
+retinal detachments	treated with	scleral buckle
+retinal detachments	treated with	vitrectomy
+retinal detachments	treated with	laser therapy
+retinal detachments	associated with	retinal tears
+retinal detachments	associated with	lattice degeneration
+retinal detachments	present with	floaters
+retinal detachments	present with	flashes
+retinal detachments	increase	risk of blindness
+retinal detachments	occur after	posterior vitreous detachment
+retinal detachments	cause	metamorphopsia
+retinal detachments	cause	scotoma
+retinal detachments	lead to	macular involvement
+retinal detachments	associated with	aging retina
+retinal detachments	may be	bilateral in some cases
+defects	predispose to	retinal detachments
+defects	include	lattice degeneration
+defects	include	retinal tears
+defects	predispose to	lattice degeneration
+defects	associated with	retinal disease
+lattice degeneration	is a	retinal defect
+lattice degeneration	predisposes to	retinal detachments
+lattice degeneration	associated with	retinal tears
+retinal tears	can cause	retinal detachments
+retinal tears	occur with	lattice degeneration
+retinal tears	are a	common cause of detachments
+posterior vitreous detachment	is associated with	retinal detachments
+posterior vitreous detachment	increases risk of	retinal tears
+vascular occlusion	may cause	retinopathy
+vascular occlusion	is associated with	ischemia
+central retinal artery occlusion	is a	retinal vascular occlusion
+retinal vein occlusion	is a	retinal vascular occlusion
+retinal vascular occlusion	presents with	sudden vision loss
+vascular occlusion	risk factor for	retinopathy
+retinopathy	is a	retinal microvascular disease
+retinopathy	may cause	vision loss
+retinopathy	can progress to	retinal detachments
+retinopathy	associated with	diabetes mellitus
+retinopathy	treated with	laser therapy
+retinopathy	treated with	anti-VEGF therapy
+retinopathy	diagnosed by	fundus examination
+retinopathy	monitored with	fluorescein angiography
+retinopathy	worsens with	hypertension
+retinopathy	prevented by	glucose control
+retinopathy	occurs in	elderly
+retinopathy	may require	ophthalmology referral
+vision loss	is a	common outcome
+vision loss	results from	retinal detachments
+vision loss	results from	retinopathy
+surgery	is used for	retinal detachments
+laser therapy	used for	retinal tears
+laser therapy	used for	retinopathy
+vitrectomy	used for	retinal detachments
+scleral buckle	used for	retinal detachments
+fundus examination	helps diagnose	retinopathy
+fundus examination	monitors	retinal detachments
+fluorescein angiography	assists in	retinopathy
+diabetes mellitus	increases risk of	retinopathy
+hypertension	increases risk of	retinopathy
+glucose control	improves	retinopathy
+blood pressure control	improves	retinopathy
+trauma	can cause	retinal detachments
+trauma	associated with	vascular occlusion
+aging retina	predisposes to	defects
+smoking	increases risk of	retinopathy
+ischemia	results from	vascular occlusion
+photopsia	indicates	retinal detachments
+floaters	indicate	retinal detachments
+metamorphopsia	indicates	retinal detachments
+neovascularization	occurs in	retinopathy
+neovascularization	leads to	tractional detachment
+tractional detachment	is a	form of retinal detachment
+traumatic detachment	is a	variant of retinal detachment
+retinal detachment	results in	loss of central vision
+laser retinopexy	reduces risk of	retinal detachment
+cryotherapy	reduces risk of	retinal detachment
+cryotherapy	used for	lattice degeneration
+cryotherapy	used for	retinal tears
+anti-VEGF therapy	reduces progression of	retinopathy
+anti-VEGF therapy	used for	macular edema
+macular edema	occurs in	retinopathy
+macular edema	causes	vision loss
+fundus photography	documents	retinal detachments
+OCT	provides	structural detail of retina
+retinal microvascular disease	describes	retinopathy
+laser photocoagulation	used for	retinopathy
+vitreous hemorrhage	may accompany	retinal detachments
+vitreous hemorrhage	seen in	retinopathy
+older age	increases risk of	retinal detachments
+older age	increases risk of	retinopathy
+diabetic retinopathy	is a	form of retinopathy
+hypertensive retinopathy	is a	form of retinopathy
+neovascularization	occurs in	retinopathy
+trauma	can cause	retinopathy
+retinopathy	may present with	microaneurysms
+retinopathy	may present with	hemorrhages
+retinopathy	may present with	cotton-wool spots
+retinopathy	is associated with	renal disease
+retinopathy	may cause	macular involvement
+retinopathy	can be	asymptomatic in early stages
+retinopathy	monitored by	dilated fundus exam
+defects	can be	congenital
+defects	can be	acquired
+defects	may be	unilateral
+defects	may be	bilateral
+defects	identified by	imaging
+lattice degeneration	may be	asymptomatic
+posterior vitreous detachment	may be	asymptomatic

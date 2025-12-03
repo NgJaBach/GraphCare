@@ -1,0 +1,99 @@
+parkinson's disease	is a	neurodegenerative disorder
+parkinson's disease	presents with	tremor
+parkinson's disease	presents with	bradykinesia
+parkinson's disease	presents with	rigidity
+parkinson's disease	presents with	postural instability
+parkinson's disease	involves	dopaminergic neuron loss
+parkinson's disease	involves	nigrostriatal pathway
+parkinson's disease	associated with	Lewy bodies
+parkinson's disease	associated with	alpha-synuclein aggregates
+parkinson's disease	diagnosed by	clinical assessment
+parkinson's disease	diagnosed with	DaT scan
+levodopa	is a	dopamine precursor
+parkinson's disease	treated with	levodopa
+levodopa	crosses	blood-brain barrier
+carbidopa-levodopa	is a	combination therapy
+parkinson's disease	treated with	carbidopa-levodopa
+levodopa	provides	motor symptom relief
+levodopa	can cause	dyskinesia
+dyskinesia	is a	motor complication
+dopamine agonist	used for	motor symptom relief
+pramipexole	is a	dopamine agonist
+ropiniriole	is a	dopamine agonist
+rotigotine	is a	dopamine agonist
+dopamine agonist	may cause	impulse control disorders
+impulse control disorder	is adverse effect of	dopamine agonist
+MAO-B inhibitors	used for	motor fluctuations
+selegiline	is a	MAO-B inhibitor
+rasagiline	is a	MAO-B inhibitor
+parkinson's disease	treated with	MAO-B inhibitors
+COMT inhibitors	used for	levodopa durability
+entacapone	is a	COMT inhibitor
+tolcapone	is a	COMT inhibitor
+parkinson's disease	treated with	COMT inhibitors
+amantadine	used for	dyskinesia relief
+amantadine	is a	NMDA receptor antagonist
+amantadine	reduces	dyskinesia
+deep brain stimulation	improves	motor symptoms
+deep brain stimulation	targets	subthalamic nucleus
+subthalamic nucleus	is a	brain structure
+globus pallidus interna	is a	brain structure
+parkinson's disease	treated with	physical therapy
+parkinson's disease	managed with	exercise
+exercise	improves	gait
+physical therapy	improves	mobility
+parkinson's disease	associated with	constipation
+parkinson's disease	associated with	sleep disturbance
+parkinson's disease	associated with	REM sleep behavior disorder
+parkinson's disease	associated with	hyposmia
+hyposmia	is an early non-motor symptom of	parkinson's disease
+parkinson's disease	associated with	depression
+parkinson's disease	associated with	anxiety
+parkinson's disease	associated with	cognitive impairment
+parkinson's disease	associated with	dementia
+parkinson's disease	associated with	psychosis
+parkinson's disease	increases	fall risk
+parkinson's disease	causes	orthostatic hypotension
+orthostatic hypotension	is a non-motor symptom of	parkinson's disease
+dementia	occurs with	advanced parkinson's disease
+parkinson's disease	increases	caregiver burden
+parkinson's disease	increases	healthcare utilization
+parkinson's disease	increases	mortality risk
+parkinson's disease	demonstrates	disease progression
+parkinson's disease	progresses with	time
+dyskinesia	is a	complication of levodopa therapy
+levodopa therapy	associated with	wearing-off phenomenon
+wearing-off phenomenon	occurs with	levodopa
+levodopa	leads to	motor fluctuations
+motor fluctuations	are common with	long-term levodopa
+long-term levodopa therapy	leads to	dyskinesia
+deep brain stimulation	improves	quality of life
+subthalamic nucleus	is targeted by	deep brain stimulation
+carbidopa	inhibits	aromatic L-amino acid decarboxylase
+carbidopa	reduces	peripheral levodopa side effects
+levodopa	requires	peripheral decarboxylase inhibition
+family history	increases	parkinson's disease risk
+pesticide exposure	is a risk factor for	parkinson's disease
+age	is a risk factor for	parkinson's disease
+male sex	is a risk factor for	parkinson's disease
+smoking	inversely associated with	parkinson's disease
+caffeine intake	associated with	reduced parkinson's disease risk
+alpha-synuclein	accumulates in	Lewy bodies
+Lewy bodies	are composed of	alpha-synuclein
+nigrostriatal degeneration	causes	motor symptoms
+DAT uptake	decreases in	parkinson's disease
+DaT scan	helps	diagnosis of parkinson's disease
+olfactory dysfunction	precedes	motor symptoms in parkinson's disease
+constipation	is a non-motor symptom of	parkinson's disease
+sleep disturbance	is a non-motor symptom of	parkinson's disease
+REM sleep behavior disorder	is a non-motor precursor of	parkinson's disease
+hypophonia	occurs with	parkinson's disease
+dysphagia	occurs with	parkinson's disease
+speech impairment	occurs with	parkinson's disease
+gait disturbance	is present in	parkinson's disease
+dementia	may appear in	advanced parkinson's disease
+parkinson's disease	requires	multidisciplinary care
+levodopa	interacts with	vitamin B6
+vitamin B6	reduces	levodopa efficacy
+parkinson's disease	may require	caregiver support
+parkinson's disease	is	progressive neurodegenerative condition

@@ -1,0 +1,100 @@
+substance-related disorders	includes	alcohol use disorder
+substance-related disorders	includes	opioid use disorder
+substance-related disorders	includes	cannabis use disorder
+substance-related disorders	includes	stimulant use disorder
+substance-related disorders	includes	tobacco use disorder
+substance-related disorders	includes	sedative-hypnotic use disorder
+substance-related disorders	includes	hallucinogen use disorder
+substance-related disorders	includes	polysubstance use disorder
+alcohol use disorder	is a	substance-related disorder
+opioid use disorder	is a	substance-related disorder
+cannabis use disorder	is a	substance-related disorder
+stimulant use disorder	is a	substance-related disorder
+tobacco use disorder	is a	substance-related disorder
+sedative-hypnotic use disorder	is a	substance-related disorder
+hallucinogen use disorder	is a	substance-related disorder
+polysubstance use disorder	is a	substance-related disorder
+substance-related disorders	increase	hospital admissions
+substance-related disorders	increase	mortality risk
+substance-related disorders	associated with	depression
+substance-related disorders	associated with	anxiety disorder
+substance-related disorders	associated with	bipolar disorder
+substance-related disorders	associated with	schizophrenia
+substance-related disorders	associated with	ADHD
+alcohol use disorder	associated with	liver cirrhosis
+alcohol use disorder	associated with	pancreatitis
+alcohol use disorder	associated with	hepatitis
+opioid use disorder	associated with	overdose
+opioid use disorder	associated with	infectious endocarditis
+opioid use disorder	associated with	HIV infection
+tobacco use disorder	associated with	chronic obstructive pulmonary disease
+tobacco use disorder	associated with	lung cancer
+cocaine use disorder	associated with	myocardial infarction
+cocaine use disorder	associated with	stroke
+stimulant use disorder	associated with	hypertension
+benzodiazepine use disorder	associated with	cognitive impairment
+substance-related disorders	screened by	CAGE questionnaire
+substance-related disorders	screened by	AUDIT
+opioid use disorder	diagnosed by	DSM-5 criteria
+tobacco use disorder	diagnosed by	nicotine dependence test
+substance-related disorders	treated with	methadone
+substance-related disorders	treated with	buprenorphine
+alcohol use disorder	treated with	naltrexone
+alcohol use disorder	treated with	acamprosate
+alcohol use disorder	treated with	disulfiram
+tobacco use disorder	treated with	nicotine replacement therapy
+tobacco use disorder	treated with	varenicline
+cannabis use disorder	treated with	cognitive-behavioral therapy
+substance-related disorders	managed with	contingency management
+substance-related disorders	managed with	motivational interviewing
+substance-related disorders	managed with	mutual-help groups
+substance-related disorders	associated with	homelessness
+substance-related disorders	associated with	unemployment
+substance-related disorders	associated with	poverty
+substance-related disorders	associated with	social isolation
+alcohol use disorder	associated with	hypertension
+alcohol use disorder	associated with	stroke
+opioid use disorder	associated with	respiratory depression
+opioid use disorder	associated with	constipation
+tobacco use disorder	associated with	periodontal disease
+cannabis use disorder	associated with	cannabis-related psychosis
+cocaine use disorder	associated with	nasal septum damage
+substance-related disorders	increase	emergency department visits
+substance-related disorders	increase	length of stay
+alcohol use disorder	reduces	quality of life
+tobacco use disorder	reduces	life expectancy
+alcohol use disorder	predicts	readmission
+opioid use disorder	predicts	overdose risk
+cocaine use disorder	predicts	cardiovascular events
+cannabis use disorder	predicts	cognitive impairment in youth
+stimulant use disorder	predicts	weight loss
+amphetamine use disorder	associated with	acute toxicity
+methamphetamine use disorder	associated with	hyperthermia
+benzodiazepine use disorder	associated with	sedation
+substance-related disorders	associated with	immune suppression
+tobacco use disorder	associated with	periodontal disease
+tobacco use disorder	associated with	low birth weight
+alcohol use disorder	associated with	fetal alcohol spectrum disorders
+opioid use disorder	associated with	neonatal abstinence syndrome
+substance-related disorders	associated with	social burden
+substance-related disorders	associated with	crime
+substance-related disorders	associated with	domestic violence
+substance-related disorders	associated with	legal problems
+nicotine dependence	associated with	cardiovascular disease
+nicotine dependence	treated with	nicotine replacement therapy
+nicotine dependence	treated with	varenicline
+alcohol use disorder	treatment	behavioral therapy
+substance-related disorders	associated with	sleep disturbance
+opioid use disorder	comorbidity with	hepatitis C infection
+tobacco use disorder	comorbidity with	cardiovascular disease
+cannabis use disorder	comorbidity with	anxiety disorder
+stimulant use disorder	comorbidity with	psychosis
+amphetamine use disorder	comorbidity with	hypertension
+substance-related disorders	economic burden	healthcare costs
+behavioral therapy	used for	substance-related disorders
+contingency management	used for	substance-related disorders
+motivational interviewing	used for	substance-related disorders
+mutual-help groups	used for	substance-related disorders
+naltrexone	used for	alcohol use disorder
+acamprosate	used for	alcohol use disorder
+buprenorphine	used for	opioid use disorder

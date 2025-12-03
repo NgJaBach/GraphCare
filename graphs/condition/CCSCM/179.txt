@@ -1,0 +1,102 @@
+postabortion complications	lead to	hemorrhage
+postabortion complications	lead to	infection
+postabortion complications	lead to	uterine perforation
+postabortion complications	lead to	retained products of conception
+postabortion complications	lead to	endometritis
+postabortion complications	lead to	sepsis
+postabortion complications	lead to	cervical injury
+postabortion complications	lead to	anemia
+postabortion complications	lead to	pelvic abscess
+postabortion complications	lead to	hypovolemia
+postabortion complications	require	suction curettage
+postabortion complications	require	antibiotics
+postabortion complications	require	blood transfusion
+postabortion complications	require	surgical repair
+postabortion complications	increase	hospital stay
+postabortion complications	increase	length of stay
+postabortion complications	increase	readmission rate
+postabortion complications	associated with	fever
+postabortion complications	associated with	abdominal pain
+postabortion complications	associated with	vaginal bleeding
+postabortion complications	risk factor for	infertility
+hemorrhage	lead to	anemia
+hemorrhage	require	blood transfusion
+hemorrhage	cause	hypovolemia
+hemorrhage	result in	hospitalization
+hemorrhage	increase	length of stay
+infection	lead to	sepsis
+infection	require	antibiotics
+infection	cause	pelvic inflammatory disease
+infection	lead to	infertility
+infection	increase	hospital stay
+infection	associated with	fever
+retained products of conception	lead to	prolonged bleeding
+retained products of conception	require	suction curettage
+retained products of conception	cause	infection
+retained products of conception	predispose to	endometritis
+endometritis	lead to	pelvic pain
+endometritis	require	antibiotics
+endometritis	cause	infertility
+endometritis	lead to	sepsis
+uterine perforation	require	surgical repair
+uterine perforation	lead to	intraabdominal injury
+cervical laceration	cause	vaginal bleeding
+cervical laceration	require	suturing
+cervical laceration	associated with	cervical stenosis
+anemia	result from	hemorrhage
+anemia	require	iron therapy
+anemia	cause	fatigue
+blood transfusion	indicate	severe bleeding
+blood transfusion	carry	transfusion reaction
+blood transfusion	improve	oxygen carrying capacity
+hospital admission	result from	severe bleeding
+hospital admission	result from	infection
+ICU admission	associated with	sepsis
+ICU admission	require	mechanical ventilation
+sepsis	require	ICU admission
+sepsis	lead to	septic shock
+pelvic inflammatory disease	cause	infertility
+pelvic inflammatory disease	lead to	chronic pelvic pain
+pelvic inflammatory disease	treat	antibiotics
+pelvic abscess	require	drainage
+pelvic abscess	lead to	sepsis
+suction curettage	used for	retained products of conception
+suction curettage	carries	risk of uterine perforation
+antibiotic therapy	treat	infection
+antibiotic therapy	prevent	infection
+iron therapy	treat	anemia
+dilation and curettage	remove	retained products of conception
+suction curettage	remove	retained products of conception
+manual vacuum aspiration	remove	retained products of conception
+intrauterine infection	present with	fever
+intrauterine infection	require	antibiotics
+postabortion followup	ensure	resolution of complications
+uterine scar	predispose	future placenta accreta
+uterine scar	predispose	future infertility
+dilation and curettage	carry	risk of infection
+manual vacuum aspiration	carry	risk of perforation
+peritoneal irritation	lead to	abdominal pain
+peritonitis	lead to	sepsis
+peritonitis	require	antibiotics
+vaginal bleeding	lead to	hemorrhage
+abdominal pain	indicate	infection
+fever	indicate	infection
+bleeding	correlate with	anemia
+ovarian function	relate to	fertility status
+uterine scarring	predispose	future placentation disorders
+postabortal infection	respond to	antibiotic therapy
+postabortion complication	signal	clinical deterioration
+pelvic pain	accompany	endometritis
+septic shock	follow	sepsis progression
+infection	complicate	suction curettage
+postabortal bleeding	anticipates	transfusion need
+blood loss	track	hemodynamic instability
+uterine tenderness	indicate	endometritis
+fever	accompany	infection
+abnormal uterine bleeding	accompany	postabortion period
+vaginal discharge	accompany	infection
+uterine tone	relate to	hemorrhage risk
+hemorrhagic shock	result in	organ dysfunction
+organ dysfunction	imply	severe sepsis
+aspiration pneumonia	risk with	intubation during procedure
+patient	experience	pain

@@ -1,0 +1,191 @@
+chronic obstructive pulmonary disease	coexists with	bronchiectasis
+bronchiectasis	coexists with	chronic obstructive pulmonary disease
+chronic obstructive pulmonary disease	associated with	bronchiectasis
+bronchiectasis	associated with	chronic obstructive pulmonary disease
+bronchiectasis	common comorbidity of	chronic obstructive pulmonary disease
+chronic obstructive pulmonary disease	common comorbidity of	bronchiectasis
+bronchiectasis	predisposes to	chronic infection
+chronic obstructive pulmonary disease	predisposes to	acute infection
+bronchiectasis	predisposes to	pseudomonas colonization
+bronchiectasis	predisposes to	mucus hypersecretion
+bronchiectasis	diagnosed by	ct scan
+ct scan	used for	bronchiectasis
+spirometry	used for	chronic obstructive pulmonary disease
+spirometry	measures	fev1
+fev1	reflects	COPD severity
+chronic obstructive pulmonary disease	diagnosed by	spirometry
+bronchodilators	used for	chronic obstructive pulmonary disease
+bronchodilators	relieve	dyspnea
+inhaled corticosteroids	used for	chronic obstructive pulmonary disease
+macrolide therapy	reduce	COPD exacerbations
+airway clearance therapy	recommended for	bronchiectasis
+airway clearance therapy	improves	sputum clearance
+pulmonary rehabilitation	improves	exercise capacity
+oxygen therapy	indicated for	hypoxemia
+long-term oxygen therapy	indicated for	COPD with hypoxemia
+long-term oxygen therapy	improves	survival
+antibiotics	treat	respiratory infections
+inhaled antibiotics	used for	bronchiectasis with chronic infection
+pseudomonas infection	common in	bronchiectasis
+bronchiectasis	colonized by	pseudomonas aeruginosa
+pseudomonas aeruginosa	colonization in	bronchiectasis
+chronic obstructive pulmonary disease exacerbations	escalate to	hospitalization
+bronchiectasis	worsen	COPD outcomes
+chronic obstructive pulmonary disease	worsen	bronchiectasis outcomes
+acute exacerbation	common in	chronic obstructive pulmonary disease with bronchiectasis
+bronchiectasis	increases	sputum production
+chronic obstructive pulmonary disease	increases	sputum production
+sputum production	indicates	infection
+pneumonia	risk increases	COPD
+respiratory infections	common in	chronic obstructive pulmonary disease
+airway inflammation	present in	chronic obstructive pulmonary disease
+airway inflammation	present in	bronchiectasis
+immune deficiency	risk factor for	bronchiectasis
+smoking	risk factor for	chronic obstructive pulmonary disease
+smoking	worsens	chronic obstructive pulmonary disease symptoms
+air pollution	risk factor for	chronic obstructive pulmonary disease
+age	associated with	COPD progression
+age	associated with	bronchiectasis progression
+vaccination	recommended for	chronic obstructive pulmonary disease
+influenza vaccination	recommended for	bronchiectasis
+pneumococcal vaccination	recommended for	chronic obstructive pulmonary disease
+bronchiolitis obliterans	related to	bronchiectasis
+cor pulmonale	associated with	chronic obstructive pulmonary disease
+pulmonary hypertension	associated with	chronic obstructive pulmonary disease
+quality of life	reduced by	chronic obstructive pulmonary disease
+quality of life	reduced by	bronchiectasis
+healthcare utilization	higher in	chronic obstructive pulmonary disease with bronchiectasis
+mortality	higher in	chronic obstructive pulmonary disease with bronchiectasis
+readmission	higher risk in	chronic obstructive pulmonary disease with bronchiectasis
+readmission	associated with	chronic obstructive pulmonary disease exacerbations
+clinical phenotype	includes	chronic obstructive pulmonary disease with bronchiectasis
+phenotype	influences	treatment decisions
+treatment plan	tailored to	chronic obstructive pulmonary disease with bronchiectasis
+clinical trial	evaluates	chronic obstructive pulmonary disease with bronchiectasis therapy
+data	used for	predicting readmission in chronic obstructive pulmonary disease with bronchiectasis
+outcome	predicted by	pulmonary rehabilitation
+outcome	predicted by	antibiotic therapy
+adherence	influences	chronic obstructive pulmonary disease management
+economic burden	higher in	chronic obstructive pulmonary disease with bronchiectasis
+healthcare utilization	higher in	chronic obstructive pulmonary disease with bronchiectasis
+dyspnea	worsens	chronic obstructive pulmonary disease
+dyspnea	worsens	bronchiectasis
+exacerbation	triggers	hospitalization
+airway hyperresponsiveness	present in	chronic obstructive pulmonary disease
+lung hyperinflation	present in	chronic obstructive pulmonary disease
+mucus hypersecretion	present in	chronic obstructive pulmonary disease
+mucus hypersecretion	present in	bronchiectasis
+chronic cough	present in	bronchiectasis
+chronic cough	present in	chronic obstructive pulmonary disease
+infection	triggers	chronic obstructive pulmonary disease exacerbations
+infection	triggers	bronchiectasis exacerbations
+treatment strategy	tailored to	chronic obstructive pulmonary disease with bronchiectasis
+clinical guidelines	recommend	chronic obstructive pulmonary disease with bronchiectasis management
+spirometry	monitors	disease progression
+ct imaging	used for	diagnosing bronchiectasis in COPD
+hrct	used for	diagnosing bronchiectasis in COPD
+exercise capacity	improves with	pulmonary rehabilitation
+body mass index	affects	COPD outcomes
+nutritional status	affects	COPD management
+lung function	improves with	bronchodilators
+lung function	monitored by	spirometry
+chronic obstructive pulmonary disease	is associated with	bronchiectasis
+smoking	increases	COPD risk
+air pollution	increases	COPD risk
+age	increases	COPD risk
+alpha-1 antitrypsin deficiency	increases	COPD risk
+bronchiectasis	increases	COPD exacerbations
+bronchiectasis	worsens	COPD outcomes
+bronchiectasis	coexists with	COPD
+Pseudomonas aeruginosa	colonizes	bronchiectasis
+Haemophilus influenzae	colonizes	bronchiectasis
+bronchiectasis	predisposes to	Pseudomonas colonization
+bronchiectasis	predisposes to	chronic sputum production
+COPD	treated with	bronchodilators
+inhaled corticosteroids	increase	pneumonia risk
+bronchodilators	relieve	dyspnea
+oxygen therapy	indicated for	hypoxemia
+pulmonary rehabilitation	improves	exercise tolerance
+influenza vaccination	reduces	COPD exacerbations
+pneumococcal vaccination	reduces	pneumonia risk
+cor pulmonale	accompanies	COPD
+pulmonary hypertension	accompanies	COPD
+right heart failure	results from	pulmonary hypertension
+emphysema	coexists with	bronchiectasis
+bronchial wall thickening	accompanies	bronchiectasis
+tree-in-bud	appears in	bronchiectasis
+signet ring sign	indicates	bronchiectasis
+high-resolution CT	diagnoses	bronchiectasis
+bronchiectasis	diagnosed by	high-resolution CT
+spirometry	diagnoses	COPD
+FEV1	predicts	COPD mortality
+FEV1	declines with	COPD progression
+lung function	declines with	COPD progression
+hyperinflation	is evident in	COPD
+air trapping	is seen in	COPD
+mucus plugging	contributes to	airway obstruction
+neutrophilic inflammation	characterizes	bronchiectasis
+neutrophil elastase	contributes to	airway damage
+cystic fibrosis	causes	bronchiectasis
+primary ciliary dyskinesia	causes	bronchiectasis
+bronchodilator therapy	improves	exercise tolerance
+LAMA	improves	lung function
+LABA	improves	dyspnea
+ICS	increases	pneumonia risk
+antibiotics	treat	COPD exacerbations
+macrolide therapy	reduces	COPD exacerbations
+macrolide therapy	reduces	bronchiectasis exacerbations
+aztreonam	is an	inhaled antibiotic
+inhaled antibiotics	target	Pseudomonas infection in bronchiectasis
+airway clearance therapy	improves	sputum clearance
+lung secretions	accumulate in	bronchiectasis
+oxygen therapy	improves	survival in COPD with hypoxemia
+pseudomonas colonization	worsens	bronchiectasis prognosis
+bronchiectasis severity	predicts	hospitalization risk
+bronchiectasis management with	airway clearance therapy
+chronic cough	presents in	COPD
+sputum production	present in	chronic bronchitis
+bronchitis	overlaps with	COPD
+weight loss	worsens	COPD prognosis
+anemia	worsens	COPD prognosis
+cardiovascular disease	increases	COPD mortality
+sleep apnea	coexists with	COPD
+diabetes mellitus	complicates	COPD management
+osteoporosis	accompanies	COPD
+lung cancer	increases	COPD mortality
+pulmonary rehabilitation	reduces	hospitalization risk
+exercise training	reduces	COPD hospitalizations
+blood oxygen saturation	decreases in	COPD exacerbations
+home oxygen	reduces	hospitalization risk
+telemonitoring	reduces	COPD readmissions
+systemic inflammation	correlates with	COPD severity
+CRP	correlates with	COPD exacerbation risk
+procalcitonin	guides	antibiotic therapy in COPD exacerbations
+airway remodeling	underlying	COPD pathophysiology
+oxidative stress	drives	COPD progression
+mucus hypersecretion	contributes to	airway obstruction
+bronchiectasis management with	airway clearance therapy
+respiratory infections	trigger	COPD exacerbations
+bacterial infections	trigger	COPD exacerbations
+viral infections	trigger	COPD exacerbations
+significant infection	increases	COPD mortality
+significant inflammation	reflects	COPD activity
+beta-agonist therapy	used for	symptom relief
+environmental tobacco smoke	worsens	COPD progression
+lung function testing	monitors	COPD progression
+bronchoscopy	used for	mucus clearance in bronchiectasis
+COVID-19 infection	worsens	COPD outcomes
+systemic corticosteroids	used for	COPD exacerbations
+antibiotic stewardship	supports	COPD management
+clinical guidelines	inform	COPD management
+bronchiectasis	increases	sputum volume
+sputum volume	predicts	bronchiectasis severity
+microbiome	modulates	bronchiectasis progression
+gas exchange abnormality	characterizes	COPD
+hypoxemia	indicates	disease severity
+morbidity	increases	bronchiectasis
+morbidity	increases	COPD
+hospital admission	reflects	COPD severity
+lung hyperinflation	worsens	dyspnea
+oxygen desaturation	occurs during	COPD exacerbations
+treatment adherence	influences	COPD outcomes

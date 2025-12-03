@@ -1,0 +1,101 @@
+other gastrointestinal disorders	is a	category of digestive diseases
+other gastrointestinal disorders	associated with	dehydration
+other gastrointestinal disorders	associated with	electrolyte imbalance
+other gastrointestinal disorders	associated with	malnutrition
+other gastrointestinal disorders	associated with	anemia
+other gastrointestinal disorders	associated with	weight loss
+other gastrointestinal disorders	presenting with	abdominal pain
+other gastrointestinal disorders	presenting with	diarrhea
+other gastrointestinal disorders	presenting with	constipation
+other gastrointestinal disorders	presenting with	nausea
+other gastrointestinal disorders	presenting with	vomiting
+other gastrointestinal disorders	associated with	fever
+other gastrointestinal disorders	associated with	GI bleeding
+gastric ulcer	caused by	H. pylori infection
+gastric ulcer	treated with	proton pump inhibitors
+gastric ulcer	diagnosed by	endoscopy
+gastric ulcer	presents with	epigastric pain
+gastric ulcer	associated with	NSAID use
+duodenal ulcer	caused by	H. pylori infection
+duodenal ulcer	treated with	antibiotics
+duodenal ulcer	diagnosed by	endoscopy
+duodenal ulcer	presents with	epigastric pain
+peptic ulcer disease	associated with	NSAID use
+peptic ulcer disease	treated with	proton pump inhibitors
+peptic ulcer disease	caused by	H. pylori infection
+gastroesophageal reflux disease	associated with	esophagitis
+gastroesophageal reflux disease	treated with	proton pump inhibitors
+gastroesophageal reflux disease	risk factor for	Barrett's esophagus
+irritable bowel syndrome	associated with	abdominal pain
+irritable bowel syndrome	treated with	dietary modification
+irritable bowel syndrome	diagnosed by	Rome criteria
+inflammatory bowel disease	includes	Crohn's disease
+inflammatory bowel disease	associated with	colorectal cancer
+inflammatory bowel disease	treated with	corticosteroids
+inflammatory bowel disease	presents with	diarrhea
+Crohn's disease	causes	fistula
+Crohn's disease	affects	small intestine
+Crohn's disease	treated with	biologic therapy
+ulcerative colitis	causes	rectal bleeding
+ulcerative colitis	treated with	aminosalicylates
+gastritis	associated with	H. pylori infection
+gastritis	presents with	epigastric pain
+gastritis	treated with	antibiotics
+pancreatitis	causes	abdominal pain
+pancreatitis	complications	pseudocyst
+pancreatitis	treated with	IV fluids
+celiac disease	caused by	gluten sensitivity
+celiac disease	associated with	iron deficiency anemia
+celiac disease	diagnosed by	tissue transglutaminase test
+lactose intolerance	associated with	bloating
+diverticulitis	presents with	left lower quadrant pain
+diverticulitis	treated with	antibiotics
+diverticulosis	associated with	aging
+appendicitis	presents with	right lower quadrant pain
+bowel obstruction	presents with	vomiting
+paralytic ileus	associated with	recent surgery
+ileus	presents with	abdominal distension
+gallstone disease	causes	biliary colic
+gallstone disease	treated with	cholecystectomy
+cholecystitis	associated with	fever
+cholecystitis	treated with	antibiotics
+biliary obstruction	causes	jaundice
+gastroenteritis	causes	diarrhea
+hemorrhoids	present with	rectal bleeding
+malabsorption	causes	nutrient deficiency
+short bowel syndrome	causes	malnutrition
+small intestinal bacterial overgrowth	associated with	bloating
+intestinal ischemia	results in	mesenteric infarction
+Mallory-Weiss tear	causes	hematemesis
+pseudomembranous colitis	associated with	antibiotic use
+esophagitis	associated with	GERD
+peptic ulcer disease	treated with	H. pylori eradication therapy
+intestinal ischemia	associated with	vascular disease
+ileitis	presents with	right lower quadrant pain
+volvulus	presents with	abdominal distension
+intussusception	presents with	abdominal pain
+diverticular disease	is associated with	low fiber diet
+biliary colic	caused by	gallstones
+gallstone ileus	causes	intestinal obstruction
+celiac disease	associated with	dermatitis herpetiformis
+gastrointestinal infections	caused by	norovirus
+gastrointestinal infections	associated with	dehydration
+gastrointestinal infections	treated with	fluids
+norovirus infection	causes	diarrhea
+salmonella infection	caused by	foodborne exposure
+campylobacter infection	associated with	poultry
+Clostridioides difficile infection	associated with	antibiotic exposure
+food poisoning	causes	vomiting
+esophageal varices	associated with	portal hypertension
+variceal bleeding	complication of	portal hypertension
+esophageal varices	treated with	endoscopic band ligation
+portal hypertension	produces	esophageal varices
+esophageal cancer	associated with	Barrett's esophagus
+colorectal cancer	screening recommended with	colonoscopy
+colon polyps	risk factor for	colorectal cancer
+fecal occult blood test	used for	colorectal cancer screening
+colonoscopy	diagnostic for	colorectal cancer
+colorectal cancer	treated with	chemotherapy
+gastrointestinal bleed	result of	esophageal varices
+colorectal cancer	prevention with	colonoscopy
+colorectal cancer	diagnosed by	colonoscopy

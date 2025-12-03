@@ -1,0 +1,100 @@
+device	causes	infection
+device	causes	bleeding
+device	causes	thrombosis
+device	causes	hematoma
+device	causes	seroma
+device	causes	dislodgement
+device	causes	malposition
+device	causes	fracture
+device	causes	occlusion
+device	causes	stenosis
+device	causes	migration
+device	causes	nerve injury
+device	causes	tissue damage
+device	associated with	readmission
+device	associated with	reoperation
+device	associated with	mortality
+device	associated with	surgical-site infection
+device	associated with	wound dehiscence
+device	associated with	sepsis
+device	associated with	pain
+device	increases risk of	infection
+device	increases risk of	bleeding
+device	increases risk of	thrombosis
+device	increases risk of	dislocation
+device	increases risk of	migration
+device	increases risk of	failure
+device	increases risk of	rejection
+implant	causes	infection
+implant	causes	bleeding
+implant	causes	dislocation
+implant	causes	loosening
+implant	causes	necrosis
+implant	causes	pain
+implant	causes	nerve injury
+implant	causes	fracture
+implant	associated with	readmission
+implant	associated with	reoperation
+implant	associated with	mortality
+implant	associated with	surgical-site infection
+implant	associated with	seroma
+implant	associated with	hematoma
+implant	associated with	migration
+implant	associated with	rejection
+implant	increases risk of	infection
+implant	increases risk of	bleeding
+implant	increases risk of	necrosis
+implant	increases risk of	pain
+implant	increases risk of	nerve injury
+graft	causes	infection
+graft	causes	thrombosis
+graft	causes	stenosis
+graft	causes	occlusion
+graft	causes	rejection
+graft	causes	pain
+graft	causes	ischemia
+graft	causes	necrosis
+graft	associated with	readmission
+graft	associated with	reoperation
+graft	associated with	mortality
+graft	associated with	surgical-site infection
+graft	associated with	migration
+graft	associated with	loosening
+graft	associated with	ischemia
+graft	associated with	necrosis
+graft	increases risk of	infection
+graft	increases risk of	thrombosis
+graft	increases risk of	rejection
+graft	increases risk of	ischemia
+graft	leads to	hemorrhage
+prosthesis	causes	infection
+prosthesis	causes	dislocation
+prosthesis	causes	loosening
+prosthesis	causes	pain
+prosthesis	associated with	readmission
+prosthesis	associated with	reoperation
+prosthesis	associated with	mortality
+prosthesis	associated with	surgical-site infection
+prosthesis	increases risk of	infection
+prosthesis	increases risk of	dislocation
+prosthesis	increases risk of	loosening
+prosthesis	increases risk of	pain
+implantable device	associated with	readmission
+implantable device	associated with	surgical-site infection
+implantable device	increases risk of	infection
+implantable device	increases risk of	dislocation
+device component	causes	infection
+device component	causes	dislodgement
+device component	causes	failure
+graft material	causes	infection
+graft material	causes	thrombosis
+graft material	causes	stenosis
+graft material	causes	occlusion
+graft material	causes	rejection
+surgical technique	associated with	infection
+surgical technique	associated with	reoperation
+surgical technique	associated with	complication
+anesthesia	associated with	mortality
+anesthesia	associated with	complication
+hospitalization	associated with	readmission
+hospitalization	associated with	mortality

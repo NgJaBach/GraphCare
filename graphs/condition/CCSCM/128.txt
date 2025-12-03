@@ -1,0 +1,100 @@
+asthma	is a	chronic inflammatory airway disease
+airway hyperresponsiveness	is characteristic of	asthma
+airway remodeling	occurs in	asthma
+eosinophils	elevated in	asthma
+atopy	is associated with	asthma
+dust mites	triggers	asthma
+pollen	triggers	asthma
+cigarette smoke	triggers	asthma
+air pollution	triggers	asthma
+cold air	triggers	asthma
+exercise	triggers	asthma
+seasonal variation	influences	asthma symptoms
+viral infection	triggers	asthma exacerbations
+obesity	worsens	asthma control
+obesity	is associated with	asthma severity
+allergic rhinitis	is comorbidity with	asthma
+GERD	is comorbidity with	asthma
+airway inflammation	drives	asthma symptoms
+airway inflammation	reduces	lung function
+bronchodilators	provide	symptom relief
+short-acting beta-agonists	are used for	acute relief
+albuterol	is a	beta-agonist
+inhaled corticosteroids	are used for	asthma maintenance
+inhaled corticosteroids	reduce	airway inflammation
+inhaled corticosteroids	reduce	exacerbations
+montelukast	is a	leukotriene receptor antagonist
+montelukast	used for	asthma management
+omalizumab	is used for	severe allergic asthma
+omalizumab	reduces	IgE levels
+IgE	binds	allergens
+allergen exposure	increases	asthma symptoms
+inhaler technique	improves	asthma control
+action plan	improves	asthma control
+adherence	influences	asthma outcomes
+education program	improves	asthma control
+inhaler device	affects	adherence
+spirometry	measures	airway obstruction
+FEV1	indicates	asthma control
+airflow limitation	is measured by	spirometry
+fractional exhaled nitric oxide	indicates	airway inflammation
+spirometry	used for	asthma assessment
+airflow obstruction	characterizes	asthma
+airway hyperresponsiveness	predicts	asthma attack risk
+asthma phenotypes	include	eosinophilic asthma
+eosinophilic asthma	responds to	anti-IL5 therapies
+neutrophilic asthma	less responsive to	corticosteroids
+mepolizumab	targets	IL-5
+reslizumab	targets	IL-5
+dupilumab	targets	IL-4 receptor
+IL-4	involved in	Th2 response
+airway hyperresponsiveness	is influenced by	Th2 cytokines
+asthma	is associated with	nasal polyps
+aspirin-exacerbated respiratory disease	coexists with	asthma
+nasal polyps	occur with	asthma
+airway smooth muscle	hypertrophy	in asthma
+airway remodeling	contributes to	persistent airflow limitation
+blood eosinophils	correlate with	asthma severity
+pediatric asthma	presents in	childhood
+pregnancy	affects	asthma control
+adherence	influences	asthma control
+smoking cessation	improves	asthma control
+dust exposure	worsens	asthma symptoms
+mold exposure	worsens	asthma symptoms
+cockroach allergen	triggers	asthma symptoms
+seasonal allergen exposure	triggers	asthma symptoms
+airway epithelial barrier dysfunction	contributes to	asthma pathogenesis
+cytokines	mediate	airway inflammation
+Th2-high asthma	is characterized by	eosinophilia
+eosinophils	indicate	Th2-high asthma
+family history	increases	asthma risk
+prenatal exposure	influences	asthma risk
+preterm birth	increases	asthma risk
+viral infections	increase	asthma risk
+asthma symptoms	disrupt	sleep
+nocturnal asthma symptoms	disturb	sleep
+emergency department visits	indicate	poor asthma control
+asthma-related hospitalizations	increase	healthcare costs
+digital health tools	monitor	asthma control
+peak flow monitoring	indicates	asthma control
+controller therapy	reduces	exacerbations
+rapid relief	provided by	short-acting beta-agonists
+rapid relief	is achieved by	beta-agonists
+budesonide	is a	inhaled corticosteroid
+fluticasone	is a	inhaled corticosteroid
+prednisone	is a	systemic corticosteroid
+systemic steroids	treat	severe asthma attacks
+oral steroids	used for	severe asthma attacks
+asthma control	is achieved with	guideline-directed therapy
+guideline-directed therapy	achieves	asthma control
+educational interventions	improve	inhaler technique
+mepolizumab	improves	asthma control
+nighttime symptoms	correlate with	poor asthma control
+sick days	lead to	asthma exacerbations
+asthma exacerbations	require	systemic steroids
+education	improves	adherence
+family education	improves	asthma control
+pediatric asthma	associated with	school absenteeism
+asthma control	impacts	school performance
+airway remodeling	leads to	persistent airway obstruction
+asthma	affects	pediatric population

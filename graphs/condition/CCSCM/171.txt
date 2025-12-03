@@ -1,0 +1,100 @@
+menstrual disorders	is a	gynecologic condition
+amenorrhea	is a	menstrual disorder
+amenorrhea	may indicate	pregnancy
+amenorrhea	may indicate	hypothalamic-pituitary-ovarian axis dysfunction
+oligomenorrhea	is a	menstrual irregularity
+oligomenorrhea	associated with	polycystic ovary syndrome
+dysmenorrhea	is a	menstrual pain
+dysmenorrhea	associated with	prostaglandin excess
+dysmenorrhea	treated with	NSAIDs
+dysmenorrhea	managed with	heat therapy
+menorrhagia	is a	heavy menstrual bleeding
+menorrhagia	associated with	uterine fibroids
+heavy menstrual bleeding	associated with	iron deficiency anemia
+iron deficiency anemia	is a	complication of heavy menstrual bleeding
+menstrual disorders	impact on	fertility
+infertility	may result from	anovulation
+anovulation	observed in	polycystic ovary syndrome
+polycystic ovary syndrome	associated with	insulin resistance
+polycystic ovary syndrome	associated with	obesity
+polycystic ovary syndrome	associated with	hyperandrogenism
+polycystic ovary syndrome	increases risk for	infertility
+endometriosis	associated with	dysmenorrhea
+endometriosis	may cause	infertility
+uterine fibroids	cause	abnormal uterine bleeding
+uterine fibroids	associated with	menorrhagia
+uterine fibroids	may cause	pelvic pain
+abnormal uterine bleeding	is a	symptom
+abnormal uterine bleeding	may result from	thyroid disease
+thyroid disease	associated with	menstrual cycle
+hypothyroidism	associated with	amenorrhea
+hyperthyroidism	associated with	oligomenorrhea
+perimenopause	is a	stage of reproductive aging
+menopause	is a	cessation of menses
+perimenopause	causes	menstrual irregularity
+intermenstrual bleeding	is a	symptom
+intermenstrual bleeding	may indicate	cervical polyps
+cervical polyps	may cause	irregular bleeding
+uterine polyps	associated with	abnormal uterine bleeding
+endometrial hyperplasia	associated with	abnormal uterine bleeding
+endometrial cancer	associated with	obesity
+thyroid disease	associated with	menstrual irregularities
+anovulatory cycle	observed in	polycystic ovary syndrome
+pregnancy	causes	amenorrhea
+lactation	causes	amenorrhea
+oral contraceptives	regulate	menstrual cycle
+hormonal contraception	regulate	menstrual cycle
+nonsteroidal anti-inflammatory drugs	relieve	dysmenorrhea
+tranexamic acid	reduce	menstrual blood loss
+iron supplementation	improve	iron deficiency anemia
+transfusion	required for	severe anemia
+iron deficiency anemia	causes	fatigue
+menstrual disorders	impact on	work productivity
+work productivity	affected by	menstrual disorders
+dysmenorrhea	linked to	prostaglandin synthesis
+prostaglandin synthesis	elevated in	dysmenorrhea
+endometriosis	associated with	infertility
+pelvic inflammatory disease	may cause	abnormal uterine bleeding
+pelvic inflammatory disease	may cause	abdominal pain
+uterine fibroids	treatment with	hysterectomy
+hysterectomy	results in	loss of menstruation
+uterine artery embolization	alternative to	hysterectomy
+oral progestins	used for	irregular bleeding
+levonorgestrel-releasing intrauterine system	treats	heavy bleeding
+spotting	is a	mild bleeding
+spotting	occurs with	perimenopause
+combined oral contraceptive pill	regulate	menstrual cycle
+progestin-only pills	regulate	menstrual cycle
+progesterone therapy	manage	heavy bleeding
+smoking	associated with	menstrual irregularity
+excessive exercise	associated with	amenorrhea
+anorexia nervosa	associated with	amenorrhea
+female athlete triad	associated with	menstrual irregularity
+pregnancy test	used for	pregnancy confirmation
+menstrual disorders	increase	healthcare utilization
+dysmenorrhea	occurs in	adolescents
+amenorrhea	occurs during	pregnancy
+menstrual irregularity	common in	adolescents
+iron deficiency anemia	diagnosed by	ferritin
+ferritin	reflects	iron stores
+hemoglobin	decreased in	anemia
+red blood cell indices	altered in	anemia
+menstrual disorders	assessed with	pelvic ultrasound
+pelvic ultrasound	detects	uterine fibroids
+ultrasound	used for	evaluation of abnormal uterine bleeding
+intrauterine device	used for	contraception
+endometrial biopsy	performed for	abnormal uterine bleeding
+polypectomy	treatment for	endometrial polyps
+hysteroscopy	used for	evaluation of uterine cavity
+GnRH agonists	used for	endometriosis
+surgical management	indicated for	uterine fibroids
+GnRH agonists	suppress	ovarian function
+oral iron	treat	iron deficiency anemia
+calcium supplementation	support	bone health
+menstrual disorders	linked to	mood disorders
+premenstrual syndrome	characterized by	emotional symptoms
+premenstrual syndrome	can cause	functional impairment
+premenstrual dysphoric disorder	is a	mood disorder
+dysmenorrhea	associated with	anxiety
+lactation	suppresses	ovulation
+menstrual disorders	require	clinical assessment

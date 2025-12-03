@@ -1,0 +1,100 @@
+pericarditis	is a	inflammatory condition
+pericarditis	causes	chest pain
+pericarditis	leads to	pericardial effusion
+pericarditis	may cause	tamponade
+pericarditis	treated with	NSAIDs
+pericarditis	treated with	colchicine
+pericarditis	treated with	corticosteroids
+pericarditis	diagnosed by	electrocardiography
+pericarditis	diagnosed by	echocardiography
+pericarditis	monitored by	CRP
+pericarditis	monitored by	ESR
+pericarditis	associated with	autoimmune disease
+pericarditis	associated with	viral infection
+pericarditis	prognosis with	treatment adherence
+pericarditis	resolves with	therapies
+pericarditis	complication	arrhythmia
+pericarditis	progression to	constrictive pericarditis
+endocarditis	is an	infection
+endocarditis	caused by	bacteria
+endocarditis	caused by	streptococcus
+endocarditis	caused by	staphylococcus
+endocarditis	treated with	antibiotics
+endocarditis	diagnosed by	blood culture
+endocarditis	diagnosed by	echocardiography
+endocarditis	associated with	vegetations
+endocarditis	leads to	regurgitation
+endocarditis	leads to	heart failure
+endocarditis	risk factor for	embolism
+endocarditis	requires	valve surgery
+endocarditis	associated with	IV drug use
+endocarditis	prognosis with	early treatment
+endocarditis	presents with	fever
+endocarditis	presents with	murmur
+endocarditis	predisposed by	dental procedure
+endocarditis	complication	stroke
+endocarditis	complication	kidney injury
+endocarditis	monitored by	inflammatory markers
+endocarditis	reduces	life expectancy
+endocarditis	incidence	rare
+myocarditis	is a	inflammatory condition
+myocarditis	presents with	chest pain
+myocarditis	presents with	dyspnea
+myocarditis	detected by	troponin elevation
+myocarditis	detected by	cardiac MRI
+myocarditis	diagnosed by	endomyocardial biopsy
+myocarditis	treated with	immunosuppressants
+myocarditis	treated with	IVIG
+myocarditis	treated with	steroids
+myocarditis	leads to	heart failure
+myocarditis	causes	arrhythmia
+myocarditis	risk factor for	sudden death
+myocarditis	monitored by	ECG
+myocarditis	monitored by	echocardiography
+myocarditis	associated with	viral infection
+myocarditis	associated with	autoimmune disease
+myocarditis	prognosis with	recovery
+myocarditis	complication	cardiogenic shock
+myocarditis	triggered by	coxsackie virus
+myocarditis	treated with	heart failure therapy
+myocarditis	pathology shows	inflammatory infiltrate
+cardiomyopathy	is a	heart muscle disease
+dilated cardiomyopathy	is a	cardiomyopathy subtype
+hypertrophic cardiomyopathy	is a	cardiomyopathy subtype
+restrictive cardiomyopathy	is a	cardiomyopathy subtype
+cardiomyopathy	presents with	dyspnea
+cardiomyopathy	presents with	edema
+cardiomyopathy	associated with	reduced ejection fraction
+cardiomyopathy	treated with	beta blockers
+cardiomyopathy	treated with	ACE inhibitors
+cardiomyopathy	treated with	diuretics
+cardiomyopathy	managed with	device therapy
+cardiomyopathy	monitored by	echocardiography
+cardiomyopathy	monitored by	MRI
+cardiomyopathy	risk factor for	arrhythmia
+cardiomyopathy	risk factor for	sudden death
+cardiomyopathy	prognosis with	heart transplant
+dilated cardiomyopathy	leads to	heart failure
+hypertrophic cardiomyopathy	causes	obstruction
+hypertrophic cardiomyopathy	increases	risk of arrhythmia
+cardiomyopathy	diagnosed by	echocardiography
+cardiomyopathy	diagnosed by	MRI
+dilated cardiomyopathy	genetic basis	heredity
+restrictive cardiomyopathy	presents with	edema
+cardiomyopathy	associated with	viral infection
+cardiomyopathy	increases	hospitalization risk
+cardiomyopathy	requires	heart transplantation
+cardiomyopathy	presents with	chest pain
+cardiomyopathy	reduces	cardiac output
+cardiomyopathy	caused by	genetic mutation
+cardiomyopathy	prognosis with	therapy adherence
+cardiomyopathy	responds to	exercise restriction
+cardiomyopathy	monitored by	biomarker testing
+cardiomyopathy	associated with	arrhythmia
+cardiomyopathy	leads to	edema formation
+cardiomyopathy	associated with	left ventricular dysfunction
+cardiomyopathy	managed with	lifestyle modification
+cardiomyopathy	presents with	fatigue
+cardiomyopathy	diagnosed by	endomyocardial biopsy
+cardiomyopathy	subclassified as	functional class
+cardiomyopathy	managed with	exercise restriction

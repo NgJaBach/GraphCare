@@ -1,0 +1,100 @@
+epilepsy	is characterized by	convulsions
+epilepsy	is a	neurological disorder
+convulsions	are manifestations of	epilepsy
+epilepsy	may cause	cognitive impairment
+epilepsy	is diagnosed by	electroencephalography
+electroencephalography	detects	epileptiform discharges
+epilepsy	treated with	antiseizure medications
+carbamazepine	is a	antiseizure medication
+levetiracetam	is a	antiseizure medication
+valproate	is a	antiseizure medication
+epilepsy	may respond to	vagus nerve stimulation
+vagus nerve stimulation	is a	therapy
+epilepsy	can be managed with	ketogenic diet
+carbamazepine	has side effect	dizziness
+levetiracetam	has side effect	fatigue
+valproate	has side effect	weight gain
+valproate	contraindicated in	hepatic disease
+epilepsy	can be complicated by	status epilepticus
+status epilepticus	requires	urgent management
+epilepsy	comorbid with	depression
+epilepsy	comorbid with	anxiety
+epilepsy	comorbid with	sleep disorder
+epilepsy	reduces	quality of life
+epilepsy	increases risk of	injury during seizures
+convulsions	can cause	tongue injury
+convulsions	can lead to	loss of consciousness
+epilepsy	increases risk of	SUDEP
+SUDEP	is a	fatal complication
+epilepsy	evaluated with	brain MRI
+brain MRI	helps identify	structural lesions
+epilepsy	may be caused by	brain lesion
+temporal lobe	is associated with	focal epilepsy
+focal epilepsy	is a type of	epilepsy
+generalized epilepsy	is a type of	epilepsy
+Lennox-Gastaut syndrome	is associated with	cognitive impairment
+Lennox-Gastaut syndrome	requires	polytherapy
+seizure diary	helps	seizure control
+epilepsy management	includes	lifestyle modification
+lifestyle modification	includes	regular sleep
+regular sleep	reduces	seizure frequency
+alcohol	lowers	seizure threshold
+sleep deprivation	triggers	seizures
+photosensitivity	triggers	seizures
+photosensitivity	is associated with	certain epilepsy syndromes
+epilepsy	influences	driving restrictions
+driving restrictions	apply to	epilepsy patients
+pregnancy	requires	antiseizure medication adjustment
+antiseizure medication adjustment	aims for	balance between efficacy and safety
+valproate	is associated with	teratogenic risk
+hormonal contraceptives	interact with	antiseizure drugs
+carbamazepine	induces	hepatic enzymes
+hepatic enzymes	metabolize	antiseizure drugs
+enzyme induction	reduces	drug levels
+drug interactions	affect	epilepsy management
+epilepsy	requires	medication adherence
+medication adherence	improves	seizure control
+seizure freedom	indicates	seizure control
+seizure recurrence	indicates	treatment failure
+intravenous benzodiazepines	treat	acute seizures
+diazepam	used for	acute seizures
+lorazepam	used for	status epilepticus
+status epilepticus	defined as	prolonged seizure activity
+emergency department	manages	seizures
+intensive care unit	treats	status epilepticus
+epilepsy	prognosis	variable
+neuroimaging	used for	epilepsy evaluation
+electroencephalogram	supports	epilepsy diagnosis
+neural network	used for	epilepsy prediction
+amygdala	involved in	temporal lobe epilepsy
+hippocampus	involved in	seizures
+temporal lobe epilepsy	presents with	aura
+aura	precedes	seizures
+genetic predisposition	contributes to	epilepsy
+SCN1A mutation	associated with	epilepsy
+brain injury	is a risk factor for	epilepsy
+neuroinflammation	related to	seizure activity
+seizure diary	records	seizure events
+epilepsy management	aims to achieve	seizure freedom
+seizure freedom	is a goal of	epilepsy treatment
+epilepsy	impacts	work productivity
+epilepsy	causes	caregiver burden
+caregiver burden	increases	psychosocial stress
+epilepsy	affects	sleep quality
+sleep quality	influences	seizure control
+epilepsy	associated with	cognitive decline
+antiseizure drugs withdrawal	risks	seizure recurrence
+antiseizure drugs	require	periodic monitoring
+liver function tests	monitor	valproate therapy
+valproate therapy	requires	liver function monitoring
+healthcare costs	rise with	uncontrolled seizures
+uncontrolled seizures	lead to	hospital admission
+hospital admission	associated with	status epilepticus
+epilepsy management guidelines	recommend	regular review
+regular review	improves	treatment adherence
+seizure onset	occurs at	age
+age	influences	epilepsy subtype distribution
+epilepsy	requires	multidisciplinary care
+multidisciplinary team	provides	epilepsy management
+epilepsy	leads to	long-term disability
+long-term disability	affects	quality of life

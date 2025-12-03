@@ -1,0 +1,100 @@
+medical examination	includes	vital signs
+vital signs	include	temperature
+vital signs	include	heart rate
+vital signs	include	respiratory rate
+vital signs	include	blood pressure
+blood pressure	measured by	sphygmomanometer
+sphygmomanometer	measures	blood pressure
+oxygen saturation	measured by	pulse oximeter
+pulse oximeter	monitors	oxygenation
+temperature	indicates	fever
+fever	suggests	infection
+pain	assessed by	pain scale
+pain scale	records	pain intensity
+body mass index	correlates with	metabolic risk
+body mass index	influences	surgical risk
+age	correlates with	mortality
+sex	associated with	cardiovascular risk
+smoking status	increases	respiratory risk
+medical history	informs	differential diagnosis
+physical examination	yields	abnormal findings
+lung auscultation	detects	crackles
+lung auscultation	detects	wheezes
+peripheral pulse	indicates	perfusion status
+jugular venous pressure	indicates	volume status
+skin	indicates	perfusion
+mucous membranes	show	hydration status
+abdomen	reveals	tenderness
+abdomen	reveals	distension
+abdomen	yields	rebound tenderness
+neurological exam	assesses	consciousness
+level of consciousness	measured by	Glasgow Coma Scale
+pupil reaction	tests	cranial nerve function
+reflexes	assess	neuromuscular status
+gait	evaluates	mobility
+mental status	assesses	cognitive function
+orientation	evaluates	confusion
+skin turgor	indicates	hydration
+capillary refill	indicates	circulatory status
+edema	indicates	fluid overload
+weight trend	indicates	nutritional status
+hydration status	assessed by	mucous membranes
+urinalysis	detects	infection
+urine output	reflects	kidney function
+blood glucose	indicates	glycemic control
+lipid panel	assesses	cholesterol disorders
+creatinine	indicates	kidney function
+blood urea nitrogen	indicates	renal function
+electrolyte panel	assesses	electrolyte balance
+liver function tests	assess	hepatic function
+bilirubin	indicates	liver dysfunction
+ALT	indicates	liver injury
+AST	indicates	liver injury
+troponin	indicates	myocardial injury
+BNP	indicates	heart failure
+D-dimer	suggests	thromboembolism
+pregnancy test	rules out	pregnancy
+complete blood count	assesses	anemia
+hemoglobin	indicates	anemia
+hematocrit	indicates	anemia
+platelet count	indicates	bleeding risk
+lactate	indicates	tissue hypoperfusion
+arterial blood gas	measures	acid-base balance
+pH	indicates	acid-base status
+pCO2	indicates	respiratory function
+HCO3-	indicates	metabolic status
+base deficit	indicates	metabolic acidosis
+imaging study	clarifies	diagnosis
+chest radiograph	assesses	cardiopulmonary status
+CT scan	detects	pathology
+MRI	evaluates	soft tissue integrity
+ultrasound	visualizes	organ structure
+EKG	monitors	heart rhythm
+ECG	detects	arrhythmia
+triage category	determines	urgency
+admission decision	depends on	evaluation results
+risk score	predicts	mortality
+APACHE II score	predicts	critical illness risk
+SOFA score	predicts	organ failure risk
+Glasgow Coma Scale	assesses	consciousness level
+coma scale	used for	level of consciousness
+nursing assessment	contributes to	care plan
+clinical impression	informs	diagnosis
+differential diagnosis	guided by	evaluation
+documentation quality	affects	data reliability
+data completeness	affects	predictive performance
+electronic health record	contains	examination data
+structured data	enables	predictive modeling
+free text notes	provide	clinical clues
+coding accuracy	affects	billing accuracy
+timeliness of evaluation	affects	patient flow
+inter-rater reliability	affects	assessment consistency
+standardized assessment	improves	comparability
+clinical guidelines	influence	examination protocol
+patient-reported symptoms	inform	evaluation
+physical exam	documented in	medical record
+consent	required for	invasive examination
+privacy protections	govern	patient data
+data annotation	supports	machine learning
+clinical team	collaborates with	radiology
+nursing notes	update	patient status

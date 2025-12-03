@@ -1,0 +1,113 @@
+nausea and vomiting	is a symptom of	pregnancy
+nausea and vomiting	is a symptom of	gastroenteritis
+nausea and vomiting	is a symptom of	gastritis
+nausea and vomiting	is a symptom of	peptic ulcer disease
+nausea and vomiting	is a symptom of	gastroesophageal reflux disease
+nausea and vomiting	is a symptom of	pancreatitis
+nausea and vomiting	is a symptom of	migraine
+nausea and vomiting	is a symptom of	food poisoning
+nausea and vomiting	is a symptom of	intestinal obstruction
+nausea and vomiting	is a symptom of	hyperemesis gravidarum
+nausea and vomiting	is a symptom of	biliary colic
+nausea and vomiting	is a symptom of	pancreatobiliary disease
+nausea and vomiting	occurs_with	dehydration
+nausea and vomiting	occurs_with	electrolyte disturbance
+nausea and vomiting	leads_to	weight loss
+nausea and vomiting	leads_to	malnutrition
+pregnancy	increases	nausea and vomiting
+opioid therapy	increases	nausea and vomiting
+chemotherapy	increases	nausea and vomiting
+alcohol use	increases	nausea and vomiting
+motion sickness	causes	nausea and vomiting
+gastroparesis	causes	nausea and vomiting
+viral infection	causes	nausea and vomiting
+anxiety disorder	contributes_to	nausea and vomiting
+diabetic ketoacidosis	presents_with	nausea and vomiting
+acute pancreatitis	presents_with	nausea and vomiting
+kidney failure	presents_with	nausea and vomiting
+urinary tract infection	presents_with	nausea and vomiting
+postoperative period	presents_with	nausea and vomiting
+drug reaction	presents_with	nausea and vomiting
+pregnancy test	is_ordered_for	nausea and vomiting
+electrolyte panel	is_ordered_for	dehydration
+liver function tests	are_ordered_for	nausea and vomiting evaluation
+pregnancy test	detects	pregnancy
+ondansetron	treats	nausea and vomiting
+metoclopramide	treats	nausea and vomiting
+promethazine	treats	nausea and vomiting
+dimenhydrinate	treats	nausea and vomiting
+prochlorperazine	treats	nausea and vomiting
+granisetron	treats	nausea and vomiting
+aprepitant	prevents	chemotherapy-induced nausea and vomiting
+dexamethasone	adjuncts	chemotherapy-induced nausea and vomiting
+scopolamine	prevents	motion sickness
+meclizine	treats	motion sickness-related nausea
+ondansetron	reduces	vomiting
+intravenous fluids	treats	dehydration
+oral rehydration solution	treats	dehydration
+clear liquids diet	improves	nausea and vomiting
+fasting	worsens	nausea and vomiting
+hydration status	improves_with	fluids
+electrolyte disturbance	increases	arrhythmia risk
+dehydration	increases	hospitalization risk
+gastric stasis	associated_with	nausea and vomiting
+vomiting	predisposes_to	aspiration
+emesis	indicates	dehydration
+pregnant_woman	experiences	morning sickness
+morning sickness	is_related_to	nausea and vomiting
+hyperemesis gravidarum	requires	intravenous fluids
+gallbladder disease	presents_with	nausea and vomiting
+hepatitis	presents_with	nausea and vomiting
+pediatric_patient	presents_with	nausea and vomiting
+elderly_patient	at_risk_for	dehydration_from_nausea_and_vomiting
+ileus	leads_to	nausea and vomiting
+gastroparesis	presents_with	nausea and vomiting
+diabetic_neuropathy	associated_with	gastroparesis
+antibiotics	can_cause	nausea and vomiting
+opioids	cause	nausea and vomiting
+uremia	causes	nausea and vomiting
+pancreatic_insufficiency	associated_with	nausea and vomiting
+preeclampsia	presents_with	nausea and vomiting
+sepsis	presents_with	nausea and vomiting
+shock	presents_with	nausea and vomiting
+morning_sickness	relates_to	nausea and vomiting
+nausea and vomiting	in_pregnancy	risk_of_hyperemesis_gravidarum
+nasogastric_tube	used_for	nausea and vomiting
+nausea_and_vomiting	reduces_quality_of_life
+antiemetic_prophylaxis	reduces	postoperative_nausea_and_vomiting
+elderly_patient	at_risk_for	dehydration
+pediatric_patient	at_risk_for	dehydration
+sepsis	increases	nausea_and_vomiting
+pregnancy	risk_of	hyperemesis_gravidarum
+postoperative_nausea_and_vomiting	managed_with	antiemetics
+postoperative_nausea_and_vomiting	reduces	patient_discomfort
+volume_status	monitored_by	intravenous_fluids
+electrolyte_disturbance	monitored_by	electrolyte_panel
+glucose_level	influences	nausea_and_vomiting
+diabetic_patient	at_risk_for	gastroparesis
+gastroparesis	worsens_with	solid_foods
+viral_infection	resolves_with	hydration
+nausea_and_vomiting	persists_in	elderly
+weight_loss	indicates	malnutrition
+vomiting	increases	aspiration_risk
+gastric_emptying	slows_with	diabetic_neuropathy
+aspiration	leads_to	pneumonia
+cancer_patient	experiences	chemotherapy-induced_nausea
+postoperative_period	increases	nausea_and_vomiting
+pregnancy	shows	morning sickness
+morning_sickness	resolves_by	second_trimester
+hyperemesis_gravidarum	treatment	intravenous_fluids
+gallbladder_disease	causes	vomiting
+liver_disease	causes	nausea and vomiting
+pediatric_illness	presents_with	vomiting
+elderly_patient	presents_with	nausea and vomiting
+ileus	causes	nausea and vomiting
+gastroparesis	common_in	diabetes
+diabetic_neuropathy	risk_factor_for	gastroparesis
+antibiotics	can_cause	nausea and vomiting
+opioids	cause	nausea and vomiting
+uremia	can_cause	nausea and vomiting
+pancreatic_insufficiency	can_cause	nausea and vomiting
+shock	can_cause	nausea and vomiting
+pregnancy	may_be_associated_with	morning sickness
+nausea_and_vomiting	influences	quality_of_life

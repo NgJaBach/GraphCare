@@ -1,0 +1,97 @@
+otitis media	is a	middle ear infection
+otitis externa	is a	outer ear infection
+cholesteatoma	causes	conductive hearing loss
+tympanic membrane perforation	causes	conductive hearing loss
+otosclerosis	results in	conductive hearing loss
+sensorineural hearing loss	is a	nerve-related hearing loss
+presbycusis	is a	age-related hearing loss
+tinnitus	presents with	ear ringing
+vertigo	presents with	spinning sensation
+Meniere's disease	is a	vestibular disorder
+vestibular neuritis	is a	vestibular disorder
+acoustic neuroma	causes	unilateral hearing loss
+unilateral hearing loss	is a	sensory deficit
+otitis media with effusion	causes	conductive hearing loss
+tympanosclerosis	is a	middle ear change
+tympanic membrane retraction	is a	middle ear pathology
+cataract	is a	lens opacity
+glaucoma	is a	optic neuropathy
+age-related macular degeneration	causes	central vision loss
+diabetic retinopathy	causes	vision impairment
+retinal detachment	causes	vision loss
+conjunctivitis	presents with	red eye
+blepharitis	presents with	eyelid inflammation
+uveitis	causes	vision loss
+optic neuritis	presents with	vision loss
+macular edema	causes	vision loss
+choroidal neovascularization	causes	vision loss
+diplopia	presents with	double vision
+strabismus	presents with	diplopia
+amblyopia	results in	decreased visual acuity
+myopia	is a	refractive error
+hyperopia	is a	refractive error
+presbyopia	is a	age-related refractive change
+dry eye syndrome	causes	ocular discomfort
+conjunctival hemorrhage	presents with	eye redness
+corneal ulcer	causes	eye pain
+optic atrophy	results in	vision loss
+scleritis	is a	ocular inflammatory disease
+ptosis	is a	eyelid disorder
+anosmia	is a	smell deficit
+hyposmia	is a	smell deficit
+dysgeusia	is a	taste dysfunction
+ageusia	is a	taste loss
+nasal obstruction	presents with	nasal breathing difficulty
+sinusitis	causes	facial pain
+allergic rhinitis	causes	nasal obstruction
+nasal polyps	associated with	chronic rhinosinusitis
+chronic rhinosinusitis	is a	nasal sinus disease
+olfactory dysfunction	is a	sense impairment
+gustatory dysfunction	is a	taste impairment
+phantosmia	is a	smell hallucination
+olfactory bulb dysfunction	is a	brain dysfunction
+rhinorrhea	is a	nasal discharge
+nasal cavity tumor	is a	nasal tumor
+sinonasal polyposis	is a	nasal polyp condition
+allergic rhinosinusitis	causes	nasal obstruction
+nasal cancer	is a	nasal cancer
+smell loss	is a	smell deficit
+nasal dryness	is a	nasal symptom
+olfactory receptor dysfunction	is a	sense dysfunction
+nasal mucosa inflammation	is a	nasal inflammation
+sinus obstruction	is a	nasal obstruction
+olfactory nerve damage	causes	smell loss
+taste bud dysfunction	is a	taste dysfunction
+audiometry	is a	hearing test
+tympanometry	is a	middle ear test
+otoacoustic emissions	are a	cochlear function test
+ophthalmic examination	is a	eye exam
+slit lamp examination	is a	eye exam
+visual field test	is a	functional vision test
+CT scan	is a	imaging modality
+MRI	is a	imaging modality
+corticosteroids	are used for	inflammatory eye disease
+antibiotic drops	treat	ocular infection
+intravitreal injection	is a	treatment for retinopathy
+laser therapy	is a	treatment for retinal disease
+cataract surgery	is a	surgery for cataract
+corneal transplant	is a	treatment for corneal disease
+glaucoma laser therapy	is a	treatment for glaucoma
+systemic steroids	are used for	optic neuritis
+anti-VEGF therapy	is a	treatment for choroidal neovascularization
+cochlear implants	are used for	severe hearing loss
+vestibular rehab	is a	therapy for vertigo
+radiation therapy	is a	treatment for ocular cancer
+steroid drops	are used for	ocular inflammation
+antibiotics	are used for	acute otitis media
+hearing aid	is a	device for hearing improvement
+pressure equalization tube	is a	device for middle ear ventilation
+tympanoplasty	is a	surgical repair for tympanic membrane
+retinal pigment epithelium changes	is a	sign of degenerative eye disease
+macular degeneration	is a	degenerative eye disease
+retinopathy	is a	ocular complication of diabetes
+optic disc cupping	is a	sign of glaucoma
+ophthalmoplegia	is a	eye movement disorder
+anisocoria	is a	pupil size difference
+ocular hypertension	is a	risk factor for glaucoma
+vestibular aqueduct syndrome	is a	inner ear condition

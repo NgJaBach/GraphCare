@@ -1,0 +1,100 @@
+early labor	is a	obstetric event
+early labor	associated with	preterm birth
+early labor	characterized by	regular contractions
+early labor	associated with	cervical dilation
+cervical dilation	measured in	centimeters
+contractions	indicate	labor onset
+contractions	predict	labor progression
+threatened labor	is a	obstetric warning sign
+threatened labor	associated with	vaginal bleeding
+threatened labor	associated with	uterine contractions
+threatened labor	managed with	bed rest
+rupture of membranes	is a	obstetric event
+rupture of membranes	increases risk of	infection
+rupture of membranes	leads to	labor onset
+vaginal bleeding	signals	threatened labor
+vaginal discharge	indicates	rupture of membranes
+amniotic fluid leakage	is a	sign of rupture of membranes
+fetal heart rate	monitored for	labor status
+fetal distress	may result in	cesarean delivery
+preterm birth	leads to	NICU admission
+NICU admission	requires	neonatal care
+neonatal care	provided by	NICU
+neonatal respiratory distress syndrome	occurs in	premature infants
+betamethasone	is a	corticosteroid
+betamethasone	given for	fetal lung maturity
+magnesium sulfate	is a	neuroprotective agent
+magnesium sulfate	used for	preterm neuroprotection
+tocolysis	is a	management for threatened labor
+tocolysis	delays	delivery
+nifedipine	is a	calcium channel blocker
+nifedipine	used as	tocolytic
+indomethacin	is a	tocolytic
+hospitalization	required for	threatened labor
+bed rest	prescribed for	threatened labor
+IV fluids	used for	dehydration in labor
+GBS colonization	managed with	intrapartum antibiotics
+intrapartum antibiotics	used for	GBS prophylaxis
+prior preterm birth	increases risk for	preterm labor
+short interpregnancy interval	increases risk for	preterm birth
+smoking	increases risk for	preterm labor
+urinary tract infection	increases risk for	preterm birth
+infection	associated with	preterm labor
+chorioamnionitis	is a	maternal infection
+chorioamnionitis	associated with	neonatal sepsis
+fetal fibronectin	test for	preterm birth risk
+fetal fibronectin	detected in	vaginal secretions
+gestational age	influences	delivery timing
+gestational age	classifies	pregnancy term status
+term birth	defined as	37 weeks or more
+preterm birth	defined as	less than 37 weeks
+late preterm birth	occurs at	34-36 weeks
+cesarean delivery	may be performed for	fetal distress
+vaginal delivery	possible outcome of	labor
+induction of labor	used for	term or postterm labor
+cerclage	used for	cervical insufficiency
+cerclage	reduces risk of	preterm birth in cervical insufficiency
+cervical length	predicts	preterm birth risk
+fetal surveillance	monitors	fetal status
+electronic fetal monitoring	used for	fetal status evaluation
+fetal well-being	assessed by	nonstress test
+nonstress test	evaluates	fetal well-being
+placental function	influences	fetal well-being
+placental insufficiency	associated with	preterm birth
+maternal age	is a	risk factor for preterm labor
+obesity	associated with	pregnancy complications
+multiparity	associated with	labor onset timing
+infection	increases risk of	preterm labor
+cervical insufficiency	predisposes to	threatened labor
+cerclage	prevents	cervical dilation complications
+fetal growth restriction	increases risk of	perinatal morbidity
+fetal growth restriction	associated with	preterm birth
+fetal surveillance	informs	clinical decision-making
+prelabor rupture of membranes	is a	obstetric condition
+oligohydramnios	associated with	fetal distress
+polyhydramnios	associated with	gestational diabetes
+gestational diabetes	associated with	macrosomia
+macrosomia	increases risk of	shoulder dystocia
+shoulder dystocia	risk with	macrosomia
+fetal bradycardia	indicates	fetal distress
+tachysystole	indicates	excessive contractions
+tocolysis	contraindicated in	fetal distress
+fetal distress	triggers	emergency delivery
+emergency delivery	includes	cesarean section
+cesarean section	associated with	maternal morbidity
+maternal morbidity	increases risk for	postpartum complications
+postpartum hemorrhage	risk increased by	cesarean delivery
+neonatal morbidity	associated with	preterm birth
+perinatal mortality	risk increased by	extreme prematurity
+extremely preterm infant	at risk for	mortality
+neonatal infection	risk increases with	chorioamnionitis
+preterm infant	requires	respiratory support
+respiratory support	provided by	NICU
+birth weight	influences	neonatal outcomes
+apgar score	assesses	neonatal condition
+neonatal jaundice	common in	preterm infants
+bronchopulmonary dysplasia	risk increased by	prolonged ventilation
+prolonged ventilation	associated with	NICU stay
+neonatal discharge	occurs after	stabilization
+breastfeeding initiation	related to	neonatal health
+postnatal care	required for	preterm infants

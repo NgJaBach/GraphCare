@@ -1,0 +1,101 @@
+iron deficiency anemia	is a	type of anemia
+iron deficiency anemia	is caused by	iron deficiency
+iron deficiency anemia	is treated with	iron supplementation
+iron deficiency anemia	is treated with	oral iron
+iron deficiency anemia	presents with	fatigue
+iron deficiency anemia	presents with	pallor
+iron deficiency anemia	presents with	shortness of breath
+iron deficiency anemia	presents with	tachycardia
+iron deficiency anemia	shows	microcytosis
+iron deficiency anemia	shows	hypochromia
+iron deficiency anemia	lab finding	low ferritin
+iron deficiency anemia	lab finding	low transferrin saturation
+iron deficiency anemia	lab finding	high total iron binding capacity
+iron deficiency anemia	diagnostic test	complete blood count
+iron deficiency anemia	diagnostic test	iron studies
+iron deficiency anemia	risk factor	pregnancy
+iron deficiency anemia	risk factor	menstruation
+iron deficiency anemia	risk factor	blood loss
+iron deficiency anemia	consequence	fatigue
+iron deficiency anemia	consequence	reduced exercise tolerance
+iron deficiency anemia	associated with	restless legs syndrome
+iron deficiency anemia	associated with	pica
+iron deficiency anemia	prevented by	dietary iron intake
+iron deficiency anemia	prevented by	vitamin C intake
+iron deficiency anemia	responsive to	iron therapy
+iron deficiency anemia	may require	blood transfusion
+folate deficiency anemia	is a	type of megaloblastic anemia
+folate deficiency anemia	is caused by	folate deficiency
+folate deficiency anemia	treated with	folic acid supplementation
+folate deficiency anemia	associated with	neural tube defects
+vitamin B12 deficiency anemia	is a	type of megaloblastic anemia
+vitamin B12 deficiency anemia	is caused by	B12 deficiency
+vitamin B12 deficiency anemia	treated with	vitamin B12 supplementation
+pernicious anemia	is a	cause of vitamin B12 deficiency anemia
+intrinsic factor deficiency	causes	pernicious anemia
+cobalamin deficiency	causes	vitamin B12 deficiency anemia
+megaloblastic anemia	classified as	macrocytic anemia
+megaloblastic anemia	caused by	B12 or folate deficiency
+anemia of chronic disease	is a	type of anemia
+anemia of chronic disease	associated with	chronic inflammation
+anemia of chronic disease	common in	elderly
+anemia of CKD	is a	type of anemia
+anemia of CKD	caused by	erythropoietin deficiency
+anemia of CKD	treated with	erythropoiesis-stimulating agents
+erythropoietin	stimulates	erythropoiesis
+aplastic anemia	is a	type of hypoproliferative anemia
+hemolytic anemia	is a	type of anemia
+sickle cell anemia	is a	type of hemolytic anemia
+sideroblastic anemia	is a	type of anemia
+lead poisoning	causes	sideroblastic anemia
+gastric bleeding	causes	iron deficiency anemia
+hookworm infection	causes	iron deficiency anemia
+celiac disease	causes	iron deficiency anemia
+pregnancy	increases	iron requirements
+vegetarian diet	risk factor	iron deficiency anemia
+pica	resolves with	iron repletion
+ferritin	indicates	iron stores
+ferritin	decreased in	iron deficiency anemia
+transferrin saturation	decreased in	iron deficiency anemia
+serum iron	low in	iron deficiency anemia
+mean corpuscular volume	decreased in	iron deficiency anemia
+mean corpuscular volume	increased in	megaloblastic anemia
+red cell distribution width	increased in	iron deficiency anemia
+reticulocyte count	elevated in	acute blood loss
+bone marrow biopsy	used for	evaluation of anemia
+calcium carbonate	reduces	iron absorption
+calcium supplements	reduce	iron absorption
+oral iron therapy	requires	acidic environment
+gastric bypass	associated with	iron deficiency anemia
+gastric bypass	causes	iron malabsorption
+intravenous iron	used for	severe iron deficiency anemia
+erythropoietin therapy	reduces	transfusion need
+blood transfusion	used for	severe anemia
+iron supplementation	can cause	GI upset
+iron therapy	may cause	constipation
+iron deficiency anemia	common in	children
+iron deficiency anemia	common in	premenopausal women
+pregnant woman	should be screened for	iron deficiency anemia
+infant	risk for	iron deficiency anemia
+ferritin levels	monitored during	iron supplementation therapy
+transferrin receptor	increased in	iron deficiency anemia
+iron-rich foods	include	heme iron sources
+hemoglobin	measures	oxygen-carrying capacity
+hematocrit	reflects	red blood cell mass
+serum ferritin	used for	monitoring iron stores
+transferrin saturation	measured by	iron studies
+iron studies	include	ferritin
+reticulocytosis	indicates	marrow response
+bone marrow iron stores	decreased in	iron deficiency anemia
+transfusion	used for	acute severe anemia
+thalassemia	is a	hereditary anemia
+hemoglobinopathy	includes	thalassemia
+pregnant woman	should be screened for	iron deficiency anemia
+infant	risk for	iron deficiency anemia
+iron deficiency anemia	prevalence	worldwide
+childhood	affected by	iron deficiency anemia
+adolescence	critical period for	iron deficiency anemia
+iron deficiency anemia	resolved with	iron repletion
+iron repletion	results in	increased ferritin
+ferritin	monitored during	iron supplementation therapy
+response to iron therapy	defined by	increase in hemoglobin

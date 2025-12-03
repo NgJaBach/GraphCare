@@ -1,0 +1,110 @@
+other circulatory disease	is a	cardiovascular disease
+other circulatory disease	is a	vascular disease
+other circulatory disease	may cause	heart failure
+other circulatory disease	may cause	arrhythmia
+other circulatory disease	increases risk for	stroke
+other circulatory disease	increases risk for	myocardial infarction
+other circulatory disease	risk factor for	hypertension
+other circulatory disease	risk factor for	diabetes mellitus
+other circulatory disease	associated with	atherosclerosis
+other circulatory disease	associated with	hyperlipidemia
+other circulatory disease	associated with	obesity
+other circulatory disease	associated with	smoking
+other circulatory disease	associated with	chronic kidney disease
+other circulatory disease	diagnosed by	ECG
+other circulatory disease	diagnosed by	echocardiography
+other circulatory disease	diagnosed by	CT angiography
+other circulatory disease	diagnosed by	MRI
+other circulatory disease	treated with	beta blockers
+other circulatory disease	treated with	ACE inhibitors
+other circulatory disease	treated with	ARBs
+other circulatory disease	treated with	nitrates
+other circulatory disease	treated with	diuretics
+other circulatory disease	treated with	antiplatelet therapy
+other circulatory disease	treated with	statins
+other circulatory disease	treated with	vasodilators
+other circulatory disease	managed by	cardiology
+other circulatory disease	managed with	lifestyle modification
+other circulatory disease	requires	hospitalization
+other circulatory disease	requires	revascularization
+other circulatory disease	progresses to	congestive heart failure
+other circulatory disease	progresses to	dilated cardiomyopathy
+other circulatory disease	presents with	chest pain
+other circulatory disease	presents with	dyspnea
+other circulatory disease	presents with	edema
+other circulatory disease	presents with	palpitations
+other circulatory disease	presents with	syncope
+other circulatory disease	associated with	atrial fibrillation
+other circulatory disease	associated with	heart block
+other circulatory disease	associated with	ventricular tachycardia
+other circulatory disease	associated with	cardiomyopathy
+other circulatory disease	associated with	valvular disease
+other circulatory disease	associated with	heart murmur
+other circulatory disease	associated with	cardiomegaly
+other circulatory disease	associated with	left ventricular hypertrophy
+other circulatory disease	complications include	edema
+other circulatory disease	complications include	myocardial ischemia
+other circulatory disease	complications include	heart failure
+other circulatory disease	complications include	stroke
+other circulatory disease	complications include	arrhythmia
+other circulatory disease	complications include	hypertensive crisis
+other circulatory disease	complicates	pregnancy
+other circulatory disease	predisposes to	myocardial infarction
+other circulatory disease	predisposes to	stroke
+other circulatory disease	predisposes to	peripheral artery disease
+other circulatory disease	predisposes to	pulmonary hypertension
+other circulatory disease	influences	prognosis
+other circulatory disease	influences	quality of life
+other circulatory disease	influences	exercise tolerance
+other circulatory disease	influences	functional status
+other circulatory disease	correlates with	age
+other circulatory disease	correlates with	sex
+other circulatory disease	correlates with	renal function
+other circulatory disease	correlates with	liver function
+other circulatory disease	correlates with	inflammatory markers
+other circulatory disease	correlates with	cholesterol level
+other circulatory disease	correlates with	triglyceride level
+other circulatory disease	correlates with	blood pressure
+other circulatory disease	correlates with	body mass index
+other circulatory disease	is common in	older adults
+other circulatory disease	is common in	diabetics
+other circulatory disease	is common in	smokers
+other circulatory disease	risk factor for	stroke recurrence
+other circulatory disease	risk factor for	hospital readmission
+other circulatory disease	risk factor for	mortality
+other circulatory disease	outcome predicts	mortality
+other circulatory disease	outcome predicts	readmission
+other circulatory disease	outcome predicts	functional decline
+other circulatory disease	managed with	lifestyle modification
+other circulatory disease	managed with	pharmacotherapy
+other circulatory disease	associated with	metabolic syndrome
+other circulatory disease	prevalence in	population group
+other circulatory disease	pathophysiology involves	endothelial dysfunction
+other circulatory disease	pathophysiology involves	lipid accumulation
+other circulatory disease	prevention strategies include	risk factor modification
+other circulatory disease	prevention strategies include	blood pressure control
+other circulatory disease	prevention strategies include	lipid control
+other circulatory disease	followed by	echocardiography
+other circulatory disease	studied by	echocardiography
+other circulatory disease	studied by	risk scores
+other circulatory disease	found in	autopsy
+other circulatory disease	associated with	immune response
+other circulatory disease	associated with	inflammatory response
+other circulatory disease	evaluation aims	symptom relief
+other circulatory disease	evaluation aims	functional improvement
+other circulatory disease	evaluation aims	survival
+other circulatory disease	involves	metabolic disturbances
+other circulatory disease	occurs in	adults
+other circulatory disease	occurs with	pregnancy
+other circulatory disease	monitored by	electrocardiography
+other circulatory disease	monitored by	ambulatory monitoring
+other circulatory disease	evaluated by	biomarkers
+other circulatory disease	may cause	sudden death
+other circulatory disease	may cause	ischemia
+other circulatory disease	linked to	insulin resistance
+other circulatory disease	linked to	endothelial injury
+other circulatory disease	linked to	vascular inflammation
+other circulatory disease	related to	plaque rupture
+other circulatory disease	classified as	chronic disease
+other circulatory disease	incidence rising	worldwide
+other circulatory disease	healthcare burden	cost

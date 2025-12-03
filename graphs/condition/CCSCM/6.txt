@@ -1,0 +1,100 @@
+hepatitis	is a	liver inflammation
+hepatitis A	is a	type of hepatitis
+hepatitis B	is a	type of hepatitis
+hepatitis C	is a	type of hepatitis
+hepatitis D	is a	type of hepatitis
+hepatitis E	is a	type of hepatitis
+drug-induced hepatitis	is a	liver injury
+alcoholic hepatitis	is a	liver disease
+autoimmune hepatitis	is a	liver disease
+viral hepatitis	is a	infectious disease
+acute hepatitis	is a	form of hepatitis
+chronic hepatitis	is a	form of hepatitis
+hepatitis A virus	causes	hepatitis A
+hepatitis B virus	causes	hepatitis B
+hepatitis C virus	causes	hepatitis C
+hepatitis D virus	causes	hepatitis D
+hepatitis E virus	causes	hepatitis E
+hepatitis A	transmitted by	fecal-oral route
+hepatitis B	transmitted by	blood and body fluids
+hepatitis C	transmitted by	blood
+hepatitis D	transmitted by	blood and body fluids
+hepatitis E	transmitted by	fecal-oral route
+jaundice	is a symptom of	hepatitis
+fatigue	is a symptom of	hepatitis
+right upper quadrant pain	is a symptom of	hepatitis
+fever	may accompany	acute hepatitis
+serology	used for	diagnosing hepatitis
+alanine aminotransferase	is elevated in	hepatitis
+aspartate aminotransferase	is elevated in	hepatitis
+bilirubin	increases in	hepatitis
+albumin	decreases in	chronic hepatitis
+liver biopsy	used for	diagnosing hepatitis
+ultrasound	used for	evaluating hepatitis
+MRI	used for	evaluating hepatitis
+liver function tests	show	elevated transaminases
+hepatitis	can lead to	liver failure
+hepatitis	can lead to	cirrhosis
+cirrhosis	predisposes to	portal hypertension
+portal hypertension	leads to	variceal bleeding
+hepatitis B	can become	chronic infection
+hepatitis C	can become	chronic infection
+hepatitis B	treated with	antivirals
+hepatitis C	treated with	antivirals
+antiviral therapy	reduces	liver viral load
+sofosbuvir	is a	antiviral
+ledipasvir	is a	antiviral
+velpatasvir	is a	antiviral
+ribavirin	is a	antiviral
+daclatasvir	is a	antiviral
+paritaprevir	is a	protease inhibitor
+ritonavir	is a	pharmacologic booster
+paritaprevir/ritonavir	is a	combination therapy for hepatitis C
+combination therapy	is a	treatment for hepatitis C
+sustained virologic response	indicates	virologic cure
+immunologic response	is stimulated by	interferon
+interferon	used for	hepatitis B
+interferon	used for	hepatitis C
+nucleoside analogs	used for	hepatitis B
+tenofovir	used for	hepatitis B
+entecavir	used for	hepatitis B
+pegylated interferon	used for	hepatitis C
+hepatitis B vaccination	prevents	hepatitis B infection
+hepatitis A vaccination	prevents	hepatitis A infection
+post-exposure prophylaxis	given after	exposure to hepatitis A virus
+post-exposure prophylaxis	given after	exposure to hepatitis B virus
+intravenous drug use	increases risk of	hepatitis C
+blood transfusion before 1992	increases risk of	hepatitis C
+shared needles	increases risk of	hepatitis C
+occupational exposure	increases risk of	hepatitis B
+sexual contact	transmits	hepatitis B
+mother-to-child transmission	occurs with	hepatitis B
+hepatitis B carrier state	associated with	chronic liver disease
+alpha-fetoprotein	is a biomarker for	hepatocellular carcinoma
+surveillance imaging	used for	hepatocellular carcinoma detection
+hepatic encephalopathy	is a complication of	cirrhosis
+ascites	is a complication of	cirrhosis
+variceal bleeding	is a complication of	portal hypertension
+hepatorenal syndrome	is a complication of	cirrhosis
+portal hypertension	complicates	ascites
+antiviral resistance	arises with	hepatitis treatment
+antiviral resistance	arises with	hepatitis C treatment
+drug interactions	affect	hepatitis therapies
+acetaminophen	can cause	drug-induced liver injury
+alcohol	worsens	hepatitis prognosis
+obesity	worsens	hepatitis prognosis
+diabetes	worsens	hepatitis prognosis
+smoking	worsens	liver disease in hepatitis
+vaccination program	reduces	population hepatitis incidence
+global health	aims to control	hepatitis
+clinical trial	evaluates	new therapies for hepatitis
+quality of life	improves with	hepatitis treatment
+mortality	decreases with	effective antiviral therapy
+readmission risk	increases with	hepatitis decompensation
+decompensation	increases	length of hospital stay
+liver transplant waitlist	lengthened by	hepatitis severity
+albumin level	predicts	liver function reserve
+platelet count	decreases with	portal hypertension
+creatinine	rises with	hepatorenal syndrome
+age	influences	hepatitis progression
+immunization coverage	correlates with	herd immunity to hepatitis

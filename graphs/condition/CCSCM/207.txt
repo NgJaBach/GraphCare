@@ -1,0 +1,100 @@
+medical condition	is a	autoimmune condition
+medical condition	may cause	nephritis
+medical condition	may cause	kidney failure
+medical condition	increases	mortality
+medical condition	increases	readmission
+medical condition	leads to	hospitalization
+medical condition	treated with	steroids
+medical condition	treated with	chemotherapy
+medical condition	treated with	antibiotics
+medical condition	managed with	surgery
+medical condition	associated with	hypertension
+medical condition	associated with	diabetes
+medical condition	associated with	kidney disease
+medical condition	linked with	liver disease
+medical condition	related to	obesity
+medical condition	related to	cancer
+medical condition	related to	metastasis
+medical condition	diagnosed by	imaging
+medical condition	diagnosed by	history
+medical condition	diagnosed by	biopsy
+medical condition	presents with	fever
+medical condition	presents with	pain
+medical condition	presents with	dyspnea
+medical condition	causes	inflammation
+medical condition	causes	anemia
+medical condition	causes	fatigue
+medical condition	causes	weight loss
+medical condition	progresses to	organ failure
+medical condition	resolves with	rest
+medical condition	requires	hydration
+medical condition	requires	oxygen
+medical condition	requires	ventilation
+medical condition	leads to	dialysis
+medical condition	linked with	liver disease
+medical condition	related to	cancer
+medical condition	related to	metastasis
+medical condition	consequences include	organ failure
+medical condition	requires	blood transfusion
+medical condition	necessitates	rehab
+medical condition	influences	quality of life
+disease	is a	autoimmune condition
+disease	progresses to	organ failure
+disease	is associated with	aging
+disease	presents with	fever
+disease	presents with	fatigue
+disease	requires	immunotherapy
+disease	requires	transplant
+disease	leads to	anemia
+disease	leads to	infection
+disease	increases	mortality risk
+disease	decreases	mobility
+disease	increases	hospitalization rate
+disease	increases	ICU admission
+condition	is a	chronic disease
+condition	is a	acute illness
+condition	presents with	chest pain
+condition	presents with	shortness of breath
+condition	managed with	analgesia
+condition	managed with	anti-inflammatory
+condition	related to	obesity
+condition	related to	hypertension
+condition	related to	coronary disease
+condition	diagnosed by	imaging
+condition	diagnosed by	blood test
+condition	diagnosed by	biopsy
+condition	requires	support
+condition	associated with	smoking
+condition	associated with	alcohol use
+condition	affects	nutrition
+condition	affects	sleep
+condition	affects	mood
+condition	leads to	disability
+condition	affects	lifestyle
+condition	affects	rehabilitation
+condition	may require	surgery
+diagnosis	is a	classification
+diagnosis	relates to	treatment
+diagnosis	leads to	prognosis
+diagnosis	affects	decision-making
+diagnosis	impacts	care coordination
+diagnosis	informs	patient education
+diagnosis	predicts	resource utilization
+diagnosis	impacts	outcomes
+diagnosis	guides	triage
+diagnosis	dictates	screening
+nephritis	is a disease
+nephritis	is a condition
+nephritis	associated with	hypertension
+nephritis	associated with	diabetes
+nephritis	leads to	kidney failure
+nephritis	treated with	diuretics
+nephritis	diagnosed by	urinalysis
+nephritis	diagnosed by	imaging
+nephritis	associated with	infection
+nephritis	leads to	electrolyte imbalance
+nephritis	affects	blood pressure
+dialysis	is a treatment
+dialysis	used for	kidney failure
+diabetes	is a disease
+diabetes	increases	mortality risk

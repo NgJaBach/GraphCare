@@ -1,0 +1,100 @@
+poisoning	is coded by	e-codes
+poisoning	classified under	external-cause category
+e-codes	identify	poisoning events
+poisoning	increases	mortality risk
+poisoning	predicts	hospital admission
+poisoning	predicts	length of stay
+poisoning	predicts	ICU admission
+poisoning	requires	antidote
+poisoning	requires	airway management
+poisoning	associated with	intentional ingestion
+poisoning	associated with	unintentional ingestion
+poisoning	correlated with	overdose severity
+poisoning	linked to	seizures
+poisoning	linked to	arrhythmias
+poisoning	more common in	pediatric population
+poisoning	more common in	elderly population
+poisoning	more frequent in	male patients
+poisoning	more frequent in	female patients
+poisoning	results in	organ failure
+poisoning	associated with	liver injury
+poisoning	associated with	kidney injury
+poisoning	associated with	respiratory failure
+poisoning	treated with	activated charcoal
+poisoning	treated with	naloxone
+poisoning	treated with	atropine
+poisoning	treated with	fomepizole
+poisoning	treated with	gastric lavage
+poisoning	observed in	emergency department
+poisoning	observed in	hospital ward
+poisoning	leads to	hospital admission
+poisoning	causes	electrolyte disturbance
+poisoning	causes	metabolic acidosis
+poisoning	causes	hypoglycemia
+poisoning	causes	hypoxia
+poisoning	associated with	dehydration
+poisoning	associated with	coagulopathy
+poisoning	linked to	multiorgan toxicity
+poisoning	associated with	aspiration
+poisoning	associated with	polypharmacy exposure
+poisoning	associated with	malnutrition
+poisoning	associated with	chronic kidney disease
+poisoning	associated with	alcohol use disorder
+poisoning	associated with	mental illness
+poisoning	cost driver	hospitalization costs
+poisoning	associated with	ICU length of stay
+poisoning	monitored by	telemetry
+poisoning	coded with	ICD-10-CM
+poisoning	captured by	triage level
+e-codes	reflect	intent of poisoning
+e-codes	indicate	mechanism of poisoning
+poisoning	influences	management
+poisoning	associated with	discharge disposition
+poisoning	associated with	readmission risk
+poisoning	associated with	mortality rate
+poisoning	linked to	hospital cost
+poisoning	leads to	disability
+poisoning	associated with	long-term sequelae
+poisoning	documented in	medical records
+poisoning	analyzed by	epidemiology
+poisoning	reported in	poison surveillance systems
+poisoning	captured by	national statistics
+poisoning	defined by	exposure toxin
+poisoning	associated with	exposure duration
+poisoning	associated with	dose-response relationship
+poisoning	influenced by	time to treatment
+poisoning	associated with	ventilation requirement
+poisoning	requires	dialysis
+poisoning	treated with	chelation therapy
+poisoning	associated with	immune response
+poisoning	linked to	renal failure
+poisoning	leads to	hypoxia
+poisoning	associated with	lactic acidosis
+poisoning	associated with	pancreatitis
+poisoning	documented with	toxicology report
+poisoning	diagnosed by	toxicology report
+poisoning	coded with	ICD-10-CM
+poisoning	associated with	suicide attempt
+poisoning	associated with	accidental exposure
+poisoning	managed by	poison center
+poisoning	involves	toxin exposure
+poisoning	involves	overdose mechanism
+poisoning	causes	respiratory depression
+poisoning	causes	cardiac arrest
+poisoning	monitored in	hospital telemetry
+poisoning	traced to	exposure source
+poisoning	seen in	emergency medicine
+poisoning	results in	increased healthcare costs
+poisoning	associated with	social determinants
+poisoning	associated with	psychiatric comorbidity
+poisoning	flagged by	triage color code
+poisoning	recorded by	hospital database
+poisoning	included in	national poisoning data
+poisoning	considered	preventable injury
+poisoning	prevented by	public health measures
+poisoning	prevented by	poison-control outreach
+poisoning	detected by	toxicology screen
+poisoning	recognized by	emergency physicians
+poisoning	included in	ICD coding study
+poisoning	described by	poison-control data
+poisoning	used in	predictive modeling

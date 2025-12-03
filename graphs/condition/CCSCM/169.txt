@@ -1,0 +1,100 @@
+endometriosis	is a	gynecologic disorder
+endometriosis	causes	chronic pelvic pain
+endometriosis	causes	dysmenorrhea
+endometriosis	causes	dyspareunia
+endometriosis	associated with	infertility
+endometriosis	associated with	pelvic adhesions
+endometriosis	associated with	ovarian endometrioma
+infertility	is a consequence of	endometriosis
+laparoscopy	confirms	endometriosis
+imaging	detects	endometriosis
+pelvic ultrasound	detects	ovarian endometrioma
+MRI	detects	endometriosis
+CA-125	is elevated in	endometriosis
+endometriosis	exhibits	estrogen dependence
+estrogen	promotes	endometriotic implants
+progesterone	suppresses	endometriosis symptoms
+GnRH agonists	reduce	lesion activity
+leuprolide	is a	GnRH agonist
+goserelin	is a	GnRH agonist
+nafarelin	is a	GnRH agonist
+danazol	is a	androgenic agent
+danazol	reduces	endometriosis symptoms
+oral contraceptive pills	reduce	endometriosis pain
+oral contraceptives	regulate	menses in endometriosis
+progestin therapy	reduces	endometriosis symptoms
+medroxyprogesterone acetate	treats	endometriosis
+norethindrone acetate	treats	endometriosis
+levonorgestrel-releasing IUD	reduces	endometriosis bleeding
+letrozole	used for	endometriosis
+letrozole	improves	endometriosis symptoms
+laparoscopic excision	reduces	endometriosis pain
+laparoscopic excision	improves	fertility outcomes
+laparoscopic ablation	reduces	endometriosis symptoms
+surgical management	treats	endometriosis
+hysterectomy	considered for	severe endometriosis
+oophorectomy	considered for	ovarian endometrioma
+bilateral salpingo-oophorectomy	reserved for	refractory endometriosis
+post-operative hormone therapy	prevents	recurrence
+postoperative GnRH therapy	reduces	recurrence
+continuous oral contraceptives	reduce	dysmenorrhea
+deep infiltrating endometriosis	involves	pelvic structures
+deep infiltrating endometriosis	requires	multidisciplinary care
+endometriosis	affects	quality of life
+quality of life	improves with	endometriosis treatment
+pain	improves with	hormonal therapy
+pain	decreases with	analgesics
+fertility	may improve after	surgical management
+pregnancy rate	increases after	endometriosis treatment
+recurrence	occurs after	conservative surgery
+recurrence	decreases with	postoperative hormonal therapy
+fertility potential	declines with	advanced endometriosis
+sleep disturbance	increases with	chronic pain from endometriosis
+anxiety	increases with	chronic pain from endometriosis
+depression	associated with	endometriosis
+healthcare utilization	increases with	endometriosis symptom flares
+work absenteeism	increases with	endometriosis pain
+pelvic floor dysfunction	accompanies	endometriosis
+exercise therapy	improves	endometriosis symptoms
+diet modification	reduces	endometriosis pain
+pregnancy outcomes	affected by	endometriosis
+IVF success rate	lower in	endometriosis patients
+fertility preservation	discussed for	endometriosis patients
+imaging mapping	guides	surgical planning for endometriosis
+transvaginal ultrasound	evaluates	endometriosis
+rectovaginal endometriosis	involves	uterosacral ligaments
+uterosacral ligaments	affected by	rectovaginal endometriosis
+bladder endometriosis	occurs with	deep endometriosis
+bowel endometriosis	occurs with	deep endometriosis
+rectal involvement	occurs with	endometriosis
+pain score	correlates with	endometriosis symptoms
+analgesics	provide	symptomatic relief in endometriosis
+NSAIDs	provide	pain relief in endometriosis
+acetaminophen	provides	limited relief in endometriosis
+hormonal therapy	aims for	symptom control
+analgesia	used for	endometriosis pain
+neuroendocrine factors	influence	endometriosis
+opioids	reserved for	severe endometriosis pain
+fertility outcome	improves after	endometriosis surgery
+ovarian reserve	affected by	endometriosis
+anti-Mullerian hormone	decreases after	endometriosis-related surgery
+pregnancy rate	after surgery	increases
+recurrence rate	after conservative surgery	remains high
+recurrence rate	reduced by	postoperative hormonal therapy
+pregnancy outcome	worsened by	endometriosis
+stress response	triggered by	endometriosis pain
+mood disorder	associated with	endometriosis
+work productivity	affected by	endometriosis
+MRI	guides	surgical planning for endometriosis
+multidisciplinary team	manages	deep endometriosis
+CA-125	is not specific for	endometriosis
+pelvic pain	persists despite	lesion burden
+imaging	accuracy varies by	lesion type
+deep endometriosis	involves	posterior compartment
+symptom severity	not proportional to	lesion size
+endometriosis	coexists with	fibroids
+endometriosis-related infertility	may require	ART
+hormonal suppression	may delay	conception
+postoperative care	improves	recovery
+conservative management	favored for	mild endometriosis
+definitive surgery	chosen for	refractory endometriosis

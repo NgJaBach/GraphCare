@@ -1,0 +1,100 @@
+adjustment disorder	is a	mental disorder
+adjustment disorder	is characterized by	emotional symptoms
+adjustment disorder	is characterized by	behavioral symptoms
+adjustment disorder	is precipitated by	identifiable stressor
+adjustment disorder	differential diagnosis includes	major depressive disorder
+adjustment disorder	differential diagnosis includes	generalized anxiety disorder
+adjustment disorder	presents with	sadness
+adjustment disorder	presents with	anxiety
+adjustment disorder	presents with	irritability
+adjustment disorder	presents with	sleep disturbance
+adjustment disorder	presents with	concentration difficulty
+adjustment disorder	presents with	fatigue
+adjustment disorder	presents with	anhedonia
+adjustment disorder	presents with	guilt
+adjustment disorder	presents with	hopelessness
+adjustment disorder	presents with	somatic symptoms
+adjustment disorder	associated with	stressful life event
+adjustment disorder	associated with	relationship breakdown
+adjustment disorder	associated with	financial hardship
+adjustment disorder	associated with	unemployment
+adjustment disorder	associated with	chronic illness
+adjustment disorder	associated with	prior psychiatric history
+adjustment disorder	associated with	trauma exposure
+adjustment disorder	associated with	social isolation
+adjustment disorder	associated with	caregiver burden
+adjustment disorder	associated with	substance use
+adjustment disorder	has	favorable prognosis
+adjustment disorder	has	poor prognosis
+adjustment disorder	may respond to	sertraline
+adjustment disorder	may respond to	fluoxetine
+adjustment disorder	may respond to	escitalopram
+adjustment disorder	treated with	psychotherapy
+adjustment disorder	treated with	cognitive behavioral therapy
+adjustment disorder	treated with	interpersonal psychotherapy
+adjustment disorder	treated with	family therapy
+adjustment disorder	treated with	antidepressants
+adjustment disorder	managed with	outpatient care
+adjustment disorder	managed with	inpatient care
+adjustment disorder	monitored with	clinical follow-up
+adjustment disorder	monitored with	symptom tracking
+adjustment disorder	co-occurs with	anxiety disorder
+adjustment disorder	co-occurs with	depressive disorder
+adjustment disorder	co-occurs with	PTSD
+adjustment disorder	co-occurs with	substance use disorder
+adjustment disorder	contributes to	functional impairment
+adjustment disorder	contributes to	work impairment
+adjustment disorder	triggers	psychiatric consultation
+adjustment disorder	increases	healthcare utilization
+adjustment disorder	increases	emergency visits
+adjustment disorder	increases	medication prescriptions
+adjustment disorder	correlates with	sleep duration changes
+adjustment disorder	correlates with	appetite changes
+adjustment disorder	affects	quality of life
+adjustment disorder	affects	social functioning
+adjustment disorder	affects	occupational performance
+adjustment disorder	associated with	bereavement
+adjustment disorder	associated with	divorce
+adjustment disorder	associated with	relocation
+adjustment disorder	associated with	caregiving stress
+adjustment disorder	screened with	screening tool
+adjustment disorder	diagnosed by	clinical assessment
+adjustment disorder	influences	caregiver support
+adjustment disorder	relevant to	psychiatry
+adjustment disorder	studied in	epidemiology
+adjustment disorder	associated with	insomnia
+adjustment disorder	associated with	headaches
+adjustment disorder	leads to	disability claims
+adjustment disorder	affects	family relationships
+adjustment disorder	requires	patient education
+adjustment disorder	described in	clinical guidelines
+adjustment disorder	managed with	social integration programs
+adjustment disorder	measured by	symptom scales
+adjustment disorder	predicted by	predictive models
+adjustment disorder	evaluated with	psychiatric evaluation
+adjustment disorder	diagnosed with	mental status examination
+adjustment disorder	included in	DSM criteria
+adjustment disorder	included in	DSM category
+adjustment disorder	described by	DSM-5 criteria
+adjustment disorder	estimated in	epidemiologic studies
+adjustment disorder	more common in	females
+adjustment disorder	more common in	males
+adjustment disorder	prevalence in	general population
+adjustment disorder	prevalence in	adolescents
+adjustment disorder	prevalence in	elderly
+adjustment disorder	comorbidity with	mood disorder
+adjustment disorder	comorbidity with	anxiety disorder
+adjustment disorder	associated with	obesity
+adjustment disorder	influenced by	cultural factors
+adjustment disorder	more prevalent in	low socioeconomic status
+adjustment disorder	more prevalent in	urban settings
+adjustment disorder	risk factor for	suicide attempt
+adjustment disorder	risk factor for	unemployment
+adjustment disorder	risk factor for	hospitalization
+adjustment disorder	responds to	SSRIs
+adjustment disorder	responds to	SNRIs
+adjustment disorder	managed with	education and support
+adjustment disorder	results in	caregiver burden
+adjustment disorder	linked with	social functioning impairment
+adjustment disorder	follows	stressor resolution
+adjustment disorder	associated with	sleep disruption

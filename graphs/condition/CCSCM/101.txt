@@ -1,0 +1,100 @@
+coronary atherosclerosis	is a form of	atherosclerotic cardiovascular disease
+coronary atherosclerosis	is risk factor for	myocardial infarction
+coronary atherosclerosis	is risk factor for	unstable angina
+coronary atherosclerosis	leads to	luminal stenosis
+luminal stenosis	causes	myocardial ischemia
+multivessel disease	results in	higher risk of myocardial infarction
+coronary atherosclerosis	progresses to	chronic coronary syndrome
+myocardial infarction	may cause	heart failure
+myocardial infarction	may cause	cardiogenic shock
+myocardial infarction	managed with	PCI
+myocardial infarction	managed with	thrombolysis
+myocardial infarction	increases	mortality
+stable angina	is treated with	antianginal therapy
+unstable angina	treated with	antiplatelet therapy
+acute coronary syndrome	includes	unstable angina
+acute coronary syndrome	managed with	anti-ischemic therapy
+left ventricular dysfunction	leads to	heart failure
+systolic dysfunction	leads to	heart failure
+atrial fibrillation	increases risk of	thromboembolism
+atrial fibrillation	increases risk of	stroke
+atrial fibrillation	treated with	anticoagulation therapy
+PCI	is a form of	revascularization
+CABG	is a form of	revascularization
+revascularization	improves	myocardial perfusion
+drug-eluting stent	reduces	restenosis
+bare-metal stent	increases	restenosis
+PCI	restores	coronary flow
+CABG	improves	survival
+beta blocker therapy	reduces	myocardial oxygen demand
+ACE inhibitor therapy	reduces	afterload
+ARB therapy	reduces	afterload
+statin therapy	reduces	LDL cholesterol
+lipid-lowering therapy	reduces	cardiovascular events
+antiplatelet therapy	reduces	thrombotic events
+dual antiplatelet therapy	reduces	stent thrombosis
+thrombolysis	dissolves	clots
+anticoagulation therapy	reduces	thromboembolism
+angiotensin receptor blockers	prevent	remodeling
+ACE inhibitors	protect	myocardium
+statins	stabilize	atherosclerotic plaques
+lifestyle modification	improves	cardiovascular risk profile
+smoking cessation	improves	prognosis in CAD
+physical activity	reduces	cardiovascular risk
+dietary modification	reduces	LDL
+blood pressure control	reduces	cardiovascular events
+hypertension	increases risk for	coronary atherosclerosis
+diabetes mellitus	increases risk for	coronary atherosclerosis
+diabetes mellitus	worsens	prognosis in CAD
+hyperlipidemia	contributes to	atherosclerosis
+obesity	increases risk for	CAD
+smoking	increases risk for	CAD
+family history	increases risk for	premature CAD
+age	increases risk for	CAD
+chronic kidney disease	worsens	CAD prognosis
+anemia	worsens	CAD prognosis
+inflammation	promotes	atherosclerosis
+C-reactive protein	is a marker for	inflammation
+lipoprotein(a)	increases	atherosclerotic risk
+homocysteine	associated with	vascular risk
+coronary angiography	visualizes	coronary arteries
+coronary CT angiography	visualizes	coronary arteries
+stress testing	detects	inducible ischemia
+cardiac MRI	assesses	myocardial viability
+echocardiography	assesses	left ventricular function
+electrocardiography	detects	ischemia
+troponin	rises in	myocardial infarction
+CK-MB	is a biomarker for	myocardial injury
+BNP	indicates	heart failure
+lipid panel	guides	lipid-lowering therapy
+left main disease	implies	high-risk CAD
+multivessel disease	indicates	worse prognosis
+stent thrombosis	leads to	myocardial infarction
+heart failure	predicts	higher mortality
+ventricular arrhythmia	causes	sudden death
+antiplatelet therapy	prevents	platelet aggregation
+ACE inhibitors	reduce	mortality after MI
+ARBs	reduce	afterload
+MR antagonists	reduce	mortality in heart failure
+SGLT2 inhibitors	reduce	cardiovascular events
+furosemide	reduces	fluid overload
+spironolactone	reduces	mortality in heart failure
+digoxin	controls	heart rate in atrial fibrillation
+warfarin	reduces	embolic risk in AF
+DOACs	reduce	stroke in nonvalvular AF
+anticoagulation therapy	increases	bleeding risk
+statin therapy	prevents	plaque progression
+new cardiology referral	improves	quality of life
+implantable cardioverter-defibrillator	reduces	sudden cardiac death
+cardiac resynchronization therapy	improves	cardiac function
+readmission	related to	heart failure
+mortality	associated with	CAD severity
+recurrent chest pain	correlates with	CAD progression
+stroke	risk elevated by	atrial fibrillation
+LDL cholesterol	is a target of	lipid-lowering therapy
+hs-CRP	indicates	inflammation
+troponin	elevates in	myocardial infarction
+BNP	increases with	heart failure
+cardiac rehabilitation	improves	quality of life
+weight reduction therapy	reduces	cardiovascular risk
+polypharmacy	increases	adverse drug events

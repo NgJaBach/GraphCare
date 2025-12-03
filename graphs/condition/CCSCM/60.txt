@@ -1,0 +1,37 @@
+acute posthemorrhagic anemia	caused by	acute blood loss
+acute posthemorrhagic anemia	caused by	postpartum hemorrhage
+acute posthemorrhagic anemia	caused by	surgical bleed
+acute posthemorrhagic anemia	caused by	gastrointestinal bleed
+acute posthemorrhagic anemia	results in	tissue hypoxia
+acute posthemorrhagic anemia	presents with	pallor
+acute posthemorrhagic anemia	presents with	fatigue
+acute posthemorrhagic anemia	presents with	dyspnea
+acute posthemorrhagic anemia	presents with	dizziness
+acute posthemorrhagic anemia	causes	tachycardia
+acute posthemorrhagic anemia	causes	hypotension
+acute posthemorrhagic anemia	increases	heart rate
+acute posthemorrhagic anemia	increases	respiratory rate
+acute posthemorrhagic anemia	monitored by	hemoglobin
+acute posthemorrhagic anemia	monitored by	hematocrit
+acute posthemorrhagic anemia	treated with	red blood cell transfusion
+transfusion	treats	acute posthemorrhagic anemia
+transfusion	reduces	mortality
+transfusion	risks	transfusion reaction
+intravenous crystalloids	used for	volume resuscitation
+crystalloids	support	circulation
+colloids	used for	volume expansion
+volume resuscitation	aims for	hemodynamic stability
+blood loss	causes	acute posthemorrhagic anemia
+hemoglobin	determines	oxygen carrying capacity
+oxygen delivery	depends on	hemoglobin
+reticulocytosis	indicates	marrow response
+marrow response	occurs in	acute posthemorrhagic anemia
+hemoglobin	used for	diagnostic threshold
+hematocrit	used for	diagnostic threshold
+vital signs	reflect	hemodynamic status
+blood pressure	monitored by	fluids
+myocardial oxygen supply	depends on	hemoglobin
+tissue perfusion	affected by	anemia
+hypoxia	results in	lactic acidosis
+coagulopathy	associated with	bleeding risk
+coagulopathy	worsens	bleeding risk

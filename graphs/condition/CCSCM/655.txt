@@ -1,0 +1,98 @@
+Down syndrome	is a	chromosomal disorder
+Down syndrome	is associated with	hypotonia
+Down syndrome	is associated with	congenital heart defects
+Down syndrome	is associated with	leukemia
+Down syndrome	can cause	atlantoaxial instability
+Down syndrome	is diagnosed by	karyotype
+Down syndrome	is managed with	physical therapy
+Down syndrome	is managed with	speech therapy
+Down syndrome	is managed with	early intervention
+Congenital heart defect	is a	structural heart abnormality
+Congenital heart defect	is diagnosed by	echocardiography
+Congenital heart defect	is screened by	pulse oximetry
+Congenital heart defect	requires	surgical repair
+Congenital heart defect	is treated with	prostaglandin E1
+Congenital heart defect	can cause	heart failure in infancy
+Congenital heart defect	is associated with	Down syndrome
+Cystic fibrosis	is a	multisystem genetic disorder
+Cystic fibrosis	is diagnosed by	sweat test
+Cystic fibrosis	is diagnosed by	newborn screening
+Cystic fibrosis	is managed with	airway clearance therapy
+Cystic fibrosis	is treated with	inhaled antibiotics
+Cystic fibrosis	leads to	pancreatic insufficiency
+Cystic fibrosis	increases risk of	meconium ileus
+Cystic fibrosis	is treated with	pancreatic enzyme replacement therapy
+Phenylketonuria	is a	metabolic disorder
+Phenylketonuria	is diagnosed by	newborn screening
+Phenylketonuria	is treated with	low-phenylalanine diet
+Phenylketonuria	improves outcome with	early treatment
+Phenylketonuria	reduces risk of	intellectual disability
+Phenylketonuria	requires	lifelong dietary management
+Galactosemia	is a	metabolic disorder
+Galactosemia	is diagnosed by	newborn screening
+Galactosemia	is treated with	galactose-free diet
+Galactosemia	can cause	liver failure
+Galactosemia	can cause	sepsis in neonate
+Congenital hypothyroidism	is a	thyroid disorder
+Congenital hypothyroidism	is diagnosed by	newborn screening
+Congenital hypothyroidism	is treated with	levothyroxine
+Congenital hypothyroidism	prevents	intellectual disability
+Sickle cell disease	is a	hemoglobinopathy
+Sickle cell disease	is detected by	newborn screening
+Sickle cell disease	is treated with	penicillin prophylaxis
+Sickle cell disease	has risk of	sepsis from encapsulated organisms
+Sickle cell disease	presents with	dactylitis in infancy
+Sickle cell disease	treated with	hydroxyurea
+Sickle cell disease	managed with	vaccination schedule
+SCID	is a	primary immunodeficiency
+SCID	presents with	failure to thrive in infancy
+SCID	is diagnosed by	newborn TREC test
+SCID	treated with	hematopoietic stem cell transplant
+SCID	is detected by	newborn screening
+Spinal muscular atrophy	is a	neuromuscular disorder
+Spinal muscular atrophy	is diagnosed by	genetic testing
+Spinal muscular atrophy	is treated with	nusinersen
+Spinal muscular atrophy	presents with	hypotonia in infancy
+Spinal muscular atrophy	requires	respiratory support
+Krabbe disease	is a	leukodystrophy
+Krabbe disease	is diagnosed by	enzyme testing
+Krabbe disease	is treated with	stem cell transplant
+Krabbe disease	presents with	irritability in infancy
+Pompe disease	is a	lysosomal storage disorder
+Pompe disease	is diagnosed by	enzyme activity assay
+Pompe disease	is treated with	enzyme replacement therapy
+Pompe disease	presents with	cardiomegaly in infancy
+Maple syrup urine disease	is a	metabolic disorder
+Maple syrup urine disease	is diagnosed by	newborn screening
+Maple syrup urine disease	is treated with	low-leucine diet
+Maple syrup urine disease	can cause	brain edema
+Maple syrup urine disease	requires	urgent treatment
+MCADD	is a	fatty acid oxidation disorder
+MCADD	is diagnosed by	newborn screening
+MCADD	is treated with	avoidance of fasting
+MCADD	has risk of	hypoglycemia in infancy
+MCADD	managed with	regular feeding schedule
+Biotinidase deficiency	is a	metabolic disorder
+Biotinidase deficiency	is diagnosed by	newborn screening
+Biotinidase deficiency	is treated with	biotin supplementation
+Biotinidase deficiency	can cause	seizures in infancy
+Congenital adrenal hyperplasia	is a	genetic disorder
+Congenital adrenal hyperplasia	is diagnosed by	newborn screening
+Congenital adrenal hyperplasia	is treated with	hydrocortisone
+Congenital adrenal hyperplasia	can cause	salt-wasting crises in infancy
+Tay-Sachs disease	is a	lysosomal storage disorder
+Tay-Sachs disease	is diagnosed by	enzyme testing
+Tay-Sachs disease	presents with	neurodegeneration in infancy
+Tay-Sachs disease	is managed with	supportive care
+Neonatal diabetes mellitus	is a	monogenic diabetes
+Neonatal diabetes mellitus	is diagnosed by	genetic testing
+Neonatal diabetes mellitus	is treated with	insulin therapy
+Spina bifida	is a	neural tube defect
+Spina bifida	is diagnosed by	prenatal ultrasound
+Spina bifida	is treated with	surgical repair
+Spina bifida	is associated with	hydrocephalus
+Cleft lip/palate	is a	congenital deformity
+Cleft lip/palate	is diagnosed by	birth examination
+Cleft lip/palate	is treated with	surgical repair
+Cleft lip/palate	is associated with	feeding difficulties in infancy
+Cleft lip/palate	may require	jaw surgery

@@ -1,0 +1,100 @@
+gout	is a	crystal arthropathy
+gout	characterized by	monosodium urate crystals
+gout	associated with	hyperuricemia
+hyperuricemia	risk factor for	gout
+pseudogout	is a	crystal arthropathy
+CPPD deposition disease	is a	crystal arthropathy
+gout	treated with	allopurinol
+gout	treated with	febuxostat
+gout	treated with	probenecid
+gout	treated with	colchicine
+gout	treated with	NSAIDs
+gout	treated with	corticosteroids
+gout	diagnosed by	synovial fluid analysis
+synovial fluid analysis	detects	monosodium urate crystals
+gout	diagnosed by	serum uric acid
+serum uric acid	elevated in	gout
+gout	associated with	tophi
+tophi	indicates	chronic gout
+gout	increases risk of	nephrolithiasis
+nephrolithiasis	associated with	gout
+diuretic use	predisposes to	gout
+alcohol consumption	triggers	gout attack
+purine-rich diet	increases	uric acid
+obesity	associated with	gout
+hypertension	comorbidity with	gout
+diabetes mellitus	comorbidity with	gout
+renal impairment	increases	uric acid
+gout	managed with	lifestyle modification
+allopurinol	inhibits	xanthine oxidase
+febuxostat	inhibits	xanthine oxidase
+colchicine	prevents	gout flare
+colchicine	prophylaxis for	gout
+pegloticase	reduces	uric acid level
+pegloticase	is a	uricase enzyme
+uric acid	crystallizes in	joints
+CPPD deposition disease	involves	calcium pyrophosphate crystals
+pseudogout	involves	calcium pyrophosphate dihydrate crystals
+pseudogout	diagnosed by	calcium pyrophosphate dihydrate crystals in synovial fluid
+CPPD deposition disease	involves	calcium pyrophosphate dihydrate crystals
+pseudogout	affects	knee joints
+CPPD deposition disease	affects	knee joints
+imaging	used for	crystal arthritis diagnosis
+dual-energy CT	detects	urate deposition
+ultrasound	detects	double contour sign
+joint aspiration	used for	diagnosis
+synovial fluid	contains	crystals
+tophi	form in	soft tissue
+tophi	associated with	chronic gout
+gout	commonly affects	first MTP joint
+pseudogout	commonly involves	knee joint
+CPPD deposition disease	commonly involves	wrist joint
+urate crystals	found in	synovial fluid
+uric acid crystals	needle-shaped in	gout
+calcium pyrophosphate crystals	rhomboid-shaped in	CPPD deposition disease
+chondrocalcinosis	seen on	x-ray
+chondrocalcinosis	seen in	CPPD deposition disease
+x-ray	shows	chondrocalcinosis
+polarized light microscopy	detects	monosodium urate crystals
+polarized light microscopy	distinguishes	gout crystals from CPPD crystals
+gout	associated with	kidney disease
+gout	increases risk of	cardiovascular disease
+gout	common in	men
+pseudogout	more common in	senior citizens
+CPPD deposition disease	associated with	metabolic disorders
+gout	underlying mechanism	purine metabolism dysfunction
+purine metabolism dysfunction	leads to	hyperuricemia
+hyperuricemia	leads to	urate crystal deposition
+urate crystal deposition	causes	joint inflammation
+joint inflammation	causes	pain
+monosodium urate crystals	precipitate in	joints
+calcium pyrophosphate crystals	precipitate in	joints
+gout	requires	urate-lowering therapy
+urate-lowering therapy	includes	allopurinol
+urate-lowering therapy	includes	febuxostat
+gout flare	treated with	NSAIDs
+gout flare	treated with	colchicine
+gout flare	treated with	corticosteroids
+uricosuric therapy	increases	uric acid excretion
+probenecid	is a	uricosuric agent
+febuxostat	lowers	serum urate
+allopurinol	lowers	serum urate
+dehydration	precipitates	gout attack
+purine-rich diet	precipitates	gout attack
+dietary modification	reduces	gout risk
+weight reduction	reduces	gout risk
+alcohol abstinence	reduces	gout risk
+gout	associated with	metabolic syndrome
+gout	associated with	hyperlipidemia
+gout	associated with	insulin resistance
+gout	associated with	chronic kidney disease
+CPPD deposition disease	diagnostic criterion includes	calcium pyrophosphate crystals in synovial fluid
+pseudogout	diagnostic criterion includes	calcium pyrophosphate crystals in synovial fluid
+gout	predictive feature for prognosis includes	serum urate level
+CPPD deposition disease	treatment option includes	NSAIDs
+pseudogout	treatment option includes	NSAIDs
+joint aspiration	diagnostic yield	high for crystals
+DECT	differentiates	urate from non-urate crystals
+uric acid	is elevated	in gout
+gout	can cause	chronic kidney disease
+gout	recurrence	with multiple flares

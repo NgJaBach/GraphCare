@@ -1,0 +1,100 @@
+developmental disorders	is a	neurodevelopmental condition
+autism spectrum disorder	is a	developmental disorder
+attention-deficit/hyperactivity disorder	is a	neurodevelopmental disorder
+intellectual disability	is a	neurodevelopmental disorder
+specific learning disorder	is a	neurodevelopmental disorder
+language disorder	is a	neurodevelopmental disorder
+speech delay	is a	developmental symptom
+communication impairment	is a	symptom of developmental disorders
+sensory processing disorder	is a	neurodevelopmental condition
+global developmental delay	is a	developmental disorder
+epilepsy	coexists with	developmental disorders
+epilepsy	coexists with	autism spectrum disorder
+anxiety disorder	coexists with	autism spectrum disorder
+depression	coexists with	autism spectrum disorder
+sleep disorder	coexists with	developmental disorders
+gastrointestinal disorder	coexists with	developmental disorders
+feeding disorder	coexists with	autism spectrum disorder
+tactile defensiveness	coexists with	autism spectrum disorder
+specific learning disorder	coexists with	reading impairment
+sensory over-responsivity	coexists with	autism spectrum disorder
+male sex	is a risk factor for	autism spectrum disorder
+family history	is a risk factor for	developmental disorders
+preterm birth	is a risk factor for	developmental disorders
+low birth weight	is a risk factor for	developmental disorders
+perinatal asphyxia	is a risk factor for	developmental disorders
+advanced paternal age	is a risk factor for	autism spectrum disorder
+maternal infection	is a risk factor for	developmental disorders
+prenatal exposure to toxins	is a risk factor for	developmental disorders
+extreme poverty	is a risk factor for	developmental disorders
+nutritional deficiency	is a risk factor for	developmental disorders
+speech therapy	is a treatment for	language disorder
+speech therapy	is a treatment for	autism spectrum disorder
+occupational therapy	is a treatment for	sensory processing disorder
+physical therapy	is a treatment for	motor coordination disorder
+behavioral therapy	is a treatment for	autism spectrum disorder
+applied behavior analysis	is a treatment for	autism spectrum disorder
+early intervention	is a predictor of	better developmental outcomes
+parent training	is a treatment for	autism spectrum disorder
+visual supports	are used for	developmental disorders
+communication therapy	is a treatment for	language disorder
+risperidone	is used for	autism spectrum disorder
+methylphenidate	is used for	attention-deficit/hyperactivity disorder
+atomoxetine	is used for	attention-deficit/hyperactivity disorder
+guanfacine	is used for	attention-deficit/hyperactivity disorder
+aripiprazole	is used for	irritability in autism spectrum disorder
+melatonin	is used for	sleep disorder
+SSRI	is used for	anxiety disorders
+antipsychotic	is used for	behavioral disturbances in autism spectrum disorder
+stimulant medication	is used for	ADHD
+vitamin B6	is used for	language disorder
+early intervention	improves	language outcomes
+early intervention	improves	cognitive outcomes
+special education	improves	academic performance
+family support	improves	caregiver burden
+occupational therapy	improves	fine motor skills
+speech therapy	improves	communication skills
+behavioral therapy	reduces	problem behaviors
+intellectual disability	predicts	educational attainment
+autism spectrum disorder	predicts	need for supports
+attention-deficit/hyperactivity disorder	predicts	school failure
+early diagnosis	predicts	long-term outcomes
+developmental screening	detects	developmental disorders
+genetic testing	detects	genetic etiology
+developmental screening	detects	developmental disorders
+autism diagnostic interview	detects	autism spectrum disorder
+autism diagnostic observation schedule	detects	autism spectrum disorder
+cognitive assessment	detects	intellectual disability
+speech and language evaluation	detects	language disorder
+hearing screening	detects	speech delay
+developmental milestones	are delayed in	developmental disorders
+autism spectrum disorder	has	variable prognosis
+fragile X syndrome	is a cause of	developmental disorders
+copy number variation	associated with	autism spectrum disorder
+trisomy 21	associated with	intellectual disability
+PTEN mutation	associated with	autism spectrum disorder
+gene deletion	associated with	developmental disorders
+neuroinflammation	contributes to	developmental disorders
+Rett syndrome	is a developmental disorder
+family income	influences	access to care for developmental disorders
+rural residence	influences	access to care for developmental disorders
+health insurance coverage	influences	treatment access for developmental disorders
+parental education level	influences	early identification of developmental disorders
+stigma	influences	care seeking for developmental disorders
+caregiver burden	is increased by	developmental disorders
+sociocultural factors	influence	treatment acceptance for developmental disorders
+prematurity	causes	developmental delays
+neonatal complications	cause	developmental disorders
+EEG abnormalities	are associated with	epilepsy in developmental disorders
+visual impairment	occurs with	developmental disorders
+hearing impairment	occurs with	developmental disorders
+early childhood education	improves	developmental outcomes
+specialist referral	facilitates	diagnostic process for developmental disorders
+speech therapy	improves	articulation
+language therapy	is a treatment for	language disorder
+parental stress	increases	caregiver burden
+access to therapy	improves	participation in education
+occupational therapy	improves	activities of daily living
+autism spectrum disorder	requires	multidisciplinary care
+multidisciplinary care	improves	care coordination
+neurodevelopmental condition	overlaps with	psychiatric disorders

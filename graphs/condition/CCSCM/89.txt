@@ -1,0 +1,100 @@
+blindness	is a	vision impairment
+blindness	may be caused by	cataract
+blindness	may be caused by	glaucoma
+blindness	may be caused by	age-related macular degeneration
+blindness	may be caused by	diabetic retinopathy
+blindness	may be caused by	retinal detachment
+blindness	increases risk of	falls
+cataract	is a	lens opacity
+cataract	causes	vision loss
+cataract	treated with	cataract surgery
+glaucoma	causes	blindness
+glaucoma	increases risk of	vision loss
+glaucoma	treated with	glaucoma surgery
+age-related macular degeneration	is a	leading cause of vision loss
+age-related macular degeneration	causes	central vision loss
+age-related macular degeneration	treated with	anti-VEGF therapy
+anti-VEGF therapy	is used to treat	age-related macular degeneration
+diabetic retinopathy	is a	complication of diabetes
+diabetic retinopathy	may cause	vision loss
+diabetes mellitus	is a risk factor for	diabetic retinopathy
+diabetic retinopathy	diagnosed by	fluorescein angiography
+visual acuity	is a	measure of vision
+intraocular pressure	is measured by	tonometry
+tonometry	is a	diagnostic test for glaucoma
+retinal detachment	is an	emergency
+retinal detachment	causes	vision loss
+macular edema	causes	vision loss
+retinitis pigmentosa	causes	vision loss
+optic neuropathy	causes	blindness
+optic nerve disease	is a	eye disease
+amblyopia	is a	vision impairment
+amblyopia	affects	visual acuity
+keratoconus	causes	distorted vision
+uveitis	can cause	vision loss
+diabetic macular edema	is a	complication of diabetic retinopathy
+vitreous hemorrhage	causes	vision loss
+retinal vein occlusion	causes	vision loss
+blind spot	is a	visual field defect
+visual field defect	reduces	visual function
+glaucoma	results in	visual field loss
+cataract surgery	improves	vision
+cataract surgery	reduces	blindness risk
+laser therapy	treats	diabetic retinopathy
+panretinal photocoagulation	treats	proliferative diabetic retinopathy
+bevacizumab	is used to treat	diabetic retinopathy
+anti-VEGF therapy	treats	age-related macular degeneration
+aflibercept	is used to treat	macular edema
+ranibizumab	is used to treat	diabetic retinopathy
+vitamin A deficiency	causes	night blindness
+night blindness	is a	vision impairment
+congenital vision defect	is a	vision impairment
+retinopathy of prematurity	affects	premature infants
+premature birth	increases risk for	retinopathy of prematurity
+vision screening	detects	vision defects
+ophthalmoscopy	is a	diagnostic tool for eye disease
+ophthalmology	studies	vision defects
+visual acuity	declines with	age
+age	is a risk factor for	presbyopia
+smoking	is a risk factor for	cataract
+smoking	is a risk factor for	age-related macular degeneration
+hypertension	is a risk factor for	retinal vein occlusion
+retinal vein occlusion	may cause	vision loss
+central serous retinopathy	causes	vision distortion
+optic disc edema	is a	cause of vision loss
+glaucoma	can be managed with	eye drops
+eye drops	are used to treat	glaucoma
+laser photocoagulation	treats	diabetic retinopathy
+panretinal photocoagulation	treats	proliferative diabetic retinopathy
+bevacizumab	is used to treat	diabetic retinopathy
+macular edema	is a cause of	vision loss
+aflibercept	is used to treat	macular edema
+ranibizumab	is used to treat	macular edema
+vitamin A supplementation	is used to prevent	night blindness
+night blindness	can be	symptom
+rubeosis iridis	is a	sign of diabetic retinopathy
+ocular trauma	can cause	vision loss
+traumatic cataract	follows	ocular trauma
+trachoma	causes	blindness
+retinal detachment	may occur after	ocular trauma
+central vision loss	results from	age-related macular degeneration
+glaucoma	can cause	irreversible vision loss
+macular hole	causes	central vision loss
+optic neuritis	may cause	vision loss
+optic neuritis	may indicate	multiple sclerosis
+macular scar	causes	vision loss
+ciliary body	is part of	eye anatomy
+retina	contains	photoreceptors
+photoreceptors	convert	light into neural signals
+cones	detect	color
+rods	detect	light
+retinal pigment epithelium	supports	photoreceptors
+aqueous humor	circulates in	anterior chamber
+cornea	contributes to	vision
+iris	controls	light entry
+pupil	regulates	light entering
+visual cortex	processes	visual information
+color vision deficiency	is a	hereditary condition
+color vision deficiency	affects	color perception
+color perception	depends on	cones
+central vision loss	is a	vision impairment

@@ -1,0 +1,100 @@
+headache	is a	symptom
+migraine	is a type of	headache
+migraine	is a	primary headache disorder
+headache	includes	migraine
+migraine	is a subtype of	headache
+cluster headache	is a	trigeminal autonomic cephalalgia
+tension-type headache	is a	primary headache
+headache	is more common in	females
+migraine	begins in	adolescence
+headache	has prevalence	global
+migraine	associated with	hormonal changes
+headache	triggers	stress
+headache	triggers	sleep deprivation
+headache	triggers	dehydration
+migraine	triggers	menses
+migraine	triggers	alcohol
+migraine	triggers	caffeine withdrawal
+headache	associated with	obesity
+headache	associated with	anxiety
+headache	associated with	depression
+migraine	presents with	unilateral throbbing pain
+migraine	presents with	photophobia
+migraine	presents with	phonophobia
+migraine	presents with	nausea
+migraine	presents with	vomiting
+headache	presents with	neck stiffness
+headache	presents with	scalp tenderness
+migraine	has aura	visual aura
+migraine	presents with	visual disturbance
+migraine	diagnosed by	ICHD criteria
+headache	evaluated with	neurological examination
+headache	evaluated with	MRI
+headache	evaluated with	CT scan
+headache	evaluated with	clinical evaluation
+headache	treated with	analgesics
+migraine	treated with	triptans
+migraine	treated with	CGRP inhibitors
+headache	treated with	NSAIDs
+headache	treated with	acetaminophen
+migraine	treated with	antiemetics
+migraine	managed with	lifestyle modification
+migraine	managed with	rest
+migraine	managed with	hydration
+migraine	prevented by	lifestyle modification
+migraine	prevented by	beta-blockers
+migraine	prevented by	topiramate
+migraine	prevented by	valproate
+migraine	prevented by	CGRP monoclonal antibodies
+migraine	managed with	acupuncture
+migraine	managed with	biofeedback
+migraine	managed with	cognitive behavioral therapy
+headache	requires urgent evaluation for	thunderclap headache
+headache	has red flag	fever
+headache	has red flag	neck stiffness
+headache	has red flag	papilledema
+headache	evaluated with	MRI brain
+headache	evaluated with	CT brain
+headache	ruled out by	imaging
+migraine	coexists with	anxiety disorders
+migraine	coexists with	depression
+headache	coexists with	hypertension
+headache	coexists with	obesity
+migraine	increases risk of	stroke
+migraine	increases risk of	cardiovascular disease
+headache	reduces	productivity
+headache	reduces	quality of life
+pediatric migraine	presents with	unilateral throbbing pain
+pediatric migraine	occurs in	children
+pregnant patient	experiences	headache
+migraine	worsens during	pregnancy
+triptan	safety in	pregnancy
+triptan	contraindicated with	ergot alkaloids
+triptan	contraindicated with	MAOI
+NSAID	contraindicated with	peptic ulcer disease
+triptan	side effect	chest tightness
+NSAID	side effect	gastritis
+topiramate	side effect	paresthesias
+valproate	side effect	weight gain
+migraine	mechanism	trigeminovascular activation
+migraine	mechanism	cortical spreading depression
+migraine	mechanism	neurogenic inflammation
+sleep deprivation	triggers	headache
+stress	triggers	headache
+hormonal changes	triggers	migraine
+tyramine-containing foods	triggers	migraine
+caffeine withdrawal	triggers	headache
+female sex	risk factor	migraine
+education	improves	treatment adherence
+cost	reduces	treatment adherence
+CBT	improves	migraine outcomes
+biofeedback	improves	migraine outcomes
+aura	is feature of	migraine
+photophobia	is symptom of	migraine
+headache	classified as	primary headache disorder
+headache	includes	secondary headaches
+migraine	impact on	work productivity
+thunderclap headache	indicates	subarachnoid hemorrhage
+weather changes	trigger	migraine
+sleep quality	affects	headache severity
+cognitive behavioral therapy	reduces	headache burden

@@ -1,0 +1,100 @@
+acute bronchitis	is a	respiratory infection
+acute bronchitis	is caused by	virus
+acute bronchitis	is caused by	rhinovirus
+acute bronchitis	is caused by	influenza virus
+acute bronchitis	is caused by	parainfluenza virus
+acute bronchitis	is caused by	coronavirus
+acute bronchitis	is caused by	adenovirus
+acute bronchitis	presents with	cough
+acute bronchitis	presents with	sputum production
+acute bronchitis	presents with	fatigue
+acute bronchitis	presents with	dyspnea
+acute bronchitis	presents with	wheeze
+acute bronchitis	presents with	chest tightness
+acute bronchitis	presents with	chest discomfort
+acute bronchitis	is diagnosed by	clinical evaluation
+acute bronchitis	is diagnosed by	chest auscultation
+acute bronchitis	is diagnosed by	chest radiograph
+acute bronchitis	is distinguished from	pneumonia
+pneumonia	is distinguished from	acute bronchitis
+acute bronchitis	resolves with	supportive care
+acute bronchitis	managed with	rest
+acute bronchitis	managed with	hydration
+acute bronchitis	managed with	bronchodilators
+acute bronchitis	managed with	antitussives
+acute bronchitis	not treated with	antibiotics
+antibiotics	not recommended for	acute bronchitis
+antibiotics	overused for	acute bronchitis
+smoking	is a risk factor for	acute bronchitis
+air pollution	is a risk factor for	acute bronchitis
+seasonal virus	is associated with	acute bronchitis incidence
+acute bronchitis	occurs in	adults
+acute bronchitis	occurs in	children
+acute bronchitis	lasts	weeks
+fever	occurs in	acute bronchitis
+wheezing	occurs with	acute bronchitis
+upper respiratory infection	coexists with	acute bronchitis
+acute bronchitis	can lead to	pneumonia
+pneumonia	can complicate	acute bronchitis
+chest radiograph	is used to	rule out pneumonia
+laboratory testing	is rarely required for	acute bronchitis
+white blood cell count	is not elevated in	acute bronchitis
+PCR testing	identifies	viral etiology
+influenza vaccination	reduces risk of	acute bronchitis
+RSV	is associated with	acute bronchitis in children
+human metapneumovirus	is associated with	acute bronchitis
+mycoplasma pneumoniae	is not a common cause of	acute bronchitis
+tobacco abstinence	reduces	acute bronchitis risk
+inhaled corticosteroids	have limited role in	acute bronchitis
+oral corticosteroids	not recommended for	uncomplicated acute bronchitis
+hydration	helps relieve	cough
+honey	provides	symptomatic relief for cough in acute bronchitis
+nebulized saline	provides	relief of cough in acute bronchitis
+nebulized bronchodilator	improves	symptoms in acute bronchitis with wheeze
+oxygen therapy	is indicated for	acute bronchitis with hypoxemia
+pulse oximetry	monitors	oxygenation in acute bronchitis
+chest physiotherapy	used for	acute bronchitis
+antibiotic stewardship	promotes	appropriate antibiotic use in acute bronchitis
+clinical guidelines	recommend	no antibiotics for acute bronchitis
+clinical guidelines	endorse	supportive care only for acute bronchitis
+pneumonia	is differential diagnosis for	acute bronchitis
+asthma	can be misdiagnosed as	acute bronchitis
+COPD	can be exacerbated by	acute bronchitis
+bronchodilator therapy	indicated in	acute bronchitis with wheeze
+short-acting beta-agonist	used in	acute bronchitis with wheeze
+spirometry	not routinely performed for	acute bronchitis
+hand hygiene	reduces	spread of viruses causing acute bronchitis
+influenza season	increases	consultations for acute bronchitis
+seasonal vaccination	reduces	respiratory infection burden including acute bronchitis
+cost of care	associated with	acute bronchitis
+treatment duration	is variable for	acute bronchitis
+adults	are affected by	acute bronchitis
+children	are affected by	acute bronchitis
+healthcare utilization	increases with	acute bronchitis
+antibiotic stewardship programs	reduce	antibiotic use in acute bronchitis
+clinical trial	evaluated	bronchodilators in acute bronchitis
+bronchodilator response	indicates	wheeze in acute bronchitis
+educational materials	improve	patient understanding of acute bronchitis
+patient satisfaction	improves with	appropriate management of acute bronchitis
+clinical documentation	includes	diagnosis of acute bronchitis
+recovery time	varies	acute bronchitis
+school absence	increases with	acute bronchitis
+morbidity	associated with	acute bronchitis
+mortality	risk is low in	acute bronchitis
+economic burden	associated with	acute bronchitis
+viral shedding	persists after	acute bronchitis
+quarantine guidelines	do not apply to	acute bronchitis
+telemedicine	provides	access for management of acute bronchitis
+outpatient care	preferred setting for	acute bronchitis
+clinical guidelines	updated in	2023
+CDC guidelines	recommend	no antibiotics for acute bronchitis
+EHR alerts	reduce	inappropriate antibiotic prescriptions for acute bronchitis
+rapid strep test	not indicated for	acute bronchitis
+lung imaging	not necessary for	uncomplicated acute bronchitis
+acute bronchitis	is a type of	lower respiratory tract infection
+lower respiratory tract infection	includes	acute bronchitis
+health literacy	influences	management of acute bronchitis
+public health campaigns	raise awareness of	acute bronchitis
+antibiotic duration	varies for	acute bronchitis
+viral etiology	contributes to	acute bronchitis incidence
+hand hygiene campaigns	reduce	incidence

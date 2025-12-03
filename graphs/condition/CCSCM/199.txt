@@ -1,0 +1,100 @@
+chronic ulcer of skin	is a	chronic wound
+chronic ulcer of skin	is associated with	infection
+chronic ulcer of skin	is associated with	diabetes mellitus
+chronic ulcer of skin	is associated with	venous insufficiency
+chronic ulcer of skin	is associated with	arterial insufficiency
+chronic ulcer of skin	is associated with	peripheral vascular disease
+chronic ulcer of skin	is associated with	smoking
+chronic ulcer of skin	requires	wound care
+chronic ulcer of skin	requires	debridement
+chronic ulcer of skin	requires	moist environment
+chronic ulcer of skin	requires	nutrition support
+chronic ulcer of skin	treated with	dressings
+chronic ulcer of skin	treated with	antibiotics
+chronic ulcer of skin	treated with	antiseptics
+chronic ulcer of skin	treated with	hydrogel
+chronic ulcer of skin	treated with	negative pressure therapy
+diabetes mellitus	increases	chronic ulcer risk
+venous insufficiency	predisposes to	chronic ulcer of skin
+arterial insufficiency	predisposes to	chronic ulcer of skin
+peripheral vascular disease	predisposes to	chronic ulcer of skin
+neuropathy	increases	ulcer risk
+obesity	increases	wound healing time
+aging	increases	chronic ulcer risk
+malnutrition	impairs	wound healing
+infection	complicates	chronic ulcer of skin
+biofilm	reduces	antibiotic efficacy
+ischemia	impairs	healing
+poor perfusion	impairs	healing
+smoking	impairs	wound healing
+alcohol excess	impairs	wound healing
+immobility	worsens	ulcer risk
+lymphedema	predisposes to	chronic ulcer of skin
+diabetic neuropathy	predisposes to	chronic ulcer of skin
+venous stasis	predisposes to	chronic ulcer of skin
+moist wound environment	promotes	healing
+dressings	maintain	moist environment
+debridement	removes	necrotic tissue
+necrotic tissue	impedes	healing
+granulation tissue	forms	wound bed
+growth factors	accelerate	wound healing
+negative pressure therapy	enhances	wound closure
+topical antibiotic	reduces	bacterial load
+systemic antibiotic	treats	infection
+antiseptic	reduces	biofilm formation
+growth factor	promotes	collagen deposition
+skin graft	provides	wound coverage
+skin flap	provides	durable closure
+hyperbaric oxygen therapy	aids	wound healing
+revascularization	improves	perfusion
+compression therapy	improves	venous return
+foot elevation	reduces	edema
+nutrition support	improves	healing
+protein intake	supports	wound healing
+vitamin C	supports	collagen synthesis
+zinc supplementation	supports	wound healing
+electrical stimulation	promotes	wound healing
+dressings	selected for	infection control
+wound cleansing	performed with	saline
+saline	used for	wound cleansing
+antibiotics	used for	infection
+antiseptics	used for	wound cleansing
+growth factor	enhances	epithelialization
+epithelialization	completes	wound closure
+scar formation	follows	healing
+fibrosis	reduces	mobility
+biofilm	protects	bacteria
+bacteria	colonize	chronic ulcer of skin
+granulation tissue	susceptible to	infection
+infection	increases	inflammation
+inflammation	promotes	tissue damage
+granulation tissue	matures into	scar tissue
+scar tissue	reduces	elasticity
+compression therapy	indicated for	venous ulcer
+pressure ulcer	is a	chronic ulcer of skin
+venous ulcer	is a	chronic ulcer of skin
+diabetic foot	is a	chronic ulcer of skin
+ulcer	may progress to	tissue necrosis
+tissue necrosis	increases	amputation risk
+amputation risk	increases	hospitalization risk
+chronic ulcer of skin	increases	hospitalization risk
+infection	increases	mortality risk
+necrosis	expands	ulcer base
+exudate	increases	moisture
+eschar	hinders	wound healing
+debridement	promotes	granulation
+wound bed	receives	debridement
+wound bed	prepared for	skin graft
+wound healing	improves	patient comfort
+treatment compliance	influences	outcome
+outcome	depends on	vascular status
+outcome	is predicted by	wound size
+wound size	correlates with	healing time
+age	influences	healing
+nutritional status	influences	wound healing
+smoking cessation	improves	wound healing
+infection control	improves	prognosis
+pressure injury	is a	chronic ulcer of skin
+arterial disease	complicates	chronic ulcer of skin
+diabetes complications	worsen	ulcer healing
+tissue oxygenation	improves	healing time

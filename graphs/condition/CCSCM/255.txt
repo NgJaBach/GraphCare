@@ -1,0 +1,100 @@
+administrative admission	is a type of	hospital admission
+social admission	is a type of	hospital admission
+administrative admission	is reason for	hospital admission
+administrative admission	associated with	homelessness
+administrative admission	associated with	housing insecurity
+administrative admission	associated with	poverty
+administrative admission	associated with	unemployment
+administrative admission	associated with	lack of social support
+administrative admission	associated with	caregiver burden
+administrative admission	associated with	social isolation
+administrative admission	associated with	elder abuse
+administrative admission	associated with	domestic violence
+administrative admission	associated with	substance use
+administrative admission	associated with	mental illness
+administrative admission	associated with	dementia risk
+administrative admission	associated with	chronic illness burden
+administrative admission	associated with	disability
+administrative admission	associated with	Medicaid
+administrative admission	associated with	Medicare
+administrative admission	associated with	uninsured
+administrative admission	correlated with	frailty
+administrative admission	correlated with	malnutrition
+administrative admission	correlated with	polypharmacy
+administrative admission	requires	social work evaluation
+administrative admission	requires	discharge planning
+administrative admission	requires	inpatient bed
+administrative admission	predicts	longer length of stay
+administrative admission	predicts	higher readmission risk
+administrative admission	predicts	higher mortality risk
+administrative admission	leads to	discharge to skilled nursing facility
+administrative admission	leads to	discharge to skilled nursing facility
+administrative admission	associated with	ED revisits
+administrative admission	associated with	higher cost
+administrative admission	associated with	risk of delirium
+administrative admission	associated with	caregiver stress
+administrative admission	associated with	housing placement
+administrative admission	associated with	social care needs
+administrative admission	linked to	hospital resource use
+administrative admission	linked to	discharge delay
+administrative admission	linked to	appointment nonadherence
+social admission	is a type of	hospital admission
+social admission	associated with	homelessness
+social admission	associated with	housing instability
+social admission	associated with	poverty
+social admission	associated with	lack of social support
+social admission	associated with	caregiver burden
+social admission	associated with	social isolation
+social admission	associated with	elder abuse
+social admission	associated with	domestic violence
+social admission	associated with	substance use
+social admission	associated with	mental illness
+social admission	associated with	dementia risk
+social admission	requires	social work assessment
+social admission	requires	case management
+social admission	requires	discharge planning
+social admission	predicts	longer length of stay
+social admission	predicts	higher readmission risk
+social admission	leads to	social services referral
+social admission	leads to	housing placement
+social admission	associated with	ED visits
+social admission	associated with	hospital costs
+social admission	associated with	caregiver burnout
+social admission	associated with	poor adherence
+social admission	associated with	fragmented care
+social admission	linked to	poverty-related malnutrition
+social admission	linked to	acute social crisis
+social admission	linked to	community support needs
+social admission	associated with	unemployment
+social admission	associated with	uninsured
+social admission	associated with	low income
+social admission	associated with	lack of transportation
+social admission	associated with	housing discrimination
+social admission	associated with	violence exposure
+social admission	associated with	social instability
+social admission	correlated with	food insecurity
+social admission	correlated with	caregiver support deficits
+social admission	correlated with	disability
+social admission	requires	housing assessment
+social admission	requires	guardianship involvement
+social admission	leads to	community resources linkage
+administrative admission	is influenced by	socioeconomic status
+administrative admission	is associated with	insurance status
+administrative admission	contributes to	bed occupancy
+administrative admission	associated with	discharge delay
+administrative admission	associated with	length of stay variation
+administrative admission	associated with	hospital readmission
+administrative admission	associated with	care coordination needs
+administrative admission	associated with	social service demand
+administrative admission	linked to	community resources
+administrative admission	linked to	outpatient follow-up nonattendance
+social admission	is influenced by	socioeconomic status
+social admission	is associated with	insurance status
+social admission	requires	care coordination
+social admission	requires	case management
+social admission	leads to	community services referral
+social admission	leads to	housing placement
+social admission	associated with	transportation barriers
+social admission	associated with	food insecurity
+social admission	associated with	caregiver availability
+social admission	associated with	social support networks

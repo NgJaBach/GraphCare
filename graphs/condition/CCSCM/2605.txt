@@ -1,0 +1,96 @@
+gunshot wound	is a	penetrating trauma
+gunshot wound	is caused by	firearm discharge
+gunshot wound	is coded by	firearm e-code
+gunshot wound	may cause	hemorrhage
+gunshot wound	may cause	pneumothorax
+gunshot wound	may cause	hemothorax
+gunshot wound	may cause	cardiac tamponade
+gunshot wound	may cause	vascular injury
+gunshot wound	may cause	bowel perforation
+gunshot wound	may cause	liver laceration
+gunshot wound	may cause	splenic injury
+gunshot wound	may cause	intracranial injury
+gunshot wound	may cause	skull fracture
+gunshot wound	may cause	brain injury
+gunshot wound	may cause	spinal cord injury
+gunshot wound	may cause	nerve injury
+gunshot wound	involves	skull
+gunshot wound	involves	brain
+gunshot wound	involves	heart
+gunshot wound	involves	lung
+gunshot wound	involves	liver
+gunshot wound	involves	spleen
+gunshot wound	involves	intestine
+gunshot wound	involves	kidney
+gunshot wound	involves	bone fracture
+gunshot wound	diagnosed with	CT scan
+gunshot wound	diagnosed with	X-ray
+gunshot wound	diagnosed with	FAST ultrasound
+gunshot wound	treated with	surgery
+surgery	is performed for	gunshot wound
+surgery	may include	debridement
+surgery	may include	vascular repair
+surgery	may include	craniotomy
+surgery	may include	thoracotomy
+gunshot wound	may require	chest tube
+gunshot wound	may require	mechanical ventilation
+gunshot wound	may require	blood transfusion
+gunshot wound	may require	ICU admission
+gunshot wound	may require	rehabilitation
+gunshot wound	leads to	hospital admission
+gunshot wound	leads to	ICU admission
+gunshot wound	leads to	hospital stay
+gunshot wound	leads to	length of stay
+gunshot wound	leads to	mortality
+gunshot wound	increases	complication rate
+gunshot wound	increases	risk of infection
+gunshot wound	increases	risk of sepsis
+gunshot wound	increases	risk of hemorrhagic shock
+gunshot wound	associated with	pneumonia
+gunshot wound	associated with	acute respiratory distress syndrome
+gunshot wound	associated with	urinary retention
+gunshot wound	associated with	sexual dysfunction
+gunshot wound	associated with	PTSD
+gunshot wound	results in	disability
+gunshot wound	results in	cognitive impairment
+gunshot wound	results in	paralysis
+gunshot wound	results in	amputation
+gunshot wound	results in	scarring
+gunshot wound	increases	healthcare cost
+gunshot wound	requires	tetanus vaccination
+firearm injury	is a	preventable injury
+gunshot wound	is coded by	external cause code
+external cause code	is used for	firearm injuries
+gunshot wound	is associated with	homicide
+gunshot wound	is associated with	suicide
+gunshot wound	is associated with	accidental injury
+gunshot wound	has	mortality risk
+gunshot wound	correlates with	injury severity score
+injury severity score	correlates with	mortality
+gunshot wound	correlates with	ICU length of stay
+gunshot wound	correlates with	hospital expenditure
+gunshot wound	correlates with	rehabilitation needs
+gunshot wound	is followed by	medical follow-up
+gunshot wound	is followed by	surgical follow-up
+gunshot wound	is followed by	psychiatric follow-up
+gunshot wound	is linked to	chronic pain
+gunshot wound	is linked to	cognitive decline
+gunshot wound	is linked to	mobility impairment
+gunshot wound	is linked to	social vulnerability
+gunshot wound	requires	limb amputation
+gunshot wound	requires	skin graft
+gunshot wound	requires	physical therapy
+gunshot wound	requires	occupational therapy
+gunshot wound	results in	scar formation
+gunshot wound	is coded as	violent injury
+gunshot wound	is coded as	intentional injury
+gunshot wound	is associated with	elder injury
+gunshot wound	is associated with	pediatric injury
+gunshot wound	is associated with	adult injury
+gunshot wound	is associated with	male patients
+gunshot wound	is associated with	female patients
+gunshot wound	is associated with	urban setting
+gunshot wound	is associated with	rural setting
+gunshot wound	is associated with	delay in EMS transport
+gunshot wound	is associated with	prehospital EMS time
+gunshot wound	is associated with	time to definitive care

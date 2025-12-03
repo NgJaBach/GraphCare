@@ -1,0 +1,100 @@
+pedal cyclist	is coded by	external cause code
+external cause code	codes for	pedal cyclist
+pedal cyclist	associated with	bicycle crash
+bicycle crash	occurs in	nontraffic incident
+nontraffic incident	is a	external cause category
+pedal cyclist	linked to	head injury
+head injury	increases	hospitalization
+hospitalization	lengthens	length of stay
+length of stay	predicts	hospital cost
+hospital cost	drives	payer decisions
+pedal cyclist	connected to	concussion
+concussion	raises	mortality risk
+mortality risk	correlates with	age
+age	influences	mortality
+bicycle crash	leads to	fracture
+fracture	requires	immobilization
+immobilization	reduces	mobility
+mobility	affects	independence
+independence	declines in	elderly patients
+elderly patients	have	higher mortality
+bicycle crash	causes	limb fracture
+limb fracture	treated by	orthopedics
+orthopedics	manages	rehabilitation
+rehabilitation	shortens	length of stay
+length of stay	influences	hospital throughput
+throughput	improves	ED efficiency
+ED efficiency	reduces	wait time
+wait time	impacts	patient satisfaction
+pedal cyclist	appears in	emergency department record
+emergency department record	contains	injury profile
+injury profile	informs	risk scoring
+risk scoring	supports	triage decisions
+risk scoring	predicts	readmission
+readmission	indicates	complication
+complication	raises	ICU admission
+ICU admission	extends	ICU stay
+ICU stay	increases	hospital cost
+bicycle crash	more common in	urban areas
+urban areas	have	higher traffic exposure
+traffic exposure	relates to	crash severity
+crash severity	predicts	mortality
+external cause code	assists	injury surveillance
+injury surveillance	enhances	public health response
+public health response	informs	prevention policy
+prevention policy	reduces	bicycle crashes
+bicycle crashes	are recorded in	trauma registry
+trauma registry	provides	patient-level data
+patient-level data	enables	risk adjustment
+risk adjustment	improves	benchmarking
+pedal cyclist	included in	demographic data
+demographic data	covers	age distribution
+age distribution	affects	injury risk
+injury risk	varies by	sex
+sex	influences	injury pattern
+injury pattern	guides	imaging decisions
+imaging decisions	depend on	mechanism
+mechanism	described as	nontraffic
+nontraffic	describes	bicycle crashes
+bicycle crashes	produce	head injuries
+head injuries	cause	coma
+coma	necessitates	intubation
+intubation	lengthens	ICU stay
+ICU stay	drives	hospital resource use
+hospital resource use	determines	staffing
+staffing	affects	patient care quality
+patient care quality	ties to	outcomes
+outcomes	include	survival
+survival	linked to	rapid rehab
+rapid rehab	improves	functional outcomes
+functional outcomes	tracked by	outcome scores
+outcome scores	used for	risk stratification
+risk stratification	informs	discharge planning
+discharge planning	reduces	readmission
+readmission	linked to	home support
+home support	influences	recovery pace
+recovery pace	varies with	comorbidity
+comorbidity	elevates	mortality risk
+mortality risk	higher in	elderly patients
+elderly patients	require	gait training
+gait training	delivered by	physiotherapy
+physiotherapy	improves	mobility
+mobility	influences	independence level
+independence level	affects	caregiver burden
+caregiver burden	associated with	home discharge
+home discharge	requires	social work assessment
+social work assessment	guides	discharge destination
+discharge destination	includes	home
+home	reduces	hospital bed occupancy
+hospital bed occupancy	affects	hospital revenue
+hospital revenue	supports	healthcare investment
+healthcare investment	improves	infrastructure
+infrastructure	enables	faster imaging
+faster imaging	reduces	time to diagnosis
+time to diagnosis	improves	prognosis
+prognosis	depends on	injury severity
+injury severity	assessed by	scoring system
+scoring system	influences	treatment choice
+treatment choice	varies by	patient age
+patient age	alters	prognosis
+pedal cyclist	is a	demographic category

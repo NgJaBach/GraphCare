@@ -1,0 +1,100 @@
+malpresentation	is a	fetal presentation abnormality
+malposition	is a	fetal position abnormality
+breech presentation	is a	malpresentation subtype
+occiput posterior	is a	malpresentation subtype
+transverse lie	is a	malpresentation subtype
+face presentation	is a	malpresentation subtype
+brow presentation	is a	malpresentation subtype
+occiput posterior	increases risk for	back labor
+occiput posterior	increases risk for	prolonged labor
+breech presentation	increases risk for	cesarean delivery
+breech presentation	increases risk for	neonatal distress
+malpresentation	complicates	vaginal delivery
+malpresentation	associated with	dystocia
+ultrasound	detects	malpresentation
+ultrasound	detects	breech presentation
+physical examination	identifies	malpresentation
+external cephalic version	is used for	malpresentation
+external cephalic version	increases likelihood of	vaginal delivery
+external cephalic version	contraindicated in	placenta previa
+placenta previa	associated with	breech presentation
+uterine fibroid	predisposes to	breech presentation
+uterine scar	predisposes to	malpresentation
+uterine anomaly	predisposes to	malpresentation
+fetal anomaly	predisposes to	malpresentation
+multiparity	increases risk for	malpresentation
+term pregnancy	increases risk for	breech presentation
+postterm pregnancy	increases risk for	malpresentation
+maternal obesity	increases risk for	malpresentation
+advanced maternal age	associated with	malpresentation
+amniotic fluid abnormality	associated with	malpresentation
+fetal lie	influences	delivery mode
+pelvis size	influences	malpresentation risk
+fetal head engagement	delayed by	malpresentation
+pelvic adequacy	evaluated for	malpresentation
+delivery planning	depends on	malpresentation
+cesarean delivery	indicated for	breech presentation
+vaginal delivery	possible with	breech presentation at term
+neonatal outcome	worsened by	breech birth
+Apgar score	lower in	breech births
+NICU admission	higher with	breech birth
+birth trauma	risk increased by	breech delivery
+back labor	associated with	occiput posterior
+longer labor	associated with	occiput posterior
+fetal surveillance	intensified during	malpresentation pregnancy
+fetal heart rate monitoring	standard in	malpresentation labor
+delivery room	prepared for	breech delivery
+anesthesia plan	tailored for	malpresentation
+surgical team	prepared for	breech delivery
+family counseling	provided for	malpresentation
+risk assessment	performed for	malpresentation
+ultrasound	used for	malpresentation assessment
+MRI	rarely used for	malpresentation
+care plan	includes	malpresentation management
+birth plan	addresses	breech presentation
+postpartum care	adjusted for	cesarean breech
+maternal recovery	longer after	cesarean delivery
+cord prolapse risk	increases with	malpresentation
+cord prolapse risk	increases with	breech birth
+pediatric follow-up	recommended after	breech birth
+perinatal mortality	associated with	breech birth
+delivery outcome	compared between	breech and cephalic presentation
+obstetrician	monitors	malpresentation labor
+nurse	assists	breech delivery
+safety protocol	ensures	breech delivery safety
+emergency cesarean kit	prepared for	breech birth
+neonatal resuscitation team	on standby for	breech birth
+airway management	planned for	breech delivery
+blood loss	greater with	cesarean delivery
+uterine atony	risk increased by	cesarean delivery
+maternal postpartum pain	managed with	analgesia after cesarean
+postpartum infection	risk after	cesarean delivery
+length of hospital stay	longer after	cesarean delivery
+readmission risk	higher after	cesarean delivery
+neonatal respiratory distress	associated with	breech birth
+neonatal respiratory support	required after	breech birth
+delivery planning	emphasizes	malpresentation management
+birth canal	adequacy influences	malpresentation management
+sonographer	assesses	malpresentation
+fetal well-being	monitored during	malpresentation labor
+perinatal morbidity	higher with	malpresentation
+parity	influences	likelihood of malpresentation
+smoking	associated with	malpresentation
+adverse outcomes	more common with	malpresentation
+term Breech	management	cesarean delivery
+nulliparity	associated with	breech presentation
+healthcare system	supports	breech delivery
+clinical guideline	recommends	malpresentation management
+care pathway	includes	malpresentation
+training program	covers	breech delivery techniques
+simulation exercise	used for	breech delivery training
+quality metric	tracks	breech birth outcomes
+outcome research	compares	breech vs cephalic
+risk stratification	used for	malpresentation
+antenatal visit	includes	malpresentation assessment
+imaging	informs	malpresentation planning
+care coordination	for	breech birth
+family planning	after	breech delivery
+prenatal education	covers	malpresentation options
+postnatal check	schedule	breech outcome
+clinical outcome	compared between	malpresentation types

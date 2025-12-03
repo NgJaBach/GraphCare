@@ -1,0 +1,100 @@
+intestinal obstruction without hernia	is a	mechanical bowel obstruction
+adhesions	cause	intestinal obstruction without hernia
+postoperative adhesions	cause	intestinal obstruction without hernia
+abdominal surgery	increases risk for	adhesions
+prior abdominal surgery	increases risk for	adhesions
+Crohn's disease	causes	small bowel obstruction
+colorectal cancer	causes	large bowel obstruction
+diverticulitis	causes	large bowel obstruction
+sigmoid volvulus	is a	large bowel obstruction
+small bowel tumor	causes	small bowel obstruction
+bezoar	causes	intestinal obstruction without hernia
+gallstone ileus	causes	intestinal obstruction without hernia
+radiation enteritis	causes	intestinal obstruction without hernia
+paralytic ileus	is a	non-mechanical bowel obstruction
+intussusception	causes	intestinal obstruction without hernia
+tumor	causes	intestinal obstruction without hernia
+benign stricture	causes	small bowel obstruction
+gastrointestinal neoplasm	causes	obstruction without hernia
+intestinal obstruction without hernia	presents with	abdominal pain
+intestinal obstruction without hernia	presents with	vomiting
+intestinal obstruction without hernia	presents with	abdominal distension
+intestinal obstruction without hernia	presents with	obstipation
+vomiting	leads to	dehydration
+tachycardia	accompanies	intestinal obstruction without hernia
+fever	indicates	complicated obstruction
+peritonitis	indicates	strangulated obstruction
+ischemia	results from	strangulated obstruction
+perforation	results from	delayed treatment of obstruction
+mortality	increases with	delayed surgery in obstruction
+readmission	occurs after	bowel obstruction
+length of stay	increases with	complicated obstruction
+nasogastric tube	used for	intestinal obstruction without hernia
+IV fluids	essential in	intestinal obstruction without hernia
+electrolyte correction	required in	intestinal obstruction without hernia
+antibiotics	used for	suspected infection in intestinal obstruction without hernia
+imaging	aids in	diagnosis of intestinal obstruction without hernia
+CT scan	confirms	intestinal obstruction without hernia
+abdominal X-ray	shows	air-fluid levels in intestinal obstruction without hernia
+ultrasound	limited utility in	intestinal obstruction without hernia
+surgical consultation	necessary in	intestinal obstruction without hernia
+adhesiolysis	performed for	intestinal obstruction without hernia
+laparotomy	performed for	intestinal obstruction without hernia
+laparoscopy	used for	intestinal obstruction without hernia
+adhesive obstruction	treated with	adhesiolysis
+adhesions	recurrence after	adhesiolysis
+open surgery	used for	strangulated obstruction
+stoma	created for	large bowel obstruction
+resection	performed for	obstruction due to tumor
+stent	used for	malignant obstruction
+nonoperative management	appropriate in	stable non-strangulated obstruction
+decompression	relieves	intraluminal pressure
+intravenous fluids	restore	intravascular volume
+electrolyte disturbances	correct	dehydration
+lactate	increases with	bowel ischemia
+white blood cell count	elevated in	strangulation
+creatinine	rises with	dehydration
+kidney function	affected by	dehydration in obstruction
+hypovolemia	contributes to	renal failure
+contrast-enhanced CT	detects	bowel ischemia
+CT angiography	detects	mesenteric ischemia in obstruction
+radiologic signs of strangulation	predict	need for surgery
+gas-filled bowel loops	seen on	abdominal X-ray
+dilated proximal loops	seen on	CT scan
+air-fluid levels	seen on	abdominal radiograph
+bowel viability	assessed by	CT scan
+neoplasm	indicates	poor prognosis in obstruction
+elderly patients	have higher risk for	complications in obstruction
+diabetes mellitus	comorbidity affecting	obstruction management
+malnutrition	worsens	recovery from obstruction
+early recognition	improves	prognosis in obstruction
+peritoneal signs	require	urgent surgery
+ischemic bowel	necessitates	resection
+bowel resection	associated with	fistula risk
+fistula	risk after	bowel resection
+adhesion barrier	reduces recurrence of	adhesions
+early surgical intervention	improves	survival in obstruction
+delayed presentation	worsens	prognosis in obstruction
+malignant obstruction	requires	palliative management
+palliative care	involved in	malignant obstruction
+nutrition support	essential in	prolonged obstruction
+parenteral nutrition	used for	prolonged obstruction
+metabolic acidosis	results from	bowel ischemia
+metabolic alkalosis	results from	vomiting in obstruction
+hyponatremia	occurs in	bowel obstruction
+hypokalemia	occurs in	bowel obstruction
+electrolyte abnormalities	prolong recovery in obstruction
+kidney injury	risk after	obstruction with dehydration
+hospitalization	follows	obstruction
+ICU stay	occurs in	complicated obstruction
+surgery timing	affects	mortality in obstruction
+bowel necrosis	results from	prolonged obstruction
+ischemic necrosis	leads to	perforation
+perforation	leads to	peritonitis
+adhesions	can reform after	adhesiolysis
+colostomy	created for	large bowel obstruction
+recurrence	occurs after	adhesiolysis
+rehabilitation	required after	prolonged obstruction
+follow-up imaging	scheduled after	obstruction treatment
+mortality	lower with	timely management
+predictors of outcome	include	lactate level

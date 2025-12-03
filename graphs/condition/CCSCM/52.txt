@@ -1,0 +1,92 @@
+iron deficiency	causes	microcytic anemia
+iron deficiency	causes	fatigue
+iron deficiency	causes	pallor
+iron deficiency	associated with	restless legs syndrome
+iron deficiency	diagnosed by	low ferritin
+iron deficiency	diagnosed by	low transferrin saturation
+iron deficiency	treated with	iron supplementation
+iron deficiency	increases	infection risk
+iron deficiency	predisposes to	cognitive impairment in children
+iron deficiency	associated with	koilonychia
+folate deficiency	causes	megaloblastic anemia
+folate deficiency	leads to	neural tube defects
+folate deficiency	increases	homocysteine
+folate deficiency	treated with	folic acid supplementation
+folate deficiency	associated with	poor fetal outcomes
+vitamin B12 deficiency	causes	megaloblastic anemia
+vitamin B12 deficiency	causes	neuropathy
+vitamin B12 deficiency	diagnosed by	methylmalonic acid elevation
+vitamin B12 deficiency	treated with	vitamin B12 supplementation
+vitamin D deficiency	causes	osteomalacia
+vitamin D deficiency	risk factor for	fracture
+vitamin D deficiency	associated with	hypocalcemia
+calcium deficiency	causes	osteoporosis
+calcium deficiency	leads to	tetany
+calcium deficiency	treated with	calcium supplementation
+iodine deficiency	causes	goiter
+iodine deficiency	causes	hypothyroidism
+iodine deficiency	risk factor for	cretinism
+zinc deficiency	causes	growth retardation in children
+zinc deficiency	associated with	poor wound healing
+zinc deficiency	diagnosed by	low zinc levels
+selenium deficiency	causes	Keshan disease
+selenium deficiency	associated with	cardiomyopathy
+selenium deficiency	treated with	selenium supplementation
+magnesium deficiency	causes	tetany
+magnesium deficiency	associated with	arrhythmias
+magnesium deficiency	treated with	magnesium supplementation
+vitamin C deficiency	causes	scurvy
+vitamin C deficiency	causes	gingival bleeding
+vitamin C deficiency	corrected by	adequate vitamin C intake
+thiamine deficiency	causes	beriberi
+thiamine deficiency	causes	Wernicke encephalopathy
+thiamine deficiency	diagnosed by	low thiamine levels
+thiamine deficiency	treated with	thiamine supplementation
+riboflavin deficiency	causes	cheilosis
+riboflavin deficiency	presents with	stomatitis
+riboflavin deficiency	treated with	riboflavin supplementation
+niacin deficiency	causes	pellagra
+niacin deficiency	presents with	dermatitis
+niacin deficiency	treated with	niacin supplementation
+vitamin A deficiency	causes	night blindness
+vitamin A deficiency	causes	xerophthalmia
+vitamin A deficiency	associated with	keratomalacia
+vitamin A deficiency	treated with	retinol supplementation
+vitamin K deficiency	causes	bleeding diathesis
+vitamin K deficiency	leads to	coagulopathy
+vitamin K deficiency	corrected by	vitamin K administration
+protein-energy malnutrition	causes	growth failure
+protein-energy malnutrition	associated with	increased infection risk
+protein-energy malnutrition	treated with	nutritional rehabilitation
+protein-energy malnutrition	increases	mortality risk
+calorie deficiency	associated with	undernutrition
+potassium deficiency	causes	arrhythmia
+potassium deficiency	leads to	muscle weakness
+potassium deficiency	diagnosed by	low potassium levels
+phosphorus deficiency	causes	osteomalacia
+phosphorus deficiency	treated with	phosphate supplementation
+copper deficiency	causes	anemia
+copper deficiency	associated with	neutropenia
+copper deficiency	diagnosed by	low copper levels
+copper deficiency	treated with	copper supplementation
+vitamin E deficiency	causes	neuropathy
+vitamin E deficiency	leads to	ataxia
+vitamin E deficiency	treated with	vitamin E supplementation
+protein deficiency	causes	hypoalbuminemia
+protein deficiency	leads to	edema
+protein deficiency	treated with	nutritional supplementation
+protein deficiency	associated with	immune dysfunction
+pantothenic acid deficiency	causes	fatigue
+biotin deficiency	causes	dermatitis
+biotin deficiency	leads to	hair loss
+biotin deficiency	treated with	biotin supplementation
+pharmacologic deficiency	leads to	measurable deficits
+nutritional deficiency	associated with	malnutrition
+nutritional deficiency	increases	hospitalization risk
+nutritional deficiency	diagnosed by	serum nutrient levels
+nutritional deficiency	managed with	dietary modification
+caloric restriction deficiency	leads to	energy deficit
+iodine deficiency	corrected by	iodized salt
+selenium deficiency	associated with	thyroid dysfunction
+iron deficiency	prevalence	common in menstruating females
+iron deficiency	burden	global health issue

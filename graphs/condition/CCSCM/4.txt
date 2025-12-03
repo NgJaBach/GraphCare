@@ -1,0 +1,100 @@
+mycoses	caused by	fungi
+mycoses	caused by	dermatophytes
+mycoses	caused by	yeasts
+mycoses	caused by	molds
+mycoses	caused by	dimorphic fungi
+mycoses	transmitted by	spores
+mycoses	transmitted by	airborne particles
+mycoses	included in	superficial mycoses
+mycoses	includes	candidiasis
+mycoses	includes	cryptococcosis
+mycoses	includes	histoplasmosis
+mycoses	includes	aspergillosis
+mycoses	includes	blastomycosis
+mycoses	includes	coccidioidomycosis
+mycoses	treated with	amphotericin B
+mycoses	treated with	fluconazole
+mycoses	treated with	itraconazole
+mycoses	treated with	voriconazole
+mycoses	treated with	posaconazole
+mycoses	treated with	caspofungin
+mycoses	treated with	micafungin
+mycoses	treated with	anidulafungin
+mycoses	treated with	isavuconazole
+mycoses	resistant to	azoles
+mycoses	resistant to	echinocandins
+mycoses	resistant to	amphotericin B
+mycoses	associated with	immunodeficiency
+mycoses	associated with	HIV infection
+mycoses	associated with	diabetes mellitus
+mycoses	associated with	malnutrition
+mycoses	associated with	neutropenia
+mycoses	associated with	corticosteroid use
+mycoses	associated with	chemotherapy
+mycoses	associated with	organ transplantation
+mycoses	more common in	elderly
+mycoses	more common in	children
+mycoses	more common in	tropical regions
+mycoses	more common in	humid climates
+mycoses	more common in	rural areas
+mycoses	more common in	urban areas
+mycoses	seen in	ICU patients
+mycoses	seen in	hospitalized patients
+mycoses	risk factor for	hospitalization
+mycoses	associated with	sepsis
+mycoses	associated with	meningitis
+mycoses	associated with	pneumonia
+mycoses	associated with	endocarditis
+mycoses	associated with	osteomyelitis
+mycoses	associated with	sinusitis
+mycoses	associated with	skin ulcers
+mycoses	associated with	nail infection
+mycoses	associated with	keratitis
+mycoses	disseminate to	central nervous system
+mycoses	disseminate to	bone
+mycoses	disseminate to	eye
+mycoses	cause	tissue necrosis
+mycoses	cause	abscess formation
+mycoses	cause	granulomatous inflammation
+mycoses	cause	necrosis
+mycoses	cause	vascular invasion
+mycoses	diagnosed by	fungal culture
+mycoses	diagnosed by	histopathology
+mycoses	diagnosed by	direct microscopy
+mycoses	diagnosed by	serology
+mycoses	diagnosed by	PCR testing
+mycoses	diagnosed by	antigen testing
+mycoses	monitored by	liver function tests
+mycoses	monitored by	kidney function tests
+mycoses	monitored by	therapeutic drug monitoring
+mycoses	confirmed by	culture
+mycoses	confirmed by	histology
+mycoses	associated with	biofilm formation
+mycoses	associated with	prosthetic device infection
+mycoses	risk factor for	relapse
+mycoses	risk factor for	recurrence
+mycoses	prevented by	antifungal prophylaxis
+mycoses	associated with	prolonged hospitalization
+mycoses	impact on	quality of life
+mycoses	included in	invasive fungal infections
+mycoses	included in	systemic fungal infections
+mycoses	considered	emergent infection
+mycoses	associated with	fever
+mycoses	present as	skin lesion
+mycoses	present as	mucosal infection
+mycoses	present as	pulmonary nodules
+mycoses	present as	sinus obstruction
+mycoses	present as	ocular infection
+mycoses	present as	CNS involvement
+mycoses	cause	electrolyte disturbance
+mycoses	require	prolonged therapy
+mycoses	require	combination therapy
+mycoses	influence	antifungal stewardship
+mycoses	subject to	antifungal prophylaxis
+mycoses	surveillance	fungal infections
+mycoses	global burden	fungal infections
+mycoses	burden of disease	fungal infections
+mycoses	research focus	antifungal vaccines
+mycoses	relevance to	immunology
+mycoses	economic impact	hospitalization costs
+mycoses	public health concern	fungal infections

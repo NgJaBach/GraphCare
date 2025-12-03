@@ -1,0 +1,100 @@
+other aftercare	includes	wound care
+other aftercare	includes	pain management
+other aftercare	includes	medication reconciliation
+other aftercare	requires	home health visits
+other aftercare	requires	caregiver support
+other aftercare	involves	physical therapy
+other aftercare	involves	occupational therapy
+other aftercare	involves	speech therapy
+other aftercare	requires	follow-up appointment
+other aftercare	requires	nutrition plan
+other aftercare	requires	hydration plan
+other aftercare	requires	wound dressing changes
+other aftercare	requires	infection monitoring
+other aftercare	reduces	readmission risk
+other aftercare	reduces	complication risk
+other aftercare	reduces	mortality risk
+other aftercare	associated with	patient satisfaction
+other aftercare	improves	quality of life
+other aftercare	provides	discharge instructions
+other aftercare	provides	education materials
+other aftercare	offers	caregiver training
+other aftercare	includes	nutrition counseling
+other aftercare	requires	weight monitoring
+other aftercare	requires	blood pressure monitoring
+other aftercare	requires	glucose monitoring
+other aftercare	monitors	vital signs
+other aftercare	uses	discharge checklist
+other aftercare	improves	self-care ability
+other aftercare	linked to	adherence
+other aftercare	linked to	home safety
+other aftercare	correlates with	functional status
+other aftercare	associated with	infection rates
+other aftercare	impacts	care coordination
+other aftercare	impacts	caregiver burden
+other aftercare	affects	scheduling complexity
+other aftercare	affects	transport needs
+other aftercare	adds	telehealth visits
+other aftercare	adds	pharmacy review
+other aftercare	requires	medication education
+other aftercare	requires	fall risk assessment
+other aftercare	includes	safety checklist
+other aftercare	includes	wound assessment
+other aftercare	supports	goal setting
+other aftercare	supports	home exercise program
+other aftercare	coordinates	social work referral
+other aftercare	coordinates	physical therapy plan
+other aftercare	coordinates	meal plan
+other aftercare	monitors	weight change
+other aftercare	monitors	edema signs
+other aftercare	supports	sleep hygiene
+other aftercare	monitors	electrolyte balance
+other aftercare	includes	vaccination reminders
+other aftercare	includes	allergy review
+other aftercare	ensures	patient education
+other aftercare	ensures	caregiver education
+other aftercare	relates to	chronic disease management
+other aftercare	relates to	acute care plan
+other aftercare	interacts with	primary care
+other aftercare	interacts with	pharmacist
+other aftercare	relates to	health maintenance
+other aftercare	linked with	nutrition status
+other aftercare	guides	risk stratification
+other aftercare	guides	discharge planning
+other aftercare	contributes to	continuity of care
+other aftercare	reduces	hospital stay length
+other aftercare	reduces	patient anxiety
+other aftercare	associated with	pain scores
+other aftercare	associated with	swelling reduction
+other aftercare	supports	mobility improvement
+other aftercare	supports	independence
+other aftercare	requires	sterile technique
+other aftercare	includes	patient education materials
+other aftercare	involves	occupational therapy evaluation
+other aftercare	requires	follow-up imaging
+other aftercare	requires	laboratory tests
+other aftercare	instructs	activity restrictions
+other aftercare	includes	wound dressing supplies
+other aftercare	includes	rehabilitation equipment
+other aftercare	depends on	social support
+other aftercare	reduces	caregiver burden
+other aftercare	needs	accessibility planning
+other aftercare	supports	readmission prevention
+other aftercare	improves	patient safety
+other aftercare	aligns with	discharge criteria
+other aftercare	adheres to	care plan
+other aftercare	informs	prognosis
+other aftercare	informs	risk assessment
+other aftercare	screens for	depression
+other aftercare	screens for	anxiety
+other aftercare	screens for	malnutrition
+other aftercare	promotes	self-management
+other aftercare	standardizes	follow-up schedule
+other aftercare	sets	alert threshold
+other aftercare	provides	telehealth support
+other aftercare	involves	home safety assessment
+other aftercare	includes	safety education
+other aftercare	aligns with	patient goals
+other aftercare	supports	palliative considerations
+other aftercare	uses	digital tools
+other aftercare	enhances	provider communication

@@ -1,0 +1,100 @@
+other fractures	is associated with	osteoporosis
+other fractures	is associated with	falls
+other fractures	is associated with	malnutrition
+other fractures	is associated with	diabetes
+other fractures	is associated with	anemia
+other fractures	is associated with	frailty
+other fractures	is associated with	obesity
+other fractures	is associated with	smoking
+other fractures	is associated with	age
+other fractures	is associated with	kidney_disease
+other fractures	predicts	mortality
+other fractures	predicts	readmission
+other fractures	predicts	discharge_destination
+other fractures	predicts	length_of_stay
+other fractures	predicts	chronic_pain
+other fractures	predicts	rehabilitation_need
+other fractures	predicts	infection
+other fractures	predicts	delirium
+other fractures	predicts	functional_decline
+other fractures	predicts	disability
+other fractures	increases	hospital_cost
+other fractures	requires	orthopedic_surgery
+other fractures	requires	anesthesia
+other fractures	is treated_with	analgesics
+other fractures	is treated_with	physical_therapy
+other fractures	is treated_with	immobilization
+other fractures	is treated_with	antibiotics
+other fractures	is diagnosed_by	xray
+other fractures	is diagnosed_by	ct_scan
+other fractures	is diagnosed_by	mri
+other fractures	is diagnosed_by	ultrasound
+osteoporosis	increases	fracture_risk
+osteoporosis	is_a	bone_condition
+falls	cause	fractures
+age	increases	fracture_risk
+bone_density	correlates_with	fracture_risk
+calcium_deficiency	increases	fracture_risk
+vitamin_d_deficiency	increases	fracture_risk
+sarcopenia	increases	fracture_healing_time
+frailty	increases	fracture_healing_time
+diabetes	increases	fracture_healing_time
+hypertension	associates_with	fractures
+chronic_kidney_disease	increases	complication_risk_in_fracture
+COPD	increases	fracture_complications
+heart_failure	increases	readmission_risk
+malnutrition	increases	discharge_delay
+anemia	increases	wound_healing_time
+infection	increases	readmission_risk
+pain	influences	mobility
+casts	provide	fracture_stabilization
+cast_immobilization	stabilizes	fracture
+external_fixator	stabilizes	fracture
+surgical_repair	improves	alignment
+bone_grafting	aids	fracture_healing
+bone_marker	indicates	healing_progress
+rehabilitation_program	improves	mobility
+physical_therapy	enhances	bone_healing
+osteoporosis_treatment	reduces	fracture_risk
+bone_health	improves	independence
+weightbearing_exercise	improves	bone_density
+calcium_supplementation	reduces	fracture_risk
+calcium_vitamin_d	reduces	fracture_risk
+bone_density_scan	measures	fracture_risk
+bone_density_scan	used_for	fracture_assessment
+hip_fracture	is_common_in	elderly
+vertebral_fracture	causes	back_pain
+pelvic_fracture	leads_to	bedrest
+forearm_fracture	heals_with	immobilization
+radius_fracture	heals_with	immobilization
+scaphoid_fracture	requires	early_diagnosis
+distal_radius_fracture	associated_with	osteoporosis
+clavicle_fracture	associated_with	falls
+mandible_fracture	treated_by	surgery
+distal_tibia_fracture	treated_with	external_fixation
+ankle_fracture	treated_with	immobilization
+shoulder_fracture	treated_with	sling
+finger_fracture	heals_with	immobilization
+stress_fracture	occurs_in	athletes
+greenstick_fracture	occurs_in	children
+pathologic_fracture	occurs_in	malignancy
+osteomyelitis_in_fracture	complicates	healing
+surgery	reduces	fracture_displacement
+imaging	monitors	fracture_healing
+bone_loss	worsens	fracture_risk
+bone_marrow_injury	accompanies	fracture
+bone_fragility	increases	fracture_risk
+sarcopenia	increases	falls_risk
+sarcopenia	predicts	mobility_decline
+mobility_decline	worsens_with	fracture
+pain_management	depends_on	analgesics
+analgesics	provide	analgesia
+surgery	reduces	healing_outcome
+immobilization	extends	healing_time
+blood_loss	is_prevalent_in	fracture_surgery
+infection	after_surgery	fracture
+rehabilitation	reduces	disability
+gait_instability	persists_after	fracture
+bone_stimulation	promotes	healing
+bone_fragment	results_in	soft_tissue_injury
+orthopedic_surgeon	performs	fracture_fixation

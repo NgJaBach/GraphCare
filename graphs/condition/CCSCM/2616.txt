@@ -1,0 +1,100 @@
+ e code	codes for	adverse effects of medical care 
+ e code	indicates	iatrogenic injury 
+ e code	identifies	hospital-acquired infection 
+ e code	records	adverse event 
+ e code	used for	patient safety issue 
+ external-cause code	codes for	adverse effects of medical care 
+ external-cause code	denotes	iatrogenic injury 
+ external-cause code	tracks	hospital-acquired infection 
+ external-cause code	relates to	adverse event 
+ external-cause code	used for	morbidity 
+ iatrogenic injury	is a	adverse event 
+ iatrogenic injury	causes	morbidity 
+ iatrogenic injury	leads to	readmission 
+ iatrogenic injury	increases	hospital costs 
+ iatrogenic injury	associated with	mortality 
+ hospital-acquired infection	is a	infection 
+ hospital-acquired infection	leads to	mortality 
+ hospital-acquired infection	increases	length of stay 
+ hospital-acquired infection	predicts	readmission 
+ hospital-acquired infection	causes	morbidity 
+ postoperative complication	is a	adverse event 
+ postoperative complication	increases	length of stay 
+ postoperative complication	leads to	mortality 
+ postoperative complication	contributes to	morbidity 
+ postoperative complication	codes for	adverse effects of medical care 
+ transfusion reaction	is a	adverse event 
+ transfusion reaction	causes	anemia 
+ transfusion reaction	leads to	mortality 
+ transfusion reaction	increases	length of stay 
+ transfusion reaction	associated with	hospital costs 
+ adverse drug reaction	is a	adverse effect of medical care 
+ adverse drug reaction	causes	morbidity 
+ adverse drug reaction	increases	hospital costs 
+ adverse drug reaction	leads to	readmission 
+ adverse drug reaction	associated with	mortality 
+ surgical error	leads to	postoperative complication 
+ surgical error	increases	length of stay 
+ surgical error	causes	mortality 
+ surgical error	codes for	e code 
+ surgical error	associated with	iatrogenic injury 
+ wrong-site surgery	is a	surgical complication 
+ wrong-site surgery	leads to	mortality 
+ wrong-site surgery	causes	readmission 
+ wrong-site surgery	increases	hospital costs 
+ wrong-patient identification	is a	patient-safety issue 
+ wrong-patient identification	leads to	adverse event 
+ wrong-patient identification	associated with	iatrogenic injury 
+ wrong-patient identification	resulting in	misdiagnosis 
+ anesthesia complication	is a	adverse event 
+ anesthesia complication	increases	length of stay 
+ anesthesia complication	causes	mortality 
+ anesthesia complication	codes for	e code 
+ anesthesia complication	associated with	hospital costs 
+ device-related complication	is a	adverse event 
+ device-related complication	leads to	readmission 
+ device-related complication	increases	length of stay 
+ device-related complication	causes	mortality 
+ device-related complication	codes for	e code 
+ medication error	is a	iatrogenic event 
+ medication error	leads to	adverse drug reaction 
+ medication error	increases	hospital costs 
+ medication error	causes	morbidity 
+ medication error	codes for	e code 
+ nosocomial infection	is a	hospital-acquired infection 
+ nosocomial infection	leads to	mortality 
+ nosocomial infection	increases	length of stay 
+ nosocomial infection	causes	morbidity 
+ nosocomial infection	tracked by	e codes 
+ readmission	is a	adverse outcome of care 
+ readmission	increases	costs 
+ readmission	predicts	mortality 
+ readmission	leads to	extended length of stay 
+ readmission	associated with	iatrogenic injury 
+ length of stay	is a	hospital metric 
+ length of stay	increases	cost 
+ length of stay	correlates with	mortality 
+ length of stay	indicates	adverse outcomes 
+ mortality	is a	patient outcome 
+ mortality	associated with	adverse events 
+ mortality	increases	costs 
+ mortality	predicted by	nephrotoxicity 
+ nephrotoxicity	is a	adverse drug reaction 
+ nephrotoxicity	leads to	acute kidney injury 
+ nephrotoxicity	increases	mortality 
+ nephrotoxicity	influences	hospital costs 
+ acute kidney injury	is a	adverse event 
+ acute kidney injury	leads to	mortality 
+ acute kidney injury	increases	length of stay 
+ acute kidney injury	results in	readmission 
+ acute kidney injury	associated with	nephrotoxicity 
+ electrolyte disturbance	is a	adverse effect of medical care 
+ electrolyte disturbance	causes	morbidity 
+ electrolyte disturbance	leads to	readmission 
+ electrolyte disturbance	increases	mortality 
+ electrolyte disturbance	is a	complication of care 
+ anemia	is a	consequence of blood loss 
+ anemia	increases	readmission 
+ anemia	associated with	mortality 
+ blood loss	contributes to	anemia 
+ blood loss	leads to	transfusion reaction 

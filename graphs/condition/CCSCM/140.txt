@@ -1,0 +1,101 @@
+gastritis	associated with	Helicobacter pylori infection
+gastritis	caused by	NSAID use
+gastritis	caused by	alcohol use
+gastritis	caused by	autoimmune process
+gastritis	caused by	bile reflux
+gastritis	presents with	epigastric pain
+gastritis	presents with	nausea
+gastritis	presents with	vomiting
+gastritis	presents with	dyspepsia
+gastritis	presents with	early satiety
+gastritis	diagnosed by	endoscopy
+gastritis	diagnosed by	gastric biopsy
+gastritis	diagnosed by	H. pylori testing
+gastritis	tested by	urea breath test
+gastritis	tested by	stool antigen test
+gastritis	associated with	peptic ulcer disease
+gastritis	can cause	iron deficiency anemia
+gastritis	can cause	pernicious anemia
+gastritis	increases risk for	gastric cancer
+gastritis	treated with	proton pump inhibitors
+gastritis	treated with	antibiotics for H. pylori
+gastritis	treated with	bismuth quadruple therapy
+gastritis	managed by	NSAID cessation
+gastritis	managed by	alcohol abstinence
+gastritis	managed by	dietary modification
+gastritis	monitored by	follow-up endoscopy
+gastritis	has subtype	autoimmune gastritis
+autoimmune gastritis	associated with	B12 deficiency
+autoimmune gastritis	associated with	pernicious anemia
+H. pylori infection	tested by	urea breath test
+H. pylori infection	tested by	stool antigen test
+H. pylori infection	treated with	clarithromycin-based therapy
+H. pylori infection	treated with	quadruple therapy
+H. pylori infection	eradicated by	combination therapy
+H. pylori infection	associated with	gastric inflammation
+H. pylori infection	diagnosed by	endoscopy with biopsy
+H. pylori infection	diagnosed by	urea breath test
+gastritis	increases risk for	intestinal metaplasia
+gastritis	diagnosed by	histology
+gastritis	managed with	proton pump inhibitors
+gastritis	managed with	H2 receptor antagonists
+gastritis	managed with	sucralfate
+gastritis	managed with	bismuth subsalicylate
+gastritis	managed with	lifestyle modification
+gastritis	surveillance	endoscopy
+gastritis	surveillance	biopsy
+gastritis	endoscopic finding	erythematous mucosa
+gastritis	endoscopic finding	mucosal edema
+gastritis	endoscopic finding	erosions
+gastritis	biopsy finding	mucosal inflammation
+gastritis	biopsy finding	mucosal atrophy
+gastritis	complication	GI bleeding
+gastritis	complication	perforation
+gastritis	complication	anemia
+gastritis	long-term complication	intestinal metaplasia
+gastritis	long-term complication	gastric atrophy
+gastritis	long-term complication	gastric cancer risk
+gastritis	differential diagnosis	peptic ulcer disease
+gastritis	differential diagnosis	gastritis variants
+duodenitis	associated with	gastritis
+duodenitis	caused by	NSAID use
+duodenitis	caused by	H. pylori infection
+duodenitis	presents with	epigastric pain
+duodenitis	treated with	proton pump inhibitors
+duodenitis	diagnosed by	endoscopy
+duodenitis	diagnosed by	biopsy
+duodenitis	managed with	H. pylori eradication therapy
+duodenitis	managed with	acid suppression
+duodenitis	associated with	duodenal ulcers
+duodenitis	coexists with	gastritis
+gastritis	risk factor for	gastric ulcers
+gastritis	risk factor for	GI bleeding
+gastritis	diagnostic clue	epigastric pain
+gastritis	diagnostic clue	endoscopic findings
+gastritis	prognosis after eradication	favorable
+gastritis	prognosis after GI bleeding	variable
+gastritis	associated with	MALT lymphoma
+gastritis	associated with	autoimmune thyroid disease
+gastritis	associated with	celiac disease
+gastritis	present in	elderly
+gastritis	prevalence	higher in developing regions
+gastritis	prevalence	higher in older patients
+H. pylori infection	prevalence	higher in developing regions
+H. pylori infection	transmission	fecal-oral route
+H. pylori infection	transmission	oral-oral route
+gastritis	outcome	symptom relief
+gastritis	outcome	mucosal healing
+gastritis	outcome	recurrence rate
+gastritis	laboratory finding	anemia
+gastritis	laboratory finding	raised CRP
+autoimmune gastritis	associated with	parietal cell antibodies
+gastritis	associated with	parietal cell antibodies
+gastritis	management includes	eradication therapy
+gastritis	management includes	diet modification
+gastritis recurrence	frequency	high after NSAID exposure
+gastritis recurrence	frequency	after H. pylori reinfection
+duodenitis recurrence	frequency	after NSAID exposure
+gastritis differential diagnosis	includes	erosive gastritis
+gastritis follow-up testing	includes	H. pylori status
+gastritis follow-up testing	includes	CBC
+gastritis	recurrence	post-therapy

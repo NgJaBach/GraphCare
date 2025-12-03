@@ -1,0 +1,101 @@
+attention-deficit	is a	neurodevelopmental disorder
+attention-deficit	is diagnosed with	DSM-5 criteria
+attention-deficit	presents with	hyperactivity
+attention-deficit	presents with	inattention
+attention-deficit	presents with	impulsivity
+attention-deficit	is screened with	Conners' rating scales
+attention-deficit	is screened with	Vanderbilt scales
+attention-deficit	treated with	stimulants
+attention-deficit	treated with	methylphenidate
+attention-deficit	treated with	amphetamine
+attention-deficit	treated with	atomoxetine
+attention-deficit	treated with	guanfacine
+attention-deficit	treated with	behavioral therapy
+attention-deficit	treated with	parent management training
+attention-deficit	treated with	cognitive behavioral therapy
+attention-deficit	prognosis with	early intervention
+attention-deficit	prognosis with	multimodal therapy
+attention-deficit	risk factor for	academic underachievement
+attention-deficit	risk factor for	learning disability
+attention-deficit	risk factor for	school failure
+attention-deficit	risk factor for	driving impairment
+attention-deficit	comorbidity with	oppositional defiant disorder
+attention-deficit	comorbidity with	conduct disorder
+attention-deficit	comorbidity with	anxiety disorder
+attention-deficit	comorbidity with	mood disorder
+attention-deficit	comorbidity with	autism spectrum disorder
+attention-deficit	comorbidity with	sleep disorder
+attention-deficit	comorbidity with	substance use disorder
+attention-deficit	prevalence in	males
+attention-deficit	prevalence in	children
+attention-deficit	onset in	childhood
+attention-deficit	more common in	boys
+attention-deficit	associated with	family history of ADHD
+attention-deficit	observed in	pediatric populations
+attention-deficit	observed in	adolescents
+attention-deficit	impacts	classroom performance
+attention-deficit	impacts	peer relationships
+attention-deficit	impacts	family functioning
+attention-deficit	associated with	sleep problems
+attention-deficit	associated with	aggression problems
+attention-deficit	associated with	temperament issues
+attention-deficit	influenced by	socioeconomic status
+attention-deficit	influenced by	parenting quality
+attention-deficit	influenced by	prenatal exposure to toxins
+attention-deficit	predicted by	maternal smoking
+attention-deficit	predicted by	premature birth
+attention-deficit	related to	executive function deficits
+attention-deficit	related to	dopamine signaling disruption
+attention-deficit	related to	norepinephrine signaling disruption
+attention-deficit	related to	prefrontal cortex dysfunction
+attention-deficit	related to	functional connectivity alteration
+attention-deficit	related to	cortical thickness reduction
+attention-deficit	related to	polygenic risk
+attention-deficit	related to	family genetics
+attention-deficit	measured by	IQ score
+attention-deficit	measured by	executive function tests
+attention-deficit	measured by	attention scale
+attention-deficit	measured by	behavior rating scale
+attention-deficit	treated with	nonstimulant therapy
+attention-deficit	managed with	behavior modification
+attention-deficit	monitored with	follow-up visits
+attention-deficit	evaluated with	neuropsychological testing
+attention-deficit	evaluated with	vision screening
+attention-deficit	evaluated with	education assessment
+attention-deficit	treated with	dietary interventions
+attention-deficit	improved with	regular physical activity
+attention-deficit	improved with	structured routine
+attention-deficit	improved with	consistent sleep schedule
+attention-deficit	improved with	regular exercise
+attention-deficit	worsened by	screen time before bed
+attention-deficit	worsened by	poor nutrition
+oppositional defiant disorder	coexists with	attention-deficit
+conduct disorder	coexists with	attention-deficit
+anxiety disorder	coexists with	attention-deficit
+mood disorder	coexists with	attention-deficit
+autism spectrum disorder	coexists with	attention-deficit
+sleep disorder	coexists with	attention-deficit
+substance use disorder	coexists with	attention-deficit
+Conners rating scale	used for	attention-deficit
+Vanderbilt scales	used for	attention-deficit
+methylphenidate	used for	attention-deficit
+atomoxetine	used for	attention-deficit
+guanfacine	used for	attention-deficit
+behavioral therapy	effective for	attention-deficit
+parent management training	effective for	attention-deficit
+cognitive behavioral therapy	effective for	attention-deficit
+sleep hygiene education	effective for	attention-deficit
+school-based program	reduces	attention-deficit symptoms
+attention-deficit	improved with	physical activity
+attention-deficit	reduced by	regular sleep
+attention-deficit	reduced by	routine structure
+attention-deficit	associated with	family conflict
+attention-deficit	associated with	teacher frustration
+attention-deficit	pronounced in	early childhood
+attention-deficit	more common in	urban populations
+attention-deficit	diagnosed in	childhood
+attention-deficit	requires	educational accommodations
+attention-deficit	relates to	working memory deficits
+attention-deficit	studied with	longitudinal cohorts
+attention-deficit	priority for	pediatric psychiatry
+attention-deficit	monitored through	follow-up assessments

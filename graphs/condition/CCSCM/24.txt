@@ -1,0 +1,100 @@
+breast cancer	is a	malignant neoplasm
+breast cancer	may metastasize to	bone
+breast cancer	may metastasize to	liver
+breast cancer	may metastasize to	lung
+breast cancer	may metastasize to	brain
+breast cancer	is associated with	estrogen receptor status
+breast cancer	is associated with	HER2 status
+breast cancer	is associated with	progesterone receptor status
+breast cancer	is linked with	luminal subtype
+breast cancer	is linked with	triple-negative subtype
+breast cancer	associated with	BRCA mutation
+BRCA mutation	increases	breast cancer risk
+age	is risk factor for	breast cancer
+family history	is risk factor for	breast cancer
+diabetes	is risk factor for	breast cancer
+obesity	is risk factor for	breast cancer
+smoking	is risk factor for	breast cancer
+alcohol use	is risk factor for	breast cancer
+breast cancer	associated with	recurrence
+breast cancer	associated with	mortality
+breast cancer	associated with	readmission
+breast cancer	associated with	metastasis
+breast cancer	treated with	chemotherapy
+breast cancer	treated with	radiotherapy
+breast cancer	treated with	surgery
+breast cancer	treated with	targeted therapy
+breast cancer	treated with	hormonal therapy
+tamoxifen	is a	selective estrogen receptor modulator
+letrozole	is a	aromatase inhibitor
+anastrozole	is a	aromatase inhibitor
+trastuzumab	is a	monoclonal antibody
+trastuzumab	treats	HER2 positive breast cancer
+trastuzumab	causes	cardiotoxicity
+bone metastasis	causes	bone pain
+bone metastasis	leads to	fracture
+liver metastasis	causes	hepatic failure
+lung metastasis	causes	hypoxemia
+brain metastasis	causes	neurological deficit
+neutropenia	increases	infection risk
+anemia	reduces	quality of life
+thrombocytopenia	increases	bleeding risk
+chemotherapy	causes	nausea
+chemotherapy	causes	vomiting
+chemotherapy	causes	fatigue
+radiation therapy	causes	skin dermatitis
+radiation therapy	causes	fatigue
+surgery	reduces	tumor burden
+lumpectomy	preserves	breast
+mastectomy	removes	breast tissue
+axillary lymph node dissection	removes	lymph nodes
+sentinel lymph node biopsy	assesses	nodal status
+nodal status	guides	adjuvant therapy
+tumor size	correlates with	prognosis
+tumor grade	correlates with	prognosis
+estrogen receptor status	predicts	endocrine therapy response
+HER2 status	predicts	trastuzumab response
+BRCA mutation	predicts	PARP inhibitor eligibility
+PARP inhibitor	treats	BRCA mutant breast cancer
+PARP inhibitor	targets	BRCA mutated tumor
+olaparib	is a	PARP inhibitor
+immune checkpoint inhibitor	is used for	PD-L1 positive breast cancer
+PD-L1 status	predicts	checkpoint inhibitor response
+mammography	detects	breast cancer
+MRI	evaluates	extent of disease
+ultrasound	detects	mass
+biopsy	confirms	cancer diagnosis
+sentinel node	indicates	nodal involvement
+nodal involvement	worsens	prognosis
+radiotherapy	improves	local control
+adjuvant chemotherapy	reduces	recurrence
+neoadjuvant therapy	reduces	tumor size
+clinical trial	offers	experimental therapy
+breast cancer	increases	healthcare cost
+cost of care	influences	treatment choice
+insurance coverage	influences	access to therapy
+access to therapy	affects	outcomes
+comorbidity	influences	mortality
+obesity	worsens	prognosis
+diabetes	worsens	prognosis
+hypertension	worsens	prognosis
+smoking	worsens	prognosis
+age	correlates with	mortality
+age	correlates with	recurrence
+menopausal status	influences	endocrine therapy eligibility
+duration of therapy	affects	adherence
+adherence	affects	treatment outcomes
+radiotherapy	reduces	local recurrence
+breast-conserving surgery	requires	clear margins
+clear margins	indicate	tumor clearance
+tumor-free margins	indicate	complete resection
+tumor margins	predict	prognosis
+receptor status	guides	therapy selection
+tumor markers	correlate with	prognosis
+HER2 overexpression	defines	aggressive disease
+triple-negative breast cancer	lacks	hormone receptor expression
+triple-negative breast cancer	lacks	HER2 expression
+bone pain	indicates	bone metastasis
+lymphatic invasion	associates with	metastasis
+neoadjuvant chemotherapy	yields	pathological complete response
+pathological complete response	predicts	long-term survival

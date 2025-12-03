@@ -1,0 +1,100 @@
+bacterial infection	is a	type of infection
+bacterial infection	caused by	bacteria
+bacterial infection	caused by	Staphylococcus aureus
+bacterial infection	caused by	Streptococcus pneumoniae
+bacterial infection	caused by	Escherichia coli
+bacterial infection	caused by	Klebsiella pneumoniae
+bacterial infection	caused by	Pseudomonas aeruginosa
+bacterial infection	caused by	Neisseria meningitidis
+bacterial infection	caused by	Streptococcus pyogenes
+bacterial infection	caused by	Enterococcus faecalis
+bacterial infection	affects	respiratory tract
+bacterial infection	affects	urinary tract
+bacterial infection	affects	skin
+bacterial infection	affects	bloodstream
+culture	detects	bacteria
+blood culture	detects	bacteremia
+Gram stain	identifies	bacteria
+bacterial infection	diagnosed by	culture
+bacterial infection	diagnosed by	blood culture
+bacterial infection	diagnosed by	Gram stain
+bacterial infection	diagnosed by	imaging
+culture	yields	pathogens
+bacteria	show	antimicrobial resistance
+antimicrobial resistance	complicates	treatment of bacterial infection
+bacteria	develop	resistance
+bacterial infection	treated with	antibiotics
+bacterial infection	treated with	intravenous fluids
+bacterial infection	treated with	debridement
+broad-spectrum antibiotics	used for	bacterial infection
+empirical therapy	used for	bacterial infection
+antibiotics	reduce	bacterial load
+antibiotics	cause	adverse effects
+bacterial infection	may cause	sepsis
+bacterial infection	may cause	septic shock
+bacteria	cause	endocarditis
+bacteremia	may lead to	septic shock
+abscess	may complicate	bacterial infection
+osteomyelitis	may arise from	bacterial infection
+meningitis	may arise from	bacterial infection
+urinary tract infection	may progress to	kidney dysfunction
+invasive device	increases	risk of bacterial infection
+catheter use	increases	risk of bloodstream infection
+immunocompromised state	increases	risk of bacterial infection
+renal impairment	increases	risk of bacterial infection
+diabetes mellitus	increases	risk of bacterial infection
+elderly	increases	risk of bacterial infection
+neonates	have	higher risk of bacterial infection
+prior antibiotic exposure	increases	risk of resistant bacterial infection
+antibiotic stewardship	reduces	resistance emergence
+sepsis	commonly accompanies	bacterial infection
+septic shock	requires	vasopressors
+vasopressors	are used for	septic shock
+hospitalization	required for	severe bacterial infection
+ICU admission	required for	severe bacterial infection
+culture results	guide	antibiotic therapy
+Gram stain	rapid test for	bacteria
+PCR testing	detects	bacterial DNA
+biomarker	indicates	bacterial infection
+procalcitonin	indicates	bacterial infection
+CRP	indicates	bacterial infection
+neutrophils	rise in	bacterial infection
+white blood cell count	elevated in	bacterial infection
+lactate	elevated in	septic shock
+biofilm formation	contributes to	chronic bacterial infection
+occupational exposure	associated with	bacterial infection
+intravenous catheter	increases	risk of bloodstream infection
+surgical site infection	is a	bacterial infection
+urine culture	confirms	urinary tract infection
+blood culture	confirms	bacteremia
+culture	identifies	pathogens
+antibiotic resistance	increases	treatment failure
+treatment failure	leads to	prolonged hospitalization
+prolonged hospitalization	increases	cost of care
+healthcare costs	increase with	bacterial infection
+admission rate	increases with	bacterial infection
+mortality	associated with	bacterial infection
+death	can result from	bacterial infection
+rehospitalization	related to	bacterial infection
+quality of life	decreases after	bacterial infection
+scar formation	may occur after	skin infection
+antibiotic exposure	selects for	resistant strains
+transmission	occurs via	contact
+infection control	prevents	spread of infection
+nosocomial infection	occurs in	hospital
+community-acquired infection	occurs in	community
+recurrence	occurs after	bacterial infection
+bacteriuria	indicates	urinary tract infection
+pneumonia	is a	bacterial infection
+meningitis	is a	bacterial infection
+endocarditis	is a	bacterial infection
+gram-negative bacteria	resist	cephalosporins
+MRSA	is a	resistant pathogen
+imaging	supports	diagnosis of bacterial infection
+culture	yields	pathogens
+pathogen	is identified by	culture
+sepsis	increases	mortality risk
+antibiotics	reduce	mortality in bacterial infection
+bacteria	cause	infection
+inflammatory response	amplifies	tissue injury
+treatment	improves	patient outcomes

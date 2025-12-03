@@ -1,0 +1,101 @@
+burn	is a	trauma
+burn	is associated with	inhalation injury
+burn	is associated with	wound infection
+burn	is associated with	sepsis
+burn	is associated with	mortality
+burn	requires	fluid resuscitation
+burn	requires	ICU admission
+burn	requires	mechanical ventilation
+burn	treated with	analgesia
+burn	treated with	debridement
+burn	treated with	wound care
+burn	treated with	skin graft
+burn	causes	hypovolemia
+burn	causes	electrolyte imbalance
+burn	causes	acidosis
+burn	causes	hypothermia
+burn	leads to	acute kidney injury
+burn	leads to	electrolyte disturbances
+burn	increases	length of stay
+burn	increases	hospital readmission
+inhalation injury	increases	airway edema
+inhalation injury	predicts	mortality
+inhalation injury	requires	airway protection
+inhalation injury	associated with	intubation
+fluid resuscitation	reduces	mortality
+fluid resuscitation	uses	crystalloids
+crystalloid	is used in	resuscitation
+colloid	is used in	resuscitation
+Parkland formula	guides	fluid resuscitation
+burn unit	improves	outcomes
+burn center	reduces	mortality
+skin graft	provides	wound closure
+wound care	reduces	infection
+antibiotics	treat	infection
+antibiotics	prevent	infection
+pain management	improves	comfort
+pain management	reduces	stress response
+burn	predisposes	infection
+burn	predisposes	scarring
+wound closure	improves	healing
+debridement	accelerates	wound healing
+infection	increases	hospital stay
+infection	increases	readmission risk
+sepsis	increases	mortality
+mortality	is associated with	age
+mortality	is associated with	burn size
+burn size	correlates with	mortality
+age	is a	risk factor
+smoking	increases	burn risk
+obesity	increases	wound infection
+diabetes mellitus	increases	infection risk
+COPD	increases	mortality
+season	affects	burn incidence
+scald burn	common in	children
+chemical burn	causes	tissue necrosis
+electrical	burn	predisposes	arrhythmia
+electrical burn	predisposes	arrhythmia
+burn center	provides	specialized care
+silicone sheet	reduces	scar formation
+scar	results from	burn
+keloid	risk after	burns
+burn scar	causes	itch
+itch	increases	discomfort
+pain score	predicts	length of stay
+delayed graft	increases	infection risk
+graft failure	increases	mortality risk
+debridement timing	affects	healing rate
+wound infection	delays	healing
+blood transfusion	associated with	infection risk
+hydration status	monitored by	urine output
+urine output	reflects	renal perfusion
+creatinine	increases	with burn shock
+povidone-iodine	used in	wound care
+chlorhexidine	used in	wound care
+tetanus vaccination	recommended for	burns
+tetanus booster	given with	burns
+topical antibiotic	used in	burns
+silver sulfadiazine	used in	burns
+nutrition status	affects	wound healing
+malnutrition	impairs	wound healing
+enteral nutrition	supports	wound healing
+parenteral nutrition	supports	patient recovery
+zinc oxide	used in	wound care
+electrolyte management	optimizes	recovery
+hyperglycemia	worsens	infection risk
+glucose control	improves	outcomes
+nutrition support	improves	wound healing
+immobilization	reduces	mobility
+physical therapy	improves	function
+burn edema	contributes to	tissue hypoxia
+fluid balance	influences	edema
+infection control	reduces	hospital stay
+wound culture	guides	antibiotic selection
+tetanus status	determines	vaccination need
+burn depth	determines	graft requirement
+scald injury	predominates in	children
+thermal burn	causes	tissue damage
+chemical burn	requires	chemical neutralization
+electric burn	damages	nerves
+healing rate	depends on	burn depth
+quality of life	affected by	burns

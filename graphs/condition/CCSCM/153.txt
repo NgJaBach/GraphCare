@@ -1,0 +1,101 @@
+gastrointestinal hemorrhage	is a	bleeding condition
+gastrointestinal hemorrhage	can be	upper GI bleed
+gastrointestinal hemorrhage	can be	lower GI bleed
+gastrointestinal hemorrhage	caused by	peptic ulcer disease
+gastrointestinal hemorrhage	caused by	esophageal varices
+gastrointestinal hemorrhage	caused by	gastritis
+gastrointestinal hemorrhage	caused by	Mallory-Weiss tear
+gastrointestinal hemorrhage	caused by	diverticular disease
+gastrointestinal hemorrhage	caused by	gastric cancer
+gastrointestinal hemorrhage	caused by	inflammatory bowel disease
+gastrointestinal hemorrhage	associated with	liver cirrhosis
+gastrointestinal hemorrhage	associated with	portal hypertension
+gastrointestinal hemorrhage	associated with	coagulopathy
+gastrointestinal hemorrhage	associated with	anticoagulant therapy
+gastrointestinal hemorrhage	associated with	NSAID use
+gastrointestinal hemorrhage	associated with	aspirin use
+gastrointestinal hemorrhage	risk factor for	hypovolemia
+gastrointestinal hemorrhage	risk factor for	shock
+gastrointestinal hemorrhage	treated with	endoscopy
+gastrointestinal hemorrhage	treated with	proton pump inhibitors
+gastrointestinal hemorrhage	treated with	octreotide
+gastrointestinal hemorrhage	treated with	tranexamic acid
+gastrointestinal hemorrhage	treated with	volume resuscitation
+gastrointestinal hemorrhage	monitored by	hemoglobin level
+gastrointestinal hemorrhage	monitored by	vital signs
+gastrointestinal hemorrhage	monitored by	urine output
+gastrointestinal hemorrhage	monitored by	imaging
+gastrointestinal hemorrhage	requires	blood transfusion
+gastrointestinal hemorrhage	requires	endoscopic therapy
+gastrointestinal hemorrhage	requires	ICU care
+gastrointestinal hemorrhage	associated with	blunt trauma
+gastrointestinal hemorrhage	associated with	coagulopathy of liver disease
+gastrointestinal hemorrhage	prognosis influenced by	Blatchford score
+gastrointestinal hemorrhage	prognosis influenced by	Rockall score
+gastrointestinal hemorrhage	prognosis influenced by	AIMS65 score
+gastrointestinal hemorrhage	associated with	melena
+gastrointestinal hemorrhage	associated with	hematemesis
+gastrointestinal hemorrhage	associated with	hematochezia
+gastrointestinal hemorrhage	source identified by	endoscopy
+gastrointestinal hemorrhage	source localized by	angiography
+endoscopy	used for	localization of bleeding source
+peptic ulcer disease	is a	major cause of upper GI bleeding
+esophageal varices	is a	major source of upper GI bleeding
+Mallory-Weiss syndrome	is a	cause of upper GI bleeding
+diverticulosis	is a	cause of lower GI bleeding
+angiodysplasia	is a	cause of lower GI bleeding
+gastric antral vascular ectasia	is a	cause of upper GI bleeding
+Helicobacter pylori infection	associated with	peptic ulcer disease
+Helicobacter pylori infection	associated with	gastritis
+liver disease	predisposes to	variceal bleeding
+liver cirrhosis	predisposes to	variceal bleeding
+liver cirrhosis	predisposes to	esophageal variceal bleeding
+anticoagulant therapy	increases risk of	gastrointestinal hemorrhage
+NSAID use	increases risk of	gastrointestinal hemorrhage
+aspirin use	increases risk of	gastrointestinal hemorrhage
+alcohol use	increases risk of	gastrointestinal hemorrhage
+gastric cancer	can cause	gastrointestinal hemorrhage
+duodenal ulcer	can cause	gastrointestinal hemorrhage
+gastritis	can cause	gastrointestinal hemorrhage
+inflammatory bowel disease	can cause	gastrointestinal hemorrhage
+diverticular disease	can cause	lower GI bleeding
+angiodysplasia	can cause	gastrointestinal bleeding
+gastrointestinal hemorrhage	prognosis improves with	timely endoscopy
+gastrointestinal hemorrhage	prognosis worsens with	delay in endoscopy
+gastrointestinal hemorrhage	requires	hospital admission
+gastrointestinal hemorrhage	requires	ICU admission
+gastrointestinal hemorrhage	associated with	iron deficiency anemia
+gastrointestinal hemorrhage	associated with	iron deficiency
+gastrointestinal hemorrhage	leads to	iron deficiency anemia
+gastrointestinal hemorrhage	leads to	hypovolemia
+gastrointestinal hemorrhage	leads to	shock
+gastrointestinal hemorrhage	increases	mortality
+gastrointestinal hemorrhage	increases	length of stay
+gastrointestinal hemorrhage	increases	transfusion requirement
+gastrointestinal hemorrhage	increases	hospital costs
+gastrointestinal hemorrhage	recurrence with	rebleeding
+rebleeding	increases	morbidity
+rebleeding	increases	mortality risk
+gastrointestinal hemorrhage	associated with	portal vein thrombosis
+portal hypertension	leads to	variceal bleeding
+variceal bleeding	source of	gastrointestinal hemorrhage
+gastrointestinal hemorrhage	localized by	endoscopy
+endoscopic therapy	reduces	rebleeding risk
+octreotide	used for	variceal bleeding
+vasopressin	used for	variceal bleeding
+transfusion	given for	gastrointestinal bleeding
+packed red blood cells	transfused for	gastrointestinal bleeding
+crystalloid fluids	used for	volume resuscitation
+normal saline	used for	volume resuscitation
+lactated Ringer's solution	used for	volume resuscitation
+antibiotics	given for	cirrhosis with GI bleeding
+gastric lavage	used for	GI bleeding management
+blood transfusion threshold	used to guide	GI bleed management
+hemoglobin threshold	guides	transfusion in GI bleed
+endoscopist	assesses	bleeding source
+gastroenterology consultation	recommended for	GI bleeding management
+gastrointestinal bleeding severity	determines	management strategy
+severity score	informs	treatment decisions in GI bleeding
+angiographic embolization	used for	uncontrolled GI bleeding
+surgical exploration	considered for	uncontrolled GI bleeding
+urgent endoscopy	recommended for	significant GI bleeding

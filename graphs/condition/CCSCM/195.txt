@@ -1,0 +1,118 @@
+postpartum hemorrhage	is complication of	birth
+uterine atony	causes	postpartum hemorrhage
+retained placenta	causes	postpartum hemorrhage
+endometritis	is postpartum infection	birth
+cesarean delivery	increases risk of	endometritis
+wound infection	is complication of	cesarean delivery
+antibiotic prophylaxis	reduces risk of	endometritis
+postpartum fever	indicates	infection
+postpartum infection	requires	antibiotic therapy
+postpartum sepsis	leads to	ICU admission
+blood loss	defines	postpartum hemorrhage severity
+tranexamic acid	reduces	postpartum hemorrhage mortality
+blood transfusion	required for	postpartum hemorrhage
+oxytocin	prevents	postpartum hemorrhage
+uterotonics	treat	uterine atony
+postpartum anemia	results from	blood loss
+iron supplementation	treats	postpartum iron deficiency
+iron deficiency anemia	causes	fatigue
+transfusion	carries risk of	transfusion reaction
+venous thromboembolism	is complication of	postpartum period
+cesarean delivery	increases risk of	venous thromboembolism
+thromboprophylaxis	reduces risk of	venous thromboembolism
+DVT	may cause	pulmonary embolism
+pulmonary embolism	causes	maternal death
+postpartum hypertension	occurs after	birth
+preeclampsia	may persist after	birth
+postpartum preeclampsia	requires	magnesium sulfate
+magnesium sulfate	used for	seizure prevention
+antihypertensive therapy	controls	blood pressure
+proteinuria	resolves with	postpartum period
+postpartum thyroiditis	is thyroid disorder	postpartum
+thyroid dysfunction	postpartum	affects lactation
+lactation	affected by	postpartum mood disorder
+postpartum depression	affects	maternal bonding
+postpartum depression	increases risk of	readmission
+postpartum depression	requires	psychiatric care
+postpartum psychosis	requires	hospitalization
+lactation support	improves	breastfeeding outcomes
+breastfeeding	promotes	maternal nutrition balance
+mastitis	occurs during	lactation
+breast engorgement	causes	discomfort
+lactation failure	leads to	formula supplementation
+urinary retention	occurs after	birth
+urinary tract infection	occurs postpartum	birth
+catheterization	increases risk of	urinary tract infection
+pelvic floor injury	increases risk of	urinary incontinence
+incontinence	persists after	birth
+pelvic floor dysfunction	affects	sexual function
+placenta accreta	risk factor	prior cesarean
+postpartum wound infection	treated with	antibiotics
+cesarean wound infection	treated with	drainage
+wound dehiscence	requires	surgical repair
+cesarean section	prolongs	hospital stay
+placenta previa	associated with	prior cesarean
+placenta accreta	associated with	prior cesarean
+antibiotic therapy	reduces risk of	postpartum infections
+broad-spectrum antibiotics	cover	postpartum pathogens
+iron therapy	increases	hemoglobin
+iron therapy	reduces	fatigue
+contraception	planned during	puerperium
+combined hormonal contraception	contraindicated in	postpartum thrombosis risk
+progestin-only contraception	preferred in	postpartum
+breastfeeding	delays	return of menses
+return of menses	occurs after	breastfeeding
+infection control measures	reduce risk of	postpartum infection
+vital signs monitoring	detects	postpartum complications
+postpartum checkup	assesses	maternal recovery
+blood pressure monitoring	essential during	puerperium
+urine output monitoring	essential during	puerperium
+pain management	affects	maternal recovery
+analgesia	used for	postpartum pain
+postpartum analgesia	improves	mobility
+immobility	increases risk of	venous thromboembolism
+postpartum anemia	increases risk of	tachycardia
+tachycardia	caused by	anemia
+breastfeeding	associated with	oxytocin release
+oxytocin release	promotes	lactation
+postpartum mood disorder	affects	infant bonding
+postpartum mood disorder	increases risk of	readmission
+psychotherapy	reduces	postpartum depressive symptoms
+prenatal education	reduces risk of	postpartum complications
+postpartum hypertension	managed with	antihypertensive drugs
+hypertension	risk factor for	preeclampsia
+uterine inversion	rare	postpartum hemorrhage
+postpartum infection	increases risk of	neonatal sepsis
+blood transfusion	increases risk of	alloimmunization
+alloimmunization	affects	future pregnancies
+uterine artery embolization	used for	postpartum hemorrhage
+uterine artery embolization	treats	postpartum bleeding
+infection control	reduces risk of	postoperative infection
+breast milk production	influenced by	prolactin
+lactation suppression	may be necessary	postpartum
+glucose tolerance	altered in	postpartum period
+postpartum diabetes	requires	glucose monitoring
+glucose monitoring	guides	postpartum diabetes management
+gestational diabetes	increases risk of	postpartum diabetes
+screening tests	performed for	postpartum diabetes
+postpartum check	includes	physical examination
+iron deficiency	associated with	pallor
+pallor	indicates	iron deficiency
+postpartum weight changes	reflect	fluid shifts
+fluid shifts	contribute to	postpartum edema
+postpartum edema	resolves with	diuresis
+diuresis	occurs during	puerperium
+puerperium care	includes	monitoring for infections
+infection risk	elevated by	cesarean delivery
+breastfeeding difficulties	associated with	maternal fatigue
+maternal fatigue	associated with	sleep deprivation
+sleep deprivation	worsens	mood disorders
+mood disorders	affect	social support need
+social support	improves	postpartum outcomes
+postpartum care plan	improves	readmission rates
+readmission rates	influenced by	postpartum complications
+postpartum visit timing	influences	adherence to care
+adherence to care	improves	recovery outcomes
+postpartum contraception counseling	improves	birth spacing
+birth spacing	reduces	interpregnancy interval complications
+interpregnancy interval	affects	maternal risk profile

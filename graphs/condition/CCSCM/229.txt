@@ -1,0 +1,102 @@
+upper limb fracture	occurs at	proximal humerus
+upper limb fracture	occurs at	distal radius
+upper limb fracture	occurs at	distal ulna
+upper limb fracture	occurs at	midshaft humerus
+upper limb fracture	occurs at	distal humerus
+upper limb fracture	occurs at	scaphoid
+upper limb fracture	occurs at	lunate
+upper limb fracture	occurs at	trapezium
+upper limb fracture	occurs at	clavicle
+upper limb fracture	occurs at	olecranon
+upper limb fracture	occurs at	scapula
+upper limb fracture	occurs at	humeral head
+upper limb fracture	classified as	closed fracture
+upper limb fracture	classified as	open fracture
+upper limb fracture	classified as	displaced fracture
+upper limb fracture	classified as	nondisplaced fracture
+upper limb fracture	classified as	comminuted fracture
+upper limb fracture	classified as	greenstick fracture
+upper limb fracture	classified as	transverse fracture
+upper limb fracture	classified as	oblique fracture
+upper limb fracture	classified as	spiral fracture
+upper limb fracture	classified as	impacted fracture
+upper limb fracture	treated with	immobilization
+upper limb fracture	treated with	plaster cast
+upper limb fracture	treated with	sling
+upper limb fracture	treated with	brace
+upper limb fracture	treated with	splint
+upper limb fracture	treated with	conservative management
+upper limb fracture	treated with	surgery
+upper limb fracture	treated with	open reduction internal fixation
+upper limb fracture	treated with	intramedullary nailing
+upper limb fracture	treated with	plate fixation
+upper limb fracture	treated with	external fixation
+upper limb fracture	treated with	bone graft
+upper limb fracture	treated with	percutaneous pinning
+upper limb fracture	treated with	physical therapy
+upper limb fracture	treated with	occupational therapy
+upper limb fracture	treated with	analgesia
+upper limb fracture	requires	anesthesia
+upper limb fracture	requires	hospitalization
+upper limb fracture	requires	follow-up
+upper limb fracture	requires	rehabilitation
+upper limb fracture	may cause	malunion
+upper limb fracture	may cause	nonunion
+upper limb fracture	may cause	infection
+upper limb fracture	may cause	nerve injury
+upper limb fracture	may cause	vascular injury
+upper limb fracture	may cause	joint stiffness
+upper limb fracture	may cause	complex regional pain syndrome
+upper limb fracture	may cause	osteoarthritis
+upper limb fracture	may cause	chronic pain
+upper limb fracture	may cause	compartment syndrome
+upper limb fracture	associated with	functional impairment
+upper limb fracture	associated with	reduced grip strength
+upper limb fracture	associated with	decreased range of motion
+upper limb fracture	associated with	prolonged rehabilitation
+upper limb fracture	associated with	full recovery
+upper limb fracture	associated with	good functional outcome
+upper limb fracture	associated with	poor functional outcome
+upper limb fracture	predicts	longer immobilization
+upper limb fracture	predicts	longer hospital stay
+upper limb fracture	predicts	need for surgery
+upper limb fracture	predicts	hardware removal
+upper limb fracture	predicts	rehabilitation duration
+upper limb fracture	predicts	follow-up imaging
+upper limb fracture	predicts	return to work time
+upper limb fracture	predicts	return to sport time
+upper limb fracture	predicts	secondary fracture risk
+upper limb fracture	predicts	osteoporosis diagnosis
+upper limb fracture	predicts	diabetes diagnosis
+upper limb fracture	predicts	smoking-related complications
+upper limb fracture	predicts	obesity-related risk
+upper limb fracture	predicts	alcohol-related injury
+upper limb fracture	predicts	prior fracture history
+upper limb fracture	associated with	osteoporosis severity
+upper limb fracture	followed by	immobilization
+upper limb fracture	followed by	physical therapy
+upper limb fracture	followed by	occupational therapy
+upper limb fracture	followed by	rehabilitation
+upper limb fracture	followed by	X-ray imaging
+upper limb fracture	followed by	CT imaging
+upper limb fracture	followed by	MRI imaging
+upper limb fracture	followed by	ultrasound imaging
+upper limb fracture	evaluated with	X-ray
+upper limb fracture	evaluated with	CT scan
+upper limb fracture	evaluated with	MRI
+upper limb fracture	evaluated with	ultrasound
+upper limb fracture	healing with	callus formation
+upper limb fracture	healing with	radiographic union
+upper limb fracture	healing with	functional recovery
+upper limb fracture	associated with	radial nerve palsy
+upper limb fracture	associated with	median nerve injury
+upper limb fracture	associated with	ulnar nerve injury
+upper limb fracture	associated with	vascular compromise
+upper limb fracture	associated with	hematoma
+upper limb fracture	associated with	swelling
+upper limb fracture	is a	orthopedic injury
+upper limb fracture	is a	common injury
+upper limb fracture	is a	common orthopedic injury
+upper limb fracture	is a	orthopedic injury
+upper limb fracture	is a	common trauma
+upper limb fracture	is a	common orthopedic injury

@@ -1,0 +1,100 @@
+pedestrian injury	is coded as	nonmotor-vehicle incident
+pedestrian injury	is associated with	head trauma
+head trauma	is associated with	intracranial hemorrhage
+intracranial hemorrhage	increases	mortality risk
+head trauma	leads to	ICU admission
+pedestrian injury	results in	skull fracture
+pedestrian injury	results in	facial fracture
+pedestrian injury	results in	rib fracture
+pedestrian injury	results in	chest trauma
+pedestrian injury	results in	pelvic fracture
+pedestrian injury	results in	spinal injury
+pedestrian injury	causes	soft tissue injury
+pedestrian injury	associated with	abdominal injury
+pedestrian injury	associated with	pneumothorax
+pedestrian injury	associated with	hemothorax
+head injury	may require	neurosurgery
+rib fracture	associated with	pneumothorax
+pelvic fracture	associated with	heavy bleeding
+spinal injury	leads to	paralysis
+facial trauma	leads to	dental injury
+elderly pedestrian injury	associated with	higher mortality
+pediatric pedestrian injury	associated with	higher concussion risk
+alcohol involvement	increases	injury severity
+nighttime incident	associated with	higher injury severity
+helmet nonuse	associated with	head injury risk
+bicycle collision	results in	limb fracture
+bicycle collision	results in	skull fracture
+pedestrian crossing	reduces	injury risk
+bus stop proximity	reduces	exposure to traffic
+urban density	associated with	pedestrian injury frequency
+winter season	increases	slip-related injury
+snowy condition	increases	fracture risk
+protective clothing	reduces	abrasion injury
+emergency department	performs	triage
+imaging study	identifies	fracture
+CT scan	detects	intracranial hemorrhage
+MRI	detects	brain injury
+hematocrit drop	results in	transfusion
+transfusion	required for	severe blood loss
+intubation	performed for	airway compromise
+ICU admission	required by	polytrauma
+polytrauma	leads to	prolonged hospitalization
+pain management	provided by	analgesia
+surgical repair	required for	pelvic fracture
+orthopedic surgery	performed for	limb fracture
+neurosurgery	required for	intracranial hemorrhage
+occupational therapy	initiated for	functional disability
+rehabilitation	improves	functional outcome
+discharge planning	supports	readmission risk reduction
+readmission	associated with	prior hospitalization
+crosswalk safety	improves	pedestrian protection
+helmet use	reduces	head injury incidence
+protective gear	minimizes	injury severity
+alcohol intoxication	worsens	injury outcome
+traffic signals	regulate	pedestrian flow
+injury mechanism	informs	treatment plan
+observational care	may be needed for	concussion
+anticoagulant use	complicates	head injury
+blood transfusion	stabilizes	patient
+neurosurgery	improves	outcome
+surgery	reduces	mortality
+ICU stay	lengthens	hospital resource use
+abdominal injury	leads to	surgical intervention
+soft tissue injury	heals with	scarring
+infection risk	increases	wound complication
+wound care	prevents	infection
+physical therapy	facilitates	rehabilitation
+occupational therapy	facilitates	daily living recovery
+cost of care	correlates with	hospitalization duration
+pneumonia	occurs in	prolonged ventilation
+pediatric patient	requires	hospitalization
+hip fracture	results in	immobilization
+long-term disability	associated with	severe head injury
+injury severity score	predicts	hospitalization outcome
+frontal impact	associated with	facial trauma
+scene time	influences	prehospital transport
+prehospital care	reduces	deterioration
+blood loss	causes	hypotension
+hypotension	worsens	brain injury outcome
+airway management	needed for	head trauma
+second-impact syndrome	risk with	repeated concussion
+ambulance transport	shortens	time to surgery
+trauma center	provides	definitive care
+trauma guidelines	inform	clinician decisions
+blood pressure monitoring	required for	polytrauma
+multisystem trauma	increases	mortality
+rib fracture	leads to	pulmonary contusion
+head CT	identifies	hemorrhagic contusion
+scalp laceration	treated with	sutures
+intensive care unit	location of	critical care
+pelvic fracture	requires	pelvic stabilization
+orthopedic consult	obtained for	limb fracture
+neurosurgical consult	obtained for	intracranial hemorrhage
+rehabilitation facility	serves as	discharge destination
+pain score	measures	pain level
+analgesia	controls	pain
+blood type	determines	transfusion compatibility
+CT angiography	evaluates	vascular injury
+fall risk	influences	patient safety planning
+injury outcome	influenced by	prehospital time

@@ -1,0 +1,100 @@
+ischemic stroke	is a	cerebrovascular accident
+ischemic stroke	treated with	alteplase
+ischemic stroke	treated with	mechanical thrombectomy
+intracerebral hemorrhage	is a	cerebrovascular accident
+intracerebral hemorrhage	treated with	blood pressure control
+intracerebral hemorrhage	risk factor for	hematoma expansion
+TIA	precursor to	ischemic stroke
+atrial fibrillation	increases risk for	ischemic stroke
+atrial fibrillation	treated with	anticoagulation
+hypertension	increases risk for	ischemic stroke
+hypertension	risk factor for	intracerebral hemorrhage
+diabetes mellitus	increases risk for	ischemic stroke
+diabetes mellitus	risk factor for	intracerebral hemorrhage
+dyslipidemia	associated with	atherosclerosis
+smoking	increases risk for	ischemic stroke
+obesity	associated with	stroke
+age	predicts	mortality
+NIHSS score	predicts	disability
+CT scan	detects	hemorrhage
+CT scan	guides	thrombolysis decision
+MRI	detects	infarct
+perfusion imaging	assesses	tissue viability
+cardiac source	causes	cardioembolic stroke
+carotid stenosis	increases risk for	ischemic stroke
+carotid endarterectomy	reduces	stroke recurrence
+statin therapy	reduces	atherosclerotic progression
+antiplatelet therapy	prevents	stroke recurrence
+aspirin	prevents	stroke recurrence
+clopidogrel	prevents	stroke recurrence
+anticoagulation	prevents	cardioembolic stroke
+decompressive craniectomy	improves	outcome in malignant edema
+blood pressure control	improves	stroke outcome
+glucose management	improves	stroke outcome
+hyperglycemia	worsens	ischemic injury
+pneumonia	prolongs	hospital stay
+delirium	prolongs	hospitalization
+seizures	occur in	stroke patients
+brain edema	worsens	prognosis
+hemorrhagic transformation	occurs after	thrombolysis
+intracranial pressure	increases	brain injury
+mechanical ventilation	required for	severe stroke
+ICU admission	associated with	severe stroke
+rehabilitation	improves	functional outcome
+discharge destination	influenced by	functional status
+modified Rankin scale	measures	disability
+functional status	predicts	discharge destination
+stroke severity	predicts	mortality
+mortality	associated with	stroke severity
+readmission	risk after	stroke
+recurrence	risk after	ischemic stroke
+infarct size	determines	disability
+diffusion restriction	indicates	acute ischemia
+large vessel occlusion	indicated for	thrombectomy
+tissue plasminogen activator	is a	thrombolytic agent
+tenecteplase	alternative to	alteplase
+electrocardiogram	detects	atrial fibrillation
+echocardiography	detects	cardioembolic source
+lipids	influence	stroke risk
+renal function	affects	anticoagulant dosing
+liver injury	risk from	anticoagulation
+bleeding risk	affected by	anticoagulation
+bleeding	potential complication of	thrombolysis
+hemorrhagic stroke	is a	subtype of stroke
+aneurysm	rupture leads to	subarachnoid hemorrhage
+thrombosis	causes	ischemic stroke
+embolus	causes	ischemic stroke
+collateral circulation	mitigates	brain ischemia
+reperfusion	improves	perfusion
+door-to-needle time	reduces	treatment delay
+stroke unit	improves	outcomes
+nurse-led stroke unit	improves	outcomes
+occupational therapy	aids	activities of daily living
+speech therapy	aids	communication after stroke
+rehabilitation	enhances	functional independence
+caregiver support	influences	discharge planning
+time to reperfusion	determines	outcome
+blood-brain barrier disruption	occurs in	ischemic stroke
+temperature control	affects	stroke prognosis
+smoking cessation	improves	long-term outcome
+sleep apnea	associated with	stroke risk
+C-reactive protein	predicts	stroke outcome
+platelet aggregation	influences	thrombosis
+serum glucose	affects	stroke outcome
+glucose management	improves	stroke outcome
+blood pressure management	improves	stroke outcome
+sodium	affects	cerebral edema
+rehabilitation intensity	influences	functional outcome
+lipoprotein(a)	linked to	stroke risk
+body temperature	influences	stroke prognosis
+early rehabilitation	improves	independence
+physical therapy	improves	mobility after stroke
+nursing care	affects	recovery speed
+anticoagulation therapy	requires	monitoring
+platelet function	influenced by	antiplatelet therapy
+hepatotoxicity	risk with	statin therapy
+osmotherapy	manages	brain edema
+dehydration	worsens	ischemia
+hyperthermia	worsens	stroke outcome
+functional independence	achieved with	early rehabilitation
+critical care	supports	stroke rehabilitation

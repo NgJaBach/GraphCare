@@ -1,0 +1,100 @@
+mammography	screens for	breast cancer
+colonoscopy	screens for	colorectal cancer
+fecal immunochemical test	screens for	colorectal cancer
+CT colonography	screens for	colorectal cancer
+low-dose CT scan	screens for	lung cancer
+sputum cytology	screens for	lung cancer
+prostate-specific antigen test	screens for	prostate cancer
+digital rectal examination	screens for	prostate cancer
+abdominal ultrasound	screens for	abdominal aortic aneurysm
+ankle-brachial index	screens for	peripheral artery disease
+blood pressure screening	screens for	hypertension
+glucose screening	screens for	diabetes
+glycated hemoglobin test	screens for	diabetes
+oral glucose tolerance test	screens for	diabetes
+lipid panel	screens for	hyperlipidemia
+creatinine test	screens for	kidney disease
+urinalysis	screens for	kidney disease
+microalbumin test	screens for	kidney disease
+bone density test	screens for	osteoporosis
+bone mineral density test	screens for	osteoporosis
+DEXA scan	screens for	osteoporosis
+retinopathy screening	screens for	diabetic retinopathy
+ophthalmic examination	screens for	glaucoma
+HPV test	screens for	cervical cancer
+Pap smear	screens for	cervical cancer
+colposcopy	screens for	cervical cancer
+hepatitis B surface antigen test	screens for	hepatitis B infection
+hepatitis C antibody test	screens for	hepatitis C infection
+HIV screening	screens for	HIV infection
+syphilis serology	screens for	syphilis infection
+tuberculosis skin test	screens for	tuberculosis
+interferon-gamma release assay	screens for	tuberculosis
+spirometry	screens for	chronic obstructive pulmonary disease
+nasal swab PCR test	screens for	influenza
+urine culture	screens for	urinary tract infection
+urinalysis with microscopy	screens for	kidney disease
+liver function test	screens for	liver disease
+liver ultrasound	screens for	liver disease
+alpha-fetoprotein test	screens for	hepatocellular carcinoma
+CA-125 test	screens for	ovarian cancer
+transvaginal ultrasound	screens for	ovarian cancer
+CA 19-9 test	screens for	pancreatic cancer
+TSH test	screens for	thyroid disease
+free thyroxine test	screens for	thyroid disease
+thyroid peroxidase antibodies	screens for	autoimmune thyroiditis
+A1c test	screens for	diabetes
+lipoprotein(a) test	screens for	cardiovascular risk
+homocysteine test	screens for	cardiovascular risk
+CRP test	screens for	cardiovascular risk
+carotid ultrasound	screens for	carotid artery stenosis
+bone turnover markers	screens for	osteoporosis progression
+urine albumin/creatinine ratio	screens for	kidney disease
+renal ultrasound	screens for	kidney disease
+electrocardiography	screens for	arrhythmia
+Holter monitor	screens for	arrhythmia
+cardiac stress test	screens for	myocardial ischemia
+MRI for brain tumors	screens for	brain tumor
+CT angiography	screens for	vascular disease
+breast MRI	screens for	breast cancer
+MRI pelvis	screens for	ovarian cancer
+colorectal cancer stool DNA test	screens for	colorectal cancer
+fexible sigmoidoscopy	screens for	colorectal cancer
+fecal DNA test	screens for	colorectal cancer
+serum ferritin test	screens for	iron deficiency anemia
+iron studies	screens for	iron deficiency anemia
+iron deficiency anemia screening by ferritin	screens for	iron deficiency anemia
+anemia screening by complete blood count	screens for	anemia
+h. pylori stool antigen test	screens for	peptic ulcer disease
+gastric biopsy	screens for	gastric cancer
+gastric cancer antigen testing	screens for	gastric cancer
+CA-125 multiplex panel	screens for	ovarian cancer
+alpha-fetoprotein-L3	screens for	hepatocellular carcinoma
+urinary cytology	screens for	bladder cancer
+cystoscopy	screens for	bladder cancer
+thyroglobulin test	screens for	thyroid cancer
+thyroid ultrasound	screens for	thyroid nodules
+calcitonin test	screens for	medullary thyroid carcinoma
+CEA test	screens for	colorectal cancer
+CA 15-3	screens for	breast cancer
+CA 27-29	screens for	breast cancer
+BRCA mutation testing	screens for	hereditary breast cancer risk
+mismatch repair gene testing	screens for	Lynch syndrome
+endoscopy	screens for	esophageal cancer
+upper GI endoscopy	screens for	upper GI cancer
+colorectal cancer stool DNA test	screens for	colorectal cancer
+gallbladder ultrasound	screens for	gallbladder disease
+hearing screening	screens for	hearing loss
+visual acuity screening	screens for	eye disease
+newborn metabolic screening	screens for	metabolic disorder
+newborn hearing screening	screens for	congenital hearing loss
+newborn blood spot screening	screens for	metabolic disorder
+blood pressure measurement	screens for	hypertension
+body mass index screening	screens for	obesity
+smoking status screening	screens for	cardiometabolic risk
+family history screening	screens for	cancer risk
+genetic screening	screens for	congenital disorders
+gestational diabetes screening	screens for	gestational diabetes
+glucose tolerance test	screens for	gestational diabetes
+chlamydia test	screens for	chlamydia infection
+gonorrhea test	screens for	gonorrhea infection

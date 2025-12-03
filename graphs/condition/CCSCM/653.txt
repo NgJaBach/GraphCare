@@ -1,0 +1,100 @@
+delirium	is a	neuropsychiatric syndrome
+delirium	associated with	advanced age
+delirium	associated with	hospitalization
+delirium	associated with	surgery
+delirium	associated with	infection
+delirium	associated with	dehydration
+delirium	associated with	electrolyte imbalance
+delirium	associated with	hypoxia
+delirium	associated with	metabolic disturbance
+delirium	associated with	polypharmacy
+delirium	precipitated by	benzodiazepine use
+delirium	precipitated by	anticholinergic drugs
+delirium	precipitated by	opioid use
+delirium	precipitated by	steroid use
+delirium	associated with	dementia
+delirium	associated with	cognitive impairment
+delirium	increases	mortality
+delirium	increases	length of stay
+delirium	increases	readmission
+delirium	increases	discharge to long-term care risk
+delirium	increases	falls
+delirium	associated with	agitation
+delirium	associated with	sleep disturbance
+delirium	associated with	pain
+delirium	diagnosed by	CAM-ICU
+delirium	diagnosed by	Confusion Assessment Method
+delirium	diagnosed by	4AT
+delirium	prevented by	sleep hygiene
+delirium	prevented by	hydration
+delirium	prevented by	early mobilization
+delirium	prevented by	analgesia optimization
+delirium	prevented by	environmental stabilization
+delirium	prevented by	family involvement
+delirium	prevented by	visual and hearing support
+delirium	prevented by	delirium prevention bundle
+delirium	treated with	haloperidol
+delirium	treated with	atypical antipsychotics
+delirium	treated with	dexmedetomidine
+delirium	treated with	nonpharmacologic interventions
+delirium	managed by	geriatric consultation
+delirium	managed by	ICU team
+delirium	has	variable duration
+delirium	detected by	CAM-ICU
+delirium	detected by	4AT
+delirium	detected by	nursing observation
+elderly patient	is at risk for	delirium
+dementia	increases	delirium risk
+hearing impairment	increases	delirium risk
+vision impairment	increases	delirium risk
+frailty	increases	delirium risk
+immobility	increases	delirium risk
+pain	triggers	delirium
+sleep deprivation	triggers	delirium
+infection	triggers	delirium
+sepsis	increases	delirium risk
+postoperative fever	is associated with	delirium
+electrolyte disturbance	triggers	delirium
+hypoglycemia	triggers	delirium
+hypoxemia	triggers	delirium
+renal dysfunction	increases	delirium risk
+liver dysfunction	increases	delirium risk
+alcohol withdrawal	precipitates	delirium
+delirium tremens	is a	delirium subtype
+delirium tremens	occurs in	alcohol withdrawal
+delirium prolongs	hospital stay
+delirium increases	caregiver burden
+delirium increases	need for restraints
+delirium reduces	attention span
+delirium reduces	orientation
+delirium causes	agitation
+delirium causes	sleep disturbance
+delirium increases	ICU length of stay
+delirium increases	ventilator days
+delirium associated with	delirium persistence after discharge
+delirium improves with	underlying cause treatment
+delirium improved by	early detection
+CAM-ICU	detects	delirium
+4AT	detects	delirium
+Confusion Assessment Method	detects	delirium
+geriatric consultation	reduces	delirium duration
+environment	affects	delirium risk
+sleep quality	affects	delirium risk
+analgesia management	affects	delirium risk
+nutrition status	affects	delirium risk
+visual aid	reduces	delirium risk
+hearing aid	reduces	delirium risk
+sleep hygiene	reduces	delirium incidence
+hydration status	reduces	delirium risk
+mobility program	reduces	delirium risk
+delirium	associated with	increased discharge to skilled nursing facilities
+environmental modification	improves	delirium outcome
+delirium persistence	at discharge	associates with delirium
+delirium improves with	treatment of underlying cause
+alcohol withdrawal	precipitates	delirium
+delirium tremens	is a cause of	delirium
+postoperative delirium	is a form of	delirium
+delirium commonly co-occurs with	dementia
+delirium is a predictor of	poor functional outcome
+delirium is associated with	caregiver distress
+delirium resolution	depends on	underlying cause treatment

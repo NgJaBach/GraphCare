@@ -1,0 +1,132 @@
+poisoning by other medications and drugs	is a	medical emergency
+poisoning by other medications and drugs	leads to	hepatic injury
+poisoning by other medications and drugs	leads to	renal injury
+poisoning by other medications and drugs	causes	metabolic acidosis
+poisoning by other medications and drugs	causes	respiratory failure
+poisoning by other medications and drugs	causes	coma
+poisoning by other medications and drugs	causes	seizures
+poisoning by other medications and drugs	causes	arrhythmia
+poisoning by other medications and drugs	causes	shock
+poisoning by other medications and drugs	causes	hypotension
+poisoning by other medications and drugs	associated with	electrolyte imbalance
+poisoning by other medications and drugs	associated with	hypoglycemia
+poisoning by other medications and drugs	associated with	hyperglycemia
+poisoning by other medications and drugs	associated with	hyponatremia
+poisoning by other medications and drugs	associated with	hyperkalemia
+poisoning by other medications and drugs	associated with	hypokalemia
+poisoning by other medications and drugs	associated with	lactic acidosis
+poisoning by other medications and drugs	treated with	activated charcoal
+poisoning by other medications and drugs	treated with	gastric lavage
+acetaminophen poisoning	treated with	N-acetylcysteine
+acetaminophen poisoning	causes	hepatic failure
+acetaminophen poisoning	increases	ALT level
+acetaminophen poisoning	increases	AST level
+opioid poisoning	treated with	naloxone
+opioid poisoning	causes	respiratory depression
+opiates overdose	treated with	naloxone
+benzodiazepine poisoning	treated with	flumazenil
+benzodiazepine poisoning	associated with	CNS depression
+TCAs poisoning	treated with	sodium bicarbonate
+TCAs poisoning	causes	QRS widening
+beta-blocker poisoning	treated with	glucagon
+beta-blocker poisoning	causes	bradycardia
+calcium channel blocker poisoning	treated with	calcium
+calcium channel blocker poisoning	causes	hypotension
+calcium channel blocker poisoning	leads to	conduction abnormality
+digoxin poisoning	treated with	digoxin immune Fab
+digoxin poisoning	causes	arrhythmias
+digoxin poisoning	associated with	hyperkalemia
+salicylate poisoning	treated with	sodium bicarbonate
+salicylate poisoning	causes	metabolic acidosis
+iron overdose	treated with	deferoxamine
+iron overdose	causes	acidosis
+theophylline poisoning	treated with	activated charcoal
+theophylline poisoning	associated with	tachyarrhythmia
+isoniazid poisoning	treated with	pyridoxine
+isoniazid poisoning	causes	seizures
+carbamazepine poisoning	treated with	supportive care
+carbamazepine poisoning	causes	CNS depression
+phenobarbital poisoning	treated with	supportive care
+antidepressant poisoning	treated with	charcoal
+antidepressant poisoning	associated with	QT prolongation
+antidepressant poisoning	causes	seizures
+antipsychotic poisoning	treated with	benzodiazepines
+antipsychotic poisoning	causes	tachycardia
+warfarin poisoning	treated with	vitamin K
+warfarin poisoning	associated with	elevated INR
+heparin poisoning	treated with	protamine sulfate
+heparin poisoning	associated with	bleeding
+amitriptyline poisoning	treated with	sodium bicarbonate
+amitriptyline poisoning	causes	conduction abnormalities
+sertraline poisoning	treated with	charcoal
+sertraline poisoning	associated with	serotonin syndrome
+gabapentin overdose	treated with	supportive care
+pregabalin overdose	treated with	supportive care
+lidocaine overdose	treated with	lipid emulsion therapy
+lidocaine overdose	causes	arrhythmias
+morphine poisoning	treated with	naloxone
+fentanyl poisoning	treated with	naloxone
+fentanyl poisoning	causes	respiratory depression
+methadone poisoning	treated with	naloxone
+methadone poisoning	associated with	QT prolongation
+naproxen poisoning	treated with	activated charcoal
+ibuprofen poisoning	treated with	activated charcoal
+diclofenac overdose	treated with	activated charcoal
+diclofenac overdose	causes	gastric irritation
+indomethacin overdose	treated with	supportive care
+acetylcysteine	used for	acetaminophen poisoning
+charcoal	used for	poison decontamination
+gastric lavage	used for	poison decontamination
+lipid emulsion therapy	used for	lipophilic drug overdose
+ECG monitoring	used for	overdose patients
+ICU admission	associated with	overdose severity
+intubation	required for	respiratory failure
+mechanical ventilation	required for	respiratory failure
+vasopressor therapy	required for	shock
+pyridoxine	used for	isoniazid poisoning
+N-acetylcysteine	antidote for	acetaminophen poisoning
+protamine sulfate	used for	heparin overdose
+vitamin K	used for	warfarin overdose
+activated charcoal	effective for	many overdose toxins
+gastric lavage	indication	suspected life-threatening overdose
+lipid emulsion therapy	indicated for	lipophilic overdose
+nephrotoxic antibiotic overdose	treated with	supportive care
+QT prolongation	observed in	TCA overdose
+QRS widening	observed in	TCA overdose
+ALT elevation	seen with	acetaminophen poisoning
+AST elevation	seen with	acetaminophen poisoning
+renal function tests	abnormal in	overdose patients
+INR elevation	seen with	warfarin overdose
+creatinine rise	seen with	nephrotoxic overdoses
+bilirubin rise	seen with	cholestatic drug poisoning
+coagulation panel	abnormal in	liver-toxic overdoses
+liver ultrasound	indicated for	suspected hepatic injury
+lung function tests	abnormal in	severe overdose with respiratory failure
+neuroimaging	indicated for	severe CNS toxicity
+serum osmolar gap	elevated in	methanol or ethylene glycol poisoning
+anion gap	elevated in	salicylate overdose
+serum lactate	elevated in	isoniazid poisoning
+glucose monitoring	required for	overdose patients
+arterial blood gas	evaluated for	metabolic acidosis in overdose
+serum aminotransferases	elevated in	acetaminophen poisoning
+urinalysis	abnormal in	multiple drug overdoses
+urine drug screen	used for	overdose assessment
+case management	essential for	overdose recovery
+poison control center	consulted for	overdose management
+family history	used for	risk assessment in poisoning
+age	influences	overdose prognosis
+sex	influences	overdose outcomes
+renal clearance	impacts	toxin elimination rate
+hepatic clearance	impacts	toxin metabolism rate
+polypharmacy	increases	overdose risk
+suicidal intent	associated with	drug overdose
+transport time	affects	overdose outcome
+first responders	initiate	decontamination at scene
+emergency department	initiates	monitoring and treatment for overdose
+pediatric patients	have	higher risk of certain overdoses
+geriatrics	have	higher mortality with overdose
+antidote availability	improves	overdose outcomes
+time to presentation	predicts	severity of poisoning
+dose of toxin	correlates with	clinical severity
+customized therapy	improves	patient outcomes
+clinical protocol	standardizes	overdose management

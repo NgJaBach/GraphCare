@@ -1,0 +1,98 @@
+aortic valve stenosis	is a	valvular heart disease
+aortic valve stenosis	causes	dyspnea
+aortic valve stenosis	causes	syncope
+aortic valve stenosis	leads to	left ventricular hypertrophy
+aortic valve stenosis	increases	mortality
+aortic valve stenosis	diagnosed by	echocardiography
+aortic valve stenosis	treated with	valve replacement
+aortic valve stenosis	treated with	balloon valvuloplasty
+mitral regurgitation	is a	valvular heart disease
+mitral regurgitation	causes	dyspnea
+mitral regurgitation	predisposes to	left atrial enlargement
+mitral regurgitation	associated with	left ventricular dilation
+mitral regurgitation	treated with	mitral valve repair
+mitral regurgitation	treated with	mitral valve replacement
+mitral regurgitation	managed with	diuretics
+mitral stenosis	is a	valvular heart disease
+mitral stenosis	causes	dyspnea
+mitral stenosis	predisposes to	atrial fibrillation
+mitral stenosis	treated with	balloon valvotomy
+mitral stenosis	managed with	anticoagulation
+aortic regurgitation	is a	valvular heart disease
+aortic regurgitation	causes	heart failure
+aortic regurgitation	leads to	left ventricular dilation
+aortic regurgitation	diagnosed by	echocardiography
+aortic regurgitation	treated with	valve replacement
+tricuspid regurgitation	is a	valvular heart disease
+tricuspid regurgitation	associated with	right heart failure
+tricuspid regurgitation	treated with	tricuspid valve repair
+tricuspid regurgitation	monitored with	echocardiography
+pulmonary valve stenosis	is a	valvular heart disease
+prosthetic valve	requires	anticoagulation
+valve replacement	is a	surgical procedure
+valve repair	is a	surgical procedure
+transcatheter aortic valve replacement	treats	aortic stenosis
+balloon valvuloplasty	treats	aortic stenosis
+balloon valotomy	treats	mitral stenosis
+endocarditis	is complication of	valvular disease
+valvular heart disease	increases risk of	atrial fibrillation
+valvular heart disease	increases risk of	heart failure
+valvular heart disease	increases risk of	mortality
+atrial fibrillation	causes	embolic stroke
+atrial fibrillation	increases risk of	thromboembolism
+atrial fibrillation	treated with	anticoagulation
+atrial fibrillation	associated with	left atrial enlargement
+mechanical heart valve	requires	anticoagulation
+mechanical heart valve	is a	prosthetic valve
+warfarin	is a	anticoagulant
+warfarin	used for	mechanical heart valve
+direct oral anticoagulants	contraindicated for	mechanical heart valve
+anticoagulation	is used for	atrial fibrillation
+valvular heart disease	associated with	hypertension
+hypertension	worsens	aortic stenosis
+diabetes mellitus	associated with	valvular disease progression
+lipid disorders	associated with	calcific aortic stenosis
+smoking	increases risk of	aortic stenosis
+age	predicts	valve surgery mortality
+sex	influences	valvular disease phenotype
+ejection fraction	reflects	left ventricular function
+echocardiography	used for	valvular disease assessment
+cardiac MRI	alternative for	valvular assessment
+infective endocarditis	risk factor for	valve dysfunction
+infective endocarditis	treated with	antibiotics
+prosthetic valve endocarditis	is complication of	valve replacement
+prosthetic valve	increases risk of	endocarditis
+valve replacement	improves	survival
+valve repair	improves	symptoms
+surgery	reduces	mortality in valvular disease
+mitral annulus calcification	associated with	atrial fibrillation
+bicuspid aortic valve	predisposes to	aortic stenosis
+bicuspid aortic valve	associated with	aortic aneurysm
+rheumatic fever	causes	rheumatic heart disease
+rheumatic heart disease	causes	mitral stenosis
+rheumatic heart disease	causes	mitral regurgitation
+infective endocarditis	risk factor for	valve dysfunction
+valve thrombosis	is complication of	mechanical valve
+anticoagulation	reduces	embolic events
+embolism	causes	stroke
+stroke	increases	mortality
+valvular disease	increases	hospitalization rate
+valvular disease	reduces	quality of life
+ACE inhibitors	used for	heart failure due to valvular disease
+beta blockers	used for	arrhythmias associated with valve disease
+diuretics	relieve	edema in valvular disease
+surgery	indicated for	severe valvular disease
+severity of aortic stenosis	determines	timing of valve replacement
+severity of mitral regurgitation	determines	surgical timing
+murmur	indicates	valvular disease
+left atrial enlargement	predicts	atrial fibrillation
+pulmonary hypertension	worsens	right heart function
+right heart failure	results from	severe tricuspid regurgitation
+congenital valvular disease	presents with	murmur
+pregnancy	increases risk of	valvular disease complications
+prosthetic valve durability	influences	reoperation risk
+reoperation	increases	hospitalization length
+aortic stenosis	commonly presents with	syncope
+mitral valve disease	presents with	exertional dyspnea
+valvular disease	influences	prognosis
+valve replacement	improves	survival

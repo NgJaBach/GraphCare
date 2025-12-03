@@ -1,0 +1,107 @@
+varicose veins of lower extremity	is a	venous disorder
+varicose veins of lower extremity	is associated with	chronic venous insufficiency
+varicose veins of lower extremity	causes	edema
+varicose veins of lower extremity	causes	leg pain
+varicose veins of lower extremity	causes	heaviness
+varicose veins of lower extremity	causes	itching
+varicose veins of lower extremity	causes	skin changes
+varicose veins of lower extremity	causes	venous ulcers
+varicose veins of lower extremity	causes	superficial thrombophlebitis
+varicose veins of lower extremity	associated with	age
+varicose veins of lower extremity	associated with	female sex
+varicose veins of lower extremity	associated with	obesity
+varicose veins of lower extremity	associated with	pregnancy
+varicose veins of lower extremity	associated with	prolonged standing
+varicose veins of lower extremity	associated with	family history
+varicose veins of lower extremity	associated with	sedentary lifestyle
+varicose veins of lower extremity	associated with	smoking
+varicose veins of lower extremity	due to	venous valve failure
+varicose veins of lower extremity	due to	venous reflux
+varicose veins of lower extremity	due to	venous hypertension
+varicose veins of lower extremity	due to	venous dilation
+varicose veins of lower extremity	diagnosed by	duplex ultrasound
+varicose veins of lower extremity	diagnosed by	venous Doppler
+varicose veins of lower extremity	diagnosed by	clinical examination
+varicose veins of lower extremity	diagnosed by	physical examination
+varicose veins of lower extremity	evaluated by	duplex imaging
+varicose veins of lower extremity	treated with	compression stockings
+varicose veins of lower extremity	treated with	compression therapy
+varicose veins of lower extremity	treated with	sclerotherapy
+varicose veins of lower extremity	treated with	foam sclerotherapy
+varicose veins of lower extremity	treated with	endovenous laser therapy
+varicose veins of lower extremity	treated with	radiofrequency ablation
+varicose veins of lower extremity	treated with	laser therapy
+varicose veins of lower extremity	treated with	vein stripping
+varicose veins of lower extremity	treated with	phlebectomy
+varicose veins of lower extremity	treated with	ambulatory phlebectomy
+varicose veins of lower extremity	treated with	surgical ligation
+varicose veins of lower extremity	managed with	lifestyle modification
+varicose veins of lower extremity	managed with	exercise therapy
+varicose veins of lower extremity	managed with	weight management
+varicose veins of lower extremity	recurrence after	treatment
+varicose veins of lower extremity	complication of	venous dermatitis
+varicose veins of lower extremity	complication of	venous stasis dermatitis
+varicose veins of lower extremity	complication of	skin ulceration
+varicose veins of lower extremity	prognosis with	treatment success
+varicose veins of lower extremity	improves with	compression therapy
+varicose veins of lower extremity	worsens with	prolonged standing
+varicose veins of lower extremity	worsens with	heat exposure
+varicose veins of lower extremity	improves with	elevation
+varicose veins of lower extremity	affects	quality of life
+varicose veins of lower extremity	affects	mobility
+varicose veins of lower extremity	measured by	vein diameter
+varicose veins of lower extremity	increases	leg edema
+varicose veins of lower extremity	increases	venous pressure
+varicose veins of lower extremity	seen in	adults
+varicose veins of lower extremity	more common in	populations with standing occupations
+varicose veins of lower extremity	progression with	aging
+varicose veins of lower extremity	associated with	varicose venous malformations
+varicose veins of lower extremity	presence with	chronic edema
+varicose veins of lower extremity	responded to	compression therapy
+varicose veins of lower extremity	responded to	endovenous therapy
+varicose veins of lower extremity	treated by	phlebology specialist
+varicose veins of lower extremity	monitored by	vascular clinic
+varicose veins of lower extremity	symptom relief with	leg elevation
+varicose veins of lower extremity	symptom relief with	rest
+varicose veins of lower extremity	associated with	leg swelling
+varicose veins of lower extremity	associated with	skin hyperpigmentation
+varicose veins of lower extremity	associated with	eczema around ankles
+varicose veins of lower extremity	linked to	venous insufficiency severity
+varicose veins of lower extremity	evaluated for	venous reflux presence
+varicose veins of lower extremity	correlated with	calf muscle pump dysfunction
+varicose veins of lower extremity	influenced by	hormonal status
+varicose veins of lower extremity	affected by	weather changes
+varicose veins of lower extremity	influenced by	gravity effects
+varicose veins of lower extremity	associated with	edema duration
+varicose veins of lower extremity	associated with	deterioration of skin integrity
+varicose veins of lower extremity	readmission risk	after major surgery
+varicose veins of lower extremity	predictive value for	chronic venous disease progression
+varicose veins of lower extremity	concordant with	venous insufficiency score
+varicose veins of lower extremity	observed with	venous reflux disease
+varicose veins of lower extremity	common comorbidity with	lymphedema
+varicose veins of lower extremity	typical age group	middle-aged adults
+varicose veins of lower extremity	typical gender predominance	female
+varicose veins of lower extremity	prognosis predicts	improvement after treatment
+varicose veins of lower extremity	associated with	telangiectasia
+varicose veins of lower extremity	correlated with	spider veins
+varicose veins of lower extremity	diagnosed alongside	deep venous thrombosis screening
+varicose veins of lower extremity	managed in	outpatient setting
+varicose veins of lower extremity	managed in	vascular outpatient clinic
+varicose veins of lower extremity	impact on	work productivity
+varicose veins of lower extremity	risk for	bleeding from varicosities
+varicose veins of lower extremity	risk for	skin breakdown
+varicose veins of lower extremity	associated with	venous insufficiency stages
+varicose veins of lower extremity	evaluated for	valve competence
+varicose veins of lower extremity	evaluated for	venous reflux severity
+varicose veins of lower extremity	associated with	chronic edema
+varicose veins of lower extremity	treated with	combination therapy
+varicose veins of lower extremity	outcomes with	endovenous laser therapy
+varicose veins of lower extremity	outcomes with	sutured ligation
+varicose veins of lower extremity	guideline recommended	ultrasound-guided foam therapy
+varicose veins of lower extremity	guideline recommended	compression therapy as first-line
+varicose veins of lower extremity	guideline endorsed	phlebectomy for residual veins
+varicose veins of lower extremity	commonly coexists with	varicose facial veins
+varicose veins of lower extremity	clinical feature	varicose dilation in legs
+varicose veins of lower extremity	clinical feature	tortuous superficial veins
+varicose veins of lower extremity	typical imaging finding	dilated superficial veins
+varicose veins of lower extremity	typical imaging finding	incompetent venous valves

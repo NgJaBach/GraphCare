@@ -1,0 +1,100 @@
+Huntington's disease	is inherited	autosomal dominant
+Huntington's disease	causes	chorea
+Huntington's disease	presents with	cognitive decline
+Huntington's disease	diagnosed by	genetic testing
+Spinocerebellar ataxia	is inherited	autosomal dominant
+Spinocerebellar ataxia	presents with	ataxia
+Spinocerebellar ataxia	diagnosed by	genetic testing
+Spinocerebellar ataxia	managed with	physical therapy
+Friedreich ataxia	is inherited	autosomal recessive
+Friedreich ataxia	presents with	gait ataxia
+Friedreich ataxia	diagnosed by	genetic testing
+Friedreich ataxia	managed with	orthotics
+Charcot-Marie-Tooth disease	is inherited	autosomal dominant
+Charcot-Marie-Tooth disease	presents with	distal weakness
+Charcot-Marie-Tooth disease	diagnosed by	nerve conduction studies
+Charcot-Marie-Tooth disease	managed with	physical therapy
+Leber hereditary optic neuropathy	is inherited	maternal inheritance
+Leber hereditary optic neuropathy	presents with	vision loss
+Leber hereditary optic neuropathy	diagnosed by	genetic testing
+Leber hereditary optic neuropathy	managed with	supportive care
+Adrenoleukodystrophy	is inherited	X-linked recessive
+Adrenoleukodystrophy	causes	demyelination
+Adrenoleukodystrophy	presents with	behavioral changes
+Adrenoleukodystrophy	treated with	stem cell transplant
+Spinal muscular atrophy	is inherited	autosomal recessive
+Spinal muscular atrophy	causes	proximal muscle weakness
+Spinal muscular atrophy	presents with	fasciculations
+Spinal muscular atrophy	treated with	nusinersen
+Kennedy disease	is inherited	X-linked recessive
+Kennedy disease	causes	lower motor neuron weakness
+Kennedy disease	presents with	gynecomastia
+Kennedy disease	diagnosed by	genetic testing
+Wilson disease	is inherited	autosomal recessive
+Wilson disease	causes	copper accumulation
+Wilson disease	presents with	hepatic dysfunction
+Wilson disease	treated with	chelation therapy
+Batten disease	is inherited	autosomal recessive
+Batten disease	presents with	seizures
+Batten disease	features	neurodegeneration
+Batten disease	diagnosed by	genetic testing
+Krabbe disease	is inherited	autosomal recessive
+Krabbe disease	presents with	irritability
+Krabbe disease	causes	demyelination
+Krabbe disease	treated with	hematopoietic stem cell transplant
+Niemann-Pick disease	is inherited	autosomal recessive
+Niemann-Pick disease	presents with	hepatosplenomegaly
+Niemann-Pick disease	causes	neurodegeneration
+Niemann-Pick disease	diagnosed by	enzyme activity testing
+Pelizaeus-Merzbacher disease	is inherited	X-linked
+Pelizaeus-Merzbacher disease	presents with	nystagmus
+Pelizaeus-Merzbacher disease	causes	hypomyelination
+Pelizaeus-Merzbacher disease	diagnosed by	MRI findings
+Ataxia-telangiectasia	is inherited	autosomal recessive
+Ataxia-telangiectasia	presents with	cerebellar ataxia
+Ataxia-telangiectasia	features	telangiectasias
+Ataxia-telangiectasia	diagnosed by	genetic testing
+Rett syndrome	is caused by	MECP2 mutation
+Rett syndrome	presents with	regression in development
+Rett syndrome	diagnosed by	MECP2 genetic testing
+Rett syndrome	managed with	supportive care
+Leigh syndrome	is caused by	mitochondrial mutations
+Leigh syndrome	presents with	brainstem dysfunction
+Leigh syndrome	diagnosed by	MRI findings
+Leigh syndrome	managed with	supportive care
+ALS	has familial form	familial ALS
+ALS	presents with	limb weakness
+ALS	diagnosed by	EMG testing
+ALS	treated with	riluzole
+Frontotemporal dementia	is inherited	autosomal dominant
+Frontotemporal dementia	presents with	behavioral changes
+Frontotemporal dementia	diagnosed by	genetic testing
+Frontotemporal dementia	managed with	supportive care
+MELAS syndrome	is inherited	mitochondrial inheritance
+MELAS syndrome	presents with	stroke-like episodes
+MELAS syndrome	diagnosed by	lactate elevation in blood
+MELAS syndrome	treated with	supportive care
+Mitochondrial DNA depletion syndrome	is inherited	autosomal recessive
+Mitochondrial DNA depletion syndrome	presents with	hypotonia
+Mitochondrial DNA depletion syndrome	diagnosed by	genetic testing
+Mitochondrial DNA depletion syndrome	managed with	supportive care
+Hereditary spastic paraplegia	is inherited	autosomal dominant
+Hereditary spastic paraplegia	presents with	leg stiffness
+Hereditary spastic paraplegia	diagnosed by	genetic testing
+Hereditary spastic paraplegia	managed with	physical therapy
+Menkes disease	is inherited	X-linked recessive
+Menkes disease	presents with	kinky hair
+Menkes disease	causes	copper transport defect
+Menkes disease	treated with	copper replacement
+Familial Alzheimer's disease	is inherited	autosomal dominant
+Familial Alzheimer's disease	presents with	memory loss
+Familial Alzheimer's disease	diagnosed by	genetic testing
+Familial Alzheimer's disease	treated with	cholinesterase inhibitors
+Parkinson's disease	has hereditary form	familial Parkinson's disease
+Parkinson's disease	presents with	bradykinesia
+Parkinson's disease	diagnosed by	DAT scan
+Parkinson's disease	treated with	levodopa
+Metachromatic leukodystrophy	is inherited	autosomal recessive
+Metachromatic leukodystrophy	presents with	demyelination
+Metachromatic leukodystrophy	diagnosed by	ARSA activity testing
+Metachromatic leukodystrophy	managed with	supportive care

@@ -1,0 +1,107 @@
+other CNS infection	is a	CNS infection
+other CNS infection	includes	meningitis
+other CNS infection	may involve	meninges
+bacterial meningitis	is a	bacterial CNS infection
+bacterial meningitis	caused by	bacteria
+bacterial meningitis	treated with	antibiotics
+bacterial meningitis	has	mortality
+viral meningitis	is a	viral CNS infection
+viral meningitis	treated with	supportive care
+cryptococcal meningitis	occurs in	HIV infection
+tuberculous meningitis	occurs in	TB infection
+neisseria meningitidis	causes	meningitis
+streptococcus pneumoniae	causes	meningitis
+haemophilus influenzae	causes	meningitis
+enterovirus	causes	viral meningitis
+herpes simplex virus	causes	encephalitis
+encephalitis	is inflammation of	brain tissue
+herpes simplex encephalitis	treated with	acyclovir
+cryptococcal meningitis	treated with	amphotericin B
+tuberculous meningitis	treated with	antituberculous therapy
+brain abscess	treated with	antibiotics
+brain abscess	may require	surgical drainage
+subdural empyema	treated with	surgical drainage
+intracranial pressure	increases in	CNS infection
+intracranial pressure	causes	brain herniation
+seizure	can occur in	meningitis
+coma	can occur in	encephalitis
+mortality	associated with	CNS infection
+disability	results from	CNS infection
+recovery	depends on	prompt treatment
+CSF analysis	shows	pleocytosis
+CSF analysis	shows	elevated protein
+CSF analysis	shows	low glucose
+Gram stain	identifies	bacterial meningitis pathogen
+CSF culture	identifies	bacterial pathogen
+PCR testing	detects	viral meningitis pathogen
+MRI	helps	diagnose CNS infection
+CT scan	helps	locate brain abscess
+lumbar puncture	yields	CSF sample
+CSF	contains	leukocytes
+neutrophils	present in	CSF of bacterial meningitis
+lymphocytes	present in	CSF of viral meningitis
+glucose level	low in	bacterial meningitis
+protein level	high in	meningitis
+pneumococcal meningitis	has	high mortality
+neonatal meningitis	occurs in	newborns
+pediatric meningitis	occurs in	children
+adult meningitis	occurs in	adults
+intravenous antibiotics	used for	meningitis
+dexamethasone	reduces	inflammation in meningitis
+ceftriaxone	used for	bacterial meningitis
+vancomycin	used for	resistant bacterial meningitis
+ampicillin	used for	neonatal meningitis
+amphotericin B	used for	cryptococcal meningitis
+fluconazole	used for	cryptococcal meningitis
+antibiotic prophylaxis	used for	meningitis prevention
+pneumococcal vaccine	reduces	meningitis incidence
+meningococcal vaccine	reduces	meningitis incidence
+nosocomial meningitis	occurs in	post-surgical patients
+postoperative meningitis	occurs in	surgical patients
+immunocompromised patient	at risk for	cryptococcal meningitis
+HIV infection	increases risk for	cryptococcal meningitis
+neisseria meningitidis	outbreaks	community
+encephalitides	include	herpes simplex encephalitis
+encephalitis	prognosis depends on	early treatment
+age	is risk factor for	meningitis mortality
+imaging findings	aid in	meningitis diagnosis
+PCR panel	tests for	meningitis pathogens
+Gram stain	rapid test for	bacterial meningitis
+CSF culture	slower test for	bacterial meningitis
+neonatal meningitis	mortality	high
+danger signs	indicate	meningitis severity
+seizure	may occur	in meningitis
+hemiparesis	can occur in	CNS infection
+cerebral edema	accompanies	CNS infection
+hydrocephalus	may develop	in meningitis
+brain abscess	causes	focal neurological deficit
+focal neurological deficit	results from	brain abscess
+nosocomial meningitis	requires	ICU care
+postinfectious encephalopathy	follows	meningitis
+imaging	confirms	meningitis
+clinical presentation	varies with	age
+neonatal meningitis	caused by	group B Streptococcus
+group B Streptococcus	causes	neonatal meningitis
+Listeria monocytogenes	causes	meningitis
+Listeria monocytogenes	causes	meningitis in elderly
+immunization programs	reduce	meningitis burden
+polio vaccine	prevents	poliomyelitis
+fecal-oral transmission	facilitates	poliovirus spread
+sanitation measures	reduce	polio transmission
+hand hygiene	reduces	poliovirus transmission
+poliovirus	transmitted by	person-to-person spread
+poliomyelitis	presents with	fever
+poliomyelitis	results in	flaccid paralysis
+poliomyelitis	can cause	diaphragmatic weakness
+poliomyelitis	may require	ventilatory support
+poliomyelitis	survivors may develop	post-polio syndrome
+post-polio syndrome	manifests as	fatigue
+poliovirus	replicates in	gut
+polio vaccine	schedule includes	immunization
+vaccine-derived poliovirus	arises from	OPV
+OPV	is a	live attenuated vaccine
+ herd immunity	reduces	polio transmission
+global eradication program	aims for	poliomyelitis elimination
+polio vaccination program	accelerates	immunity buildup
+quadriplegia	results from	poliomyelitis
+respiratory failure	risk in	poliomyelitis

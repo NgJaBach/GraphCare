@@ -1,0 +1,100 @@
+tuberculosis	is caused by	mycobacterium tuberculosis
+tuberculosis	is contagious	infectious disease
+tuberculosis	presents as	pulmonary disease
+pulmonary disease	is form of	tuberculosis
+extrapulmonary tuberculosis	is form of	tuberculosis
+mycobacterium tuberculosis	causes	tuberculosis
+acid-fast bacilli	indicate	tuberculosis
+sputum smear	is positive for	acid-fast bacilli
+tuberculosis	is detected by	tuberculin skin test
+tuberculosis	is detected by	interferon gamma release assay
+latent tuberculosis infection	is a state of	latent infection
+latent tuberculosis infection	may progress to	active tuberculosis
+active tuberculosis	is a form of	tuberculosis
+tuberculosis	requires	multi-drug therapy
+multi-drug therapy	is regimen for	tuberculosis treatment
+rifampicin	treats	tuberculosis
+isoniazid	treats	tuberculosis
+ethambutol	treats	tuberculosis
+pyrazinamide	treats	tuberculosis
+rifampicin	is a	antibiotic
+isoniazid	is a	antibiotic
+ethambutol	is a	antibiotic
+pyrazinamide	is a	antibiotic
+drug-resistant tuberculosis	is a form of	tuberculosis
+rifampicin-resistant tuberculosis	is form of	drug-resistant tuberculosis
+isoniazid-resistant tuberculosis	is form of	drug-resistant tuberculosis
+multidrug-resistant tuberculosis	is form of	drug-resistant tuberculosis
+extensively drug-resistant tuberculosis	is form of	drug-resistant tuberculosis
+treatment adherence	improves	treatment outcome
+directly observed therapy	improves	adherence
+directly observed therapy	is used for	tuberculosis treatment
+bcg vaccination	is used for	tuberculosis prevention
+tuberculin skin test	detects	latent tuberculosis infection
+geneXpert MTB/RIF	detects	rifampicin resistance
+rapid molecular tests	detect	drug resistance
+sputum culture	yields	mycobacteria
+mycobacterium tuberculosis	is a	bacterium
+tuberculosis	affects	lungs
+tuberculosis	affects	central nervous system
+tuberculosis	involves	pleura
+pleural tuberculosis	occurs in	pleura
+tuberculosis	causes	cavitation
+cavitation	indicates	high bacterial load
+lung cavitation	is seen in	pulmonary tuberculosis
+tuberculosis	is diagnosed by	chest radiograph
+tuberculosis	is diagnosed by	sputum microscopy
+tuberculosis	presents with	cough
+tuberculosis	presents with	fever
+tuberculosis	presents with	night sweats
+tuberculosis	presents with	weight loss
+tuberculosis	presents with	fatigue
+tuberculosis	presents with	chest pain
+tuberculosis	presents with	dyspnea
+tuberculosis	presents with	hemoptysis
+latent tuberculosis infection	can convert to	active tuberculosis
+smear-positive tuberculosis	is associated with	higher transmission risk
+smear-negative tuberculosis	is associated with	lower transmission risk
+HIV infection	increases	tuberculosis risk
+diabetes mellitus	increases	tuberculosis risk
+malnutrition	increases	tuberculosis risk
+smoking	increases	tuberculosis risk
+alcohol use	increases	tuberculosis risk
+age	increases	tuberculosis risk
+immune suppression	increases	tuberculosis risk
+HIV coinfection	worsens	TB outcome
+diabetes mellitus	worsens	TB outcome
+malnutrition	worsens	TB outcome
+smoking	worsens	TB outcome
+tuberculosis treatment	duration	six months
+ripe therapy	is regimen for	tuberculosis treatment
+rifampicin	part of	ripe therapy
+isoniazid	part of	ripe therapy
+pyrazinamide	part of	ripe therapy
+ethambutol	part of	ripe therapy
+second-line drugs	are used for	drug-resistant tuberculosis
+fluoroquinolones	are used for	second-line TB treatment
+amikacin	is used for	second-line TB treatment
+bedaquiline	is used for	drug-resistant tuberculosis
+delamanid	is used for	drug-resistant tuberculosis
+treatment success	is higher with	directly observed therapy
+adherence	is improved by	directly observed therapy
+geneXpert	is a	rapid diagnostic test
+miliary tuberculosis	is a form of	extrapulmonary tuberculosis
+tuberculous meningitis	is a form of	extrapulmonary tuberculosis
+tuberculosis lymphadenitis	occurs in	lymph nodes
+urinary tuberculosis	occurs in	urinary tract
+peritoneal tuberculosis	occurs in	peritoneum
+bone tuberculosis	occurs in	bones
+vertebral tuberculosis	occurs in	spine
+caseating granuloma	is seen in	tuberculosis
+Ziehl-Neelsen stain	detects	acid-fast bacilli
+Ziehl-Neelsen stain	used for	TB diagnosis
+tuberculosis infection	triggers	granulomatous inflammation
+granulomatous inflammation	is part of	tuberculosis pathology
+isoniazid preventive therapy	reduces	progression to active tuberculosis
+contact tracing	reduces	tuberculosis transmission
+shortened TB regimen	is recommended for	certain TB cases
+latent tuberculosis infection	is detected by	tuberculin skin test
+central nervous system tuberculosis	is manifestation of	extrapulmonary tuberculosis
+tuberculosis incidence	decreases with	public health measures

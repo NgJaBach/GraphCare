@@ -1,0 +1,100 @@
+carbon monoxide	causes	hypoxia
+carbon monoxide	exposure route	inhalation
+carbon monoxide	exposure source	vehicle exhaust
+carbon monoxide	risk factor	indoor heating
+cyanide	causes	lactic acidosis
+cyanide	exposure route	inhalation
+cyanide	exposure source	smoke inhalation
+cyanide	diagnostic marker	carboxyhemoglobin level
+lead	exposure route	ingestion
+lead	outcome	neurotoxicity
+lead	test for	blood lead level
+lead	source	paint dust
+mercury	exposure route	ingestion
+mercury	outcome	nephrotoxicity
+mercury	test for	mercury level in blood
+mercury	source	contaminated fish
+arsenic	exposure route	ingestion
+arsenic	outcome	GI symptoms
+arsenic	test for	urinary arsenic level
+arsenic	source	arsenic-contaminated water
+methanol	exposure route	ingestion
+methanol	outcome	visual disturbance
+methanol	test for	serum methanol level
+methanol	source	bootleg alcohol
+ethylene glycol	exposure route	ingestion
+ethylene glycol	outcome	metabolic acidosis
+ethylene glycol	test for	osmolar gap
+ethylene glycol	source	antifreeze
+chlorine gas	exposure route	inhalation
+chlorine gas	outcome	airway edema
+chlorine gas	diagnostic marker	chest radiograph abnormality
+chlorine gas	source	chlorine release
+sodium hypochlorite	exposure route	ingestion
+sodium hypochlorite	outcome	mucosal injury
+sodium hypochlorite	source	household bleach
+sodium hypochlorite	test for	mucosal injury signs
+sodium hydroxide	exposure route	ingestion
+sodium hydroxide	outcome	caustic injury
+sodium hydroxide	source	drain cleaner
+sodium hydroxide	risk factor	severe esophageal burns
+cadmium	exposure route	inhalation
+cadmium	outcome	nephrotoxicity
+cadmium	test for	urinary cadmium level
+cadmium	source	battery manufacturing
+iron poisoning	exposure route	ingestion
+iron poisoning	outcome	metabolic acidosis
+iron poisoning	test for	serum iron level
+iron poisoning	source	iron supplement overdose
+aluminum	exposure route	ingestion
+aluminum	outcome	neurotoxicity
+aluminum	test for	plasma aluminum level
+aluminum	source	antacid tablets
+benzene	exposure route	inhalation
+benzene	outcome	bone marrow suppression
+benzene	test for	hematologic toxicity
+benzene	source	industrial solvent
+toluene	exposure route	inhalation
+toluene	outcome	CNS toxicity
+toluene	test for	urine toluene level
+toluene	source	solvent products
+paraquat	exposure route	ingestion
+paraquat	outcome	pulmonary fibrosis
+paraquat	prognosis	high mortality
+paraquat	test for	urine paraquat levels
+organophosphate	exposure route	inhalation
+organophosphate	mechanism	cholinesterase inhibition
+organophosphate	outcome	muscarinic toxicity
+organophosphate	test for	red cell cholinesterase level
+pesticide	exposure route	dermal contact
+pesticide	outcome	neurotoxicity
+pesticide	source	agricultural setting
+pesticide	test for	cholinesterase inhibition
+sulfuric acid	exposure route	ingestion
+sulfuric acid	outcome	corrosive injury
+sulfuric acid	source	battery acid
+sulfuric acid	risk factor	severe GI burns
+hydrofluoric acid	exposure route	dermal contact
+hydrofluoric acid	outcome	tissue necrosis
+hydrofluoric acid	diagnostic marker	hypocalcemia
+hydrofluoric acid	source	industrial cleaner
+chlorine dioxide	exposure route	inhalation
+chlorine dioxide	outcome	airway irritation
+chlorine dioxide	test for	respiratory symptoms
+drain cleaner	exposure route	ingestion
+drain cleaner	outcome	caustic injury
+drain cleaner	source	household product
+drain cleaner	test for	mucosal injury signs
+methylmercury	exposure route	ingestion
+methylmercury	outcome	neurotoxicity
+methylmercury	test for	mercury level in hair
+methylmercury	source	contaminated seafood
+naphthalene	exposure route	inhalation
+naphthalene	outcome	hepatic toxicity
+naphthalene	test for	urinary metabolites
+naphthalene	source	mothballs
+carbon tetrachloride	exposure route	inhalation
+carbon tetrachloride	outcome	hepatic injury
+carbon tetrachloride	test for	liver enzymes
+carbon tetrachloride	source	industrial solvent
+drinking water contamination	exposure route	ingestion

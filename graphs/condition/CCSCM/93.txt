@@ -1,0 +1,82 @@
+benign paroxysmal positional vertigo	causes	vertigo
+Meniere disease	causes	vertigo
+vestibular neuritis	causes	vertigo
+labyrinthitis	causes	vertigo
+superior canal dehiscence syndrome	causes	vertigo
+cervical vertigo	causes	dizziness
+presbyvestibulopathy	causes	dizziness
+otitis media	causes	vertigo
+otitis externa	causes	dizziness
+acoustic neuroma	causes	vertigo
+vestibular schwannoma	causes	vertigo
+vestibular migraine	causes	vertigo
+migraine with aura	causes	vertigo
+brainstem stroke	causes	vertigo
+cerebellar stroke	causes	vertigo
+ischemic stroke	causes	dizziness
+transient ischemic attack	causes	dizziness
+basilar artery thrombosis	causes	vertigo
+vertebrobasilar insufficiency	causes	dizziness
+brain tumor	causes	dizziness
+meningioma	causes	dizziness
+glioblastoma	causes	dizziness
+multiple sclerosis	causes	dizziness
+brainstem glioma	causes	vertigo
+hemorrhagic stroke	causes	dizziness
+subarachnoid hemorrhage	presents with	dizziness
+orthostatic hypotension	causes	dizziness
+dehydration	causes	dizziness
+anemia	causes	dizziness
+iron deficiency anemia	causes	dizziness
+hypoglycemia	causes	dizziness
+hypovolemia	causes	dizziness
+sepsis	causes	dizziness
+infection	causes	dizziness
+preeclampsia	causes	dizziness
+pregnancy	associated with	dizziness
+anxiety disorder	associated with	dizziness
+panic disorder	associated with	dizziness
+panic attack	causes	dizziness
+vasovagal syncope	causes	dizziness
+POTS	causes	dizziness
+deconditioning	causes	dizziness
+heat exhaustion	causes	dizziness
+heat stroke	causes	dizziness
+alcohol intoxication	causes	dizziness
+alcohol withdrawal	causes	dizziness
+benzodiazepine withdrawal	causes	dizziness
+opioid toxicity	causes	dizziness
+anticholinergic toxicity	causes	dizziness
+antihypertensive therapy	causes	dizziness
+diuretic therapy	causes	dizziness
+beta-blocker therapy	causes	dizziness
+calcium channel blocker therapy	causes	dizziness
+digoxin toxicity	causes	dizziness
+diabetes mellitus	causes	dizziness
+diabetic autonomic neuropathy	causes	dizziness
+thyroid disease	causes	dizziness
+hypothyroidism	causes	dizziness
+hyperthyroidism	causes	dizziness
+motion sickness	associated with	dizziness
+vestibulopathy	causes	dizziness
+endolymphatic hydrops	causes	vertigo
+ototoxic medications	causes	vertigo
+aminoglycoside toxicity	causes	dizziness
+viral labyrinthitis	causes	vertigo
+bacterial labyrinthitis	causes	vertigo
+autoimmune inner ear disease	causes	dizziness
+labyrinthine concussion	causes	dizziness
+posterior canal BPPV	causes	vertigo
+horizontal canal BPPV	causes	vertigo
+perilymph fistula	causes	vertigo
+endolymphatic fistula	causes	vertigo
+cervical spine disease	causes	dizziness
+cervical artery dissection	causes	dizziness
+posterior circulation ischemia	causes	dizziness
+cerebellar ataxia	presents with	dizziness
+meningitis	causes	dizziness
+encephalitis	causes	dizziness
+posterior circulation syndrome	causes	dizziness
+basilar migraine	causes	dizziness
+migraine aura without headache	causes	dizziness
+migraine with brainstem aura	causes	vertigo

@@ -1,0 +1,100 @@
+hemophilia A	is a	factor VIII deficiency
+hemophilia B	is a	factor IX deficiency
+von Willebrand disease	is a	von Willebrand factor deficiency
+Factor II deficiency	is a	coagulation factor deficiency
+Factor VII deficiency	is a	coagulation factor deficiency
+Factor X deficiency	is a	coagulation factor deficiency
+Factor V Leiden mutation	is a	thrombophilia
+Prothrombin G20210A mutation	is a	thrombophilia
+Antithrombin deficiency	is a	thrombophilia
+Protein C deficiency	is a	thrombophilia
+Protein S deficiency	is a	thrombophilia
+Dysfibrinogenemia	is a	coagulation disorder
+Afibrinogenemia	is a	coagulation disorder
+Hypofibrinogenemia	is a	coagulation disorder
+Hyperfibrinolysis	is a	coagulopathy
+Disseminated intravascular coagulation	is a	coagulopathy
+Liver disease	causes	coagulopathy
+Chronic liver disease	causes	coagulopathy
+Acute liver failure	causes	coagulopathy
+Vitamin K deficiency	causes	prolonged prothrombin time
+Warfarin therapy	prolongs	prothrombin time
+Heparin therapy	prolongs	activated partial thromboplastin time
+Direct oral anticoagulants therapy	prolongs	coagulation tests
+Fresh frozen plasma	used for	rapid reversal of coagulopathy
+Cryoprecipitate	provides	fibrinogen
+Fibrinogen concentrate	treats	hypofibrinogenemia
+Prothrombin complex concentrate	reverses	warfarin effects
+Desmopressin	treats	von Willebrand disease
+Tranexamic acid	inhibits	fibrinolysis
+Aminocaproic acid	inhibits	fibrinolysis
+Protamine sulfate	reverses	heparin
+Vitamin K	reverses	warfarin effects
+Factor VIII concentrate	treats	hemophilia A
+Factor IX concentrate	treats	hemophilia B
+Von Willebrand factor concentrate	treats	von Willebrand disease
+Platelet transfusion	treats	severe thrombocytopenia
+Immune thrombocytopenia	causes	mucosal bleeding
+Thrombotic thrombocytopenic purpura	associated with	microangiopathic hemolytic anemia
+Hemolytic uremic syndrome	causes	renal failure
+Disseminated intravascular coagulation	features	simultaneous thrombosis and bleeding
+Disseminated intravascular coagulation	triggers	sepsis
+Sepsis	associated with	DIC
+Massive transfusion	increases	coagulopathy
+Splenomegaly	causes	thrombocytopenia
+Hemarthrosis	occurs with	hemophilia A
+Hemarthrosis	occurs with	hemophilia B
+Postpartum hemorrhage	occurs with	obstetric coagulopathy
+Mucosal bleeding	occurs with	platelet disorders
+Epistaxis	occurs with	coagulopathy
+Hematoma	occurs with	coagulopathy
+Intracranial hemorrhage	is a	life-threatening complication
+D-dimer	is a	marker of clot formation
+Prothrombin time	measures	extrinsic pathway
+International normalized ratio	measures	prothrombin time
+INR	is a	measure of coagulation status
+Activated partial thromboplastin time	assesses	intrinsic pathway function
+Thrombin time	assesses	fibrinogen function
+Bernard-Soulier syndrome	is a	platelet adhesion defect
+Glanzmann thrombasthenia	is a	platelet aggregation defect
+Platelet count	measures	platelet number
+Platelet adhesion defect	is a	platelet function abnormality
+Platelet aggregation defect	is a	platelet function abnormality
+Mucosal bleeding	is a	bleeding symptom
+Epistaxis	is a	bleeding symptom
+Gingival bleeding	is a	bleeding symptom
+Venous thromboembolism	is a	thrombotic event
+Hypercoagulable state	predisposes	venous thrombosis
+Aspirin	inhibits	platelet aggregation
+Clopidogrel	inhibits	platelet aggregation
+Rivaroxaban	is a	direct oral anticoagulant
+Apixaban	is a	direct oral anticoagulant
+Edoxaban	is a	direct oral anticoagulant
+Warfarin	is a	oral anticoagulant
+Liver failure	increases	bleeding risk
+Severe thrombocytopenia	increases	bleeding risk
+Vitamin K deficiency	presents with	ecchymosis
+Ecchymosis	is a	bleeding sign
+Transfusion reaction	occurs with	platelet transfusion
+Massive transfusion protocol	used for	warfarin reversal
+Plasma exchange	used for	thrombotic thrombocytopenic purpura
+Factor replacement therapy	reduces	mortality from bleeding
+Blood bank	provides	plasma products
+Transfusion medicine	coordinates	coagulation management
+Sepsis	increases	DIC risk
+Postpartum period	increases	postpartum hemorrhage risk
+D-dimer	elevated in	disseminated intravascular coagulation
+Fibrin degradation products	increase	bleeding risk
+Transfusion threshold	defines	transfusion need
+PCC	reverses	warfarin effects
+Fibrinogen level	reflects	plasma fibrinogen
+Pregnancy	increases	risk of obstetric bleeding
+Hepatic synthetic dysfunction	reduces	coagulation factor production
+Procoagulant therapy	used for	bleeding control
+Transfusion	associated with	transfusion-related complications
+Renal impairment	increases	bleeding risk
+Neonate	presents with	vitamin K deficiency
+Vitamin K dependent factors	are	coagulation factors
+Platelet transfusion	used for	active bleeding with thrombocytopenia
+Hepatic disease	worsens	coagulopathy
+Hemostasis	requires	coagulation pathways

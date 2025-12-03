@@ -1,0 +1,97 @@
+systemic lupus erythematosus	is an	autoimmune condition
+postoperative complication	is a	complication of surgery
+postoperative delirium	is a	postoperative complication
+surgical site infection	is a	postoperative complication
+venous thromboembolism	is a	postoperative complication
+acute kidney injury	is a	postoperative complication
+postoperative hemorrhage	is a	postoperative complication
+pneumonia	is a	postoperative complication
+atelectasis	is a	postoperative complication
+urinary retention	is a	postoperative complication
+wound infection	is a	postoperative complication
+wound dehiscence	is a	postoperative complication
+incisional hernia	is a	postoperative complication
+nerve injury	is a	postoperative complication
+vascular injury	is a	postoperative complication
+cardiac arrhythmia	is a	postoperative complication
+myocardial infarction	is a	postoperative complication
+stroke	is a	postoperative complication
+acute liver injury	is a	postoperative complication
+sepsis	is a	postoperative complication
+infection	is a	complication of surgery
+anemia	is a	postoperative complication
+blood loss	is a	postoperative complication
+air embolism	is a	postoperative complication
+prosthetic joint infection	is a	postoperative complication
+implants failure	is a	postoperative complication
+nerve palsy	is a	postoperative complication
+hematoma	is a	postoperative complication
+seroma	is a	postoperative complication
+poor wound healing	is a	postoperative complication
+pulmonary edema	is a	postoperative complication
+acute liver failure	is a	postoperative complication
+delayed gastric emptying	is a	postoperative complication
+postoperative nausea and vomiting	is a	postoperative complication
+acute coronary syndrome	is a	postoperative complication
+hypotension	is a	anesthesia complication
+bronchospasm	is a	anesthesia complication
+allergic reaction	is a	adverse drug reaction
+anaphylaxis	is a	adverse drug reaction
+adverse drug event	is a	complication of pharmacotherapy
+postoperative fever	is a	postoperative complication
+urinary tract infection	is a	postoperative complication
+catheter-associated infection	is a	postoperative complication
+venous insufficiency	is a	complication of surgery
+blood transfusion	is a	postoperative intervention
+transfusion reaction	is a	postoperative complication
+platelet dysfunction	is a	postoperative complication
+coagulopathy	is a	postoperative complication
+hypothermia	is a	postoperative complication
+hyperglycemia	is a	postoperative complication
+hypoglycemia	is a	postoperative complication
+neurocognitive dysfunction	is a	postoperative complication
+deep vein thrombosis	is a	postoperative complication
+pulmonary embolism	is a	postoperative complication
+respiratory failure	is a	postoperative complication
+multiorgan dysfunction	is a	postoperative complication
+septic shock	is a	postoperative complication
+postoperative respiratory failure	is a	postoperative complication
+hemorrhagic shock	is a	postoperative complication
+airway obstruction	is a	anesthesia complication
+contrast-induced nephropathy	is a	complication of imaging
+foreign body reaction	is a	postoperative complication
+seroma formation	is a	postoperative complication
+implant loosening	is a	postoperative complication
+prosthesis infection	is a	postoperative complication
+necrosis	is a	postoperative complication
+wound infection	is a	postoperative complication
+wound breakdown	is a	postoperative complication
+diabetes mellitus	is a	risk factor for	infection
+oxidative stress	is a	mechanism of	tissue injury
+elderly patient	is a	higher risk for	delirium
+obesity	is a	risk factor for	surgical site infection
+smoking	is a	risk factor for	wound infection
+malnutrition	is a	risk factor for	poor wound healing
+immunosuppression	is a	risk factor for	infection
+end-stage renal disease	is a	risk factor for	postoperative complications
+frailty	is a	risk factor for	delirium
+older age	is a	predictor of	readmission
+diabetes	is a	predictor of	infection
+hypertension	is a	predictor of	cardiovascular complication
+cirrhosis	is a	predictor of	infection
+obstructive sleep apnea	is a	predictor of	pneumonia
+alcohol use disorder	is a	predictor of	postoperative infection
+malignancy	is a	predictor of	infection
+end-stage renal disease	is a	predictor of	postoperative complications
+anesthesia	is a	contributor to	postoperative delirium
+postoperative pain	is a	predictor of	opioid use
+opioid use	is a	predictor of	delirium
+transfusion	is a	predictor of	infection
+transfusion	is a	predictor of	mortality
+prolonged operative time	is a	predictor of	postoperative infection
+antibiotic prophylaxis	is a	preventative measure for	surgical site infection
+glucose control	is a	preventative measure for	infection
+sterile technique	is a	preventative measure for	infection
+hand hygiene	is a	preventative measure for	infection
+surgical checklists	is a	preventative measure for	complications
+drain placement	is a	predictor of	seroma

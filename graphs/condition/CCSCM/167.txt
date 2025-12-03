@@ -1,0 +1,100 @@
+fibrocystic changes	is a	benign breast condition
+fibroadenoma	is benign	breast lesion
+breast cyst	is benign	cystic lesion
+duct ectasia	is benign	breast condition
+mastitis	is benign	breast infection
+intraductal papilloma	is benign	breast lesion
+lipoma	is benign	soft-tissue tumor
+sclerosing adenosis	is benign	breast lesion
+galactocele	is benign	breast lesion
+fat necrosis	is benign	breast lesion
+hamartoma	is benign	breast lesion
+radial scar	is benign	breast lesion
+fibroadenosis	is benign	breast condition
+gynecomastia	is benign	breast condition
+nipple discharge	is a	breast symptom
+breast lump	is a	breast finding
+breast pain	is a	breast symptom
+mastalgia	is a	breast symptom
+nipple discharge	accompanies	intraductal papilloma
+nipple discharge	associates	duct ectasia
+intraductal papilloma	causes	unilateral discharge
+duct ectasia	causes	nipple discharge
+galactorrhea	is a	breast symptom
+calcifications	seen on	mammography
+benign calcifications	seen on	mammography
+dense breasts	are associated with	benign findings
+fibrocystic changes	correlate with	mastalgia
+fibroadenoma	presents with	palpable lump
+breast cyst	presents with	tenderness
+radial scar	presents with	architectural distortion
+sclerosing adenosis	presents with	calcifications
+fat necrosis	presents with	palpable lump
+hamartoma	presents with	soft-tissue mass
+lipoma	presents with	soft-tissue mass
+gynecomastia	presents with	breast enlargement
+breast lump	evaluated by	ultrasound
+breast lump	evaluated by	mammography
+breast lump	evaluated by	MRI
+ultrasound	distinguishes	cyst
+mammography	screens	breast health
+MRI	used for	diagnosis
+biopsy	indicated for	suspicious lesion
+aspiration	used for	breast cyst
+watchful waiting	used for	simple cyst
+antibiotics	treat	mastitis
+analgesics	relieve	breast pain
+warm compress	alleviate	mastitis symptoms
+surgery	reserved for	persistent benign mass
+excisional biopsy	performed for	enlarging lesion
+fine-needle aspiration	performed for	breast cyst
+ultrasound-guided biopsy	performed for	suspicious lesion
+observation	is management for	simple cyst
+benign lesion	monitored with	imaging
+benign lesion	managed with	follow-up
+fat necrosis	follow-up imaging	recommendation
+radial scar	follow-up imaging	recommendation
+intraductal papilloma	requires	surgical excision
+intraductal papilloma	requires	duct excision
+duct excision	performed for	intraductal papilloma
+lactation	managed with	feeding support
+nipple inversion	observed with	benign breast condition
+cancer mimic	risk with	fat necrosis
+cancer mimic	risk with	radial scar
+benign calcifications	require	follow-up imaging
+biopsy	confirms	benign pathology
+benign pathology	confirms	benign condition
+imaging follow-up	reduces	diagnostic ambiguity
+age	is risk factor for	benign breast disease
+family history	increases risk for	benign breast disease
+estrogen exposure	increases risk for	fibrocystic changes
+obesity	associated with	fibrocystic changes
+nulliparity	associated with	benign breast disease
+early menarche	increases risk for	benign breast disease
+late menopause	increases risk for	benign breast disease
+oral contraceptive use	linked to	fibrocystic changes
+menstrual cycle	modulates	breast pain
+breast density	correlates with	imaging limitations
+dense breasts	complicates	cancer detection
+hormone replacement therapy	linked to	fibrocystic changes
+genetics	contribute to	benign breast disease
+ethnicity	influences	breast disease risk
+smoking	associated with	breast pain
+physical activity	reduces	breast pain
+breastfeeding	reduces risk for	breast cancer
+pregnancy	reduces risk for	benign breast disease
+age	correlates with	breast condition spectrum
+ultrasound	guides	biopsy
+mammography	guides	follow-up
+MRI	adds	imaging detail
+ultrasound	shows	simple cyst
+ultrasound	shows	solid lesion
+mammography	shows	calcifications
+biopsy	provides	histology result
+clinical examination	reveals	breast mass
+imaging plan	guided by	clinical examination
+cyst fluid	contains	non-bloody fluid
+intraductal papilloma	risks	recurrence
+benign lesion	requires	routine follow-up
+patient education	improves	management adherence
+adherence	improves	clinical outcomes

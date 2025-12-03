@@ -1,0 +1,40 @@
+polyhydramnios	is a	pregnancy complication
+polyhydramnios	associated with	fetal anomaly
+polyhydramnios	associated with	chromosomal abnormality
+polyhydramnios	associated with	maternal diabetes
+polyhydramnios	associated with	gestational diabetes
+polyhydramnios	associated with	multiple gestation
+polyhydramnios	associated with	twin pregnancy
+polyhydramnios	associated with	triplet pregnancy
+polyhydramnios	associated with	fetal hydrops
+polyhydramnios	associated with	fetal distress
+polyhydramnios	associated with	preterm birth
+polyhydramnios	associated with	cesarean delivery
+polyhydramnios	associated with	stillbirth
+polyhydramnios	associated with	NICU admission
+polyhydramnios	associated with	neonatal respiratory distress syndrome
+polyhydramnios	associated with	meconium aspiration syndrome
+polyhydramnios	associated with	placental abruption
+polyhydramnios	associated with	placental insufficiency
+polyhydramnios	diagnosed by	ultrasound
+polyhydramnios	monitored with	ultrasound
+polyhydramnios	evaluated by	amniotic fluid index
+polyhydramnios	evaluated by	biophysical profile
+polyhydramnios	evaluated by	fetal surveillance
+polyhydramnios	treated with	amnioreduction
+polyhydramnios	treated with	therapeutic amniocentesis
+polyhydramnios	managed with	expectant management
+polyhydramnios	managed with	planned delivery
+polyhydramnios	managed with	early delivery
+polyhydramnios	requires	fetal monitoring
+polyhydramnios	indicates	fetal distress
+polyhydramnios	leads to	placental compromise
+polyhydramnios	leads to	perinatal morbidity
+polyhydramnios	increases risk of	neonatal mortality
+polyhydramnios	increases risk of	NICU admission
+polyhydramnios	increases risk of	cesarean delivery
+polyhydramnios	increases risk of	preterm birth
+polyhydramnios	commonly occurs with	fetal anomaly
+polyhydramnios	commonly occurs with	twin pregnancy
+polyhydramnios	common in	maternal diabetes
+polyhydramnios	seen in	multiple gestation

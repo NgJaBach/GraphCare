@@ -1,0 +1,100 @@
+menopausal disorders	include	perimenopause
+menopausal disorders	include	postmenopause
+perimenopause	characterized by	irregular menses
+perimenopause	associated with	vasomotor symptoms
+vasomotor symptoms	include	hot flashes
+vasomotor symptoms	include	night sweats
+hot flashes	cause	sleep disturbance
+night sweats	cause	sleep disturbance
+sleep disturbance	reduces	quality of life
+estrogen deficiency	leads to	vaginal atrophy
+vaginal atrophy	leads to	dyspareunia
+dyspareunia	reduces	sexual activity
+bone mineral density	decreases with	age
+postmenopausal osteoporosis	increases	fracture risk
+osteoporosis	diagnosed by	DEXA
+DEXA	measures	bone mineral density
+bone mineral density	predicts	fracture risk
+weight-bearing exercise	improves	bone mineral density
+calcium supplementation	supports	bone mineral density
+vitamin D supplementation	supports	calcium absorption
+bisphosphonates	reduce	fracture risk
+denosumab	reduces	fracture risk
+hormone replacement therapy	treats	vasomotor symptoms
+estrogen therapy	treats	vasomotor symptoms
+estrogen therapy	increases	endometrial cancer risk
+estrogen-progestin therapy	increases	breast cancer risk
+breast cancer risk	associated with	hormone replacement therapy
+HRT	contraindicated in	pregnancy
+HRT	contraindicated in	thromboembolism
+paroxetine	reduces	hot flash frequency
+venlafaxine	reduces	hot flash frequency
+clonidine	reduces	hot flash frequency
+gabapentin	reduces	vasomotor symptoms
+soy isoflavones	provide	relief of vasomotor symptoms
+nonhormonal therapy	used for	vasomotor symptoms when HRT contraindicated
+vaginal estrogen therapy	relieves	vaginal atrophy
+vaginal estrogen therapy	improves	vaginal lubrication
+genitourinary syndrome of menopause	treated with	vaginal estrogen
+genitourinary syndrome of menopause	causes	vaginal dryness
+urinary symptoms	common in	menopause
+urinary incontinence	worsened by	menopause
+genitourinary syndrome of menopause	related to	vaginal health
+lipid profile	worsens	postmenopause
+HDL cholesterol	decreases	postmenopause
+LDL cholesterol	increases	postmenopause
+cardiovascular risk	increases	postmenopause
+metabolic syndrome	risk increases	postmenopause
+weight gain	occurs	menopause
+mood changes	associated with	menopause
+depression	more common	perimenopause
+anxiety	more common	perimenopause
+sleep disturbance	common in	menopausal transition
+FSH	rises	during menopause
+LH	rises	during menopause
+estradiol	declines	during menopause
+testosterone	declines	during menopause
+FSH	diagnostic marker for	menopause
+LH	diagnostic marker for	menopause
+mammography	recommended for	postmenopausal women
+breast cancer screening	recommended for	postmenopausal women
+endometrium	thickens	with unopposed estrogen therapy
+endometrial hyperplasia	risk increases	unopposed estrogen therapy
+progestin	protects	endometrium during estrogen therapy
+endometrium	protected by	progestin during estrogen therapy
+unopposed estrogen therapy	increases	endometrial hyperplasia
+tibolone	used for	menopausal symptoms
+menopausal symptoms	relieved by	tibolone
+genitourinary syndrome of menopause	reduces	sexual comfort
+sertraline	used for	vasomotor symptoms
+fluoxetine	used for	vasomotor symptoms
+CBT	improves	sleep disturbance
+CBT	improves	quality of life
+exercise programs	improve	bone mineral density
+smoking	worsens	hot flashes
+smoking	increases	osteoporosis risk
+alcohol consumption	worsens	vasomotor symptoms
+physical activity	reduces	cardiovascular risk postmenopause
+phytoestrogens	provide	mild relief of vasomotor symptoms
+clinical guidelines	influence	menopausal treatment
+gynecologist	prescribes	HRT
+primary care physician	initiates	menopause assessment
+DEXA	recommended for	postmenopausal women
+calcium	required for	bone health
+calcium carbonate	used for	calcium supplementation
+vitamin D	required for	calcium absorption
+endometrial cancer	risk increases	unopposed estrogen therapy
+breast cancer	risk increases	estrogen-progestin therapy
+HRT	monitored by	gynecologist
+hysterectomy	impacts	estrogen therapy choice
+skin aging	accelerates	postmenopause
+hormone therapy	improves	quality of life
+thromboembolism	risk increases	hormone therapy
+bone loss	mitigated by	calcium supplementation
+osteoclast activity	reduced by	bisphosphonates
+osteoblast activity	influenced by	estrogen deficiency
+endometrial protection	provided by	progestin
+family history	influences	osteoporosis risk
+calcium intake	associated with	bone mineral density
+years since menopause	correlates with	fracture risk
+postmenopause care	includes	bone density testing

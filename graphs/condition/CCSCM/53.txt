@@ -1,0 +1,119 @@
+disorders of lipid metabolism	are characterized by	abnormal lipid levels
+disorders of lipid metabolism	include	hyperlipidemia
+disorders of lipid metabolism	lead to	atherosclerosis
+disorders of lipid metabolism	increase	cardiovascular risk
+hyperlipidemia	associated with	obesity
+hyperlipidemia	associated with	diabetes
+hyperlipidemia	increases	coronary artery disease
+familial hypercholesterolemia	caused by	LDL receptor defect
+familial hypercholesterolemia	caused by	APOB mutation
+familial combined hyperlipidemia	characterized by	elevated LDL and VLDL
+familial dysbetalipoproteinemia	caused by	APOE mutation
+LPL deficiency	causes	hypertriglyceridemia
+apolipoprotein E	influences	lipid transport
+dysbetalipoproteinemia	features	elevated cholesterol and triglycerides
+hypertriglyceridemia	leads to	pancreatitis
+insulin resistance	contributes to	dyslipidemia
+obesity	contributes to	dyslipidemia
+hypothyroidism	causes	hyperlipidemia
+nephrotic syndrome	causes	hyperlipidemia
+diabetes mellitus	leads to	dyslipidemia
+metabolic syndrome	includes	dyslipidemia
+pancreatitis	is associated with	hypertriglyceridemia
+xanthomas	occur with	hyperlipidemia
+coronary artery disease	results from	dyslipidemia
+atherosclerosis	involves	lipid accumulation
+lipid panel	evaluates	lipid levels
+lipoprotein(a)	increases	atherosclerotic risk
+apolipoprotein B	indicates	atherogenic particle number
+LDL receptor	mediates	LDL uptake
+LDL cholesterol	drives	atherosclerotic plaque formation
+HDL cholesterol	protects against	atherosclerosis
+non-HDL cholesterol	predicts	cardiovascular risk
+apoB-containing particles	increase	atherogenic risk
+CETP	modifies	HDL composition
+statins	reduce	LDL cholesterol
+statins	improve	lipid profile
+fibrates	reduce	triglycerides
+omega-3 fatty acids	lower	triglycerides
+bile acid sequestrants	lower	LDL cholesterol
+niacin	raise	HDL cholesterol
+PCSK9 inhibitors	lower	LDL cholesterol
+ezetimibe	inhibit	intestinal cholesterol absorption
+dietary modification	reduce	LDL cholesterol
+physical activity	increases	HDL cholesterol
+weight loss	improves	lipid profile
+genetic factors	influence	lipid levels
+age	increases	cardiovascular risk
+smoking	worsens	lipid profile
+alcohol consumption	increases	triglycerides
+liver disease	alters	lipid metabolism
+thyroid disease	affects	lipid levels
+hormonal changes	affect	lipid levels
+thiazide diuretics	raise	cholesterol
+beta-blockers	worsen	lipid profile
+dietary saturated fat	increases	LDL cholesterol
+trans fats	raise	LDL cholesterol
+polyunsaturated fats	lower	triglycerides
+monounsaturated fats	improve	lipid profile
+liver X receptor	regulates	cholesterol metabolism
+lipoprotein lipase	deficiency leads to	hypertriglyceridemia
+apoA-II	associates with	HDL particles
+HDL particles	participate in	reverse cholesterol transport
+LDL particle	binds to	LDL receptor
+PCSK9	promotes degradation of	LDL receptor
+apoB-100	is necessary for	LDL assembly
+LDL assembly	requires	apoB-100
+remnant clearance	involves	apoE
+liver	synthesizes	cholesterol
+intestine	absorbs	cholesterol
+cholesterol	is transported by	LDL
+cholesterol	is transported by	HDL
+VLDL	carries	triglycerides
+lipoprotein lipase	hydrolyzes	triglycerides in chylomicrons
+LPL deficiency	leads to	hypertriglyceridemia
+chylomicrons	form	in intestine
+apoB-containing lipoproteins	are	atherogenic
+HDL	mediates	reverse cholesterol transport
+reverse cholesterol transport	reduces	cholesterol accumulation
+Lp(a)	is an	independent risk factor
+LDL particle	carries	cholesterol
+HDL	carries	cholesterol away from arteries
+apoB-100	constitutes	LDL particle
+apoB-containing lipoproteins	are	atherogenic
+apoE variants	influence	lipid phenotype
+HDL maturation	requires	ApoA1
+Apolipoprotein E variants	influence	lipid phenotype
+liver	regulates	cholesterol homeostasis
+intestinal cholesterol absorption	is inhibited by	ezetimibe
+bile acids	derived from	cholesterol
+cholesterol synthesis	occurs in	liver
+cholesterol transport	occurs via	lipoproteins
+HDL	participates in	reverse cholesterol transport
+LDL receptor	expression	downregulated by	PCSK9
+PCSK9	downregulates	LDL receptor
+Apolipoprotein B-100	is required for	LDL assembly
+LDL assembly	requires	apoB-100
+remnant clearance	involves	apoE
+VLDL	carries	triglycerides
+lipoprotein lipase	hydrolyzes	triglycerides in chylomicrons
+chylomicrons	deliver	triglycerides to tissues
+apoA1	is major apolipoprotein of	HDL
+apoA1 deficiency	reduces	HDL
+chylomicron remnants	cleared by	liver
+bile acids	regulate	cholesterol homeostasis
+statins	block	HMG-CoA reductase
+HMG-CoA reductase	target of	statins
+CYP7A1	controls	bile acid synthesis
+bile acid sequestrants	increase	bile acid excretion
+omega-3 fatty acids	reduce	hepatic VLDL production
+dietary saturated fat	raises	LDL cholesterol
+trans fatty acids	increase	LDL cholesterol
+dietary fiber	lowers	cholesterol absorption
+physical activity	lowers	triglycerides
+weight loss	lowers	triglycerides
+smoking cessation	lowers	lipid risk
+obesity	increases	triglycerides
+diabetes	worsens	dyslipidemia
+nephrotic syndrome	increases	ApoB-containing lipoproteins
+lipid abnormalities	inform	risk stratification

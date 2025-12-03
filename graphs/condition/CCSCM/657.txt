@@ -1,0 +1,100 @@
+mood disorders	is a	category of mental disorders
+mood disorders	include	depressive disorders
+mood disorders	co-occur with	anxiety disorders
+major depressive disorder	is a	mood disorder
+major depressive disorder	presents with	anhedonia
+major depressive disorder	presents with	insomnia
+major depressive disorder	presents with	fatigue
+major depressive disorder	presents with	weight change
+major depressive disorder	is associated with	suicidality
+major depressive disorder	treated with	antidepressants
+major depressive disorder	treated with	psychotherapy
+bipolar I disorder	is a	mood disorder
+bipolar II disorder	is a	mood disorder
+cyclothymic disorder	is a	mood disorder
+persistent depressive disorder	is a	mood disorder
+seasonal affective disorder	is a	mood disorder
+postpartum depression	is a	mood disorder
+premenstrual dysphoric disorder	is a	mood disorder
+suicidal ideation	is a symptom of	mood disorders
+suicide attempt	is associated with	mood disorders
+insomnia	is a symptom of	mood disorders
+hypersomnia	is a symptom of	mood disorders
+fatigue	is a symptom of	mood disorders
+weight gain	is a symptom of	mood disorders
+weight loss	is a symptom of	mood disorders
+loss of appetite	is a symptom of	mood disorders
+psychomotor agitation	is a symptom of	mood disorders
+psychomotor retardation	is a symptom of	mood disorders
+anxiety symptoms	are comorbid with	mood disorders
+psychosis	can occur with	mood disorders
+manic episode	is a feature of	bipolar disorder
+hypomanic episode	is a feature of	bipolar disorder
+psychotic features	occur in	mood disorders
+melancholic features	occur in	major depressive disorder
+atypical features	occur in	mood disorders
+seasonal pattern	is a specifier of	major depressive disorder
+mood disorders	have comorbidity with	anxiety disorders
+mood disorders	have comorbidity with	substance use disorders
+mood disorders	have comorbidity with	sleep disorders
+electroconvulsive therapy	is used for	mood disorders
+electroconvulsive therapy	improves	depressive symptoms
+transcranial magnetic stimulation	is used for	mood disorders
+cognitive behavioral therapy	is effective for	mood disorders
+interpersonal therapy	is effective for	mood disorders
+family therapy	is used for	mood disorders
+antidepressants	include	selective serotonin reuptake inhibitors
+selective serotonin reuptake inhibitors	are first-line for	major depressive disorder
+serotonin-norepinephrine reuptake inhibitors	are used to treat	mood disorders
+tricyclic antidepressants	are used to treat	mood disorders
+monoamine oxidase inhibitors	are used to treat	mood disorders
+lithium	is a mood stabilizer
+lithium	is used to treat	bipolar disorder
+valproate	is a mood stabilizer
+lamotrigine	is a mood stabilizer
+carbamazepine	is a mood stabilizer
+atypical antipsychotics	are used to treat	bipolar disorder
+olanzapine	is an antipsychotic
+quetiapine	is an antipsychotic
+risperidone	is an antipsychotic
+aripiprazole	is an antipsychotic
+mood disorder with psychotic features	is a presentation of	mood disorders
+bipolar disorder with psychotic features	is a presentation of	bipolar disorder
+cognitive impairment	accompanies	mood disorders
+neuroinflammation	is associated with	mood disorders
+HPA axis dysfunction	is associated with	mood disorders
+genetic predisposition	increases	risk of mood disorders
+family history	is predictor for	mood disorders
+age	is predictor for	mood disorders
+female gender	is risk factor for	mood disorders
+smoking	is risk factor for	mood disorders
+substance use disorder	is comorbid with	mood disorders
+anxiety disorder	is comorbid with	mood disorders
+diabetes mellitus	is associated with	mood disorders
+cardiovascular disease	is associated with	mood disorders
+thyroid disease	is associated with	mood disorders
+pregnancy	is a risk factor for	mood disorders
+menopause	is a risk factor for	mood disorders
+age of onset	is variable in	mood disorders
+treatment adherence	affects	mood disorders outcomes
+remission	is possible with	mood disorders
+relapse	occurs after	remission
+mood episodes	are recurrent in	mood disorders
+treatment resistance	is a challenge in	mood disorders
+crisis intervention	is used for	mood disorders
+emergency department visit	is common in	mood disorders
+inpatient hospitalization	may be required for	mood disorders
+outpatient therapy	is common for	mood disorders
+psychiatric crisis services	are used for	mood disorders
+bereavement	may precipitate	mood disorders
+life stressor	precipitates	mood disorders
+traumatic event	increases risk for	mood disorders
+neurocognitive impairment	occurs with	mood disorders
+cortisol level	is altered in	mood disorders
+dopamine signaling	is disrupted in	mood disorders
+serotonin signaling	is disrupted in	mood disorders
+noradrenergic system	is involved in	mood disorders
+neuroplasticity impairment	is associated with	mood disorders
+brain-derived neurotrophic factor	is decreased in	mood disorders
+sleep deprivation	is a trigger for	mood disorders
+exercise	reduces risk of	mood disorders

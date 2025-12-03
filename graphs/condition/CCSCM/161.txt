@@ -1,0 +1,100 @@
+kidney stone	is a	urolithiasis
+kidney stone	causes	flank pain
+kidney stone	causes	hematuria
+kidney stone	diagnosed by	CT scan
+kidney stone	diagnosed by	ultrasound
+kidney stone	treated with	lithotripsy
+kidney stone	treated with	ureteroscopy
+hydronephrosis	is a	dilation of kidney pelvis
+hydronephrosis	caused by	ureteral obstruction
+hydronephrosis	diagnosed by	ultrasound
+hydronephrosis	managed with	nephrostomy
+pyelonephritis	is a	kidney infection
+pyelonephritis	presents with	fever
+pyelonephritis	treated with	antibiotics
+pyelonephritis	diagnosed by	urinalysis
+pyelonephritis	complication of	sepsis
+nephritis	is a	kidney inflammation
+glomerulonephritis	is a	kidney inflammation
+glomerulonephritis	associated with	hypertension
+glomerulonephritis	diagnosed by	renal biopsy
+glomerulonephritis	treated with	steroids
+polycystic kidney disease	is a	genetic disorder
+polycystic kidney disease	causes	cyst formation
+polycystic kidney disease	increases risk for	renal failure
+autosomal dominant polycystic kidney disease	is a	genetic disease
+autosomal recessive polycystic kidney disease	is a	genetic disease
+renal cell carcinoma	is a	kidney cancer
+renal cell carcinoma	diagnosed by	CT scan
+renal cell carcinoma	treated with	nephrectomy
+renal cell carcinoma	risk factor	smoking
+renal cell carcinoma	presents with	hematuria
+wilms tumor	is a	kidney cancer
+wilms tumor	diagnosed by	ultrasound
+wilms tumor	treated with	nephrectomy
+renal cyst	is a	cystic kidney lesion
+renal cyst	associated with	polycystic kidney disease
+ureteral stone	is a	stone in ureter
+ureteral stone	causes	flank pain
+ureteral stone	diagnosed by	CT scan
+ureteral stone	treated with	ureteroscopy
+ureteral stone	treated with	lithotripsy
+ureterocele	is a	congenital dilation of ureter
+ureterocele	associated with	urinary obstruction
+ureterocele	diagnosed by	ultrasound
+ureteral stricture	is a	narrowing of ureter
+ureteral stricture	causes	hydronephrosis
+ureteral stricture	treated with	balloon dilation
+papillary necrosis	is a	kidney papillary tissue death
+papillary necrosis	associated with	analgesic nephropathy
+papillary necrosis	diagnosed by	imaging
+medullary sponge kidney	is a	congenital kidney disease
+medullary sponge kidney	presents with	kidney stones
+chronic pyelonephritis	is a	chronic kidney infection
+chronic pyelonephritis	associated with	reflux
+analgesic nephropathy	is a	drug-induced kidney disease
+analgesic nephropathy	caused by	analgesic use
+diabetic nephropathy	is a	diabetic kidney disease
+diabetic nephropathy	associated with	diabetes mellitus
+hypertensive nephrosclerosis	is a	hypertensive kidney disease
+tubulointerstitial nephritis	is a	kidney inflammation around tubules
+tubulointerstitial nephritis	caused by	infection
+amyloidosis kidney	is a	deposition disease
+amyloidosis kidney	causes	nephrotic syndrome
+renal infarction	is a	kidney tissue death due to vascular occlusion
+renal infarction	presents with	sudden flank pain
+nephrocalcinosis	is a	calcium deposition in kidney
+nephrocalcinosis	associated with	hyperparathyroidism
+renal papillary necrosis	is a	kidney papillary tissue death
+renal papillary necrosis	associated with	analgesic nephropathy
+xanthogranulomatous pyelonephritis	is a	rare kidney infection
+xanthogranulomatous pyelonephritis	treated with	nephrectomy
+acquired cystic kidney disease	occurs in	chronic kidney disease
+renal angiomyolipoma	is a	benign kidney tumor
+renal angiomyolipoma	associated with	tuberous sclerosis
+renal cortical necrosis	is a	kidney cortex tissue death
+acute tubular necrosis	is a	kidney tubule injury
+acute tubular necrosis	caused by	ischemia
+acute tubular necrosis	treated with	supportive care
+renal failure	is a	decline in kidney function
+chronic kidney disease	is a	progressive kidney disease
+nephrotic syndrome	is a	kidney disorder
+nephrotic syndrome	presents with	edema
+nephrotic syndrome	presents with	proteinuria
+nephrotic syndrome	associated with	hypoalbuminemia
+nephrotic syndrome	treated with	diuretics
+nephritic syndrome	is a	kidney disorder
+nephritic syndrome	presents with	hematuria
+nephritic syndrome	treated with	steroids
+nephritic syndrome	associated with	hypertension
+ureteritis	is a	ureter inflammation
+ureteritis	diagnosed by	urinalysis
+ureteritis	treated with	antibiotics
+diuretic-induced nephropathy	is a	drug-induced kidney disease
+diuretic-induced nephropathy	caused by	diuretics
+autoimmune lupus nephritis	is a	autoimmune kidney disease
+lupus nephritis	is a	autoimmune kidney disease
+post-infectious glomerulonephritis	is a	kidney inflammation after infection
+IgA nephropathy	is a	kidney inflammation
+IgA nephropathy	presents with	hematuria
+membranous nephropathy	is a	kidney disease

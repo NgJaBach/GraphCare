@@ -1,0 +1,100 @@
+conduction disorders	is a	cardiac conduction abnormality
+AV block	is a	conduction disorder
+bundle branch block	is a	conduction disorder
+sick sinus syndrome	is a	conduction disorder
+sinus node dysfunction	is a	conduction disorder
+AV block	causes	bradycardia
+AV block	leads to	syncope
+bundle branch block	causes	QRS widening
+sick sinus syndrome	causes	fatigue
+conduction disorders	increase	pacemaker requirement
+AV block	may require	pacemaker
+bundle branch block	may require	pacemaker
+temporary pacemaker	provides	temporary stabilization
+permanent pacemaker	provides	long-term pacing
+pacemaker	treats	bradycardia
+pacemaker implantation	procedure	conduction disorder
+dual-chamber pacemaker	improves	AV synchrony
+permanent pacemaker	reduces	syncope
+cardiac resynchronization therapy	indicated for	heart failure with conduction abnormality
+ECG	detects	conduction abnormalities
+ECG	shows	QRS widening
+ECG	shows	PR interval prolongation
+PR interval prolongation	indicates	AV nodal disease
+QRS widening	indicates	ventricular conduction delay
+left bundle branch block	associated with	cardiomyopathy
+right bundle branch block	associated with	aging
+sinoatrial node dysfunction	associated with	tachy-brady syndrome
+tachy-brady syndrome	features	alternating tachycardia and bradycardia
+ischemia	causes	conduction block
+myocardial infarction	causes	AV block
+coronary artery disease	associated with	conduction block
+cardiomyopathy	associated with	conduction disorders
+electrolyte disturbance	predisposes to	conduction abnormalities
+hypokalemia	predisposes to	conduction delay
+hyperkalemia	causes	bradyarrhythmia
+digoxin	toxicity	AV block
+beta-blocker therapy	worsens	bradycardia
+calcium-channel blocker therapy	worsens	bradycardia
+amiodarone	may cause	AV block
+aging	increases	conduction disorders risk
+sleep apnea	associated with	conduction disorders
+diabetes mellitus	associated with	conduction disorders
+hypertension	associated with	conduction disorders
+renal failure	associated with	conduction disorders
+thyroid disease	associated with	conduction disorders
+electrophysiology study	used for	localization of conduction block
+catheter ablation	treats	arrhythmia due to conduction disorder
+ablation	reduces	conduction-disorder-related symptoms
+remote monitoring	enables	pacemaker follow-up
+implantable cardioverter-defibrillator	prevents	sudden cardiac death
+remote monitoring	reduces	clinic visits
+loop recorder	detects	arrhythmias in conduction disorders
+electrical remodeling	occurs in	conduction disorders
+aging	contributes to	conduction disorders
+electrophysiology lab	performs	cardiac mapping of conduction disorders
+cardiac mapping	localizes	conduction block
+HIS-Purkinje system	responsible for	ventricular conduction
+sinoatrial node	located in	right atrium
+AV node	located in	interatrial septum
+bundle of His	conducts	impulse from AV node to ventricles
+AV block	worsens with	ischemia
+PR interval prolongation	indicates	AV conduction time
+QRS duration lengthens	with	ventricular conduction delay
+left anterior fascicular block	is a	conduction block
+right bundle branch block	may be	benign condition
+pacemaker syndrome	causes	hypotension
+pacemaker syndrome	features	fatigue
+ECG monitoring	used for	surveillance of conduction disorders
+ambulatory monitoring	used for	detection of conduction disorders
+event recorder	used for	arrhythmia detection
+family history	associated with	conduction disorders
+genetic predisposition	underlies	conduction disorders
+electrolyte disturbance	influence	conduction disturbances
+potassium imbalance	affects	conduction velocity
+magnesium deficiency	contributes to	conduction abnormalities
+inflammatory myocarditis	associated with	conduction disorders
+viral myocarditis	can cause	conduction block
+autoimmune disease	associated with	conduction disorders
+sudden cardiac death	risk with	conduction disorders
+mortality	associated with	conduction disorders
+conduction disorders	increase	readmission
+conduction disorders	increase	emergency visits
+hospitalization	associated with	conduction disorders
+conduction disorders	serve as	predictive feature
+pacemaker maintenance	requires	device follow-up
+remote monitoring	enables	pacemaker data review
+loop recorder	detects	paroxysmal arrhythmias
+generator replacement	required for	pacemaker
+lead fracture	complication of	pacemaker
+device infection	complication of	pacemaker
+remote monitoring data	informs	treatment decisions
+risk stratification	includes	conduction disorders
+conduction disorders	may influence	mortality prediction
+conduction disorders	impact	readmission risk
+conduction disorders	affect	quality of life
+conduction disorders	associated with	heart failure progression
+autonomic dysfunction	interacts with	conduction disorders
+electrolyte management	affects	conduction block risk
+tachyarrhythmia	can coexist with	conduction disorders
+pacemaker implantation	enables	cardiac resynchronization therapy

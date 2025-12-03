@@ -1,0 +1,100 @@
+infection	is a	disease
+infection	is caused by	bacterium
+infection	is caused by	virus
+infection	is caused by	parasite
+infection	is caused by	fungus
+bacterium	causes	bacterial infection
+virus	causes	viral infection
+parasite	causes	parasitic infection
+fungus	causes	fungal infection
+protozoan	causes	protozoan infection
+helminth	causes	helminthic infection
+Plasmodium falciparum	causes	malaria
+malaria	is transmitted by	Anopheles mosquito
+Anopheles mosquito	transmits	malaria parasite
+malaria parasite	infects	humans
+giardia lamblia	causes	giardiasis
+giardiasis	presents with	diarrhea
+diarrhea	leads to	dehydration
+dehydration	causes	electrolyte imbalance
+stool antigen test	detects	Giardia lamblia
+PCR	detects	pathogen
+stool culture	identifies	bacterial pathogen
+ascaris lumbricoides	causes	ascariasis
+ascariasis	presents with	abdominal pain
+hookworm	causes	iron deficiency anemia
+iron deficiency anemia	leads to	fatigue
+Strongyloides stercoralis	causes	strongyloidiasis
+strongyloidiasis	can cause	sepsis
+metronidazole	treats	giardiasis
+albendazole	treats	helminth infection
+praziquantel	treats	schistosomiasis
+Schistosoma mansoni	causes	schistosomiasis
+Taenia saginata	causes	taeniasis
+Entamoeba histolytica	causes	amoebiasis
+amoebiasis	presents with	bloody diarrhea
+bloodstream infection	leads to	sepsis
+sepsis	requires	ICU care
+antibiotic resistance	worsens	prognosis
+bacterial coinfection	increases	mortality
+co-infection	elevates	readmission risk
+HIV infection	increases risk of	opportunistic parasitic infection
+opportunistic parasitic infection	occurs in	immunocompromised
+immunocompromised	predisposes to	parasitic infection
+malnutrition	predisposes to	infection
+pediatric patient	has increased risk of	parasitic infection
+poor sanitation	associated with	parasitic infection
+waterborne infection	transmitted by	contaminated water
+cholera	causes	severe dehydration
+cholera	prevented by	vaccination
+rabies	is caused by	rabies virus
+rabies virus	transmitted by	animal bite
+animal bite	leads to	rabies exposure
+norovirus	causes	gastroenteritis
+gastroenteritis	presents with	vomiting
+vomiting	leads to	dehydration
+viral infection	transmitted by	respiratory droplets
+respiratory droplets	transmit	viral infection
+influenza virus	causes	influenza
+influenza	treated with	antiviral therapy
+antiviral therapy	reduces	disease duration
+treatment failure	increases	hospitalization duration
+antibiotic therapy	started empirically for	suspected bacterial infection
+empiric therapy	guided by	culture results
+culture result	informs	therapy choice
+culture	yields	pathogen identification
+pathogen identification	enables	targeted therapy
+antibiotic stewardship	improves	patient outcomes
+malaria	can cause	anemia
+pregnant woman	at risk for	malaria in pregnancy
+malaria in pregnancy	increases risk of	fetal complications
+fetal complications	include	low birth weight
+low birth weight	associated with	neonatal sepsis
+neonatal sepsis	caused by	bacterial infection
+bacterial infection	treated with	antibiotics
+antibiotics	associated with	resistance development
+resistance development	leads to	treatment failure
+diarrheal illness	reduces	oral intake
+rehydration therapy	restores	fluid balance
+fluid balance	essential for	circulatory stability
+circulatory stability	supports	organ perfusion
+organ perfusion	influences	prognosis
+prognosis	improves with	early diagnosis
+early diagnosis	reduces	mortality
+mortality	associated with	infection severity
+infection severity	correlates with	parasite load
+parasite load	measured by	stool egg count
+stool egg count	used for	surveillance
+surveillance	informs	public health response
+public health response	aims to	reduce transmission
+transmission	decreases with	vaccination
+vector control	reduces	transmission
+hand hygiene	reduces	transmission
+latrine access	reduces	fecal-oral transmission
+water treatment	reduces	waterborne infection
+treatment duration	depends on	infection type
+infection type	determines	diagnostic approach
+diagnostic approach	includes	PCR
+PCR	enables	targeted therapy
+immunization programs	reduce	infection burden
+vaccination	reduces	infection risk

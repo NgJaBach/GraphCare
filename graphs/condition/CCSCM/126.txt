@@ -1,0 +1,100 @@
+acute sinusitis	is a	upper respiratory infection
+nasopharyngitis	is a	upper respiratory infection
+otitis media	is a	middle ear infection
+pharyngitis	is a	throat infection
+tonsillitis	is a	throat infection
+laryngitis	is a	laryngeal inflammation
+rhinitis	is a	nasal inflammation
+rhinosinusitis	is a	nasal-sinus infection
+adenoiditis	is a	nasopharyngeal infection
+common cold	is a	viral infection
+rhinovirus	causes	common cold
+influenza virus	causes	influenza
+adenovirus	causes	pharyngitis
+Streptococcus pyogenes	causes	pharyngitis
+Haemophilus influenzae	associated with	acute otitis media
+Moraxella catarrhalis	associated with	acute otitis media
+Streptococcus pneumoniae	associated with	sinusitis
+respiratory syncytial virus	associated with	rhinitis
+enterovirus	causes	pharyngitis
+coronavirus	causes	common cold
+nasal discharge	associated with	rhinitis
+fever	associated with	acute sinusitis
+facial pain	associated with	sinusitis
+sore throat	associated with	pharyngitis
+ear pain	associated with	otitis media
+hoarseness	associated with	laryngitis
+sneezing	associated with	allergic rhinitis
+nasal obstruction	associated with	rhinosinusitis
+lymphadenopathy	associated with	tonsillitis
+malaise	associated with	influenza
+rapid strep test	used for	pharyngitis diagnosis
+nasopharyngeal swab	used for	rhinovirus detection
+CT sinus imaging	used for	sinusitis assessment
+sinus X-ray	used for	sinusitis assessment
+otoscopic exam	used for	otitis media diagnosis
+tympanometry	used for	otitis media assessment
+nasal culture	used for	bacterial sinusitis identification
+endoscopy	used for	rhinosinusitis evaluation
+audiometry	used for	hearing assessment in URI
+clinical exam	used for	URI diagnosis
+amoxicillin	used for	acute sinusitis
+amoxicillin-clavulanate	used for	sinusitis
+azithromycin	used for	pharyngitis
+clindamycin	used for	tonsillitis
+intranasal corticosteroids	used for	rhinosinusitis
+intranasal saline spray	used for	nasal congestion
+decongestants	used for	nasal obstruction
+acetaminophen	used for	fever
+ibuprofen	used for	pain
+antibiotics	used for	bacterial URI
+analgesics	used for	URI discomfort
+rest	used for	URI management
+hydration	used for	URI management
+humidified air	used for	nasal symptoms
+saltwater gargles	used for	pharyngitis relief
+intranasal steroids	used for	allergic rhinitis
+antihistamines	used for	allergic rhinitis
+vaccines	used for	influenza prevention
+flu vaccine	reduces	influenza incidence
+pneumococcal vaccine	reduces	pneumococcal disease
+daycare attendance	increases	otitis media risk
+smoking	increases	rhinitis risk
+age <5 years	increases	URI risk
+age >65 years	increases	URI risk
+seasonal variation	affects	URI incidence
+immunodeficiency	increases	URI risk
+allergen exposure	increases	allergic rhinitis risk
+environmental pollutants	increases	URIs risk
+crowded housing	increases	URI transmission
+URIs	predict	antibiotic prescriptions
+URIs	predict	ED visits
+otitis media	predicts	hearing loss
+rhinosinusitis	predicts	chronic rhinosinusitis
+common cold	predicts	short-term work impairment
+sinusitis	can lead to	orbital cellulitis
+sinusitis	can lead to	meningitis
+otitis media	can lead to	tympanic membrane rupture
+pharyngitis	can lead to	peritonsillar abscess
+laryngitis	can lead to	airway obstruction
+rhinitis	can lead to	nasal polyps
+rhinosinusitis	can lead to	chronic rhinosinusitis
+adenoiditis	can lead to	sleep apnea
+common cold	can lead to	secondary bacterial infection
+influenza	can lead to	pneumonia
+rhinovirus	more common in	autumn and winter
+seasonal influenza vaccine	reduces	influenza incidence
+pneumococcal vaccine	reduces	pneumococcal disease
+hand hygiene	reduces	URI transmission
+mask wearing	reduces	URI transmission
+air quality	affects	URI symptoms
+allergic rhinitis	increases	nasal obstruction
+adenoid hypertrophy	increases	nasal obstruction
+nasal polyps	associated with	chronic rhinosinusitis
+sinusitis	associated with	facial pain
+otitis media with effusion	associated with	hearing loss
+tonsillitis	associated with	cervical lymphadenopathy
+laryngitis	associated with	voice changes
+rhinosinusitis	diagnosed by	CT imaging
+acute sinusitis	treated with	analgesics
+nasal spray	used for	rhinitis

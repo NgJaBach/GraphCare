@@ -1,0 +1,99 @@
+multiple myeloma	is characterized by	anemia
+multiple myeloma	is characterized by	bone lesions
+multiple myeloma	is associated with	hypercalcemia
+multiple myeloma	is associated with	renal insufficiency
+multiple myeloma	is associated with	bone pain
+multiple myeloma	causes	fatigue
+multiple myeloma	produces	M protein
+M protein	is detected by	serum protein electrophoresis
+M protein	is detected by	immunofixation
+serum protein electrophoresis	detects	monoclonal spike
+monoclonal gammopathy	precedes	multiple myeloma
+MGUS	increases risk for	multiple myeloma
+bone marrow biopsy	shows	clonal plasma cell infiltration
+bone lesions	are	lytic
+light chains	are elevated in	multiple myeloma
+renal impairment	is caused by	light chain nephropathy
+immunoglobulin	is overproduced in	multiple myeloma
+lenalidomide	is a	immunomodulatory drug
+pomalidomide	is a	immunomodulatory drug
+bortezomib	is a	proteasome inhibitor
+carfilzomib	is a	proteasome inhibitor
+dexamethasone	is a	corticosteroid
+melphalan	is an	alkylating agent
+thalidomide	is an	immunomodulatory drug
+autologous stem cell transplant	is a	treatment option
+transplant eligibility	depends on	age
+high-dose chemotherapy	is used with	stem cell transplant
+bortezomib	causes	peripheral neuropathy
+lenalidomide	causes	cytopenias
+pomalidomide	causes	myelosuppression
+dexamethasone	causes	hyperglycemia
+combination therapy	improves	response rate
+response rate	correlates with	survival
+maintenance therapy	reduces	progression
+minimal residual disease	predicts	relapse risk
+clonal evolution	leads to	drug resistance
+bortezomib	is used for	relapsed multiple myeloma
+lenalidomide	is used for	relapsed multiple myeloma
+carfilzomib	is used for	relapsed multiple myeloma
+cytogenetic risk	is associated with	prognosis
+del(17p)	is a	high-risk cytogenetic abnormality
+t(4;14)	is associated with	poor prognosis
+ISS stage	correlates with	survival
+Durie-Salmon stage	predicts	prognosis
+smoldering myeloma	is a	precursor to multiple myeloma
+hypercalcemia	is a	CRAB feature
+bone marrow	is the	site of malignant plasma cell infiltration
+osteolytic lesions	cause	pathologic fractures
+pathologic fractures	complicate	multiple myeloma
+infections	are common in	multiple myeloma
+neutropenia	occurs with	chemotherapy
+anemia	worsens	quality of life
+renal impairment	worsens	prognosis
+osteoporosis	contributes to	fracture risk
+bisphosphonates	prevent	skeletal-related events
+denosumab	prevents	skeletal-related events
+radiation therapy	palliates	bone pain
+daratumumab	is a	monoclonal antibody
+daratumumab	targets	CD38
+elotuzumab	is a	monoclonal antibody
+elotuzumab	targets	SLAMF7
+isatuximab	is a	monoclonal antibody
+isatuximab	targets	CD38
+BCMA	is a target for	CAR-T therapy
+CAR-T therapy	yields	response
+response	includes	minimal residual disease negativity
+minimal residual disease negativity	predicts	longer survival
+autologous stem cell transplant	improves	progression-free survival
+progression-free survival	correlates with	overall survival
+overall survival	is improved by	maintenance therapy
+maintenance therapy	reduces	relapse risk
+renal function	improves with	treatment
+bone density	decreases with	myeloma activity
+osteoclasts	are activated by	myeloma cells
+kidney involvement	indicates	worse prognosis
+serum free light chain assay	is used for	monitoring disease
+amyloidosis	occurs with	multiple myeloma
+amyloidosis	causes	organ dysfunction
+bone lesions	correlate with	prognosis
+M protein	indicates	disease activity
+IgA myeloma	isotype	of immunoglobulin
+non-secretory myeloma	is a	myeloma subtype
+light chain myeloma	is a	myeloma subtype
+hyperviscosity	is rare in	myeloma
+infection risk	increases with	neutropenia
+treatment response	requires	serial monitoring
+serum M protein	decreases with	effective therapy
+bone pain	improves with	analgesia
+radiographic response	is used to assess	disease status
+bone surveys	show	progression
+MRI	reveals	marrow involvement
+PET-CT	evaluates	metabolic activity
+clonal plasma cells	are reduced by	therapy
+drug resistance	leads to	relapse
+relapse	requires	salvage therapy
+salvage therapy	includes	proteasome inhibitors
+bone marrow reserve	limits	transplant eligibility
+age	influences	prognosis
+death	can result from	progressive disease

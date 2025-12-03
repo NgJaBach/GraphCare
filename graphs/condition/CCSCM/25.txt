@@ -1,0 +1,102 @@
+uterine cancer	is a	gynecologic malignancy
+uterine cancer	includes	endometrial cancer
+uterine cancer	presents with	abnormal uterine bleeding
+uterine cancer	metastasizes to	lung
+uterine cancer	metastasizes to	liver
+uterine cancer	metastasizes to	bone
+uterine cancer	metastasizes to	brain
+uterine cancer	metastasizes to	peritoneum
+endometrial carcinoma	is a histology type of	uterine cancer
+serous endometrial carcinoma	is a histology type of	uterine cancer
+clear cell endometrial carcinoma	is a histology type of	uterine cancer
+leiomyosarcoma	is a histology type of	uterine cancer
+carcinosarcoma	is a histology type of	uterine cancer
+obesity	increases risk of	uterine cancer
+unopposed estrogen exposure	increases risk of	uterine cancer
+nulliparity	increases risk of	uterine cancer
+early menarche	increases risk of	uterine cancer
+late menopause	increases risk of	uterine cancer
+diabetes mellitus	increases risk of	uterine cancer
+hypertension	increases risk of	uterine cancer
+polycystic ovarian syndrome	increases risk of	uterine cancer
+Lynch syndrome	increases risk of	uterine cancer
+tamoxifen use	increases risk of	uterine cancer
+infertility	increases risk of	uterine cancer
+pelvic radiation exposure	increases risk of	uterine cancer
+endometrial biopsy	is used to diagnose	uterine cancer
+pipelle biopsy	is used to sample	endometrium
+transvaginal ultrasound	is used to evaluate	endometrial thickness
+MRI	is used to stage	uterine cancer
+CT scan	is used to assess	metastasis
+PET-CT	is used to stage	uterine cancer
+CA-125	is a biomarker for	uterine cancer
+microsatellite instability	present in	endometrial cancer
+POLE mutation	associated with	endometrial cancer
+PTEN mutation	associated with	endometrial cancer
+p53 mutation	associated with	serous endometrial carcinoma
+HER2 overexpression	associated with	serous endometrial carcinoma
+mismatch repair deficiency	predicts response to	immunotherapy
+mismatch repair deficiency	associated with	microsatellite instability
+endometrial cancer	treated with	hysterectomy
+hysterectomy	is a treatment for	uterine cancer
+hysterectomy	removes	uterus
+pelvic lymphadenectomy	is performed for	uterine cancer
+surgical staging	is performed for	uterine cancer
+external beam radiotherapy	is used for	uterine cancer
+brachytherapy	is used for	uterine cancer
+adjuvant radiotherapy	is used for	uterine cancer
+chemotherapy	is used for	uterine cancer
+carboplatin	is used to treat	uterine cancer
+paclitaxel	is used to treat	uterine cancer
+doxorubicin	is used to treat	uterine cancer
+carboplatin-based chemotherapy	is used to treat	uterine cancer
+progestin therapy	is used for	endometrial cancer
+hormone therapy	is used for	endometrial cancer
+neoadjuvant chemotherapy	is used for	uterine cancer
+neoadjuvant radiotherapy	is used for	uterine cancer
+intracavitary brachytherapy	is used for	uterine cancer
+pelvic irradiation	is used as	adjuvant therapy
+lymphovascular invasion	is associated with	recurrence risk
+depth of myometrial invasion	correlates with	stage
+lymph node involvement	indicates	poor prognosis
+early-stage disease	has better prognosis	uterine cancer
+recurrence	occurs after	initial treatment for uterine cancer
+mortality	is associated with	uterine cancer
+readmission	risk after	treatment for uterine cancer
+postoperative infection	increases	length of stay after hysterectomy
+postoperative surveillance	includes	pelvic exam
+follow-up imaging	used for	surveillance of uterine cancer
+uterine cancer prognosis depends on	stage
+depth of myometrial invasion	is prognostic for	uterine cancer
+tumor grade	is prognostic factor for	uterine cancer
+lymph node metastasis	indicates	advanced disease
+recurrence	indicates	poor prognosis
+ascites	indicates	advanced disease
+ovarian preservation	not recommended in	advanced uterine cancer
+bevacizumab	used for	uterine cancer
+pembrolizumab	used for	MSI-high endometrial cancer
+trastuzumab	used for	HER2-overexpressing serous endometrial cancer
+immunotherapy	considered for	mismatch repair deficient endometrial cancer
+angiogenesis inhibitor	used for	uterine cancer
+parity	influences risk for	uterine cancer
+genetic testing	recommended for	uterine cancer patients
+fertility-sparing options	appropriate for	early-stage disease
+hysterectomy with bilateral salpingo-oophorectomy	performed for	uterine cancer
+pathologic complete response	indicates	effective therapy
+recurrence-free survival	correlates with	early detection
+targeted therapy	investigated for	uterine cancer
+immune checkpoint inhibitor	used for	mismatch repair deficient endometrial cancer
+bevacizumab	used in	combination therapy for uterine cancer
+pembrolizumab	approved for	MSI-high endometrial cancer
+serous endometrial cancer	associated with	poorer prognosis
+lung metastasis	indicates	disseminated disease
+bone metastasis	indicates	disseminated disease
+liver metastasis	indicates	disseminated disease
+peritoneal metastasis	indicates	disseminated disease
+evidence-based guidelines	inform	treatment planning for uterine cancer
+clinical trial	offers	novel therapies for uterine cancer
+genetic testing	informs	treatment decisions for uterine cancer
+Fertility-sparing approaches	suitable for	early-stage disease
+hysterectomy with bilateral salpingo-oophorectomy	performed for	uterine cancer
+pathologic complete response	indicates	effective therapy
+recurrence-free survival	correlates with	ongoing surveillance

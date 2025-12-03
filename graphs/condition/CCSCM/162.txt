@@ -1,0 +1,106 @@
+interstitial cystitis	is a	bladder pain syndrome
+interstitial cystitis	presents with	pelvic pain
+overactive bladder	is a	bladder dysfunction
+overactive bladder	causes	urinary urgency
+urinary incontinence	is a	bladder control disorder
+urinary incontinence	risk factor for	skin breakdown
+urinary retention	is a	voiding dysfunction
+bladder cancer	is a	malignant bladder tumor
+bladder cancer	risk factor for	smoking
+bladder cancer	presents with	hematuria
+bladder cancer	diagnosed by	cystoscopy
+bladder cancer	treated with	cystectomy
+bladder cancer	may metastasize to	lymph nodes
+bladder diverticulum	is a	bladder abnormality
+bladder diverticulum	associated with	bladder outlet obstruction
+bladder stones	is a	urinary tract stone
+bladder stones	causes	hematuria
+bladder stones	treated with	lithotripsy
+urethral stricture	is a	urethral narrowing
+urethral stricture	causes	urinary retention
+urethral stricture	treated with	urethral dilatation
+urethritis	is a	urethral infection
+urethritis	presents with	dysuria
+neurogenic bladder	is a	bladder dysfunction
+neurogenic bladder	caused by	spinal cord injury
+bladder outlet obstruction	causes	urinary retention
+bladder outlet obstruction	treated with	alpha-blocker
+bladder outlet obstruction	requires	catheterization
+detrusor overactivity	is a	bladder dysfunction
+detrusor overactivity	treated with	antimuscarinic
+nocturnal enuresis	is a	sleep-related bladder disorder
+vesicoureteral reflux	is a	urinary reflux
+vesicoureteral reflux	increases risk for	pyelonephritis
+pelvic floor dysfunction	is a	pelvic floor disorder
+pelvic floor dysfunction	contributes to	urinary incontinence
+chronic cystitis	is a	bladder inflammation
+acute cystitis	is a	bladder infection
+bladder cancer	treated with	radical cystectomy
+urine cytology	is a	diagnostic test
+urinalysis	is a	diagnostic test
+urine culture	is a	diagnostic test
+cystoscopy	is a	diagnostic procedure
+cystometry	is a	urodynamic test
+ultrasound bladder	is a	imaging test
+pelvic ultrasound	is a	imaging test
+transurethral resection of bladder tumor	is a	bladder cancer procedure
+radical cystectomy	is a	bladder cancer surgery
+intravesical therapy	is a	bladder cancer treatment
+botulinum toxin	used for	detrusor overactivity
+botulinum toxin injection	reduces	urge incontinence
+oxybutynin	is a	anticholinergic
+tolterodine	is a	antimuscarinic
+solifenacin	is a	antimuscarinic
+mirabegron	is a	beta-3 agonist
+antimuscarinic	cause	dry mouth
+antimuscarinic	cause	constipation
+urethral sling	is a	surgical treatment for urinary incontinence
+bladder augmentation	is a	surgical option for bladder dysfunction
+augmentation cystoplasty	is a	bladder augmentation procedure
+sacral nerve stimulation	is a	neuromodulation
+sacral nerve stimulation	improves	urinary incontinence
+alpha-blocker	used for	bladder outlet obstruction
+tamsulosin	is a	alpha-blocker
+cisplatin	used for	bladder cancer
+carboplatin	used for	bladder cancer
+gemcitabine	used for	bladder cancer
+pembrolizumab	used for	bladder cancer
+urinary catheter	used for	urinary retention
+intermittent catheterization	is a	bladder management method
+suprapubic catheter	is a	urinary diversion device
+urinary tract infection	often caused by	Escherichia coli
+antibiotics	used for	urinary tract infection
+ciprofloxacin	used for	urinary tract infection
+nitrofurantoin	used for	urinary tract infection
+pregnancy	increases risk for	urinary incontinence
+obesity	is a	risk factor for urinary incontinence
+smoking	increases risk for	bladder cancer
+diabetes	increases risk for	urinary tract infection
+age	increases risk for	nocturia
+female sex	increases risk for	urinary incontinence
+vesicoureteral reflux	sequelae	pyelonephritis
+urinalysis	detects	hematuria
+urinalysis	detects	proteinuria
+urine culture	detects	bacteriuria
+urine cytology	detects	urothelial carcinoma
+urinalysis	detects	leukocyturia
+bladder cancer	recurrence risk	high after TURBT
+transurethral resection of bladder tumor	may cause	bladder perforation
+transurethral resection of bladder tumor	followed by	intravesical therapy
+intravesical therapy	includes	immunotherapy
+interstitial cystitis	treated with	amitriptyline
+interstitial cystitis	treated with	pentosan polysulfate
+pentosan polysulfate	used for	interstitial cystitis
+cystoscopy	used for	bladder cancer diagnosis
+urethral dilation	is a	dilatation procedure
+intravesical therapy	is a	bladder cancer treatment
+nitrofurantoin	used for	urinary tract infection prophylaxis
+imaging	used for	bladder evaluation
+urine cytology	recommended for	surveillance
+interstitial cystitis	is treated with	amitriptyline
+interstitial cystitis	is treated with	pentosan polysulfate
+pentosan polysulfate	used for	interstitial cystitis
+cystoscopy	used for	bladder cancer diagnosis
+urethral dilation	used for	urethral obstruction
+intravesical therapy	used for	non-muscle invasive bladder cancer
+imaging	guides	bladder evaluation

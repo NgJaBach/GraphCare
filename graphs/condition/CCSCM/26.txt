@@ -1,0 +1,100 @@
+cervical cancer	is a	malignant neoplasm of cervix
+cervical cancer	is associated with	HPV infection
+HPV infection	is risk factor for	cervical cancer
+high-risk HPV types	include	HPV-16
+HPV-16	is risk factor for	cervical cancer
+cervical cancer	has histology	squamous cell carcinoma
+cervical cancer	has histology	adenocarcinoma
+cervical cancer	commonly diagnosed at	locally advanced stage
+smoking	is risk factor for	cervical cancer
+immunosuppression	is risk factor for	cervical cancer
+cervical cancer	is staged by	FIGO system
+FIGO stage	guides	treatment decision
+cervical cancer	evaluated by	MRI
+MRI	identifies	tumor extent
+biopsy	confirms	cervical cancer
+Pap smear	is screening test for	cervical cancer
+HPV DNA test	is screening test for	cervical cancer
+colposcopy	is diagnostic procedure for	cervical cancer
+tumor size	influences	treatment plan
+lymphovascular invasion	indicates	nodal metastasis
+nodal metastasis	worsens	prognosis
+distant metastasis	worsens	prognosis
+pelvic radiotherapy	is treatment for	cervical cancer
+chemoradiation	is treatment for	locally advanced cervical cancer
+radical hysterectomy	is procedure for	early-stage cervical cancer
+conization	is procedure for	precancerous cervical lesion
+hysterectomy	results in	loss of fertility
+pelvic lymphadenectomy	removes	lymph nodes
+positive margins	predict	recurrence
+clear margins	correlate with	favorable prognosis
+radiation therapy	improves	local control
+brachytherapy	delivers	high-dose radiation
+concurrent chemotherapy	component of	chemoradiation
+adjuvant chemotherapy	used for	high-risk cervical cancer
+adjuvant radiotherapy	used for	high-risk cervical cancer
+neoadjuvant chemotherapy	reduces	tumor size
+tumor size reduction	enables	less extensive surgery
+parametrial invasion	indicates	locally advanced disease
+cervical cancer	metastasis to	vagina
+cervical cancer	metastasis to	liver
+cervical cancer	metastasis to	lungs
+pelvic recurrence	occurs after	primary therapy
+distant recurrence	requires	systemic therapy
+systemic therapy	used for	metastatic cervical cancer
+bevacizumab	used for	advanced cervical cancer
+cetuximab	used for	recurrent cervical cancer
+immunotherapy	explored for	cervical cancer
+p16 overexpression	indicates	HPV-driven cervical cancer
+keratinization	present in	squamous cervical cancer
+HPV vaccination	reduces	HPV infection
+HPV vaccination	reduces	cervical cancer incidence
+screening program	reduces	cervical cancer mortality
+early-stage cervical cancer	has	favorable prognosis
+advanced cervical cancer	has	poor prognosis
+FIGO stage II	indicates	locally advanced disease
+lymph node status	determines	treatment modality
+tumor markers	evaluate	prognosis
+MRI	identifies	parametrial invasion
+CT scan	detects	distant metastasis
+PET-CT	detects	distant metastasis
+distant metastasis	involve	liver
+liver metastasis	reduces	survival
+bone metastasis	reduces	quality of life
+survival	correlates with	response to therapy
+response to therapy	predicts	prognosis
+disease-free survival	measures	recurrence-free interval
+recurrence-free interval	defines	disease-free survival
+post-treatment surveillance	includes	imaging
+surveillance imaging	detects	recurrence
+colposcopic biopsy	confirms	cervical cancer
+surgical margins	important for	prognosis
+margin status	influences	adjuvant therapy
+adjuvant therapy	improves	local control
+radiation-induced toxicity	affects	quality of life
+vaginal stenosis	results in	sexual dysfunction
+urinary incontinence	occurs after	radical hysterectomy
+fertility preservation	possible with	early-stage cervical cancer
+cone biopsy	preserves	fertility
+radical trachelectomy	preserves	fertility
+recurrence	risk after	treatment
+therapy failure	leads to	recurrence
+follow-up	schedule	surveillance
+surveillance	includes	cytology
+cytology	detects	abnormal cells
+pathology report	documents	tumor type
+tumor type	guides	treatment decision
+lymph node dissection	contributes to	staging
+surgical staging	provides	nodal status
+nodal status	influences	prognosis
+HPV vaccination program	reduces	population incidence
+HPV vaccination program	increases	population health
+clinical trial	tests	new therapy for cervical cancer
+new therapy	evaluated in	cervical cancer
+therapy	offers	improved survival
+survival	depends on	stage
+stage	affects	treatment choice
+treatment choice	affects	cost
+cost	is associated with	cervical cancer care
+budget impact	associated with	cervical cancer care
+survival benefit	depends on	early detection

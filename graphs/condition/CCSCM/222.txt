@@ -1,0 +1,95 @@
+hemolytic jaundice	is a	neonatal jaundice
+perinatal jaundice	is a	neonatal jaundice
+neonatal jaundice	is a	bilirubinopathy
+jaundice	is a	symptom
+bilirubin	is a	pigment
+indirect bilirubin	is a	bilirubin
+direct bilirubin	is a	bilirubin
+indirect bilirubin	converts to	direct bilirubin
+indirect bilirubin	accumulates in	brain
+kernicterus	is a	brain injury
+hemolysis	causes	indirect bilirubin
+Rh incompatibility	causes	neonatal jaundice
+ABO incompatibility	causes	neonatal jaundice
+prematurity	increases risk of	neonatal jaundice
+prematurity	associated with	low birth weight
+low birth weight	increases risk of	hyperbilirubinemia
+exchange transfusion	used for	bilirubin excess
+phototherapy	used for	indirect bilirubin excess
+phototherapy	treats	hyperbilirubinemia
+exchange transfusion	treats	severe hyperbilirubinemia
+neonate	affected by	jaundice
+mother	implicated in	ABO incompatibility
+mother	implicated in	Rh incompatibility
+anti-D immunoglobulin	prevents	Rh incompatibility
+incompatibility	leads to	hemolysis
+hemolysis	leads to	anemia
+anemia	worsens	jaundice
+bilirubin metabolism	involves	liver
+bilirubin metabolism	involved in	newborn
+liver	conjugates	bilirubin
+conjugated bilirubin	is a	bilirubin
+unconjugated bilirubin	is a	bilirubin
+unconjugated bilirubin	increases	in hemolysis
+unconjugated bilirubin	crosses	blood-brain barrier
+blood-brain barrier	breached by	indirect bilirubin
+kernicterus	risk factor	prematurity
+kernicterus	risk for	neurodevelopmental impairment
+neurodevelopmental impairment	results from	kernicterus
+newborn	monitored with	bilirubin levels
+bilirubin levels	rise with	hemolysis
+hemolysis	associated with	Erythroblastosis fetalis
+erythroblastosis fetalis	caused by	Rh incompatibility
+erythroblastosis fetalis	treated with	exchange transfusion
+bilirubin	measured by	total serum bilirubin
+total serum bilirubin	used for	jaundice assessment
+jaundice assessment	guides	treatment decision
+phototherapy	side effects	temperature change
+phototherapy	safety concerns	skin damage
+exchange transfusion	risks	infection
+exchange transfusion	effects	bilirubin reduction
+lactation	reduces	bilirubin excretion
+breastfeeding	delays	bilirubin clearance
+breast milk jaundice	occurs in	newborns
+breastfeeding	associated with	breast milk jaundice
+sepsis	worsens	hyperbilirubinemia
+bilirubin clearance	decreases with	immaturity
+bilirubin clearance	predicts	readmission risk
+readmission risk	associated with	jaundice
+unresolved jaundice	leads to	kernicterus risk
+kernicterus risk	informs	public health policy
+indirect bilirubin	levels rise	in hemolysis
+direct bilirubin	levels rise	in liver dysfunction
+kernicterus	causes	neurodevelopmental delay
+newborn	requires	bilirubin monitoring
+bilirubin monitoring	guides	treatment escalation
+treatment escalation	includes	phototherapy
+treatment escalation	includes	exchange transfusion
+neonatal jaundice	prevalence	high in prematurity
+prematurity	limits	bilirubin conjugation
+bilirubin conjugation	efficiency	low in neonates
+neonatal jaundice	commonly resolves	spontaneously
+spontaneous resolution	occurs after	birth
+birth	defines	perinatal period
+perinatal period	includes	first week of life
+first week of life	labeled as	early neonatal period
+early neonatal period	duration	seven days
+bilirubin	measured in	plasma
+plasma bilirubin	reflects	severity
+severity	guides	treatment
+treatment	aims	bilirubin reduction
+bilirubin reduction	improves	outcomes
+outcomes	include	neurodevelopment
+neurodevelopment	assessed by	milestones
+milestones	monitored	long-term follow-up
+long-term follow-up	includes	developmental screening
+developmental screening	detects	deficits
+deficits	associated with	kernicterus
+kernicterus	is a	preventable complication
+preventable complication	reduces	healthcare burden
+healthcare burden	decreases with	early screening
+early screening	implemented by	healthcare system
+healthcare system	aims to	reduce readmission
+readmission	risk increases with	unresolved jaundice
+unresolved jaundice	leads to	kernicterus risk
+kernicterus risk	informs	public health policy

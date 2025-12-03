@@ -11,10 +11,14 @@ class ChatGPT:
         self.messages = []
 
     def chat(self, message):
-        self.messages.append({"role": "user", "content": message})
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
-            messages=self.messages
-        )
-        # self.messages.append({"role": "assistant", "content": response["choices"][0]["message"].content})
-        return response["choices"][0]["message"]
+        while True:
+            try:
+                self.messages.append({"role": "user", "content": message})
+                response = openai.ChatCompletion.create(
+                    model="gpt-5-nano",
+                    messages=self.messages
+                )
+                # self.messages.append({"role": "assistant", "content": response["choices"][0]["message"].content})
+                return response["choices"][0]["message"]
+            except:
+                continue

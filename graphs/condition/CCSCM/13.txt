@@ -1,0 +1,108 @@
+gastric cancer	is a	malignant neoplasm
+gastric cancer	located in	stomach
+gastric cancer	presents with	epigastric pain
+gastric cancer	associated with	H. pylori infection
+gastric cancer	associated with	smoking
+gastric cancer	associated with	high-salt diet
+gastric cancer	more prevalent in	East Asia
+gastric cancer	metastasizes to	liver
+gastric cancer	metastasizes to	peritoneum
+gastric cancer	metastasizes to	omentum
+gastric cancer	metastasizes to	lungs
+gastric cancer	has histology	intestinal type
+gastric cancer	has histology	diffuse type
+gastric cancer	diagnosed by	endoscopy
+gastric cancer	diagnosed by	biopsy
+gastric cancer	diagnosed by	CT scan
+gastric cancer	diagnosed by	EUS
+gastric cancer	treated with	gastrectomy
+gastric cancer	treated with	lymphadenectomy
+gastric cancer	treated with	chemotherapy
+gastric cancer	treated with	radiotherapy
+gastric cancer	treated with	immunotherapy
+gastric cancer	treated with	targeted therapy
+gastric cancer	treated with	trastuzumab
+gastric cancer	treated with	pembrolizumab
+gastric cancer	biomarker	HER2 expression
+gastric cancer	biomarker	PD-L1 expression
+gastric cancer	biomarker	MSI status
+gastric cancer	biomarker	CEA
+gastric cancer	biomarker	CA 19-9
+gastric cancer	biomarker	p53 mutation
+gastric cancer	genetic predisposition	CDH1 mutation
+gastric cancer	associated with	Epstein-Barr virus
+gastric cancer	associated with	H. pylori infection
+gastric cancer	associated with	gastric atrophy
+gastric cancer	precursor	intestinal metaplasia
+gastric cancer	precursor	atrophic gastritis
+gastric cancer	prognosis	poor
+gastric cancer	prognosis	variable by stage
+gastric cancer	risk factors	male sex
+gastric cancer	risk factors	aging
+gastric cancer	topography	cardia
+gastric cancer	topography	antrum
+gastric cancer	topography	body
+gastric cancer	histology	intestinal type
+gastric cancer	histology	diffuse type
+gastric cancer	recommended screening	endoscopy
+gastric cancer	recommended staging	CT/MRI
+gastric cancer	surveillance after treatment	endoscopy
+gastric cancer	differential diagnosis	ulcer
+gastric cancer	differential diagnosis	gastritis
+gastric cancer	comorbidity	anemia
+gastric cancer	comorbidity	weight loss
+gastric cancer	comorbidity	malnutrition
+gastric cancer	complication	gastric outlet obstruction
+gastric cancer	complication	ascites
+gastric cancer	laboratory finding	anemia
+gastric cancer	laboratory finding	hypoalbuminemia
+gastric cancer	imaging finding	thickened gastric wall
+gastric cancer	imaging finding	mass lesion
+gastric cancer	staging	TNM system
+gastric cancer	stage	III
+gastric cancer	stage	IV
+gastric cancer	molecular subtype	EBV-positive
+gastric cancer	molecular subtype	MSI-high
+gastric cancer	molecular subtype	CIN-high
+gastric cancer	clinical feature	anorexia
+gastric cancer	clinical feature	early satiety
+gastric cancer	clinical feature	vomiting
+gastric cancer	clinical feature	weight loss
+gastric cancer	clinical feature	melena
+gastric cancer	clinical feature	anemia
+gastric cancer	hospital outcome	mortality
+gastric cancer	hospital outcome	readmission risk
+gastric cancer	treatment outcome	surgical cure
+gastric cancer	treatment outcome	disease control
+gastric cancer	mortality risk	high
+gastric cancer	readmission risk	high
+gastric cancer	cost of care	high
+gastric cancer	quality of life impact	significant
+gastric cancer	prognosis by stage	worse with advanced stage
+gastric cancer	correlation with	lymph node involvement
+gastric cancer	correlation with	peritoneal metastasis
+gastric cancer	correlation with	depth of invasion
+gastric cancer	correlation with	tumor size
+gastric cancer	correlation with	patient age
+gastric cancer	correlation with	alcohol consumption
+gastric cancer	gender correlation	male sex
+gastric cancer	guideline	NCCN
+gastric cancer	guideline	ESMO
+gastric cancer	guideline	surgical margins
+gastric cancer	margin status	negative
+gastric cancer	lymphadenectomy extent	D2
+gastric cancer	prognosis by histology	intestinal better
+gastric cancer	prognosis by histology	diffuse worse
+gastric cancer	microenvironment	desmoplasia
+gastric cancer	microenvironment	immune infiltration
+gastric cancer	receptor	EGFR
+gastric cancer	receptor	VEGFR
+gastric cancer	receptor	MET
+gastric cancer	therapy	palliative care
+gastric cancer	interventional therapy	stenting
+gastric cancer	nutritional impact	hypoalbuminemia
+gastric cancer	management	multidisciplinary
+gastric cancer	research area	precision oncology
+gastric cancer	research area	liquid biopsy
+gastric cancer	research area	molecular profiling
+gastric cancer	comorbidity impact	cardiovascular disease

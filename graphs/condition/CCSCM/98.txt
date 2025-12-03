@@ -1,0 +1,100 @@
+essential hypertension	is a	chronic condition
+essential hypertension	is risk factor for	cardiovascular disease
+essential hypertension	is risk factor for	stroke
+essential hypertension	is risk factor for	heart failure
+essential hypertension	is risk factor for	nephropathy
+essential hypertension	is risk factor for	retinopathy
+age	is risk factor for	essential hypertension
+obesity	is risk factor for	essential hypertension
+smoking	is risk factor for	essential hypertension
+high-sodium diet	is risk factor for	essential hypertension
+physical inactivity	is risk factor for	essential hypertension
+excess alcohol	is risk factor for	essential hypertension
+essential hypertension	may cause	left ventricular hypertrophy
+essential hypertension	may cause	myocardial infarction
+essential hypertension	may cause	atherosclerosis
+essential hypertension	is associated with	renal impairment
+hypertensive retinopathy	is a complication of	essential hypertension
+microalbuminuria	is a marker for	hypertensive nephropathy
+essential hypertension	is managed with	antihypertensive therapy
+thiazide diuretic	is a treatment for	essential hypertension
+ACE inhibitor	is a treatment for	essential hypertension
+angiotensin receptor blocker	is a treatment for	essential hypertension
+beta blocker	is a treatment for	essential hypertension
+calcium channel blocker	is a treatment for	essential hypertension
+diuretic	is a treatment for	essential hypertension
+lifestyle modification	is recommended for	essential hypertension
+sodium restriction	is a component of	lifestyle modification
+regular exercise	is a component of	lifestyle modification
+weight loss	is a component of	lifestyle modification
+essential hypertension	is treated with	first-line therapy
+systolic blood pressure	is elevated in	essential hypertension
+diastolic blood pressure	is elevated in	essential hypertension
+blood pressure	is monitored in	essential hypertension
+ambulatory blood pressure monitoring	is used to assess	essential hypertension
+diabetes mellitus	is associated with	essential hypertension
+dyslipidemia	is associated with	essential hypertension
+chronic kidney disease	is associated with	essential hypertension
+sleep apnea	is associated with	essential hypertension
+metabolic syndrome	is associated with	essential hypertension
+prehypertension	is a state preceding	essential hypertension
+arterial stiffness	is increased in	essential hypertension
+pulse pressure	is a surrogate for	arterial stiffness
+renin-angiotensin system	is involved in	essential hypertension
+sympathetic nervous system activity	is increased in	essential hypertension
+vascular remodeling	is promoted by	essential hypertension
+sodium intake	is correlated with	blood pressure
+lipid abnormality	is related to	essential hypertension
+body mass index	is correlated with	essential hypertension
+family history of hypertension	is risk factor for	essential hypertension
+insulin resistance	is associated with	essential hypertension
+lifestyle counseling	is part of	essential hypertension management
+BP goal	is defined for	essential hypertension
+home blood pressure monitoring	is used for	essential hypertension management
+antihypertensive therapy adherence	is essential for	blood pressure control
+renal protection	is achieved by	blood pressure control
+eye protection	is achieved by	blood pressure control
+mortality	is reduced by	adequate blood pressure control
+acute coronary syndrome risk	is increased by	essential hypertension
+stroke prevention	is a goal of	essential hypertension management
+kidney protection	is a goal of	essential hypertension management
+atrial fibrillation	is associated with	essential hypertension
+coronary artery disease	is more common with	essential hypertension
+heart failure	is prevented by	blood pressure control
+salt sensitivity	is a feature of	essential hypertension
+cost of care	is increased by	uncontrolled essential hypertension
+quality of life	is reduced by	uncontrolled essential hypertension
+white coat hypertension	is a variant of	hypertension
+masked hypertension	is a variant of	hypertension
+DASH diet	reduces	blood pressure
+salt sensitivity	is present in	essential hypertension
+salt intake	is correlated with	systolic blood pressure
+lipid profile	is related to	essential hypertension
+body mass index	is correlated with	essential hypertension
+exercise	improves	blood pressure
+weight reduction	improves	blood pressure
+endothelial dysfunction	is associated with	essential hypertension
+oxidative stress	is involved in	essential hypertension
+inflammation	is linked with	essential hypertension
+angiotensin II	is elevated in	essential hypertension
+aldosterone	is elevated in	essential hypertension
+catecholamine release	is increased in	essential hypertension
+endothelial function	is improved by	antihypertensive therapy
+home visits	supports	essential hypertension management
+adherence	is necessary for	blood pressure control
+blood pressure control	reduces	stroke risk
+blood pressure control	reduces	heart failure risk
+blood pressure control	reduces	myocardial infarction risk
+blood pressure control	reduces	end-organ damage
+nonadherence	increases	cardiovascular events
+dietary counseling	supports	essential hypertension management
+medication titration	relies on	home blood pressure monitoring
+therapeutic inertia	hinders	essential hypertension management
+mortality	decreases with	proper hypertension control
+cardiovascular events	reduce with	blood pressure control
+patient education	supports	essential hypertension management
+lifestyle modification	reduces	blood pressure
+exercise program	supports	essential hypertension management
+weight management	reduces	blood pressure
+uncontrolled essential hypertension	increases	adverse outcomes
+proper hypertension control	improves	long-term prognosis

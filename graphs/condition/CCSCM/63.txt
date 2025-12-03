@@ -1,0 +1,100 @@
+leukemia	is a	hematologic malignancy
+leukemia	is a	disease of white blood cells
+acute myeloid leukemia	is a	myeloid malignancy
+acute lymphoblastic leukemia	is a	lymphoid malignancy
+chronic myeloid leukemia	is a	myeloproliferative neoplasm
+chronic lymphocytic leukemia	is a	lymphoid malignancy
+hairy cell leukemia	is a	B-cell leukemia
+Hodgkin lymphoma	is a	lymphoid malignancy
+diffuse large B-cell lymphoma	is a	non-Hodgkin lymphoma
+follicular lymphoma	is a	non-Hodgkin lymphoma
+leukemia	may cause	anemia
+leukemia	may cause	thrombocytopenia
+leukemia	may cause	increased infection risk
+acute myeloid leukemia	presents with	cytopenias
+acute myeloid leukemia	presents with	mucosal bleeding
+acute lymphoblastic leukemia	presents with	bone pain
+chronic lymphocytic leukemia	presents with	lymphadenopathy
+Hodgkin lymphoma	presents with	mediastinal mass
+diffuse large B-cell lymphoma	presents with	rapidly enlarging mass
+follicular lymphoma	presents with	painless lymphadenopathy
+Hodgkin lymphoma	has	Reed-Sternberg cells
+Reed-Sternberg cells	are diagnostic feature of	Hodgkin lymphoma
+t(14;18) translocation	is a	chromosomal translocation
+BCR-ABL1 fusion	is a	constitutively active tyrosine kinase
+Philadelphia chromosome	is a	genetic abnormality
+BCR-ABL1 fusion	is associated with	chronic myeloid leukemia
+BCR-ABL1 testing	is used for	CML diagnosis
+imatinib	is a	tyrosine kinase inhibitor
+imatinib	treats	chronic myeloid leukemia
+dasatinib	is a	tyrosine kinase inhibitor
+dasatinib	treats	chronic myeloid leukemia
+R-CHOP regimen	treats	diffuse large B-cell lymphoma
+rituximab	is a	monoclonal antibody
+cyclophosphamide	is a	alkylating agent
+cytarabine	is a	nucleoside analog
+cytarabine	treats	acute myeloid leukemia
+etoposide	is a	chemotherapy agent
+bone marrow transplant	is a	curative therapy
+allogeneic stem cell transplant	is a	curative therapy
+hematopoietic stem cell transplant	is a	curative therapy
+Down syndrome	is a risk factor for	acute leukemia
+age	is a risk factor for	leukemia
+radiation exposure	is a risk factor for	leukemia
+benzene exposure	is a risk factor for	leukemia
+smoking	is a risk factor for	acute myeloid leukemia
+TP53 mutation	is a prognostic factor for	leukemia
+cytogenetic abnormality	is a prognostic factor for	leukemia
+NPM1 mutation	is a prognostic marker for	acute myeloid leukemia
+FLT3-ITD mutation	is a prognostic factor for	acute myeloid leukemia
+EBV infection	is associated with	Hodgkin lymphoma
+t(11;18) translocation	is a genetic abnormality in	MALT lymphoma
+t(14;18) translocation	is associated with	follicular lymphoma
+Reed-Sternberg cells	are diagnostic feature of	Hodgkin lymphoma
+Rituximab	is a	monoclonal antibody
+follicular lymphoma	treated with	rituximab
+diffuse large B-cell lymphoma	treated with	rituximab
+hairy cell leukemia	treated with	cladribine
+cladribine	is a	purine analog
+pentostatin	is a	purine analog
+pentostatin	treats	hairy cell leukemia
+bone marrow biopsy	is a	diagnostic test for leukemia
+flow cytometry	is a	diagnostic test for leukemia
+cytogenetic analysis	is a	diagnostic test for leukemia
+molecular testing	is a	diagnostic test for leukemia
+minimal residual disease	is an	outcome measure
+complete remission	is an	treatment outcome
+partial remission	is an	treatment outcome
+disease-free survival	is an	outcome measure
+overall survival	is an	outcome measure
+neutropenia	is a	leukocyte deficiency
+neutropenia	increases	infection risk
+lymphocytosis	is a	high lymphocyte count
+leukocytosis	is a	high white blood cell count
+thrombocytopenia	is a	cytopenia
+cytopenias	are a	hallmark of leukemia
+granulocyte colony-stimulating factor	is a	supportive therapy
+granulocyte colony-stimulating factor	is used for	neutropenia
+CAR T-cell therapy	is a	treatment modality
+axicabtagene ciloleucel	is a	CAR T-cell therapy
+CD19	is a	B-cell marker
+CD20	is a	B-cell marker
+rituximab	targets	CD20
+BCR-ABL1	is a	fusion gene
+CML	has	BCR-ABL1 fusion
+R-CHOP regimen	includes	rituximab
+Hodgkin lymphoma	responsive to	ABVD regimen
+ABVD regimen	is a	chemotherapy regimen
+Burkitt lymphoma	is a	non-Hodgkin lymphoma
+HIV infection	is a risk factor for	certain non-Hodgkin lymphomas
+BCL2 overexpression	is a	feature of follicular lymphoma
+t(15;17) translocation	is a genetic abnormality in	acute promyelocytic leukemia
+APL	is a subtype of	AML
+all-trans retinoic acid	is a	differentiation agent
+all-trans retinoic acid	treats	acute promyelocytic leukemia
+acute promyelocytic leukemia	is a	subtype of AML
+AML-M3	is a	AML subtype
+Chronic lymphocytic leukemia	may progress to	Richter transformation
+Richter transformation	is a	progression of CLL
+Mantle cell lymphoma	is a	non-Hodgkin lymphoma
+Sepsis	is a	complication of chemotherapy

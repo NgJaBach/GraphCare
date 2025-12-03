@@ -1,0 +1,115 @@
+birth trauma	is a	obstetric injury
+birth trauma	may cause	birth asphyxia
+birth trauma	may cause	neonatal respiratory distress
+birth trauma	may cause	meconium aspiration
+birth trauma	may cause	hypoxic-ischemic encephalopathy
+birth trauma	increases risk for	NICU admission
+birth trauma	increases risk for	mechanical ventilation
+birth trauma	increases risk for	oxygen therapy
+birth trauma	increases risk for	surfactant therapy
+birth trauma	increases risk for	apnea
+birth trauma	increases risk for	neonatal sepsis
+birth trauma	increases risk for	intraventricular hemorrhage
+birth trauma	increases risk for	neonatal stroke
+birth trauma	associated with	placental abruption
+birth trauma	associated with	cord prolapse
+birth trauma	associated with	shoulder dystocia
+birth trauma	associated with	uterine rupture
+birth trauma	associated with	prolonged labor
+birth trauma	associated with	prematurity
+birth trauma	associated with	low birth weight
+birth trauma	associated with	neonatal jaundice
+birth trauma	associated with	neonatal seizures
+birth trauma	associated with	neonatal hypoxia
+birth trauma	associated with	brain injury
+birth trauma	associated with	cerebral palsy risk
+birth trauma	associated with	intrapartum fever
+birth trauma	associated with	apnea of prematurity
+birth trauma	associated with	retinopathy of prematurity
+birth trauma	associated with	neonatal meningitis
+birth trauma	associated with	neonatal pneumonia
+birth trauma	associated with	bronchopulmonary dysplasia
+birth trauma	associated with	NICU stay length
+birth trauma	associated with	hospital stay length
+birth trauma	requiring	neonatal resuscitation
+birth trauma	treated with	resuscitation equipment
+birth trauma	treated with	intubation
+birth trauma	treated with	CPAP
+birth trauma	treated with	mechanical ventilation
+birth trauma	treated with	oxygen therapy
+birth trauma	managed by	obstetric team
+birth trauma	monitored with	fetal monitoring
+birth trauma	monitors	fetal heart rate
+birth trauma	associated with	fetal distress signs
+birth trauma	predictor of	neonatal intensive care resource use
+birth trauma	predictor of	long hospitalization
+birth trauma	risk factor for	maternal postpartum complications
+birth trauma	linked with	cesarean delivery
+birth trauma	linked with	instrumental delivery
+birth trauma	indicates	placental insufficiency
+birth trauma	indicates	birth injury severity
+birth trauma	correlates with	Apgar score at 1 minute
+birth trauma	correlates with	Apgar score at 5 minutes
+birth trauma	correlated with	perinatal mortality
+birth trauma	correlated with	neonatal death
+birth trauma	associated with	maternal smoking
+birth trauma	associated with	maternal hypertension
+birth trauma	associated with	maternal diabetes
+birth trauma	associated with	chorioamnionitis risk
+birth trauma	associated with	NICU resource use
+birth trauma	associated with	need for neonatal dialysis
+birth trauma	associated with	neonatal alloimmune condition
+birth trauma	associated with	intraventricular hemorrhage severity
+birth trauma	associated with	birth weight category
+birth trauma	associated with	neonatal thermoregulation issues
+birth trauma	linked with	vacuum extraction
+birth trauma	linked with	forceps delivery
+birth trauma	linked with	cesarean delivery rate
+birth trauma	influenced by	maternal age
+birth trauma	influenced by	maternal BMI
+birth trauma	influenced by	maternal infection
+birth trauma	associated with	readmission risk
+birth trauma	predictive of	neurodevelopmental outcome
+birth trauma	associated with	long-term cognitive impairment
+birth trauma	associated with	speech delay
+birth trauma	associated with	motor delay
+birth trauma	associated with	seizure disorder risk
+birth trauma	predicted by	prenatal stress
+birth trauma	predicted by	fetal growth restriction
+birth trauma	associated with	umbilical cord compression
+birth trauma	associated with	placental previa
+birth trauma	related to	vacuum-assisted birth
+birth trauma	related to	forceps delivery
+birth trauma	linked to	cesarean section rate
+birth trauma	influenced by	maternal age
+birth trauma	influenced by	maternal BMI
+birth trauma	associated with	neonatal hypoglycemia
+birth trauma	requires	NICU equipment
+birth trauma	associated with	developmental impairment
+birth trauma	observed in	preterm infant
+birth trauma	observed in	term infant
+birth trauma	associated with	maternal diabetes mellitus
+birth trauma	associated with	placental abruption risk
+birth trauma	associated with	fetal distress
+birth trauma	associated with	neonatal respiratory failure
+birth trauma	associated with	neonatal pulmonary hypertension
+birth trauma	associated with	apnea of prematurity severity
+birth trauma	associated with	neonatal seizures risk
+birth trauma	associated with	low APGAR	score
+birth trauma	associated with	high APGAR	score
+birth trauma	observed in	singleton birth
+birth trauma	observed in	multiple birth
+birth trauma	associated with	term birth
+birth trauma	associated with	preterm birth
+birth trauma	associated with	twin birth
+birth trauma	associated with	cesarean section indication
+birth trauma	correlated with	neonatal admissions
+birth trauma	correlated with	neonatal ICU days
+birth trauma	related to	antenatal care quality
+birth trauma	related to	maternal parity
+birth trauma	linked with	neonatal feeding intolerance
+birth trauma	linked with	hypoglycemia risk
+birth trauma	associated with	bilirubin risk
+birth trauma	associated with	polycythemia
+birth trauma	associated with	congenital anomalies
+birth trauma	associated with	perinatal mortality

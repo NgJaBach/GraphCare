@@ -1,0 +1,99 @@
+leukemias	are	blood cancers
+leukemias	include	acute myeloid leukemia
+leukemias	include	acute lymphoblastic leukemia
+leukemias	include	chronic myeloid leukemia
+leukemias	include	chronic lymphocytic leukemia
+leukemias	arise from	hematopoietic stem cells
+leukemias	present with	fatigue
+leukemias	present with	fever
+leukemias	present with	night sweats
+leukemias	cause	anemia
+leukemias	cause	thrombocytopenia
+leukemias	cause	neutropenia
+leukemias	increase risk of	infections
+leukemias	associated with	bleeding tendency
+down syndrome	increases risk of	acute lymphoblastic leukemia
+fanconi anemia	increases risk of	acute myeloid leukemia
+benzene exposure	increases risk of	leukemia
+ionizing radiation	increases risk of	leukemia
+prior chemotherapy	increases risk of	treatment-related leukemia
+t(9;22) translocation	is associated with	chronic myeloid leukemia
+philadelphia chromosome	is associated with	chronic myeloid leukemia
+bcr-abl fusion	is characteristic of	chronic myeloid leukemia
+acute lymphoblastic leukemia	responds to	corticosteroids
+acute myeloid leukemia	treated with	cytarabine
+acute myeloid leukemia	treated with	daunorubicin
+acute promyelocytic leukemia	treated with	all-trans retinoic acid
+all-trans retinoic acid	is a	differentiation agent
+imatinib	treats	chronic myeloid leukemia
+dasatinib	treats	chronic myeloid leukemia
+nilotinib	treats	chronic myeloid leukemia
+bone marrow transplant	is used for	leukemia
+allogeneic stem cell transplant	is used for	high-risk leukemia
+autologous stem cell transplant	used for	relapsed leukemia
+cytarabine	is a	chemotherapy agent
+daunorubicin	is a	chemotherapy agent
+etoposide	is a	chemotherapy agent
+cyclophosphamide	is a	chemotherapy agent
+maintenance therapy	used for	acute lymphoblastic leukemia remission
+intrathecal chemotherapy	used for	CNS prophylaxis in leukemia
+flow cytometry	used for	leukemia subclassification
+cytogenetics	used for	leukemia risk stratification
+polymerase chain reaction	detects	minimal residual disease
+minimal residual disease	predicts	relapse risk
+cytogenetic abnormality	guides	prognosis in leukemia
+tissue biopsy	provides	leukemia diagnosis
+bone marrow biopsy	confirms	leukemia diagnosis
+white blood cell count	abnormal in	leukemia
+neutrophil count	low in	leukemia
+platelet count	low in	leukemia
+coagulopathy	associated with	leukemia
+DIC	occurs in	acute promyelocytic leukemia
+DIC	leads to	bleeding
+neutropenia	predisposes to	infection
+infections	lead to	hospitalization
+graft-versus-host disease	is a complication of	allogeneic stem cell transplant
+transplant-related mortality	is reduced by	HLA matching
+HLA matching	essential for	allogeneic transplantation
+HLA mismatch	increases risk of	graft-versus-host disease
+risk stratification	informs	treatment intensity in leukemia
+age	influences	leukemia prognosis
+performance status	influences	treatment choice in leukemia
+cytogenetic risk	correlates with	survival in leukemia
+mutational status	influences	targeted therapy choice
+FLT3 mutation	associated with	poor prognosis
+NPM1 mutation	associated with	favorable prognosis
+TP53 mutation	associated with	poor prognosis
+core-binding factor leukemia	has	favorable prognosis
+BCL2 overexpression	associated with	leukemia phenotype
+hypomethylating agent	used for	AML in elderly
+azacitidine	is a	hypomethylating agent
+decitabine	is a	hypomethylating agent
+venetoclax	used for	AML treatment
+IDH1 mutation	targeted by	ivosidenib
+IDH2 mutation	targeted by	enasidenib
+AML treated with	venetoclax-based therapy
+CML	treated with	tyrosine kinase inhibitors
+tyrosine kinase inhibitors	used for	CML
+imatinib	is a	BCR-ABL tyrosine kinase inhibitor
+dasatinib	is a	BCR-ABL tyrosine kinase inhibitor
+nilotinib	is a	BCR-ABL tyrosine kinase inhibitor
+CML progresses to	blast crisis
+blast crisis	marks	disease progression in CML
+CNS leukemia	involves	central nervous system
+intrathecal methotrexate	used for	CNS leukemia
+CNS leukemia	worsens	prognosis
+opportunistic infections	occur in	leukemia patients on chemotherapy
+neutropenic fever	presents in	leukemia therapy
+granulocyte colony-stimulating factor	used for	neutropenia management
+G-CSF	reduces	febrile neutropenia
+febrile neutropenia	increases	hospitalization duration
+pancytopenia	seen in	leukemia
+pancytopenia	results in	fatigue
+transfusion	supports	leukemia treatment
+platelet transfusion	treats	bleeding risk in leukemia
+red blood cell transfusion	treats	anemia in leukemia
+complex karyotype	associated with	poor prognosis in AML
+relapse	occurs after	remission
+induction therapy	aims for	remission
+MRD status	guides	prognosis

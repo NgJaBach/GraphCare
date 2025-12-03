@@ -1,0 +1,183 @@
+smoking	risk factor for	esophageal cancer
+alcohol use	risk factor for	esophageal squamous cell carcinoma
+Barrett esophagus	precursor to	esophageal adenocarcinoma
+GERD	associated with	Barrett esophagus
+obesity	risk factor for	esophageal adenocarcinoma
+achalasia	risk factor for	esophageal squamous cell carcinoma
+male sex	risk factor for	esophageal cancer
+older age	risk factor for	esophageal cancer
+nitrosamine exposure	risk factor for	esophageal cancer
+dysphagia	symptom of	esophageal cancer
+weight loss	symptom of	esophageal cancer
+anemia	symptom of	esophageal cancer
+adenocarcinoma	histology type of	esophageal cancer
+squamous cell carcinoma	histology type of	esophageal cancer
+distal esophagus	site of	esophageal adenocarcinoma
+proximal esophagus	site of	esophageal squamous cell carcinoma
+lower esophagus	common site for	esophageal adenocarcinoma
+upper esophagus	common site for	esophageal squamous cell carcinoma
+GE junction	involvement in	gastroesophageal junction cancer
+TNM staging	guides	treatment planning
+tumor depth	determines	T stage
+nodal metastasis	indicates	nodal involvement
+distant metastasis	indicates	stage IV cancer
+endoscopy	detects	esophageal cancer
+biopsy	confirms	esophageal cancer
+endoscopic ultrasound	assesses	tumor depth
+CT scan	evaluates	tumor extent
+PET-CT	detects	metastasis
+HER2 overexpression	present in	esophageal adenocarcinoma
+PD-L1 expression	present in	esophageal cancer
+neoadjuvant chemoradiation	used before	esophagectomy
+esophagectomy	performed for	resectable cancer
+minimally invasive esophagectomy	reduces	postoperative pain
+robotic assisted esophagectomy	reduces	blood loss
+gastric pull up	used for	esophageal reconstruction
+staging workup	includes	endoscopic ultrasound
+palliative radiotherapy	relieves	dysphagia
+stent	relieves	obstruction
+enteral feeding	maintains	nutrition
+neoadjuvant therapy	improves	survival
+neoadjuvant chemoradiation	improves	resection rate
+adjuvant chemotherapy	reduces	recurrence
+palliative chemotherapy	chosen for	advanced esophageal cancer
+nivolumab	approved for	advanced esophageal cancer
+ramucirumab	used for	metastatic esophageal cancer
+trastuzumab	used for	HER2 positive esophageal cancer
+laryngeal nerve injury	complication of	esophagectomy
+anastomotic leak	complication of	esophagectomy
+pneumonia	risk after	esophagectomy
+margin status	affects	prognosis
+R0 resection	associated with	improved survival
+lymphadenectomy	performed for	esophageal cancer
+nodal involvement	worsens	prognosis
+tumor length	influences	resection strategy
+local recurrence	occurs after	esophagectomy
+distant recurrence	occurs after	therapy
+barrett esophagus surveillance	reduces	late stage diagnosis
+adenocarcinoma	more common in	distal esophagus
+squamous cell carcinoma	more common in	upper esophagus
+survival rate	depends on	stage
+gastric pull up conduit	reconstructs	esophagus after resection
+vocal cord palsy	complication of	esophagectomy
+airway injury	complication of	esophagectomy
+stent migration	complication of	esophageal stent
+stent occlusion	complication of	esophageal stent
+stenosis	complication of	esophageal stent
+nutrition status	affects	treatment tolerance
+age	influences	treatment choice
+comorbidity burden	influences	mortality risk
+smoking cessation	advised for	cancer prevention
+liver metastasis	common site of	distant metastasis
+lung metastasis	common site of	distant metastasis
+brain metastasis	rare site of	distant metastasis
+recurrence	occurs after	treatment
+tumor regression	achieved with	neoadjuvant therapy
+endoscopic mucosal resection	treatment for	early esophageal cancer
+endoscopic submucosal dissection	used for	early esophageal cancer
+barrett esophagus	managed with	endoscopic ablation
+photodynamic therapy	used for	palliative treatment
+clinical trial	option for	esophageal cancer
+staging laparoscopy	not routinely used	esophageal cancer
+neutropenia	complication of	chemotherapy
+thromboembolism	risk after	cancer surgery
+follow up imaging	monitors for	recurrence
+esophageal cancer	is a	malignant neoplasm of esophagus
+esophageal cancer	risk factor	tobacco smoking
+esophageal cancer	risk factor	alcohol use
+Barrett's esophagus	precursor to	esophageal adenocarcinoma
+GERD	risk factor for	esophageal adenocarcinoma
+achalasia	risk factor for	esophageal squamous cell carcinoma
+esophageal cancer	presents with	dysphagia
+esophageal cancer	presents with	weight loss
+esophageal cancer	presents with	odynophagia
+esophageal cancer	presents with	chest pain
+esophageal cancer	presents with	anemia
+esophageal cancer	diagnosed by	endoscopy
+endoscopy	detects	esophageal cancer
+biopsy	confirms	esophageal cancer
+endoscopic ultrasound	evaluates	esophageal cancer
+CT scan	evaluates	esophageal cancer
+PET-CT	detects	distant metastasis
+TNM classification	used for	cancer staging
+esophageal cancer	is staged by	TNM classification
+esophageal cancer	histology	squamous cell carcinoma
+esophageal cancer	histology	adenocarcinoma
+esophagectomy	is a	surgical procedure
+minimally invasive esophagectomy	is a	surgical procedure
+neoadjuvant chemotherapy	used for	resectable esophageal cancer
+neoadjuvant chemoradiation	used for	locally advanced esophageal cancer
+radiation therapy	used for	esophageal cancer
+chemotherapy	used for	esophageal cancer
+chemoradiation	is a treatment for	esophageal cancer
+palliative radiation therapy	used for	esophageal cancer
+stent	used for	dysphagia
+enteral nutrition	supports	esophageal cancer patients
+pembrolizumab	used for	advanced esophageal cancer
+nivolumab	used for	advanced esophageal cancer
+ramucirumab	used for	advanced esophageal cancer
+trastuzumab	used for	HER2-positive esophageal cancer
+HER2 overexpression	is biomarker for	trastuzumab therapy
+molecular profiling	guides	therapy selection
+palliative care	improves	quality of life
+postoperative surveillance	includes	endoscopy
+anastomotic leak	complication of	esophagectomy
+recurrent laryngeal nerve palsy	complication of	esophagectomy
+chylothorax	complication of	esophagectomy
+pneumonia	complication after	esophageal cancer surgery
+thromboembolism	complication after	cancer therapy
+liver metastasis	occurs in	esophageal cancer
+liver metastasis	worsens	prognosis
+bone metastasis	occurs in	esophageal cancer
+brain metastasis	occurs in	esophageal cancer
+distant metastasis	indicates	stage IV esophageal cancer
+esophageal cancer	recurrence	after treatment
+surveillance endoscopy	detects	recurrence
+chemotherapy-induced neutropenia	risk factor for	infection
+neutropenia	increases risk of	infection
+anemia	occurs with	esophageal cancer
+weight loss	is presenting symptom of	esophageal cancer
+anorexia	is presenting symptom of	esophageal cancer
+surgery	reduces	tumor burden
+adjuvant therapy	used after	esophageal cancer resection
+adjuvant chemotherapy	used after	esophageal cancer resection
+adjuvant radiotherapy	used after	esophageal cancer resection
+squamous cell carcinoma	arises in	upper esophagus
+adenocarcinoma	arises in	distal esophagus
+intestinal metaplasia	is associated with	Barrett's esophagus
+smoking history	increases risk of	esophageal cancer
+early detection	improves	survival in esophageal cancer
+endoscopic mucosal resection	used for	early esophageal cancer
+endoscopic submucosal dissection	used for	early esophageal cancer
+photodynamic therapy	used for	esophageal cancer
+endoscopic therapies	used for	early esophageal cancer
+multidisciplinary team	manages	esophageal cancer care
+preoperative optimization	improves	postoperative outcome
+PD-L1 expression	predict response to	immunotherapy in esophageal cancer
+EGFR expression	informs	targeted therapy in esophageal cancer
+nutritional status	influences	survival in esophageal cancer
+tumor stage	determines	treatment strategy
+survival	depends on	tumor stage
+tumor size	correlates with	prognosis
+postoperative infection	risk after	esophageal cancer surgery
+surveillance interval	determined by	histology result
+postoperative pain	managed by	analgesia after esophagectomy
+airway protection	required during	anesthesia for esophageal cancer surgery
+nasogastric tube	used after	esophageal cancer surgery
+ileus	complication after	esophageal cancer surgery
+nutritional supplementation	essential for	esophageal cancer patients
+cachexia	associated with	advanced esophageal cancer
+morbidity	related to	esophageal cancer surgery
+mortality	associated with	esophageal cancer surgery
+tumor regression	achieved by	chemoradiation
+cancer cachexia	worsens	quality of life
+clinical trial	tests	new therapy for esophageal cancer
+tumor regression grade	used for	evaluating response to therapy
+imaging	monitors	disease progression
+pathology	confirms	cancer type
+tumor location	influences	surgical approach
+postoperative radiotherapy	used after	esophagectomy
+surgical margins	determine	local recurrence
+readmission risk	associated with	esophageal cancer surgery
+curative intent	governs	treatment planning for esophageal cancer
+follow-up care	reduces	readmission risk

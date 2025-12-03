@@ -1,0 +1,100 @@
+viral infection	caused by	virus
+viral infection	caused by	RNA virus
+viral infection	caused by	DNA virus
+viral infection	presents with	fever
+viral infection	presents with	cough
+viral infection	presents with	sore throat
+viral infection	presents with	fatigue
+viral infection	presents with	myalgia
+viral infection	presents with	headache
+viral infection	presents with	nasal discharge
+viral infection	presents with	dyspnea
+viral infection	presents with	shortness of breath
+viral infection	progresses to	pneumonia
+viral infection	progresses to	ARDS
+viral infection	associated with	lymphopenia
+viral infection	diagnosed by	PCR test
+viral infection	diagnosed by	antigen test
+viral infection	diagnosed by	serology
+viral infection	diagnosed by	imaging
+viral infection	treated with	antiviral therapy
+viral infection	treated with	supportive care
+viral infection	treated with	hydration
+antiviral therapy	reduces	viral replication
+antiviral therapy	shortens	illness duration
+antiviral therapy	improves	outcomes
+supportive care	reduces	hospital stay
+oxygen therapy	used for	hypoxemia
+inpatient admission	required for	severe viral infection
+ICU admission	required for	severe viral infection
+influenza vaccine	reduces	risk of influenza infection
+COVID-19 vaccine	reduces	risk of SARS-CoV-2 infection
+viral coinfection	worsens	outcomes
+secondary bacterial infection	follows	viral infection
+age	increases	risk of severe viral infection
+smoking	increases	risk of viral infection complications
+obesity	increases	risk of severe viral infection
+pregnancy	increases	risk of viral infection complications
+immune response	characterized by	T cell activation
+cytokine storm	associated with	severe viral infection
+disease severity	correlates with	viral load
+viral load	correlates with	disease severity
+fever duration correlates with	viral load
+pneumonia	caused by	viral infection
+ARDS	can complicate	viral infection
+hypoxemia	results from	viral infection
+dehydration	common in	viral infection
+rash	occurs with	certain viral infections
+encephalitis	can result from	viral infection
+meningitis	can result from	viral infection
+myocarditis	can result from	viral infection
+nephrotoxicity	associated with	antiviral therapy
+liver injury	associated with	viral infection
+neutropenia	occurs in	some viral infections
+nausea	present in	some viral infections
+diarrhea	occurs with	some viral infections
+central nervous system involvement	occurs with	viral infection
+viral infection	predisposes to	secondary bacterial infections
+viral infection	increases	healthcare utilization
+seasonal influenza	is a	viral infection
+coronavirus infection	is a	viral infection
+rhinovirus infection	is a	viral infection
+enterovirus infection	is a	viral infection
+herpes zoster infection	is a	viral infection
+cytomegalovirus infection	is a	viral infection
+measles infection	is a	viral infection
+infection control measures	reduce	viral transmission
+immunity wanes after	viral infection
+immunity develops after	viral infection
+immunization	prevents	viral infection
+hand hygiene	reduces	transmission of viral infection
+mask wearing	reduces	transmission of viral infection
+air filtration	reduces	indoor viral dissemination
+outpatient follow-up	recommended after	viral infection
+antiviral resistance	emerges during	antiviral therapy
+clinical trial	evaluates	antiviral therapy in viral infection
+guideline	recommends	antiviral therapy for high-risk viral infections
+diagnosis	informs	treatment of viral infection
+treatment	improves	patient outcomes in viral infection
+monitoring	guides	therapy escalation in viral infection
+respiratory support	required for	severe viral infection
+oxygen saturation	monitors	viral infection severity
+procalcitonin	helps	differentiate bacterial from viral infection
+fever	commonly present	viral infection
+dry cough	commonly present	viral infection
+wet cough	can occur	viral infection
+laryngitis	can accompany	viral infection
+otitis media	complications	viral infection
+thrombocytopenia	may accompany	viral infection
+ALT elevation	may occur	viral infection
+AST elevation	may occur	viral infection
+neural involvement	possible	viral infection
+immune suppression	increases risk	viral infection complications
+pregnant person	at risk	severe viral infection
+elderly	at higher risk	severe viral infection
+influenza	causes	respiratory illness
+COVID-19	causes	respiratory illness
+RSV infection	causes	bronchiolitis
+adenovirus infection	is a	viral infection
+parainfluenza infection	is a	viral infection
+MERS	is a	viral infection

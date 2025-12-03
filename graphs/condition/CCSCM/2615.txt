@@ -1,0 +1,99 @@
+suffocation	is a	form of asphyxia
+suffocation	causes	hypoxia
+suffocation	leads to	hypoxemia
+suffocation	results in	loss of consciousness
+suffocation	may cause	brain injury
+suffocation	may cause	cardiac arrest
+suffocation	can cause	death
+hypoxia	accompanies	suffocation
+airway obstruction	causes	suffocation
+smothering	causes	suffocation
+choking	leads to	suffocation
+drowning	results in	suffocation
+foreign body	causes	airway obstruction
+airway obstruction	leads to	suffocation
+laryngeal edema	causes	airway obstruction
+cyanosis	is a sign of	suffocation
+tachypnea	is a sign of	suffocation
+loss of consciousness	occurs in	suffocation
+hypoxic brain injury	may result from	suffocation
+respiratory arrest	can occur after	suffocation
+resuscitation	is a response to	suffocation
+CPR	is a response to	suffocation
+airway management	is a treatment for	suffocation
+endotracheal intubation	is a treatment for	suffocation
+oxygen therapy	is a treatment for	hypoxia
+ventilation	provides	respiration
+oxygen	treats	hypoxia
+pulse oximeter	monitors	oxygenation
+arterial blood gas	assesses	oxygenation
+nasal cannula	delivers	oxygen
+face mask	delivers	oxygen
+noninvasive ventilation	reduces	work of breathing
+intubation	secures	airway
+tracheostomy	creates	airway
+bronchodilator	reduces	airway obstruction
+airway obstruction	increases	suffocation risk
+foreign body aspiration	causes	airway obstruction
+smoke inhalation	causes	suffocation
+chemical asphyxiant	causes	suffocation
+suffocation	occurs in	domestic accidents
+infant	is at risk for	suffocation
+infant death	may involve	suffocation
+endotracheal tube	is used for	airway management
+suction device	is used for	airway suctioning
+oxygen cylinder	supplies	oxygen
+oxygen saturation	reflects	oxygenation
+pulse oximetry	estimates	oxygen saturation
+lactic acidosis	can result from	hypoxia
+tissue hypoxia	leads to	metabolic acidosis
+suffocation	is a medical emergency
+emergency department	handles	suffocation patients
+intensive care unit	treats	severe suffocation
+emergency medical services	respond to	suffocation
+suffocation rates	monitored by	public health
+suffocation	is reportable to	health agencies
+external cause codes	classify	suffocation
+suffocation	associated with	mortality
+asphyxia	is a synonym of	suffocation
+airway obstruction	increases	suffocation risk
+infant	is at risk for	suffocation
+airway compromise	predisposes to	suffocation
+airway compromise	predisposes	suffocation
+prevention strategies	reduce	suffocation incidence
+homicide	involves	suffocation
+domestic violence	involves	suffocation
+mortality	associated with	suffocation
+suffocation	increases	emergency department visits
+suffocation	increases	ICU admissions
+suffocation	increases	hospital length of stay
+suffocation	associated with	sudden death
+airway clearance	is compromised in	suffocation
+cellular oxygen demand	exceeds	oxygen supply
+lactic acidosis	arises from	tissue hypoxia
+brain edema	may follow	hypoxic injury
+coma	may result from	severe hypoxia
+neural injury	results from	hypoxia
+medical coding	uses	external cause codes
+public health	monitors	suffocation rates
+forensic pathology	uses	suffocation evidence
+suffocation evidence	used by	forensic pathology
+investigation	relies on	suffocation data
+external cause documentation	supports	suffocation cases
+suffocation contributes to	hospital mortality
+crib safety	reduces	suffocation risk
+pediatric safety	reduces	suffocation risk
+household hazard	increases	suffocation risk
+toy choking hazard	increases	suffocation risk
+inflatable sleep device	increases	suffocation risk
+smoke detector	prevents	suffocation fatalities
+carbon monoxide	causes	hypoxia
+aspiration	leads to	airway obstruction
+respiratory depression	can cause	suffocation
+narcotics overdose	causes	respiratory failure
+birth injury	may involve	suffocation
+neonatal care	reduces	suffocation risk
+pediatric supervision	reduces	suffocation risk
+household product labeling	informs	suffocation prevention
+suffocation prevention campaigns	reduce	incidence
+prevention campaigns	reduce	suffocation incidence

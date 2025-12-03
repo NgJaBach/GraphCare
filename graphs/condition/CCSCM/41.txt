@@ -1,0 +1,100 @@
+unknown primary cancer	is a	malignant neoplasm
+unknown primary cancer	is a	cancer of unknown primary
+unknown primary cancer	presents with	metastasis
+unknown primary cancer	associated with	metastasis
+unknown primary cancer	associated with	poor prognosis
+unknown primary cancer	linked with	high mortality
+unknown primary cancer	treated with	chemotherapy
+unknown primary cancer	treated with	radiotherapy
+unknown primary cancer	treated with	surgery
+unknown primary cancer	treated with	immunotherapy
+unknown primary cancer	treated with	targeted therapy
+unknown primary cancer	treated with	combination therapy
+unknown primary cancer	managed by	multidisciplinary team
+unknown primary cancer	diagnosed by	biopsy
+unknown primary cancer	diagnosed by	imaging
+unknown primary cancer	diagnosed by	histology
+unknown primary cancer	associated with	lymph node involvement
+unknown primary cancer	associated with	distant metastasis
+unknown primary cancer	associated with	organ involvement
+unknown primary cancer	has	poor prognosis
+unknown primary cancer	correlates with	age
+unknown primary cancer	more common in	older patients
+unknown primary cancer	more frequent in	males
+unknown primary cancer	more frequent in	females
+unknown primary cancer	is risk factor for	smoking
+unknown primary cancer	is risk factor for	alcohol use
+unknown primary cancer	progresses to	metastasis
+unknown primary cancer	progresses to	organ involvement
+unknown primary cancer	causes	cachexia
+unknown primary cancer	causes	anemia
+unknown primary cancer	causes	pain
+unknown primary cancer	increases	healthcare utilization
+unknown primary cancer	requires	palliative care
+unknown primary cancer	diagnosed at	late stage
+unknown primary cancer	classified as	stage IV
+unknown primary cancer	linked with	lymphadenopathy
+unknown primary cancer	associated with	weight loss
+unknown primary cancer	associated with	fever
+unknown primary cancer	impacts	quality of life
+unknown primary cancer	affects	performance status
+unknown primary cancer	influences	treatment choice
+unknown primary cancer	influences	prognosis
+unknown primary cancer	tracked by	tumor markers
+tumor markers	used for	monitoring cancer
+tumor markers	reflect	tumor burden
+tumor markers	are elevated in	unknown primary cancer
+unknown primary cancer	presents with	node enlargement
+node enlargement	indicates	metastasis
+node biopsy	confirms	malignancy
+node biopsy	guides	treatment planning
+imaging	assesses	disease extent
+CT scan	provides	anatomic detail
+MRI	provides	soft tissue contrast
+CT angiography	evaluates	vascular involvement
+biopsy	confirms	malignancy
+biopsy	guides	therapy selection
+histology	reveals	tumor histology
+histology	classifies	cancer type
+oncology team	coordinates	care plan
+care plan	includes	treatment modalities
+palliative care	alleviates	symptoms
+symptoms	include	pain
+pain	managed by	analgesics
+analgesics	improve	comfort
+unknown primary cancer	influences	surgical candidacy
+surgical candidacy	depends on	performance status
+performance status	assessed by	ECOG score
+ECOG score	influences	treatment plan
+treatment plan	tailored to	tumor burden
+tumor burden	measured by	imaging findings
+unknown primary cancer	associated with	tumor markers elevation
+tumor burden	correlates with	prognosis
+prognosis	worsens with	metastasis
+metastasis	drives	treatment intensity
+paraneoplastic syndrome	indicates	advanced disease
+paraneoplastic syndrome	associated with	unknown primary cancer
+advanced disease	requires	palliative care
+palliative care	improves	quality of life
+quality of life	assessed by	QoL scales
+QoL scales	measure	quality of life
+unknown primary cancer	affects	caregiver burden
+caregiver burden	increases	hospitalization risk
+hospitalization	escalates	costs
+costs	impact	healthcare system
+unknown primary cancer	informs	patient counseling
+patient counseling	improves	treatment adherence
+treatment adherence	predicts	outcome
+outcome	includes	overall survival
+overall survival	estimated by	prognostic models
+prognostic models	assist	risk stratification
+risk stratification	guides	therapy choice
+therapy choice	depends on	cancer subtype
+cancer subtype	determines	chemotherapy sensitivity
+unknown primary cancer	considered	solid tumor
+brain metastasis	occurs with	unknown primary cancer
+brain metastasis	worsens	prognosis
+early detection	improves	survival
+late detection	reduces	survival
+extent of disease	defines	prognosis
+prognosis	informs	patient expectations

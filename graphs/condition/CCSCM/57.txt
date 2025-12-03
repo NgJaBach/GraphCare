@@ -1,0 +1,100 @@
+immunity disorders	is a	broad category of immune system diseases
+immunity disorders	include	autoimmune diseases
+immunity disorders	include	immune deficiencies
+immunity disorders	include	hypersensitivity disorders
+immunity disorders	associated with	immune dysregulation
+autoimmune diseases	are characterized by	autoimmunity
+autoimmune diseases	cause	tissue inflammation
+autoimmune diseases	involve	autoantibodies
+autoimmune diseases	treated with	corticosteroids
+corticosteroids	are used to treat	autoimmune diseases
+immunodeficiency disorders	predispose to	infections
+primary immunodeficiency	is a	congenital immunodeficiency
+secondary immunodeficiency	is a	acquired immunodeficiency
+HIV infection	causes	secondary immunodeficiency
+malnutrition	can cause	secondary immunodeficiency
+immunoglobulin therapy	is used for	primary immunodeficiency
+bone marrow transplantation	is used to treat	immune deficiency disorders
+immune deficiency disorders	increase risk of	pneumonia
+allergic diseases	are a subset of	immunity disorders
+allergic diseases	include	allergic rhinitis
+allergic rhinitis	presents with	nasal congestion
+asthma	is a	type of allergic disease
+hypersensitivity disorders	include	anaphylaxis
+anaphylaxis	is triggered by	IgE-mediated reaction
+IgE	is a	antibody class
+allergen	triggers	immune response
+immune response	involves	cytokines
+cytokines	mediate	inflammation
+inflammation	contributes to	tissue damage
+rheumatoid arthritis	is an autoimmune disease
+systemic lupus erythematosus	is an autoimmune disease
+type 1 diabetes mellitus	is an autoimmune disease
+multiple sclerosis	is an autoimmune disease
+autoimmune diseases	show	female predominance
+women	at higher risk for	autoimmune diseases
+genetic predisposition	contributes to	autoimmune diseases
+HLA haplotypes	associated with	autoimmune diseases
+autoantibodies	are associated with	autoimmune diseases
+ANA test	is used to diagnose	autoimmune diseases
+diagnostic tests	include	ANA test
+immunosuppressive therapy	is used for	autoimmune diseases
+cyclosporine	is an	immunosuppressant
+methotrexate	is used to treat	autoimmune diseases
+biologic agents	are used in	autoimmune diseases
+TNF inhibitors	treat	autoimmune diseases
+systemic corticosteroids	suppress	immune response
+infection risk	increases with	immunosuppressive therapy
+immunity disorders	present with	recurrent infections
+recurrent infections	lead to	hospitalization
+immunity disorders	present with	fever and fatigue
+fever	is a symptom of	infection
+immunity disorders	associated with	autoimmune comorbidity
+immunity disorders	associated with	cancer risk
+immunity disorders	increase risk of	opportunistic infections
+opportunistic infections	occur in	immunodeficiency
+JAK inhibitors	are used to treat	autoimmune diseases
+baricitinib	is a	JAK inhibitor
+primary immune deficiency	presents with	recurrent infections
+recurrent infections	lead to	hospitalization
+immunoglobulin therapy	provides	passive immunity
+passive immunity	is provided by	immunoglobulin therapy
+gammaglobulinemia	is a	humoral immune deficiency
+Pneumocystis jirovecii pneumonia	occurs in	HIV infection
+HIV infection	increases risk of	Pneumocystis jirovecii pneumonia
+bone marrow transplantation	can cause	immune reconstitution inflammatory syndrome
+immune reconstitution inflammatory syndrome	occurs after	bone marrow transplantation
+cytopenia	is a side effect of	immunosuppressive therapy
+neutropenia	increases risk of	bacterial infections
+autoimmune cytopenias	are complications of	autoimmune diseases
+neuroinflammation	occurs in	multiple sclerosis
+cytokine storm	can occur in	immune disorders
+respiratory infections	are common in	immunodeficiency
+bone marrow failure	is a feature of	immune deficiency disorders
+complement deficiencies	predispose to	encapsulated bacterial infections
+encapsulated bacterial infections	include	Streptococcus pneumoniae infection
+checkpoints inhibitors	can cause	autoimmunity
+autoimmunity	leads to	organ damage
+organ damage	increases risk of	mortality
+mortality risk	is increased with	severe autoimmune disease
+immune tolerance	breakdown in	immunity disorders
+tolerance breakdown	leads to	autoimmunity
+phagocytic defects	are a subset of	primary immunodeficiencies
+complement deficiencies	are a subset of	primary immunodeficiencies
+SCID	is a	severe combined immunodeficiency
+ADA deficiency	causes	severe combined immunodeficiency
+live vaccines	are contraindicated in	severe immunodeficiency
+vaccine safety	is important in	immunodeficiency
+immunization schedule	should be adjusted in	immunodeficiency
+immune surveillance	is reduced in	immunodeficiency
+cancer risk	is increased in	immunodeficiency
+immune dysregulation	drives	autoimmunity
+treatment response	predicts	prognosis
+prognosis	is influenced by	disease activity
+disease activity	correlates with	organ damage
+organ damage	leads to	disability
+disability	reduces	quality of life
+quality of life	improves with	effective management
+effective management	reduces	complication risk
+clinical guidelines	recommend	vaccination for immune disorders
+mortality	remains	a concern in severe immunity disorders

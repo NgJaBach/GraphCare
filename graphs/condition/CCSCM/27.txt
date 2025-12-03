@@ -1,0 +1,101 @@
+ovarian cancer	is a	malignant tumor of the ovary
+ovarian cancer	has histology	high-grade serous carcinoma
+ovarian cancer	has histology	endometrioid carcinoma
+ovarian cancer	has histology	clear cell carcinoma
+ovarian cancer	has histology	mucinous carcinoma
+ovarian cancer	has histology	low-grade serous carcinoma
+ovarian cancer	associated with	BRCA1 mutation
+ovarian cancer	associated with	BRCA2 mutation
+ovarian cancer	associated with	HRD
+ovarian cancer	associated with	Lynch syndrome
+BRCA1 mutation	increases risk for	ovarian cancer
+BRCA2 mutation	increases risk for	ovarian cancer
+age	is risk factor for	ovarian cancer
+nulliparity	is risk factor for	ovarian cancer
+early menarche	is risk factor for	ovarian cancer
+late menopause	is risk factor for	ovarian cancer
+obesity	is risk factor for	ovarian cancer
+endometriosis	is risk factor for	ovarian cancer
+family history	is risk factor for	ovarian cancer
+CA-125	is tumor marker for	ovarian cancer
+HE4	is tumor marker for	ovarian cancer
+CA-125	elevation correlates with	disease burden
+transvaginal ultrasound	is used for	evaluation of adnexal mass
+CT scan	is used for	staging of ovarian cancer
+MRI	is used for	staging of ovarian cancer
+laparoscopy	is used for	tumor assessment
+biopsy	is used for	diagnosis of ovarian cancer
+cytology	is used for	detection of malignant cells in ascites
+CA-125	used for	monitoring therapy response
+FIGO stage	determines	prognosis
+tumor grade	predicts	prognosis
+residual disease	predicts	recurrence
+BRCA1 mutation	predicts	PARP inhibitor sensitivity
+BRCA2 mutation	predicts	PARP inhibitor sensitivity
+HRD	predicts	platinum sensitivity
+histology	predicts	recurrence pattern
+cytoreductive surgery	is standard treatment for	ovarian cancer
+cytoreductive surgery	aims for	optimal debulking
+optimal debulking	improves	survival
+carboplatin	is used for	first-line chemotherapy
+paclitaxel	is used for	first-line chemotherapy
+carboplatin	is combined with	paclitaxel
+intraperitoneal chemotherapy	used for	ovarian cancer with residual disease
+bevaczizumab	added to	chemotherapy
+bevacizumab	added to	chemotherapy
+PARP inhibitors	used for	maintenance therapy
+olaparib	is a	PARP inhibitor
+niraparib	is a	PARP inhibitor
+rucaparib	is a	PARP inhibitor
+PARP inhibitors	improve	progression-free survival
+bevacizumab	improves	progression-free survival
+neoadjuvant chemotherapy	used in	bulky disease
+adjuvant chemotherapy	used in	early-stage ovarian cancer
+surgical staging	performed for	ovarian cancer
+lymphadenectomy	performed for	ovarian cancer staging
+omentectomy	performed for	debulking of ovarian cancer
+surgery	followed by	chemotherapy
+intraperitoneal chemotherapy	leads to	toxicity
+chemotherapy	causes	myelosuppression
+chemotherapy	causes	neuropathy
+surgery	associated with	perioperative morbidity
+ascites	indicates	peritoneal spread
+peritoneal carcinomatosis	indicates	advanced stage
+pleural effusion	indicates	metastasis
+stage IV ovarian cancer	has poor prognosis	compared to early-stage
+advanced-stage ovarian cancer	has poor prognosis	compared to early-stage
+CA-125 normalization	indicates	response to therapy
+HE4 normalization	indicates	response to therapy
+ovarian cancer recurrence	occurs in	peritoneum
+platinum sensitivity	predicts	chemotherapy response
+platinum resistance	defines	relapse risk
+maintenance therapy	provides	disease control
+clinical trial	offers	novel therapies
+targeted therapy	indicated for	BRCA-mutant ovarian cancer
+tissue biopsy	guides	treatment selection
+genetic testing	informs	risk management
+risk-reducing salpingo-oophorectomy	reduces	risk for ovarian cancer
+chemotherapy toxicity	limits	treatment duration
+debulking	reduces	tumor burden
+tumor burden	informs	prognosis
+liver metastasis	indicates	stage IV disease
+ovarian cancer	treated with	platinum-based chemotherapy
+bevacizumab	indicated for	platinum-resistant ovarian cancer
+niraparib	indicated for	maintenance therapy in ovarian cancer
+second-line chemotherapy	includes	carboplatin-based regimens
+interval debulking surgery	performed after	neoadjuvant chemotherapy
+interval debulking surgery	reduces	residual disease
+intraperitoneal chemotherapy	associated with	catheter-related complications
+catheter-related infection	occurs with	intraperitoneal chemotherapy
+ascites	causes	abdominal distension
+peritoneal metastasis	leads to	ascites
+debulking surgery	reduces	tumor burden
+complete debulking	defines	favorable prognosis
+complete debulking	reduces	recurrence risk
+progression-free survival	is endpoint of	ovarian cancer trials
+overall survival	is endpoint of	ovarian cancer trials
+imaging	identifies	peritoneal metastasis
+surgical staging	provides	prognostic information
+BRCA testing	informs	PARP inhibitor eligibility
+prognosis	improves	with complete cytoreduction
+no residual disease	defines	favorable prognosis

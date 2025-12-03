@@ -1,0 +1,100 @@
+regional enteritis	is a form of	inflammatory bowel disease
+ulcerative colitis	is a form of	inflammatory bowel disease
+regional enteritis	synonym of	Crohn's disease
+regional enteritis	involves	terminal ileum
+regional enteritis	involves	small intestine
+regional enteritis	involves	colon
+ulcerative colitis	involves	colon
+ulcerative colitis	involves	rectum
+regional enteritis	has	transmural inflammation
+regional enteritis	causes	fistula
+regional enteritis	causes	stricture
+regional enteritis	causes	abscess
+ulcerative colitis	causes	diarrhea
+ulcerative colitis	causes	rectal bleeding
+ulcerative colitis	leads to	colon cancer risk
+regional enteritis	leads to	fistula formation
+regional enteritis	leads to	malabsorption
+ulcerative colitis	leads to	colorectal cancer
+regional enteritis	presents with	abdominal pain
+regional enteritis	presents with	weight loss
+regional enteritis	presents with	fever
+regional enteritis	presents with	nocturnal symptoms
+ulcerative colitis	presents with	bloody diarrhea
+ulcerative colitis	presents with	tenesmus
+ulcerative colitis	presents with	urgency
+ulcerative colitis	presents with	abdominal pain
+regional enteritis	diagnosed by	colonoscopy
+regional enteritis	diagnosed by	imaging
+ulcerative colitis	diagnosed by	colonoscopy
+ulcerative colitis	diagnosed by	biopsy
+biopsy	shows	granuloma
+biopsy	shows	chronic inflammatory infiltrate
+colonoscopy	visualizes	mucosal ulcers
+colonoscopy	visualizes	pseudopolyps
+imaging	reveals	bowel wall thickening
+imaging	reveals	skip lesions
+fecal calprotectin	is a marker for	intestinal inflammation
+C-reactive protein	is a marker for	inflammation
+erythrocyte sedimentation rate	is a marker for	inflammation
+anemia	associated with	inflammatory bowel disease
+iron deficiency anemia	associated with	Crohn's disease
+hypoalbuminemia	associated with	inflammatory bowel disease
+osteoporosis	associated with	inflammatory bowel disease
+bone mineral density	decreases with	inflammatory bowel disease
+malnutrition	associated with	inflammatory bowel disease
+growth failure	associated with	pediatric Crohn's disease
+smoking	increases risk of	Crohn's disease
+smoking	worsens	Crohn's disease course
+corticosteroids	treat	active disease
+corticosteroids	cause	weight gain
+corticosteroids	cause	osteoporosis
+5-aminosalicylic acid	treat	ulcerative colitis
+azathioprine	treat	Crohn's disease
+azathioprine	treat	ulcerative colitis
+infliximab	treat	Crohn's disease
+infliximab	treat	fistula in Crohn's disease
+adalimumab	treat	Crohn's disease
+adalimumab	treat	ulcerative colitis
+vedolizumab	treat	inflammatory bowel disease
+ustekinumab	treat	Crohn's disease
+ustekinumab	treat	ulcerative colitis
+methotrexate	treat	Crohn's disease
+methotrexate	treat	ulcerative colitis
+surgery	may be required for	Crohn's disease
+surgery	may be required for	ulcerative colitis
+ileocecal resection	is performed for	Crohn's disease
+colectomy	is performed for	ulcerative colitis
+colectomy	results in	ileostomy
+ileostomy	is a	stoma
+fistula	may require	surgery
+abscess	may require	drainage
+stricture	may require	dilation
+resection	may be performed for	Crohn's disease
+anastomosis	is created during	bowel resection
+ostomy	is a	stoma
+stoma	requires	ostomy care
+pouchitis	occurs with	ulcerative colitis
+family history	increases risk of	inflammatory bowel disease
+family history	increases risk of	Crohn's disease
+genetic susceptibility	contributes to	inflammatory bowel disease
+NOD2 gene mutation	associated with	Crohn's disease
+perianal disease	present with	fistula
+perianal disease	present with	abscess
+perianal disease	indicates	Crohn's disease
+pediatric Crohn's disease	has	growth delay
+nutritional deficiency	associated with	Crohn's disease
+colitis-associated cancer	arises from	ulcerative colitis
+surveillance colonoscopy	recommended for	ulcerative colitis
+colonoscopy	used for	cancer surveillance
+bone density testing	used for	osteoporosis screening
+nutrition assessment	used for	malnutrition screening
+smoking cessation	recommended for	Crohn's disease management
+exclusive enteral nutrition	used for	pediatric Crohn's disease
+anti-TNF therapy	associated with	fistula closure
+infliximab	associated with	fistula closure
+adalimumab	associated with	mucosal healing
+biologic therapy	includes	anti-TNF agents
+anti-TNF agents	include	infliximab
+anti-TNF agents	include	adalimumab
+immunomodulators	maintain	remission

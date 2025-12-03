@@ -1,0 +1,100 @@
+impulse control disorders	is a	psychiatric disorder
+impulse control disorders	associated with	ADHD
+impulse control disorders	associated with	bipolar disorder
+impulse control disorders	associated with	major depressive disorder
+impulse control disorders	associated with	anxiety disorder
+impulse control disorders	associated with	substance use disorder
+impulse control disorders	associated with	nicotine dependence
+impulse control disorders	associated with	alcohol use disorder
+impulse control disorders	associated with	cannabis use disorder
+impulse control disorders	associated with	borderline personality disorder
+impulse control disorders	associated with	schizophrenia
+impulse control disorders	associated with	autism spectrum disorder
+impulse control disorders	associated with	post-traumatic stress disorder
+impulse control disorders	associated with	obsessive-compulsive disorder
+impulse control disorders	associated with	self-harm
+impulse control disorders	associated with	suicidality
+impulse control disorders	associated with	aggression
+impulse control disorders	associated with	violence
+impulse control disorders	associated with	incarceration
+impulse control disorders	includes	intermittent explosive disorder
+impulse control disorders	includes	kleptomania
+impulse control disorders	includes	pyromania
+impulse control disorders	includes	gambling disorder
+impulse control disorders	includes	trichotillomania
+impulse control disorders	includes	skin picking disorder
+impulse control disorders	treated with	cognitive-behavioral therapy
+impulse control disorders	treated with	habit reversal therapy
+impulse control disorders	treated with	exposure therapy
+impulse control disorders	treated with	sertraline
+impulse control disorders	treated with	fluoxetine
+impulse control disorders	treated with	citalopram
+impulse control disorders	treated with	paroxetine
+impulse control disorders	treated with	venlafaxine
+impulse control disorders	treated with	bupropion
+impulse control disorders	treated with	naltrexone
+impulse control disorders	treated with	topiramate
+impulse control disorders	treated with	lithium
+impulse control disorders	treated with	valproate
+impulse control disorders	diagnosed by	DSM-5 criteria
+impulse control disorders	diagnosed by	clinical evaluation
+impulse control disorders	diagnosed by	structured interview
+impulse control disorders	assessed with	Barratt Impulsiveness Scale
+impulse control disorders	assessed with	impulsivity questionnaire
+impulse control disorders	associated with	brain injury
+impulse control disorders	associated with	frontal lobe dysfunction
+impulse control disorders	associated with	sleep disturbance
+impulse control disorders	associated with	stress exposure
+impulse control disorders	predicts	readmission
+impulse control disorders	predicts	mortality
+impulse control disorders	associated with	socioeconomic status
+impulse control disorders	associated with	obesity
+impulse control disorders	associated with	metabolic syndrome
+impulse control disorders	associated with	hypertension
+impulse control disorders	associated with	liver disease
+impulse control disorders	associated with	diabetes
+impulse control disorders	increases	healthcare utilization
+impulse control disorders	increases	emergency visits
+impulse control disorders	associated with	anemia
+impulse control disorders	associated with	chronic pain
+impulse control disorders	associated with	sleep apnea
+impulse control disorders	linked with	reckless driving
+impulse control disorders	linked with	financial risk
+impulse control disorders	linked with	job loss
+impulse control disorders	linked with	legal problems
+impulse control disorders	linked with	relationship disruption
+impulse control disorders	prevalent in	males
+impulse control disorders	prevalent in	females
+impulse control disorders	age of onset	adolescence
+impulse control disorders	age of onset	adulthood
+impulse control disorders	prognosis	variable
+impulse control disorders	associated with	developmental delay
+impulse control disorders	associated with	anxiety symptoms
+impulse control disorders	associated with	depressive symptoms
+impulse control disorders	associated with	psychotic symptoms
+impulse control disorders	associated with	nutritional deficiency
+impulse control disorders	responsive to	cognitive-behavioral therapy
+impulse control disorders	responsive to	pharmacotherapy
+impulse control disorders	responsive to	combination therapy
+impulse control disorders	risk factor for	self-harm
+impulse control disorders	risk factor for	suicide attempt
+impulse control disorders	risk factor for	injury
+impulse control disorders	risk factor for	hospitalization
+impulse control disorders	risk factor for	unemployment
+impulse control disorders	risk factor for	homelessness
+impulse control disorders	associated with	impulsivity level
+impulse control disorders	associated with	reward processing abnormalities
+impulse control disorders	associated with	cortisol levels
+impulse control disorders	associated with	dopamine dysregulation
+impulse control disorders	associated with	pain syndromes
+impulse control disorders	addressed with	cognitive-behavioral therapy
+impulse control disorders	addressed with	pharmacotherapy
+impulse control disorders	addressed with	psychotherapy
+impulse control disorders	described as	behavioral dyscontrol
+impulse control disorders	named in	DSM-5
+impulse control disorders	part of	behavioral addiction spectrum
+impulse control disorders	research focus on	impulse control mechanisms
+impulse control disorders	presence in	adolescence
+impulse control disorders	presence in	adulthood
+impulse control disorders	improving prognosis with	early intervention
+impulse control disorders	predictive factor for	treatment response

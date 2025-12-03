@@ -1,0 +1,100 @@
+E codes	indicate	external causes
+E codes	classify	external cause
+E codes	code for	injury
+E codes	code for	poisoning
+E codes	map to	ICD system
+E codes	used in	discharge data
+E codes	correlate with	mortality
+E codes	predict	readmission
+E codes	associated with	accident
+E codes	reflect	mechanism
+external causes	include	injuries
+external causes	common in	traffic accident
+external causes	linked to	hospitalization
+injury	coded by	E code
+poisoning	coded by	E code
+fall	coded by	E code
+burn	coded by	E code
+overdose	coded by	E code
+drowning	coded by	E code
+assault	coded by	E code
+E codes	used to	categorize injuries
+E codes	used for	billing
+E codes	support	public health surveillance
+E codes	facilitate	trend analysis
+E codes	augment	coding accuracy
+E codes	enable	risk adjustment
+E codes	influence	reimbursement policy
+ICD system	includes	E codes
+ICD system	provides	external cause categories
+ICD system	updated by	coding guidelines
+coding guidelines	define	E codes usage
+coding guidelines	specify	unspecified codes
+E codes	allow	data standardization
+external cause	drive	injury severity
+injury	affects	length of stay
+injury	increases	readmission risk
+poisoning	increases	mortality risk
+fall	increases	fracture risk
+burn	increases	complication rate
+overdose	increases	ICU admission
+drowning	increases	mortality
+E codes	contribute to	patient safety monitoring
+E codes	used in	claims data
+E codes	rely on	accurate documentation
+documentation	supports	E code coding
+claims data	used for	safety surveillance
+surveillance	improves	reporting accuracy
+reporting	drives	billing accuracy
+billing	influences	coverage decisions
+admission	driven by	external causes
+length of stay	determines	discharge destination
+readmission	associated with	discharge planning quality
+discharge planning	affects	readmission risk
+readmission risk	correlates with	discharge delay
+coding error	impacts	data quality
+data quality	affects	predictive performance
+predictive performance	relates to	data completeness
+completeness	affects	accuracy
+accuracy	improves	prediction reliability
+missing data	degrade	model performance
+E codes	reflect	population risk
+population risk	informs	resource allocation
+resource allocation	affects	service delivery
+service delivery	influences	patient flow
+patient flow	impacts	bed occupancy
+bed occupancy	affects	hospital throughput
+hospital throughput	relates to	admission rate
+admission rate	predicts	readmission risk
+readmission risk	drives	care coordination
+care coordination	improves	outcomes
+outcomes	tracked by	E codes
+E codes	bolster	epidemiology
+epidemiology	supports	health policy
+health policy	guided by	injury data
+injury data	feed	ICD coding updates
+ICD coding updates	improve	coding accuracy
+coding accuracy	enhances	reimbursement decisions
+reimbursement decisions	depend on	coding accuracy
+coding system	standardizes	coding across institutions
+coding across institutions	enables	data pooling
+data pooling	enables	comparative research
+comparative research	informs	resource planning
+resource planning	supports	capacity planning
+capacity planning	reduces	wait times
+wait times	reflect	patient backlog
+wait times	correlate with	E code usage
+E code usage	varies by	region
+region	influence	coding practices
+coding practices	affect	documentation quality
+documentation quality	drives	compliance
+compliance	impacts	audit outcome
+audit outcome	influences	penalties
+penalties	motivate	coding accuracy
+awareness campaign	improve	documentation
+documentation	supports	legal compliance
+legal compliance	reduces	liability risk
+liability risk	affects	insurance premiums
+insurance premiums	depend on	coding accuracy
+coding accuracy	reduces	billing errors
+billing errors	cause	claim denial

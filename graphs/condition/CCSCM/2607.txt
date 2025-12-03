@@ -1,0 +1,100 @@
+motor vehicle crash	causes	head injury
+motor vehicle crash	causes	traumatic brain injury
+motor vehicle crash	causes	skull fracture
+motor vehicle crash	causes	cervical spine fracture
+motor vehicle crash	causes	thoracic trauma
+motor vehicle crash	causes	rib fracture
+motor vehicle crash	causes	pneumothorax
+motor vehicle crash	causes	hemothorax
+motor vehicle crash	causes	pulmonary contusion
+motor vehicle crash	causes	diaphragmatic rupture
+motor vehicle crash	causes	abdominal injury
+motor vehicle crash	causes	splenic injury
+motor vehicle crash	causes	liver injury
+motor vehicle crash	causes	kidney injury
+motor vehicle crash	causes	pancreatic injury
+motor vehicle crash	causes	small bowel injury
+motor vehicle crash	causes	colon injury
+motor vehicle crash	causes	mesenteric injury
+motor vehicle crash	causes	pelvic fracture
+motor vehicle crash	causes	femur fracture
+motor vehicle crash	causes	tibia fracture
+motor vehicle crash	causes	fibula fracture
+motor vehicle crash	causes	humerus fracture
+motor vehicle crash	causes	clavicle fracture
+motor vehicle crash	causes	vertebral fracture
+motor vehicle crash	causes	intracranial hemorrhage
+motor vehicle crash	causes	subdural hematoma
+motor vehicle crash	causes	epidural hematoma
+motor vehicle crash	causes	subarachnoid hemorrhage
+motor vehicle crash	causes	skull base fracture
+motor vehicle crash	causes	facial fracture
+motor vehicle crash	causes	maxillofacial injury
+motor vehicle crash	causes	dental injury
+motor vehicle crash	causes	orbital fracture
+motor vehicle crash	causes	eye injury
+motor vehicle crash	causes	spinal cord injury
+motor vehicle crash	causes	cauda equina injury
+motor vehicle crash	causes	brachial plexus injury
+motor vehicle crash	causes	vascular injury
+motor vehicle crash	causes	soft tissue injury
+motor vehicle crash	causes	crush injury
+motor vehicle crash	causes	burn injury
+motor vehicle crash	causes	amputation
+motor vehicle crash	causes	chest wall injury
+motor vehicle crash	causes	mediastinal injury
+motor vehicle crash	causes	pneumonia
+motor vehicle crash	causes	ARDS
+motor vehicle crash	causes	cardiac contusion
+motor vehicle crash	results in	hospital admission
+motor vehicle crash	results in	ICU admission
+motor vehicle crash	results in	mechanical ventilation
+motor vehicle crash	results in	tracheostomy
+motor vehicle crash	results in	surgical intervention
+motor vehicle crash	results in	blood transfusion
+hospital admission	associated with	motor vehicle crash
+ICU admission	associated with	motor vehicle crash
+mechanical ventilation	associated with	motor vehicle crash
+surgical intervention	associated with	motor vehicle crash
+blood transfusion	associated with	motor vehicle crash
+length of stay	associated with	motor vehicle crash
+discharge disposition	associated with	motor vehicle crash
+readmission	associated with	motor vehicle crash
+mortality	associated with	motor vehicle crash
+rehabilitation need	associated with	motor vehicle crash
+functional outcome	associated with	motor vehicle crash
+cognitive impairment	associated with	head injury
+paralysis	associated with	spinal cord injury
+long-term disability	associated with	spinal cord injury
+polytrauma	common in	motor vehicle crash
+multisystem injury	common in	motor vehicle crash
+seat belt use	reduces	head injury
+seat belt use	reduces	chest trauma
+airbag deployment	reduces	head injury
+vehicle speed	increases	crash severity
+speeding	increases	crash severity
+alcohol involvement	increases	crash severity
+drug involvement	increases	crash severity
+time of day	associated with	crash severity
+weather condition	associated with	crash severity
+night driving	associated with	crash severity
+occupant type	associated with	injury severity
+driver	associated with	fatal injury
+pedestrian	associated with	severe injury
+occupant	associated with	polytrauma
+airbag deployment	indicates	high-energy crash
+seat belt violation	associated with	injury severity
+emergency department visit	follows	motor vehicle crash
+trauma center admission	associated with	motor vehicle crash
+cell salvage	reduces	blood transfusion
+blood product transfusion	associated with	mortality
+ICU length of stay	predicts	mortality
+pneumonia	occurs after	mechanical ventilation
+ventilator-associated pneumonia	arises after	mechanical ventilation
+tracheostomy	indicates	prolonged ventilation
+head injury	predictor of	cognitive impairment
+traumatic brain injury	predictor of	cognitive impairment
+spinal cord injury	predictor of	long-term disability
+head injury	predictor of	seizures
+rehabilitation outcome	associated with	functional independence
+external cause code	represents	motor vehicle crash

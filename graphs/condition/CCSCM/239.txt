@@ -1,0 +1,100 @@
+contusion	is a	injury
+contusion	caused by	blunt trauma
+contusion	results in	ecchymosis
+contusion	results in	swelling
+contusion	presents with	pain
+contusion	presents with	tenderness
+contusion	presents with	bruising
+contusion	may cause	hematoma
+contusion	occurs in	soft tissue
+contusion	occurs in	subcutaneous tissue
+contusion	is a type of	superficial injury
+contusion	diagnosed by	physical examination
+contusion	diagnosed by	imaging
+contusion	diagnosed by	ultrasound
+contusion	diagnosed by	MRI
+contusion	resolves in	days
+contusion	heals with	rest
+contusion	heals with	ice
+contusion	managed with	compression
+contusion	managed with	elevation
+contusion	managed with	analgesia
+contusion	observed in	clinic
+contusion	risk factor	obesity
+contusion	risk factor	diabetes
+contusion	risk factor	anticoagulation
+contusion	associated with	hemorrhagic tendency
+contusion	may lead to	infection
+contusion	may lead to	scar formation
+contusion	may lead to	pigment changes
+contusion	differential diagnosis includes	laceration
+contusion	differential diagnosis includes	fracture
+contusion	evaluated by	ultrasound
+contusion	evaluated by	MRI
+contusion	location	thigh
+contusion	location	forearm
+contusion	location	calf
+contusion	location	head
+contusion	location	face
+contusion	location	scalp
+contusion	location	knee
+contusion	location	arm
+contusion	associated with	edema
+contusion	associated with	ecchymosis
+contusion	visible as	bruise
+contusion	present as	bruise
+contusion	correlates with	swelling
+contusion	correlates with	tenderness
+contusion	correlates with	pain
+contusion	correlates with	erythema
+contusion	seen in	emergency department
+contusion	follow-up in	clinic
+contusion	requires	evaluation
+contusion	requires	follow-up
+contusion	injury context	sports
+contusion	injury context	fall
+contusion	occurs with	abrasion
+contusion	treated with	cold therapy
+contusion	time to improvement	days
+contusion	results in	functional limitation
+contusion	results in	reduced range of motion
+contusion	associated with	joint swelling
+contusion	linked to	trauma history
+contusion	linked to	obesity
+contusion	correlated with	platelet count
+contusion	correlated with	coagulopathy
+contusion	occurs after	impact
+contusion	common in	athletes
+contusion	common in	males
+contusion	common in	females
+contusion	can lead to	hematoma expansion
+contusion	may require	imaging follow-up
+contusion	reduces	mobility
+contusion	contributes to	pain burden
+contusion	associated with	sleep disturbance
+contusion	present in	elderly patients
+contusion	present in	pediatric patients
+contusion	occurs after	accident
+contusion	occurs after	fall
+contusion	influenced by	activity level
+contusion	influenced by	hydration status
+contusion	influenced by	nutrition status
+contusion	monitored with	serial examination
+contusion	is defined as	bruise
+contusion	synonym	bruise
+contusion	results in	microhematoma
+contusion	associated with	subcutaneous hemorrhage
+contusion	yields	edema
+contusion	accompanied by	soreness
+contusion	common in	contact sports
+contusion	observed with	discoloration
+contusion	allows	return to work
+contusion	risk factor for	further injury
+contusion	part of	soft tissue injury spectrum
+contusion	characterized by	ecchymosis
+contusion	observed in	hospital
+contusion	surveillance in	hospital
+contusion	associated with	bruise color change
+contusion	may present with	numbness
+contusion	may display	palsy
+contusion	may cause	scarring

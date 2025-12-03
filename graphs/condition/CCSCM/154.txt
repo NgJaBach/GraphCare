@@ -1,0 +1,150 @@
+noninfectious gastroenteritis	causes	diarrhea
+noninfectious gastroenteritis	presents with	abdominal pain
+noninfectious gastroenteritis	presents with	vomiting
+noninfectious gastroenteritis	presents with	nausea
+noninfectious gastroenteritis	presents with	cramps
+noninfectious gastroenteritis	associated with	dehydration
+noninfectious gastroenteritis	associated with	electrolyte imbalance
+noninfectious gastroenteritis	triggered by	drug exposure
+noninfectious gastroenteritis	triggered by	food intolerance
+noninfectious gastroenteritis	caused by	autoimmune reaction
+noninfectious gastroenteritis	caused by	ischemia
+noninfectious gastroenteritis	caused by	radiation exposure
+noninfectious gastroenteritis	associated with	inflammatory bowel disease
+noninfectious gastroenteritis	associated with	celiac disease
+noninfectious gastroenteritis	associated with	pancreatitis
+noninfectious gastroenteritis	differential diagnosis includes	infectious gastroenteritis
+noninfectious gastroenteritis	differential diagnosis includes	irritable bowel syndrome
+noninfectious gastroenteritis	diagnosed by	clinical evaluation
+noninfectious gastroenteritis	diagnosed by	stool culture negative
+noninfectious gastroenteritis	evaluated with	stool analysis
+noninfectious gastroenteritis	evaluated with	fecal calprotectin
+noninfectious gastroenteritis	evaluated with	complete blood count
+noninfectious gastroenteritis	managed with	oral rehydration solution
+noninfectious gastroenteritis	managed with	intravenous fluids
+noninfectious gastroenteritis	managed with	hydration therapy
+noninfectious gastroenteritis	treated with	antiemetic
+noninfectious gastroenteritis	treated with	antidiarrheal agent
+noninfectious gastroenteritis	treated with	corticosteroid
+noninfectious gastroenteritis	treated with	proton pump inhibitor
+noninfectious gastroenteritis	prognosis	self-limited course
+noninfectious gastroenteritis	prognosis	favorable outcome
+noninfectious gastroenteritis	complication	dehydration
+noninfectious gastroenteritis	complication	electrolyte disturbance
+noninfectious gastroenteritis	complication	malnutrition
+noninfectious gastroenteritis	risk factor	recent antibiotic exposure
+noninfectious gastroenteritis	risk factor	immune dysfunction
+noninfectious gastroenteritis	risk factor	older age
+noninfectious gastroenteritis	risk factor	hospitalization
+noninfectious gastroenteritis	prevention	hydration
+noninfectious gastroenteritis	prevention	food safety
+noninfectious gastroenteritis	prevention	hand hygiene
+noninfectious gastroenteritis	recurrence	rare
+noninfectious gastroenteritis	monitoring	weight change
+noninfectious gastroenteritis	monitoring	stool frequency
+noninfectious gastroenteritis	monitoring	hydration status
+noninfectious gastroenteritis	follow-up	GI consultation
+noninfectious gastroenteritis	follow-up	symptom resolution
+noninfectious gastroenteritis	follow-up	weight stabilization
+noninfectious gastroenteritis	population	pediatric patients
+noninfectious gastroenteritis	population	elderly patients
+noninfectious gastroenteritis	association	lactose intolerance
+noninfectious gastroenteritis	association	food allergy
+noninfectious gastroenteritis	association	autoimmune colitis
+noninfectious gastroenteritis	association	radiation enteritis
+noninfectious gastroenteritis	association	chemotherapy
+noninfectious gastroenteritis	laboratory marker	leukocyte count elevation
+noninfectious gastroenteritis	laboratory marker	fecal leukocytes
+noninfectious gastroenteritis	laboratory marker	fecal calprotectin elevation
+noninfectious gastroenteritis	clinical feature	mucus in stool
+noninfectious gastroenteritis	clinical feature	abdominal tenderness
+noninfectious gastroenteritis	imaging	abdominal ultrasound
+noninfectious gastroenteritis	imaging	CT scan
+noninfectious gastroenteritis	therapy	hydration
+noninfectious gastroenteritis	therapy	nutrition modification
+noninfectious gastroenteritis	therapy	electrolyte correction
+noninfectious gastroenteritis	outpatient care	recommended
+noninfectious gastroenteritis	inpatient care	recommended
+noninfectious gastroenteritis	outcome	resolution without sequelae
+noninfectious gastroenteritis	outcome	temporary discomfort
+noninfectious gastroenteritis	mechanism	mucosal inflammation
+noninfectious gastroenteritis	mechanism	mucosal edema
+noninfectious gastroenteritis	epidemiology	seasonal variation
+noninfectious gastroenteritis	epidemiology	age distribution
+noninfectious gastroenteritis	clinical course	variable
+noninfectious gastroenteritis	clinical course	self-limited
+noninfectious gastroenteritis	clinical presentation	diarrhea-predominant
+noninfectious gastroenteritis	clinical presentation	mucus in stool
+noninfectious gastroenteritis	clinical presentation	abdominal tenderness
+noninfectious gastroenteritis	imaging	abdominal ultrasound
+noninfectious gastroenteritis	imaging	CT scan
+noninfectious gastroenteritis	therapy	hydration
+noninfectious gastroenteritis	therapy	nutrition modification
+noninfectious gastroenteritis	therapy	electrolyte correction
+noninfectious gastroenteritis	outpatient care	recommended
+noninfectious gastroenteritis	inpatient care	recommended
+noninfectious gastroenteritis	outcome	resolution without sequelae
+noninfectious gastroenteritis	outcome	temporary discomfort
+noninfectious gastroenteritis	mechanism	mucosal inflammation
+noninfectious gastroenteritis	mechanism	mucosal edema
+noninfectious gastroenteritis	epidemiology	seasonal variation
+noninfectious gastroenteritis	epidemiology	age distribution
+noninfectious gastroenteritis	clinical course	variable
+noninfectious gastroenteritis	clinical course	self-limited
+noninfectious gastroenteritis	population	pediatric patients
+noninfectious gastroenteritis	population	elderly patients
+noninfectious gastroenteritis	association	lactose intolerance
+noninfectious gastroenteritis	association	food allergy
+noninfectious gastroenteritis	association	autoimmune colitis
+noninfectious gastroenteritis	association	radiation enteritis
+noninfectious gastroenteritis	association	chemotherapy
+noninfectious gastroenteritis	laboratory marker	leukocyte count elevation
+noninfectious gastroenteritis	laboratory marker	fecal leukocytes
+noninfectious gastroenteritis	laboratory marker	fecal calprotectin elevation
+noninfectious gastroenteritis	clinical feature	mucus in stool
+noninfectious gastroenteritis	clinical feature	abdominal tenderness
+noninfectious gastroenteritis	imaging	abdominal ultrasound
+noninfectious gastroenteritis	imaging	CT scan
+noninfectious gastroenteritis	therapy	hydration
+noninfectious gastroenteritis	therapy	nutrition modification
+noninfectious gastroenteritis	therapy	electrolyte correction
+noninfectious gastroenteritis	outpatient care	recommended
+noninfectious gastroenteritis	inpatient care	recommended
+noninfectious gastroenteritis	outcome	resolution without sequelae
+noninfectious gastroenteritis	outcome	temporary discomfort
+noninfectious gastroenteritis	mechanism	mucosal inflammation
+noninfectious gastroenteritis	mechanism	mucosal edema
+noninfectious gastroenteritis	epidemiology	seasonal variation
+noninfectious gastroenteritis	epidemiology	age distribution
+noninfection gastroenteritis	clinical course	variable
+noninfectious gastroenteritis	clinical course	self-limited
+noninfectious gastroenteritis	population	pediatric patients
+noninfectious gastroenteritis	population	elderly patients
+noninfectious gastroenteritis	association	lactose intolerance
+noninfectious gastroenteritis	association	food allergy
+noninfectious gastroenteritis	association	autoimmune colitis
+noninfectious gastroenteritis	association	radiation enteritis
+noninfectious gastroenteritis	association	chemotherapy
+noninfectious gastroenteritis	laboratory marker	leukocyte count elevation
+noninfectious gastroenteritis	laboratory marker	fecal leukocytes
+noninfectious gastroenteritis	laboratory marker	fecal calprotectin elevation
+noninfectious gastroenteritis	clinical feature	mucus in stool
+noninfectious gastroenteritis	clinical feature	abdominal tenderness
+noninfectious gastroenteritis	imaging	abdominal ultrasound
+noninfectious gastroenteritis	imaging	CT scan
+noninfectious gastroenteritis	therapy	hydration
+noninfectious gastroenteritis	therapy	nutrition modification
+noninfectious gastroenteritis	therapy	electrolyte correction
+noninfectious gastroenteritis	outpatient care	recommended
+noninfectious gastroenteritis	inpatient care	recommended
+noninfectious gastroenteritis	outcome	resolution without sequelae
+noninfectious gastroenteritis	outcome	temporary discomfort
+noninfectious gastroenteritis	mechanism	mucosal inflammation
+noninfectious gastroenteritis	mechanism	mucosal edema
+noninfectious gastroenteritis	epidemiology	seasonal variation
+noninfectious gastroenteritis	epidemiology	age distribution
+noninfectious gastroenteritis	clinical course	variable
+noninfectious gastroenteritis	clinical course	self-limited
+noninfectious gastroenteritis	population	pediatric patients
+noninfectious gastroenteritis	population	elderly patients
+noninfectious gastroenteritis	association	lactose intolerance

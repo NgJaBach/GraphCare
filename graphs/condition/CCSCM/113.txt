@@ -1,0 +1,213 @@
+stroke	causes	hemiparesis
+stroke	causes	hemiplegia
+stroke	causes	aphasia
+stroke	causes	dysarthria
+stroke	causes	apraxia
+stroke	causes	ataxia
+stroke	causes	facial palsy
+stroke	causes	spasticity
+stroke	causes	contracture
+stroke	causes	shoulder pain
+post-stroke syndrome	is associated with	depression
+post-stroke syndrome	is associated with	anxiety
+vascular dementia	is a	cognitive disorder
+vascular cognitive impairment	progresses to	vascular dementia
+vascular dementia	causes	functional dependence
+stroke	leads to	functional disability
+functional disability	leads to	caregiver burden
+caregiver burden	increases	patient distress
+stroke	increases	pneumonia
+stroke	increases	urinary tract infection
+stroke	increases	urinary incontinence
+stroke	increases	fecal incontinence
+pneumonia	leads to	hospitalization
+urinary incontinence	leads to	skin breakdown
+skin breakdown	leads to	pressure ulcer
+pressure ulcer	leads to	infection
+dysphagia	leads to	aspiration
+dysphagia	leads to	dehydration
+central post-stroke pain	is a	neuropathic pain syndrome
+hemiparesis	causes	gait disturbance
+gait disturbance	increases	fall risk
+ataxia	leads to	balance disorder
+balance disorder	increases	fall risk
+shoulder pain	leads to	limited range of motion
+spasticity	leads to	contracture
+contracture	leads to	joint deformity
+joint deformity	reduces	mobility
+aphasia	leads to	communication impairment
+dysarthria	leads to	speech impairment
+apraxia	leads to	speech disorder
+stroke	causes	cognitive impairment
+cognitive impairment	leads to	memory loss
+memory loss	leads to	impairment of daily living
+cognitive impairment	leads to	functional impairment
+cognitive impairment	increases	caregiver burden
+vascular dementia	is associated with	motor impairment
+vascular dementia	increases	mortality risk
+post-stroke aphasia	reduces	communication ability
+recurrent stroke	increases	disability
+recurrent stroke	increases	mortality
+recurrent stroke	increases	readmission
+readmission	is associated with	functional decline
+functional status	predicts	discharge destination
+discharge destination	depends on	caregiver support
+caregiver support	reduces	caregiver burden
+shoulder pain	leads to	reduced mobility
+immobility	leads to	contracture
+immobility	leads to	deconditioning
+deconditioning	increases	fall risk
+falls	cause	fracture
+fracture	leads to	prolonged hospitalization
+sleep disturbance	is common after	stroke
+sleep disturbance	contributes to	fatigue
+fatigue	reduces	activity tolerance
+activity tolerance	predicts	functional recovery
+rehabilitation	improves	ADL independence
+ADL independence	depends on	motor recovery
+ADL independence	correlates with	quality of life
+stroke	reduces	quality of life
+rehabilitation	improves	quality of life
+vascular risk factors	persist after	stroke
+hypertension	persists after	stroke
+diabetes mellitus	persists after	stroke
+atrial fibrillation	persists after	stroke
+caregiver training	reduces	patient distress
+epilepsy	develops after	stroke
+epilepsy	increases	risk of injury
+post-stroke fatigue	is associated with	reduced physical activity
+dysphagia	improves with	therapy
+speech therapy	improves	speech intelligibility
+occupational therapy	enhances	activities of daily living
+home health	reduces	readmission risk
+nursing home admission	increases	caregiver burden
+home health services	reduces	readmission risk
+recurrent stroke	increases	disability
+antiplatelet therapy	reduces	recurrent stroke risk
+antihypertensive therapy	reduces	stroke recurrence
+statin therapy	reduces	stroke risk
+rehabilitation intensity	improves	functional outcome
+aphasia rehabilitation	improves	language function
+family support	improves	patient resilience
+social support	reduces	caregiver burden
+depression	impacts	quality of life
+emotional lability	amplifies	caregiver stress
+pseudobulbar affect	is a	emotional symptom
+spasticity	reduces	motor function
+orthostatic intolerance	occurs after	stroke
+dysphagia	predisposes to	malnutrition
+malnutrition	increases	infection risk
+stroke	causes	hemiparesis
+stroke	causes	spasticity
+stroke	causes	gait disturbance
+stroke	causes	sensory loss
+stroke	causes	aphasia
+stroke	causes	dysarthria
+stroke	causes	neglect
+stroke	leads to	cognitive impairment
+stroke	leads to	memory impairment
+stroke	leads to	executive dysfunction
+stroke	leads to	attention deficit
+stroke	leads to	visuospatial deficit
+stroke	leads to	post-stroke depression
+post-stroke depression	reduces	quality of life
+stroke	increases	dementia risk
+post-stroke dementia	worsens	prognosis
+stroke	causes	central post-stroke pain
+central post-stroke pain	leads to	chronic pain
+central post-stroke pain	reduces	activity
+stroke	causes	sleep disturbance
+sleep disturbance	reduces	daytime function
+stroke	causes	fatigue
+fatigue	reduces	endurance
+stroke	causes	anxiety
+anxiety	reduces	rehab adherence
+stroke	causes	depression
+depression	reduces	motivation
+stroke	causes	dysphagia
+dysphagia	leads to	aspiration
+aspiration	leads to	pneumonia
+dysphagia	increases	malnutrition risk
+malnutrition	slows	recovery
+stroke	causes	weight change
+weight change	affects	functional recovery
+stroke	causes	pressure ulcers
+immobility	increases	pressure ulcers
+pressure ulcers	increase	infection risk
+stroke	causes	contractures
+contractures	limit	range of motion
+stroke	increases	wheelchair dependence
+wheelchair dependence	reduces	mobility
+stroke	causes	disability
+disability	increases	caregiver burden
+caregiver burden	reduces	patient engagement
+stroke	requires	rehabilitation
+rehabilitation	improves	functional outcome
+occupational therapy	improves	daily living
+physical therapy	improves	mobility
+speech therapy	improves	language function
+swallowing therapy	improves	swallow function
+assistive devices	enables	independence
+home modification	improves	safety
+occupational therapy	reduces	dependence
+rehabilitation intensity	correlates with	functional gain
+stroke	leads to	unemployment
+unemployment	increases	caregiver burden
+stroke	increases	readmission risk
+readmission risk	correlates with	functional status
+post-stroke	increases	healthcare utilization
+late complications	include	disability
+seizure	occurs	after stroke
+post-stroke seizure	increases	morbidity
+post-stroke seizure	increases	mortality risk
+stroke	increases	seizure risk
+central sleep apnea	occurs	stroke
+aphasia	persists	post-stroke condition
+dysarthria	persists	post-stroke condition
+visual field deficit	persists	post-stroke condition
+hemianopia	impairs	driving ability
+driving ability	reduces	independence
+apraxia	impairs	daily activities
+neglect	impairs	safety awareness
+cognitive impairment	increases	caregiver burden
+memory impairment	reduces	independence
+executive dysfunction	reduces	problem-solving
+attention deficit	reduces	concentration
+visuospatial deficit	increases	collision risk
+central post-stroke pain	persists	long-term
+pain	reduces	participation
+fatigue	increases	risk of falls
+weight change	affects	energy level
+osteoporosis	develops	after immobility
+bone fracture	occurs	after fall
+incontinence	persists	after stroke
+urinary incontinence	persists	after stroke
+fecal incontinence	persists	after stroke
+urinary incontinence	increases	skin breakdown
+neurogenic bladder	causes	urinary incontinence
+immobility	causes	osteoporosis
+pressure ulcer	persists	chronicity
+caregiver burnout	occurs	after stroke
+caregiver burnout	predicts	hospital readmission
+caregiver support	improves	rehabilitation adherence
+stroke survivors	require	long-term support
+neurorehabilitation	improves	outcomes
+telerehabilitation	increases	access to care
+post-stroke disability	reduces	independence
+stroke survivors	have	neurological deficits
+stroke	results in	motor impairment
+stroke	results in	cognitive impairment
+stroke	results in	communication impairment
+stroke	results in	emotional lability
+stroke	results in	caregiver burden
+stroke	results in	functional dependence
+stroke	results in	activity limitation
+stroke	results in	falls risk
+stroke	results in	chronic pain
+stroke	results in	fatigue
+stroke	results in	sleep disturbance
+stroke	results in	headaches
+stroke	results in	dysphagia
+stroke	results in	pain with movement
+stroke	results in	skin breakdown
+stroke	results in	dehydration risk

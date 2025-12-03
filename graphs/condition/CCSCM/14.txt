@@ -1,0 +1,100 @@
+colon cancer	is a	malignant tumor of colon
+colon cancer	arises from	adenomatous polyp
+colon cancer	metastasizes to	liver
+colon cancer	metastasizes to	lungs
+colon cancer	metastasizes to	peritoneum
+colon cancer	risk factor	age
+colon cancer	risk factor	family history
+colon cancer	risk factor	inflammatory bowel disease
+colon cancer	risk factor	obesity
+colon cancer	risk factor	smoking
+colon cancer	risk factor	red meat intake
+colon cancer	precursor lesion	adenomatous polyp
+colon cancer	precursor lesion	serrated polyp
+colon cancer	associated syndrome	Lynch syndrome
+colon cancer	associated syndrome	familial adenomatous polyposis
+colon cancer	common mutation	APC
+colon cancer	common mutation	KRAS
+colon cancer	common mutation	TP53
+colon cancer	common mutation	PIK3CA
+colon cancer	molecular pathway	chromosomal instability
+colon cancer	molecular pathway	microsatellite instability
+colon cancer	staging system	AJCC TNM
+colon cancer	prognosis	five-year survival
+colon cancer	prognosis	overall survival
+colon cancer	treatment	colectomy
+colon cancer	treatment	colectomy with primary anastomosis
+colon cancer	treatment	partial colectomy
+colon cancer	treatment	lymphadenectomy
+colon cancer	adjuvant therapy	chemotherapy
+colon cancer	treatment	chemotherapy
+colon cancer	treatment	targeted therapy
+colon cancer	targeted therapy	anti-EGFR therapy
+colon cancer	treatment	immunotherapy
+colon cancer	treatment	radiotherapy
+colon cancer	follow-up	colonoscopy
+colon cancer	follow-up	CEA monitoring
+colon cancer	complication	bowel obstruction
+colon cancer	complication	perforation
+colon cancer	complication	anastomotic leak
+colon cancer	complication	anemia
+colon cancer	symptom	hematochezia
+colon cancer	symptom	abdominal pain
+colon cancer	symptom	weight loss
+colon cancer	symptom	change in bowel habit
+colon cancer	imaging finding	colonic mass
+colon cancer	imaging finding	colonic wall thickening
+colon cancer	imaging modality	CT colonography
+colon cancer	diagnostic test	colonoscopy
+colon cancer	biomarker	CEA
+colon cancer	metastasis site	liver
+colon cancer	metastasis site	lungs
+colon cancer	metastasis site	peritoneum
+colon cancer	recurrence risk	high stage
+colon cancer	recurrence pattern	liver metastasis
+colon cancer	treatment goal	cure
+colon cancer	epidemiology	incidence
+colon cancer	epidemiology	mortality
+colon cancer	histology	adenocarcinoma
+colon cancer	histology	mucinous adenocarcinoma
+colon cancer	histology	signet ring cell carcinoma
+colon cancer	anatomical site	ascending colon
+colon cancer	anatomical site	transverse colon
+colon cancer	anatomical site	descending colon
+colon cancer	anatomical site	sigmoid colon
+colon cancer	screening	fecal occult blood test
+colon cancer	screening	colonoscopy
+colon cancer	prevention	aspirin use
+colon cancer	prognosis factor	lymph node involvement
+colon cancer	prognosis factor	distant metastasis
+colon cancer	prognosis factor	MSI status
+colon cancer	biomarker	CEA level
+colon cancer	surveillance	imaging
+colon cancer	surveillance	CEA testing
+colon cancer	molecular subtype	CMS2
+colon cancer	molecular subtype	CMS1
+colon cancer	tumor	adenocarcinoma
+colon cancer	complication	GI bleeding
+colon cancer	risk factor	hereditary syndrome
+colon cancer	follow-up modality	surveillance colonoscopy
+colon cancer	therapy response	partial response
+colon cancer	therapy response	stable disease
+colon cancer	therapy response	progression
+colon cancer	margin status	negative margin
+colon cancer	margin status	positive margin
+colon cancer	node status	node positive
+colon cancer	genetic alteration	PTEN mutation
+colon cancer	genetic alteration	BRAF mutation
+colon cancer	hereditary risk	familial history
+colon cancer	imaging feature	liver lesion
+colon cancer	staging	TNM stage II
+colon cancer	prognosis	disease-free survival
+colon cancer	symptom	fatigue
+colon cancer	comorbidity	diabetes mellitus
+colon cancer	comorbidity	hypertension
+colon cancer	treated with	irinotecan
+colon cancer	treated with	oxaliplatin
+colon cancer	treated with	5-fluorouracil
+colon cancer	treated with	capecitabine
+colon cancer	prognosis predictor	lymph node metastasis
+colon cancer	prognosis predictor	distant metastasis

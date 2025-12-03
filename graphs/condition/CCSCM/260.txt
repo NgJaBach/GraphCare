@@ -1,0 +1,100 @@
+e code	indicates	injury mechanism
+e code	codes for	fall
+e code	codes for	motor vehicle crash
+e code	codes for	poisoning
+e code	codes for	burn
+e code	codes for	cut
+e code	codes for	drowning
+e code	codes for	assault
+e code	codes for	self harm
+e code	codes for	gunshot wound
+e code	codes for	stab wound
+e code	codes for	machinery injury
+e code	codes for	sports injury
+e code	codes for	pedestrian strike
+e code	codes for	bicycle crash
+e code	codes for	motorcycle crash
+e code	codes for	explosion
+e code	codes for	electrocution
+e code	codes for	fire exposure
+e code	codes for	smoke inhalation
+e code	indicates	intent
+e code	associated with	home
+e code	associated with	street
+e code	associated with	workplace
+e code	associated with	school
+e code	associated with	sports field
+e code	associated with	construction site
+e code	associated with	farm
+e code	associated with	water
+e code	associated with	kitchen
+e code	associated with	playground
+e code	linked to	driving
+e code	linked to	riding
+e code	linked to	running
+e code	linked to	swimming
+e code	linked to	skating
+e code	linked to	cycling
+e code	associated with	death
+e code	associated with	hospitalization
+e code	associated with	long-term disability
+e code	associated with	ICU admission
+e code	used for	epidemiology
+e code	used for	surveillance
+e code	used for	injury prevention
+e code	used for	public health
+e code	used for	risk stratification
+e code	used for	readmission prediction
+e code	maps to	external cause category
+e code	maps to	mechanism category
+e code	maps to	event type category
+e code	maps to	ICD external causes codes
+e code	maps to	injury coding system
+e code	relates to	ICD-9-CM
+e code	relates to	ICD-10-CM
+e code	informs	injury prevention policy
+e code	informs	safety program
+e code	correlates with	age group
+e code	correlates with	sex category
+e code	correlates with	race category
+e code	included in	trauma registry
+e code	included in	national injury dataset
+e code	used in	trauma registry
+e code	used in	hospital administrative data
+e code	evaluated by	coding guidelines
+e code	represents	external cause
+e code	defines	external cause type
+e code	describes	mechanism
+e code	documents	event type
+e code	archives	injury data
+e code	assigns	risk category
+e code	associated with	polytrauma
+e code	associated with	comorbidity burden
+e code	supports	injury trend analysis
+e code	supports	spatial analysis
+e code	supports	temporal analysis
+e code	supports	prevention program planning
+e code	tracks	seasonal variation
+e code	tracks	age-specific injuries
+e code	describes	injury event
+e code	defines	external cause type
+e code	categorizes	mechanism
+e code	records	event type
+e code	updates	coding standard
+e code	streamlines	EMR coding
+e code	triggers	insurance claims
+e code	influences	reimbursement rate
+e code	supports	outcome research
+e code	aids	patient safety initiatives
+e code	relates to	poisoning category
+e code	relates to	burn category
+e code	relates to	fall category
+e code	relates to	MVC category
+e code	relates to	violence category
+e code	relates to	self harm category
+e code	relates to	accidental category
+e code	relates to	intentional category
+e code	supports	public health monitoring
+e code	enables	surveillance reporting
+e code	enriches	injury datasets
+e code	informs	prevention priorities

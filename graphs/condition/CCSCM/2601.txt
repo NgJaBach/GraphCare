@@ -1,0 +1,101 @@
+cut/pierce injury	is coded with	external-cause code
+external-cause code	indicates	mechanism of injury
+external-cause code	indicates	place of occurrence
+external-cause code	indicates	activity at injury
+external-cause code	indicates	intent
+knife	causes	cut/pierce injury
+glass shard	causes	cut/pierce injury
+sharp object	causes	cut/pierce injury
+blade	causes	cut/pierce injury
+needle	causes	puncture wound
+puncture wound	is type of	cut/pierce injury
+occupational hazard	increases	cut/pierce injury risk
+home	is place of occurrence	cut/pierce injury
+workplace	is place of occurrence	cut/pierce injury
+sport activity	is activity at injury	cut/pierce injury
+household task	is activity at injury	cut/pierce injury
+wound	results from	cut/pierce injury
+cut/pierce injury	requires	wound closure
+wound closure	uses	suturing
+suturing	uses	needle and thread
+wound closure	achieves	tissue approximation
+tetanus vaccine	recommended for	cut/pierce injury
+tetanus booster	given for	cut/pierce injury
+antibiotic prophylaxis	used for	contaminated wound
+antibiotics	treat	wound infection
+wound infection	increases	hospitalization duration
+hospitalization	increases	cost
+readmission	possible after	wound complications
+mortality	risk with	severe penetrating injury
+penetrating injury	associated with	hemorrhage
+hemorrhage	requires	transfusion
+transfusion	increases	infection risk
+imaging	guides	surgical planning
+surgical planning	requires	imaging
+operative approach	chosen by	surgeon
+suturing technique	affects	cosmetic outcome
+absorbable suture	used for	wound closure
+nonabsorbable suture	used for	skin closure
+dressing	protects	wound
+glove	reduces	contamination
+sterile technique	reduces	infection risk
+hand hygiene	reduces	infection risk
+education	reduces	wound complications
+follow-up visit	monitors	wound healing
+scar formation	results in	cosmetic concern
+cosmetic outcome	influences	quality of life
+quality of life	affects	readmission risk
+wound healing	depends on	blood supply
+diabetes mellitus	worsens	wound infection risk
+smoking	worsens	wound healing
+vascular disease	delays	wound healing
+age	influences	outcomes
+comorbidity	increases	complication risk
+pain management	improves	patient comfort
+analgesia	provides	pain relief
+tetanus prophylaxis	synchronized with	wound care
+antibiotic prophylaxis	given with	wound care
+proper irrigation	reduces	wound contamination
+antiseptic solution	cleanses	wound
+foreign body	remains in	wound
+foreign body	causes	infection risk
+x-ray	detects	foreign body
+ultrasound	detects	foreign body
+CT scan	detects	foreign body
+trauma center	improves	mortality
+emergency department	treats	cut/pierce injury
+prehospital care	influences	outcome
+time to treatment	affects	mortality
+time to treatment	influences	complication rate
+facility trauma protocol	standardizes	care
+blood loss	leads to	transfusion
+wound irrigation	reduces	contamination
+topical antibiotic	applied to	wound
+vaccine status	influences	infection risk
+infection risk	increases	hospitalization duration
+scar management	reduces	cosmetic concerns
+follow-up care	ensures	wound healing
+preexisting infection	worsens	wound outcome
+foreign body removal	improves	healing
+suture removal	occurs after	healing phase
+sterilization	ensures	equipment safety
+coding accuracy	affects	reimbursement
+e-code accuracy	improves	data quality
+injury surveillance	uses	e-code data
+trauma registry	stores	e-code data
+public health	analyzes	injury data
+injury prevention	targets	high-risk mechanisms
+occupational safety	reduces	work injuries
+knife safety	reduces	cut injuries
+glove use	reduces	puncture injuries
+pocket knife	associated with	cut injuries
+glass	associated with	puncture injuries
+sports equipment	associated with	puncture injuries
+tetanus prophylaxis	recommended with	puncture wounds
+immunization	improves	wound outcomes
+injury severity	correlates with	outcome
+time of injury	records	event time
+preinjury health status	affects	wound outcome
+penetrating injury	requires	surgery
+imaging modality	used for	injury assessment
+foreign body	is found in	wound

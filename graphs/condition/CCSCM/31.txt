@@ -1,0 +1,95 @@
+cancer of other male genital organs	is a	malignant neoplasm
+cancer of other male genital organs	associated with	HPV infection
+cancer of other male genital organs	associated with	smoking
+cancer of other male genital organs	associated with	immunosuppression
+cancer of other male genital organs	associated with	phimosis
+cancer of other male genital organs	associated with	poor hygiene
+cancer of other male genital organs	metastasize to	inguinal lymph nodes
+cancer of other male genital organs	metastasize to	pelvic lymph nodes
+cancer of other male genital organs	metastasize to	liver
+cancer of other male genital organs	metastasize to	lung
+cancer of other male genital organs	metastasize to	bone
+cancer of other male genital organs	presents with	penile mass
+cancer of other male genital organs	presents with	penile lesion
+cancer of other male genital organs	presents with	penile ulcer
+cancer of other male genital organs	presents with	inguinal lymphadenopathy
+cancer of other male genital organs	presents with	weight loss
+cancer of other male genital organs	presents with	fatigue
+cancer of other male genital organs	histology	squamous cell carcinoma
+cancer of other male genital organs	histology	basaloid carcinoma
+cancer of other male genital organs	histology	verrucous carcinoma
+cancer of other male genital organs	origin	penis
+cancer of other male genital organs	risk factor	HPV infection
+cancer of other male genital organs	risk factor	smoking
+cancer of other male genital organs	risk factor	phimosis
+cancer of other male genital organs	risk factor	lichen sclerosus
+cancer of other male genital organs	staging method	sentinel lymph node biopsy
+cancer of other male genital organs	staging method	MRI
+cancer of other male genital organs	staging method	CT
+cancer of other male genital organs	staging method	PET-CT
+cancer of other male genital organs	imaging modality	ultrasound
+cancer of other male genital organs	imaging modality	MRI
+cancer of other male genital organs	imaging modality	CT
+cancer of other male genital organs	treatment	penectomy
+cancer of other male genital organs	treatment	lymph node dissection
+cancer of other male genital organs	treatment	chemotherapy
+cancer of other male genital organs	treatment	radiotherapy
+cancer of other male genital organs	treatment	surgery
+cancer of other male genital organs	treatment	Mohs surgery
+cancer of other male genital organs	treatment	sentinel lymph node biopsy
+cancer of other male genital organs	prognosis	lymph node involvement
+cancer of other male genital organs	prognosis	distant metastasis
+cancer of other male genital organs	prognosis	tumor size
+cancer of other male genital organs	prognosis	histology type
+cancer of other male genital organs	comorbidity	diabetes
+cancer of other male genital organs	comorbidity	cardiovascular disease
+cancer of other male genital organs	comorbidity	obesity
+cancer of other male genital organs	comorbidity	chronic kidney disease
+cancer of other male genital organs	recurrence risk	post-treatment
+cancer of other male genital organs	recurrence risk	after surgery
+cancer of other male genital organs	recurrence risk	after radiotherapy
+cancer of other male genital organs	follow-up	surveillance
+cancer of other male genital organs	surveillance	imaging follow-up
+cancer of other male genital organs	quality of life impact	physical function
+cancer of other male genital organs	quality of life impact	sexual function
+cancer of other male genital organs	quality of life impact	psychological health
+cancer of other male genital organs	fertility impact	infertility
+cancer of other male genital organs	hospital stay	admission length
+cancer of other male genital organs	hospital stay	readmission risk
+cancer of other male genital organs	infection risk	surgical site infection
+cancer of other male genital organs	complication	lymphedema
+cancer of other male genital organs	complication	wound complication
+cancer of other male genital organs	complication	urinary diversion
+cancer of other male genital organs	complication	bleeding
+cancer of other male genital organs	genetic factor	p53 mutation
+cancer of other male genital organs	genetic factor	BRCA mutation
+cancer of other male genital organs	genetic factor	EGFR mutation
+cancer of other male genital organs	ethnic pattern	Caucasian
+cancer of other male genital organs	ethnic pattern	African descent
+cancer of other male genital organs	age group	elderly
+cancer of other male genital organs	age group	middle-aged
+cancer of other male genital organs	age group	younger adult
+cancer of other male genital organs	treatment goal	cure
+cancer of other male genital organs	treatment goal	palliation
+cancer of other male genital organs	public health impact	incidence
+cancer of other male genital organs	public health impact	mortality
+cancer of other male genital organs	management	penectomy
+cancer of other male genital organs	management	lymph node dissection
+cancer of other male genital organs	management	chemotherapy
+cancer of other male genital organs	management	radiotherapy
+cancer of other male genital organs	prognosis predictor	lymph node ratio
+cancer of other male genital organs	prognosis predictor	tumor grade
+cancer of other male genital organs	prognosis predictor	depth of invasion
+cancer of other male genital organs	diagnostic test	biopsy
+cancer of other male genital organs	diagnostic test	urethroscopy
+cancer of other male genital organs	diagnostic test	urine cytology
+cancer of other male genital organs	diagnostic test	biopsy and urethroscopy
+cancer of other male genital organs	diagnostic test	MRI pelvis
+cancer of other male genital organs	diagnostic test	CT abdomen pelvis
+cancer of other male genital organs	imaging finding	inguinal mass
+cancer of other male genital organs	imaging finding	lymphadenopathy
+cancer of other male genital organs	clinical feature	priapism
+cancer of other male genital organs	prevalence	older adults
+cancer of other male genital organs	burden	mortality
+cancer of other male genital organs	burden	morbidity
+cancer of other male genital organs	policy	screening guidelines

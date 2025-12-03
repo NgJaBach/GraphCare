@@ -1,0 +1,100 @@
+allergic reactions	is a	hypersensitivity reaction
+anaphylaxis	is a	life-threatening reaction
+drug allergy	is a	hypersensitivity to drugs
+IgE	mediates	allergic reactions
+atopy	is a	predisposition to allergic reactions
+peanuts	triggers	allergic reactions
+shellfish	triggers	allergic reactions
+milk	triggers	allergic reactions
+eggs	triggers	allergic reactions
+tree pollen	triggers	allergic reactions
+dust mite	triggers	allergic reactions
+latex	triggers	allergic reactions
+penicillin	triggers	drug allergy
+NSAIDs	triggers	allergic reactions
+bee venom	triggers	allergic reactions
+dust	triggers	allergic reactions
+pollen	triggers	allergic reactions
+soy	triggers	allergic reactions
+wheat	triggers	allergic reactions
+fish	triggers	allergic reactions
+epinephrine	used for	anaphylaxis
+epinephrine	treats	anaphylaxis
+epinephrine	is a	vasopressor
+antihistamines	used for	allergic reactions
+corticosteroids	used for	severe allergic reactions
+epinephrine auto-injector	used for	anaphylaxis
+airway management	required for	anaphylaxis
+oxygen therapy	used for	anaphylaxis
+emergency care	essential for	anaphylaxis
+antihistamines	relieve	urticaria
+topical corticosteroids	treat	contact dermatitis
+inhaled corticosteroids	treat	allergic asthma
+bronchodilators	relieve	bronchospasm
+epinephrine	reverses	bronchoconstriction
+immunotherapy	desensitize	allergies
+oral immunotherapy	reduces	severity of allergy
+skin prick test	used for	allergy diagnosis
+IgE test	used for	allergy diagnosis
+oral food challenge	confirms	food allergy
+patch test	used for	contact dermatitis
+basophil activation test	used for	allergy diagnosis
+clinical history	informs	allergy diagnosis
+serum tryptase	elevated in	anaphylaxis
+serum IgE	elevated in	allergy
+food allergen	present in	processed foods
+food allergy	diagnosed by	oral food challenge
+peanut allergy	associated with	anaphylaxis
+latex allergy	is a	contact dermatitis risk
+drug allergy	associated with	cross-reactivity
+cross-reactivity	leads to	multiple drug allergies
+anaphylaxis	risk factor for	hospitalization
+anaphylaxis	leads to	emergency department visit
+hospitalization	increases	healthcare cost
+emergency department visit	increases	healthcare utilization
+epinephrine administration	reduces	mortality
+epinephrine administration	improves	survival
+allergic reaction	affects	quality of life
+allergic rhinitis	coexists with	asthma
+asthma	coexists with	allergies
+allergic march	describes	progression of allergies
+pollution exposure	worsens	allergic reactions
+smoking	worsens	allergic rhinitis
+oral corticosteroids	used for	severe allergic reactions
+antihistamines	cause	drowsiness
+corticosteroids	cause	hyperglycemia
+epinephrine	can cause	tachycardia
+tachycardia	is a	adverse effect of epinephrine
+emergency department	manages	anaphylaxis
+allergist	evaluates	allergies
+allergy clinic	provides	immunotherapy
+antibiotics	can cause	drug allergy
+food labeling	assists	avoidance of allergens
+occupational exposure	causes	occupational allergy
+nut allergy	is a	food allergy
+milk allergy	is a	food allergy
+nut allergy	may cause	severe reaction
+hives	are a	symptom of allergic reactions
+urticaria	is a	manifestation of allergic reactions
+angioedema	is a	manifestation of allergic reactions
+bronchospasm	occurs in	anaphylaxis
+laryngeal edema	causes	airway obstruction
+airway obstruction	requires	intubation
+intubation	used for	airway management
+trigger avoidance	reduces	exposure to allergen
+immunotherapy	is a	disease-modifying therapy
+allergen immunotherapy	is a	disease-modifying therapy
+oral immunotherapy	is a	desensitization therapy
+allergen labeling	informs	avoidance of allergens
+allergy avoidance	reduces	exposure to allergen
+IgE-mediated allergy	is a	type I hypersensitivity
+non-IgE-mediated allergy	is a	type IV hypersensitivity
+allergy testing	informs	management decisions
+clinical history	predicts	allergy outcomes
+patient education	improves	allergy management
+allergy testing	guides	medication choices
+steroid therapy	reduces	inflammation during allergic reactions
+beta-agonists	used for	bronchospasm
+cetirizine	is a	second-generation antihistamine
+diphenhydramine	is a	first-generation antihistamine
+allergen	triggers	immune response

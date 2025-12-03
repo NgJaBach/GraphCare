@@ -1,0 +1,101 @@
+urinary tract infection	is caused by	escherichia coli
+escherichia coli	is a	uropathogen
+proteus mirabilis	is a	uropathogen
+klebsiella pneumoniae	is a	uropathogen
+enterococcus faecalis	is a	uropathogen
+staphylococcus saprophyticus	is a	uropathogen
+pseudomonas aeruginosa	is a	uropathogen
+urease-producing bacteria	cause	struvite stones
+struvite stones	are associated with	urease-producing bacteria
+uncomplicated urinary tract infection	is a	type of infection
+lower urinary tract infection	is a	type of urinary tract infection
+upper urinary tract infection	is a	type of urinary tract infection
+cystitis	is a	lower urinary tract infection
+pyelonephritis	is a	upper urinary tract infection
+catheter-associated urinary tract infection	is a	hospital-acquired infection
+urosepsis	is a	life-threatening infection
+recurrent urinary tract infection	is a	relapse pattern
+urinary tract infection	leads to	bacteremia
+bacteremia	increases mortality risk,
+urinary tract infection	increases readmission risk,
+pregnancy	increases risk for	urinary tract infection
+diabetes mellitus	increases risk for	urinary tract infection
+immunosuppression	increases risk for	urinary tract infection
+advanced age	increases risk for	urinary tract infection
+postmenopausal status	increases risk for	urinary tract infection
+vesicoureteral reflux	increases risk for	urinary tract infection
+urinary catheterization	increases risk for	urinary tract infection
+catheterization	increases risk for	urinary tract infection
+urinary tract instrumentation	increases risk for	urinary tract infection
+sexual activity	increases risk for	urinary tract infection
+incomplete bladder emptying	predisposes to	urinary tract infection
+kidney stones	predispose to	urinary tract infection
+anatomic abnormalities	predispose to	urinary tract infection
+neurogenic bladder	predisposes to	urinary tract infection
+obstruction	predisposes to	urinary tract infection
+urinary tract infection	can cause	cystitis
+urinary tract infection	can cause	pyelonephritis
+urinary tract infection	can cause	sepsis
+urinalysis	detects	pyuria
+urinalysis	detects	leukocyte esterase
+urine culture	detects	bacteriuria
+urine culture	identifies	pathogen
+pyuria	indicates	inflammation
+bacteriuria	correlates with	urinary tract infection
+nitrite test	positive in	gram-negative infection
+urine culture	yields	bacterial growth
+antibiotic susceptibility testing	informs	antibiotic selection
+gram-negative bacteria	show	nitrite positivity
+fosfomycin	effective for	uncomplicated urinary tract infection
+nitrofurantoin	first-line for	uncomplicated urinary tract infection
+trimethoprim-sulfamethoxazole	alternative for	uncomplicated urinary tract infection
+ciprofloxacin	appropriate for	complicated urinary tract infection
+cephalexin	effective for	uncomplicated urinary tract infection
+amoxicillin-clavulanate	used for	urinary tract infection
+piperacillin-tazobactam	reserved for	complicated urinary tract infection
+aminoglycoside	reserved for	resistant urinary tract infection
+antibiotic resistance	reduces efficacy of	antibiotic therapy
+multidrug-resistant organism	complicates	urinary tract infection treatment
+catheter-associated urinary tract infection	requires	catheter removal
+catheter removal	reduces	catheter-associated urinary tract infection
+asymptomatic bacteriuria	should not be treated in	non-pregnant individuals
+asymptomatic bacteriuria	occurs in	elderly individuals
+pregnant patients	require	screening for bacteriuria
+screening for bacteriuria	detects	asymptomatic bacteriuria
+postpartum period	increases	urinary tract infection risk
+body mass index	correlates with	urinary tract infection risk
+biofilm formation	promotes	catheter-associated urinary tract infection
+chlorhexidine	reduces	catheter-associated urinary tract infection
+mortality	associated with	sepsis
+sepsis	increases mortality rate	patients with urinary tract infection
+urinary tract infection	predisposes to	bacteremia
+bacteremia	leads to	septic shock
+septic shock	increases mortality,
+hospitalization	increases exposure to	nosocomial pathogens
+nosocomial pathogens	include	pseudomonas aeruginosa
+pseudomonas aeruginosa	resistant to	multiple antibiotics
+biofilm	protects	bacteria from antibiotics
+diabetes mellitus	associated with	nephropathy
+nephropathy	increases risk of	urinary tract infection
+postmenopausal estrogen deficiency	increases	vaginal colonization changes
+estrogen therapy	reduces	urinary tract infection risk in postmenopausal women
+vaginal flora	protective against	urinary tract infection
+estrogen deficiency	reduces	vaginal lactobacilli
+lactobacilli	protect	urinary tract from infection
+urine culture	turns positive after	antibiotic exposure
+urine culture	takes	24-72 hours
+urine culture result	guides	antibiotic choice
+local resistance patterns	influence	empirical therapy
+empirical therapy	chosen for	uncomplicated urinary tract infection
+uncomplicated urinary tract infection	often treated with	short course antibiotics
+short course antibiotics	improve	adherence
+adherence	improves	treatment outcomes
+treatment outcomes	include	symptom resolution
+symptom resolution	precedes	microbiologic clearance
+microbiologic clearance	lags behind	symptom resolution
+culture-proven clearance	predicts	cure
+urinary tract infection	recurrence after	antibiotic therapy completion
+therapy completion	reduces	recurrence risk
+culture-negative urinary tract infection	occurs in	antibiotic-treated patients
+readmission	associated with	urinary tract infection
+healthcare costs	increase with	urinary tract infection

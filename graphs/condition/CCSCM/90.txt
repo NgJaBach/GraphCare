@@ -1,0 +1,100 @@
+inflammation	is a	ocular inflammatory condition
+inflammation	may lead to	eye infection
+eye infection	is associated with	inflammation
+eye infection	is treated with	antibiotics
+eye infection	requires	ophthalmology evaluation
+eye infection	may spread to	adjacent tissue
+conjunctivitis	is a	eye infection
+conjunctivitis	caused by	bacteria
+conjunctivitis	caused by	virus
+conjunctivitis	treated with	antibiotic drops
+bacterial conjunctivitis	treated with	topical antibiotics
+viral conjunctivitis	treated with	supportive care
+keratitis	is a	corneal infection
+keratitis	may cause	corneal ulcer
+keratitis	treated with	antibiotic drops
+keratitis	may result in	corneal scarring
+bacterial keratitis	treated with	fortified antibiotics
+fungal keratitis	treated with	antifungal drops
+herpetic keratitis	caused by	herpes simplex virus
+keratoplasty	may be performed for	corneal scarring
+endophthalmitis	is a	intraocular infection
+endophthalmitis	requires	urgent treatment
+endophthalmitis	can cause	vision loss
+uveitis	is a	intraocular inflammation
+uveitis	treated with	corticosteroids
+uveitis	may be associated with	autoimmune disease
+uveitis	can cause	decreased vision
+anterior uveitis	is a	subtype of uveitis
+posterior uveitis	is a	subtype of uveitis
+panuveitis	is a	diffuse ocular inflammation
+herpes simplex keratitis	presents with	dendritic ulcers
+herpes zoster ophthalmicus	can cause	keratitis
+corneal ulcer	is a	complication of keratitis
+dendritic ulcer	is a	finding in herpes simplex keratitis
+eye discharge	is a	symptom of eye infection
+eye redness	is a	symptom of eye infection
+eye pain	is a	symptom of eye infection
+photophobia	is a	symptom of eye infection
+blurry vision	is a	symptom of eye infection
+vision loss	is a	potential outcome of endophthalmitis
+stye	is a	eyelid infection
+blepharitis	is a	eyelid inflammation
+dacryocystitis	is a	tear duct infection
+nasolacrimal duct obstruction	results from	dacryocystitis
+contact lens use	increases risk of	keratitis
+pseudomonas aeruginosa	causes	keratitis
+staphylococcus aureus	causes	conjunctivitis
+adenovirus	causes	conjunctivitis
+neisseria gonorrhoeae	causes	hyperacute conjunctivitis
+chlamydia trachomatis	causes	inclusion conjunctivitis
+neonatal conjunctivitis	is a	ocular infection in newborns
+topical antibiotic	is first line for	bacterial conjunctivitis
+moxifloxacin	is used for	bacterial conjunctivitis
+ciprofloxacin	is used for	bacterial keratitis
+amoxicillin-clavulanate	is used for	ocular infection
+azithromycin	is used for	ocular infection
+erythromycin	is used for	ocular infection
+natamycin	is used for	fungal keratitis
+amphotericin B	is used for	fungal eye infection
+voriconazole	is used for	fungal keratitis
+intravitreal injection	is a treatment for	endophthalmitis
+intravitreal antibiotic	is used for	endophthalmitis
+intravitreal antifungal	is used for	fungal endophthalmitis
+corneal graft	is a	surgical option for keratitis
+corneal transplant	may be performed for	corneal scar
+scleritis	is a	ocular inflammation
+ophthalmology consultation	is required for	eye infection
+culture	is a	diagnostic test for eye infection
+PCR test	is a	diagnostic test for eye infection
+culture result	informs	antibiotic selection
+antibiotic susceptibility	guides	antibiotic choice
+pseudomonas resistance	is a	concern in keratitis
+corneal thinning	is a	complication of keratitis
+corneal perforation	is a	complication of keratitis
+neovascularization	is a	complication of keratitis
+eye infection	can cause	corneal scarring
+contact lens wearer	has risk of	corneal infection
+trauma	predisposes to	corneal infection
+seasonal variation	affects incidence of	conjunctivitis
+dry eye	worsens	ocular surface inflammation
+allergic conjunctivitis	is a	noninfectious ocular inflammation
+immunocompromised	increases risk of	ocular infection
+diabetes mellitus	increases risk of	keratitis
+age	is a	risk factor for eye infection
+bandage contact lens	associated with	keratitis
+keratoplasty	is a	surgical option for keratitis
+hospitalization	may occur for	severe eye infection
+readmission	risk after	eye infection
+age group	at risk for	conjunctivitis
+immunosuppressive therapy	increases risk of	ocular infection
+eye scraping	is a	diagnostic procedure for keratitis
+ocular surface disease	increases risk of	eye infection
+nasolacrimal duct obstruction	associated with	tear drainage impairment
+trauma	can cause	corneal infection
+eye trauma	increases risk of	corneal infection
+eye allergy	may mimic	infectious conjunctivitis
+neonatal prophylaxis	prevents	neonatal eye infection
+eye hygiene	improves	ocular surface health
+antibiotic resistance	complicates	eye infection treatment
+quality of life	impacted by	ocular infection

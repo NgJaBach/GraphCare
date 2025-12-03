@@ -1,0 +1,100 @@
+induced abortion	is a	reproductive procedure
+induced abortion	is performed to	termination of pregnancy
+induced abortion	is performed by	clinician
+induced abortion	is performed with	anesthesia
+induced abortion	may require	ultrasound
+induced abortion	requires	consent
+induced abortion	uses	misoprostol
+induced abortion	uses	mifepristone
+induced abortion	uses	prostaglandin
+induced abortion	is followed by	postabortion care
+induced abortion	has	safety profile
+induced abortion	may cause	cramping
+induced abortion	may cause	bleeding
+induced abortion	may cause	fever
+induced abortion	may cause	infection
+induced abortion	may cause	uterine perforation
+induced abortion	may cause	cervical injury
+induced abortion	may cause	abdominal pain
+induced abortion	has	complication rate
+induced abortion	is associated with	low mortality rate
+induced abortion	does not affect	fertility
+induced abortion	affects	pregnancy planning
+induced abortion	occurs in	outpatient setting
+induced abortion	occurs in	hospital setting
+induced abortion	is more common in	young patients
+induced abortion	is more common in	nulliparous women
+induced abortion	is influenced by	gestational age
+induced abortion	is indicated for	unwanted pregnancy
+induced abortion	is indicated for	pregnancy termination
+induced abortion	is offered in	abortion clinics
+induced abortion	is regulated by	abortion law
+induced abortion	is documented in	medical records
+induced abortion	is followed by	pregnancy test
+induced abortion	is followed by	contraception counseling
+induced abortion	is linked to	stigma
+induced abortion	is associated with	mental health outcomes
+induced abortion	is linked with	healthcare utilization
+induced abortion	influences	insurance coverage
+induced abortion	influences	provider experience
+induced abortion	influences	facility type
+induced abortion	shows	regional variation
+induced abortion	shows	urban-rural variation
+induced abortion	impacts	hospital stay duration
+induced abortion	impacts	readmission risk
+induced abortion	impacts	resource utilization
+induced abortion	correlates with	contraception use prior to abortion
+induced abortion	correlates with	previous abortion history
+induced abortion	correlates with	parity status
+induced abortion	correlates with	pregnancy history
+induced abortion	correlates with	demographic factors
+induced abortion	relates to	reproductive health services
+induced abortion	relates to	abortion counseling
+induced abortion	relates to	postabortion care services
+induced abortion	is considered in	maternal mortality studies
+induced abortion	is a focus of	obstetric care
+induced abortion	appears in	health insurance discussions
+induced abortion	appears in	public health data
+induced abortion	is included in	medical education
+induced abortion	is included in	clinical guidelines
+induced abortion	is evaluated in	outcome studies
+induced abortion	is taught in	medical training
+induced abortion	appears in	patient information leaflets
+induced abortion	is opposed by	antiabortion groups
+induced abortion	is accepted in	mainstream medicine
+induced abortion	is part of	reproductive health care
+induced abortion	is included in	women's health services
+induced abortion	is a	procedure
+induced abortion	has	regulatory status
+induced abortion	has	ethical considerations
+induced abortion	has	patient autonomy
+induced abortion	uses	ultrasound guidance
+induced abortion	uses	local anesthesia
+induced abortion	uses	general anesthesia
+induced abortion	uses	sedation
+induced abortion	has	hospital stay
+induced abortion	is performed as	outpatient procedure
+induced abortion	is performed as	inpatient procedure
+induced abortion	is associated with	postpartum hemorrhage risk
+induced abortion	is associated with	subsequent pregnancy spacing
+induced abortion	is integrated with	maternal health services
+induced abortion	is addressed by	patient counseling
+induced abortion	has	follow-up instructions
+induced abortion	provides	contraception options
+induced abortion	reduces	risk of high-risk pregnancy
+induced abortion	has	postprocedure surveillance
+induced abortion	is studied in	epidemiology
+induced abortion	is reported in	national health data
+induced abortion	influences	population health metrics
+induced abortion	affects	abortion services demand
+induced abortion	is influenced by	socioeconomic status
+induced abortion	is influenced by	education level
+induced abortion	is influenced by	marital status
+induced abortion	is influenced by	age group
+induced abortion	is influenced by	parity
+induced abortion	interacts with	contraception failure
+induced abortion	interacts with	pregnancy testing results
+induced abortion	interacts with	gestational age thresholds
+induced abortion	interacts with	abortion clinic availability
+induced abortion	interacts with	physician expertise
+induced abortion	interacts with	patient preference

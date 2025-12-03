@@ -1,0 +1,100 @@
+cancer of pancreas	is a	malignant neoplasm
+cancer of pancreas	presents with	abdominal pain
+cancer of pancreas	presents with	jaundice
+cancer of pancreas	presents with	weight loss
+cancer of pancreas	presents with	fatigue
+cancer of pancreas	presents with	pruritus
+cancer of pancreas	risk factor	smoking
+cancer of pancreas	risk factor	obesity
+cancer of pancreas	risk factor	chronic pancreatitis
+cancer of pancreas	risk factor	diabetes mellitus
+cancer of pancreas	risk factor	family history
+cancer of pancreas	risk factor	hereditary syndrome
+cancer of pancreas	risk factor	aging
+cancer of pancreas	risk factor	alcohol use
+cancer of pancreas	diagnosed by	CT scan
+cancer of pancreas	diagnosed by	MRI
+cancer of pancreas	diagnosed by	endoscopic ultrasound
+cancer of pancreas	diagnosed by	biopsy
+cancer of pancreas	has biomarker	CA 19-9
+cancer of pancreas	has biomarker	CEA
+cancer of pancreas	imaging finding	pancreatic mass
+cancer of pancreas	imaging finding	ductal dilation
+cancer of pancreas	staged as	stage II
+cancer of pancreas	staged as	stage III
+cancer of pancreas	staged as	stage IV
+cancer of pancreas	treated with	pancreaticoduodenectomy
+cancer of pancreas	treated with	Whipple procedure
+cancer of pancreas	treated with	distal pancreatectomy
+cancer of pancreas	treated with	total pancreatectomy
+cancer of pancreas	treated with	adjuvant therapy
+cancer of pancreas	treated with	neoadjuvant therapy
+cancer of pancreas	treated with	chemotherapy
+cancer of pancreas	treated with	gemcitabine
+cancer of pancreas	treated with	FOLFIRINOX
+cancer of pancreas	treated with	nab-paclitaxel
+cancer of pancreas	treated with	radiation therapy
+cancer of pancreas	treated with	biliary stenting
+cancer of pancreas	treated with	palliative care
+cancer of pancreas	metastasis	liver
+cancer of pancreas	metastasis	peritoneum
+cancer of pancreas	metastasis	lung
+cancer of pancreas	recurrence after	surgery
+cancer of pancreas	complication	biliary obstruction
+cancer of pancreas	prognosis	poor prognosis
+cancer of pancreas	comorbidity	cachexia
+cancer of pancreas	comorbidity	venous thromboembolism
+cancer of pancreas	associated with	BRCA2 mutation
+cancer of pancreas	associated with	PALB2 mutation
+cancer of pancreas	associated with	STK11 mutation
+cancer of pancreas	associated with	Lynch syndrome
+cancer of pancreas	associated with	Peutz-Jeghers syndrome
+cancer of pancreas	precursor lesion	pancreatic intraepithelial neoplasia
+cancer of pancreas	precursor lesion	intraductal papillary mucinous neoplasm
+cancer of pancreas	histology	pancreatic ductal adenocarcinoma
+cancer of pancreas	histology	adenosquamous carcinoma
+cancer of pancreas	associated with	new-onset diabetes
+cancer of pancreas	biomarker	CA 19-9 elevated
+cancer of pancreas	clinical feature	weight loss
+cancer of pancreas	clinical feature	anorexia
+cancer of pancreas	clinical feature	nausea
+cancer of pancreas	clinical feature	fatigue
+cancer of pancreas	treatment response	partial response
+cancer of pancreas	treatment response	stable disease
+cancer of pancreas	treatment response	progression
+cancer of pancreas	prognosis factor	tumor size
+cancer of pancreas	prognosis factor	lymph node involvement
+cancer of pancreas	prognosis factor	distant metastasis
+cancer of pancreas	survival rate	five-year survival
+cancer of pancreas	radiotherapy indication	palliative intent
+cancer of pancreas	radiotherapy indication	adjuvant setting
+cancer of pancreas	surveillance	high-risk individuals
+cancer of pancreas	staging method	TNM system
+cancer of pancreas	surgical eligibility	resectable
+cancer of pancreas	molecular subtype	classical
+cancer of pancreas	molecular subtype	basal-like
+cancer of pancreas	gene mutation	BRCA1
+cancer of pancreas	gene mutation	ATM
+cancer of pancreas	gene mutation	CHEK2
+cancer of pancreas	paraneoplastic phenomenon	thrombosis
+cancer of pancreas	paraneoplastic phenomenon	migratory thrombophlebitis
+cancer of pancreas	lesion	pancreatic mass with ductal obstruction
+cancer of pancreas	complication	pancreatic fistula
+cancer of pancreas	complication	ascites
+cancer of pancreas	complication	cholangitis
+cancer of pancreas	hospital stay	prolonged
+cancer of pancreas	imaging modality	PET-CT
+cancer of pancreas	diagnostic test	endoscopic retrograde cholangiopancreatography
+cancer of pancreas	symptom	back pain
+cancer of pancreas	symptom	steatorrhea
+cancer of pancreas	serology	autoimmune markers negative
+cancer of pancreas	research	early detection studies
+cancer of pancreas	care setting	tertiary center
+cancer of pancreas	prognostic factor	performance status
+cancer of pancreas	therapy line	first-line
+cancer of pancreas	therapy line	second-line
+cancer of pancreas	contraindication	severe comorbidity
+cancer of pancreas	method of diagnosis	histopathology
+cancer of pancreas	risk factor	non-hereditary pancreatopathy
+cancer of pancreas	treatment guideline	NCCN
+cancer of pancreas	guideline	ASCO

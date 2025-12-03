@@ -1,0 +1,100 @@
+diabetes mellitus	is a	endocrine disorder
+diabetes mellitus	may cause	nephropathy
+diabetes mellitus	may cause	retinopathy
+diabetes mellitus	may cause	neuropathy
+diabetes mellitus	may cause	cardiovascular disease
+diabetes mellitus	is treated with	insulin therapy
+diabetes mellitus	is treated with	metformin
+hemoglobin A1c	is a test for	diabetes mellitus
+insulin	is a	hormone
+metformin	is a	medication
+nephropathy	is a	complication of diabetes mellitus
+retinopathy	is a	complication of diabetes mellitus
+neuropathy	is a	complication of diabetes mellitus
+hypoglycemia	is a	complication of diabetes mellitus
+hyperglycemia	is a	metabolic state
+obesity	is a	metabolic disorder
+obesity	is a risk factor for	diabetes mellitus
+obesity	is a risk factor for	hypertension
+obesity	is a risk factor for	sleep apnea
+hypertension	is a	cardiovascular risk factor
+metabolic syndrome	is a	metabolic disorder
+metabolic syndrome	is associated with	insulin resistance
+dyslipidemia	is a	lipid disorder
+dyslipidemia	may cause	atherosclerosis
+hyperlipidemia	is a	lipid disorder
+hyperlipidemia	increases risk for	atherosclerosis
+hypothyroidism	is a	endocrine disorder
+hyperthyroidism	is a	endocrine disorder
+goiter	is a	thyroid disorder
+thyroid nodule	is a	thyroid disorder
+parathyroidism	is a	endocrine disorder
+hyperparathyroidism	is a	endocrine disorder
+hypoparathyroidism	is a	endocrine disorder
+cushing syndrome	is a	endocrine disorder
+addison disease	is a	endocrine disorder
+adrenal insufficiency	is a	endocrine disorder
+diabetic ketoacidosis	is a	acute complication of diabetes mellitus
+osteoporosis	is a	metabolic bone disease
+osteopenia	is a	metabolic bone disease
+vitamin D deficiency	is a	nutritional deficiency
+calcium deficiency	is a	nutritional deficiency
+iron deficiency anemia	is a	nutritional deficiency
+folate deficiency	is a	nutritional deficiency
+vitamin B12 deficiency	is a	nutritional deficiency
+malnutrition	is a	nutritional disorder
+anorexia nervosa	is a	nutritional disorder
+kwashiorkor	is a	nutritional disorder
+marasmus	is a	nutritional disorder
+iron deficiency	is a	nutritional deficiency
+anemia	is a	hematologic disorder
+hyponatremia	is a	electrolyte disorder
+hyperkalemia	is a	electrolyte disorder
+hypokalemia	is a	electrolyte disorder
+metabolic acidosis	is a	metabolic disorder
+metabolic alkalosis	is a	metabolic disorder
+lactic acidosis	is a	metabolic disorder
+gout	is a	metabolic disorder
+hyperuricemia	is a	metabolic disorder
+gout	may cause	arthritis
+uric acid	is a	metabolic marker
+galactosemia	is a	metabolic disorder
+phenylketonuria	is a	metabolic disorder
+glycogen storage disease	is a	metabolic disorder
+liver disease	is a	metabolic disorder
+inborn error of metabolism	is a	metabolic disorder
+hypothyroidism	may cause	hyperlipidemia
+thyroid-stimulating hormone	is a	hormone
+parathyroid hormone	is a	hormone
+calcium	is a	mineral
+phosphate	is a	mineral
+vitamin D	is a	nutrient
+magnesium deficiency	is a	nutritional deficiency
+selenium deficiency	is a	nutritional deficiency
+zinc deficiency	is a	nutritional deficiency
+protein deficiency	is a	nutritional deficiency
+vitamin A deficiency	is a	nutritional deficiency
+vitamin C deficiency	is a	nutritional deficiency
+riboflavin deficiency	is a	nutritional deficiency
+niacin deficiency	is a	nutritional deficiency
+calorie deficiency	is a	nutritional deficiency
+malabsorption	is a	nutritional disorder
+protein-energy malnutrition	is a	nutritional disorder
+anemia of chronic disease	is a	hematologic disorder
+hemoglobin	is a	blood component
+albumin	is a	biomarker
+creatinine clearance	is a	biomarker
+eGFR	is a	biomarker
+urinalysis	is a	diagnostic test
+urine protein	is a	biomarker
+albuminuria	is a	biomarker
+glucose tolerance test	is a	diagnostic test for diabetes mellitus
+fasting plasma glucose	is a	diagnostic test for diabetes mellitus
+oral glucose tolerance test	is a	diagnostic test for diabetes mellitus
+lipid panel	is a	diagnostic test for lipid disorders
+thyroid function test	is a	diagnostic test for thyroid disorders
+calcium test	is a	diagnostic test for parathyroid disorders
+bone density scan	is a	diagnostic test for osteoporosis
+DEXA scan	is a	diagnostic test for osteoporosis
+osteomalacia	is a	metabolic bone disease
+rickets	is a	metabolic bone disease

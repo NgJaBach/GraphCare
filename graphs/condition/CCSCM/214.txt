@@ -1,0 +1,96 @@
+digestive congenital anomalies	associated with	prematurity
+digestive congenital anomalies	associated with	low birth weight
+digestive congenital anomalies	associated with	congenital heart disease
+digestive congenital anomalies	associated with	respiratory distress syndrome
+gastroschisis	associated with	prematurity
+gastroschisis	requires	surgery
+gastroschisis	increases risk of	sepsis
+gastroschisis	increases mortality risk	neonatal death
+gastroschisis	associated with	intestinal atresia
+gastroschisis	associated with	intestinal stenosis
+gastroschisis	associated with	intrauterine growth restriction
+gastroschisis	associated with	chromosomal abnormality
+omphalocele	associated with	cardiac anomalies
+omphalocele	requires	surgery
+omphalocele	increases risk of	hospitalization length
+omphalocele	associated with	Beckwith-Wiedemann syndrome
+omphalocele	associated with	chromosomal abnormality
+duodenal atresia	associated with	Down syndrome
+duodenal atresia	requires	surgery
+duodenal atresia	increases risk of	feeding intolerance
+duodenal atresia	associated with	polyhydramnios
+duodenal atresia	increases mortality risk	neonatal death
+esophageal atresia	associated with	TEF
+esophageal atresia	requires	surgical repair
+esophageal atresia	associated with	choking on feeds
+esophageal atresia	associated with	feeding difficulties
+Hirschsprung disease	associated with	Down syndrome
+Hirschsprung disease	requires	surgery
+Hirschsprung disease	increases risk of	enterocolitis
+annular pancreas	associated with	duodenal obstruction
+annular pancreas	requires	surgery
+anorectal malformation	associated with	urogenital anomalies
+anorectal malformation	requires	corrective surgery
+anorectal malformation	increases risk of	stool incontinence
+intestinal atresia	associated with	prematurity
+intestinal atresia	requires	surgery
+jejunal atresia	associated with	prematurity
+jejunal atresia	requires	surgery
+ileal atresia	associated with	polyhydramnios
+ileal atresia	requires	surgery
+ biliary atresia	requires	liver transplant
+ biliary atresia	increases risk of	infant mortality
+meconium ileus	associated with	cystic fibrosis
+meconium ileus	requires	surgery
+meconium ileus	increases risk of	bowel obstruction
+malrotation	associated with	volvulus
+malrotation	requires	surgery
+malrotation	increases risk of	intestinal ischemia
+tracheoesophageal fistula	associated with	esophageal atresia
+tracheoesophageal fistula	requires	surgical repair
+tracheoesophageal fistula	increases risk of	pneumonia
+esophageal atresia with TEF	associated with	VACTERL syndrome
+esophageal atresia with TEF	requires	surgery
+gastroschisis	associated with	maternal age
+gastroschisis	associated with	maternal diabetes
+duodenal atresia	associated with	polyhydramnios
+pyloric stenosis	associated with	dehydration
+pyloric stenosis	requires	pyloromyotomy
+pyloric stenosis	increases risk of	metabolic alkalosis
+pyloric stenosis	associated with	male sex
+neonatal surgery	indicated by	digestive congenital anomalies
+neonatal intensive care	required by	digestive congenital anomalies
+neonatal death	associated with	digestive congenital anomalies
+postoperative complication	seen in	digestive congenital anomalies
+length of hospital stay	increased by	digestive congenital anomalies
+readmission risk	increased by	digestive congenital anomalies
+mortality risk	increased by	digestive congenital anomalies
+hospitalization cost	increased by	digestive congenital anomalies
+surgical correction	performed for	gastroschisis
+surgical correction	performed for	omphalocele
+stoma creation	performed for	anorectal malformation
+stoma creation	associated with	infection risk
+stoma reversal	performed for	anorectal malformation
+liver transplant	indicated by	biliary atresia
+kidney anomalies	associated with	digestive congenital anomalies
+prenatal ultrasound	detects	gastroschisis
+prenatal ultrasound	detects	duodenal atresia
+prenatal ultrasound	detects	esophageal atresia
+Beckwith-Wiedemann syndrome	associated with	omphalocele
+Beckwith-Wiedemann syndrome	predisposes to	omphalocele
+neural crest defect	associated with	Hirschsprung disease
+spinal anomalies	associated with	anorectal malformation
+neonatal infection	associated with	gastroschisis
+neonatal pneumonia	associated with	esophageal atresia
+neonatal sepsis	associated with	biliary atresia
+bowel obstruction	associated with	meconium ileus
+dehydration	associated with	pyloric stenosis
+electrolyte imbalance	associated with	pyloric stenosis
+tracheomalacia	associated with	digestive congenital anomalies
+feeding difficulties	associated with	esophageal atresia
+swallowing dysfunction	associated with	esophageal atresia
+nasal feeding	used for	digestive congenital anomalies
+gastrostomy	used for	feeding difficulties
+surgical delay	worsens	neonatal outcomes
+prenatal nutrition	affects	neonatal growth
+congenital anomalies	share associations with	birth defects

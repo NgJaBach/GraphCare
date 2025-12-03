@@ -1,0 +1,156 @@
+acute tonsillitis	is a	throat infection
+acute tonsillitis	may be caused by	viruses
+acute tonsillitis	may be caused by	group A Streptococcus
+acute tonsillitis	presents with	sore throat
+acute tonsillitis	presents with	fever
+acute tonsillitis	presents with	tonsillar exudate
+acute tonsillitis	presents with	odynophagia
+acute tonsillitis	is diagnosed by	rapid antigen detection test
+rapid antigen detection test	detects	group A Streptococcus
+centor criteria	is used for	assessment of streptococcal pharyngitis
+throat culture	is used for	diagnosis of streptococcal pharyngitis
+throat culture	detects	group A Streptococcus
+antibiotics	are used for	bacterial tonsillitis
+amoxicillin	is a	antibiotic
+amoxicillin	is used to treat	acute tonsillitis
+penicillin	is a	antibiotic
+penicillin allergy	is a	contraindication for penicillin
+alternative antibiotic	includes	azithromycin
+azithromycin	is a	macrolide antibiotic
+tonsillectomy	is a	surgical procedure
+tonsillectomy	indicated for	chronic tonsillitis
+chronic tonsillitis	defined as	recurrent throat infections
+recurrent throat infections	occur in	children
+chronic tonsillitis	treated with	tonsillectomy
+tonsillitis	is contagious by	respiratory droplets
+acute tonsillitis	may lead to	peritonsillar abscess
+peritonsillar abscess	is a	complication of tonsillitis
+peritonsillar abscess	requires	drainage
+tonsillitis	associated with	cervical lymphadenopathy
+cervical lymphadenopathy	occurs in	acute tonsillitis
+acute tonsillitis	can cause	leukocytosis
+leukocytosis	is seen in	acute tonsillitis
+rapid strep test	has	false negatives
+viral tonsillitis	does not respond to	antibiotics
+halitosis	is associated with	chronic tonsillitis
+tonsilloliths	associated with	chronic tonsillitis
+tonsilloliths	occur in	tonsillar crypts
+analgesics	provide	pain relief
+acetaminophen	is a	analgesic
+acetaminophen	used for	pain relief in acute tonsillitis
+NSAIDs	used for	pain relief in tonsillitis
+postoperative pain	occurs after	tonsillectomy
+bleeding	is a risk after	tonsillectomy
+tonsillectomy	reduces	throat infection recurrence
+sore throat	symptom of	tonsillitis
+leukocytosis	indicates	bacterial infection in tonsillitis
+strep throat	is a term for	group A Streptococcus pharyngitis
+tonsils	are a	lymphoid tissue
+acute tonsillitis	is more common in	children
+acute tonsillitis	resolves with	supportive care
+supportive care	includes	hydration
+hydration	supports	recovery
+tonsillitis	occurs more commonly in	winter months
+group A Streptococcus	is a	bacterium
+bacteria	cause	acute tonsillitis
+viruses	cause	acute tonsillitis
+acute tonsillitis	presents with	sore throat
+acute tonsillitis	presents with	fever
+acute tonsillitis	presents with	tonsillar exudate
+acute tonsillitis	presents with	cervical lymphadenopathy
+acute tonsillitis	caused by	Streptococcus pyogenes
+acute tonsillitis	caused by	viral infection
+Streptococcus pyogenes	causes	acute tonsillitis
+Streptococcus pyogenes	susceptible to	penicillin
+Streptococcus pyogenes	susceptible to	amoxicillin
+penicillin	is first-line treatment for	acute tonsillitis
+amoxicillin	is first-line treatment for	acute tonsillitis
+cephalexin	is alternative treatment for	acute tonsillitis in penicillin allergy
+cephalexin	used to treat	acute tonsillitis
+rapid strep test	used to diagnose	acute tonsillitis
+throat culture	used to diagnose	acute tonsillitis
+rapid strep test	detects	Streptococcus pyogenes
+throat culture	detects	Streptococcus pyogenes
+fever	accompanies	acute tonsillitis
+tonsillar exudate	present in	acute tonsillitis
+lymphadenopathy	present in	acute tonsillitis
+children	have higher incidence of	acute tonsillitis
+adults	have lower incidence of	acute tonsillitis
+acute tonsillitis	may lead to	peritonsillar abscess
+peritonsillar abscess	requires	drainage
+drainage	performed by	otolaryngologist
+acute tonsillitis	treated with	antibiotics
+antibiotics	shorten	duration of illness
+antibiotics	reduce	symptom duration
+penicillin	reduces	bacterial load
+Streptococcus pyogenes infection	treated with	penicillin
+post-streptococcal glomerulonephritis	can follow	streptococcal infection
+rheumatic fever	can follow	streptococcal infection
+rheumatic fever	is a	complication of streptococcal infection
+glomerulonephritis	occurs after	streptococcal infection
+glomerulonephritis	is a potential complication of	acute tonsillitis
+tonsillectomy	indicated for	chronic tonsillitis
+chronic tonsillitis	treated with	tonsillectomy
+tonsillectomy	reduces	throat infection episodes
+tonsillectomy	reduces	antibiotic use
+chronic tonsillitis	associated with	tonsillar hypertrophy
+tonsillar hypertrophy	contributes to	sleep apnea
+sleep apnea	associated with	tonsillar hypertrophy
+tonsillar hypertrophy	observed in	pediatric patients
+pediatric patients	more affected by	tonsillitis
+season	influences	incidence of acute tonsillitis
+seasonal variation	correlates with	acute tonsillitis incidence
+rapid strep test	faster than	throat culture
+throat culture	slower than	rapid strep test
+throat culture	results in	24 hours
+rapid strep test	results in	minutes
+clinical guideline	recommends	penicillin
+penicillin allergy	necessitates	alternative antibiotics
+alternative antibiotics	include	amoxicillin-clavulanate
+amoxicillin-clavulanate	used for	penicillin-allergic patients
+erythromycin	used for	penicillin-allergic patients
+azithromycin	used for	penicillin-allergic patients
+macrolide resistance	observed in	Streptococcus pyogenes
+hospitalization	may be required for	severe acute tonsillitis
+severe acute tonsillitis	leads to	hospitalization
+intravenous antibiotics	used for	severe acute tonsillitis
+pediatric hospitalization	more common in	developing regions
+dehydration	risk factor for	poor oral intake in acute tonsillitis
+analgesics	provide	pain relief in acute tonsillitis
+acetaminophen	used for	pain relief in acute tonsillitis
+hydration	recommended for	acute tonsillitis
+rest	recommended for	acute tonsillitis
+school absence	associated with	acute tonsillitis in children
+sore throat	symptom	primary feature of acute tonsillitis
+antibiotic stewardship	promotes	guideline-concordant therapy
+guideline-concordant therapy	improves	patient outcomes
+outcomes	include	symptom resolution
+symptom resolution	occurs with	timely antibiotics
+diagnostic accuracy	influences	treatment decisions
+treatment decisions	impact	readmission risk
+readmission risk	increased by	delayed treatment
+mononucleosis	can mimic	acute tonsillitis
+Epstein-Barr virus	causes	mononucleosis
+mononucleosis	requires	different management
+viral infection	common cause of	sore throat
+bacterial infection	more severe	throat pain
+antibiotic prescribing	guided by	diagnostic tests
+diagnostic tests	include	rapid strep test
+rapid strep test	used for	rapid diagnosis
+culture results	guide	antibiotic choice
+antibiotic choice	guided by	culture results
+penicillin	allergy	necessitates	alternative antibiotics
+treatment escalation	includes	second-line agents
+second-line agents	include	clindamycin
+clindamycin	used for	penicillin-allergic acute tonsillitis
+intravenous therapy	used for	severe cases of acute tonsillitis
+otolaryngologist	performs	tonsillectomy
+surgical intervention	indicated for	chronic tonsillitis
+acute tonsillitis	burden on	healthcare system
+healthcare system	manages	tonsillitis outbreaks
+outbreaks	occur in	school settings
+schools	report	tonsillitis outbreaks
+recovery	occurs within	7 to 10 days
+7 to 10 days	typical duration of	acute tonsillitis
+acute tonsillitis	managed with	supportive care
+supportive care	includes	analgesics

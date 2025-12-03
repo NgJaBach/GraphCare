@@ -1,0 +1,100 @@
+peritonitis	is a	disease
+peritonitis	is an	inflammatory disease
+peritonitis	may cause	sepsis
+peritonitis	may cause	septic shock
+peritonitis	can lead to	organ failure
+peritonitis	requires	surgery
+peritonitis	treated with	antibiotics
+peritonitis	treated with	intravenous antibiotics
+peritonitis	associated with	ascites
+peritonitis	associated with	peritoneal signs
+peritonitis	diagnosed by	imaging
+peritonitis	diagnosed by	CT scan
+peritonitis	diagnosed by	ultrasound
+peritonitis	associated with	leukocytosis
+peritonitis	associated with	fever
+peritonitis	associated with	abdominal pain
+peritonitis	associated with	tachycardia
+peritonitis	associated with	hypotension
+peritonitis	associated with	metabolic acidosis
+peritonitis	associated with	elevated CRP
+peritonitis	associated with	mortality
+peritonitis	increases	length of stay
+peritonitis	increases	ICU admission
+peritonitis	increases	hospital costs
+peritonitis	occurs in	postoperative patients
+peritonitis	occurs in	immunocompromised patients
+peritonitis	often presents with	ileus
+peritonitis	is caused by	bowel perforation
+peritonitis	is caused by	diverticulitis
+peritonitis	is caused by	appendicitis
+peritonitis	is caused by	pancreatitis
+peritonitis	is caused by	intra-abdominal infection
+peritonitis	is caused by	perforated viscus
+peritonitis	is caused by	ruptured ulcer
+peritoneal signs	indicate	peritoneal irritation
+ascites	presents with	abdominal distension
+ileus	accompanies	peritonitis
+sepsis	can result from	peritonitis
+shock	represents	septic shock
+organ failure	worsens	prognosis
+drainage	used for	abscess
+abscess	is a	collection of pus
+abscess	treated with	drainage
+abscess	treated with	antibiotics
+abscess	may require	surgical drainage
+abscess	can lead to	peritonitis
+abscess	increases	risk of sepsis
+abscess	diagnosed by	CT scan
+abscess	diagnosed by	ultrasound
+abscess	diagnosed by	MRI
+abscess	presents with	abdominal pain
+abscess	presents with	fever
+abscess	presents with	leukocytosis
+diverticulitis	can cause	intestinal abscess
+diverticulitis	treated with	antibiotics
+diverticulitis	treated with	surgery
+diverticulitis	diagnosed by	CT scan
+diverticulitis	associated with	peritonitis
+diverticulitis	recurrence	risk
+intestinal abscess	is a	localized infection
+intestinal abscess	is a	purulent collection
+intestinal abscess	caused by	bacterial infection
+intestinal abscess	commonly associated with	diverticulitis
+intestinal abscess	caused by	diverticular disease
+intestinal abscess	treated with	drainage
+intestinal abscess	treated with	antibiotics
+intestinal abscess	may require	surgical drainage
+intestinal abscess	can lead to	peritonitis
+intestinal abscess	increases	risk of sepsis
+intestinal abscess	diagnosed by	CT scan
+intestinal abscess	diagnosed by	ultrasound
+intestinal abscess	diagnosed by	MRI
+intestinal abscess	presents with	abdominal pain
+intestinal abscess	presents with	fever
+intestinal abscess	presents with	leukocytosis
+intestinal abscess	occurs in	diverticulitis
+abscess drainage	reduces	abscess volume
+percutaneous drainage	used for	abscess
+surgical drainage	used for	abscess
+source control	is essential for	peritonitis
+intravenous antibiotics	treat	peritonitis
+intravenous antibiotics	treat	intestinal abscess
+broad-spectrum antibiotics	used for	peritonitis
+broad-spectrum antibiotics	used for	intestinal abscess
+ceftriaxone	used for	peritonitis
+meropenem	used for	severe peritonitis
+piperacillin-tazobactam	used for	broad-spectrum therapy
+vancomycin	used for	intra-abdominal infection
+bacteria	cause	peritonitis
+Gram-negative bacteria	commonly implicated	peritonitis
+anaerobes	commonly implicated	peritonitis
+organ failure	worsens	prognosis
+critical care	required for	septic shock
+vasopressors	required for	septic shock
+white blood cell count	elevated in	peritonitis
+CRP	elevated in	peritonitis
+procalcitonin	elevated in	peritonitis
+peritoneal fluid	analysis shows	neutrophils
+neutrophils	indicate	infection
+imaging	used for	diagnosis of peritonitis

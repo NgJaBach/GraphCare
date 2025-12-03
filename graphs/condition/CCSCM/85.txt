@@ -1,0 +1,100 @@
+coma	is a	prolonged unconsciousness
+stupor	is a	reduced consciousness state
+brain damage	is a	neurological injury
+coma	results from	hypoxic brain injury
+stupor	may progress to	coma
+brain damage	may result in	coma
+brain damage	associated with	cognitive impairment
+coma	associated with	mortality
+coma	associated with	extended ICU stay
+stupor	associated with	poor prognosis
+coma	indicates	severe brain injury
+coma	assessed by	Glasgow coma scale
+stupor	assessed by	mental status examination
+coma	managed with	airway protection
+coma	managed with	mechanical ventilation
+coma	managed with	osmotic therapy
+coma	caused by	drug overdose
+coma	caused by	intracranial hemorrhage
+coma	caused by	stroke
+stupor	caused by	intoxication
+brain damage	caused by	traumatic brain injury
+brain damage	caused by	ischemia
+brain damage	caused by	infection
+coma	due to	hypoxic-ischemic injury
+stupor	due to	metabolic disturbance
+coma	due to	metabolic coma
+coma	due to	cerebral edema
+coma	due to	poisoning
+coma	due to	sepsis
+coma	due to	hepatic failure
+brain damage	due to	diffuse axonal injury
+coma	prognosis depends on	cause
+coma	prognosis depends on	duration of coma
+brain damage	prognosis depends on	extent of injury
+coma	prognosis associated with	age
+coma	prognosis associated with	comorbidity
+coma	prognosis associated with	etiology
+coma	managed in	intensive care unit
+stupor	managed in	hospital ward
+brain damage	monitored with	imaging
+coma	monitored with	EEG
+coma	monitored with	CT scan
+coma	monitored with	MRI
+brain damage	monitored with	imaging studies
+coma	presentation includes	unresponsiveness
+stupor	presentation includes	minimal responsiveness
+coma	presents with	loss of consciousness
+stupor	presents with	decreased responsiveness
+coma	presents with	absent pupillary reflex
+coma	presents with	abnormal brainstem reflexes
+brain damage	presents with	cognitive deficits
+coma	associated with	diffuse brain swelling
+brain swelling	may cause	coma
+intracranial pressure	monitored for	coma patients
+intracranial pressure	elevated in	coma
+brain edema	contributes to	brain damage
+diffuse axonal injury	associated with	coma
+hypoxic-ischemic injury	causes	coma
+stroke	may cause	coma
+traumatic brain injury	may cause	coma
+infection	causing	brain damage
+sepsis	leading to	coma
+meningitis	causing	coma
+encephalitis	causing	coma
+drug overdose	causing	coma
+toxin exposure	causing	coma
+neuroimaging	used for	assessing coma
+EEG	used for	assessing coma
+MRI	findings in	brain damage
+CT scan	findings in	brain edema
+diffusion restriction	seen on	MRI
+burst-suppression pattern	seen on	EEG
+pupillary reflex	absent in	coma
+corneal reflex	absent in	coma
+gag reflex	absent in	coma
+Glasgow coma scale	score in	coma patients
+Glasgow coma scale	used to assess	coma severity
+long-term outcome	related to	brain damage
+rehabilitation	needed for	brain damage
+mortality	associated with	coma
+readmission	risk associated with	brain injury
+age	impact on	prognosis in coma
+comorbidity	affecting	prognosis of coma
+etiology	guiding	prognosis of coma
+duration of coma	predicts	outcome
+duration of coma	indicates	prognosis
+coma	requires	airway management
+coma	requires	ventilation support
+brain damage	requires	cognitive rehabilitation
+coma	risk of	secondary brain injury
+secondary brain injury	risk factors for	poor outcome
+coma	can progress to	brain death
+brain damage	can lead to	seizures
+coma	associated with	electrolyte disturbance
+stupor	associated with	hypoglycemia
+coma	disruption of	neurotransmission
+coma	evaluated for	reversible causes
+reversible causes	include	intoxication
+coma	important for	prognosis estimation
+brain damage	potential for	recovery with rehabilitation

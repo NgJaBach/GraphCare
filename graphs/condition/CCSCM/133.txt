@@ -1,0 +1,100 @@
+other lower respiratory disease	is a	respiratory disease
+other lower respiratory disease	associated with	smoking
+other lower respiratory disease	associated with	air pollution
+other lower respiratory disease	associated with	occupational exposure
+other lower respiratory disease	risk factor for	hypoxemia
+other lower respiratory disease	risk factor for	respiratory failure
+other lower respiratory disease	increases	hospitalization
+other lower respiratory disease	increases	mortality
+other lower respiratory disease	increases	readmission
+other lower respiratory disease	worsens	quality of life
+other lower respiratory disease	presents with	cough
+other lower respiratory disease	presents with	dyspnea
+other lower respiratory disease	presents with	wheeze
+other lower respiratory disease	presents with	sputum production
+other lower respiratory disease	diagnosed by	spirometry
+other lower respiratory disease	diagnosed by	chest X-ray
+other lower respiratory disease	diagnosed by	CT scan
+other lower respiratory disease	monitored by	pulse oximetry
+other lower respiratory disease	monitored by	arterial blood gas
+other lower respiratory disease	treated with	bronchodilator
+other lower respiratory disease	treated with	inhaled corticosteroid
+other lower respiratory disease	treated with	systemic corticosteroid
+other lower respiratory disease	treated with	antibiotics
+other lower respiratory disease	treated with	oxygen therapy
+other lower respiratory disease	treated with	noninvasive ventilation
+other lower respiratory disease	treated with	invasive ventilation
+other lower respiratory disease	managed with	smoking cessation
+other lower respiratory disease	managed with	pulmonary rehabilitation
+other lower respiratory disease	managed with	vaccination
+influenza vaccination	reduces	exacerbations
+influenza vaccination	reduces	hospitalizations
+smoking cessation	improves	disease progression
+oxygen therapy	improves	hypoxemia
+bronchodilator	relieves	dyspnea
+inhaled corticosteroid	reduces	airway inflammation
+systemic corticosteroid	used for	acute exacerbation
+antibiotic	treats	bacterial infection
+pneumonia	exacerbates	other lower respiratory disease
+acute exacerbation	worsens	symptoms
+pulmonary rehabilitation	improves	exercise capacity
+exercise capacity	predicts	physical performance
+cough	indicates	disease activity
+dyspnea	indicates	disease severity
+sputum	contains	bacteria
+fever	indicates	infection
+hypoxemia	worsens	cognitive function
+hypercapnia	worsens	acidosis
+body mass index	influences	prognosis
+age	influences	mortality
+sex	influences	disease prevalence
+hypertension	comorbid with	other lower respiratory disease
+diabetes mellitus	comorbid with	other lower respiratory disease
+coronary artery disease	comorbid with	other lower respiratory disease
+heart failure	worsens	prognosis of other lower respiratory disease
+anemia	worsens	exercise tolerance
+osteoporosis	associated with	corticosteroid use
+corticosteroid use	increases	osteoporosis risk
+pulmonary hypertension	coexists with	chronic respiratory disease
+sarcopenia	prevalent in	chronic respiratory disease
+malnutrition	associated with	poor prognosis in chronic respiratory disease
+smoking	causes	chronic respiratory disease
+airway remodeling	present in	chronic respiratory disease
+airway hyperresponsiveness	present in	chronic respiratory disease
+exacerbation	triggers	respiratory infections
+infection	triggers	hospitalization
+vaccination	reduces	respiratory infections
+seasonality	affects	infection rate
+bronchodilator therapy	improves	airway obstruction
+inhaled corticosteroid therapy	reduces	airway hyperresponsiveness
+systemic corticosteroid therapy	shortens	recovery time
+nebulized therapy	used for	airway obstruction
+airway inflammation	contributes to	mucus production
+mucus production	causes	cough
+cough	affects	sleep quality
+sleep disturbance	worsens	daytime function
+daytime function	correlates with	quality of life
+quality of life	improves with	rehabilitation
+rehabilitation	reduces	readmission rate
+readmission rate	used for	hospital quality metric
+hospitalization	increases	healthcare cost
+pseudomonas infection	associated with	chronic respiratory disease
+blood eosinophil count	predicts	inhaled corticosteroid response
+alpha-1 antitrypsin deficiency	causes	emphysema
+emphysema	caused by	smoking
+bronchiectasis	associated with	recurrent infections
+pneumothorax	complication of	invasive ventilation
+respiratory failure	requires	ventilation
+hypoxemia	reduces	cognitive performance
+nutrition status	influences	exercise tolerance
+physical activity	improves	exercise tolerance
+tobacco exposure	associated with	lower respiratory disease
+airway obstruction	worsens	hypoxemia
+mucous gland hyperplasia	present in	chronic respiratory disease
+bronchodilator therapy	reduces	dyspnea
+mucus hypersecretion	linked to	chronic bronchitis
+cough variant asthma	related to	lower respiratory disease
+blood gas analysis	used for	assessing gas exchange
+lung compliance	decreases	with chronic respiratory disease
+alveolar ventilation	decreases	with severe obstruction
+respiratory drive	affected by	hypercapnia

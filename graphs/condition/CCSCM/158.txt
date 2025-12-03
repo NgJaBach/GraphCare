@@ -1,0 +1,197 @@
+chronic kidney disease	is associated with	hypertension
+chronic kidney disease	increases risk of	cardiovascular disease
+chronic kidney disease	increases mortality
+chronic kidney disease	causes	anemia
+chronic kidney disease	causes	metabolic acidosis
+chronic kidney disease	causes	hyperkalemia
+chronic kidney disease	causes	hyperphosphatemia
+chronic kidney disease	causes	hypocalcemia
+chronic kidney disease	causes	secondary hyperparathyroidism
+chronic kidney disease	reduces	glomerular filtration rate
+chronic kidney disease	progresses to	end-stage kidney disease
+chronic kidney disease	increases risk of	infection
+chronic kidney disease	increases risk of	hospitalization
+chronic kidney disease	increases risk of	readmission
+chronic kidney disease	is associated with	left ventricular hypertrophy
+chronic kidney disease	is associated with	mineral bone disorder
+chronic kidney disease	causes	edema
+chronic kidney disease	causes	uremic symptoms
+chronic kidney disease	defined by	estimated glomerular filtration rate
+chronic kidney disease	progresses to	dialysis
+chronic kidney disease	requires	dialysis
+chronic kidney disease	treated with	ACE inhibitors
+chronic kidney disease	treated with	ARBs
+chronic kidney disease	treated with	phosphate binders
+chronic kidney disease	treated with	bicarbonate therapy
+chronic kidney disease	treated with	erythropoietin therapy
+chronic kidney disease	increases risk of	stroke
+chronic kidney disease	increases risk of	myocardial infarction
+chronic kidney disease	predisposes to	arrhythmias
+chronic kidney disease	progresses to	renal osteodystrophy
+chronic kidney disease	associated with	vascular calcification
+chronic kidney disease	associated with	sleep disturbance
+chronic kidney disease	associated with	cognitive impairment
+chronic kidney disease	associated with	depression
+chronic kidney disease	causes	pruritus
+chronic kidney disease	causes	nausea
+chronic kidney disease	causes	vomiting
+chronic kidney disease	causes	fatigue
+chronic kidney disease	causes	weakness
+chronic kidney disease	associated with	malnutrition
+chronic kidney disease	associated with	protein-energy wasting
+chronic kidney disease	increases risk of	phosphate retention
+chronic kidney disease	increases risk of	calcium-phosphate imbalance
+chronic kidney disease	worsens	quality of life
+chronic kidney disease	reduces	life expectancy
+chronic kidney disease	increases hospital length of stay
+chronic kidney disease	increases dialysis duration
+chronic kidney disease	increases cost of care
+chronic kidney disease	increases risk of	acute kidney injury
+chronic kidney disease	increases risk of	infection-related mortality
+chronic kidney disease	associated with	anemia severity
+chronic kidney disease	associated with	bleeding tendency
+chronic kidney disease	associated with	dyslipidemia
+chronic kidney disease	associated with	inflammatory markers
+chronic kidney disease	associated with	oxidative stress
+chronic kidney disease	marked by	proteinuria
+chronic kidney disease	associated with	nephrocalcinosis
+chronic kidney disease	associated with	microalbuminuria
+chronic kidney disease	associated with	proteinuria
+chronic kidney disease	increases risk of	hospitalization for infection
+chronic kidney disease	correlates with	C-reactive protein
+chronic kidney disease	associated with	autoimmune disease
+chronic kidney disease	associated with	microvascular disease
+chronic kidney disease	associated with	retinopathy
+chronic kidney disease	increases risk of	acute coronary syndrome
+chronic kidney disease	reduces	activation of vitamin D
+chronic kidney disease	causes	erythropoietin deficiency
+chronic kidney disease	leads to	bone disease
+chronic kidney disease	leads to	renal osteodystrophy
+chronic kidney disease	associated with	retinopathy
+chronic kidney disease	increases risk of	bone fracture
+chronic kidney disease	predisposes to	sarcopenia
+chronic kidney disease	defined by	stage 3-5
+chronic kidney disease	associated with	autoimmune thyroiditis
+chronic kidney disease	associated with	cognitive decline
+chronic kidney disease	increases risk of	sepsis
+chronic kidney disease	associated with	anemia of inflammation
+chronic kidney disease	increases risk of	peritoneal dialysis complications
+chronic kidney disease	increases risk of	electrolyte disturbances
+chronic kidney disease	associated with	iron deficiency anemia
+chronic kidney disease	increases likelihood of	kidney transplant
+chronic kidney disease	associated with	lipid abnormalities
+chronic kidney disease	associated with	insulin resistance
+chronic kidney disease	reduces	activation of vitamin D
+chronic kidney disease	increases risk of	retinopathy
+chronic kidney disease	increases risk of	sepsis
+chronic kidney disease	associated with	autoimmune disease
+chronic kidney disease	associated with	microalbuminuria
+chronic kidney disease	raises	triglyceride level
+chronic kidney disease	associated with	calcification
+chronic kidney disease	increases risk of	pericarditis
+chronic kidney disease	associated with	anemia of chronic disease
+chronic kidney disease	increases risk of	peritoneal dialysis complications
+chronic kidney disease	increases risk of	electrolyte disturbances
+chronic kidney disease	associated with	pancreatic dysfunction
+chronic kidney disease	increases risk of	iron deficiency anemia
+chronic kidney disease	increases likelihood of	kidney transplant
+chronic kidney disease	is associated with	hypertension
+chronic kidney disease	is associated with	diabetes mellitus
+hypertension	is a risk factor for	chronic kidney disease
+diabetes mellitus	is a risk factor for	chronic kidney disease
+chronic kidney disease	increases risk of	cardiovascular events
+chronic kidney disease	increases risk of	heart failure
+chronic kidney disease	increases risk of	stroke
+anemia	is common in	chronic kidney disease
+chronic kidney disease	causes	anemia
+mineral and bone disorder	is common in	chronic kidney disease
+hyperphosphatemia	is a feature of	mineral and bone disorder
+hyperkalemia	is common in	chronic kidney disease
+metabolic acidosis	occurs in	chronic kidney disease
+protein-energy wasting	occurs in	chronic kidney disease
+chronic kidney disease	can progress to	end-stage renal disease
+end-stage renal disease	requires	dialysis
+end-stage renal disease	can be treated with	renal transplantation
+dialysis	includes	hemodialysis
+dialysis	includes	peritoneal dialysis
+hemodialysis	is a	renal replacement therapy
+peritoneal dialysis	is a	renal replacement therapy
+renal replacement therapy	is used for	kidney failure
+kidney failure	is a consequence of	chronic kidney disease
+iron therapy	is used to treat	iron deficiency anemia in chronic kidney disease
+erythropoiesis-stimulating agents	are used to treat	anemia in chronic kidney disease
+iron deficiency	is common in	chronic kidney disease
+phosphate binders	are used to treat	hyperphosphatemia in chronic kidney disease
+sevelamer	is a	phosphate binder
+calcium carbonate	is a	phosphate binder
+calcitriol	is used to treat	secondary hyperparathyroidism in chronic kidney disease
+secondary hyperparathyroidism	is a complication of	chronic kidney disease
+parathyroid hormone	is elevated in	chronic kidney disease
+bone disease	is a consequence of	chronic kidney disease
+bone mineral disorder	is a feature of	chronic kidney disease
+uric acid	is elevated in	chronic kidney disease
+proteinuria	is a sign of	chronic kidney disease
+volume overload	occurs in	chronic kidney disease
+cardiovascular disease	is a leading cause of death in	chronic kidney disease
+mortality	is higher with	chronic kidney disease
+hospitalization	is increased in	chronic kidney disease
+readmission	risk is increased after	hospitalization for chronic kidney disease
+frailty	is associated with	chronic kidney disease
+cognitive impairment	is associated with	chronic kidney disease
+sleep disturbances	are common in	chronic kidney disease
+albuminuria	is a sign of	chronic kidney disease
+proteinuria	identifies	CKD progression
+glomerular filtration rate	is decreased in	chronic kidney disease
+eGFR	is used to stage	chronic kidney disease
+creatinine	rises with	reduced kidney function
+edema	occurs in	chronic kidney disease
+anemia	is managed with	erythropoiesis-stimulating agents
+anemia	is managed with	iron therapy
+anemia	worsens with	CKD progression
+phosphate	accumulates in	chronic kidney disease
+phosphate binders	are used to treat	hyperphosphatemia in chronic kidney disease
+hyperphosphatemia	contributes to	vascular calcification in CKD
+vascular calcification	is common in	chronic kidney disease
+dialysis adequacy	is measured by	Kt/V
+Kt/V	measures	dialysis adequacy
+blood pressure	is controlled with	ACE inhibitors in chronic kidney disease
+ACE inhibitors	slow progression of	chronic kidney disease
+ARBs	slow progression of	chronic kidney disease
+SGLT2 inhibitors	may slow progression of	chronic kidney disease
+metabolic acidosis	worsens	CKD outcomes
+MIA syndrome	occurs in	CKD patients
+dialysis access	is required for	hemodialysis
+arteriovenous fistula	provides	dialysis access
+central venous catheter	provides	dialysis access
+bone mineral disorders	are managed with	phosphate binders
+hyperphosphatemia	is managed with	phosphate binders
+parathyroid hormone	raises risk of	bone fracture in CKD
+bone fracture	risk increases with	CKD-related bone disease
+calcification	happens in	blood vessels in CKD
+vascular calcification	is common in	CKD
+urinalysis	detects	proteinuria
+kidney biopsy	is used for	diagnosing chronic kidney disease
+kidney transplantation	improves	survival in CKD patients
+transplant eligibility	depends on	CKD stage
+immunosuppression	is required after	kidney transplantation
+infection	risk increases with	immunosuppression in CKD
+diuretics	are used to manage	volume overload in chronic kidney disease
+fistula	provides	dialysis access
+dialysis catheter	provides	dialysis access
+nutrition counseling	improves outcomes in	chronic kidney disease
+exercise therapy	improves outcomes in	chronic kidney disease
+smoking	accelerates progression of	chronic kidney disease
+obesity	worsens progression of	chronic kidney disease
+CKD stage 5	is defined as	eGFR < 15 mL/min/1.73 m2
+eGFR	defines	chronic kidney disease stages
+albumin-to-creatinine ratio	is a marker of	CKD progression
+creatinine clearance	decreases in	chronic kidney disease
+protein-energy wasting	is a predictor of	poor CKD outcomes
+anemia	predicts	mortality in CKD
+electrolyte disturbances	are common in	chronic kidney disease
+bicarbonate	is low in	metabolic acidosis CKD
+intra-dialytic hypotension	occurs during	dialysis
+peritoneal dialysis	may cause	peritoneal membrane changes
+bicarbonate in dialysate	is used to maintain	acid-base in dialysis
+renal transplantation	improves	survival for CKD patients
+kidney function	declines with	chronic kidney disease progression

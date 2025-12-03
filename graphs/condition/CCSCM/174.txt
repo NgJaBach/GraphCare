@@ -1,0 +1,100 @@
+female infertility	is a	reproductive condition
+female infertility	is defined as	12 months of unprotected intercourse
+PCOS	is a	common cause of infertility
+advanced age	is associated with	infertility
+anovulation	is a	cause of infertility
+endometriosis	is a	cause of infertility
+tubal factor	causes	infertility
+tubal obstruction	causes	infertility
+uterine pathology	causes	infertility
+hyperprolactinemia	causes	infertility
+hypothyroidism	causes	infertility
+obesity	reduces	fertility
+insulin resistance	is associated with	PCOS
+metabolic syndrome	is associated with	infertility
+diminished ovarian reserve	reduces	fertility
+premature ovarian failure	causes	infertility
+premature ovarian insufficiency	causes	infertility
+gonadotropin disorders	cause	infertility
+prolactin elevation	causes	infertility
+hyperprolactinemia	causes	anovulation
+thyroid disease	causes	infertility
+endometrial abnormalities	cause	infertility
+unexplained infertility	is a	category
+antral follicle count	predicts	ovarian response
+AMH level	predicts	ovarian reserve
+FSH level	indicates	ovarian function
+estradiol level	reflects	ovarian reserve
+ovulation testing	assesses	ovulation
+hysterosalpingography	evaluates	tubal patency
+sonohysterography	evaluates	intrauterine abnormalities
+pelvic ultrasound	evaluates	uterine morphology
+laparoscopy	is used for	endometriosis
+laparoscopy	is used for	tubal obstruction
+IVF	is a	assisted reproductive technology
+ICSI	is a	assisted reproductive technology
+intrauterine insemination	is a	infertility treatment
+clomiphene citrate	is used for	ovulation induction
+letrozole	is used for	ovulation induction
+gonadotropin therapy	is used for	ovarian stimulation
+metformin	improves	ovulation in PCOS
+weight loss	improves	fertility
+exercise	improves	fertility
+smoking	reduces	fertility
+alcohol use	reduces	fertility
+caffeine consumption	is associated with	infertility
+sleep apnea	is associated with	infertility
+age	reduces	pregnancy rate
+duration of infertility	predicts	fertility outcome
+embryo quality	affects	implantation
+endometrial receptivity	affects	implantation
+implantation failure	leads to	infertility
+ovarian stimulation	increases	pregnancy rate
+OHSS risk	is associated with	IVF
+egg quality	affects	fertility outcome
+uterine fibroids	worsen	infertility
+leiomyoma	associated with	infertility
+leiomyoma	treated by	myomectomy
+myomectomy	improves	fertility
+tubal recanalization	improves	tubal patency
+laparoscopy-assisted surgery	treats	endometriosis
+ovarian stimulation protocols	customize	ovarian response
+stimulation protocol	tailors	ovarian response
+hormonal therapy	used for	ovulation induction
+gonadotropin-releasing hormone agonists	suppress	ovulation
+oocyte retrieval	occurs during	IVF
+embryo transfer	determines	implantation success
+embryo quality	predicts	pregnancy outcome
+fertilization rate	predicts	IVF success
+blastocyst development	correlates with	implantation
+euploid embryo	associated with	higher pregnancy rate
+age	reduces	IVF success
+BMI	influences	ART outcomes
+duration of infertility	correlates with	ART success
+previous IVF attempts	reduce	live birth rate
+embryo cryopreservation	enables	fertility preservation
+fertility preservation	includes	oocyte freezing
+oocyte cryopreservation	is used for	fertility preservation
+chemical exposure	associated with	infertility
+autoimmune disease	associated with	infertility
+genetic factor	contributes to	infertility
+FSH receptor polymorphism	associated with	ovarian response
+anovulatory cycle	requires	hormonal therapy
+uterine scar	associated with	infertility
+Asherman syndrome	causes	infertility
+ovarian aging	contributes to	infertility
+ovulation disorder	leads to	infertility
+ovulation disorder	treated with	ovulation induction
+ovulation induction	requires	monitoring
+IVF cycle	requires	ovarian stimulation
+IVF cycle	includes	oocyte retrieval
+IVF cycle	ends with	pregnancy
+IVF cycle	may result in	multiple gestation
+embryo transfer	occurs after	IVF
+fertilization	occurs during	IVF
+ICSI	used for	fertilization of egg
+recurrent pregnancy loss	associated with	infertility treatment
+gamete intrafallopian transfer	is an	ART
+fertility clinic	provides	infertility treatment
+reproductive endocrinology	is a	medical specialty
+age	predicts	fertility outcome

@@ -1,0 +1,65 @@
+benign neoplasm of uterus	is a	uterine fibroid
+benign neoplasm of uterus	is a form of	leiomyoma
+benign neoplasm of uterus	is a type of	fibroid
+benign neoplasm of uterus	originates from	myometrium
+benign neoplasm of uterus	located in	myometrium
+benign neoplasm of uterus	composed of	smooth muscle cells
+benign neoplasm of uterus	associated with	estrogen exposure
+benign neoplasm of uterus	more common in	premenopausal women
+benign neoplasm of uterus	more common in	African descent
+benign neoplasm of uterus	associated with	obesity
+benign neoplasm of uterus	associated with	nulliparity
+benign neoplasm of uterus	associated with	family history
+benign neoplasm of uterus	associated with	early menarche
+benign neoplasm of uterus	associated with	hormonal factors
+benign neoplasm of uterus	increases risk of	heavy menstrual bleeding
+benign neoplasm of uterus	increases risk of	anemia
+benign neoplasm of uterus	may cause	abnormal uterine bleeding
+benign neoplasm of uterus	may cause	infertility
+benign neoplasm of uterus	may cause	pregnancy loss
+benign neoplasm of uterus	may cause	pelvic pain
+benign neoplasm of uterus	may cause	urinary frequency
+benign neoplasm of uterus	diagnosed by	pelvic ultrasound
+benign neoplasm of uterus	diagnosed by	transvaginal ultrasound
+benign neoplasm of uterus	diagnosed by	MRI
+benign neoplasm of uterus	diagnosed by	CT scan
+benign neoplasm of uterus	diagnosed by	histology
+benign neoplasm of uterus	differentiated from	malignant neoplasm
+benign neoplasm of uterus	treated with	myomectomy
+benign neoplasm of uterus	treated with	hysterectomy
+benign neoplasm of uterus	treated with	uterine artery embolization
+benign neoplasm of uterus	treated with	GnRH agonist
+benign neoplasm of uterus	treated with	tranexamic acid
+benign neoplasm of uterus	treated with	birth control pills
+benign neoplasm of uterus	monitored with	ultrasound
+benign neoplasm of uterus	monitored with	MRI
+benign neoplasm of uterus	monitored with	CT scan
+benign neoplasm of uterus	prognosis	good with treatment
+uterine fibroid	is a	benign tumor of uterus
+uterine fibroid	located in	myometrium
+uterine fibroid	classified as	intramural
+uterine fibroid	classified as	subserosal
+uterine fibroid	classified as	submucosal
+intramural fibroid	located in	myometrium
+subserosal fibroid	located in	serosa
+submucosal fibroid	located in	endometrium
+fibroid	causes	distortion of uterine cavity
+myometrium	contains	smooth muscle
+myometrium	part of	uterus
+uterus	contains	endometrium
+endometrium	lines	uterine cavity
+endometrium	changes with	menstrual cycle
+obesity	is a risk factor for	fibroid
+age	increases risk for	fibroid
+African descent	increases risk for	fibroid
+family history	increases risk for	fibroid
+nulliparity	increases risk for	fibroid
+early menarche	increases risk for	fibroid
+estrogen exposure	increases risk for	fibroid
+heavy menstrual bleeding	is a symptom of	fibroid
+anemia	can result from	fibroid
+pelvic pain	can be	fibroid symptom
+urinary frequency	can be	fibroid symptom
+infertility	can result from	fibroid
+pregnancy loss	can result from	fibroid
+endometrial cavity distortion	can be caused by	fibroid

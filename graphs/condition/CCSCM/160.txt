@@ -1,0 +1,100 @@
+urinary tract calculus	is a	nephrolithiasis
+urinary tract calculus	causes	flank pain
+urinary tract calculus	causes	hematuria
+urinary tract calculus	causes	renal colic
+nephrolithiasis	predisposes to	hydronephrosis
+nephrolithiasis	associated with	metabolic syndrome
+nephrolithiasis	risk factor for	urinary tract infection
+dehydration	risk factor for	nephrolithiasis
+calcium oxalate stone	composed of	calcium oxalate
+uric acid stone	composed of	uric acid
+struvite stone	composed of	magnesium ammonium phosphate
+cystine stone	composed of	cystine
+urinary tract calculus	treated with	lithotripsy
+urinary tract calculus	treated with	ureteroscopy
+urinary tract calculus	treated with	percutaneous nephrolithotomy
+ureteral stone	may cause	urinary obstruction
+hydronephrosis	detected by	non-contrast CT
+hydronephrosis	presents with	flank pain
+non-contrast CT	detects	urinary tract calculus
+urologist	performs	lithotripsy
+ultrasound	shows	hydronephrosis
+KUB radiography	detects	radiopaque stones
+radiolucent stone	not detected by	plain radiography
+non-contrast CT	visualizes	calcified stone
+stone analysis	informs	composition
+calcium oxalate stone	causes	obstruction
+cystine stone	associated with	metabolic disorder
+struvite stone	associated with	urinary tract infection
+urinary tract infection	can accompany	nephrolithiasis
+nephrolithiasis	associated with	gout
+obesity	risk factor for	nephrolithiasis
+diabetes	risk factor for	nephrolithiasis
+dehydration	reduces	urine volume
+low urine volume	increases	stone formation
+hypercalciuria	predisposes to	calcium oxalate stone
+hyperoxaluria	predisposes to	calcium oxalate stone
+citrate	prevents	stone formation
+thiazide diuretic	reduces	calcium stone recurrence
+allopurinol	used for	uric acid stone
+potassium citrate	used for	calcium oxalate stone
+stone analysis	shows	calcium oxalate
+stone analysis	shows	uric acid
+urinalysis	reveals	microscopic hematuria
+urinalysis	reveals	pyuria
+24-hour urine test	evaluates	metabolic risk factors
+non-contrast CT	preferred for	stone detection
+KUB radiography	limited by	radiolucent stones
+ultrasound	useful for	hydronephrosis
+ureteral stone	causes	ureteral obstruction
+ureteral obstruction	leads to	hydronephrosis
+urinary tract infection	can accompany	nephrolithiasis
+nephrolithiasis	increases	hospital admission
+nephrolithiasis	associated with	chronic kidney disease
+renal colic	managed with	analgesics
+renal colic	relieved by	NSAIDs
+postoperative stent	placed for	ureteral obstruction
+stent	reduces	obstruction symptoms
+ureteroscopy	used for	stone removal
+shock wave lithotripsy	fragments	stones
+percutaneous nephrolithotomy	removes	large stones
+stone burden	correlates with	recurrence
+urinary stasis	contributes to	stone formation
+dehydration	reduces	urine volume
+low urine volume	increases	stone formation
+family history	increases	nephrolithiasis risk
+metabolic syndrome	increases	stone risk
+gout	associated with	uric acid stone
+hyperparathyroidism	associated with	calcium oxalate stone
+urine oxalate	elevated in	calcium oxalate stone
+hypocitraturia	predisposes to	calcium oxalate stone
+hyperuricosuria	predisposes to	uric acid stone
+stone recurrence	occurs in	nephrolithiasis patients
+calcium oxalate stone	is a	common stone type
+uric acid stone	forms in	acidic urine
+struvite stone	forms in	alkaline urine
+staghorn calculus	is a	large stone
+staghorn calculus	requires	surgical removal
+stone clearance	predicts	recurrence
+non-contrast CT	quantifies	stone burden
+lithotripsy	reduces	stone burden
+ureteral stent	relieves	obstruction
+ureter	obstructed by	stone
+kidney	hosts	nephrolithiasis
+lithotripsy	improves	urine flow
+stone burden	influences	prognosis
+creatinine	increases with	obstructive nephropathy
+eGFR	decreases with	nephrolithiasis
+renal function	affected by	nephrolithiasis
+urine pH	shifts toward	uric acid stone formation
+urease-positive infection	associated with	struvite stone
+stone analysis report	guides	treatment choice
+stone composition	guides	treatment choice
+lithotripsy	used for	large stones
+ureteroscopy	used for	stone removal
+percutaneous nephrolithotomy	indicated for	complex stones
+urinalysis	detects	infection signs
+bacteriuria	associated with	nephrolithiasis
+stone recurrence	predicts	hospital readmission
+hospital readmission	associated with	nephrolithiasis
+stone clearance rate	predicts	prognosis

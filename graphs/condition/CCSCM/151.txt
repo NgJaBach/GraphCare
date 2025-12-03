@@ -1,0 +1,100 @@
+other liver diseases	is a	liver disease
+other liver diseases	includes	nonalcoholic fatty liver disease
+other liver diseases	includes	autoimmune hepatitis
+other liver diseases	includes	alcoholic liver disease
+other liver diseases	includes	cirrhosis
+other liver diseases	includes	hepatitis B
+other liver diseases	includes	hepatitis C
+other liver diseases	includes	primary biliary cholangitis
+other liver diseases	includes	primary sclerosing cholangitis
+other liver diseases	includes	hemochromatosis
+other liver diseases	includes	Wilson disease
+other liver diseases	includes	cholestasis
+other liver diseases	progresses to	cirrhosis
+other liver diseases	progresses to	liver failure
+other liver diseases	predispose to	portal hypertension
+other liver diseases	predispose to	ascites
+other liver diseases	predispose to	hepatic encephalopathy
+other liver diseases	predispose to	variceal bleeding
+other liver diseases	predispose to	spontaneous bacterial peritonitis
+other liver diseases	predispose to	hepatorenal syndrome
+other liver diseases	predispose to	hepatocellular carcinoma
+other liver diseases	associated with	obesity
+other liver diseases	associated with	diabetes mellitus
+other liver diseases	associated with	metabolic syndrome
+other liver diseases	associated with	alcohol use
+other liver diseases	associated with	smoking
+other liver diseases	diagnosed by	liver biopsy
+other liver diseases	diagnosed by	imaging
+other liver diseases	diagnosed by	serology
+other liver diseases	diagnosed by	elastography
+other liver diseases	diagnosed by	ultrasound
+other liver diseases	diagnosed by	CT scan
+other liver diseases	diagnosed by	MRI
+other liver diseases	treated with	ursodeoxycholic acid
+other liver diseases	treated with	corticosteroids
+other liver diseases	treated with	antivirals
+other liver diseases	treated with	diuretics
+other liver diseases	treated with	lactulose
+other liver diseases	treated with	rifaximin
+other liver diseases	treated with	albumin
+other liver diseases	treated with	nutritional support
+other liver diseases	treated with	liver transplant
+other liver diseases	managed with	abstinence
+other liver diseases	prevented by	vaccination
+other liver diseases	prevented by	lifestyle modification
+other liver diseases	monitored with	bilirubin
+other liver diseases	monitored with	albumin
+other liver diseases	monitored with	INR
+other liver diseases	monitored with	MELD score
+other liver diseases	monitored with	Child-Pugh score
+other liver diseases	monitored with	ammonia levels
+other liver diseases	monitored with	liver function tests
+other liver diseases	monitored with	imaging studies
+other liver diseases	risk factor for	hepatocellular carcinoma
+other liver diseases	commonly observed with	portal hypertension
+other liver diseases	cause	inflammation
+other liver diseases	associated with	autoimmune markers
+other liver diseases	associated with	ferritin levels
+other liver diseases	associated with	aminotransferases
+other liver diseases	results in	coagulopathy
+other liver diseases	results in	malnutrition
+other liver diseases	results in	electrolyte imbalance
+other liver diseases	causes	fatigue
+other liver diseases	causes	abdominal pain
+other liver diseases	causes	anorexia
+other liver diseases	predispose to	metabolic derangements
+other liver diseases	associated with	cholangiocarcinoma
+other liver diseases	diagnostic criterion	bilirubin elevation
+other liver diseases	is influenced by	age
+other liver diseases	is influenced by	sex
+other liver diseases	is influenced by	ethnicity
+other liver diseases	present as	fatigue
+other liver diseases	present as	jaundice
+other liver diseases	present as	abdominal distension
+other liver diseases	presents with	pruritus
+other liver diseases	present with	edema
+other liver diseases	associated with	portal vein thrombosis
+other liver diseases	associated with	splenomegaly
+other liver diseases	associated with	hepatic steatosis
+other liver diseases	occurs in	adults
+other liver diseases	observed in	older adults
+other liver diseases	recommended surveillance for	hepatocellular carcinoma
+other liver diseases	influenced by	genetics
+other liver diseases	influenced by	environment
+other liver diseases	tracked by	clinical registry
+other liver diseases	recorded in	hospital data
+other liver diseases	risk of	kidney injury
+other liver diseases	risk of	electrolyte disturbance
+other liver diseases	survival after	transplantation
+other liver diseases	prognosis influenced by	MELD score
+other liver diseases	prognosis influenced by	Child-Pugh score
+other liver diseases	require	vaccination
+other liver diseases	linked to	autoimmune disease
+other liver diseases	present alongside	pancreatitis
+other liver diseases	associated with	gallbladder disease
+other liver diseases	requires	nutrition therapy
+other liver diseases	benefits from	abstinence
+other liver diseases	associated with	kidney disease
+other liver diseases	linked to	obesity-related hepatitis
+other liver diseases	ongoing management includes	lifestyle modification

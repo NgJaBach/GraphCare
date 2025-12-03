@@ -1,0 +1,100 @@
+hypertension with complications	is a	cardiovascular condition
+hypertension with complications	is associated with	target organ damage
+hypertension with complications	increases risk of	stroke
+hypertension with complications	increases risk of	myocardial infarction
+hypertension with complications	increases risk of	heart failure
+hypertension with complications	is associated with	left ventricular hypertrophy
+hypertension with complications	is associated with	retinopathy
+hypertension with complications	is associated with	nephropathy
+hypertension with complications	is associated with	proteinuria
+hypertension with complications	is associated with	chronic kidney disease
+hypertension with complications	causes	end-organ damage
+hypertension with complications	increases	mortality
+secondary hypertension	is a	form of hypertension
+secondary hypertension	caused by	renal artery stenosis
+secondary hypertension	caused by	chronic kidney disease
+secondary hypertension	caused by	sleep apnea
+secondary hypertension	caused by	pheochromocytoma
+secondary hypertension	caused by	endocrine disorders
+secondary hypertension	associated with	obesity
+secondary hypertension	treated with	antihypertensive therapy
+secondary hypertension	managed by	treatment of underlying disease
+secondary hypertension	resolves with	underlying disease treatment
+hypertension with complications	monitored with	blood pressure measurement
+hypertension with complications	managed with	antihypertensive medications
+hypertension with complications	treated with	ACE inhibitors
+hypertension with complications	treated with	ARBs
+hypertension with complications	treated with	thiazide diuretics
+hypertension with complications	treated with	calcium channel blockers
+hypertension with complications	treated with	beta-blockers
+hypertension with complications	predisposes to	atrial fibrillation
+hypertension with complications	predisposes to	coronary artery disease
+hypertension with complications	predisposes to	peripheral artery disease
+hypertension with complications	leads to	hypertensive crisis
+hypertension with complications	is a component of	metabolic syndrome
+hypertension with complications	increases	hospitalization rate
+hypertension with complications	increases	length of stay
+hypertension with complications	is associated with	cognitive impairment
+hypertension with complications	is associated with	kidney failure
+hypertension with complications	is associated with	microalbuminuria
+hypertension with complications	is associated with	hypertensive retinopathy progression
+hypertension with complications	correlates with	age
+hypertension with complications	correlates with	obesity
+hypertension with complications	correlates with	diabetes mellitus
+hypertension with complications	predicts	readmission
+hypertension with complications	predicts	ICU admission
+hypertension with complications	predicts	mortality
+secondary hypertension	predictor of	resistant hypertension
+secondary hypertension	contributes to	treatment-resistant hypertension
+secondary hypertension	increases	risk of cardiovascular events
+secondary hypertension	associated with	renal disease
+secondary hypertension	associated with	endocrine disorders
+secondary hypertension	manifests as	high blood pressure
+hypertension with complications	worsens	end-organ perfusion
+hypertension with complications	increases risk of	aneurysm rupture
+hypertension with complications	accelerates	vascular aging
+hypertension with complications	is associated with	stroke recurrence
+hypertension with complications	contributes to	cerebral hemorrhage
+secondary hypertension	common cause of	resistant hypertension
+secondary hypertension	occurs in	adults
+hypertension with complications	increases	hospitalization utilization
+hypertension with complications	increases	hospitalization cost
+hypertension with complications	is associated with	autonomic dysfunction
+hypertension with complications	is monitored by	echocardiography
+hypertension with complications	is evaluated with	ambulatory blood pressure monitoring
+secondary hypertension	evaluated with	renal Doppler ultrasound
+secondary hypertension	evaluated with	hormonal assays
+hypertension with complications	worsened by	NSAID use
+secondary hypertension	worsened by	nonadherence to therapy
+hypertension with complications	is a target for	risk stratification
+secondary hypertension	requires	diagnostic evaluation for secondary cause
+hypertension with complications	is associated with	salt sensitivity
+hypertension with complications	managed with	lifestyle modification
+secondary hypertension	associated with	sleep-disordered breathing
+secondary hypertension	associated with	thyroid disease
+hypertension with complications	associated with	dyslipidemia
+hypertension with complications	linked with	endothelial dysfunction
+hypertension with complications	affects	quality of life
+hypertension with complications	increases	blood pressure variability
+secondary hypertension	contributes to	premature vascular aging
+hypertension with complications	is associated with	cerebral small vessel disease
+secondary hypertension	monitored with	kidney function tests
+hypertension with complications	increases	risk of renal replacement therapy
+hypertension with complications	is associated with	hypertensive nephrosclerosis
+secondary hypertension	leads to	resistant hypertension diagnosis
+hypertension with complications	is a leading cause of	cardiovascular morbidity
+secondary hypertension	associated with	renal tubulopathy
+hypertension with complications	is present in	older adults
+hypertension with complications	monitored by	lipid panel
+secondary hypertension	presents with	severe hypertension
+hypertension with complications	influences	medication choice
+secondary hypertension	impacts	long-term mortality
+hypertension with complications	requires	regular follow-up
+secondary hypertension	risk factor for	stroke
+hypertension with complications	is associated with	salt intake
+secondary hypertension	associated with	microvascular disease
+hypertension with complications	affects	arrhythmia
+secondary hypertension	common in	pediatric patients
+hypertension with complications	drives	healthcare cost
+secondary hypertension	diagnosed by	imaging studies
+hypertension with complications	is a major contributor to	cardiovascular events

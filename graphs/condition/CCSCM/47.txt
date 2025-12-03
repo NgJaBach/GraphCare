@@ -1,0 +1,20 @@
+other and unspecified benign neoplasm	is a	non-malignant tumor
+other and unspecified benign neoplasm	is a type of	neoplasm
+other and unspecified benign neoplasm	occurs in	patient
+other and unspecified benign neoplasm	located in	skin
+other and unspecified benign neoplasm	located in	breast
+other and unspecified benign neoplasm	located in	liver
+other and unspecified benign neoplasm	located in	brain
+other and unspecified benign neoplasm	located in	bone
+other and unspecified benign neoplasm	located in	uterus
+other and unspecified benign neoplasm	located in	kidney
+other and unspecified benign neoplasm	diagnosed by	biopsy
+other and unspecified benign neoplasm	diagnosed by	imaging
+other and unspecified benign neoplasm	diagnosed by	pathology
+other and unspecified benign neoplasm	treated with	surgical excision
+other and unspecified benign neoplasm	treated with	observation
+other and unspecified benign neoplasm	followed by	surveillance
+other and unspecified benign neoplasm	may recur after	excision
+other and unspecified benign neoplasm	associated with	cosmetic deformity
+other and unspecified benign neoplasm	associated with	mass effect
+other and unspecified benign neoplasm	comorbidity with	hypertension

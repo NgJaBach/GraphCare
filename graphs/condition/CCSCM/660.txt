@@ -1,0 +1,100 @@
+alcohol-related disorders	associated with	liver disease
+alcohol-related disorders	associated with	pancreatitis
+alcohol-related disorders	associated with	gastritis
+liver disease	progresses to	cirrhosis
+cirrhosis	leads to	portal hypertension
+portal hypertension	causes	esophageal varices
+esophageal varices	risk for	variceal bleeding
+ascites	indicates	portal hypertension
+coagulopathy	increases	bleeding risk
+hepatic failure	associated with	hepatic encephalopathy
+hepatic encephalopathy	presents with	confusion
+malnutrition	common in	alcohol-related disorders
+thiamine deficiency	common in	alcohol-related disorders
+Wernicke's encephalopathy	results from	thiamine deficiency
+Korsakoff syndrome	associated with	thiamine deficiency
+peripheral neuropathy	linked to	alcohol use disorder
+myopathy	linked to	chronic alcohol use
+cardiomyopathy	linked to	alcohol use disorder
+atrial fibrillation	linked to	alcohol use disorder
+delirium tremens	occurs during	alcohol withdrawal
+withdrawal syndrome	includes	tremor
+tremor	sign of	withdrawal
+benzodiazepines	used for	withdrawal management
+disulfiram	used for	alcohol dependence
+naltrexone	used for	alcohol dependence
+acamprosate	used for	alcohol dependence
+thiamine supplementation	recommended for	alcohol-related disorders
+macrocytosis	associated with	alcohol use disorder
+gamma-glutamyl transferase	elevated in	alcohol-related disorders
+aspartate aminotransferase	elevated in	alcohol-related disorders
+alanine aminotransferase	elevated in	alcohol-related disorders
+AST	elevated in	alcohol-related disorders
+ALT	elevated in	alcohol-related disorders
+lipid metabolism	disrupted in	alcohol use disorder
+folate deficiency	common in	alcohol-related disorders
+magnesium deficiency	common in	alcohol-related disorders
+hypomagnesemia	observed in	alcohol-related disorders
+hypokalemia	observed in	alcohol-related disorders
+hypophosphatemia	observed in	alcohol-related disorders
+osteoporosis	associated with	heavy alcohol use
+osteopenia	associated with	heavy alcohol use
+sarcopenia	occurs in	chronic alcohol use
+fragility fracture	risk increased by	alcohol use disorder
+hepatorenal syndrome	occurs in	cirrhosis
+hepatocellular carcinoma	risk increased by	alcohol-related disorders
+pancreatitis	triggered by	alcohol use
+pancreatic pseudocyst	complication of	pancreatitis
+esophagogastric varices	risk increased by	portal hypertension
+variceal bleeding	consequence of	esophagogastric varices
+ammonia	elevated in	hepatic failure
+hyperammonemia	caused by	hepatic failure
+ammonia clearance	reduced by	liver disease
+liver transplantation	indicated for	end-stage liver disease
+hepatic failure	leads to	coagulopathy
+alcohol-related disorders	increases	mortality
+readmission risk	increased by	alcohol-related disorders
+traumatic injury	risk increased by	alcohol use
+driving impairment	caused by	alcohol use
+motor vehicle crash	risk increased by	alcohol use
+fetal alcohol spectrum disorder	prevented by	abstinence during pregnancy
+pregnancy	risk with	alcohol use disorder
+fetal alcohol syndrome	can result from	maternal alcohol use
+breast cancer	risk increased by	alcohol consumption
+colorectal cancer	risk increased by	alcohol consumption
+cognitive impairment	associated with	alcohol use disorder
+sleep disturbance	associated with	alcohol use disorder
+immune suppression	caused by	alcohol use disorder
+neutrophil dysfunction	caused by	alcohol use disorder
+inflammation	present in	alcoholic liver disease
+anemia	common in	heavy alcohol use
+thrombocytopenia	common in	cirrhosis
+hyponatremia	associated with	cirrhosis
+hypoalbuminemia	common in	liver disease
+coagulopathy	observed in	liver disease
+vitamin A deficiency	associated with	alcohol-related disorders
+vitamin D deficiency	associated with	alcohol-related disorders
+bone fracture	risk increased by	alcohol use
+frailty	increased by	chronic alcohol use
+metabolic syndrome	linked with	alcohol consumption
+mucosal irritation	caused by	alcohol use
+gastric ulcer	risk increased by	alcohol consumption
+nausea	symptom of	alcohol withdrawal
+tremor	sign of	alcohol withdrawal
+seizure	occurs in	severe alcohol withdrawal
+sleep apnea	associated with	alcohol use
+liver regeneration	impaired in	alcohol-related disorders
+abdominal distension	observed in	ascites
+macrocytic anemia	seen in	alcohol-related disorders
+selenium deficiency	observed in	alcohol-related disorders
+zinc deficiency	observed in	alcohol-related disorders
+nicotine dependence	comorbid with	alcohol use disorder
+depression	comorbid with	alcohol use disorder
+anxiety	comorbid with	alcohol use disorder
+psychiatric disorder	coexists with	alcohol use disorder
+hospitalization	required for	severe withdrawal
+C-reactive protein	elevated in	alcoholic hepatitis
+bilirubin	elevated in	liver disease
+albumin	decreased in	liver disease
+platelet count	decreased in	cirrhosis
+cholestasis	observed in	alcohol-related liver disease
