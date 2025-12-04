@@ -1,0 +1,100 @@
+mastectomy	is a	medical procedure
+mastectomy	indicated for	breast cancer
+mastectomy	treats	breast cancer
+mastectomy	reduces	tumor burden
+mastectomy	followed by	reconstruction
+mastectomy	combined with	axillary lymph node dissection
+mastectomy	performed for	DCIS
+mastectomy	performed for	invasive breast cancer
+risk-reduction mastectomy	is a type of	mastectomy
+contralateral prophylactic mastectomy	is a type of	mastectomy
+skin-sparing mastectomy	is a type of	mastectomy
+nipple-sparing mastectomy	is a type of	mastectomy
+total mastectomy	is a type of	mastectomy
+simple mastectomy	is a type of	mastectomy
+skin-sparing mastectomy	preserves	nipple-areola complex
+mastectomy	reduces	local recurrence
+mastectomy	decreases	breast cancer-specific mortality
+mastectomy	increases	lymphedema risk
+mastectomy	increases	infection risk
+mastectomy	increases	hematoma risk
+mastectomy	increases	seroma risk
+axillary lymph node dissection	increases	lymphedema risk
+axillary lymph node dissection	increases	wound complication risk
+reconstruction	improves	cosmetic outcome
+reconstruction	may delay	adjuvant therapy
+autologous reconstruction	uses	tissue flap
+latissimus dorsi flap	is used in	autologous reconstruction
+tissue flap	used for	autologous reconstruction
+implant-based reconstruction	uses	silicone implant
+implant-based reconstruction	can involve	prosthesis
+prosthesis	used for	reconstruction
+prophylactic mastectomy	aims for	cancer risk reduction
+prophylactic mastectomy	recommended for	BRCA mutation carriers
+contralateral prophylactic mastectomy	reduces	contralateral breast cancer risk
+BRCA mutation	increases	likelihood of risk-reduction mastectomy
+margin status	predicts	recurrence
+pathology report	shows	residual disease
+residual disease	influences	adjuvant therapy
+mastectomy	may require	postoperative care
+reconstruction	performed concurrently with	mastectomy
+reconstruction	improves	patient satisfaction
+reconstruction	affects	body image
+reconstruction timing	affects	complication rate
+surgical drain	used after	mastectomy
+surgical drain	removed after	mastectomy
+postoperative pain	persists after	mastectomy
+lymphedema	risk after	axillary dissection
+economic burden	associated with	mastectomy
+hospital stay	lengthened by	mastectomy
+readmission	associated with	mastectomy
+mammography	used for	postmastectomy surveillance
+MRI	used for	postmastectomy evaluation
+postmastectomy radiotherapy	used for	local control
+adjuvant chemotherapy	recommended after	mastectomy
+radiation therapy	indicated after	mastectomy
+tissue expander	used in	reconstruction
+silicone implant	used in	reconstruction
+breast reconstruction	improves	cosmetic symmetry
+cosmesis	improved by	nipple-sparing mastectomy
+nipple-sparing mastectomy	preserves	nipple-areola complex
+nipple-areola complex	preserved by	nipple-sparing mastectomy
+sensation loss	occurs after	mastectomy
+breast cancer mortality	decreased by	mastectomy
+local control	improved by	mastectomy
+tumor stage	influences	mastectomy decision
+genetic testing	informs	mastectomy decisions
+BRCA mutation	influences	mastectomy decision
+postmastectomy surveillance	includes	mammography
+axillary radiotherapy	used after	mastectomy
+lymphedema management	includes	compression therapy
+nodal status	determines	adjuvant therapy
+margin clearance	associated with	lower recurrence
+breast reconstruction	reduces	chest wall deformity
+tumor removal	performed by	mastectomy
+surgical site infection	occurs after	mastectomy
+wound dehiscence	risk after	mastectomy
+ischemia	risk after	mastectomy
+nerve injury	risk after	mastectomy
+capsular contracture	risk after	implant-based reconstruction
+implant infection	risk after	implant-based reconstruction
+drain site infection	occurs after	mastectomy
+adipose tissue loss	occurs after	mastectomy
+scar visibility	affected by	mastectomy
+surgical planning	considers	margin status
+postoperative fatigue	persists after	mastectomy
+psychological well-being	improves after	reconstruction
+body image	improves after	reconstruction
+contralateral symmetry	achieved by	reconstruction
+cosmesis	enhanced by	nipple-sparing mastectomy
+immediate reconstruction	possible with	mastectomy
+delayed reconstruction	chosen with	mastectomy
+oncoplastic techniques	used with	mastectomy
+neoadjuvant therapy	precedes	mastectomy
+nerve preservation	attempted during	mastectomy
+intraoperative blood loss	occurs during	mastectomy
+postoperative nausea	common after	mastectomy
+psychological impact	follows	mastectomy
+weight changes	occur after	mastectomy
+secondary prevention	includes	mastectomy
+nerve sparing	attempted during	mastectomy

@@ -1,100 +1,100 @@
+alcohol-related disorders	is a	category of addictive disorders
+alcohol-related disorders	includes	alcohol use disorder
+alcohol-related disorders	includes	alcohol dependence
 alcohol-related disorders	associated with	liver disease
+alcohol-related disorders	associated with	cirrhosis
+alcohol-related disorders	associated with	hepatitis
 alcohol-related disorders	associated with	pancreatitis
-alcohol-related disorders	associated with	gastritis
-liver disease	progresses to	cirrhosis
-cirrhosis	leads to	portal hypertension
-portal hypertension	causes	esophageal varices
-esophageal varices	risk for	variceal bleeding
-ascites	indicates	portal hypertension
-coagulopathy	increases	bleeding risk
-hepatic failure	associated with	hepatic encephalopathy
-hepatic encephalopathy	presents with	confusion
-malnutrition	common in	alcohol-related disorders
-thiamine deficiency	common in	alcohol-related disorders
-Wernicke's encephalopathy	results from	thiamine deficiency
-Korsakoff syndrome	associated with	thiamine deficiency
-peripheral neuropathy	linked to	alcohol use disorder
-myopathy	linked to	chronic alcohol use
-cardiomyopathy	linked to	alcohol use disorder
-atrial fibrillation	linked to	alcohol use disorder
-delirium tremens	occurs during	alcohol withdrawal
-withdrawal syndrome	includes	tremor
-tremor	sign of	withdrawal
-benzodiazepines	used for	withdrawal management
-disulfiram	used for	alcohol dependence
-naltrexone	used for	alcohol dependence
-acamprosate	used for	alcohol dependence
-thiamine supplementation	recommended for	alcohol-related disorders
-macrocytosis	associated with	alcohol use disorder
-gamma-glutamyl transferase	elevated in	alcohol-related disorders
-aspartate aminotransferase	elevated in	alcohol-related disorders
-alanine aminotransferase	elevated in	alcohol-related disorders
-AST	elevated in	alcohol-related disorders
-ALT	elevated in	alcohol-related disorders
-lipid metabolism	disrupted in	alcohol use disorder
-folate deficiency	common in	alcohol-related disorders
-magnesium deficiency	common in	alcohol-related disorders
-hypomagnesemia	observed in	alcohol-related disorders
-hypokalemia	observed in	alcohol-related disorders
-hypophosphatemia	observed in	alcohol-related disorders
-osteoporosis	associated with	heavy alcohol use
-osteopenia	associated with	heavy alcohol use
-sarcopenia	occurs in	chronic alcohol use
-fragility fracture	risk increased by	alcohol use disorder
-hepatorenal syndrome	occurs in	cirrhosis
-hepatocellular carcinoma	risk increased by	alcohol-related disorders
-pancreatitis	triggered by	alcohol use
-pancreatic pseudocyst	complication of	pancreatitis
-esophagogastric varices	risk increased by	portal hypertension
-variceal bleeding	consequence of	esophagogastric varices
-ammonia	elevated in	hepatic failure
-hyperammonemia	caused by	hepatic failure
-ammonia clearance	reduced by	liver disease
-liver transplantation	indicated for	end-stage liver disease
-hepatic failure	leads to	coagulopathy
-alcohol-related disorders	increases	mortality
-readmission risk	increased by	alcohol-related disorders
-traumatic injury	risk increased by	alcohol use
-driving impairment	caused by	alcohol use
-motor vehicle crash	risk increased by	alcohol use
-fetal alcohol spectrum disorder	prevented by	abstinence during pregnancy
-pregnancy	risk with	alcohol use disorder
-fetal alcohol syndrome	can result from	maternal alcohol use
-breast cancer	risk increased by	alcohol consumption
-colorectal cancer	risk increased by	alcohol consumption
-cognitive impairment	associated with	alcohol use disorder
-sleep disturbance	associated with	alcohol use disorder
-immune suppression	caused by	alcohol use disorder
-neutrophil dysfunction	caused by	alcohol use disorder
-inflammation	present in	alcoholic liver disease
-anemia	common in	heavy alcohol use
-thrombocytopenia	common in	cirrhosis
-hyponatremia	associated with	cirrhosis
-hypoalbuminemia	common in	liver disease
-coagulopathy	observed in	liver disease
-vitamin A deficiency	associated with	alcohol-related disorders
-vitamin D deficiency	associated with	alcohol-related disorders
-bone fracture	risk increased by	alcohol use
-frailty	increased by	chronic alcohol use
-metabolic syndrome	linked with	alcohol consumption
-mucosal irritation	caused by	alcohol use
-gastric ulcer	risk increased by	alcohol consumption
-nausea	symptom of	alcohol withdrawal
-tremor	sign of	alcohol withdrawal
-seizure	occurs in	severe alcohol withdrawal
-sleep apnea	associated with	alcohol use
-liver regeneration	impaired in	alcohol-related disorders
-abdominal distension	observed in	ascites
-macrocytic anemia	seen in	alcohol-related disorders
-selenium deficiency	observed in	alcohol-related disorders
-zinc deficiency	observed in	alcohol-related disorders
-nicotine dependence	comorbid with	alcohol use disorder
-depression	comorbid with	alcohol use disorder
-anxiety	comorbid with	alcohol use disorder
-psychiatric disorder	coexists with	alcohol use disorder
-hospitalization	required for	severe withdrawal
-C-reactive protein	elevated in	alcoholic hepatitis
-bilirubin	elevated in	liver disease
-albumin	decreased in	liver disease
-platelet count	decreased in	cirrhosis
-cholestasis	observed in	alcohol-related liver disease
+alcohol-related disorders	associated with	fatty liver disease
+alcohol-related disorders	associated with	Wernicke encephalopathy
+alcohol-related disorders	associated with	Korsakoff syndrome
+alcohol-related disorders	associated with	malnutrition
+alcohol-related disorders	associated with	portal hypertension
+alcohol-related disorders	associated with	ascites
+alcohol-related disorders	associated with	hepatocellular carcinoma
+alcohol-related disorders	associated with	cardiomyopathy
+alcohol-related disorders	associated with	arrhythmia
+alcohol-related disorders	associated with	anemia
+alcohol-related disorders	associated with	thrombocytopenia
+alcohol-related disorders	associated with	diabetes mellitus
+alcohol-related disorders	associated with	depression
+alcohol-related disorders	associated with	anxiety
+alcohol-related disorders	comorbid with	hepatitis C
+alcohol-related disorders	comorbid with	HIV infection
+alcohol-related disorders	comorbid with	diabetes mellitus type 2
+alcohol-related disorders	comorbid with	bipolar disorder
+alcohol-related disorders	comorbid with	anxiety disorder
+alcohol-related disorders	treated with	detoxification
+alcohol-related disorders	treated with	naltrexone
+alcohol-related disorders	treated with	acamprosate
+alcohol-related disorders	treated with	disulfiram
+alcohol-related disorders	treated with	behavioral therapy
+alcohol-related disorders	treated with	pharmacotherapy
+naltrexone	is used for	alcohol use disorder
+acamprosate	is used for	alcohol use disorder
+disulfiram	is used for	alcohol use disorder
+topiramate	is used for	alcohol use disorder
+gabapentin	is used for	alcohol withdrawal management
+naltrexone	reduces	relapse risk
+acamprosate	reduces	cravings
+disulfiram	reduces	drinking
+behavioral therapy	improves	abstinence
+motivational interviewing	improves	treatment engagement
+12-step program	is a	rehabilitation approach for alcohol use disorder
+liver function test	is a	diagnostic test for alcohol-related disorders
+gamma-glutamyl transferase	is a	biomarker for alcohol-related disorders
+carbohydrate-deficient transferrin	is a	biomarker for alcohol-related disorders
+AUDIT	is a	screening tool for alcohol-related disorders
+CAGE questionnaire	is a	screening tool for alcohol-related disorders
+Wernicke encephalopathy	is a	complication of alcohol-related disorders
+Korsakoff syndrome	is a	complication of alcohol-related disorders
+thiamine deficiency	is a	consequence of alcohol-related disorders
+magnesium deficiency	is a	consequence of alcohol-related disorders
+pancreatitis	is a	complication of alcohol-related disorders
+hepatic fibrosis	is a	consequence of alcohol-related disorders
+fetal alcohol spectrum disorders	are caused by	maternal alcohol use
+fetal alcohol spectrum disorders	associated with	developmental delay
+maternal abstinence	reduces	risk of fetal alcohol spectrum disorders
+thiamine therapy	is a	treatment for Wernicke encephalopathy
+inpatient care	is a	setting for alcohol-related disorders management
+outpatient program	is a	care option for alcohol-related disorders
+rehabilitation program	is a	treatment option for alcohol-related disorders
+increased healthcare utilization	is a	consequence of alcohol-related disorders
+readmission	is an	outcome of hospitalization for alcohol-related disorders
+length of stay	is an	outcome of hospitalization for alcohol-related disorders
+mortality	is an	outcome of severe alcohol-related disorders
+suicide attempt	is a	outcome associated with alcohol-related disorders
+injury	is an	outcome associated with alcohol-related disorders
+violence	is an	adverse outcome associated with alcohol-related disorders
+economic burden	is a	consequence of alcohol-related disorders
+unemployment	is a	social determinant associated with alcohol-related disorders
+sleep disturbance	is a	symptom of alcohol-related disorders
+delirium tremens	is a	withdrawal complication of alcohol-related disorders
+delirium	is a	withdrawal symptom of alcohol-related disorders
+nutrition support	is a	component of management for alcohol-related disorders
+selenium deficiency	occurs with	alcohol-related disorders
+lipid abnormalities	are common in	alcohol-related disorders
+bone disease	is a	complication of alcohol-related disorders
+delirium tremens	requires	supportive care
+thiamine supplementation	is a	therapy for Wernicke encephalopathy
+nutritional supplementation	is a	component of management for alcohol-related disorders
+sleep disorders	are common in	alcohol-related disorders
+cognitive impairment	is a	sequela of alcohol-related disorders
+neurodegeneration	is associated with	chronic alcohol use
+liver fibrosis	is a	complication of alcohol-related disorders
+hepatic failure	is a	potential outcome of alcohol-related disorders
+alcohol-related disorders	influences	healthcare planning
+caregiver burden	is increased by	alcohol-related disorders
+hospital admission	is a	outcome of alcohol-related disorders
+emergency department visit	is a	outcome of alcohol-related disorders
+cost of care	is a	consequence of alcohol-related disorders
+fetal death	is an	outcome of fetal alcohol spectrum disorders
+maternal abstinence	improves	pregnancy outcomes
+pregnant woman	is at risk for	fetal alcohol spectrum disorders
+fetal death	is an outcome of	fetal alcohol spectrum disorders
+alcohol-related disorders	increases	risk of accidental injury
+driving impairment	is a	consequence of alcohol-related disorders
+driving impairment	is associated with	alcohol-related disorders
+sleep apnea	is associated with	alcohol-related disorders
+naltrexone	reduces	craving
+healthcare planning	is influenced by	alcohol-related disorders

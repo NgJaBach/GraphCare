@@ -1,101 +1,100 @@
 otitis media	is a	middle ear infection
-otitis media	is common in	children
-otitis media	may be caused by	Streptococcus pneumoniae
-otitis media	may be caused by	Haemophilus influenzae
-otitis media	may be caused by	Moraxella catarrhalis
-otitis media	may be caused by	viral infection
-acute otitis media	is a form of	otitis media
-otitis media with effusion	is a form of	otitis media
-chronic otitis media	is a form of	otitis media
-otitis media with effusion	may cause	conductive hearing loss
-otitis media	may lead to	mastoiditis
-otitis media	can cause	tympanic membrane bulging
-otitis media	diagnosed by	otoscopy
-otitis media	diagnosed by	tympanometry
-otitis media	treated with	antibiotics
-amoxicillin	is first line for	acute otitis media
-amoxicillin	treats	acute otitis media
-amoxicillin-clavulanate	used for	resistant otitis media
-symptomatic therapy	includes	analgesia
-tympanostomy tubes	used in	otitis media with effusion
-myringotomy	performed for	otitis media with effusion
-tympanometry	used for	diagnosis of otitis media with effusion
-allergic rhinitis	associated with	otitis media
-nasal obstruction	predisposes to	otitis media
-eustachian tube dysfunction	predisposes to	otitis media
-cigarette smoke exposure	increases risk of	otitis media
-breastfeeding	reduces risk of	otitis media
-pacifier use	increases risk of	otitis media
-daycare attendance	increases risk of	otitis media
-children under 2 years	are at higher risk for	otitis media
-pediatric population	has higher incidence of	otitis media
-seasonal variation	related to	otitis media
-otitis media	leads to increased healthcare utilization
-otitis media	increases antibiotic prescriptions
-pneumococcal vaccine	reduces incidence of	pneumococcal otitis media
-influenza vaccine	reduces incidence of	viral otitis media
-fever	is a symptom of	otitis media
-ear pain	is a symptom of	otitis media
-irritability	is a symptom of	otitis media
-ear discharge	is a sign of	chronic otitis media with perforation
-otitis media	can cause	conductive hearing impairment
+acute otitis media	is a	bacterial infection
+otitis media with effusion	is a	fluid in middle ear
+chronic suppurative otitis media	is a	chronic infection of middle ear
+mastoiditis	is a	complication of otitis media
+cholesteatoma	is a	complication of chronic otitis media
+otitis media	associated with	fever
+otitis media	associated with	ear pain
+otitis media	associated with	irritability
+otitis media	associated with	sleep disturbance
 otitis media	associated with	hearing loss
-otitis media	associated with	speech delay in children
-otitis media	associated with	language delay
-otitis media	may cause	sleep disturbance
-recurrent acute otitis media	defined as	multiple episodes within a year
-recurrent acute otitis media	associated with	chronic otitis media with effusion
-chronic otitis media with perforation	associated with	conductive hearing loss
-mastoiditis	is a complication of	otitis media
-cholesteatoma	is a complication of	chronic otitis media
-otitis media	managed by	primary care physician
-otitis media	managed by	otolaryngologist
-antibiotic duration	recommended for	acute otitis media
-watchful waiting	recommended for	mild acute otitis media
-intravenous antibiotics	used for	severe acute otitis media
-oral antibiotics	used for	acute otitis media in children
-systemic antibiotics	indicated for	acute otitis media
-topical antibiotics	not indicated for	uncomplicated otitis media
-grommets	improve	quality of life in otitis media with effusion
-hearing assessment	recommended for	children with otitis media
-audiology testing	used for	otitis media-related hearing loss
-imaging	not routinely used for	uncomplicated otitis media
-CT imaging	reserved for	suspected mastoiditis
-MRI	used for	evaluation of intracranial complications of otitis media
-pneumococcal colonization	increases risk of	otitis media
-antimicrobial stewardship	aims to reduce unnecessary antibiotic use in otitis media
-antibiotic resistance	complicates	otitis media treatment
-daycare centers	facilitate spread of	otitis media pathogens
-household contacts	share pathogens causing	otitis media
-air quality	affects risk of	otitis media
-air pollution	increases otitis media incidence
-obesity	associated with increased risk of	otitis media
-pneumococcal colonization	increases risk of	otitis media
-antibiotic exposure	increases resistance in	otitis media pathogens
-glucocorticoids	have limited efficacy for	acute otitis media
-antibiotic side effects	include	diarrhea
-otitis media pain	managed with	analgesics
-analgesics	provide pain relief in	otitis media
-antibiotic duration	for acute otitis media	influences outcome
-watchful waiting	yields similar outcomes for	mild cases
-hearing loss	in otitis media	correlates with language development delays
-grommets	reduce	otitis media episodes
-penicillin allergy	complicates	otitis media treatment
-β-lactam allergy	complicates	antibiotic selection for otitis media
-antiviral therapy	not routinely used for	bacterial otitis media
-intranasal steroids	help manage	allergic components linked to otitis media
-pneumococcal vaccine	reduces colonization by	Streptococcus pneumoniae
-influenza vaccine	reduces risk of	pediatric acute otitis media
-ear tube surgery	reduces recurrence of	otitis media with effusion
-language development	affected by	hearing loss due to otitis media
-language delay	associated with	chronic otitis media with effusion
-audiology evaluation	used to monitor	otitis media-related hearing loss
-pediatric ED visits	due to	otitis media
-otitis media	increases annual antibiotic prescriptions in pediatrics
-ear barotrauma	can accompany	otitis media during flying or diving
-perforation of tympanic membrane	occurs with	chronic suppurative otitis media
-conductive hearing loss	can result from	otitis media with effusion
-middle ear effusion	can cause	hearing loss
-antibiotic exposure	can lead to	resistance in otitis media pathogens
-language development	supports early intervention when hearing loss	from otitis media is present
-vaccination	reduces risk of recurrent otitis media in high-risk children
+otitis media with effusion	causes	conductive hearing loss
+otitis media	treated with	amoxicillin
+acute otitis media	treated with	amoxicillin
+acute otitis media	treated with	amoxicillin-clavulanate
+amoxicillin	is first-line therapy for	acute otitis media
+amoxicillin-clavulanate	is second-line therapy for	acute otitis media
+cefdinir	is alternative therapy for	acute otitis media
+azithromycin	is alternative therapy for	penicillin-allergic acute otitis media
+antibiotics	reduce	duration of otitis media symptoms
+Streptococcus pneumoniae	is a	common pathogen in otitis media
+Haemophilus influenzae	is a	common pathogen in otitis media
+Moraxella catarrhalis	is a	common pathogen in otitis media
+Streptococcus pneumoniae	causes	acute otitis media
+Haemophilus influenzae	causes	acute otitis media
+Moraxella catarrhalis	causes	acute otitis media
+pneumococcal conjugate vaccine	reduces	incidence of otitis media
+pneumococcal vaccination	reduces	pneumococcal otitis media incidence
+influenza vaccination	reduces	viral-related otitis media
+daycare attendance	increases	risk of acute otitis media
+smoking exposure	increases	risk of otitis media
+breastfeeding	reduces	risk of otitis media
+pacifier use	associated with	acute otitis media
+allergic rhinitis	predisposes to	otitis media
+eustachian tube dysfunction	predisposes to	otitis media
+nasopharyngeal colonization	precedes	otitis media pathogens
+tympanometry	supports	diagnosis of otitis media
+otoscopy	reveals	bulging tympanic membrane
+bulging tympanic membrane	indicates	acute otitis media
+tympanic membrane perforation	is a complication of	chronic suppurative otitis media
+otorrhea	indicates	chronic suppurative otitis media
+conductive hearing loss	is associated with	otitis media with effusion
+mastoiditis	is a rare complication of	otitis media
+facial nerve palsy	can occur in	extensive otitis media
+intracranial abscess	is a rare complication of	otitis media
+meningitis	can be a complication of	otitis media
+cholesteatoma	arises from	chronic otitis media
+hearing loss	is a consequence of	otitis media with effusion
+audiology	assesses	hearing in otitis media
+myringotomy	is performed for	chronic otitis media with effusion
+tympanostomy tubes	are used for	recurrent otitis media
+tympanostomy tubes	reduce	number of otitis media episodes
+myringotomy	relieves	pressure in otitis media
+analgesia	manages	otalgia
+acetaminophen	reduces	fever in otitis media
+antipyretics	manage	fever in otitis media
+antibiotic resistance	leads to	treatment failure in otitis media
+penicillin-susceptible strains	respond to	amoxicillin
+penicillin-resistant strains	respond to	amoxicillin-clavulanate
+beta-lactam allergy	necessitates	alternative antibiotics in otitis media
+intravenous antibiotics	used for	complicated otitis media
+hospitalization	may be required for	complicated acute otitis media
+pediatric patient	presents with	otitis media
+seasonality	affects	otitis media incidence
+winter months	show	higher otitis media incidence
+immunization status	affects	otitis media risk profile
+nasopharyngeal infection	triggers	otitis media
+clinical diagnosis	relies on	otoscopy and tympanometry
+otitis media	increases	healthcare visits in pediatrics
+caregiver anxiety	increases	with pediatric otitis media
+clinical guidelines	endorse	amoxicillin for acute otitis media
+clinical guidelines	permit	watchful waiting in selected cases
+watchful waiting	is appropriate for	uncomplicated acute otitis media
+antibiotics	carry	adverse effects
+otitis media	affects	school performance
+hearing screening	recommended for	recurrent otitis media
+audiogram	assesses	hearing in otitis media
+mucosal edema	associated with	eustachian tube dysfunction
+middle ear	contains	effusion
+clinical guidelines	inform	otitis media management
+pediatrician	treats	acute otitis media
+parenteral antibiotics	used for	complicated otitis media
+hospitalization	indicates	complicated otitis media
+ENT consultation	recommended for	chronic otitis media with effusion
+adenoid hypertrophy	associated with	chronic otitis media with effusion
+imaging	reserved for	mastoiditis and intracranial complications
+culture	not routinely performed for	straightforward acute otitis media
+culture	reserved for	complicated otitis media
+antibiotic duration	shortens	symptoms relief time in acute otitis media
+otitis media prevention	includes	vaccination and hygiene measures
+immunization programs	reduce	overall otitis media burden
+education	improves	antibiotic compliance in otitis media
+quality of life	affected by	chronic otitis media with effusion
+early age	increases	risk of otitis media
+adenoidectomy	considered for	chronic otitis media with effusion
+antibiotic stewardship	improves	otitis media outcomes
+vaccine effectiveness	translates to	reduced otitis media burden
+antibiotics	have	adverse effects
+parent education	improves	antibiotic adherence in otitis media
+public health campaigns	reduce	otitis media burden

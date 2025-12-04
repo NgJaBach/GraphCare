@@ -1,0 +1,99 @@
+lumpectomy	is a	surgical procedure
+lumpectomy	is used for	breast cancer
+lumpectomy	is a type of	breast-conserving surgery
+lumpectomy	removes	tumor
+lumpectomy	removes	cancerous tissue
+lumpectomy	requires	anesthesia
+lumpectomy	commonly followed by	radiotherapy
+lumpectomy	often performed with	sentinel lymph node biopsy
+lumpectomy	aims for	breast preservation
+lumpectomy	yields	preserved breast
+lumpectomy	yields	tumor-free margins
+lumpectomy	indicated for	early-stage breast cancer
+lumpectomy	contraindicated in	multicentric disease
+lumpectomy	performed with	axillary evaluation
+lumpectomy	alternative to	mastectomy
+lumpectomy	suitable for	localized breast cancer
+lumpectomy	reduces	local recurrence risk
+lumpectomy	associated with	cosmetic outcome
+lumpectomy	may cause	infection
+lumpectomy	may cause	hematoma
+lumpectomy	may cause	seroma
+lumpectomy	may cause	pain
+lumpectomy	performed under	general anesthesia
+lumpectomy	may require	re-excision
+lumpectomy	part of	breast-conserving therapy
+lumpectomy	can be performed with	oncoplastic techniques
+lumpectomy	achieves	negative margins
+lumpectomy	achieves	tumor-free margins
+lumpectomy	supports	local tumor control
+lumpectomy	supports	disease-free survival
+lumpectomy	supports	breast tissue preservation
+lumpectomy	is compatible with	adjuvant therapy
+lumpectomy	allows	cosmetic breast outcome
+lumpectomy	often coupled with	radiotherapy
+lumpectomy	recommended for	ductal carcinoma in situ
+lumpectomy	used for	small breast tumors
+quadrantectomy of breast	is a	surgical procedure
+quadrantectomy of breast	removes	quadrant of breast tissue
+quadrantectomy of breast	is a type of	lumpectomy
+quadrantectomy of breast	performed for	breast cancer
+quadrantectomy of breast	followed by	radiotherapy
+quadrantectomy of breast	requires	sentinel lymph node biopsy
+quadrantectomy of breast	aims for	tumor-free margins
+quadrantectomy of breast	preserves	breast tissue
+quadrantectomy of breast	used in	breast-conserving therapy
+quadrantectomy of breast	yields	preserved breast
+quadrantectomy of breast	may cause	infection
+quadrantectomy of breast	may cause	hematoma
+quadrantectomy of breast	may cause	seroma
+quadrantectomy of breast	performed under	general anesthesia
+quadrantectomy of breast	may require	re-excision
+quadrantectomy of breast	achieves	negative margins
+quadrantectomy of breast	reduces	local recurrence risk
+quadrantectomy of breast	compatible with	adjuvant therapy
+quadrantectomy of breast	indicated for	localized breast cancer
+quadrantectomy of breast	yields	preserved breast tissue
+breast-conserving therapy	includes	lumpectomy
+breast-conserving therapy	includes	quadrantectomy
+radiation therapy	is an	adjuvant therapy
+radiation therapy	is used after	lumpectomy
+radiation therapy	improves	local control
+sentinel lymph node biopsy	is a	procedure
+sentinel lymph node biopsy	performed with	lumpectomy
+sentinel lymph node biopsy	yields	nodal status
+sentinel lymph node biopsy	guides	adjuvant therapy
+axillary evaluation	is a	procedure
+axillary evaluation	performed with	lumpectomy
+axillary evaluation	provides	nodal staging
+negative margins	indicate	tumor clearance
+negative margins	achieved by	lumpectomy
+tumor-free margins	indicate	complete resection
+tumor-free margins	achieved by	lumpectomy
+tumor-free margins	associated with	reduced recurrence
+breast tissue preservation	achieved by	lumpectomy
+cosmetic outcome	improved by	lumpectomy
+cosmetic outcome	preserved by	lumpectomy
+oncoplastic techniques	complement	lumpectomy
+adjuvant therapy	used with	lumpectomy
+adjuvant therapy	includes	radiotherapy
+adjuvant therapy	improves	disease-free survival
+lumen?
+lumpectomy	is associated with	disease-free survival
+lumpectomy	influences	margin status
+lumpectomy	influences	adjuvant therapy decisions
+lumpectomy	influences	prognosis
+quadrantectomy of breast	is a	type of lumpectomy
+quadrantectomy of breast	removes	quadrant of breast tissue
+quadrantectomy of breast	followed by	radiotherapy
+quadrantectomy of breast	requires	general anesthesia
+quadrantectomy of breast	yields	preserved breast tissue
+quadrantectomy of breast	results in	cosmetic outcome
+quadrantectomy of breast	often performed with	axillary evaluation
+quadrantectomy of breast	indicated for	early-stage breast cancer
+quadrantectomy of breast	reduces	local recurrence risk
+quadrantectomy of breast	can be	part of	breast-conserving therapy
+quadrantectomy of breast	is equivalent to	lumpectomy
+breast-conserving surgery	encompasses	lumpectomy
+breast-conserving surgery	encompasses	quadrantectomy
+lumpectomy	and	quadrantectomy share	common goals

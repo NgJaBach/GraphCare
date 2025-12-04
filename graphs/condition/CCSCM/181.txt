@@ -1,101 +1,100 @@
-ENTITY 1	RELATIONSHIP	ENTITY 2
+preeclampsia	increases risk of	preterm birth
 preeclampsia	increases risk of	placental abruption
-preeclampsia	increases risk of	fetal growth restriction
-preeclampsia	treated with	magnesium sulfate
-preeclampsia	treated with	antihypertensive therapy
+preeclampsia	increases risk of	maternal mortality
 gestational diabetes	increases risk of	macrosomia
-gestational diabetes	increases risk of	cesarean delivery
-gestational diabetes	managed with	insulin therapy
-gestational diabetes	managed with	diet modification
 gestational diabetes	increases risk of	neonatal hypoglycemia
+gestational diabetes	increases risk of	cesarean delivery
+gestational diabetes	increases risk of	polyhydramnios
 gestational diabetes	increases risk of	neonatal respiratory distress syndrome
+placenta previa	causes	antepartum hemorrhage
+placenta previa	increases risk of	cesarean delivery
+placental abruption	causes	vaginal bleeding during pregnancy
+placental abruption	increases risk of	fetal distress
+placental insufficiency	associated with	intrauterine growth restriction
+placental insufficiency	associated with	oligohydramnios
+IUGR	increases risk of	perinatal mortality
+IUGR	leads to	low birth weight
+IUGR	associated with	fetal hypoxia
+oligohydramnios	associated with	placental insufficiency
+oligohydramnios	associated with	fetal distress
+polyhydramnios	associated with	fetal anomalies
+polyhydramnios	associated with	gestational diabetes
+polyhydramnios	increases risk of	preterm birth
+ectopic pregnancy	increases risk of	maternal hemorrhage
+ectopic pregnancy	may cause	rupture
+hyperemesis gravidarum	causes	dehydration
+hyperemesis gravidarum	causes	electrolyte disturbance
+hyperemesis gravidarum	associated with	weight loss
 anemia in pregnancy	increases risk of	preterm birth
 anemia in pregnancy	associated with	low birth weight
-anemia in pregnancy	treated with	iron supplementation
-placenta previa	causes	vaginal bleeding
-placenta previa	increases risk of	cesarean delivery
-placenta accreta	causes	postpartum hemorrhage
-placenta accreta	associated with	placenta previa
-placental abruption	leads to	fetal distress
-placental abruption	increases risk of	maternal shock
-placental abruption	associated with	stillbirth
-hyperemesis gravidarum	causes	weight loss
-hyperemesis gravidarum	causes	dehydration
-hyperemesis gravidarum	may require	intravenous fluids
-intrahepatic cholestasis of pregnancy	associated with	fetal distress
-intrahepatic cholestasis of pregnancy	associated with	stillbirth
-chorioamnionitis	caused by	prolonged rupture of membranes
-chorioamnionitis	leads to	neonatal sepsis
-prolonged rupture of membranes	increases risk of	chorioamnionitis
-prolonged rupture of membranes	increases risk of	neonatal sepsis
-uterine atony	causes	postpartum hemorrhage
-postpartum hemorrhage	treated with	tranexamic acid
-postpartum hemorrhage	increases risk of	maternal anemia
-group B streptococcus colonization	leads to	neonatal sepsis
-group B streptococcus colonization	managed with	intrapartum antibiotic prophylaxis
-ectopic pregnancy	managed with	methotrexate
-ectopic pregnancy	risk factor for	tubal rupture
-ectopic pregnancy	leads to	hemorrhage
-spontaneous abortion	associated with	chromosomal abnormality
-spontaneous abortion	risk factor for	future infertility
-stillbirth	associated with	hypertensive disorders of pregnancy
+anemia in pregnancy	increases risk of	fetal hypoxia
+chorioamnionitis	associated with	preterm birth
+chorioamnionitis	associated with	neonatal sepsis
+chorioamnionitis	associated with	maternal fever
+uterine atony	cause of	postpartum hemorrhage
+postpartum hemorrhage	associated with	maternal anemia
+postpartum hemorrhage	requires	transfusion
+uterine scar	risk factor for	placenta accreta
+previous cesarean section	risk factor for	placenta previa
+previous cesarean section	risk factor for	placenta accreta
+placenta accreta	causes	massive hemorrhage
+fetal distress	leads to	emergency cesarean delivery
+fetal distress	associated with	neonatal ICU admission
+fetal malpresentation	associated with	cesarean delivery
 twin pregnancy	associated with	preterm birth
+twin pregnancy	associated with	low birth weight
+twin pregnancy	increases risk of	placental abruption
 twin pregnancy	increases risk of	cesarean delivery
-polyhydramnios	associated with	fetal malpresentation
-oligohydramnios	associated with	fetal distress
-fetal growth restriction	associated with	placental insufficiency
-fetal growth restriction	increases risk of	perinatal mortality
-placental insufficiency	leads to	fetal hypoxia
-placental insufficiency	associated with	fetal growth restriction
-Rh incompatibility	causes	hemolytic disease of newborn
-Rh incompatibility	prevented by	anti-D prophylaxis
+monochorionic twins	at risk for	twin-twin transfusion syndrome
+postterm pregnancy	associated with	placental insufficiency
+postterm pregnancy	increases risk of	fetal distress
+fetal macrosomia	associated with	shoulder dystocia
+shoulder dystocia	associated with	neonatal brachial plexus injury
+neonatal respiratory distress syndrome	associated with	prematurity
+neonatal hypoglycemia	associated with	maternal diabetes
+neonatal jaundice	associated with	prematurity
+neonatal sepsis	associated with	chorioamnionitis
+neonatal sepsis	increases risk of	neonatal mortality
+neonatal mortality	associated with	prematurity
 maternal obesity	increases risk of	gestational diabetes
 maternal obesity	increases risk of	cesarean delivery
-advanced maternal age	increases risk of	chromosomal abnormality
-advanced maternal age	increases risk of	preeclampsia
-smoking during pregnancy	increases risk of	low birth weight
-smoking during pregnancy	increases risk of	placental abruption
-urinary tract infection in pregnancy	increases risk of	pyelonephritis
+smoking during pregnancy	associated with	low birth weight
+smoking during pregnancy	associated with	placental abruption
+smoking during pregnancy	associated with	preterm birth
+hypertensive disorders of pregnancy	associated with	fetal growth restriction
+preeclampsia	associated with	HELLP syndrome
+HELLP syndrome	associated with	liver dysfunction
+thyroid disease in pregnancy	associated with	adverse fetal outcomes
+thyroid disease in pregnancy	associated with	low birth weight
 urinary tract infection in pregnancy	increases risk of	preterm birth
-asymptomatic bacteriuria	treated with	antibiotics
-asymptomatic bacteriuria	increases risk of	pyelonephritis during pregnancy
-chorioamnionitis	leads to	neonatal respiratory distress
-meconium aspiration syndrome	associated with	fetal distress
-fetal distress	leads to	emergency cesarean delivery
-neonatal hypoglycemia	associated with	maternal diabetes
-neonatal respiratory distress syndrome	associated with	prematurity
-neonatal sepsis	caused by	group B streptococcus
-shoulder dystocia	associated with	macrosomia
-macrosomia	increases risk of	shoulder dystocia
-cesarean delivery	associated with	postpartum infection
-cesarean delivery	increases risk of	NICU admission
-cervical insufficiency	leads to	pregnancy loss
+urinary tract infection in pregnancy	increases risk of	pyelonephritis
+excessive gestational weight gain	associated with	macrosomia
+inadequate gestational weight gain	associated with	low birth weight
+tobacco use in pregnancy	associated with	fetal growth restriction
+tobacco use in pregnancy	associated with	placental abruption
+tobacco use in pregnancy	associated with	preterm birth
+group B streptococcus colonization	associated with	neonatal infection
+group B streptococcus colonization	managed with	intrapartum antibiotics
+amniotic fluid embolism	associated with	maternal death
+vasa previa	associated with	fetal bleeding
+meconium-stained amniotic fluid	associated with	fetal distress
+meconium aspiration syndrome	associated with	respiratory failure
+late preterm birth	associated with	respiratory problems
+cervical insufficiency	associated with	miscarriage
 cervical insufficiency	associated with	preterm birth
-cervical cerclage	indicated for	cervical insufficiency
-antenatal corticosteroids	promote	fetal lung maturity
-intravenous antibiotics	used for	chorioamnionitis
-tocolysis	used for	preterm labor
-preterm labor	managed with	bed rest
-postterm pregnancy	associated with	placental aging
-postpartum depression	associated with	impaired mother-child bonding
-postpartum infection	associated with	cesarean delivery
-placental infarction	associated with	placental insufficiency
-placental infarction	leads to	fetal hypoxia
-amniotic fluid embolism	causes	maternal collapse
-amniotic fluid embolism	associated with	fetal distress
-preeclampsia	can progress to	eclampsia
-eclampsia	causes	maternal seizures
-uterine rupture	associated with	prior uterine surgery
-uterine rupture	leads to	fetal distress
-placental abruption	associated with	neonatal death
-neonatal death	associated with	placental abruption
-chorioamnionitis	increases risk of	preterm birth
-meconium	associated with	fetal distress
-cord prolapse	causes	fetal compromise
-twin-to-twin transfusion syndrome	occurs in	monochorionic twins
-monochorionic twins	at risk of	twin-to-twin transfusion syndrome
-polyhydramnios	associated with	fetal malpresentation
-oligohydramnios	associated with	fetal distress
-intrauterine growth restriction	associated with	placental insufficiency
-fetal distress	associated with	emergency cesarean delivery
-postpartum hemorrhage	risk factor for	maternal anemia
+uterine fibroids	associated with	cesarean delivery
+antiphospholipid syndrome	associated with	recurrent pregnancy loss
+antiphospholipid syndrome	associated with	placental insufficiency
+recurrent pregnancy loss	increases risk of	preterm birth
+recurrent pregnancy loss	associated with	infertility
+VBAC	associated with	uterine rupture
+placental infarction	associated with	fetal growth restriction
+placental infarction	associated with	stillbirth
+placental polyp	associated with	postpartum bleeding
+molar pregnancy	associated with	pregnancy loss
+premature rupture of membranes	associated with	preterm birth
+premature rupture of membranes	increases risk of	chorioamnionitis
+fetal demise	associated with	perinatal mortality
+neonatal seizures	associated with	hypoxic-ischemic encephalopathy
+hypoxic-ischemic encephalopathy	associated with	perinatal mortality
+placental infarction	associated with	fetal death

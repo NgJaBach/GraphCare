@@ -1,0 +1,84 @@
+incision and drainage	is a	medical procedure
+incision and drainage	treats	abscess
+abscess	contains	pus
+pus	drained by	incision and drainage
+abscess	located in	skin and subcutaneous tissue
+skin and subcutaneous tissue	includes	dermis
+abscess	associated with	cellulitis
+cellulitis	affects	skin
+incision and drainage	performed under	local anesthesia
+local anesthesia	provides	analgesia
+analgesia	reduces	pain
+pain	managed with	analgesia
+abscess	treated with	incision and drainage
+incision and drainage	often performed in	clinic
+clinic	setting for	minor procedures
+antibiotics	used for	skin and soft tissue infections
+abscess	drainage yields	pus
+pus	sample	culture
+culture	guides	antibiotic selection
+abscess size	influences	drainage extent
+drainage extent	affects	wound healing
+wound healing	occurs by	secondary intention
+secondary intention	describes	healing pattern
+scar	may form	after incision and drainage
+scar	has	cosmetic impact
+bleeding	is a potential complication of	incision and drainage
+bleeding	requires	hemostasis
+hematoma	can occur	after incision and drainage
+hematoma	delays	healing
+infection	risk after	incision and drainage
+inadequate drainage	increases	recurrence risk
+recurrence	occurs after	drainage
+diabetes	increases	infection risk
+diabetes	increases	complication risk
+immunocompromised	increases	infection risk
+antibiotic prophylaxis	indicated for	high-risk abscesses
+high-risk abscesses	include	facial abscess
+facial abscess	requires	urgent drainage
+urgent drainage	prevents	airway obstruction
+airway obstruction	risk with	facial abscess
+facial abscess	located in	face
+incision site	requires	sterile technique
+sterile technique	reduces	infection risk
+infection risk	higher in	diabetic patients
+diabetic patients	have	higher infection risk
+drainage	yields	pus sample
+pus sample	analyzed by	microbiology
+microbiology	identifies	pathogens
+pathogens	include	Staphylococcus aureus
+Staphylococcus aureus	common organism in	skin abscess
+MRSA	can complicate	skin abscess
+MRSA	treated with	specific antibiotics
+antibiotics	chosen based on	culture results
+culture results	guide	antibiotic selection
+ultrasound	guides	incision and drainage
+CT scan	guides	incision and drainage
+deep abscess	requires	imaging-guided drainage
+imaging-guided drainage	uses	ultrasound
+edema	reduces	after drainage
+drainage	relieves	local pressure
+local pressure	contributes to	pain
+pain	decreases	with drainage
+drainage	improves	swelling
+swelling	reduces	after drainage
+abscess	resolves	after drainage
+abscess	leads to	resolution of infection
+resolution of infection	depends on	adequate drainage
+wound care	includes	dressing changes
+dressing changes	performed by	clinician
+clinician	observes	wound healing
+wound healing	completed	gradually
+healing	follows	phases
+phases	include	inflammation
+inflammation	peaks	within 24-48 hours
+inflammation	subsides	with treatment
+antibiotics	may be extended	depending on infection
+abscess	can be	recurrent
+recurrence	risk factor	incomplete drainage
+incomplete drainage	occurs due to	missed pockets
+missed pockets	cause	persistent infection
+persistent infection	requires	repeat drainage
+repeat drainage	performed	if recurrence
+outcome	improves after	drainage
+end result	is	resolution of abscess

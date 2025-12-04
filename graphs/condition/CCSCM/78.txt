@@ -1,107 +1,101 @@
-other CNS infection	is a	CNS infection
-other CNS infection	includes	meningitis
-other CNS infection	may involve	meninges
-bacterial meningitis	is a	bacterial CNS infection
-bacterial meningitis	caused by	bacteria
-bacterial meningitis	treated with	antibiotics
-bacterial meningitis	has	mortality
-viral meningitis	is a	viral CNS infection
-viral meningitis	treated with	supportive care
-cryptococcal meningitis	occurs in	HIV infection
-tuberculous meningitis	occurs in	TB infection
-neisseria meningitidis	causes	meningitis
-streptococcus pneumoniae	causes	meningitis
-haemophilus influenzae	causes	meningitis
-enterovirus	causes	viral meningitis
-herpes simplex virus	causes	encephalitis
-encephalitis	is inflammation of	brain tissue
-herpes simplex encephalitis	treated with	acyclovir
-cryptococcal meningitis	treated with	amphotericin B
-tuberculous meningitis	treated with	antituberculous therapy
-brain abscess	treated with	antibiotics
-brain abscess	may require	surgical drainage
-subdural empyema	treated with	surgical drainage
-intracranial pressure	increases in	CNS infection
-intracranial pressure	causes	brain herniation
-seizure	can occur in	meningitis
-coma	can occur in	encephalitis
-mortality	associated with	CNS infection
-disability	results from	CNS infection
-recovery	depends on	prompt treatment
-CSF analysis	shows	pleocytosis
-CSF analysis	shows	elevated protein
-CSF analysis	shows	low glucose
-Gram stain	identifies	bacterial meningitis pathogen
-CSF culture	identifies	bacterial pathogen
-PCR testing	detects	viral meningitis pathogen
-MRI	helps	diagnose CNS infection
-CT scan	helps	locate brain abscess
-lumbar puncture	yields	CSF sample
-CSF	contains	leukocytes
-neutrophils	present in	CSF of bacterial meningitis
-lymphocytes	present in	CSF of viral meningitis
-glucose level	low in	bacterial meningitis
-protein level	high in	meningitis
-pneumococcal meningitis	has	high mortality
-neonatal meningitis	occurs in	newborns
-pediatric meningitis	occurs in	children
-adult meningitis	occurs in	adults
-intravenous antibiotics	used for	meningitis
-dexamethasone	reduces	inflammation in meningitis
-ceftriaxone	used for	bacterial meningitis
-vancomycin	used for	resistant bacterial meningitis
-ampicillin	used for	neonatal meningitis
-amphotericin B	used for	cryptococcal meningitis
-fluconazole	used for	cryptococcal meningitis
-antibiotic prophylaxis	used for	meningitis prevention
-pneumococcal vaccine	reduces	meningitis incidence
-meningococcal vaccine	reduces	meningitis incidence
-nosocomial meningitis	occurs in	post-surgical patients
-postoperative meningitis	occurs in	surgical patients
-immunocompromised patient	at risk for	cryptococcal meningitis
-HIV infection	increases risk for	cryptococcal meningitis
-neisseria meningitidis	outbreaks	community
-encephalitides	include	herpes simplex encephalitis
-encephalitis	prognosis depends on	early treatment
-age	is risk factor for	meningitis mortality
-imaging findings	aid in	meningitis diagnosis
-PCR panel	tests for	meningitis pathogens
-Gram stain	rapid test for	bacterial meningitis
-CSF culture	slower test for	bacterial meningitis
-neonatal meningitis	mortality	high
-danger signs	indicate	meningitis severity
-seizure	may occur	in meningitis
-hemiparesis	can occur in	CNS infection
-cerebral edema	accompanies	CNS infection
-hydrocephalus	may develop	in meningitis
-brain abscess	causes	focal neurological deficit
-focal neurological deficit	results from	brain abscess
-nosocomial meningitis	requires	ICU care
-postinfectious encephalopathy	follows	meningitis
-imaging	confirms	meningitis
-clinical presentation	varies with	age
-neonatal meningitis	caused by	group B Streptococcus
-group B Streptococcus	causes	neonatal meningitis
+meningitis	is a	CNS infection
+encephalitis	is a	CNS infection
+brain abscess	is a	CNS infection
+poliomyelitis	is a	CNS infection
+Streptococcus pneumoniae	causes	bacterial meningitis
+Neisseria meningitidis	causes	meningitis
+Haemophilus influenzae type b	causes	meningitis
 Listeria monocytogenes	causes	meningitis
-Listeria monocytogenes	causes	meningitis in elderly
-immunization programs	reduce	meningitis burden
+Escherichia coli	causes	neonatal meningitis
+Staphylococcus aureus	causes	brain abscess
+Streptococcus anginosus group	causes	brain abscess
+Cryptococcus neoformans	causes	cryptococcal meningitis
+Mycobacterium tuberculosis	causes	TB meningitis
+Varicella-zoster virus	causes	encephalitis
+Herpes simplex virus 1	causes	encephalitis
+West Nile virus	causes	encephalitis
+Poliovirus	causes	poliomyelitis
+meningitis	presents with	neck stiffness
+meningitis	presents with	fever
+meningitis	presents with	photophobia
+encephalitis	presents with	altered mental status
+encephalitis	presents with	seizures
+brain abscess	presents with	focal deficits
+brain abscess	presents with	headache
+TB meningitis	presents with	headache
+poliomyelitis	presents with	flaccid paralysis
+meningitis	diagnosed by	lumbar puncture
+meningitis	diagnosed by	CSF culture
+CSF	shows	neutrophils in bacterial meningitis
+CSF	shows	low glucose in bacterial meningitis
+PCR test for poliovirus	detects	poliovirus
+MRI brain	detects	encephalitis
+CT head	detects	brain abscess
+CSF culture	yields	bacteria
+Gram stain	identifies	bacteria in CSF
+bacterial meningitis	treated with	antibiotics
+Streptococcus pneumoniae meningitis	treated with	antibiotics
+Neisseria meningitidis meningitis	treated with	antibiotics
+Listeria meningitis	treated with	ampicillin
+neonatal meningitis	treated with	ampicillin
+neonatal meningitis	treated with	gentamicin
+TB meningitis	treated with	anti-tubercular therapy
+cryptococcal meningitis	treated with	amphotericin B
+cryptococcal meningitis	treated with	fluconazole
+encephalitis	treated with	acyclovir
+HSV encephalitis	treated with	acyclovir
+brain abscess	treated with	surgical drainage
+brain abscess	treated with	antibiotics
+meningitis	vaccine-preventable by	Hib vaccine
+meningitis	vaccine-preventable by	pneumococcal vaccine
 polio vaccine	prevents	poliomyelitis
-fecal-oral transmission	facilitates	poliovirus spread
-sanitation measures	reduce	polio transmission
-hand hygiene	reduces	poliovirus transmission
-poliovirus	transmitted by	person-to-person spread
-poliomyelitis	presents with	fever
-poliomyelitis	results in	flaccid paralysis
-poliomyelitis	can cause	diaphragmatic weakness
-poliomyelitis	may require	ventilatory support
-poliomyelitis	survivors may develop	post-polio syndrome
-post-polio syndrome	manifests as	fatigue
-poliovirus	replicates in	gut
-polio vaccine	schedule includes	immunization
-vaccine-derived poliovirus	arises from	OPV
-OPV	is a	live attenuated vaccine
- herd immunity	reduces	polio transmission
-global eradication program	aims for	poliomyelitis elimination
-polio vaccination program	accelerates	immunity buildup
-quadriplegia	results from	poliomyelitis
-respiratory failure	risk in	poliomyelitis
+polio vaccination	prevents	poliomyelitis
+oral polio vaccine	protects against	poliomyelitis
+inactivated polio vaccine	protects against	poliomyelitis
+pneumococcal vaccine	reduces	pneumococcal meningitis
+Haemophilus influenzae type b vaccine	reduces	Hib meningitis
+meningococcal vaccine	reduces	meningitis due to Neisseria meningitidis
+neonate	at risk of	meningitis
+elderly	at risk of	meningitis
+immunocompromised	at risk of	CNS infections
+HIV infection	predisposes to	cryptococcal meningitis
+dental infection	risk factor for	brain abscess
+sinus infection	risk factor for	brain abscess
+meningitis	prognosis	high mortality
+TB meningitis	prognosis	high morbidity
+bacterial meningitis	prognosis	better with early treatment
+poliomyelitis	sequelae	paralysis
+paralysis	sequel to	poliomyelitis
+encephalitis	prognosis	variable
+hearing loss	sequela of	meningitis
+cognitive impairment	sequela of	meningitis
+seizure	complication of	brain abscess
+hydrocephalus	complication of	meningitis
+coma	complication of	severe encephalitis
+polio vaccine	schedule	recommended in childhood
+polio virus	transmission	fecal-oral route
+neisseria meningitidis	transmission	respiratory droplets
+mycobacterium tuberculosis	transmission	airborne route
+cryptococcus neoformans	acquired by	inhalation of environmental dust
+CSF analysis	essential for	meningitis diagnosis
+lumbar puncture	used for	obtain CSF
+antibiotics	reduce	mortality in bacterial meningitis
+dexamethasone	adjunctive therapy for	bacterial meningitis
+acyclovir	recommended for	HSV encephalitis
+amphotericin B	part of	cryptococcal meningitis therapy
+fluconazole	used for	cryptococcal meningitis maintenance
+isoniazid	used for	TB meningitis therapy
+rifampin	used for	TB meningitis therapy
+pyrazinamide	used for	TB meningitis therapy
+ethambutol	used for	TB meningitis therapy
+MRI brain	helpful for	evaluation of meningitis/encephalitis
+neuroimaging	helps diagnose	CNS infections
+polio vaccination	global status	eradication in many regions
+polio	burden	endemic in some regions
+paralysis	residual deficit	poliomyelitis
+poliomyelitis	infection period	acute illness
+fever	symptom	meningitis
+altered mental status	symptom	encephalitis
+headache	symptom	brain abscess
+neck stiffness	symptom	meningitis
+headache	symptom of	meningitis

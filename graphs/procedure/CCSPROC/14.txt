@@ -1,0 +1,88 @@
+trabeculectomy	is a	glaucoma surgery
+trabeculectomy	reduces	intraocular pressure
+trabeculectomy	creates	filtration bleb
+trabeculectomy	augmented with	mitomycin-C
+trabeculectomy	used for	uncontrolled glaucoma
+trabeculectomy	causes	hypotony
+Ahmed valve	is a	glaucoma drainage implant
+Baerveldt implant	is a	glaucoma drainage implant
+Ex-PRESS shunt	is a	glaucoma drainage implant
+Ahmed valve	reduces	intraocular pressure
+Baerveldt implant	reduces	intraocular pressure
+Ex-PRESS shunt	reduces	intraocular pressure
+glaucoma drainage device	is a	implant
+Ahmed valve	requires	conjunctival coverage
+Baerveldt implant	requires	placement surgery
+Xen Gel Stent	is a	MIGS device
+iStent	is a	MIGS device
+iStent inject	is a	MIGS device
+Hydrus Microstent	is a	MIGS device
+Preserflo Microshunt	is a	MIGS device
+Xen Gel Stent	creates	subconjunctival drainage
+Xen Gel Stent	reduces	intraocular pressure
+Hydrus Microstent	reduces	intraocular pressure
+iStent	reduces	outflow resistance
+Selective laser trabeculoplasty	reduces	intraocular pressure
+Argon laser trabeculoplasty	reduces	intraocular pressure
+Laser peripheral iridotomy	treats	angle-closure glaucoma
+Laser peripheral iridotomy	used for	narrow angles
+Laser peripheral iridoplasty	widens	anterior chamber angle
+Argon laser iridoplasty	used for	angle-closure glaucoma
+Goniotomy	used for	congenital glaucoma
+Trabeculotomy	used for	congenital glaucoma
+Ab内部 canaloplasty	is a	MIGS procedure
+Ab interne canaloplasty	reduces	intraocular pressure
+Ab externo canaloplasty	is a	glaucoma procedure
+Canaloplasty	reduces	intraocular pressure
+MIGS	aims for	IOP reduction
+Needling	used for	trabeculectomy revision
+Needling with mitomycin-C	used for	bleb failure
+Bleb revision	performed for	failing trabeculectomy
+glaucoma filtration procedure	includes	trabeculectomy
+glaucoma filtration procedure	includes	tube shunt
+tube shunt	reduces	intraocular pressure
+Ahmed valve	provides	aqueous drainage
+Molteno implant	is a	glaucoma drainage device
+Molteno implant	lowers	intraocular pressure
+Ex-PRESS shunt	is a	refinement of trabeculectomy
+Endoscopic cyclophotocoagulation	reduces	aqueous production
+Cyclophotocoagulation	reduces	aqueous production
+Transscleral cyclophotocoagulation	used for	refractory glaucoma
+Endoscopic cyclophotocoagulation	uses	endoscope
+Cyclodiode laser	used for	refractory glaucoma
+Cyclocryotherapy	reduces	ciliary body function
+iStent inject	reduces	aqueous outflow resistance
+Xen Gel Stent	diverts	aqueous humor
+Hydrus Microstent	diverts	aqueous humor
+Preserflo Microshunt	diverts	aqueous humor
+Laser trabeculoplasty	reduces	intraocular pressure
+Selective laser trabeculoplasty	reduces	intraocular pressure
+Argon laser trabeculoplasty	reduces	intraocular pressure
+Goniotomy	improves	aqueous outflow
+Trabeculotomy	improves	aqueous outflow
+Ab interno trabeculotomy	is a	MIGS procedure
+Ab interno canaloplasty	improves	aqueous outflow
+Canaloplasty	improves	aqueous outflow
+MIGS device	provides	safer alternative
+Needling	improves	bleb survival
+Needling with anti-metabolite	improves	bleb survival
+Bleb needling	improves	filtration survival
+Cataract extraction	combined with	Xen Gel Stent
+Cataract extraction	combined with	Hydrus Microstent
+Cataract extraction	combined with	iStent
+Cataract extraction	combined with	Preserflo Microshunt
+MIGS with cataract extraction	considered for	open-angle glaucoma
+Open-angle glaucoma	treated by	trabeculectomy
+Open-angle glaucoma	treated by	SLT
+Angle-closure glaucoma	treated by	laser peripheral iridotomy
+Angle-closure glaucoma	treated by	laser iridoplasty
+Pediatric glaucoma	treated by	goniotomy
+Pediatric glaucoma	treated by	trabeculotomy
+Adult glaucoma	treated by	canaloplasty
+Adult glaucoma	treated by	MIGS
+Glaucoma	managed by	filtration surgery
+Glaucoma	managed by	MIGS
+Glaucoma	managed by	laser therapy
+Glaucoma	managed by	cyclodestructive procedures
+Conjunctival scarring	reduces	filtration success
+Postoperative inflammation	occurs	after cyclophotocoagulation

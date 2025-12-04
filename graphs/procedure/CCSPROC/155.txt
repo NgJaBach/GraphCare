@@ -1,0 +1,100 @@
+arthrocentesis	is a	medical procedure
+arthrocentesis	performed for	joint effusion
+arthrocentesis	yields	synovial fluid sample
+synovial fluid sample	used for	culture
+synovial fluid sample	analyzed for	cell count
+synovial fluid sample	analyzed for	Gram stain
+synovial fluid sample	analyzed for	crystal analysis
+synovial fluid analysis	distinguishes	inflammatory vs septic effusion
+synovial fluid analysis	supports diagnosis of	septic arthritis
+septic arthritis	diagnosed by	synovial fluid analysis
+arthrocentesis	performed under	sterile technique
+arthrocentesis	performed with	local anesthesia
+arthrocentesis	can be	ultrasound-guided
+ultrasound guidance	improves	needle placement accuracy
+arthrocentesis	contraindicated in	localized infection near puncture site
+arthrocentesis	contraindicated in	uncooperative patient
+arthrocentesis	contraindicated in	coagulopathy
+arthrocentesis	carries	infection risk
+arthrocentesis	carries	bleeding risk
+arthrocentesis	may cause	hemarthrosis
+drainage	achieved by	arthrocentesis
+septic arthritis	often requires	urgent drainage
+arthrocentesis	relieves	joint pressure
+arthrocentesis	provides	synovial fluid for microbial culture
+culture results	guide	antibiotic selection
+culture results	confirm	pathogen
+pathogen	identified by	culture
+cell count in synovial fluid	elevated in	septic arthritis
+neutrophil predominance	seen in	septic arthritis
+crystal analysis	detects	urate crystals
+urate crystals	indicate	gout
+CPPD crystals	indicate	pseudogout
+synovial fluid glucose	decreased in	septic arthritis
+synovial fluid protein	elevated in	inflammatory arthritis
+crystal analysis	distinguishes	gout from pseudogout
+arthrocentesis	supports	joint infection evaluation
+antibiotics	initiated for	septic arthritis
+cultures	guide	antibiotic therapy
+post-procedure care	includes	wound care instructions
+aseptic technique	reduces	infection risk
+local anesthesia	provides	analgesia during arthrocentesis
+analgesia	used for	post-procedure pain relief
+ultrasound-guided arthrocentesis	increases	diagnostic yield
+arthrocentesis	performed in	outpatient setting
+arthrocentesis	can be performed at	bedside
+synovial fluid sample	stored for	culture processing
+culture results	available after	24-72 hours
+Gram stain	provides	rapid preliminary result
+Gram stain	detects	bacteria in synovial fluid
+bacteria	observed in	Gram stain
+urate crystals	visualized by	polarized light microscopy
+polarized light microscopy	identifies	crystal type
+crystal type	informs	treatment choice
+antibiotic therapy	tailored to	culture results
+culture results	inform	pathogen-specific therapy
+pathogen-specific therapy	improves	outcomes in septic arthritis
+clinical improvement	expected after	drainage
+joint swelling	decreases after	drainage
+pain	decreases after	drainage
+outpatient arthrocentesis	associated with	shorter hospital stay
+sample handling	affects	culture viability
+aseptic technique	prevents	cross-contamination
+coagulopathy	is a	relative contraindication to arthrocentesis
+anticoagulation	should be managed before	arthrocentesis
+imaging guidance	can assist	locating effusion
+imaging guidance	improves	success rate
+drainage procedure	part of	septic arthritis management
+aspiration yield	correlates with	effusion size
+culture-negative septic arthritis	occurs with	prior antibiotic exposure
+prior antibiotics	contribute to	culture-negative results
+synovial fluid pH	decreases with	infection
+synovial fluid LDH	elevated in	septic arthritis
+coagulation tests	assessed before	arthrocentesis in high-risk patients
+sterile tray	prepared for	arthrocentesis
+post-procedure observation	recommended for	high-risk patients
+post-procedure infection	monitored for	high-risk patients
+joint fluid	analyzed by	microbiology lab
+microbiology lab	performs	culture and sensitivity
+culture and sensitivity	determine	antibiotic susceptibility
+antibiotic susceptibility	guides	therapy choice
+joint aspiration	indicated in	suspected septic arthritis
+joint aspiration	indicated in	inflammatory arthritis evaluation
+sterile container	used for	synovial fluid collection
+synovial fluid container	labeled with	patient identifier
+sample labeling	ensures	proper tracking
+laboratory testing	performed on	synovial fluid sample
+microbiological testing	essential for	septic arthritis management
+culture yield	influenced by	sample collection technique
+sample transport	requires	timely handling
+transport time	affects	culture viability
+aseptic technique	prevents	contamination
+patient education	includes	aftercare instructions
+synovial fluid	analyzed with	microscopy and culture
+urate crystals	seen under	polarized light
+CPPD crystals	seen under	polarized light
+needle gauge	chosen based on	joint access
+procedure duration	is typically	short
+clinical scenario	determines	need for arthrocentesis
+knee joint	commonly subjected to	arthrocentesis
+hip joint	challenging site for	arthrocentesis

@@ -1,110 +1,99 @@
-thyroid disorders	include	hypothyroidism
-thyroid disorders	include	hyperthyroidism
-thyroid disorders	include	goiter
-thyroid disorders	include	thyroiditis
-thyroid disorders	include	Graves' disease
-thyroid disorders	include	Hashimoto's thyroiditis
-thyroid disorders	include	thyroid cancer
+thyroid disorders	is a	endocrine disorder
+thyroid disorders	includes	hypothyroidism
+thyroid disorders	includes	hyperthyroidism
+thyroid disorders	includes	goiter
+thyroid disorders	includes	thyroiditis
+thyroid disorders	includes	thyroid nodules
+thyroid disorders	includes	thyroid cancer
 hypothyroidism	causes	fatigue
-hypothyroidism	causes	weight gain
-hypothyroidism	treated with	levothyroxine
+hypothyroidism	causes	cold intolerance
+hypothyroidism	causes	constipation
 hypothyroidism	associated with	hyperlipidemia
+hypothyroidism	diagnosed by	elevated TSH
+hypothyroidism	treated with	levothyroxine
+hypothyroidism	requires	TSH monitoring
 hyperthyroidism	causes	weight loss
-hyperthyroidism	causes	tachycardia
-hyperthyroidism	presents with	palpitations
+hyperthyroidism	causes	tremor
+hyperthyroidism	associated with	insomnia
+hyperthyroidism	diagnosed by	suppressed TSH
+hyperthyroidism	diagnosed by	elevated free T4
 hyperthyroidism	treated with	methimazole
 hyperthyroidism	treated with	propylthiouracil
-Graves' disease	is a	autoimmune disease
-Hashimoto's thyroiditis	is a	autoimmune disease
-Hashimoto's thyroiditis	progresses to	hypothyroidism
-Goiter	associated with	iodine deficiency
-Goiter	causes	neck swelling
-Thyroid nodules	include	benign nodules
-Thyroid nodules	may harbor	carcinoma
-Thyroid nodules	evaluated by	ultrasound
-Thyroid nodules	require	biopsy
-Ultrasound	used for	thyroid nodule assessment
-Fine-needle aspiration	used for	thyroid nodule evaluation
-TSH	used for	thyroid function assessment
-Free T4	indicates	thyroid function
-TPO antibodies	associated with	Hashimoto's thyroiditis
-TPO antibodies	may indicate	autoimmune thyroiditis
-Thyroglobulin antibodies	associated with	autoimmune thyroiditis
+hyperthyroidism	treated with	carbimazole
+goiter	causes	neck swelling
+goiter	associated with	iodine deficiency
+goiter	may indicate	thyroid dysfunction
+goiter	evaluated by	thyroid ultrasound
+thyroid nodules	present in	goiter
+thyroid nodules	evaluated by	ultrasound
+thyroid nodules	requires	fine-needle aspiration
+thyroid nodules	risk of	malignancy
+thyroid nodules	common in	adults
+thyroid cancer	diagnosed by	biopsy
+papillary thyroid carcinoma	is a	thyroid cancer subtype
+papillary thyroid carcinoma	treated with	thyroidectomy
+follicular thyroid carcinoma	treated with	thyroidectomy
+anaplastic thyroid carcinoma	has prognosis	poor
+Hashimoto's thyroiditis	is a	autoimmune thyroid disease
+Graves' disease	is a	autoimmune thyroid disease
+Graves' disease	causes	hyperthyroidism
+Graves' disease	associated with	ophthalmopathy
+Graves' disease	treated with	methimazole
+iodine deficiency	causes	goiter
+radiation exposure to neck	increases risk of	thyroid cancer
+radiation exposure to neck	increases risk of	thyroid nodules
+age	is a risk factor for	thyroid cancer
+female sex	associated with	thyroid cancer incidence
+thyroid-stimulating hormone	regulates	thyroid hormone production
 TSH receptor antibodies	indicate	Graves' disease
-Radioactive iodine uptake	used for	hyperthyroidism evaluation
-Graves' ophthalmopathy	associated with	Graves' disease
-Subclinical hypothyroidism	characterized by	elevated TSH
-Subclinical hypothyroidism	risk factor for	progression to overt hypothyroidism
-Subclinical hyperthyroidism	characterized by	suppressed TSH
-Thyroid storm	is a	life-threatening emergency
-Myxedema coma	is a	life-threatening emergency
-Papillary thyroid carcinoma	is a	common thyroid cancer
-Follicular thyroid carcinoma	is a	thyroid cancer subtype
-Medullary thyroid carcinoma	arises from	parafollicular C cells
-Anaplastic thyroid carcinoma	is a	very aggressive cancer
-Thyroidectomy	performed for	thyroid cancer
-Subtotal thyroidectomy	performed for	multinodular goiter
-Total thyroidectomy	indicated for	papillary thyroid carcinoma
-Radioactive iodine therapy	used for	differentiated thyroid carcinoma
-Levothyroxine	treats	hypothyroidism
-Liothyronine	treats	hypothyroidism
-Lithium therapy	associated with	hypothyroidism
-Amiodarone therapy	associated with	thyroid dysfunction
-Iodine deficiency	causes	goiter
-Iodine excess	causes	thyroid dysfunction
-Pregnancy	affects	thyroid function
-Thyroid function tests	include	TSH
-TSH receptor antibodies	associated with	autoimmune hyperthyroidism
-Ultrasound features	suggest	suspicious nodules
-Cystic nodules	are	benign nodules
-Cancer risk	associated with	thyroid nodules
-Goiter	may cause	dysphagia
-Goiter	may cause	dyspnea
-Graves' disease	may cause	tachycardia
-Levothyroxine therapy	requires	dose adjustment
-Hypothyroidism	requires	lifelong replacement therapy
-Hyperthyroidism	requires	beta-blocker therapy for symptom control
-Beta-blocker therapy	used for	hyperthyroid symptoms
-Thyroid function	normal in	euthyroid state
-Calcitonin	produced by	thyroid C cells
-RET mutation	associated with	medullary thyroid carcinoma
-MEN2 syndrome	includes	medullary thyroid carcinoma
-Thyroid cancer	prognosis	depends on stage
-TNM staging system	used for	thyroid cancer staging
-Fine-needle aspiration	yields	malignant cells
-Calcitonin testing	used for	medullary thyroid carcinoma screening
-Endemic goiter	seen in	iodine-deficient regions
-Thyroiditis	includes	subacute granulomatous thyroiditis
-Subacute granulomatous thyroiditis	presents with	neck pain
-Autoimmune thyroiditis	includes	Hashimoto's thyroiditis
-Thyroid cancer	metastasis	regional lymph nodes
-Papillary thyroid carcinoma	metastasis	regional lymph nodes
-Differentiated thyroid carcinoma	includes	papillary carcinoma
-Goiter	imaging shows	enlarged thyroid
-Radioiodine ablation	reduces	thyroid function
-TSH suppression	therapy effect	to reduce recurrence
-Levothyroxine dose	adjusted for	body weight
-Age	affects	thyroid hormone requirements
-Body weight	influences	levothyroxine dose
-Pregnancy	increases	thyroid hormone requirements
-Radioactive iodine therapy	contraindicated in	pregnancy
-Hyperthyroidism	worsened by	smoking
-Smoking	associated with	Graves' disease severity
-Ethnic background	influences	autoimmune thyroiditis prevalence
-Familial history	increases risk of	thyroid cancer
-Radiation exposure	increases risk of	thyroid cancer
-Dietary iodine intake	influences	thyroid function
-Thyroid function	influences	menstrual cycle
-Hypothyroidism	causes	cold intolerance
-Hyperthyroidism	causes	heat intolerance
-Goiter	becomes	nodular goiter
-Nodular goiter	may harbor	malignancy
-Ultrasound	distinguishes	cystic nodules
-Calcium homeostasis	regulated by	thyroid C cells
-Thyroglobulin testing	used for	differentiated thyroid cancer surveillance
-Prognosis	worsens with	advanced stage
-Biopsy	confirms	malignancy
-Cold nodule	suggests	nonfunctioning nodule
-Hot nodule	suggests	autonomous function
-Autonomous nodule	causes	hyperthyroidism
-Painless neck mass	raises	thyroid cancer concern
+free T4	reflects	thyroid hormone status
+free T3	reflects	metabolic activity
+levothyroxine	replaces	thyroid hormone
+levothyroxine	monitoring by	TSH levels
+methimazole	reduces	thyroid hormone production
+propylthiouracil	reduces	thyroid hormone production
+carbimazole	reduces	thyroid hormone production
+iodine-131 therapy	ablates	thyroid tissue
+radioiodine therapy	used for	hyperthyroidism
+radioiodine therapy	used for	Graves' disease
+thyroidectomy	indicated for	thyroid cancer
+thyroidectomy	may cause	hypoparathyroidism
+thyroidectomy	requires	postoperative monitoring
+hypoparathyroidism	causes	hypocalcemia
+hypocalcemia	leads to	neuromuscular irritability
+calcitonin	produced by	thyroid C cells
+thyroid C cells	produce	calcitonin
+medullary thyroid carcinoma	is a thyroid cancer subtype
+thyroglobulin	used for	thyroid cancer surveillance
+thyroglobulin	indicates	thyroid cancer recurrence
+ultrasound	used for	thyroid evaluation
+fine-needle aspiration	used for	thyroid nodule evaluation
+thyroid function tests	used for	thyroid disorders diagnosis
+TSH test	detects	thyroid dysfunction
+free T4 test	aids in	thyroid dysfunction evaluation
+anti-TPO antibodies	present in	Hashimoto's thyroiditis
+TRAb	present in	Graves' disease
+pretibial myxedema	occurs in	Graves' disease
+ophthalmopathy	associated with	Graves' disease
+iodine intake	affects	thyroid function
+selenium status	associated with	autoimmune thyroiditis
+pregnancy	increases	thyroid hormone requirements
+older age	associated with	thyroid cancer risk
+female sex	associated with	thyroid cancer incidence
+smoking	associated with	thyroid cancer risk
+neck irradiation	increases risk of	thyroid dysfunction
+neck biopsy	confirms	thyroid cancer
+surgical margins	indicate	thyroid cancer extent
+thyroid storm	is a complication of	hyperthyroidism
+myxedema coma	is a complication of	hypothyroidism
+neck ultrasound	used for	thyroid assessment
+thyroid scintigraphy	evaluates	thyroid function
+beta-blockers	used for	tachycardia in hyperthyroidism
+external beam radiotherapy	used for	thyroid cancer
+thyroid cancer prognosis	depends on	tumor stage
+lymph node metastasis	indicates	thyroid cancer spread
+intrathyroidal invasion	indicates	thyroid cancer aggressiveness
+levothyroxine dose adjustments	guided by	TSH levels
+thyroid autoimmunity	associated with	thyroid dysfunction
+thyroid hormone replacement	used for	hypothyroidism
+TSH monitoring	guides	levothyroxine dosing

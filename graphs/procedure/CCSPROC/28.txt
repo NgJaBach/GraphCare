@@ -1,0 +1,91 @@
+rhinoplasty	is a	nose surgery
+rhinoplasty	is a	cosmetic procedure
+open rhinoplasty	is a type of	rhinoplasty
+closed rhinoplasty	is a type of	rhinoplasty
+septorhinoplasty	is a type of	rhinoplasty
+rhinoplasty	treats	nasal deformity
+rhinoplasty	treats	cosmetic deformity
+rhinoplasty	corrects	dorsal hump
+rhinoplasty	corrects	nasal tip projection
+rhinoplasty	corrects	deviated septum
+alar base reduction	is a component of	rhinoplasty
+dorsal height reduction	is a component of	rhinoplasty
+tip refinement	is a component of	rhinoplasty
+nostril reshaping	is a component of	rhinoplasty
+hump reduction	is a type of	rhinoplasty
+tip plasty	is a type of	rhinoplasty
+rhinoplasty	performed for	cosmetic improvement
+rhinoplasty	performed for	functional improvement
+non-surgical rhinoplasty	is an alternative to	rhinoplasty
+nasal fillers	are used in	non-surgical rhinoplasty
+non-surgical rhinoplasty	achieves	nasal contouring
+rhinoplasty	requires	anesthesia
+rhinoplasty	requires	general anesthesia
+rhinoplasty	requires	preoperative evaluation
+cartilage graft	is used in	rhinoplasty
+septal cartilage graft	is used in	rhinoplasty
+rib cartilage graft	is used in	rhinoplasty
+ear cartilage graft	is used in	rhinoplasty
+graft	can improve	nasal support
+graft	can augment	nasal bridge
+osteotomy	is performed during	rhinoplasty
+osteotomy	improves	nasal dorsum alignment
+recovery time	is typical after	rhinoplasty
+splint	is applied after	rhinoplasty
+external nasal splint	is used after	rhinoplasty
+internal nasal splint	is used after	rhinoplasty
+stitches	are used in	rhinoplasty
+nasal packing	is placed after	rhinoplasty
+postoperative edema	is expected after	rhinoplasty
+nasal bruising	is common after	rhinoplasty
+edema	is common after	rhinoplasty
+scar	is a potential complication of	rhinoplasty
+infection	is a potential complication of	rhinoplasty
+bleeding	is a potential complication of	rhinoplasty
+asymmetry	is a potential complication of	rhinoplasty
+nasal obstruction	is a potential complication of	rhinoplasty
+revision rhinoplasty	is a possible outcome of	primary rhinoplasty
+nasal scar	is a potential result of	rhinoplasty
+patient satisfaction	is associated with	rhinoplasty
+aesthetic outcome	is improved by	rhinoplasty
+nasal symmetry	is improved after	rhinoplasty
+nasal proportion	is corrected by	rhinoplasty
+nasal shape	is altered by	rhinoplasty
+tip projection	is adjusted by	rhinoplasty
+nasal dorsum	is reshaped by	rhinoplasty
+nasal valve function	is improved after	rhinoplasty
+columella length	is increased by	tip rhinoplasty
+tip rotation	is adjusted during	rhinoplasty
+functional rhinoplasty	is a subset of	rhinoplasty
+cosmetic rhinoplasty	is a subset of	rhinoplasty
+postoperative analgesia	is required after	rhinoplasty
+postoperative instructions	are given after	rhinoplasty
+smoking	worsens	rhinoplasty outcomes
+age	limits	rhinoplasty candidacy
+pregnancy	is a contraindication for	rhinoplasty
+coagulopathy	is a contraindication for	rhinoplasty
+blood thinners	are stopped before	rhinoplasty
+preoperative evaluation	includes	medical history
+imaging studies	are performed before	rhinoplasty
+3D imaging	assists	surgical planning
+informed consent	is required before	rhinoplasty
+outpatient procedure	is typical for	rhinoplasty
+general anesthesia	is used for	rhinoplasty
+general anesthesia	is standard for	rhinoplasty
+surgical duration	is variable for	rhinoplasty
+blood loss	is minimal in	rhinoplasty
+facial symmetry	is improved by	rhinoplasty
+breathing	is improved by	functional rhinoplasty
+bruising	is common after	rhinoplasty
+scar management	is part of	rhinoplasty aftercare
+nasal obstruction	recurs after	rhinoplasty
+breathability	is improved after	functional rhinoplasty
+aesthetics	are enhanced by	rhinoplasty
+columella length	increases after	tip rhinoplasty
+tip rotation	is adjusted during	rhinoplasty
+skin thickness	affects	rhinoplasty outcome
+soft tissue envelope	influences	rhinoplasty results
+nasal vestibule	is accessed during	open rhinoplasty
+columella	is repositioned during	open rhinoplasty
+nasal bones	are separated by	osteotomy
+nasal osteotomy	is performed in	rhinoplasty

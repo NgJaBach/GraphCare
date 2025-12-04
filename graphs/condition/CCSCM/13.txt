@@ -1,108 +1,100 @@
 gastric cancer	is a	malignant neoplasm
-gastric cancer	located in	stomach
+gastric cancer	is located in	stomach
+gastric cancer	is diagnosed at	advanced stage
 gastric cancer	presents with	epigastric pain
-gastric cancer	associated with	H. pylori infection
-gastric cancer	associated with	smoking
-gastric cancer	associated with	high-salt diet
-gastric cancer	more prevalent in	East Asia
+gastric cancer	presents with	weight loss
+gastric cancer	presents with	nausea
+gastric cancer	presents with	vomiting
+gastric cancer	presents with	early satiety
+gastric cancer	presents with	anemia
 gastric cancer	metastasizes to	liver
 gastric cancer	metastasizes to	peritoneum
 gastric cancer	metastasizes to	omentum
-gastric cancer	metastasizes to	lungs
-gastric cancer	has histology	intestinal type
-gastric cancer	has histology	diffuse type
+gastric cancer	metastasizes to	lung
+gastric cancer	metastasizes to	bone
 gastric cancer	diagnosed by	endoscopy
 gastric cancer	diagnosed by	biopsy
 gastric cancer	diagnosed by	CT scan
-gastric cancer	diagnosed by	EUS
+gastric cancer	diagnosed by	PET-CT
+gastric cancer	diagnosed by	endoscopic ultrasound
+gastric cancer	associated with	carcinoembryonic antigen
 gastric cancer	treated with	gastrectomy
-gastric cancer	treated with	lymphadenectomy
 gastric cancer	treated with	chemotherapy
 gastric cancer	treated with	radiotherapy
-gastric cancer	treated with	immunotherapy
 gastric cancer	treated with	targeted therapy
-gastric cancer	treated with	trastuzumab
-gastric cancer	treated with	pembrolizumab
-gastric cancer	biomarker	HER2 expression
-gastric cancer	biomarker	PD-L1 expression
-gastric cancer	biomarker	MSI status
-gastric cancer	biomarker	CEA
-gastric cancer	biomarker	CA 19-9
-gastric cancer	biomarker	p53 mutation
-gastric cancer	genetic predisposition	CDH1 mutation
-gastric cancer	associated with	Epstein-Barr virus
-gastric cancer	associated with	H. pylori infection
-gastric cancer	associated with	gastric atrophy
-gastric cancer	precursor	intestinal metaplasia
-gastric cancer	precursor	atrophic gastritis
-gastric cancer	prognosis	poor
-gastric cancer	prognosis	variable by stage
-gastric cancer	risk factors	male sex
-gastric cancer	risk factors	aging
-gastric cancer	topography	cardia
-gastric cancer	topography	antrum
-gastric cancer	topography	body
+gastric cancer	treated with	immunotherapy
+gastrectomy	is a	surgical procedure
+gastrectomy	is a	surgical procedure
+gastric cancer	treated with	total gastrectomy
+gastric cancer	treated with	proximal gastrectomy
+gastric cancer	treated with	distal gastrectomy
+gastric cancer	treated with	lymph node dissection
+gastric cancer	associated with	Epstein Barr virus
 gastric cancer	histology	intestinal type
 gastric cancer	histology	diffuse type
-gastric cancer	recommended screening	endoscopy
-gastric cancer	recommended staging	CT/MRI
-gastric cancer	surveillance after treatment	endoscopy
-gastric cancer	differential diagnosis	ulcer
-gastric cancer	differential diagnosis	gastritis
-gastric cancer	comorbidity	anemia
-gastric cancer	comorbidity	weight loss
-gastric cancer	comorbidity	malnutrition
-gastric cancer	complication	gastric outlet obstruction
-gastric cancer	complication	ascites
-gastric cancer	laboratory finding	anemia
-gastric cancer	laboratory finding	hypoalbuminemia
-gastric cancer	imaging finding	thickened gastric wall
-gastric cancer	imaging finding	mass lesion
-gastric cancer	staging	TNM system
-gastric cancer	stage	III
-gastric cancer	stage	IV
-gastric cancer	molecular subtype	EBV-positive
-gastric cancer	molecular subtype	MSI-high
-gastric cancer	molecular subtype	CIN-high
-gastric cancer	clinical feature	anorexia
-gastric cancer	clinical feature	early satiety
-gastric cancer	clinical feature	vomiting
-gastric cancer	clinical feature	weight loss
-gastric cancer	clinical feature	melena
-gastric cancer	clinical feature	anemia
-gastric cancer	hospital outcome	mortality
-gastric cancer	hospital outcome	readmission risk
-gastric cancer	treatment outcome	surgical cure
-gastric cancer	treatment outcome	disease control
-gastric cancer	mortality risk	high
-gastric cancer	readmission risk	high
-gastric cancer	cost of care	high
-gastric cancer	quality of life impact	significant
-gastric cancer	prognosis by stage	worse with advanced stage
-gastric cancer	correlation with	lymph node involvement
-gastric cancer	correlation with	peritoneal metastasis
-gastric cancer	correlation with	depth of invasion
-gastric cancer	correlation with	tumor size
-gastric cancer	correlation with	patient age
-gastric cancer	correlation with	alcohol consumption
-gastric cancer	gender correlation	male sex
-gastric cancer	guideline	NCCN
-gastric cancer	guideline	ESMO
-gastric cancer	guideline	surgical margins
-gastric cancer	margin status	negative
-gastric cancer	lymphadenectomy extent	D2
-gastric cancer	prognosis by histology	intestinal better
-gastric cancer	prognosis by histology	diffuse worse
-gastric cancer	microenvironment	desmoplasia
-gastric cancer	microenvironment	immune infiltration
-gastric cancer	receptor	EGFR
-gastric cancer	receptor	VEGFR
-gastric cancer	receptor	MET
-gastric cancer	therapy	palliative care
-gastric cancer	interventional therapy	stenting
-gastric cancer	nutritional impact	hypoalbuminemia
-gastric cancer	management	multidisciplinary
-gastric cancer	research area	precision oncology
-gastric cancer	research area	liquid biopsy
-gastric cancer	research area	molecular profiling
-gastric cancer	comorbidity impact	cardiovascular disease
+gastric cancer	classified by	Lauren classification
+gastric cancer	classified by	WHO histologic type
+H. pylori infection	is risk factor for	gastric cancer
+smoking	is risk factor for	gastric cancer
+pernicious anemia	is risk factor for	gastric cancer
+chronic atrophic gastritis	is risk factor for	gastric cancer
+diet salted fish	is risk factor for	gastric cancer
+intestinal metaplasia	is precursor to	gastric cancer
+gastric cancer	associated with	p53 mutation
+gastric cancer	associated with	BRCA mutation
+gastric cancer	associated with	microsatellite instability
+gastric cancer	associated with	HER2 overexpression
+HER2 overexpression	predicts response to	trastuzumab
+gastric cancer	treated with	trastuzumab
+gastric cancer	treated with	pembrolizumab
+gastric cancer	may express	PD-L1
+gastric cancer	prognosis worse with	peritoneal metastasis
+gastric cancer	prognosis better with	early detection
+early detection	improves	survival
+survival	depends on	stage at diagnosis
+stage at diagnosis	determines	treatment plan
+tumor stage	guides	surgical approach
+gastric cancer	prognosis related to	tumor stage
+stage IV gastric cancer	is a	advanced cancer
+intestinal type gastric cancer	is a histologic type of	gastric cancer
+diffuse type gastric cancer	is a histologic type of	gastric cancer
+Lauren classification	used for	gastric cancer
+WHO classification	used for	gastric cancer
+MSI status	informs	immunotherapy suitability
+EBV-associated gastric cancer	is a subset of	gastric cancer
+gastric cancer recurrence after	gastrectomy
+gastric cancer recurrence after	chemotherapy
+gastric cancer recurrence after	radiotherapy
+surveillance	used for	recurrence detection
+palliative care	provided for	advanced gastric cancer
+nutrition support	important for	gastric cancer patients
+anemia	common in	gastric cancer
+gastric cancer	causes	gastrointestinal bleeding
+older adults	have	higher incidence of gastric cancer
+gastric cancer	incidence highest in	East Asia
+gastric cancer incidence highest in	East Asia
+global burden	related to	late diagnosis
+screening programs	reduce	late gastric cancer diagnosis
+CT scan	used for	staging
+PET-CT	used for	detecting metastases
+peritoneal carcinomatosis	is a	metastasis pattern
+linitis plastica	is a	diffuse type gastric cancer
+gastrectomy	risk of	anastomotic leak
+gastrectomy	risk of	infection
+radiation therapy	adverse effect	nausea
+chemotherapy	adverse effect	neutropenia
+gastric cancer	diagnostic criteria	histology
+gastric cancer	diagnostic criteria	imaging
+lymph node metastasis	indicates	advanced disease
+vascular invasion	indicates	aggressive tumor biology
+gastric cancer prognosis influenced by	tumor differentiation
+HER2 overexpression	associated with	poor prognosis
+EBV-associated gastric cancer	may respond to	immunotherapy
+MSI-high gastric cancer	responds to	pembrolizumab
+gastric cancer incidence highest in	East Asia
+H. pylori eradication	prevents	gastric cancer
+gastrectomy	improves	quality of life
+gastric cancer treated with	neoadjuvant chemotherapy
+neoadjuvant chemotherapy	enables	tumor downstaging
+tumor downstaging	associated with	better survival
+neoadjuvant chemotherapy	improves	overall survival

@@ -1,100 +1,101 @@
-spinal cord injury	is a	neurological trauma
-spinal cord injury	causes	pneumonia
-spinal cord injury	causes	urinary tract infection
-spinal cord injury	causes	pressure ulcer
-spinal cord injury	causes	deep vein thrombosis
-spinal cord injury	causes	pulmonary embolism
-spinal cord injury	causes	sepsis
-spinal cord injury	causes	neurogenic bladder
-spinal cord injury	causes	neurogenic bowel
-spinal cord injury	causes	autonomic dysreflexia
-spinal cord injury	requires	ventilator support
-spinal cord injury	treated by	decompression surgery
-spinal cord injury	treated with	steroids
-spinal cord injury	leads to	contractures
-spinal cord injury	increases	length of stay
-spinal cord injury	increases	hospital costs
-spinal cord injury	increases	mortality
-spinal cord injury	increases	readmission
-autonomic dysreflexia	is a	complication of spinal cord injury
-autonomic dysreflexia	requires	emergency management
-tetraplegia	is a	spinal cord injury type
-paraplegia	is a	spinal cord injury type
-AIS grade A	indicates	complete injury
-AIS grade B	indicates	sensory incomplete
-rehabilitation	improves	functional outcome
-physical therapy	improves	mobility
+spinal cord injury	is a	traumatic injury
+spinal cord injury	occurs at	cervical spine
+spinal cord injury	is classified as	complete injury
+spinal cord injury	is classified as	incomplete injury
+spinal cord injury	leads to	tetraplegia
+spinal cord injury	leads to	paraplegia
+spinal cord injury	predisposes to	pressure ulcer
+spinal cord injury	predisposes to	pneumonia
+spinal cord injury	predisposes to	urinary tract infection
+spinal cord injury	predisposes to	deep vein thrombosis
+spinal cord injury	predisposes to	pulmonary embolism
+spinal cord injury	predisposes to	autonomic dysreflexia
+spinal cord injury	predisposes to	orthostatic hypotension
+spinal cord injury	predisposes to	bradycardia
+spinal cord injury	requires	rehabilitation
+rehabilitation	improves	mobility
+spinal cord injury	treated with	methylprednisolone
+methylprednisolone	is a	corticosteroid
+spinal cord injury	imaged with	MRI
+spinal cord injury	diagnosed by	MRI
+spinal cord injury	managed with	surgery
+spinal cord injury	managed with	immobilization
+autonomic dysreflexia	occurs in	spinal cord injury
+neurogenic bladder	arises from	spinal cord injury
+neurogenic bowel	arises from	spinal cord injury
+catheterization	used for	neurogenic bladder
+urinary catheter	used for	neurogenic bladder
+urinary tract infection	occurs in	spinal cord injury
+pneumonia	occurs in	spinal cord injury
+pressure ulcer	occurs in	spinal cord injury
+deep vein thrombosis	occurs in	spinal cord injury
+pulmonary embolism	occurs in	spinal cord injury
+spinal cord injury	increases risk for	osteoporosis
+osteoporosis	increases risk of	fractures
+spinal cord injury	develops	spasticity
+spasticity	develops in	spinal cord injury
+neuropathic pain	arises from	spinal cord injury
+baclofen	used for	spasticity
+spasticity	managed with	baclofen
+spinal cord injury	treated with	physical therapy
+physical therapy	improves	strength
+spinal cord injury	treated with	occupational therapy
 occupational therapy	improves	independence
-assistive device	improves	activities of daily living
-bowel program	manages	neurogenic bowel
-catheterization	manages	neurogenic bladder
-baclofen	reduces	spasticity
-tizanidine	reduces	spasticity
-gabapentin	reduces	neuropathic pain
-pregabalin	reduces	neuropathic pain
-dantrolene	reduces	spasticity
-botulinum toxin	reduces	spasticity
-methylprednisolone	is a	steroid
-decompression surgery	treats	spinal cord compression
-laminectomy	treats	spinal cord compression
-tracheostomy	is performed for	airway management
-intubation	performed for	airway protection
-ventilator	supports	respiration
-respiratory failure	occurs in	spinal cord injury
-pneumonia	complicates	spinal cord injury
-urinary tract infection	complicates	spinal cord injury
-pressure ulcer	complicates	spinal cord injury
-osteoporosis	develops in	spinal cord injury
-bone density loss	occurs in	spinal cord injury
-orthostatic hypotension	occurs in	spinal cord injury
-thermoregulation disorder	occurs in	spinal cord injury
+assistive device	used for	mobility impairment
+wheelchair	used for	mobility impairment
+brace	used for	spinal stabilization
+spinal cord injury	associated with	scoliosis
 autonomic dysfunction	occurs in	spinal cord injury
-chronic pain	persists in	spinal cord injury
-depression	occurs in	spinal cord injury
-anxiety	occurs in	spinal cord injury
-sleep disorder	occurs in	spinal cord injury
-memory impairment	occurs in	spinal cord injury
-functional independence	achieved by	rehabilitation
-mobility	improves	physical therapy
-daily living activities	supported by	assistive device
-independence	depends on	rehabilitation outcome
-discharge destination	predicts	readmission
-age	affects	mortality
-AIS grade	influences	prognosis
-injury severity	determines	rehabilitation intensity
-spinal cord injury	increases	caregiver burden
-caregiver burden	reduces	quality of life
-urinary catheterization	improves	bladder drainage
-neurogenic bladder	managed by	catheterization
-neurogenic bowel	managed by	bowel regimen
-bowel regimen	improves	bowel continence
-urinary catheter	ensures	bladder drainage
-bladder drainage	reduces	urinary retention
-scoliosis	develops in	spinal cord injury
-bone fracture risk	increases in	spinal cord injury
-infection risk	increases in	spinal cord injury
-pressure redistribution	reduces	pressure ulcer risk
-skin care	prevents	pressure ulcer
-mobilization	improves	muscle strength
-outcome	depends on	injury severity
-injury severity	predicts	rehabilitation intensity
-AIS grade A	influences	prognosis
-spinal cord injury	affects	autonomic function
-autonomic function	affected by	spinal cord injury
-palliative care	involved in	spinal cord injury
-discharge to home	more likely with	milder injury
-milder injury	correlates with	discharge to home
-ambulatory ability	depends on	motor function
-motor function	determines	ambulatory ability
-rehabilitation intensity	influences	functional independence
-functional independence	improves	quality of life
-quality of life	improves	social participation
-social participation	increases	life satisfaction
-life satisfaction	improves	caregiver well-being
-caregiver well-being	depends on	support services
-support services	improve	caregiver well-being
-fusion	stabilizes	spine
-fusion	used for	spinal stabilization
-spinal stabilization	achieved by	fusion
-kinesiotherapy	used for	motor recovery
-neurorehabilitation	specializes in	spinal cord injury
+autonomic dysreflexia	requires	urgent care
+urinary catheterization	risk of	urinary tract infection
+catheterization	increases risk of	urinary tract infection
+urinary catheter	may cause	urethral trauma
+urinary retention	occurs in	spinal cord injury
+sepsis	can follow	urinary tract infection
+sepsis	increases mortality risk	spinal cord injury
+spinal cord injury	requires	long-term care
+long-term care	includes	rehabilitation programs
+rehabilitation programs	improve	functional independence
+functional independence	measured by	ADLs
+spinal cord injury	causes	functional limitation
+functional limitation	reduces	activities of daily living
+spinal cord injury	associated with	depression
+depression	worsens	quality of life
+nutrition management	supports	wound healing
+protein intake	supports	wound healing
+heterotopic ossification	occurs in	spinal cord injury
+heterotopic ossification	limits	range of motion
+range of motion	limited by	heterotopic ossification
+bone density	decreases after	spinal cord injury
+bone density	decreases with	disuse
+smoking	worsens	rehabilitation outcome
+gabapentin	used for	neuropathic pain
+pregabalin	used for	neuropathic pain
+pain	managed with	analgesics
+analgesics	used for	pain
+nutrition	affects	wound healing
+fluid intake	affects	bladder function
+urinary incontinence	occurs in	spinal cord injury
+bone health	influenced by	spinal cord injury
+multidisciplinary care	improves	outcomes
+outcomes	improve with	early rehabilitation
+early rehabilitation	reduces	length of stay
+length of stay	correlates with	hospital costs
+hospital costs	increase with	spinal cord injury
+age	influences	prognosis in spinal cord injury
+injury level	determines	motor function
+motor function	improves with	rehabilitation
+independence	depends on	injury level
+quality of life	affected by	independence
+morbidity	increases with	age in spinal cord injury
+age	impacts	mortality in spinal cord injury
+respiratory function	decreases with	high-level spinal cord injury
+injury level	determines	prognosis
+mobility impairment	managed with	assistive device
+rehabilitation	begins	early after injury
+neural plasticity	enables	functional recovery
+neural plasticity	enhanced by	rehabilitation
+disuse	leads to	bone loss
+bone loss	increases risk of	fractures
+urinary retention	can lead to	sepsis
+pain control	improves	quality of life

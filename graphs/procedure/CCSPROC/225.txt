@@ -1,0 +1,100 @@
+cardioversion	is a	procedure
+electric cardioversion	is a type of	cardioversion
+pharmacological cardioversion	is a type of	cardioversion
+cardioversion	yields	sinus rhythm
+electrical cardioversion	yields	sinus rhythm
+pharmacological cardioversion	yields	sinus rhythm
+atrial fibrillation	is a type of	arrhythmia
+atrial fibrillation	indication for	cardioversion
+atrial flutter	is a type of	arrhythmia
+sinus rhythm	is a	normal rhythm
+left atrial thrombus	contraindication for	cardioversion
+transesophageal echocardiography	used for	pre-cardioversion assessment
+TEE	helps to	exclude	left atrial thrombus
+anticoagulation	reduces	stroke risk
+warfarin	is a	vitamin K antagonist
+direct oral anticoagulants	are a	class of anticoagulants
+amiodarone	is a	antiarrhythmic drug
+ibutilide	is a	antiarrhythmic drug
+sotalol	is a	antiarrhythmic drug
+pharmacological cardioversion	requires	pre-treatment anticoagulation
+electrical cardioversion	requires	sedation
+electrical cardioversion	requires	anesthesia
+periprocedural anticoagulation	includes	heparin bridging
+heparin bridging	is part of	periprocedural anticoagulation
+atrial fibrillation	recurrence after	cardioversion
+cardioversion	reduces	symptoms of atrial fibrillation
+cardioversion	has	complications
+electrical cardioversion	can cause	bradycardia
+bradycardia	is a potential complication of	electrical cardioversion
+cardioversion	requires	continuous ECG monitoring
+anesthesia	provides	sedation during cardioversion
+sedation	is used for	cardioversion
+sinus rhythm	can be maintained by	antiarrhythmic therapy
+amiodarone	maintains	sinus rhythm
+dofetilide	is a	antiarrhythmic drug
+catheter ablation	is an alternative to	cardioversion for rhythm control
+electrical cardioversion	indication for	hemodynamically unstable atrial fibrillation
+electrical cardioversion	preferred for	hemodynamically unstable atrial fibrillation
+pharmacological cardioversion	contraindicated with	QT prolongation
+QT prolongation	is a risk factor for	pharmacological cardioversion
+anticoagulation	recommended before cardioversion	pharmacological cardioversion
+CHA2DS2-VASc score	used to	estimate stroke risk
+HAS-BLED score	used to	estimate bleed risk
+stroke risk	increases with	atrial fibrillation
+atrial fibrillation duration	affects	cardioversion success
+paroxysmal atrial fibrillation	responds better to	electrical cardioversion
+persistent atrial fibrillation	responds less to	electrical cardioversion
+obesity	lowers	cardioversion success
+age	increases	risk of complications during cardioversion
+comorbidity	influences	cardioversion outcome
+electrical cardioversion	requires	synchronized shock delivery
+synchronized shock	is delivered by	defibrillator
+defibrillator	provides	electrical energy
+electrical energy	is measured in	joules
+shock energy	determines	electrical cardioversion success
+post-cardioversion monitoring	includes	telemetry
+telemetry	monitors	heart rhythm
+post-cardioversion anticoagulation	is recommended	depending on AF duration
+AF duration	dictates	anticoagulation duration
+left atrial appendage thrombus	persists	during anticoagulation
+pre-procedure evaluation	includes	rhythm assessment
+rhythm assessment	informs	cardioversion planning
+cardioversion planning	aims to	restore sinus rhythm
+sinus rhythm	is target for	rhythm control
+rhythm control strategy	includes	cardioversion
+electrical cardioversion	is guided by	electrocardiography
+electrocardiography	used for	rhythm assessment during cardioversion
+oxygenation	maintained during	cardioversion
+post-cardioversion evaluation	includes	rhythm check
+post-cardioversion anticoagulation plan	determined by	AF duration
+AF duration	determines	anticoagulation strategy
+anticoagulation strategy	includes	heparin bridging
+heparin bridging	reduces	thromboembolism
+thromboembolism	risk during	cardioversion
+electrical cardioversion	has	rare complications
+cardioversion	performed in	hospital setting
+outpatient cardioversion	available	in some centers
+outpatient cardioversion	reduces	hospital stay
+cost of cardioversion	varies with	setting
+catheter ablation	reduces	atrial fibrillation recurrence after cardioversion
+antiarrhythmic drug therapy	used for	rhythm maintenance after cardioversion
+dronedarone	is a	antiarrhythmic drug
+dronedarone	used for	rhythm control after cardioversion
+flecainide	is a	antiarrhythmic drug
+flecainide	considered for	pharmacological cardioversion in stable patients
+propafenone	is a	antiarrhythmic drug
+propafenone	used for	pharmacological cardioversion in selected patients
+electrical cardioversion	success depends on	AF duration
+AF duration	influences	risk of recurrence after cardioversion
+recurrence after cardioversion	is common in	atrial fibrillation
+post-cardioversion monitoring	detects	arrhythmia recurrences
+rate control	often used with	rhythm control strategies
+rhythm control strategy	competes with	rate control strategy
+catheter ablation	may be used after	failed cardioversion
+radiofrequency ablation	is a method of	catheter ablation
+cryoablation	is a method of	catheter ablation
+anticoagulation	may be interrupted after	successful cardioversion
+electrical cardioversion	recommends anticoagulation before procedure
+cardioversion	contributes to	rhythm control in AF
+cardioversion	is part of	rhythm management in AF

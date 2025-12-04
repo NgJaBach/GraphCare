@@ -1,100 +1,74 @@
-respiratory distress syndrome	is a	neonatal lung disease
-respiratory distress syndrome	is a	lung disease
-respiratory distress syndrome	is caused by	surfactant deficiency
-surfactant deficiency	causes	respiratory distress syndrome
-surfactant	treats	respiratory distress syndrome
-surfactant therapy	is used for	respiratory distress syndrome
-respiratory distress syndrome	requires	oxygen therapy
-oxygen therapy	is used for	respiratory distress syndrome
-respiratory distress syndrome	is managed with	ventilation
-ventilation	is used for	respiratory distress syndrome
-ventilation	provides	respiratory support
-respiratory support	is used for	respiratory distress syndrome
-gas exchange	is impaired in	respiratory distress syndrome
-gas exchange	improves with	ventilation
-alveolar collapse	occurs in	respiratory distress syndrome
-alveolar collapse	contributes to	hypoxemia
-hypoxemia	worsens	respiratory distress syndrome
-hypoxemia	increases	mortality risk
-mortality risk	increases	respiratory distress syndrome
-respiratory distress syndrome	increases	length of stay
-length of stay	correlates with	hospital cost
-hospital cost	increases with	respiratory distress syndrome
-neonate	requires	surfactant therapy
-neonates	require	oxygen therapy
-neonates	require	ventilation
-oxygen therapy	reduces	hypoxemia
-ventilation	reduces	hypercapnia
-hypercapnia	occurs in	respiratory distress syndrome
-hypercapnia	worsens	hypoxemia
-CPAP therapy	is used for	mild respiratory distress syndrome
-CPAP therapy	reduces	need for intubation
-intubation	increases	risk of ventilator-associated pneumonia
-ventilator-associated pneumonia	increases	mortality risk
-mortality risk	associated with	prematurity
-prematurity	is a risk factor for	respiratory distress syndrome
-oxygen toxicity	is a potential complication of	oxygen therapy
-oxygen therapy	requires	monitoring
-monitoring	is necessary for	respiratory distress syndrome
-monitoring	includes	blood gas analysis
-blood gas analysis	informs	oxygenation management
-oxygenation management	includes	FiO2 adjustment
-FiO2 adjustment	is controlled by	clinician
-clinician	manages	respiratory distress syndrome
-neonatal intensive care unit	cares for	respiratory distress syndrome
-neonatal intensive care unit	provides	supportive care
-supportive care	includes	respiratory therapy
-respiratory therapy	includes	oxygen therapy
-oxygen therapy	reduces	hypoxemia
-hypoxemia	worsens	tissue hypoxia
-tissue hypoxia	affects	organ function
-organ function	reflects	disease severity
-disease severity	predicts	prognosis
-prognosis	foretells	outcome
-outcome	drives	clinical decisions
-clinical decisions	influenced by	prognosis
-prognosis	used for	resource planning
-resource planning	aims to reduce	length of stay
-length of stay	affects	hospital reimbursement
-hospital reimbursement	impacts	hospital finances
-finances	influence	healthcare access
-healthcare access	affects	patient outcomes
-outcomes	linked to	respiratory distress syndrome
-outcomes	determine	discharge planning
-discharge planning	depends on	prognosis
-prognosis	used for	triage
-triage	informs	treatment plan
-treatment plan	guides	care pathway
-care pathway	shaped by	disease severity
-disease severity	influences	treatment intensity
-treatment intensity	correlates with	mortality
-mortality	correlates with	respiratory distress syndrome
-respiratory distress syndrome	contributes to	respiratory failure
-respiratory failure	requires	ventilatory support
-ventilatory support	is delivered by	ventilator
-ventilator	is set to	PEEP
-PEEP	improves	oxygenation
-oxygenation	improves with	PEEP
-surfactant	reduces	alveolar surface tension
-alveolar surface tension	influences	alveolar stability
-alveolar stability	reduces	work of breathing
-work of breathing	increases	oxygen consumption
-oxygen consumption	increases	metabolic demand
-metabolic demand	increases	energy expenditure
-care team	monitors	respiratory status
-respiratory status	informs	management plan
-planning	requires	ventilator weaning
-ventilator weaning	facilitates	extubation
-extubation	decreases	ICU length of stay
-ICU length of stay	determines	resource allocation
-resource allocation	aims to optimize	patient flow
-patient flow	affects	hospital throughput
-throughput	influences	cost efficiency
-cost efficiency	improves	care delivery
-care delivery	improves	patient outcomes
-patient outcomes	improve	overall prognosis
-prognosis	informs	family counseling
-family counseling	requires	prognosis
-prognosis	guides	discharge decisions
-discharge decisions	depend on	prognosis
-prognosis	influences	readmission rates
+respiratory distress syndrome	is associated with	prematurity
+respiratory distress syndrome	is associated with	surfactant deficiency
+respiratory distress syndrome	is associated with	cesarean section
+respiratory distress syndrome	is associated with	maternal diabetes
+respiratory distress syndrome	is associated with	chorioamnionitis
+respiratory distress syndrome	is associated with	placental insufficiency
+respiratory distress syndrome	is associated with	intrauterine growth restriction
+respiratory distress syndrome	is associated with	low birth weight
+respiratory distress syndrome	is treated with	exogenous surfactant
+respiratory distress syndrome	is treated with	surfactant therapy
+respiratory distress syndrome	is treated with	CPAP therapy
+respiratory distress syndrome	is treated with	oxygen therapy
+respiratory distress syndrome	requires	endotracheal intubation
+respiratory distress syndrome	requires	mechanical ventilation
+respiratory distress syndrome	increases risk of	pneumothorax
+respiratory distress syndrome	increases risk of	pulmonary hemorrhage
+respiratory distress syndrome	increases risk of	intraventricular hemorrhage
+respiratory distress syndrome	increases risk of	bronchopulmonary dysplasia
+respiratory distress syndrome	increases risk of	retinopathy of prematurity
+respiratory distress syndrome	increases risk of	sepsis
+respiratory distress syndrome	increases risk of	apnea
+respiratory distress syndrome	increases risk of	hypoxemia
+respiratory distress syndrome	increases risk of	mortality
+respiratory distress syndrome	increases risk of	hospitalization
+respiratory distress syndrome	increases risk of	length of stay
+respiratory distress syndrome	is associated with	patent ductus arteriosus
+respiratory distress syndrome	is associated with	pulmonary edema
+respiratory distress syndrome	is associated with	anemia of prematurity
+respiratory distress syndrome	is associated with	neonatal sepsis
+respiratory distress syndrome	is associated with	necrotizing enterocolitis
+respiratory distress syndrome	is associated with	brain injury
+respiratory distress syndrome	is associated with	chronic lung disease
+respiratory distress syndrome	is associated with	neurodevelopmental impairment
+respiratory distress syndrome	is associated with	long-term morbidity
+respiratory distress syndrome	is a leading cause of	neonatal mortality
+respiratory distress syndrome	is a leading cause of	respiratory failure
+respiratory distress syndrome	increases duration of	ventilation
+respiratory distress syndrome	increases duration of	hospitalization
+respiratory distress syndrome	increases duration of	ICU stay
+respiratory distress syndrome	is prevented by	antenatal corticosteroids
+respiratory distress syndrome	can be prevented by	antenatal steroids
+respiratory distress syndrome	is diagnosed by	chest radiography
+respiratory distress syndrome	is diagnosed by	blood gas analysis
+respiratory distress syndrome	is diagnosed by	chest ultrasound
+respiratory distress syndrome	is diagnosed by	clinical criteria
+respiratory distress syndrome	is diagnosed by	lung imaging
+respiratory distress syndrome	is diagnosed by	ultrasound imaging
+respiratory distress syndrome	is diagnosed by	radiographic patterns
+respiratory distress syndrome	is managed with	supportive care
+respiratory distress syndrome	is managed with	fluid management
+respiratory distress syndrome	is managed with	nutrition support
+respiratory distress syndrome	is managed with	infection control
+respiratory distress syndrome	is managed with	airway management
+respiratory distress syndrome	is managed with	ventilation strategies
+respiratory distress syndrome	is managed with	oxygen titration
+respiratory distress syndrome	is influenced by	maternal smoking
+respiratory distress syndrome	is influenced by	perinatal infection
+respiratory distress syndrome	is influenced by	maternal obesity
+respiratory distress syndrome	has association with	fetal distress
+respiratory distress syndrome	has association with	placental pathology
+respiratory distress syndrome	is associated with	inflammatory cytokines
+respiratory distress syndrome	is associated with	alveolar collapse
+respiratory distress syndrome	is associated with	alveolar edema
+respiratory distress syndrome	is associated with	diffusion impairment
+respiratory distress syndrome	is associated with	oxygenation index
+respiratory distress syndrome	is associated with	lung compliance reduction
+respiratory distress syndrome	is associated with	pulmonary vascular resistance increase
+respiratory distress syndrome	is associated with	systemic inflammation
+respiratory distress syndrome	is associated with	coagulopathy
+respiratory distress syndrome	is associated with	electrolyte imbalance
+respiratory distress syndrome	is associated with	metabolic acidosis
+respiratory distress syndrome	is associated with	organ dysfunction
+respiratory distress syndrome	is associated with	growth failure
+respiratory distress syndrome	is commonly diagnosed with	chest radiography

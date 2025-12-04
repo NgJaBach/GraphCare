@@ -1,0 +1,101 @@
+nephrotomy	is a	surgical procedure
+nephrostomy	is a	drainage procedure
+nephrotomy	is a type of	kidney surgery
+nephrostomy	is a type of	urinary drainage procedure
+nephrostomy tube	is placed in	kidney
+nephrostomy	performed for	ureteral obstruction
+nephrostomy	performed for	hydronephrosis
+nephrostomy	performed for	pyonephrosis
+nephrotomy	provides	access to kidney
+nephrostomy	relieves	urinary obstruction
+nephrostomy	relieves	hydronephrosis
+nephrotomy	enables	renal exploration
+nephrostomy	uses	drainage catheter
+nephrotomy	guided by	imaging
+nephrostomy	guided by	imaging
+nephrostomy	guided by	ultrasound
+nephrostomy	guided by	fluoroscopy
+nephrostomy	requires	anesthesia
+nephrotomy	requires	anesthesia
+nephrostomy	requires	sterile technique
+nephrostomy tube	is connected to	urine bag
+nephrostomy tube	drains	urine
+nephrostomy tract	forms	drainage pathway
+nephrostomy	perforates	skin
+nephrotomy	results in	incision scar
+nephrostomy	reduces	back pressure
+nephrotomy	increases	surgical risk
+nephrostomy	has complication	infection
+nephrostomy	has complication	bleeding
+nephrostomy	has complication	catheter dislodgement
+nephrostomy	has complication	urine leak
+nephrotomy	has complication	organ injury
+nephrostomy	contraindicated for	coagulopathy
+nephrotomy	contraindicated for	coagulopathy
+surgeon	performs	nephrostomy
+surgeon	performs	nephrotomy
+nurse	assists	nephrostomy
+nurse	assists	nephrotomy
+anesthesia	used for	nephrostomy
+anesthesia	used for	nephrotomy
+operating room	hosts	nephrostomy
+operating room	hosts	nephrotomy
+nephrostomy	reduces	kidney pain
+nephrotomy	provides	renal access
+nephrostomy	performed with	stent
+nephrotomy	performed with	scalpel
+nephrostomy	monitored by	imaging
+nephrotomy	monitored by	imaging
+nephrostomy tube	requires	securement
+nephrostomy tube	requires	dressing
+nephrostomy	requires	postoperative care
+nephrotomy	requires	postoperative care
+nephrostomy	associated with	infection
+nephrotomy	associated with	wound pain
+nephrostomy	alternative to	ureteral stenting
+nephrostomy tube	removed after	healing period
+nephrotomy	wound heals in	healing period
+nephrostomy leads to	stoma formation
+nephrotomy leads to	scar formation
+nephrostomy	associated with	hospital stay
+nephrotomy	associated with	recovery time
+nephrostomy	requires	antibiotic prophylaxis
+nephrotomy	requires	antibiotic prophylaxis
+radiologist	performs	nephrostomy
+nephrostomy	performed by	radiologist
+nephrotomy	performed by	surgeon
+nephrostomy	follow-up	imaging
+nephrotomy	follow-up	imaging
+nephrostomy	monitors	kidney function
+nephrotomy	monitors	kidney function
+nephrostomy	creates	nephrostomy tract
+nephrotomy	creates	renal incision
+nephrostomy	remains	catheter in place
+nephrotomy	remains	incision
+nephrostomy reduces	intra-abdominal pressure
+nephrotomy increases	incision healing time
+nephrostomy drains	urine from	renal pelvis
+nephrotomy exposes	renal cortex
+nephrostomy connects to	drainage bag
+nephrotomy involves	kidney capsule
+nephrostomy requires	preoperative labs
+nephrotomy requires	preoperative labs
+nephrostomy involves	percutaneous access
+nephrotomy involves	percutaneous incision
+nephrostomy involves	catheter care protocol
+nephrotomy involves	wound care
+nephrostomy can be	life-saving drainage
+nephrotomy can be	life-saving procedure
+nephrostomy can cause	fever
+nephrotomy can cause	fever
+nephrostomy can cause	pain at insertion site
+nephrotomy can cause	postoperative pain
+nephrostomy associated with	electrolyte imbalance
+nephrotomy associated with	electrolyte imbalance
+nephrostomy indicated for	malignant obstruction
+nephrotomy indicated for	congenital obstruction
+nephrostomy leads to	improved urine drainage
+nephrotomy leads to	improved renal exposure
+nephrostomy causes	long-term drainage dependence
+nephrostomy can require	re-intervention
+nephrotomy can require	re-operation

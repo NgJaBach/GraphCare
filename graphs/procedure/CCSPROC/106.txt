@@ -1,0 +1,88 @@
+midurethral sling	treats	stress incontinence
+tension-free vaginal tape	treats	stress incontinence
+transobturator tape	treats	stress incontinence
+TOT	treats	stress incontinence
+pubovaginal sling	treats	stress incontinence
+autologous fascial sling	treats	stress incontinence
+fascia lata sling	treats	stress incontinence
+synthetic sling	treats	stress incontinence
+sling procedure	treats	stress incontinence
+sling surgery	treats	stress incontinence
+open Burch colposuspension	treats	stress incontinence
+retropubic colposuspension	treats	stress incontinence
+Burch colposuspension	treats	stress incontinence
+laparoscopic Burch	treats	stress incontinence
+colposuspension	treats	stress incontinence
+hammock procedure	treats	stress incontinence
+urethral bulking injection	treats	intrinsic sphincter deficiency
+collagen bulking agent	used for	urethral bulking
+hyaluronic acid bulking agent	used for	urethral bulking
+macroplastique bulking	used for	urethral bulking
+polydimethylsiloxane bulking	used for	urethral bulking
+urethral bulking	reduces	leakage
+bulking injection	reduces	leakage
+urethral bulking	increases	urethral coaptation
+artificial urinary sphincter	treats	male urinary incontinence
+AUS	reduces	leakage
+AUS	carries	erosion risk
+AUS	requires	revision
+AUS implantation	is a	surgical procedure
+AUS cuff	is a component of	artificial urinary sphincter
+AUS reservoir	is a component of	artificial urinary sphincter
+AUS pump	is a component of	artificial urinary sphincter
+sacral nerve stimulation	treats	urge incontinence
+sacral neuromodulation	treats	urge incontinence
+InterStim device	implanted for	urinary incontinence
+sacral nerve stimulation	reduces	urgency episodes
+PTNS	is a neuromodulation procedure	for	urge incontinence
+percutaneous tibial nerve stimulation	treats	urge incontinence
+tibial nerve stimulation	treats	urge incontinence
+sacral neuromodulation device	requires	battery replacement
+botulinum toxin detrusor injection	treats	detrusor overactivity
+botulinum toxin detrusor injection	may cause	urinary retention
+botulinum toxin detrusor injection	requires	cystoscopy
+cystoscopy	is used for	botulinum toxin detrusor injection
+pelvic floor physical therapy	improves	continence
+pelvic floor muscle training	reduces	incontinence episodes
+biofeedback	enhances	pelvic floor training
+electrical stimulation	enhances	pelvic floor training
+pubovaginal hammock procedure	reduces	leakage
+hammock procedure	reduces	leakage
+urethral suspension	reduces	leakage
+urethral endoplication	reduces	stress incontinence
+colposuspension	reduces	stress incontinence
+open retropubic suspension	reduces	stress incontinence
+laparoscopic retropubic suspension	reduces	stress incontinence
+robotic retropubic suspension	reduces	stress incontinence
+minimally invasive colposuspension	reduces	stress incontinence
+fascial sling	reduces	leakage
+autologous fascial sling	reduces	leakage
+fascia lata sling	reduces	leakage
+synthetic sling	reduces	leakage
+urethral support sling	reduces	leakage
+adjustable continence mechanism	allows	adjustability of continence
+adjustable sling	allows	continence control
+posterior tibial nerve stimulation	treats	urge incontinence
+robotic sling placement	improves	continence
+laparoscopic sling placement	improves	continence
+open sling placement	improves	continence
+minimally invasive sling placement	improves	continence
+colposuspension	improves	continence
+pubovaginal sling	improves	continence
+urethral bulking	improves	continence
+urethral bulking procedure	reduces	leakage
+sling procedures	treat	stress incontinence
+stress incontinence	is treated by	sling procedures
+incontinence surgery	reduces	leakage episodes
+incontinence procedures	improve	quality of life
+preoperative evaluation	predicts	sling success
+obesity	increases	complication risk after incontinence procedures
+diabetes mellitus	increases	infection risk after incontinence procedures
+smoking	increases	complication risk after incontinence procedures
+radiation therapy history	reduces	sling success
+age	affects	recovery after incontinence procedures
+gender	influences	choice of incontinence procedure
+urinary retention	occurs	after botulinum toxin injection
+infection	is a potential	complication after incontinence procedures
+erosion	is a potential	complication after AUS
+revision surgery	may be required	after AUS

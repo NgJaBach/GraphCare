@@ -1,0 +1,100 @@
+tympanoplasty	is a	surgical procedure
+tympanoplasty	used for	perforated tympanic membrane
+tympanoplasty	treats	conductive hearing loss
+tympanoplasty	improves	hearing
+tympanoplasty	closes	tympanic membrane perforation
+tympanoplasty	restores	tympanic membrane integrity
+tympanoplasty	performed with	general anesthesia
+tympanoplasty	performed by	otolaryngologist
+tympanoplasty	involves	graft
+graft	is used in	tympanoplasty
+temporalis fascia graft	is used in	tympanoplasty
+tragal cartilage graft	is used in	tympanoplasty
+cartilage graft	is used in	tympanoplasty
+tympanoplasty	uses	graft
+perforated tympanic membrane	is an indication for	tympanoplasty
+chronic otitis media	is an indication for	tympanoplasty
+cholesteatoma	is a condition treated with	tympanoplasty
+ossicular chain	is realigned in	tympanoplasty
+ossicular chain reconstruction	is performed with	tympanoplasty
+tympanoplasty	restores	ossicular chain continuity
+air-bone gap	reduces after	tympanoplasty
+hearing	improves after	tympanoplasty
+postoperative period	follows	tympanoplasty
+graft failure	is a complication of	tympanoplasty
+reperforation	can occur after	tympanoplasty
+cholesteatoma recurrence	can occur after	tympanoplasty
+vertigo	occurs after	tympanoplasty
+dizziness	occurs after	tympanoplasty
+tinnitus	persists after	tympanoplasty
+sensorineural hearing loss	is a risk of	tympanoplasty
+infection	can occur after	tympanoplasty
+postoperative antibiotics	are used with	tympanoplasty
+anesthesia	is used during	tympanoplasty
+otolaryngologist	performs	tympanoplasty
+myringoplasty	is a type of	tympanoplasty
+temporalis fascia graft	provides	tympanic membrane closure
+tragal cartilage graft	provides	tympanic membrane closure
+graft	supports	tympanic membrane
+graft	adheres to	tympanic membrane
+tympanic membrane	is repaired by	tympanoplasty
+tympanoplasty	can be combined with	mastoidectomy
+mastoidectomy	is performed with	tympanoplasty
+graft take	depends on	middle ear environment
+graft take	correlates with	tympanoplasty success
+tympanoplasty success	depends on	graft stability
+graft stability	predicts	hearing improvement
+aeration of middle ear	improves after	tympanoplasty
+air conduction	improves after	tympanoplasty
+sound transmission	improves after	tympanoplasty
+audiology	monitors	tympanoplasty outcome
+audiometry	monitors	tympanoplasty outcome
+pure-tone audiometry	assesses	tympanoplasty outcome
+quality of life	improves after	tympanoplasty
+patient satisfaction	improves after	tympanoplasty
+cost	associated with	tympanoplasty
+hospital stay	shortens after	tympanoplasty
+length of stay	decreases after	tympanoplasty
+postoperative recovery	is expected after	tympanoplasty
+postoperative instructions	are followed after	tympanoplasty
+anatomic integrity	restored by	tympanoplasty
+preoperative status	influences	tympanoplasty outcome
+age	influences	tympanoplasty outcome
+ossicular chain status	affects	tympanoplasty outcome
+perforation size	affects	tympanoplasty outcome
+tympanoplasty revision	is performed for	recurrent perforation
+recurrent perforation	indicates	tympanoplasty revision
+ossicular discontinuity	is corrected by	tympanoplasty
+cartilage graft	resists	retraction of tympanic membrane
+cartilage graft	provides	structural support
+middle ear	is accessed during	tympanoplasty
+tympanoplasty	with graft	achieves	tympanic membrane closure
+ossicular reconstruction	improves	conductive hearing
+graft material	influences	graft take
+graft material	influences	tympanoplasty outcome
+recovery time	varies with	tympanoplasty
+clinical outcome	is measured by	tympanoplasty success
+malleus	can be preserved in	tympanoplasty
+incus	can be preserved in	tympanoplasty
+stapes	can be preserved in	tympanoplasty
+ossicular chain	can be reconstructed	tympanoplasty
+operative time	increases with	perforation size
+healing	completes in	weeks post-tympanoplasty
+pediatric tympanoplasty	is common in	children
+adult tympanoplasty	is common in	adults
+revision tympanoplasty	indicated for	residual perforation
+residual perforation	indicates	revision tympanoplasty
+graft durability	influences	tympanoplasty success
+intraoperative blood loss	is minimal in	tympanoplasty
+endoscope	is used in	tympanoplasty
+microscope	is used in	tympanoplasty
+postoperative imaging	may be performed after	tympanoplasty
+follow-up	is scheduled after	tympanoplasty
+myringoplasty	is synonym for	tympanoplasty
+ossicular prosthesis	used in	tympanoplasty
+partial ossicular replacement prosthesis	used in	tympanoplasty
+total ossicular replacement prosthesis	used in	tympanoplasty
+tympanoplasty success rate	varies with	graft type
+tympanoplasty success rate	varies with	perforation size
+revision rate	is associated with	tympanoplasty
+reoperation	is performed for	tympanoplasty failure

@@ -1,81 +1,100 @@
-ICD-10 code for major depressive disorder	is a	mental health code
-ICD-10 code for generalized anxiety disorder	is a	mental health code
-ICD-10 code for alcohol use disorder	is a	substance use code
-ICD-10 code for opioid use disorder	is a	substance use code
-PHQ-9 score	is a	depression severity indicator
-GAD-7 score	is a	anxiety severity indicator
-AUDIT-C score	is a	alcohol use severity indicator
-DAST-10 score	is a	drug use severity indicator
-PHQ-2 score	is a	depression screen indicator
-SCID-5 interview	is a	diagnostic tool
-CPT depression screening	is a	screening code
-CPT alcohol screening	is a	screening code
-CPT substance use screening	is a	screening code
-SBIRT protocol	is a	screening protocol
-Z13.89 code	is a	mental health screening code
-ICD-10 code for dysthymia	is a	mental health code
-ICD-10 code for social anxiety disorder	is a	mental health code
-ICD-10 code for PTSD	is a	mental health code
-ICD-10 code for bipolar disorder	is a	mental health code
-ICD-10 code for schizophrenia	is a	mental health code
-ICD-10 code for adjustment disorder	is a	mental health code
-Nicotine dependence	is a	substance use code
-Screening result indicates relapse risk	is a	screening outcome
-Relapse risk predicts readmission	is a	readmission predictor
-Depression diagnosis increases suicide risk	is a	suicide risk factor
-Anxiety disorder diagnosis increases chronic pain severity	is a	pain severity predictor
-Substance use disorder diagnosis increases overdose risk	is a	overdose risk
-Screening documentation improves data quality	is a	data quality booster
-Screening result indicates risk	is a	risk indicator
-Screening documentation informs care plan	is a	care planning input
-Screening data supports risk stratification	is a	risk stratification input
-Coping skills training reduces relapse risk	is a	relapse prevention
-Motivational interviewing enhances treatment adherence	is a	adherence booster
-Education on substance use improves treatment engagement	is a	engagement booster
-Family history of mental illness increases personal mental health risk	is a	risk modifier
-Mental health history informs risk stratification	is a	risk stratification input
-History of substance use informs discharge planning	is a	discharge planning input
-Screening history informs care plan	is a	care planning input
-Social determinant code categorizes housing insecurity	is a	housing risk classifier
-Housing insecurity predicts health outcomes	is a	outcome predictor
-Z codes categorize social determinants	is a	administrative coding rule
-Readmission risk correlates with mental health history	is a	readmission predictor
-Emergency department visits correlate with suicide risk	is a	safety risk indicator
-Hospitalization associated with psychiatric diagnosis	is a	admission driver
-Post-discharge follow-up reduces readmission	is a	readmission reducer
-Integrated care reduces emergency visits	is a	utilization reducer
-Outpatient psychiatry linked to medication management	is a	treatment linkage
-Medication management enhances symptom control	is a	symptom control booster
-Crisis hotline contact reduces acute crisis risk	is a	crisis mitigation
-Crisis intervention prevents hospitalization	is a	hospitalization reducer
-Peer support improves engagement in care	is a	engagement booster
-Housing instability predicts poor health outcomes	is a	health risk indicator
-Socioeconomic status correlates with treatment access	is a	access predictor
-Stigma reduces treatment uptake	is a	care avoidance factor
-Substance use counseling improves treatment retention	is a	retention booster
-Urine drug screen detects substances	is a	substance use detector
-Pharmacotherapy treats substance use disorder	is a	treatment option
-Naltrexone reduces relapse in opioid use disorder	is a	relapse reducer
-Buprenorphine reduces withdrawal symptoms	is a	withdrawal management aid
-Methadone reduces overdose risk	is a	overdose risk reducer
-Naloxone reduces fatal overdose	is a	overdose fatality reducer
-Inpatient detox facilitates withdrawal management	is a	withdrawal management facilitator
-Outpatient detox reduces hospital days	is a	hospitalization day reducer
-Mental health visit frequency predicts healthcare utilization	is a	utilization predictor
-Care coordination improves patient satisfaction	is a	satisfaction booster
-Electronic health record supports screening	is a	screening support
-Clinical decision support aids screening adherence	is a	adherence aid
-Patient portal enhances patient engagement	is a	engagement booster
-Self-reported history informs diagnosis	is a	diagnostic input
-Collateral history improves diagnosis accuracy	is a	diagnostic accuracy booster
-Family support improves treatment adherence	is a	adherence booster
-Medication reconciliation reduces adverse drug events	is a	ADE reducer
-Relapse increases readmission risk	is a	readmission risk amplifier
-Screening age influences screening frequency	is a	frequency modifier
-Administrative coding enables billing accuracy	is a	billing enabler
-Code mapping supports clinical decision-making	is a	decision support
-Interoperability enables data sharing	is a	data sharing facilitator
-Mental health screening triggers care plan	is a	care trigger
-Substance use history triggers risk stratification	is a	risk stratification trigger
-Intensive outpatient program reduces hospitalization days	is a	cost/ utilization reducer
-Behavioral health integration improves patient outcomes	is a	outcome booster
+mental health screening	uses	ICD-10-CM codes
+substance abuse screening	uses	ICD-10-CM codes
+history of mental health	uses	ICD-10-CM codes
+history of substance abuse	uses	ICD-10-CM codes
+ICD-10-CM codes	categorize	mental health disorders
+ICD-10-CM codes	categorize	substance use disorders
+SNOMED CT codes	classify	mental health conditions
+SNOMED CT codes	classify	substance use disorders
+Z codes	record	screening encounters
+Z codes	record	mental health history
+Z codes	record	substance use history
+screening tool	is used for	mental health assessment
+screening tool	is used for	substance use assessment
+PHQ-9 score	measures	depression severity
+GAD-7 score	measures	anxiety severity
+PHQ-9 score	indicates	depression risk
+GAD-7 score	indicates	anxiety risk
+screening result	informs	care plan
+care plan	includes	behavioral health services
+behavioral health referral	leads to	outpatient psychiatry
+history of mental health	associated with	psychiatric medication use
+history of substance abuse	associated with	opioid use
+psychiatric diagnosis	captured by	ICD-10-CM codes
+substance use disorder	coded with	ICD-10-CM codes
+opioid use disorder	coded with	ICD-10-CM codes
+alcohol use disorder	coded with	ICD-10-CM codes
+depression	is coded with	ICD-10-CM codes
+anxiety disorder	is coded with	ICD-10-CM codes
+substance use disorder	is coded with	ICD-10-CM codes
+mood disorder	is represented by	ICD-10-CM codes
+psychotic disorder	is represented by	ICD-10-CM codes
+bipolar disorder	is represented by	ICD-10-CM codes
+schizophrenia	is represented by	ICD-10-CM codes
+screening result	triggers	behavioral health outreach
+outreach	triggers	appointment adherence
+mental health screening	improves	detection of risk
+substance abuse screening	improves	detection of dependence
+screening code	maps to	mental health condition
+screening documentation	supports	billing codes
+billing codes	supports	reimbursement
+reimbursement	depends on	screening codes
+emergency department visit	is associated with	substance use history
+emergency department visit	is associated with	mental health history
+readmission risk	is increased by	substance use history
+readmission risk	is increased by	mental health history
+mortality risk	is associated with	severe mental illness
+mortality risk	is associated with	substance use disorder
+length of stay	is associated with	mental health comorbidity
+length of stay	is associated with	substance use comorbidity
+mental health comorbidity	increases	care complexity
+substance use comorbidity	increases	care complexity
+ICD-10-CM codes	enable	data analytics for population health
+Z codes	capture	screening encounters
+Z codes	capture	mental health history
+documentation	supports	clinical decision making
+clinical decision making	relies on	screening data
+screening data	informs	risk stratification
+risk stratification	informs	resource allocation
+resource allocation	improves	patient outcomes
+outcomes	improve with	early screening
+early screening	reduces	late diagnoses
+late diagnoses	increases	hospitalization risk
+hospitalization risk	associated with	mental health history
+hospitalization risk	associated with	substance use history
+suicide risk	identified by	mental health screening
+suicide risk	tracked by	care team
+care team	coordinates	behavioral health services
+behavioral health services	reduce	ED visits
+ED visits	associated with	mental health crisis
+ED visits	associated with	substance intoxication
+screening frequency	determines	monitoring interval
+monitoring interval	varies with	risk level
+risk level	determined by	screening results
+screening results	update	patient record
+patient record	contains	screening codes
+screening codes	identify	mental health risk
+screening codes	identify	substance use risk
+nursing assessment	records	mental health status
+psychiatric evaluation	documents	diagnosis
+psychotropic medication	prescribed for	mental health condition
+substance use treatment	includes	counseling
+counseling	improves	adherence to care
+group therapy	is used for	mental health management
+family support	improves	treatment adherence
+treatment adherence	improves	outcomes
+integrated care	reduces	fragmentation
+fragmentation	increases	readmission risk
+readmission risk	increases	with comorbidity burden
+comorbidity burden	measured by	Charlson index
+Charlson index	predicts	mortality
+mortality	associated with	mental health comorbidity
+mortality	associated with	substance use comorbidity
+documentation	is used for	mental health screening
+mental health screening codes	identify	risk
+billing	depends on	documentation quality
+data quality	influences	predictive models
+predictive models	utilize	screening and history codes
+screening and history codes	inform	personalized care
+personalized care	improves	patient satisfaction
+patient satisfaction	associated with	care continuity

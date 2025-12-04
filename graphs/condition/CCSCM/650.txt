@@ -1,100 +1,99 @@
-adjustment disorder	is a	mental disorder
-adjustment disorder	is characterized by	emotional symptoms
-adjustment disorder	is characterized by	behavioral symptoms
-adjustment disorder	is precipitated by	identifiable stressor
-adjustment disorder	differential diagnosis includes	major depressive disorder
-adjustment disorder	differential diagnosis includes	generalized anxiety disorder
-adjustment disorder	presents with	sadness
-adjustment disorder	presents with	anxiety
-adjustment disorder	presents with	irritability
-adjustment disorder	presents with	sleep disturbance
-adjustment disorder	presents with	concentration difficulty
-adjustment disorder	presents with	fatigue
-adjustment disorder	presents with	anhedonia
-adjustment disorder	presents with	guilt
-adjustment disorder	presents with	hopelessness
-adjustment disorder	presents with	somatic symptoms
-adjustment disorder	associated with	stressful life event
-adjustment disorder	associated with	relationship breakdown
-adjustment disorder	associated with	financial hardship
-adjustment disorder	associated with	unemployment
-adjustment disorder	associated with	chronic illness
-adjustment disorder	associated with	prior psychiatric history
-adjustment disorder	associated with	trauma exposure
-adjustment disorder	associated with	social isolation
-adjustment disorder	associated with	caregiver burden
-adjustment disorder	associated with	substance use
-adjustment disorder	has	favorable prognosis
-adjustment disorder	has	poor prognosis
-adjustment disorder	may respond to	sertraline
-adjustment disorder	may respond to	fluoxetine
-adjustment disorder	may respond to	escitalopram
+adjustment disorder	is a	psychiatric disorder
+adjustment disorder	onset after	stressor
+stressor	precipitates	adjustment disorder
+emotional symptoms	accompany	adjustment disorder
+behavioral symptoms	accompany	adjustment disorder
+distress	accompanies	adjustment disorder
+functional impairment	results from	adjustment disorder
+mood disturbance	accompanies	adjustment disorder
+anxiety symptoms	accompany	adjustment disorder
+sleep disturbance	accompanies	adjustment disorder
+depression	coexists with	adjustment disorder
+anxiety disorder	coexists with	adjustment disorder
+substance use disorder	coexists with	adjustment disorder
+PTSD	differential diagnosis for	adjustment disorder
+major depressive disorder	differential diagnosis for	adjustment disorder
 adjustment disorder	treated with	psychotherapy
-adjustment disorder	treated with	cognitive behavioral therapy
-adjustment disorder	treated with	interpersonal psychotherapy
-adjustment disorder	treated with	family therapy
-adjustment disorder	treated with	antidepressants
-adjustment disorder	managed with	outpatient care
-adjustment disorder	managed with	inpatient care
-adjustment disorder	monitored with	clinical follow-up
-adjustment disorder	monitored with	symptom tracking
-adjustment disorder	co-occurs with	anxiety disorder
-adjustment disorder	co-occurs with	depressive disorder
-adjustment disorder	co-occurs with	PTSD
-adjustment disorder	co-occurs with	substance use disorder
-adjustment disorder	contributes to	functional impairment
-adjustment disorder	contributes to	work impairment
-adjustment disorder	triggers	psychiatric consultation
-adjustment disorder	increases	healthcare utilization
-adjustment disorder	increases	emergency visits
-adjustment disorder	increases	medication prescriptions
-adjustment disorder	correlates with	sleep duration changes
-adjustment disorder	correlates with	appetite changes
-adjustment disorder	affects	quality of life
-adjustment disorder	affects	social functioning
-adjustment disorder	affects	occupational performance
-adjustment disorder	associated with	bereavement
-adjustment disorder	associated with	divorce
-adjustment disorder	associated with	relocation
-adjustment disorder	associated with	caregiving stress
-adjustment disorder	screened with	screening tool
-adjustment disorder	diagnosed by	clinical assessment
-adjustment disorder	influences	caregiver support
-adjustment disorder	relevant to	psychiatry
-adjustment disorder	studied in	epidemiology
-adjustment disorder	associated with	insomnia
-adjustment disorder	associated with	headaches
-adjustment disorder	leads to	disability claims
-adjustment disorder	affects	family relationships
-adjustment disorder	requires	patient education
-adjustment disorder	described in	clinical guidelines
-adjustment disorder	managed with	social integration programs
-adjustment disorder	measured by	symptom scales
-adjustment disorder	predicted by	predictive models
-adjustment disorder	evaluated with	psychiatric evaluation
-adjustment disorder	diagnosed with	mental status examination
-adjustment disorder	included in	DSM criteria
-adjustment disorder	included in	DSM category
-adjustment disorder	described by	DSM-5 criteria
-adjustment disorder	estimated in	epidemiologic studies
-adjustment disorder	more common in	females
-adjustment disorder	more common in	males
-adjustment disorder	prevalence in	general population
-adjustment disorder	prevalence in	adolescents
-adjustment disorder	prevalence in	elderly
-adjustment disorder	comorbidity with	mood disorder
-adjustment disorder	comorbidity with	anxiety disorder
-adjustment disorder	associated with	obesity
-adjustment disorder	influenced by	cultural factors
-adjustment disorder	more prevalent in	low socioeconomic status
-adjustment disorder	more prevalent in	urban settings
-adjustment disorder	risk factor for	suicide attempt
-adjustment disorder	risk factor for	unemployment
-adjustment disorder	risk factor for	hospitalization
-adjustment disorder	responds to	SSRIs
-adjustment disorder	responds to	SNRIs
-adjustment disorder	managed with	education and support
-adjustment disorder	results in	caregiver burden
-adjustment disorder	linked with	social functioning impairment
-adjustment disorder	follows	stressor resolution
-adjustment disorder	associated with	sleep disruption
+cognitive behavioral therapy	is effective for	adjustment disorder
+interpersonal therapy	is effective for	adjustment disorder
+family therapy	is effective for	adjustment disorder
+psychiatry	involved in	adjustment disorder management
+primary care	manages	adjustment disorder
+outpatient care	is typical setting for	adjustment disorder
+crisis intervention	used in	adjustment disorder management
+antidepressant	may be used in	adjustment disorder
+SSRI	may be used in	adjustment disorder
+SNRI	may be used in	adjustment disorder
+benzodiazepine	not recommended for	adjustment disorder
+therapy adherence	improves	remission
+remission	achieved with	psychotherapy
+recovery	achieved with	treatment
+treatment response	varies with	symptom severity
+symptom severity	predicts	impairment
+impairment	reduces	quality of life
+quality of life	improves with	therapy
+stress management	improves	adjustment disorder symptoms
+mindfulness	adjunct to	adjustment disorder therapy
+sleep hygiene	improves	sleep disturbance
+counseling	is part of	adjustment disorder management
+psychoeducation	improves	treatment engagement
+social support	buffers	stress impact
+family support	enhances	recovery
+occupational functioning	improves	with treatment
+return to work	depends on	symptom resolution
+school performance	affected by	adjustment disorder
+social functioning	impaired by	adjustment disorder
+adult	is at risk for	adjustment disorder
+adolescent	is at risk for	adjustment disorder
+unemployment	risk factor for	adjustment disorder
+financial stress	precipitating factor for	adjustment disorder
+relationship problems	precipitating factor for	adjustment disorder
+bereavement	triggering event for	adjustment disorder
+relocation	triggering event for	adjustment disorder
+medical illness	precipitating factor for	adjustment disorder
+chronic illness	precipitating factor for	adjustment disorder
+family conflict	precipitating factor for	adjustment disorder
+isolation	precipitating factor for	adjustment disorder
+coping strategies	improve	adjustment disorder outcomes
+parental support	improves	prognosis of adjustment disorder
+care coordination	facilitates	adjustment disorder care
+DSM-5 criteria	define	adjustment disorder
+ICD-10 coding	covers	adjustment disorder
+clinical interview	identifies	adjustment disorder
+screening	identifies	adjustment disorder
+differential diagnosis	includes	major depressive disorder
+differential diagnosis	includes	anxiety disorder
+therapy	reduces	symptom severity
+antidepressants	provide	symptom relief
+SSRIs	provide	symptom relief
+coping	improves	therapy outcomes
+psychotherapy	reduces	relapse risk
+relapse risk	increases with	unresolved stressor
+unresolved stressor	maintains	adjustment disorder symptoms
+socialization	declines	adjustment disorder
+relationship strain	occurs with	adjustment disorder
+workplace performance	declines	adjustment disorder
+emergency room	rarely required for	adjustment disorder
+care pathway	planned for	adjustment disorder management
+recovery trajectory	varies with	treatment access
+treatment access	influences	recovery
+stigma	hinders	help seeking
+help seeking	improves	treatment engagement
+education	improves	treatment adherence
+screening programs	identify	adjustment disorder
+early detection	improves	outcomes
+outcomes	improve with	early therapy
+clinical practice	emphasizes	early therapy
+CBT	is a therapy type used for	adjustment disorder
+psychotherapy	is a treatment for	adjustment disorder
+pharmacotherapy	may be considered in	adjustment disorder
+melatonin	is used for	sleep disturbance in adjustment disorder
+sleep disturbance	persists	adjustment disorder
+resilience	enhances	recovery
+adherence	improves	prognosis
+care continuity	ensures	follow-up
+follow-up	supports	adherence
+adherence	supports	recovery
+recovery	depends on	care continuity
+care quality	affects	outcomes
+outcomes	reflect	treatment effectiveness

@@ -1,100 +1,75 @@
-carbon monoxide	causes	hypoxia
-carbon monoxide	exposure route	inhalation
-carbon monoxide	exposure source	vehicle exhaust
-carbon monoxide	risk factor	indoor heating
-cyanide	causes	lactic acidosis
-cyanide	exposure route	inhalation
-cyanide	exposure source	smoke inhalation
-cyanide	diagnostic marker	carboxyhemoglobin level
-lead	exposure route	ingestion
-lead	outcome	neurotoxicity
-lead	test for	blood lead level
-lead	source	paint dust
-mercury	exposure route	ingestion
-mercury	outcome	nephrotoxicity
-mercury	test for	mercury level in blood
-mercury	source	contaminated fish
-arsenic	exposure route	ingestion
-arsenic	outcome	GI symptoms
-arsenic	test for	urinary arsenic level
-arsenic	source	arsenic-contaminated water
-methanol	exposure route	ingestion
-methanol	outcome	visual disturbance
-methanol	test for	serum methanol level
-methanol	source	bootleg alcohol
-ethylene glycol	exposure route	ingestion
-ethylene glycol	outcome	metabolic acidosis
-ethylene glycol	test for	osmolar gap
-ethylene glycol	source	antifreeze
-chlorine gas	exposure route	inhalation
-chlorine gas	outcome	airway edema
-chlorine gas	diagnostic marker	chest radiograph abnormality
-chlorine gas	source	chlorine release
-sodium hypochlorite	exposure route	ingestion
-sodium hypochlorite	outcome	mucosal injury
-sodium hypochlorite	source	household bleach
-sodium hypochlorite	test for	mucosal injury signs
-sodium hydroxide	exposure route	ingestion
-sodium hydroxide	outcome	caustic injury
-sodium hydroxide	source	drain cleaner
-sodium hydroxide	risk factor	severe esophageal burns
-cadmium	exposure route	inhalation
-cadmium	outcome	nephrotoxicity
-cadmium	test for	urinary cadmium level
-cadmium	source	battery manufacturing
-iron poisoning	exposure route	ingestion
-iron poisoning	outcome	metabolic acidosis
-iron poisoning	test for	serum iron level
-iron poisoning	source	iron supplement overdose
-aluminum	exposure route	ingestion
-aluminum	outcome	neurotoxicity
-aluminum	test for	plasma aluminum level
-aluminum	source	antacid tablets
-benzene	exposure route	inhalation
-benzene	outcome	bone marrow suppression
-benzene	test for	hematologic toxicity
-benzene	source	industrial solvent
-toluene	exposure route	inhalation
-toluene	outcome	CNS toxicity
-toluene	test for	urine toluene level
-toluene	source	solvent products
-paraquat	exposure route	ingestion
-paraquat	outcome	pulmonary fibrosis
-paraquat	prognosis	high mortality
-paraquat	test for	urine paraquat levels
-organophosphate	exposure route	inhalation
-organophosphate	mechanism	cholinesterase inhibition
-organophosphate	outcome	muscarinic toxicity
-organophosphate	test for	red cell cholinesterase level
-pesticide	exposure route	dermal contact
-pesticide	outcome	neurotoxicity
-pesticide	source	agricultural setting
-pesticide	test for	cholinesterase inhibition
-sulfuric acid	exposure route	ingestion
-sulfuric acid	outcome	corrosive injury
-sulfuric acid	source	battery acid
-sulfuric acid	risk factor	severe GI burns
-hydrofluoric acid	exposure route	dermal contact
-hydrofluoric acid	outcome	tissue necrosis
-hydrofluoric acid	diagnostic marker	hypocalcemia
-hydrofluoric acid	source	industrial cleaner
-chlorine dioxide	exposure route	inhalation
-chlorine dioxide	outcome	airway irritation
-chlorine dioxide	test for	respiratory symptoms
-drain cleaner	exposure route	ingestion
-drain cleaner	outcome	caustic injury
-drain cleaner	source	household product
-drain cleaner	test for	mucosal injury signs
-methylmercury	exposure route	ingestion
-methylmercury	outcome	neurotoxicity
-methylmercury	test for	mercury level in hair
-methylmercury	source	contaminated seafood
-naphthalene	exposure route	inhalation
-naphthalene	outcome	hepatic toxicity
-naphthalene	test for	urinary metabolites
-naphthalene	source	mothballs
-carbon tetrachloride	exposure route	inhalation
-carbon tetrachloride	outcome	hepatic injury
-carbon tetrachloride	test for	liver enzymes
-carbon tetrachloride	source	industrial solvent
-drinking water contamination	exposure route	ingestion
+poisoning by nonmedicinal substances	may cause	metabolic acidosis
+poisoning by nonmedicinal substances	may cause	electrolyte disturbance
+poisoning by nonmedicinal substances	may cause	acute kidney injury
+poisoning by nonmedicinal substances	may cause	hepatic injury
+poisoning by nonmedicinal substances	may cause	seizures
+poisoning by nonmedicinal substances	may cause	coma
+poisoning by nonmedicinal substances	may cause	arrhythmia
+poisoning by nonmedicinal substances	may cause	hypotension
+poisoning by nonmedicinal substances	may cause	tachycardia
+poisoning by nonmedicinal substances	may cause	respiratory failure
+poisoning by nonmedicinal substances	may cause	lactic acidosis
+poisoning by nonmedicinal substances	may cause	hypoglycemia
+poisoning by nonmedicinal substances	may cause	pancreatitis
+poisoning by nonmedicinal substances	may cause	hepatic encephalopathy
+poisoning by nonmedicinal substances	may cause	coagulopathy
+poisoning by nonmedicinal substances	may cause	rhabdomyolysis
+poisoning by nonmedicinal substances	may cause	QT prolongation
+poisoning by nonmedicinal substances	may cause	dehydration
+poisoning by nonmedicinal substances	requires	activated charcoal
+poisoning by nonmedicinal substances	requires	gastric lavage
+poisoning by nonmedicinal substances	requires	dialysis
+poisoning by nonmedicinal substances	requires	intravenous fluids
+poisoning by nonmedicinal substances	requires	airway support
+poisoning by nonmedicinal substances	treated with	antidote
+poisoning by nonmedicinal substances	is managed with	supportive care
+poisoning by nonmedicinal substances	associated with	emergency department visit
+poisoning by nonmedicinal substances	associated with	hospital admission
+poisoning by nonmedicinal substances	associated with	ICU admission
+poisoning by nonmedicinal substances	increases	length of stay
+poisoning by nonmedicinal substances	increases	mortality
+poisoning by nonmedicinal substances	increases	readmission risk
+poisoning by nonmedicinal substances	associated with	electrolyte disturbances
+poisoning by nonmedicinal substances	associated with	acidosis
+poisoning by nonmedicinal substances	associated with	liver failure
+poisoning by nonmedicinal substances	associated with	kidney injury
+poisoning by nonmedicinal substances	associated with	CNS depression
+poisoning by nonmedicinal substances	associated with	hypoxemia
+poisoning by nonmedicinal substances	is caused by	ethylene glycol
+poisoning by nonmedicinal substances	is caused by	methanol
+poisoning by nonmedicinal substances	is caused by	isopropanol
+poisoning by nonmedicinal substances	is caused by	ethanol
+poisoning by nonmedicinal substances	is caused by	benzene
+poisoning by nonmedicinal substances	is caused by	toluene
+poisoning by nonmedicinal substances	is caused by	pesticides
+poisoning by nonmedicinal substances	may involve	toxic alcohols
+poisoning by nonmedicinal substances	may involve	solvents
+poisoning by nonmedicinal substances	may involve	hydrocarbons
+poisoning by nonmedicinal substances	may involve	household cleaners
+poisoning by nonmedicinal substances	may involve	caustic agents
+poisoning by nonmedicinal substances	may involve	paint thinner
+poisoning by nonmedicinal substances	may involve	solvent exposure
+poisoning by nonmedicinal substances	can induce	metabolic acidosis
+poisoning by nonmedicinal substances	can induce	hypoxemia
+poisoning by nonmedicinal substances	can induce	CNS depression
+poisoning by nonmedicinal substances	can cause	dehydration
+poisoning by nonmedicinal substances	is common in	children
+poisoning by nonmedicinal substances	is common in	adults
+poisoning by nonmedicinal substances	linked to	accidental exposure
+poisoning by nonmedicinal substances	linked to	intentional ingestion
+poisoning by nonmedicinal substances	adverse effects include	nausea
+poisoning by nonmedicinal substances	adverse effects include	vomiting
+poisoning by nonmedicinal substances	presents with	abdominal pain
+poisoning by nonmedicinal substances	presents with	diarrhea
+poisoning by nonmedicinal substances	presents with	dizziness
+poisoning by nonmedicinal substances	presents with	confusion
+poisoning by nonmedicinal substances	presents with	agitation
+poisoning by nonmedicinal substances	presents with	tremor
+poisoning by nonmedicinal substances	presents with	syncope
+poisoning by nonmedicinal substances	presents with	fever
+poisoning by nonmedicinal substances	presents with	rash
+poisoning by nonmedicinal substances	prognosis	uncertain
+poisoning by nonmedicinal substances	prevention	safety education
+poisoning by nonmedicinal substances	management	discharge planning
+poisoning by nonmedicinal substances	surveillance	toxicology monitoring
+poisoning by nonmedicinal substances	follow-up	outpatient care

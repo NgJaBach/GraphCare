@@ -1,0 +1,121 @@
+artificial rupture of membranes	is a	medical procedure
+amniotomy	is a	synonym for artificial rupture of membranes
+artificial rupture of membranes	is performed to	augment labor
+amniotomy	is performed during	active labor
+artificial rupture of membranes	is used for	induction of labor
+amniotomy	is used for	augmentation of labor
+artificial rupture of membranes	reduces	duration of labor
+amniotomy	accelerates	cervical dilation
+artificial rupture of membranes	accelerates	cervical dilation
+amniotomy	increases risk of	umbilical cord prolapse
+artificial rupture of membranes	increases risk of	umbilical cord prolapse
+amniotomy	increases risk of	chorioamnionitis
+artificial rupture of membranes	increases risk of	chorioamnionitis
+amniotomy	increases risk of	endometritis
+artificial rupture of membranes	increases risk of	endometritis
+amniotomy	increases risk of	neonatal sepsis
+artificial rupture of membranes	increases risk of	neonatal sepsis
+amniotomy	contraindicated in	placenta previa
+artificial rupture of membranes	contraindicated in	placenta previa
+amniotomy	contraindicated in	nonreassuring fetal status
+artificial rupture of membranes	contraindicated in	nonreassuring fetal status
+amniotomy	contraindicated in	transverse lie
+artificial rupture of membranes	contraindicated in	transverse lie
+amniotomy	contraindicated in	unengaged presenting part
+artificial rupture of membranes	contraindicated in	unengaged presenting part
+amniotomy	can be performed by	obstetrician
+artificial rupture of membranes	can be performed by	obstetrician
+amniotomy	requires	sterile technique
+artificial rupture of membranes	requires	sterile technique
+amniotomy	is followed by	oxytocin augmentation
+artificial rupture of membranes	is followed by	oxytocin augmentation
+amniotomy	may necessitate	vaginal examination
+artificial rupture of membranes	may necessitate	vaginal examination
+amniotomy	is often performed with	digital rupture
+artificial rupture of membranes	is often performed with	digital rupture
+amniotomy	facilitates	vaginal birth
+artificial rupture of membranes	facilitates	vaginal birth
+amniotomy	causes	leakage of amniotic fluid
+artificial rupture of membranes	causes	leakage of amniotic fluid
+amniotomy	signals	onset of labor
+artificial rupture of membranes	signals	onset of labor
+amniotomy	monitored by	fetal heart rate monitoring
+artificial rupture of membranes	monitored by	fetal heart rate monitoring
+amniotomy	reduces	need for oxytocin
+artificial rupture of membranes	reduces	need for oxytocin
+amniotomy	increases likelihood of	vaginal delivery
+artificial rupture of membranes	increases likelihood of	vaginal delivery
+amniotomy	associated with	postpartum fever
+artificial rupture of membranes	associated with	postpartum fever
+amniotomy	associated with	meconium in amniotic fluid
+artificial rupture of membranes	associated with	meconium in amniotic fluid
+amniotomy	part of	labor management plan
+artificial rupture of membranes	part of	labor management plan
+amniotomy	performed in	hospital setting
+artificial rupture of membranes	performed in	hospital setting
+amniotomy	practiced in	obstetric care settings
+artificial rupture of membranes	practiced in	obstetric care settings
+amniotomy	recommended in	guidelines
+artificial rupture of membranes	recommended in	guidelines
+amniotomy	taught in	medical training
+artificial rupture of membranes	taught in	medical training
+amniotomy	used in	obstetric practice
+artificial rupture of membranes	used in	obstetric practice
+amniotomy	a component of	obstetric care
+artificial rupture of membranes	a component of	obstetric care
+amniotomy	associated with	fever in mother
+artificial rupture of membranes	associated with	fever in mother
+amniotomy	associated with	NICU admission
+artificial rupture of membranes	associated with	NICU admission
+amniotomy	associated with	respiratory distress in neonate
+artificial rupture of membranes	associated with	respiratory distress in neonate
+amniotomy	related to	pregnancy outcomes
+artificial rupture of membranes	related to	pregnancy outcomes
+amniotomy	may affect	patient satisfaction
+artificial rupture of membranes	may affect	patient satisfaction
+amniotomy	described in	obstetric textbooks
+artificial rupture of membranes	described in	obstetric textbooks
+amniotomy	included in	obstetric guidelines
+artificial rupture of membranes	included in	obstetric guidelines
+amniotomy	part of	evidence-based practice
+artificial rupture of membranes	part of	evidence-based practice
+amniotomy	described as	safe technique
+artificial rupture of membranes	described as	safe technique
+amniotomy	compared with	spontaneous rupture of membranes
+artificial rupture of membranes	compared with	spontaneous rupture of membranes
+amniotomy	alternative to	spontaneous rupture of membranes
+artificial rupture of membranes	alternative to	spontaneous rupture of membranes
+amniotomy	practiced in	maternity wards
+artificial rupture of membranes	practiced in	maternity wards
+amniotomy	documented in	medical record
+artificial rupture of membranes	documented in	medical record
+amniotomy	part of	obstetric education
+artificial rupture of membranes	part of	obstetric education
+amniotomy	used in	labor management protocols
+artificial rupture of membranes	used in	labor management protocols
+amniotomy	evaluated in	clinical trials
+artificial rupture of membranes	evaluated in	clinical trials
+amniotomy	safe in	uncomplicated labor
+artificial rupture of membranes	safe in	uncomplicated labor
+amniotomy	avoided in	placenta previa
+artificial rupture of membranes	avoided in	placenta previa
+amniotomy	common in	obstetric practice
+artificial rupture of membranes	common in	obstetric practice
+amniotomy	part of	standard obstetric procedures
+artificial rupture of membranes	part of	standard obstetric procedures
+amniotomy	included in	clinical guidelines
+artificial rupture of membranes	included in	clinical guidelines
+amniotomy	taught in	residency programs
+artificial rupture of membranes	taught in	residency programs
+amniotomy	documented in	patient charts
+artificial rupture of membranes	documented in	patient charts
+amniotomy	carried out in	maternity hospitals
+artificial rupture of membranes	carried out in	maternity hospitals
+amniotomy	used in	obstetric care settings
+artificial rupture of membranes	used in	obstetric care settings
+amniotomy	part of	obstetric care protocols
+artificial rupture of membranes	part of	obstetric care protocols
+amniotomy	associated with	sterile technique adherence
+artificial rupture of membranes	associated with	sterile technique adherence
+amniotomy	linked to	cervical dilation rate
+artificial rupture of membranes	linked to	cervical dilation rate

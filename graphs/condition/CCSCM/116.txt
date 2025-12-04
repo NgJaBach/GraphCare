@@ -1,100 +1,79 @@
-aortic embolism	is a	vascular emergency
-peripheral arterial embolism	is a	vascular emergency
-arterial thrombosis	is a	vascular emergency
-aortic thrombosis	results in	arterial occlusion
-peripheral arterial thrombosis	results in	limb ischemia
-arterial occlusion	causes	tissue ischemia
-limb ischemia	leads to	pain
-limb ischemia	leads to	pallor
-pallor	indicates	poor perfusion
-acute limb ischemia	requires	urgent revascularization
-revascularization	achieved by	thrombectomy
-thrombectomy	used for	arterial occlusion
-thrombolysis	used for	reperfusion
-anticoagulation therapy	prevents	recurrent embolism
-warfarin	treats	atrial fibrillation
-apixaban	treats	atrial fibrillation
-dabigatran	treats	atrial fibrillation
-heparin	initial therapy for	acute embolism
-aspirin	reduces	platelet aggregation
-clopidogrel	reduces	platelet aggregation
-catheter-directed thrombolysis	induces	reperfusion
-embolectomy	removes	embolus
-endovascular therapy	reestablishes	arterial flow
-surgical embolectomy	restores	limb perfusion
-CT angiography	localizes	occlusion site
-MR angiography	confirms	occlusion site
-duplex ultrasound	detects	arterial occlusion
-angiography	guides	intervention planning
-left atrial appendage	is source of	embolus
-left ventricle	is source of	thrombus
-aorta	harbors	atherothrombotic debris
-atrial fibrillation	increases risk for	embolism
-atrial fibrillation	causes	left atrial appendage thrombus
-atherosclerosis	predisposes to	arterial thrombosis
-smoking	increases risk for	arterial embolism
-hypertension	increases risk for	arterial occlusion
-diabetes mellitus	increases risk for	limb ischemia
-hyperlipidemia	contributes to	atherosclerosis
-obesity	associated with	peripheral arterial disease
-age	increases risk for	mortality after embolism
-prior vascular disease	increases risk for	reocclusion
-anticoagulation therapy	increases risk for	bleeding
-contrast agents	risk for	nephropathy
-nephropathy	worsens	outcomes after embolism
-renal failure	occurs after	severe ischemia
-stroke	can result from	arterial embolism
-myocardial infarction	can result from	embolism
-limb salvage	improves	functional outcome
-amputation	may result from	failed reperfusion
-mortality	associated with	extensive limb ischemia
-readmission	occurs after	vascular complication
-length of stay	increases with	limb ischemia
-ischemia duration	determines	tissue viability
-ischemia	causes	tissue necrosis
-tissue necrosis	necessitates	amputation
-reperfusion injury	occurs after	reperfusion
-infection	risk after	open vascular procedure
-graft	used for	revascularization
-stent	maintains	arterial patency
-in-stent restenosis	occurs after	stent placement
-endarterectomy	used for	arterial patency restoration
-duplex ultrasonography	monitors	blood flow
-transesophageal echocardiography	visualizes	left atrial thrombus
-left atrial appendage	monitored by	transesophageal echocardiography
-embolus	lodges in	femoral artery
-embolus	lodges in	iliac artery
-embolus	lodges in	tibial artery
-femoral artery	affected by	embolism
-iliac artery	affected by	embolism
-tibial artery	affected by	embolism
-pulse deficit	correlates with	limb ischemia
-cool extremity	indicates	poor perfusion
-pain	severity correlates with	extent of occlusion
-D-dimer	elevated in	embolism
-lactate	increases with	tissue hypoxia
-serum creatinine	rises with	major ischemia
-bleeding	complication of	anticoagulation
-contrast-induced nephropathy	increases	hospitalization cost
-renal replacement therapy	required for	renal failure
-mortality risk	rises with	age
-age	correlates with	mortality risk
-right leg	can be affected by	embolism
-left leg	can be affected by	embolism
-active bleeding	contraindicates	anticoagulation
-contraindication	to anticoagulation	active bleeding
-vascular surgery	requires	anesthesia
-graft occlusion	leads to	limb ischemia
-catheter	enables	thrombolysis delivery
-postoperative care	includes	wound management
-rehabilitation	improves	functional outcome
-clinical assessment	evaluates	perfusion status
-systemic hypotension	worsens	limb perfusion
-collateral circulation	preserves	limb viability
-hyperfibrinolysis	is a	complication
-cholesterol	contributes to	atherosclerosis
-ischemic preconditioning	protects against	tissue injury
-vascular imaging	guides	treatment decisions
-outcome	depends on	time to reperfusion
-ischemia	is a	surgical emergency
-embolism	equals	arterial occlusion
+aortic and peripheral arterial embolism or thrombosis	is associated with	atrial fibrillation
+aortic and peripheral arterial embolism or thrombosis	is associated with	left ventricular thrombus
+aortic and peripheral arterial embolism or thrombosis	is associated with	myocardial infarction
+aortic and peripheral arterial embolism or thrombosis	is associated with	prosthetic valve
+aortic and peripheral arterial embolism or thrombosis	is associated with	endocarditis
+aortic and peripheral arterial embolism or thrombosis	is associated with	atherosclerosis
+aortic and peripheral arterial embolism or thrombosis	is associated with	hypercoagulable state
+aortic and peripheral arterial embolism or thrombosis	is associated with	aging
+aortic and peripheral arterial embolism or thrombosis	is associated with	hypertension
+aortic and peripheral arterial embolism or thrombosis	is associated with	smoking
+aortic and peripheral arterial embolism or thrombosis	is associated with	diabetes mellitus
+aortic and peripheral arterial embolism or thrombosis	is associated with	chronic kidney disease
+aortic and peripheral arterial embolism or thrombosis	is associated with	obesity
+aortic and peripheral arterial embolism or thrombosis	is associated with	cancer
+aortic and peripheral arterial embolism or thrombosis	can cause	acute limb ischemia
+aortic and peripheral arterial embolism or thrombosis	presents with	acute limb ischemia
+aortic and peripheral arterial embolism or thrombosis	presents with	pain out of proportion
+aortic and peripheral arterial embolism or thrombosis	presents with	pallor
+aortic and peripheral arterial embolism or thrombosis	presents with	pulselessness
+aortic and peripheral arterial embolism or thrombosis	presents with	paresthesia
+aortic and peripheral arterial embolism or thrombosis	presents with	cold limb
+aortic and peripheral arterial embolism or thrombosis	can cause	mesenteric ischemia
+aortic and peripheral arterial embolism or thrombosis	can cause	renal infarction
+aortic and peripheral arterial embolism or thrombosis	can cause	stroke
+aortic and peripheral arterial embolism or thrombosis	can cause	organ failure
+aortic and peripheral arterial embolism or thrombosis	diagnosed by	CT angiography
+aortic and peripheral arterial embolism or thrombosis	diagnosed by	duplex ultrasound
+aortic and peripheral arterial embolism or thrombosis	diagnosed by	MR angiography
+aortic and peripheral arterial embolism or thrombosis	diagnosed by	conventional angiography
+aortic and peripheral arterial embolism or thrombosis	treated with	anticoagulation
+aortic and peripheral arterial embolism or thrombosis	treated with	thrombolysis
+aortic and peripheral arterial embolism or thrombosis	treated with	surgical embolectomy
+aortic and peripheral arterial embolism or thrombosis	treated with	endovascular thrombectomy
+aortic and peripheral arterial embolism or thrombosis	treated with	revascularization
+aortic and peripheral arterial embolism or thrombosis	treated with	bypass surgery
+aortic and peripheral arterial embolism or thrombosis	requires	vascular surgery
+aortic and peripheral arterial embolism or thrombosis	results in	limb amputation
+aortic and peripheral arterial embolism or thrombosis	results in	tissue necrosis
+aortic and peripheral arterial embolism or thrombosis	results in	renal infarction
+aortic and peripheral arterial embolism or thrombosis	results in	mesenteric ischemia
+aortic and peripheral arterial embolism or thrombosis	results in	stroke
+aortic and peripheral arterial embolism or thrombosis	results in	death
+aortic and peripheral arterial embolism or thrombosis	results in	multi-organ failure
+aortic and peripheral arterial embolism or thrombosis	increases	length of hospital stay
+aortic and peripheral arterial embolism or thrombosis	increases	risk of reintervention
+aortic and peripheral arterial embolism or thrombosis	predisposes to	secondary embolism
+aortic and peripheral arterial embolism or thrombosis	associated with	prosthetic valve dysfunction
+aortic and peripheral arterial embolism or thrombosis	increases	systemic inflammatory response
+aortic and peripheral arterial embolism or thrombosis	increases	morbidity
+aortic and peripheral arterial embolism or thrombosis	worsens	prognosis
+aortic and peripheral arterial embolism or thrombosis	occurs in	elderly
+aortic and peripheral arterial embolism or thrombosis	occurs in	patients with heart failure
+aortic and peripheral artery embolism or thrombosis	occurs in	postoperative patients
+aortic and peripheral arterial embolism or thrombosis	common in	peripheral arterial disease
+aortic and peripheral arterial embolism or thrombosis	monitored by	ankle-brachial index
+aortic and peripheral arterial embolism or thrombosis	associated with	elevated D-dimer
+aortic and peripheral arterial embolism or thrombosis	associated with	elevated lactate
+aortic and peripheral arterial embolism or thrombosis	associated with	lactic acidosis
+aortic and peripheral arterial embolism or thrombosis	associated with	leukocytosis
+aortic and peripheral arterial embolism or thrombosis	associated with	elevated CRP
+aortic and peripheral arterial embolism or thrombosis	associated with	hyperlipidemia
+aortic and peripheral arterial embolism or thrombosis	comorbid with	peripheral arterial disease
+aortic and peripheral arterial embolism or thrombosis	requires	rapid imaging
+aortic and peripheral arterial embolism or thrombosis	presence of	left atrial thrombus
+aortic and peripheral arterial embolism or thrombosis	presence of	left ventricular thrombus
+aortic and peripheral arterial embolism or thrombosis	linked to	rheumatic heart disease
+aortic and peripheral arterial embolism or thrombosis	occurs after	surgery
+aortic and peripheral arterial embolism or thrombosis	increases	hospital costs
+aortic and peripheral arterial embolism or thrombosis	associated with	dehydration
+aortic and peripheral arterial embolism or thrombosis	risk of	cerebral embolism
+aortic and peripheral arterial embolism or thrombosis	risk of	abdominal infarction
+aortic and peripheral arterial embolism or thrombosis	risk of	renal failure
+aortic and peripheral arterial embolism or thrombosis	risk of	limb loss
+aortic and peripheral arterial embolism or thrombosis	recurrence	common
+aortic and peripheral arterial embolism or thrombosis	imaging	CT angiography
+aortic and peripheral arterial embolism or thrombosis	imaging guidance	endovascular therapy
+aortic and peripheral arterial embolism or thrombosis	emergency management	requires
+aortic and peripheral arterial embolism or thrombosis	prognosis	variable
+aortic and peripheral arterial embolism or thrombosis	outcome	limb viability

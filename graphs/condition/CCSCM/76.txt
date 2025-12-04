@@ -1,99 +1,104 @@
-meningitis	is a	inflammatory disease of meninges
-bacterial meningitis	is a form of	meningitis
-viral meningitis	is a form of	meningitis
-fungal meningitis	is a form of	meningitis
-tuberculous meningitis	is a form of	meningitis
-aseptic meningitis	is a form of	meningitis
-neonatal meningitis	is a form of	meningitis
-Neisseria meningitidis	causes	meningitis
-Streptococcus pneumoniae	causes	meningitis
-Haemophilus influenzae	causes	meningitis
-Listeria monocytogenes	causes	meningitis
-Cryptococcus neoformans	causes	meningitis
-Mycobacterium tuberculosis	causes	tuberculous meningitis
-Enteroviruses	cause	viral meningitis
-Herpes simplex virus	can cause	meningitis
-headache	is a symptom of	meningitis
-neck stiffness	is a sign of	meningitis
-fever	is a symptom of	meningitis
-photophobia	is a symptom of	meningitis
-nausea	is a symptom of	meningitis
-vomiting	is a symptom of	meningitis
-altered mental status	is a symptom of	meningitis
-Kernig sign	indicates	meningitis
-Brudzinski sign	indicates	meningitis
-lumbar puncture	used for	meningitis diagnosis
-CSF analysis	shows	neutrophilic pleocytosis
-CSF glucose	decreased in	bacterial meningitis
-CSF protein	increased in	meningitis
-CSF cell count	elevated in	meningitis
-CSF culture	detects	meningitis pathogen
-PCR test	detects	meningitis pathogen
-CT scan	shows	meningeal enhancement
-MRI	detects	meningitis complications
-blood culture	yields	meningitis pathogen
-vancomycin	used for	meningitis
-third-generation cephalosporin	used for	bacterial meningitis
-ampicillin	used for	Listeria monocytogenes meningitis
-dexamethasone	reduces	inflammation in meningitis
-steroids	used as	adjunctive therapy for meningitis
-intravenous antibiotics	administered for	meningitis
-empirical therapy	includes	broad-spectrum antibiotics
-broad-spectrum antibiotics	initial therapy for	meningitis
-pediatric patients	commonly affected by	meningitis
-elderly patients	have higher mortality from	meningitis
-age	influences	meningitis prognosis
-delay in antibiotic therapy	worsens	meningitis prognosis
-delayed antibiotic therapy	increases	mortality in meningitis
-vaccination	prevents	meningitis
-meningitis vaccines	protect against	Neisseria meningitidis
-pneumococcal vaccine	protects against	pneumococcal meningitis
-Haemophilus influenzae type b vaccine	protects against	Hib meningitis
-hand hygiene	reduces	meningitis transmission
-crowding	increases	meningitis transmission
-outbreaks	involve	meningitis
-immunocompromised status	increases	meningitis risk
-asplenia	increases	meningitis risk
-neonatal period	associated with	meningitis risk
-seizures	occur in	meningitis
-hydrocephalus	can result from	meningitis
-hearing loss	can result from	meningitis
-cerebral edema	complication of	meningitis
+meningitis	is a	central nervous system infection
+bacterial meningitis	is a	bacterial CNS infection
+viral meningitis	is a	viral CNS infection
+fungal meningitis	is a	fungal CNS infection
+tuberculous meningitis	is a	mycobacterial CNS infection
+neisseria meningitidis	causes	meningitis
+streptococcus pneumoniae	causes	pneumococcal meningitis
+haemophilus influenzae	causes	Hib meningitis
+listeria monocytogenes	causes	listerial meningitis
+cryptococcus neoformans	causes	cryptococcal meningitis
+mycobacterium tuberculosis	causes	tuberculous meningitis
+neonatal meningitis	occurs in	neonates
+pediatric meningitis	occurs in	children
+elderly meningitis	occurs in	older adults
+immunocompromised patients	at risk for	meningitis
+basilar skull fracture	risk factor for	meningitis
+neurosurgery	risk factor for	meningitis
+fever	presents with	meningitis
+neck stiffness	presents with	meningitis
+headache	presents with	meningitis
+photophobia	presents with	meningitis
+altered mental status	presents with	meningitis
+seizures	can occur in	meningitis
+nausea	presents with	meningitis
+vomiting	presents with	meningitis
+papilledema	can occur in	meningitis
+csf glucose	is low in	bacterial meningitis
+csf protein	is elevated in	meningitis
+csf white blood cell count	is elevated in	meningitis
+gram stain	detects	bacteria in csf
+csf culture	grows	pathogens
+pcr testing	detects	meningitis pathogens
+lumber puncture	is used for	diagnosis of meningitis
+csf analysis	used for	meningitis diagnosis
+neisseria meningitidis	common cause of	meningitis
+streptococcus pneumoniae	common cause of	meningitis
+haemophilus influenzae	common cause of	hib meningitis
+listeria monocytogenes	can cause	neonatal meningitis
+cryptococcus neoformans	causes	meningitis in immunocompromised
+tuberculous meningitis	presents with	subacute symptoms
+neonatal meningitis	presents with	fever and irritability
+viral meningitis	prognosis is	favorable
+bacterial meningitis	prognosis is	worse than viral meningitis
+empiric therapy	is recommended for	suspected meningitis
+ceftriaxone	used for	meningitis
+cefotaxime	used for	meningitis
+vancomycin	used for	meningitis coverage
+ampicillin	used for	listeria meningitis
+dexamethasone	improves outcomes in	bacterial meningitis
+dexamethasone	reduces	inflammatory response in meningitis
+antibiotics	reduce	mortality in bacterial meningitis
+mortality	varies by	meningitis type
+pneumococcal meningitis	has	high mortality
+meningococcal meningitis	vaccine-preventable	meningitis
+meningococcal vaccine	prevents	meningococcal meningitis
+pneumococcal vaccine	prevents	pneumococcal meningitis
+hib vaccine	prevents	hib meningitis
+neonatal sepsis	coexists with	neonatal meningitis
+blood culture	obtained for	meningitis evaluation
+csf culture	confirms	meningitis etiology
+pcr	speeds up	meningitis diagnosis
+imaging	used for	meningitis evaluation
+mri	detects	meningitis complications
+ct scan	evaluates	meningitis with raised ICP
 intracranial pressure	elevated in	meningitis
-mortality	associated with	meningitis
-Glasgow outcome scale	used to measure	meningitis outcome
-timely antibiotic therapy	improves	meningitis outcome
-brain injury	can result from	meningitis
-antibiotic resistance	challenges	meningitis treatment
-nosocomial meningitis	occurs in	hospital setting
-post-infectious hydrocephalus	occurs after	meningitis
-hearing impairment	sequela of	meningitis
-memory impairment	sequela of	meningitis
-seizure disorders	long-term sequela of	meningitis
-disease prevalence	varies by	geography in meningitis
-Neisseria meningitidis infection	associated with	meningitis outbreaks
-vaccines	reduce	meningitis incidence
-meningitis vaccine	protects against	Neisseria meningitidis
-blood-brain barrier	disrupted by	meningitis
-inflammation	can cause	blood-brain barrier disruption
-meningeal vasculature	inflamed in	meningitis
-post-exposure prophylaxis	recommended for	meningitis contacts
-rifampin	used for	meningitis contacts
-ciprofloxacin	used for	meningitis contacts
-vaccination programs	reduce	meningitis burden
-neonates	at high risk for	meningitis
-seizures	common in	meningitis
-hearing loss	common in	meningitis
-hydrocephalus	potential complication of	meningitis
-brain abscess	rare complication of	meningitis
-sepsis	may accompany	meningitis
-coagulopathy	may accompany	meningitis
-respiratory failure	rare complication of	meningitis
-hypotension	indicates	sepsis in meningitis
-renal failure	possible complication of	meningitis
-long-term neurological sequelae	possible in	meningitis
-memory impairment	possible sequela of	meningitis
-cognitive impairment	possible sequela of	meningitis
-hearing loss	possible sequela of	meningitis
-death	possible outcome of	meningitis
-mortality rate	varies with	meningitis type
+hydrocephalus	can develop after	meningitis
+hearing loss	is a complication of	meningitis
+cognitive impairment	is a complication of	meningitis
+vasculitis	can occur in	meningitis
+neurological sequelae	include	deafness
+outcome	depends on	meningitis etiology
+rapid diagnosis	improves	meningitis outcomes
+older adults	have worse outcomes in	meningitis
+immunocompromised patients	have higher mortality in	meningitis
+nosocomial meningitis	occurs in	hospital settings
+postoperative meningitis	occurs in	postoperative patients
+intravenous antibiotics	are given for	meningitis
+intravenous fluids	are given for	meningitis
+antibiotic therapy	duration depends on	meningitis etiology
+therapy duration	ranges from	7 to 21 days
+csf sterilization	occurs after	antibiotic therapy
+group B streptococcus	causes	neonatal meningitis
+escherichia coli	causes	neonatal meningitis
+pneumococcal meningitis	is an example of	bacterial meningitis
+enteroviruses	cause	viral meningitis
+hiv infection	predisposes to	cryptococcal meningitis
+immune suppression	predisposes to	fungal meningitis
+vaccination programs	reduce	meningitis incidence
+herd immunity	reduces	meningitis transmission
+outbreak	occurs in	meningococcal meningitis
+epidemic meningitis	occurs in	outbreaks
+group B streptococcus	is a	neonatal meningitis pathogen
+escherichia coli	is a	neonatal meningitis pathogen
+pneumococcal meningitis	demonstrates	rapid deterioration
+lipophilicity	affects	CNS penetration of antibiotics
+medical therapy	duration depends on	meningitis etiology
+rapid pathogen identification	improves	meningitis management
+blood cultures	accompany	meningitis evaluation
+csf sterilization	indicates	bacterial clearance
+neonatal meningitis	pathogens include	group B streptococcus
+neonatal meningitis	pathogens include	escherichia coli
+hib meningitis	prevented by	hib vaccination
+meningitis burden	reduced by	vaccination programs
+neisseria meningitidis	outbreaks cause	meningitis快速

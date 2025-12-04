@@ -1,0 +1,92 @@
+transurethral resection of the prostate	is a	urologic procedure
+transurethral resection of the prostate	is a	surgical procedure
+transurethral resection of the prostate	is performed for	benign prostatic hyperplasia
+benign prostatic hyperplasia	is a	prostate enlargement condition
+benign prostatic hyperplasia	causes	lower urinary tract symptoms
+lower urinary tract symptoms	include	urinary frequency
+lower urinary tract symptoms	include	nocturia
+transurethral resection of the prostate	improves	urinary flow rate
+transurethral resection of the prostate	reduces	postvoid residual
+transurethral resection of the prostate	reduces	urinary retention
+transurethral resection of the prostate	shortens	recovery time
+transurethral resection of the prostate	reduces	hospitalization length
+transurethral resection of the prostate	reduces	catheter duration
+transurethral resection of the prostate	reduces	need for catheterization
+transurethral resection of the prostate	improves	urinary function
+transurethral resection of the prostate	improves	quality of life
+transurethral resection of the prostate	causes	bleeding
+transurethral resection of the prostate	causes	urinary tract infection
+transurethral resection of the prostate	causes	retrograde ejaculation
+transurethral resection of the prostate	causes	urinary incontinence
+transurethral resection of the prostate	causes	transient dysuria
+transurethral resection of the prostate	is performed under	spinal anesthesia
+transurethral resection of the prostate	is performed under	general anesthesia
+transurethral resection of the prostate	is performed in	operating room
+spinal anesthesia	is used for	transurethral resection of the prostate
+general anesthesia	is used for	transurethral resection of the prostate
+transurethral resection of the prostate	is an alternative to	open prostatectomy
+transurethral resection of the prostate	is an alternative to	laser prostatectomy
+open prostatectomy	is an alternative to	transurethral resection of the prostate
+HoLEP	is an alternative to	transurethral resection of the prostate
+laser prostatectomy	is an alternative to	transurethral resection of the prostate
+prostate tissue	is removed by	transurethral resection of the prostate
+irrigation	is used during	transurethral resection of the prostate
+urethral catheter	is placed during	transurethral resection of the prostate
+cystoscope	is used in	transurethral resection of the prostate
+urethral catheterization	is performed after	transurethral resection of the prostate
+postoperative catheterization	is common after	transurethral resection of the prostate
+catheterization	is common after	transurethral resection of the prostate
+urinary catheter	is placed during	transurethral resection of the prostate
+postoperative care	includes	catheterization
+catheter removal	occurs after	transurethral resection of the prostate
+hospital stay	is reduced after	transurethral resection of the prostate
+length of stay	is reduced after	transurethral resection of the prostate
+antibiotic prophylaxis	is used after	transurethral resection of the prostate
+antibiotic prophylaxis	is recommended for	transurethral resection of the prostate
+urinalysis	is part of	preoperative evaluation for transurethral resection of the prostate
+preoperative evaluation	includes	urinalysis
+urinary tract infection	is a potential complication after	transurethral resection of the prostate
+urethral stricture	is a complication of	transurethral resection of the prostate
+retrograde ejaculation	is a complication of	transurethral resection of the prostate
+bleeding	is a complication of	transurethral resection of the prostate
+transurethral resection of the prostate	yields	symptomatic relief
+Qmax	is improved after	transurethral resection of the prostate
+postvoid residual	decreases after	transurethral resection of the prostate
+urinary flow rate	increases after	transurethral resection of the prostate
+International Prostate Symptom Score	is used to evaluate	transurethral resection of the prostate outcomes
+symptom score	is used to evaluate	transurethral resection of the prostate outcomes
+durable relief of obstruction	is achieved by	transurethral resection of the prostate
+reoperation rate	is lower after	transurethral resection of the prostate
+satisfaction	is improved after	transurethral resection of the prostate
+elderly patients	may benefit from	transurethral resection of the prostate
+surgical risk	is low with	transurethral resection of the prostate
+hospital cost	is reduced with	transurethral resection of the prostate
+anesthesia type	influences	transurethral resection of the prostate outcomes
+surgeon experience	influences	transurethral resection of the prostate outcomes
+preoperative imaging	is performed for	transurethral resection of the prostate planning
+urinalysis	is part of	preoperative screening for transurethral resection of the prostate
+catheter management	is part of	postoperative transurethral resection of the prostate care
+postoperative follow-up	occurs after	transurethral resection of the prostate
+urinary symptom score	improves after	transurethral resection of the prostate
+urinary outcomes	are improved after	transurethral resection of the prostate
+voiding symptoms	improve after	transurethral resection of the prostate
+urination quality	improves after	transurethral resection of the prostate
+operative time	is variable during	transurethral resection of the prostate
+blood loss	is a concern during	transurethral resection of the prostate
+blood transfusion	is rarely required after	transurethral resection of the prostate
+hospital discharge	occurs after	transurethral resection of the prostate
+postoperative analgesia	is used after	transurethral resection of the prostate
+analgesia	is used after	transurethral resection of the prostate
+catheter duration	predicts	infection risk after transurethral resection of the prostate
+urethral strictures	increase with	transurethral resection of the prostate
+urethral strictures	are a complication after	transurethral resection of the prostate
+long-term obstruction relief	is achieved by	transurethral resection of the prostate
+urinary outcomes	are improved after	transurethral resection of the prostate
+patient selection	improves outcomes with	transurethral resection of the prostate
+practice guideline	recommends	transurethral resection of the prostate for bladder outlet obstruction
+catheter management	follows	transurethral resection of the prostate care
+postoperative follow-up	includes	symptom assessment
+continence recovery	occurs after	transurethral resection of the prostate
+long-term safety	is maintained after	transurethral resection of the prostate
+outcome measure	includes	symptom relief after transurethral resection of the prostate
+urethral mucosa	heals after	transurethral resection of the prostate

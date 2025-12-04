@@ -1,100 +1,100 @@
-developmental disorders	is a	neurodevelopmental condition
-autism spectrum disorder	is a	developmental disorder
-attention-deficit/hyperactivity disorder	is a	neurodevelopmental disorder
-intellectual disability	is a	neurodevelopmental disorder
-specific learning disorder	is a	neurodevelopmental disorder
-language disorder	is a	neurodevelopmental disorder
-speech delay	is a	developmental symptom
-communication impairment	is a	symptom of developmental disorders
-sensory processing disorder	is a	neurodevelopmental condition
-global developmental delay	is a	developmental disorder
-epilepsy	coexists with	developmental disorders
-epilepsy	coexists with	autism spectrum disorder
-anxiety disorder	coexists with	autism spectrum disorder
-depression	coexists with	autism spectrum disorder
-sleep disorder	coexists with	developmental disorders
-gastrointestinal disorder	coexists with	developmental disorders
-feeding disorder	coexists with	autism spectrum disorder
-tactile defensiveness	coexists with	autism spectrum disorder
-specific learning disorder	coexists with	reading impairment
-sensory over-responsivity	coexists with	autism spectrum disorder
-male sex	is a risk factor for	autism spectrum disorder
-family history	is a risk factor for	developmental disorders
-preterm birth	is a risk factor for	developmental disorders
-low birth weight	is a risk factor for	developmental disorders
-perinatal asphyxia	is a risk factor for	developmental disorders
-advanced paternal age	is a risk factor for	autism spectrum disorder
-maternal infection	is a risk factor for	developmental disorders
-prenatal exposure to toxins	is a risk factor for	developmental disorders
-extreme poverty	is a risk factor for	developmental disorders
-nutritional deficiency	is a risk factor for	developmental disorders
-speech therapy	is a treatment for	language disorder
-speech therapy	is a treatment for	autism spectrum disorder
-occupational therapy	is a treatment for	sensory processing disorder
-physical therapy	is a treatment for	motor coordination disorder
-behavioral therapy	is a treatment for	autism spectrum disorder
-applied behavior analysis	is a treatment for	autism spectrum disorder
-early intervention	is a predictor of	better developmental outcomes
-parent training	is a treatment for	autism spectrum disorder
-visual supports	are used for	developmental disorders
-communication therapy	is a treatment for	language disorder
-risperidone	is used for	autism spectrum disorder
-methylphenidate	is used for	attention-deficit/hyperactivity disorder
-atomoxetine	is used for	attention-deficit/hyperactivity disorder
-guanfacine	is used for	attention-deficit/hyperactivity disorder
-aripiprazole	is used for	irritability in autism spectrum disorder
-melatonin	is used for	sleep disorder
-SSRI	is used for	anxiety disorders
-antipsychotic	is used for	behavioral disturbances in autism spectrum disorder
-stimulant medication	is used for	ADHD
-vitamin B6	is used for	language disorder
-early intervention	improves	language outcomes
-early intervention	improves	cognitive outcomes
-special education	improves	academic performance
-family support	improves	caregiver burden
+developmental disorders	include	autism spectrum disorder
+developmental disorders	include	ADHD
+developmental disorders	include	intellectual disability
+developmental disorders	include	language disorder
+developmental disorders	include	speech sound disorder
+developmental disorders	include	global developmental delay
+developmental disorders	include	cerebral palsy
+developmental disorders	include	Rett syndrome
+developmental disorders	include	fragile X syndrome
+developmental disorders	include	Down syndrome
+developmental disorders	include	Williams syndrome
+developmental disorders	include	Angelman syndrome
+developmental disorders	include	Prader-Willi syndrome
+developmental disorders	include	fetal alcohol spectrum disorder
+developmental disorders	include	Tourette syndrome
+autism spectrum disorder	co-occurs with	epilepsy
+autism spectrum disorder	associated with	language impairment
+autism spectrum disorder	associated with	sensory processing disorder
+autism spectrum disorder	associated with	sleep disturbance
+autism spectrum disorder	treated with	behavioral therapy
+ADHD	treated with	stimulant medication
+ADHD	treated with	nonstimulant medication
+ADHD	associated with	executive function deficits
+intellectual disability	associated with	adaptive functioning impairment
+language disorder	associated with	reading impairment
+speech sound disorder	associated with	articulation difficulties
+specific learning disorder	associated with	math impairment
+global developmental delay	diagnosed by	developmental assessment
+cerebral palsy	associated with	motor impairment
+cerebral palsy	treated with	physical therapy
+Down syndrome	associated with	congenital heart defect
+Angelman syndrome	is a	neurodevelopmental disorder
+Prader-Willi syndrome	is a	neurodevelopmental disorder
+Rett syndrome	is a	neurodevelopmental disorder
+Fragile X syndrome	associated with	intellectual disability
+Williams syndrome	associated with	cardiovascular anomaly
+Tourette syndrome	co-occurs with	ADHD
+fetal alcohol spectrum disorder	co-occurs with	ADHD
+fetal alcohol spectrum disorder	associated with	facial dysmorphism
+global developmental delay	managed with	early intervention
+developmental disorders	managed with	early intervention program
+early intervention program	improves	developmental outcomes
+speech therapy	improves	speech intelligibility
 occupational therapy	improves	fine motor skills
-speech therapy	improves	communication skills
-behavioral therapy	reduces	problem behaviors
-intellectual disability	predicts	educational attainment
-autism spectrum disorder	predicts	need for supports
-attention-deficit/hyperactivity disorder	predicts	school failure
-early diagnosis	predicts	long-term outcomes
-developmental screening	detects	developmental disorders
-genetic testing	detects	genetic etiology
-developmental screening	detects	developmental disorders
-autism diagnostic interview	detects	autism spectrum disorder
-autism diagnostic observation schedule	detects	autism spectrum disorder
-cognitive assessment	detects	intellectual disability
-speech and language evaluation	detects	language disorder
-hearing screening	detects	speech delay
-developmental milestones	are delayed in	developmental disorders
-autism spectrum disorder	has	variable prognosis
-fragile X syndrome	is a cause of	developmental disorders
-copy number variation	associated with	autism spectrum disorder
-trisomy 21	associated with	intellectual disability
-PTEN mutation	associated with	autism spectrum disorder
-gene deletion	associated with	developmental disorders
-neuroinflammation	contributes to	developmental disorders
-Rett syndrome	is a developmental disorder
-family income	influences	access to care for developmental disorders
-rural residence	influences	access to care for developmental disorders
-health insurance coverage	influences	treatment access for developmental disorders
-parental education level	influences	early identification of developmental disorders
-stigma	influences	care seeking for developmental disorders
-caregiver burden	is increased by	developmental disorders
-sociocultural factors	influence	treatment acceptance for developmental disorders
-prematurity	causes	developmental delays
-neonatal complications	cause	developmental disorders
-EEG abnormalities	are associated with	epilepsy in developmental disorders
-visual impairment	occurs with	developmental disorders
-hearing impairment	occurs with	developmental disorders
-early childhood education	improves	developmental outcomes
-specialist referral	facilitates	diagnostic process for developmental disorders
-speech therapy	improves	articulation
-language therapy	is a treatment for	language disorder
-parental stress	increases	caregiver burden
-access to therapy	improves	participation in education
-occupational therapy	improves	activities of daily living
-autism spectrum disorder	requires	multidisciplinary care
-multidisciplinary care	improves	care coordination
-neurodevelopmental condition	overlaps with	psychiatric disorders
+physical therapy	improves	gross motor skills
+behavioral therapy	improves	adaptive behavior
+applied behavior analysis	used for	autism spectrum disorder
+educational intervention	improves	academic performance
+special education	provides	individualized education plan
+ADHD	associated with	sleep problems
+autism spectrum disorder	associated with	sleep problems
+intellectual disability	associated with	seizure disorders
+epilepsy	co-occurs with	autism spectrum disorder
+sleep disturbance	co-occurs with	developmental disorders
+Prader-Willi syndrome	treated with	growth hormone therapy
+Angelman syndrome	associated with	seizures
+Angelman syndrome	diagnosed by	genetic testing
+Prader-Willi syndrome	associated with	obesity
+Williams syndrome	associated with	supravalvular aortic stenosis
+Rett syndrome	associated with	regression
+global developmental delay	present with	motor delay
+speech delay	present with	language delay
+language delay	presents with	articulation difficulties
+reading disability	associated with	phonological processing deficit
+dyslexia	is a	learning disability
+specific learning disorder	is a	neurodevelopmental disorder
+ADHD	linked to	executive dysfunction
+autism spectrum disorder	linked to	sensory processing impairment
+intellectual disability	linked to	adaptive behavior impairment
+cerebral palsy	linked to	motor impairment
+Down syndrome	linked to	congenital heart defect
+Fragile X syndrome	associated with	autism features
+Williams syndrome	linked to	cardiovascular anomaly
+Rett syndrome	associated with	seizures
+global developmental delay	diagnosis by	developmental assessment
+early intervention	improves	developmental outcomes
+speech therapy	improves	language skills
+occupational therapy	improves	fine motor skills
+psychoeducation	supports	family functioning
+genetic testing	used for	diagnosis of developmental disorders
+genetic mutation	predisposes to	developmental disorders
+prenatal diagnosis	detects	genetic abnormality
+neuroimaging	reveals	brain differences
+brain abnormality	associated with	developmental disorder
+screening tool	used for	developmental screening
+m-CHAT	screens for	autism spectrum disorder
+Ages and Stages Questionnaire	screens for	developmental delay
+language delay	indicates	language disorder
+societal factors	influence	access to care
+caregiver burden	affects	treatment adherence
+socioeconomic status	influences	access to therapy
+language disorder	diagnosed by	speech and language evaluation
+dyslexia	diagnosed by	reading assessment
+ADHD	increases	injury risk
+autism spectrum disorder	increases	self-injury risk
+cerebral palsy	causes	mobility limitation
+global developmental delay	progresses to	intellectual disability
+Down syndrome	associated with	obstructive sleep apnea
+fetal alcohol spectrum disorder	associated with	facial anomalies
+global developmental delay	managed with	multidisciplinary care

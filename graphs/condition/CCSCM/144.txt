@@ -1,100 +1,103 @@
-regional enteritis	is a form of	inflammatory bowel disease
-ulcerative colitis	is a form of	inflammatory bowel disease
-regional enteritis	synonym of	Crohn's disease
-regional enteritis	involves	terminal ileum
-regional enteritis	involves	small intestine
-regional enteritis	involves	colon
-ulcerative colitis	involves	colon
-ulcerative colitis	involves	rectum
-regional enteritis	has	transmural inflammation
-regional enteritis	causes	fistula
-regional enteritis	causes	stricture
-regional enteritis	causes	abscess
-ulcerative colitis	causes	diarrhea
-ulcerative colitis	causes	rectal bleeding
-ulcerative colitis	leads to	colon cancer risk
-regional enteritis	leads to	fistula formation
-regional enteritis	leads to	malabsorption
-ulcerative colitis	leads to	colorectal cancer
-regional enteritis	presents with	abdominal pain
-regional enteritis	presents with	weight loss
-regional enteritis	presents with	fever
-regional enteritis	presents with	nocturnal symptoms
-ulcerative colitis	presents with	bloody diarrhea
-ulcerative colitis	presents with	tenesmus
-ulcerative colitis	presents with	urgency
-ulcerative colitis	presents with	abdominal pain
-regional enteritis	diagnosed by	colonoscopy
-regional enteritis	diagnosed by	imaging
-ulcerative colitis	diagnosed by	colonoscopy
-ulcerative colitis	diagnosed by	biopsy
-biopsy	shows	granuloma
-biopsy	shows	chronic inflammatory infiltrate
-colonoscopy	visualizes	mucosal ulcers
-colonoscopy	visualizes	pseudopolyps
-imaging	reveals	bowel wall thickening
-imaging	reveals	skip lesions
-fecal calprotectin	is a marker for	intestinal inflammation
-C-reactive protein	is a marker for	inflammation
-erythrocyte sedimentation rate	is a marker for	inflammation
-anemia	associated with	inflammatory bowel disease
-iron deficiency anemia	associated with	Crohn's disease
-hypoalbuminemia	associated with	inflammatory bowel disease
-osteoporosis	associated with	inflammatory bowel disease
-bone mineral density	decreases with	inflammatory bowel disease
-malnutrition	associated with	inflammatory bowel disease
-growth failure	associated with	pediatric Crohn's disease
-smoking	increases risk of	Crohn's disease
-smoking	worsens	Crohn's disease course
-corticosteroids	treat	active disease
-corticosteroids	cause	weight gain
-corticosteroids	cause	osteoporosis
-5-aminosalicylic acid	treat	ulcerative colitis
-azathioprine	treat	Crohn's disease
-azathioprine	treat	ulcerative colitis
-infliximab	treat	Crohn's disease
-infliximab	treat	fistula in Crohn's disease
-adalimumab	treat	Crohn's disease
-adalimumab	treat	ulcerative colitis
-vedolizumab	treat	inflammatory bowel disease
-ustekinumab	treat	Crohn's disease
-ustekinumab	treat	ulcerative colitis
-methotrexate	treat	Crohn's disease
-methotrexate	treat	ulcerative colitis
-surgery	may be required for	Crohn's disease
-surgery	may be required for	ulcerative colitis
+regional enteritis and ulcerative colitis	is a form of	inflammatory bowel disease
+regional enteritis and ulcerative colitis	is characterized by	chronic intestinal inflammation
+regional enteritis and ulcerative colitis	is diagnosed by	colonoscopy
+colonoscopy	is used for	diagnosis of regional enteritis and ulcerative colitis
+fecal calprotectin	is a test for	regional enteritis and ulcerative colitis
+ASCA	is a test for	Crohn's disease
+pANCA	is a test for	ulcerative colitis
+primary sclerosing cholangitis	is associated with	ulcerative colitis
+arthritis	is an extraintestinal manifestation of	regional enteritis and ulcerative colitis
+uveitis	is an extraintestinal manifestation of	regional enteritis and ulcerative colitis
+erythema nodosum	is an extraintestinal manifestation of	regional enteritis and ulcerative colitis
+pyoderma gangrenosum	is an extraintestinal manifestation of	regional enteritis and ulcerative colitis
+colorectal cancer	is increased with	long-standing inflammatory bowel disease
+regional enteritis and ulcerative colitis	increases risk for	colorectal cancer
+toxic megacolon	may occur in	regional enteritis and ulcerative colitis
+fistula	may develop in	Crohn's disease
+stricture	may develop in	Crohn's disease
+abscess	may occur in	Crohn's disease
+severe colitis	may require	colectomy
+colectomy	is performed for	regional enteritis and ulcerative colitis
+ileal pouch-anal anastomosis	is performed for	ulcerative colitis
+stoma	is created for	severe colitis
+nutritional deficiency	is common in	Crohn's disease
+anemia	is common in	inflammatory bowel disease
+hypoalbuminemia	reflects	disease activity in regional enteritis and ulcerative colitis
+growth failure	is a concern in	pediatric Crohn's disease
+bone density loss	is common in	inflammatory bowel disease
+osteopenia	is common in	Crohn's disease
+osteoporosis	is common in	inflammatory bowel disease
+surveillance colonoscopy	is used for	colorectal cancer in inflammatory bowel disease
+infliximab	is used for	regional enteritis and ulcerative colitis
+adalimumab	is used for	regional enteritis and ulcerative colitis
+azathioprine	is used for	regional enteritis and ulcerative colitis
+methotrexate	is used for	Crohn's disease
+thiopurines	are used for	Crohn's disease
+corticosteroids	are used for	regional enteritis and ulcerative colitis
+biologic therapy	is used for	regional enteritis and ulcerative colitis
+TNF inhibitors	are used for	regional enteritis and ulcerative colitis
+enteral nutrition	is used for	malnutrition in inflammatory bowel disease
+diet	influences	gut microbiota
+gut microbiota	influences	inflammatory bowel disease
+probiotics	may benefit	inflammatory bowel disease
+immunomodulators	may be required for	maintenance of remission in regional enteritis and ulcerative colitis
+flare	is a feature of	Crohn's disease
+relapse	is a feature of	ulcerative colitis
+rectum	is involved in	ulcerative colitis
+ileum	is involved in	Crohn's disease
+colon	is involved in	ulcerative colitis
+ileocecal region	is involved in	Crohn's disease
+transmural inflammation	is a hallmark of	Crohn's disease
+continuous inflammation	is a hallmark of	ulcerative colitis
+skip lesions	are seen in	Crohn's disease
+granuloma	is found in	Crohn's disease
+perianal disease	is common in	Crohn's disease
+perianal fistula	is a complication of	Crohn's disease
+perianal abscess	is a complication of	Crohn's disease
+ileocolic resection	is performed for	Crohn's disease
 ileocecal resection	is performed for	Crohn's disease
-colectomy	is performed for	ulcerative colitis
-colectomy	results in	ileostomy
-ileostomy	is a	stoma
-fistula	may require	surgery
-abscess	may require	drainage
-stricture	may require	dilation
-resection	may be performed for	Crohn's disease
-anastomosis	is created during	bowel resection
-ostomy	is a	stoma
-stoma	requires	ostomy care
-pouchitis	occurs with	ulcerative colitis
-family history	increases risk of	inflammatory bowel disease
-family history	increases risk of	Crohn's disease
-genetic susceptibility	contributes to	inflammatory bowel disease
-NOD2 gene mutation	associated with	Crohn's disease
-perianal disease	present with	fistula
-perianal disease	present with	abscess
-perianal disease	indicates	Crohn's disease
-pediatric Crohn's disease	has	growth delay
-nutritional deficiency	associated with	Crohn's disease
-colitis-associated cancer	arises from	ulcerative colitis
-surveillance colonoscopy	recommended for	ulcerative colitis
-colonoscopy	used for	cancer surveillance
-bone density testing	used for	osteoporosis screening
-nutrition assessment	used for	malnutrition screening
-smoking cessation	recommended for	Crohn's disease management
-exclusive enteral nutrition	used for	pediatric Crohn's disease
-anti-TNF therapy	associated with	fistula closure
-infliximab	associated with	fistula closure
-adalimumab	associated with	mucosal healing
-biologic therapy	includes	anti-TNF agents
-anti-TNF agents	include	infliximab
-anti-TNF agents	include	adalimumab
-immunomodulators	maintain	remission
+colonic resection	is performed for	ulcerative colitis
+surgical remission	is achieved with	colectomy
+pancolitis	is a pattern of	ulcerative colitis
+left-sided colitis	is a pattern of	ulcerative colitis
+drug-induced liver injury	is a potential adverse effect of	methotrexate
+leukopenia	is a potential adverse effect of	azathioprine
+azathioprine	provides	steroid-sparing effect
+infection risk	increases with	immunomodulators
+hospitalization	occurs during	severe regional enteritis and ulcerative colitis
+mortality	is relatively low with	modern therapy for Crohn's disease
+readmission	occurs after	Crohn's disease surgery
+smoking	is a risk factor for	Crohn's disease
+smoking	is a protective factor for	ulcerative colitis
+smoking cessation	is recommended for	Crohn's disease patients
+appendectomy	is associated with	reduced risk of ulcerative colitis
+iron deficiency anemia	is common in	Crohn's disease
+bleeding	is a symptom of	inflammatory bowel disease
+cachexia	is seen in	Crohn's disease
+steroid dependence	is a complication of	Crohn's disease
+antibody testing	aids in	differential diagnosis between Crohn's disease and ulcerative colitis
+CRP	is a biomarker for	disease activity in regional enteritis and ulcerative colitis
+calprotectin	is a biomarker for	disease activity in regional enteritis and ulcerative colitis
+MR enterography	is used for	Crohn's disease evaluation
+imaging	is used for	Crohn's disease assessment
+intestinal obstruction	is a complication of	Crohn's disease
+fistulizing disease	is a form of	Crohn's disease
+nutritional support	is required for	severe Crohn's disease
+iron supplementation	is used for	iron deficiency anemia in Crohn's disease
+bone health management	is necessary for	inflammatory bowel disease
+colorectal cancer screening	is recommended for	long-standing inflammatory bowel disease
+dysplasia	is a precursor to	colorectal cancer in inflammatory bowel disease
+immunization status	should be updated for	inflammatory bowel disease patients
+antibody testing	aids in	differential diagnosis between Crohn's disease and ulcerative colitis
+surveillance colonoscopy	reduces	colorectal cancer mortality in inflammatory bowel disease
+nutrition	supports	growth and healing in Crohn's disease
+perianal disease	requires	specialized care in Crohn's
+enterocutaneous fistula	is a rare complication of	Crohn's disease
+intestinal ulcers	are found in	ulcerative colitis
+cancer risk management	is part of	long-term care in inflammatory bowel disease
+medical therapy	aims to	induce remission in regional enteritis and ulcerative colitis
+surgical therapy	aims to	manage complications of regional enteritis and ulcerative colitis
+pediatric Crohn's disease	presents with	growth delay
+pediatric ulcerative colitis	presents with	growth delay
+smoking cessation	is recommended for	Crohn's disease patients
+pregnancy	requires special management in	inflammatory bowel disease

@@ -1,100 +1,100 @@
-impulse control disorders	is a	psychiatric disorder
-impulse control disorders	associated with	ADHD
-impulse control disorders	associated with	bipolar disorder
-impulse control disorders	associated with	major depressive disorder
-impulse control disorders	associated with	anxiety disorder
-impulse control disorders	associated with	substance use disorder
-impulse control disorders	associated with	nicotine dependence
-impulse control disorders	associated with	alcohol use disorder
-impulse control disorders	associated with	cannabis use disorder
-impulse control disorders	associated with	borderline personality disorder
-impulse control disorders	associated with	schizophrenia
-impulse control disorders	associated with	autism spectrum disorder
-impulse control disorders	associated with	post-traumatic stress disorder
-impulse control disorders	associated with	obsessive-compulsive disorder
-impulse control disorders	associated with	self-harm
-impulse control disorders	associated with	suicidality
-impulse control disorders	associated with	aggression
-impulse control disorders	associated with	violence
-impulse control disorders	associated with	incarceration
-impulse control disorders	includes	intermittent explosive disorder
-impulse control disorders	includes	kleptomania
-impulse control disorders	includes	pyromania
-impulse control disorders	includes	gambling disorder
-impulse control disorders	includes	trichotillomania
-impulse control disorders	includes	skin picking disorder
-impulse control disorders	treated with	cognitive-behavioral therapy
-impulse control disorders	treated with	habit reversal therapy
-impulse control disorders	treated with	exposure therapy
-impulse control disorders	treated with	sertraline
-impulse control disorders	treated with	fluoxetine
-impulse control disorders	treated with	citalopram
-impulse control disorders	treated with	paroxetine
-impulse control disorders	treated with	venlafaxine
-impulse control disorders	treated with	bupropion
-impulse control disorders	treated with	naltrexone
-impulse control disorders	treated with	topiramate
-impulse control disorders	treated with	lithium
-impulse control disorders	treated with	valproate
+impulse control disorders	include	kleptomania
+impulse control disorders	include	pyromania
+impulse control disorders	include	intermittent explosive disorder
+impulse control disorders	include	trichotillomania
+impulse control disorders	include	pathological gambling
+kleptomania	is a	impulse control disorder
+pyromania	is a	impulse control disorder
+intermittent explosive disorder	is a	impulse control disorder
+trichotillomania	is a	impulse control disorder
+pathological gambling	is a	impulse control disorder
+impulse control disorders	are comorbid with	depressive disorder
+impulse control disorders	are comorbid with	anxiety disorder
+impulse control disorders	are comorbid with	substance use disorder
+kleptomania	comorbid with	mood disorder
+trichotillomania	comorbid with	anxiety disorder
+pyromania	comorbid with	conduct disorder
+impulse control disorders	have	prevalence
 impulse control disorders	diagnosed by	DSM-5 criteria
-impulse control disorders	diagnosed by	clinical evaluation
-impulse control disorders	diagnosed by	structured interview
-impulse control disorders	assessed with	Barratt Impulsiveness Scale
-impulse control disorders	assessed with	impulsivity questionnaire
-impulse control disorders	associated with	brain injury
-impulse control disorders	associated with	frontal lobe dysfunction
-impulse control disorders	associated with	sleep disturbance
-impulse control disorders	associated with	stress exposure
-impulse control disorders	predicts	readmission
-impulse control disorders	predicts	mortality
-impulse control disorders	associated with	socioeconomic status
-impulse control disorders	associated with	obesity
-impulse control disorders	associated with	metabolic syndrome
-impulse control disorders	associated with	hypertension
-impulse control disorders	associated with	liver disease
-impulse control disorders	associated with	diabetes
-impulse control disorders	increases	healthcare utilization
-impulse control disorders	increases	emergency visits
-impulse control disorders	associated with	anemia
-impulse control disorders	associated with	chronic pain
-impulse control disorders	associated with	sleep apnea
-impulse control disorders	linked with	reckless driving
-impulse control disorders	linked with	financial risk
-impulse control disorders	linked with	job loss
-impulse control disorders	linked with	legal problems
-impulse control disorders	linked with	relationship disruption
-impulse control disorders	prevalent in	males
-impulse control disorders	prevalent in	females
-impulse control disorders	age of onset	adolescence
-impulse control disorders	age of onset	adulthood
-impulse control disorders	prognosis	variable
-impulse control disorders	associated with	developmental delay
-impulse control disorders	associated with	anxiety symptoms
-impulse control disorders	associated with	depressive symptoms
-impulse control disorders	associated with	psychotic symptoms
-impulse control disorders	associated with	nutritional deficiency
-impulse control disorders	responsive to	cognitive-behavioral therapy
-impulse control disorders	responsive to	pharmacotherapy
-impulse control disorders	responsive to	combination therapy
-impulse control disorders	risk factor for	self-harm
-impulse control disorders	risk factor for	suicide attempt
-impulse control disorders	risk factor for	injury
-impulse control disorders	risk factor for	hospitalization
-impulse control disorders	risk factor for	unemployment
-impulse control disorders	risk factor for	homelessness
-impulse control disorders	associated with	impulsivity level
-impulse control disorders	associated with	reward processing abnormalities
-impulse control disorders	associated with	cortisol levels
-impulse control disorders	associated with	dopamine dysregulation
-impulse control disorders	associated with	pain syndromes
-impulse control disorders	addressed with	cognitive-behavioral therapy
-impulse control disorders	addressed with	pharmacotherapy
-impulse control disorders	addressed with	psychotherapy
-impulse control disorders	described as	behavioral dyscontrol
-impulse control disorders	named in	DSM-5
-impulse control disorders	part of	behavioral addiction spectrum
-impulse control disorders	research focus on	impulse control mechanisms
-impulse control disorders	presence in	adolescence
-impulse control disorders	presence in	adulthood
-impulse control disorders	improving prognosis with	early intervention
-impulse control disorders	predictive factor for	treatment response
+kleptomania	diagnosed by	clinical assessment
+trichotillomania	diagnosed by	DSM-5 criteria
+pathological gambling	treated with	naltrexone
+compulsive buying	treated with	SSRI
+trichotillomania	treated with	habit reversal therapy
+intermittent explosive disorder	treated with	mood stabilizer
+kleptomania	treated with	psychotherapy
+impulse control disorders	treated with	cognitive-behavioral therapy
+naltrexone	used for	pathological gambling
+fluoxetine	used for	trichotillomania
+SSRI	used for	impulse control disorders
+n-acetylcysteine	explored for	trichotillomania
+dopamine system	dysregulation in	impulse control disorders
+orbitofrontal cortex	involved in	impulse control disorders
+serotonin signaling	altered in	impulse control disorders
+habit reversal therapy	reduces	hair-pulling episodes
+cognitive-behavioral therapy	reduces	impulsive acts
+psychotherapy	improves	behavioral control
+stress	triggers	impulse control disorders
+trauma	increases risk	impulse control disorders
+substance use	increases risk	impulse control disorders
+genetic factors	contribute to	impulse control disorders
+family history	increases risk	impulse control disorders
+onset	occurs in	adolescence
+pathological gambling	onset in	young adulthood
+trichotillomania	onset in	adolescence
+kleptomania	onset in	adolescence
+pyromania	onset in	adulthood
+cultural factors	influence	presentation of impulse control disorders
+legal problems	result from	impulse control disorders
+economic consequences	result from	pathological gambling
+skin lesions	result from	hair-pulling
+theft incidents	result from	kleptomania
+arson incidents	result from	pyromania
+emergency department visits	increase	impulse control disorders
+psychiatric hospitalization	increases with	impulse control disorders
+treatment adherence	improves	impulse control disorders
+early intervention	improves	prognosis of impulse control disorders
+CBT	improves	impulse control disorders
+habit reversal therapy	improves	hair-pulling control
+naltrexone	reduces	gambling urges
+mood stabilizer	reduces	explosive episodes
+SSRI	reduces	impulsivity
+antipsychotic medication	used for	impulse control disorders
+neuroimaging	used for	impulse control disorders diagnosis
+fMRI	used for	impulse control disorders study
+clinical trial	evaluates	impulse control disorder treatments
+therapy program	designed for	impulse control disorders
+neurobehavioral model	describes	impulse control disorders
+cognitive flexibility	reduced in	impulse control disorders
+reward system	altered in	impulse control disorders
+impulsivity	is trait	impulse control disorders
+impulsive aggression	manifests in	intermittent explosive disorder
+impulse control disorders	affects	quality of life
+caregiver burden	increases with	impulse control disorders
+hospital readmission	risk after	impulse control disorder hospitalization
+treatment guideline	recommends	cognitive-behavioral therapy for impulse control disorders
+screening tool	detects	impulse control disorders
+impulsive buying	part of	impulse control disorders
+frontostriatal circuits	involved in	impulse control disorders
+dopamine	contributes to	impulsivity in impulse control disorders
+glutamate	implicated in	impulse control disorders
+treatment outcome	improves with	psychotherapy
+neurotransmitter imbalance	related to	impulse control disorders
+impulsive behavior	manifests as	aggressive outbursts
+biological marker	associated with	impulse control disorders
+treatment access	affects	impulse control disorders outcomes
+insurance coverage	affects	treatment for impulse control disorders
+long-term care	required for	impulse control disorders
+peer support	improves	adherence to therapy
+criminal justice involvement	associated with	impulse control disorders
+adolescence	typical onset for	kleptomania
+adulthood	typical onset for	pyromania
+young adulthood	typical onset for	pathological gambling
+gender distribution	varies with	impulse control disorders
+treatment engagement	improves	outcomes in impulse control disorders
+comorbidity	predicts	hospitalization in impulse control disorders
+neuroplasticity	enhanced by	therapy for impulse control disorders
+behavioral activation	used for	impulse control disorders
+family intervention	supports	impulse control disorders management
+care plans	integrate	pharmacotherapy for impulse control disorders
+outcome study	evaluates	impulse control disorders treatments

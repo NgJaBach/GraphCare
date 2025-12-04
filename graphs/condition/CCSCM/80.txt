@@ -1,100 +1,101 @@
-multiple sclerosis	is a	demyelinating disease of the central nervous system
-optic neuritis	is associated with	multiple sclerosis
-relapsing-remitting multiple sclerosis	is a form of	multiple sclerosis
-secondary progressive multiple sclerosis	is a form of	multiple sclerosis
-primary progressive multiple sclerosis	is a form of	multiple sclerosis
-gait disturbance	is a symptom of	multiple sclerosis
-fatigue	is a symptom of	multiple sclerosis
-numbness	is a symptom of	multiple sclerosis
-spasticity	is a symptom of	multiple sclerosis
-visual impairment	is a symptom of	multiple sclerosis
-cognitive impairment	is a symptom of	multiple sclerosis
-bladder dysfunction	is a symptom of	multiple sclerosis
-depression	is a comorbidity of	multiple sclerosis
-relapse	is a feature of	multiple sclerosis
-disease-modifying therapy	is used for	multiple sclerosis
-interferon beta	is a	disease-modifying therapy
+multiple sclerosis	is an	autoimmune disease
+multiple sclerosis	is a	demyelinating disease
+multiple sclerosis	is a	chronic disease
+multiple sclerosis	affects	central nervous system
+central nervous system	comprises	brain and spinal cord
+brain	is a	component of central nervous system
+spinal cord	is a	component of central nervous system
+optic nerve	can be affected by	multiple sclerosis
+relapsing-remitting MS	is a	MS subtype
+primary progressive MS	is a	MS subtype
+secondary progressive MS	is a	MS subtype
+EDSS	is a	disability scale
+fatigue	is a	common MS symptom
+numbness	is a	MS symptom
+paresthesia	is a	MS symptom
+weakness	is a	MS symptom
+spasticity	is a	MS symptom
+ataxia	is a	MS symptom
+optic neuritis	is a	MS symptom
+cognitive impairment	is a	MS symptom
+depression	is a	MS comorbidity
+anxiety	is a	MS comorbidity
+urinary incontinence	is a	MS symptom
+bowel dysfunction	is a	MS symptom
+fatigue	worsens	quality of life
+MRI	detects	demyelinating lesions
+MRI	shows	lesion burden
+gadolinium-enhancing lesion	indicates	active inflammation
+oligoclonal bands	are a	CSF marker for multiple sclerosis
+T2 lesion	indicates	tissue damage
+lesion burden	correlates with	disability
+EDSS	correlates with	disability level
+CSF	contains	oligoclonal bands
 glatiramer acetate	is a	disease-modifying therapy
-fingolimod	is a	disease-modifying therapy
+interferon beta	is a	disease-modifying therapy
 dimethyl fumarate	is a	disease-modifying therapy
-teriflunomide	is a	disease-modifying therapy
-natalizumab	is a	monoclonal antibody
-ocrelizumab	is a	monoclonal antibody
-alemtuzumab	is a	monoclonal antibody
-cladribine	is a	disease-modifying therapy
+fingolimod	is a	disease-modifying therapy
+natalizumab	is a	disease-modifying therapy
+ocrelizumab	is a	disease-modifying therapy
 siponimod	is a	disease-modifying therapy
-plasma exchange	is used for	refractory relapse in multiple sclerosis
-corticosteroids	are used for	acute MS relapse
-MRI	is used for	diagnosis of multiple sclerosis
-McDonald criteria	are used for	multiple sclerosis diagnosis
-brain MRI	shows	demyelinating plaques
-MRI	shows	demyelinating plaques
-gadolinium-enhancing lesion	indicates	active inflammation in multiple sclerosis
-oligoclonal bands	are found in	cerebrospinal fluid
-cerebrospinal fluid	contains	oligoclonal bands
-evoked potentials	are used for	diagnosis of multiple sclerosis
-expanded disability status scale	is used for	disability assessment in multiple sclerosis
-HLA-DRB1*15:01	is associated with	multiple sclerosis
-vitamin D deficiency	is associated with	multiple sclerosis
-age at onset	predicts	disability progression in multiple sclerosis
-female sex	is a risk factor for	multiple sclerosis
-smoking	increases	disability progression in multiple sclerosis
-epstein-barr virus infection	is associated with	multiple sclerosis
-pregnancy	reduces	relapse rate in multiple sclerosis
-postpartum period	increases	relapse risk in multiple sclerosis
-breastfeeding	reduces	postpartum relapse in multiple sclerosis
-JC virus seropositivity	increases	PML risk with natalizumab
-natalizumab	is associated with	progressive multifocal leukoencephalopathy
-PML	is a risk of	natalizumab
-liver injury	is a potential adverse event of	teriflunomide
-injection-site reaction	is a potential adverse event of	glatiramer acetate
-neutralizing antibodies	can develop with	interferon beta
-neutralizing antibodies	reduce	efficacy of interferon beta
-bone density loss	is associated with	corticosteroid therapy
-flu-like symptoms	are associated with	interferon beta therapy
-infection	is a potential adverse event of	alemtuzumab
-thyroid dysfunction	is a potential adverse event of	alemtuzumab
-thyroid autoimmunity	occurs with	alemtuzumab
-PML	is a rare complication of	natalizumab
-pseudobulbar affect	occurs in	multiple sclerosis
-nystagmus	is a sign of	multiple sclerosis
-ataxia	is a sign of	multiple sclerosis
-hypoesthesia	is a symptom of	multiple sclerosis
-demyelination	occurs in	multiple sclerosis
-axonal loss	contributes to	disability in multiple sclerosis
-myelin	is damaged in	multiple sclerosis
-neurodegeneration	occurs with	multiple sclerosis
-exercise	improves	fatigue in multiple sclerosis
-physical therapy	improves	mobility in multiple sclerosis
-occupational therapy	helps	daily living in multiple sclerosis
-assistive devices	improve	mobility in multiple sclerosis
-brain atrophy	correlates with	disability in multiple sclerosis
-brain volume loss	correlates with	disability in multiple sclerosis
-vision loss	is a complication of	multiple sclerosis
-optic nerve atrophy	occurs with	multiple sclerosis
-urinary incontinence	is a symptom of	multiple sclerosis
-erectile dysfunction	is a symptom of	multiple sclerosis
-dysarthria	is a symptom of	multiple sclerosis
-cognitive reserve	influences	cognitive impairment in multiple sclerosis
-EDSS score	predicts	disability progression in multiple sclerosis
-MRI activity	predicts	relapse in multiple sclerosis
-hospital admission	is associated with	relapse in multiple sclerosis
-therapy adherence	predicts	relapse rate in multiple sclerosis
-quality of life	relates to	physical therapy in multiple sclerosis
-weight management	is advised for	multiple sclerosis
-vitamin D supplementation	is used for	multiple sclerosis
-disease-modifying therapy adherence	improves	relapse outcomes in multiple sclerosis
-autoimmune disease	co-occurs with	multiple sclerosis
-family history	increases	risk of multiple sclerosis
-genetic predisposition	contributes to	multiple sclerosis
-smoking cessation	improves	disease progression in multiple sclerosis
-breath support training	improves	respiratory function in multiple sclerosis
-assistive technology	supports	independence in multiple sclerosis
-vision rehabilitation	aids	visual function in multiple sclerosis
-cognitive rehabilitation	aids	cognitive function in multiple sclerosis
-physical activity	reduces	fatigue in multiple sclerosis
-neuroinflammation	contributes to	multiple sclerosis
-immune dysregulation	underlies	multiple sclerosis
-oligodendrocyte precursor cells	participate in	remyelination in multiple sclerosis
-remyelination	is limited in	multiple sclerosis
-neuroplasticity	can be enhanced by	rehabilitation in multiple sclerosis
+alemtuzumab	is a	disease-modifying therapy
+methylprednisolone	is a	corticosteroid
+high-dose corticosteroids	are a	relapse treatment
+plasma exchange	is a	therapy for MS relapse
+prednisone	is a	corticosteroid
+baclofen	is a	muscle relaxant
+tizanidine	is a	muscle relaxant
+gabapentin	is a	neuropathic pain agent
+amitriptyline	is a	neuropathic pain agent
+physical therapy	is a	supportive therapy for multiple sclerosis
+occupational therapy	is a	supportive therapy for multiple sclerosis
+rehabilitation	is a	supportive care for MS
+spasticity	treated with	baclofen
+spasticity	treated with	tizanidine
+urinary catheterization	is a	management for urinary incontinence
+bladder dysfunction	is a	MS symptom
+depression	affects	treatment adherence
+anxiety	affects	treatment adherence
+smoking	increases	MS risk
+vitamin D deficiency	increases	MS risk
+obesity	increases	MS progression
+age at onset	influences	MS phenotype
+female sex	is associated with	higher MS risk
+pregnancy	reduces	relapse frequency during pregnancy
+postpartum period	increases	relapse risk after delivery
+autologous hematopoietic stem cell transplantation	is a	potential treatment for MS
+visual impairment	is a	MS symptom
+brain atrophy	is a	MS biomarker
+radiologically isolated syndrome	is a	MS precursor
+optic pathway	is affected in	MS
+relapse	triggers	steroid therapy
+steroid therapy	is a	relapse treatment
+demyelination	is a	pathological process of MS
+axon loss	occurs in	MS lesions
+inflammation	drives	demyelination in MS
+oligodendrocyte precursor cells	contribute to	remyelination in MS
+neurodegeneration	is a	component of MS pathology
+blood-brain barrier disruption	is a	MS feature
+inflammatory cells	participate in	MS pathology
+myelin	is a	substrate damaged in MS
+remyelination	occurs in	MS
+disease-modifying therapy	reduces	relapse rate
+early treatment	improves	prognosis
+disability progression	correlates with	lesion burden
+brain atrophy	correlates with	cognitive decline
+visual evoked potential	is used for	optic pathway assessment
+radiologic surveillance	monitors	disease activity
+contrast enhancement	reflects	active disease
+radiologically isolated syndrome	is a	MS precursor
+evoked potentials	are used for	MS evaluation
+MRI surveillance	monitors	disease activity
+pediatric multiple sclerosis	occurs	in children
+children	require	MS-specific therapy adjustments
+therapy adherence	affects	MS outcomes
+lifestyle modification	improves	disease management
+exercise therapy	improves	mobility
+nutrition	supports	MS management
+sleep disturbance	co-occurs with	MS
+infection risk	increases	with corticosteroid use
+vaccination	is recommended during	MS therapy
+patient education	improves	medication adherence

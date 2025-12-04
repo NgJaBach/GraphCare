@@ -1,0 +1,100 @@
+liveborn	is a	birth outcome
+liveborn	defined as	birth with life signs
+liveborn	occurs at	delivery
+liveborn	opposite to	stillbirth
+stillbirth	opposite to	liveborn
+liveborn	assessed by	Apgar score
+liveborn	associated with	birth weight
+liveborn	associated with	gestational age
+liveborn	associated with	head circumference
+liveborn	associated with	umbilical cord pH
+liveborn	linked to	respiratory distress
+liveborn	linked to	respiratory distress syndrome
+liveborn	linked to	neonatal sepsis
+liveborn	linked to	hypoglycemia
+liveborn	linked to	hypothermia
+liveborn	linked to	hyperbilirubinemia
+liveborn	linked to	seizures
+liveborn	linked to	neurodevelopmental impairment
+liveborn	predicts	neonatal mortality
+liveborn	predicts	long-term disability
+liveborn	predicts	hospital readmission
+liveborn	associated with	NICU admission
+liveborn	managed by	neonatal team
+liveborn	treated with	resuscitation
+liveborn	requires	ventilation
+liveborn	requires	oxygen therapy
+liveborn	requires	NICU care
+liveborn	monitored by	neonatal monitoring
+liveborn	influenced by	birth setting
+liveborn	associated with	maternal diabetes
+liveborn	associated with	maternal hypertension
+liveborn	associated with	maternal obesity
+liveborn	associated with	multiple gestation
+birth weight	influences	liveborn outcome
+gestational age	influences	liveborn outcome
+Apgar score	predicts	neonatal outcome
+birth weight	predicts	neonatal survival
+gestational age	predicts	liveborn capacity
+head circumference	reflects	brain development
+umbilical cord pH	indicates	acidosis
+respiratory distress syndrome	complicates	liveborn
+neonatal sepsis	worsens	liveborn outcome
+hypoglycemia	affects	neurodevelopment
+hypothermia	increases	neonatal mortality
+hyperbilirubinemia	causes	jaundice
+seizures	indicate	hypoxic injury
+neurodevelopmental impairment	impacts	life quality
+neonatal mortality	is a	birth outcome metric
+long-term disability	impacts	caregiver burden
+neonatal intensive care unit	provides	liveborn care
+resuscitation	improves	Apgar score
+ventilation	supports	respiration
+oxygen therapy	treats	hypoxemia
+cesarean section	associated with	NICU admission
+vaginal delivery	associated with	lower respiratory risk
+maternal diabetes	increases	neonatal hypoglycemia risk
+maternal hypertension	increases	preterm risk
+maternal obesity	increases	cesarean rate
+multiple gestation	increases	preterm birth
+preterm birth	reduces	liveborn viability
+term birth	increases	liveborn rate
+birth weight	defines	birth percentile
+birth weight	defines	low birth weight status
+birth weight	defines	high birth weight status
+gestational age	defines	term status
+Apgar score	informs	resuscitation need
+neonatal outcome	associated with	birth weight
+neonatal outcome	associated with	gestational age
+neonatal outcome	associated with	Apgar score
+birth setting	influences	neonatal outcomes
+delivery method	influences	Apgar score
+neonatal resuscitation	reduces	neonatal mortality
+surfactant therapy	improves	oxygenation
+surfactant therapy	reduces	mortality
+mechanical ventilation	used for	respiratory failure
+nasal CPAP	provides	respiratory support
+CPAP	reduces	work of breathing
+postnatal bilirubin	reflects	jaundice risk
+breastfeeding	improves	neonatal outcomes
+exclusive breastfeeding	reduces	infection risk
+kangaroo care	improves	neurodevelopment
+umbilical infection	increases	sepsis risk
+apnea	occurs in	liveborn
+neonatal jaundice	common in	liveborn
+neonatal jaundice	reflects	hyperbilirubinemia
+necrotizing enterocolitis	risk increases	low birth weight
+necrotizing enterocolitis	occurs in	low birth weight infants
+growth failure	observed in	preterm infants
+weight gain	monitored in	neonates
+neonatal screening	performed on	liveborn
+immunization	begins	infancy
+perinatal mortality	benchmark	hospital performance
+perinatal care	improves	neonatal outcomes
+birth notification	informs	registry
+parental education	improves	early feeding
+discharge planning	affects	readmission
+discharge planning	improves	discharge success
+family involvement	enhances	parental satisfaction
+post discharge follow-up	reduces	readmission
+care coordination	improves	neonatal outcomes

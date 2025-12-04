@@ -1,100 +1,100 @@
-other upper respiratory disease	is a	respiratory disease
-other upper respiratory disease	may cause	sinusitis
-other upper respiratory disease	associated with	nasal obstruction
-other upper respiratory disease	treated with	decongestants
-other upper respiratory disease	treated with	intranasal corticosteroids
-other upper respiratory disease	may require	antibiotics
-nasal obstruction	causes	mouth breathing
-nasal obstruction	worsens with	sleep disturbance
-nasal discharge	accompanies	upper respiratory disease
-sore throat	accompanies	upper respiratory disease
-cough	accompanies	upper respiratory disease
-fever	accompanies	upper respiratory disease
-facial pain	associated with	sinusitis
-facial pressure	associated with	sinusitis
-nasal congestion	characteristic of	rhinitis
+allergic rhinitis	causes	IgE-mediated allergy
+allergic rhinitis	associated with	asthma
+allergic rhinitis	worsened by	pollen
+allergic rhinitis	diagnosed by	nasal allergen testing
+nasal allergen testing	used for	allergic rhinitis
+nasal corticosteroids	treats	allergic rhinitis
+intranasal corticosteroids	used for	allergic rhinitis
+antihistamines	relieve	rhinorrhea
+antihistamines	used for	allergic rhinitis
+pollen	triggers	allergic rhinitis
+nasal congestion	presents with	allergic rhinitis
+smoking	increases risk of	upper respiratory infections
+air pollution	increases risk of	chronic rhinosinusitis
+deviated septum	associated with	chronic rhinosinusitis
 nasal polyps	associated with	chronic rhinosinusitis
-nasal polyps	associated with	asthma
-sinusitis	diagnosed by	CT scan
-sinusitis	treated with	antibiotics
-sinusitis	managed with	nasal saline irrigation
-acute sinusitis	resolves with	supportive care
-chronic rhinosinusitis	defined by	persistent symptoms
-chronic rhinosinusitis	associated with	nasal polyps
-chronic rhinosinusitis	impact on	quality of life
-asthma	worsens with	upper respiratory infection
-allergic rhinitis	coexists with	upper respiratory disease
-otitis media	related to	upper respiratory infection
-epistaxis	associated with	nasal trauma
-epistaxis	worsened by	anticoagulant therapy
-smoking	increases risk for	upper respiratory disease
-air pollution	associated with	nasal symptoms
-viral infection	precedes	upper respiratory disease
-bacterial infection	complicates	upper respiratory disease
-antibiotics	prescribed for	bacterial sinusitis
-amoxicillin	is a	antibiotic
-azithromycin	is a	antibiotic
-doxycycline	is a	antibiotic
-intranasal corticosteroids	used for	nasal inflammation
-systemic corticosteroids	used for	acute sinusitis
-decongestants	provide	symptomatic relief
-antihistamines	relieve	allergic rhinitis symptoms
-nasal saline irrigation	improves	nasal drainage
-nasal spray	recommended for	nasal congestion
-nasal spray	delivers	medicated solution
-risk factors	include	allergic predisposition
-sleep disturbance	associated with	nasal obstruction
-sleep apnea	risk increased by	nasal obstruction
-quality of life	improves with	treatment of upper respiratory disease
-healthcare utilization	increases after	acute sinusitis
-clinic visit	required for	chronic rhinosinusitis
-nasal endoscopy	used for	evaluation of nasal symptoms
-CT sinus	used for	evaluation of sinusitis
-pollen exposure	triggers	allergic rhinitis
-dust mite exposure	triggers	allergic rhinitis
-household irritants	worsen	nasal symptoms
-saline irrigation	provides	mechanical clearance
-intranasal steroids	reduce	nasal swelling
 nasal polyps	cause	nasal obstruction
-nasal obstruction	causes	sleep disturbance
-postnasal drip	causes	throat irritation
-throat irritation	associated with	pharyngitis
-pharyngitis	commonly caused by	viruses
+nasal obstruction	presents with	nasal polyps
+acute rhinosinusitis	is an	inflammatory condition of the paranasal sinuses
+acute rhinosinusitis	caused by	rhinovirus
+acute rhinosinusitis	treated with	antibiotics
+sinusitis	diagnosed by	CT scan of sinuses
+nasal endoscopy	used for	sinusitis evaluation
+sinusitis	presents with	facial pain
+acute sinusitis	presents with	facial pressure
+common cold	is a	upper respiratory infection
+common cold	caused by	rhinovirus
+common cold	presents with	rhinorrhea
+common cold	treated with	supportive care
+influenza	is a	viral infection
+influenza	caused by	influenza virus
+influenza	prevented by	influenza vaccination
+influenza	treated with	antiviral therapy
+croup	presents with	barky cough
+croup	treated with	dexamethasone
+croup	caused by	parainfluenza virus
+pharyngitis	caused by	Streptococcus pyogenes
+pharyngitis	treated with	antibiotics
+pharyngitis	diagnosed by	rapid antigen test
+tonsillitis	caused by	Streptococcus pyogenes
+tonsillitis	treated with	antibiotics
+tonsillitis	may require	tonsillectomy
 laryngitis	presents with	hoarseness
-hoarseness	indicates	laryngitis
-bronchitis	may follow	upper respiratory infection
-antibiotic resistance	rises with	overuse of antibiotics
-imaging	guides	surgical planning
-endoscopic sinus surgery	is a treatment for	chronic rhinosinusitis
-balloon sinuplasty	is a procedure for	chronic sinusitis
-surgery	reduces	nasal obstruction
-recurrent sinusitis	leads to	antibiotic exposure
-treatment adherence	improves	outcomes in upper respiratory disease
-patient education	improves	treatment adherence
-immunotherapy	used for	allergic rhinitis
-nasal allergen immunotherapy	reduces	allergic rhinitis symptoms
-smoking cessation	improves	nasal symptoms
-decongestant overuse	causes	rebound congestion
-rebound congestion	results from	decongestant overuse
-vasoconstriction	is mechanism of	decongestants
+laryngitis	caused by	viral infection
+otitis media	associated with	upper respiratory infection
+otitis media	treated with	antibiotics
+otitis media with effusion	associated with	eustachian tube dysfunction
+nasal irrigation	used for	chronic rhinosinusitis
+nasal decongestants	relieve	nasal congestion
+intranasal corticosteroids	used for	allergic rhinitis
+antihistamines	reduce	rhinorrhea
+saline nasal spray	used for	nasal symptoms
+decongestant sprays	should be used for	short-term only
+vaccine	prevents	influenza
+seasonal allergies	associated with	allergic rhinitis
+upper respiratory infection	is often	viral in origin
+rhinitis	present with	nasal itching
+dust mite	triggers	allergic rhinitis
+smoking cessation	recommended for	patients with upper respiratory infections
+daycare	increases risk of	upper respiratory infections
+pneumococcal vaccination	reduces risk of	otitis media
+amoxicillin	is a	antibiotic
+amoxicillin	used for	acute bacterial sinusitis
+amoxicillin-clavulanate	used for	chronic rhinosinusitis with bacterial infection
+nasal steroids	improve	nasal symptoms in allergic rhinitis
+oral corticosteroids	used in	severe allergic rhinitis
+rapid strep test	detects	Streptococcus pyogenes
+throat culture	detects	Streptococcus pyogenes
+PCR panel	detects	respiratory viruses
+white blood cell count	elevated in	bacterial infection
+C-reactive protein	elevated in	bacterial sinusitis
+imaging	shows	sinus opacification
+CT scan	shows	sinus opacification
+nasal polyp	associated with	chronic rhinosinusitis
+nasal polyps	associated with	aspirin-exacerbated respiratory disease
+paranasal sinuses	involved in	sinusitis
+nasal corticosteroids	reduce	nasal mucosa edema
+rebound congestion	results from	prolonged nasal decongestant use
+penicillin allergy	contraindicates	amoxicillin
 antibiotic stewardship	promotes	appropriate antibiotic use
-allergic sensitization	contributes to	chronic rhinosinusitis
-airway inflammation	characterizes	upper respiratory disease
-mucosal edema	common in	rhinitis
-nasal itching	common in	allergic rhinitis
-sneezing	typical of	allergic rhinitis
-nasal dryness	may result from	intranasal corticosteroids
-nasal spray side effects	include	nasal irritation
-nasal irritation	is a side effect of	intranasal corticosteroids
-taste disturbance	may occur with	nasal medication
-nasal mucosa	swelling in	rhinitis
-immunodeficiency	increases risk for	chronic rhinosinusitis
-nasal airflow	improves with	endoscopic sinus surgery
-polyp burden	correlates with	disease severity
-surgery	reduces	nasal obstruction burden
-clinical guideline	recommends	first-line therapy
-first-line therapy	includes	intranasal corticosteroids
-nasal polyps	recurrence after	surgery
-postoperative care	improves	recovery after sinus surgery
-quality of life measures	track	symptom burden
-health outcome	informs	prognosis
+intranasal ipratropium	reduces	rhinorrhea
+rhinorrhea	present with	allergic rhinitis
+rhinorrhea	associated with	common cold
+fever	present with	influenza
+myalgia	present with	influenza
+cough	present with	common cold
+sore throat	present with	pharyngitis
+hoarseness	present with	laryngitis
+otitis media	more common in	children
+otitis media	treated with	analgesics
+rhinosinusitis	managed with	saline irrigation
+rhinitis medicamentosa	results from	prolonged decongestant use
+nasal spray	provides	symptomatic relief
+nasal irrigation	improves	mucociliary clearance
+seasonal influenza vaccine	protects against	influenza
+influenza vaccine	reduces risk of	hospitalization
+RSV infection	causes	bronchiolitis
+bronchiolitis	occurs in	infants
+viral URI	spread by	droplet transmission
+droplet transmission	facilitates	viral URIs
+upper airway infection	recurrence	chronicity

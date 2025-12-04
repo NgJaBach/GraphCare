@@ -1,100 +1,100 @@
 suicide	is a	self-inflicted injury
-intentional self-inflicted injury	is a	suicide attempt
-suicide attempt	is a	life-threatening event
-suicide attempt	is associated with	psychiatric disorder
-suicide attempt	is associated with	substance use disorder
+self-harm	is a	risk behavior
 suicidal ideation	is a	symptom of mood disorder
-self-harm	is a	behavioral health issue
-prior self-harm	increases	suicide risk
-history of suicide attempt	increases	recurrence risk
-family history of suicide	is a	risk factor for suicide
-adolescent	is a	high-risk group for suicide attempt
-emergency department	is a	common site for suicide attempt evaluation
-psychiatric hospitalization	follows	suicide attempt
-suicide risk assessment	is performed by	clinician
-electroconvulsive therapy	is used for	severe depression with suicidality
-antidepressant therapy	reduces	suicide risk
-lithium	reduces	suicide risk
-cognitive behavioral therapy	reduces	suicide risk
-safety planning	reduces	suicide risk
-family support	reduces	suicide risk
-access to care	reduces	suicide risk
-substance misuse	is associated with	suicide attempt
-depression	is associated with	suicide risk
-bipolar disorder	is associated with	suicide risk
-schizophrenia	is associated with	suicide risk
-anxiety disorder	is associated with	suicide risk
-personality disorder	is associated with	suicide attempt
-borderline personality disorder	is associated with	suicide attempt
-PTSD	is associated with	suicide attempt
-trauma history	is associated with	suicide risk
-chronic illness	is associated with	suicide risk
-pain disorder	is associated with	suicide risk
-diabetes	is associated with	suicide risk
-cardiovascular disease	is associated with	suicide risk
-sleep disorder	is associated with	suicide risk
-overdose	is a method of	suicide attempt
-poisoning	is a method of	suicide attempt
-emergency department visit	follows	suicide attempt
-psychiatric consultation	follows	suicide attempt
-hospital admission	follows	suicide attempt
-ICU admission	follows	suicide attempt
-mortality	is an outcome of	suicide
-readmission	follows	suicide attempt
-length of stay	increases	after suicide attempt
-post-discharge outcome	is influenced by	suicide attempt
-intensive case management	reduces	suicide risk
-risk assessment	informs	care plan for suicide risk
-isolation	increases	suicide risk
-social isolation	increases	suicide risk
-loneliness	increases	suicide risk
-economic hardship	increases	suicide risk
-bullying	increases	suicide risk
-physical abuse	increases	suicide risk
-sexual abuse	increases	suicide risk
-gun access	increases	suicide risk
-alcohol use	increases	suicide risk
-opioid use	increases	suicide risk
-stigma	reduces	help-seeking
-help-seeking	reduces	suicide risk
-hopelessness	increases	suicide risk
-impulsivity	increases	suicide attempt risk
-previous attempt	increases	future risk
-bereavement	increases	suicide risk
-medical comorbidity	increases	suicide risk
-seasonality	influences	suicide rate
-religious involvement	reduces	suicide risk
-public health intervention	reduces	suicide rate
-safety plan	is component of	suicide prevention
-care plan	includes	suicide risk management
-post-discharge follow-up	occurs after	suicide attempt
-crisis line	provides	immediate support
-inpatient ward	monitors	suicide risk
-case management	supports	suicide prevention
-primary care	provides	suicide risk screening
-emergency medical services	assist	suicide crisis management
-psychiatric follow-up	occurs after	suicide attempt
-therapy adherence	improves	suicide outcomes
-community mental health center	provides	post-discharge support
-family therapy	reduces	suicide risk
-coping skills training	reduces	suicide risk
-stress management	reduces	suicide risk
-education program	promotes	suicide prevention
-research study	informs	suicide prevention strategy
-ethnicity	is associated with	suicide rate
-education level	relates to	suicide risk
-mental health stigma	impedes	help-seeking
-post-traumatic growth	reduces	suicide risk
-crisis stabilization	provides	rapid intervention
-psychiatric emergency response	coordinates	crisis care
-nurse rounds	monitor	suicide risk
-hospital discharge planning	improves	post-discharge safety
-care transition	supports	continuity of care
-risk stratification	guides	intervention plan
-protective factors	reduce	suicide risk
-family engagement	reduces	suicide risk
-community outreach	reduces	suicide risk
-means restriction	reduces	suicide risk
-hotline accessibility	improves	crisis response
-psychiatric crisis team	provides	rapid assessment
-surveillance data	informs	public health strategy
+depression	is a	mood disorder
+depression	increases risk for	suicide
+bipolar disorder	increases risk for	suicide
+anxiety disorder	associated with	suicidal ideation
+post-traumatic stress disorder	increases risk for	suicide
+post-traumatic stress disorder	is comorbid with	depression
+borderline personality disorder	is associated with	self-harm
+schizophrenia	is associated with	self-harm
+substance use disorder	increases risk for	suicide
+alcohol use disorder	increases risk for	suicide
+opioid use disorder	increases risk for	suicide
+cocaine use disorder	increases risk for	suicide
+history of trauma	increases risk for	self-harm
+family history of suicide	increases risk for	suicide
+family history of mood disorder	increases risk for	suicide
+social isolation	increases risk for	suicide
+loneliness	increases risk for	suicide
+unemployment	associated with	suicide risk
+divorce	associated with	suicide risk
+living alone	associated with	suicide risk
+housing instability	associated with	suicide risk
+poverty	associated with	suicide risk
+means restriction	reduces	suicide completion
+firearm access	increases risk for	completed suicide
+means restriction programs	reduce	suicide deaths
+crisis intervention	reduces	suicide risk
+safety planning	reduces	suicide attempts
+psychiatric hospitalization	is indicated for	suicide attempt
+inpatient psychiatry	provides	suicide risk management
+outpatient mental health services	reduces	suicide risk
+suicide risk assessment	informs	care plan
+Columbia-Suicide Severity Rating Scale	is a	risk assessment tool
+PHQ-9	is a	screening instrument
+C-SSRS	is a	screening instrument
+safety plan	establishes	coping strategies
+cognitive behavioral therapy	is a	treatment for mood disorder
+dialectical behavior therapy	is a	treatment for borderline personality disorder
+antidepressant	is a	pharmacologic treatment for mood disorder
+selective serotonin reuptake inhibitor	treats	mood disorder
+mood stabilizer	treats	mood disorder
+antipsychotic	treats	schizophrenia
+sleep disturbance	increases risk for	suicidal ideation
+insomnia	increases risk for	suicide attempt
+history of self-harm	is predictor of	future self-harm
+previous suicide attempt	is a strong predictor of	completed suicide
+repeat suicide attempt	is associated with	recurrence risk
+suicide attempt	requires	emergency medical care
+emergency department	treats	suicide attempt patients
+prevention program	reduces	suicide deaths
+protective factor	reduces	suicide risk
+resilience	reduces	suicide risk
+family support	improves	recovery after suicide attempt
+housing stability	improves	access to care
+health insurance	enables	follow-up after suicide attempt
+stigma	hinders	help-seeking for suicide risk
+cultural factors	influence	suicide risk
+religion	provides	protective factors against suicide
+education level	associated with	suicide risk
+ethnicity	associated with	suicide risk
+history of abuse	increases risk for	self-harm
+neurobiology	contributes to	suicide risk
+genetic predisposition	contributes to	suicide risk
+neuroimaging marker	associated with	suicidality
+traumatic brain injury	increases risk for	suicide
+chronic pain syndrome	increases risk for	self-harm
+trauma-informed care	reduces	suicide risk
+psychiatric medication	reduces	mood symptoms
+impulsivity	is associated with	suicide risk
+impulsive behavior	predicts	suicide attempt
+repeat self-harm	leads to	hospitalization
+self-harm patient	requires	close monitoring
+nurse observation	detects	suicidality
+caregiver support	improves	patient safety
+early intervention programs	reduce	suicide risk among youth
+suicide attempt survivor	has	increased healthcare utilization
+survivor	has	increased risk of subsequent suicide attempts
+media reporting of suicide	influences	suicide contagion
+suicide prevention program	reduces	suicide mortality
+safety planning intervention	reduces	suicidal behavior
+psychotherapy	reduces	suicide risk
+family therapy	reduces	suicidal ideation
+post-discharge follow-up	reduces	readmission after suicide attempt
+emergency medical services	coordinates	care for suicide attempters
+risk stratification	guides	intervention selection
+early warning signs	indicate	high suicide risk
+school-based programs	prevent	youth suicide
+community resources	provide	crisis support
+crisis text line	is an	intervention for active suicide risk
+mobile crisis unit	provides	rapid de-escalation for suicidality
+serotonergic antidepressants	treat	mood disorder
+electroconvulsive therapy	is a	treatment for severe depression with suicidality
+behavioral activation therapy	is a	treatment for mood disorder
+mental health literacy	improves	help-seeking after suicide risk
+bereavement support	reduces	risk of suicide contagion
+long-term follow-up	improves	survival after suicide attempt
+peer support	provides	emotional support after suicide risk
+aftercare services	reduce	risk of suicide after attempt

@@ -1,0 +1,100 @@
+upper gastrointestinal x-ray	is a	medical imaging study
+upper gastrointestinal x-ray	uses	barium sulfate
+barium sulfate	is a	radiopaque contrast agent
+upper gastrointestinal x-ray	indicated for	dysphagia
+upper gastrointestinal x-ray	indicated for	reflux
+upper gastrointestinal x-ray	indicated for	epigastric pain
+upper gastrointestinal x-ray	indicated for	weight loss
+upper gastrointestinal x-ray	visualizes	esophagus
+upper gastrointestinal x-ray	visualizes	stomach
+upper gastrointestinal x-ray	visualizes	duodenum
+upper gastrointestinal x-ray	reveals	esophageal stricture
+upper gastrointestinal x-ray	reveals	gastric ulcer
+upper gastrointestinal x-ray	reveals	duodenal ulcer
+upper gastrointestinal x-ray	reveals	hiatal hernia
+upper gastrointestinal x-ray	reveals	gastritis
+upper gastrointestinal x-ray	assists	preoperative planning
+upper gastrointestinal x-ray	assists	postoperative evaluation
+upper gastrointestinal x-ray	contraindicated with	perforation
+upper gastrointestinal x-ray	associated with	aspiration risk
+upper gastrointestinal x-ray	requires	fasting
+upper gastrointestinal x-ray	requires	patient preparation
+upper gastrointestinal x-ray	performed by	radiologist
+upper gastrointestinal x-ray	performed in	radiology department
+upper gastrointestinal x-ray	followed by	endoscopy
+barium sulfate	causes	constipation
+barium sulfate	can cause	allergic reaction
+upper gastrointestinal x-ray	alternative to	endoscopy
+upper gastrointestinal x-ray	used for	evaluation of esophageal reflux
+upper gastrointestinal x-ray	used for	evaluation of gastric outlet obstruction
+upper gastrointestinal x-ray	used for	evaluation of pyloric stenosis
+upper gastrointestinal x-ray	detects	bezoar
+upper gastrointestinal x-ray	detects	gastric polyps
+upper gastrointestinal x-ray	detects	gastric mass
+upper gastrointestinal x-ray	detects	diverticulum
+upper gastrointestinal x-ray	detects	ulcer scar
+upper gastrointestinal x-ray	reveals	abnormal contour
+upper gastrointestinal x-ray	reveals	mucosal edema
+upper gastrointestinal x-ray	reveals	stricture
+upper gastrointestinal x-ray	provides	anatomical detail
+upper gastrointestinal x-ray	provides	radiographic findings
+upper gastrointestinal x-ray	aids	differential diagnosis
+upper gastrointestinal x-ray	supports	clinical decision
+upper gastrointestinal x-ray	informs	treatment planning
+upper gastrointestinal x-ray	complements	endoscopy
+upper gastrointestinal x-ray	compared with	CT imaging
+upper gastrointestinal x-ray	compared with	MR imaging
+upper gastrointestinal x-ray	followed by	CT scan
+upper gastrointestinal x-ray	part of	GI diagnostic workup
+upper gastrointestinal x-ray	part of	radiology protocol
+upper gastrointestinal x-ray	part of	preoperative assessment
+barium sulfate suspension	is a	radiopaque suspension
+barium sulfate suspension	requires	oral ingestion
+barium sulfate suspension	used for	GI visualization
+barium sulfate suspension	clearance	bowel transit
+upper gastrointestinal x-ray	carries	radiation exposure
+upper gastrointestinal x-ray	requires	scheduling
+upper gastrointestinal x-ray	influences	patient management
+upper gastrointestinal x-ray	yields	diagnostic information
+upper gastrointestinal x-ray	yields	imaging data
+upper gastrointestinal x-ray	documents	findings
+upper gastrointestinal x-ray	records	diagnostic results
+upper gastrointestinal x-ray	supports	clinical workflow
+upper gastrointestinal x-ray	aids	triage in emergency
+upper gastrointestinal x-ray	supports	discharge planning
+upper gastrointestinal x-ray	available in	outpatient setting
+upper gastrointestinal x-ray	available in	inpatient setting
+upper gastrointestinal x-ray	appropriate for	adults
+upper gastrointestinal x-ray	appropriate for	pediatric patients
+upper gastrointestinal x-ray	used in	follow-up evaluation
+upper gastrointestinal x-ray	used in	surveillance
+upper gastrointestinal x-ray	limited by	obstruction
+upper gastrointestinal x-ray	limited by	poor patient cooperation
+upper gastrointestinal x-ray	affected by	bowel movement
+upper gastrointestinal x-ray	affected by	gastric emptying
+upper gastrointestinal x-ray	used in	emergency evaluation
+upper gastrointestinal x-ray	used in	hospital admission
+upper gastrointestinal x-ray	visualizes	esophageal lumen
+upper gastrointestinal x-ray	visualizes	gastric lumen
+upper gastrointestinal x-ray	demonstrates	mucosal pattern
+upper gastrointestinal x-ray	demonstrates	gastric outlet patency
+radiologist	interprets	upper gastrointestinal x-ray
+radiology report	accompanies	upper gastrointestinal x-ray
+upper gastrointestinal x-ray	stored in	patient chart
+patient chart	contains	radiology report
+upper gastrointestinal x-ray	used in	hospital workflow
+upper gastrointestinal x-ray	supports	discharge decision
+upper gastrointestinal x-ray	available in	clinic setting
+upper gastrointestinal x-ray	permits	symptom correlation
+upper gastrointestinal x-ray	assists	patient education
+upper gastrointestinal x-ray	enables	symptom mapping
+image	archived in	radiology archive
+upper gastrointestinal x-ray	part of	GI imaging protocol
+upper gastrointestinal x-ray	supports	GI diagnosis
+upper gastrointestinal x-ray	is used in	GI symptom workup
+upper gastrointestinal x-ray	yields	radiologic diagnosis
+upper gastrointestinal x-ray	results in	imaging diagnosis
+upper gastrointestinal x-ray	influences	prognosis
+upper gastrointestinal x-ray	guideline recommended for	swallowing evaluation
+upper gastrointestinal x-ray	considered	first-line imaging in certain settings
+upper gastrointestinal x-ray	used for	swallowing evaluation

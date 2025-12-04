@@ -1,0 +1,100 @@
+blood transfusion	is a	medical procedure
+blood transfusion	uses	blood product
+blood product	sourced from	donor
+donor	provides	blood unit
+blood bank	coordinates	transfusion
+crossmatch	ensures	ABO compatibility
+type and screen	identifies	recipient blood type
+type and screen	screens	recipient antibodies
+pretransfusion testing	includes	antibody screen
+pretransfusion testing	ensures	compatibility
+packed red blood cells	are a	blood product
+platelets	are a	blood product
+plasma	is a	blood product
+whole blood	is a	blood product
+PRBC transfusion	treats	anemia
+PRBC transfusion	indicated for	low hemoglobin
+platelet transfusion	indicated for	thrombocytopenia
+plasma transfusion	indicated for	coagulopathy
+massive transfusion	indicated for	exsanguinating hemorrhage
+postpartum hemorrhage	treated with	transfusion
+surgery	increases	transfusion need
+trauma	increases	transfusion need
+bone marrow failure	may require	transfusion
+cancer chemotherapy	causes	anemia
+sickle cell disease	often requires	transfusion
+thalassemia	often requires	transfusion
+obstetric hemorrhage	managed with	transfusion
+neonatal transfusion	used for	anemia of prematurity
+donor unit	stored under	refrigeration
+donor unit	tested for	infections
+infection screening	reduces	transfusion-transmitted infections
+transfusion-transmitted infections	include	hepatitis B
+transfusion-transmitted infections	include	hepatitis C
+transfusion-transmitted infections	include	HIV
+iron overload	results from	repeated transfusions
+iron overload	causes	organ damage
+chelation therapy	treats	iron overload
+alloimmunization	increases	alloantibody formation
+allo antibody formation	complicates	future transfusions
+hemolytic transfusion reaction	occurs as	transfusion reaction type
+febrile nonhemolytic transfusion reaction	occurs as	transfusion reaction type
+allergic transfusion reaction	occurs as	transfusion reaction type
+transfusion reaction	can occur during	transfusion
+TRALI	is a	transfusion complication
+TACO	is a	transfusion complication
+volume overload	risk with	rapid transfusion
+citrate	used as	preservative in stored blood
+citrate	can cause	hypocalcemia
+crossmatch	reduces	transfusion incompatibility
+type and screen	reduces	transfusion risk
+ABO compatibility	ensures	transfusion safety
+Rh compatibility	ensures	transfusion safety
+donor screening	reduces	infectious risk
+emergency transfusion	uses	type O negative
+universal donor concept	relates to	type O negative
+massive transfusion protocol	guides	rapid transfusion
+rapid transfusion	reduces	time to resuscitation
+transfusion protocol	minimizes	transfusion errors
+labelling accuracy	reduces	transfusion errors
+barcoding	improves	transfusion safety
+transfusion service	coordinates	donor selection
+recipient	monitored for	transfusion reaction
+vital signs	monitored during	transfusion
+posttransfusion monitoring	includes	hemoglobin check
+hemoglobin	increases after	transfusion
+oxygen delivery	improves with	transfusion
+tissue oxygenation	improves with	transfusion
+fatigue	alleviated by	transfusion
+dyspnea	relieved by	transfusion
+transfusion	influences	hospital length of stay
+hospital length of stay	increases with	transfusion complication
+safety testing	ensures	blood product safety
+storage conditions	vary by	blood product
+PRBCs	stored under	refrigerated conditions
+platelets	stored at	room temperature
+plasma	stored at	frozen state
+blood product	has	expiration
+donor exposure	increases	alloimmunization risk
+recipient	receives	donor unit
+donor unit	matched to	recipient
+compatibility testing	guides	donor selection
+blood type	determined by	genetics
+ABO group	determines	donor compatibility
+Rh group	determines	donor compatibility
+emergency transfusion	requires	rapid decision making
+perioperative planning	influenced by	transfusion history
+pediatric patient	requires	adjusted transfusion protocol
+neonatal patient	requires	careful transfusion
+elderly patient	higher risk	transfusion-related complications
+transfusion history	predicts	future transfusion risk
+predicted transfusion need	guides	donor selection
+safety protocol	enforces	double-checking labels
+double-checking labels	prevents	mis-transfusion
+mis-transfusion	causes	patient harm
+informed consent	required for	transfusion
+informed consent	documents	transfusion risks
+education	provided for	clinicians about transfusion
+audit	assesses	transfusion outcomes
+quality improvement	targets	transfusion safety
+standard of care	includes	blood transfusion management

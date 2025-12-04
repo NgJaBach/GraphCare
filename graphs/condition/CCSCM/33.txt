@@ -1,100 +1,100 @@
-renal cell carcinoma	is a histologic subtype of	kidney cancer
-clear cell RCC	is a histologic subtype of	renal cell carcinoma
-papillary RCC	is a histologic subtype of	renal cell carcinoma
-chromophobe RCC	is a histologic subtype of	renal cell carcinoma
-renal pelvis urothelial carcinoma	is a histologic subtype of	renal pelvis cancer
-kidney cancer	metastasizes to	lungs
-kidney cancer	metastasizes to	liver
-kidney cancer	metastasizes to	bone
-kidney cancer	metastasizes to	brain
-renal pelvis cancer	metastasizes to	lymph nodes
-kidney cancer	presents with	hematuria
-kidney cancer	presents with	flank pain
-kidney cancer	presents with	weight loss
-renal pelvis cancer	presents with	hematuria
-renal pelvis cancer	presents with	urinary obstruction
-paraneoplastic syndrome	includes	hypercalcemia
-paraneoplastic syndrome	includes	erythrocytosis
-hypercalcemia	is a	paraneoplastic syndrome associated with kidney cancer
-erythrocytosis	is a	paraneoplastic syndrome associated with kidney cancer
-smoking	increases risk of	kidney cancer
-obesity	increases risk of	kidney cancer
-hypertension	increases risk of	kidney cancer
-polycystic kidney disease	increases risk of	kidney cancer
-men	have higher risk for	kidney cancer
-kidney cancer	is more common in	men
-kidney cancer	occurs at	older age
+renal cell carcinoma	is a type of	kidney cancer
+papillary RCC	is a type of	renal cell carcinoma
+chromophobe RCC	is a type of	renal cell carcinoma
+clear cell RCC	is a type of	renal cell carcinoma
+renal pelvis cancer	is a type of	urothelial carcinoma
+kidney cancer	includes	renal cell carcinoma
+kidney cancer	includes	urothelial carcinoma
+renal cell carcinoma	originates in	renal cortex
+renal pelvis cancer	originates in	urothelium
+hematuria	is symptom of	kidney cancer
+flank pain	is symptom of	kidney cancer
+anemia	is paraneoplastic syndrome of	kidney cancer
+hypercalcemia	is paraneoplastic syndrome of	kidney cancer
+weight loss	is symptom of	kidney cancer
+thrombocytosis	is paraneoplastic syndrome of	kidney cancer
+smoking	is risk factor for	kidney cancer
+obesity	is risk factor for	kidney cancer
+hypertension	is risk factor for	kidney cancer
+diabetes mellitus	is risk factor for	kidney cancer
+occupational exposure	is risk factor for	urothelial carcinoma
+aromatic amines exposure	is risk factor for	urothelial carcinoma
+smoking	is risk factor for	urothelial carcinoma
+VHL gene	is associated with	clear cell RCC
+VHL mutation	is associated with	renal cell carcinoma
+BAP1 mutation	is associated with	kidney cancer
+MET mutation	is associated with	papillary RCC
+FGFR3 mutation	is associated with	urothelial carcinoma
+nephroureterectomy	is treatment for	renal pelvis cancer
+radical nephrectomy	is treatment for	kidney cancer
+partial nephrectomy	is treatment for	small renal mass
+nephron-sparing surgery	is treatment for	small renal mass
+nephrectomy	is treatment for	kidney cancer
+nephroureterectomy	removes	kidney and ureter
+bladder cuff excision	is part of	nephroureterectomy
+systemic therapy	is used for	metastatic kidney cancer
+immunotherapy	is used for	metastatic kidney cancer
+nivolumab	is a	checkpoint inhibitor
+pembrolizumab	is a	PD-1 inhibitor
+atezolizumab	is a	PD-L1 inhibitor
+targeted therapy	is used for	metastatic kidney cancer
 sunitinib	is a	tyrosine kinase inhibitor
 pazopanib	is a	tyrosine kinase inhibitor
 axitinib	is a	tyrosine kinase inhibitor
 cabozantinib	is a	tyrosine kinase inhibitor
-nivolumab	is a	PD-1 inhibitor
-pembrolizumab	is a	PD-1 inhibitor
-everolimus	is a	mTOR inhibitor
 temsirolimus	is a	mTOR inhibitor
-bevacizumab	is a	VEGF inhibitor
-renal cell carcinoma	is treated with	nephrectomy
-localized kidney cancer	is treated with	partial nephrectomy
-localized kidney cancer	is treated with	radical nephrectomy
-small renal mass	is treated with	cryoablation
-small renal mass	is treated with	radiofrequency ablation
-renal pelvis cancer	is treated with	nephroureterectomy
-nephroureterectomy	is a	surgical procedure
-partial nephrectomy	is a	surgical procedure
-radical nephrectomy	is a	surgical procedure
-cryoablation	is a	treatment modality
-radiofrequency ablation	is a	treatment modality
-adjuvant therapy	is used for	renal cell carcinoma
-neoadjuvant therapy	is used for	renal cell carcinoma
-stage I	is a	stage of kidney cancer
-stage IV	is a	stage of kidney cancer
-TNM stage	determines	prognosis
-Fuhrman grade	determines	prognosis
-ISUP grade	determines	prognosis
-vascular invasion	indicates	aggressive tumor
-lymph node involvement	worsens	prognosis
-tumor necrosis	is a	adverse histologic feature
-tumor size	correlates with	prognosis
-negative surgical margins	indicate	complete resection
-positive surgical margins	indicate	residual tumor
-lymph node dissection	is a	surgical procedure
-performance status	predicts	survival
-hypercalcemia	is a	paraneoplastic phenomenon associated with kidney cancer
-liver metastasis	is a	metastatic site
-lung metastasis	is a	metastatic site
-bone metastasis	is a	metastatic site
-brain metastasis	is a	metastatic site
-advanced disease	has	poor prognosis
-late stage disease	has	poor prognosis
-overall survival	is affected by	stage
-progression-free survival	improves with	sunitinib
-progression-free survival	improves with	pazopanib
-overall survival	improves with	nivolumab
-time to progression	lengthens with	cabozantinib
-nephrectomy	reduces	tumor burden
-radical nephrectomy	reduces	tumor burden
+everolimus	is a	mTOR inhibitor
+carboplatin	is a	platinum-based chemotherapy
+cisplatin	is a	platinum-based chemotherapy
+chemotherapy	is used for	urothelial carcinoma
+carboplatin	is used for	urothelial carcinoma
+cisplatin	is used for	urothelial carcinoma
+radiation therapy	is used for	urothelial carcinoma
+surgery	is used for	localized kidney cancer
+nephrectomy	removes	kidney
 partial nephrectomy	preserves	renal function
 nephron-sparing surgery	preserves	renal function
-metastatic kidney cancer	requires	systemic therapy
-systemic therapy	is used for	metastatic kidney cancer
-clinical trial	offers	novel therapy
-bevacizumab	is used for	metastatic kidney cancer
-checkpoint inhibitors	are	immunotherapy agents
-immunotherapy	includes	checkpoint inhibitors
-VEGF inhibitors	are	targeted therapy
-PD-1 inhibitors	are	immunotherapy
-renal cell carcinoma	prognosis depends on	stage
-renal cell carcinoma	prognosis depends on	performance status
+nephrectomy	results in	loss of kidney function
+renal function	may decline after	nephrectomy
+eGFR	decreases after	nephrectomy
+lymph node metastasis	worsens	prognosis
+distant metastasis	worsens	prognosis
+stage IV disease	is associated with	poor prognosis
+five-year survival	depends on	stage
+tumor size	correlates with	prognosis
+metastasis	indicates	advanced cancer
+lung metastasis	is common site of	kidney cancer metastasis
+bone metastasis	is possible in	kidney cancer metastasis
+liver metastasis	is possible in	kidney cancer metastasis
+brain metastasis	is possible in	kidney cancer metastasis
 urine cytology	is used for	urothelial carcinoma detection
-imaging	is essential for	cancer staging
-biopsy	confirms	histology
-tumor grade	guides	prognosis
-nephrectomy	facilitates	staging and treatment planning
-renal function	declines after	nephrectomy
-nephrectomy	affects	renal function
-postoperative renal function	recovers	gradually
-cancer-related fatigue	is a	common symptom in kidney cancer
-anemia	may occur in	advanced kidney cancer
-dialysis	may be required for	kidney cancer with CKD
-survival	is predicted by	stage
-survival	is predicted by	performance status
+urine cytology	has limited sensitivity for	low-grade urothelial carcinoma
+urinalysis	detects	microscopic hematuria
+CT scan	localizes	renal mass
+MRI	characterizes	renal mass
+biopsy	confirms	renal mass diagnosis
+percutaneous biopsy	confirms	renal mass diagnosis
+histology	defines	tumor type
+papillary RCC	has histology	papillary architecture
+clear cell RCC	has histology	clear cytoplasm
+chromophobe RCC	has histology	pale cytoplasm
+kidney cancer	affects	adults
+kidney cancer	more common in	older adults
+kidney cancer	has comorbidity with	hypertension
+kidney cancer	has comorbidity with	diabetes mellitus
+cadmium exposure	is risk factor for	kidney cancer
+arsenic exposure	is risk factor for	urothelial carcinoma
+nephrectomy	reduces	renal function
+nephron-sparing surgery	preserves	renal function
+stage I disease	has	better prognosis
+stage IV disease	has	poor prognosis
+follow-up	includes	imaging
+imaging	is used for	staging kidney cancer
+staging	informs	treatment choice
+treatment choice	depends on	stage
+bladder recurrence	risk after	nephroureterectomy
+bladder cuff	removed with	nephroureterectomy
+renal pelvis tumor	presents with	hematuria
+kidney tumor	presents with	flank pain
+genetic predisposition	increases risk for	kidney cancer
+sporadic cancer	differs from	hereditary cancer

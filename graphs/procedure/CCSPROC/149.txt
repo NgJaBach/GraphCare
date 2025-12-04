@@ -1,0 +1,61 @@
+arthroscopy	is a	surgical procedure
+arthroscopy	used for	joint evaluation
+arthroscopy	indicated for	meniscal tear
+arthroscopy	indicated for	ACL tear
+arthroscopy	indicated for	PCL tear
+arthroscopy	indicated for	chondral defect
+arthroscopy	indicated for	knee osteoarthritis
+arthroscopy	indicated for	knee synovitis
+arthroscopy	indicated for	loose body knee
+arthroscopy	indicated for	discoid meniscus
+arthroscopy	indicated for	patellofemoral disorder
+arthroscopy	indicated for	shoulder impingement
+arthroscopy	indicated for	rotator cuff tear
+arthroscopy	indicated for	labral tear
+arthroscopy	indicated for	shoulder instability
+arthroscopy	indicated for	femoroacetabular impingement
+arthroscopy	indicated for	hip labral tear
+arthroscopy	indicated for	ankle osteochondral lesion
+arthroscopy	performed for	diagnostic evaluation
+arthroscopy	performed for	therapeutic relief
+arthroscopy	can perform	meniscectomy
+arthroscopy	can perform	meniscal repair
+arthroscopy	can perform	chondroplasty
+arthroscopy	can perform	microfracture
+arthroscopy	can perform	synovectomy
+arthroscopy	can perform	debridement
+arthroscopy	can perform	loose body removal
+arthroscopy	can perform	irrigation
+arthroscopy	performed under	general anesthesia
+arthroscopy	performed under	regional anesthesia
+anesthesia	used for	arthroscopy
+arthroscopy	requires	arthroscope
+arthroscopy	requires	sterile technique
+arthroscopy	uses	saline irrigation
+arthroscope	is	instrument for joint visualization
+arthroscopy	provides	direct visualization
+arthroscopy	improves	diagnostic accuracy
+arthroscopy	improves	treatment accuracy
+arthroscopy	results in	pain relief
+arthroscopy	results in	improved range of motion
+arthroscopy	results in	improved joint function
+arthroscopy	reduces	need for open surgery
+arthroscopy	enables	outpatient procedure
+arthroscopy	associated with	shorter hospital stay
+arthroscopy	associated with	faster recovery
+arthroscopy	reduces	blood loss
+arthroscopy	reduces	tissue damage
+arthroscopy	reduces	wound complications
+arthroscopy	reduces	postoperative pain
+arthroscopy	improves	joint mobility
+arthroscopy	can treat	cartilage defect
+arthroscopy	can treat	meniscal tear
+arthroscopy	can treat	ACL injury
+arthroscopy	can treat	rotator cuff tear
+arthroscopy	can treat	labral tear
+arthroscopy	can treat	synovitis knee
+arthroscopy	enables	tissue biopsy
+biopsy	obtained during	arthroscopy
+arthroscopy	used for	diagnostic arthroscopy
+arthroscopy	can diagnose	intraarticular pathology
+arthroscopy	provides	therapeutic cure

@@ -1,112 +1,100 @@
-hyponatremia	is a type of	electrolyte disorder
-hypernatremia	is a type of	electrolyte disorder
-hypokalemia	is a type of	electrolyte disorder
-hyperkalemia	is a type of	electrolyte disorder
-hypocalcemia	is a type of	electrolyte disorder
-hypercalcemia	is a type of	electrolyte disorder
-hypomagnesemia	is a type of	electrolyte disorder
-hypermagnesemia	is a type of	electrolyte disorder
-hypophosphatemia	is a type of	electrolyte disorder
-hyperphosphatemia	is a type of	electrolyte disorder
-dehydration	is a type of	fluid deficit
-overhydration	is a type of	fluid overload
-hypovolemia	is a type of	fluid deficit
-hypervolemia	is a type of	fluid overload
-diuretic use	causes	hyponatremia
-diuretic use	causes	hypokalemia
-diuretic use	causes	hypomagnesemia
-diuretic use	causes	hypophosphatemia
-kidney failure	predisposes to	hyperkalemia
-kidney failure	predisposes to	hyperphosphatemia
-CKD	predisposes to	metabolic acidosis
-CKD	predisposes to	hyperkalemia
-SIADH	causes	hyponatremia
-Diabetes insipidus	causes	hypernatremia
-liver cirrhosis	predisposes to	hyponatremia
-adrenal insufficiency	causes	hyperkalemia
-adrenal insufficiency	causes	hyponatremia
-hypoparathyroidism	causes	hypocalcemia
-vitalamin D deficiency	causes	hypocalcemia
-hyperparathyroidism	causes	hypercalcemia
-hypomagnesemia	causes	hypocalcemia
-hypomagnesemia	predisposes to	torsades de pointes
-hypophosphatemia	causes	weakness
-hyperphosphatemia	causes	calcifications
-vomiting	causes	metabolic alkalosis
-vomiting	causes	dehydration
-diarrhea	causes	dehydration
-diarrhea	causes	hypokalemia
-metabolic acidosis	caused by	kidney failure
-metabolic acidosis	caused by	diarrhea
-metabolic alkalosis	caused by	vomiting
-hypocalcemia	presents with	tetany
-hypokalemia	presents with	arrhythmia
-hyperkalemia	presents with	arrhythmia
-hypercalcemia	presents with	kidney stones
-hypomagnesemia	presents with	seizures
-hypermagnesemia	presents with	hypotension
-hypophosphatemia	presents with	muscle weakness
-hyperphosphatemia	presents with	calcifications
-dehydration	managed by	oral rehydration solution
-dehydration	managed by	intravenous fluids
-hyponatremia	treated with	hypertonic saline
+fluid and electrolyte disorders	include	hyponatremia
+fluid and electrolyte disorders	include	hypernatremia
+fluid and electrolyte disorders	include	hypokalemia
+fluid and electrolyte disorders	include	hyperkalemia
+fluid and electrolyte disorders	include	hypocalcemia
+fluid and electrolyte disorders	include	hypercalcemia
+fluid and electrolyte disorders	include	hypomagnesemia
+fluid and electrolyte disorders	include	hypermagnesemia
+fluid and electrolyte disorders	include	hypophosphatemia
+fluid and electrolyte disorders	include	hyperphosphatemia
+hyponatremia	is a	electrolyte disorder
+hyponatremia	may cause	seizures
+hyponatremia	increases	mortality risk
+hyponatremia	leads to	cerebral edema
+hyponatremia	predisposes	delirium
+hyponatremia	associated with	confusion
 hyponatremia	treated with	fluid restriction
+hypernatremia	is a	electrolyte disorder
+hypernatremia	causes	dehydration
+hypernatremia	leads to	hyperosmolar state
+hypernatremia	associated with	coma
 hypernatremia	treated with	hypotonic fluids
-hypokalemia	treated with	potassium chloride
+hypokalemia	is a	electrolyte disturbance
+hypokalemia	predisposes	arrhythmia
+hypokalemia	causes	muscle weakness
+hypokalemia	increases	mortality risk
+hypokalemia	treated with	potassium supplementation
+hyperkalemia	is a	electrolyte disturbance
+hyperkalemia	causes	arrhythmia
+hyperkalemia	predisposes	cardiac arrest
 hyperkalemia	treated with	calcium gluconate
-hyperkalemia	treated with	insulin
-hyperkalemia	treated with	glucose
-hyperkalemia	treated with	dialysis
+hypocalcemia	is a	electrolyte disorder
+hypocalcemia	causes	tetany
+hypocalcemia	associated with	QT prolongation
 hypocalcemia	treated with	calcium supplementation
-hypomagnesemia	treated with	magnesium supplementation
-hypophosphatemia	treated with	phosphate supplementation
-hyperphosphatemia	treated with	phosphate binders
-hyperphosphatemia	treated with	calcium carbonate
-dialysis	treats	hyperkalemia
-dialysis	treats	hyperphosphatemia
-calcium gluconate	used for	hyperkalemia
-insulin	treats	hyperkalemia
-glucose	coadministered with	insulin
-potassium chloride	used for	hypokalemia
-magnesium sulfate	replaces	magnesium
+hypercalcemia	is a	electrolyte disorder
+hypercalcemia	causes	nephrolithiasis
+hypercalcemia	associated with	constipation
+hypercalcemia	treated with	hydration
+hypomagnesemia	is a	electrolyte disorder
+hypomagnesemia	predisposes	torsades de pointes
+hypomagnesemia	associated with	seizures
+hypermagnesemia	is a	electrolyte disorder
+hypermagnesemia	causes	bradycardia
+hypermagnesemia	occurs with	kidney failure
+hypophosphatemia	is a	electrolyte disorder
+hypophosphatemia	causes	muscle weakness
+hypophosphatemia	associated with	rhabdomyolysis
+hyperphosphatemia	is a	electrolyte disorder
+hyperphosphatemia	causes	calcification
+hyperphosphatemia	associated with	hypocalcemia
+volume depletion	is a	clinical state
+volume depletion	leads to	hypotension
+volume depletion	causes	tachycardia
+hypovolemia	is a	clinical state
+hypovolemia	leads to	prerenal hypoperfusion
+hypovolemia	associated with	orthostatic intolerance
+hypervolemia	is a	clinical state
+hypervolemia	causes	edema
+hypervolemia	leads to	congestive symptoms
+dehydration	is a	clinical state
+dehydration	leads to	hypernatremia
+dehydration	associated with	hypotension
+dehydration	predisposes	dizziness
+diuretic-induced hyponatremia	is a	condition
+diuretic therapy	treats	volume overload
+diuretic therapy	causes	electrolyte loss
+renal failure	worsens	electrolyte disorders
+kidney disease	predisposes	hyperkalemia
+kidney disease	predisposes	hypernatremia
+antidiuretic hormone	regulates	water balance
+renin-angiotensin-aldosterone system	regulates	sodium reabsorption
+aldosterone	promotes	sodium retention
+RAAS	regulates	potassium excretion
+fluid therapy	treats	dehydration
+fluid therapy	treats	volume depletion
+intravenous fluids	corrects	electrolyte deficits
+isotonic fluids	used for	volume resuscitation
+hypertonic saline	used for	hyponatremia in severe cases
 calcium carbonate	binds	phosphate
-calcium carbonate	used for	phosphate binding
-sevelamer	used for	hyperphosphatemia
-phosphate binders	used for	hyperphosphatemia
-phosphate binders	used for	hyperphosphatemia
-calcium carbonate	used for	hyperphosphatemia
-dextrose	coadministered with	insulin
-intravenous fluids	used for	dehydration
-isotonic saline	treats	dehydration
-hypertonic saline	used for	severe hyponatremia
-intravenous fluids	provide	sodium
-serum osmolality	reflects	fluid status
-urine sodium	indicates	volume status
-serum potassium	reflects	electrolyte balance
-serum sodium	reflects	fluid balance
-renal disease	increases	risk of electrolyte disturbances
-diabetes mellitus	increases	dehydration risk
-age	increases	electrolyte disturbance risk
-electrolyte disturbance	associated with	mortality
-electrolyte disturbance	predicts	readmission
-electrolyte disturbance	is a complication of	kidney disease
-electrolyte disposal	not applicable	placeholder
-hepatorenal syndrome	associated with	hyponatremia
-metabolic acidosis	associated with	hyperkalemia
-metabolic acidosis	treated with	bicarbonate therapy
-bicarbonate therapy	used for	metabolic acidosis
-hyperkalemia	causes	ECG changes
-hypokalemia	causes	U waves
-QT prolongation	associated with	hypokalemia
-torsades de pointes	associated with	hypomagnesemia
-nephrolithiasis	associated with	hypercalcemia
-nephrolithiasis	associated with	hypercalcemia
-rehydration	improves	electrolyte balance
-pulmonary edema	results from	fluid overload
-edema	associated with	heart failure
-fluid overload	leads to	pulmonary edema
-hyponatremia	associated with	cognitive dysfunction
-hypernatremia	associated with	mental status changes
-hypocalcemia	associated with	neuromuscular irritability
-hyperphosphatemia	associated with	vascular calcification
-hypovolemia	associated with	prerenal azotemia
+phosphate binder	prevents	phosphate absorption
+calcitriol	improves	calcium absorption
+magnesium sulfate	treats	hypomagnesemia
+oral rehydration solutions	treat	dehydration
+sodium chloride	is a	crystalloid solution
+isotonic saline	is a	fluid therapy
+hyponatremia	correlates with	length of stay
+hypernatremia	correlates with	length of stay
+dehydration	associated with	readmission
+diuretic therapy	related to	potassium loss
+potassium supplementation	reduces	arrhythmia risk
+electrolyte balance	influences	acid-base status
+acid-base disturbances	influence	electrolyte distribution
+dehydration	predisposes	orthostatic hypotension
+volume status	guides	fluid therapy
+fluid and electrolyte disorders	predict	mortality
+hyponatremia	predicts	readmission
+hyperkalemia	predicts	arrhythmic events
+volume depletion	predicts	hypotension
+dehydration	predicts	orthostatic intolerance

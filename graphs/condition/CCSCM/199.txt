@@ -1,100 +1,100 @@
-chronic ulcer of skin	is a	chronic wound
-chronic ulcer of skin	is associated with	infection
 chronic ulcer of skin	is associated with	diabetes mellitus
 chronic ulcer of skin	is associated with	venous insufficiency
 chronic ulcer of skin	is associated with	arterial insufficiency
-chronic ulcer of skin	is associated with	peripheral vascular disease
+chronic ulcer of skin	is associated with	peripheral neuropathy
+chronic ulcer of skin	is associated with	obesity
+chronic ulcer of skin	is associated with	aging
 chronic ulcer of skin	is associated with	smoking
-chronic ulcer of skin	requires	wound care
+chronic ulcer of skin	is associated with	edema
+chronic ulcer of skin	is associated with	immobility
+chronic ulcer of skin	is associated with	chronic venous disease
+chronic ulcer of skin	predisposes to	infection
+chronic ulcer of skin	predisposes to	osteomyelitis
+chronic ulcer of skin	predisposes to	cellulitis
+chronic ulcer of skin	increases	healing time
+chronic ulcer of skin	increases	pain
+chronic ulcer of skin	leads to	scarring
+chronic ulcer of skin	leads to	discharge
 chronic ulcer of skin	requires	debridement
-chronic ulcer of skin	requires	moist environment
-chronic ulcer of skin	requires	nutrition support
-chronic ulcer of skin	treated with	dressings
-chronic ulcer of skin	treated with	antibiotics
-chronic ulcer of skin	treated with	antiseptics
-chronic ulcer of skin	treated with	hydrogel
-chronic ulcer of skin	treated with	negative pressure therapy
-diabetes mellitus	increases	chronic ulcer risk
-venous insufficiency	predisposes to	chronic ulcer of skin
-arterial insufficiency	predisposes to	chronic ulcer of skin
-peripheral vascular disease	predisposes to	chronic ulcer of skin
-neuropathy	increases	ulcer risk
-obesity	increases	wound healing time
-aging	increases	chronic ulcer risk
-malnutrition	impairs	wound healing
-infection	complicates	chronic ulcer of skin
-biofilm	reduces	antibiotic efficacy
-ischemia	impairs	healing
-poor perfusion	impairs	healing
-smoking	impairs	wound healing
-alcohol excess	impairs	wound healing
-immobility	worsens	ulcer risk
-lymphedema	predisposes to	chronic ulcer of skin
-diabetic neuropathy	predisposes to	chronic ulcer of skin
-venous stasis	predisposes to	chronic ulcer of skin
-moist wound environment	promotes	healing
-dressings	maintain	moist environment
+chronic ulcer of skin	requires	wound dressing
+chronic ulcer of skin	requires	antibiotic therapy
+chronic ulcer of skin	is treated with	compression therapy
+chronic ulcer of skin	is treated with	negative pressure wound therapy
+chronic ulcer of skin	is treated with	skin graft
+chronic ulcer of skin	is treated with	flap reconstruction
+chronic ulcer of skin	is treated with	antibiotic therapy
+chronic ulcer of skin	is treated with	antiseptic dressings
+chronic ulcer of skin	is treated with	moisture dressings
+chronic ulcer of skin	is treated with	growth factor therapy
+chronic ulcer of skin	is treated with	hyperbaric oxygen therapy
+chronic ulcer of skin	is treated with	revascularization
+chronic ulcer of skin	is diagnosed by	physical examination
+chronic ulcer of skin	is diagnosed by	wound culture
+chronic ulcer of skin	is diagnosed by	biopsy
+chronic ulcer of skin	is diagnosed by	duplex ultrasonography
+chronic ulcer of skin	is diagnosed by	imaging studies
+chronic ulcer of skin	is evaluated by	wound imaging
+chronic ulcer of skin	has	necrosis
+chronic ulcer of skin	has	edema
+chronic ulcer of skin	has	infection
+chronic ulcer of skin	shows	granulation tissue
+granulation tissue	indicates	healing phase
+necrosis	indicates	tissue death
+chronic ulcer of skin	may be complicated by	osteomyelitis
+peripheral arterial disease	is a risk factor for	chronic ulcer of skin
+venous insufficiency	contributes to	chronic ulcer of skin
+diabetic neuropathy	contributes to	chronic ulcer of skin
+ischemia	worsens	ulcer progression
+compression therapy	reduces	edema
+negative pressure wound therapy	accelerates	wound closure
+skin graft	restores	skin integrity
+flap reconstruction	provides	tissue coverage
 debridement	removes	necrotic tissue
-necrotic tissue	impedes	healing
-granulation tissue	forms	wound bed
-growth factors	accelerate	wound healing
-negative pressure therapy	enhances	wound closure
-topical antibiotic	reduces	bacterial load
-systemic antibiotic	treats	infection
-antiseptic	reduces	biofilm formation
-growth factor	promotes	collagen deposition
-skin graft	provides	wound coverage
-skin flap	provides	durable closure
-hyperbaric oxygen therapy	aids	wound healing
+antibiotics	reduce	infection risk
+antibiotic therapy	treats	infection
+topical antiseptics	used for	wound cleansing
+moisture dressings	maintain	wound moisture
+growth factors	promote	granulation
+hyperbaric oxygen therapy	enhances	wound healing
 revascularization	improves	perfusion
-compression therapy	improves	venous return
-foot elevation	reduces	edema
-nutrition support	improves	healing
-protein intake	supports	wound healing
-vitamin C	supports	collagen synthesis
-zinc supplementation	supports	wound healing
-electrical stimulation	promotes	wound healing
-dressings	selected for	infection control
-wound cleansing	performed with	saline
-saline	used for	wound cleansing
-antibiotics	used for	infection
-antiseptics	used for	wound cleansing
-growth factor	enhances	epithelialization
-epithelialization	completes	wound closure
-scar formation	follows	healing
-fibrosis	reduces	mobility
-biofilm	protects	bacteria
-bacteria	colonize	chronic ulcer of skin
-granulation tissue	susceptible to	infection
-infection	increases	inflammation
-inflammation	promotes	tissue damage
-granulation tissue	matures into	scar tissue
-scar tissue	reduces	elasticity
-compression therapy	indicated for	venous ulcer
-pressure ulcer	is a	chronic ulcer of skin
-venous ulcer	is a	chronic ulcer of skin
-diabetic foot	is a	chronic ulcer of skin
-ulcer	may progress to	tissue necrosis
-tissue necrosis	increases	amputation risk
-amputation risk	increases	hospitalization risk
-chronic ulcer of skin	increases	hospitalization risk
-infection	increases	mortality risk
-necrosis	expands	ulcer base
-exudate	increases	moisture
-eschar	hinders	wound healing
-debridement	promotes	granulation
-wound bed	receives	debridement
-wound bed	prepared for	skin graft
-wound healing	improves	patient comfort
-treatment compliance	influences	outcome
-outcome	depends on	vascular status
-outcome	is predicted by	wound size
-wound size	correlates with	healing time
-age	influences	healing
-nutritional status	influences	wound healing
-smoking cessation	improves	wound healing
-infection control	improves	prognosis
-pressure injury	is a	chronic ulcer of skin
-arterial disease	complicates	chronic ulcer of skin
-diabetes complications	worsen	ulcer healing
-tissue oxygenation	improves	healing time
+perfusion	improves	healing rate
+diabetes mellitus	worsens	ulcer healing
+obesity	impairs	wound healing
+smoking	impairs	wound healing
+age	associated with	delayed healing
+infection	triggers	inflammatory response
+inflammatory markers	reflect	wound activity
+HbA1c level	correlates with	chronic ulcer severity
+occult infection	masks	clinical signs
+Staphylococcus aureus	commonly	colonizes
+Staphylococcus aureus	common pathogen	wound infection
+Pseudomonas aeruginosa	common pathogen	chronic wound infection
+biofilm	protects	bacteria in chronic wound
+necrotic tissue	impedes	debridement effectiveness
+exudate	indicates	infection status
+granulation tissue	indicates	healing phase
+wound bed	contains	granulation tissue
+wound bed	requires	moist environment
+diabetic foot ulcer	is a subset of	chronic ulcer of skin
+venous leg ulcer	is a subset of	chronic ulcer of skin
+pressure ulcer	is a subset of	chronic ulcer of skin
+recurrent ulcer	indicates	chronic disease
+ulcer recurrence	increases	patient burden
+outpatient care	reduces	hospital admission
+vascular surgery	improves	limb perfusion
+amputation risk	increases	with uncontrolled infection
+blood sugar control	improves	healing rate
+foot offloading	reduces	plantar pressure
+pressure reduction	reduces	ulcer recurrence
+wound dressing changes	increase	nursing workload
+nursing care	improves	wound outcome
+dietary optimization	improves	wound healing
+protein intake	supports	tissue repair
+albumin level	predicts	wound healing
+renal disease	worsens	ulcer healing
+ankle-brachial index	guides	perfusion assessment
+arterial testing	guides	revascularization decisions
+culture sensitivity	informs	antibiotic choice
+multidrug resistance	increases	antibiotic failure
+wound imaging	tracks	healing progress
+recurrence prevention	requires	long-term follow-up

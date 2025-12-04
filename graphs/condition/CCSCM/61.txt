@@ -1,100 +1,100 @@
 sickle cell anemia	is a	genetic disorder
-sickle cell anemia	caused by	HBB gene mutation
-HBB gene mutation	causes	HbS production
-HbS production	leads to	red blood cell sickling
-sickle cell anemia	causes	chronic hemolytic anemia
-sickle cell anemia	increases	reticulocytosis
-sickle cell anemia	causes	hyperbilirubinemia
-hyperbilirubinemia	leads to	jaundice
-sickle cell anemia	predisposes to	pigment gallstones
-pigment gallstones	may require	cholecystectomy
+sickle cell anemia	has	HbS mutation
+sickle cell anemia	has	autosomal recessive inheritance
+sickle cell anemia	predisposes to	vaso-occlusive crisis
+vaso-occlusive crisis	causes	severe pain
+sickle cell anemia	increases risk of	acute chest syndrome
+acute chest syndrome	requires	hospitalization
+sickle cell anemia	increases risk of	stroke
+stroke	causes	disability
+sickle cell anemia	causes	hemolytic anemia
+hemolytic anemia	results in	fatigue
+sickle cell anemia	associated with	hyperbilirubinemia
+hyperbilirubinemia	indicates	hemolysis
 sickle cell anemia	predisposes to	splenic sequestration
 splenic sequestration	causes	hypovolemia
-sickle cell anemia	predisposes to	functional asplenia
-functional asplenia	increases	infection risk
-sickle cell anemia	predisposes to	infection with encapsulated bacteria
-encapsulated bacteria	include	Streptococcus pneumoniae
-pneumococcal vaccination	reduces	pneumococcal sepsis
-penicillin prophylaxis	reduces	infection risk
-penicillin prophylaxis	recommended for	pediatric patients
-pneumococcal vaccine	recommended for	sickle cell patients
-meningococcal vaccine	recommended for	sickle cell patients
-folic acid supplementation	supports	hematopoiesis
+sickle cell anemia	managed with	hydroxyurea
 hydroxyurea	increases	fetal hemoglobin
-hydroxyurea	reduces	frequency of vaso-occlusive crises
-sickle cell anemia	treated with	hydroxyurea
-sickle cell anemia	treated with	blood transfusion
-blood transfusion	relieves	anemia
-blood transfusion	risks	alloimmunization
-sickle cell anemia	managed with	exchange transfusion
-exchange transfusion	used for	acute chest syndrome
-acute chest syndrome	is a	life-threatening complication
-acute chest syndrome	treated with	antibiotics
-antibiotics	used for	acute chest syndrome
-bone marrow transplantation	can be	curative for sickle cell anemia
-bone marrow transplantation	limited by	donor availability
-crizanlizumab	reduces	vaso-occlusive crises frequency
-voxelotor	increases	hemoglobin concentration
-L-glutamine	indicated for	sickle cell disease
-hemoglobin electrophoresis	detects	HbS
-sickle cell anemia	diagnosed by	hemoglobin electrophoresis
-reticulocytosis	indicates	hemolysis
-hemolysis	causes	anemia
-sickle cell nephropathy	causes	proteinuria
-proteinuria	signals	renal involvement
-nephropathy	progresses to	renal failure
-sickle cell nephropathy	predisposes to	chronic kidney disease
-osteonecrosis	occurs in	sickle cell disease
-leg ulcers	occur in	adults with sickle cell
-dactylitis	presents in	infants with sickle cell disease
-priapism	occurs in	males with sickle cell disease
-stroke	risk increases in	pediatric sickle cell
-transcranial Doppler	screens for	stroke risk in children with sickle cell anemia
-parvovirus B19 infection	triggers	aplastic crisis
-aplastic crisis	caused by	parvovirus B19
-splenic infarction	occurs in	young sickle cell patients
-splenic infarction	leads to	functional asplenia
-hydration therapy	reduces	crisis risk
-infection	increases	hospitalization risk
-pediatric stroke	risk elevated by	sickle cell anemia
-blood transfusion	used for	acute management of crisis
-brain MRI	detects	cerebral vasculopathy
-cerebral vasculopathy	detected by	transcranial Doppler
-transcranial Doppler	screens for	stroke risk in children with sickle cell anemia
-iron overload	results from	chronic transfusion therapy
-iron chelation	treats	iron overload
-chelation therapy	used for	iron overload
-analgesia	used for	vaso-occlusive crisis
-opioid analgesia	manages	severe pain
-pain crisis	leads to	emergency department visit
-emergency department visit	increases	healthcare costs
-readmission	risk increased by	dehydration after crisis
-long-term transfusion program	causes	iron overload
-kidney function	declines in	sickle cell nephropathy
-iron overload	necessitates	chelation therapy
-newborn screening	detects	sickle cell disease
-newborn screening	enables	early intervention
-genetic counseling	offered for	families with sickle cell disease
-sickle cell trait	related to	malaria resistance
-pregnancy	complicated by	sickle cell anemia
-childhood development	affected by	chronic illness
-functional asplenia	increases	vaccination urgency
-fetal hemoglobin	levels influence	disease severity
-HbF	reduces	sickling severity
-sickle cell trait	provides	malaria protection
-bone marrow transplantation	requires	matched donor
-donor availability	limits	bone marrow transplantation
-prophylaxis	reduces	hospitalization risk
-pneumococcal vaccination	reduces	sepsis risk
-newborn screening program	reduces	diagnostic delay
-bone marrow transplantation	offers	cure option
-iron overload	causes	organ damage
-organ damage	leads to	organ failure
-cerebral infarct	results from	sickle cell crisis
-brain injury	risk in	sickle cell crisis
-early intervention	improves	outcomes
-outcomes	improved by	early intervention
-hospitalization	lengthened by	crisis severity
-crisis severity	correlates with	emergency department visits
-emergency department visits	increase	healthcare costs
-healthcare costs	driven by	chronic transfusion
+fetal hemoglobin	reduces	sickling
+sickle cell anemia	managed with	penicillin prophylaxis
+penicillin prophylaxis	prevents	pneumococcal infection
+sickle cell anemia	indicated for	pneumococcal vaccination
+pneumococcal vaccination	reduces risk of	invasive pneumococcal disease
+sickle cell anemia	treated with	transfusion therapy
+transfusion therapy	treats	severe anemia
+transfusion therapy	risks	iron overload
+iron overload	requires	chelation therapy
+chelation therapy	mitigates	iron overload
+sickle cell anemia	associated with	autosplenectomy
+autosplenectomy	increases risk of	encapsulated infection
+asplenia	increases risk of	encapsulated infection
+sickle cell anemia	increases risk of	gallstones
+gallstones	associated with	pigment stones
+sickle cell anemia	associated with	leg ulcers
+leg ulcers	cause	pain
+sickle cell anemia	can cause	priapism
+priapism	is a	urological emergency
+sickle cell anemia	presents with	dactylitis
+dactylitis	common in	infants
+sickle cell anemia	requires	folic acid supplementation
+folic acid supplementation	supports	erythropoiesis
+sickle cell anemia	affects	splenic function
+splenic function	declines due to	autosplenectomy
+sickle cell anemia	predisposes to	bacterial sepsis
+bacterial sepsis	risk increased by	functional asplenia
+sickle cell anemia	treated with	crizanlizumab
+crizanlizumab	reduces	vaso-occlusive crisis frequency
+sickle cell anemia	treated with	voxelotor
+voxelotor	increases	hemoglobin
+sickle cell anemia	managed with	chronic transfusion therapy
+chronic transfusion therapy	reduces	stroke risk
+sickle cell anemia	increases risk of	acute kidney injury
+acute kidney injury	associated with	dehydration
+sickle cell anemia	increases risk of	avascular necrosis
+avascular necrosis	affects	joints
+sickle cell anemia	associated with	retinopathy
+retinopathy	leads to	vision loss
+sickle cell anemia	increases risk of	growth delay
+growth delay	impacts	development
+sickle cell anemia	monitored with	complete blood count
+complete blood count	measures	hemoglobin
+sickle cell anemia	monitored with	reticulocyte count
+reticulocyte count	reflects	bone marrow response
+sickle cell anemia	associated with	renal papillary necrosis
+renal papillary necrosis	causes	hematuria
+sickle cell anemia	increases risk of	pneumococcal infection
+pneumococcal infection	preventable by	vaccination
+sickle cell anemia	requires	hydration
+hydration	reduces	crises
+sickle cell anemia	predisposes to	avascular necrosis
+avascular necrosis	affects	joints
+sickle cell anemia	requires	influenza vaccination
+influenza vaccination	reduces	infection risk
+sickle cell anemia	monitored for	iron overload
+iron overload	evaluated by	ferritin
+ferritin	reflects	iron stores
+sickle cell anemia	associated with	hyposplenism
+hyposplenism	reduces	immune function
+asplenia	causes	loss of splenic filtration
+sickle cell anemia	increases risk of	Salmonella osteomyelitis
+Salmonella osteomyelitis	treated with	antibiotics
+sickle cell anemia	increases risk of	cerebral infarction
+cerebral infarction	occurs in	sickle cell anemia
+sickle cell anemia	increases risk of	cognitive impairment
+cognitive impairment	affects	quality of life
+sickle cell anemia	monitored with	newborn screening
+newborn screening	detects	sickle cell disease in newborns
+sickle cell anemia	recommended for	influenza vaccination
+influenza vaccination	protects	newborns
+sickle cell anemia	complicates	pregnancy
+pregnancy	requires	multidisciplinary care
+sickle cell anemia	managed with	hydration and analgesia
+hydration and analgesia	prevent	crises
+hydration	reduces	blood viscosity
+analgesia	relieves	pain
+pain	limits	activity
+sickle cell anemia	reduces	life expectancy
+life expectancy	depends on	access to care
+stroke	increases	mortality
+seizure during crisis	requires	acute management
+patients with sickle cell anemia	experience	emergency department visits

@@ -1,0 +1,100 @@
+extracranial ventricular shunt	is a	medical device
+extracranial ventricular shunt	is used for	hydrocephalus
+proximal catheter	enters	ventricle
+proximal catheter	connects to	valve
+valve	regulates	CSF flow
+distal catheter	terminates in	peritoneal cavity
+distal catheter	terminates in	pleural space
+distal catheter	terminates in	right atrium
+ventriculoatrial shunt	is a type of	extracranial ventricular shunt
+ventriculoperitoneal shunt	is a type of	extracranial ventricular shunt
+programmable valve	is a	valve
+programmable valve	enables	valve adjustment
+hydrocephalus	treated by	shunt
+shunt obstruction	leads to	hydrocephalus relapse
+shunt infection	risk after	shunt insertion
+shunt infection	requires	antibiotic therapy
+shunt infection	may cause	meningitis
+shunt obstruction	causes	ventriculomegaly
+shunt obstruction	associated with	catheter debris
+shunt malfunction	presents with	headache
+shunt malfunction	presents with	nausea
+headache	indicates	intracranial hypertension
+intracranial hypertension	occurs with	shunt malfunction
+catheter obstruction	leads to	shunt malfunction
+catheter obstruction	caused by	proteinaceous debris
+subdural hematoma	can result from	shunt overdrainage
+overdrainage	leads to	subdural collections
+slit ventricle syndrome	results from	chronic overdrainage
+overdrainage	associated with	headaches
+peritoneal cavity	receives	CSF
+peritoneal pseudocyst	is a complication of	ventriculoperitoneal shunt
+peritoneal pseudocyst	causes	abdominal distension
+peritonitis	risk after	shunt insertion
+pleural space	receives	CSF
+pleural effusion	risk after	ventriculopleural shunt
+ventriculopleural shunt	drains to	pleural space
+atrial catheter	associated with	atrial thrombosis
+atrial catheter	risk of	endocarditis
+ventriculoatrial shunt	associated with	cardiac complications
+shunt revision	indicated for	obstruction
+shunt revision	associated with	longer hospitalization
+imaging	used for	shunt evaluation
+CT scan	used for	ventriculomegaly assessment
+MRI	used for	shunt assessment
+valve revision	indicated for	malfunction
+sedation	used during	shunt insertion
+anesthesia	required for	shunt placement
+antibiotic prophylaxis	given for	shunt insertion
+sterile technique	reduces	infection risk
+infection	increases	readmission risk
+readmission	risk after	shunt infection
+shunt complication	associated with	mortality
+length of stay	increases with	shunt revision
+reoperation	required for	shunt failure
+surgical site infection	risk after	shunt insertion
+antibiotic prophylaxis	reduces	infection risk
+shunt infection	may necessitate	catheter removal
+catheter removal	followed by	new catheter placement
+new catheter placement	indicated for	malfunction
+shunt system	consists of	proximal catheter
+shunt system	consists of	distal catheter
+shunt system	consists of	valve
+valve	connected to	shunt tubing
+tubing	fractures	due to stress
+tubing disconnection	causes	shunt malfunction
+CSF	monitored by	shunt system
+imaging	detects	shunt obstruction
+shunt failure	increases	intracranial pressure
+intracranial pressure	monitored by	shunt system
+valve setting	adjusted for	patient needs
+pediatric patients	require	shunt
+adult patients	require	shunt
+shunt dependency	established after	initial insertion
+hydrocephalus	monitored by	imaging
+shunt failure	presents with	vomiting
+shunt failure	presents with	lethargy
+subarachnoid hemorrhage	risk after	shunt placement
+postoperative fever	indicates	shunt infection
+antibiotic-impregnated catheter	reduces	infection risk
+imaging surveillance	used for	shunt status
+shunt status	monitored by	imaging
+CSF flow study	used for	CSF flow evaluation
+CSF flow study	helps	evaluate shunt patency
+shunt patency	maintained by	valve adjustment
+valve malfunction	causes	improper CSF drainage
+improper drainage	leads to	hydrocephalus symptoms
+valve malfunction	predisposes to	mechanical failure
+valve setting	change for	intracranial pressure control
+bacteremia	risk after	shunt insertion
+Staphylococcus aureus	common organism in	shunt infection
+coagulopathy	increases	bleeding during shunt insertion
+preoperative antibiotics	reduce	infection risk
+shunt placement	performed under	sterile conditions
+postoperative imaging	evaluate	shunt placement
+shunt reservoir	accessible for	tapping
+tap test	used for	shunt evaluation
+brain imaging	included in	shunt evaluation
+neurocritical care	manages	shunt complications
+patient education	improves	shunt maintenance compliance
+shunt maintenance	improves	outcome

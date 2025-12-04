@@ -1,100 +1,100 @@
-acute kidney injury	is a	clinical syndrome
-acute kidney injury	reduces	glomerular filtration rate
-creatinine	rises in	acute kidney injury
-urine output	decreases in	acute kidney injury
-potassium	increases in	acute kidney injury
-metabolic acidosis	develops in	acute kidney injury
-BUN	rises in	acute kidney injury
-electrolyte imbalance	occurs in	acute kidney injury
-oliguria	occurs in	acute kidney injury
-anuria	occurs in	acute kidney injury
-hypovolemia	causes	acute kidney injury
-hypotension	causes	acute kidney injury
-dehydration	causes	acute kidney injury
-sepsis	causes	acute kidney injury
-shock	causes	acute kidney injury
-nephrotoxic drugs	causes	acute kidney injury
-nonsteroidal anti-inflammatory drugs	causes	acute kidney injury
-aminoglycoside antibiotics	causes	acute kidney injury
-contrast media	causes	acute kidney injury
-iodinated contrast	causes	acute kidney injury
-contrast-induced nephropathy	is a cause of	acute kidney injury
-renal hypoperfusion	leads to	acute kidney injury
-prerenal azotemia	progresses to	acute kidney injury
-intrinsic renal injury	is a cause of	acute kidney injury
-acute tubular necrosis	is a cause of	acute kidney injury
-acute interstitial nephritis	causes	acute kidney injury
-glomerulonephritis	causes	acute kidney injury
-rhabdomyolysis	causes	acute kidney injury
-myoglobin	damages	renal tubules
-granular casts	indicate	acute tubular necrosis
-urine sediment	shows	acute kidney injury
-eosinophils	present in	acute interstitial nephritis
-renal ultrasound	used for	acute kidney injury evaluation
-urine dipstick	used for	acute kidney injury evaluation
-urinalysis	used for	AKI evaluation
-creatinine	used to assess	kidney injury
-BUN	used to stage	acute kidney injury
-GFR	decreases with	acute kidney injury
-creatinine	rises with	acute kidney injury
-electrolyte disturbances	contribute to	AKI prognosis
-hyperkalemia	increases	mortality in acute kidney injury
-volume overload	occurs in	acute kidney injury
-hypocalcemia	occurs in	acute kidney injury
-hyperphosphatemia	occurs in	acute kidney injury
-metabolic acidosis	worsens	acute kidney injury outcomes
-renal replacement therapy	initiated for	acute kidney injury
-hemodialysis	used for	acute kidney injury
-continuous renal replacement therapy	used for	acute kidney injury
-peritoneal dialysis	used for	acute kidney injury
-renal replacement therapy	indicated for	acute kidney injury
-nephrology consultation	recommended for	acute kidney injury
-ICU admission	associated with	acute kidney injury
-ICU stay	longer in	acute kidney injury
-mortality	increased with	acute kidney injury
-readmission	increased after	acute kidney injury
-length of stay	prolonged by	acute kidney injury
-nephrology input	improves	acute kidney injury outcomes
-fluids	restore	intravascular volume in acute kidney injury
-intravenous fluids	used in	acute kidney injury management
-vasopressors	used in	AKI with shock
-blood pressure	supported by	vasopressor therapy in AKI
-antibiotics	adjust dosing for	acute kidney injury
-antibiotics	adjusted for	acute kidney injury
-nephrotoxic exposure	avoided in	AKI management
-vasopressor therapy	supports	perfusion in acute kidney injury
-intravenous fluids	recommended for	prerenal AKI
-kidney perfusion	improved by	intravenous fluids
-renal perfusion	improved with	intravenous fluids
-urine output monitoring	essential for	AKI management
-electrolyte monitoring	essential for	AKI management
-KDIGO criteria	define	acute kidney injury
-RIFLE criteria	classify	acute kidney injury
-AKI staging	informs	prognosis
-AKI staging	guides	management
-KDIGO criteria	classify	AKI
-RIFLE criteria	classify	AKI
-healthcare costs	increased by	acute kidney injury
-hospital stay	prolonged by	AKI
-long-term dialysis dependence	risk after	AKI
-chronic kidney disease	risk after	AKI
-kidney recovery	occurs in	acute kidney injury
-dialysis independence	achieved in	acute kidney injury
-recovery time	varies with	AKI
-age	increases risk of	acute kidney injury
-diabetes mellitus	increases risk of	acute kidney injury
-hypertension	increases risk of	acute kidney injury
-cardiovascular disease	associated with	acute kidney injury
-liver disease	worsens outcomes in	acute kidney injury
-malignancy	associated with	acute kidney injury
-surgery	associated with	acute kidney injury
-trauma	associated with	acute kidney injury
-infection	associated with	acute kidney injury
-nephrotoxic antibiotics	cause	acute kidney injury
-contrast-induced nephropathy	is a form of	acute kidney injury
-rhabdomyolysis	can cause	acute kidney injury
-urine osmolality	differs in	prerenal AKI
-urine sodium	high in	intrinsic AKI
-AKI staging	uses	KDIGO criteria
-AKI survivors	require	follow-up care
-follow-up care	recommended for	acute kidney injury survivors
+acute kidney injury	is caused by	sepsis
+acute kidney injury	is caused by	ischemia
+acute kidney injury	is caused by	nephrotoxin exposure
+acute kidney injury	is caused by	contrast media exposure
+acute kidney injury	is caused by	dehydration
+acute kidney injury	is caused by	hypotension
+acute kidney injury	is caused by	rhabdomyolysis
+acute kidney injury	is caused by	urinary obstruction
+acute kidney injury	is caused by	acute tubular necrosis
+acute kidney injury	is caused by	NSAID exposure
+acute kidney injury	has risk factor	diabetes mellitus
+acute kidney injury	has risk factor	chronic kidney disease
+acute kidney injury	has risk factor	advanced age
+acute kidney injury	has risk factor	hypertension
+acute kidney injury	has risk factor	heart failure
+acute kidney injury	has risk factor	liver disease
+acute kidney injury	has risk factor	nephrotoxin exposure
+acute kidney injury	has risk factor	NSAID use
+acute kidney injury	has risk factor	dehydration
+acute kidney injury	has risk factor	smoking
+acute kidney injury	diagnosed by	KDIGO criteria
+acute kidney injury	diagnosed by	serum creatinine rise
+acute kidney injury	diagnosed by	oliguria
+acute kidney injury	monitored by	serum creatinine
+acute kidney injury	monitored by	urine output
+acute kidney injury	evaluated by	urinalysis
+acute kidney injury	evaluated by	renal ultrasound
+acute kidney injury	evaluated by	renal Doppler
+acute kidney injury	evaluated by	kidney biopsy
+acute kidney injury	evaluated by	imaging studies
+acute kidney injury	treated with	fluid resuscitation
+acute kidney injury	treated with	stop nephrotoxin exposure
+acute kidney injury	treated with	diuretics
+acute kidney injury	treated with	electrolyte correction
+acute kidney injury	treated with	vasopressors
+acute kidney injury	treated with	renal replacement therapy
+acute kidney injury	treated with	dialysis
+acute kidney injury	treated with	continuous renal replacement therapy
+acute kidney injury	treated with	hemodialysis
+acute kidney injury	treated with	peritoneal dialysis
+acute kidney injury	increases risk of	mortality
+acute kidney injury	increases risk of	prolonged hospitalization
+acute kidney injury	increases risk of	chronic kidney disease
+acute kidney injury	increases risk of	dialysis dependence
+acute kidney injury	increases risk of	readmission
+acute kidney injury	increases risk of	ICU admission
+acute kidney injury	increases risk of	mechanical ventilation
+acute kidney injury	increases risk of	electrolyte disturbances
+acute kidney injury	increases risk of	anemia
+acute kidney injury	increases risk of	metabolic acidosis
+acute kidney injury	leads to	hyperkalemia
+acute kidney injury	leads to	metabolic acidosis
+acute kidney injury	leads to	edema
+acute kidney injury	leads to	uremia
+acute kidney injury	leads to	platelet dysfunction
+acute kidney injury	leads to	infection risk
+acute kidney injury	leads to	cardiovascular events
+acute kidney injury	leads to	arrhythmias
+acute kidney injury	leads to	acid-base disturbance
+acute kidney injury	leads to	electrolyte imbalance
+acute kidney injury	occurs in	hospitalized patients
+acute kidney injury	occurs in	ICU patients
+acute kidney injury	occurs after	major surgery
+acute kidney injury	occurs with	sepsis
+acute kidney injury	occurs in	elderly patients
+acute kidney injury	occurs in	neonates
+acute kidney injury	occurs in	pregnant patients
+acute kidney injury	occurs with	burns
+acute kidney injury	occurs after	nephrotoxic chemotherapy
+acute kidney injury	occurs in	pediatric patients
+acute kidney injury	presents with	oliguria
+acute kidney injury	presents with	edema
+acute kidney injury	presents with	azotemia
+acute kidney injury	presents with	metabolic acidosis
+acute kidney injury	presents with	hyponatremia
+acute kidney injury	presents with	hyperkalemia
+acute kidney injury	presents with	fatigue
+acute kidney injury	presents with	confusion
+acute kidney injury	presents with	nausea
+acute kidney injury	presents with	decreased urine output
+acute kidney injury	monitored with	urine output measurement
+acute kidney injury	monitored with	creatinine trend
+acute kidney injury	monitored with	electrolyte panel
+acute kidney injury	monitored with	fluid balance
+acute kidney injury	monitored with	renal function tests
+acute kidney injury	monitored with	blood gas analysis
+acute kidney injury	monitored with	lactate level
+acute kidney injury	monitored with	imaging follow-up
+acute kidney injury	monitored with	hospital stay
+acute kidney injury	monitored with	nephrology consult
+acute kidney injury	prevented by	hydration status optimization
+acute kidney injury	prevented by	avoidance of nephrotoxins
+acute kidney injury	prevented by	hemodynamic optimization
+acute kidney injury	prevented by	prompt infection control
+acute kidney injury	prevented by	careful drug dosing
+acute kidney injury	prevented by	early sepsis management
+acute kidney injury	prevented by	avoidance of nephrotoxins in at-risk patients
+acute kidney injury	prevented by	proper contrast use guidelines
+acute kidney injury	prevented by	regular monitoring of high-risk medications
+acute kidney injury	prevented by	timely treatment of hypotension

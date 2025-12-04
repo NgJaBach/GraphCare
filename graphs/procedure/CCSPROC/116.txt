@@ -1,0 +1,99 @@
+physical examination	is a	diagnostic procedure
+physical examination	detects	mass
+physical examination	detects	swelling
+physical examination	detects	tenderness
+scrotal ultrasound	is used for	testicular evaluation
+scrotal ultrasound	detects	torsion
+scrotal ultrasound	detects	hydrocele
+scrotal ultrasound	detects	varicocele
+scrotal ultrasound	detects	mass
+testicular ultrasound	is used for	testicular evaluation
+testicular ultrasound	detects	tumor
+Doppler ultrasound	is used for	testicular blood flow
+Doppler ultrasound	detects	torsion
+color Doppler ultrasound	detects	torsion
+color Doppler ultrasound	is used for	scrotal evaluation
+MRI	is used for	scrotal pathology
+MRI	detects	tumor
+MRI	assists	staging
+CT scan	is used for	pelvic evaluation
+testicular MRI	is used for	tumor assessment
+testicular MRI	detects	tumor
+urinalysis	is used for	infection screening
+urinalysis	detects	hematuria
+urine culture	detects	infection
+urethral culture	detects	gonorrhea
+urethral culture	detects	chlamydia
+NAAT	detects	chlamydia
+NAAT	detects	gonorrhea
+RPR test	is used for	syphilis screening
+serology	detects	syphilis
+beta-hCG	is a	tumor marker
+AFP	is a	tumor marker
+LDH	is a	tumor marker
+PSA test	is used for	prostate cancer screening
+semen analysis	is used for	fertility assessment
+semen analysis	yields	sperm concentration
+semen analysis	yields	motility
+semen analysis	yields	morphology
+testicular biopsy	is used for	histology confirmation
+testicular biopsy	confirms	germ cell tumor
+penile biopsy	is used for	penile cancer diagnosis
+testicular mass	is evaluated by	ultrasound
+testicular mass	is evaluated by	MRI
+testicular mass	is detected by	ultrasound
+testicular cancer	is diagnosed by	ultrasound
+testicular cancer	is diagnosed by	biopsy
+germ cell tumor	shows	elevation of AFP
+germ cell tumor	shows	elevation of beta-hCG
+germ cell tumor	shows	elevation of LDH
+tumor markers	are used for	germ cell tumor detection
+germ cell tumor	is associated with	elevated AFP
+germ cell tumor	is associated with	elevated beta-hCG
+germ cell tumor	is associated with	elevated LDH
+testicular cancer	is evaluated by	tumor markers
+prostate cancer	is evaluated by	PSA test
+prostate cancer	is diagnosed by	biopsy
+prostate cancer	is evaluated by	MRI
+prostate MRI	is used for	prostate cancer evaluation
+prostatitis	is evaluated by	prostate exam
+prostate	is evaluated by	PSA test
+urethral discharge	is evaluated by	urethral swab
+urethral discharge	is evaluated by	urethral culture
+gonorrhea	is detected by	NAAT
+chlamydia	is detected by	NAAT
+syphilis	is detected by	serology
+syphilis	is detected by	RPR test
+HIV	is detected by	HIV test
+penile ultrasound	is used for	erectile dysfunction evaluation
+penile Doppler ultrasound	detects	erectile dysfunction
+penile ultrasound	detects	penile plaque
+peyronie plaque	is evaluated by	penile ultrasound
+torsion	is diagnosed by	color Doppler ultrasound
+scrotal pain	is evaluated by	physical examination
+scrotal swelling	is evaluated by	scrotal ultrasound
+infertility	is evaluated by	semen analysis
+hydrocele	is detected by	physical examination
+varicocele	is detected by	physical examination
+testicular torsion	is diagnosed by	color Doppler ultrasound
+epididymitis	is diagnosed by	ultrasound
+orchitis	is diagnosed by	ultrasound
+epididymo-orchitis	is diagnosed by	ultrasound
+urethral swab	detects	urethritis
+sperm analysis	evaluates	morphology
+sperm analysis	evaluates	motility
+sperm analysis	evaluates	concentration
+sperm analysis	evaluates	vitality
+prostate biopsy	is used for	histology confirmation
+prostate biopsy	confirms	prostate cancer
+prostate MRI	is used for	prostate cancer evaluation
+prostate cancer	is evaluated by	MRI
+prostate cancer	is diagnosed by	biopsy
+torsion	is a	surgical emergency
+testicular cyst	is detected by	ultrasound
+testicular cyst	is a	benign lesion
+epidermal cyst	is detected by	ultrasound
+palpation	is a	diagnostic technique
+testicular mass	indicates	possible tumor
+testicular cancer	has	metastatic potential
+epididymal mass	is detected by	ultrasound

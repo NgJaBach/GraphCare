@@ -1,0 +1,99 @@
+ureteral catheterization	is a	medical procedure
+ureteral catheterization	provides	urine drainage
+ureteral catheterization	indicated for	urinary obstruction
+urinary obstruction	relieved by	ureteral catheterization
+hydronephrosis	relieved by	ureteral catheterization
+urinary obstruction due to stone	treated by	ureteral catheterization
+ureteral catheterization	alternative to	nephrostomy drainage
+nephrostomy drainage	alternative to	ureteral catheterization
+ureteral catheterization	performed by	urologist
+ureteral catheterization	performed in	hospital
+ureteral catheterization	guided by	fluoroscopy
+ureteral catheterization	guided by	cystoscopy
+ureteral catheterization	guided by	ultrasound
+fluoroscopy	guides	ureteral catheterization
+cystoscopy	enables	ureteral catheterization
+ultrasound	facilitates	ureteral catheterization
+ureteral catheterization	requires	sterile technique
+sterile technique	ensures	asepsis
+ureteral catheterization	requires	anesthesia
+anesthesia	provided for	ureteral catheterization
+antibiotic prophylaxis	recommended for	ureteral catheterization
+antibiotics	reduce	infection risk
+infection	risk associated with	ureteral catheterization
+urine culture	obtained before	ureteral catheterization
+urinalysis	performed after	ureteral catheterization
+catheter dislodgement	can occur after	ureteral catheterization
+catheter migration	can cause	obstruction
+catheter blockage	requires	catheter exchange
+encrustation	associated with	long-term ureteral catheterization
+hematuria	common after	ureteral catheterization
+fever	may indicate	infection after ureteral catheterization
+pain	managed with	analgesia during ureteral catheterization
+postoperative care	includes	catheter management after ureteral catheterization
+hospital stay	lengthened by	ureteral catheterization
+readmission	risk after	ureteral catheterization
+urine output	monitored after	ureteral catheterization
+renal function	improves after	relief of obstruction
+hydronephrosis	improves after	relief of obstruction
+intrarenal pressure	decreases after	ureteral catheterization
+urine drainage	achieved by	ureteral catheterization
+imaging follow-up	recommended after	ureteral catheterization
+contrast media	used during	fluoroscopy-guided ureteral catheterization
+radiography	used to verify	catheter placement
+catheter placement	verified by	imaging
+procedure planning	includes	antibiotic prophylaxis
+outpatient setting	suitable for	ureteral catheterization
+inpatient setting	more common for	ureteral catheterization
+urology	specializes in	ureteral catheterization
+physician	orders	ureteral catheterization
+informed consent	required for	ureteral catheterization
+sterile environment	required for	ureteral catheterization
+preoperative assessment	includes	urine analysis
+postoperative analgesia	planned for	ureteral catheterization
+analgesia	reduces	perioperative pain
+catheter care	includes	sterile technique
+catheter care instructions	provided to	patient after ureteral catheterization
+outcome	depends on	obstruction relief
+stone fragments	may pass after	ureteral catheterization
+kidney function	protected by	timely catheter drainage
+patient education	includes	catheter management after ureteral catheterization
+provider workload	affected by	ureteral catheterization
+procedure time	varies with	guidance method
+guidance method	includes	fluoroscopy
+guidance method	includes	cystoscopy
+guidance method	includes	ultrasound
+catheter size	selected based on	patient anatomy
+anatomy	influences	catheter size selection
+stent placement	may be performed after	ureteral catheterization
+double-J stent	used after	ureteral catheterization
+ureteral catheterization	may facilitate	stent exchange
+stent exchange	performed by	urologist
+post-procedure imaging	confirms	catheter position
+catheter position	verified by	radiography
+equipment sterility	critical for	ureteral catheterization
+patient education	improves	catheter care adherence
+informed consent process	ensures	patient understanding
+antibiotic prophylaxis	timing optimized for	ureteral catheterization
+imaging	assists	catheter placement
+catheter placement verification	achieved by	radiographs
+radiographs	used for	catheter verification
+urine sample	collected during	ureteral catheterization
+urine sample	analyzed for	infection signs
+opportunity	for	real-time monitoring during ureteral catheterization
+hydronephrosis staging	affected by	ureteral catheterization
+obstruction	severity	influences catheter duration
+catheter durability	affects	patient comfort
+post-procedure fluid intake	encouraged for	ureteral catheterization
+catheter management plan	documented in	patient record
+vascular access	required for	anesthesia during ureteral catheterization
+intraoperative complications	include	bleeding during ureteral catheterization
+bleeding	usually minor during	ureteral catheterization
+contrast allergy	assessed before	ureteral catheterization
+anxiety	managed with	pre-procedure counseling
+procedure checklists	ensure	safety during ureteral catheterization
+device failure	triggers	replacement
+replacement catheter	performed for	blockage or dislodgement
+follow-up visit	scheduled after	ureteral catheterization
+clinical guideline	supports	ureteral catheterization for obstruction
+ureteral catheterization	commonly performed in	adults

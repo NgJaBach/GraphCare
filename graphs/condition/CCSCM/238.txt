@@ -1,97 +1,91 @@
-systemic lupus erythematosus	is an	autoimmune condition
-postoperative complication	is a	complication of surgery
-postoperative delirium	is a	postoperative complication
-surgical site infection	is a	postoperative complication
-venous thromboembolism	is a	postoperative complication
-acute kidney injury	is a	postoperative complication
-postoperative hemorrhage	is a	postoperative complication
-pneumonia	is a	postoperative complication
-atelectasis	is a	postoperative complication
-urinary retention	is a	postoperative complication
-wound infection	is a	postoperative complication
-wound dehiscence	is a	postoperative complication
-incisional hernia	is a	postoperative complication
-nerve injury	is a	postoperative complication
-vascular injury	is a	postoperative complication
-cardiac arrhythmia	is a	postoperative complication
-myocardial infarction	is a	postoperative complication
-stroke	is a	postoperative complication
-acute liver injury	is a	postoperative complication
-sepsis	is a	postoperative complication
-infection	is a	complication of surgery
-anemia	is a	postoperative complication
-blood loss	is a	postoperative complication
-air embolism	is a	postoperative complication
-prosthetic joint infection	is a	postoperative complication
-implants failure	is a	postoperative complication
-nerve palsy	is a	postoperative complication
-hematoma	is a	postoperative complication
-seroma	is a	postoperative complication
-poor wound healing	is a	postoperative complication
-pulmonary edema	is a	postoperative complication
-acute liver failure	is a	postoperative complication
-delayed gastric emptying	is a	postoperative complication
-postoperative nausea and vomiting	is a	postoperative complication
-acute coronary syndrome	is a	postoperative complication
-hypotension	is a	anesthesia complication
-bronchospasm	is a	anesthesia complication
-allergic reaction	is a	adverse drug reaction
-anaphylaxis	is a	adverse drug reaction
-adverse drug event	is a	complication of pharmacotherapy
-postoperative fever	is a	postoperative complication
-urinary tract infection	is a	postoperative complication
-catheter-associated infection	is a	postoperative complication
-venous insufficiency	is a	complication of surgery
-blood transfusion	is a	postoperative intervention
-transfusion reaction	is a	postoperative complication
-platelet dysfunction	is a	postoperative complication
-coagulopathy	is a	postoperative complication
-hypothermia	is a	postoperative complication
-hyperglycemia	is a	postoperative complication
-hypoglycemia	is a	postoperative complication
-neurocognitive dysfunction	is a	postoperative complication
-deep vein thrombosis	is a	postoperative complication
-pulmonary embolism	is a	postoperative complication
-respiratory failure	is a	postoperative complication
-multiorgan dysfunction	is a	postoperative complication
-septic shock	is a	postoperative complication
-postoperative respiratory failure	is a	postoperative complication
-hemorrhagic shock	is a	postoperative complication
-airway obstruction	is a	anesthesia complication
-contrast-induced nephropathy	is a	complication of imaging
-foreign body reaction	is a	postoperative complication
-seroma formation	is a	postoperative complication
-implant loosening	is a	postoperative complication
-prosthesis infection	is a	postoperative complication
-necrosis	is a	postoperative complication
-wound infection	is a	postoperative complication
-wound breakdown	is a	postoperative complication
-diabetes mellitus	is a	risk factor for	infection
-oxidative stress	is a	mechanism of	tissue injury
-elderly patient	is a	higher risk for	delirium
-obesity	is a	risk factor for	surgical site infection
-smoking	is a	risk factor for	wound infection
-malnutrition	is a	risk factor for	poor wound healing
-immunosuppression	is a	risk factor for	infection
-end-stage renal disease	is a	risk factor for	postoperative complications
-frailty	is a	risk factor for	delirium
-older age	is a	predictor of	readmission
-diabetes	is a	predictor of	infection
-hypertension	is a	predictor of	cardiovascular complication
-cirrhosis	is a	predictor of	infection
-obstructive sleep apnea	is a	predictor of	pneumonia
-alcohol use disorder	is a	predictor of	postoperative infection
-malignancy	is a	predictor of	infection
-end-stage renal disease	is a	predictor of	postoperative complications
-anesthesia	is a	contributor to	postoperative delirium
-postoperative pain	is a	predictor of	opioid use
-opioid use	is a	predictor of	delirium
-transfusion	is a	predictor of	infection
-transfusion	is a	predictor of	mortality
-prolonged operative time	is a	predictor of	postoperative infection
-antibiotic prophylaxis	is a	preventative measure for	surgical site infection
-glucose control	is a	preventative measure for	infection
-sterile technique	is a	preventative measure for	infection
-hand hygiene	is a	preventative measure for	infection
-surgical checklists	is a	preventative measure for	complications
-drain placement	is a	predictor of	seroma
+postoperative infection	is a complication of	surgery
+surgical site infection	is a complication of	surgery
+wound dehiscence	is a complication of	surgery
+hematoma	is a complication of	surgery
+seroma	is a complication of	surgery
+anastomotic leak	is a complication of	GI surgery
+ileus	is a complication of	abdominal surgery
+deep vein thrombosis	is a complication of	surgery
+pulmonary embolism	is a complication of	surgery
+postoperative delirium	is a complication of	surgery
+acute kidney injury	is a complication of	surgery
+myocardial infarction	is a complication of	surgery
+stroke	is a complication of	surgery
+respiratory failure	is a complication of	surgery
+pneumonia	is a complication of	surgery
+atelectasis	is a complication of	surgery
+bleeding	is a complication of	surgery
+blood transfusion reaction	is a complication of	transfusion
+TRALI	is a complication of	transfusion
+contrast-induced nephropathy	is a complication of	radiographic imaging
+airway obstruction	is a complication of	anesthesia
+hypotension	is a complication of	anesthesia
+hypoxia	is a complication of	anesthesia
+bronchospasm	is a complication of	anesthesia
+laryngospasm	is a complication of	anesthesia
+airway injury	is a complication of	intubation
+anaphylaxis	is a complication of	perioperative care
+postoperative nausea and vomiting	is a complication of	anesthesia
+postoperative nausea and vomiting	is a complication of	surgery
+urinary retention	is a complication of	anesthesia
+urinary tract infection	is a complication of	catheterization
+catheter-associated bloodstream infection	is a complication of	catheterization
+adhesions	is a complication of	abdominal surgery
+incisional hernia	is a complication of	abdominal surgery
+nerve injury	is a complication of	surgery
+nerve palsy	is a complication of	surgery
+vascular injury	is a complication of	surgery
+organ injury	is a complication of	surgery
+prosthetic joint infection	is a complication of	joint replacement
+prosthesis failure	is a complication of	joint replacement
+prosthesis dislocation	is a complication of	arthroplasty
+adhesive disease	is a complication of	abdominal surgery
+chronic pain	is a complication of	surgery
+scar formation	is a complication of	surgery
+surgical site hematoma	is a complication of	surgery
+postoperative hypotension	is a complication of	surgery
+sepsis	is a complication of	infection
+shock	is a complication of	surgery
+multi-organ dysfunction	is a complication of	major surgery
+electrolyte disturbance	is a complication of	major surgery
+anemia	is a complication of	major surgery
+blood loss	is a complication of	major surgery
+delayed wound healing	is a complication of	surgery
+malnutrition	is a complication of	prolonged hospitalization
+fluid overload	is a complication of	surgery
+acute liver injury	is a complication of	major surgery
+acute respiratory distress syndrome	is a complication of	surgery
+urinary incontinence	is a complication of	pelvic surgery
+bowel obstruction	is a complication of	abdominal surgery
+wound care failure	is a complication of	surgery
+catheter misplacement	is a complication of	central line placement
+line infection	is a complication of	central venous catheterization
+central line-associated infection	is a complication of	catheterization
+pressure injury	is a complication of	hospitalization
+postoperative atrial fibrillation	is a complication of	surgery
+readmission	is a complication of	hospital procedure
+reoperation	is a complication of	initial surgery
+implant infection	is a complication of	prosthesis
+implant loosening	is a complication of	prosthesis
+implant failure	is a complication of	prosthesis
+adhesive small bowel obstruction	is a complication of	abdominal surgery
+suture rupture	is a complication of	wound closure
+suture granuloma	is a complication of	wound closure
+foreign body reaction	is a complication of	surgery
+postoperative fever	is a complication of	surgery
+delay in discharge	is a complication of	prolonged hospitalization
+length of stay	is prolonged by	postoperative infection
+mortality	is a complication of	major surgery
+readmission risk	is associated with	postoperative infection
+hospital-acquired infection	is a complication of	hospitalization
+pressure ulcer	is a complication of	hospitalization
+adverse drug event	is a complication of	perioperative medication
+drug interaction	is a complication of	perioperative medication
+blood transfusion need	is a complication of	major surgery
+blood product exposure	is a complication of	major surgery
+catheter-related infection	is a complication of	catheterization
+line thrombosis	is a complication of	central venous catheter
+air embolism	is a complication of	surgery
+wrong-site surgery	is a complication of	surgery
+retained surgical item	is a complication of	surgery
+retained foreign body	is a complication of	surgery

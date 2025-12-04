@@ -1,100 +1,100 @@
-schizophrenia	is a	psychiatric disorder
-schizophrenia	is a	mental illness
-schizophrenia	is associated with	increased mortality
-schizophrenia	is associated with	suicide risk
-schizophrenia	is associated with	unemployment
-schizophrenia	is associated with	homelessness
-schizophrenia	is associated with	substance use disorder
-family history	has genetic component
-schizophrenia	has genetic component	polygenic risk
-polygenic risk	increases	schizophrenia risk
-urbanicity	increases risk of	schizophrenia
-prenatal infection	increases risk of	schizophrenia
-cannabis use	is associated with	schizophrenia onset
-tobacco use	is associated with	schizophrenia
-neurodevelopmental abnormalities	predispose to	schizophrenia
-dopamine dysregulation	underlies	psychosis
-glutamate dysfunction	contributes to	schizophrenia
-schizophrenia	manifests with	positive symptoms
-schizophrenia	manifests with	negative symptoms
-delusions	are symptoms of	schizophrenia
-hallucinations	are symptoms of	schizophrenia
-cognitive impairment	characterizes	schizophrenia
-executive dysfunction	characterizes	schizophrenia
-working memory deficit	characterizes	schizophrenia
-antipsychotics	treat	schizophrenia
-second-generation antipsychotics	are used for	schizophrenia
-clozapine	is used for	treatment-resistant schizophrenia
-long-acting injectable antipsychotics	improve	adherence
-cognitive behavioral therapy	improves	functioning
-nonadherence	increases	relapse risk
-cognitive remediation therapy	improves	cognitive function
-family therapy	reduces	relapse risk
-psychoeducation	improves	treatment adherence
-inpatient care	reduces	readmission
-community treatment programs	reduce	hospitalization
-metabolic syndrome	is associated with	antipsychotics
-weight gain	is adverse effect of	second-generation antipsychotics
-diabetes	is comorbid with	schizophrenia
-cardiovascular disease	burden in	schizophrenia
-hyperprolactinemia	is adverse effect of	antipsychotics
-tardive dyskinesia	is a potential adverse effect of	antipsychotics
-extrapyramidal symptoms	are adverse effects of	antipsychotics
-clozapine	reduces	suicidality
-clozapine	requires	regular monitoring of blood counts
-antipsychotics	cause	metabolic syndrome
-antipsychotics	cause	weight gain
-negative symptoms	define	schizophrenia
-positive symptoms	define	schizophrenia
-cognitive deficits	present in	schizophrenia
-neuroimaging abnormality	observed in	schizophrenia
-ventricular enlargement	seen in	schizophrenia
-reduced gray matter volume	observed in	schizophrenia
-dopamine hypothesis	supports	schizophrenia
-glutamate hypothesis	supports	schizophrenia
-oxidative stress	implicated in	schizophrenia
-inflammation	associated with	schizophrenia
-early intervention services	improve	long-term outcome
-readmission	associated with	psychotic relapse
-substance use disorder	worsens	schizophrenia prognosis
-depression	co-occurs with	schizophrenia
-anxiety disorder	co-occurs with	schizophrenia
-antidepressants	used for	depressive symptoms in schizophrenia
-antipsychotic polypharmacy	is associated with	adverse effects
-treatment-resistant schizophrenia	requires	clozapine
-psychosis	recurs with	nonadherence to treatment
-family intervention	reduces	relapse risk
-case management	improves	access to care
-supported employment	improves	vocational outcomes
-social skills training	improves	social functioning
-cognitive training	improves	attention
-exercise program	reduces	metabolic risk in schizophrenia
-nutrition counseling	reduces	metabolic syndrome risk
-stigma	reduces	treatment seeking
-adherence	improves	outcomes
-inpatient stay	increases	healthcare costs
-outpatient follow-up	reduces	readmission
-assertive community treatment	reduces	hospitalization
-CBT for psychosis	reduces	hallucinations
-family psychoeducation	improves	insight
-insight	improves	medication adherence
-insight	correlates with	outcome
-neurocognitive impairment	impairs	functioning
-functional impairment	worsens	quality of life
-quality of life	improves with	psychosocial interventions
-community-based care	improves	functioning
-housing support	reduces	homelessness
-mobile health tools	support	treatment adherence
-telepsychiatry	expands	access to care
-peer support	improves	engagement in care
-symptom stabilization	improves	functioning
-antipsychotic combination therapy	associated with	increased adverse events
-long-term antipsychotic use	is associated with	metabolic side effects
-early-onset schizophrenia	associated with	greater cognitive impairment
-late-onset schizophrenia	associated with	different symptom profile
-cerebral atrophy	observed in	schizophrenia
-neuroinflammation	implicated in	schizophrenia
-oxidative stress	contributes to	neuronal damage in schizophrenia
-clozapine	associated with	agranulocytosis
-early intervention clinics	provide	comprehensive care
-comprehensive care	improves	prognosis
+schizophrenia	is a	psychotic disorder
+schizophrenia	is associated with	mortality
+schizophrenia	associated with	readmission
+schizophrenia	associated with	homelessness
+schizophrenia	associated with	substance use disorder
+schizophrenia	associated with	metabolic syndrome
+schizophrenia	associated with	diabetes mellitus
+schizophrenia	more common in	males
+schizophrenia	begins at	late adolescence
+schizophrenia	presents with	delusions
+schizophrenia	presents with	hallucinations
+schizophrenia	presents with	disorganized thinking
+schizophrenia	presents with	social withdrawal
+schizophrenia	presents with	negative symptoms
+schizophrenia	presents with	cognitive impairment
+schizophrenia	associated with	suicide risk
+schizophrenia	associated with	violence risk
+schizophrenia	reduces	quality of life
+schizophrenia	increases	hospitalization length
+schizophrenia	associated with	obesity
+schizophrenia	associated with	hypertension
+schizophrenia	associated with	dyslipidemia
+schizophrenia	treated with	antipsychotic medication
+schizophrenia	treated with	cognitive behavioral therapy
+schizophrenia	treated with	family therapy
+schizophrenia	treated with	psychosocial rehabilitation
+schizophrenia	treatment with	clozapine
+schizophrenia	adherent to	antipsychotic medication
+substance use disorder	co-occurs with	schizophrenia
+cannabis use	increases	schizophrenia risk
+schizophrenia	co-occurs with	tobacco use
+schizophrenia	co-occurs with	alcohol use disorder
+schizophrenia	associated with	sleep disturbance
+schizophrenia	associated with	anxiety disorder
+schizophrenia	associated with	mood disorder
+schizophrenia	risk factors include	urban residence
+schizophrenia	risk factors include	prenatal infection
+schizophrenia	associated with	prenatal malnutrition
+schizophrenia	associated with	immune dysregulation
+schizophrenia	associated with	neuroinflammation
+schizophrenia	associated with	structural brain abnormality
+schizophrenia	associated with	ventriculomegaly
+schizophrenia	diagnosed with	DSM criteria
+schizophrenia	diagnosed by	clinical assessment
+schizophrenia	diagnosed with	structured interview
+schizophrenia	prognosis with	early treatment
+schizophrenia	prognosis with	adherence to medication
+schizophrenia	prognosis with	social support
+schizophrenia	prognosis with	cognitive training
+schizophrenia	associated with	hospitalization rate
+schizophrenia	increases	caregiver burden
+schizophrenia	affects	employment
+schizophrenia	associated with	social dysfunction
+schizophrenia	associated with	physical health decline
+schizophrenia	linked to	immune markers
+schizophrenia	linked to	oxidative stress
+schizophrenia	linked to	gut microbiome changes
+schizophrenia	affects	health-related quality of life
+schizophrenia	associated with	life expectancy
+schizophrenia	associated with	life expectancy reduction
+schizophrenia	managed with	long-acting injectable antipsychotics
+schizophrenia	managed with	pharmacotherapy adherence programs
+schizophrenia	managed with	case management
+schizophrenia	associated with	caregiver burnout
+schizophrenia	influences	family dynamics
+schizophrenia	affects	social networks
+schizophrenia	associated with	unemployment risk
+schizophrenia	common in	urban poor
+schizophrenia	may present with	catatonia
+catatonia	occurs with	schizophrenia
+schizophrenia	associated with	tardive dyskinesia
+schizophrenia	causes	prolactin elevation
+schizophrenia	associated with	caregiver support requirement
+schizophrenia	requires	social services
+schizophrenia	increases	healthcare utilization
+schizophrenia	increases	emergency department visits
+schizophrenia	increases	hospital days
+schizophrenia	influences	insurance costs
+schizophrenia	influences	disability claims
+schizophrenia	described by	DSM-5
+schizophrenia	verified by	diagnostic interview
+schizophrenia	associated with	metabolic adverse effects of antipsychotics
+schizophrenia	improved by	early intervention services
+schizophrenia	mitigated by	supportive housing
+schizophrenia	managed with	digital health tools
+schizophrenia	monitored with	periodic metabolic screening
+schizophrenia	monitored with	weight monitoring
+schizophrenia	requires	antipsychotic titration
+schizophrenia	influences	sleep quality
+schizophrenia	associated with	substance-induced psychosis risk
+schizophrenia	results in	disability
+schizophrenia	reduces	work productivity
+schizophrenia	increases	family conflict
+schizophrenia	linked with	violence risk in some cases
+schizophrenia	linked with	immune abnormalities
+schizophrenia	associated with	autoimmune disease
+late-onset schizophrenia	is a	form of schizophrenia
+schizophrenia	present in	global populations
+schizophrenia	described as	chronic illness
+schizophrenia	imposes	global burden

@@ -1,102 +1,101 @@
-uterine cancer	is a	gynecologic malignancy
-uterine cancer	includes	endometrial cancer
-uterine cancer	presents with	abnormal uterine bleeding
-uterine cancer	metastasizes to	lung
-uterine cancer	metastasizes to	liver
-uterine cancer	metastasizes to	bone
-uterine cancer	metastasizes to	brain
-uterine cancer	metastasizes to	peritoneum
-endometrial carcinoma	is a histology type of	uterine cancer
-serous endometrial carcinoma	is a histology type of	uterine cancer
-clear cell endometrial carcinoma	is a histology type of	uterine cancer
-leiomyosarcoma	is a histology type of	uterine cancer
-carcinosarcoma	is a histology type of	uterine cancer
-obesity	increases risk of	uterine cancer
-unopposed estrogen exposure	increases risk of	uterine cancer
-nulliparity	increases risk of	uterine cancer
-early menarche	increases risk of	uterine cancer
-late menopause	increases risk of	uterine cancer
-diabetes mellitus	increases risk of	uterine cancer
-hypertension	increases risk of	uterine cancer
-polycystic ovarian syndrome	increases risk of	uterine cancer
-Lynch syndrome	increases risk of	uterine cancer
-tamoxifen use	increases risk of	uterine cancer
-infertility	increases risk of	uterine cancer
-pelvic radiation exposure	increases risk of	uterine cancer
-endometrial biopsy	is used to diagnose	uterine cancer
-pipelle biopsy	is used to sample	endometrium
-transvaginal ultrasound	is used to evaluate	endometrial thickness
-MRI	is used to stage	uterine cancer
-CT scan	is used to assess	metastasis
-PET-CT	is used to stage	uterine cancer
-CA-125	is a biomarker for	uterine cancer
-microsatellite instability	present in	endometrial cancer
-POLE mutation	associated with	endometrial cancer
-PTEN mutation	associated with	endometrial cancer
-p53 mutation	associated with	serous endometrial carcinoma
-HER2 overexpression	associated with	serous endometrial carcinoma
-mismatch repair deficiency	predicts response to	immunotherapy
-mismatch repair deficiency	associated with	microsatellite instability
-endometrial cancer	treated with	hysterectomy
-hysterectomy	is a treatment for	uterine cancer
-hysterectomy	removes	uterus
-pelvic lymphadenectomy	is performed for	uterine cancer
-surgical staging	is performed for	uterine cancer
-external beam radiotherapy	is used for	uterine cancer
-brachytherapy	is used for	uterine cancer
-adjuvant radiotherapy	is used for	uterine cancer
-chemotherapy	is used for	uterine cancer
-carboplatin	is used to treat	uterine cancer
-paclitaxel	is used to treat	uterine cancer
-doxorubicin	is used to treat	uterine cancer
-carboplatin-based chemotherapy	is used to treat	uterine cancer
-progestin therapy	is used for	endometrial cancer
-hormone therapy	is used for	endometrial cancer
-neoadjuvant chemotherapy	is used for	uterine cancer
-neoadjuvant radiotherapy	is used for	uterine cancer
-intracavitary brachytherapy	is used for	uterine cancer
-pelvic irradiation	is used as	adjuvant therapy
-lymphovascular invasion	is associated with	recurrence risk
-depth of myometrial invasion	correlates with	stage
-lymph node involvement	indicates	poor prognosis
-early-stage disease	has better prognosis	uterine cancer
-recurrence	occurs after	initial treatment for uterine cancer
-mortality	is associated with	uterine cancer
-readmission	risk after	treatment for uterine cancer
-postoperative infection	increases	length of stay after hysterectomy
-postoperative surveillance	includes	pelvic exam
-follow-up imaging	used for	surveillance of uterine cancer
-uterine cancer prognosis depends on	stage
-depth of myometrial invasion	is prognostic for	uterine cancer
-tumor grade	is prognostic factor for	uterine cancer
-lymph node metastasis	indicates	advanced disease
-recurrence	indicates	poor prognosis
-ascites	indicates	advanced disease
-ovarian preservation	not recommended in	advanced uterine cancer
-bevacizumab	used for	uterine cancer
-pembrolizumab	used for	MSI-high endometrial cancer
-trastuzumab	used for	HER2-overexpressing serous endometrial cancer
-immunotherapy	considered for	mismatch repair deficient endometrial cancer
-angiogenesis inhibitor	used for	uterine cancer
-parity	influences risk for	uterine cancer
-genetic testing	recommended for	uterine cancer patients
-fertility-sparing options	appropriate for	early-stage disease
-hysterectomy with bilateral salpingo-oophorectomy	performed for	uterine cancer
-pathologic complete response	indicates	effective therapy
-recurrence-free survival	correlates with	early detection
-targeted therapy	investigated for	uterine cancer
-immune checkpoint inhibitor	used for	mismatch repair deficient endometrial cancer
-bevacizumab	used in	combination therapy for uterine cancer
-pembrolizumab	approved for	MSI-high endometrial cancer
-serous endometrial cancer	associated with	poorer prognosis
-lung metastasis	indicates	disseminated disease
-bone metastasis	indicates	disseminated disease
-liver metastasis	indicates	disseminated disease
-peritoneal metastasis	indicates	disseminated disease
-evidence-based guidelines	inform	treatment planning for uterine cancer
-clinical trial	offers	novel therapies for uterine cancer
-genetic testing	informs	treatment decisions for uterine cancer
-Fertility-sparing approaches	suitable for	early-stage disease
-hysterectomy with bilateral salpingo-oophorectomy	performed for	uterine cancer
-pathologic complete response	indicates	effective therapy
-recurrence-free survival	correlates with	ongoing surveillance
+uterine cancer	is a	gynecologic cancer
+uterine cancer	arises_from	endometrium
+endometrium	is_site_of	endometrial cancer
+endometrial cancer	has_histology	endometrioid adenocarcinoma
+endometrial cancer	has_histology	serous carcinoma
+endometrial cancer	has_histology	clear cell carcinoma
+endometrial cancer	has_histology	squamous differentiation
+endometrial cancer	has_histology	undifferentiated carcinoma
+endometrial cancer	has_histology	mucinous carcinoma
+obesity	increases_risk_of	endometrial cancer
+unopposed estrogen	increases_risk_of	endometrial cancer
+tamoxifen use	increases_risk_of	endometrial cancer
+nulliparity	increases_risk_of	endometrial cancer
+early_menarche	increases_risk_of	endometrial cancer
+late menopause	increases_risk_of	endometrial cancer
+polycystic ovary syndrome	increases_risk_of	endometrial cancer
+diabetes mellitus	increases_risk_of	endometrial cancer
+hypertension	increases_risk_of	endometrial cancer
+age over 50	increases_risk_of	endometrial cancer
+abnormal_vaginal_bleeding	presents_with	endometrial cancer
+postmenopausal_bleeding	presents_with	endometrial cancer
+pelvic_pain	presents_with	endometrial cancer
+transvaginal ultrasound	used_for	assessment_of_endometrial_thickness
+endometrial_sampling	diagnostic_for	endometrial cancer
+endometrial_biopsy	confirms	endometrial cancer
+hysteroscopy	used_for	endometrial cancer diagnosis
+MRI	used_for	staging_of_endometrial_cancer
+CT scan	used_for	metastasis_assessment_endometrial_cancer
+PET CT	used_for	metastatic_workup_endometrial_cancer
+uterine cancer	treated_with	hysterectomy
+endometrial cancer	treated_with	hysterectomy
+endometrial cancer	treated_with	radiotherapy
+endometrial cancer	treated_with	chemotherapy
+endometrial cancer	treated_with	progestin_therapy
+hormone receptor status	guides_treatment_in	endometrial cancer
+PTEN mutation	common_in	endometrioid_endometrial_cancer
+p53 mutation	associated_with	serous_endometrial_carcinoma
+MSI high	associated_with	endometrial_cancer
+ARID1A mutation	observed_in	endometrial cancer
+POLE mutation	observed_in	endometrial cancer
+HER2 overexpression	observed_in	uterine_serous_endometrial_carcinoma
+ER expression	correlates_with	endometrial cancer
+PR expression	correlates_with	endometrial cancer
+early stage endometrial_cancer	prognosis_better	survival
+high_grade_endometrial_cancer	prognosis_worse	survival
+advanced_stage_endometrial_cancer	prognosis_worse	survival
+lymph_node_metastasis	indicates_poor_prognosis	endometrial cancer
+lymphovascular_space_invasion	risk_factor_for	metastasis_in_endometrial_cancer
+deep_myometrial_invasion	indicates_poor_prognosis	endometrial cancer
+surgical_margins	prognostic_for	endometrial cancer
+recurrence_after_surgery	occurs_in	endometrial cancer
+Lynch_syndrome	predisposes_to	endometrial cancer
+family_history_of_gyn_cancer	increases_risk_of	endometrial cancer
+metabolic_syndrome	increases_risk_of	endometrial cancer
+parity	protective_against	endometrial cancer
+lymph_node_involvement	indicates_poor_prognosis	endometrial cancer
+surgical_staging	provides_accurate_staging	endometrial_cancer
+tumor_grade	influences_treatment_decision	endometrial cancer
+tumor_stage	influences_treatment_decision	endometrial cancer
+myometrial_invasion	assessed_for	prognosis_of_endometrial_cancer
+lymphovascular_invasion	is_warning_sign_for	recurrence_of_endometrial_cancer
+deep_myometrial_invasion	indicates_poor_prognosis	endometrial_cancer
+Lynch_syndrome	linked_with	MSI_high_endometrial_cancer
+surgical_margin_status	impacts_postoperative_outcome	endometrial_cancer
+adjuvant_therapy	recommended_for	high_risk_endometrial_cancer
+endometrial_cancer_subtype	determines_therapy	endometrial_cancer
+protein_expression_profile	guides_targeted_therapy	endometrial_cancer
+targeted_therapy	used_for	certain_endometrial_cancer_subtypes
+trastuzumab	used_for	HER2_positive_endometrial_cancer
+p53_overexpression	marker_of	high_grade_endometrial_cancer
+disease_free_survival	depends_on	stage_at_diagnosis
+overall_survival	correlates_with	tumor_stage
+recurrence_pattern	differs_by	histologic_subtype
+treatment_toxicity	includes	anemia
+genomic_signature	used_for	prognosis_in_endometrial_cancer
+cytology_screening	screening_for	endometrial_cancer
+hysterectomy_complications	occur_in	endometrial_cancer_surgery
+surveillance_imaging	used_for	post_treatment_follow_up_endometrial_cancer
+lymph_node_dissection	part_of	surgical_staging_for_endometrial_cancer
+adjuvant_radiation	reduces_local_recurrence	endometrial_cancer
+intracavitary_radiation	delivered_as	brachytherapy_for_endometrial_cancer
+neoadjuvant_therapy	considered_for	bulky_endometrial_cancer
+clinical_trial_enrollment	offered_for	new_endometrial_cancer_treatments
+HER2_status	guides	targeted_therapy_in_endometrial_cancer
+mismatch_repair_deficiency	leads_to	MSI_high_endometrial_cancer
+POLE_mutation	associated_with	ultramutated_endometrial_cancer
+ARID1A_mutation	associated_with	endometrial_cancer_subtypes
+PTEN_mutation	associated_with	endometrioid_subtype
+tumor_mutational_burden	correlates_with	prognosis_in_endometrial_cancer
+circulating_tumor_cells	indicate_progression	endometrial_cancer
+performance_status	influences_treatment_decision	endometrial_cancer
+obesity_management	improves_outcomes	endometrial_cancer_treatment
+estrogen_receptor_status	predicts_response_to	progestin_therapy_in_endometrial_cancer
+endometrial_cancer_subtypes	show_different_imaging_features	MRI
+tumor_size_at_diagnosis	correlates_with	prognosis_in_endometrial_cancer
+survivorship_needs	follow_up_after_treatment	endometrial_cancer
+surgical_closure	affects_postoperative_pain	endometrial_cancer_surgery
+reconstructive_procedure	may_follow	hysterectomy_for_endometrial_cancer
+immunotherapy	role_in	dMMR_endometrial_cancer
+circulating_dna	used_for	monitoring_endometrial_cancer
+nutritional_status	influences_treatment_tolerance	endometrial_cancer

@@ -1,0 +1,100 @@
+cancer chemotherapy	is a	cancer treatment
+cancer chemotherapy	uses	cytotoxic agents
+cancer chemotherapy	is a form of	systemic therapy
+cancer chemotherapy	targets	rapidly dividing cells
+cancer chemotherapy	causes	myelosuppression
+cancer chemotherapy	causes	mucositis
+cancer chemotherapy	causes	alopecia
+cancer chemotherapy	causes	nausea
+cancer chemotherapy	increases	infection risk
+cancer chemotherapy	increases	neutropenia risk
+cancer chemotherapy	causes	anemia
+cancer chemotherapy	causes	thrombocytopenia
+cancer chemotherapy	causes	neuropathy
+cancer chemotherapy	causes	fatigue
+cancer chemotherapy	causes	diarrhea
+cancer chemotherapy	causes	constipation
+cancer chemotherapy	causes	liver injury
+cancer chemotherapy	causes	kidney injury
+cancer chemotherapy	requires	monitoring
+cancer chemotherapy	monitored by	blood tests
+cancer chemotherapy	uses	platinum agents
+cancer chemotherapy	uses	taxanes
+cancer chemotherapy	uses	antimetabolites
+cancer chemotherapy	uses	alkylating agents
+cancer chemotherapy	uses	antitumor antibiotics
+cancer chemotherapy	influenced by	cancer stage
+cancer chemotherapy	efficacy related to	tumor biology
+cancer chemotherapy	efficacy correlated with	molecular markers
+cancer chemotherapy	reduces	metastasis risk
+cancer chemotherapy	used as	neoadjuvant therapy
+cancer chemotherapy	used as	adjuvant therapy
+cancer chemotherapy	used for	palliation
+cancer chemotherapy	associated with	secondary malignancy
+cancer chemotherapy	interacts with	radiation therapy
+cancer chemotherapy	combined with	immunotherapy
+cancer chemotherapy	combined with	surgery
+cancer chemotherapy	contraindicated in	pregnancy
+cancer chemotherapy	contraindicated in	lactation
+cancer chemotherapy	affects	fertility
+cancer chemotherapy	causes	hair loss
+cancer chemotherapy	affects	mucosal lining
+cancer chemotherapy	influences	quality of life
+cancer chemotherapy	leads to	hospitalization
+cancer chemotherapy	requires	supportive care
+cancer chemotherapy	influences	immune response
+cancer chemotherapy	used in	hematologic malignancies
+cancer chemotherapy	used in	solid tumors
+cancer chemotherapy	provides	tumor shrinkage
+cancer chemotherapy	can cause	organ toxicity
+cancer chemotherapy	can cause	peripheral neuropathy
+cancer chemotherapy	leads to	electrolyte imbalance
+cancer chemotherapy	associated with	cardiotoxicity
+cancer chemotherapy	related to	infusion reactions
+cancer chemotherapy	requires	antiemetics
+cancer chemotherapy	requires	growth factors
+cancer chemotherapy	modulated by	dose intensity
+cancer chemotherapy	selection influenced by	biomarkers
+cancer chemotherapy	impacted by	renal function
+cancer chemotherapy	requires	dose modification
+cancer chemotherapy	guided by	pharmacogenetics
+cancer chemotherapy	used with	surgery and radiation
+cancer chemotherapy	used in	cancer care pathways
+cancer chemotherapy	evaluated by	imaging
+cancer chemotherapy	yields	partial response
+cancer chemotherapy	can cause	fever
+cancer chemotherapy	delivered by	intravenous route
+cancer chemotherapy	delivered by	oral route
+cancer chemotherapy	scheduled with	therapy cycle
+cancer chemotherapy	causes	weight loss
+cancer chemotherapy	leads to	dehydration
+cancer chemotherapy	associated with	hepatic steatosis
+cancer chemotherapy	influences	tumor microenvironment
+cancer chemotherapy	affects	bone marrow
+cancer chemotherapy	used in	combination therapy
+cancer chemotherapy	modulates	immune system
+cancer chemotherapy	associated with	thrombosis
+cancer chemotherapy	increases	hospital stay length
+cancer chemotherapy	influences	patient survival
+cancer chemotherapy	studied in	clinical trials
+cancer chemotherapy	monitored for	adverse events
+cancer chemotherapy	requires	dose adjustments
+cancer chemotherapy	provides	symptom relief
+cancer chemotherapy	reduces	tumor size
+cancer chemotherapy	used in	oncology guidelines
+cancer chemotherapy	associated with	cytopenia
+cancer chemotherapy	used with	hydration therapy
+cancer chemotherapy	associated with	nephrotoxicity
+cancer chemotherapy	triggers	tumor lysis syndrome
+cancer chemotherapy	influenced by	performance status
+cancer chemotherapy	affected by	liver function
+cancer chemotherapy	associated with	secondary leukemia
+cancer chemotherapy	related to	dosing schedule
+cancer chemotherapy	informs	prognostic assessment
+cancer chemotherapy	drives	multidisciplinary care
+cancer chemotherapy	correlated with	remission rate
+cancer chemotherapy	associated with	GI toxicity
+cancer chemotherapy	impacts	endocrine function
+cancer chemotherapy	influences	psychosocial outcomes
+cancer chemotherapy	used in	neoplastic disease
+cancer chemotherapy	studied for	long-term outcomes

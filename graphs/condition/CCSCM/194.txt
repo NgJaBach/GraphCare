@@ -1,107 +1,60 @@
-forceps delivery	is a	instrumental vaginal delivery
+forceps delivery	is a	obstetric procedure
 forceps delivery	indicated for	fetal distress
 forceps delivery	indicated for	prolonged second stage
-forceps delivery	indicated for	nonreassuring fetal tracing
-forceps delivery	indicated for	maternal exhaustion
-forceps delivery	indicated for	poor expulsive effort
+forceps delivery	indicated for	nonreassuring fetal status
 forceps delivery	indicated for	malpresentation
-forceps delivery	contraindicated with	placenta previa
-forceps delivery	contraindicated with	transverse lie
-forceps delivery	requires	fully dilated cervix
-forceps delivery	requires	adequate pelvis
-epidural anesthesia	used during	forceps delivery
-forceps delivery	occurs during	second stage of labor
-forceps delivery	shortens	second stage of labor
+forceps delivery	indicated for	arrest of descent
+forceps delivery	contraindicated in	placenta previa
+forceps delivery	contraindicated in	transverse lie
+forceps delivery	contraindicated in	cephalopelvic disproportion
+forceps delivery	contraindicated in	active genital herpes
 forceps delivery	performed by	obstetrician
-forceps delivery	associated with	perineal laceration
-forceps delivery	associated with	perineal hematoma
+forceps delivery	performed in	delivery room
+forceps delivery	alternative to	cesarean section
+forceps delivery	reduces	cesarean section rate
+forceps delivery	associated with	perineal tear
+forceps delivery	associated with	vaginal laceration
+forceps delivery	associated with	postpartum hemorrhage
 forceps delivery	associated with	neonatal facial nerve palsy
 forceps delivery	associated with	neonatal cephalohematoma
-forceps delivery	associated with	neonatal skull fracture
-forceps delivery	associated with	caput succedaneum
-forceps delivery	associated with	postpartum hemorrhage
-forceps delivery	associated with	maternal infection
+forceps delivery	associated with	neonatal scalp laceration
+forceps delivery	associated with	intracranial hemorrhage
+forceps delivery	associated with	skull fracture
+forceps delivery	associated with	neonatal respiratory distress
+forceps delivery	associated with	NICU admission
 forceps delivery	associated with	longer hospitalization
-forceps delivery	increased risk of	uterine atony
-forceps delivery	increased risk of	maternal genital tract injury
-forceps delivery	compared with	cesarean section
 forceps delivery	compared with	vacuum extraction
-vacuum extraction	is an	alternative to forceps delivery
-forceps apparatus	consists of	forceps blades
-forceps blade	part of	forceps apparatus
+forceps delivery	predictor of	birth outcome
+forceps delivery	predictor of	Apgar score
+forceps delivery	predictor of	neonatal morbidity
+forceps delivery	predictor of	maternal morbidity
+forceps delivery	associated with	episiotomy rate
+forceps delivery	influenced by	parity
+forceps delivery	influenced by	gestational age
+forceps delivery	influenced by	fetal weight
+forceps delivery	influenced by	labor duration
+forceps delivery	used for	occiput posterior presentation
+forceps delivery	used in	difficult labor
+forceps delivery	requires	anesthesia
+forceps delivery	requires	analgesia
+forceps delivery	associated with	spinal anesthesia use
+forceps delivery	associated with	regional anesthesia use
+forceps delivery	component of	instrumental delivery
+forceps delivery	provides	vaginal birth
+forceps delivery	described in	obstetric guidelines
+forceps delivery	taught in	medical education
+forceps delivery	performed in	hospital setting
+forceps delivery	observed in	birth statistics
+forceps delivery	common in	term pregnancies
+forceps delivery	more common in	nulliparous women
+forceps delivery	more common in	multiparous women
+forceps delivery	used in	vaginal delivery
+forceps delivery	associated with	pelvic floor injury
+forceps delivery	associated with	perineal pain
+forceps delivery	associated with	urinary retention
+forceps delivery	increases	hospital costs
 forceps delivery	requires	sterile technique
-sterile technique	maintained during	forceps delivery
-operating room	used for	forceps delivery
-delivery room	hosts	forceps delivery procedure
-instrument sterilization	critical for	forceps delivery
-informed consent	obtained for	forceps delivery
-informed consent	part of	forceps delivery procedure
-training	essential for	forceps delivery
-simulation training	improves	forceps delivery performance
-parity	influences	forceps delivery probability
-primiparity	increases	forceps delivery probability
-multiparity	reduces	forceps delivery probability
-maternal age	associated with	forceps delivery probability
-body mass index	associated with	forceps delivery probability
-fetal head size	affects	forceps delivery feasibility
-fetal position	suitable for	forceps delivery
-occiput anterior presentation	favorable for	forceps delivery
-occipitoposterior presentation	corrected by	forceps delivery
-rotation	facilitated by	forceps delivery
-second stage	shortened by	forceps delivery
-fetal distress	managed by	forceps delivery
-fetal heart rate tracing	guiding	forceps delivery
-placenta previa	contraindication for	forceps delivery
-vasa previa	contraindication for	forceps delivery
-cephalopelvic disproportion	contraindication for	forceps delivery
-parity	influences	forceps delivery probability
-induction of labor	associated with	forceps delivery
-labor analgesia	used during	forceps delivery
-delivery analgesia	required after	forceps delivery
-postpartum analgesia	needed after	forceps delivery
-blood loss	increased with	forceps delivery
-maternal infection	risk with	forceps delivery
-neonatal cephalohematoma	associated with	forceps delivery
-neonatal skull fracture	associated with	forceps delivery
-neonatal facial nerve palsy	associated with	forceps delivery
-neonatal scalp laceration	associated with	forceps delivery
-neonatal intracranial hemorrhage	risk with	forceps delivery
-neonatal respiratory status	affected by	forceps delivery
-postpartum hemorrhage	risk with	forceps delivery
-maternal perineal injury	risk with	forceps delivery
-recovery time	longer after	forceps delivery
-neonatal unit admission	more likely after	forceps delivery
-delivery time	shorter with	forceps delivery
-cesarean section rate	reduced by	forceps delivery
-neonatal Apgar score	associated with	forceps delivery
-apgar score	used for	neonatal assessment
-operative vaginal delivery	includes	forceps delivery
-instrumentation	involves	forceps delivery
-medical record	documents	forceps delivery
-clinical guideline	addresses	forceps delivery
-risk stratification	used for	forceps delivery
-consent	obtained for	forceps delivery
-postpartum check	performed after	forceps delivery
-perineal repair	required after	forceps delivery
-pelvic floor assessment	performed after	forceps delivery
-neonatal resuscitation	available during	forceps delivery
-blood pressure monitoring	essential during	forceps delivery
-fetal monitoring	continuous during	forceps delivery
-head circumference	measured after	forceps delivery
-birth weight	recorded during	forceps delivery
-birth outcome	documented for	forceps delivery
-clinical guideline	specific to	forceps delivery
-medical record	updated with	forceps delivery
-obstetric complication	present with	forceps delivery
-risk assessment	used for	forceps delivery
-risk factor	includes	primiparity
-risk factor	includes	maternal obesity
-patient education	provided for	forceps delivery
-consent form	valid for	forceps delivery
-postoperative care	optimized for	forceps delivery
-analgesia	duration during	forceps delivery
-operative time	length during	forceps delivery
-surgical team	coordinates for	forceps delivery
-nursing care	planned for	forceps delivery
-neonatal outcome	influenced by	forceps delivery
-resuscitation team	ready for	forceps delivery
+forceps delivery	associated with	Apgar score at 1 minute
+forceps delivery	associated with	Apgar score at 5 minutes
+forceps delivery	documented in	obstetric literature
+forceps delivery	practiced in	hospital settings

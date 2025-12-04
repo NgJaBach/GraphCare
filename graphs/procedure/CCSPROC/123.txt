@@ -1,0 +1,53 @@
+salpingectomy	is a	surgical procedure
+salpingectomy	indicated for	hydrosalpinx
+salpingectomy	treats	hydrosalpinx
+salpingectomy	results in	infertility
+salpingectomy	reduces	fertility
+tubal ligation	is a	sterilization procedure
+tubal ligation	prevents	pregnancy
+tubal ligation	blocks	fallopian tubes
+tubal ligation	increases	ectopic pregnancy risk
+tubal ligation	performed by	surgeons
+bilateral tubal ligation	is a	sterilization procedure
+unilateral tubal ligation	is a	sterilization procedure
+tubal reanastomosis	is a	surgical procedure
+tubal reanastomosis	restores	tubal patency
+tubal reanastomosis	used for	post-sterilization infertility
+tubal reconstruction	is a	surgical procedure
+tubal reconstruction	aims at	tubal patency restoration
+tubal reconstruction	performed for	tubal obstruction
+tuboplasty	is a	surgical procedure
+tuboplasty	improves	tubal patency
+tuboplasty	used for	tubal obstruction
+salpingostomy	is a	surgical procedure
+salpingostomy	aims at	restoring tubal patency
+salpingostomy	used for	tubal obstruction
+fimbriectomy	is a	surgical procedure
+fimbriectomy	performed for	hydrosalpinx
+fimbriectomy	results in	loss of fimbrial segment
+fimbrial repair	is a	surgical procedure
+fimbrial repair	aims at	restoring fimbrial patency
+fimbrial repair	used for	tubal obstruction
+tubal cannulation	is a	procedure
+tubal cannulation	used for	tubal obstruction
+tubal cannulation	attempts to	restore tubal patency
+laparoscopic tubal surgery	is a	surgical approach
+laparoscopic tubal surgery	offers	reduced recovery time
+open tubal surgery	is a	surgical approach
+proximal tubal occlusion	is a	sterilization method
+distal tubal occlusion	is a	sterilization method
+proximal tubal occlusion	blocks	proximal fallopian tube
+distal tubal occlusion	blocks	distal fallopian tube
+salpingo-oophorectomy	is a	surgical procedure
+salpingo-oophorectomy	removes	fallopian tube and ovary
+salpingo-oophorectomy	treats	ovarian pathology
+paratubal cyst excision	is a	surgical procedure
+paratubal cyst excision	preserves	tubal function
+paratubal cyst excision	treats	tubal obstruction
+tubal microsurgery	is a	surgical procedure
+tubal microsurgery	used for	tubal obstruction
+tubal microsurgery	aims at	restoring tubal patency
+fimbrioplasty	is a	surgical procedure
+fimbrioplasty	used for	fimbrial patency
+ovarian-salpingopexy	is a	surgical procedure
+ovarian-salpingopexy	used for	tubal obstruction

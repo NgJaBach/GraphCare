@@ -1,0 +1,95 @@
+cystoscopy	is a	urinary tract procedure
+cystoscopy	used for	bladder examination
+cystoscopy	used for	bladder cancer detection
+ureteroscopy	is a	urinary tract procedure
+ureteroscopy	used for	ureteral stone removal
+ureteroscopy	treats	kidney stone
+extracorporeal shock wave lithotripsy	is a	lithotripsy procedure
+lithotripsy	is a	urinary tract procedure
+lithotripsy	used for	stone fragmentation
+percutaneous nephrolithotomy	is a	surgical stone removal
+nephrostomy	is a	urinary drainage procedure
+nephrostomy	used for	relief of urinary obstruction
+ureteral stent	placed for	ureteral obstruction
+double-J stent	is a	ureteral stent
+ureteral stent	provides	urinary drainage
+TURBT	is a	bladder tumor resection
+TURBT	used for	bladder cancer assessment
+nephrectomy	is a	kidney removal procedure
+radical cystectomy	is a	bladder removal procedure
+ileal conduit	is a	urinary diversion
+neobladder	is a	urinary diversion
+urostomy	is a	urinary diversion
+augmentation cystoplasty	is a	bladder augmentation procedure
+nephroureterectomy	is a	kidney and ureter removal
+ureteroneocystostomy	is a	urinary tract reconstruction
+ureteroplasty	is a	ureteral reconstructive procedure
+pyeloplasty	is a	UPJ obstruction repair
+urethral dilation	is a	urinary obstruction procedure
+vesicostomy	is a	urinary diversion
+robotic-assisted cystectomy	is a	cystectomy technique
+laparoscopic nephrectomy	is a	nephrectomy technique
+open nephrectomy	is a	nephrectomy technique
+open pyeloplasty	is a	UPJ obstruction repair
+ureterolithotomy	is a	ureteral stone removal
+pyelolithotomy	is a	renal pelvis stone removal
+intravesical therapy	is a	bladder cancer treatment
+intravesical BCG therapy	is a	bladder cancer treatment
+intravesical chemotherapy	is a	bladder cancer treatment
+TURP	is a	prostate procedure
+urethral dilation	indicated for	urethral stricture
+catheterization	is a	urinary drainage procedure
+indwelling catheter	provides	continuous drainage
+stent placement	is a	urinary tract procedure
+stent removal	is a	post-procedure step
+urodynamic testing	is a	urinary tract assessment
+cystectomy	is a	bladder removal procedure
+open cystectomy	is a	bladder removal procedure
+robotic cystectomy	is a	bladder removal technique
+nephrectomy	performed for	kidney cancer
+pyeloplasty	indicated for	UPJ obstruction
+ureteroneocystostomy	creates	ureter-bladder connection
+ureteroneocystostomy	restores	urine flow from ureter to bladder
+ureteroneocystostomy	used for	vesicoureteral reflux correction
+ureteral reimplantation	is a	ureteral reconstruction
+ureteral reimplantation	indicated for	vesicoureteral reflux
+TURBT	treats	bladder cancer
+transurethral resection of bladder tumor	is a	bladder tumor resection
+transurethral resection of bladder tumor	used for	bladder cancer management
+ureterolithotomy	is a	ureteral stone removal
+stent placement	relieves	obstruction
+percutaneous nephrostomy	provides	urinary drainage
+balloon dilation	used for	urethral stricture
+ureteral dilation	reduces	ureteral obstruction
+ileal conduit	created after	cystectomy
+neobladder	created after	cystectomy
+urostomy	created after	cystectomy
+augmentation cystoplasty	enlarges	bladder capacity
+ureteral stent	prevents	hydronephrosis
+transurethral resection of bladder tumor	reduces	tumor burden
+cystoscopy with biopsy	is a	diagnostic procedure
+cystoscopy with biopsy	guides	bladder cancer management
+nephrostomy tube	is a	urinary drainage device
+nephrostomy tube	used for	urinary drainage
+retrograde pyelography	is a	diagnostic procedure
+ureteric stent exchange	is a	post-procedure step
+percutaneous nephrostomy	relieves	hydronephrosis
+TURBT	may cause	bladder perforation
+percutaneous nephrolithotomy	may cause	bleeding
+lithotripsy	may cause	stone retropulsion
+intravesical therapy	requires	catheterization for administration
+intravesical BCG therapy	requires	intravesical instillation
+ileal conduit	drains	urine to bag
+neobladder	stores	urine
+augmentation cystoplasty	requires	bowel segment
+urethral dilation	can cause	urethral trauma
+ureteroileal anastomosis	is a	urinary diversion technique
+ureteroileal anastomosis	used for	ileal conduit formation
+nephroureterectomy	used for	upper tract urothelial carcinoma
+percutaneous nephrostomy	relieves	hydronephrosis
+TURBT	helps	bladder cancer surveillance
+intravesical chemotherapy	reduces	tumor recurrence
+transurethral resection of bladder tumor	removes	bladder tumor
+urethral dilation	reduces	urethral obstruction symptoms
+balloon dilation	treats	urethral stricture
+neobladder	stores	urine

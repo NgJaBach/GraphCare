@@ -1,100 +1,100 @@
-sexually transmitted infections	include	gonorrhea
-sexually transmitted infections	include	chlamydia
-sexually transmitted infections	include	syphilis
-sexually transmitted infections	include	HIV infection
-sexually transmitted infections	include	herpes simplex virus infection
-sexually transmitted infections	include	HPV infection
-sexually transmitted infections	include	trichomoniasis
-sexually transmitted infections	include	hepatitis B virus
-sexually transmitted infections	include	hepatitis C virus
-sexually transmitted infections	include	lymphogranuloma venereum
-gonorrhea	is caused by	Neisseria gonorrhoeae
-chlamydia	is caused by	Chlamydia trachomatis
-syphilis	is caused by	Treponema pallidum
-HIV infection	is transmitted by	sexual contact
-herpes simplex virus infection	is transmitted by	sexual contact
-HPV infection	is transmitted by	sexual contact
-trichomoniasis	is transmitted by	sexual contact
-hepatitis B virus	is transmitted by	sexual contact
-hepatitis C virus	is transmitted by	sexual contact
-gonorrhea	diagnosed by	NAAT
-chlamydia	diagnosed by	NAAT
-syphilis	diagnosed by	serology
-HIV infection	diagnosed by	HIV antibody test
-herpes simplex virus infection	diagnosed by	PCR
-HPV infection	diagnosed by	HPV DNA test
-trichomoniasis	diagnosed by	NAAT
-hepatitis B virus	diagnosed by	HBsAg test
-hepatitis C virus	diagnosed by	anti-HCV test
-gonorrhea	treated with	ceftriaxone
-chlamydia	treated with	doxycycline
-syphilis	treated with	benzathine penicillin G
-HIV infection	treated with	antiretroviral therapy
-herpes simplex virus infection	treated with	acyclovir
-HPV infection	prevented by	HPV vaccine
-trichomoniasis	treated with	metronidazole
-hepatitis B virus	prevented by	hepatitis B vaccine
-hepatitis C virus	treated with	direct-acting antivirals
-mycoplasma genitalium infection	treated with	azithromycin
-neisseria gonorrhoeae	has resistance to	azithromycin
-condom use	reduces	gonorrhea transmission
-condom use	reduces	chlamydia transmission
+sexually transmitted infections	include	bacteria
+sexually transmitted infections	include	viruses
+sexually transmitted infections	include	parasites
+Chlamydia trachomatis	is a	bacterium
+Chlamydia trachomatis	causes	cervicitis
+Chlamydia trachomatis	causes	pelvic inflammatory disease
+Chlamydia trachomatis	is transmitted by	sexual contact
+Gonorrhea	is a	sexually transmitted infection
+Neisseria gonorrhoeae	is a	bacterium
+Neisseria gonorrhoeae	transmitted by	sexual contact
+Gonorrhea	causes	urethritis
+Gonorrhea	can cause	pelvic inflammatory disease
+Syphilis	is a	sexually transmitted infection
+Treponema pallidum	is a	bacterium
+Treponema pallidum	is transmitted by	sexual contact
+Syphilis	presents with	genital ulcer
+Treponema pallidum	causes	syphilis
+Syphilis	can cause	neurosyphilis
+HIV	is a	virus
+HIV	transmitted by	sexual contact
+HIV	transmitted by	blood exposure
+HIV	leads to	AIDS
+AIDS	is a	condition
+HIV	increases risk of	opportunistic infections
+HIV	treated with	antiretroviral therapy
+Herpes simplex virus	is a	virus
+Herpes simplex virus infection	transmitted by	sexual contact
+Herpes simplex virus infection	presents with	genital lesions
+Herpes simplex virus infection	latency in	sensory ganglia
+Herpes simplex virus infection	treated with	acyclovir
+Human papillomavirus	is a	virus
+Human papillomavirus infection	transmitted by	sexual contact
+Human papillomavirus infection	causes	cervical cancer
+Human papillomavirus infection	causes	anogenital warts
+HPV vaccine	used for	cervical cancer prevention
+Cervical cancer	associated with	HPV infection
+Trichomonas vaginalis	is a	parasite
+Trichomonas vaginalis infection	transmitted by	sexual contact
+Trichomonas vaginalis infection	presents with	vaginal discharge
+Trichomonas vaginalis infection	treated with	metronidazole
+Hepatitis B virus	is a	virus
+Hepatitis B virus infection	transmitted by	sexual contact
+Hepatitis B virus infection	transmitted by	blood exposure
+Hepatitis B vaccine	used for	hepatitis B prevention
+Hepatitis B virus infection	can cause	chronic liver disease
+Hepatitis B virus infection	can lead to	hepatocellular carcinoma
+Hepatitis C virus	is a	virus
+Hepatitis C virus infection	transmitted by	blood exposure
+Molluscum contagiosum	is a	poxvirus
+Molluscum contagiosum infection	transmitted by	sexual contact
+Molluscum contagiosum infection	presents with	skin lesions
+Chancroid	is a	sexually transmitted infection
+Haemophilus ducreyi	is a	bacterium
+Chancroid	caused by	Haemophilus ducreyi
+Pelvic inflammatory disease	complication of	chlamydia
+Pelvic inflammatory disease	complication of	gonorrhea
+Infertility	consequence of	pelvic inflammatory disease
+Cervical cancer	consequence of	persistent HPV infection
+HPV infection	increases risk of	cervical cancer
+Gonorrhea	presents with	urethral discharge
+Chlamydia trachomatis infection	presents with	cervicitis
+Herpes simplex virus infection	causes	genital herpes
+HIV infection	causes	immune suppression
+Hepatitis B virus infection	causes	liver disease
+Hepatitis C virus infection	causes	liver disease
+Molluscum contagiosum infection	causes	skin lesions
+HPV infection	persists in	cervical epithelium
+HPV vaccination	reduces	cervical cancer risk
+HIV infection	influences	pregnancy outcomes
+HIV infection	complicates	pregnancy
+Herpes simplex virus infection	can cause	neonatal herpes
+Syphilis	can cause	congenital syphilis
+Chlamydia trachomatis infection	can cause	infertility
+Gonorrhea	can cause	infertility
+Hepatitis B vaccine	prevents	hepatitis B infection
 HPV vaccine	prevents	cervical cancer
-HIV infection	leads to	AIDS
-syphilis	can cause	neurosyphilis
-herpes simplex virus infection	can cause	genital ulcers
-HPV infection	can cause	cervical cancer
-gonorrhea	can cause	pelvic inflammatory disease
-chlamydia	can cause	pelvic inflammatory disease
-trichomoniasis	can cause	preterm birth
-hepatitis B virus	can cause	chronic infection
-hepatitis C virus	can cause	cirrhosis
-dysuria	associated with	gonorrhea
-discharge	associated with	chlamydia
-PID	associated with	gonorrhea
-PID	associated with	chlamydia
-chancroid	caused by	Haemophilus ducreyi
-lymphogranuloma venereum	caused by	Chlamydia trachomatis L1-L3
-genital herpes	is caused by	herpes simplex virus type 2
-HPV types 16 and 18	cause	cervical cancer
-HPV types 6 and 11	cause	genital warts
-neonatal herpes	transmitted from	infected mother
-HBsAg	indicates	active hepatitis B infection
-anti-HBs	indicates	immunity after vaccination
-HBV DNA	used for	monitoring hepatitis B infection
-antiretroviral therapy	reduces	HIV viral load
-pre-exposure prophylaxis	reduces	HIV acquisition
-condom	reduces	HIV transmission
-syphilis	increases	HIV acquisition
-pregnant women	require	syphilis screening
-prenatal care	includes	syphilis screening
-congenital syphilis	occurs	if mother untreated
-HIV testing	recommended for	pregnant women
+Chlamydia trachomatis	treated with	azithromycin
+Chlamydia trachomatis	treated with	doxycycline
+Gonorrhea	treated with	ceftriaxone
+Gonorrhea	treated with	azithromycin
+Syphilis	treated with	penicillin
+HIV infection	treated with	antiretroviral therapy
+Herpes simplex virus infection	treated with	acyclovir
+Trichomonas vaginalis infection	treated with	metronidazole
+Trichomonas vaginalis infection	treated with	tinidazole
+Hepatitis B vaccine	recommended for	newborns
+Hepatitis B vaccine	recommended for	adolescents
 HPV vaccination	recommended for	preadolescents
-NAAT	used for	STI diagnosis
-serology	used for	syphilis diagnosis
-PCR	used for	HSV diagnosis
-cervical cancer	associated with	HPV infection
-oropharyngeal cancer	associated with	HPV infection
-genital warts	caused by	HPV types 6 and 11
-antiretroviral therapy	improves	survival in HIV infection
-HBsAg	indicates	hepatitis B infection
-anti-HBs	indicates	immunity after vaccination
-asymptomatic infection	common in	chlamydia
-gonorrhea	co-occurs with	chlamydia
-azithromycin resistance	associated with	Neisseria gonorrhoeae
-macrolide resistance	associated with	Mycoplasma genitalium
-rectal infection	common in	men who have sex with men
-genital discharge	associated with	sexually transmitted infections
-vaccination	not available for	gonorrhea
-rapid HIV test	used for	HIV screening
-RPR	test for	syphilis
-genital ulcers	associated with	herpes simplex virus infection
-HPV vaccination	reduces	HPV infection rate
-oral sex	transmits	STIs
-male circumcision	reduces	HIV acquisition
-pregnant women	screened for	chlamydia during pregnancy
-neonates	at risk for	congenital infections
-barrier methods	reduces	STI transmission
-sexual assault	increases	risk of STI
-post-exposure prophylaxis	reduces	HIV acquisition
+HPV vaccination	recommended for	adolescents
+Pregnancy	risk for	sexually transmitted infections
+Condom use	reduces risk of	sexually transmitted infections
+STD clinics	provide	testing services
+Chlamydia trachomatis	coinfection with	gonorrhea
+Gonorrhea	coinfection with	chlamydia
+HIV	co-infection with	hepatitis B virus
+HIV	co-infection with	hepatitis C virus
+HPV	co-infection with	HIV
+Herpes simplex virus	reactivation associated with	immunosuppression
+Sexually transmitted infections	contribute to	reproductive health burden
+Sexually transmitted infections	impact	public health resources

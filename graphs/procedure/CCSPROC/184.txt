@@ -1,0 +1,126 @@
+intraoperative cholangiogram	is a	imaging modality
+intraoperative cholangiogram	is used during	cholecystectomy
+intraoperative cholangiogram	visualizes	biliary tree
+intraoperative cholangiogram	identifies	biliary anatomy
+intraoperative cholangiogram	detects	common bile duct stones
+intraoperative cholangiogram	reveals	ductal anatomy
+intraoperative cholangiogram	provides	real-time imaging
+intraoperative cholangiogram	uses	iodinated contrast
+iodinated contrast	is a	radiopaque agent
+intraoperative cholangiogram	employs	fluoroscopy
+fluoroscopy	provides	real-time imaging
+common bile duct	is visualized by	intraoperative cholangiogram
+biliary tree	is imaged by	intraoperative cholangiogram
+biliary anatomy	is clarified by	intraoperative cholangiogram
+ductal anatomy	is delineated by	intraoperative cholangiogram
+cystic duct	is identified by	intraoperative cholangiogram
+intraoperative cholangiogram	guides	cystic duct identification
+intraoperative cholangiogram	aids	surgical decision-making
+intraoperative cholangiogram	shows	anatomic variants
+anatomic variants	are revealed by	intraoperative cholangiogram
+intraoperative cholangiogram	assists	stone localization
+stone localization	supports	stone clearance planning
+stone clearance planning	informs	biliary drainage planning
+intraoperative cholangiogram	may extend	operative time
+operative time	is affected by	intraoperative cholangiogram
+intraoperative cholangiogram	increases	radiation exposure
+radiation exposure	is associated with	fluoroscopy
+iodinated contrast	requires	injection
+contrast injection	yields	ductal opacification
+ductal opacification	enables	visualization of ductal anatomy
+visualization of ductal anatomy	improves	ductal anatomy clarity
+ductal anatomy clarity	improves	surgical planning
+surgical planning	relies on	IOC findings
+IOC findings	inform	intraoperative strategy
+intraoperative cholangiogram	helps detect	biliary leak
+biliary leak	is detected by	intraoperative cholangiogram
+intraoperative cholangiogram	helps define	bile duct anatomy
+bile duct anatomy	is defined by	intraoperative cholangiogram
+intraoperative cholangiogram	visualizes	biliary ducts
+biliary ducts	are visualized by	intraoperative cholangiogram
+intraoperative cholangiogram	confirms	ductal patency
+ductal patency	is assessed by	intraoperative cholangiogram
+intraoperative cholangiogram	aids	ductal injury avoidance
+ductal injury avoidance	is supported by	intraoperative cholangiogram
+common bile duct stones	may be detected by	intraoperative cholangiogram
+stone detection	is achieved by	intraoperative cholangiogram
+contrast injection	is performed through	cholangiography catheter
+cholangiography catheter	is used for	contrast delivery
+contrast delivery	occurs via	cholangiography catheter
+intraoperative cholangiogram	is associated with	gallbladder surgery
+gallbladder surgery	includes	cholecystectomy with IOC
+cholecystectomy	sometimes requires	IOC
+intraoperative cholangiogram	requires	fluoroscopic imaging
+fluoroscopic imaging	relies on	X-ray
+intraoperative cholangiogram	provides	intraoperative guidance
+intraoperative cholangiogram	contributes	surgical safety
+surgical safety	is enhanced by	intraoperative cholangiogram
+intraoperative cholangiogram	supports	anatomical mapping
+anatomical mapping	informs	dissection strategy
+dissection strategy	depends on	biliary anatomy visualization
+biliary anatomy visualization	facilitates	safe dissection
+intraoperative cholangiogram	facilitates	bile duct preservation
+bile duct preservation	relies on	accurate IOC interpretation
+IOCs interpretation	requires	radiology expertise
+radiology expertise	develops	in high-volume centers
+intraoperative cholangiogram	aligns with	preoperative imaging
+preoperative imaging	includes	MRCP
+MRCP	is used for	biliary assessment
+biliary assessment	informs	operative planning
+intraoperative cholangiogram	complements	MRCP findings
+MRCP findings	may correlate with	IOC results
+ IOC results	guide	intraoperative decisions
+intraoperative cholangiogram	supports	operative planning
+operative planning	aims at	reducing complications
+reducing complications	is a goal of	IOC use
+complication reduction	is associated with	thorough IOC evaluation
+thorough IOC evaluation	improves	anatomy recognition
+anatomy recognition	reduces	misinterpretation risk
+misprediction risk	is mitigated by	IOC imaging
+imaging modality	contributes to	surgical navigation
+surgical navigation	relies on	real-time imaging
+real-time imaging	enables	prompt corrective actions
+prompt corrective actions	improve	outcomes
+outcomes	are influenced by	IOC quality of visualization
+IOC quality of visualization	depends on	contrast adequacy
+contrast adequacy	depends on	timing of injection
+timing of injection	affects	duct opacification quality
+duct opacification quality	determines	ductal delineation success
+delineation success	influences	dissection plan
+dissection plan	guides	intraoperative steps
+intraoperative steps	are executed	with IOC feedback
+IOC feedback	informs	tissue planes identification
+tissue planes identification	supports	safe dissection
+safe dissection	reduces	collateral injury
+collateral injury	is minimized by	precise IOC interpretation
+precise IOC interpretation	requires	radiologist collaboration
+radiologist collaboration	occurs in	tertiary centers
+tertiary centers	typically offer	IOC services
+IOC services	include	fluoroscopy and contrast supply
+fluoroscopy and contrast supply	define	imaging setup
+imaging setup	requires	sterile technique
+sterile technique	is essential for	IOC procedure
+IOC procedure	duration	varies with case complexity
+case complexity	influences	IOC duration
+intraoperative cholangiogram	contributes to	biliary safety profile
+biliary safety profile	informs	patient counseling
+patient counseling	addresses	intraoperative risks
+risk disclosure	is part of	surgical consent
+surgical consent	references	IOC risks and benefits
+intraoperative cholangiogram	has	diagnostic value
+diagnostic value	relates to	ductal patency assessment
+ductal patency assessment	is part of	IOC protocol
+IOC protocol	standardizes	contrast delivery timing
+contrast delivery timing	affects	duct visualization quality
+duct visualization quality	correlates with	stone detection rate
+stone detection rate	influences	stone management strategy
+stone management strategy	determines	postoperative plan
+postoperative plan	includes	monitoring for biliary complications
+monitoring for biliary complications	is part of	postoperative care
+postoperative care	benefits from	IOC documented findings
+IOC documented findings	are recorded in	operative report
+operative report	serves	medico-legal documentation
+medico-legal documentation	uses	IOC imaging evidence
+intraoperative cholangiogram	is a	diagnostic imaging procedure
+diagnostic imaging procedure	is standard in	hepatobiliary surgery
+hepatobiliary surgery	frequently utilizes	IOC

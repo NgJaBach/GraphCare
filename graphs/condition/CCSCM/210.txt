@@ -1,0 +1,25 @@
+systemic lupus erythematosus	coexists with	dermatomyositis
+systemic lupus erythematosus	coexists with	polymyositis
+systemic lupus erythematosus	coexists with	systemic sclerosis
+systemic lupus erytheto s	coexists with	Sjogren syndrome
+systemic lupus erythematosus	coexists with	mixed connective tissue disease
+rheumatoid arthritis	coexists with	systemic lupus erythematosus
+antiphospholipid syndrome	coexists with	systemic lupus erythematosus
+mixed connective tissue disease	overlaps with	systemic lupus erythematosus
+overlap syndrome	describes	systemic lupus erythematosus and connective tissue disorders
+antinuclear antibody	is a marker for	systemic lupus erythematosus
+anti-dsDNA antibody	is a marker for	systemic lupus erythematosus
+Smith antigen	is a target in	systemic lupus erythematosus
+anti-Smith antibody	is a specific marker for	systemic lupus erythematosus
+anti-RNP antibody	is associated with	mixed connective tissue disease
+anticardiolipin antibody	is associated with	antiphospholipid syndrome
+lupus anticoagulant	is associated with	antiphospholipid syndrome
+beta-2 glycoprotein I antibody	is associated with	antiphospholipid syndrome
+ANA positivity	is common in	systemic lupus erythematosus
+complement C3	is low in	systemic lupus erythematosus
+complement C4	is low in	systemic lupus erythematosus
+anti-Ro/SSA antibody	is associated with	neonatal lupus
+anti-Ro/SSA antibody	is associated with	Sjogren syndrome
+anti-La/SSB antibody	is associated with	Sjogren syndrome
+HLA-DR2	is associated with	systemic lupus erythematosus
+HLA-DR3	is associated with	systemic lupus erythematosus

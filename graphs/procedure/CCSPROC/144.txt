@@ -1,0 +1,100 @@
+facial fracture	is a	medical condition
+facial dislocation	is a	medical condition
+mandible fracture	is a	type of facial fracture
+maxillary fracture	is a	type of facial fracture
+zygomatic fracture	is a	type of facial fracture
+nasal fracture	is a	type of facial fracture
+orbital fracture	is a	type of facial fracture
+LeFort II fracture	is a subtype of	midface fracture
+LeFort III fracture	is a subtype of	midface fracture
+midface fracture	is a	facial fracture
+orbital floor fracture	is a subtype of	orbital fracture
+nasal fracture	managed by	closed reduction
+nasal fracture	managed by	open reduction
+mandible fracture	treated by	open reduction
+mandible fracture	treated by	closed reduction
+mandible fracture	treated by	rigid fixation
+mandible fracture	treated by	maxillomandibular fixation
+maxillomandibular fixation	is used for	mandible fracture
+open reduction	used for	midface fracture
+internal fixation	used for	facial fracture
+external fixation	used for	facial fracture
+plate fixation	used for	mandibular fracture
+dental injury	managed by	occlusal adjustment
+facial fracture	causes	malocclusion
+nasal fracture	causes	nasal deformity
+orbital fracture	causes	enophthalmos
+zygomatic fracture	causes	facial asymmetry
+mandible fracture	causes	malocclusion
+facial fracture	requires	imaging
+nasal fracture	requires	imaging
+orbital fracture	requires	imaging
+facial fracture	requires	anesthesia
+facial fracture	requires	surgery
+imaging	used for	fracture assessment
+CT scan	part of	fracture assessment
+CT scan	provides	fracture localization
+radiograph	detects	fracture
+imaging	guides	fracture reduction
+intraoperative imaging	improves	reduction accuracy
+orbital fracture	requires	orbital reconstruction
+nasal fracture	requires	nasal reconstruction
+mandible fracture	requires	anesthesia
+open reduction and internal fixation	provides	skeletal stability
+surgical fixation	provides	rigid stability
+surgical procedure	performed for	facial fracture
+anesthesia	administered for	facial surgery
+analgesia	provided for	postoperative pain
+antibiotic prophylaxis	prevents	infection
+infection	threatens	surgical outcome
+hardware failure	rare complication of	fixation
+hardware exposure	occurs after	open reduction and fixation
+trismus	associated with	facial fracture
+edema	accompanies	facial fracture
+diplopia	associated with	orbital fracture
+infraorbital nerve injury	risk with	orbital fracture
+nasolacrimal duct injury	risk with	midface fracture
+facial nerve injury	risk with	zygomatic fracture
+open reduction	reduces	fracture displacement
+internal fixation	reduces	malocclusion risk
+maxillofacial surgeon	manages	facial fracture
+plastic surgeon	consulted for	aesthetic outcome
+trauma center	handles	facial fracture
+dental evaluation	necessary for	facial fracture management
+airway management	priority in	facial trauma
+tracheostomy	considered for	severe facial trauma
+bone plating	used for	skeletal stabilization
+bone grafting	used for	large facial defect
+bone healing	occurs after	fracture stabilization
+occlusal stabilization	achieved by	maxillomandibular fixation
+occlusion	restored by	dental rehabilitation
+orthodontic therapy	used for	malocclusion
+cosmetic outcome	improved by	definitive fixation
+cosmetic deformity	prevented by	proper reduction
+enophthalmos	corrected by	orbital reconstruction
+nasal obstruction	consequences of	nasal fracture
+infraorbital neuropathy	risk with	orbital fracture
+facial trauma	requires	airway protection
+midface fracture	requires	surgical repair
+orbital rim fracture	treated by	bone grafting
+zygomatic arch fracture	treated by	reduction and fixation
+orbital fracture	treated by	orbital reconstruction
+LeFort II fracture	treated by	reduction and fixation
+LeFort III fracture	treated by	reduction and fixation
+facial fracture	prognosis depends on	fracture extent
+patient	prognosis depends on	fracture severity
+age	impacts	fracture healing
+smoking	delays	fracture healing
+diabetes	delays	fracture healing
+osteoporosis	increases	fracture risk
+bone graft	required for	large defect
+osteosynthesis	achieves	fracture stabilization
+dental rehabilitation	follows	fracture repair
+orthognathic surgery	part of	maxillofacial reconstruction
+airway management	priority in	facial trauma
+dental injury	associated with	tooth loss
+postoperative wound care	essential for	healing
+fixation stability	facilitates	bone healing
+intraoperative navigation	improves	fracture reduction accuracy
+orthognathic procedure	contributes to	functional outcome
+cosmetic stabilization	supports	facial contour

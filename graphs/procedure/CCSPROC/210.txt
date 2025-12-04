@@ -1,0 +1,100 @@
+bone scan	detects	bone metastasis
+bone scan	shows	skeletal metastasis
+bone scan	used for	cancer staging
+bone scan	indicates	osseous lesion
+thyroid scan	detects	thyroid nodules
+thyroid scan	evaluates	thyroid function
+thyroid scan	localizes	thyroid tissue
+thyroid scan	used for	hyperthyroidism diagnosis
+gallium scan	detects	infection
+gallium scan	detects	tumor
+gallium scan	localizes	lymphoma
+gallium scan	evaluates	inflammatory process
+MIBG scan	detects	pheochromocytoma
+MIBG scan	localizes	neuroendocrine tumor
+MIBG scan	assesses	adrenergic tumor
+MIBG scan	images	cardiac tissue
+octreotide scan	detects	neuroendocrine tumor
+octreotide scan	localizes	somatostatin receptor positive tumor
+octreotide scan	evaluates	receptor expression
+octreotide scan	used for	tumor staging
+lymphoscintigraphy	identifies	sentinel lymph node
+lymphoscintigraphy	assesses	lymphatic drainage
+lymphoscintigraphy	images	lymphatic tissue
+lymphoscintigraphy	used for	cancer staging
+sentinel lymph node scintigraphy	identifies	sentinel lymph node
+sentinel lymph node scintigraphy	guides	biopsy decision
+sentinel lymph node scintigraphy	assesses	nodal metastasis
+sentinel lymph node scintigraphy	used for	cancer staging
+HIDA scan	assesses	biliary function
+HIDA scan	detects	biliary obstruction
+HIDA scan	images	hepatobiliary tract
+HIDA scan	measures	bilirubin excretion
+hepatobiliary scan	assesses	bile flow
+hepatobiliary scan	detects	biliary obstruction
+hepatobiliary scan	images	liver and gallbladder
+hepatobiliary scan	aids	cholecystitis evaluation
+DTPA renal scan	assesses	glomerular filtration
+DTPA renal scan	measures	renal uptake
+DTPA renal scan	detects	renal perfusion
+DTPA renal scan	evaluates	renal function
+MAG3 renal scan	assesses	tubular function
+MAG3 renal scan	measures	tubular excretion
+MAG3 renal scan	detects	renal perfusion
+MAG3 renal scan	evaluates	drainage
+DMSA scan	images	renal cortex
+DMSA scan	assesses	cortical scar
+DMSA scan	evaluates	renal cortical function
+DMSA scan	detects	cortical scarring
+myocardial perfusion imaging	assesses	myocardial perfusion
+myocardial perfusion imaging	detects	ischemia
+myocardial perfusion imaging	localizes	myocardial infarction
+myocardial perfusion imaging	informs	risk stratification
+V/Q scan	detects	ventilation-perfusion mismatch
+V/Q scan	assesses	pulmonary perfusion
+V/Q scan	screens for	pulmonary embolism
+V/Q scan	evaluates	ventilation
+SPECT scan	provides	functional information
+SPECT scan	localizes	perfusion defect
+SPECT scan	complements	planar imaging
+SPECT scan	detects	ischemia
+planar scintigraphy	depicts	organ function
+planar scintigraphy	visualizes	uptake distribution
+planar scintigraphy	used for	screening
+planar scintigraphy	images	organ uptake
+gamma camera imaging	visualizes	radiotracer distribution
+gamma camera imaging	detects	uptake pattern
+gamma camera imaging	used for	planar imaging
+gamma camera imaging	assesses	organ perfusion
+radionuclide ventriculography	evaluates	ejection fraction
+radionuclide ventriculography	measures	ventricular function
+radionuclide ventriculography	detects	wall motion abnormalities
+radionuclide ventriculography	images	left ventricle
+thyroid uptake test	measures	iodine uptake
+thyroid uptake test	assesses	thyroid function
+thyroid uptake test	localizes	thyroid tissue
+thyroid uptake test	evaluates	thyroid status
+parathyroid scintigraphy	localizes	parathyroid adenoma
+parathyroid scintigraphy	assesses	hyperparathyroidism
+parathyroid scintigraphy	images	parathyroid tissue
+parathyroid scintigraphy	guides	surgical planning
+indium-111 leukocyte scan	localizes	infection
+indium-111 leukocyte scan	detects	inflammatory focus
+indium-111 leukocyte scan	supports	infection diagnosis
+indium-111 leukocyte scan	images	inflammatory tissue
+gallium-67 scan	detects	lymphoma
+gallium-67 scan	localizes	occult infection
+gallium-67 scan	images	inflammatory tissue
+gallium-67 scan	helps	infection imaging
+pyrophosphate bone scan	detects	bone metastasis
+pyrophosphate bone scan	images	skeletal abnormalities
+pyrophosphate bone scan	assesses	osteoblastic activity
+pyrophosphate bone scan	used for	fracture evaluation
+thallium scan	detects	myocardial ischemia
+thallium scan	images	myocardial perfusion
+thallium scan	used for	viability testing
+thallium scan	evaluates	myocardial blood flow
+Iodine-131 whole-body scan	screens	thyroid cancer metastasis
+Iodine-131 whole-body scan	detects	residual thyroid tissue
+Iodine-131 whole-body scan	monitors	therapy response
+Iodine-131 whole-body scan	images	whole-body uptake

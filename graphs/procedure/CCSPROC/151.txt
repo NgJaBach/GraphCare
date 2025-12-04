@@ -1,0 +1,100 @@
+meniscectomy	is a	medical procedure
+meniscus	is a	knee cartilage
+degenerative tear	is treated by	meniscectomy
+torn meniscus	causes	knee pain
+partial meniscectomy	is a type of	meniscectomy
+arthroscopy	is used for	meniscectomy
+anesthesia	is used in	meniscectomy
+general anesthesia	is used in	knee surgery
+spinal anesthesia	is used in	knee surgery
+outpatient surgery	is common for	meniscectomy
+length of stay	is short after	outpatient surgery
+ambulation	is encouraged after	meniscectomy
+weight bearing	is progressed after	meniscectomy
+physical therapy	is essential after	meniscectomy
+range of motion	improves with	rehabilitation
+pain control	is important after	meniscectomy
+NSAIDs	are used for	analgesia
+opioid analgesia	is used for	postoperative pain
+antibiotic prophylaxis	is recommended for	knee surgery
+infection	is a potential complication of	knee surgery
+arthrofibrosis	is a complication of	knee surgery
+knee stiffness	is associated with	arthrofibrosis
+deep vein thrombosis	is a possible complication of	knee surgery
+pulmonary embolism	is a possible complication of	knee surgery
+bleeding	is a possible complication of	knee surgery
+neurovascular injury	is a rare complication of	knee surgery
+short-term functional improvement	occurs after	meniscectomy
+long-term osteoarthritis risk	increases after	meniscectomy
+medial meniscus	is commonly injured in	knee injuries
+lateral meniscus	is less commonly injured in	knee injuries
+medial meniscectomy	removes	medial meniscus
+partial meniscectomy	preserves	meniscal tissue
+total meniscectomy	removes	entire meniscus
+meniscal repair	preserves	meniscus
+arthroscopic debridement	is related to	meniscectomy
+knee range of motion	is limited after	meniscectomy
+physical therapy adherence	predicts	recovery outcome
+athlete	desires	rapid return to sport
+return to sport	is possible after	meniscectomy
+return to running	requires	progressive rehab
+work disability	is lengthened by	knee surgery
+cost	is increased by	knee surgery
+readmission	is possible after	knee surgery
+outpatient discharge	occurs after	uncomplicated meniscectomy
+infection prevention	reduces risk of	postoperative infection
+blood loss	is minimal in	arthroscopic procedures
+tear complexity	correlates with	operative time
+tear pattern	influences	surgical approach
+meniscectomy	changes	knee biomechanics
+knee biomechanics	are altered after	meniscectomy
+meniscus	cushions	tibiofemoral joint
+load distribution	is altered by	meniscectomy
+osteoarthritis	risk increases after	meniscectomy
+age	predicts	outcomes after meniscectomy
+obesity	worsens	knee recovery after surgery
+diabetes mellitus	increases	infection risk after surgery
+smoking	impairs	wound healing after knee surgery
+rehabilitation program	improves	knee function
+quad strengthening	improves	knee stability
+knee stability	reduces	fall risk
+return to driving	depends on	surgeon clearance
+postoperative instructions	improve	adherence
+MRI	confirms	meniscal tear
+X-ray	shows	osteoarthritis changes
+preoperative counseling	improves	informed consent
+home exercise program	complements	formal physical therapy
+knee brace	provides	stabilization after surgery
+return to work	depends on	job demands
+osteoarthritis progression	influenced by	prior meniscectomy
+arthroscopy	allows	tissue sampling
+arthroscopic shaver	removes	meniscal tissue
+operative time	correlates with	tear complexity
+physical therapy	reduces	swelling
+swelling	resolves with	rehabilitation
+joint effusion	resolves with	physical therapy
+infection	treated with	antibiotics
+antibiotic prophylaxis	reduces	postoperative infection
+deep infection	requires	surgical debridement
+superficial infection	treated with	antibiotics
+knee effusion	reduces with	rehabilitation
+blood transfusion	rarely required for	meniscectomy
+anesthesia recovery	occurs during	postoperative period
+nausea	occurs after	anesthesia
+vomiting	occurs after	anesthesia
+postoperative fever	indicates	infection
+exercise tolerance	improves after	rehab
+bone healing	occurs after	surgery
+scar formation	occurs after	surgery
+clinic follow-up	occurs at	two weeks
+suture removal	occurs at	two weeks after surgery
+wound healing	completes by	four weeks
+scar	forms after	surgery
+sutures	are removed after	wound healing
+postoperative rehabilitation	begins after	discharge
+return to sports	achieved after gradual rehab
+ACL	is adjacent to	meniscus
+PCL	is posterior to	meniscus
+surgeon experience	improves	outcomes
+facility accreditation	improves	patient safety
+clinical pathway	standardizes	care

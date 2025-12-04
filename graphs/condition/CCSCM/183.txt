@@ -1,97 +1,201 @@
-hypertension complicating pregnancy	is a	hypertensive disorder of pregnancy
-gestational hypertension	is a	hypertensive disorder of pregnancy
-preeclampsia	is a	hypertensive disorder of pregnancy
-preeclampsia	may cause	placental abruption
-preeclampsia	increases risk of	fetal growth restriction
+gestational hypertension	is a	pregnancy complication
+preeclampsia	is a	pregnancy complication
+chronic hypertension	complicates	pregnancy
+preeclampsia with severe features	requires	delivery
+proteinuria	signals	preeclampsia
+preeclampsia	diagnosed by	proteinuria
+preeclampsia	diagnosed by	hypertension
+magnesium sulfate	used for	seizure prophylaxis in preeclampsia
+labetalol	used for	blood pressure control in pregnancy
+nifedipine	used for	blood pressure control in pregnancy
+hydralazine	used for	acute severe hypertension in pregnancy
+ACE inhibitors	contraindicated in	pregnancy
+ARBs	contraindicated in	pregnancy
+low-dose aspirin	prevents	preeclampsia in high-risk pregnancy
+obesity	increases risk for	gestational hypertension
+diabetes mellitus	increases risk for	preeclampsia
+chronic kidney disease	increases risk for	hypertension during pregnancy
+systemic lupus erythematosus	increases risk for	preeclampsia
+multiple gestation	increases risk for	preeclampsia
+advanced maternal age	increases risk for	preeclampsia
+placental dysfunction	underlies	preeclampsia
+placental abruption	associated with	hypertensive disorders of pregnancy
+HELLP syndrome	is a	variant of preeclampsia
+thrombocytopenia	occurs in	HELLP syndrome
+eclampsia	arises from	preeclampsia
+eclampsia	causes	seizures
+postpartum hypertension	occurs in	puerperium
+gestational hypertension	may progress to	preeclampsia
+preeclampsia with severe features	managed with	delivery
+delivery	is treatment for	preeclampsia
+fetal growth restriction	associated with	hypertensive disorders of pregnancy
+preterm birth	associated with	hypertensive disorders of pregnancy
+placental insufficiency	linked to	fetal growth restriction
+magnesium sulfate	reduces risk of	seizures in preeclampsia
+proteinuria	is a sign of	preeclampsia
+liver dysfunction	occurs in	HELLP syndrome
+elevated liver enzymes	occur in	HELLP syndrome
+platelet count	decreases in	HELLP syndrome
+delivery before term	occurs in	preeclampsia
+cesarean delivery	more common in	preeclampsia
+neonatal intensive care unit admission	associated with	hypertensive disorders of pregnancy
+neonatal mortality	increased with	preeclampsia
+maternal mortality	increased with	preeclampsia
+uric acid	elevated in	preeclampsia
+HELLP syndrome	presents with	hemolysis
+HELLP syndrome	presents with	thrombocytopenia
+postpartum period	requires	blood pressure monitoring
+puerperium	defined as	postpartum period
+delivery timing	determined by	maternal status
+fetal monitoring	recommended in	hypertensive pregnancy
+ultrasound	used for	fetal growth assessment in hypertensive pregnancy
+Doppler velocimetry	used for	placental perfusion assessment in hypertensive pregnancy
+risk assessment	performed for	hypertensive disorders of pregnancy
+education	provided to	pregnant with hypertension
+sodium restriction	recommended in	pregnancy with hypertension
+physical activity guidance	given to	women with gestational hypertension
+aspirin therapy	indicated for	high-risk hypertensive pregnancy
+calcium channel blocker	is a	drug class used for
+nifedipine	is a	calcium channel blocker
+beta-blocker	is a	drug class used in pregnancy
+labetalol	is a	beta-blocker
+labetalol	used for	BP control in pregnancy
+methyldopa	used for	BP control in pregnancy
+delivery timing	influenced by	maternal and fetal condition
+fetal growth assessment	performed by	ultrasound
+placental perfusion	assessed by	Doppler velocimetry
+urine protein	detected by	dipstick
+proteinuria	quantified by	dipstick
+maternal hemodynamics	altered in	preeclampsia
+uteroplacental perfusion	reduced in	hypertensive pregnancy
+angiogenic imbalance	present in	preeclampsia
+endothelial dysfunction	central to	preeclampsia
+risk factors	include	obesity
+risk factors	include	diabetes mellitus
+risk factors	include	chronic hypertension
+risk factors	include	autoimmune disease
+placental ischemia	contributes to	preeclampsia
+hypertensive disorders	cause	fetal growth restriction
+maternal hypertension	increases risk of	cesarean delivery
+fetal distress	associated with	placental abruption
+placental abruption	leads to	cesarean delivery
+NICU admission	for neonate with	hypertensive disorder
+neonatal respiratory distress	associated with	preeclampsia
 preeclampsia	increases risk of	preterm birth
-preeclampsia	associated with	placental insufficiency
-preeclampsia	associated with	renal dysfunction
-preeclampsia	associated with	liver dysfunction
-eclampsia	is a	convulsive disorder
-HELLP syndrome	is a	severe complication of preeclampsia
-placental abruption	is a	obstetric emergency
-fetal growth restriction	is a	complication of hypertensive disorders of pregnancy
-fetal distress	is a	complication of hypertensive disorders of pregnancy
-neonatal intensive care unit admission	is a	neonatal complication associated with preeclampsia
-stillbirth	is a	possible outcome of severe preeclampsia
-preterm birth	is a	delivery-related outcome of hypertensive disorders
-uteroplacental insufficiency	leads to	fetal hypoxia
-fetal hypoxia	causes	neonatal organ injury
-maternal mortality	is a	possible outcome of severe hypertensive disorders
-nulliparity	is a	risk factor for preeclampsia
-obesity	is a	risk factor for preeclampsia
-diabetes mellitus	is a	risk factor for preeclampsia
-chronic hypertension	is a	risk factor for preeclampsia
-multiple gestation	is a	risk factor for preeclampsia
-older maternal age	is a	risk factor for preeclampsia
-family history of preeclampsia	is a	risk factor for preeclampsia
-smoking	reduces risk	preeclampsia
-chronic kidney disease	is a	risk factor for preeclampsia
-hypertension prior to pregnancy	is a	risk factor for preeclampsia
-stroke	is a	maternal complication of hypertensive disorders of pregnancy
-renal failure	is a	maternal complication of preeclampsia
-DIC	is a	possible complication of severe preeclampsia
-hepatic rupture	is a	rare complication of preeclampsia
-pulmonary edema	is a	possible complication of preeclampsia
-acute kidney injury	is a	possible complication of preeclampsia
-coagulopathy	is a	complication of HELLP syndrome
-uteroplacental dysfunction	is a	mechanism in preeclampsia
-placental insufficiency	is a	cause of fetal growth restriction
-placental abruption	can cause	fetal distress
-perinatal morbidity	is increased by	hypertensive disorders of pregnancy
-neonatal mortality	is increased by	hypertensive disorders of pregnancy
-low birth weight	is a	consequence of fetal growth restriction
-prematurity	is a	consequence of preeclampsia
-neonatal respiratory distress syndrome	is a	complication of prematurity
-neonatal jaundice	is a	complication of prematurity
-fetal demise	is a	possible outcome of severe preeclampsia
-placental vascular malperfusion	is a	placental lesion in preeclampsia
-umbilical artery Doppler	is used for	fetal well-being assessment in hypertensive pregnancy
-fetal biometry	is used for	growth monitoring in hypertension in pregnancy
-magnesium sulfate	is used for	seizure prophylaxis in preeclampsia
-labetalol	is used for	blood pressure control in pregnancy
-hydralazine	is used for	blood pressure control in pregnancy
-nifedipine	is used for	blood pressure control in pregnancy
-methyldopa	is used for	long-term blood pressure control in pregnancy
-low-dose aspirin	is used for	preeclampsia prevention in high-risk
-antiplatelet therapy	is used for	preeclampsia prevention in high-risk
-delivery	is the definitive management for	severe preeclampsia
-cesarean delivery	is performed for	fetal distress in preeclampsia
-vaginal delivery	may be performed for	mild preeclampsia
-gestational age	influences	mode of delivery
-emergency cesarean delivery	is performed for	nonreassuring fetal status in preeclampsia
-blood pressure monitoring	is essential for	management of hypertension in pregnancy
-urine protein testing	is used for	diagnosis of preeclampsia
-urine dipstick testing	is used for	proteinuria detection in pregnancy
-proteinuria	is a diagnostic criterion of	preeclampsia
-uric acid	is elevated in	preeclampsia
-placental growth factor	is decreased in	preeclampsia
-sFLT-1	is increased in	preeclampsia
-ACE inhibitors	are contraindicated in	pregnancy
-antenatal corticosteroids	are given for	fetal lung maturity in preterm birth due to preeclampsia
-umbilical artery Doppler	indicates	placental insufficiency in hypertensive pregnancy
-fetal growth monitoring	is performed for	pregnancy with hypertension
-postpartum hypertension	requires	monitoring
-postpartum magnesium sulfate	is used for	seizure prophylaxis postpartum
-delivery planning	is guided by	severity of preeclampsia
-DIC screening	is performed for	HELLP syndrome
-platelet count	is decreased in	HELLP syndrome
-liver enzymes	are elevated in	HELLP syndrome
-clinical signs	indicate	severe preeclampsia
-proteinuria testing	supports	preeclampsia diagnosis
-umbilical cord insertion	patterns	placental pathology in preeclampsia
-uterine perfusion	is impaired in	placental insufficiency
-placental bed	exhibits	inadequate remodeling in preeclampsia
-neonatal outcome	is influenced by	severity of maternal preeclampsia
-proteinuria testing	aids	preeclampsia diagnosis
-antihypertensive therapy	reduces risk of	maternal stroke in pregnancy
-diagnostic criteria	define	hypertensive disorders of pregnancy
-monitoring frequency	depends on	severity of preeclampsia
-delivery timing	is determined by	fetal status in preeclampsia
-fetal well-being	is monitored by	nonstress test in hypertension in pregnancy
-neonatal outcome	correlates with	gestational age at delivery
-weight gain	monitored for	pregnancy with hypertension
-platelet count	decreases with	HELLP syndrome
-bilirubin	rises with	HELLP syndrome
-creatinine	rises with	renal involvement in preeclampsia
-transfusion	may be required for	obstetric hemorrhage in preeclampsia
+postpartum antihypertensive management	involves	labetalol
+postpartum antihypertensive management	involves	nifedipine
+postpartum antihypertensive management	involves	hydralazine
+postpartum magnesium sulfate	may be continued for	seizure prophylaxis
+risk stratification	guides	delivery planning
+fetal wellbeing	monitored by	nonstress test
+nonstress test	used for	fetal wellbeing assessment
+delivery planning	guided by	maternal condition
+blood pressure goal in pregnancy	defined as	<140/90 mmHg
+severe hypertension threshold	defined as	≥160/110 mmHg
+uric acid	used as	biomarker for preeclampsia risk
+platelet count	used for	HELLP screening
+liver function tests	used for	HELLP screening
+coagulation profile	monitored in	HELLP
+platelet transfusion	required for	severe HELLP
+risk of cesarean delivery	higher with	placenta previa
+placenta previa	risk factor for	cesarean delivery
+preeclampsia	may present with	headaches
+preeclampsia	may present with	visual disturbances
+preeclampsia	may present with	epigastric pain
+epigastric pain	may indicate	liver involvement
+epidural analgesia	considerations in	hypertensive pregnancy
+labor	may be expedited by	delivery in severe preeclampsia
+uterine shear	risk with	hypertensive pregnancy
+placental aging	accelerated in	hypertensive pregnancy
+anticoagulation	considerations in	HELLP
+neonatal sepsis risk	increased with	preeclampsia
+fetal growth velocity	slowed in	hypertensive pregnancy
+placental calcification	more common in	hypertensive pregnancy
+abnormal fetal aPLI	associated with	preeclampsia
+intrauterine fetal demise	risk increased with	placental abruption
+postpartum depression	risk increased with	complicated pregnancy
+maternal fatigue	associated with	severe preeclampsia
+antenatal corticosteroids	used for	fetal lung maturity in preterm delivery
+fetal lung maturity	anticipated with	antenatal corticosteroids
+preterm delivery	influenced by	maternal condition
+maternal oxygenation	important in	severe preeclampsia
+neonatal bilirubin	risk increased with	prematurity
+neonatal hypoglycemia	risk increased with	prematurity
+neonatal NICU stay	lengthened by	fetal growth restriction
+mother-infant bonding	affected by	maternal hypertension
+joint maternal-fetal management	essential in	hypertensive pregnancy
+obstetric team	responsible for	hypertensive pregnancy care
+fetal reserve	evaluated in	hypertensive pregnancy
+renal function	monitored in	severe preeclampsia
+hepatic function	monitored in	HELLP
+platelet transfusion threshold	defined for	HELLP
+postpartum hydration status	monitored in	hypertensive pregnancy
+blood pressure variability	associated with	adverse outcomes in pregnancy
+protein-to-creatinine ratio	used for	proteinuria assessment
+urine albumin-to-creatinine ratio	used for	proteinuria assessment
+neonatal morbidity	increased with	maternal preeclampsia
+maternal seizures	risk in	eclampsia
+fetal growth trajectory	impacted by	placental insufficiency
+paternal genetics	contribute to	preeclampsia risk
+lipid abnormalities	observed in	hypertensive pregnancy
+diastolic pressure	target range	during pregnancy
+systolic pressure	target range	during pregnancy
+blood pressure med safety	considered in	pregnancy
+drug teratogenicity	concerns in	antihypertensives
+fetal ultrasound	frequency	ongoing in hypertensive pregnancy
+neonatal jaundice	risk increased with	prematurity
+maternal anemia	may accompany	hypertensive pregnancy
+thyroid function	evaluated in	hypertensive pregnancy
+iron supplementation	recommended in	pregnancy with hypertension
+fetal cardiac monitoring	considered in	severe preeclampsia
+fetal growth velocity	monitored with	serial ultrasounds
+placental reserve	reduced in	hypertensive disorders
+pregnancy outcome	worsened by	hypertensive disorders
+delivery planning	tailored to	maternal-fetal status
+antenatal care	essential for	hypertensive pregnancy
+postpartum follow-up	important after	hypertensive pregnancy
+long-term cardiovascular risk	increased after	preeclampsia
+future pregnancy planning	impacted by	prior preeclampsia
+screening for kidney disease	recommended after	preeclampsia
+liver function monitoring	recommended in	HELLP
+blood product availability	planned for	HELLP
+neonatal infection risk	increased with	prematurity
+maternal edema	common in	gestational hypertension
+placental aging	accelerated in	hypertensive pregnancy
+preconception counseling	advised for	women with chronic hypertension
+blood pressure self-monitoring	supported in	home care
+remote monitoring	feasible for	high-risk pregnancy
+maternal mental health	monitored in	hypertensive pregnancy
+fetal growth restriction	requires	serial ultrasounds
+antepartum fetal testing	recommended for	hypertensive pregnancy
+delivery by cesarean	indicated for	fetal distress with maternal instability
+fetal wellbeing	preserves	birth outcome
+pregnancy-induced hypertension	term used for	gestational hypertension
+gestational hypertension	defined by	new-onset hypertension after 20 weeks
+preeclampsia	defined by	hypertension and proteinuria or organ dysfunction
+neonatal growth restriction	consequence of	placental insufficiency
+antihypertensive therapy	adjusted for	gestational age
+postpartum antihypertensive therapy	continued for	several days after delivery
+blood pressure targets	adapted for	severe preeclampsia
+HELLP	risk of	disseminated intravascular coagulation
+maternal pulmonary edema	possible in	severe preeclampsia
+plasma volume expansion	limited in	preeclampsia
+proteinuria	persistent after	delivery
+recurrence risk	elevated for	women with prior preeclampsia
+anticoagulation considerations	in	HELLP
+neonatal respiratory support	required for	preterm infants
+intrauterine fetal demise	risk increased by	placental abruption
+placenta previa	complicates	delivery planning
+uterine atony	potential complication after	cesarean section
+obstetric anesthesia considerations	altered in	hypertensive pregnancy
+delivery logistics	complicated by	severe preeclampsia
+insurance coverage	impacts	access to hypertensive pregnancy care
+clinical guidelines	inform	management of hypertensive disorders of pregnancy
+care coordination	essential for	hypertensive pregnancy management
+patient education materials	tailored for	hypertensive pregnancy
+risk communication	critical in	hypertensive pregnancy
+care pathways	define	monitoring and delivery for hypertensive pregnancy
+outcome prediction	aided by	maternal blood pressure trajectory
+readmission risk	increased after	postpartum hypertensive disorders
+mortality risk prediction	informed by	degree of proteinuria
+neonatal NICU stay length	correlated with	severity of maternal hypertensive disorder

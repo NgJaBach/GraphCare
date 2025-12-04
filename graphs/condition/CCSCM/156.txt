@@ -1,100 +1,109 @@
 nephritis	is a	kidney inflammation
-nephrosis	is a	kidney disease
-renal sclerosis	is a	kidney scarring
+nephritis	is a type of	inflammatory kidney disease
+nephritis	causes	proteinuria
 nephritis	causes	hematuria
-nephrosis	causes	proteinuria
-renal sclerosis	causes	chronic kidney disease
-nephritis	leads to	chronic kidney disease
-nephrosis	leads to	nephrotic syndrome
-nephritis	treated with	corticosteroids
-nephrosis	treated with	diuretics
-renal sclerosis	treated with	antihypertensives
-nephritis	risk factor for	renal failure
-nephrosis	risk factor for	hypoalbuminemia
-nephritis	diagnosed by	urinalysis
-nephrosis	diagnosed by	biopsy
-renal sclerosis	diagnosed by	imaging
-nephritis	associated with	immune complex deposition
-nephrosis	associated with	hypoalbuminemia
-renal sclerosis	associated with	hypertension
-nephritis	associated with	edema
-nephrosis	associated with	hyperlipidemia
-renal sclerosis	associated with	anemia
-nephritis	can lead to	renal failure
-nephrosis	can progress to	end-stage renal disease
-renal sclerosis	can progress to	end-stage renal disease
-nephritis	may require	dialysis
-nephrosis	may require	dialysis
-renal sclerosis	may require	dialysis
-proteinuria	is feature of	nephrosis
-hypoalbuminemia	is feature of	nephrosis
-edema	is feature of	nephrosis
-anemia	is feature of	chronic kidney disease
-hypertension	is common in	nephritis
-diabetes mellitus	predisposes to	nephrosis
-diabetes mellitus	predisposes to	chronic kidney disease
-hypertension	predisposes to	renal sclerosis
-immune complex	associated with	nephritis
-complement	activates	nephritis
-glomerulus	damaged in	nephritis
-glomerulus	affected by	nephrosis
-tubules	damaged in	nephritis
-tubules	damaged in	nephrosis
-albumin	lost in	nephrosis
-proteinuria	leads to	hypoalbuminemia
-proteinuria	present in	nephrosis
-hematuria	present in	nephritis
-hematuria	indicates	glomerular disease
-creatinine	rises in	nephritis
-creatinine	rises in	nephrosis
-glomerular filtration rate	decreases in	nephrosis
-end-stage renal disease	can follow	chronic kidney disease
-dialysis	used for	end-stage renal disease
-hemodialysis	used for	end-stage renal disease
-peritoneal dialysis	used for	end-stage renal disease
-kidney transplant	indicated for	end-stage renal disease
-biopsy	used for	nephritis
-imaging	used for	renal sclerosis
-urinalysis	used for	nephritis
-urinalysis	detects	proteinuria
-urinalysis	detects	hematuria
-ACE inhibitors	used for	hypertension
-angiotensin receptor blockers	used for	hypertension
-diuretics	used for	edema
-immunosuppressants	used for	nephritis
-steroids	used for	nephritis
-steroids	used for	nephrosis
-protein loss	leads to	hypoalbuminemia
+nephritis	causes	edema
 nephritis	associated with	autoimmune disease
-nephrosis	associated with	autoimmune disease
-aging	associated with	renal sclerosis
-nephritis	presents with	fever
-fever	present in	nephritis
-lupus	associated with	nephritis
-lupus nephritis	is a	kidney disease
-diabetic nephropathy	is a type of	kidney disease
-diabetic nephropathy	causes	proteinuria
-hypertensive nephrosclerosis	is a type of	kidney disease
-hypertensive nephrosclerosis	associated with	aging
-glomerulonephritis	is a type of	nephritis
-glomerulosclerosis	is a type of	renal scarring
-nephrosis	part of	nephrotic syndrome
-lupus	associated with	lupus nephritis
-lupus nephritis	is a type of	nephritis
-diabetic nephropathy	is a type of	diabetic kidney disease
-diabetes mellitus	associated with	diabetic nephropathy
-glomerulopathy	is a type of	kidney disease
-glomerulopathy	associated with	proteinuria
-protein loss	causes	edema
-creatinine clearance	reduced in	nephrosis
-serum creatinine	increases in	nephritis
-serum creatinine	increases in	nephrosis
-glomerular filtration rate	declines with	aging
-aging	increases risk of	renal sclerosis
-infection	triggers	nephritis
-autoimmune disease	associated with	nephritis
-donor	provides	kidney
-donation	enables	kidney transplant
-dialysis	replaces	kidney function
-nephrology	is a	medical specialty
-ischemia	contributes to	renal sclerosis
+nephritis	associated with	infection
+nephritis	follows	streptococcal infection
+nephritis	leads to	acute kidney injury
+nephritis	progresses to	chronic kidney disease
+nephritis	decreases	GFR
+nephritis	diagnosed by	urinalysis
+nephritis	diagnosed by	renal biopsy
+nephritis	treated with	steroids
+nephritis	treated with	immunosuppressants
+nephritis	monitored by	serum creatinine
+nephritis	monitored by	urine protein
+nephritis	seen in	systemic lupus erythematosus
+nephritis	seen in	children
+nephritis	seen in	adults
+nephritis	associated with	hypertension
+nephritis	associated with	electrolyte disturbances
+nephritis	due to	immune complex deposition
+nephritis	presents with	proteinuria
+nephritis	presents with	hematuria
+nephritis	treated with	plasma exchange
+nephritis	risk factor for	dialysis
+nephritis	associated with	vasculitis
+nephritis	associated with	CKD progression
+nephritis	associated with	malnutrition
+nephritis	reduces	sodium excretion
+nephritis	increases	renin activity
+nephritis	can occur with	nephrotic syndrome
+nephritis	pathophysiology involves	immune dysregulation
+nephrosis	is a	kidney disease
+nephrosis	causes	edema
+nephrosis	causes	hypoalbuminemia
+nephrosis	causes	proteinuria
+nephrosis	includes	nephrotic syndrome
+nephrosis	associated with	hyperlipidemia
+nephrosis	treated with	corticosteroids
+nephrosis	treated with	ACE inhibitors
+nephrosis	responds to	steroids
+nephrosis	managed with	dietary modification
+nephrosis	associated with	obesity
+nephrosis	occurs in	children
+nephrosis	occurs in	adults
+nephrosis	linked to	minimal change disease
+nephrosis	linked to	focal segmental glomerulosclerosis
+nephrosis	risk of	infection
+nephrosis	risk of	thrombosis
+nephrosis	diagnosis by	urinalysis
+nephrosis	diagnosed by	nephrotic-range proteinuria
+nephrosis	pathophysiology involves	podocyte injury
+nephrosis	pathophysiology involves	glomerular basement membrane damage
+nephrosis	monitored by	serum albumin
+nephrosis	monitored by	urine protein
+nephrosis	progresses to	chronic kidney disease
+nephrosis	reduces	plasma oncotic pressure
+nephrosis	responds to	diuretics
+nephrosis	treated with	diuretics
+nephrosis	managed with	salt restriction
+nephrosis	associated with	nephrotic-range proteinuria
+nephrosis	results in	edema
+nephrosis	evaluation by	renal biopsy
+nephrosis	presents with	foamy urine
+nephrosis	increases	lipid synthesis
+nephrosis	associated with	dyslipidemia
+nephrosis	risk factor for	cardiovascular disease
+nephrosis	prognosis	uncertain
+nephrosis	occurs with	diabetes
+nephrosis	leads to	end-stage renal disease
+nephrosis	evaluation by	ultrasound
+nephrosis	evaluation by	CT
+nephrosis	associated with	chronic hypoperfusion
+nephrosis	prognosis	end-stage renal disease
+renal sclerosis	is a	fibrotic kidney change
+renal sclerosis	is a form of	nephrosclerosis
+renal sclerosis	causes	reduced kidney size
+renal sclerosis	results in	nephron loss
+renal sclerosis	associated with	aging
+renal sclerosis	associated with	hypertension
+renal sclerosis	associated with	ischemia
+renal sclerosis	leads to	chronic kidney disease
+renal sclerosis	diagnosed by	imaging
+renal sclerosis	biopsy shows	fibrosis
+renal sclerosis	pathology	scar formation
+renal sclerosis	increases	risk of dialysis
+renal sclerosis	treated with	blood pressure control
+renal sclerosis	treated with	ACE inhibitors
+renal sclerosis	seen in	older adults
+renal sclerosis	associated with	atherosclerosis
+renal sclerosis	radiology shows	reduced kidney size
+renal sclerosis	contributes to	ischemic nephropathy
+renal sclerosis	pathogenesis involves	vascular injury
+renal sclerosis	progression to	end-stage kidney disease
+renal sclerosis	clinical feature	fatigue
+renal sclerosis	seen in	diabetics
+renal sclerosis	seen in	hypertensive patients
+renal sclerosis	evaluation by	ultrasound
+renal sclerosis	evaluation by	CT
+renal sclerosis	associated with	chronic hypoperfusion
+renal sclerosis	prognosis	end-stage kidney disease
+renal sclerosis	may occur with	interstitial fibrosis
+renal sclerosis	coexists with	tubulointerstitial disease
+renal sclerosis	influences	kidney reserve
+renal sclerosis	accelerates	nephron loss
+renal sclerosis	treatment	symptom management
+renal sclerosis	prevention	blood pressure control

@@ -1,100 +1,100 @@
-bladder cancer	presents with	hematuria
-bladder cancer	presents with	dysuria
-bladder cancer	presents with	urinary frequency
-bladder cancer	presents with	nocturia
-bladder cancer	presents with	pelvic pain
-smoking	increases risk of	bladder cancer
-age	increases risk of	bladder cancer
-arsenic exposure	increases risk of	bladder cancer
-aniline dye exposure	increases risk of	bladder cancer
-cyclophosphamide exposure	increases risk of	bladder cancer
-cystectomy	treats	bladder cancer
-radical cystectomy	treats	bladder cancer
-transurethral resection	treats	bladder tumor
-intravesical therapy	treats	non-muscle-invasive bladder cancer
-BCG therapy	treats	non-muscle-invasive bladder cancer
-mitomycin C	treats	non-muscle-invasive bladder cancer
-neoadjuvant chemotherapy	treats	muscle-invasive bladder cancer
-systemic chemotherapy	treats	metastatic bladder cancer
-immunotherapy	treats	bladder cancer
-radiation therapy	treats	bladder cancer
-urinary diversion	results from	bladder cancer surgery
-urothelial carcinoma	is a histology type of	bladder cancer
-carcinoma in situ	occurs with	bladder cancer
-urine cytology	detects	urothelial carcinoma
-urinalysis	detects	hematuria
-cystoscopy	detects	bladder cancer
-CT urography	detects	bladder cancer
-MRI	detects	bladder cancer
-PET-CT	detects	metastasis
-pathology	confirms	bladder cancer
-histology	identifies	urothelial carcinoma
-TP53 mutation	associated with	high-grade bladder cancer
-FGFR3 mutation	associated with	low-grade bladder cancer
-chromosomal instability	observed in	bladder cancer
-tumor stage	influences	treatment choice
-TNM staging	guides	prognosis
-stage IV bladder cancer	has	distant metastases
-bone metastasis	occurs in	bladder cancer
-liver metastasis	occurs in	bladder cancer
-lung metastasis	occurs in	bladder cancer
-pelvic lymph node involvement	indicates	advanced bladder cancer
-recurrence	occurs after	bladder cancer treatment
-surveillance cystoscopy	monitors	bladder cancer after treatment
-urinary cytology	used for	bladder cancer surveillance
-non-muscle-invasive bladder cancer	defined as	Ta/T1 tumors
-muscle-invasive bladder cancer	defined as	T2-T4 tumors
-nephrotoxicity	complication of	cisplatin therapy
-cisplatin therapy	causes	nephrotoxicity
-nephroureterectomy	removes	kidney and ureter
-radical nephroureterectomy	removes	kidney and ureter
-nephrectomy	removes	kidney
-renal cell carcinoma	is a type of	kidney cancer
-kidney cancer	is a cancer of	urinary tract
-renal pelvis cancer	is a cancer of	renal pelvis
-ureteral cancer	is a cancer of	ureter
-upper urinary tract urothelial carcinoma	is a cancer of	upper urinary tract
-urothelial origin	characterizes	bladder cancer
-bladder cancer	prognosis depends on	stage
-bladder cancer	prognosis depends on	tumor grade
-tumor grade	influences	prognosis
-tumor size	influences	recurrence risk
-recurrence risk	increases with	incomplete resection
-incomplete resection	increases	recurrence risk
-surgical margins	determine	recurrence risk
-multimodal therapy	used for	muscle-invasive bladder cancer
-intravesical BCG therapy	induces	immune response
-immune response	mediates	tumor control
-PD-1 inhibitors	used for	bladder cancer
-PD-L1 inhibitors	used for	bladder cancer
-atezolizumab	is a	PD-L1 inhibitor
-pembrolizumab	is a	PD-1 inhibitor
-imaging studies	evaluate	tumor burden
-tumor burden	correlates with	prognosis
-microscopic hematuria	suggests	bladder cancer
-gross hematuria	suggests	bladder cancer
-bladder preservation	goal of	bladder cancer treatment
-cystectomy	followed by	urinary diversion
-salvage cystectomy	performed for	recurrent bladder cancer
-urothelial carcinoma	can be	multifocal in	bladder
-multifocality	common in	bladder cancer
-urine cytology	negative in	low-grade urothelial carcinoma
-mutational profile	guides	targeted therapy
-targeted therapy	used for	bladder cancer
-EGFR amplification	observed in	bladder cancer
-HER2 amplification	observed in	bladder cancer
-DNA methylation	altered in	bladder cancer
-miRNA dysregulation	observed in	bladder cancer
-weight loss	associated with	advanced bladder cancer
-anemia	associated with	advanced bladder cancer
-thrombocytosis	associated with	bladder cancer
-paraneoplastic syndrome	rare in	bladder cancer
-dysuria	symptom with	bladder cancer
-therapy initiation	marks	treatment start
-adjuvant therapy	used after	cystectomy
-neoplasia	refers to	malignant tumor
-malignant tumor	is a	cancer
-neoplasm	refers to	cancer
-cancer care	provided by	oncology
-follow-up	includes	imaging
-survival	improves with	early detection
+cancer of other urinary organs	is a	malignant neoplasm
+cancer of other urinary organs	located in	urinary tract
+cancer of other urinary organs	histology	urothelial carcinoma
+cancer of other urinary organs	histology	renal cell carcinoma
+cancer of other urinary organs	histology	adenocarcinoma
+smoking	is risk factor for	cancer of other urinary organs
+chemical exposure	is risk factor for	cancer of other urinary organs
+occupational exposure	is risk factor for	cancer of other urinary organs
+age	associated with	cancer of other urinary organs
+male sex	associated with	cancer of other urinary organs
+hematuria	presents with	cancer of other urinary organs
+flank pain	presents with	cancer of other urinary organs
+weight loss	presents with	cancer of other urinary organs
+abnormal urinary symptoms	presents with	cancer of other urinary organs
+urine cytology	used for	cancer of other urinary organs
+CT scan	used for	cancer of other urinary organs
+MRI	used for	cancer of other urinary organs
+PET-CT	used for	cancer of other urinary organs
+biopsy	confirms	cancer of other urinary organs
+tumor stage	determines	prognosis
+tumor grade	determines	prognosis
+lymph node involvement	worsens	prognosis
+metastasis	worsens	prognosis
+surgical resection	indication for	cancer of other urinary organs
+nephrectomy	indication for	cancer of other urinary organs
+nephroureterectomy	indication for	cancer of other urinary organs
+ureterectomy	indication for	cancer of other urinary organs
+radiation therapy	used for	cancer of other urinary organs
+chemotherapy	used for	cancer of other urinary organs
+immunotherapy	used for	cancer of other urinary organs
+targeted therapy	used for	cancer of other urinary organs
+checkpoint inhibitor	used for	cancer of other urinary organs
+neoadjuvant therapy	considered for	cancer of other urinary organs
+adjuvant therapy	considered for	cancer of other urinary organs
+tumor size	prognostic factor for	cancer of other urinary organs
+lymphovascular invasion	prognostic factor for	cancer of other urinary organs
+anemia	prognostic factor for	cancer of other urinary organs
+albumin level	prognostic factor for	cancer of other urinary organs
+recurrence risk	is high for	cancer of other urinary organs
+surgical margins	associated with	cancer of other urinary organs
+overall survival	associated with	cancer of other urinary organs
+progression-free survival	associated with	cancer of other urinary organs
+liver metastasis	indicates	cancer of other urinary organs
+lung metastasis	indicates	cancer of other urinary organs
+bone metastasis	indicates	cancer of other urinary organs
+brain metastasis	indicates	cancer of other urinary organs
+smoking cessation	reduces risk of	cancer of other urinary organs
+occupational safety	reduces risk of	cancer of other urinary organs
+renal impairment	coexists with	cancer of other urinary organs
+hypertension	coexists with	cancer of other urinary organs
+hereditary syndrome	increases risk for	cancer of other urinary organs
+family history	increases risk for	cancer of other urinary organs
+elderly population	higher prevalence of	cancer of other urinary organs
+ethnicity	associated with	cancer of other urinary organs
+obesity	risk factor for	cancer of other urinary organs
+tumor microenvironment	influences	progression of cancer of other urinary organs
+anemia	associated with	advanced cancer of other urinary organs
+vascular invasion	indicates	aggressive cancer of other urinary organs
+FDG-PET uptake	indicates	cancer of other urinary organs
+urinary tract tumor markers	used for	cancer of other urinary organs
+cardiovascular disease	increases risk with	cancer of other urinary organs
+negative surgical margins	associated with	better survival in cancer of other urinary organs
+adjuvant therapy	reduces recurrence in	cancer of other urinary organs
+PD-1 inhibitor	used for	cancer of other urinary organs
+PD-L1 expression	predictive of	response to therapy in cancer of other urinary organs
+five-year survival	influenced by	cancer of other urinary organs
+incidence	high for	cancer of other urinary organs
+mortality	associated with	cancer of other urinary organs
+length of hospital stay	lengthened by	cancer of other urinary organs
+readmission rate	increased after	cancer of other urinary organs
+smoking history	correlates with	cancer of other urinary organs
+genetic mutation testing	used for	cancer of other urinary organs
+partial response	observed with	cancer of other urinary organs
+stable disease	observed with	cancer of other urinary organs
+progression	indicates	cancer of other urinary organs
+family history	influences	cancer of other urinary organs
+surveillance imaging	required after	cancer of other urinary organs
+mortality prediction	aided by	cancer of other urinary organs
+palliative care	provides	symptom relief for cancer of other urinary organs
+clinical trial	offers	novel therapy for cancer of other urinary organs
+educational resources	improves	treatment adherence for cancer of other urinary organs
+pain management	essential in	cancer of other urinary organs
+nutritional status	impacts	cancer of other urinary organs
+renal function	affected by	cancer of other urinary organs
+kidney function	declines with	cancer of other urinary organs
+urinary diversion	required after	cancer of other urinary organs
+survival advantage	associated with	early-stage cancer of other urinary organs
+ajcc staging	guides	therapy choices for cancer of other urinary organs
+neoadjuvant chemotherapy	used for	cancer of other urinary organs
+nephrotoxic chemotherapy	risk with	cancer of other urinary organs
+treatment adverse events	occur with	cancer of other urinary organs
+radiation-induced toxicity	occurs with	cancer of other urinary organs
+oncology consultation	improves	care for cancer of other urinary organs
+pathology report	defines	cancer of other urinary organs
+contrast-enhanced CT	improves	staging accuracy for cancer of other urinary organs
+functional status	influences	treatment decisions for cancer of other urinary organs
+affective disorders	co-occur with	cancer of other urinary organs
+caregiver support	improves	management of cancer of other urinary organs
+community resources	support	cancer of other urinary organs
+clinical guidelines	inform	management of cancer of other urinary organs

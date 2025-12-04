@@ -1,100 +1,101 @@
-diabetes mellitus	is a	chronic metabolic disorder
-diabetes mellitus	managed with	insulin therapy
-diabetes mellitus	managed with	metformin
-diabetes mellitus	causes	retinopathy
-diabetes mellitus	causes	nephropathy
-diabetes mellitus	increases risk of	cardiovascular disease
-diabetes mellitus	associated with	neuropathy
-diabetes mellitus	diagnosed by	fasting plasma glucose
-fasting plasma glucose	is a test for	diabetes mellitus
-HbA1c	is a test for	diabetes mellitus
-diabetes mellitus	treated with	lifestyle modification
-type 1 diabetes mellitus	is a	autoimmune disease
-type 1 diabetes mellitus	requires	insulin therapy
+diabetes mellitus	is a	endocrine disorder
+diabetes mellitus	has subtype	type 2 diabetes mellitus
+diabetes mellitus	is treated with	metformin
+type 2 diabetes mellitus	is treated with	metformin
+type 1 diabetes mellitus	is treated with	insulin
 hypothyroidism	is a	endocrine disorder
 hypothyroidism	treated with	levothyroxine
-levothyroxine	is a	thyroid hormone replacement
-hypothyroidism	caused by	autoimmune thyroiditis
 hypothyroidism	associated with	hyperlipidemia
-hypothyroidism	presents with	fatigue
 hyperthyroidism	is a	endocrine disorder
 hyperthyroidism	treated with	methimazole
-methimazole	is a	thionamide
-hyperthyroidism	caused by	Graves disease
-Graves disease	is a	autoimmune disease
-Graves disease	causes	ophthalmopathy
-ophthalmopathy	leads to	proptosis
-proptosis	is a	clinical finding
-Graves disease	increases risk of	atrial fibrillation
-Cushing's syndrome	is a	hypercortisolism
-Cushing's syndrome	caused by	ACTH excess
+hyperthyroidism	treated with	propylthiouracil
+hyperthyroidism	may cause	weight loss
+Graves' disease	is autoimmune thyroid disease
+Hashimoto's thyroiditis	is autoimmune thyroid disease
+thyroid storm	requires	ICU admission
+myxedema coma	requires	ICU admission
+goiter	is a	thyroid enlargement
+iodine deficiency	causes	goiter
+radioactive iodine	used to treat	hyperthyroidism
+levothyroxine	used to treat	hypothyroidism
+insulin	used to treat	diabetes mellitus
+metformin	used to treat	type 2 diabetes mellitus
+sitagliptin	used to treat	type 2 diabetes mellitus
+desmopressin	used to treat	diabetes insipidus
+Cushing's syndrome	is a	endocrine disorder
 Cushing's syndrome	treated with	surgery
-Cushing's syndrome	associated with	obesity
-Cushing's syndrome	associated with	glucose intolerance
-Addison's disease	is a	adrenal insufficiency
-Addison's disease	caused by	autoimmune destruction
+Cushing's syndrome	associated with	hypertension
+adrenal insufficiency	is a	endocrine disorder
+adrenal insufficiency	treated with	hydrocortisone
+Addison's disease	is a	endocrine disorder
 Addison's disease	treated with	hydrocortisone
-Adrenal crisis	is a	medical emergency
-Adrenal crisis	requires	urgent management
+primary hyperparathyroidism	is a	endocrine disorder
+primary hyperparathyroidism	treated with	parathyroidectomy
+hyperparathyroidism	is a	endocrine disorder
 hyperparathyroidism	causes	hypercalcemia
-hypercalcemia	can cause	kidney stones
-hyperparathyroidism	treated with	parathyroidectomy
-hypoparathyroidism	causes	hypocalcemia
-hypocalcemia	leads to	tetany
-parathyroid hormone	regulates	calcium
-calcitonin	decreases	blood calcium
+hypoparathyroidism	is a	endocrine disorder
+hypoparathyroidism	treated with	calcium supplementation
+parathyroid hormone	regulates	calcium homeostasis
+calcium homeostasis	depends on	parathyroid hormone
 diabetes insipidus	is a	endocrine disorder
-diabetes insipidus	caused by	ADH deficiency
-desmopressin	treats	central diabetes insipidus
-central diabetes insipidus	caused by	pituitary damage
+diabetes insipidus	treated with	desmopressin
+SIADH	is a	endocrine disorder
+SIADH	managed with	fluid restriction
+pheochromocytoma	is a	endocrine tumor
+pheochromocytoma	diagnosed with	plasma free metanephrines
+pheochromocytoma	treated with	adrenalectomy
+pituitary adenoma	is a	endocrine tumor
+pituitary adenoma	treated with	transsphenoidal surgery
+acromegaly	is a	endocrine disorder
+acromegaly	treated with	somatostatin analogs
+acromegaly	treated with	surgery
 growth hormone deficiency	is a	endocrine disorder
 growth hormone deficiency	treated with	growth hormone
-acromegaly	caused by	GH excess
-GH excess	causes	insulin resistance
-acromegaly	associated with	diabetes mellitus
-pituitary adenoma	causes	hormone excess
-prolactinoma	is a	pituitary tumor
-prolactin	stimulates	lactation
-hypopituitarism	results in	secondary adrenal insufficiency
-hypopituitarism	associated with	pituitary hormone deficiency
-diabetes insipidus	associated with	aquaporin-2 dysfunction
 polycystic ovary syndrome	is a	endocrine disorder
-PCOS	associated with	insulin resistance
+polycystic ovary syndrome	associated with	insulin resistance
+polycystic ovary syndrome	treated with	metformin
+polycystic ovary syndrome	treated with	oral contraceptives
+hypogonadism	is a	endocrine disorder
+hypogonadism	treated with	testosterone therapy
+diabetes mellitus	increases risk of	cardiovascular disease
+diabetes mellitus	increases risk of	nephropathy
+diabetes mellitus	increases risk of	retinopathy
+diabetes mellitus	increases risk of	neuropathy
+hypothyroidism	increases risk of	hyperlipidemia
+hyperthyroidism	increases risk of	atrial fibrillation
+hyperthyroidism	increases risk of	osteoporosis
+Addison's disease	associated with	hyperpigmentation
+Cushing's syndrome	associated with	hypertension
 PCOS	associated with	infertility
-PCOS	treated with	metformin
-estrogen deficiency	leads to	osteoporosis
-menopause	involves	estrogen deficiency
-osteoporosis	is a	bone disease
-osteoporosis	worsened by	estrogen deficiency
-vitamin D deficiency	leads to	osteomalacia
-osteomalacia	is a	bone disease
-growth hormone deficiency	may cause	reduced muscle mass
-acromegaly	associated with	cardiomyopathy
-prolactin	inhibits	GnRH
-hyperprolactinemia	causes	infertility
-hyperprolactinemia	treated with	dopamine agonists
-dopamine agonists	treat	hyperprolactinemia
-gonadotropin-releasing hormone	regulates	puberty
-testosterone	is a	androgen hormone
-androgen deficiency	causes	decreased libido
-LH	stimulates	ovulation
-thyroid-stimulating hormone	is a	pituitary hormone
-free T4	reflects	thyroid status
-autoimmune thyroiditis	causes	hypothyroidism
-Hashimoto's thyroiditis	is a	autoimmune disease
-thyroid peroxidase antibodies	indicate	autoimmune thyroid disease
-parathyroid adenoma	is a	parathyroid tumor
-primary hyperparathyroidism	is a	parathyroid disorder
-secondary hyperparathyroidism	is a	parathyroid disorder
-gonads	regulate	reproductive function
-estrogen	regulates	menstrual cycle
-menstrual cycle	regulated by	hormones
-insulin resistance	is a	feature of type 2 diabetes
-glycemic control	indicates	diabetes management success
-premature ovarian insufficiency	is a	female reproductive disorder
-premature ovarian insufficiency	causes	infertility
-hirsutism	is a	symptom of PCOS
-estradiol	is a	form of estrogen
-gonadotropins	regulate	ovarian function
-parathyroid glands	regulate	calcium homeostasis
-parathyroid glands	are	endocrine glands
+PCOS	associated with	obesity
+Graves' disease	causes	hyperthyroidism
+Hashimoto's thyroiditis	causes	hypothyroidism
+secondary hyperparathyroidism	treated with	cinacalcet
+cinacalcet	used to treat	secondary hyperparathyroidism
+osteoporosis	associated with	estrogen deficiency
+postmenopausal osteoporosis	is a	endocrine condition
+estrogen deficiency	contributes to	osteoporosis
+gonadal failure	treated with	hormone replacement therapy
+panhypopituitarism	is a	endocrine disorder
+panhypopituitarism	treated with	hormone replacement therapy
+diabetes mellitus	treated with	lifestyle modification
+hyponatremia	occurs with	SIADH
+retinopathy	caused by	diabetes mellitus
+neuropathy	caused by	diabetes mellitus
+hyponatremia	caused by	SIADH
+thyroid antibody	associated with	autoimmune thyroid disease
+autoimmune thyroid disease	includes	Hashimoto's thyroiditis
+autoimmune thyroid disease	includes	Graves' disease
+goiter	associated with	iodine deficiency
+insulin therapy	used to treat	type 1 diabetes mellitus
+insulin therapy	used to treat	type 2 diabetes mellitus
+osteoporosis	treated with	bisphosphonates
+androgen excess	seen in	PCOS
+insulin resistance	associated with	PCOS
+beta-cell dysfunction	involved in	diabetes mellitus
+beta-cell failure	is a	feature of type 1 diabetes mellitus
+autoimmune destruction	occurs in	type 1 diabetes mellitus
+insulin resistance	is a	characteristic of type 2 diabetes mellitus
+thyroid peroxidase antibodies	associated with	Hashimoto's thyroiditis
+TSH	is a	biomarker for thyroid disorders
+HbA1c	used to monitor	diabetes mellitus

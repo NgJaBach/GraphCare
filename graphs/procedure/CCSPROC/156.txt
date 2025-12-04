@@ -1,0 +1,98 @@
+injection	is a	medical procedure
+aspiration	is a	medical procedure
+arthrocentesis	is a	medical procedure
+corticosteroid injection	used for	joint inflammation
+hyaluronic acid injection	used for	osteoarthritis
+platelet-rich plasma injection	used for	tendinopathy
+local anesthetic injection	used for	analgesia
+image-guided injection	is a	technique
+ultrasound-guided injection	is a	technique
+fluoroscopy-guided injection	is a	technique
+intra-articular injection	is a	injection type
+intramuscular injection	is a	injection type
+subacromial injection	is a	injection type
+joint	treated by	injection
+tendon	treated by	injection
+bursa	treated by	injection
+soft tissue	treated by	injection
+muscle	treated by	injection
+knee joint	targeted by	injection
+shoulder joint	targeted by	injection
+elbow joint	targeted by	injection
+hip joint	targeted by	injection
+wrist joint	targeted by	injection
+ankle joint	targeted by	injection
+corticosteroid injection	reduces	inflammation
+hyaluronic acid injection	reduces	pain
+platelet-rich plasma injection	promotes	tissue healing
+local anesthetic injection	provides	analgesia
+aspiration	yields	synovial fluid
+synovial fluid	analyzed for	crystals
+crystal analysis	used for	gout diagnosis
+joint effusion	reduces with	aspiration
+arthrocentesis	yields	synovial fluid
+synovial fluid	used for	infection screening
+infection	detected by	synovial fluid analysis
+septic arthritis	can result from	joint aspiration
+aseptic technique	required for	injection
+sterile technique	required for	injection
+anticoagulant therapy	contraindicates	injection
+active infection	contraindicates	injection
+injection	carries	risk of infection
+injection	carries	risk of bleeding
+injection	carries	risk of nerve injury
+nerve injury	can occur as	complication of injection
+bleeding	complication of	aspiration
+infection	complication of	injection
+tendon rupture	complication of	corticosteroid injection
+fat atrophy	complication of	corticosteroid injection
+post-injection flare	common after	corticosteroid injection
+joint aspiration	performed for	effusion evaluation
+effusion evaluation	yields	diagnostic information
+diabetes mellitus	increases	infection risk after injection
+imaging guidance	improves	injection accuracy
+ultrasound guidance	improves	injection accuracy
+injection accuracy	correlates with	therapeutic success
+therapeutic success	improves	functional outcome
+functional outcome	predicts	discharge timing
+discharge timing	influences	readmission risk
+readmission risk	associated with	musculoskeletal procedures
+musculoskeletal procedure	linked to	readmission risk
+pain relief	improves	patient satisfaction
+patient satisfaction	relates to	quality of life
+quality of life	influences	prognosis
+prognosis	related to	disease severity
+disease severity	influences	treatment choice
+treatment choice	affects	cost
+cost	contributes to	healthcare utilization
+healthcare utilization	drives	readmission risk
+osteoarthritis	indication for	hyaluronic acid injection
+inflammatory arthritis	indication for	corticosteroid injection
+tendinopathy	indication for	platelet-rich plasma injection
+bursitis	indication for	corticosteroid injection
+rotator cuff tendinopathy	indication for	corticosteroid injection
+glenohumeral joint	treated by	injection
+carpal tunnel syndrome	treated by	corticosteroid injection
+olecranon bursitis	treated by	injection
+subacromial bursa	targeted by	injection
+bursal injection	is a	injection type
+tendinopathy	managed by	injection
+adhesive capsulitis	treated by	corticosteroid injection
+gout	diagnosed by	joint aspiration
+pseudogout	diagnosed by	crystal analysis
+crystal analysis	used for	diagnosis
+crystal	detected by	crystal analysis
+gout	responsive to	corticosteroid injection
+carpal tunnel syndrome	may benefit from	corticosteroid injection
+plantar fascia	targeted by	injection
+plantar fasciitis	treated by	injection
+rotator cuff tear	treated by	injection
+shoulder impingement	treated by	injection
+joint capsule	targeted by	injection
+bursal sac	targeted by	injection
+joint capsule	receives	injection
+bursal sac	receives	injection
+intra-articular injection	delivered to	synovial cavity
+tendon	receives	injection
+muscle	receives	injection
+soft tissue	receives	injection

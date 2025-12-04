@@ -1,0 +1,100 @@
+corneal transplant	is a	medical procedure
+corneal transplant	is also known as	keratoplasty
+keratoplasty	is a type of	corneal transplant
+penetrating keratoplasty	is a type of	keratoplasty
+lamellar keratoplasty	is a type of	keratoplasty
+endothelial keratoplasty	is a type of	keratoplasty
+keratoplasty	replaces	corneal tissue
+donor tissue	is used for	keratoplasty
+corneal tissue	is donated by	deceased donor
+deceased donor	provides	corneal tissue
+recipient	receives	donor graft
+corneal graft	is transplanted into	recipient
+keratoplasty	requires	sutures
+sutures	secure	graft
+graft stability	depends on	sutures
+postoperative care	includes	topical steroids
+topical steroids	reduce	inflammation
+systemic immunosuppression	used for	high-risk keratoplasty
+cyclosporine	used for	rejection prophylaxis
+tacrolimus	used for	rejection prophylaxis
+rejection prophylaxis	aims for	graft survival
+graft survival	correlates with	visual outcome
+graft clarity	determines	visual acuity
+visual acuity	improves after	keratoplasty
+keratoconus	leads to	keratoplasty
+Fuchs endothelial dystrophy	is indication for	endothelial keratoplasty
+bullous keratopathy	is indication for	keratoplasty
+corneal opacity	is indication for	keratoplasty
+corneal scar	is indication for	keratoplasty
+chemical burn	can cause	corneal opacity
+traumatic injury	can cause	corneal opacity
+graft rejection	occurs after	keratoplasty
+graft rejection	leads to	graft failure
+graft failure	results in	vision loss
+astigmatism	persists after	keratoplasty
+astigmatism	affects	visual outcome
+suture loosening	causes	graft dislocation
+graft dislocation	requires	re-suturing
+re-suturing	restores	graft alignment
+postoperative infection	is a complication of	keratoplasty
+endophthalmitis	is a rare complication of	keratoplasty
+glaucoma	can occur after	keratoplasty
+cataract	can develop after	keratoplasty
+neovascularization	can occur after	keratoplasty
+postoperative surveillance	monitors	graft status
+graft status	assessed by	slit lamp examination
+slit lamp examination	monitors	graft status
+specular microscopy	assesses	endothelial cell density
+endothelial cell density	predicts	graft survival
+donor age	influences	graft survival
+blood type compatibility	is considered for	keratoplasty
+HLA matching	rarely used in	keratoplasty
+posterior keratoplasty	is a synonym of	endothelial keratoplasty
+DALK	is a type of	keratoplasty
+DALK	preserves	host endothelium
+PKP	is a type of	keratoplasty
+PKP	replaces	full-thickness cornea
+DMEK	replaces	endothelium
+graft clarity	contributes to	visual outcome
+graft geometry	influences	refractive outcome
+refractive outcome	depends on	graft geometry
+suture technique	affects	corneal astigmatism
+corneal astigmatism	affects	visual acuity
+follow-up visit	occurs after	keratoplasty
+graft status	monitored by	slit lamp examination
+slit lamp examination	evaluates	graft status
+endothelial cell density	measures	graft viability
+donor age	influences	graft viability
+blood type compatibility	is considered for	keratoplasty
+tissue matches	influence	graft rejection risk
+postoperative antibiotic prophylaxis	reduces	infection risk
+intraoperative corticosteroids	used for	inflammation control
+postoperative rehabilitation	improves	functional outcome
+donor tissue storage	affects	endothelial cell viability
+storage conditions	ensure	endothelial cell viability
+endothelial cell viability	determines	graft survival
+tissue bank	coordinates	graft allocation
+graft allocation	follows	registry guidelines
+ophthalmologist	performs	keratoplasty
+surgeon experience	influences	graft outcome
+intraoperative bleeding	is a rare complication of	keratoplasty
+anesthesia	used for	keratoplasty
+postoperative analgesia	used for	keratoplasty
+sterile technique	prevents	infection
+infection	threatens	graft survival
+asepsis	is essential for	keratoplasty
+graft survival	improved by	meticulous technique
+meticulous technique	reduces	complication rate
+postoperative regimen	tailored for	high-risk keratoplasty
+high-risk keratoplasty	often requires	immunosuppression
+surgeon experience	correlates with	graft outcome
+vision-related function	improves	keratoplasty
+graft longevity	associated with	patient factors
+patient factors	influence	graft outcome
+donor endothelial density	predicts	graft survival
+endothelial density	maintained by	proper storage
+proper storage	preserves	endothelial cell viability
+cell viability	correlates with	graft success
+graft success	leads to	improved quality of life
+quality of life	improved by	corneal transplant

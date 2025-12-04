@@ -1,100 +1,97 @@
-drowning	is an	external cause of injury
-drowning	is coded by	icd10 code X71-X74
-near-drowning	is a	nonfatal drowning event
-bathroom	is site of	drowning
-pool	is site of	drowning
-ocean	is site of	drowning
-lake	is site of	drowning
-river	is site of	drowning
-bathtub	is site of	drowning
-child	is at risk for	drowning
-infant	is at risk for	drowning
-elderly patient	is at risk for	drowning
-alcohol use	increases risk of	drowning
-seizure disorder	increases risk of	drowning
-drowning	leads to	hypoxia
-hypoxia	leads to	brain injury
-brain injury	results in	cognitive impairment
-cognitive impairment	increases risk of	readmission
-drowning	leads to	hospitalization
-submersion	causes	respiratory failure
-respiratory failure	requires	intubation
-intubation	indicates	severe drowning
-mechanical ventilation	is used for	respiratory failure
-hypothermia	occurs with	drowning
-duration of submersion	influences	prognosis
-oxygen therapy	is used for	hypoxia
-ICU admission	is associated with	drowning severity
-length of stay	increases with	drowning severity
-mortality	is associated with	drowning
-outcome	depends on	submersion duration
-pediatric patient	requires	child-specific care
-neonate	requires	specialized care
-survival	is associated with	timely resuscitation
-timely resuscitation	improves	survival
-early CPR	improves	survival
-delayed CPR	worsens	outcome
-water rescue	reduces	death
-cardiopulmonary resuscitation	is performed during	drowning event
-resuscitation	improves	neurological outcome
-pneumonia	results from	aspiration
-aspiration	occurs with	drowning
-lung injury	results from	drowning
-hypercapnia	arises from	respiratory failure
-secondary infection	occurs after	drowning
-rehabilitation	aids	functional recovery
-physical therapy	improves	mobility after drowning
-occupational therapy	improves	independence after injury
-safety education	reduces	drowning incidence
-life jacket	reduces	drowning mortality
-supervision	reduces	toddler drowning
-fence	reduces	toddler drowning
-pool drain cover	reduces	drowning risk
-prevention program	reduces	drowning incidence
-season	influences	drowning incidence
-summer	increases	drowning incidence
-nighttime drownings	associated with	alcohol intoxication
-intubation	indicates	respiratory compromise
-airway management	is used for	drowning patients
-cardiac arrest	results from	drowning
-cardiac arrest	requires	CPR
-emergency department	manages	drowning patient
-pre-hospital care	influences	survival
-post-resuscitation syndrome	occurs after	drowning
-neuroprotective strategies	used for	drowning patients
-therapeutic hypothermia	used for	post-drowning care
-glucose management	is important in	post-drowning care
-nutrition support	is provided during	critical illness due to drowning
-financial cost	is associated with	drowning hospitalizations
-return to baseline function	is possible with	appropriate rehab
-persistent vegetative state	is possible after	severe drowning
-seizures	occur after	brain injury due to drowning
-memory loss	results from	brain injury
-PTSD	may occur after	drowning incident
-disability	results from	drowning
-insurance coverage	influences	length of stay
-rehabilitation	reduces	long-term disability
-child safety education	reduces	drowning events
-water safety device	prevents	drowning
-emergency response time	influences	survival
-airway protection	is essential in	drowning management
-drowning protocol	includes	airway management
-early hospital arrival	improves	outcome
-imaging studies	are used for	drowning assessment
-EEG monitoring	is used for	brain injury after drowning
-nursing care	is required in	post-drowning patients
-physical disability	can persist after	drowning
-family support	reduces	caregiver burden after drowning
-financial assistance	improves	access to rehab after drowning
-community programs	promote	water safety
-water safety campaigns	impact	drowning rates
-rapid transport	reduces	prehospital time
-prehospital time	influences	survival
-cold water drowning	can prolong	resuscitation window
-cold water exposure	influences	submersion outcomes
-swimmer training	reduces	drowning risk
-supervised swimming lessons	reduce	drownings
-pediatric supervision	reduces	drownings
-drowning events	cause	emotional distress in families
-hospital discharge planning	shapes	recovery after drowning
-long-term follow-up	improves	functional outcomes after drowning
+drowning	is a	mechanism of injury
+drowning	is coded as	external-cause code
+submersion	is a	mechanism of injury
+submersion	leads to	hypoxia
+near-drowning	is a	submersion incident
+near-drowning	results in	pulmonary edema
+hypoxia	causes	brain injury
+drowning	causes	asphyxia
+asphyxia	leads to	hypoxemia
+drowning	leads to	cardiac arrest
+cardiac arrest	requires	cardiopulmonary resuscitation
+drowning	increases	hospital admission
+drowning	increases	emergency department visits
+drowning	increases	ICU admission
+drowning	leads to	airway compromise
+airway compromise	requires	intubation
+intubation	is a	airway management procedure
+airway management	includes	suctioning
+drowning event	occurs in	households
+drowning event	occurs in	pools
+drowning event	occurs in	oceans
+drowning event	occurs in	rivers
+pools	site of	drowning events
+oceans	site of	drowning events
+rivers	site of	drowning events
+bathtubs	site of	drowning events
+infants	at risk for	drowning
+children	at risk for	drowning
+adults	at risk for	drowning
+alcohol use	associated with	drowning
+swimming	involved in	drowning incidents
+fatigue	associated with	drowning risk
+supervision of children near water	reduces	drowning risk
+supervision	reduces	drowning risk
+fencing around pool	reduces	drowning risk
+children	benefit from	pool safety education
+pool safety education	improves	safety awareness
+water temperature	influences	near-drowning risk
+cold water	increases	drowning risk
+strong currents	increase	drowning risk
+drowning	sometimes results in	coma
+coma	leads to	long-term disability
+long-term disability	decreases	quality of life
+quality of life	affected by	brain injury
+brain injury	affects	cognitive function
+cognitive function	influences	rehabilitation outcomes
+rehabilitation	improves	physical function
+CPR timing	influences	survival
+timely CPR	improves	survival
+delay in CPR	worsens	outcome
+resuscitation	improved by	EMS response time
+EMS response time	affects	survival
+drowning	leads to	respiratory failure
+respiratory failure	requires	mechanical ventilation
+mechanical ventilation	used in	drowning cases
+drowning	associated with	alcohol intoxication
+drowning	described by	e-code
+external-cause code	used for	drowning
+ICD coding	supports	drowning classification
+drowning classification	based on	e-codes
+e-codes	include	drowning/submersion
+drowning/submersion	is a	ICD-9-CM external cause
+e-codes	relate to	drowning/submersion
+drowning/submersion	documented in	health records
+health records	contain	e-codes
+e-codes	aid	public health surveillance
+drowning incidents	tracked by	vital statistics
+vital statistics	inform	prevention programs
+prevention programs	reduce	drowning rates
+program evaluation	measures	drowning outcomes
+drowning outcomes	inform	policy decisions
+policy decisions	aim to	reduce drowning
+pool barriers	prevent	drowning events
+drowning events	monitored by	vital records
+vital records	support	drowning surveillance
+drowning surveillance	informs	resource allocation
+resource allocation	affects	prevention programs
+prevention programs	reduce	drowning incidence
+drowning incidence	decreased by	public health campaigns
+public health campaigns	educate	communities
+communities	engage	water safety practices
+water safety practices	improve	rescue outcomes
+rescue outcomes	depend on	bystander CPR
+bystander CPR	increases	survival
+survival	associated with	good prognosis
+prognosis	improves with	early transport to hospital
+transport to hospital	reduces	time to care
+time to care	influences	mortality
+mortality	highest in	elderly drowning
+elderly	at higher risk for	drowning
+seasonal variation	affects	drowning rates
+seasonal variation	documented in	health data
+health data	used for	trend analysis
+trend analysis	informs	policy
+policy	aims at	drowning prevention
+drowning prevention	implemented by	community programs
+community programs	reduce	drowning rates

@@ -1,0 +1,100 @@
+cardiac stress test	is a	diagnostic test
+cardiac stress test	used for	ischemia assessment
+exercise stress test	is a type of	cardiac stress test
+treadmill test	is a type of	exercise stress test
+pharmacologic stress test	is a type of	cardiac stress test
+vasodilator stress test	is a type of	pharmacologic stress test
+dobutamine stress test	is a type of	pharmacologic stress test
+nuclear perfusion imaging	is a modality of	myocardial perfusion imaging
+stress echocardiography	is a modality of	cardiac imaging
+cardiac stress test	uses	ECG monitoring
+cardiac stress test	uses	imaging
+treadmill	is component of	exercise treadmill test
+ECG	monitors	heart rhythm
+cardiac stress test	assesses	ST segment changes
+ST segment changes	indicate	ischemia
+ischemia	can cause	angina
+positive stress test	indicates	ischemia
+negative stress test	suggests	no significant ischemia
+false positive test	leads to	unnecessary angiography
+false negative test	delays	treatment
+myocardial ischemia	increases risk of	myocardial infarction
+coronary artery disease	diagnosed by	stress test
+stress test	guides	risk stratification
+stress test	informs	management plan
+positive stress test	predicts	need for revascularization
+revascularization	includes	PCI
+PCI	relieves	chest pain
+coronary angiography	follows	abnormal stress test
+abnormal stress test	warrants	coronary angiography
+coronary angiography	confirms	coronary artery disease
+myocardial perfusion imaging	evaluates	perfusion defects
+perfusion defect	indicates	ischemia
+reversible defect	implies	ischemia
+fixed defect	implies	prior infarct
+wall motion abnormality	detected by	stress echocardiography
+stress echocardiography	uses	ultrasound
+ultrasound	evaluates	LV function
+LV function	measured by	ejection fraction
+ejection fraction	contributing to	prognosis
+mortality	predicted by	abnormal stress test
+readmission	associated with	abnormal stress test
+postoperative care	evaluated by	stress test
+outpatient testing	common after	chest pain evaluation
+exercise capacity	quantified by	METs
+METs	correlate with	prognosis
+target heart rate	achieved by	exercise stress test
+heart rate	increases during	treadmill
+blood pressure	response to	exercise
+dyspnea	presents during	stress test
+angina	provoked by	stress test
+arrhythmia	induced by	pharmacologic stress test
+atrial fibrillation	risk factor for	adverse outcomes
+adenosine	used in	vasodilator stress test
+regadenoson	used in	vasodilator stress test
+dipyridamole	used in	vasodilator stress test
+dobutamine	used in	dobutamine stress test
+vasodilator	induces	hyperemia
+pharmacologic stress test	alternatives	exercise stress test
+caffeine avoidance	recommended before	pharmacologic stress test
+fasting	recommended before	nuclear imaging
+radiation exposure	increased by	nuclear perfusion imaging
+contraindication	includes	acute coronary syndrome
+acute coronary syndrome	contraindicates	exercise stress test
+unstable angina	contraindicates	exercise stress test
+decompensated heart failure	contraindicates	exercise stress test
+severe aortic stenosis	contraindicates	exercise stress test
+antihypertensive therapy	affects	test results
+beta-blocker	attenuates	heart rate response
+calcium channel blocker	modifies	chronotropic response
+test interpretation	performed by	cardiologist
+nurse	administers	pharmacologic agent
+physician	orders	stress test
+cardiac imaging	includes	nuclear imaging
+positive test result	leads to	invasive evaluation
+negative test result	reduces need for	angiography
+ischemic cascade	described in	pathophysiology of chest pain
+screening test	role in	preoperative evaluation
+outpatient clinic	performs	stress test
+radiotracer	accumulates in	perfused myocardium
+ischemic region	shows	perfusion defect
+ischemia	triggers	chest pain
+myocardial infarction	prevented by	early revascularization
+stress test	can predict	mortality risk
+stress test	has	diagnostic accuracy
+diagnostic accuracy	depends on	prevalence
+sensitivity	measures	true positive rate
+specificity	measures	true negative rate
+abnormal stress test	has	higher likelihood of CAD
+exercise treadmill test	provides	cardiac risk information
+pharmacologic stress test	provides	prognostic information
+stress test	used in	preoperative risk assessment
+preoperative risk assessment	informs	surgical planning
+cardiac rehabilitation	follows	abnormal stress test
+angiography	confirms	CAD
+stress test	influences	treatment decision
+treadmill	requires	patient cooperation
+pharmacologic agent	used for	vasodilation or inotropy
+dobutamine	increases	heart rate and contractility
+regadenoson	causes	coronary vasodilation
+stress test	related to	chest pain evaluation

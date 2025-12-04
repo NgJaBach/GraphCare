@@ -1,99 +1,96 @@
-parkinson's disease	is a	neurodegenerative disorder
-parkinson's disease	presents with	tremor
-parkinson's disease	presents with	bradykinesia
-parkinson's disease	presents with	rigidity
-parkinson's disease	presents with	postural instability
-parkinson's disease	involves	dopaminergic neuron loss
-parkinson's disease	involves	nigrostriatal pathway
-parkinson's disease	associated with	Lewy bodies
-parkinson's disease	associated with	alpha-synuclein aggregates
-parkinson's disease	diagnosed by	clinical assessment
-parkinson's disease	diagnosed with	DaT scan
+parkinson's disease	is treated with	levodopa
 levodopa	is a	dopamine precursor
-parkinson's disease	treated with	levodopa
-levodopa	crosses	blood-brain barrier
-carbidopa-levodopa	is a	combination therapy
-parkinson's disease	treated with	carbidopa-levodopa
-levodopa	provides	motor symptom relief
-levodopa	can cause	dyskinesia
-dyskinesia	is a	motor complication
-dopamine agonist	used for	motor symptom relief
+parkinson's disease	is treated with	carbidopa-levodopa
+levodopa	is combined with	carbidopa
+carbidopa-levodopa	provides	motor symptom relief
+parkinson's disease	is treated with	dopamine agonist
 pramipexole	is a	dopamine agonist
-ropiniriole	is a	dopamine agonist
-rotigotine	is a	dopamine agonist
-dopamine agonist	may cause	impulse control disorders
-impulse control disorder	is adverse effect of	dopamine agonist
-MAO-B inhibitors	used for	motor fluctuations
+ropinirole	is a	dopamine agonist
+bromocriptine	is a	dopamine agonist
+parkinson's disease	is treated with	MAO-B inhibitor
 selegiline	is a	MAO-B inhibitor
 rasagiline	is a	MAO-B inhibitor
-parkinson's disease	treated with	MAO-B inhibitors
-COMT inhibitors	used for	levodopa durability
+parkinson's disease	is treated with	COMT inhibitor
 entacapone	is a	COMT inhibitor
-tolcapone	is a	COMT inhibitor
-parkinson's disease	treated with	COMT inhibitors
-amantadine	used for	dyskinesia relief
+opicapone	is a	COMT inhibitor
+parkinson's disease	is treated with	amantadine
 amantadine	is a	NMDA receptor antagonist
 amantadine	reduces	dyskinesia
-deep brain stimulation	improves	motor symptoms
-deep brain stimulation	targets	subthalamic nucleus
-subthalamic nucleus	is a	brain structure
-globus pallidus interna	is a	brain structure
-parkinson's disease	treated with	physical therapy
-parkinson's disease	managed with	exercise
-exercise	improves	gait
-physical therapy	improves	mobility
-parkinson's disease	associated with	constipation
-parkinson's disease	associated with	sleep disturbance
-parkinson's disease	associated with	REM sleep behavior disorder
-parkinson's disease	associated with	hyposmia
-hyposmia	is an early non-motor symptom of	parkinson's disease
-parkinson's disease	associated with	depression
-parkinson's disease	associated with	anxiety
-parkinson's disease	associated with	cognitive impairment
-parkinson's disease	associated with	dementia
-parkinson's disease	associated with	psychosis
-parkinson's disease	increases	fall risk
-parkinson's disease	causes	orthostatic hypotension
-orthostatic hypotension	is a non-motor symptom of	parkinson's disease
-dementia	occurs with	advanced parkinson's disease
-parkinson's disease	increases	caregiver burden
-parkinson's disease	increases	healthcare utilization
-parkinson's disease	increases	mortality risk
-parkinson's disease	demonstrates	disease progression
-parkinson's disease	progresses with	time
-dyskinesia	is a	complication of levodopa therapy
-levodopa therapy	associated with	wearing-off phenomenon
-wearing-off phenomenon	occurs with	levodopa
-levodopa	leads to	motor fluctuations
-motor fluctuations	are common with	long-term levodopa
-long-term levodopa therapy	leads to	dyskinesia
-deep brain stimulation	improves	quality of life
-subthalamic nucleus	is targeted by	deep brain stimulation
-carbidopa	inhibits	aromatic L-amino acid decarboxylase
-carbidopa	reduces	peripheral levodopa side effects
-levodopa	requires	peripheral decarboxylase inhibition
-family history	increases	parkinson's disease risk
-pesticide exposure	is a risk factor for	parkinson's disease
-age	is a risk factor for	parkinson's disease
-male sex	is a risk factor for	parkinson's disease
-smoking	inversely associated with	parkinson's disease
-caffeine intake	associated with	reduced parkinson's disease risk
-alpha-synuclein	accumulates in	Lewy bodies
-Lewy bodies	are composed of	alpha-synuclein
-nigrostriatal degeneration	causes	motor symptoms
-DAT uptake	decreases in	parkinson's disease
-DaT scan	helps	diagnosis of parkinson's disease
-olfactory dysfunction	precedes	motor symptoms in parkinson's disease
-constipation	is a non-motor symptom of	parkinson's disease
-sleep disturbance	is a non-motor symptom of	parkinson's disease
-REM sleep behavior disorder	is a non-motor precursor of	parkinson's disease
-hypophonia	occurs with	parkinson's disease
-dysphagia	occurs with	parkinson's disease
-speech impairment	occurs with	parkinson's disease
-gait disturbance	is present in	parkinson's disease
-dementia	may appear in	advanced parkinson's disease
-parkinson's disease	requires	multidisciplinary care
-levodopa	interacts with	vitamin B6
-vitamin B6	reduces	levodopa efficacy
-parkinson's disease	may require	caregiver support
-parkinson's disease	is	progressive neurodegenerative condition
+levodopa	may cause	dyskinesia
+levodopa	may cause	motor fluctuations
+carbidopa-levodopa	may cause	wearing-off
+parkinson's disease	can develop	freezing of gait
+freezing of gait	is a	motor symptom
+deep brain stimulation	is a	surgical therapy
+deep brain stimulation	improves	tremor
+deep brain stimulation	reduces	off-time
+pallidotomy	is a	surgical therapy
+thalamotomy	is a	surgical therapy
+DaT scan	is a	diagnostic test
+MRI	is a	imaging modality
+UPDRS score	is used for	motor assessment
+Hoehn-Yahr stage	is a	disease stage
+MMSE	is used for	cognitive screening
+MOCA	is used for	cognitive screening
+REM sleep behavior disorder	is a	non-motor symptom
+hyposmia	is a	non-motor symptom
+constipation	is a	non-motor symptom
+depression	is a	non-motor symptom
+anxiety	is a	non-motor symptom
+orthostatic hypotension	is a	autonomic symptom
+urinary incontinence	is a	autonomic symptom
+dementia	is a	late complication
+age	is a	risk factor
+LRRK2 mutation	is a	genetic risk factor
+GBA mutation	is a	genetic risk factor
+exercise	improves	motor function
+physical therapy	reduces	fall risk
+speech therapy	improves	speech
+nutrition	influences	disease progression
+pneumonia	is a	cause of death in parkinson's disease
+falls	increase	hospitalization
+hospitalization	is common	in advanced parkinson's disease
+readmission	risk	after parkinson's disease hospitalization
+dysphagia	is a	non-motor symptom
+orthostatic hypotension	worsens	falls
+sleep disturbance	is a	non-motor symptom
+weight loss	is a	non-motor symptom
+dysarthria	is a	motor symptom
+gait disturbance	is a	motor symptom
+tremor	is a	cardinal symptom
+bradykinesia	is a	cardinal symptom
+rigidity	is a	cardinal symptom
+postural instability	is a	cardinal symptom
+olfactory dysfunction	is a	early feature
+DaT scan	supports	dopaminergic deficit
+dopaminergic deficit	underlies	motor symptoms
+alpha-synuclein	accumulates	in brain
+ Lewy bodies	are a	neuropathology feature
+substantia nigra	undergoes	neuron loss
+neuron loss	leads to	dopamine deficiency
+dopamine deficiency	drives	motor symptoms
+neurodegeneration	progresses	over time
+cardiovascular disease	coexists	with parkinson's disease
+diabetes mellitus	coexists	with parkinson's disease
+elderly age	increases	vulnerability
+sex	influences	disease presentation
+male	is associated with	earlier onset
+female	is associated with	different progression
+genetic Parkinson's disease	has	variable prognosis
+early diagnosis	improves	prognosis
+multidisciplinary care	improves	patient outcomes
+caregiver burden	increases	with disease progression
+quality of life	correlates with	motor symptoms
+quality of life	worsens	with dyskinesia
+mobility	declines	with disease progression
+activity of daily living	declines	with motor symptoms
+objective gait metrics	provide	movement assessment
+sedentary behavior	worsens	mobility
+exercise program	reduces	fall risk
+occupational therapy	improves	activities of daily living
+physical therapy	improves	balance
+nutrition therapy	supports	weight maintenance
+swallowing difficulties	increase	risk of aspiration
+aspiration	leads to	pneumonia
+palliative care	improves	quality of life
+end-of-life planning	is recommended	in advanced disease

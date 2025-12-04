@@ -1,0 +1,103 @@
+electrographic cardiac monitoring	is a	diagnostic modality
+electrographic cardiac monitoring	used for	rhythm surveillance
+electrographic cardiac monitoring	records	ECG data
+electrographic cardiac monitoring	detects	arrhythmia
+electrographic cardiac monitoring	monitors	cardiac rhythm
+telemetry	is a	monitoring modality
+telemetry	used for	rhythm surveillance
+telemetry	records	ECG data
+telemetry	detects	arrhythmia
+telemetry	monitors	heart rate
+ECG monitor	is a	portable device
+ECG monitor	provides	waveform data
+ECG monitor	detects	ST segment change
+ECG monitor	records	beat-to-beat data
+ECG monitor	integrates with	hospital system
+ECG tracing	is a	data representation
+ECG tracing	reflects	cardiac rhythm
+ST segment	is a	waveform feature
+ST segment	indicates	ischemia
+QT interval	is a	measurement metric
+QT interval	is affected by	electrolyte disturbance
+electrolyte disturbance	can cause	QT prolongation
+arrhythmia	is a	monitored condition
+arrhythmia	detected by	electrographic monitoring
+tachycardia	is a	type of arrhythmia
+bradycardia	is a	type of arrhythmia
+atrial fibrillation	is a	common arrhythmia
+atrial fibrillation	detected by	telemetry
+atrial fibrillation	leads to	irregular rhythm
+heart rate	is measured by	electrographic monitoring
+heart rate	used for	rate control decisions
+alarm	is triggered by	abnormal rhythm
+alarm	alerts	nurse
+nurse	responds to	alarm
+data	is transmitted to	clinical dashboard
+clinical dashboard	displays	trend data
+trend data	informs	rhythm interpretation
+rhythm interpretation	guides	treatment decisions
+treatment decisions	impact on	patient management
+patient management	affects	resource utilization
+resource utilization	influences	hospital costs
+monitoring	supports	early detection
+early detection	reduces	adverse events
+ECG data	used for	risk stratification
+risk stratification	informs	discharge planning
+discharge planning	depends on	rhythm stability
+rhythm stability	affects	discharge timing
+electrographic monitoring	requires	electrode placement
+electrodes	require	skin preparation
+skin preparation	enhances	signal quality
+signal quality	determines	diagnostic accuracy
+diagnostic accuracy	improves	patient outcomes
+patient outcomes	influence	readmission risk
+readmission risk	correlates with	monitoring duration
+monitoring duration	affects	workflow
+workflow	is optimized by	automation
+automation	reduces	alarm fatigue
+alarm fatigue	increases	clinician workload
+clinician workload	correlates with	patient safety
+ECG monitor	has	alarm thresholds
+alarm thresholds	include	tachycardia threshold
+tachycardia threshold	triggers	alarm
+bradycardia threshold	triggers	alarm
+ambulatory ECG monitoring	is a	noninvasive method
+ambulatory ECG monitoring	used for	outpatient rhythm monitoring
+ECG monitor leads	are	disposable
+leads	connect to	skin
+skin	provides	contact surface
+contact surface	enables	signal transmission
+signal transmission	depends on	lead placement
+lead placement	impacts	signal quality
+signal quality	affects	interpretability
+interpretability	influences	diagnosis confidence
+arrhythmia detection	requires	accurate calibration
+calibration	maintains	device accuracy
+device accuracy	improves	clinical decision confidence
+clinical decision confidence	reduces	misdiagnosis risk
+misdiagnosis risk	affects	patient safety
+patient safety	enhanced by	continuous monitoring
+continuous monitoring	is associated with	improved detection rates
+improved detection rates	correlate with	alert system
+alert system	reduces	time to intervention
+time to intervention	improves	outcomes
+outcomes	include	reduced mortality
+reduced mortality	is a	clinical outcome
+monitoring	supports	perioperative safety
+perioperative safety	improved by	electrographic monitoring
+electrographic monitoring	used in	ICU
+ICU	uses	continuous ECG monitoring
+critical illness	requires	continuous monitoring
+continuous monitoring	reduces	unnoticed deterioration
+unnoticed deterioration	leads to	adverse events
+adverse events	increase	length of stay
+length of stay	affected by	monitoring quality
+data	stored in	electronic health record
+electronic health record	contains	ECG history
+ECG history	used for	longitudinal risk assessment
+longitudinal risk assessment	informs	future monitoring plan
+future monitoring plan	depends on	risk profile
+risk profile	informs	monitoring strategy
+future monitoring plan	informs	staffing requirements
+staffing requirements	impact	monitoring program capacity
+monitoring program capacity	determines	coverage

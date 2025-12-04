@@ -1,0 +1,124 @@
+intubation	is a	airway management procedure
+intubation	requires	laryngoscope
+intubation	performed by	clinician
+intubation	results in	endotracheal tube placement
+endotracheal tube placement	enables	airway ventilation
+endotracheal tube	provides	airway access
+endotracheal tube	requires	cuff inflation
+cuff	seals	trachea
+cuff	requires	inflation
+laryngoscope	aids	glottic visualization
+glottis	is part of	laryngeal anatomy
+ventilator	delivers	breaths
+mechanical ventilation	maintains	gas exchange
+ventilator circuit	contains	humidifier
+humidifier	provides	humidified gas
+gas	is delivered by	ventilator
+FiO2	controls	oxygen concentration
+oxygen concentration	affects	arterial oxygenation
+PEEP	maintains	airway pressure at end expiration
+tidal volume	sets	ventilation per breath
+tidal volume	targets	lung expansion
+plateau pressure	reflects	lung compliance
+driving pressure	correlates with	lung injury risk
+peak inspiratory pressure	signals	airway resistance
+airway resistance	increases	with secretions
+respiratory rate	controls	minute ventilation
+minute ventilation	equals	respiratory rate multiplied by tidal volume
+endotracheal suction	clears	airway secretions
+suction catheter	performs	airway suctioning
+bronchoscopy	guides	airway assessment
+ventilator-associated pneumonia	is a	complication of ventilation
+pneumonia	worsens	oxygenation
+barotrauma	results in	pneumothorax
+pneumothorax	requires	chest drainage
+atelectasis	reduces	oxygenation
+lung compliance	influences	plateau pressure
+lung injury	risk factors	ventilation parameters
+sedation	enables	ventilation tolerance
+analgesia	reduces	patient discomfort
+neuromuscular blockade	facilitates	intubation conditions
+propofol	provides	sedation
+midazolam	provides	sedation
+fentanyl	provides	analgesia
+delirium	prolongs	ventilation duration
+hypoxemia	prompts	ventilator adjustment
+hypercapnia	prompts	ventilator adjustment
+weaning	reduces	ventilation duration
+extubation	removes	endotracheal tube
+extubation readiness	assessed by	spontaneous breathing trial
+spontaneous breathing trial	precedes	extubation
+extubation failure	necessitates	reintubation
+reintubation	associated with	higher mortality
+ventilator-associated pneumonia	increases	hospital length of stay
+bacteremia	associated with	pneumonia
+sedation	used for	ventilation tolerance
+analgesia	supports	patient comfort
+neuromuscular blockade	improves	intubation conditions
+propofol	induces	sedation
+midazolam	induces	sedation
+fentanyl	induces	analgesia
+delirium	worsens	ventilation outcomes
+hypoxemia	triggers	ventilator alarms
+continuous sedation	delays	extubation
+intrinsic PEEP	contributes to	dynamic hyperinflation
+dynamic hyperinflation	impairs	ventilation
+intravenous line	provides	vasopressor delivery
+vasopressor therapy	supports	hemodynamics
+arterial line	monitors	blood pressure
+arterial blood gas	guides	ventilation adjustments
+pH	reflects	acid-base balance
+PaCO2	reflects	ventilation adequacy
+PaO2	reflects	oxygenation adequacy
+PaO2/FiO2 ratio	evaluates	oxygenation efficiency
+oxygenation	monitored by	arterial blood gas
+airway pressure	correlates with	lung compliance
+nasotracheal intubation	alternative to	orotracheal intubation
+orotracheal intubation	standard approach for	emergency ventilation
+ventilator	supports	tidal ventilation
+humidification system	prevents	mucosal drying
+bacterial filter	reduces	infection risk
+daily interruption	allows	wakefulness
+wakefulness	improves	patient comfort
+oral care	reduces	ventilator-associated pneumonia risk
+oral suctioning	clears	secretions
+immobility	increases	venous thromboembolism risk
+bedside nurse	manages	ventilator settings
+respiratory therapist	adjusts	ventilator parameters
+weaning protocol	standardizes	extubation process
+cuff leak	indicates	cuff integrity
+nasal cannula	provides	supplementary oxygen
+face mask	delivers	supplemental oxygen
+oxygen therapy	preceding	ventilation initiation
+airway pressure	monitored by	pressure sensor
+ventilator alarm	alerts	clinician
+alarm limit	set by	clinician
+pressure support ventilation	augments	spontaneous breaths
+volume-targeted ventilation	controls	tidal volume
+assist-control ventilation	delivers	tidal breaths
+synchronized intermittent mandatory ventilation	delivers	breaths
+high-frequency ventilation	used for	neonatal ventilation
+proportional assist ventilation	adjusts	pressure support
+lung protective strategy	reduces	ventilator-induced lung injury
+intravenous fluid	influences	ventilation management
+diaphragm atrophy	occurs with	prolonged ventilation
+diaphragm unloading	improves	extubation success
+post-extubation cough	occurs	after extubation
+laryngotracheal injury	results from	intubation
+aspiration	risks	during intubation
+bronchodilator therapy	supports	ventilation in COPD
+COPD	complicates	ventilation management
+sedation vacation	promotes	wakefulness
+airway protection	remains	primary goal of intubation
+weaning trial	evaluates	readiness for extubation
+oral antibiotic therapy	accompanies	VAP management
+ventilation mode	influences	patient-ventilator synchrony
+patient-ventilator synchrony	improves	comfort
+airway humidification	maintains	mucociliary function
+neurovascular status	monitored during	critical care ventilation
+shock	complicates	ventilator management
+intracranial pressure	monitored during	neuro ventilation
+cuff pressure	monitored by	cuff manometer
+cuff seal	maintained by	cuff inflation
+cuff pressure monitor	ensures	cuff seal
+airway clearance	recommended for	ventilated patients

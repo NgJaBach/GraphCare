@@ -1,100 +1,100 @@
-peritonitis	is a	disease
-peritonitis	is an	inflammatory disease
-peritonitis	may cause	sepsis
-peritonitis	may cause	septic shock
-peritonitis	can lead to	organ failure
-peritonitis	requires	surgery
+peritonitis	is a	medical emergency
+peritonitis	associated with	sepsis
+peritonitis	leads to	septic shock
+peritonitis	increases risk of	mortality
+peritonitis	increases risk of	readmission
 peritonitis	treated with	antibiotics
-peritonitis	treated with	intravenous antibiotics
-peritonitis	associated with	ascites
-peritonitis	associated with	peritoneal signs
-peritonitis	diagnosed by	imaging
+peritonitis	treated with	surgery
+peritonitis	treated with	drainage
+peritonitis	requires	hospitalization
+peritonitis	diagnosed by	paracentesis
+paracentesis	yields	neutrophils
+paracentesis	indicates	infection
+peritoneal fluid	contains	bacteria
+abscess	is a	localized collection of pus
+intestinal abscess	is a	localized collection of pus
+abscess	may complicate	peritonitis
+peritonitis	can cause	ileus
+ileus	presents with	abdominal distension
+ileus	may require	nasogastric decompression
+peritonitis	associated with	fever
+peritonitis	associated with	leukocytosis
+peritonitis	associated with	elevated CRP
 peritonitis	diagnosed by	CT scan
 peritonitis	diagnosed by	ultrasound
-peritonitis	associated with	leukocytosis
-peritonitis	associated with	fever
-peritonitis	associated with	abdominal pain
-peritonitis	associated with	tachycardia
-peritonitis	associated with	hypotension
-peritonitis	associated with	metabolic acidosis
-peritonitis	associated with	elevated CRP
-peritonitis	associated with	mortality
-peritonitis	increases	length of stay
-peritonitis	increases	ICU admission
-peritonitis	increases	hospital costs
-peritonitis	occurs in	postoperative patients
-peritonitis	occurs in	immunocompromised patients
-peritonitis	often presents with	ileus
-peritonitis	is caused by	bowel perforation
-peritonitis	is caused by	diverticulitis
-peritonitis	is caused by	appendicitis
-peritonitis	is caused by	pancreatitis
-peritonitis	is caused by	intra-abdominal infection
-peritonitis	is caused by	perforated viscus
-peritonitis	is caused by	ruptured ulcer
-peritoneal signs	indicate	peritoneal irritation
-ascites	presents with	abdominal distension
-ileus	accompanies	peritonitis
-sepsis	can result from	peritonitis
-shock	represents	septic shock
-organ failure	worsens	prognosis
-drainage	used for	abscess
-abscess	is a	collection of pus
-abscess	treated with	drainage
+peritonitis	diagnosed by	diagnostic laparoscopy
+CT scan	is a	imaging modality
+ultrasound	is a	imaging modality
 abscess	treated with	antibiotics
-abscess	may require	surgical drainage
-abscess	can lead to	peritonitis
-abscess	increases	risk of sepsis
-abscess	diagnosed by	CT scan
-abscess	diagnosed by	ultrasound
-abscess	diagnosed by	MRI
-abscess	presents with	abdominal pain
-abscess	presents with	fever
-abscess	presents with	leukocytosis
-diverticulitis	can cause	intestinal abscess
-diverticulitis	treated with	antibiotics
-diverticulitis	treated with	surgery
-diverticulitis	diagnosed by	CT scan
-diverticulitis	associated with	peritonitis
-diverticulitis	recurrence	risk
-intestinal abscess	is a	localized infection
-intestinal abscess	is a	purulent collection
-intestinal abscess	caused by	bacterial infection
-intestinal abscess	commonly associated with	diverticulitis
-intestinal abscess	caused by	diverticular disease
+abscess	treated with	drainage
+abscess	requires	hospitalization
 intestinal abscess	treated with	drainage
 intestinal abscess	treated with	antibiotics
-intestinal abscess	may require	surgical drainage
-intestinal abscess	can lead to	peritonitis
-intestinal abscess	increases	risk of sepsis
+intestinal abscess	requires	drainage
+peritonitis	predisposes to	sepsis
+peritonitis	increases	hospital stay
+peritonitis	increases	resource use
+intestinal abscess	is a	localized infection
 intestinal abscess	diagnosed by	CT scan
 intestinal abscess	diagnosed by	ultrasound
-intestinal abscess	diagnosed by	MRI
-intestinal abscess	presents with	abdominal pain
-intestinal abscess	presents with	fever
-intestinal abscess	presents with	leukocytosis
-intestinal abscess	occurs in	diverticulitis
-abscess drainage	reduces	abscess volume
-percutaneous drainage	used for	abscess
-surgical drainage	used for	abscess
-source control	is essential for	peritonitis
-intravenous antibiotics	treat	peritonitis
-intravenous antibiotics	treat	intestinal abscess
-broad-spectrum antibiotics	used for	peritonitis
-broad-spectrum antibiotics	used for	intestinal abscess
-ceftriaxone	used for	peritonitis
-meropenem	used for	severe peritonitis
-piperacillin-tazobactam	used for	broad-spectrum therapy
-vancomycin	used for	intra-abdominal infection
+intestinal abscess	can cause	peritonitis
+peritonitis	can lead to	abscess formation
+abscess	located in	peritoneal cavity
+peritoneal cavity	contains	pus
+peritoneal infection	increases risk of	sepsis
+peritoneal infection	diagnosed by	ascitic fluid culture
+ascitic fluid culture	yields	bacteria
 bacteria	cause	peritonitis
-Gram-negative bacteria	commonly implicated	peritonitis
-anaerobes	commonly implicated	peritonitis
-organ failure	worsens	prognosis
-critical care	required for	septic shock
-vasopressors	required for	septic shock
-white blood cell count	elevated in	peritonitis
-CRP	elevated in	peritonitis
-procalcitonin	elevated in	peritonitis
-peritoneal fluid	analysis shows	neutrophils
-neutrophils	indicate	infection
-imaging	used for	diagnosis of peritonitis
+E. coli	commonly causes	peritonitis
+Streptococcus	commonly causes	peritonitis
+Bacteroides	commonly causes	peritonitis
+peritonitis	treated with	broad-spectrum antibiotics
+carbapenems	used for	peritonitis
+piperacillin-tazobactam	used for	peritonitis
+meropenem	used for	peritonitis
+vancomycin	used for	peritonitis
+antibiotics	are used for	peritonitis
+peritoneal dialysis	associated with	peritonitis
+cirrhosis	associated with	peritonitis
+kidney failure	associated with	peritonitis
+diabetes mellitus	associated with	peritonitis
+malnutrition	associated with	peritonitis
+peritonitis	has	high mortality
+perforated viscus	causes	peritonitis
+appendix rupture	causes	peritonitis
+peritonitis	common in	postoperative patients
+paracentesis	used for	therapeutic fluid removal
+laparotomy	used for	source control in peritonitis
+peritoneal lavage	performed during	surgery
+surgery	performed for	source control
+peritoneal fluid	analysis shows	neutrophilia
+neutrophilia	indicates	bacterial infection
+SIRS	associated with	peritonitis
+shock	is a	severe complication of peritonitis
+mortality	associated with	peritonitis
+readmission	associated with	peritonitis
+length of stay	increased by	peritonitis
+surgical drain	used for	abscess
+imaging-guided drainage	preferred for	abscess
+peritoneal lavage	part of	source control
+source control	critical for	peritonitis outcome
+antibiotics	initial therapy for	peritonitis
+culture results	guide	antibiotic therapy
+culture results	influence	antibiotic choice
+antibiotic therapy	aims at	bacterial eradication
+bacterial eradication	shortens	hospital stay
+treatment failure	associated with	mortality
+delayed presentation	associated with	advanced disease
+advanced disease	increases	mortality
+postoperative peritonitis	occurs after	surgery
+postoperative peritonitis	associated with	higher mortality
+prognosis	depends on	timely treatment
+timely treatment	reduces	mortality
+treatment delay	increases	mortality
+abscess	has	recurrence
+peritonitis	associated with	organ failure
+organ failure	increases	mortality
+abscess	can be	intra-abdominal source of infection
+intra-abdominal source of infection	leads to	peritonitis
+peritonitis	requires	surgical source control
+intestinal abscess	risk of rupture	high

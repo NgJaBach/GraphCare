@@ -1,0 +1,100 @@
+bone scintigraphy	is a	nuclear medicine imaging
+bone scintigraphy	uses	radiotracer
+bone scintigraphy	uses	technetium-99m
+bone scintigraphy	detects	metastases
+bone scintigraphy	detects	fractures
+bone scintigraphy	detects	osteomyelitis
+bone scintigraphy	detects	infection
+bone scintigraphy	used for	cancer staging
+bone scintigraphy	used for	metastasis screening
+bone scintigraphy	visualizes	uptake pattern
+radiotracer	is a	radioactive compound
+technetium-99m	is a	radiotracer
+technetium-99m	used for	bone imaging
+diphosphonate	is a	radiopharmaceutical
+bone imaging	relies on	osteoblastic activity
+osteoblastic activity	increases	radiotracer uptake
+radiotracer uptake	appears as	hot spot
+hot spot	indicates	pathology
+cold spot	indicates	necrosis
+osteoblastic activity	correlates with	bone turnover
+bone turnover	drives	radiotracer uptake
+uptake	is seen on	planar images
+planar images	produced by	gamma camera
+gamma camera	detects	gamma emissions
+bone scintigraphy	yields	whole-body survey
+whole-body survey	allows	metastasis detection
+metastasis detection	improves	staging accuracy
+cancer	commonly evaluated with	bone scintigraphy
+bone scintigraphy	enhances	detection of metastasis
+metastasis detection	informs	treatment planning
+spine	site of	metastasis
+breast cancer	commonly metastasizes to	bone
+prostate cancer	commonly metastasizes to	bone
+lung cancer	commonly metastasizes to	bone
+metastases	can be	osteoblastic
+metastases	can be	osteolytic
+osteoblastic metastasis	presents as	hot spots
+osteolytic metastasis	presents as	cold spots
+osteomyelitis	shows	increased uptake
+infection	shows	increased uptake
+occult fracture	shows	uptake on bone scintigraphy
+prosthesis loosening	shows	abnormal uptake
+fracture	shows	focal uptake at fracture site
+stress fracture	shows	focal uptake
+vertebral metastasis	shows	uptake
+skull metastasis	shows	uptake
+pelvis metastasis	shows	uptake
+limb metastasis	shows	uptake
+fever of unknown origin	evaluated by	bone scintigraphy
+bone scintigraphy protocol	includes	three-phase imaging
+three-phase imaging	comprises	blood pool phase
+blood pool phase	reflects	vascular activity
+delayed phase	shows	osseous uptake
+bone scintigraphy	provides	functional information
+functional information	complements	anatomical imaging
+bone scintigraphy	compared with	MRI
+MRI	provides	anatomic detail
+bone scintigraphy	compared with	CT imaging
+CT imaging	provides	anatomical detail
+bone scintigraphy	superior to	plain radiography for metastasis detection
+plain radiography	has	lower sensitivity
+fracture	is part of	osteopathic trauma
+three-phase imaging	enables	early fracture detection
+early fracture detection	improves	patient management
+patient management	depends on	scan results
+scan results	influence	treatment decisions
+treatment decisions	depend on	metastasis status
+systemic therapy	chosen based on	metastasis extent
+metastasis extent	assessed by	bone scintigraphy
+bone scintigraphy	capable of	whole-body surveillance
+bone scanning	synonyms with	bone scintigraphy
+bone scintigraphy	used in	pediatric imaging
+pediatric imaging	limited by	radiation exposure
+radiation exposure	minimized by	optimized protocols
+optimized protocol	reduces	dose
+dose	relates to	radiotracer activity
+radiotracer activity	calibrates	scan quality
+scan quality	affects	diagnostic accuracy
+diagnostic accuracy	predicts	patient outcome
+outcome	depends on	detection accuracy
+detection accuracy	improves	management plan
+uptake increase	occurs in	healing fracture
+healing fracture	shows	increasing uptake over time
+time course	monitored by	serial bone scintigraphy
+serial bone scintigraphy	tracks	disease progression
+disease progression	reflected by	increasing uptake
+inflammation	causes	uptake in bone scintigraphy
+inflammatory arthritis	shows	uptake in joints
+diffuse skeletal uptake	suggest	metabolic bone disease
+metabolic bone disease	associated with	renal osteodystrophy
+renal osteodystrophy	causes	diffuse uptake
+diffuse uptake	seen in	metabolic bone disease
+metastatic burden	estimated by	uptake intensity
+uptake intensity	guides	prognosis estimation
+uptake intensity	correlates with	tumor burden
+tumor burden	influences	prognosis
+bone scintigraphy	used for	pediatric oncology staging
+bone scintigraphy	used for	osteoporosis assessment
+therapy	monitored by	bone scintigraphy
+bone scintigraphy	informs	patient management

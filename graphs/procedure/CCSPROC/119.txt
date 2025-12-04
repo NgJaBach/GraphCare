@@ -1,0 +1,101 @@
+unilateral oophorectomy	is a type of	oophorectomy
+bilateral oophorectomy	is a type of	oophorectomy
+laparoscopic oophorectomy	is a type of	oophorectomy
+open oophorectomy	is a type of	oophorectomy
+robotic oophorectomy	is a type of	oophorectomy
+abdominal oophorectomy	is a type of	oophorectomy
+pelvic oophorectomy	is a type of	oophorectomy
+ovarian removal	is a synonym of	oophorectomy
+ovarian resection	is a synonym of	oophorectomy
+oophorectomy	performed for	ovarian cancer
+oophorectomy	performed for	benign ovarian tumor
+oophorectomy	performed for	endometriosis
+oophorectomy	performed for	pelvic mass
+bilateral oophorectomy	performed for	ovarian cancer risk reduction
+unilateral oophorectomy	performed for	unilateral ovarian disease
+ovarian cancer	treated with	oophorectomy
+benign ovarian tumor	treated with	oophorectomy
+endometriosis	treated with	oophorectomy
+ovarian cancer risk	reduced by	bilateral oophorectomy
+estrogen production	decreases after	oophorectomy
+bone density	decreases after	oophorectomy
+menopause	induced by	oophorectomy
+surgical menopause	results in	vasomotor symptoms
+vasomotor symptoms	affect	quality of life
+quality of life	worsened by	vasomotor symptoms
+hormone replacement therapy	prescribed for	estrogen deficiency
+estrogen deficiency	treated with	hormone replacement therapy
+bone density	monitored after	oophorectomy
+bone density testing	recommended after	oophorectomy
+bone loss	accelerated by	estrogen deficiency
+osteoporosis risk	increases after	oophorectomy
+cardiovascular risk	increases after	oophorectomy
+lipid profile	worsens after	oophorectomy
+bone mineral density	decreases after	oophorectomy
+operative time	longer with	bilateral oophorectomy
+blood loss	greater with	open oophorectomy
+perioperative complication	risk after	oophorectomy
+bleeding	is a complication of	oophorectomy
+infection	is a complication of	oophorectomy
+ureteral injury	is a complication of	oophorectomy
+bowel injury	is a complication of	oophorectomy
+bladder injury	is a complication of	oophorectomy
+postoperative pain	occurs after	oophorectomy
+recovery time	is longer after	oophorectomy
+hospital stay	is longer after	oophorectomy
+readmission	risk after	oophorectomy
+laparoscopic oophorectomy	associated with	shorter recovery time
+open oophorectomy	associated with	longer recovery time
+laparoscopy	reduces	recovery time
+surgical approach	influences	complication risk
+hysterectomy	may be performed with	oophorectomy
+hysterectomy	commonly performed with	oophorectomy
+BRCA mutation	indicates	prophylactic bilateral oophorectomy
+BRCA1 mutation	indicates	prophylactic bilateral oophorectomy
+BRCA2 mutation	indicates	prophylactic bilateral oophorectomy
+prophylactic bilateral oophorectomy	yields	estrogen deficiency
+estrogen deficiency	necessitates	hormone replacement therapy
+hormone replacement therapy	prevents	vasomotor symptoms
+vasomotor symptoms	can persist	after hormone replacement therapy
+breast cancer risk	reduced by	oophorectomy
+breast cancer risk	reduced by	prophylactic bilateral oophorectomy
+ovarian cancer prevention	achieved by	bilateral oophorectomy
+ovarian remnant	persists after	oophorectomy
+ovarian remnant syndrome	possible complication after	oophorectomy
+ovarian tissue	sent for	pathology
+pathology	obtained from	resected ovary
+pathology report	confirms	ovarian pathology
+resected ovary	sent to	pathology
+adjuvant therapy	considered after	ovarian cancer surgery
+ovarian cancer surgery	includes	oophorectomy
+preoperative evaluation	essential for	oophorectomy
+preoperative consent	obtained for	oophorectomy
+postoperative care	includes	wound care
+wound infection	risk after	oophorectomy
+perioperative mortality	risk after	oophorectomy
+age	influences	risk of complications during oophorectomy
+weight	influences	perioperative risk
+smoking	increases	perioperative risk
+diabetes	increases	perioperative risk
+surgical planning	improves	outcomes after oophorectomy
+intraoperative complication	possible during	oophorectomy
+ureter	at risk during	oophorectomy
+ovarian tissue	removed during	oophorectomy
+oxygenation	maintained by	anesthesia during oophorectomy
+anesthesia	influences	perioperative outcome
+antiemetic therapy	used for	postoperative nausea
+postoperative nausea	treated with	antiemetic therapy
+pain control	achieved by	analgesia after oophorectomy
+physical therapy	facilitates	recovery after oophorectomy
+postoperative follow-up	scheduled after	oophorectomy
+surgeon experience	reduces	complication risk
+facility resources	influence	length of stay after oophorectomy
+minimally invasive approaches	increase	rate of oophorectomy adoption
+infection control measures	reduce	postoperative infection
+venous thromboembolism	risk after	oophorectomy
+mobile health	supports	follow-up after oophorectomy
+antibiotic prophylaxis	associated with	oophorectomy
+open oophorectomy	associated with	longer incision
+incision length	greater in	open oophorectomy
+mortality	low after	oophorectomy
+outcome	measured by	mortality after oophorectomy

@@ -1,0 +1,114 @@
+radius fracture	is a	forearm fracture
+ulna fracture	is a	forearm fracture
+forearm fracture	requires	immobilization
+distal radius fracture	treated with	casting
+distal radius fracture	treated with	sugar-tong splint
+distal radius fracture	treated with	immobilization
+distal radius fracture	managed by	closed reduction
+distal radius fracture	managed by	open reduction and internal fixation
+forearm fracture	treated with	external fixation
+forearm fracture	treated with	plate fixation
+forearm fracture	treated with	intramedullary nailing
+radius fracture	treated with	volar locking plate
+radius fracture	treated with	dorsal plate
+ulna fracture	treated with	plate fixation
+open fracture	requires	wound debridement
+open fracture	requires	intravenous antibiotics
+distal radius fracture	treated with	percutaneous pinning
+Monteggia fracture	treated with	closed reduction
+Monteggia fracture	treated with	ORIF
+Galeazzi fracture	treated with	plate fixation
+Colles fracture	treated with	cast immobilization
+Smith fracture	treated with	cast immobilization
+pediatric forearm fracture	treated with	closed reduction
+adult forearm fracture	treated with	ORIF
+bone healing	requires	blood supply
+osteoporosis	increases risk of	forearm fracture
+smoking	impairs	fracture healing
+diabetes mellitus	increases risk of	infection after fracture
+open fracture	increases risk of	infection
+open fracture	associated with	wound contamination
+reduction	achieves	fracture alignment
+ORIF	provides	stable fixation
+external fixation	provides	provisional stabilization
+K-wire	used for	percutaneous pinning
+percutaneous pinning	used for	pediatric forearm fracture
+volar locking plate	used for	distal radius stabilization
+dorsal plate	used for	distal radius stabilization
+bone graft	used for	nonunion treatment
+bone graft	used for	fracture healing
+rehabilitation	follows	immobilization
+physical therapy	improves	range of motion
+range of motion	improves with	rehabilitation
+joint stiffness	persists after	forearm fracture
+malunion	leads to	deformity
+nonunion	leads to	chronic pain
+infection	occurs after	open fracture
+hardware failure	occurs after	plate fixation
+refracture	occurs after	cast removal
+CRPS	occurs after	forearm fracture
+nerve injury	associated with	Monteggia fracture
+radial nerve injury	causes	wrist drop
+ulnar nerve injury	causes	hand weakness
+neurovascular injury	occurs with	high-energy forearm trauma
+sugar-tong splint	used for	initial immobilization
+short arm cast	used for	distal radius immobilization
+long arm cast	used for	forearm immobilization
+cast immobilization	duration	immobilization period
+bone healing	accelerated by	early fixation
+bone healing	depends on	blood supply
+early fixation	reduces	immobilization time
+volar locking plate	improves	fracture stability
+fracture stability	predicts	fixation success
+fracture stability	correlates with	functional outcome
+treatment decision	based on	fracture pattern
+fracture pattern	influences	implant choice
+implant choice	based on	bone quality
+bone quality	reduced by	osteoporosis
+osteoporosis	compromises	bone healing
+open fracture	requires	tetanus prophylaxis
+tetanus prophylaxis	indicated for	open fracture
+antibiotics	prophylaxis	open fracture
+intramedullary nail	used for	ulna stabilization
+external fixator	indicated for	unstable fracture
+bone alignment	restored by	reduction
+joint congruity	restored by	reduction
+postoperative immobilization	prescribed for	fracture stabilization
+postoperative radiographs	monitor	bone alignment
+serial radiographs	monitor	healing progression
+cast removal	occurs after	immobilization period
+rehabilitation protocol	tailored to	fracture pattern
+Colles fracture	risk of	malunion
+distal radius fracture	risk of	osteoarthritis
+aging	associated with	slower healing
+smoking	associated with	delayed union
+smoking cessation	improves	healing
+bone healing	influenced by	nutritional status
+nutrition	affects	bone healing
+vitamin D deficiency	impairs	fracture healing
+body mass index	correlates with	fracture risk
+age	correlates with	fracture risk
+immobilization	risks	stiffness
+early mobilization	improves	functional outcome
+fracture type	guides	therapy choice
+fracture type	influences	implant choice
+implant choice	based on	bone quality
+bone quality	reduced by	osteoporosis
+open fracture	requires	tetanus prophylaxis
+tetanus prophylaxis	indicated for	open fracture
+antibiotics	prophylaxis	open fracture
+intramedullary nail	used for	ulna stabilization
+external fixator	indicated for	unstable fracture
+bone alignment	restored by	reduction
+joint congruity	restored by	reduction
+postoperative immobilization	prescribed for	fracture stabilization
+postoperative radiographs	monitor	bone alignment
+serial radiographs	monitor	healing progression
+cast removal	occurs after	immobilization period
+rehabilitation protocol	tailored to	fracture pattern
+Colles fracture	risk of	malunion
+distal radius fracture	risk of	osteoarthritis
+aging	associated with	slower healing
+smoking	associated with	delayed union
+smoking cessation	improves	healing
+bone healing	influenced by	nutritional status

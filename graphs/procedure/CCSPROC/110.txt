@@ -1,0 +1,100 @@
+urinalysis	is a	diagnostic test
+urine culture	identifies	pathogen
+urine culture	confirms	urinary tract infection
+urine culture	guides	antibiotic therapy
+urine dipstick	detects	nitrites
+urine dipstick	detects	leukocyte esterase
+urine dipstick	detects	blood
+urinalysis	detects	hematuria
+urine cytology	detects	urothelial cancer
+urine cytology	screens for	urothelial cancer
+renal ultrasound	evaluates	hydronephrosis
+renal ultrasound	detects	kidney stones
+renal ultrasound	assesses	renal size
+renal ultrasound	visualizes	cysts
+renal ultrasound	detects	obstruction
+bladder ultrasound	measures	post-void residual
+bladder ultrasound	detects	urinary retention
+bladder ultrasound	visualizes	bladder wall thickening
+bladder ultrasound	detects	bladder mass
+KUB radiography	detects	radiopaque stones
+noncontrast CT	detects	nephrolithiasis
+CT urography	detects	kidney stones
+CT urography	evaluates	hydronephrosis
+CT urography	visualizes	urinary tract
+CT urography	characterizes	renal mass
+contrast-enhanced CT	evaluates	renal mass
+MRI urography	visualizes	urinary tract anatomy
+MR urography	assesses	ureteral obstruction
+MR urography	detects	ureteral stenosis
+intravenous pyelography	shows	urinary tract anatomy
+retrograde pyelography	images	ureters
+retrograde pyelography	evaluates	ureteral stricture
+DMSA scan	evaluates	renal cortical function
+MAG3 renogram	assesses	drainage
+DTPA renography	evaluates	drainage
+VCUG	detects	vesicoureteral reflux
+voiding cystourethrogram	detects	vesicoureteral reflux
+cystometry	measures	bladder capacity
+uroflowmetry	measures	peak flow rate
+urodynamic testing	evaluates	bladder function
+cystoscopy	inspects	bladder mucosa
+cystoscopy	detects	bladder tumors
+cystoscopy	obtains	biopsy sample
+cystoscopy with biopsy	confirms	bladder cancer
+urethral pressure profilometry	measures	urethral pressure
+renal biopsy	diagnoses	glomerulonephritis
+renal biopsy	guides	treatment decisions
+urinalysis	supports	diagnosis of infection
+urine culture	supports	antibiotic choice
+urine culture	shows	antibiotic susceptibility
+DMSA scan	detects	renal scarring
+DMSA scan	evaluates	cortical function
+MAG3 renogram	demonstrates	delayed drainage
+MAG3 renogram	assesses	renal drainage
+DTPA renography	evaluates	tubular drainage
+VCUG	grades	vesicoureteral reflux
+voiding cystourethrogram	grades	vesicoureteral reflux
+cystometry	determines	bladder capacity
+urodynamic testing	determines	bladder outlet obstruction
+cystoscopy	biopsies	bladder tumor
+cystoscopy	guides	transurethral resection
+ultrasound-guided renal biopsy	yields	tissue sample
+CT-guided renal biopsy	yields	tissue sample
+MRI-guided renal biopsy	yields	tissue sample
+nuclear medicine renal scan	quantifies	renal function
+renogram	quantifies	split renal function
+diuretic renography	evaluates	drainage
+renal angiography	visualizes	renal vasculature
+renal artery stenosis imaging	detects	stenosis
+CT angiography	visualizes	renal vasculature
+ultrasound elastography	assesses	renal mass stiffness
+contrast-enhanced ultrasound	characterizes	renal lesion
+diffusion-weighted MRI	characterizes	renal lesion
+diffusion-weighted imaging	helps	differentiate mass
+diffusion-weighted MRI	differentiates	malignant from benign lesion
+FDG-PET/CT	detects	urothelial carcinoma
+PET-CT	detects	urothelial carcinoma
+stone protocol CT	detects	stones
+renal mass protocol MRI	characterizes	renal mass
+microhematuria assessment	uses	urinalysis
+proteinuria screening	uses	urine test
+urine microalbumin	indicates	early kidney damage
+proteinuria assessment	uses	urine sample
+urinalysis	monitors	infection status
+urine culture	monitors	infection clearance
+renal ultrasound	monitors	stone burden
+MRI urography	monitors	obstruction progression
+CT urography	monitors	stone burden
+cystoscopy	monitors	bladder lesion progression
+urine cytology	monitors	cancer recurrence
+VCUG	monitors	reflux grade over time
+voiding cystourethrogram	monitors	reflux grade over time
+CT urography	identifies	urothelial tumor
+MRI urography	identifies	ureteropelvic obstruction
+intravenous pyelography	identifies	obstruction
+retrograde pyelography	identifies	ureteral stricture
+renal biopsy	confirms	glomerulonephritis
+renal stone analysis	classifies	stone composition
+stone composition analysis	guides	lithotripsy planning
+urinary tract imaging	supports	differential diagnosis

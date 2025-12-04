@@ -1,100 +1,100 @@
-inflammation	is a	ocular inflammatory condition
-inflammation	may lead to	eye infection
-eye infection	is associated with	inflammation
-eye infection	is treated with	antibiotics
-eye infection	requires	ophthalmology evaluation
-eye infection	may spread to	adjacent tissue
+eye infection	is a	ocular infection
 conjunctivitis	is a	eye infection
 conjunctivitis	caused by	bacteria
 conjunctivitis	caused by	virus
-conjunctivitis	treated with	antibiotic drops
-bacterial conjunctivitis	treated with	topical antibiotics
-viral conjunctivitis	treated with	supportive care
+conjunctivitis	caused by	adenovirus
+conjunctivitis	presents with	discharge
+conjunctivitis	presents with	redness
+conjunctivitis	presents with	itching
+conjunctivitis	treated with	topical antibiotic
+conjunctivitis	treated with	artificial tears
+eye infection	diagnosed by	clinical examination
+eye infection	diagnosed by	culture
 keratitis	is a	corneal infection
-keratitis	may cause	corneal ulcer
-keratitis	treated with	antibiotic drops
-keratitis	may result in	corneal scarring
-bacterial keratitis	treated with	fortified antibiotics
-fungal keratitis	treated with	antifungal drops
-herpetic keratitis	caused by	herpes simplex virus
-keratoplasty	may be performed for	corneal scarring
-endophthalmitis	is a	intraocular infection
-endophthalmitis	requires	urgent treatment
-endophthalmitis	can cause	vision loss
+keratitis	caused by	bacteria
+keratitis	caused by	fungi
+keratitis	presents with	eye pain
+keratitis	presents with	photophobia
+keratitis	treated with	topical antibiotics
+keratitis	treated with	antifungal therapy
+keratitis	diagnosed by	corneal scraping
+keratitis	can lead to	corneal scarring
+keratitis	can lead to	corneal perforation
 uveitis	is a	intraocular inflammation
+uveitis	presents with	eye pain
+uveitis	presents with	blurred vision
 uveitis	treated with	corticosteroids
-uveitis	may be associated with	autoimmune disease
-uveitis	can cause	decreased vision
-anterior uveitis	is a	subtype of uveitis
-posterior uveitis	is a	subtype of uveitis
-panuveitis	is a	diffuse ocular inflammation
-herpes simplex keratitis	presents with	dendritic ulcers
-herpes zoster ophthalmicus	can cause	keratitis
-corneal ulcer	is a	complication of keratitis
-dendritic ulcer	is a	finding in herpes simplex keratitis
-eye discharge	is a	symptom of eye infection
-eye redness	is a	symptom of eye infection
-eye pain	is a	symptom of eye infection
-photophobia	is a	symptom of eye infection
-blurry vision	is a	symptom of eye infection
-vision loss	is a	potential outcome of endophthalmitis
-stye	is a	eyelid infection
+uveitis	diagnosed by	slit lamp examination
 blepharitis	is a	eyelid inflammation
-dacryocystitis	is a	tear duct infection
-nasolacrimal duct obstruction	results from	dacryocystitis
-contact lens use	increases risk of	keratitis
-pseudomonas aeruginosa	causes	keratitis
-staphylococcus aureus	causes	conjunctivitis
-adenovirus	causes	conjunctivitis
-neisseria gonorrhoeae	causes	hyperacute conjunctivitis
-chlamydia trachomatis	causes	inclusion conjunctivitis
-neonatal conjunctivitis	is a	ocular infection in newborns
-topical antibiotic	is first line for	bacterial conjunctivitis
-moxifloxacin	is used for	bacterial conjunctivitis
-ciprofloxacin	is used for	bacterial keratitis
-amoxicillin-clavulanate	is used for	ocular infection
-azithromycin	is used for	ocular infection
-erythromycin	is used for	ocular infection
-natamycin	is used for	fungal keratitis
-amphotericin B	is used for	fungal eye infection
-voriconazole	is used for	fungal keratitis
-intravitreal injection	is a treatment for	endophthalmitis
-intravitreal antibiotic	is used for	endophthalmitis
-intravitreal antifungal	is used for	fungal endophthalmitis
-corneal graft	is a	surgical option for keratitis
-corneal transplant	may be performed for	corneal scar
-scleritis	is a	ocular inflammation
-ophthalmology consultation	is required for	eye infection
-culture	is a	diagnostic test for eye infection
-PCR test	is a	diagnostic test for eye infection
-culture result	informs	antibiotic selection
-antibiotic susceptibility	guides	antibiotic choice
-pseudomonas resistance	is a	concern in keratitis
-corneal thinning	is a	complication of keratitis
-corneal perforation	is a	complication of keratitis
-neovascularization	is a	complication of keratitis
-eye infection	can cause	corneal scarring
-contact lens wearer	has risk of	corneal infection
-trauma	predisposes to	corneal infection
-seasonal variation	affects incidence of	conjunctivitis
-dry eye	worsens	ocular surface inflammation
-allergic conjunctivitis	is a	noninfectious ocular inflammation
-immunocompromised	increases risk of	ocular infection
-diabetes mellitus	increases risk of	keratitis
-age	is a	risk factor for eye infection
-bandage contact lens	associated with	keratitis
-keratoplasty	is a	surgical option for keratitis
-hospitalization	may occur for	severe eye infection
-readmission	risk after	eye infection
-age group	at risk for	conjunctivitis
-immunosuppressive therapy	increases risk of	ocular infection
-eye scraping	is a	diagnostic procedure for keratitis
-ocular surface disease	increases risk of	eye infection
-nasolacrimal duct obstruction	associated with	tear drainage impairment
-trauma	can cause	corneal infection
-eye trauma	increases risk of	corneal infection
-eye allergy	may mimic	infectious conjunctivitis
-neonatal prophylaxis	prevents	neonatal eye infection
-eye hygiene	improves	ocular surface health
-antibiotic resistance	complicates	eye infection treatment
-quality of life	impacted by	ocular infection
+blepharitis	associated with	seborrheic dermatitis
+blepharitis	treated with	lid hygiene
+endophthalmitis	is a	intraocular infection
+endophthalmitis	occurs after	intraocular surgery
+endophthalmitis	treated with	intravitreal antibiotics
+endophthalmitis	leads to	vision loss
+orbital cellulitis	is a	severe eye infection
+orbital cellulitis	presents with	proptosis
+orbital cellulitis	can cause	vision impairment
+dacryocystitis	is a	tear sac infection
+dacryocystitis	caused by	nasolacrimal duct obstruction
+dacryocystitis	treated with	antibiotics
+nasololacrimal duct obstruction	predisposes to	dacryocystitis
+immunosuppression	increases	risk of eye infection
+diabetes mellitus	increases	risk of ocular infection
+contact lens wear	increases	risk of keratitis
+trauma	increases	risk of corneal infection
+age	increases	risk of conjunctivitis
+seasonal variation	affects	conjunctivitis incidence
+nasololacrimal duct obstruction	increases	risk of dacryocystitis
+contact lens hygiene	reduces	risk of keratitis
+antibiotics	treat	bacterial conjunctivitis
+antivirals	treat	viral conjunctivitis
+topical steroids	used for	anterior uveitis
+cycloplegic drops	used for	anterior uveitis
+slit lamp examination	diagnoses	anterior uveitis
+culture	identifies	bacteria
+PCR	identifies	viral cause
+corneal scrapings	yield	pathogens
+imaging	used for	orbital cellulitis
+ultrasound	used for	orbital cellulitis
+intravitreal antibiotics	used for	endophthalmitis
+topical antibiotics	prescribed for	conjunctivitis
+systemic antibiotics	prescribed for	orbital cellulitis
+Lid hygiene	improves	blepharitis
+antibiotic prophylaxis	reduces	post-surgical infection
+corneal transplant	replaces	cornea
+peripheral ulcerative keratitis	associated with	autoimmune disease
+pseudomonas	causes	keratitis
+staphylococcus	causes	blepharitis
+adenovirus	causes	viral conjunctivitis
+herpes simplex virus	causes	keratitis
+allergic conjunctivitis	is a	allergic inflammation
+atopy	is a	risk factor for allergic conjunctivitis
+glaucoma	can co-occur with	uveitis
+neonatal conjunctivitis	occurs in	newborns
+adult conjunctivitis	occurs in	adults
+orbital abscess	can follow	orbital cellulitis
+conjunctival injection	is a	sign
+conjunctival swelling	is a	sign
+mucopurulent discharge	indicates	bacterial conjunctivitis
+povidone-iodine	used for	ocular surface prep
+chlorhexidine	is a	antiseptic
+aseptic technique	reduces	infection risk
+intracameral antibiotics	used for	intraocular surgery prophylaxis
+conjunctival scarring	results in	vision loss
+trachoma	is a	infectious conjunctivitis
+lid crusting	is a	sign of blepharitis
+mucopurulent discharge	indicates	bacterial conjunctivitis
+follicles	indicates	viral conjunctivitis
+papillae	indicates	allergic conjunctivitis
+neovascularization	occurs in	keratitis
+corneal thinning	occurs in	keratitis
+corneal edema	occurs in	keratitis
+eyelid swelling	occurs in	blepharitis
+scleral injection	indicates	scleritis
+scleritis	associated with	autoimmune disease
+autoimmune disease	associated with	scleritis
+trachomatous conjunctival scarring	results in	vision loss
+lubricant drops	used for	dry eye symptoms
+antibiotic resistance	impacts	treatment of eye infection
+ocular pain	indicates	conjunctivitis

@@ -1,85 +1,98 @@
-diabetes mellitus without complication	is a	chronic metabolic disorder
-diabetes mellitus without complication	is diagnosed by	fasting plasma glucose
-diabetes mellitus without complication	is diagnosed by	hemoglobin A1c
-diabetes mellitus without complication	is diagnosed by	oral glucose tolerance test
-diabetes mellitus without complication	is managed with	lifestyle modification
-diabetes mellitus without complication	is treated with	metformin
-diabetes mellitus without complication	may progress to	diabetic nephropathy
-diabetes mellitus without complication	may progress to	retinopathy
+diabetes mellitus without complication	is a	chronic disease
 diabetes mellitus without complication	increases risk for	cardiovascular disease
 diabetes mellitus without complication	increases risk for	stroke
 diabetes mellitus without complication	increases risk for	myocardial infarction
-diabetes mellitus without complication	increases risk for	peripheral vascular disease
-diabetes mellitus without complication	increases risk for	neuropathy
+diabetes mellitus without complication	increases risk for	heart failure
+diabetes mellitus without complication	increases risk for	peripheral artery disease
 diabetes mellitus without complication	increases risk for	nephropathy
-diabetes mellitus without complication	may require	insulin therapy
-insulin therapy	is used for	glycemic control
-diabetes mellitus without complication	is associated with	obesity
-diabetes mellitus without complication	is associated with	hypertension
-diabetes mellitus without complication	is associated with	hyperlipidemia
-diabetes mellitus without complication	is associated with	metabolic syndrome
-diabetes mellitus without complication	is associated with	chronic kidney disease
-diabetes mellitus without complication	increases risk for	infection
-diabetes mellitus without complication	is associated with	microalbuminuria
-diabetes mellitus without complication	is more prevalent in	older adults
-diabetes mellitus without complication	is monitored by	HbA1c
-diabetes mellitus without complication	is associated with	cataracts
-diabetes mellitus without complication	is associated with	glaucoma
-diabetes mellitus without complication	is associated with	periodontal disease
-diabetes mellitus without complication	is associated with	erectile dysfunction
-diabetes mellitus without complication	is associated with	sleep apnea
-diabetes mellitus without complication	is a risk factor for	all-cause mortality
-diabetes mellitus without complication	is associated with	venous thromboembolism
-diabetes mellitus without complication	may cause	diabetic retinopathy
-diabetes mellitus without complication	increases risk for	foot ulcers
+diabetes mellitus without complication	increases risk for	retinopathy
+diabetes mellitus without complication	increases risk for	neuropathy
+diabetes mellitus without complication	increases risk for	foot ulcer
 diabetes mellitus without complication	increases risk for	amputation
-diabetes mellitus without complication	is associated with	microvascular complications
-diabetes mellitus without complication	is associated with	macrovascular complications
-diabetes mellitus without complication	contributes to	medical costs
-diabetes mellitus without complication	predicts	hospitalization length of stay
-diabetes mellitus without complication	predicts	30-day readmission
-diabetes mellitus without complication	is associated with	nonalcoholic fatty liver disease
-diabetes mellitus without complication	is associated with	hearing loss
-diabetes mellitus without complication	is associated with	cognitive impairment
-diabetes mellitus without complication	is associated with	thyroid disorders
-diabetes mellitus without complication	is associated with	sleep disturbances
-diabetes mellitus without complication	reduces	quality of life
-diabetes mellitus without complication	increases	healthcare utilization
-diabetes mellitus without complication	increases	direct costs
-diabetes mellitus without complication	increases	indirect costs
-diabetes mellitus without complication	is monitored for	blood pressure
-diabetes mellitus without complication	is monitored for	lipid levels
-diabetes mellitus without complication	is monitored for	kidney function
-diabetes mellitus without complication	is monitored for	retinopathy
-diabetes mellitus without complication	is monitored for	neuropathy
-diabetes mellitus without complication	is monitored for	microalbuminuria
-diabetes mellitus without complication	requires	annual eye exam
-diabetes mellitus without complication	requires	foot care education
-diabetes mellitus without complication	requires	vaccination updates
-diabetes mellitus without complication	may co-occur with	hypertension
-diabetes mellitus without complication	may co-occur with	obesity
-diabetes mellitus without complication	may co-occur with	dyslipidemia
-diabetes mellitus without complication	may co-occur with	NAFLD
-diabetes mellitus without complication	may co-occur with	chronic liver disease
-diabetes mellitus without complication	is associated with	insulin resistance
-diabetes mellitus without complication	may present with	polydipsia
+diabetes mellitus without complication	is comorbid with	hypertension
+diabetes mellitus without complication	is comorbid with	dyslipidemia
+diabetes mellitus without complication	is comorbid with	obesity
+diabetes mellitus without complication	monitored by	HbA1c testing
+diabetes mellitus without complication	monitored by	fasting plasma glucose
+diabetes mellitus without complication	monitored by	oral glucose tolerance test
+diabetes mellitus without complication	treated with	metformin
+diabetes mellitus without complication	treated with	insulin
+diabetes mellitus without complication	treated with	sulfonylurea
+diabetes mellitus without complication	treated with	GLP-1 receptor agonist
+diabetes mellitus without complication	treated with	SGLT2 inhibitor
+diabetes mellitus without complication	treated with	thiazolidinedione
+diabetes mellitus without complication	treated with	acarbose
+diabetes mellitus without complication	managed with	diet and exercise
+diabetes mellitus without complication	managed with	weight reduction
+diabetes mellitus without complication	managed by	endocrinologist
+diabetes mellitus without complication	managed by	diabetes care team
+diabetes mellitus without complication	requires	regular blood glucose monitoring
+diabetes mellitus without complication	requires	diabetes education
+diabetes mellitus without complication	requires	annual dilated eye exam
+diabetes mellitus without complication	requires	urine albumin testing
+diabetes mellitus without complication	requires	foot examination
+diabetes mellitus without complication	requires	influenza vaccination
+diabetes mellitus without complication	requires	pneumococcal vaccination
+diabetes mellitus without complication	increases	healthcare costs
+diabetes mellitus without complication	increases	hospitalization risk
+diabetes mellitus without complication	increases	mortality risk
+diabetes mellitus without complication	reduces	life expectancy
+diabetes mellitus without complication	associated with	metabolic syndrome
+diabetes mellitus without complication	associated with	chronic kidney disease
+diabetes mellitus without complication	associated with	nephropathy
+diabetes mellitus without complication	associated with	retinopathy
+diabetes mellitus without complication	associated with	neuropathy
+diabetes mellitus without complication	associated with	foot ulcers
+diabetes mellitus without complication	associated with	wound infection
+diabetes mellitus without complication	progresses to	diabetic nephropathy
+diabetes mellitus without complication	progresses to	diabetic retinopathy
+diabetes mellitus without complication	progresses to	diabetic neuropathy
 diabetes mellitus without complication	may present with	polyuria
+diabetes mellitus without complication	may present with	polydipsia
 diabetes mellitus without complication	may present with	weight loss
-diabetes mellitus without complication	may present with	blurred vision
 diabetes mellitus without complication	may present with	fatigue
-diabetes mellitus without complication	is associated with	anemia
-diabetes mellitus without complication	is associated with	skin infections
-diabetes mellitus without complication	benefits from	regular exercise
-diabetes mellitus without complication	benefits from	weight loss programs
-diabetes mellitus without complication	benefits from	nutrition counseling
-diabetes mellitus without complication	benefits from	smoking cessation
-diabetes mellitus without complication	should receive	influenza vaccine
-diabetes mellitus without complication	should receive	pneumococcal vaccine
-diabetes mellitus without complication	is screened for	diabetic neuropathy
-diabetes mellitus without complication	is screened for	diabetic nephropathy
-diabetes mellitus without complication	is screened for	diabetic retinopathy
-diabetes mellitus without complication	is screened for	cardiovascular risk
-diabetes mellitus without complication	is managed by	multidisciplinary team
-diabetes mellitus without complication	is described by	clinical guidelines
-diabetes mellitus without complication	is included in	chronic disease register
-diabetes mellitus without complication	is monitored by	endocrinology clinic
+diabetes mellitus without complication	may present with	blurred vision
+diabetes mellitus without complication	is screened by	HbA1c testing
+diabetes mellitus without complication	is screened by	fasting glucose
+diabetes mellitus without complication	predicted by	high HbA1c
+diabetes mellitus without complication	associated with	lipid abnormalities
+diabetes mellitus without complication	associated with	anemia
+diabetes mellitus without complication	associated with	sleep apnea
+diabetes mellitus without complication	associated with	periodontal disease
+diabetes mellitus without complication	increases	infection risk
+diabetes mellitus without complication	reduces	neutrophil function
+diabetes mellitus without complication	worsens	wound healing
+diabetes mellitus without complication	increases	fracture risk
+diabetes mellitus without complication	reduces	immune response to vaccines
+diabetes mellitus without complication	increases	cardiovascular risk score
+diabetes mellitus without complication	influences	prescribing pattern of statins
+diabetes mellitus without complication	influences	dosing of insulin
+diabetes mellitus without complication	included in	chronic disease management programs
+diabetes mellitus without complication	tracked by	EHR
+diabetes mellitus without complication	used as	risk stratification factor
+diabetes mellitus without complication	used for	population health planning
+diabetes mellitus without complication	impacts	healthcare policy
+diabetes mellitus without complication	affects	patient education needs
+diabetes mellitus without complication	affects	self-management skills
+diabetes mellitus without complication	related to	age of onset
+diabetes mellitus without complication	influences	anticoagulation decisions
+diabetes mellitus without complication	influences	antiplatelet therapy decisions
+diabetes mellitus without complication	interacts with	renal function
+diabetes mellitus without complication	interacts with	liver enzymes
+diabetes mellitus without complication	interacts with	blood pressure medications
+diabetes mellitus without complication	interacts with	lipid-lowering therapy
+diabetes mellitus without complication	provides	opportunity for preventive care
+diabetes mellitus without complication	triggers	glycemic excursions
+diabetes mellitus without complication	provides	baseline risk for prediction models
+diabetes mellitus without complication	included in	metabolic disease subset
+diabetes mellitus without complication	used to evaluate	chronic disease burden
+diabetes mellitus without complication	used to estimate	readmission risk
+diabetes mellitus without complication	evaluated by	ophthalmology exam
+diabetes mellitus without complication	evaluated by	podiatry exam
+diabetes mellitus without complication	targeted by	lifestyle intervention
+diabetes mellitus without complication	estimated risk of	microvascular complications
+diabetes mellitus without complication	estimated risk of	macrovascular complications
+diabetes mellitus without complication	correlated with	insulin resistance
+diabetes mellitus without complication	correlated with	obesity
+diabetes mellitus without complication	underlies	metabolic dysregulation
+diabetes mellitus without complication	used to profile	patient cohort

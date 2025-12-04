@@ -1,97 +1,100 @@
 otitis media	is a	middle ear infection
+otitis media	causes	conductive hearing loss
+otitis media	diagnosed by	tympanometry
+otitis media	treated with	antibiotics
+conductive hearing loss	results from	middle ear disease
+sensorineural hearing loss	results from	cochlear damage
+sensorineural hearing loss	treated with	hearing aids
+hearing aid	improves	hearing
+cochlear implant	is a	electronic device
+cochlear implant	improves	speech understanding
+tinnitus	associated with	cochlear damage
+tinnitus	managed with	sound therapy
+vertigo	is a	vestibular symptom
+vestibular neuritis	causes	vertigo
+labyrinthitis	causes	vertigo
+Menière disease	characterized by	vertigo
+Menière disease	associated with	hearing loss
+Menière disease	treated with	diuretics
+benign paroxysmal positional vertigo	is a	vestibular disorder
+benign paroxysmal positional vertigo	diagnosed by	Dix-Hallpike test
+Dix-Hallpike test	demonstrates	nystagmus
+nystagmus	indicates	vestibular dysfunction
+vestibular dysfunction	causes	balance disorder
+balance disorder	results in	gait instability
+gait instability	increases risk for	falls
 otitis externa	is a	outer ear infection
-cholesteatoma	causes	conductive hearing loss
-tympanic membrane perforation	causes	conductive hearing loss
-otosclerosis	results in	conductive hearing loss
-sensorineural hearing loss	is a	nerve-related hearing loss
-presbycusis	is a	age-related hearing loss
-tinnitus	presents with	ear ringing
-vertigo	presents with	spinning sensation
-Meniere's disease	is a	vestibular disorder
-vestibular neuritis	is a	vestibular disorder
+cerumen impaction	reduces	sound conduction
+impacted cerumen	relieved by	cerumen removal
+tympanic membrane rupture	leads to	hearing loss
+ossicular chain reconstruction	is a	surgical procedure
+otosclerosis	causes	conductive hearing loss
+otosclerosis	treated with	stapedectomy
+stapedectomy	is a	surgical procedure
+tympanoplasty	is a	surgical procedure
 acoustic neuroma	causes	unilateral hearing loss
-unilateral hearing loss	is a	sensory deficit
-otitis media with effusion	causes	conductive hearing loss
-tympanosclerosis	is a	middle ear change
-tympanic membrane retraction	is a	middle ear pathology
-cataract	is a	lens opacity
-glaucoma	is a	optic neuropathy
-age-related macular degeneration	causes	central vision loss
-diabetic retinopathy	causes	vision impairment
-retinal detachment	causes	vision loss
-conjunctivitis	presents with	red eye
-blepharitis	presents with	eyelid inflammation
-uveitis	causes	vision loss
-optic neuritis	presents with	vision loss
-macular edema	causes	vision loss
-choroidal neovascularization	causes	vision loss
-diplopia	presents with	double vision
-strabismus	presents with	diplopia
-amblyopia	results in	decreased visual acuity
-myopia	is a	refractive error
-hyperopia	is a	refractive error
-presbyopia	is a	age-related refractive change
-dry eye syndrome	causes	ocular discomfort
-conjunctival hemorrhage	presents with	eye redness
-corneal ulcer	causes	eye pain
-optic atrophy	results in	vision loss
-scleritis	is a	ocular inflammatory disease
-ptosis	is a	eyelid disorder
-anosmia	is a	smell deficit
-hyposmia	is a	smell deficit
-dysgeusia	is a	taste dysfunction
-ageusia	is a	taste loss
-nasal obstruction	presents with	nasal breathing difficulty
-sinusitis	causes	facial pain
-allergic rhinitis	causes	nasal obstruction
-nasal polyps	associated with	chronic rhinosinusitis
-chronic rhinosinusitis	is a	nasal sinus disease
-olfactory dysfunction	is a	sense impairment
-gustatory dysfunction	is a	taste impairment
-phantosmia	is a	smell hallucination
-olfactory bulb dysfunction	is a	brain dysfunction
-rhinorrhea	is a	nasal discharge
-nasal cavity tumor	is a	nasal tumor
-sinonasal polyposis	is a	nasal polyp condition
-allergic rhinosinusitis	causes	nasal obstruction
-nasal cancer	is a	nasal cancer
-smell loss	is a	smell deficit
-nasal dryness	is a	nasal symptom
-olfactory receptor dysfunction	is a	sense dysfunction
-nasal mucosa inflammation	is a	nasal inflammation
-sinus obstruction	is a	nasal obstruction
-olfactory nerve damage	causes	smell loss
-taste bud dysfunction	is a	taste dysfunction
-audiometry	is a	hearing test
-tympanometry	is a	middle ear test
-otoacoustic emissions	are a	cochlear function test
-ophthalmic examination	is a	eye exam
-slit lamp examination	is a	eye exam
-visual field test	is a	functional vision test
-CT scan	is a	imaging modality
-MRI	is a	imaging modality
-corticosteroids	are used for	inflammatory eye disease
-antibiotic drops	treat	ocular infection
-intravitreal injection	is a	treatment for retinopathy
-laser therapy	is a	treatment for retinal disease
-cataract surgery	is a	surgery for cataract
-corneal transplant	is a	treatment for corneal disease
-glaucoma laser therapy	is a	treatment for glaucoma
-systemic steroids	are used for	optic neuritis
-anti-VEGF therapy	is a	treatment for choroidal neovascularization
-cochlear implants	are used for	severe hearing loss
-vestibular rehab	is a	therapy for vertigo
-radiation therapy	is a	treatment for ocular cancer
-steroid drops	are used for	ocular inflammation
-antibiotics	are used for	acute otitis media
-hearing aid	is a	device for hearing improvement
-pressure equalization tube	is a	device for middle ear ventilation
-tympanoplasty	is a	surgical repair for tympanic membrane
-retinal pigment epithelium changes	is a	sign of degenerative eye disease
-macular degeneration	is a	degenerative eye disease
-retinopathy	is a	ocular complication of diabetes
-optic disc cupping	is a	sign of glaucoma
-ophthalmoplegia	is a	eye movement disorder
-anisocoria	is a	pupil size difference
-ocular hypertension	is a	risk factor for glaucoma
-vestibular aqueduct syndrome	is a	inner ear condition
+acoustic neuroma	diagnosed by	MRI
+acoustic neuroma	treated with	surgery
+sudden sensorineural hearing loss	is a	medical emergency
+sudden sensorineural hearing loss	diagnosed by	audiogram
+audiogram	shows	hearing loss
+audiometry	assesses	hearing function
+presbycusis	is a	age-related hearing loss
+noise-induced hearing loss	results from	loud noise exposure
+ear infection	increases risk for	fever
+cerumen impaction	causes	hearing loss
+tympanic membrane perforation	leads to	hearing loss
+Menière disease	causes	tinnitus
+vestibular schwannoma	causes	unilateral hearing loss
+vestibular schwannoma	diagnosed by	MRI
+vestibular schwannoma	treated with	surgery
+cataract	is a	eye disorder
+glaucoma	is a	eye disorder
+macular degeneration	causes	vision loss
+diabetic retinopathy	leads to	blindness
+retinopathy	associated with	diabetes
+optic neuritis	causes	vision loss
+conjunctivitis	is a	eye infection
+cataract	treated with	cataract surgery
+glaucoma	treated with	intraocular pressure-lowering therapy
+age-related macular degeneration	treated with	anti-VEGF therapy
+retinopathy	monitored by	fluorescein angiography
+macular edema	associated with	diabetic retinopathy
+visual acuity	measured by	eye chart
+optic nerve	transmits	visual information
+color vision deficiency	is a	congenital condition
+glaucoma	causes	optic nerve damage
+cataract surgery	restores	vision
+retinal detachment	leads to	vision loss
+uveitis	causes	vision impairment
+keratitis	is a	corneal inflammation
+blepharitis	is a	eyelid inflammation
+dry eye syndrome	causes	eye discomfort
+astigmatism	causes	blurry vision
+presbyopia	causes	blurred near vision
+refractive error	causes	blurry vision
+diabetic eye disease	is a	eye condition
+macular edema	occurs in	diabetic retinopathy
+retinal vein occlusion	causes	vision loss
+central retinal artery occlusion	causes	sudden vision loss
+optic atrophy	results from	optic nerve damage
+scotoma	is a	visual field defect
+visual field defect	indicates	glaucoma progression
+ophthalmology	provides	eye care
+intravitreal injection	delivers	anti-VEGF agents
+anti-VEGF therapy	treats	macular degeneration
+photophobia	co-occurs with	keratitis
+diabetes	increases risk for	diabetic retinopathy
+hypertension	increases risk for	retinopathy
+glare sensitivity	is a	vision symptom
+floaters	indicate	vitreous detachment
+vitreous detachment	may cause	flashes of light
+retinal tear	leads to	retinal detachment
+laser therapy	used for	retinopathy
+fundus photography	monitors	retinopathy
+amblyopia	results from	early childhood visual impairment
+diplopia	associated with	ocular misalignment
+color vision deficiency	may be	inherited
+tonometry	assesses	intraocular pressure
+intraocular pressure	measured by	tonometry
+cataract	causes	visual impairment

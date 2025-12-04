@@ -1,100 +1,97 @@
-fracture of lower limb	is a	musculoskeletal injury
-fracture of lower limb	is a	trauma
-fracture of lower limb	may cause	bleeding
-fracture of lower limb	may cause	pain
-fracture of lower limb	may cause	swelling
-fracture of lower limb	requires	immobilization
-fracture of lower limb	requires	surgery
-fracture of lower limb	requires	analgesia
-fracture of lower limb	requires	anesthesia
+fracture of lower limb	located in	tibia
+fracture of lower limb	located in	femur
+fracture of lower limb	located in	fibula
+fracture of lower limb	located in	knee joint
+fracture of lower limb	located in	ankle joint
+fracture of lower limb	classified as	open fracture
+fracture of lower limb	classified as	closed fracture
+fracture of lower limb	classified as	displaced fracture
+fracture of lower limb	classified as	nondisplaced fracture
+fracture of lower limb	classified as	comminuted fracture
+fracture of lower limb	diagnosed by	X-ray
+fracture of lower limb	diagnosed by	CT scan
+fracture of lower limb	diagnosed by	MRI
+fracture of lower limb	imaging modality	ultrasound
+fracture of lower limb	imaging modality	bone scan
 fracture of lower limb	associated with	osteoporosis
+fracture of lower limb	associated with	aging
 fracture of lower limb	associated with	diabetes mellitus
-fracture of lower limb	associated with	obesity
-fracture of lower limb	associated with	smoking
-fracture of lower limb	associated with	hypertension
-fracture of lower limb	predicts	mortality
-fracture of lower limb	predicts	readmission
-fracture of lower limb	predicts	complication
-fracture of lower limb	predicts	infection
-fracture of lower limb	increases	risk of infection
-fracture of lower limb	increases	risk of deep vein thrombosis
-fracture of lower limb	increases	risk of pneumonia
-fracture of lower limb	leads to	rehabilitation
-fracture of lower limb	leads to	disability
-fracture of lower limb	leads to	chronic pain
-fracture of lower limb	leads to	immobility
-fracture of lower limb	leads to	delayed healing
-fracture of lower limb	leads to	nonunion
-fracture of lower limb	leads to	malunion
-fracture of lower limb	leads to	bone healing
-fracture of lower limb	treated with	cast immobilization
-fracture of lower limb	treated with	external fixation
-fracture of lower limb	treated with	internal fixation
-fracture of lower limb	treated with	plating
-fracture of lower limb	treated with	screws
-fracture of lower limb	treated with	bone graft
-fracture of lower limb	treated with	osteosynthesis
-fracture of lower limb	treated with	arthroplasty
-fracture of lower limb	outcome	union
-fracture of lower limb	outcome	nonunion
-fracture of lower limb	imaging	X-ray
-fracture of lower limb	imaging	CT scan
-fracture of lower limb	imaging	MRI
-fracture of lower limb	imaging	ultrasound
-fracture of lower limb	imaging	radiography
+fracture of lower limb	associated with	vitamin D deficiency
+fracture of lower limb	associated with	malnutrition
 fracture of lower limb	complication	infection
-fracture of lower limb	complication	hematoma
-fracture of lower limb	complication	edema
+fracture of lower limb	complication	nonunion
+fracture of lower limb	complication	malunion
+fracture of lower limb	complication	deep vein thrombosis
+fracture of lower limb	complication	pulmonary embolism
 fracture of lower limb	complication	nerve injury
 fracture of lower limb	complication	vascular injury
-fracture of lower limb	prognosis	functional impairment
-fracture of lower limb	prognosis	chronic pain
-fracture of lower limb	prognosis	disability
-fracture of lower limb	prognosis	independence
-fracture of lower limb	rehabilitation	plan
-fracture of lower limb	rehabilitation	program
-fracture of lower limb	rehabilitation	physiotherapy
-fracture of lower limb	hospital stay	length of stay
-fracture of lower limb	cost	hospitalization
-fracture of lower limb	discharge	destination
-fracture of lower limb	discharge	instructions
-fracture of lower limb	cost	total cost
-fracture of lower limb	utilization	resources
-fracture of lower limb	admission	hospital
-fracture of lower limb	anesthesia	general
-fracture of lower limb	blood loss	volume
-fracture of lower limb	transfusion	blood
-fracture of lower limb	infection	sepsis
-fracture of lower limb	anemia	postoperative
-fracture of lower limb	iron	deficiency
-fracture of lower limb	calcium	deficiency
-fracture of lower limb	vitamin D	deficiency
-fracture of lower limb	bone density	osteoporosis
 fracture of lower limb	complication	compartment syndrome
-fracture of lower limb	complication	nerve palsy
-fracture of lower limb	radiology	fluoroscopy
-fracture of lower limb	radiology	CT angiography
-fracture of lower limb	imaging	bone scan
-fracture of lower limb	therapy	analgesia
-fracture of lower limb	therapy	physical therapy
-fracture of lower limb	follow-up	appointment
-fracture of lower limb	prognosis	mobility
-fracture of lower limb	prognosis	independence
-fracture of lower limb	prognosis	return to work
-fracture of lower limb	age	elderly
-fracture of lower limb	age	young
-fracture of lower limb	body composition	obesity
-fracture of lower limb	polytrauma	associated
-fracture of lower limb	nutritional status	deficiency
-fracture of lower limb	fracture type	comminuted
-fracture of lower limb	fracture type	closed
-fracture of lower limb	fracture type	open
-fracture of lower limb	site	tibia
-fracture of lower limb	site	femur
-fracture of lower limb	site	fibula
-fracture of lower limb	hospitalization	period
-fracture of lower limb	rehab	success
-fracture of lower limb	social support	needed
-fracture of lower limb	rehab	success
-fracture of lower limb	data	registry
-fracture of lower limb	pain	chronic
+fracture of lower limb	complication	osteomyelitis
+fracture of lower limb	complication	hardware failure
+fracture of lower limb	treated with	casting
+fracture of lower limb	treated with	immobilization
+fracture of lower limb	treated with	surgical fixation
+fracture of lower limb	treated with	intramedullary nailing
+fracture of lower limb	treated with	plate fixation
+fracture of lower limb	treated with	external fixation
+fracture of lower limb	treated with	traction
+fracture of lower limb	treated with	bone grafting
+fracture of lower limb	treated with	endoprosthesis
+fracture of lower limb	surgery	open reduction internal fixation
+fracture of lower limb	surgery	closed reduction
+fracture of lower limb	anesthesia	general
+fracture of lower limb	anesthesia	regional
+fracture of lower limb	anesthesia	spinal
+fracture of lower limb	anesthesia	local
+fracture of lower limb	postoperative care	analgesia
+fracture of lower limb	postoperative care	wound care
+fracture of lower limb	postoperative care	rehabilitation
+fracture of lower limb	rehabilitation	physical therapy
+fracture of lower limb	rehabilitation	gait training
+fracture of lower limb	rehabilitation	occupational therapy
+fracture of lower limb	rehabilitation	hydrotherapy
+fracture of lower limb	rehabilitation	strengthening
+fracture of lower limb	outcome	functional status
+fracture of lower limb	outcome	mobility
+fracture of lower limb	outcome	pain relief
+fracture of lower limb	outcome	return to activity
+fracture of lower limb	prognosis	age
+fracture of lower limb	prognosis	comorbidity burden
+fracture of lower limb	prognosis	fracture healing time
+fracture of lower limb	prognosis	functional recovery
+fracture of lower limb	prognosis	lifetime risk
+fracture of lower limb	healing time	varies by age
+fracture of lower limb	healing time	nutrition dependent
+fracture of lower limb	healing rate	smoking effect
+fracture of lower limb	follow-up	clinic visit
+fracture of lower limb	follow-up	imaging check
+fracture of lower limb	discharge plan	home care
+fracture of lower limb	discharge plan	caregiver support
+fracture of lower limb	discharge plan	transportation
+fracture of lower limb	cost	hospitalization expense
+fracture of lower limb	cost	rehabilitation expense
+fracture of lower limb	risk assessment	osteoporosis screening
+fracture of lower limb	risk assessment	fall risk assessment
+fracture of lower limb	risk assessment	nutritional status
+fracture of lower limb	risk assessment	smoking status
+fracture of lower limb	risk assessment	alcohol use
+fracture of lower limb	imaging follow-up	X-ray
+fracture of lower limb	imaging follow-up	CT scan
+fracture of lower limb	imaging follow-up	MRI
+fracture of lower limb	imaging follow-up	ultrasound
+fracture of lower limb	epidemiology	incidence
+fracture of lower limb	epidemiology	prevalence
+fracture of lower limb	epidemiology	seasonal variation
+fracture of lower limb	epidemiology	age distribution
+fracture of lower limb	implant	failure rate
+fracture of lower limb	long-term outcome	disability
+fracture of lower limb	long-term outcome	chronic pain
+fracture of lower limb	chronic pain	duration
+fracture of lower limb	gait impairment	degree
+fracture of lower limb	limb length discrepancy	degree
+fracture of lower limb	arthritis risk	knee osteoarthritis
+fracture of lower limb	osteoarthritis risk	hip osteoarthritis
+fracture of lower limb	heterotopic ossification	risk
+fracture of lower limb	infection risk	open fracture
+fracture of lower limb	vascular complication	limb ischemia
+fracture of lower limb	reoperation rate	increasing

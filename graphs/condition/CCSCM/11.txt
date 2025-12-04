@@ -1,100 +1,97 @@
-head and neck cancer	is a	malignancy
-head and neck cancer	associated with	smoking
-head and neck cancer	associated with	alcohol
-head and neck cancer	associated with	HPV infection
-head and neck cancer	associated with	EBV infection
-head and neck cancer	occurs in	oral cavity
-head and neck cancer	occurs in	oropharynx
-head and neck cancer	occurs in	larynx
-head and neck cancer	occurs in	hypopharynx
-head and neck cancer	occurs in	nasopharynx
-head and neck cancer	metastasizes to	cervical lymph nodes
-head and neck cancer	metastasizes to	lungs
-head and neck cancer	metastasizes to	liver
-head and neck cancer	metastasizes to	bone
-head and neck cancer	treated with	radiotherapy
-head and neck cancer	treated with	surgery
-head and neck cancer	treated with	chemotherapy
-head and neck cancer	treated with	chemoradiation
-head and neck cancer	treated with	cetuximab
-head and neck cancer	treated with	pembrolizumab
-head and neck cancer	treated with	nivolumab
-head and neck cancer	managed by	neck dissection
-head and neck cancer	managed by	reconstructive surgery
-head and neck cancer	prognosis depends on	HPV status
-head and neck cancer	prognosis depends on	stage
-head and neck cancer	prognosis depends on	performance status
-head and neck cancer	prognosis depends on	comorbidity
-head and neck cancer	prognosis depends on	age
-head and neck cancer	prognosis depends on	smoking history
-head and neck cancer	prognosis depends on	alcohol history
-head and neck cancer	biomarker	p16 status
-head and neck cancer	biomarker	PD-L1 expression
-head and neck cancer	biomarker	EGFR overexpression
-head and neck cancer	presents with	neck mass
-head and neck cancer	presents with	dysphagia
-head and neck cancer	presents with	hoarseness
-head and neck cancer	presents with	odynophagia
-head and neck cancer	presents with	otalgia
-head and neck cancer	presents with	halitosis
-head and neck cancer	imaged with	CT scan
-head and neck cancer	imaged with	MRI
-head and neck cancer	imaged with	PET-CT
-head and neck cancer	staging	TNM classification
-head and neck cancer	pathology	squamous cell carcinoma
+head and neck cancer	risk factor	tobacco use
+head and neck cancer	risk factor	alcohol use
+head and neck cancer	risk factor	HPV infection
+head and neck cancer	risk factor	radiation exposure
+head and neck cancer	risk factor	betel quid chewing
+head and neck cancer	risk factor	immunosuppression
+head and neck cancer	risk factor	advanced age
+head and neck cancer	site	oropharynx
+head and neck cancer	site	larynx
+head and neck cancer	site	hypopharynx
+head and neck cancer	site	nasopharynx
+head and neck cancer	site	oral cavity
 head and neck cancer	histology	squamous cell carcinoma
-head and neck cancer	margin status	clear
-head and neck cancer	risk factor	tobacco exposure
+head and neck cancer	molecular feature	HPV status
+head and neck cancer	molecular feature	p16 status
+head and neck cancer	molecular feature	EGFR overexpression
+head and neck cancer	molecular feature	p53 mutation
+head and neck cancer	biomarker	p16 positivity
+head and neck cancer	prognosis factor	HPV status
+head and neck cancer	prognosis factor	nodal involvement
+head and neck cancer	prognosis factor	tumor size
+head and neck cancer	prognosis factor	stage
+head and neck cancer	staging	TNM stage
+head and neck cancer	staging	stage I
+head and neck cancer	staging	stage II
+head and neck cancer	staging	stage III
+head and neck cancer	staging	stage IV
+head and neck cancer	treatment	surgery
+head and neck cancer	treatment	radiotherapy
+head and neck cancer	treatment	chemotherapy
+head and neck cancer	treatment	chemoradiation
+head and neck cancer	treatment	targeted therapy
+head and neck cancer	treatment	immunotherapy
+head and neck cancer	treatment	neck dissection
+head and neck cancer	recurrence	local recurrence
+head and neck cancer	recurrence	regional recurrence
+head and neck cancer	recurrence	distant metastasis
+head and neck cancer	metastasis	cervical lymph nodes
+head and neck cancer	metastasis	lung metastasis
+head and neck cancer	metastasis	bone metastasis
+head and neck cancer	prognosis	overall survival
+head and neck cancer	prognosis	disease-free survival
 head and neck cancer	complication	mucositis
 head and neck cancer	complication	xerostomia
+head and neck cancer	complication	dysphagia
 head and neck cancer	complication	osteoradionecrosis
-head and neck cancer	complication	trismus
-head and neck cancer	requires	feeding tube
-head and neck cancer	requires	tracheostomy
-head and neck cancer	requires	gastrostomy
-head and neck cancer	response to therapy	complete response
-head and neck cancer	response to therapy	partial response
-head and neck cancer	response to therapy	stable disease
-head and neck cancer	response to therapy	progression
-head and neck cancer	survival	long-term
-head and neck cancer	survival	overall
-head and neck cancer	prognosis	site-dependent
-head and neck cancer	prognosis	HPV-positive status favorable
-head and neck cancer	prognosis	HPV-negative status poorer
-head and neck cancer	nodal burden	prognostic factor
+head and neck cancer	complication	hearing loss
 head and neck cancer	follow-up	surveillance
-head and neck cancer	imaging modality	CT
-head and neck cancer	imaging modality	MRI
+head and neck cancer	imaging modality	CT scan
+head and neck cancer	imaging modality	MRI scan
 head and neck cancer	imaging modality	PET-CT
-head and neck cancer	biomarker	NOTCH1 mutation
-head and neck cancer	genetic alteration	TP53 mutation
-head and neck cancer	microenvironment	angiogenesis
-head and neck cancer	microenvironment	immune infiltration
+head and neck cancer	diagnostic method	biopsy
+head and neck cancer	diagnostic method	endoscopy
+head and neck cancer	diagnostic method	fine-needle aspiration
+head and neck cancer	risk group	HPV-positive status
+head and neck cancer	biomarker	Ki-67 expression
+head and neck cancer	biomarker	EGFR expression
+head and neck cancer	epidemiology	incidence
+head and neck cancer	epidemiology	mortality rate
+head and neck cancer	epidemiology	geographic variation
 head and neck cancer	comorbidity	cardiovascular disease
 head and neck cancer	comorbidity	diabetes mellitus
-head and neck cancer	epidemiology	incidence
-head and neck cancer	epidemiology	prevalence
-head and neck cancer	guidelines	NCCN
-head and neck cancer	clinical trial	open trials
-head and neck cancer	rehabilitation	speech therapy
-head and neck cancer	rehabilitation	swallowing therapy
-head and neck cancer	care setting	tertiary center
-head and neck cancer	care team	oncologist
-head and neck cancer	care team	surgeon
-head and neck cancer	care team	radiotherapist
-head and neck cancer	care team	speech-language pathologist
-head and neck cancer	care team	nutritionist
-head and neck cancer	health care burden	economic cost
-head and neck cancer	prognosis by site	variable
-head and neck cancer	etiology	alcohol-tobacco synergism
-head and neck cancer	progression pattern	locoregional dominance
-head and neck cancer	progression pattern	distant metastasis
-head and neck cancer	age distribution	elderly
-head and neck cancer	tumor marker	SCC antigen
-head and neck cancer	clinicopathologic feature	keratinization
-head and neck cancer	tumor microenvironment	immunosuppression
-head and neck cancer	surgical margin	negative
-head and neck cancer	stage grouping	I-IV
-head and neck cancer	care pathway	multidisciplinary care
-head and neck cancer	patient education	nutrition counseling
-head and neck cancer	public health impact	mortality
+head and neck cancer	comorbidity	chronic kidney disease
+head and neck cancer	lifestyle factor	tobacco exposure
+head and neck cancer	lifestyle factor	alcohol exposure
+head and neck cancer	occupational exposure	wood dust
+head and neck cancer	node status	cervical nodes
+head and neck cancer	pathology	perineural invasion
+head and neck cancer	pathology	lymphovascular invasion
+head and neck cancer	prognosis factor	performance status
+head and neck cancer	prognosis factor	resection margins
+head and neck cancer	therapy goal	organ preservation
+head and neck cancer	therapy	adjuvant therapy
+head and neck cancer	therapy	neoadjuvant therapy
+head and neck cancer	outcome	local control rate
+head and neck cancer	outcome	complete response rate
+head and neck cancer	outcome	progression-free survival
+head and neck cancer	outcome	overall response rate
+head and neck cancer	imaging finding	nodal necrosis
+head and neck cancer	imaging finding	extranodal extension
+head and neck cancer	diagnostic finding	histology confirmation
+head and neck cancer	lab test	anemia
+head and neck cancer	lab test	leukocytosis
+head and neck cancer	social factor	socioeconomic status
+head and neck cancer	prevention	vaccination status
+head and neck cancer	prevention	dental care
+head and neck cancer	health status	performance status
+head and neck cancer	therapy	palliation
+head and neck cancer	care team	multidisciplinary team
+head and neck cancer	prevention	HPV vaccination status
+head and neck cancer	socioeconomic factor	income level
+head and neck cancer	clinical trial	phase III trial
+head and neck cancer	clinical trial	phase II trial
+head and neck cancer	pathology	tumor budding
+head and neck cancer	imaging finding	necrosis
+head and neck cancer	follow-up interval	interval
+head and neck cancer	management guideline	clinical guideline

@@ -1,1 +1,100 @@
-ENTITY	RELATIONSHIP	ENTITY
+fever of unknown origin	defined as	fever >38C on multiple occasions
+fever of unknown origin	is a	clinical syndrome
+fever of unknown origin	may be caused by	infection
+fever of unknown origin	may be caused by	autoimmune disease
+fever of unknown origin	may be caused by	malignancy
+fever of unknown origin	may be caused by	inflammatory disease
+infection	is a	common cause of fever of unknown origin
+bacterial infection	is a	common cause of fever of unknown origin
+viral infection	is a	common cause of fever of unknown origin
+tuberculosis	can present as	fever of unknown origin
+histoplasmosis	can present as	fever of unknown origin
+brucellosis	can present as	fever of unknown origin
+malaria	can present as	fever of unknown origin
+endocarditis	may present as	fever of unknown origin
+abscess	may present as	fever of unknown origin
+lymphoma	may cause	fever of unknown origin
+leukemia	may cause	fever of unknown origin
+rheumatoid arthritis	may present as	fever of unknown origin
+systemic lupus erythematosus	may present as	fever of unknown origin
+adult-onset Still's disease	may present as	fever of unknown origin
+cytomegalovirus infection	may present as	fever of unknown origin
+HIV infection	increases	risk of fever of unknown origin
+immunosuppression	increases	risk of fever of unknown origin
+aging population	increases	risk of fever of unknown origin
+neoplasm	associated with	fever of unknown origin
+granulomatous disease	may cause	fever of unknown origin
+immunodeficiency	associated with	fever of unknown origin
+blood culture	detects	bacteremia
+urine culture	detects	bacteriuria
+culture result	informs	antimicrobial therapy
+tuberculin skin test	detects	tuberculosis
+IGRA	detects	tuberculosis
+CRP	is a	inflammatory marker
+ESR	is a	inflammatory marker
+procalcitonin	is a	inflammatory marker
+anemia	associated with	fever of unknown origin
+thrombocytosis	associated with	fever of unknown origin
+leukocytosis	associated with	fever of unknown origin
+autoimmune serology	used in	fever of unknown origin evaluation
+imaging	helpful for	fever of unknown origin
+CT scan	used for	fever of unknown origin
+PET-CT	used for	fever of unknown origin
+MRI	used for	fever of unknown origin
+X-ray	used for	fever of unknown origin
+bone marrow biopsy	performed for	fever of unknown origin
+liver function test	abnormal in	fever of unknown origin
+liver enzymes	abnormal in	fever of unknown origin
+biopsy	provides	histology
+histology	reveals	pathology
+granulomatous inflammation	seen in	sarcoidosis
+sarcoidosis	associated with	fever of unknown origin
+pediatric patient	presents with	fever of unknown origin
+adult patient	presents with	fever of unknown origin
+pediatric population	has	infectious etiologies of fever of unknown origin
+drug fever	mimics	fever of unknown origin
+drug reaction	triggers	fever of unknown origin
+antibiotic therapy	trialed in	fever of unknown origin
+empirical therapy	used in	fever of unknown origin
+hospitalization	recommended for	fever of unknown origin
+antimicrobial therapy	guided by	culture results
+culture result	informs	antimicrobial therapy
+cytopenia	occurs in	fever of unknown origin
+hyponatremia	associated with	fever of unknown origin
+hyperferritinemia	observed in	adult-onset Still's disease
+ferritin	elevated in	adult-onset Still's disease
+splenomegaly	present with	fever of unknown origin
+hepatomegaly	present with	fever of unknown origin
+neutropenia	seen in	fever of unknown origin
+renal dysfunction	observed in	fever of unknown origin
+liver dysfunction	observed in	fever of unknown origin
+geographic region	influences	etiologies of fever of unknown origin
+occupational exposure	associated with	fever of unknown origin
+traveler history	associated with	fever of unknown origin
+immunization status	influences	fever of unknown origin evaluation
+economic burden	associated with	fever of unknown origin
+readmission	risk in	fever of unknown origin
+mortality	associated with	fever of unknown origin
+prognosis	depends on	fever of unknown origin etiology
+etiology	determines	fever of unknown origin management
+diagnostic approach	informs	fever of unknown origin management
+sampling	required for	fever of unknown origin evaluation
+imaging findings	guide	fever of unknown origin evaluation
+treatment strategy	depends on	fever of unknown origin etiology
+empirical antibiotics	used in	fever of unknown origin
+imaging findings	guide	fever of unknown origin diagnostic workup
+biomarker	assists in	fever of unknown origin evaluation
+interleukin-6	elevated in	fever of unknown origin
+cytokines	elevated in	fever of unknown origin
+antibiotic resistance	complicates	fever of unknown origin treatment
+antibiotic stewardship	improves	fever of unknown origin management
+blood gas analysis	provides	metabolic status
+serum albumin	decreased in	fever of unknown origin
+acute phase reactant	elevated in	fever of unknown origin
+hemophagocytic lymphohistiocytosis	can present as	fever of unknown origin
+pancytopenia	seen in	fever of unknown origin
+bacteremia	associated with	fever of unknown origin
+paraneoplastic fever	associated with	malignancy
+duration	informs	fever of unknown origin prognosis
+culture yield	predicts	antibiotic susceptibility
+fever recurrence	indicates	reassessment of etiology

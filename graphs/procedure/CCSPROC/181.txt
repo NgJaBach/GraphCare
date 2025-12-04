@@ -1,0 +1,100 @@
+myelogram	is a	diagnostic imaging procedure
+myelogram	uses	intrathecal contrast
+intrathecal contrast	is a	radiopaque substance
+lumbar puncture	provides	intrathecal access
+intrathecal injection	delivers	contrast agent
+contrast agent	enables	radiographic visualization
+myelogram	visualizes	spinal nerve roots
+myelogram	visualizes	thecal sac
+thecal sac	contains	cerebrospinal fluid
+spinal canal	is evaluated by	myelogram
+nerve root compression	is detected by	myelogram
+disc herniation	is visualized by	myelogram
+spinal stenosis	is visualized by	myelogram
+tumor	is detected by	myelogram
+arachnoiditis	is a	complication of myelography
+post-dural puncture headache	is a	complication
+infection	is a	complication
+contrast allergy	is a	contraindication
+iodinated contrast	carries risk of	allergic reaction
+coagulopathy	is a	contraindication
+intrathecal injection	carries risk of	CSF leak
+CSF leak	can cause	postural headache
+post-myelography headache	is a	symptom
+radiation exposure	is associated with	CT myelography
+CT myelography	provides	cross-sectional detail
+CT myelography	is performed after	myelography
+MRI	is an	alternative
+MRI	avoids	intrathecal contrast
+contrast agent	is cleared by	kidneys
+kidneys	filter	contrast agent
+renal function	influences	contrast clearance
+image quality	improves with	patient positioning
+lumbar region	is typical access site for	myelography
+lateral decubitus position	is used for	CT myelography
+prone position	is used for	myelography
+subarachnoid space	fills with	contrast agent
+nerve root	appears as	indentation
+thecal sac indentation	indicates	compression
+spinal cord compression	is a	critical finding
+myelography findings	correlate with	clinical symptoms
+surgical planning	benefits from	myelography
+clinical symptoms	accompany	radicular pain
+radicular pain	accompanies	myelography findings
+contrast distribution	varies with	patient position
+post-procedure monitoring	includes	vital signs
+vital signs	are monitored after	myelography
+patient preparation	includes	allergy history
+informed consent	is required for	myelography
+sedation	is optional for	pediatric myelography
+pediatric patient	may require	alternative imaging
+contrast-induced nephropathy	is a risk in	myelography
+oil-based contrast	is rarely used in	modern myelography
+oil-based contrast	is associated with	arachnoiditis
+arachnoiditis	can cause	chronic pain
+pseudomyelography	refers to	historical myelography
+water-soluble contrast	is used in	modern myelography
+fluoroscopy	provides	real-time imaging
+fluoroscopy	guides	needle placement
+needle placement	affects	complication risk
+sterile technique	reduces	infection risk
+infection risk	is minimized by	sterile technique
+allergy screening	informs	contrast choice
+contrast administration	requires	allergy screening
+contrast distribution	depends on	patient position
+radiographic interpretation	depends on	radiologist expertise
+radiologist	interprets	imaging findings
+imaging findings	include	nerve root compression
+nerve root compression	signals	radiculopathy
+radiculopathy	presents with	leg pain
+spinal canal stenosis	leads to	nerve compression
+dural sac	encircles	spinal cord
+spinal cord	lies within	vertebral column
+vertebral column	protects	spinal cord
+surgical planning	relies on	imaging results
+imaging results	guide	surgical approach
+myelography	can inform	decompression surgery
+decompression surgery	indicated by	nerve compression findings
+degenerative changes	contribute to	canal narrowing
+canal narrowing	increases	radiculopathy risk
+post-procedure discharge	occurs after	myelography
+discharge instructions	include	hydration rest
+hydration	helps prevent	headache
+rest period	is recommended for	postoperative care
+activity restriction	is recommended for	postoperative period
+rehydration	supports	recovery
+contrast leakage	leads to	local pain
+local pain	resolves with	time
+pediatric myelogram	requires	sedation
+sedation	reduces	patient movement
+patient movement	reduces	imaging quality
+imaging quality	improves with	cooperation
+cooperation	depends on	patient understanding
+patient understanding	improves	consent quality
+consent quality	affects	diagnostic accuracy
+diagnostic accuracy	enables	appropriate treatment
+treatment options	include	surgical and non-surgical
+surgical options	include	decompression
+non-surgical options	include	physical therapy
+physical therapy	supports	rehabilitation
+rehabilitation	improves	functional outcome

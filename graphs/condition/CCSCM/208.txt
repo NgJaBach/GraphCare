@@ -1,0 +1,100 @@
+acquired foot deformities	is associated with	diabetes mellitus
+acquired foot deformities	is associated with	peripheral neuropathy
+diabetes mellitus	predisposes to	charcot neuroarthropathy
+charcot neuroarthropathy	leads to	foot collapse
+charcot neuroarthropathy	is a	diabetic complication
+foot deformity	increases risk of	plantar ulcers
+diabetic foot infection	leads to	osteomyelitis
+osteomyelitis	requires	surgical intervention
+foot ulcer	increases risk of	amputation
+amputation	increases	mortality risk
+offloading	reduces	plantar pressure
+total contact cast	offloads	plantar pressure
+orthosis	redistributes	plantar pressure
+tendon transfer	corrects	hammer toe
+fusion	stabilizes	midfoot deformity
+callus	forms on	plantar surface
+plantar pressure	concentrates on	metatarsal heads
+metatarsal head	ulcerates due to	pressure
+charcot foot	diagnosed by	radiography
+radiography	reveals	bone fragmentation
+MRI	detects	charcot changes
+bone resorption	drives	neuropathic joints
+loss of protective sensation	leads to	ulcers
+ulcer	progresses to	infection
+infection	leads to	osteomyelitis
+vascular insufficiency	impairs	wound healing
+ischemia	increases	infection risk
+age	increases	risk of foot deformity
+smoking	worsens	wound healing
+glycemic control	improves	wound healing
+neuropathy	increases	risk of foot ulcers
+ankle equinus	contributes to	forefoot pressure overload
+forefoot pressure	concentrates on	metatarsal heads
+callus	predisposes to	skin breakdown
+skin breakdown	predisposes to	infection
+infection	leads to	osteomyelitis
+surgical correction	improves	toe alignment
+toe alignment	stabilizes	forefoot deformity
+pain	reduces	walking distance
+walking distance	predicts	mobility limitation
+mobility limitation	increases	fall risk
+fall risk	increases	fracture risk
+custom orthosis	improves	foot alignment
+orthotic device	reduces	plantar pressure
+shoe modification	reduces	ulcer recurrence
+foot infection	increases	hospitalization risk
+diabetic peripheral neuropathy	increases	risk of foot deformities
+vascular disease	worsens	ulcer healing
+deformity progression	accelerates	joint degeneration
+bone remodeling	occurs in	Charcot foot
+charcot neuroarthropathy	increases	healthcare utilization
+ulcer	heals with	debridement
+ulcer	predisposes to	secondary infection
+secondary infection	leads to	hospitalization
+imaging	assists	Charcot foot diagnosis
+bone scan	detects	Charcot activity
+Charcot activity	signals	disease process
+foot pain	indicates	deformity progression
+deformity progression	dictates	treatment plan
+treatment plan	guides	rehabilitation
+rehabilitation	improves	gait
+gait pattern	becomes	abnormal
+abnormal gait	increases	energy expenditure
+energy expenditure	correlates with	disability
+foot deformity	increases	footwear difficulty
+footwear difficulty	leads to	noncompliance
+noncompliance	increases	complication risk
+podiatry care	reduces	complication risk
+vascular assessment	guides	revascularization decision
+revascularization	improves	tissue perfusion
+tissue perfusion	supports	wound healing
+blood flow	improves	wound healing
+diabetes duration	correlates with	neuropathy
+neuropathy	correlates with	deformity progression
+foot screening	detects	deformities early
+early deformity detection	reduces	ulcer risk
+podiatry care	enhances	foot health
+vascular status	determines	wound prognosis
+antibiotics	treat	infection
+surgical debridement	removes	necrotic tissue
+necrotic tissue	impedes	healing
+bone biopsy	excludes	osteomyelitis
+painful deformity	reduces	mobility
+mobility	reduces	independence
+independence	declines with	disability
+diabetes duration	increases	neuropathy risk
+foot care education	reduces	recurrence risk
+offloading therapy	reduces	ulcer recurrence
+foot infection	increases	hospitalization duration
+hospitalization duration	correlates with	cost
+cost	rises with	Charcot foot
+charcot foot	requires	multidisciplinary care
+multidisciplinary care	improves	outcomes
+outcomes	improve with	early intervention
+early intervention	reduces	disability
+toe deformity	limits	shoe size
+shoe size	affects	comfort
+foot comfort	improves	activity adherence
+activity adherence	improves	quality of life
+quality of life	improves with	foot health

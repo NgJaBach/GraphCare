@@ -1,0 +1,91 @@
+abdominal hysterectomy	is a	type of hysterectomy
+vaginal hysterectomy	is a	type of hysterectomy
+hysterectomy	is a	surgical procedure
+abdominal hysterectomy	performed for	fibroids
+abdominal hysterectomy	performed for	abnormal uterine bleeding
+abdominal hysterectomy	performed for	endometrial cancer
+vaginal hysterectomy	performed for	fibroids
+vaginal hysterectomy	performed for	abnormal uterine bleeding
+hysterectomy	indicated for	fibroids
+hysterectomy	indicated for	abnormal uterine bleeding
+hysterectomy	indicated for	endometrial cancer
+hysterectomy	indicated for	uterine prolapse
+abdominal hysterectomy	indicated for	large uterus
+vaginal hysterectomy	indicated for	normal-sized uterus
+abdominal hysterectomy	requires	general anesthesia
+vaginal hysterectomy	requires	general anesthesia
+abdominal hysterectomy	requires	hospital admission
+vaginal hysterectomy	requires	hospital admission
+abdominal hysterectomy	involves	abdominal incision
+vaginal hysterectomy	involves	vaginal incision
+uterus	removed during	hysterectomy
+cervix	removed during	total hysterectomy
+fallopian tubes	removed during	hysterectomy
+ovaries	removed during	hysterectomy
+ovaries	may be removed during	hysterectomy
+bilateral salpingo-oophorectomy	performed with	hysterectomy
+hysterectomy	increases	risk of surgical menopause
+surgical menopause	leads to	vasomotor symptoms
+vasomotor symptoms	treated with	hormone therapy
+hormone therapy	used for	menopausal symptoms
+ovaries	removal during	hysterectomy	not counted separately
+hysterectomy	reduces	risk of uterine cancer
+hysterectomy	eliminates	uterine bleeding
+abdominal hysterectomy	associated with	longer hospital stay
+vaginal hysterectomy	associated with	shorter hospital stay
+abdominal hysterectomy	associated with	higher blood loss
+vaginal hysterectomy	associated with	lower blood loss
+abdominal hysterectomy	has	higher operative time
+vaginal hysterectomy	has	shorter operative time
+abdominal hysterectomy	has	wound infection risk
+vaginal hysterectomy	has	urinary tract infection risk
+hysterectomy	can cause	infertility
+hysterectomy	can cause	loss of menstrual periods
+uterus	removed by	hysterectomy
+postoperative catheterization	is used for	hysterectomy
+catheter	removal after	hysterectomy
+postoperative analgesia	used for	hysterectomy
+postoperative recovery	follows	hysterectomy
+urinary retention	complication of	hysterectomy
+bladder injury	complication of	hysterectomy
+bowel injury	complication of	hysterectomy
+urinary incontinence	complication after	hysterectomy
+wound infection	complication of	abdominal hysterectomy
+wound infection	complication of	vaginal hysterectomy
+hysterectomy	affects	sexual function
+spinal anesthesia	alternative to	general anesthesia for hysterectomy
+general anesthesia	used for	hysterectomy
+hysterectomy	performed via	abdominal route
+hysterectomy	performed via	vaginal route
+abdominal incision	incision type for	abdominal hysterectomy
+vaginal incision	incision type for	vaginal hysterectomy
+vascular injury	rare complication of	hysterectomy
+thromboembolism	risk after	hysterectomy
+deep vein thrombosis	occurs after	hysterectomy
+pulmonary embolism	risk after	hysterectomy
+hysterectomy	shortens	reproductive period
+cervix	pathologic change after	hysterectomy
+uterine corpus	removal during	hysterectomy
+uterine body	removal during	hysterectomy
+hemorrhage	complication of	hysterectomy
+hemorrhage	managed by	transfusion
+transfusion	needed after	hysterectomy
+antibiotics	given for	prophylaxis during hysterectomy
+prophylaxis	improves	surgical outcomes in hysterectomy
+antibiotics	prevent	infection after hysterectomy
+postoperative care	includes	wound care
+postoperative care	includes	pain management
+discharge criteria	after hysterectomy	stable vitals
+hospital stay	after hysterectomy	typical duration
+recovery	after hysterectomy	gradual return to activities
+return to work	after hysterectomy	timeline varies
+bone density	monitoring after	surgical menopause
+osteoporosis risk	increases after	surgical menopause
+hot flashes	occur after	surgical menopause
+contraception	after hysterectomy	unnecessary
+gynecologic oncology	may include	hysterectomy
+indication	for hysterectomy	cancer treatment
+pathology	after hysterectomy	uterus sent for
+uterine tissue	examined	pathology
+ureter	risk during	hysterectomy
+nerve injury	rare complication of	hysterectomy

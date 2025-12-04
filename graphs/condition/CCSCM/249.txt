@@ -1,107 +1,102 @@
-shock	is a	medical condition
-shock	causes	hypoperfusion
-shock	causes	hypotension
-shock	results in	lactic acidosis
-shock	leads to	organ dysfunction
-hypovolemic shock	caused by	hemorrhage
-hypovolemic shock	treated with	fluids
-hypovolemic shock	increases	mortality
-cardiogenic shock	caused by	myocardial infarction
-cardiogenic shock	caused by	arrhythmia
-cardiogenic shock	treated with	inotropes
-cardiogenic shock	requires	mechanical ventilation
-cardiogenic shock	associated with	high mortality
-obstructive shock	caused by	tamponade
-obstructive shock	caused by	massive pulmonary embolism
-obstructive shock	treated with	pericardiocentesis
-septic shock	is a	distributive shock
-septic shock	caused by	infection
-septic shock	associated with	hyperlactatemia
-septic shock	treated with	antibiotics
-septic shock	treated with	fluid resuscitation
-anaphylactic shock	is a	distributive shock
-anaphylactic shock	caused by	allergen
+shock	presents with	hypotension
+shock	presents with	tachycardia
+shock	presents with	cool extremities
+shock	presents with	oliguria
+shock	presents with	altered mental status
+shock	presents with	mottling
+shock	presents with	tachypnea
+shock	causes	tissue hypoperfusion
+shock	increases	lactate
+shock	decreases	urine output
+shock	causes	metabolic acidosis
+shock	increases	base deficit
+shock	leads to	multiorgan failure
+shock	increases	mortality risk
+shock	prolongs	ICU stay
+shock	prolongs	hospital stay
+shock	requires	vasopressor therapy
+shock	treated with	norepinephrine
+shock	treated with	fluid resuscitation
+shock	treated with	inotropes
+shock	managed with	source control
+hypovolemic shock	is a	type of shock
+septic shock	is a	type of distributive shock
+septic shock	treated with	broad-spectrum antibiotics
+septic shock	requires	source control
+septic shock	associated with	sepsis
+anaphylactic shock	is a	type of distributive shock
 anaphylactic shock	treated with	epinephrine
-neurogenic shock	is a	distributive shock
-neurogenic shock	caused by	spinal injury
+neurogenic shock	is a	type of distributive shock
+neurogenic shock	associated with	autonomic dysfunction
+cardiogenic shock	is a	type of shock
+cardiogenic shock	associated with	heart failure
+cardiogenic shock	treated with	inotropes
+cardiogenic shock	treated with	mechanical circulatory support
+obstructive shock	is a	type of shock
+obstructive shock	caused by	cardiac tamponade
+obstructive shock	caused by	pulmonary embolism
+shock	has risk factor	hemorrhage
+shock	has risk factor	massive transfusion
+shock	has risk factor	sepsis
+shock	has risk factor	trauma
+shock	occurs in	critical illness
+shock	monitored by	arterial line
+shock	monitored by	central venous pressure
+shock	monitored by	mixed venous oxygen saturation
+shock	treated with	blood transfusion
+shock	treated with	albumin
+shock	associated with	lactic acidosis
+shock	associated with	acute kidney injury
+shock	associated with	hepatic dysfunction
+shock	associated with	coagulopathy
+shock	associated with	thrombocytopenia
+shock	associated with	respiratory failure
+shock	associated with	hypoxia
+shock	increases	inflammatory markers
+shock	predisposes to	nosocomial infection
+shock	increases	capillary permeability
+shock	reduces	coronary perfusion
+shock	reduces	systemic perfusion pressure
+shock	increases	heart rate
+shock	reduces	cardiac output
+shock	associated with	disseminated intravascular coagulation
+shock	predicts	mortality
+shock	predicts	readmission
+shock	increases	ICU admission rates
+shock	increases	duration of mechanical ventilation
+shock	requires	renal replacement therapy
+shock	associated with	electrolyte disturbances
+shock	associated with	neurologic dysfunction
+shock	associated with	liver injury
+shock	associated with	anemia
+septic shock	characterized by	vasodilation
+septic shock	characterized by	capillary leak
+septic shock	managed with	source control
+septic shock	requires	early antibiotics
+septic shock	has	hyperlactatemia
+septic shock	leads to	acute respiratory distress syndrome
+septic shock	increases	inflammatory cytokines
+septic shock	worsens	organ dysfunction
+septic shock	increases	bleeding risk
+septic shock	treated with	vasopressors
+anaphylactic shock	treated with	epinephrine
+anaphylactic shock	requires	airway management
 neurogenic shock	treated with	fluids
-shock	associated with	tachycardia
-shock	associated with	cool skin
-shock	associated with	oliguria
-shock	diagnosed by	hypotension
-shock	diagnosed by	low urine output
-shock	monitored by	mean arterial pressure
-shock	monitored by	lactate
-shock	monitored by	urine output
-shock	managed with	vasopressor therapy
-vasopressor therapy	includes	norepinephrine
-vasopressor therapy	includes	vasopressin
-norepinephrine	is a	vasopressor
-dopamine	is a	vasopressor
-epinephrine	is a	vasopressor
-shock	treated with	crystalloids
-crystalloids	used for	fluid resuscitation
-blood transfusion	used for	hemorrhagic shock
-hemorrhagic shock	requires	blood products
-lactate	is a	biomarker of shock severity
-lactate	high in	septic shock
-urine output	is reduced in	shock
-mean arterial pressure	target in	shock management
-MAP	maintained by	vasopressor
-central venous pressure	reflects	preload
-preload	affects	cardiac output
-cardiac output	decreases	in shock
-systemic vascular resistance	decreases in	distributive shock
-systemic vascular resistance	increases in	cardiogenic shock
-troponin	elevated in	cardiogenic shock
-myocardial infarction	often leads to	cardiogenic shock
-arrhythmia	can cause	cardiogenic shock
-tamponade	can cause	obstructive shock
-massive pulmonary embolism	can cause	obstructive shock
-sepsis	associated with	septic shock
-infection	leads to	septic shock
-shock	increases	respiratory rate
-shock	leads to	metabolic acidosis
-metabolic acidosis	observed in	shock
-vasopressor	support	mean arterial pressure
-antibiotics	indicated for	septic shock
-fluid resuscitation	recommended for	hypovolemic shock
-fluid resuscitation	controversial in	cardiogenic shock
-inotrope	supports	cardiac output
-inotrope	includes	dobutamine
-dobutamine	is an	inotrope
-mechanical ventilation	required for	shock with respiratory failure
-intubation	performed for	shock
-coronary revascularization	may prevent	cardiogenic shock
-upon shock	prognosis	worse with age
-age	associated with	mortality in shock
-kidney injury	occurs in	shock
-acute kidney injury	occurs in	septic shock
-MODS	occurs in	severe shock
-vasopressor	adverse effect	ischemia
-vasopressor	adverse effect	arrhythmia
-shock	increases	sympathetic tone
-sympathetic tone	elevates	heart rate
-hemorrhage	reduces	blood volume
-hypovolemia	reduces	venous return
-venous return	reduces	cardiac output
-cardiac output	affects	tissue perfusion
-tissue perfusion	ensures	organ function
-shock	causes	tissue hypoxia
-shock	triggers	inflammatory response
-inflammatory response	amplifies	vasodilation
-shock	associated with	fever
-fever	common in	septic shock
-shock	alters	acid-base balance
-anion gap	increased in	shock
-central line placement	used for	shock management
-ventricular assist device	reserved for	cardiogenic shock
-ECMO	used for	refractory shock
-refractory shock	defined as	shock despite therapy
-shock	increases	sympathetic activation
-sympathetic activation	elevates	heart rate
-coagulopathy	complicates	septic shock
-disseminated intravascular coagulation	occurs in	septic shock
-DIC	worsens	bleeding risk
-bleeding risk	increases	mortality
-urine	output	indicates	kidney perfusion
+neurogenic shock	treated with	vasopressors
+neurogenic shock	causes	bradycardia
+obstructive shock	managed with	relief of obstruction
+cardiogenic shock	monitored by	echocardiography
+cardiogenic shock	leads to	pulmonary edema
+hypovolemic shock	treated with	rapid fluids
+hypovolemic shock	caused by	hemorrhage
+hypovolemic shock	associated with	dehydration
+shock	affects	microcirculation
+shock	causes	edema
+shock	seen in	ICU patients
+shock	evaluation by	ultrasound
+shock	outcome	mortality
+shock	prognosis	favorable with early intervention
+shock	etiology	unknown
+shock	domain	critical care
+shock	impact	organ perfusion
+shock	risk of	hypoxia

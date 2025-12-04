@@ -1,0 +1,100 @@
+physical therapy	used for	functional improvement
+physical therapy	improves	range of motion
+physical therapy	reduces	pain
+physical therapy	improves	mobility
+physical therapy	reduces	stiffness
+physical therapy	enhances	gait
+physical therapy	improves	balance
+physical therapy	increases	muscle strength
+physical therapy	improves	functional independence
+physical therapy	reduces	disability
+physical therapy	reduces	fall risk
+physical therapy	improves	activities of daily living
+physical therapy	provides	functional training
+physical therapy	supports	rehabilitation goals
+physical therapy	complements	occupational therapy
+physical therapy	used in	postoperative care
+physical therapy	indicated for	knee osteoarthritis
+physical therapy	indicated for	hip osteoarthritis
+physical therapy	indicated for	low back pain
+physical therapy	indicated for	neck pain
+physical therapy	indicated for	stroke
+physical therapy	indicated for	spinal cord injury
+physical therapy	indicated for	ACL rupture
+physical therapy	indicated for	total knee arthroplasty
+physical therapy	indicated for	hip fracture
+postoperative rehabilitation	aims for	functional recovery
+gait training	improves	walking speed
+balance training	reduces	standing imbalance
+range of motion exercises	maintains	joint mobility
+resistance training	increases	muscle strength
+core stabilization training	improves	core strength
+aquatic therapy	reduces	joint load
+manual therapy	decreases	tissue stiffness
+soft tissue mobilization	reduces	muscle tension
+proprioceptive training	improves	balance
+treadmill training	improves	gait speed
+ergometer cycling	improves	cardiovascular fitness
+functional training	improves	ADL performance
+education	improves	treatment adherence
+home exercise program	enhances	self-management
+care pathway	standardizes	rehabilitation protocol
+rehabilitation protocol	guides	patient progress
+multidisciplinary team	coordinates	care
+physiotherapist	conducts	evaluation
+physiotherapist	prescribes	exercise program
+physiotherapy assessment	identifies	functional deficit
+functional deficit	informs	treatment plan
+rehabilitation	promotes	independence
+rehabilitation	reduces	hospital readmission
+inpatient rehabilitation	provides	intensive therapy
+outpatient rehabilitation	offers	flexible scheduling
+home-based rehabilitation	increases	accessibility
+telerehabilitation	expands	access to therapy
+clinical guidelines	recommend	physical therapy
+physical therapy	requires	trained therapist
+occupational therapy	addresses	ADL
+diabetes mellitus	affects	rehabilitation outcomes
+age	influences	rehabilitation outcomes
+smoking	worsens	rehabilitation outcomes
+obesity	worsens	rehabilitation outcomes
+neurological impairment	impacts	rehabilitation planning
+pain	restricts	participation in therapy
+deconditioning	limits	exercise tolerance
+deconditioning	reduces	physical capacity
+fatigue	limits	exercise tolerance
+infection risk	increases	postoperative rehab risk
+osteoporosis	affects	rehab progression
+joint contracture	limits	ROM
+muscle atrophy	reduces	strength
+arthritis	limits	mobility
+stroke	causes	hemiparesis
+hemiparesis	benefits from	physical therapy
+cognitive impairment	challenges	rehabilitation adherence
+depression	reduces	rehab participation
+anxiety	reduces	rehab adherence
+prehabilitation	improves	postoperative recovery
+bundle of care	standardizes	rehabilitation services
+low back pain	treated with	physical therapy
+neck pain	treated with	physical therapy
+ACL reconstruction	followed by	physical therapy
+meniscal injury	treated with	rehabilitation
+total knee replacement	followed by	rehabilitation
+hip replacement	followed by	rehabilitation
+spine fusion	requires	postoperative rehabilitation
+brain injury	benefits from	physical therapy
+Parkinson's disease	improves with	physical therapy
+multiple sclerosis	improves with	rehabilitation
+cerebral palsy	maintained by	physical therapy
+cancer rehabilitation	improves	functional status
+geriatrics	benefits from	rehabilitation
+pediatric rehabilitation	addresses	developmental delay
+knee pain	managed by	physical therapy
+shoulder impingement	treated with	physical therapy
+rotator cuff tear	rehabilitated with	physical therapy
+ankle sprain	treated with	rehabilitation
+bone healing	supports	rehabilitation progress
+musculoskeletal injury	accelerates	rehab timeline
+muscle stiffness	responds to	manual therapy
+postoperative edema	reduced by	physical therapy
+recovery trajectory	predicts	discharge destination

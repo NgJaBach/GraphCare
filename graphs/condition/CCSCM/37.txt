@@ -1,100 +1,100 @@
-Hodgkin's lymphoma	is a	cancer
-Hodgkin's lymphoma	is a	lymphoid cancer
-Hodgkin's lymphoma	arises in	lymph nodes
-Hodgkin's lymphoma	presents with	lymphadenopathy
-Hodgkin's lymphoma	presents with	B symptoms
-Hodgkin's lymphoma	associated with	Epstein-Barr virus
-Hodgkin's lymphoma	contains	Reed-Sternberg cells
-Reed-Sternberg cells	are	malignant B-lymphocytes
-Hodgkin's lymphoma	histology	nodular sclerosis
-Hodgkin's lymphoma	histology	lymphocyte-rich
-Hodgkin's lymphoma	histology	nodular lymphocyte-predominant
-Hodgkin's lymphoma	staging	Ann Arbor
-Hodgkin's lymphoma	treatment	ABVD regimen
-Hodgkin's lymphoma	treatment	BEACOPP regimen
-ABVD regimen	includes	doxorubicin
-ABVD regimen	includes	bleomycin
-ABVD regimen	includes	vinblastine
-ABVD regimen	includes	dacarbazine
-Doxorubicin	is a	anthracycline
-Bleomycin	is a	cytotoxic agent
-Vinblastine	is a	microtubule inhibitor
-Dacarbazine	is a	alkylating agent
-Hodgkin's lymphoma	treated with	radiotherapy
-Hodgkin's lymphoma	treated with	chemotherapy
-Radiotherapy	used for	localized disease
-Chemotherapy	used for	systemic disease
-Chemotherapy	causes	neutropenia
-Chemotherapy	causes	alopecia
-Chemotherapy	causes	nausea
+Hodgkin's disease	is a	cancer
+Hodgkin's disease	is a	lymphoma
+Hodgkin's disease	is a	hematologic malignancy
+Hodgkin's disease	presents with	painless lymphadenopathy
+Hodgkin's disease	presents with	fever
+Hodgkin's disease	presents with	night sweats
+Hodgkin's disease	presents with	weight loss
+Hodgkin's disease	has	bimodal age distribution
+Hodgkin's disease	associated with	EBV infection
+Hodgkin's disease	diagnosed by	lymph node biopsy
+Lymph node biopsy	reveals	Reed-Sternberg cells
+Reed-Sternberg cells	indicate	Hodgkin's disease
+Hodgkin's disease	staged by	Ann Arbor staging system
+Hodgkin's disease	classified into	nodular sclerosis
+Hodgkin's disease	classified into	mixed cellularity
+Hodgkin's disease	classified into	lymphocyte-rich
+Hodgkin's disease	classified into	lymphocyte-depleted
+Hodgkin's disease	treated with	ABVD regimen
+ABVD regimen	contains	doxorubicin
+ABVD regimen	contains	bleomycin
+ABVD regimen	contains	vinblastine
+ABVD regimen	contains	dacarbazine
 Doxorubicin	causes	cardiotoxicity
 Bleomycin	causes	pulmonary toxicity
 Vinblastine	causes	neuropathy
-Dacarbazine	causes	nausea
-Autologous stem cell transplantation	used for	Hodgkin's lymphoma relapse
-Hodgkin's lymphoma	prognosis	favorable prognosis
-Hodgkin's lymphoma	incidence	bimodal distribution
-EBV infection	associated with	Hodgkin's lymphoma
+Dacarbazine	causes	myelosuppression
+Hodgkin's disease	treated with	chemotherapy
+Hodgkin's disease	treated with	radiotherapy
+Stage I Hodgkin's disease	treated with	radiotherapy
+Stage II Hodgkin's disease	treated with	radiotherapy
+Stage III Hodgkin's disease	treated with	combined modality therapy
+Stage IV Hodgkin's disease	treated with	systemic therapy
+Systemic therapy	includes	chemotherapy
+Radiation therapy	can cause	secondary malignancy
+Mediastinal mass	seen in	Hodgkin's disease
 PET-CT	used for	staging
-Staging	determines	treatment plan
-Ann Arbor staging	classifies	disease extent
-Hodgkin's lymphoma	age group	young adults
-Hodgkin's lymphoma	age distribution	bimodal
-Lymph node biopsy	yields	diagnostic tissue
-Hodgkin's lymphoma	diagnosis	biopsy confirmation
-Lymph node biopsy	confirms	Hodgkin's lymphoma
-CD30 positivity	indicates	Hodgkin's lymphoma
-CD15 positivity	indicates	Hodgkin's lymphoma
-PET-CT	predicts	treatment response
-Treatment response	correlates with	survival
-Survival	depends on	stage at diagnosis
-Staging	influences	therapy intensity
-Therapy intensity	determines	radiation field
-Radiation field	is defined by	stage
-Radiotherapy	long-term toxicity	hypothyroidism
-Radiotherapy	dose	fractionation
-Fertility preservation	considered for	Hodgkin's lymphoma patients
-Pediatric Hodgkin's lymphoma	incidence	rare
-Growth factors	support	chemotherapy-induced neutropenia
-Infection risk	increases	chemotherapy
-Chemotherapy	reduces	tumor burden
-Tumor burden	declines with	chemotherapy
-Radiation therapy	reduces	local recurrence
-Relapse	requires	salvage therapy
-Salvage therapy	includes	high-dose chemotherapy
-High-dose chemotherapy	followed by	stem cell rescue
-Stem cell rescue	used for	Hodgkin's lymphoma relapse
-NCCN guidelines	guide	Hodgkin's lymphoma management
-Survivorship planning	addresses	secondary malignancy risk
-Secondary malignancy risk	elevated by	radiotherapy
-Radiotherapy	dose	fractionation strategy
-Fractionation strategy	aims for	toxicity reduction
-Prognostic factor	includes	stage
-Stage	classification	early
-Prognostic factor	includes	histology
-Histology	influences	prognosis
-Extranodal involvement	occurs with	advanced disease
-Chemotherapy	interacts with	radiation therapy
-Combination therapy	preferred for	early-stage disease
-Observation strategy	used for	complete remission
-Complete remission	achieved by	combination therapy
-Clinical trial	evaluates	new regimens
-New regimens	tested in	clinical trial
-Radiation therapy	is adjuvant	therapy
-Chemotherapy	is neoadjuvant	therapy
-Quality of life	affected by	Hodgkin's lymphoma treatment
-Anemia	associated with	Hodgkin's lymphoma
-Infection	risk with	immunosuppression
-Immunosuppression	results from	chemotherapy
-Vaccination	recommended for	Hodgkin's lymphoma survivors
-Hodgkin's lymphoma	comorbidity	cardiovascular disease
-Doxorubicin	cardiotoxicity	dose-dependency
-Secondary malignancy	risk	lifetime
-Lipid profile	monitoring	Hodgkin's lymphoma therapy
-Tumor microenvironment	influences	treatment response
-Positron emission tomography	used for	metabolic imaging
-Metabolic imaging	provides	staging information
-Steroids	used for	symptom management
-Steroid therapy	causes	mood changes
-Molecular testing	informs	targeted therapy
-Targeted therapy	used for	refractory Hodgkin's lymphoma
+PET-CT	used for	response assessment
+Ann Arbor staging system	defines	stage I–IV
+B symptoms	include	fever
+B symptoms	include	night sweats
+B symptoms	include	weight loss
+Early stage Hodgkin's disease	prognosis	favorable
+Advanced stage Hodgkin's disease	prognosis	poorer
+Hodgkin's disease	more common in	males
+Hodgkin's disease	more common in	young adults
+Hodgkin's disease treatment	associated with	infertility
+Fertility preservation	recommended before	chemotherapy
+EBV infection	associated with	Hodgkin's disease
+BEACOPP regimen	is used for	advanced Hodgkin's disease
+BEACOPP regimen	more intensive than	ABVD
+BEACOPP regimen	includes	etoposide
+BEACOPP regimen	includes	cyclophosphamide
+BEACOPP regimen	includes	doxorubicin
+BEACOPP regimen	includes	vincristine
+BEACOPP regimen	includes	procarbazine
+BEACOPP regimen	includes	prednisone
+Radiation therapy	provides	locoregional control
+Radiation therapy	long-term toxicity	hypothyroidism
+Relapse	occurs after	remission
+Remission	achieved with	chemotherapy
+Remission	achieved with	radiotherapy
+PET-CT response	predicts	survival
+Metabolic response	predicts	prognosis
+Pulmonary function	affected by	bleomycin
+Cardiac function	affected by	doxorubicin
+Hodgkin's disease	recurrence risk	after treatment
+Hodgkin's disease survivors	require	long-term follow-up
+Long-term follow-up	includes	imaging surveillance
+Second malignancy	risk after	Hodgkin's disease therapy
+Fertility	impacted by	Hodgkin's disease treatment
+Fertility preservation	reduces	infertility risk
+Pediatric Hodgkin's disease	distinct from	adult Hodgkin's disease
+Prognostic factors	include	stage
+Prognostic factors	include	B symptoms
+Prognostic factors	include	bulky disease
+Bulky disease	defined as	lymph node mass >10 cm
+Cure rate	high in	early stage Hodgkin's disease
+Cure rate	high in	pediatric Hodgkin's disease
+Non-relapse survival	improved by	early therapy
+Vaccination status	important for	Hodgkin's disease patients under therapy
+Clinical trials	options for	relapsed Hodgkin's disease
+Relapsed Hodgkin's disease	treated with	salvage chemotherapy
+Salvage chemotherapy	includes	high-dose regimens
+Autologous stem cell transplant	used for	relapsed Hodgkin's disease
+Stem cell transplant	offers	durable remission
+Hodgkin's disease	monitored with	complete blood count
+Eosinophilia	observed in	Hodgkin's disease
+CD30 antigen	expressed in	Reed-Sternberg cells
+CD15 antigen	expressed in	Reed-Sternberg cells
+CD20 antigen	not expressed in	classical Hodgkin's disease
+Classical Hodgkin's disease	immunophenotype	CD30-positive
+Reed-Sternberg cells	test positive for	CD30
+Reed-Sternberg cells	test positive for	CD15
+CD15	marker for	Reed-Sternberg cells
+Familial predisposition	increases risk for	Hodgkin's disease
+Mediastinal involvement	common in	nodular sclerosis Hodgkin's disease
+Painless lymphadenopathy	hallmark of	Hodgkin's disease
+Prognosis	improves with	early detection
+Chemotherapy	reduces tumor burden	Hodgkin's disease
+Tumor burden	correlates with	prognosis

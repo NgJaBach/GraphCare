@@ -1,0 +1,102 @@
+spinal fusion	is a	surgical procedure
+spinal fusion	indicated for	degenerative spine disease
+spinal fusion	indicated for	spinal instability
+spinal fusion	indicated for	spondylolisthesis
+spinal fusion	indicated for	scoliosis
+spinal fusion	indicated for	spinal stenosis
+posterior lumbar fusion	is a type of	spinal fusion
+anterior lumbar fusion	is a type of	spinal fusion
+cervical fusion	is a type of	spinal fusion
+thoracic fusion	is a type of	spinal fusion
+transforaminal lumbar interbody fusion	is a type of	spinal fusion
+interbody fusion	is a type of	spinal fusion
+pedicle screw instrumentation	is used in	spinal fusion
+interbody cage	is used in	spinal fusion
+bone graft material	is used in	spinal fusion
+autograft bone	is used in	spinal fusion
+iliac crest graft	is used in	spinal fusion
+allograft bone	is used in	spinal fusion
+BMP-2	is used in	spinal fusion
+BMP-2	promotes	osteogenesis
+interbody cage	provides	structural support
+posterior approach	is used in	posterior spinal fusion
+anterior approach	is used in	anterior spinal fusion
+spinal fusion hardware	comprises	pedicle screws and rods
+spinal instrumentation	is part of	spinal fusion
+adjacent segment degeneration	occurs after	spinal fusion
+pseudoarthrosis	occurs after	spinal fusion
+hardware failure	occurs after	spinal fusion
+dural tear	is a complication of	spinal fusion
+CSF leak	is a complication of	spinal fusion
+infection	is a complication of	spinal fusion
+nerve injury	is a complication of	spinal fusion
+radiculopathy	is a complication of	spinal fusion
+hematoma	is a complication of	spinal fusion
+reoperation	follows	spinal fusion
+length of stay	is associated with	spinal fusion
+readmission	is associated with	spinal fusion
+hospital cost	is higher with	spinal fusion
+discharge disposition	is influenced by	spinal fusion
+rehabilitation facility admission	occurs after	spinal fusion
+general anesthesia	is required for	spinal fusion
+operative time	correlates with	complication rate
+intraoperative blood loss	is associated with	transfusion requirement
+blood transfusion	is associated with	spinal fusion
+postoperative analgesia	is required for	spinal fusion
+antibiotic prophylaxis	reduces	infection
+drain placement	reduces	hematoma
+rehabilitation	accelerates	mobility
+physical therapy	improves	function
+occupational therapy	improves	independence
+bone mineral density	predicts	fusion success
+bone mineral density	correlates with	fusion rate
+osteoporosis	reduces	fusion success
+smoking	increases	nonunion
+diabetes	increases	wound infection
+obesity	increases	wound infection
+age	increases	complication risk
+preoperative anemia	increases	transfusion risk
+preexisting spinal deformity	affects	fusion outcome
+scoliosis	affects	fusion planning
+fusion rate	is influenced by	smoking
+bone graft	incorporates into	fusion
+fusion segment	stabilizes	motion segment
+fusion outcome	depends on	bone quality
+fusion rate	depends on	bone quality
+screw loosening	occurs with	low bone density
+rod fracture	occurs with	osteoporosis
+adjacent level degeneration	is a long-term consequence of	fusion
+nonunion	leads to	revision surgery
+revision surgery	follows	hardware failure
+infection	increases	hospital stay
+opioid use	increases	dependency risk
+preoperative anemia	predicts	transfusion requirement
+diabetes	increases	wound infection risk
+hypertension	increases	perioperative risk
+age	increases	anesthesia risk
+smoking	reduces	fusion success
+bone graft incorporation	occurs over	months
+fusion	reduces	movement at operated segment
+segmental motion	decreases	after fusion
+fusion outcome	influenced by	bone quality
+bone quality	influences	hardware stability
+screw loosening	associated with	osteoporosis
+bone density	influences	hardware stability
+cage subsidence	occurs after	interbody fusion
+cage migration	is a complication of	interbody fusion
+facet arthropathy	complicates	fusion outcome
+preoperative radiographs	influence	fusion planning
+radiographic findings	influence	fusion planning
+infection prophylaxis	reduces	postoperative infection
+postoperative nausea	is associated with	spinal fusion
+preoperative optimization	improves	fusion outcome
+ASA class	correlates with	perioperative risk
+scoliosis correction	is performed during	spinal fusion
+revision cost	increases	cost of care
+surgical site infection	increases	readmission risk
+bone graft resorption	occurs with	poor vascularization
+poor vascularization	contributes to	graft failure
+graft failure	increases	revision risk
+planning	improves	surgical outcome
+outcome	is influenced by	surgical technique
+patient satisfaction	is influenced by	surgical outcome

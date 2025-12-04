@@ -1,0 +1,116 @@
+cesarean section	is a	medical procedure
+cesarean section	indicated for	fetal distress
+cesarean section	indicated for	placenta previa
+cesarean section	indicated for	breech presentation
+cesarean section	indicated for	malpresentation
+cesarean section	indicated for	prior cesarean delivery
+cesarean section	indicated for	failed labor
+cesarean section	indicated for	placenta accreta
+cesarean section	performed by	surgeon
+cesarean section	performed under	spinal anesthesia
+cesarean section	performed under	general anesthesia
+cesarean section	performed in	operating room
+cesarean section	performed in	labor and delivery unit
+cesarean section	requires	blood transfusion
+cesarean section	associated with	blood loss
+cesarean section	risks	postpartum hemorrhage
+cesarean section	risks	infection
+cesarean section	risks	neonatal respiratory distress
+cesarean section	associated with	obesity
+cesarean section	associated with	hypertension
+cesarean section	associated with	diabetes mellitus
+cesarean section	associated with	anemia
+cesarean section	associated with	placental abruption
+cesarean section	associated with	uterine scar
+cesarean section	associated with	adhesions
+cesarean section	associated with	postoperative complication
+cesarean section	leads to	longer hospital stay
+cesarean section	leads to	postoperative pain
+cesarean section	leads to	wound infection
+cesarean section	associated with	ICU admission
+cesarean section	affects	breastfeeding initiation
+cesarean section	affects	maternal mood
+cesarean section	affects	maternal bonding
+cesarean section	associated with	neonatal hypoglycemia
+cesarean section	associated with	neonatal jaundice
+cesarean section	increases	length of stay
+cesarean section	increases	postpartum pain duration
+cesarean section	increases	risk of venous thromboembolism
+cesarean section	increases	risk of wound infection
+cesarean section	increases	risk of endometritis
+cesarean section	associated with	placental abnormalities
+cesarean section	associated with	placental abnormalities in future pregnancies
+cesarean section	associated with	infertility in next pregnancy
+cesarean section	indicates	high-risk pregnancy
+cesarean section	used in	obstetric emergencies
+cesarean section	requires	antibiotics prophylaxis
+cesarean section	associated with	antibiotic exposure
+cesarean section	requires	postoperative analgesia
+cesarean section	contributes to	uterine scar formation
+cesarean section	associated with	chronic pain
+cesarean section	risk factor for	placenta previa in future pregnancies
+cesarean section	risk factor for	placenta accreta in future pregnancies
+cesarean section	associated with	neonatal respiratory morbidity
+cesarean section	associated with	maternal dehydration
+cesarean section	commonly performed in	tertiary centers
+cesarean section	outcomes affected by	maternal age
+cesarean section	associated with	delivery of preterm infant
+cesarean section	used for	delivery of preterm infant
+cesarean section	indicated for	placental abruption
+cesarean section	used for	emergency delivery
+cesarean section	used for	nonreassuring fetal status
+cesarean section	used for	placental insufficiency
+cesarean section	performed to	deliver fetus
+cesarean section	associated with	neonatal sepsis
+cesarean section	associated with	anemia in mother
+cesarean section	used with	regional anesthesia
+cesarean section	affected by	maternal BMI
+cesarean section	used for	obesity in mother
+cesarean section	practiced in	teaching hospitals
+cesarean section	included in	birth plan
+cesarean section	necessary for	obstructed labor
+cesarean section	supports	neonatal resuscitation
+cesarean section	prevents	cephalopelvic disproportion
+cesarean section	prevents	shoulder dystocia
+cesarean section	prevents	birth injury
+cesarean section	documented in	medical record
+cesarean section	recorded in	discharge summary
+cesarean section	associated with	hospital costs
+cesarean section	supported by	professional societies
+cesarean section	documented in	clinical guidelines
+cesarean section	indicated for	severe preeclampsia
+cesarean section	indicated for	fetal demise
+cesarean section	indicated for	placental abruption with bleeding
+cesarean section	associated with	multiple gestation
+cesarean section	used for	assisted reproduction pregnancy
+cesarean section	associated with	abdominal scar
+cesarean section	reduces	risk of vaginal birth after cesarean rate
+cesarean section	common in	private hospitals
+cesarean section	indicated for	suspected uterine rupture
+cesarean section	results in	neonatal adaptation changes
+cesarean section	associated with	neonatal hypocalcemia
+cesarean section	associated with	maternal thyroid dysfunction
+cesarean section	used for	fetal macrosomia
+cesarean section	indicated for	fetal growth restriction
+cesarean section	associated with	placental previa recurrence
+cesarean section	linked to	longer operative time
+cesarean section	included in	obstetric training curricula
+cesarean section	used in	urban hospitals
+cesarean section	practiced in	community hospitals
+cesarean section	lengthens	anesthesia time
+cesarean section	increases	cost of care
+cesarean section	documented in	clinical guidelines
+cesarean section	used for	obstetric emergencies
+cesarean section	postpartum outcomes	not applicable
+cesarean section	associated with	neonatal brain injury
+cesarean section	correlated with	maternal COPD
+cesarean section	indicated for	placenta accreta spectrum
+cesarean section	linked to	maternal anxiety
+cesarean section	used for	urgent birth
+cesarean section	performed for	placental abruption with bleeding
+cesarean section	associated with	uterine rupture risk
+cesarean section	increased by	maternal age
+cesarean section	used in	high-risk pregnancies
+cesarean section	associated with	cost increase
+cesarean section	reported in	birth registries
+cesarean section	included in	maternity care guidelines

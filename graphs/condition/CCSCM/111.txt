@@ -1,100 +1,100 @@
-other and ill-defined cerebrovascular disease	is associated with	hypertension
-other and ill-defined cerebrovascular disease	is associated with	atrial fibrillation
-other and ill-defined cerebrovascular disease	is associated with	diabetes mellitus
-other and ill-defined cerebrovascular disease	is associated with	smoking
-other and ill-defined cerebrovascular disease	is associated with	obesity
-other and ill-defined cerebrovascular disease	is associated with	dyslipidemia
-other and ill-defined cerebrovascular disease	is associated with	kidney disease
-other and ill-defined cerebrovascular disease	is associated with	old age
-other and ill-defined cerebrovascular disease	is associated with	male sex
-other and ill-defined cerebrovascular disease	is associated with	female sex
-other and ill-defined cerebrovascular disease	increases risk of	mortality
-other and ill-defined cerebrovascular disease	increases risk of	disability
-other and ill-defined cerebrovascular disease	increases risk of	stroke recurrence
-ischemic stroke	is a	type of cerebrovascular event
-hemorrhagic stroke	is a	type of cerebrovascular event
-ischemic stroke	often follows	other cerebrovascular pathology
-atrial fibrillation	increases	embolic risk
-carotid stenosis	increases	stroke risk
-lipid disorders	increases	vascular risk
-hypertension	drives	vascular remodeling
-statin therapy	reduces	LDL cholesterol
-lipid management	reduces	stroke risk
-antiplatelet therapy	reduces	thromboembolism risk
-anticoagulant therapy	reduces	embolic events
-tissue plasminogen activator	treats	acute ischemic stroke
-mechanical thrombectomy	treats	large vessel occlusion
-neuroimaging	identifies	infarction
-CT scan	detects	hemorrhage
-MRI	detects	diffusion restriction
-diffusion restriction	indicates	acute infarct
-infarct	causes	neurologic deficit
-hemorrhagic transformation	worsens	prognosis
-distal thrombosis	causes	tissue damage
-stroke unit	improves	outcome
-rehabilitation	improves	functional outcome
-physical therapy	improves	mobility
-occupational therapy	aids	independence
-speech therapy	improves	communication
-discharge planning	influences	readmission risk
-readmission risk	is predicted by	discharge disposition
-discharge disposition	affects	postdischarge care needs
-postdischarge care	reduces	readmission
-caregiver support	reduces	caregiver burden
-caregiver burden	predicts	readmission risk
-mortality	increases with	age
-age	is a risk factor for	stroke severity
-stroke severity	predicts	mortality
-mortality	depends on	comorbidities
-comorbidities	contribute to	prognosis
-prognosis	is influenced by	treatment timeliness
-treatment timeliness	predicts	outcome
-door-to-needle time	is a metric for	treatment quality
-blood pressure	is controlled by	antihypertensive therapy
-antihypertensive therapy	lowers	blood pressure
-glycemic control	improves	prognosis
-diabetes mellitus	worsens	stroke outcome
-smoking cessation	reduces	stroke risk
-obesity	increases	vascular risk
-exercise	reduces	stroke risk
-dietary modification	reduces	vascular risk
-body mass index	correlates with	vascular risk
-atrial appendage	contributes to	cardioembolism
-cardioembolic stroke	is managed with	anticoagulant therapy
-non-cardioembolic stroke	is managed with	antiplatelet therapy
-ischemic penumbra	is target of	reperfusion therapy
-reperfusion therapy	includes	thrombectomy
-thrombectomy	reduces	infarct size
-tissue plasminogen activator	is used for	acute ischemic stroke
-acute ischemic stroke	requires	urgent evaluation
-time to treatment	predicts	outcome
-door-to-needle time	is a metric for	treatment quality
-discharge planning	affects	readmission risk
-blood glucose	influences	stroke outcome
-glycemic control	influences	prognosis
-stroke unit	reduces	length of stay
-length of stay	influences	hospital costs
-hospital costs	increase with	stroke complications
-post-stroke care	requires	caregiver support
-caregiver support	reduces	caregiver burden
-caregiver burden	predicts	readmission risk
-mortality rate	rises with	age
-age	impacts	mortality
-cardiovascular risk factors	cluster with	cerebrovascular disease
-stroke risk	is influenced by	blood pressure
-blood pressure	is controlled by	antihypertensive therapy
-antihypertensive therapy	lowers	blood pressure
-lipid lowering therapy	reduces	atherosclerotic burden
-statin therapy	reduces	LDL cholesterol
-LDL cholesterol	is a	cardiovascular risk factor
-smoking cessation	reduces	stroke risk
-dietary modification	reduces	vascular risk
-exercise program	reduces	stroke risk
-body mass index	correlates with	vascular risk
-vascular risk	contributes to	cerebrovascular disease
-carotid stenosis	increases	stroke risk
-atrial fibrillation	increases	embolic risk
-cardioembolic stroke	is treated with	anticoagulant therapy
-non-cardioembolic stroke	is treated with	antiplatelet therapy
-stroke recurrence	increases	healthcare costs
-quality of life	declines with	stroke
+other and ill-defined cerebrovascular disease	is a	cerebrovascular disorder
+other and ill-defined cerebrovascular disease	associated with	stroke
+other and ill-defined cerebrovascular disease	associated with	mortality
+other and ill-defined cerebrovascular disease	associated with	disability
+other and ill-defined cerebrovascular disease	associated with	readmission
+other and ill-defined cerebrovascular disease	associated with	recurrent stroke
+other and ill-defined cerebrovascular disease	associated with	hypertension
+other and ill-defined cerebrovascular disease	associated with	diabetes mellitus
+other and ill-defined cerebrovascular disease	associated with	atrial fibrillation
+other and ill-defined cerebrovascular disease	associated with	smoking
+other and ill-defined cerebrovascular disease	associated with	hyperlipidemia
+other and ill-defined cerebrovascular disease	associated with	obesity
+other and ill-defined cerebrovascular disease	associated with	advanced age
+other and ill-defined cerebrovascular disease	associated with	chronic kidney disease
+other and ill-defined cerebrovascular disease	associated with	chronic liver disease
+other and ill-defined cerebrovascular disease	associated with	anemia
+other and ill-defined cerebrovascular disease	associated with	sleep apnea
+other and ill-defined cerebrovascular disease	associated with	coronary artery disease
+other and ill-defined cerebrovascular disease	associated with	carotid stenosis
+other and ill-defined cerebrovascular disease	treated with	antiplatelet therapy
+other and ill-defined cerebrovascular disease	treated with	anticoagulation
+other and ill-defined cerebrovascular disease	treated with	statin therapy
+other and ill-defined cerebrovascular disease	treated with	blood pressure control
+other and ill-defined cerebrovascular disease	treated with	rehabilitation
+other and ill-defined cerebrovascular disease	treated with	thrombolysis
+other and ill-defined cerebrovascular disease	treated with	surgery
+other and ill-defined cerebrovascular disease	imaging finding	lacunar infarct
+other and ill-defined cerebrovascular disease	imaging finding	white matter hyperintensities
+other and ill-defined cerebrovascular disease	imaging finding	microbleeds
+other and ill-defined cerebrovascular disease	imaging finding	ischemic changes
+other and ill-defined cerebrovascular disease	imaging modality	MRI
+other and ill-defined cerebrovascular disease	imaging modality	CT scan
+other and ill-defined cerebrovascular disease	diagnostic category	unspecified
+other and ill-defined cerebrovascular disease	prognosis	disability level
+other and ill-defined cerebrovascular disease	prognosis	functional dependence
+other and ill-defined cerebrovascular disease	prognosis	mortality risk
+other and ill-defined cerebrovascular disease	prevalence	elderly population
+other and ill-defined cerebrovascular disease	prevalence	male sex
+other and ill-defined cerebrovascular disease	prevalence	female sex
+other and ill-defined cerebrovascular disease	comorbidity	hypertension
+other and ill-defined cerebrovascular disease	comorbidity	diabetes mellitus
+other and ill-defined cerebrovascular disease	comorbidity	hyperlipidemia
+other and ill-defined cerebrovascular disease	comorbidity	obesity
+other and ill-defined cerebrovascular disease	comorbidity	chronic kidney disease
+other and ill-defined cerebrovascular disease	comorbidity	chronic liver disease
+other and ill-defined cerebrovascular disease	comorbidity	sleep apnea
+other and ill-defined cerebrovascular disease	comorbidity	coronary artery disease
+other and ill-defined cerebrovascular disease	comorbidity	atrial fibrillation
+other and ill-defined cerebrovascular disease	genetics	family history of stroke
+other and ill-defined cerebrovascular disease	pathophysiology	small vessel disease
+other and ill-defined cerebrovascular disease	pathophysiology	embolism
+other and ill-defined cerebrovascular disease	pathophysiology	hypoperfusion
+other and ill-defined cerebrovascular disease	prognosis	long-term disability
+other and ill-defined cerebrovascular disease	prognosis	functional dependence
+other and ill-defined cerebrovascular disease	prognosis	recurrence risk
+other and ill-defined cerebrovascular disease	management	secondary prevention
+other and ill-defined cerebrovascular disease	risk factor	aging
+other and ill-defined cerebrovascular disease	risk factor	inflammation
+other and ill-defined cerebrovascular disease	risk factor	smoking status
+other and ill-defined cerebrovascular disease	education	stroke signs awareness
+other and ill-defined cerebrovascular disease	follow-up	neurorehabilitation
+other and ill-defined cerebrovascular disease	outcome	independence
+other and ill-defined cerebrovascular disease	outcome	gait disturbance
+other and ill-defined cerebrovascular disease	outcome	cognitive impairment
+other and ill-defined cerebrovascular disease	outcome	mood disorder
+other and ill-defined cerebrovascular disease	adverse event	aspiration pneumonia
+other and ill-defined cerebrovascular disease	administrative data	ICD code category not specified
+other and ill-defined cerebrovascular disease	healthcare utilization	emergency visits
+other and ill-defined cerebrovascular disease	healthcare utilization	hospitalizations
+other and ill-defined cerebrovascular disease	patient education	stroke symptoms recognition
+other and ill-defined cerebrovascular disease	clinical trial suitability	eligible for stroke prevention trials
+other and ill-defined cerebrovascular disease	research focus	neuroimaging biomarkers
+other and ill-defined cerebrovascular disease	epidemiology	incidence
+other and ill-defined cerebrovascular disease	epidemiology	prevalence
+other and ill-defined cerebrovascular disease	public health	aging population
+other and ill-defined cerebrovascular disease	public health	burden of disease
+other and ill-defined cerebrovascular disease	economics	cost of care
+other and ill-defined cerebrovascular disease	radiology	angiography
+other and ill-defined cerebrovascular disease	radiology	carotid duplex
+other and ill-defined cerebrovascular disease	radiology	CT angiography
+other and ill-defined cerebrovascular disease	radiology	MRI angiography
+other and ill-defined cerebrovascular disease	policy	stroke prevention guidelines
+other and ill-defined cerebrovascular disease	care pathway	acute stroke protocol
+other and ill-defined cerebrovascular disease	prognosis	quality of life
+other and ill-defined cerebrovascular disease	ethics	palliative care considerations
+other and ill-defined cerebrovascular disease	education need	caregiver burden
+other and ill-defined cerebrovascular disease	technology	telemedicine stroke assessment
+other and ill-defined cerebrovascular disease	research area	neuroinflammation
+other and ill-defined cerebrovascular disease	biomarker	C-reactive protein
+other and ill-defined cerebrovascular disease	biomarker	interleukin-6
+other and ill-defined cerebrovascular disease	comorbidity	chronic obstructive pulmonary disease
+other and ill-defined cerebrovascular disease	clinical feature	aphasia
+other and ill-defined cerebrovascular disease	clinical feature	apraxia
+other and ill-defined cerebrovascular disease	clinical feature	neglect
+other and ill-defined cerebrovascular disease	clinical feature	hemiparesis
+other and ill-defined cerebrovascular disease	imaging finding	microinfarcts
+other and ill-defined cerebrovascular disease	imaging finding	cortical atrophy
+other and ill-defined cerebrovascular disease	education	caregiver training
+other and ill-defined cerebrovascular disease	policy effect	stroke care parity
+other and ill-defined cerebrovascular disease	population risk	urban-rural differences

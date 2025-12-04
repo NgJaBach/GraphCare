@@ -1,124 +1,100 @@
-varicose veins	is a	venous disease
-varicose veins	leads to	chronic venous insufficiency
-varicose veins	associated with	edema
-varicose veins	treated with	compression stockings
-varicose veins	treated with	sclerotherapy
-varicose veins	treated with	endovenous laser therapy
-varicose veins	increases risk of	skin changes
-chronic venous insufficiency	is a	venous disease
-chronic venous insufficiency	progresses to	venous ulcers
-chronic venous insufficiency	causes	edema
-chronic venous insufficiency	managed by	compression therapy
-venous ulcers	is a	chronic wound
-venous ulcers	associated with	infection
-venous ulcers	treated with	wound care
-venous ulcers	require	debridement
-deep vein thrombosis	is a	venous thromboembolism
-deep vein thrombosis	leads to	pulmonary embolism
-deep vein thrombosis	diagnosed by	duplex ultrasound
-deep vein thrombosis	treated with	anticoagulation
-deep vein thrombosis	increases risk of	post-thrombotic syndrome
-post-thrombotic syndrome	is a	complication of deep vein thrombosis
-post-thrombotic syndrome	presents with	leg swelling
-post-thrombotic syndrome	managed with	compression therapy
-superficial thrombophlebitis	is a	venous disease
-superficial thrombophlebitis	associated with	varicose veins
-superficial thrombophlebitis	treated with	NSAIDs
-superficial thrombophlebitis	may progress to	deep vein thrombosis
-Budd-Chiari syndrome	is a	hepatic venous outflow obstruction
-Budd-Chiari syndrome	associated with	liver disease
-May-Thurner syndrome	is a	venous compression syndrome
-May-Thurner syndrome	predisposes to	left iliac vein DVT
-May-Thurner syndrome	treated with	venous stenting
-Paget-Schroetter syndrome	is a	primary upper-extremity DVT
-Pelvic congestion syndrome	is a	venous disease
-Pelvic congestion syndrome	treated with	embolization
-Pelvic congestion syndrome	associated with	chronic pelvic varices
-Varicocele	is a	scrotal venous dilation
-Varicocele	associated with	infertility
-Varicocele	treated with	varicocelectomy
-Venous malformation	is a	vascular malformation
-Venous malformation	treated with	sclerotherapy
-Venous malformation	presents with	pain
-Lymphatic filariasis	is a	lymphatic disease
-Lymphatic filariasis	causes	lymphedema
-Lymphatic filariasis	treated with	antiparasitic therapy
-Lymphatic filariasis	endemic in	tropical regions
-Lymphatic filariasis	transmitted by	mosquitoes
-Elephantiasis	is a	lymphatic disease
-Elephantiasis	caused by	lymphatic filariasis
-Elephantiasis	presents with	thickened skin
-Elephantiasis	treated with	limb surgery
-Lymphedema	is a	lymphatic disease
-Lymphedema	leads to	limb swelling
-Lymphedema	increases risk of	cellulitis
-Lymphedema	treated with	compression therapy
-Lymphedema	diagnosed by	lymphoscintigraphy
-Lymphangiitis	is a	lymphatic infection
-Lymphangiitis	treated with	antibiotics
-Lymphangiitis	associated with	cellulitis
-Lymphatic obstruction	leads to	lymphedema
-Lymphatic obstruction	causes	edema
-Lymphatic obstruction	treated with	lymphatic bypass surgery
-Chylothorax	is a	lymphatic disorder
-Chylothorax	caused by	thoracic duct injury
-Chylothorax	managed with	thoracentesis
-Chylous ascites	is a	lymphatic disorder
-Chylous ascites	caused by	lymphatic obstruction
-Chylous ascites	treated with	dietary fat restriction
-May-Thurner syndrome	alternative name	left iliac vein compression syndrome
-Venous stasis dermatitis	is a	skin complication of venous disease
-Venous stasis dermatitis	presents with	hyperpigmentation
-Venous stasis dermatitis	treated with	leg elevation
-Thrombotic risk	is a	concern in venous disease
-Compression therapy	is a	noninvasive treatment for venous disease
-Endovenous laser ablation	is a	treatment for varicose veins
-Sclerotherapy	is a	treatment for varicose veins
-Anticoagulation	is a	treatment for deep vein thrombosis
-D-dimer test	is a	diagnostic marker for deep vein thrombosis
-Duplex ultrasound	is a	diagnostic test for venous disease
-Lymphoscintigraphy	is a	diagnostic test for lymphedema
-Thoracic duct embolization	is a	treatment for chylothorax
-Embolization	is a	treatment for pelvic congestion syndrome
-Liver cirrhosis	is a	comorbidity with Budd-Chiari syndrome
-Hepatic vein thrombosis	is a	feature of Budd-Chiari syndrome
-Pelvic varices	are a	complication of pelvic congestion syndrome
-Lymphedema-dominant	is a	phenotype of lymphedema
-Chylous leakage	is a	complication of lymphatic disruption
-Lymphatic adipose deposition	is a	manifestation of lymphedema
-Dermal edema	is a	symptom in venous disease
-Limb swelling	is a	symptom in venous disease
-Cellulitis	may accompany	lymphedema
-Skin infection	may complicate	venous ulcers
-Ultrasound-guided foam sclerotherapy	is a	technique for venous malformations
-Leg edema	is a	symptom of venous disease
-Ankle edema	is a	symptom of venous insufficiency
-Compression stockings	recommended for	varicose veins
-Elastic compression stockings	recommended for	venous ulcers
-Phlebectomy	is a	surgical option for varicose veins
-Endovenous radiofrequency ablation	is a	treatment for varicose veins
-Vascular surgery	is a	specialty involved in venous disease
-Interventional radiology	provides	endovascular therapies for venous disease
-Lymphedema clinic	focuses on	lymphatic diseases
-Lymphatic filariasis	reduces through	mass drug administration
-Drainage	is a	procedure for chylous effusions
-Chylous effusion	is a	lymphatic leakage
-Lymphatic vessel	is a	channel for lymph transport
-Lymphatic pump therapy	is a	physical therapy modality for lymphedema
-Lymphaticovenous anastomosis	is a	surgical option for lymphedema
-Lymphatic vasculature	is a	part of lymphatic system
-Venous valvopathy	is a	venous valve failure
-Chronic venous hypertension	is a	pathophysiologic mechanism in venous disease
-Venous insufficiency	is associated with	edema
-Leg ulcers	associated with	venous disease
-Duplex ultrasound	used for	venous mapping
-CT venography	used for	venous thrombosis assessment
-Magnetic resonance venography	used for	venous malformations
-Lymphatic malformation	is a	vascular anomaly
-Lymphatic malformation	treated with	sclerotherapy
-Liposuction	used for	debulking lymphedema
-Limb circumference	correlates with	lymphedema severity
-Stasis dermatitis	synonym for	venous dermatitis
-Chronic edema	is a	lasting swelling
-Lymphedema	can be primary or secondary	classification
-Venous insufficiency	encompasses	varicose veins and venous ulcers
+ varicose veins	is a	venous disease 
+ chronic venous insufficiency	is a	venous disorder 
+ deep vein thrombosis	is a	venous thromboembolism 
+ post-thrombotic syndrome	is a	complication of deep vein thrombosis 
+ pulmonary embolism	is a	complication of deep vein thrombosis 
+ superficial thrombophlebitis	is a	vein inflammation 
+ venous ulcers	is a	skin complication of venous disease 
+ varicose veins	associated with	venous hypertension 
+ chronic venous insufficiency	leads to	edema 
+ edema	is a	symptom 
+ edema	associated with	skin changes 
+ lymphedema	is a	lymphatic disorder 
+ primary lymphedema	is a	congenital disorder 
+ secondary lymphedema	is a	acquired disorder 
+ elephantiasis	is a	lymphatic disorder 
+ lymphatic filariasis	is a	parasitic disease 
+ lymphangiitis	is a	lymphatic inflammation 
+ lymphedema	can cause	skin changes 
+ lymphedema	managed with	compression garments 
+ venous malformations	are	congenital vascular anomalies 
+ lymphatic malformations	are	congenital lymphatic anomalies 
+ central venous catheter	increases risk for	superficial thrombophlebitis 
+ central venous catheter	can cause	venous thrombosis 
+ pregnancy	predisposes to	varicose veins 
+ pregnancy	increases risk for	deep vein thrombosis 
+ obesity	increases risk for	lymphedema 
+ obesity	associated with	venous insufficiency 
+ aging	increases risk for	varicose veins 
+ estrogen therapy	increases risk for	deep vein thrombosis 
+ cancer	predisposes to	venous thrombosis 
+ cancer	associated with	deep vein thrombosis 
+ immobility	increases risk for	deep vein thrombosis 
+ compression therapy	is a	treatment for venous insufficiency 
+ compression therapy	used for	lymphedema management 
+ sclerotherapy	is a	treatment for varicose veins 
+ laser therapy	is a	treatment for varicose veins 
+ phlebectomy	is a	surgical option for varicose veins 
+ endovenous ablation	is a	treatment for varicose veins 
+ venous insufficiency	treated with	compression stockings 
+ lymphatic filariasis	treated with	diethylcarbamazine 
+ lymphatic filariasis	treated with	ivermectin 
+ elephantiasis	can result from	lymphatic filariasis 
+ elephantiasis	is a	lymphatic disorder 
+ post-thrombotic syndrome	can cause	leg swelling 
+ post-thrombotic syndrome	occurs after	deep vein thrombosis 
+ chronic venous insufficiency	causes	skin changes 
+ skin changes	include	hemosiderin staining 
+ venous ulcers	treated with	wound care 
+ venous ulcers	caused by	chronic venous insufficiency 
+ venous ulcers	may require	debridement 
+ varicose veins	may progress to	chronic venous insufficiency 
+ chronic venous insufficiency	linked with	edema 
+ lymphedema	increases risk for	cellulitis 
+ cellulitis	can complicate	lymphedema 
+ cellulitis	risk with	lymphedema 
+ lymphangitis	presents with	red streaks 
+ superficial thrombophlebitis	treated with	NSAIDs 
+ superficial thrombophlebitis	associated with	varicose veins 
+ venous insufficiency	is a	chronic condition 
+ edema	related to	venous disease 
+ edema	common in	venous insufficiency 
+ edema	contributes to	skin changes 
+ stasis dermatitis	can occur with	chronic venous insufficiency 
+ stasis dermatitis	is a	skin condition 
+ venous stasis	associated with	edema 
+ venous stasis	leads to	pigment changes 
+ pigment changes	seen in	venous disease 
+ venous disease	predisposes to	skin infection 
+ skin infection	occurs with	venous ulcers 
+ cellulitis	occurs with	venous ulcers 
+ lymphedema	increases risk for	cellulitis 
+ cancer therapy	increases risk for	lymphedema 
+ axillary lymph node dissection	causes	arm lymphedema 
+ breast cancer treatment	can cause	lymphedema 
+ radiation therapy	increases risk for	lymphedema 
+ venous thrombosis	is a	thrombotic event 
+ deep vein thrombosis	can lead to	pulmonary embolism 
+ central venous catheter	associated with	infection risk 
+ central venous catheter	increases risk for	venous thrombosis 
+ pulmonary embolism	is a	life-threatening condition 
+ venous insufficiency	presents with	leg edema 
+ lymphedema	presents with	non-pitting edema 
+ lymphedema	diagnosed by	lymphoscintigraphy 
+ lymphoscintigraphy	is a	diagnostic test for lymphatic disorders 
+ lymphangiography	is a	diagnostic test for lymphatic disorders 
+ lymphatic obstruction	causes	lymphedema 
+ lymphatic obstruction	may be due to	malignancy 
+ malignancy	can cause	lymphatic obstruction 
+ varicose veins	are a	common venous disorder 
+ surgical stripping	is a	surgical option for varicose veins 
+ foam sclerotherapy	is a	treatment modality for varicose veins 
+ varicose veins	treated with	foam sclerotherapy 
+ endovenous laser therapy	is a	treatment modality for varicose veins 
+ compression stockings	helps	venous insufficiency 
+ compression stockings	used for	lymphedema management 
+ lymphatic filariasis	occurs in	tropical regions 
+ tropical regions	endemic for	lymphatic filariasis 
+ varicose veins	result from	venous reflux 
+ venous reflux	leads to	chronic venous insufficiency 
+ lymphatic obstruction	causes	edema 

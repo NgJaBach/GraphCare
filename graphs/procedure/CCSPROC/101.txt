@@ -1,0 +1,100 @@
+transurethral excision	is a	urologic procedure
+transurethral excision	treats	bladder outlet obstruction
+transurethral excision	treats	prostatic obstruction
+transurethral excision	treats	prostatic hyperplasia
+transurethral excision	reduces	postvoid residual
+transurethral excision	improves	urinary flow
+transurethral excision	reduces	bladder pressure
+transurethral excision	lowers	urinary retention risk
+transurethral excision	causes	bleeding
+transurethral excision	causes	infection
+transurethral excision	associated with	urinary incontinence
+transurethral excision	followed by	catheterization
+transurethral excision	performed under	general anesthesia
+transurethral excision	performed with	cystoscope guidance
+transurethral excision	compared to	open prostatectomy
+transurethral excision	preferred over	open prostatectomy
+transurethral excision	provides	symptom relief
+transurethral excision	used in	adults
+transurethral excision	associated with	reduced hospital stay
+transurethral excision	used with	irrigation
+transurethral excision	requires	operating room
+transurethral excision	reduces	catheter duration
+transurethral excision	risks	transfusion
+transurethral excision	reduces	prostatic tissue volume
+transurethral excision	alters	urinary continence status
+transurethral excision	influences	sexual function
+transurethral excision	indicated for	residual obstruction
+transurethral excision	contraindicated in	active infection
+transurethral excision	contraindicated in	coagulopathy
+transurethral excision	monitored with	postvoid residual measurement
+transurethral excision	evaluated by	uroflowmetry
+transurethral excision	followed by	catheter removal
+transurethral excision	reduces	bladder outlet resistance
+transurethral excision	increases	urinary flow rate
+transurethral excision	associated with	postoperative pain
+transurethral excision	associated with	wound infection
+transurethral excision	improves	quality of life
+transurethral excision	improves	patient activity
+transurethral excision	executed by	urologist
+transurethral excision	documented in	surgical reports
+drainage	is a	medical procedure
+drainage	relieves	urinary retention
+drainage	reduces	bladder distension
+drainage	lowers	intravesical pressure
+drainage	may cause	infection
+drainage	requires	catheterization
+drainage	performed by	urologist
+drainage	used before	transurethral excision
+drainage	followed by	catheter removal
+drainage	indicates	acute urinary obstruction
+drainage	associated with	hematuria
+drainage	monitored by	ultrasonography
+drainage	provides	temporary relief
+drainage	can be	suprapubic drainage
+drainage	performed via	urethral route
+drainage	performed via	percutaneous approach
+drainage	requires	sterile technique
+drainage	often combined with	transurethral procedures
+drainage	improves	urine output
+drainage	reduces	postvoid residual
+drainage	used in	emergency department
+drainage	reduces	hydronephrosis
+drainage	helps	renal function
+drainage	indicates	severity of obstruction
+drainage	improves	patient comfort
+drainage	may require	analgesia
+drainage	used for	urinary tract decompression
+drainage	reduces	risk of infection from obstruction
+drainage	evaluated with	imaging
+drainage	time to perform	acute setting
+removal of urinary obstruction	is a	surgical procedure
+removal of urinary obstruction	treats	bladder outlet obstruction
+removal of urinary obstruction	indicated for	prostatic obstruction
+removal of urinary obstruction	performed by	urologist
+removal of urinary obstruction	reduces	hydronephrosis
+removal of urinary obstruction	improves	renal function
+removal of urinary obstruction	decreases	postvoid residual
+removal of urinary obstruction	associated with	bleeding
+removal of urinary obstruction	associated with	infection
+removal of urinary obstruction	can cause	urinary incontinence
+removal of urinary obstruction	reduces	LUTS
+removal of urinary obstruction	is used for	bladder outlet obstruction due to BPH
+removal of urinary obstruction	followed by	catheterization
+removal of urinary obstruction	requires	anesthesia
+removal of urinary obstruction	often performed with	transurethral approach
+removal of urinary obstruction	alternative to	open prostatectomy
+removal of urinary obstruction	reduces	hospital stay
+removal of urinary obstruction	improves	quality of life
+removal of urinary obstruction	indicated for	recurrent retention
+removal of urinary obstruction	followed by	imaging surveillance
+removal of urinary obstruction	contraindicated with	active infection
+removal of urinary obstruction	reduces	risk of renal failure
+removal of urinary obstruction	requires	antibiotic prophylaxis
+removal of urinary obstruction	results in	catheter independence
+removal of urinary obstruction	reduces	urinary tract infections
+removal of urinary obstruction	evaluated with	postprocedural imaging
+removal of urinary obstruction	improves	bladder compliance
+removal of urinary obstruction	decreases	recurrence risk
+removal of urinary obstruction	performed in	hospital setting
+removal of urinary obstruction	indicated for	failure of medical therapy

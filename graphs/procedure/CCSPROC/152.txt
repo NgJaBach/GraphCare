@@ -1,0 +1,178 @@
+arthroplasty knee	is a	surgical procedure
+arthroplasty knee	replaces	knee joint
+arthroplasty knee	treats	osteoarthritis
+arthroplasty knee	uses	knee prosthesis
+arthroplasty knee	indicated for	osteoarthritis knee
+arthroplasty knee	reduces	knee pain
+arthroplasty knee	improves	knee function
+arthroplasty knee	enables	range of motion
+arthroplasty knee	improves	quality of life
+arthroplasty knee	reduces	disability
+knee prosthesis	consists of	femoral component
+knee prosthesis	consists of	tibial component
+knee prosthesis	uses	polyethylene insert
+femoral component	articulates with	tibial component
+bone cement	fixes	knee prosthesis
+polyethylene insert	provides	articulation surface
+cemented fixation	provides	implant stability
+osteolysis	caused by	polyethylene wear
+prosthesis loosening	leads to	revision arthroplasty
+revision arthroplasty	is a	subsequent procedure
+infection	is a	complication of arthroplasty knee
+thromboembolism	is a	complication of arthroplasty knee
+stiffness	is a	complication of arthroplasty knee
+wound dehiscence	is a	complication of arthroplasty knee
+hematoma	is a	complication of arthroplasty knee
+arthroplasty knee	reduces	analgesic use
+arthroplasty knee	reduces	opioid consumption
+arthroplasty knee	performed under	anesthesia
+arthroplasty knee	performed in	hospital
+arthroplasty knee	associated with	readmission
+arthroplasty knee	associated with	length of stay
+postoperative rehabilitation	improves	knee function
+physical therapy	improves	range of motion
+physical therapy	accelerates	recovery
+range of motion	improves	after arthroplasty knee
+gait	improves	after arthroplasty knee
+quadriceps strength	increases	after arthroplasty knee
+activity level	increases	after arthroplasty knee
+patient satisfaction	increases	after arthroplasty knee
+occupational status	improves	after arthroplasty knee
+age	influences	revision rate after arthroplasty knee
+body mass index	influences	complication rate after arthroplasty knee
+diabetes	increases	infection risk after arthroplasty knee
+smoking	increases	wound complication after arthroplasty knee
+obesity	increases	risk of thromboembolism after arthroplasty knee
+surgeon experience	improves	outcome after arthroplasty knee
+hospital volume	correlates with	outcome after arthroplasty knee
+blood loss	correlates with	transfusion need
+transfusion	increases	recovery time
+antibiotic prophylaxis	reduces	infection risk after arthroplasty knee
+drain placement	reduces	hematoma after arthroplasty knee
+imaging follow-up	monitors	prosthesis position
+cemented prosthesis	provides	immediate stability
+cementless prosthesis	relies on	biological fixation
+polyethylene wear	drives	osteolysis
+osteolysis	triggers	revision arthroplasty
+bone quality	affects	implant fixation
+bone stock	preserved	during arthroplasty knee
+component alignment	affects	wear rate
+alignment	affects	prosthesis longevity
+surgical duration	associates with	blood loss
+infection rate	decreases with	antibiotic prophylaxis
+antibiotics	administered during	arthroplasty knee
+blood conservation	improves	recovery
+venous thromboembolism prophylaxis	reduces	thromboembolism after arthroplasty knee
+deep vein thrombosis	occurs after	arthroplasty knee
+pulmonary embolism	occurs after	arthroplasty knee
+early mobilization	reduces	thromboembolism risk after arthroplasty knee
+inpatient stay	decreases with	fast-track protocol after arthroplasty knee
+fast-track protocol	shortens	length of stay after arthroplasty knee
+cemented knee arthroplasty	is associated with	immediate fixation
+bone cement implantation syndrome	is a risk in	cemented knee arthroplasty
+patient comorbidity burden	influences	readmission after arthroplasty knee
+psychological readiness	influences	rehabilitation adherence after arthroplasty knee
+prosthesis design	affects	wear rate
+wear debris	triggers	osteolysis
+osteolysis	leads to	prosthesis loosening
+bone quality	influences	fixation stability
+soft tissue damage	influences	rehabilitation outcome
+surgical approach	influences	soft tissue damage
+minimally invasive approach	reduces	tissue trauma
+patient education	improves	postoperative adherence
+rehabilitation protocol	standardizes	recovery path
+postoperative pain	limits	rehabilitation adherence
+anesthesia type	influences	recovery speed
+robotic assistance	enhances	implant placement accuracy
+navigation system	improves	alignment accuracy
+alignment accuracy	improves	prosthesis longevity
+prosthesis longevity	reduces	revision risk
+patient-specific instrumentation	improves	fit of implants
+preoperative planning	improves	surgical accuracy
+outcome measures	include	pain score
+pain score	used for	outcome tracking
+implant registry	monitors	prosthesis performance
+readmission	occurs within	30 days after arthroplasty knee
+short-term outcome	includes	pain relief
+long-term outcome	includes	prosthesis longevity
+mortality	risk after	arthroplasty knee
+quality of life	improves	after arthroplasty knee
+analgesia	required after	arthroplasty knee
+analgesia	improves	recovery time
+analgesia	reduces	pain intensity after arthroplasty knee
+return to activity	occurs after	arthroplasty knee
+psychosocial support	influences	rehabilitation adherence after arthroplasty knee
+exercise regimen	supports	functional recovery after arthroplasty knee
+care pathway	standardizes	perioperative care after arthroplasty knee
+drug therapy	complements	rehabilitation after arthroplasty knee
+analgesic plan	guides	postnatal?
+postoperative monitoring	ensures	implant function
+follow-up visits	assess	prosthesis integrity
+pain management	improves	patient comfort after arthroplasty knee
+infection prevention	decreases	postoperative complications
+weight management	improves	recovery after arthroplasty knee
+bone density	supports	implant stability
+ischemia	risk	during arthroplasty knee
+renal function	affects	perioperative risk
+cardiovascular risk	influences	perioperative planning
+imaging modality	used for	postoperative evaluation
+contrast	aids	imaging interpretation after arthroplasty knee
+nursing care	facilitates	postoperative recovery
+rehabilitation team	coordinates	patient care after arthroplasty knee
+patient-reported outcome	reflects	pain and function after arthroplasty knee
+prosthesis color	has	cosmetic relevance
+orthopedic device	categorized as	implant
+implant	type	knee prosthesis
+femoral component	material	cobalt-chromium
+tibial component	material	titanium
+polyethylene insert	material	ultrahigh-molecular-weight polyethylene
+bone cement	polymerization	exothermic reaction
+osteolysis	associated with	wear debris
+revision risk	increases with	younger age after arthroplasty knee
+revision risk	increases with	high activity after arthroplasty knee
+prosthesis	quality	depends on manufacturing tolerances
+prosthesis	regulatory status	medical device approval
+postoperative infection	management	depends on organism
+antibiotic resistance	influences	infection treatment after arthroplasty knee
+survival curve	demonstrates	prosthesis longevity
+prosthesis failure	indication for	revision arthroplasty
+patient demographics	influence	outcome after arthroplasty knee
+preexisting joint deformity	affects	surgical plan
+soft tissue balancing	affects	knee stability
+patellar tracking	influences	knee alignment
+implant loosening	presents with	pain and instability
+joint line restoration	critical for	knee biomechanics
+patellar component	used in	patellofemoral arthroplasty
+knee joint	biomechanical axis	determines	wear patterns
+bone graft	used with	revision arthroplasty
+implant migration	signals	loosening
+radiographic loosening	indicates	prosthesis instability
+aseptic loosening	presents as	prosthesis instability
+periprosthetic fracture	occurs after	arthroplasty knee
+bone remodeling	occurs after	arthroplasty knee
+cement mantle	influences	fixation durability
+cement mantle	must be	uninterrupted
+prosthesis sizing	impacts	knee kinematics
+knee kinematics	improve	after arthroplasty knee
+range of motion	remains limited	in some patients after arthroplasty knee
+ambulation	restored	post-arthroplasty period
+prosthesis wear	accumulates	with time after arthroplasty knee
+osteoarthritis progression	preexists	before arthroplasty knee
+tissue integration	proceeds	after implantation
+implant corrosion	rare	after arthroplasty knee
+allergic reaction	rare	to implant materials
+glossary term	clarified	in surgical notes
+prosthesis revision	scheduled as	elective procedure
+postoperative analgesia	plan includes	multimodal strategy
+multimodal analgesia	reduces	opioid exposure
+opioid exposure	correlates with	delirium risk
+delirium risk	elevated in	elderly patients after arthroplasty knee
+cognitive function	tracked	after arthroplasty knee
+mortality	remains	low after arthroplasty knee
+patient satisfaction	correlates with	pain relief and function
+implant design	governs	biomechanics
+implant stability	determines	long-term success
+prosthesis survivorship	measured as	time to revision
+data registry	informs	device safety after arthroplasty knee
+patient age	interacts with	activity goals after arthroplasty knee
+bone mineral density	correlates with	implant fixation

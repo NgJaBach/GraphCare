@@ -1,92 +1,100 @@
-crushing injury	can cause	rhabdomyolysis
-crushing injury	can cause	hyperkalemia
-crushing injury	can cause	metabolic acidosis
-crushing injury	can cause	acute kidney injury
-crushing injury	can cause	tissue necrosis
-crushing injury	can cause	edema
-crushing injury	can cause	hemorrhage
-crushing injury	predisposes to	compartment syndrome
-crushing injury	predisposes to	crush syndrome
-crushing injury	requires	CT scan
-crushing injury	requires	resuscitation
-crushing injury	requires	operation
-crushing injury	diagnosed by	CT scan
-crushing injury	diagnosed by	ultrasound
-crushing injury	diagnosed by	X-ray
-rhabdomyolysis	diagnosed by	CK elevation
-rhabdomyolysis	causes	myoglobinuria
-myoglobinuria	leads to	acute kidney injury
-myoglobinuria	leads to	tubular obstruction
-hyperkalemia	causes	arrhythmia
-arrhythmia	increases	mortality
-acute kidney injury	results in	fluid overload
-acute kidney injury	requires	dialysis
-dialysis	relieves	hyperkalemia
+crushing injury	causes	tissue damage
+crushing injury	leads to	swelling
+crushing injury	results in	hemorrhage
+crushing injury	causes	contusion
+crushing injury	predisposes to	hematoma
+crushing injury	predisposes to	rhabdomyolysis
+crushing injury	causes	nerve injury
+crushing injury	causes	vascular injury
+crushing injury	causes	fracture
+crushing injury	increases	infection risk
+compartment syndrome	results from	crushing injury
 compartment syndrome	requires	fasciotomy
-fasciotomy	relieves	pressure
-crush syndrome	consists of	rhabdomyolysis
-crush syndrome	associated with	electrolyte abnormalities
-edema	accompanies	crush injury
-crushing injury	leads to	shock
-shock	requires	fluid resuscitation
-fluid resuscitation	increases	urine output
-urine output	indicates	renal perfusion
-renal perfusion	improves	after resuscitation
-rhabdomyolysis	elevates	CK level
-CK level	indicates	muscle injury
-crushing injury	associated with	deep tissue injury
-deep tissue injury	predisposes to	wound infection
-wound infection	delays	wound healing
-wound healing	depends on	tissue perfusion
-tissue perfusion	improves with	fluids
-fluids	reduce	hypovolemia
-hypovolemia	worsens	shock
-shock	increases	mortality
-mortality	associated with	injury severity
-injury severity	determines	discharge destination
-discharge destination	includes	home care
-home care	reduces	readmission risk
-readmission risk	increases	hospitalization cost
-trauma center	improves	outcome
-early intervention	improves	prognosis
-prognosis	depends on	injury severity
-injury severity	determines	discharge timing
-discharge timing	affects	discharge destination
-crushing injury	predisposes to	urinary retention
-urinary retention	requires	catheterization
-catheterization	risks	infection
-infection	increases	antibiotic use
-antibiotic use	reduces	infection duration
-infection duration	affects	recovery time
-recovery time	depends on	injury severity
-injury severity	determines	rehabilitation needs
-rehabilitation needs	depend on	limb damage
-limb damage	affects	mobility
-mobility	improves with	physical therapy
-physical therapy	prevents	contractures
-crushing injury	is associated with	nerve injury
-nerve injury	causes	paresthesia
-paresthesia	indicates	nerve damage
-nerve damage	associated with	neuropathic pain
-neuropathic pain	managed with	analgesia
-analgesia	improves	patient comfort
-analgesia	reduces	sympathetic response
-crushing injury	impacts	quality of life
-quality of life	impacted by	disability
-disability	increases	caregiver burden
-caregiver burden	increases	healthcare costs
-healthcare costs	rise with	prolonged hospitalization
-prolonged hospitalization	increases	risk of infection
-risk of infection	lengthens	recovery
-recovery	requires	follow-up
-follow-up	ensures	monitoring
-monitoring	detects	complications
-complications	include	wound infection
-wound infection	complicates	recovery
-recovery pace	depends on	adherence
-adherence	determines	recovery pace
-recovery pace	improved by	timely treatment
-timely treatment	reduces	mortality
-mortality	decreases with	rapid triage
-rapid triage	improves	survival
-age	influences	mortality
+fasciotomy	relieves	intracompartmental pressure
+intracompartmental pressure	increases due to	swelling
+intracompartmental pressure	leads to	ischemia
+ischemia	results in	tissue necrosis
+tissue necrosis	increases risk of	infection
+crushing injury	associated with	rhabdomyolysis
+crushing injury	associated with	acute kidney injury
+rhabdomyolysis	causes	electrolyte disturbance
+electrolyte disturbance	leads to	hyperkalemia
+hyperkalemia	increases risk of	arrhythmia
+crushing injury	causes	myoglobinuria
+myoglobinuria	indicates	muscle injury
+crushing injury	results in	edema
+edema	contributes to	vascular compromise
+vascular injury	results in	hemorrhage
+nerve injury	causes	sensory deficit
+nerve injury	causes	motor deficit
+crushing injury	presents with	pain
+pain	prompts	analgesia
+analgesia	provides	pain relief
+crushing injury	damages	muscle tissue
+muscle tissue	undergoes	necrosis
+necrosis	reduces	muscle function
+bone fracture	may accompany	crush injury
+fracture	predisposes to	nonunion
+vascular injury	results in	ischemia
+ischemia	leads to	tissue damage
+nerve injury	causes	numbness
+numbness	indicates	nerve injury
+soft tissue injury	occurs with	crush injury
+infection	may require	antibiotics
+antibiotics	prevent	infection progression
+tetanus prophylaxis	is recommended for	crush injuries
+debridement	is a method for	crush injury management
+debridement	removes	devitalized tissue
+devitalized tissue	fosters	infection
+crushing injury	may necessitate	limb amputation
+limb amputation	results in	disability
+disability	impacts	quality of life
+rehabilitation	supports	functional recovery
+physical therapy	aids	functional recovery
+crush injury	may cause	reperfusion injury
+reperfusion injury	causes	oxidative stress
+oxidative stress	damages	cells
+cell damage	triggers	inflammation
+inflammation	exacerbates	edema
+edema	worsens	tissue perfusion
+tissue perfusion	decreases	oxygen delivery
+oxygen delivery	affects	tissue viability
+tissue viability	depends on	perfusion
+crushing injury	increases	hospital admission
+hospital admission	correlates with	severity
+severity	predicts	mortality
+mortality	influenced by	timely intervention
+injury severity	predicts	outcomes
+timely intervention	reduces	complication risk
+imaging	aids	diagnosis
+radiography	detects	fracture
+CT scan	evaluates	soft tissue injury
+MRI	identifies	nerve injury
+creatine kinase	is elevated in	rhabdomyolysis
+urinalysis	shows	blood in urine
+blood in urine	indicates	myoglobinuria
+tissue perfusion	supports	wound healing
+wound healing	is impaired by	edema
+debridement	accelerates	wound healing
+prophylactic antibiotics	prevent	infection progression
+tetanus vaccine	required for	crush injuries
+crush injury management	includes	supportive care
+supportive care	provides	hemodynamic stability
+fluids	support	blood pressure
+perfusion	is affected by	blood pressure
+resuscitation	stabilizes	patient
+early intervention	improves	outcome
+outcome	depends on	injury severity
+injury severity	drives	resource use
+resource use	increases with	hospitalization duration
+hospitalization duration	correlates with	wound severity
+wound severity	predicts	amputation risk
+amputation risk	increases with	crush severity
+crush severity	influences	mortality
+mortality	varies with	age
+age	influences	healing rate
+healing rate	depends on	perfusion
+perfusion	affects	infection risk
+infection risk	increases with	devitalized tissue
+devitalized tissue	requires	debridement
+crushing injury	prompts	emergency care

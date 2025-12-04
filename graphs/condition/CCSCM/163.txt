@@ -1,100 +1,100 @@
-genitourinary symptoms	associated with	urinary tract infection
-genitourinary symptoms	associated with	nephrolithiasis
-genitourinary symptoms	associated with	pyelonephritis
-genitourinary symptoms	associated with	bladder cancer
-genitourinary symptoms	associated with	prostatitis
-genitourinary symptoms	associated with	pelvic inflammatory disease
-genitourinary symptoms	associated with	endometriosis
-genitourinary symptoms	associated with	ovarian cyst
-genitourinary symptoms	associated with	urethral discharge
-genitourinary symptoms	associated with	dysuria
-genitourinary symptoms	associated with	hematuria
-genitourinary symptoms	associated with	nocturia
-genitourinary symptoms	associated with	urinary frequency
-genitourinary symptoms	associated with	urinary urgency
-genitourinary symptoms	associated with	urinary incontinence
-genitourinary symptoms	associated with	flank pain
-genitourinary symptoms	associated with	pelvic pain
-genitourinary symptoms	associated with	oliguria
-genitourinary symptoms	associated with	azotemia
-genitourinary symptoms	associated with	hydronephrosis
-genitourinary symptoms	associated with	ureteral obstruction
-genitourinary symptoms	associated with	scrotal pain
-genitourinary symptoms	associated with	epididymitis
-genitourinary symptoms	associated with	testicular torsion
-genitourinary symptoms	associated with	priapism
-genitourinary symptoms	associated with	vaginal discharge
-ill-defined conditions	include	genitourinary symptoms
-ill-defined conditions	coexists with	genitourinary symptoms
-ill-defined conditions	correlate with	age
-ill-defined conditions	correlate with	comorbidity
-urinary tract infection	presents with	dysuria
-urinary tract infection	presents with	urinary frequency
-urinary tract infection	presents with	urinary urgency
-urinary tract infection	presents with	suprapubic tenderness
-urinary tract infection	treated with	antibiotics
-urinary tract infection	risk factor	age
-nephrolithiasis	causes	renal colic
-nephrolithiasis	associated with	hematuria
-nephrolithiasis	risk factor for	urinary obstruction
-pyelonephritis	presents with	fever
-pyelonephritis	requires	hospitalization
-bladder cancer	presents with	gross hematuria
-bladder cancer	risk factor	smoking
-prostatitis	presents with	pelvic pain
-prostatitis	associated with	urinary retention
-benign prostatic hyperplasia	causes	urinary retention
-benign prostatic hyperplasia	associated with	nocturia
-urinary retention	causes	bladder distension
-urinary retention	leads to	hydronephrosis
-urinary retention	increases	post-void residual
-hematuria	indicates	bladder cancer
-hematuria	indicates	nephrolithiasis
-dysuria	indicates	urinary tract infection
-nocturia	indicates	aging
-urinary incontinence	associated with	pelvic floor dysfunction
-urinary incontinence	predicts	falls
-flank pain	indicates	kidney stone
-pelvic pain	indicates	pelvic inflammatory disease
-vaginal discharge	indicates	cervicitis
-epididymitis	presents with	scrotal pain
-epididymitis	associated with	urinary symptoms
-testicular torsion	presents with	acute scrotal pain
-penile cancer	presents with	penile lesion
-cystitis	presents with	dysuria
-cystitis	associated with	urgency
-cystitis	treated with	antibiotics
-ovarian cyst	presents with	pelvic pain
-ovarian cyst	can cause	abdominal distension
-endometriosis	associated with	pelvic pain
-endometriosis	associated with	infertility
-pelvic inflammatory disease	presents with	lower abdominal pain
-pelvic inflammatory disease	risk factor	sexually transmitted infection
-pelvic inflammatory disease	treated with	antibiotics
-kidney stone	causes	renal colic
-hydronephrosis	results from	ureteral obstruction
-hydronephrosis	associated with	kidney dysfunction
-urinary tract obstruction	leads to	hydronephrosis
-urinary tract obstruction	causes	urinary retention
-postmenopausal bleeding	associated with	endometrial cancer
-menopause	associated with	urinary symptoms
-pregnancy	associated with	urinary tract infection
-diabetes mellitus	increases	risk of urinary tract infection
-diabetes mellitus	increases	risk of nephrolithiasis
-hypertension	associated with	chronic kidney disease
-smoking	increases	risk of bladder cancer
-obesity	increases	risk of urinary incontinence
-age	increases	risk of genitourinary symptoms
+genitourinary symptoms and ill-defined conditions	is associated with	urinary tract infection
+genitourinary symptoms and ill-defined conditions	is associated with	nephrolithiasis
+genitourinary symptoms and ill-defined conditions	is associated with	bladder cancer
+genitourinary symptoms and ill-defined conditions	is associated with	chronic kidney disease
+urinalysis	is a test for	genitourinary symptoms and ill-defined conditions
+urine culture	is a test for	urinary tract infection
+urinalysis	detects	leukocyte esterase
+urinalysis	detects	hematuria
+urinalysis	detects	proteinuria
+dysuria	is a symptom of	urinary tract infection
+dysuria	is a symptom of	prostatitis
+dysuria	is a symptom of	urethritis
+hematuria	is a symptom of	bladder cancer
+hematuria	is a symptom of	nephrolithiasis
+hematuria	indicates	nephropathy
+nocturia	is a symptom of	diabetes mellitus
+nocturia	is a symptom of	heart failure
+pyuria	is a sign of	urinary tract infection
+dysuria	indicates	bacterial infection
+urgency	is a symptom of	overactive bladder
+frequency	is a symptom of	urinary tract infection
+polyuria	is a symptom of	diabetes mellitus
+oliguria	is a sign of	acute kidney injury
+anuria	occurs in	renal failure
+urinary retention	is a symptom of	benign prostatic hyperplasia
+urinary incontinence	is a symptom of	bladder dysfunction
+dysuria	is a symptom of	urethral stricture
+pelvic pain	is a symptom of	pelvic inflammatory disease
+testicular pain	is a symptom of	epididymitis
+male infertility	is a complication of	prostatitis
+bladder mass	is a finding in	bladder cancer
+renal mass	is a finding in	kidney cancer
+stone	is a manifestation of	nephrolithiasis
+stone	causes	renal colic
+renal colic	presents with	flank pain
+flank pain	is a symptom of	nephrolithiasis
+hematuria	is a presenting feature of	bladder cancer
+urine culture	identifies	pathogen
+urine culture	confirms	urinary tract infection
+urine dipstick	detects	nitrites
+urine dipstick	detects	leukocyte esterase
+nitrites	indicates	bacterial infection
+leukocyte esterase	indicates	infection
+urinalysis	shows	proteinuria
+proteinuria	is a marker of	nephropathy
+creatinine	indicates	kidney function
+GFR	estimates	kidney function
+proteinuria	increases risk of	cardiovascular disease
 urinary tract infection	risk factor	catheterization
-bacteriuria	indicates	infection
-neurogenic bladder	associated with	urinary retention
-urinary tract infection	may progress to	pyelonephritis
-renal insufficiency	associated with	chronic kidney disease
-cervical cancer	presents with	abnormal vaginal bleeding
-vulvovaginitis	presents with	vaginal discharge
-cystoscopy	used for	evaluation of genitourinary symptoms
-urinary stasis	associated with	bladder dysfunction
-urinary tract infection	increases	recurrence risk
-vaginitis	presents with	vaginal discharge
-renal failure	associated with	hypertension
-dehydration	associated with	orthostatic hypotension
+catheterization	increases risk of	urinary tract infection
+diabetes mellitus	increases risk of	urinary tract infection
+pregnancy	increases risk of	urinary tract infection
+bladder cancer	is associated with	smoking
+bladder cancer	presents with	hematuria
+renal cell carcinoma	presents with	hematuria
+urothelial carcinoma	presents with	hematuria
+kidney stones	are associated with	dehydration
+hypercalciuria	predisposes to	nephrolithiasis
+urine pH	affects	stone formation
+urinary stone	is composed of	calcium oxalate
+calcium oxalate	is a component of	nephrolithiasis
+urine culture	may be negative in	urinary tract infection
+antibiotics	treat	urinary tract infection
+nitrofurantoin	is used for	urinary tract infection
+ciprofloxacin	treats	prostatitis
+tamsulosin	treats	benign prostatic hyperplasia
+oxybutynin	treats	overactive bladder
+hydration	is recommended for	kidney stones
+stone management	includes	lithotripsy
+lithotripsy	is a treatment for	nephrolithiasis
+urethral dilation	treats	urethral stricture
+urodynamic testing	evaluates	bladder function
+prostate biopsy	is a diagnostic for	prostate cancer
+prostate cancer	presents with	urinary symptoms
+urinary tract infection	can cause	dysuria
+urinary tract infection	can cause	frequency
+overactive bladder	increases risk of	urinary incontinence
+endometriosis	is associated with	dysuria
+interstitial cystitis	presents with	bladder pain
+pelvic floor dysfunction	causes	urinary incontinence
+benign prostatic hyperplasia	causes	urinary retention
+prostate cancer	causes	urinary obstruction
+urinary obstruction	causes	hydronephrosis
+hydronephrosis	presents with	flank pain
+ureteral stone	causes	flank pain
+catheter-associated infection	results from	urinary catheterization
+vesicoureteral reflux	predisposes to	urinary tract infection
+nitrofurantoin	adverse effect	nausea
+hydronephrosis	is caused by	ureteral obstruction
+ureteropelvic junction obstruction	causes	hydronephrosis
+renal failure	requires	dialysis
+dialysis	treats	renal failure
+nephrology consult	recommended for	complex urinary issues
+pelvic inflammatory disease	can cause	infertility
+infertility	is a consequence of	pelvic inflammatory disease
+urinary tract infection	can lead to	sepsis
+sepsis	increases	mortality
+urinary tract infection	increases	hospitalization
+hospitalization	increases	healthcare cost
+healthcare cost	is influenced by	urinary tract infections

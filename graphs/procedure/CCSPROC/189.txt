@@ -1,0 +1,100 @@
+contrast aortogram	is a	medical procedure
+contrast aortogram	uses	iodinated contrast
+contrast aortogram	requires	fluoroscopy
+contrast aortogram	uses	angiography
+contrast aortogram	visualizes	aorta
+contrast aortogram	visualizes	thoracic aorta
+contrast aortogram	visualizes	abdominal aorta
+contrast aortogram	visualizes	visceral arteries
+contrast aortogram	visualizes	iliac arteries
+contrast aortogram	identifies	aneurysm
+contrast aortogram	identifies	dissection
+contrast aortogram	identifies	stenosis
+contrast aortogram	identifies	occlusion
+contrast aortogram	identifies	false lumen
+contrast aortogram	assesses	vessel anatomy
+contrast aortogram	guides	endovascular therapy
+contrast aortogram	informs	surgical planning
+contrast aortogram	provides	arterial map
+contrast aortogram	contributes to	preoperative planning
+contrast aortogram	complements	CT angiography
+contrast aortogram	complements	MR angiography
+contrast aortogram	substitutes for	CT angiography
+contrast aortogram	substitutes for	MR angiography
+contrast aortogram	performed with	fluoroscopy
+contrast aortogram	performed in	angiography suite
+contrast aortogram	uses	catheterization
+contrast aortogram	enables	selective catheterization
+contrast aortogram	enables	arterial access
+contrast aortogram	performed by	radiologist
+contrast aortogram	provides	diagnostic data
+contrast aortogram	yields	imaging data
+contrast aortogram	helps	risk stratification
+contrast aortogram	used for	preoperative planning
+contrast aortogram	used for	aneurysm assessment
+contrast aortogram	yields	true lumen visualization
+contrast aortogram	reveals	dissection flap
+contrast aortogram	reveals	aneurysm morphology
+contrast aortogram	indicates	vessel patency
+contrast aortogram	indicates	false lumen patency
+contrast aortogram	risks	contrast-induced nephropathy
+contrast aortogram	risks	allergic reaction
+contrast aortogram	risks	radiation exposure
+contrast aortogram	risks	vascular injury
+contrast aortogram	contraindicated in	iodinated contrast allergy
+contrast aortogram	contraindicated in	renal impairment
+contrast aortogram	contraindicated in	pregnancy
+contrast aortogram	contraindicated in	hemodynamic instability
+contrast aortogram	requires	premedication
+contrast aortogram	requires	hydration
+contrast aortogram	requires	arterial access
+contrast aortogram	is performed under	local anesthesia
+contrast aortogram	provides	baseline anatomy
+contrast aortogram	supports	device sizing
+contrast aortogram	informs	patient selection
+contrast aortogram	evaluates	rupture risk
+contrast aortogram	evaluates	collateral flow
+contrast aortogram	supports	aneurysm repair planning
+contrast aortogram	documents	vascular anatomy
+contrast aortogram	documents	postrepair anatomy
+contrast aortogram	guides	stent graft deployment
+contrast aortogram	aids	vascular surgeon decision-making
+contrast aortogram	part of	vascular imaging protocol
+contrast aortogram	used in	trauma centers
+contrast aortogram	used for	aortic injury assessment
+contrast aortogram	contributes to	operative risk assessment
+contrast aortogram	determines	access route
+contrast aortogram	determines	device size
+contrast aortogram	determines	landing zone
+contrast aortogram	detects	branch vessel involvement
+contrast aortogram	assists	intraoperative navigation
+contrast aortogram	yields	diagnostic confidence
+contrast aortogram	supports	multidisciplinary planning
+contrast aortogram	images	lumen morphology
+contrast aortogram	correlates with	CT findings
+contrast aortogram	used in	preoperative evaluation
+contrast aortogram	used during	endovascular procedures
+contrast aortogram	supports	aneurysm rupture management
+contrast aortogram	tracks	contrast clearance
+contrast aortogram	provides	imaging data for review
+contrast aortogram	integrates	with cross-sectional imaging
+contrast aortogram	influences	anesthesia planning
+contrast aortogram	influences	sedation planning
+contrast aortogram	contributes to	surgical risk assessment
+contrast aortogram	contributes to	device selection
+contrast aortogram	documents	baseline arterial anatomy
+contrast aortogram	demonstrates	calcification patterns
+contrast aortogram	demonstrates	vessel tortuosity
+contrast aortogram	demonstrates	aneurysm neck characteristics
+contrast aortogram	supports	preprocedural consent
+contrast aortogram	supports	radiology report generation
+contrast aortogram	supports	adverse event documentation
+contrast aortogram	enables	post-procedure comparison
+contrast aortogram	is compatible with	intraoperative imaging suite
+contrast aortogram	used for	follow-up evaluation
+contrast aortogram	yields	limb perfusion assessment
+contrast aortogram	informs	timing of repair
+contrast aortogram	reduces	need for exploratory surgery
+contrast aortogram	used in	vascular trauma protocols
+contrast aortogram	improves	diagnostic accuracy
+contrast aortogram	adds	procedural planning detail

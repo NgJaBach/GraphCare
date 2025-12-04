@@ -1,100 +1,105 @@
-rectal cancer	is a	malignant neoplasm of rectum
-anal cancer	is a	malignant neoplasm of anal canal
-rectal cancer	has histology	adenocarcinoma
-anal cancer	has histology	squamous cell carcinoma
-rectal cancer	stage	II-III
-anal cancer	stage	I-III
-neoadjuvant chemoradiation	used for	rectal cancer
-chemoradiation	standard treatment for	anal cancer
-total mesorectal excision	is a	surgical technique for rectal cancer
-low anterior resection	is a	surgical option for mid-upper rectal cancer
-abdominoperineal resection	results in	permanent colostomy
-colostomy	affects	anorectal function
-circumferential resection margin	predicts	local recurrence
-negative margin	indicates	complete tumor clearance
-liver metastasis	indicates	distant spread
-lung metastasis	indicates	distant spread
-bone metastasis	occurs	in advanced disease
-MRI pelvis	used for	rectal cancer staging
-endoscopic ultrasound	used for	rectal cancer staging
-CT chest abdomen pelvis	used for	metastasis evaluation
-PET-CT	improves	detection of metastatic disease
-CEA	is biomarker for	colorectal cancer
-p16	is biomarker for	HPV-driven cancers
-HPV infection	associated with	anal cancer
-HPV16	associated with	anal cancer
-HIV infection	increases risk of	anal cancer
-smoking	increases risk of	rectal cancer
-age	increases risk of	colorectal cancer
-obesity	associated with	colorectal cancer
-family history	increases risk of	colorectal cancer
-immunosuppression	increases risk of	anal cancer
-MSI-H	responds to	pembrolizumab
-MSI-H	predicts response to	immunotherapy
-KRAS mutation	predicts resistance to	anti-EGFR therapy
-NRAS mutation	predicts resistance to	anti-EGFR therapy
-BRAF mutation	associated with	poorer prognosis
-MMR deficiency	associated with	MSI-H
-anal canal	location for	anal cancer
-rectum	location for	rectal cancer
-neoadjuvant therapy	enables	sphincter-sparing surgery
+rectal cancer	is a	malignancy of rectum
+anal cancer	is a	malignancy of anal canal
+rectal cancer	metastasizes to	liver
+rectal cancer	metastasizes to	lung
+rectal cancer	metastasizes to	bone
+rectal cancer	presents with	rectal bleeding
+rectal cancer	presents with	change in bowel habit
+rectal cancer	presents with	tenesmus
+rectal cancer	presents with	abdominal pain
+rectal cancer	causes	obstruction
+age	is risk factor for	rectal cancer
+family history	is risk factor for	rectal cancer
+IBD	is risk factor for	rectal cancer
+Lynch syndrome	is risk factor for	rectal cancer
+FAP	is risk factor for	rectal cancer
+smoking	is risk factor for	rectal cancer
+obesity	is risk factor for	rectal cancer
+low fiber diet	is risk factor for	rectal cancer
+red meat intake	is risk factor for	rectal cancer
+alcohol consumption	is risk factor for	rectal cancer
+HPV infection	is risk factor for	anal cancer
+immunosuppression	is risk factor for	anal cancer
+HPV infection	is etiologic agent for	anal cancer
+rectal cancer	treated with	surgery
+anal cancer	treated with	chemoradiation
+rectal cancer	treated with	neoadjuvant therapy
+neoadjuvant therapy	includes	chemoradiation
+surgery	may involve	colostomy
+low anterior resection	is a	surgical procedure
+abdominoperineal resection	is a	surgical procedure
+total mesorectal excision	is a	surgical procedure
+preoperative radiotherapy	reduces	local recurrence
+neoadjuvant chemoradiation	reduces	local recurrence
+radiation therapy	reduces	local recurrence
+adjuvant chemotherapy	improves	disease-free survival
+FOLFOX	is a regimen for	rectal cancer
+CAPOX	is a regimen for	rectal cancer
+preoperative chemoradiation	enables	sphincter preservation
 sphincter-sparing surgery	preserves	continence
-abdominoperineal resection	eliminates	anal sphincter
-surgical margins	affect	local control
-negative circumferential resection margin	improves	local control
-adjuvant chemotherapy	reduces	recurrence risk
-CAPOX	includes	capecitabine and oxaliplatin
-FOLFOX	includes	fluorouracil and oxaliplatin
-capecitabine	used with	radiotherapy
-5-FU	used with	radiotherapy
-mitomycin C	used with	radiotherapy
-radiotherapy	used for	anal cancer
-radiotherapy	used for	rectal cancer
-Nigro protocol	comprises	5-FU and mitomycin C with radiotherapy
-watch-and-wait	strategy for	rectal cancer after chemoradiation
-pathologic complete response	improves	prognosis
-complete clinical response	achieved after	neoadjuvant therapy
-hepatic resection	performed for	liver metastasis
-hepatic metastasis	managed by	systemic chemotherapy
-liver metastasis	most common site of	distant spread in colorectal cancer
-lung metastasis	common site of	distant spread in colorectal cancer
-resection margin	influences	prognosis
-stoma care	requires	education
-colostomy	affects	body image
-surveillance	includes	periodic imaging
-CEA monitoring	tracks	recurrence
-tumor regression grade	correlates with	outcome
-MRI restaging	guides	surgical planning
-tumor burden	reduces with	neoadjuvant therapy
-neoadjuvant radiotherapy dose	influences	toxicity
-radiation toxicity	impacts	quality of life
-anastomotic leak	occurs after	rectal resection
-stoma permanence	linked with	abdominoperineal resection
-sphincter preservation	improves	quality of life
-inguinal lymph node involvement	indicates	advanced disease in anal cancer
-tumor grade	influences	prognosis
-differentiation	reflects	tumor aggressiveness
-clinical trial	evaluates	new therapies for rectal cancer
-immunotherapy	effective for	MSI-H colorectal cancer
-PD-1 inhibitor	used for	MSI-H colorectal cancer
-cetuximab	effective in	KRAS wild-type colorectal cancer
-cetuximab	ineffective in	KRAS mutant colorectal cancer
-line of therapy	determined by	performance status
-performance status	influences	treatment tolerance
-colostomy reversal	feasibility	after abdominoperineal resection
-colostomy reversal	depends on	tumor response
-distant metastasis	increases	mortality
+colostomy	created during	abdominoperineal resection
+colostomy	affects	quality of life
+stoma	requires	stoma care
+sphincter preservation	aims for	continence
+liver metastasis	indicates	advanced disease
+liver metastasis	reduces	survival
+KRAS mutation	predicts	resistance to anti-EGFR therapy
+NRAS mutation	predicts	resistance to anti-EGFR therapy
+BRAF mutation	associated with	poor prognosis
+MSI-high status	predicts	favorable prognosis
+MSI-high status	predicts	response to immunotherapy
+CEA	is tumor marker for	rectal cancer
+carcinoembryonic antigen	is elevated in	rectal cancer
+biopsy	confirms	rectal cancer
+colonoscopy	detects	rectal cancer
+MRI pelvis	stages	rectal cancer
+CT chest abdomen pelvis	staging tool for	rectal cancer
+PET scan	detects	metastasis
+TNM staging	classifies	rectal cancer
+stage II	prognosis indicator for	rectal cancer
+stage III	prognosis indicator for	rectal cancer
+positive lymph nodes	indicate	higher recurrence
+negative margins	predict	lower recurrence
+pathology	confirms	adenocarcinoma
+rectal cancer	histology	adenocarcinoma
+adenocarcinoma	is histology type for	rectal cancer
+surgical margins	influence	recurrence risk
+lymph node status	influences	prognosis
 tumor size	correlates with	stage
-pathology report	informs	adjuvant therapy decisions
-AJCC staging	guides	treatment planning
-oncologic clearance	achieved by	mesorectal excision
-anal canal	borders	anal verge
-rectal cancer	risk factor for	local recurrence
-watch-and-wait strategy	requires	rigorous surveillance
-pathologic response	defines	prognosis
-tumor budding	indicates	aggressive biology
-tumor budding	correlates with	recurrence risk
-neoadjuvant therapy	associated with	higher complete response rate
-adjuvant therapy	associated with	improved disease-free survival
-rectal cancer	requires	multidisciplinary care
-anal cancer	has favorable outcomes with	chemoradiation
+neoadjuvant therapy	improves	tumor downstaging
+pathology	reports	tumor regression grade
+tumor regression grade	correlates with	prognosis
+staging	determines	surgical plan
+staging	guides	adjuvant therapy decision
+neoadjuvant therapy	increases	sphincter preservation rate
+adjuvant therapy	reduces	recurrence
+palliative care	addresses	advanced disease symptoms
+stent	palliates	obstruction from rectal cancer
+stent placement	relieves	obstruction symptoms
+chemoradiation	can cause	bowel dysfunction
+anastomotic leak	increases	morbidity
+colorectal cancer recurrence	risk after	surgery
+bevacizumab	added to	chemotherapy
+cetuximab	added to	chemotherapy
+RAS wild-type status	predicts	response to anti-EGFR therapy
+HPV vaccination	reduces risk of	anal cancer
+immunotherapy	effective in	MSI-high rectal cancer
+neoadjuvant chemoradiation	achieves	tumor downstaging
+pathology	yields	tumor regression grade
+staging	uses	TNM system
+rectal cancer incidence	increases with	age
+rectal cancer survival	varies by	stage
+occult blood test	detects	blood in stool
+colorectal cancer screening	reduces	mortality
+polypectomy	prevents	progression to rectal cancer
+anesthesia	used during	rectal cancer surgery
+postoperative infection	increases	length of stay
+stoma care	improves	patient education
+multidisciplinary team	coordinates	rectal cancer care
+nutrition	supports	cancer treatment tolerance
+physical activity	improves	quality of life in rectal cancer
+radiation-induced proctitis	causes	bowel symptoms
+postoperative ileus	prolongs	hospitalization
+oncology	coordinates	systemic therapy for rectal cancer
+gastrointestinal toxicity	limits	therapy dose
+neutropenia	risks	chemotherapy

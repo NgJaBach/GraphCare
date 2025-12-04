@@ -1,0 +1,66 @@
+dermoscopy	is a	diagnostic procedure
+dermoscopy	used for	diagnosis
+dermoscopy	can detect	melanoma
+dermoscopy	improves accuracy of	melanoma diagnosis
+wood lamp examination	is a	diagnostic procedure
+wood lamp examination	used for	detection of fungal infections
+wood lamp examination	detects	fluorescence
+patch testing	is a	diagnostic test
+patch testing	used for	evaluation of contact dermatitis
+patch testing	detects	allergen sensitivity
+skin prick test	is a	diagnostic test
+skin prick test	used for	allergen detection
+Tzanck smear	is a	diagnostic test
+Tzanck smear	used for	evaluation of vesicular lesions
+KOH preparation	is a	diagnostic procedure
+KOH preparation	used for	detection of fungal infections
+fungal culture	is a	diagnostic procedure
+fungal culture	used for	identification of fungus
+bacterial culture of skin	is a	diagnostic procedure
+Gram stain	is a	diagnostic procedure
+Gram stain	used for	detection of bacteria
+skin ultrasound	is a	diagnostic procedure
+high-frequency ultrasound	is a	diagnostic imaging
+skin ultrasound	used for	measurement of lesion depth
+high-frequency ultrasound	used for	evaluation of skin lesions
+confocal laser scanning microscopy	is a	diagnostic modality
+confocal laser scanning microscopy	used for	in vivo skin imaging
+reflectance confocal microscopy	is a	diagnostic modality
+reflectance confocal microscopy	used for	evaluation of skin microstructures
+optical coherence tomography	is a	diagnostic modality
+optical coherence tomography	used for	evaluation of epidermal architecture
+diascopy	is a	diagnostic test
+diascopy	used for	evaluation of vascular color changes
+skin scraping	is a	diagnostic procedure
+skin scraping	used for	detection of fungal infections
+Tzanck smear	reveals	multinucleated giant cells
+Tzanck smear	indicates	herpes simplex infection
+punch biopsy	is a	diagnostic procedure
+punch biopsy	yields	histopathology sample
+excisional biopsy	is a	diagnostic procedure
+excisional biopsy	used for	histopathologic evaluation
+punch biopsy	used for	inflammatory dermatoses evaluation
+fine-needle aspiration	is a	diagnostic procedure
+fine-needle aspiration	used for	evaluation of subcutaneous nodules
+ultrasound-guided biopsy	is a	diagnostic procedure
+Doppler ultrasound	is a	diagnostic study
+Doppler ultrasound	used for	evaluation of vascular lesions
+ultrasound elastography	is a	diagnostic modality
+ultrasound elastography	used for	assessment of tissue stiffness
+MRI of skin	is a	diagnostic procedure
+MRI of skin	used for	evaluation of subcutaneous involvement
+calcofluor white stain	is a	diagnostic test
+calcofluor white stain	used for	detection of fungi
+slit-skin smear	is a	diagnostic test
+slit-skin smear	used for	detection of leprosy bacilli
+thermography	is a	diagnostic procedure
+thermography	used for	detection of inflammation
+skin ultrasound	evaluates	vascularity
+ultrasound-guided aspiration	is a	diagnostic procedure
+epiluminescence microscopy	is a	diagnostic procedure
+epiluminescence microscopy	used for	evaluation of pigmented lesions
+polarized dermoscopy	is a	diagnostic modality
+polarized dermoscopy	used for	evaluation of pigmented lesions
+noninvasive imaging	is a	diagnostic approach
+skin cytology	is a	diagnostic method
+skin cytology	includes	Tzanck smear

@@ -1,0 +1,100 @@
+X-ray	is a	diagnostic procedure
+X-ray	used for	fracture detection
+X-ray	detects	fracture
+X-ray	detects	dislocation
+X-ray	detects	degenerative change
+X-ray	visualizes	bone alignment
+X-ray	identifies	osteophyte
+X-ray	shows	alignment abnormality
+X-ray	distinguishes	acute from chronic fracture
+X-ray	evaluates	fracture healing
+CT scan	is a	diagnostic procedure
+CT scan	used for	complex fracture assessment
+CT scan	detects	fracture extension
+CT scan	visualizes	fracture line
+CT scan	evaluates	fracture displacement
+CT scan	identifies	articular involvement
+CT scan	shows	cortical detail
+CT scan	detects	calcified mass
+CT scan	guides	surgical planning
+CT scan	replaces	subtle fracture detection
+CT scan	characterizes	fracture pattern
+CT scan	assists	trauma evaluation
+MRI	is a	diagnostic procedure
+MRI	detects	soft tissue tear
+MRI	detects	meniscal tear
+MRI	detects	ACL tear
+MRI	detects	PCL tear
+MRI	detects	rotator cuff tear
+MRI	detects	labral tear
+MRI	visualizes	cartilage damage
+MRI	shows	marrow edema
+MRI	detects	bone bruise
+MRI	differentiates	tumor from infection
+MRI	assesses	joint effusion
+MRI	evaluates	synovitis
+MRI	localizes	chondral defect
+MRI	characterizes	marrow pathology
+MRI	monitors	post-operative healing
+MRI	indicates	occult fracture
+MRI	confirms	ligament tear
+MRI	identifies	meniscal cyst
+MRI	visualizes	bone marrow lesion
+Ultrasound	is a	diagnostic procedure
+Ultrasound	detects	tendon tear
+Ultrasound	detects	bursa effusion
+Ultrasound	visualizes	tendon thickening
+Ultrasound	visualizes	muscle tear
+Ultrasound	guides	joint injection
+Ultrasound	guides	aspiration
+Ultrasound	detects	soft tissue edema
+Ultrasound	identifies	synovial fluid
+Ultrasound	monitors	cyst size
+Ultrasound	assesses	soft tissue mass
+Ultrasound	evaluates	plantar fascia
+Ultrasound	evaluates	rotator cuff tendinopathy
+Ultrasound	detects	nerve entrapment
+Bone scan	is a	diagnostic procedure
+Bone scan	detects	stress fracture
+Bone scan	detects	occult fracture
+Bone scan	indicates	osteomyelitis
+Bone scan	indicates	bone metastasis
+Bone scan	supports	infection evaluation
+Bone scan	monitors	treatment response
+Bone scan	shows	increased uptake
+DEXA	is a	diagnostic procedure
+DEXA	measures	bone mineral density
+DEXA	used for	osteoporosis assessment
+DEXA	predicts	fracture risk
+DEXA	monitors	therapy response
+DEXA	indicates	osteoporosis severity
+DEXA	assesses	vertebral fracture risk
+DEXA	evaluates	trabecular density
+Arthrography	is a	diagnostic procedure
+Arthrography	highlights	intra-articular pathology
+Arthrography	detects	labral tear
+Arthrography	visualizes	cartilage defect
+Arthrography	guides	intra-articular injection
+Arthrocentesis	is a	diagnostic procedure
+Arthrocentesis	samples	synovial fluid
+Arthrocentesis	used for	infection evaluation
+Arthrocentesis	detects	septic arthritis
+Arthroscopy	is a	diagnostic procedure
+Arthroscopy	confirms	intra-articular pathology
+Arthroscopy	guides	treatment planning
+Arthroscopy	visualizes	joint structures
+Arthroscopy	evaluates	cartilage damage
+Arthroscopy	visualizes	meniscal tear
+Arthroscopy	visualizes	ligament injury
+Arthroscopy	assesses	synovium
+Arthroscopy	samples	synovium
+Arthroscopy	characterizes	intra-articular pathology
+PET-CT	is a	diagnostic procedure
+PET-CT	detects	metabolically active lesion
+PET-CT	used for	oncology staging
+PET-CT	differentiates	benign from malignant lesion
+Biopsy	provides	histology sample
+Biopsy	used for	tumor characterization
+Biopsy	detects	osseous lesion
+Biopsy	confirms	malignancy diagnosis
+Biopsy	guides	treatment planning

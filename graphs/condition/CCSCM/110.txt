@@ -1,122 +1,100 @@
-occlusion or stenosis of precerebral arteries	increases risk of	ischemic stroke
-occlusion or stenosis of precerebral arteries	increases risk of	transient ischemic attack
-internal carotid artery stenosis	is a	risk factor for ischemic stroke
-vertebral artery stenosis	is a	risk factor for posterior circulation ischemia
-carotid stenosis	increases risk of	ischemic stroke
-carotid occlusion	causes	amaurosis fugax
-internal carotid stenosis	predisposes to	microembolization
-carotid stenosis	leads to	cerebral hypoperfusion
-basilar artery occlusion	causes	death
-intracranial stenosis	contributes to	ischemic stroke
-amaurosis fugax	is a	warning sign of carotid stenosis
-atherosclerosis	underlies	carotid stenosis
-hypertension	increases risk of	carotid stenosis
-diabetes mellitus	increases risk of	atherosclerosis progression
-smoking	increases risk of	atherosclerosis
-hyperlipidemia	contributes to	atherosclerosis progression
-age	increases risk of	stroke
-obesity	contributes to	vascular risk
-atrial fibrillation	increases risk of	embolic stroke
-stenosis severity	predicts	stroke risk
-carotid endarterectomy	is a	treatment for carotid stenosis
-carotid stenting	is a	treatment for carotid stenosis
-revascularization	reduces	stroke risk
-asymptomatic carotid stenosis	managed with	medical therapy
-antiplatelet therapy	reduces	embolic events
-aspirin	is a	antiplatelet therapy
-clopidogrel	is a	antiplatelet therapy
-statin therapy	reduces	atherosclerotic plaque progression
-lipid lowering therapy	reduces	stroke risk
-blood pressure control	reduces	stroke risk
-carotid duplex ultrasound	identifies	carotid stenosis
-computed tomography angiography	identifies	carotid stenosis
-magnetic resonance angiography	identifies	carotid stenosis
-digital subtraction angiography	identifies	carotid stenosis
-carotid ultrasound	detects	stenosis
-transcranial Doppler	monitors	cerebral perfusion
-transcranial Doppler	detects	microemboli
-plaque rupture	leads to	embolization
-embolus	occludes	cerebral artery
-thrombus formation	occurs in	atherosclerotic plaque
-cerebral infarct	results in	disability
+occlusion of precerebral arteries	causes	cerebral ischemia
+internal carotid artery stenosis	increases risk for	ischemic stroke
+vertebral artery stenosis	increases risk for	posterior circulation stroke
+basilar artery occlusion	leads to	brainstem stroke
+amaurosis fugax	is symptom of	carotid stenosis
+transient ischemic attack	indicates	high stroke risk
 ischemic stroke	results in	disability
-stroke	increases	mortality
-ischemic stroke	increases	mortality
-restenosis	occurs after	carotid endarterectomy
-restenosis	occurs after	carotid stenting
-periprocedural stroke	risk after	carotid endarterectomy
-periprocedural complication	occurs with	carotid stenting
-carotid endarterectomy	reduces	late stroke risk
-carotid stenting	reduces	long-term stroke risk
-endovascular therapy	is used for	carotid stenosis with high-grade
-antiplatelet therapy	reduces	embolism risk
-asymptomatic carotid stenosis	monitored with	duplex ultrasound
-stenosis severity	determines	treatment choice
-revascularization	indicated for	high-grade stenosis
-high-grade carotid stenosis	treated with	endarterectomy
-high-grade carotid stenosis	treated with	stenting
-endarterectomy	improves	functional outcome
-stenting	improves	cerebral perfusion
-asymptomatic carotid stenosis	benefit from	medical therapy
-revascularization timing	affects	functional outcome
-duplex ultrasound	monitors	stenosis
-stenosis progression	correlates with	atherosclerosis burden
-plaque burden	increases	stenosis severity
-plaque stability	determines	embolic risk
-inflammation	contributes to	plaque progression
-lipoprotein(a)	links to	atherosclerosis progression
-cognitive impairment	follows	chronic hypoperfusion
-dementia	associated with	vascular disease
-amaurosis fugax	presents as	transient monocular vision loss
-transient monocular vision loss	accompanies	carotid stenosis
-mortality	relates to	stroke severity
-stroke severity	affects	functional outcome
-reperfusion therapy	indicated for	ischemic stroke
-neuroimaging	guides	management decisions
-carotid bifurcation	site of	stenosis
-nonstenotic plaque	associated with	embolization
-cerebral collateral circulation	influences	outcome after stroke
-blood brain barrier disruption	occurs with	ischemia
-intracranial atherosclerosis	coexists with	carotid stenosis
-diabetes mellitus	worsens	prognosis after stroke
-hypertension	worsens	intracranial hemorrhage risk
-smoking cessation	improves	vascular prognosis
-exercise	improves	cerebrovascular health
-dietary modification	improves	vascular risk profile
-reperfusion timing	affects	functional outcome
-large vessel stroke	causes	permanent disability
-stroke rehabilitation	improves	functional outcomes
-stroke recurrence	reduced by	antiplatelet therapy
-stroke recurrence	reduced by	statin therapy
-medical therapy	cannot reverse	stenosis
-angiogenic factors	influence	collateral development
-cerebral collateral vessels	influence	stroke outcome
-ischemic lesion	predicts	functional impairment
-endothelial dysfunction	drives	plaque progression
-thromboembolism	causes	ischemic events
-sudden vision loss	indicates	carotid disease
-endarterectomy	requires	preoperative assessment
-stenting	requires	periprocedural management
-vascular risk factors	cluster with	stenosis severity
-revascularization outcome	depends on	collateral status
-cerebral perfusion pressure	is improved by	revascularization
-ischemic tolerance	depends on	time to treatment
-etiology	predicts	treatment response
-long-term outcomes	improve with	secondary prevention
-secondary prevention	includes	antiplatelet therapy
-secondary prevention	includes	statin therapy
-secondary prevention	includes	blood pressure control
-carotid disease	associates with	cerebral hypoperfusion
-vascular surgery	risk-benefit	evaluation
-collateral flow	reduces	infarct size
-neuroimaging findings	correlate with	functional outcome
-documented stenosis	requires	follow-up imaging
-stenosis degree	affects	treatment choice
-stenosis progression	influences	clinical decision-making
-revascularization complication	is a	potential concern
-stroke risk	decreases with	detailed risk management
-ischemic risk	increases with	plaque instability
-early revascularization	improves	outcome
-stroke prevention	aims for	vascular optimization
-brain perfusion	improves with	revascularization
-ischemic damage	progresses to	disability
+circle of Willis	provides	collateral flow
+collateral circulation	mitigates	brain injury
+carotid endarterectomy	reduces	stroke risk in symptomatic stenosis
+carotid artery stenting	treats	carotid stenosis
+antiplatelet therapy	prevents	recurrent stroke
+statin therapy	reduces	atherosclerotic plaque
+hypertension	is risk factor for	carotid stenosis
+diabetes mellitus	is risk factor for	carotid stenosis
+hyperlipidemia	is risk factor for	atherosclerosis
+smoking	increases risk for	carotid stenosis
+age	increases	stroke risk
+stenosis of internal carotid artery	reduces	cerebral perfusion
+occlusion of vertebral artery	causes	posterior circulation ischemia
+basilar artery stenosis	predisposes to	brainstem ischemia
+posterior circulation ischemia	presents with	vertigo
+amaurosis fugax	predicts	future stroke
+duplex ultrasound	detects	carotid stenosis
+CT angiography	visualizes	extracranial arteries
+MR angiography	evaluates	vertebral artery stenosis
+digital subtraction angiography	confirms	stenosis extent
+stenosis severity	correlates with	stroke risk
+collateral vessels	provide	collateral flow
+collateral flow	sustains	cerebral perfusion
+cerebral perfusion	decreases	during arterial stenosis
+ischemic penumbra	exists in	acute stroke
+reperfusion therapy	aims at	perfusion restoration
+thrombolysis	administered for	acute ischemic stroke
+thrombectomy	used for	large vessel occlusion
+anticoagulation	indicated for	cardioembolic stroke risk reduction
+statin therapy	reduces	plaque burden
+hypertension	worsens	carotid stenosis
+diabetes mellitus	accelerates	atherosclerosis
+smoking	accelerates	atherosclerosis
+age	correlates with	stenosis severity
+asymptomatic stenosis	managed with	surveillance
+symptomatic stenosis	requires	urgent evaluation
+carotid endarterectomy	indicated for	symptomatic stenosis
+carotid endarterectomy	reduces	long-term stroke risk
+carotid artery stenting	alternative to	endarterectomy
+endovascular therapy	includes	thrombectomy
+ischemic stroke	involves	anterior circulation
+ischemic stroke	involves	posterior circulation
+vertebral artery stenosis	causes	posterior circulation ischemia
+posterior circulation stroke	presents with	ataxia
+collateral circulation	compensates for	arterial occlusion
+asymptomatic stenosis	progresses to	symptomatic stroke
+symptomatic stenosis	treated with	endarterectomy
+surgical risk	increases with	age
+age	affects	perioperative outcome
+perioperative outcome	determines	mortality after surgery
+angiography	guides	revascularization decisions
+revascularization decisions	depend on	stenosis location
+stenosis location	affects	treatment choice
+internal carotid artery	supplies	anterior circulation
+vertebral artery	supplies	posterior circulation
+posterior circulation stroke	worsened by	proximal vertebral occlusion
+stroke severity	predicts	functional outcome
+functional outcome	improved by	early rehab
+early rehab	improves	functional outcome
+aspirin	used for	secondary stroke prevention
+clopidogrel	used for	stroke prevention
+statin therapy	stabilizes	plaques
+antiplatelet therapy	combined with	anticoagulation
+anticoagulation	not indicated for	carotid stenosis without atrial fibrillation
+atrial fibrillation	requires	anticoagulation
+anticoagulation	reduces	cardioembolic stroke risk
+time to treatment	affects	outcome
+door-to-needle time	influences	stroke outcome
+ischemic penumbra	salvageable with	reperfusion
+reperfusion	causes	reperfusion injury
+reperfusion injury	worsens	tissue damage
+blood-brain barrier disruption	occurs with	ischemic stroke
+neuroinflammation	follows	ischemic stroke
+stroke unit care	improves	discharge outcomes
+blood pressure control	prevents	hemodynamic instability
+lipid lowering therapy	reduces	plaque progression
+carotid stenosis	associated with	coronary artery disease
+coronary artery disease	coexists with	carotid stenosis
+diastolic blood pressure	reflects	vascular health
+vascular risk factors	cluster with	carotid stenosis
+neuroimaging	monitors	lesion evolution
+acute stroke management	includes	imaging and therapy
+ischemic stroke prognosis	predicted by	collateral status
+collateral status	predicts	outcome after stroke
+basilar artery occlusion	treated with	mechanical thrombectomy
+mechanical thrombectomy	improves	posterior circulation stroke outcome
+posterior circulation stroke outcome	improved by	rapid recanalization
+recanalization	achieved by	endovascular therapy
+endovascular therapy	limited by	access route
+vascular imaging	guides	risk stratification
+risk stratification	informs	preventive therapy
+preventive therapy	targets	atherosclerosis risk factors
+precerebral arteries occlusion	is a	condition

@@ -1,0 +1,75 @@
+atrial septal defect	is a	congenital heart defect
+ventricular septal defect	is a	congenital heart defect
+patent ductus arteriosus	is a	congenital heart defect
+coarctation of the aorta	is a	congenital heart defect
+tetralogy of Fallot	is a	congenital heart defect
+transposition of the great arteries	is a	congenital heart defect
+hypoplastic left heart syndrome	is a	congenital heart defect
+truncus arteriosus	is a	congenital heart defect
+double outlet right ventricle	is a	congenital heart defect
+total anomalous pulmonary venous return	is a	congenital heart defect
+atrioventricular canal defect	is a	congenital heart defect
+single ventricle	is a	congenital heart defect
+Ebstein anomaly	is a	congenital heart defect
+pulmonary atresia	is a	congenital heart defect
+pulmonary stenosis	is a	congenital heart defect
+aortic stenosis	is a	congenital heart defect
+bicuspid aortic valve	is a	congenital heart defect
+dextrocardia	is a	congenital heart defect
+right aortic arch	is a	circulatory anomaly
+aberrant right subclavian artery	is a	circulatory anomaly
+interrupted aortic arch	is a	circulatory anomaly
+double aortic arch	is a	circulatory anomaly
+vascular ring	is a	circulatory anomaly
+persistent left superior vena cava	is a	circulatory anomaly
+anomalous origin of coronary artery	is a	circulatory anomaly
+ALCAPA	is a	circulatory anomaly
+patent foramen ovale	is a	circulatory anomaly
+Down syndrome	is associated with	AV canal defect
+Turner syndrome	is associated with	coarctation of the aorta
+Noonan syndrome	is associated with	pulmonary valve stenosis
+Williams syndrome	is associated with	supravalvular aortic stenosis
+Marfan syndrome	is associated with	aortic root dilation
+Loeys-Dietz syndrome	is associated with	aortic aneurysm
+DiGeorge syndrome	is associated with	conotruncal defect
+DiGeorge syndrome	is associated with	truncus arteriosus
+VACTERL association	is associated with	cardiac defect
+CHARGE syndrome	is associated with	conotruncal defect
+Trisomy 18	is associated with	congenital heart defect
+Trisomy 13	is associated with	congenital heart defect
+Trisomy 21	is associated with	AV canal defect
+22q11 deletion syndrome	is associated with	conotruncal defect
+Fetal alcohol syndrome	is associated with	congenital heart defect
+Rubinstein-Taybi syndrome	is associated with	congenital heart defect
+Klinefelter syndrome	is associated with	congenital heart defect
+Pediatric congenital heart disease	is a	field of medicine
+Atrioventricular canal defect	is a	congenital heart defect
+Pulmonary valve stenosis	is a	congenital heart defect
+Atrioventricular canal defect	may require	surgical repair
+Tetralogy of Fallot	may require	surgical repair
+Transposition of the great arteries	may require	arterial switch operation
+Hypoplastic left heart syndrome	may require	staged palliation
+Ventricular septal defect	may require	surgical closure
+Patent ductus arteriosus	may require	closure therapy
+Total anomalous pulmonary venous return	requires	corrective surgery
+Ebstein anomaly	requires	surgical repair
+Coarctation of the aorta	requires	surgical repair
+Single ventricle	requires	staged palliation
+Arterial switch operation	is a	procedure for	Transposition of the great arteries
+Fontan procedure	is a	palliative surgery for	single ventricle
+Norwood procedure	is a	palliative surgery for	hypoplastic left heart syndrome
+Glenn procedure	is a	staged palliation for	single ventricle
+Murmur	is associated with	congenital heart defect
+Cyanosis	is a	clinical feature of	cyanotic defects
+Holosystolic murmur	is associated with	ventricular septal defect
+Continuous murmur	is associated with	patent ductus arteriosus
+Fixed split S2	is associated with	atrial septal defect
+Systolic murmur	is associated with	tetralogy of Fallot}	Pulmonary hypertension	is a	complication of	congenital heart disease
+Heart failure	is a	complication of	congenital heart disease
+Surgical palliation	is a	management approach for	single ventricle
+Arterial switch operation	is a	surgical procedure for	transposition of the great arteries
+Fontan pathway	is a	palliative strategy for	single ventricle
+Endocarditis	is a	complication of	congenital heart defect
+Aortic dissection risk	is associated with	aortic aneurysm in	connective tissue syndromes
+Paradoxical embolism risk	is associated with	patent foramen ovale
+Biventricular repair	is a	surgical approach for	complex congenital heart disease

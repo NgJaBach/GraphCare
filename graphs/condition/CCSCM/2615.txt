@@ -1,99 +1,100 @@
-suffocation	is a	form of asphyxia
+suffocation	is a type of	asphyxia
+asphyxia	is a	medical condition
+suffocation	is an	external cause
 suffocation	causes	hypoxia
-suffocation	leads to	hypoxemia
-suffocation	results in	loss of consciousness
-suffocation	may cause	brain injury
-suffocation	may cause	cardiac arrest
-suffocation	can cause	death
-hypoxia	accompanies	suffocation
-airway obstruction	causes	suffocation
-smothering	causes	suffocation
-choking	leads to	suffocation
-drowning	results in	suffocation
-foreign body	causes	airway obstruction
-airway obstruction	leads to	suffocation
-laryngeal edema	causes	airway obstruction
+suffocation	causes	brain injury
+suffocation	causes	respiratory arrest
+suffocation	causes	cyanosis
+suffocation	causes	death
 cyanosis	is a sign of	suffocation
-tachypnea	is a sign of	suffocation
-loss of consciousness	occurs in	suffocation
-hypoxic brain injury	may result from	suffocation
-respiratory arrest	can occur after	suffocation
-resuscitation	is a response to	suffocation
-CPR	is a response to	suffocation
-airway management	is a treatment for	suffocation
-endotracheal intubation	is a treatment for	suffocation
-oxygen therapy	is a treatment for	hypoxia
-ventilation	provides	respiration
-oxygen	treats	hypoxia
-pulse oximeter	monitors	oxygenation
-arterial blood gas	assesses	oxygenation
-nasal cannula	delivers	oxygen
-face mask	delivers	oxygen
-noninvasive ventilation	reduces	work of breathing
-intubation	secures	airway
-tracheostomy	creates	airway
-bronchodilator	reduces	airway obstruction
-airway obstruction	increases	suffocation risk
-foreign body aspiration	causes	airway obstruction
-smoke inhalation	causes	suffocation
-chemical asphyxiant	causes	suffocation
-suffocation	occurs in	domestic accidents
-infant	is at risk for	suffocation
-infant death	may involve	suffocation
-endotracheal tube	is used for	airway management
-suction device	is used for	airway suctioning
-oxygen cylinder	supplies	oxygen
-oxygen saturation	reflects	oxygenation
-pulse oximetry	estimates	oxygen saturation
-lactic acidosis	can result from	hypoxia
-tissue hypoxia	leads to	metabolic acidosis
-suffocation	is a medical emergency
-emergency department	handles	suffocation patients
-intensive care unit	treats	severe suffocation
-emergency medical services	respond to	suffocation
-suffocation rates	monitored by	public health
-suffocation	is reportable to	health agencies
-external cause codes	classify	suffocation
-suffocation	associated with	mortality
-asphyxia	is a synonym of	suffocation
-airway obstruction	increases	suffocation risk
-infant	is at risk for	suffocation
-airway compromise	predisposes to	suffocation
-airway compromise	predisposes	suffocation
-prevention strategies	reduce	suffocation incidence
-homicide	involves	suffocation
-domestic violence	involves	suffocation
-mortality	associated with	suffocation
-suffocation	increases	emergency department visits
-suffocation	increases	ICU admissions
-suffocation	increases	hospital length of stay
-suffocation	associated with	sudden death
-airway clearance	is compromised in	suffocation
-cellular oxygen demand	exceeds	oxygen supply
-lactic acidosis	arises from	tissue hypoxia
-brain edema	may follow	hypoxic injury
-coma	may result from	severe hypoxia
-neural injury	results from	hypoxia
-medical coding	uses	external cause codes
-public health	monitors	suffocation rates
-forensic pathology	uses	suffocation evidence
-suffocation evidence	used by	forensic pathology
-investigation	relies on	suffocation data
-external cause documentation	supports	suffocation cases
-suffocation contributes to	hospital mortality
-crib safety	reduces	suffocation risk
-pediatric safety	reduces	suffocation risk
-household hazard	increases	suffocation risk
-toy choking hazard	increases	suffocation risk
-inflatable sleep device	increases	suffocation risk
-smoke detector	prevents	suffocation fatalities
-carbon monoxide	causes	hypoxia
-aspiration	leads to	airway obstruction
-respiratory depression	can cause	suffocation
-narcotics overdose	causes	respiratory failure
-birth injury	may involve	suffocation
-neonatal care	reduces	suffocation risk
-pediatric supervision	reduces	suffocation risk
-household product labeling	informs	suffocation prevention
-suffocation prevention campaigns	reduce	incidence
-prevention campaigns	reduce	suffocation incidence
+hypoxia	is a result of	suffocation
+suffocation	affects	consciousness
+unconsciousness	is a consequence of	suffocation
+respiratory arrest	is a consequence of	suffocation
+brain injury	is a possible outcome of	hypoxia
+coma	is a possible outcome of	suffocation
+respiratory failure	is a possible outcome of	suffocation
+cardiac arrest	is a possible outcome of	suffocation
+airway obstruction	causes	suffocation
+airway obstruction	exacerbates	suffocation
+smothering	is a method of	suffocation
+drowning	is associated with	suffocation
+smoke inhalation	can cause	suffocation
+choking	can cause	suffocation
+gas exposure	can cause	suffocation
+aspiration	can cause	suffocation
+entrapment	leads to	suffocation
+confined space	increases	suffocation risk
+occupational hazard	is a risk factor for	suffocation
+infant suffocation	is a neonatal emergency
+pediatric suffocation	is a life-threatening event
+asphyxiation	is a synonym of	suffocation
+oxygen deprivation	results in	brain injury
+prolonged hypoxia	increases	mortality
+hypoxemia	accompanies	suffocation
+cyanosis	indicates	hypoxemia
+hypoxia	causes	cellular damage
+airway management	is a	critical intervention
+intubation	is a	airway management procedure
+tracheostomy	is a	airway management option
+oxygen therapy	is a	supportive treatment
+CPR	is a	resuscitation method
+defibrillation	is a	resuscitation technique
+bag-valve-mask	provides	ventilation
+ventilation	is a	life-support therapy
+oxygen saturation	monitors	oxygenation
+pulse oximetry	monitors	oxygenation
+suctioning	is a	airway clearance technique
+nebulization	is a	respiratory therapy
+nasal cannula	provides	oxygen therapy
+bag-mask ventilation	provides	ventilation
+mechanical ventilation	provides	respiratory support
+ICU admission	is a common outcome of	suffocation
+hypoxic-ischemic injury	is a potential complication of	suffocation
+encephalopathy	may result from	hypoxia
+cellular injury	results from	hypoxia
+lactic acidosis	occurs with	hypoxia
+tachycardia	occurs with	suffocation
+bradycardia	occurs with	suffocation
+hypoxic brain injury	results in	long-term disability
+neurorehabilitation	is a treatment for	hypoxic brain injury
+post-resuscitation care	is a phase after	resuscitation
+neuroprotective strategies	are used in	hypoxic injury
+rapid response	is essential for	suffocation management
+airway clearance	is required for	suffocation management
+oxygen delivery	mode depends on	severity
+mechanical ventilation	duration depends on	severity of hypoxia
+mechanical ventilation	reduces	hypoxia time
+cranial imaging	is performed for	hypoxic injury
+MRI	is used for	assessment of brain injury
+CT scan	is used for	evaluation of suffocation injuries
+EEG	is used for	seizure assessment
+anticonvulsants	used for	seizures in suffocation
+family support	improves	recovery after suffocation
+household safety education	reduces	suffocation risk
+smoke detector	reduces	household suffocation risk
+childproofing	reduces	infant suffocation risk
+ventilation-perfusion mismatch	occurs with	suffocation
+tissue hypoxia	is a consequence of	hypoxemia
+lactate	accumulates in	hypoxia
+blood gas analysis	shows	hypoxemia
+arterial blood gas	measures	oxygenation
+neuron loss	occurs after	hypoxic injury
+myocardial ischemia	can occur with	suffocation
+hypoxic stress	triggers	inflammatory response
+prognosis	worsens with	delayed treatment
+time to intervention	is a predictor of	outcome
+follow-up care	improves	post-discharge outcomes
+rehabilitation	supports	recovery after suffocation
+care coordination	improves	patient outcomes
+EMS	reduces	prehospital mortality
+paramedics	administer	oxygen therapy
+prehospital care	is provided by	EMS
+airway management team	coordinates	resuscitation
+nursing care	supports	suffocation recovery
+family involvement	improves	discharge planning
+post-discharge planning	reduces	readmission risk
+home environment	is a risk factor for	suffocation
+toys	pose	suffocation risk
+cribs	pose	suffocation risk
+airway clearance devices	facilitate	airway patency

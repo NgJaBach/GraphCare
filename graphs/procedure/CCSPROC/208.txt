@@ -1,0 +1,100 @@
+nuclear medicine imaging	is a	imaging modality
+nuclear medicine imaging	uses	radiotracer
+ventilation imaging	uses	inhaled radiotracer
+perfusion imaging	uses	injected radiotracer
+radiotracer	is a	radiopharmaceutical
+Tc-99m MAA	is a	radiopharmaceutical
+Tc-99m MAA	is used for	perfusion imaging
+Tc-99m DTPA	is a	radiopharmaceutical
+Tc-99m DTPA	is used for	ventilation imaging
+Xe-133	is a	radiopharmaceutical
+Xe-133	is used for	ventilation imaging
+V/Q scan	is a	diagnostic test
+V/Q scan	evaluates	pulmonary embolism
+V/Q scan	assesses	lung perfusion
+ventilation defect	indicates	ventilation abnormality
+perfusion defect	indicates	perfusion abnormality
+mismatch defect	suggests	pulmonary embolism
+matched defect	is consistent with	nonembolic causes
+SPECT imaging	is a	tomographic modality
+SPECT imaging	provides	three-dimensional data
+SPECT imaging	enables	functional assessment
+SPECT-CT	combines	functional and anatomical imaging
+SPECT-CT	improves	defect localization
+lung	is the	target organ
+ventilation imaging	evaluates	airway distribution
+perfusion imaging	evaluates	regional blood flow
+radiopharmaceutical	emits	gamma rays
+gamma camera	detects	radiotracer activity
+SPECT camera	detects	gamma emissions
+injection	is used for	perfusion imaging
+inhalation	is used for	ventilation imaging
+inhaled radiotracer	provides	ventilation information
+perfusion radiotracer	provides	perfusion information
+V/Q scan	can be followed by	SPECT imaging
+V/Q scan	supports	PE assessment
+PE assessment	informs	clinical decision making
+PE	is a	medical condition
+V/Q mismatch	is associated with	high PE probability
+V/Q mismatch	indicates	embolic disease
+planar scintigraphy	is a	nuclear medicine technique
+planar scintigraphy	can be used for	ventilation or perfusion imaging
+ventilation-perfusion imaging	is used for	differential diagnosis
+pregnancy	is a	contraindication for nuclear medicine imaging
+imaging results	influence	treatment plan
+anticoagulation	is used for	PE treatment
+PE treatment	aims at	preventing progression
+nuclear medicine imaging	influences	patient management
+lung transplant evaluation	includes	nuclear medicine imaging
+transplant evaluation	uses	V/Q scan
+preoperative planning	uses	V/Q imaging
+postoperative follow-up	uses	nuclear medicine imaging
+hospital readmission risk	is predicted by	imaging results
+imaging results	inform	discharge planning
+dose	varies with	tracer type
+radiotracer dose	determines	radiation dose
+iodinated contrast	is used for	CT angiography
+CT angiography	uses	iodinated contrast
+CT angiography	provides	anatomic confirmation
+nuclear medicine imaging	has	radiation exposure
+radiation exposure	requires	safety precautions
+safety precautions	include	lead shielding
+lead shielding	reduces	scatter radiation
+image interpretation	requires	clinical correlation
+defect pattern	differentiates	embolic from inflammatory causes
+embolism burden	quantified by	perfusion imaging
+perfusion imaging	quantifies	defect size
+defect size	correlates with	embolic burden
+embolism burden	determines	treatment intensity
+V/Q scan	influences	anticoagulation decisions
+anticoagulation decisions	affect	patient outcomes
+patient outcomes	predicted by	imaging results
+image quality	affects	diagnostic accuracy
+ischemic regions	show	perfusion defects
+regional perfusion	is quantified by	perfusion imaging
+global perfusion	is normal in	healthy individuals
+lung function	can be assessed by	perfusion imaging
+ventilation-perfusion mismatch	diagnostic for	PE
+PE diagnosis	relies on	mismatch pattern
+nuclear medicine imaging	is complementary to	CT angiography
+CT angiography	is complementary to	nuclear medicine imaging
+SPECT-CT	assists	differential diagnosis of lung diseases
+lung diseases	include	embolic and inflammatory processes
+ventilation imaging	can be impacted by	airway secretions
+perfusion imaging	can be impacted by	hemodynamic changes
+SPECT	can provide	functional imaging
+SPECT	can be used for	attenuation correction
+ventilation imaging	may require	patient cooperation
+perfusion imaging	requires	stable hemodynamics
+nuclear medicine imaging	is widely used for	PE assessment
+PE assessment	leads to	anticoagulation therapy
+anticoagulation therapy	reduces	embolic progression
+image follow-up	monitors	progression
+progression	monitored by	follow-up imaging
+follow-up imaging	detects	new defects
+new defects	indicate	disease progression
+disease progression	requires	treatment adjustment
+imaging protocol	standardizes	acquisition parameters
+acquisition parameters	affect	image quality
+image quality	improves	diagnostic confidence
+diagnostic confidence	improves	patient management

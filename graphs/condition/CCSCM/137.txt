@@ -1,140 +1,107 @@
-oral candidiasis	caused by	Candida albicans
-oral candidiasis	occurs in	immunocompromised patients
-oral candidiasis	associated with	antibiotic use
-oral candidiasis	associated with	diabetes mellitus
-oral candidiasis	treated with	antifungal therapy
-angular cheilitis	caused by	Candida albicans
-angular cheilitis	associated with	vitamin B deficiency
-denture stomatitis	occurs in	denture wearers
-oral herpes simplex infection	caused by	herpes simplex virus type 1
-oral hairy leukoplakia	associated with	HIV infection
-pemphigus vulgaris	is a	autoimmune blistering disease
-mucous membrane pemphigoid	is a	autoimmune blistering disease
-oral lichen planus	is a	chronic inflammatory disease
-oral lichen planus	may transform into	squamous cell carcinoma
-Behçet's syndrome	is a	multisystem inflammatory disease
-Behçet's syndrome	associated with	aphthous stomatitis
-aphthous stomatitis	is a	recurrent ulcerative disease
-recurrent aphthous stomatitis	presents with	oral ulcers
-leukoplakia	is a	precancerous lesion
-erythroplakia	is a	precancerous lesion
-oral submucous fibrosis	is a	chronic fibrotic condition
-oral cancer	associated with	tobacco use
-oral cancer	associated with	alcohol use
-oral cancer	associated with	HPV infection
-oral cancer	associated with	betel quid chewing
-tobacco use	is a	risk factor for oral cancer
-alcohol use	is a	risk factor for oral cancer
-HPV infection	is a	risk factor for oropharyngeal cancer
-betel quid chewing	is a	risk factor for oral cancer
-biopsy	detects	oral cancer
-p16 immunohistochemistry	used for	HPV-related oropharyngeal cancer
-MRI	used for	staging of oral cancer
-diabetes mellitus	predisposes to	oral candidiasis
-HIV infection	predisposes to	oral candidiasis
-Sjögren syndrome	causes	xerostomia
-radiation therapy	causes	mucositis
-chemotherapy	causes	mucositis
-immunosuppression	predisposes to	oral infections
-smoking	is a	risk factor for oral cancer
-oral cancer	presents with	nonhealing ulceration
-oral candidiasis	is caused by	candida species
-oral candidiasis	presents with	white plaques on mucosa
-oral candidiasis	treated with	antifungal therapy
-aphthous stomatitis	presents with	oral ulcers
-aphthous stomatitis	associated with	stress
-herpes labialis	presents with	vesicular lesions on lips
-herpes labialis	caused by	herpes simplex virus
-oral herpes infection	is a	viral infection
-mucous membrane pemphigoid	is a	autoimmune blistering disease
-pemphigus vulgaris	is a	autoimmune blistering disease
-oral lichen planus	is a	chronic mucosal condition
-erosive lichen planus	presents with	painful erosions
-oral submucous fibrosis	causes	restricted mouth opening
-geographic tongue	is a	benign mucosal variant
-geographic tongue	associated with	fissured tongue
-hairy leukoplakia	associated with	HIV infection
-angular cheilitis	presents with	fissures at corners of mouth
-stomatitis	is a	mucosal inflammation
-necrotizing ulcerative stomatitis	is a	severe oral infection
-oral squamous cell carcinoma	is a	malignant tumor
 oral cancer	is a	malignant neoplasm
-tongue cancer	is a	malignant tumor
-lip cancer	is a	malignant tumor
-buccal mucosa cancer	is a	malignant tumor
-oropharyngeal cancer	is a	malignant tumor
-oral squamous cell carcinoma	metastasizes to	cervical lymph nodes
-oral cancer	metastasizes to	cervical lymph nodes
-lip cancer	metastasizes to	regional lymph nodes
-tongue cancer	metastasizes to	lymph nodes
-oral cancer	requires	multidisciplinary care
-oral cancer	treated with	surgery
-oral cancer	treated with	radiotherapy
-oral cancer	treated with	chemotherapy
-oral cancer	treated with	chemoradiation
-cetuximab	used for	advanced oral cancer
-immunotherapy	used for	head and neck cancer
-photodynamic therapy	used for	premalignant oral lesions
-topical corticosteroids	treat	oral ulcers
-antifungal therapy	treats	oral candidiasis
-antiviral therapy	treats	herpes labialis
-surgical resection	treats	oral cancer
-radiation therapy	treats	oral cancer
-chemotherapy	treats	oral cancer
-biopsy	confirms	oral cancer
-incisional biopsy	confirms	oral cancer
-excisional biopsy	confirms	premalignant lesion
-MRI imaging	assesses	local invasion of oral cancer
-CT imaging	assesses	nodal status of oral cancer
-PET-CT	evaluates	metastasis
-HPV testing	informs	risk stratification in oropharyngeal cancer
-p16 positivity	indicates	HPV-related oropharyngeal cancer
-tobacco use	increases risk for	oral cancer
-alcohol use	increases risk for	oral cancer
-areca nut chewing	increases risk for	oral cancer
-betel quid chewing	increases risk for	oral cancer
-immunosuppression	increases risk for	oral candidiasis
-HIV infection	increases risk for	oral candidiasis
-poor oral hygiene	associated with	oral infections
-malnutrition	associated with	oral mucosal diseases
-sun exposure	increases risk for	lip cancer
-ultraviolet exposure	increases risk for	lip cancer
-oral examination	is used for	screening of oral cancer
-cervical lymph nodes	metastasize from	oral cancer
-dysphagia	indicates	oropharyngeal cancer
-dysphagia	occurs with	advanced oral cancer
-dysarthria	indicates	advanced oral cancer
-weight loss	accompanies	oral cancer
-trismus	occurs with	oral cancer
-xerostomia	predisposes to	oral infections
-sialadenitis	causes	gland pain
-sialolithiasis	causes	salivary gland obstruction
-angular cheilitis	worsens with	iron deficiency
-oral cancer	prognosis	depends on stage
-lip cancer	prognosis	depends on stage
-tongue cancer	prognosis	depends on stage
-oropharyngeal cancer	prognosis	depends on stage
-HPV-positive oropharyngeal cancer	prognosis	better than HPV-negative
-tobacco cessation	improves	prognosis in oral cancer
-alcohol cessation	improves	prognosis in oral cancer
-nutrition optimization	improves	treatment tolerance in oral cancer
-surgical margins	determine	recurrence risk
-radiation-induced mucositis	occurs with	radiotherapy
-chemotherapy-induced mucositis	occurs with	chemotherapy
-cetuximab-associated rash	occurs with	cetuximab
-photodynamic therapy	requires	photosensitivity precautions
-oral health education	increases	screening uptake
-oral cancer screening programs	increase	early detection
-mouthwash	used for	oral ulcers
-salivary gland tumor	is a	benign or malignant mass in salivary gland
+oral cancer	is associated with	tobacco use
+oral cancer	is associated with	alcohol use
+oral cancer	is associated with	HPV infection
+oral cancer	occurs in	tongue
+oral cancer	occurs in	floor of mouth
+oral cancer	occurs in	buccal mucosa
+oral cancer	is treated with	surgical resection
+oral cancer	is treated with	radiotherapy
+oral cancer	is treated with	chemotherapy
+oral cancer	is diagnosed by	biopsy
+oral cancer	metastasizes to	lymph nodes
+oral cancer	metastasizes to	distant organs
+oral cancer	prognosis depends on	stage
+oral leukoplakia	is a	precancerous lesion
+oral leukoplakia	may transform into	oral cancer
+erythroplakia	is a	precancerous lesion
+erythroplakia	has	high malignant potential
+leukoplakia	is associated with	tobacco use
+leukoplakia	is associated with	alcohol use
+oral leukoplakia	affects	older adults
+oral lichen planus	is a	chronic mucocutaneous condition
+oral lichen planus	may transform into	oral cancer
+pemphigus vulgaris	is a	autoimmune blistering disease
+mucous membrane pemphigoid	is a	autoimmune blistering disease
+Stevens-Johnson syndrome	involves	oral mucosa
+aphthous stomatitis	is a	mucosal ulcerative condition
+recurrent aphthous ulcers	are a	mucosal ulcerative condition
+geographic tongue	is a	benign mucosal variation
+fissured tongue	is a	benign mucosal variation
+hairy tongue	is a	benign mucosal variation
+angular cheilitis	is a	mucosal inflammation at mouth corners
+stomatitis	is a	mucosal inflammation
+mucositis	is a	mucosal inflammation
+chemotherapy-induced mucositis	is a	complication of cancer therapy
+oral candidiasis	is a	fungal infection
+oral candidiasis	occurs in	immunosuppressed
+oral candidiasis	presents with	white plaques
+oral candidiasis	treated with	antifungal therapy
+oral candidiasis	associated with	HIV infection
+herpes simplex infection	is a	viral infection
+herpetic stomatitis	is a	viral infection
+oral herpes	manifests as	vesicular lesions
+herpes labialis	is a	viral infection of lips
+candidiasis	associated with	antibiotic use
+candidiasis	is common in	HIV infection
 sialadenitis	is a	salivary gland infection
-xerostomia	reduces	salivary flow rate
-premalignant lesion	progresses to	oral cancer
-cervical lymph node metastasis	indicates	advanced disease
-margin status	predicts	recurrence after surgery
-dysplasia	is a	premalignant condition of oral mucosa
-leukoplakia	is a	premalignant lesion of oral mucosa
-erythroplakia	is a	premalignant lesion of oral mucosa
-oral premalignant lesion	may transform to	oral cancer
-mouth ulcers	recurrence occurs in	aphthous stomatitis
-HPV vaccination	reduces risk for	oropharyngeal cancer
+sialadenitis	occurs in	elderly
+sialolithiasis	is a	salivary gland stone
+mucocele	is a	mucous retention lesion
+ranula	is a	mucous retention cyst
+sialivary gland tumor	is a	neoplasm
+pleomorphic adenoma	is a	benign salivary gland tumor
+parotid gland tumor	is a	neoplasm
+lip cancer	is a	malignant neoplasm
+lip cancer	associated with	sun exposure
+sialadenitis	can be caused by	duct obstruction
+nicotine stomatitis	is a	mucosal lesion
+nicotine stomatitis	associated with	tobacco use
+xerostomia	is a	symptom
+Sjogren's syndrome	is a	autoimmune disease
+Sjogren's syndrome	causes	xerostomia
+xerostomia	increases risk of	oral candidiasis
+graft-versus-host disease	can involve	oral mucosa
+mouth ulcers	may be associated with	Crohn's disease
+mouth ulcers	may be associated with	celiac disease
+smoking	is a risk factor for	oral cancer
+alcohol use	is a risk factor for	oral cancer
+HPV infection	is a risk factor for	oropharyngeal cancer
+tobacco use	is a risk factor for	oral cancer
+betel quid use	is associated with	oral cancer
+immunosuppression	is a risk factor for	candidiasis
+antibiotic use	is associated with	oral candidiasis
+inhaled corticosteroids	predispose to	oral candidiasis
+diabetes mellitus	predisposes to	candidiasis
+HIV infection	predisposes to	oral candidiasis
+oral cavity cancer	is a subset of	oral cancer
+lip cancer	is a subset of	oral cancer
+oral mucosa	forms	boundary of oral cavity
+geographic tongue	affects	tongue mucosa
+melanotic macule	is a	pigmented lesion of the oral mucosa
+hemangioma	is a	benign vascular lesion of the oral mucosa
+oral melanoma	is a	malignant neoplasm of oral mucosa
+lymphangioma	is a	benign vascular lesion of the oral cavity
+soft tissue tumor	is a	category in oral cavity
+oral ulcers	are a	symptom
+lip mucosa	is a	mucous membrane of mouth
+angioedema	can involve	lips and oral mucosa
+benign mucosal lesion	is a	category
+oral mucosa	can be involved in	graft-versus-host disease
+mouth ulcers	are a	symptom
+intraoral cancer screening	is a	clinical assessment
+biopsy	is used for	diagnosis of oral cancer
+imaging	is used for	staging of oral cancer
+p16 immunohistochemistry	is used for	HPV-associated oral cancer
+mucosal biopsy	is used for	diagnosis of mucosal lesions
+candidiasis	is a	fungal infection of mucosa
+herpes simplex virus infection	is a	viral infection of mucosa
+oral cancer	requires	multidisciplinary care
+oral cancer	has	malignant potential
+oral cancer	causes	tissue invasion
+head and neck cancer	includes	oral cancer
+tobacco cessation	improves	oral cancer prognosis
+alcohol cessation	improves	oral cancer prognosis
+HPV vaccination	reduces risk of	HPV-associated cancers of oral region
+mouth breathing	worsens	xerostomia symptoms
+antibiotic prophylaxis	can prevent	dental infections

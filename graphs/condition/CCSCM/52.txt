@@ -1,92 +1,100 @@
-iron deficiency	causes	microcytic anemia
+iron deficiency	causes	anemia
 iron deficiency	causes	fatigue
 iron deficiency	causes	pallor
+iron deficiency	diagnosed by	ferritin level
+iron deficiency	diagnosed by	transferrin saturation
+iron deficiency	diagnosed by	iron level
+iron deficiency	treated with	oral iron
+iron deficiency	treated with	intravenous iron
 iron deficiency	associated with	restless legs syndrome
-iron deficiency	diagnosed by	low ferritin
-iron deficiency	diagnosed by	low transferrin saturation
-iron deficiency	treated with	iron supplementation
-iron deficiency	increases	infection risk
-iron deficiency	predisposes to	cognitive impairment in children
-iron deficiency	associated with	koilonychia
-folate deficiency	causes	megaloblastic anemia
-folate deficiency	leads to	neural tube defects
-folate deficiency	increases	homocysteine
-folate deficiency	treated with	folic acid supplementation
-folate deficiency	associated with	poor fetal outcomes
+iron deficiency	associated with	pica
+iron deficiency	risk factor for	preterm birth
+iron deficiency	risk factor for	low birth weight
+vitamin D deficiency	causes	hypocalcemia
+vitamin D deficiency	causes	osteomalacia
+vitamin D deficiency	causes	rickets
+vitamin D deficiency	associated with	osteoporosis
+vitamin D deficiency	diagnosed by	25-hydroxyvitamin D level
+vitamin D deficiency	treated with	cholecalciferol
+vitamin D deficiency	treated with	ergocalciferol
+vitamin D deficiency	risk factor for	falls
+vitamin D deficiency	associated with	muscle weakness
+vitamin D deficiency	associated with	autoimmune disease
+vitamin D deficiency	associated with	diabetes risk
+vitamin D deficiency	diagnosed by	bone mineral density
+vitamin D deficiency	treated with	vitamin D supplementation
 vitamin B12 deficiency	causes	megaloblastic anemia
 vitamin B12 deficiency	causes	neuropathy
-vitamin B12 deficiency	diagnosed by	methylmalonic acid elevation
-vitamin B12 deficiency	treated with	vitamin B12 supplementation
-vitamin D deficiency	causes	osteomalacia
-vitamin D deficiency	risk factor for	fracture
-vitamin D deficiency	associated with	hypocalcemia
-calcium deficiency	causes	osteoporosis
-calcium deficiency	leads to	tetany
-calcium deficiency	treated with	calcium supplementation
-iodine deficiency	causes	goiter
-iodine deficiency	causes	hypothyroidism
-iodine deficiency	risk factor for	cretinism
-zinc deficiency	causes	growth retardation in children
-zinc deficiency	associated with	poor wound healing
-zinc deficiency	diagnosed by	low zinc levels
-selenium deficiency	causes	Keshan disease
-selenium deficiency	associated with	cardiomyopathy
-selenium deficiency	treated with	selenium supplementation
-magnesium deficiency	causes	tetany
-magnesium deficiency	associated with	arrhythmias
-magnesium deficiency	treated with	magnesium supplementation
-vitamin C deficiency	causes	scurvy
-vitamin C deficiency	causes	gingival bleeding
-vitamin C deficiency	corrected by	adequate vitamin C intake
-thiamine deficiency	causes	beriberi
-thiamine deficiency	causes	Wernicke encephalopathy
-thiamine deficiency	diagnosed by	low thiamine levels
-thiamine deficiency	treated with	thiamine supplementation
-riboflavin deficiency	causes	cheilosis
-riboflavin deficiency	presents with	stomatitis
+vitamin B12 deficiency	diagnosed by	methylmalonic acid level
+vitamin B12 deficiency	diagnosed by	homocysteine level
+vitamin B12 deficiency	treated with	cyanocobalamin
+folate deficiency	causes	megaloblastic anemia
+folate deficiency	caused by	poor intake
+folate deficiency	diagnosed by	homocysteine level
+folate deficiency	diagnosed by	RBC folate
+folate deficiency	treated with	folic acid
+folate deficiency	risk factor for	neural tube defects
+folate deficiency	associated with	pregnancy complications
+scurvy	caused by	vitamin C deficiency
+vitamin C deficiency	diagnosed by	plasma ascorbate level
+vitamin C deficiency	treated with	vitamin C supplementation
+zinc deficiency	causes	growth retardation
+zinc deficiency	causes	immune dysfunction
+zinc deficiency	diagnosed by	zinc level
+zinc deficiency	treated with	zinc supplementation
+riboflavin deficiency	causes	angular stomatitis
 riboflavin deficiency	treated with	riboflavin supplementation
+riboflavin deficiency	diagnosed by	clinical signs
 niacin deficiency	causes	pellagra
-niacin deficiency	presents with	dermatitis
-niacin deficiency	treated with	niacin supplementation
+niacin deficiency	treated with	niacinamide
+niacin deficiency	diagnosed by	pellagra signs
+vitamin K deficiency	causes	coagulopathy
+vitamin K deficiency	treated with	vitamin K
+magnesium deficiency	causes	arrhythmia
+magnesium deficiency	causes	seizures
+magnesium deficiency	treated with	magnesium supplementation
+magnesium deficiency	associated with	neuromuscular irritability
+selenium deficiency	associated with	Keshan disease
+selenium deficiency	diagnosed by	selenium level
+selenium deficiency	treated with	selenium supplementation
+copper deficiency	causes	anemia
+copper deficiency	diagnosed by	serum copper level
+copper deficiency	treated with	copper supplementation
+iodine deficiency	causes	goiter
+iodine deficiency	causes	cretinism
+iodine deficiency	treated with	iodized salt
+iodine deficiency	associated with	hypothyroidism
+iodine deficiency	risk factor for	fetal brain development impairment
 vitamin A deficiency	causes	night blindness
 vitamin A deficiency	causes	xerophthalmia
-vitamin A deficiency	associated with	keratomalacia
-vitamin A deficiency	treated with	retinol supplementation
-vitamin K deficiency	causes	bleeding diathesis
-vitamin K deficiency	leads to	coagulopathy
-vitamin K deficiency	corrected by	vitamin K administration
-protein-energy malnutrition	causes	growth failure
-protein-energy malnutrition	associated with	increased infection risk
-protein-energy malnutrition	treated with	nutritional rehabilitation
-protein-energy malnutrition	increases	mortality risk
-calorie deficiency	associated with	undernutrition
-potassium deficiency	causes	arrhythmia
-potassium deficiency	leads to	muscle weakness
-potassium deficiency	diagnosed by	low potassium levels
-phosphorus deficiency	causes	osteomalacia
+vitamin A deficiency	treated with	retinol
+vitamin A deficiency	diagnosed by	retinol level
+vitamin A deficiency	associated with	immune dysfunction
+calcium deficiency	causes	hypocalcemia
+calcium deficiency	associated with	osteoporosis
+calcium deficiency	treated with	calcium supplementation
+calcium deficiency	risk factor for	tetany
+phosphorus deficiency	associated with	bone weakness
+phosphorus deficiency	diagnosed by	serum phosphate level
 phosphorus deficiency	treated with	phosphate supplementation
-copper deficiency	causes	anemia
-copper deficiency	associated with	neutropenia
-copper deficiency	diagnosed by	low copper levels
-copper deficiency	treated with	copper supplementation
-vitamin E deficiency	causes	neuropathy
-vitamin E deficiency	leads to	ataxia
-vitamin E deficiency	treated with	vitamin E supplementation
-protein deficiency	causes	hypoalbuminemia
-protein deficiency	leads to	edema
-protein deficiency	treated with	nutritional supplementation
-protein deficiency	associated with	immune dysfunction
-pantothenic acid deficiency	causes	fatigue
-biotin deficiency	causes	dermatitis
-biotin deficiency	leads to	hair loss
-biotin deficiency	treated with	biotin supplementation
-pharmacologic deficiency	leads to	measurable deficits
-nutritional deficiency	associated with	malnutrition
-nutritional deficiency	increases	hospitalization risk
-nutritional deficiency	diagnosed by	serum nutrient levels
-nutritional deficiency	managed with	dietary modification
-caloric restriction deficiency	leads to	energy deficit
-iodine deficiency	corrected by	iodized salt
-selenium deficiency	associated with	thyroid dysfunction
-iron deficiency	prevalence	common in menstruating females
-iron deficiency	burden	global health issue
+protein-energy malnutrition	includes	marasmus
+protein-energy malnutrition	includes	kwashiorkor
+protein-energy malnutrition	treated with	caloric supplementation
+protein-energy malnutrition	associated with	growth retardation
+protein-energy malnutrition	associated with	immune suppression
+malabsorption syndrome	increases risk of	fat-soluble vitamin deficiencies
+gastric bypass	predisposes to	iron deficiency
+bariatric surgery	predisposes to	vitamin B12 deficiency
+bariatric surgery	predisposes to	iron deficiency
+pregnancy	increases risk of	iron deficiency
+elderly population	increases risk of	vitamin D deficiency
+celiac disease	increases risk of	iron deficiency
+malnutrition	increases risk of	infection
+malnutrition	associated with	poor wound healing
+obesity	associated with	micronutrient deficiencies
+iron deficiency	associated with	cognitive impairment in children
+vitamin D deficiency	associated with	mood disorders
+folate deficiency	associated with	neural tube defects
+calcium deficiency	associated with	bone fracture
+protein-energy malnutrition	increases risk of	mortality
+nutritional deficiencies	are associated with	adverse outcomes

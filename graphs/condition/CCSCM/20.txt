@@ -1,0 +1,100 @@
+cancer	is a	malignant neoplasm
+smoking	increases	cancer risk
+radon exposure	increases	lung cancer risk
+asbestos exposure	increases	mesothelioma risk
+age	increases	cancer incidence
+genetic mutation	predisposes to	cancer
+EGFR mutation	predicts response to	EGFR inhibitors
+KRAS mutation	predicts resistance to	EGFR inhibitors
+ALK fusion	predicts response to	ALK inhibitors
+PD-L1 expression	predicts response to	immunotherapy
+tumor mutational burden	predicts response to	immunotherapy
+lung cancer	metastasizes to	brain
+lung cancer	metastasizes to	bone
+lung cancer	metastasizes to	liver
+pleural effusion	accompanies	lung cancer
+bone metastasis	causes	pain
+brain metastasis	causes	neurological deficits
+cough	is symptom of	lung cancer
+dyspnea	is symptom of	lung cancer
+weight loss	is symptom of	cancer
+hoarseness	is symptom of	lung cancer
+biopsy	confirms	cancer
+imaging	shows	mass
+CT scan	detects	mass
+PET-CT	detects	metastasis
+histology	classifies	cancer type
+adenocarcinoma	is subtype of	non-small cell lung cancer
+squamous cell carcinoma	is subtype of	non-small cell lung cancer
+small cell lung cancer	is type of	lung cancer
+mesothelioma	arises from	pleura
+pleura	is lined by	mesothelium
+tumor size	correlates with	prognosis
+nodal involvement	worsens	prognosis
+stage	determines	treatment plan
+TNM stage	correlates with	prognosis
+staging	guides	therapy selection
+surgery	increases	cure rate
+radiation therapy	used for	palliation
+chemotherapy	used for	non-small cell lung cancer
+immunotherapy	used for	cancer
+targeted therapy	used for	mutation-positive cancer
+neutropenia	is side effect of	chemotherapy
+nausea	is side effect of	chemotherapy
+anemia	is complication of	cancer
+infection	occurs with	immunosuppressed cancer patients
+radiation therapy	causes	esophagitis
+pneumonitis	occurs with	immunotherapy
+immunotherapy	causes	pneumonitis
+pneumonitis	managed with	corticosteroids
+palliative care	improves	quality of life
+quality of life	influences	overall survival
+overall survival	depends on	stage
+smoking cessation	reduces	cancer risk
+air pollution	increases	lung cancer risk
+occupational exposure	increases	lung cancer risk
+COPD	coexists with	lung cancer
+pneumonia	complicates	cancer treatment
+cachexia	occurs in	cancer patients
+paraneoplastic syndrome	occurs with	cancer
+bone pain	indicates	metastasis
+anxiety	accompanies	cancer diagnosis
+hemoptysis	occurs with	lung cancer
+hoarseness	due to	recurrent laryngeal nerve invasion
+mediastinal mass	compresses	superior vena cava
+superior vena cava syndrome	treated with	stenting
+stenting	relieves	venous obstruction
+bronchoscopy	aids	diagnosis
+biopsy	guides	therapy
+pathology	confirms	cancer type
+tumor board	coordinates	multidisciplinary care
+blood tests	indicate	cancer presence
+MRI	evaluates	thoracic tumor
+CT-guided biopsy	obtains	tissue sample
+tissue biopsy	confirms	malignancy
+brain metastasis	causes	seizures
+bone metastasis	causes	hypercalcemia
+hypoxemia	results from	lung cancer
+tumor marker	used for	monitoring cancer
+checkpoint inhibitor	targets	PD-1 pathway
+PD-1 pathway	is target of	checkpoint inhibitors
+EGFR tyrosine kinase inhibitor	treats	EGFR-mutant cancer
+osimertinib	treats	EGFR-mutant cancer
+immunotherapy	can cause	immune-related adverse events
+cancer	increases	hospital admissions
+hospital admission	indicates	disease severity
+readmission	associated with	cancer therapy
+neoadjuvant therapy	precedes	surgery
+adjuvant therapy	follows	surgery
+clinical trial	tests	new therapy
+randomized trial	demonstrates	survival benefit
+tumor burden	correlates with	prognosis
+tumor recurrence	occurs after	therapy
+complications	increase	length of stay
+hemoptysis	indicates	tumor bleeding
+neutropenia	increases risk of	infection
+hypoxia	worsens	prognosis
+thoracentesis	relieves	dyspnea
+radiologic progression	signals	treatment failure
+biomarker	informs	prognosis
+oncologist	coordinates	cancer care

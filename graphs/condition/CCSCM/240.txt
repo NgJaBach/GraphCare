@@ -1,101 +1,100 @@
-burn	is a	trauma
-burn	is associated with	inhalation injury
-burn	is associated with	wound infection
-burn	is associated with	sepsis
-burn	is associated with	mortality
-burn	requires	fluid resuscitation
-burn	requires	ICU admission
-burn	requires	mechanical ventilation
-burn	treated with	analgesia
-burn	treated with	debridement
-burn	treated with	wound care
-burn	treated with	skin graft
-burn	causes	hypovolemia
-burn	causes	electrolyte imbalance
-burn	causes	acidosis
-burn	causes	hypothermia
-burn	leads to	acute kidney injury
-burn	leads to	electrolyte disturbances
-burn	increases	length of stay
-burn	increases	hospital readmission
-inhalation injury	increases	airway edema
-inhalation injury	predicts	mortality
-inhalation injury	requires	airway protection
-inhalation injury	associated with	intubation
-fluid resuscitation	reduces	mortality
-fluid resuscitation	uses	crystalloids
-crystalloid	is used in	resuscitation
-colloid	is used in	resuscitation
-Parkland formula	guides	fluid resuscitation
-burn unit	improves	outcomes
-burn center	reduces	mortality
-skin graft	provides	wound closure
-wound care	reduces	infection
-antibiotics	treat	infection
-antibiotics	prevent	infection
-pain management	improves	comfort
-pain management	reduces	stress response
-burn	predisposes	infection
-burn	predisposes	scarring
-wound closure	improves	healing
-debridement	accelerates	wound healing
-infection	increases	hospital stay
-infection	increases	readmission risk
-sepsis	increases	mortality
-mortality	is associated with	age
-mortality	is associated with	burn size
-burn size	correlates with	mortality
-age	is a	risk factor
-smoking	increases	burn risk
-obesity	increases	wound infection
-diabetes mellitus	increases	infection risk
-COPD	increases	mortality
-season	affects	burn incidence
-scald burn	common in	children
-chemical burn	causes	tissue necrosis
-electrical	burn	predisposes	arrhythmia
-electrical burn	predisposes	arrhythmia
-burn center	provides	specialized care
-silicone sheet	reduces	scar formation
-scar	results from	burn
-keloid	risk after	burns
-burn scar	causes	itch
-itch	increases	discomfort
-pain score	predicts	length of stay
-delayed graft	increases	infection risk
-graft failure	increases	mortality risk
-debridement timing	affects	healing rate
-wound infection	delays	healing
-blood transfusion	associated with	infection risk
-hydration status	monitored by	urine output
-urine output	reflects	renal perfusion
-creatinine	increases	with burn shock
-povidone-iodine	used in	wound care
-chlorhexidine	used in	wound care
-tetanus vaccination	recommended for	burns
-tetanus booster	given with	burns
-topical antibiotic	used in	burns
-silver sulfadiazine	used in	burns
-nutrition status	affects	wound healing
-malnutrition	impairs	wound healing
-enteral nutrition	supports	wound healing
-parenteral nutrition	supports	patient recovery
-zinc oxide	used in	wound care
-electrolyte management	optimizes	recovery
-hyperglycemia	worsens	infection risk
-glucose control	improves	outcomes
-nutrition support	improves	wound healing
-immobilization	reduces	mobility
-physical therapy	improves	function
-burn edema	contributes to	tissue hypoxia
-fluid balance	influences	edema
-infection control	reduces	hospital stay
-wound culture	guides	antibiotic selection
-tetanus status	determines	vaccination need
-burn depth	determines	graft requirement
-scald injury	predominates in	children
-thermal burn	causes	tissue damage
-chemical burn	requires	chemical neutralization
-electric burn	damages	nerves
-healing rate	depends on	burn depth
-quality of life	affected by	burns
+burns	is a	acute condition
+burns	may cause	pain
+burns	predispose to	infection
+burns	cause	fluid loss
+burns	require	wound care
+burns	require	debridement
+burns	treated with	analgesia
+burns	managed in	burn center
+burns	increase risk of	scarring
+burns	increase risk of	contractures
+burns	treated with	topical antibiotic
+burns	treated with	silver sulfadiazine
+burns	managed with	dressing change
+burns	require	tetanus prophylaxis
+burns	associated with	inhalation injury
+burns	associated with	mortality
+burns	associated with	hospital admission
+burns	lead to	fluid resuscitation
+burns	necessitate	ICU admission
+burns	require	airway management
+burns	cause	electrolyte disturbance
+burns	associated with	sepsis
+burns	predispose to	pneumonia
+burns	increase risk of	ARDS
+burns	cause	hypovolemia
+burns	cause	electrolyte imbalance
+burns	lead to	dehydration
+burns	cause	wound edema
+burns	require	analgesic therapy
+burns	treated with	opioids
+burns	require	physical therapy
+burns	affect	skin integrity
+burns	may require	skin graft
+burns	may require	grafting procedure
+burns	associated with	cosmetic deformity
+burns	associated with	functional limitation
+burns	influence	rehabilitation outcome
+burns	require	tetanus immunization
+burns	classified as	partial-thickness burn
+burns	classified as	full-thickness burn
+burns	assessed by	burn depth
+burns	evaluated with	burn surface area
+burns	managed with	fluid therapy
+burns	managed with	wound dressing
+burns	require	pain control
+burns	associated with	pruritus
+burns	associated with	anxiety
+burns	associated with	sleep disturbance
+burns	linked with	scar maturation
+burns	correlated with	burn size
+burns	correlate with	burn depth
+burns	related to	hospitalization duration
+burns	influence	rehabilitation outcome
+burns	cause	wound infection
+burns	require	nutrition support
+burns	associated with	malnutrition risk
+burns	increase risk of	nosocomial infection
+burns	associated with	edema formation
+burns	associated with	immune suppression
+burns	require	nutrition supplementation
+burns	require	daily dressing change
+burns	managed in	burn clinic
+burns	predispose to	fungal infection
+burns	associated with	electrolyte shifts
+burns	require	IV fluids
+burns	treatable with	antiseptic solution
+burns	cause	pigment changes
+burns	result in	pigment alteration
+burns	associated with	respiratory distress
+burns	require	follow-up care
+burns	may lead to	contracture development
+burns	require	early excision
+burns	associated with	skin color change
+burns	require	long-term care
+burns	require	scar management
+burns	cause	mobility limitation
+burns	require	occupational therapy
+burns	associated with	pain flares
+burns	associated with	wound contracture risk
+burns	require	wound culture
+burns	associated with	prolonged healing time
+burns	require	physical rehabilitation
+burns	associated with	psychological effects
+burns	increase	metabolic rate
+burns	associated with	scab formation
+burns	require	scar assessment
+burns	associated with	pneumonia risk
+burns	tie to	quality of life impact
+burns	influence	caregiver burden
+burns	present as	multi-system injury
+burns	require	social support services
+burns	associated with	electrolyte replacement
+burns	require	protein supplementation
+burns	related to	skin graft survival
+burns	associated with	infection risk
+burns	influence	length of stay
+burns	predispose to	critical illness
+burns	require	air medical transport
+burns	associated with	ICU length of stay
+burns	require	early mobilization

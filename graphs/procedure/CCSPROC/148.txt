@@ -1,0 +1,100 @@
+fracture reduction	is a	procedure
+fracture reduction	corrects	fracture alignment
+fracture fixation	is a	surgical procedure
+fracture fixation	uses	implants
+dislocation reduction	is a	procedure
+dislocation repair	is a	surgical procedure
+open reduction	is a	surgical procedure
+open reduction	requires	anesthesia
+open reduction	uses	fluoroscopy
+closed reduction	is a	nonoperative procedure
+closed reduction	achieves	alignment
+internal fixation	is a	fixation method
+internal fixation	uses	implants
+external fixation	is a	stabilization method
+external fixation	provides	stability
+intramedullary nailing	is a	fixation method
+intramedullary nailing	used for	long bone fractures
+plate and screw fixation	is a	fixation method
+screw fixation	is a	fixation method
+pin fixation	is a	fixation method
+k-wire fixation	is a	fixation method
+external fixator	is a	fixation device
+bone graft	is a	biological graft
+autograft	is a	bone graft
+allograft	is a	bone graft
+bone graft	promotes	healing
+arthroplasty	is a	joint replacement
+arthrodesis	is a	joint fusion
+casting	is a	immobilization method
+immobilization	is a	post operative measure
+splinting	is a	immobilization method
+traction	provides	alignment
+manipulation	is a	reduction technique
+anesthesia	is a	perioperative factor
+analgesia	is a	perioperative factor
+fluoroscopy	guides	implant placement
+radiography	guides	reduction
+MRI	is a	imaging modality
+CT scan	is a	imaging modality
+ultrasound	is a	imaging modality
+operating room	houses	procedure
+surgery	results in	recovery
+hospital stay	lengthens	recovery
+postoperative infection	leads to	readmission
+infection	increases	complication risk
+nonunion	leads to	revision surgery
+malunion	causes	deformity
+deformity	reduces	function
+hardware	causes	pain
+prosthesis	requires	replacement
+bone cement	secures	implants
+autograft	provides	osteogenesis
+allograft	provides	osteoconduction
+bone graft	promotes	union
+range of motion	improves	rehabilitation
+mobility	improves	physical therapy
+rehabilitation	facilitates	functional recovery
+functional recovery	depends on	fixation stability
+blood loss	correlates with	surgical duration
+surgical duration	predicts	transfusion requirement
+transfusion	associated with	infection risk
+bleeding	increases	complication risk
+nerve injury	is a	complication
+vascular injury	is a	complication
+scar	limits	movement
+implant	needs	revision
+implant	causes	irritation
+bone density	affects	healing
+smoking	impairs	healing
+diabetes	increases	infection risk
+age	affects	healing rate
+fracture pattern	guides	implant selection
+open reduction internal fixation	is a	treatment option
+ORIF	is a	treatment option
+preoperative planning	informs	implant selection
+implant selection	depends on	fracture pattern
+bone health	influences	healing
+osteoporosis	increases	fracture risk
+weight bearing	permitted after	fixation stability
+weight bearing	depends on	fixation method
+cast	used after	closed reduction
+immobilization period	lasts	weeks
+deformity correction	improves	alignment
+postoperative analgesia	reduces	pain
+wound care	reduces	infection risk
+blood flow	supports	healing
+open fracture	increases	infection risk
+open fracture	increases	hospitalization risk
+dynamic hip screw	is a	fixation device
+plate	supports	fracture fragment
+screw	provides	fragment compression
+nail	provides	stability
+cast	immobilizes	limb
+splint	immobilizes	joint
+surgeon	performs	fracture reduction
+surgeon	selects	implant
+radiographs	assess	alignment
+physiotherapy	aids	rehabilitation
+orthopedist	diagnoses	fracture
+outcome	includes	healing and function

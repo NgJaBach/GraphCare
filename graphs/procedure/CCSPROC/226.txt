@@ -1,0 +1,101 @@
+X-ray	is a	radiologic imaging modality
+X-ray	uses	ionizing radiation
+X-ray	detects	fracture
+X-ray	detects	pneumonia
+X-ray	monitors	fracture progression
+CT	is a	diagnostic imaging modality
+CT	uses	ionizing radiation
+CT	detects	pulmonary embolism
+CT	visualizes	organ anatomy
+CT	evaluates	trauma
+MRI	is a	diagnostic imaging modality
+MRI	uses	strong magnetic field
+MRI	detects	soft-tissue injury
+MRI	is contraindicated in	metal implants
+MRI	visualizes	brain anatomy
+MRI	evaluates	spinal cord
+Ultrasound	is a	diagnostic imaging modality
+Ultrasound	uses	sound waves
+Ultrasound	detects	pregnancy
+Ultrasound	guides	needle placement
+Ultrasound	provides	real-time imaging
+Fluoroscopy	is a	dynamic imaging modality
+Fluoroscopy	uses	iodinated contrast
+Fluoroscopy	guides	endoscopy
+Fluoroscopy	evaluates	biliary ducts
+Fluoroscopy	visualizes	GI tract
+Angiography	is a	diagnostic imaging procedure
+Angiography	visualizes	blood vessels
+Angiography	uses	contrast medium
+Angiography	detects	stenosis
+Angiography	identifies	aneurysm
+CT angiography	is a	CT-based angiography
+CT angiography	visualizes	vessels
+CT angiography	detects	stenosis
+CT angiography	uses	iodinated contrast
+DSA	is a	angiography technique
+DSA	enhances	vascular detail
+DSA	requires	radiopaque contrast
+DSA	guides	catheter-based interventions
+DSA	monitors	endovascular therapy
+Mammography	is a	diagnostic imaging modality
+Mammography	detects	breast cancer
+Mammography	uses	compression
+Mammography	screens	asymptomatic women
+Mammography	detects	microcalcifications
+DEXA	is a	bone density test
+DEXA	measures	bone mineral density
+DEXA	screens	osteoporosis
+DEXA	provides	T-score
+Nuclear medicine	is a	diagnostic imaging specialty
+Nuclear medicine	uses	radiopharmaceuticals
+Nuclear medicine	provides	functional imaging
+PET	is a	nuclear medicine imaging modality
+PET	detects	metabolic activity
+PET	combines with	CT
+PET	evaluates	cancer metabolism
+SPECT	is a	nuclear medicine imaging modality
+SPECT	detects	tracer distribution
+SPECT	provides	functional imaging
+Bone scan	is a	nuclear medicine scan
+Bone scan	detects	metastasis
+Bone scan	uses	radiotracers
+Myelography	is a	radiologic procedure
+Myelography	visualizes	spinal canal
+Myelography	uses	contrast agents
+Interventional radiology	performs	image-guided procedures
+Interventional radiology	uses	fluoroscopy
+Interventional radiology	offers	minimally invasive therapy
+CT-guided biopsy	is a	biopsy technique
+CT-guided biopsy	uses	CT guidance
+MRI-guided biopsy	is a	biopsy technique
+MRI-guided biopsy	uses	MRI guidance
+Ultrasound-guided biopsy	is a	biopsy technique
+Ultrasound-guided biopsy	uses	ultrasound guidance
+CT colonography	is a	CT-based colon imaging
+CT colonography	screens	colon polyps
+Dual-energy CT	provides	material decomposition
+Dual-energy CT	enhances	lesion characterization
+Perfusion imaging	assesses	tissue perfusion
+Perfusion imaging	uses	contrast agents
+Lung CT	detects	pulmonary nodules
+Lung cancer screening	employs	low-dose CT
+Low-dose CT	reduces	radiation exposure
+Functional MRI	measures	brain activity
+Diffusion-weighted imaging	is a	MRI sequence
+Diffusion-weighted imaging	detects	acute stroke changes
+PET-CT	provides	combined metabolic and anatomic imaging
+CT angiography	visualizes	vessels
+CT angiography	detects	stenosis
+Contrast-enhanced CT	is a	CT with contrast
+Contrast-enhanced MRI	is a	MRI with contrast
+Contrast-enhanced ultrasound	is a	ultrasound with contrast
+Gadolinium-based contrast	is a	MRI contrast
+Iodinated contrast	is a	CT contrast
+Radiology report	provides	imaging interpretation
+Imaging protocol	standardizes	exam quality
+Imaging AI	supports	image interpretation
+Radiology workflow	improves	diagnostic throughput
+MRI safety screening	identifies	contraindications
+PACS	stores	imaging data
+DICOM	standardizes	imaging format

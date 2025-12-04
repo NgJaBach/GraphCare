@@ -1,100 +1,98 @@
-aspiration pneumonitis	caused by	aspiration of gastric contents
-gastric contents	cause	chemical pneumonitis
-gastric acid	injures	alveolar epithelium
-vomitus	causes	chemical pneumonitis
-food	causes	aspiration pneumonitis
-dysphagia	predisposes to	aspiration pneumonitis
-stroke	predisposes to	dysphagia
-neurologic impairment	predisposes to	dysphagia
-sedation	increases risk of	aspiration pneumonitis
-intubation	increases risk of	aspiration pneumonitis
-advanced age	increases risk of	aspiration pneumonitis
-alcohol use	increases risk of	aspiration pneumonitis
-anesthesia	increases risk of	aspiration pneumonitis
-enteral feeding	increases risk of	aspiration pneumonitis
-gastric reflux	increases risk of	aspiration pneumonitis
-impaired cough reflex	predisposes to	aspiration pneumonitis
-cough	presents with	aspiration pneumonitis
-dyspnea	presents with	aspiration pneumonitis
-tachypnea	presents with	aspiration pneumonitis
-fever	may accompany	aspiration pneumonitis
-hypoxemia	results from	aspiration pneumonitis
-airspace opacities	seen on	chest radiograph
-airspace opacities	seen on	CT scan
-chest radiograph	shows	airspace opacities
-CT scan	shows	focal consolidation
-bronchoscopy	reveals	aspirated material
-sputum culture	negative for	bacterial growth
+aspiration pneumonitis	caused by	gastric contents
+aspiration pneumonitis	caused by	food
+aspiration pneumonitis	caused by	vomitus
+aspiration pneumonitis	caused by	oropharyngeal secretions
+aspiration pneumonitis	caused by	reflux
+anesthesia	associated with	aspiration pneumonitis
+sedation	associated with	aspiration pneumonitis
+dysphagia	risk factor for	aspiration pneumonitis
+neuromuscular disease	risk factor for	aspiration pneumonitis
+advanced age	risk factor for	aspiration pneumonitis
+stroke	risk factor for	aspiration pneumonitis
+intoxication	risk factor for	aspiration pneumonitis
+intubation	risk factor for	aspiration pneumonitis
+impaired consciousness	risk factor for	aspiration pneumonitis
+alcohol use	risk factor for	aspiration pneumonitis
+aspiration pneumonitis	presents with	cough
+aspiration pneumonitis	presents with	fever
+aspiration pneumonitis	presents with	dyspnea
+aspiration pneumonitis	presents with	hypoxemia
+aspiration pneumonitis	presents with	tachypnea
+aspiration pneumonitis	presents with	wheeze
+aspiration pneumonitis	presents with	chest pain
+aspiration pneumonitis	presents with	sputum production
+chest radiograph	shows	infiltrates
+chest CT	shows	consolidation
+bronchoscopy	allows	sampling of airways
+bronchoalveolar lavage	used for	microbiologic analysis
+sputum culture	detects	bacteria
+blood culture	detects	bacteremia
+pulse oximetry	measures	oxygen saturation
 arterial blood gas	shows	hypoxemia
-pulse oximetry	monitors	oxygen saturation
-oxygen therapy	provides	supplemental oxygen
-noninvasive ventilation	used for	hypoxemia
+lung ultrasound	detects	pleural effusion
+oxygen therapy	essential for	hypoxemia
+antibiotics	used for	aspiration pneumonitis
+supportive care	includes	hydration
+supportive care	includes	nutritional support
+antibiotics	used for	bacterial superinfection
 mechanical ventilation	required for	respiratory failure
-bronchodilator	relieves	bronchospasm
-antibiotics	prescribed for	suspected secondary infection
-steroids	not routinely indicated for	aspiration pneumonitis
-rehabilitation	improves	functional outcome after aspiration pneumonitis
-speech therapy	reduces risk of	aspiration during meals
-thickened liquids	reduces risk of	aspiration during swallowing
-upright positioning	reduces risk of	aspiration pneumonitis
-head-of-bed elevation	reduces risk of	aspiration pneumonitis
-oral hygiene	reduces risk of	pneumonia after aspiration
-enteral feeding tube	increases risk of	aspiration pneumonitis
-gastric residual volume	correlates with	aspiration events
-microaspiration	contributes to	aspiration pneumonitis
-neutrophilic inflammation	occurs in	aspiration pneumonitis
-alveolar damage	occurs in	aspiration pneumonitis
-ARDS	can follow	aspiration pneumonitis
-secondary infection	can occur after	aspiration pneumonitis
-pneumonia	may follow	aspiration pneumonitis
+aspiration pneumonitis	can progress to	pneumonia
+aspiration pneumonitis	can progress to	ARDS
+aspiration pneumonitis	can progress to	lung abscess
+aspiration pneumonitis	can cause	empyema
+gastric contents	contain	acid
+gastric contents	contain	particulate matter
+vomitus	contains	gastric acid
+vomitus	contains	particulate matter
+food	contains	particulate matter
+gastric reflux	can cause	aspiration pneumonitis
+oropharyngeal secretions	can cause	aspiration pneumonitis
+anaerobes	involved in	aspiration pneumonitis
+bacteria	involved in	aspiration pneumonitis
+polymicrobial infection	observed in	aspiration pneumonitis
+aspiration pneumonitis	risk factor for	hospital readmission
+aspiration pneumonitis	risk factor for	longer hospitalization
 mortality	associated with	aspiration pneumonitis
-hospital length of stay	prolonged by	aspiration pneumonitis
-readmission	risk after discharge for	aspiration pneumonitis
-COPD	coexists with	aspiration pneumonitis
-diabetes mellitus	increases risk of	infection after aspiration pneumonitis
-elderly population	at risk for	aspiration pneumonitis
-neurodegenerative disease	associated with	dysphagia
-impaired swallowing	leads to	aspiration pneumonitis
-oral intake	limited by	dysphagia
+length of stay	increased by	aspiration pneumonitis
+ICU admission	associated with	aspiration pneumonitis
+aspiration precautions	reduce	aspiration pneumonitis
+swallowing therapy	reduces	aspiration pneumonitis
+speech therapy	reduces	aspiration pneumonitis
+feeding tube	reduces	aspiration risk
+head-of-bed elevation	reduces	aspiration risk
+positioning	reduces	aspiration risk
+gastroesophageal reflux disease	predisposes to	aspiration pneumonitis
+dysphagia	predisposes to	aspiration pneumonitis
 swallowing dysfunction	predisposes to	aspiration pneumonitis
-postextubation	risk of	aspiration pneumonitis
-aspiration event	leads to	inflammatory lung injury
-inflammatory lung injury	manifests as	pneumonitis
-airway inflammation	present in	aspiration pneumonitis
-lung parenchyma	affected by	chemical injury
-bronchioles	affected by	chemical pneumonitis
-systemic inflammatory response	may occur with	aspiration pneumonitis
-imaging	supports diagnosis of	aspiration pneumonitis
-risk stratification	predicts	mortality in aspiration pneumonitis
-clinical suspicion	leads to	imaging for aspiration pneumonitis
-airway protectors	used for	dysphagia management
-dysphagia management	reduces	aspiration pneumonitis
-nutrition therapy	tailored for	aspiration pneumonitis
-aspiration history	documented in	medical record
-electrolyte disturbances	may complicate	aspiration pneumonitis
-fluid management	essential for	aspiration pneumonitis
-aspiration pneumonitis	is a	chemical injury to lung
-aspiration pneumonitis	is caused by	chemical injury to lung
-microbial superinfection	can complicate	aspiration pneumonitis
-oxygen desaturation	detected by	pulse oximetry
-phlegm production	accompanies	aspiration pneumonitis
-ciliary dysfunction	increases risk of	aspiration pneumonitis
-laryngeal dysfunction	increases risk of	aspiration pneumonitis
-smoking	increases risk of	aspiration pneumonitis
-patient education	improves	swallowing safety
-nursing assessment	informs	management of aspiration pneumonitis
-clinical guideline	informs	management of aspiration pneumonitis
-time to presentation	influences	prognosis of aspiration pneumonitis
-delay in treatment	worsens	prognosis of aspiration pneumonitis
-post-meal aspiration	occurs in	high-risk patients
-laryngopharyngeal reflux	contributes to	aspiration events
-anatomical abnormalities	predispose to	aspiration pneumonitis
-airway clearance techniques	improve	gas exchange after aspiration pneumonitis
-antibiotic timing	affects	outcome in aspiration pneumonitis
-mortality rate	varies with	severity of aspiration pneumonitis
-diagnostic criteria	defined by	history of aspiration
-clinical course	determined by	aspiration volume
-gastric aspirate	contains	acid
-acid	irritates	lung tissue
-outcome prediction	relies on	extent of aspiration pneumonitis
-swallowing safety	improved by	swallowing therapy
+alcohol use disorder	increases risk for	aspiration pneumonitis
+neurodegenerative disease	increases risk for	aspiration pneumonitis
+achalasia	increases risk for	aspiration pneumonitis
+impaired cough reflex	increases risk for	aspiration pneumonitis
+imaging	supports	diagnosis of aspiration pneumonitis
+clinical criteria	used for	diagnosing aspiration pneumonitis
+Gram stain	guides	antibiotic selection
+culture results	guide	antibiotic selection
+antibiotic selection	guided by	culture results
+infection control	reduces	nosocomial risk in aspiration pneumonitis
+nutrition	improves	recovery from aspiration pneumonitis
+hydration	supports	recovery from aspiration pneumonitis
+oral hygiene	reduces	aspiration risk
+aspiration risk	mitigated by	oral hygiene
+endotracheal intubation	increases	aspiration risk
+nasogastric feeding	increases	aspiration pneumonitis
+suctioning	removes	aspirated material
+airway clearance therapy	improves	clearance of aspirate
+oxygen saturation	improves	with oxygen therapy
+antibiotic therapy	associated with	microbiology results
+ICU length of stay	correlates with	aspiration pneumonitis
+pneumonitis	similar to	chemical pneumonitis
+chemical pneumonitis	part of	aspiration pneumonitis
+gastric acid	damages	lung tissue
+alveolar epithelium	damaged by	gastric acid
+neutrophilic inflammation	present in	aspiration pneumonitis
+cytokines	elevated in	aspiration pneumonitis
+lymphocytes	recruited in	aspiration pneumonitis
+inflammatory response	drives	lung injury
+clinical outcome	determined by	treatment timing
+treatment timing	determines	outcome
+recovery	depends on	early intervention

@@ -1,0 +1,123 @@
+ lens	is a	ocular structure 
+ cataract	is a	lens clouding 
+ capsulorhexis	is a	cataract surgery step 
+ capsulorhexis	creates	opening in anterior capsule 
+ phacoemulsification	is a	cataract surgery technique 
+ phacoemulsification	uses	ultrasonic energy 
+ extracapsular cataract extraction	is a	cataract surgery technique 
+ intracapsular cataract extraction	is a	cataract surgery technique 
+ manual small incision cataract surgery	is a	cataract surgery technique 
+ femtosecond laser-assisted cataract surgery	is a	cataract surgery technique 
+ cataract surgery	is a	surgical procedure 
+ phacoemulsification	is a	type of cataract surgery 
+ cataract extraction	is a	step in cataract surgery 
+ intraocular lens implantation	occurs during	cataract surgery 
+ intraocular lens	is a	implant 
+ intraocular lens	implanted in	capsular bag 
+ capsular bag	holds	intraocular lens 
+ toric intraocular lens	corrects	astigmatism 
+ multifocal intraocular lens	provides	multiple focal points 
+ monofocal intraocular lens	provides	single focal point 
+ intraocular lens	comes in	designs 
+ posterior capsule opacification	is a	cataract surgery complication 
+ YAG laser capsulotomy	is a	treatment for posterior capsule opacification 
+ posterior capsule opacification	can occur after	cataract surgery 
+ cataract surgery	can be performed in	ambulatory setting 
+ vision	improves after	cataract surgery 
+ cataract surgery	improves	vision 
+ IOL power calculation	depends on	biometry 
+ biometry	performed for	IOL power calculation 
+ axial length	used for	IOL power calculation 
+ keratometry	used for	IOL power calculation 
+ corneal astigmatism	influences	IOL selection 
+ toric intraocular lens	reduces	astigmatism 
+ astigmatism	corrected by	toric intraocular lens 
+ cornea	is affected by	cataract surgery 
+ anterior chamber	is a	eye compartment 
+ posterior chamber	is a	eye compartment 
+ posterior capsule	remains after	cataract surgery 
+ anterior capsule	is removed in	capsulorhexis 
+ IOL positioning	affects	refractive outcome 
+ refractive outcome	depends on	IOL power calculation 
+ YAG capsulotomy	treats	posterior capsule opacification 
+ intraocular pressure	can rise after	cataract surgery 
+ glaucoma	risk after	cataract surgery 
+ infection	risk after	cataract surgery 
+ endophthalmitis	is a	cataract surgery complication 
+ endothelial cell loss	occurs during	phacoemulsification 
+ corneal edema	occurs after	cataract surgery 
+ recovery time	is shorter after	phacoemulsification 
+ surgical duration	influences	recovery time 
+ topical anesthesia	used during	cataract surgery 
+ local anesthesia	used during	cataract surgery 
+ anesthesia	chosen based on	patient factors 
+ antibiotic prophylaxis	used during	cataract surgery 
+ steroid drops	prescribed for	postoperative inflammation 
+ NSAIDs	used for	postoperative inflammation control 
+ antibiotic drops	prescribed for	infection prevention 
+ clear corneal incision	is a	cataract surgery wound 
+ scleral tunnel incision	is a	cataract surgery wound 
+ sutureless cataract surgery	is a	cataract surgery technique 
+ capsule rupture	occurs during	phacoemulsification 
+ vitreous loss	occurs due to	capsule rupture during cataract surgery 
+ zonular weakness	predisposes to	lens instability during cataract surgery 
+ lens instability	requires	IOL exchange 
+ IOL exchange	performed for	lens instability 
+ capsular bag integrity	essential for	IOL stability 
+ capsule rupture	leads to	vitreous loss 
+ posterior capsule rupture	leads to	vitreous loss 
+ posterior capsule rupture	increases risk of	retinal detachment 
+ retinal detachment	risk after	cataract surgery 
+ pupillary dilation	required for	capsulorhexis 
+ pharmacologic dilation	enables	capsulorhexis 
+ iris manipulation	performed during	cataract surgery 
+ phaco machine	performs	lens emulsification 
+ lens fragments	removed by	irrigation and aspiration 
+ cortical material	removed by	irrigation and aspiration 
+ irrigation and aspiration	used for	cortical cleanup 
+ viscoelastic material	protects	corneal endothelium 
+ ophthalmic viscoelastic device	used for	cataract surgery 
+ endophthalmitis	rare but serious	cataract surgery complication 
+ cystoid macular edema	can occur after	cataract surgery 
+ corneal endothelial damage	risk after	cataract surgery 
+ cataract surgery	reduces	vision impairment 
+ visual acuity	improves with	cataract surgery 
+ refractive surprise	can occur after	cataract surgery 
+ retinal tears	potential complication after	cataract surgery 
+ mydriatic agents	used for	pupil dilation during cataract surgery 
+ pharmacologic dilation	enables	capsulorhexis 
+ iris sphincter tear	risk during	cataract surgery 
+ antibiotic prophylaxis	reduces	endophthalmitis risk 
+ postoperative inflammation	managed with	steroid drops 
+ postoperative inflammation	managed with	NSAIDs 
+ posterior segment	evaluated after	cataract surgery 
+ postoperative follow-up	scheduled after	cataract surgery 
+ sutures	may be used in	scleral incisions 
+ wound leakage	risk after	cataract surgery 
+ corneal decompensation	risk after	cataract surgery 
+ capsule contraction	can occur after	cataract surgery 
+ capsule contraction	affects	IOL stability 
+ IOL exchange	performed for	capsule contraction 
+ endophthalmitis	rate	is low after cataract surgery 
+ surgical training	improves	cataract surgery outcomes 
+ surgeon experience	correlates with	cataract surgery outcomes 
+ optical coherence tomography	used for	postoperative assessment 
+ cataract	associated with	aging 
+ older age	increases	cataract risk 
+ diabetes mellitus	increases risk of	cataract progression 
+ pupil dilation	may be inadequate	in patients with small pupils 
+ iris expansion device	used for	pupil dilation during cataract surgery 
+ pupil expansion device	used for	challenging cataract surgery 
+ cataract surgery	is performed by	ophthalmic surgeon 
+ ophth almic microscope	enables	magnified visualization for cataract surgery 
+ clear corneal incision	contributes to	faster recovery after cataract surgery 
+ postoperative refractive adjustment	possible after	cataract surgery 
+ IOL exchange	can correct	refractive error after cataract surgery 
+ IOL power recalculation	may be needed after	cataract surgery 
+ biometry accuracy	influences	IOL power calculation 
+ pupil constriction	may complicate	cataract surgery 
+ capsule polishing	performed for	improved IOL outcome 
+ capsule polishing	reduces	residual lens material after cataract surgery 
+ ocular comorbidity	complicates	cataract management 
+ cataract screening	essential for	early detection 
+ phaco emulsification	synonyms	ultrasound fragmentation 

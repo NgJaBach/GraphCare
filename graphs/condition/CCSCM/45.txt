@@ -1,100 +1,100 @@
 maintenance chemotherapy	is a	cancer treatment
-radiotherapy	is a	cancer treatment
-maintenance chemotherapy	is used for	disease control
-radiotherapy	is used for	local control
+radiotherapy	is a	local therapy
 maintenance chemotherapy	follows	induction chemotherapy
 radiotherapy	follows	surgery
-radiotherapy	is used as	adjuvant therapy
-maintenance chemotherapy	is delivered in	cycles
-radiotherapy	is delivered in	fractions
-maintenance chemotherapy	reduces	relapse risk
+maintenance chemotherapy	part of	adjuvant therapy
+radiotherapy	part of	adjuvant therapy
+maintenance chemotherapy	aims to	survival extension
+radiotherapy	aims to	reduce local recurrence
+cancer	treated by	radiotherapy
+cancer	treated by	maintenance chemotherapy
+tumor	targeted by	radiotherapy
+tumor	controlled by	chemotherapy
+remission	achieved by	radiotherapy
+remission	achieved by	chemotherapy
+overall survival	influenced by	radiotherapy
+progression-free survival	influenced by	maintenance chemotherapy
+local recurrence	reduced by	radiotherapy
+relapse	prevented by	maintenance chemotherapy
+neutropenia	caused by	chemotherapy
+anemia	caused by	chemotherapy
+thrombocytopenia	caused by	chemotherapy
+fatigue	caused by	radiotherapy
+skin toxicity	caused by	radiotherapy
+mucositis	caused by	chemotherapy
+nausea	caused by	chemotherapy
+nausea	caused by	radiotherapy
+xerostomia	caused by	radiotherapy
+pneumonitis	caused by	radiotherapy
+esophagitis	caused by	radiotherapy
+hepatic toxicity	caused by	chemotherapy
+nephrotoxicity	caused by	chemotherapy
+transfusion	needed for	anemia
+infection	risk increased by	neutropenia
+hospitalization	associated with	chemotherapy toxicity
+dose modification	required for	hepatic toxicity
+dose modification	required for	nephrotoxicity
+imaging	used for	treatment assessment
+blood tests	used for	toxicity monitoring
+liver function test	used for	hepatic toxicity detection
+neutrophil count	indicator of	neutropenia
+tumor size	assessed by	imaging
+tumor size	decreases with	radiotherapy
+tumor size	decreases with	chemotherapy
+adjuvant therapy	includes	maintenance chemotherapy
+adjuvant therapy	includes	radiotherapy
+surgery	combined with	radiotherapy
+surgery	combined with	chemotherapy
+radiotherapy dose	planned as	fractionation
+fractionation	influences	radiotherapy efficacy
+radiotherapy dose	related to	toxicity
+chemotherapy dose	related to	toxicity
+toxicities	contribute to	treatment burden
+treatment burden	reduces	adherence
+maintenance chemotherapy	reduces	relapse rate
 radiotherapy	reduces	local recurrence
-radiotherapy	is used in	palliation
-maintenance chemotherapy	may cause	cytopenia
-maintenance chemotherapy	may cause	fatigue
-maintenance chemotherapy	may cause	nausea
-maintenance chemotherapy	may cause	mucositis
-radiotherapy	may cause	dermatitis
-radiotherapy	may cause	pneumonitis
-radiotherapy	may cause	esophagitis
-radiotherapy	may cause	fibrosis
-radiotherapy	may increase	secondary malignancy risk
-maintenance chemotherapy	requires	monitoring
-radiotherapy	requires	planning
-planning	is performed by	radiation oncologist
-radiotherapy	uses	linear accelerator
-radiotherapy	uses	imaging guidance
-maintenance chemotherapy	uses	cytotoxic agents
-cytotoxic agents	include	platinum compounds
-platinum compounds	are used in	maintenance chemotherapy
-radiotherapy	includes	external beam radiotherapy
-radiotherapy	includes	brachytherapy
-brachytherapy	is a form of	radiotherapy
-external beam radiotherapy	is a form of	radiotherapy
-maintenance chemotherapy	adjusts	dose
-radiotherapy	adjusts	dose
-maintenance chemotherapy	is influenced by	performance status
-radiotherapy	is influenced by	organ function
-maintenance chemotherapy	impacts	immune function
-radiotherapy	impacts	organ function
-combined modality therapy	refers to	radiotherapy and chemotherapy
-combined modality therapy	includes	radiotherapy and chemotherapy
-maintenance chemotherapy	contributes to	treatment burden
-radiotherapy	contributes to	local symptom relief
-maintenance chemotherapy	is titrated by	oncologist
-radiotherapy	is planned with	CT simulation
-CT simulation	provides	dose planning data
-dose planning data	informs	treatment planning
-treatment planning	defines	dose distribution
-dose distribution	determines	tissue exposure
-tissue exposure	relates to	toxicity risk
-toxicity risk	predicts	hospitalization
-hospitalization	is associated with	therapy toxicity
-toxicity	is monitored by	clinician
-maintenance chemotherapy	requires	CBCs
-CBCs	monitor	neutrophil count
-neutrophil count	guides	dose adjustments
-dose adjustments	aim to	maintain tolerability
-skin care	reduces	dermatitis severity
-CT simulation	enables	target delineation
-target delineation	improves	treatment accuracy
-treatment accuracy	improves	local control
-local control	relates to	prognosis
-prognosis	informs	patient counseling
-patient counseling	supports	decision making
-decision making	influences	consent quality
-consent quality	affects	treatment uptake
-treatment uptake	influences	adherence
-adherence	improves	treatment efficacy
-treatment efficacy	informs	guidelines
-guidelines	inform	practice
-practice	guides	management
-management	improves	patient outcomes
-patient outcomes	used for	benchmarking
-benchmarking	uses	health data
-health data	supports	predictive models
-predictive models	inform	risk factors
-risk factors	include	age
-age	is associated with	treatment tolerance
-treatment tolerance	influences	dose intensity
-dose intensity	correlates with	toxicity
-toxicity	leads to	hospital admission
-hospital admission	triggers	discharge planning
-discharge planning	relies on	home health services
-home health services	enable	outpatient chemotherapy
-outpatient chemotherapy	reduces	hospitalization
-patient factors	influence	treatment choice
-treatment choice	affects	resource utilization
-resource utilization	determines	reimbursement
-reimbursement	impacts	access to care
-access to care	improves	survival estimates
-survival estimates	guide	patient counseling
-patient counseling	improves	treatment adherence
-treatment adherence	affects	outcome
-outcome	informs	future treatment decisions
-future treatment decisions	depend on	outcome
-outcome	depends on	tumor response
-tumor response	informs	prognosis
-prognosis	drives	care planning
-care planning	drives	visit schedule
-visit schedule	facilitates	follow-up
+radiotherapy	increases	survival probability
+maintenance chemotherapy	accompanies	supportive therapy
+radiotherapy	requires	immobilization
+radiotherapy planning	requires	imaging
+imaging	supports	radiotherapy planning
+treatment plan	guides	scheduling
+treatment plan	includes	maintenance chemotherapy
+treatment plan	includes	radiotherapy
+approval	supports	adjuvant therapy use
+quality of life	affected by	radiotherapy
+quality of life	affected by	chemotherapy
+palliative care	integrated with	radiotherapy
+palliative care	integrated with	chemotherapy
+cancer stage	influences	radiotherapy choice
+cancer stage	influences	chemotherapy choice
+radiotherapy planning	depends on	tumor size
+tumor size	determines	radiotherapy dose
+tumor size	determines	chemotherapy intensity
+remission	maintained by	maintenance chemotherapy
+remission	achieved by	radiotherapy
+overall survival	improved by	radiotherapy
+overall survival	improved by	chemotherapy
+neoplasm	treated with	chemotherapy
+neoplasm	treated with	radiotherapy
+metastasis	controlled by	systemic therapy
+systemic therapy	includes	chemotherapy
+systemic therapy	includes	radiotherapy
+treatment plan	guides	scheduling
+treatment plan	includes	maintenance chemotherapy
+treatment plan	includes	radiotherapy
+practice guideline	recommends	adjuvant therapy
+recurrence	risk reduced by	radiotherapy
+late effects	associated with	radiotherapy
+late effects	associated with	chemotherapy
+clinical trial	supports	efficacy of maintenance chemotherapy
+clinical trial	supports	efficacy of radiotherapy
+biomarker	predicts	radiotherapy response
+biomarker	predicts	chemotherapy response
+tumor	resistant to	radiotherapy
+tumor	resistant to	chemotherapy
+co-administered drug	interacts with	radiotherapy
+drug interaction	affects	radiotherapy efficacy
+clinical outcome	associated with	maintenance chemotherapy
+clinical outcome	associated with	radiotherapy
+survival benefit	observed with	radiotherapy

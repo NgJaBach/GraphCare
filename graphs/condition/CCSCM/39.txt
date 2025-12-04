@@ -1,99 +1,133 @@
 leukemias	are	blood cancers
-leukemias	include	acute myeloid leukemia
-leukemias	include	acute lymphoblastic leukemia
-leukemias	include	chronic myeloid leukemia
-leukemias	include	chronic lymphocytic leukemia
-leukemias	arise from	hematopoietic stem cells
-leukemias	present with	fatigue
-leukemias	present with	fever
-leukemias	present with	night sweats
-leukemias	cause	anemia
-leukemias	cause	thrombocytopenia
-leukemias	cause	neutropenia
-leukemias	increase risk of	infections
-leukemias	associated with	bleeding tendency
-down syndrome	increases risk of	acute lymphoblastic leukemia
-fanconi anemia	increases risk of	acute myeloid leukemia
+leukemias	arise from	hematopoietic cells
+ALL	is a subtype of	leukemia
+AML	is a subtype of	leukemia
+CLL	is a subtype of	leukemia
+CML	is a subtype of	leukemia
+hairy cell leukemia	is a subtype of	leukemia
+Philadelphia chromosome	is a marker for	CML
+BCR-ABL1 fusion	is a hallmark of	CML
+PML-RARA fusion	is a hallmark of	APL
+APL	is a subtype of	AML
+cytogenetic abnormalities	are common in	leukemia
+t(15;17)	is a cytogenetic abnormality	APL
+PML-RARA fusion	is a cytogenetic abnormality	APL
+TP53 mutation	is associated with	poor prognosis in leukemia
+NPM1 mutation	is associated with	AML prognosis
+FLT3 mutation	is associated with	AML prognosis
+minimal residual disease	is used for	prognosis
+minimal residual disease	predicts	relapse
+complete remission	is a goal of	induction therapy
+induction chemotherapy	achieves	remission
+cytarabine	is used for	AML
+daunorubicin	is used for	AML
+idarubicin	is used for	AML
+7+3 chemotherapy	is standard induction for	AML
+ATRA	is used for	APL
+arsenic trioxide	is used for	APL
+imatinib	is used for	CML
+dasatinib	is used for	CML
+nilotinib	is used for	CML
+ponatinib	is used for	CML
+bosutinib	is used for	CML
+tyrosine kinase inhibitors	are used for	CML
+allogeneic stem cell transplant	provides	graft-versus-leukemia effect
+allogeneic stem cell transplant	reduces	relapse
+autologous stem cell transplant	used for	relapsed leukemia
 benzene exposure	increases risk of	leukemia
 ionizing radiation	increases risk of	leukemia
-prior chemotherapy	increases risk of	treatment-related leukemia
-t(9;22) translocation	is associated with	chronic myeloid leukemia
-philadelphia chromosome	is associated with	chronic myeloid leukemia
-bcr-abl fusion	is characteristic of	chronic myeloid leukemia
-acute lymphoblastic leukemia	responds to	corticosteroids
-acute myeloid leukemia	treated with	cytarabine
-acute myeloid leukemia	treated with	daunorubicin
-acute promyelocytic leukemia	treated with	all-trans retinoic acid
-all-trans retinoic acid	is a	differentiation agent
-imatinib	treats	chronic myeloid leukemia
-dasatinib	treats	chronic myeloid leukemia
-nilotinib	treats	chronic myeloid leukemia
-bone marrow transplant	is used for	leukemia
-allogeneic stem cell transplant	is used for	high-risk leukemia
-autologous stem cell transplant	used for	relapsed leukemia
-cytarabine	is a	chemotherapy agent
-daunorubicin	is a	chemotherapy agent
-etoposide	is a	chemotherapy agent
-cyclophosphamide	is a	chemotherapy agent
-maintenance therapy	used for	acute lymphoblastic leukemia remission
-intrathecal chemotherapy	used for	CNS prophylaxis in leukemia
-flow cytometry	used for	leukemia subclassification
-cytogenetics	used for	leukemia risk stratification
-polymerase chain reaction	detects	minimal residual disease
-minimal residual disease	predicts	relapse risk
-cytogenetic abnormality	guides	prognosis in leukemia
-tissue biopsy	provides	leukemia diagnosis
-bone marrow biopsy	confirms	leukemia diagnosis
-white blood cell count	abnormal in	leukemia
-neutrophil count	low in	leukemia
-platelet count	low in	leukemia
-coagulopathy	associated with	leukemia
-DIC	occurs in	acute promyelocytic leukemia
-DIC	leads to	bleeding
+therapy-related leukemia	is a type of	leukemia
+age	influences	prognosis
+cytogenetics	influences	prognosis
+splenomegaly	occurs in	CML
+lymphadenopathy	occurs in	CLL
+bone marrow failure	results in	cytopenias
+cytopenias	cause	fatigue
+anemia	is common in	leukemia
+thrombocytopenia	is common in	leukemia
+infections	risk in	leukemia
+fever	is a symptom of	leukemia
+fatigue	is a symptom of	leukemia
+bone pain	is a symptom of	ALL
+CNS involvement	worsens prognosis in	leukemia
+intrathecal chemotherapy	is used for	CNS prophylaxis
+CNS prophylaxis	is used for	ALL
+intrathecal methotrexate	is used for	CNS prophylaxis
+prednisone	is used for	ALL
+vincristine	is used for	ALL
+L-asparaginase	is used for	ALL
+rituximab	is used for	CLL
+ibrutinib	is used for	CLL
+venetoclax	is used for	CLL
+granulocyte colony-stimulating factor	is used for	supportive care in leukemia
+transfusion	is used for	severe anemia
+red blood cell transfusion	is used for	severe anemia
+platelet transfusion	is used for	thrombocytopenia
+remission	is achieved with	induction chemotherapy
+remission	improves	survival
+survival	depends on	prognosis
+pediatric patients	have	better prognosis
+allogeneic transplant	improves	survival
+graft-versus-host disease	is a complication of	allogeneic transplant
+pharmacogenomics	informs	prognosis in leukemia
+FLT3-ITD mutation	is associated with	poor prognosis in AML
+RUNX1-RUNX1T1	is a fusion gene	associated with	AML (M2)
+t(8;21)	is a cytogenetic abnormality	found in	AML
+inv(16)	is a cytogenetic abnormality	found in	AML
+t(9;22)	is a cytogenetic abnormality	found in	CML
+AML	can present with	anemia
+ALL	can present with	bone pain
+CLL	presents with	lymphocytosis
+relapse	requires	salvage therapy
+salvage therapy	includes	high-dose chemotherapy
+high-dose chemotherapy	used for	salvage therapy
+CR	stands for	complete remission
+leukemia stem cells	drive	disease persistence
+central nervous system relapse	occurs after	leukemia therapy
+immunotherapy	is used for	leukemia
+CAR-T cell therapy	is a form of	immunotherapy
+ALL	often treated with	pediatric regimens
+adult ALL	has	worse prognosis relative to pediatric
+CML blast crisis	is a phase of	CML
+tyrosine kinase inhibitor resistance	leads to	disease progression
+BCR-ABL1	is expressed in	CML
+disease-free survival	is a measure of	leukemia outcome
+overall survival	is a measure of	leukemia outcome
+improved survival	is associated with	early transplant
+allogeneic donor	must be	HLA-matched
+HLA matching	improves	transplant outcome
+AML	treated with	cytarabine-based chemotherapy
+APL	managed with	ATRA
+APL	managed with	arsenic trioxide
+adult ALL	responds to	vincristine
+CAR-T cell therapy	requires	lymphodepletion
+CR	indicates	remission
+remission duration	affects	long-term survival
+minimal residual disease	negativity	predicts	better survival
+hematopoietic stem cell	transplantation	enables	immune reconstitution
 neutropenia	predisposes to	infection
-infections	lead to	hospitalization
-graft-versus-host disease	is a complication of	allogeneic stem cell transplant
-transplant-related mortality	is reduced by	HLA matching
-HLA matching	essential for	allogeneic transplantation
-HLA mismatch	increases risk of	graft-versus-host disease
-risk stratification	informs	treatment intensity in leukemia
-age	influences	leukemia prognosis
-performance status	influences	treatment choice in leukemia
-cytogenetic risk	correlates with	survival in leukemia
-mutational status	influences	targeted therapy choice
-FLT3 mutation	associated with	poor prognosis
-NPM1 mutation	associated with	favorable prognosis
-TP53 mutation	associated with	poor prognosis
-core-binding factor leukemia	has	favorable prognosis
-BCL2 overexpression	associated with	leukemia phenotype
-hypomethylating agent	used for	AML in elderly
-azacitidine	is a	hypomethylating agent
-decitabine	is a	hypomethylating agent
-venetoclax	used for	AML treatment
-IDH1 mutation	targeted by	ivosidenib
-IDH2 mutation	targeted by	enasidenib
-AML treated with	venetoclax-based therapy
-CML	treated with	tyrosine kinase inhibitors
-tyrosine kinase inhibitors	used for	CML
-imatinib	is a	BCR-ABL tyrosine kinase inhibitor
-dasatinib	is a	BCR-ABL tyrosine kinase inhibitor
-nilotinib	is a	BCR-ABL tyrosine kinase inhibitor
-CML progresses to	blast crisis
-blast crisis	marks	disease progression in CML
-CNS leukemia	involves	central nervous system
-intrathecal methotrexate	used for	CNS leukemia
-CNS leukemia	worsens	prognosis
-opportunistic infections	occur in	leukemia patients on chemotherapy
-neutropenic fever	presents in	leukemia therapy
-granulocyte colony-stimulating factor	used for	neutropenia management
-G-CSF	reduces	febrile neutropenia
-febrile neutropenia	increases	hospitalization duration
-pancytopenia	seen in	leukemia
-pancytopenia	results in	fatigue
-transfusion	supports	leukemia treatment
-platelet transfusion	treats	bleeding risk in leukemia
-red blood cell transfusion	treats	anemia in leukemia
-complex karyotype	associated with	poor prognosis in AML
-relapse	occurs after	remission
-induction therapy	aims for	remission
-MRD status	guides	prognosis
+neutropenia	duration	affects	infection risk
+steroid therapy	reduces	inflammation
+steroid therapy	increases	infection risk
+immunoglobulin levels	influence	infection risk
+platelet count	correlates with	bleeding risk
+p53 pathway	influences	cell cycle control
+BCL-2 family	regulates	apoptosis
+cancer-testis antigen	expressed in	leukemia
+hypomethylating agents	used for	myelodysplastic syndrome
+myelodysplastic syndrome	predisposes to	leukemia
+allogeneic donor	must be	HLA-identical
+HLA typing	guides	donor selection
+donor chimerism	measures	engraftment
+engraftment	indicates	transplant success
+CD19 expression	identifies	B-ALL
+CD20 expression	identifies	B-ALL
+cytoplasmic PAS	used for	leukemia diagnosis
+TdT expression	indicates	lymphoblastic leukemia
+corticoid response	predicts	ALL prognosis
+dexamethasone	used for	ALL
+hydroxyurea	used for	cytoreduction in leukemia
+cancer vaccination	under investigation for	leukemia
+resistance mutations	complicate	targeted therapy in leukemia
+ALL relapse	occurs after	initial remission
+AML relapse	occurs after	initial remission

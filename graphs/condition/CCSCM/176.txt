@@ -1,100 +1,100 @@
-contraception	prevents	pregnancy
-intrauterine device	prevents	pregnancy
-copper intrauterine device	prevents	pregnancy
-hormonal intrauterine device	prevents	pregnancy
-oral contraceptive pill	suppresses	ovulation
-combined oral contraceptive	suppresses	ovulation
-progestin-only pill	suppresses	ovulation
-implant	prevents	pregnancy
-levonorgestrel implant	prevents	pregnancy
-barrier method	reduces	pregnancy
-condom	reduces	pregnancy
-diaphragm	reduces	pregnancy
-cervical cap	reduces	pregnancy
-spermicide	used for	contraception
-contraceptive patch	used for	contraception
-contraceptive vaginal ring	used for	contraception
-injectable contraception	used for	contraception
-depot medroxyprogesterone acetate	used for	contraception
-vasectomy	provides	permanent contraception
-tubal ligation	provides	permanent contraception
-female sterilization	provides	permanent contraception
-emergency contraception	reduces	pregnancy
-natural family planning	uses	cycle data
-fertility awareness method	relies on	cycle tracking
-preconception counseling	improves	pregnancy planning
-family planning	improves	birth spacing
-sterilization	provides	permanent contraception
-fertility clinic	offers	fertility services
-reproductive endocrinology	specializes in	infertility
-assisted reproductive technology	used for	infertility
-in vitro fertilization	used for	infertility
-intracytoplasmic sperm injection	used for	infertility
-ovulation induction	used for	infertility
-intrauterine insemination	used for	infertility
-donor sperm	used for	infertility
-donor egg	used for	infertility
-embryo transfer	component of	IVF
-embryo cryopreservation	used for	fertility preservation
-oocyte cryopreservation	used for	fertility preservation
-preimplantation genetic testing	used for	fetal screening
-prenatal care	improves	pregnancy outcomes
-prenatal vitamins	taken for	pregnancy support
-fetal ultrasound	used for	fetal assessment
-genetic screening	performed for	pregnancy planning
-preconception health	improves	fertility
-contraceptive counseling	improves	adherence to contraception
-breastfeeding	provides	natural contraception
-lactational amenorrhea method	provides	contraception
-postpartum contraception planning	guides	family planning
-luteal phase	regulated by	progesterone
-menstrual cycle	length relates to	fertility
-menopause	ends	fertility
-perimenopause	reduces	fertility
-age	reduces	fertility
-weight	influences	contraception effectiveness
-drug interactions	reduce	contraception effectiveness
-antibiotics	reduce	oral contraceptive effectiveness
-rifampin	reduces	oral contraceptive effectiveness
-antiretroviral therapy	interacts with	contraception
-smoking	contraindicated in	estrogen-containing contraception
-age	influences	contraceptive choice
-blood pressure	monitored during	contraception use
-thrombosis risk	increased by	estrogen-containing contraception
-liver disease	contraindication for	estrogen-containing contraception
-cardiovascular risk	affected by	contraception choice
-pregnancy test	used for	confirm pregnancy
-urine pregnancy test	used for	pregnancy confirmation
-serum hCG	used for	pregnancy confirmation
-birth plan	developed with	patient
-prenatal screening	detects	fetal abnormalities
-fetal anomaly	detected by	prenatal screening
-ultrasound	used for	fetal development assessment
-birth outcome	associated with	prenatal care
-neonatal outcome	improved by	prenatal care
-cesarean section	used for	delivery
-vaginal delivery	preferred when	conditions permit
-pregnancy	ends with	birth
-preterm birth	risk increased by	maternal age
-gestational age	estimated by	ultrasound
-fetal growth restriction	associated with	maternal conditions
-gestational diabetes	managed with	dietary therapy
-hypertension	complicates	pregnancy
-preeclampsia	risk factors include	nulliparity
-beta-hCG	indicate	pregnancy viability
-ectopic pregnancy	risk factors include	tubal damage
-uterus	supports	pregnancy
-placenta	provides	nutrients to fetus
-amniotic fluid	surrounds	fetus
-cord blood	contains	stem cells
-clinical guideline	recommends	postpartum contraception
-public health program	promotes	family planning
-postpartum contraception	duration of effectiveness	depends on method
-long-acting reversible contraception	reduces	unintended pregnancies
-progestin-only methods	preferred in	lactation
-estrogen-containing contraception	contraindicated in	breastfeeding within postpartum period
-contraception adherence	essential for	effectiveness
-counseling	improves	method uptake
-fertility preservation	option for	gonadotoxic therapy
-fertility decline	associated with	age
-assisted reproduction outcomes	depend on	embryo quality
+combined oral contraceptives	reduces	pregnancy risk
+combined oral contraceptives	reduces	unintended pregnancy
+combined oral contraceptives	is a	hormonal contraception
+combined oral contraceptives	requires	prescription
+progestin-only pill	reduces	estrogen exposure
+progestin-only pill	contains	progestin
+oral contraceptives	include	estrogen and progestin
+oral contraceptives	are a	hormonal contraception
+IUD	prevents	pregnancy
+copper IUD	prevents	pregnancy
+levonorgestrel IUD	prevents	pregnancy
+IUD	is a	long-acting reversible contraception
+copper IUD	is a	nonhormonal contraception
+levonorgestrel IUD	is a	progestin-releasing device
+implant	provides	contraception
+etonogestrel implant	provides	contraception
+implant	is a	long-acting contraception
+condom	prevents	pregnancy
+diaphragm	provides	barrier contraception
+cervical cap	provides	barrier contraception
+sponge	provides	barrier contraception
+spermicide	provides	barrier contraception
+fertility awareness methods	are	nonpharmacologic contraception
+lactational amenorrhea method	is a	natural contraception
+sterilization	is a	permanent contraception
+tubal ligation	is a	female sterilization
+vasectomy	is a	male sterilization
+preconception counseling	offers	fertility planning
+fertility planning	involves	ovulation tracking
+calendar method	is a	fertility awareness method
+hormonal contraception	includes	estrogen-containing products
+estrogen-containing products	increase	thromboembolism risk
+estrogen-containing contraception	contraindicated in	thromboembolism history
+combined hormonal contraception	increases	blood pressure
+antibiotics	may reduce	oral contraceptive efficacy
+rifampin	reduces	contraceptive efficacy
+carbamazepine	reduces	contraceptive efficacy
+phenytoin	reduces	contraceptive efficacy
+topiramate	reduces	contraceptive efficacy
+antiretroviral therapy	reduces	contraceptive efficacy
+ethinyl estradiol	is a	estrogen
+levonorgestrel	is a	progestin
+etonogestrel	is a	progestin
+norelgestromin	is a	progestin
+bleeding changes	occur with	IUD
+amenorrhea	occurs with	progestin-only contraception
+irregular bleeding	occurs with	implant
+weight gain	reported with	hormonal contraception
+mood changes	reported with	hormonal contraception
+headache	reported with	hormonal contraception
+breast tenderness	occurs with	hormonal contraception
+bone density changes	associated with	long-acting progestin implants
+IUD	increases	perforation risk
+copper IUD	increases	menstrual bleeding
+levonorgestrel IUD	reduces	menstrual bleeding
+pregnancy test	detects	pregnancy
+hCG	indicates	pregnancy
+breastfeeding	delays	return of fertility
+postpartum contraception	is a	consideration in postpartum period
+family planning	includes	contraception management
+contraception	reduces	maternal mortality
+unintended pregnancy	increases	neonatal morbidity
+contraception counseling	improves	adherence to contraception
+multi-month contraception	improves	adherence
+adherence	influences	contraception effectiveness
+fertility desire	influences	contraception choice
+smoking	affects	contraception choice
+age	influences	contraception selection
+economic status	influences	access to contraception
+education level	influences	contraception adherence
+health system	supports	contraception access
+policy	shapes	contraception access
+reproductive planning	informs	contraception strategy
+contraception failure	leads to	unintended pregnancy
+safety profile	differs between	contraception methods
+PID risk	increases with	IUD insertion
+PID risk	mitigated by	preinsertion screening
+rapid pregnancy test	confirms	pregnancy status
+prenatal vitamins	provide	nutrients
+folic acid supplementation	reduces	neural tube defects
+fertility window	defined by	ovulation
+ovulation	inhibited by	hormonal contraception
+monthly cycle	pattern is	regular with contraception
+contraception	increases	birth spacing
+birth spacing	achieved by	contraception
+preconception health	improves	pregnancy outcomes
+pregnancy outcome	influenced by	contraception method
+fertility evaluation	performed during	infertility workup
+fertility status	influences	contraception planning
+contraception method	chosen according to	patient preference
+patient preference	influences	contraception method
+law	shapes	contraception access
+reproductive health	improves	maternal outcomes
+infant outcomes	improved by	birth spacing
+family planning services	improve	contraception uptake
+cycle tracking	supports	fertility planning
+ovulation predictor	aids	fertility planning
+preconception health	encourages	vaccination uptake
+contraindication	excludes	contraception use
+birth rate	influenced by	contraception use

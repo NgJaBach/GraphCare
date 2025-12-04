@@ -1,0 +1,100 @@
+x-ray	is a	diagnostic procedure
+x-ray	used for	fracture detection
+x-ray	used for	pneumonia assessment
+x-ray	detects	foreign body
+x-ray	reveals	pneumothorax
+x-ray	reveals	calcification
+x-ray	guides	radiotherapy planning
+x-ray	correlates with	ct findings
+x-ray	predicts	hospitalization risk
+x-ray	indicates	pulmonary edema
+x-ray	improves	diagnostic confidence
+x-ray	complements	ct findings
+ct scan	is a	diagnostic procedure
+ct scan	used for	chest imaging
+ct scan	detects	pulmonary embolism
+ct scan	detects	aortic dissection
+ct scan	visualizes	abscess
+ct scan	reveals	tumor
+ct scan	detects	fracture
+ct scan	assesses	organ perfusion
+ct scan	guides	biopsy planning
+mri	is a	diagnostic procedure
+mri	used for	brain imaging
+mri	detects	demyelination
+mri	reveals	edema
+mri	visualizes	tumor
+mri	assesses	soft tissue injury
+ultrasound	is a	diagnostic procedure
+ultrasound	used for	pregnancy assessment
+ultrasound	detects	fetal anomaly
+ultrasound	visualizes	fluid collection
+ultrasound	guides	needle placement
+ultrasound	assesses	organ size
+pet scan	is a	diagnostic procedure
+pet scan	used for	metabolic imaging
+pet scan	detects	tumor activity
+pet scan	reveals	metastasis
+eeg	is a	diagnostic procedure
+eeg	used for	seizure detection
+eeg	detects	epileptiform activity
+ecg	is a	diagnostic procedure
+ecg	used for	rhythm assessment
+ecg	detects	arrhythmia
+ecg	predicts	sudden cardiac death risk
+endoscopy	is a	diagnostic procedure
+endoscopy	used for	gastrointestinal assessment
+endoscopy	detects	ulcer
+endoscopy	reveals	bleeding
+endoscopy	guides	biopsy
+biopsy	is a	diagnostic procedure
+biopsy	used for	histology assessment
+biopsy	detects	malignancy
+biopsy	confirms	cancer
+colonoscopy	is a	diagnostic procedure
+colonoscopy	used for	colon imaging
+colonoscopy	detects	polyps
+colonoscopy	reveals	colorectal cancer
+bronchoscopy	is a	diagnostic procedure
+bronchoscopy	used for	airway assessment
+bronchoscopy	detects	obstruction
+bronchoscopy	obtains	biopsy
+laparoscopy	is a	diagnostic procedure
+laparoscopy	used for	abdominal assessment
+laparoscopy	detects	intraabdominal pathology
+chest x-ray	is a	diagnostic procedure
+chest x-ray	used for	pneumonia assessment
+dexa scan	is a	diagnostic procedure
+dexa scan	used for	osteoporosis assessment
+dexa scan	predicts	fracture risk
+fluoroscopy	is a	diagnostic procedure
+fluoroscopy	used for	dynamic imaging
+fluoroscopy	detects	reflux
+spect	is a	diagnostic procedure
+spect	used for	myocardial perfusion imaging
+spect	detects	ischemia
+transvaginal ultrasound	is a	diagnostic procedure
+transvaginal ultrasound	used for	pregnancy assessment
+pap smear	is a	diagnostic procedure
+pap smear	used for	cervical cancer screening
+pap smear	detects	dysplasia
+guided biopsy	is a	diagnostic procedure
+ultrasound-guided biopsy	is a	diagnostic procedure
+needle biopsy	is a	diagnostic procedure
+needle biopsy	used for	cancer diagnosis
+fine-needle aspiration	is a	diagnostic procedure
+fine-needle aspiration	used for	cytology assessment
+colposcopy	is a	diagnostic procedure
+colposcopy	used for	cervical screening
+colposcopy	detects	precancerous lesion
+mammography	is a	diagnostic procedure
+mammography	used for	breast cancer screening
+mammography	detects	calcifications
+mammography	visualizes	mass
+angiography	is a	diagnostic procedure
+angiography	used for	vascular imaging
+angiography	detects	stenosis
+angiography	reveals	aneurysm
+bone scan	is a	diagnostic procedure
+bone scan	used for	bone infection detection
+bone scan	detects	metastasis

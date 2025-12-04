@@ -1,0 +1,99 @@
+routine chest x-ray	is a	imaging modality
+routine chest x-ray	is a	diagnostic test
+routine chest x-ray	is used for	screening
+routine chest x-ray	can detect	pneumonia
+routine chest x-ray	can detect	consolidation
+routine chest x-ray	can reveal	cardiomegaly
+routine chest x-ray	can indicate	edema
+routine chest x-ray	can show	pleural effusion
+routine chest x-ray	can reveal	atelectasis
+routine chest x-ray	can indicate	pneumothorax
+routine chest x-ray	can show	interstitial markings
+routine chest x-ray	is ordered for	preoperative evaluation
+routine chest x-ray	is used in	trauma assessment
+routine chest x-ray	provides	baseline image
+routine chest x-ray	helps assess	heart size
+routine chest x-ray	yields	radiographic opacity
+routine chest x-ray	is part of	initial evaluation
+routine chest x-ray	supports	differential diagnosis
+routine chest x-ray	has	false positives
+routine chest x-ray	has	false negatives
+routine chest x-ray	can help predict	hospital admission
+routine chest x-ray	can help predict	mortality
+routine chest x-ray	can help predict	readmission
+routine chest x-ray	can assist in	triage
+routine chest x-ray	indicates	aging changes
+routine chest x-ray	may show	calcification
+routine chest x-ray	can show	granuloma
+routine chest x-ray	is useful for	infection monitoring
+routine chest x-ray	is used for	follow-up
+routine chest x-ray	shows	aortic knob enlargement
+routine chest x-ray	shows	mediastinal widening
+routine chest x-ray	shows	bronchitic markings
+routine chest x-ray	reveals	perihilar fullness
+routine chest x-ray	reveals	basilar atelectasis
+routine chest x-ray	reveals	subsegmental atelectasis
+routine chest x-ray	reveals	edema pattern
+routine chest x-ray	reveals	interstitial edema
+routine chest x-ray	reveals	alveolar edema
+routine chest x-ray	reveals	calcified granuloma
+routine chest x-ray	reveals	rib fracture
+routine chest x-ray	shows	sternotomy wires
+routine chest x-ray	shows	pacemaker leads
+routine chest x-ray	shows	scoliosis
+routine chest x-ray	shows	degenerative spine changes
+routine chest x-ray	shows	osteophyte formation
+routine chest x-ray	shows	osteoporosis markers
+routine chest x-ray	shows	bronchovascular markings
+routine chest x-ray	shows	hilar enlargement
+routine chest x-ray	shows	mediastinal mass
+routine chest x-ray	shows	vascular calcifications
+routine chest x-ray	shows	pericardial effusion
+routine chest x-ray	shows	chamber enlargement
+routine chest x-ray	suggests	congestive signs
+routine chest x-ray	suggests	vascular congestion
+routine chest x-ray	suggests	chronic bronchitis
+routine chest x-ray	suggests	pneumonia pattern
+routine chest x-ray	suggests	tuberculosis signs
+routine chest x-ray	suggests	edema pattern
+routine chest x-ray	can indicate	congestive heart failure
+routine chest x-ray	can indicate	acute edema
+routine chest x-ray	can indicate	cardiomyopathy
+routine chest x-ray	can indicate	aortic aneurysm
+routine chest x-ray	can indicate	interstitial lung disease
+routine chest x-ray	can indicate	pulmonary hypertension
+routine chest x-ray	can indicate	emphysema
+routine chest x-ray	can indicate	bronchiectasis
+routine chest x-ray	can indicate	scoliosis progression
+routine chest x-ray	can reveal	bronchial thickening
+routine chest x-ray	can reveal	granulomatous disease
+routine chest x-ray	can reveal	fungal infection signs
+routine chest x-ray	can reveal	solid mass
+routine chest x-ray	can reveal	cavitation
+routine chest x-ray	can reveal	effusion layering
+routine chest x-ray	can reveal	posterior shadowing
+routine chest x-ray	can reveal	random granulomata
+routine chest x-ray	can reveal	retrocardiac shadow
+routine chest x-ray	shows	low lung volumes
+routine chest x-ray	used for	trauma screening
+routine chest x-ray	used in	preoperative clearance
+routine chest x-ray	supports	clinical suspicion
+routine chest x-ray	confirms	suspected infection
+routine chest x-ray	excludes	major pathology
+routine chest x-ray	documents	radiographic findings
+routine chest x-ray	records	imaging sequence
+routine chest x-ray	evaluates	cardiopulmonary silhouette
+routine chest x-ray	monitors	disease progression
+routine chest x-ray	informs	treatment decisions
+routine chest x-ray	influences	discharge planning
+routine chest x-ray	correlates with	chest CT
+routine chest x-ray	aligns with	clinical assessment
+routine chest x-ray	assists in	patient risk stratification
+routine chest x-ray	assists in	abnormality detection
+routine chest x-ray	offers	initial assessment
+routine chest x-ray	yields	imaging documentation
+routine chest x-ray	contributes to	diagnostic workflow
+routine chest x-ray	influences	management plan
+routine chest x-ray	provides	comparison baseline
+routine chest x-ray	detects	pulmonary edema signs
+routine chest x-ray	escalates	monitoring frequency

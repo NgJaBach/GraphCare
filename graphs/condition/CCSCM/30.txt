@@ -1,103 +1,100 @@
 testicular cancer	is a	germ cell tumor
-testicular cancer	is a	malignant tumor
-testicular cancer	arises from	germ cells
-testicular cancer	occurs in	young men
-testicular cancer	age distribution	young adults
-family history	increases risk of	testicular cancer
-Klinefelter syndrome	increases risk of	testicular cancer
-infertility	associated with	testicular cancer
-testicular cancer	presents with	painless testicular mass
-testicular cancer	presents with	testicular swelling
+testicular cancer	includes	seminoma
+testicular cancer	includes	non-seminomatous germ cell tumor
+seminoma	is a	germ cell tumor
+non-seminomatous germ cell tumor	is a	germ cell tumor
+non-seminomatous germ cell tumor	includes	embryonal carcinoma
+non-seminomatous germ cell tumor	includes	yolk sac tumor
+non-seminomatous germ cell tumor	includes	choriocarcinoma
+non-seminomatous germ cell tumor	includes	teratoma
+testicular cancer	presents with	scrotal mass
 testicular cancer	presents with	testicular lump
-alpha-fetoprotein	is elevated in	testicular cancer
-beta-hCG	is elevated in	testicular cancer
-LDH	is elevated in	testicular cancer
-seminoma	is a	germ cell tumor subtype
-non-seminomatous germ cell tumor	is a	germ cell tumor subtype
-embryonal carcinoma	is a	non-seminomatous germ cell tumor
-yolk sac tumor	is a	non-seminomatous germ cell tumor
-choriocarcinoma	is a	non-seminomatous germ cell tumor
-teratoma	is a	non-seminomatous germ cell tumor
-scrotal ultrasound	used for	diagnosis of testicular cancer
-CT scan	used for	staging of testicular cancer
-MRI	used for	staging of testicular cancer
-PET-CT	used for	staging of testicular cancer
-alpha-fetoprotein	used as	tumor marker in testicular cancer
-beta-hCG	used as	tumor marker in testicular cancer
-LDH	used as	tumor marker in testicular cancer
-testicular cancer	staged by	imaging studies
-testicular cancer	staged by	AJCC stage
-orchiectomy	performed to	remove testis
-orchiectomy	removes	testis
-orchiectomy	provides	tissue for pathology
-retroperitoneal lymph node dissection	performed to	remove nodal metastases
-BEP chemotherapy	regimen for	testicular cancer
-bleomycin	causes	pulmonary toxicity
-etoposide	causes	myelosuppression
-cisplatin	causes	nephrotoxicity
-cisplatin	causes	ototoxicity
-BEP chemotherapy	includes	bleomycin
-BEP chemotherapy	includes	etoposide
-BEP chemotherapy	includes	cisplatin
+testicular cancer	predominantly affects	young men
+cryptorchidism	is a	risk factor for testicular cancer
+family history	is a	risk factor for testicular cancer
+testicular cancer	diagnosed by	scrotal ultrasound
+testicular cancer	diagnosed by	tumor markers
+AFP	is a	tumor marker for testicular cancer
+hCG	is a	tumor marker for testicular cancer
+LDH	is a	tumor marker for testicular cancer
+non-seminomatous germ cell tumor	elevates	AFP
+non-seminomatous germ cell tumor	elevates	hCG
+non-seminomatous germ cell tumor	elevates	LDH
 seminoma	treated with	radiotherapy
-radiotherapy	used for	seminoma
-non-seminomatous germ cell tumor	treated with	chemotherapy
-surveillance	is management option for	stage I testicular cancer
-sperm banking	recommended for	patients with testicular cancer
-fertility preservation	includes	sperm cryopreservation
-bilateral orchiectomy	causes	hypogonadism
-hormone replacement therapy	used for	hypogonadism
-testosterone	produced by	testes
-testosterone replacement therapy	maintains	secondary sexual characteristics
-testicular cancer	metastasizes to	lungs
-testicular cancer	metastasizes to	liver
-testicular cancer	metastasizes to	brain
-testicular cancer	metastasizes to	bone
-lung metastasis	presents with	cough
-liver metastasis	presents with	abdominal pain
-brain metastasis	presents with	headache
-bone metastasis	presents with	bone pain
-stage I disease	has	favorable prognosis
-stage II disease	has	intermediate prognosis
-stage III disease	has	poor prognosis
-tumor marker normalization	indicates	response to therapy
-complete remission	achieved by	chemotherapy
-partial remission	achieved by	chemotherapy
-surgery first approach	used for	localized disease
-immunotherapy	not approved for	testicular cancer
-late effects	include	secondary malignancies
-gonadotoxic therapy	increases risk of	infertility
-adolescents	require	fertility counseling
-sperm count	declines after	chemotherapy
-late relapse	occurs after	two years
-secondary malignancy	risk after	chemotherapy
-clinical guidelines	update	recommendations for testicular cancer
-sperm cryopreservation	preserves	fertility potential
+seminoma	responds to	radiotherapy
+testicular cancer	treated with	orchiectomy
+orchiectomy	followed by	surveillance
+testicular cancer	treated with	chemotherapy
+testicular cancer	treated with	BEP regimen
+BEP regimen	includes	bleomycin
+BEP regimen	includes	etoposide
+BEP regimen	includes	cisplatin
+non-seminomatous germ cell tumor	treated with	platinum-based chemotherapy
+platinum-based chemotherapy	leads to	tumor shrinkage
+testicular cancer	may cause	infertility
+fertility preservation	recommended for	patients with testicular cancer
+sperm banking	is option for	fertility preservation
+sperm cryopreservation	is option for	fertility preservation
+testicular cancer	has	favorable prognosis
+testicular cancer	has	high cure rate
+staging	uses	retroperitoneal lymph node assessment
+retroperitoneal lymph node dissection	used for	residual disease
+RPLND	provides	staging information
+tumor markers	monitored for	disease status
+surveillance	follows	orchiectomy
+surveillance	includes	regular tumor marker testing
+testicular cancer	risk factors	cryptorchidism
+contralateral testis	at risk for	second primary tumor
 age at diagnosis	influences	prognosis
-unilateral orchiectomy	preserves	testosterone production
-bilateral orchiectomy	causes	hypogonadism
-clinical guidelines	update	recommendations for testicular cancer
-fertility preservation	preserves	fertility potential
-paternity	preserved by	fertility preservation
-contralateral testicular tumor	occurs in	rare cases
-inguinal orchiectomy	preferred approach for	testicular cancer
-scrotal violation	avoided in	testicular cancer surgery
-RPLND	indicated for	non-seminomatous germ cell tumor with metastasis
-late relapse	occurs after	two years
-sperm count	declines after	chemotherapy
-testicular cancer	survival	high
-metastasis pattern	includes	retroperitoneal lymph nodes
-retroperitoneal lymph nodes	drainage	testicular venous drainage
-cancer staging	updated by	imaging results
-marker normalization	correlates with	treatment success
-clinical trial	offers	novel therapies for testicular cancer
-adolescent patients	require	fertility counseling
-post-therapy surveillance	reduces	recurrence risk
-immunotherapy	not approved for	testicular cancer
-late effects	include	secondary malignancies
-gonadotoxic therapy	increases risk of	infertility
-age at diagnosis	influences	prognosis
-unilateral orchiectomy	preserves	testosterone production
-bilateral orchiectomy	causes	hypogonadism
-clinical guidelines	update	recommendations for testicular cancer
-fertility preservation	preserves	fertility potential
+testicular cancer	peak incidence in	young adults
+testicular cancer	most often affects	one testis
+testicular cancer	can be	unilateral
+ultrasound	detects	testicular mass
+CT scan	used for	staging of testicular cancer
+chest CT	used for	staging of testicular cancer
+abdomen CT	used for	staging of testicular cancer
+RPLND	provides	disease control in non-seminomatous tumor
+chemotherapy	reduces	distant metastasis
+radiotherapy	reduces	local recurrence
+stage I seminoma	treated with	adjuvant radiotherapy
+stage I seminoma	may be treated with	surveillance
+stage II disease	treated with	radiotherapy or chemotherapy
+stage III disease	treated with	chemotherapy
+platinum-based chemotherapy	improves	survival
+bleomycin	is component of	BEP regimen
+etoposide	is component of	BEP regimen
+cisplatin	is component of	BEP regimen
+testicular cancer	recurrence risk	depends on stage
+testicular cancer	prognosis	depends on stage and histology
+testicular cancer	prognosis	favorable with early detection
+testicular cancer survivors	require	long-term follow-up
+survivorship care	includes	tumor marker monitoring
+sperm banking	enables	fertility preservation
+fertility preservation	supports	future fertility
+hypogonadism	may result from	orchiectomy
+hypogonadism	managed with	testosterone therapy
+hCG elevation	signals	choriocarcinoma component
+AFP elevation	signals	yolk sac or embryonal component
+LDH elevation	signals	tumor burden
+imaging	used for	relapse detection
+tumor marker testing	part of	surveillance protocol
+intrinsic chemosensitivity	is high for	germ cell tumors
+platinum sensitivity	is high for	germ cell tumors
+brain metastases	are rare in	testicular cancer
+bone metastases	are rare in	testicular cancer
+sperm count	may recover after	chemotherapy
+fertility outcomes	depend on	histology
+seminoma radiotherapy	reduces	relapse rate
+radiotherapy increases	risk of secondary malignancy
+sperm banking	recommended before	chemotherapy
+inguinal orchiectomy	approach for	removal of testis
+inguinal orchiectomy	is preferred for	suspected testicular cancer
+biopsy	not recommended for	suspected testicular cancer
+stage II disease	requires	combination therapy
+stage III disease	requires	combination therapy
+testicular cancer	surveillance schedule	frequency after treatment
+tumor markers	may normalize	after therapy
+surveillance imaging	includes	CT scans
+survival	is high	with early treatment
+histology	influences	treatment plan
+practice guidelines	support	multidisciplinary care

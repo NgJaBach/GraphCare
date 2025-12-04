@@ -1,100 +1,100 @@
-diabetes mellitus with complications	increases risk of	nephropathy
-diabetes mellitus with complications	increases risk of	retinopathy
-diabetes mellitus with complications	increases risk of	neuropathy
-diabetes mellitus with complications	increases risk of	cardiovascular disease
-diabetes mellitus with complications	increases risk of	myocardial infarction
-diabetes mellitus with complications	increases risk of	stroke
-diabetes mellitus with complications	increases risk of	peripheral arterial disease
-diabetes mellitus with complications	increases risk of	foot ulcer
-diabetes mellitus with complications	increases risk of	infection
-diabetes mellitus with complications	increases risk of	hospitalization
-diabetes mellitus with complications	requires	insulin therapy
-diabetes mellitus with complications	managed with	metformin
-diabetes mellitus with complications	managed with	ACE inhibitors
-diabetes mellitus with complications	managed with	ARBs
-diabetes mellitus with complications	managed with	statins
-diabetes mellitus with complications	managed with	antiplatelet therapy
-diabetes mellitus with complications	associated with	hypertension
-diabetes mellitus with complications	associated with	hyperlipidemia
-diabetes mellitus with complications	associated with	obesity
+diabetes mellitus with complications	associated with	neuropathy
+diabetes mellitus with complications	associated with	retinopathy
+diabetes mellitus with complications	associated with	nephropathy
+diabetes mellitus with complications	associated with	foot ulcer
+diabetes mellitus with complications	associated with	infection
+diabetes mellitus with complications	associated with	cardiovascular disease
+diabetes mellitus with complications	associated with	peripheral arterial disease
+diabetes mellitus with complications	associated with	stroke
+diabetes mellitus with complications	associated with	heart failure
+diabetes mellitus with complications	associated with	end-stage renal disease
+diabetes mellitus with complications	associated with	dialysis
+diabetes mellitus with complications	associated with	hospitalization
+diabetes mellitus with complications	associated with	readmission
+diabetes mellitus with complications	associated with	mortality
+diabetes mellitus with complications	increases	cost of care
+diabetes mellitus with complications	increases	length of stay
+diabetes mellitus with complications	increases	ICU admission
 diabetes mellitus with complications	predicts	mortality
-diabetes mellitus with complications	predicts	readmission
-diabetes mellitus with complications	correlates with	albuminuria
-diabetes mellitus with complications	correlates with	microalbuminuria
-diabetes mellitus with complications	progresses to	end-stage renal disease
-diabetes mellitus with complications	progresses to	dialysis
-diabetes mellitus with complications	progresses to	kidney failure
-diabetes mellitus with complications	progresses to	nephropathy
-diabetes mellitus with complications	associated with	nephropathy duration
-diabetes mellitus with complications	associated with	duration of diabetes
-diabetes mellitus with complications	influenced by	age
-diabetes mellitus with complications	influenced by	sex
-diabetes mellitus with complications	increases risk of	blindness
-diabetes mellitus with complications	increases risk of	cataract
-diabetes mellitus with complications	associated with	autonomic neuropathy
-diabetes mellitus with complications	associated with	gastroparesis
-diabetes mellitus with complications	associated with	erectile dysfunction
+diabetic neuropathy	increases	foot ulcer
+diabetic neuropathy	increases	infection
+diabetic neuropathy	increases	falls
+diabetic neuropathy	causes	gait impairment
+diabetic retinopathy	reduces	vision
+diabetic nephropathy	progresses to	end-stage renal disease
+diabetic nephropathy	increases	dialysis requirement
+diabetic foot ulcer	increases	amputation
+diabetic foot ulcer	delays	wound healing
+diabetic foot ulcer	predisposes to	infection
+foot infection	prolongs	hospitalization
+foot infection	increases	mortality
+peripheral arterial disease	increases	amputation
+hyperglycemia	worsens	wound healing
+hyperglycemia	increases	infection
+hypoglycemia	complicates	management
+infection	prolongs	hospital stay
+infection	increases	mortality
+cellulitis	increases	hospitalization
+sepsis	increases	mortality
+diabetes mellitus with complications	treated with	insulin
+diabetes mellitus with complications	treated with	metformin
+diabetes mellitus with complications	treated with	statin
+diabetes mellitus with complications	treated with	ACE inhibitor
+diabetes mellitus with complications	treated with	ARB
+diabetes mellitus with complications	treated with	SGLT2 inhibitor
+diabetes mellitus with complications	treated with	GLP-1 receptor agonist
+diabetes mellitus with complications	treated with	pioglitazone
+diabetes mellitus with complications	treated with	insulin pump
+diabetes mellitus with complications	treated with	continuous glucose monitor
+diabetes mellitus with complications	managed with	lifestyle modification
+diabetes mellitus with complications	recommended	vaccination
+nephropathy	progresses to	end-stage renal disease
+nephropathy	increases	dialysis requirement
+retinopathy	requires	ophthalmology referral
+foot ulcer	requires	debridement
+foot ulcer	requires	wound care
+infection	requires	antibiotics
+sepsis	increases	mortality
+glycemic control	predicts	complication risk
+HbA1c	reflects	glycemic control
+HbA1c	used for	glycemic control monitoring
+metformin	reduces	HbA1c
+insulin	reduces	hyperglycemia events
+statin	reduces	cholesterol
+ACE inhibitor	reduces	blood pressure
+ARB	reduces	blood pressure
+SGLT2 inhibitor	reduces	cardiovascular events
+GLP-1 receptor agonist	reduces	cardiovascular events
+pioglitazone	increases	fluid retention
+insulin therapy	increases	hypoglycemia risk
+continuous glucose monitor	enables	real-time monitoring
+diabetes mellitus with complications	managed with	multidisciplinary care
+multidisciplinary care	improves	outcomes
+hospitalization	increases	cost of care
+care coordination	improves	outcomes
+telemedicine	reduces	readmission
+nurse-led education	reduces	hospital stay
+older age	increases	complication risk
+smoking	increases	cardiovascular events
+hypertension	increases	cardiovascular risk
+dyslipidemia	associated with	atherosclerosis
+anemia	associated with	chronic kidney disease
+obesity	associated with	poor glycemic control
+socioeconomic status	associated with	readmission
+medication adherence	improves	outcomes
+adherence	reduces	hospital readmission
+education level	associated with	disease management
+home health	reduces	readmission
+infection	increases	cost of care
+urinary tract infection	increases	hospitalization
+end-stage renal disease	increases	mortality
+diabetes mellitus with complications	increases	antibiotic use
+older age	increases	mortality
+cardiovascular disease	increases	mortality
+diabetes mellitus with complications	associated with	microalbuminuria
+diabetes mellitus with complications	associated with	cataract
 diabetes mellitus with complications	associated with	neuropathic pain
-diabetes mellitus with complications	associated with	diabetic nephropathy
-diabetes mellitus with complications	increases risk of	proteinuria
-diabetes mellitus with complications	associated with	macrovascular events
-diabetes mellitus with complications	predicts	hospitalization length
-diabetes mellitus with complications	predicts	ICU admission
-diabetes mellitus with complications	associated with	anesthesia risk
-diabetes mellitus with complications	associated with	wound infection
-diabetes mellitus with complications	associated with	fracture risk
-diabetes mellitus with complications	increases risk of	osteoporosis
-diabetes mellitus with complications	associated with	periodontal disease
-diabetes mellitus with complications	increases risk of	dental caries
-diabetes mellitus with complications	associated with	skin ulcers
-diabetes mellitus with complications	increases risk of	amputation
-diabetes mellitus with complications	associated with	Charcot arthropathy
-diabetes mellitus with complications	is managed with	insulin analogs
-diabetes mellitus with complications	is managed with	GLP-1 receptor agonists
-diabetes mellitus with complications	is managed with	SGLT2 inhibitors
-diabetes mellitus with complications	associated with	lactic acidosis risk
-diabetes mellitus with complications	increases risk of	hypoglycemia
-diabetes mellitus with complications	associated with	ketoacidosis
-diabetes mellitus with complications	associated with	hyperglycemia
-diabetes mellitus with complications	requires	foot care
-diabetes mellitus with complications	requires	dietary education
-diabetes mellitus with complications	requires	blood pressure control
-diabetes mellitus with complications	monitored by	HbA1c
-diabetes mellitus with complications	monitored by	microalbumin test
-diabetes mellitus with complications	monitored by	eGFR
-diabetes mellitus with complications	monitored by	lipid panel
-diabetes mellitus with complications	monitored by	retinal exam
-diabetes mellitus with complications	monitored by	foot inspection
-diabetes mellitus with complications	associated with	peripheral neuropathy
-diabetes mellitus with complications	associated with	autonomic dysfunction
-diabetes mellitus with complications	associated with	vascular disease
-diabetes mellitus with complications	increases risk of	hospital readmission
-diabetes mellitus with complications	increases risk of	long-term dialysis
-diabetes mellitus with complications	increases risk of	cardiovascular death
-diabetes mellitus with complications	associated with	high blood pressure
-diabetes mellitus with complications	is a systemic disease
-diabetes mellitus with complications	is linked to	obesity
-diabetes mellitus with complications	is associated with	sleep apnea
-diabetes mellitus with complications	linked to	insulin resistance
-diabetes mellitus with complications	associated with	family history of diabetes
-diabetes mellitus with complications	associated with	metabolic syndrome
-diabetes mellitus with complications	increases risk of	diabetic ketoacidosis
-diabetes mellitus with complications	increases risk of	hyperosmolar hyperglycemic state
-diabetes mellitus with complications	shows	microvascular complications
-diabetes mellitus with complications	shows	macrovascular complications
-diabetes mellitus with complications	is correlated with	cardiovascular events
-diabetes mellitus with complications	increases risk of	chronic pain
-diabetes mellitus with complications	associated with	thyroid disorders
-diabetes mellitus with complications	associated with	liver disease
-diabetes mellitus with complications	associated with	anemia
-diabetes mellitus with complications	leads to	poor wound healing
-diabetes mellitus with complications	associated with	immune dysfunction
-diabetes mellitus with complications	predicts	hospitalization cost
-diabetes mellitus with complications	predicts	length of stay
-diabetes mellitus with complications	linked to	smoking
-diabetes mellitus with complications	linked to	alcohol use
 diabetes mellitus with complications	associated with	cognitive impairment
 diabetes mellitus with complications	associated with	depression
-diabetes mellitus with complications	linked to	obesity-related complications
-diabetes mellitus with complications	associated with	electrolyte disturbance
 diabetes mellitus with complications	associated with	malnutrition
+diabetes mellitus with complications	associated with	dehydration

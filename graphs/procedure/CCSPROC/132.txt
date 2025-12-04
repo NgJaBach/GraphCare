@@ -1,0 +1,111 @@
+hysterectomy	removes	uterus
+hysterectomy	treats	fibroid
+hysterectomy	performed for	abnormal uterine bleeding
+hysterectomy	indicated for	endometrial cancer
+uterine artery embolization	treats	fibroid
+myomectomy	treats	fibroid
+myomectomy	removes	fibroid
+endometrial ablation	treats	abnormal uterine bleeding
+endometrial ablation	reduces	menstrual blood loss
+tubal ligation	prevents	pregnancy
+laparoscopy	enables	tubal ligation
+colposcopy	used for	cervical cancer screening
+colposcopy	assesses	cervical dysplasia
+cone biopsy	treats	cervical dysplasia
+LEEP	treats	cervical dysplasia
+hysteroscopy	evaluates	intrauterine polyps
+hysteroscopy	removes	intrauterine device
+pelvic floor repair	treats	pelvic organ prolapse
+sacrocolpopexy	treats	vaginal prolapse
+vaginal repair	treats	vaginal prolapse
+uterine prolapse repair	treats	uterine prolapse
+vaginoplasty	reconstructs	vagina
+breast reconstruction	performed after	mastectomy
+breast augmentation	is a	cosmetic procedure
+lumpectomy	treats	breast cancer
+mastectomy	treats	breast cancer
+sentinel lymph node biopsy	performed during	breast cancer surgery
+axillary lymph node dissection	performed during	breast cancer surgery
+breast-conserving therapy	is a	treatment for breast cancer
+nipple-sparing mastectomy	treats	breast cancer
+skin-sparing mastectomy	treats	breast cancer
+breast reduction	reduces	breast volume
+breast reduction	relieves	back pain
+ovariectomy	removes	ovary
+salpingo-oophorectomy	removes	ovary
+ovarian cystectomy	removes	ovarian cyst
+oophorectomy	reduces	ovarian cancer risk
+radical trachelectomy	preserves	uterus
+radical trachelectomy	treats	cervical cancer
+vaginal reconstruction	reconstructs	vagina
+colpoplasty	repairs	vaginal introitus
+vaginal stenosis repair	treats	vaginal stenosis
+cervical cerclage	prevents	miscarriage
+uterine artery ligation	reduces	uterine bleeding
+uterine fibroid embolization	reduces	fibroid size
+colposcopic cervical biopsy	obtains	cervical tissue
+endometrial biopsy	obtains	endometrial tissue
+diagnostic laparoscopy	is a	diagnostic procedure
+laparoscopy-assisted hysterectomy	is a	surgical procedure
+robotic-assisted hysterectomy	is a	surgical procedure
+minilaparoscopy	reduces	recovery time
+vaginal hysterectomy	is a	surgical procedure
+pelvic lymphadenectomy	evaluates	lymph node metastasis
+pelvic exenteration	treats	advanced gynecologic cancer
+uterine-sparing surgery	preserves	uterus
+cytoreductive surgery	reduces	tumor burden
+hysterectomy	eliminates	uterus-related cancer risk
+uterine fibroid embolization	reduces	fibroid volume
+colposcopy-guided biopsy	obtains	cervical tissue
+intrauterine device insertion	inserts	intrauterine device
+intrauterine device removal	removes	intrauterine device
+breast implant replacement	replaces	breast implant
+mammography-guided biopsy	obtains	breast tissue
+breast-conserving surgery	reduces	recurrence
+neoadjuvant chemotherapy	shrinks	tumor
+adjuvant chemotherapy	reduces	recurrence
+hormone therapy	treats	hormone receptor-positive cancer
+ovarian transposition	preserves	ovarian function
+uterine artery ligation	reduces	uterine bleeding
+vaginal canal dilation	treats	vaginal stenosis
+vulvar biopsy	confirms	vulvar cancer
+vulvar surgery	treats	vulvar cancer
+fibroid resection	treats	fibroid
+fibroid resection	removes	fibroid
+hysteroscopic resection	treats	intrauterine polyp
+hysteroscopic resection	removes	polyps
+endometriosis excision	treats	endometriosis
+laparoscopic ovarian drilling	treats	PCOS
+ovarian drilling	treats	PCOS
+pelvic floor reconstruction	reconstructs	pelvic floor
+colposcopy	detects	cervical cancer
+vaginal cuff repair	repairs	vaginal cuff
+vaginal agenesis repair	treats	vaginal agenesis
+hysterectomy	eliminates	uterus-related cancer risk
+neovagina creation	creates	vagina
+uterine preservation	favors	fertility
+uterine repair	restores	uterine integrity
+fallopian tube reanastomosis	restores	tubal patency
+hysteroscopic sterilization	results in	sterilization
+uterine cervix excision	removes	cervix
+uterine fibroid resection	treats	fibroid
+endometrial ablation	is a	gynecologic procedure
+colposcopy-guided cryotherapy	treats	cervical dysplasia
+pelvic organ prolapse repair	treats	pelvic organ prolapse
+vaginal fistula repair	treats	fistula
+breast lift	improves	breast contour
+breast reconstruction with flaps	uses	abdominal tissue
+breast reconstruction with implants	uses	chest wall
+tubal reanastomosis	restores	tubal patency
+uterine artery reconstruction	reconstructs	uterine blood supply
+vaginal plasty	modifies	vaginal anatomy
+cervical resection	treats	cervical cancer
+uterine sarcoma resection	treats	uterine sarcoma
+vaginal laser therapy	treats	vaginal atrophy
+uterine cancer surgery	treats	cancer
+ovarian vein embolization	reduces	ovarian vascular flow
+uterine biopsy	obtains	uterine tissue
+pelvic chemoradiation	treats	gynecologic cancer
+robotic tubal ligation	performs	tubal ligation
+hysteroscopic polypectomy	removes	endometrial polyp
+vulvar lesion excision	treats	vulvar lesion

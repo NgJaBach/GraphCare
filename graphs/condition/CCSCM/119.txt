@@ -1,107 +1,100 @@
-varicose veins of lower extremity	is a	venous disorder
-varicose veins of lower extremity	is associated with	chronic venous insufficiency
-varicose veins of lower extremity	causes	edema
-varicose veins of lower extremity	causes	leg pain
-varicose veins of lower extremity	causes	heaviness
-varicose veins of lower extremity	causes	itching
-varicose veins of lower extremity	causes	skin changes
-varicose veins of lower extremity	causes	venous ulcers
-varicose veins of lower extremity	causes	superficial thrombophlebitis
-varicose veins of lower extremity	associated with	age
-varicose veins of lower extremity	associated with	female sex
-varicose veins of lower extremity	associated with	obesity
-varicose veins of lower extremity	associated with	pregnancy
-varicose veins of lower extremity	associated with	prolonged standing
-varicose veins of lower extremity	associated with	family history
-varicose veins of lower extremity	associated with	sedentary lifestyle
-varicose veins of lower extremity	associated with	smoking
-varicose veins of lower extremity	due to	venous valve failure
-varicose veins of lower extremity	due to	venous reflux
-varicose veins of lower extremity	due to	venous hypertension
-varicose veins of lower extremity	due to	venous dilation
-varicose veins of lower extremity	diagnosed by	duplex ultrasound
-varicose veins of lower extremity	diagnosed by	venous Doppler
-varicose veins of lower extremity	diagnosed by	clinical examination
-varicose veins of lower extremity	diagnosed by	physical examination
-varicose veins of lower extremity	evaluated by	duplex imaging
-varicose veins of lower extremity	treated with	compression stockings
-varicose veins of lower extremity	treated with	compression therapy
-varicose veins of lower extremity	treated with	sclerotherapy
-varicose veins of lower extremity	treated with	foam sclerotherapy
-varicose veins of lower extremity	treated with	endovenous laser therapy
-varicose veins of lower extremity	treated with	radiofrequency ablation
-varicose veins of lower extremity	treated with	laser therapy
-varicose veins of lower extremity	treated with	vein stripping
-varicose veins of lower extremity	treated with	phlebectomy
-varicose veins of lower extremity	treated with	ambulatory phlebectomy
-varicose veins of lower extremity	treated with	surgical ligation
-varicose veins of lower extremity	managed with	lifestyle modification
-varicose veins of lower extremity	managed with	exercise therapy
-varicose veins of lower extremity	managed with	weight management
-varicose veins of lower extremity	recurrence after	treatment
-varicose veins of lower extremity	complication of	venous dermatitis
-varicose veins of lower extremity	complication of	venous stasis dermatitis
-varicose veins of lower extremity	complication of	skin ulceration
-varicose veins of lower extremity	prognosis with	treatment success
-varicose veins of lower extremity	improves with	compression therapy
-varicose veins of lower extremity	worsens with	prolonged standing
-varicose veins of lower extremity	worsens with	heat exposure
-varicose veins of lower extremity	improves with	elevation
-varicose veins of lower extremity	affects	quality of life
-varicose veins of lower extremity	affects	mobility
-varicose veins of lower extremity	measured by	vein diameter
-varicose veins of lower extremity	increases	leg edema
-varicose veins of lower extremity	increases	venous pressure
-varicose veins of lower extremity	seen in	adults
-varicose veins of lower extremity	more common in	populations with standing occupations
-varicose veins of lower extremity	progression with	aging
-varicose veins of lower extremity	associated with	varicose venous malformations
-varicose veins of lower extremity	presence with	chronic edema
-varicose veins of lower extremity	responded to	compression therapy
-varicose veins of lower extremity	responded to	endovenous therapy
-varicose veins of lower extremity	treated by	phlebology specialist
-varicose veins of lower extremity	monitored by	vascular clinic
-varicose veins of lower extremity	symptom relief with	leg elevation
-varicose veins of lower extremity	symptom relief with	rest
-varicose veins of lower extremity	associated with	leg swelling
-varicose veins of lower extremity	associated with	skin hyperpigmentation
-varicose veins of lower extremity	associated with	eczema around ankles
-varicose veins of lower extremity	linked to	venous insufficiency severity
-varicose veins of lower extremity	evaluated for	venous reflux presence
-varicose veins of lower extremity	correlated with	calf muscle pump dysfunction
-varicose veins of lower extremity	influenced by	hormonal status
-varicose veins of lower extremity	affected by	weather changes
-varicose veins of lower extremity	influenced by	gravity effects
-varicose veins of lower extremity	associated with	edema duration
-varicose veins of lower extremity	associated with	deterioration of skin integrity
-varicose veins of lower extremity	readmission risk	after major surgery
-varicose veins of lower extremity	predictive value for	chronic venous disease progression
-varicose veins of lower extremity	concordant with	venous insufficiency score
-varicose veins of lower extremity	observed with	venous reflux disease
-varicose veins of lower extremity	common comorbidity with	lymphedema
-varicose veins of lower extremity	typical age group	middle-aged adults
-varicose veins of lower extremity	typical gender predominance	female
-varicose veins of lower extremity	prognosis predicts	improvement after treatment
-varicose veins of lower extremity	associated with	telangiectasia
-varicose veins of lower extremity	correlated with	spider veins
-varicose veins of lower extremity	diagnosed alongside	deep venous thrombosis screening
-varicose veins of lower extremity	managed in	outpatient setting
-varicose veins of lower extremity	managed in	vascular outpatient clinic
-varicose veins of lower extremity	impact on	work productivity
-varicose veins of lower extremity	risk for	bleeding from varicosities
-varicose veins of lower extremity	risk for	skin breakdown
-varicose veins of lower extremity	associated with	venous insufficiency stages
-varicose veins of lower extremity	evaluated for	valve competence
-varicose veins of lower extremity	evaluated for	venous reflux severity
-varicose veins of lower extremity	associated with	chronic edema
-varicose veins of lower extremity	treated with	combination therapy
-varicose veins of lower extremity	outcomes with	endovenous laser therapy
-varicose veins of lower extremity	outcomes with	sutured ligation
-varicose veins of lower extremity	guideline recommended	ultrasound-guided foam therapy
-varicose veins of lower extremity	guideline recommended	compression therapy as first-line
-varicose veins of lower extremity	guideline endorsed	phlebectomy for residual veins
-varicose veins of lower extremity	commonly coexists with	varicose facial veins
-varicose veins of lower extremity	clinical feature	varicose dilation in legs
-varicose veins of lower extremity	clinical feature	tortuous superficial veins
-varicose veins of lower extremity	typical imaging finding	dilated superficial veins
-varicose veins of lower extremity	typical imaging finding	incompetent venous valves
+varicose veins of lower extremity	is a	chronic venous disease
+varicose veins of lower extremity	is a	venous insufficiency
+varicose veins of lower extremity	is a	superficial venous disease
+valvular incompetence	causes	venous reflux
+venous reflux	causes	venous hypertension
+venous hypertension	causes	edema
+edema	is a	symptom of venous disease
+stasis dermatitis	is a	skin change of venous disease
+hyperpigmentation	is a	skin change of venous disease
+venous ulcer	is a	complication of venous insufficiency
+lipodermatosclerosis	is a	skin change of venous disease
+post-thrombotic syndrome	is a	complication of deep venous thrombosis
+pregnancy	increases risk for	varicose veins of lower extremity
+obesity	increases risk for	varicose veins of lower extremity
+age	increases risk for	varicose veins of lower extremity
+female gender	increases risk for	varicose veins of lower extremity
+standing occupation	increases risk for	varicose veins of lower extremity
+family history	is a	risk factor for venous disease
+smoking	is a	risk factor for venous disease
+compression therapy	is a	treatment for varicose veins of lower extremity
+compression stockings	are a	treatment for venous insufficiency
+sclerotherapy	is a	treatment for varicose veins of lower extremity
+endovenous laser therapy	is a	treatment for varicose veins of lower extremity
+radiofrequency ablation	is a	treatment for varicose veins of lower extremity
+vein stripping	is a	treatment for varicose veins of lower extremity
+microphlebectomy	is a	treatment for varicose veins of lower extremity
+percutaneous ablation	is a	treatment for venous reflux
+ligation of great saphenous vein	is a	surgical treatment for varicose veins
+great saphenous vein	is a	common site involved in varicose disease
+duplex ultrasound	is a	diagnostic test for varicose veins
+duplex ultrasound	detects	venous reflux
+duplex ultrasound	reveals	valvular incompetence
+venous insufficiency	is a	chronic venous disease
+stasis dermatitis	is a	skin change of venous disease
+lipodermatosclerosis	is a	skin change of venous disease
+venous ulcer	is a	wound due to venous insufficiency
+edema	contributes to	leg ulcer risk
+edema	worsens	venous skin changes
+skin changes	signal	chronic venous disease
+compression therapy	reduces	leg edema
+compression stockings	reduce	leg swelling
+sclerotherapy	reduces	varicose veins
+endovenous laser therapy	reduces	reflux in treated segment
+radiofrequency ablation	reduces	reflux in treated segment
+vein stripping	eliminates	refluxing veins
+microphlebectomy	removes	varicose veins
+ambulatory phlebectomy	is a	surgical option for varicose veins
+compression therapy	improves	edema symptoms
+sclerotherapy	improves	cosmetic appearance of varicose veins
+endovenous laser therapy	improves	venous flow
+venous insufficiency	worsens	edema
+edema	predisposes to	skin changes
+lipodermatosclerosis	accompanies	venous disease
+venous disease	increases risk of	cellulitis
+cellulitis	occurs with	venous ulcers
+venous ulcers	require	wound care
+wound care	is a	management for venous ulcers
+Doppler ultrasound	is a	diagnostic tool for venous reflux
+venous reflux	evidenced by	Doppler ultrasound
+valvular insufficiency	is a	mechanism of varicose veins
+varicose veins	is a	manifestation of venous reflux
+varicose veins	predispose to	venous ulcers
+great saphenous vein	is a	common site of varicose veins
+sclerotherapy	targets	incompetent veins
+ambulatory phlebectomy	reduces	varicose veins burden
+endovascular treatment	is a	type of venous reflux therapy
+saphenous vein	is a	major pathway for venous drainage
+deep venous thrombosis	can lead to	post-thrombotic syndrome
+post-thrombotic syndrome	results from	deep venous thrombosis
+venous disease	affects	limb function
+recurrent varicose veins	require	reintervention
+reintervention	is a	management after recurrence
+ambulatory phlebectomy	yields	cosmetic appearance
+phlebectomy	is a	procedure for varicose veins
+endovenous ablation	is a	method for venous reflux
+surgical ablation	is a	method for venous reflux
+ambulatory surgery center	is a	setting for varicose vein procedures
+clinic	provides	varicose vein treatment
+patient education	is a	component of venous disease management
+lifestyle modification	is a	component of venous disease management
+venous disease	affects	quality of life
+cosmetic concern	is a	reason for varicose vein treatment
+functional impairment	arises from	chronic venous disease
+ambulatory phlebectomy	yields	symptom relief
+ultrasound-guided foam sclerotherapy	is a	treatment for varicose veins
+foam sclerotherapy	is a	treatment for varicose veins
+compression therapy	prevents	progression of venous disease
+venous disease	influences	mobility
+varicose veins	distribution	legs
+endovascular therapy	is a	treatment option for venous reflux
+trophic changes	are a	sign of chronic venous disease
+color changes	indicate	venous insufficiency
+edema	worsens	venous ulcers risk
+recurrent venous disease	is a	complication after treatment
+compression therapy	reduces	edema recurrence
+venous disease	is a	predictor of readmission risk
+varicose veins	contribute to	leg pain
+leg pain	is a	symptom of venous disease
+smoking	worsens	varicose vein symptoms
+physical activity	improves	calf muscle pump function

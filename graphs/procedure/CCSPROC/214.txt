@@ -1,0 +1,100 @@
+traction	is a	medical treatment
+bone traction	is an	orthopedic intervention
+skin traction	is a	noninvasive method
+traction	maintains	reduction
+bone traction	maintains	limb alignment
+skin traction	requires	analgesia
+traction	requires	neurovascular monitoring
+traction	contraindicated in	open fracture
+weights	connect to	traction setup
+weights	apply to	pulley system
+pulley system	facilitates	traction force
+external fixator	used with	traction
+external fixator	maintains	reduction
+pins	anchor to	bone
+cast	is an	immobilization device
+cast	used for	fracture
+cast	protects	fracture site
+plaster cast	is an	immobilization device
+fiberglass cast	is an	immobilization device
+splint	is an	immobilization device
+long leg splint	immobilizes	knee
+short leg splint	immobilizes	ankle
+splint	limits	movement
+dressing	is a	wound care element
+dressings	maintain	moisture
+dressings	protect	wound
+gauze	is a	dressing material
+adhesive tape	secures	dressings
+bandage	is a	dressing type
+negative pressure wound therapy	is a	wound care modality
+vacuum-assisted closure	is a	wound care modality
+negative pressure wound therapy	promotes	granulation tissue
+granulation tissue	fills	wound bed
+necrotic tissue	delays	wound healing
+debridement	is a	wound cleaning procedure
+debridement	removes	necrotic tissue
+wound	requires	debridement
+wound bed	requires	moisture balance
+moisture	supports	epithelialization
+dressing change	is a	nursing task
+nursing task	includes	wound assessment
+wound assessment	guides	dressing choice
+antibiotic	used for	wound infection
+antibiotic therapy	reduces	infection
+infection	impairs	wound healing
+infection	increases	hospitalization risk
+antibiotic resistance	increases	treatment failure
+pain	is a	symptom
+analgesia	relieves	pain
+pain	limits	mobility
+mobility	improves	function
+immobilization	reduces	fracture pain
+immobilization	risks	pressure injuries
+pressure ulcer	occurs due to	immobilization
+cast removal	allows	limb function
+splint removal	allows	mobility
+cast	restricts	activity
+orthosis	supports	limb
+brace	provides	stabilization
+immobilization device	alternatives	immobilizers
+cast care	requires	skin inspection
+skin inspection	monitors	skin integrity
+infection prevention	relies on	sterile technique
+sterile technique	prevents	contamination
+wound care	includes	dressing changes
+dressing changes	done by	nurse
+nurse	documents	wound status
+wound status	informs	treatment plan
+treatment plan	guides	device choice
+device choice	depends on	wound type
+fracture type	influences	device selection
+bone fracture	managed with	traction
+bone fracture	managed with	cast
+soft tissue injury	accompanies	fracture
+vascular injury	complicates	fracture care
+nerve injury	complicates	immobilization
+nerve injury	increases	disability risk
+cast	risk	skin breakdown
+edema	reduces	wound perfusion
+perfusion	delivers	oxygen
+tissue oxygenation	supports	healing
+smoking	worsens	wound healing
+diabetes mellitus	worsens	healing
+nutrition	supports	wound healing
+adequate nutrition	supports	wound healing
+wound drainage	requires	management
+drainage	indicates	infection
+hypoxia	impairs	wound healing
+nutrition	improves	wound healing
+nutrition	improves	collagen synthesis
+wound care team	coordinates	therapy plan
+therapy plan	includes	device selection
+device selection	influences	prognosis
+cast removal	reduces	immobilization duration
+pressure management	reduces	ulcer risk
+immobilization	preserves	fracture alignment
+wound cleansing	reduces	contamination
+dressing	provides	barrier protection
+antiseptic	reduces	bacterial load
+bacterial colonization	delays	wound healing

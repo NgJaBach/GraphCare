@@ -1,100 +1,100 @@
-mood disorders	is a	category of mental disorders
-mood disorders	include	depressive disorders
-mood disorders	co-occur with	anxiety disorders
+mood disorders	include	major depressive disorder
+mood disorders	include	bipolar disorder
+mood disorders	include	persistent depressive disorder
+mood disorders	include	cyclothymic disorder
+mood disorders	include	seasonal affective disorder
 major depressive disorder	is a	mood disorder
-major depressive disorder	presents with	anhedonia
-major depressive disorder	presents with	insomnia
-major depressive disorder	presents with	fatigue
-major depressive disorder	presents with	weight change
-major depressive disorder	is associated with	suicidality
-major depressive disorder	treated with	antidepressants
-major depressive disorder	treated with	psychotherapy
-bipolar I disorder	is a	mood disorder
-bipolar II disorder	is a	mood disorder
-cyclothymic disorder	is a	mood disorder
+bipolar disorder	is a	mood disorder
 persistent depressive disorder	is a	mood disorder
+cyclothymic disorder	is a	mood disorder
 seasonal affective disorder	is a	mood disorder
+major depressive disorder	treated with	antidepressants
+bipolar disorder	treated with	mood stabilizers
+mood disorders	treated with	psychotherapy
+mood disorders	treated with	electroconvulsive therapy
+electroconvulsive therapy	used for	mood disorders
+mood disorders	co-occur with	anxiety disorders
+mood disorders	co-occur with	substance use disorders
+mood disorders	co-occur with	sleep disorders
+mood disorders	associated with	cardiovascular disease
+substance use disorders	co-occur with	mood disorders
+sleep disturbance	common in	mood disorders
+anhedonia	is a symptom of	mood disorders
+depressed mood	is a symptom of	mood disorders
+mood disorders	impair	social functioning
+mood disorders	increase	suicide risk
+bipolar disorder	increase	suicide risk
+mood disorders	associated with	anxiety disorders
+mood disorders	associated with	obesity
+mood disorders	associated with	metabolic syndrome
+mood disorders	associated with	diabetes mellitus
+inflammation	associated with	mood disorders
+cortisol dysregulation	associated with	mood disorders
+genetic predisposition	increases risk for	mood disorders
+female gender	increases risk for	mood disorders
+family history	increases risk for	mood disorders
+childhood trauma	increases risk for	mood disorders
+pregnancy	associated with	mood disorders
 postpartum depression	is a	mood disorder
-premenstrual dysphoric disorder	is a	mood disorder
-suicidal ideation	is a symptom of	mood disorders
-suicide attempt	is associated with	mood disorders
-insomnia	is a symptom of	mood disorders
-hypersomnia	is a symptom of	mood disorders
-fatigue	is a symptom of	mood disorders
-weight gain	is a symptom of	mood disorders
-weight loss	is a symptom of	mood disorders
-loss of appetite	is a symptom of	mood disorders
-psychomotor agitation	is a symptom of	mood disorders
-psychomotor retardation	is a symptom of	mood disorders
-anxiety symptoms	are comorbid with	mood disorders
-psychosis	can occur with	mood disorders
-manic episode	is a feature of	bipolar disorder
-hypomanic episode	is a feature of	bipolar disorder
-psychotic features	occur in	mood disorders
-melancholic features	occur in	major depressive disorder
-atypical features	occur in	mood disorders
-seasonal pattern	is a specifier of	major depressive disorder
-mood disorders	have comorbidity with	anxiety disorders
-mood disorders	have comorbidity with	substance use disorders
-mood disorders	have comorbidity with	sleep disorders
-electroconvulsive therapy	is used for	mood disorders
-electroconvulsive therapy	improves	depressive symptoms
-transcranial magnetic stimulation	is used for	mood disorders
-cognitive behavioral therapy	is effective for	mood disorders
-interpersonal therapy	is effective for	mood disorders
-family therapy	is used for	mood disorders
-antidepressants	include	selective serotonin reuptake inhibitors
-selective serotonin reuptake inhibitors	are first-line for	major depressive disorder
-serotonin-norepinephrine reuptake inhibitors	are used to treat	mood disorders
-tricyclic antidepressants	are used to treat	mood disorders
-monoamine oxidase inhibitors	are used to treat	mood disorders
-lithium	is a mood stabilizer
-lithium	is used to treat	bipolar disorder
-valproate	is a mood stabilizer
-lamotrigine	is a mood stabilizer
-carbamazepine	is a mood stabilizer
-atypical antipsychotics	are used to treat	bipolar disorder
-olanzapine	is an antipsychotic
-quetiapine	is an antipsychotic
-risperidone	is an antipsychotic
-aripiprazole	is an antipsychotic
-mood disorder with psychotic features	is a presentation of	mood disorders
-bipolar disorder with psychotic features	is a presentation of	bipolar disorder
-cognitive impairment	accompanies	mood disorders
-neuroinflammation	is associated with	mood disorders
-HPA axis dysfunction	is associated with	mood disorders
-genetic predisposition	increases	risk of mood disorders
-family history	is predictor for	mood disorders
-age	is predictor for	mood disorders
-female gender	is risk factor for	mood disorders
-smoking	is risk factor for	mood disorders
-substance use disorder	is comorbid with	mood disorders
-anxiety disorder	is comorbid with	mood disorders
-diabetes mellitus	is associated with	mood disorders
-cardiovascular disease	is associated with	mood disorders
-thyroid disease	is associated with	mood disorders
-pregnancy	is a risk factor for	mood disorders
-menopause	is a risk factor for	mood disorders
-age of onset	is variable in	mood disorders
-treatment adherence	affects	mood disorders outcomes
-remission	is possible with	mood disorders
-relapse	occurs after	remission
-mood episodes	are recurrent in	mood disorders
-treatment resistance	is a challenge in	mood disorders
-crisis intervention	is used for	mood disorders
-emergency department visit	is common in	mood disorders
-inpatient hospitalization	may be required for	mood disorders
-outpatient therapy	is common for	mood disorders
-psychiatric crisis services	are used for	mood disorders
-bereavement	may precipitate	mood disorders
-life stressor	precipitates	mood disorders
-traumatic event	increases risk for	mood disorders
-neurocognitive impairment	occurs with	mood disorders
-cortisol level	is altered in	mood disorders
-dopamine signaling	is disrupted in	mood disorders
-serotonin signaling	is disrupted in	mood disorders
-noradrenergic system	is involved in	mood disorders
-neuroplasticity impairment	is associated with	mood disorders
-brain-derived neurotrophic factor	is decreased in	mood disorders
-sleep deprivation	is a trigger for	mood disorders
-exercise	reduces risk of	mood disorders
+postpartum depression	occurs after	childbirth
+seasonal affective disorder	treated with	light therapy
+cognitive behavioral therapy	effective for	mood disorders
+interpersonal therapy	effective for	mood disorders
+antidepressants	used for	mood disorders
+SSRIs	used for	mood disorders
+SNRIs	used for	mood disorders
+tricyclic antidepressants	used for	mood disorders
+MAO inhibitors	used for	mood disorders
+antidepressants	include	SSRIs
+antidepressants	include	SNRIs
+antidepressants	include	tricyclic antidepressants
+antidepressants	include	MAO inhibitors
+psychotherapy	improves	mood disorders symptoms
+exercise	reduces	mood disorder symptoms
+mood disorders	worsen with	sleep deprivation
+sleep deprivation	worsens	mood disorders
+dopamine signaling	altered in	mood disorders
+serotonin signaling	altered in	mood disorders
+norepinephrine signaling	altered in	mood disorders
+brain-derived neurotrophic factor	decreased in	mood disorders
+older age	associated with	mood disorders
+adolescents	at higher risk for	mood disorders
+adults	at risk for	mood disorders
+lithium	used for	bipolar disorder
+valproate	used for	bipolar disorder
+carbamazepine	used for	bipolar disorder
+psychosis	can occur in	mood disorders with psychotic features
+seasonal pattern	observed in	mood disorders
+sleep quality	affects	mood disorders
+physical activity	improves	mood disorders outcomes
+diet quality	affects	mood disorders
+PHQ-9	used for	mood disorder screening
+HAM-D	used for	mood disorder severity
+screening tools	assess	mood disorders
+stigma	affects	access to care for mood disorders
+sociodemographic factors	influence	mood disorders risk
+pharmacotherapy	used for	mood disorders
+psychotherapy	complements	pharmacotherapy
+lithium therapy	used for	bipolar disorder
+antipsychotic agents	used for	mood disorders with psychotic features
+cognitive impairment	associated with	mood disorders
+electroconvulsive therapy	produces	rapid relief in mood disorders
+rTMS	reduces	depressive symptoms in mood disorders
+psychotic features	present in	mood disorders with psychotic features
+posttraumatic stress	co-occurs with	mood disorders
+posttraumatic stress	affects	mood disorders outcomes
+psychiatric hospitalisation	increases	healthcare costs
+readmission	risk increased by	mood disorders
+quality of life	impaired by	mood disorders
+anxiety disorders	commonly co-occur with	mood disorders
+alcohol use	common comorbidity with	mood disorders
+smoking	more prevalent in	mood disorders
+obesity	co-occurs with	mood disorders
+obstructive sleep apnea	co-occurs with	mood disorders
+physical activity	protects against	mood disorders
+sleep quality	affects	mood disorders
+self-harm	risk increased in	mood disorders
+antidepressant withdrawal	leads to	relapse
+patient education	improves	treatment adherence
+stigma	prevents	timely diagnosis of mood disorders
+mood disorders	require	long-term care

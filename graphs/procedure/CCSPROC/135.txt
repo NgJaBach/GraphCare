@@ -1,0 +1,114 @@
+forceps	is a	obstetric instrument
+vacuum	is a	obstetric instrument
+breech delivery	is a	delivery method
+forceps	used for	assisted vaginal delivery
+vacuum	used for	assisted vaginal delivery
+assisted vaginal delivery	includes	forceps
+assisted vaginal delivery	includes	vacuum
+cesarean section	is a	delivery method
+breech delivery	managed by	cesarean section
+forceps	contraindicated for	placenta previa
+forceps	contraindicated for	transverse lie
+forceps	indicated for	nonreassuring fetal status
+vacuum	contraindicated for	nonreassuring fetal status
+forceps	reduces	second-stage duration
+vacuum	reduces	second-stage duration
+assisted vaginal delivery	reduces	time to birth
+forceps	associated with	perineal trauma
+forceps	associated with	facial nerve injury
+vacuum	associated with	cephalhematoma
+vacuum	associated with	caput succedaneum
+vacuum	associated with	subgaleal hemorrhage
+forceps	more likely to cause	facial nerve injury
+breech delivery	associated with	neonatal trauma
+breech delivery	associated with	increased perinatal morbidity
+breech delivery	increases	cesarean rate
+assisted vaginal delivery	requires	skilled operator
+assisted vaginal delivery	requires	fetal head engagement
+episiotomy	performed during	assisted vaginal delivery
+episiotomy	associated with	perineal pain
+perineal laceration	occurs during	forceps delivery
+perineal laceration	occurs during	vacuum delivery
+facial nerve injury	associated with	forceps delivery
+cephalhematoma	associated with	vacuum delivery
+caput succedaneum	associated with	vacuum delivery
+subgaleal hemorrhage	risk with	vacuum delivery
+instrumental delivery	is a	mode of delivery
+instrumental delivery	includes	forceps
+instrumental delivery	includes	vacuum
+head engagement	affects	delivery outcome
+fetal distress	prompts	operative vaginal delivery
+operative vaginal delivery	alternative to	cesarean section
+cesarean section	alternative to	vaginal breech delivery
+neonatal outcome	influenced by	instrumental delivery
+maternal outcome	affected by	instrumental delivery
+neonatal outcome	associated with	breech delivery
+maternal outcome	associated with	cesarean section
+operator skill	improves	delivery outcome
+training	improves	operator skill
+breech delivery	requires	skilled clinician
+forceps	requires	operator training
+vacuum	requires	operator training
+fetal position	determines	choice of delivery method
+second stage length	varies with	fetal position
+vaginal delivery	feasible with	breech presentation
+vaginal breech delivery	is a	delivery method
+operating room	required for	cesarean section
+anesthesia	used for	cesarean section
+spinal anesthesia	used for	cesarean section
+neonatal resuscitation	required after	breech delivery
+neonatal resuscitation	required after	instrumental delivery
+pediatrician	present for	breech delivery
+nurse	assists with	instrumental delivery
+blood loss	increased with	cesarean section
+blood loss	increased with	episiotomy
+uterine atony	risk after	cesarean section
+uterine atony	risk after	instrumental delivery
+head circumference	associated with	fetal head engagement
+premature birth	risk with	breech delivery
+postpartum infection	risk after	cesarean section
+breastfeeding initiation	earlier after	vaginal delivery
+breastfeeding initiation	later after	cesarean section
+neonatal jaundice	more common after	cesarean section
+neonatal respiratory distress	more common after	cesarean section
+postoperative pain	greater with	cesarean section
+hospital stay	longer after	cesarean section
+postpartum recovery	slower after	cesarean section
+sterile technique	ensures	safety during delivery
+operating room	equipped for	cesarean section
+sterility	maintained by	instrument sterilization
+instrument sterilization	essential for	delivery equipment
+craft skilled staff	improves	delivery outcome
+skill	correlates with	successful instrumental delivery
+instrument integrity	important for	vacuum delivery
+device failure	leads to	cesarean section
+NICU admission	higher with	breech delivery
+neonatal complications	higher with	instrumental delivery
+maternal blood loss	higher with	instrumental delivery
+patient age	affects	delivery method choice
+BMI	influences	delivery method choice
+placental abruption	risk increases with	cesarean section
+orthopedic injuries	rare with	breech delivery
+fetal position	affects	neonatal outcome
+cephalopelvic disproportion	contraindicates	vaginal delivery
+uterine scar	increases	cesarean risk
+breastfeeding benefits	enhanced by	vaginal delivery
+breastfeeding benefits	reduced by	cesarean section
+neonatal respiratory distress	risk higher after	cesarean section
+cesarean section	associated with	higher healthcare costs
+delivery outcomes	improved with	skilled operator
+delivery outcomes	worsened with	cesarean section
+neonatal mortality	linked to	breech delivery
+neonatal mortality	linked to	instrumental delivery
+maternal morbidity	linked to	cesarean section
+maternal morbidity	linked to	instrumental delivery
+instrument quality	affects	safety of delivery
+delivery equipment	requires	routine check
+clinical guidelines	influence	delivery method selection
+fetal monitoring	essential during	instrumental delivery
+fetal monitoring	essential during	cesarean section
+neonatal APGAR	associated with	delivery method
+APGAR score	predicts	neonatal outcome
+operative vaginal delivery	depends on	cervical dilation
+cesarean section	often performed when	breech presentation is present
+uterine incision	type determined by	cesarean technique

@@ -1,100 +1,100 @@
 paralysis	is a	neurological deficit
-paralysis	is caused by	spinal cord injury
-paralysis	is caused by	stroke
-paralysis	is caused by	traumatic brain injury
-paralysis	is caused by	poliomyelitis
-paralysis	is caused by	Guillain-Barré syndrome
-paralysis	is caused by	multiple sclerosis
-paralysis	is caused by	amyotrophic lateral sclerosis
-paralysis	is caused by	nerve injury
-paralysis	is caused by	brain tumor
-spinal cord injury	causes	paralysis
-stroke	causes	paralysis
-Guillain-Barré syndrome	causes	paralysis
-poliomyelitis	causes	paralysis
-transverse myelitis	causes	paralysis
-degenerative spine disease	causes	paralysis
-nerve injury	causes	paralysis
-spinal cord compression	causes	paralysis
-paralysis	is caused by	disc herniation
-brain tumor	causes	paralysis
-spinal cord tumor	causes	paralysis
-bulbar palsy	causes	paralysis
-cervical spine injury	causes	paralysis
-thoracic spine injury	causes	paralysis
-lumbar spine injury	causes	paralysis
-hemiplegia	is a	type of paralysis
-monoplegia	is a	type of paralysis
-diplegia	is a	type of paralysis
-paralysis	is associated with	dysphagia
-paralysis	is associated with	dysarthria
-paralysis	is associated with	aspiration risk
-paralysis	is associated with	pneumonia
-paralysis	is associated with	urinary retention
-paralysis	is associated with	urinary incontinence
-paralysis	is associated with	constipation
-paralysis	is associated with	skin breakdown
-paralysis	is associated with	contractures
-paralysis	is associated with	spasticity
-paralysis	is associated with	neuropathic pain
-paralysis	is associated with	sleep disturbance
-paralysis	increases	caregiver burden
-paralysis	increases	length of stay
-paralysis	increases	hospitalization costs
-paralysis	affects	mobility
-paralysis	affects	gait
-paralysis	affects	balance
-paralysis	reduces	independence
-paralysis	reduces	activities of daily living
-paralysis	influences	discharge disposition
-paralysis	predicts	mortality risk
-paralysis	predicts	readmission risk
-paralysis	requires	rehabilitation therapy
-paralysis	requires	multidisciplinary care
-paralysis	requires	long-term care
-paralysis	requires	assistive devices
-paralysis	requires	mobility aids
-paralysis	treated with	physical therapy
-paralysis	treated with	occupational therapy
-paralysis	treated with	neuromuscular electrical stimulation
-paralysis	treated with	robotic rehabilitation
+paralysis	caused by	stroke
+paralysis	caused by	spinal cord injury
+paralysis	caused by	Guillain-Barré syndrome
+paralysis	caused by	multiple sclerosis
+paralysis	caused by	poliomyelitis
+paralysis	associated with	peripheral neuropathy
+paralysis	associated with	myelitis
+paralysis	associated with	spinal cord tumor
+paralysis	associated with	traumatic brain injury
+paralysis	managed with	physical therapy
+paralysis	managed with	occupational therapy
+paralysis	managed with	rehabilitation
+paralysis	managed with	assistive devices
+paralysis	diagnosed by	electromyography
+paralysis	diagnosed by	nerve conduction study
+paralysis	diagnosed by	magnetic resonance imaging
+paralysis	diagnosed by	computed tomography
+paralysis	treated with	baclofen
 paralysis	treated with	botulinum toxin
-paralysis	treated with	nerve stimulation therapy
-paralysis	managed with	wheelchair use
-paralysis	managed with	seating adaptations
-paralysis	managed with	home modifications
-paralysis	managed with	caregiver training
-paralysis	monitored by	neurological examination
-paralysis	monitored by	imaging studies
-spinal cord injury	is a	cause of paralysis
-stroke	is a	cause of hemiplegia
-tetraplegia	is a	form of paralysis
-paralysis	is addressed by	rehabilitation program
-paralysis	is managed in	rehabilitation facility
-paralysis	is a focus of	physical medicine and rehabilitation
+paralysis	treated with	electrical stimulation
+paralysis	results in	immobility
 paralysis	leads to	wheelchair dependence
-paralysis	leads to	adaptive equipment use
-paralysis	increases	length of hospital stay
-paralysis	is associated with	autonomic dysreflexia
-paralysis	is associated with	neurogenic bladder
-paralysis	is associated with	neurogenic bowel
-paralysis	is associated with	sexual dysfunction
-paralysis	influences	employment status
-paralysis	influences	quality of life
-paralysis	influences	caregiver training needs
-paralysis	influences	vaccination status
-paralysis	increases	healthcare utilization
-paralysis	increases	mortality risk
-paralysis	is a major cause of	disability
-paralysis	is the focus of	rehabilitation
-spinal cord injury	leads to	tetraplegia
-spinal cord injury	leads to	paraplegia
-paralysis	is more common in	elderly patients
-paralysis	is common in	trauma survivors
-paralysis	is common in	stroke survivors
-paralysis	is evaluated with	neurological testing
-paralysis	is evaluated with	imaging
-paralysis	is managed with	multidisciplinary team
-paralysis	is a marker of	disability severity
-paralysis	is a target of	rehabilitation strategy
+paralysis	increases risk of	pressure ulcers
+paralysis	increases risk of	urinary tract infection
+paralysis	increases risk of	pneumonia
+paralysis	increases risk of	deep vein thrombosis
+paralysis	causes	muscle atrophy
+paralysis	causes	contractures
+paralysis	causes	scoliosis
+paralysis	causes	autonomic dysfunction
+paralysis	causes	dysphagia
+paralysis	associated with	respiratory failure
+paralysis	reduces	mobility
+paralysis	reduces	activities of daily living
+paralysis	associated with	spasticity
+paralysis	associated with	neuropathic pain
+paralysis	associated with	depression
+paralysis	associated with	anxiety
+paralysis	exacerbated by	fatigue
+paralysis	exacerbated by	malnutrition
+paralysis	associated with	autonomic dysreflexia
+paralysis	increases	hospitalization length
 paralysis	requires	caregiver support
+paralysis	reduces	independence
+paralysis	predicts	disability
+paralysis	associated with	chronic pain
+stroke	causes	paralysis
+spinal cord injury	leads to	paralysis
+Guillain-Barré syndrome	causes	paralysis
+multiple sclerosis	causes	paralysis
+poliomyelitis	causes	paralysis
+polio survivor	experiences	paralysis
+spinal stenosis	causes	paralysis
+brainstem stroke	causes	paralysis
+birth injury	causes	paralysis
+spinal tumor	causes	paralysis
+nerve root compression	causes	paralysis
+brain injury	causes	paralysis
+hemorrhagic stroke	causes	paralysis
+ischemic stroke	causes	paralysis
+cervical myelopathy	causes	paralysis
+spinal cord infarction	causes	paralysis
+autoimmune disease	causes	paralysis
+infection	causes	paralysis
+cervical spine trauma	causes	paralysis
+cerebral palsy	causes	paralysis
+spinal cord inflammation	causes	paralysis
+spinal cord compression	causes	paralysis
+nerve injury	causes	paralysis
+radial nerve palsy	causes	paralysis
+brachial plexus injury	causes	paralysis
+obstetric injury	causes	paralysis
+neoplasm	causes	paralysis
+spina bifida	causes	paralysis
+diabetic neuropathy	causes	paralysis
+polio vaccine	reduces	paralysis
+stroke rehabilitation	improves	paralysis outcome
+rehabilitation therapy	improves	independence
+occupational therapy	improves	independence
+physical therapy	improves	mobility
+assistive device	enables	independence
+wheelchair	provides	mobility support
+orthosis	provides	limb support
+assistive technology	provides	independence
+exoskeleton	enables	walking ability
+aging	increases	risk of paralysis
+hypertension	increases	risk of stroke
+paralysis	indicates	neurological injury severity
+paralysis	associated with	disability
+paralysis	uses	mobility aids
+paralysis	monitored with	vital signs
+paralysis	managed with	pain management
+paralysis	influences	caregiver burden
+paralysis	informs	prognosis
+paralysis	correlates with	functional outcome
+paralysis	used in	health outcome measurement
+paralysis	linked to	quality of life impairment
+paralysis	related to	mortality risk
+paralysis	associated with	hospital readmission

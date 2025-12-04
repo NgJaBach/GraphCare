@@ -1,37 +1,100 @@
-acute posthemorrhagic anemia	caused by	acute blood loss
-acute posthemorrhagic anemia	caused by	postpartum hemorrhage
-acute posthemorrhagic anemia	caused by	surgical bleed
-acute posthemorrhagic anemia	caused by	gastrointestinal bleed
-acute posthemorrhagic anemia	results in	tissue hypoxia
+acute posthemorrhagic anemia	results from	acute blood loss
+acute posthemorrhagic anemia	presents with	tachycardia
 acute posthemorrhagic anemia	presents with	pallor
-acute posthemorrhagic anemia	presents with	fatigue
-acute posthemorrhagic anemia	presents with	dyspnea
 acute posthemorrhagic anemia	presents with	dizziness
-acute posthemorrhagic anemia	causes	tachycardia
-acute posthemorrhagic anemia	causes	hypotension
-acute posthemorrhagic anemia	increases	heart rate
-acute posthemorrhagic anemia	increases	respiratory rate
-acute posthemorrhagic anemia	monitored by	hemoglobin
-acute posthemorrhagic anemia	monitored by	hematocrit
-acute posthemorrhagic anemia	treated with	red blood cell transfusion
-transfusion	treats	acute posthemorrhagic anemia
-transfusion	reduces	mortality
-transfusion	risks	transfusion reaction
-intravenous crystalloids	used for	volume resuscitation
-crystalloids	support	circulation
-colloids	used for	volume expansion
-volume resuscitation	aims for	hemodynamic stability
-blood loss	causes	acute posthemorrhagic anemia
-hemoglobin	determines	oxygen carrying capacity
-oxygen delivery	depends on	hemoglobin
-reticulocytosis	indicates	marrow response
-marrow response	occurs in	acute posthemorrhagic anemia
-hemoglobin	used for	diagnostic threshold
-hematocrit	used for	diagnostic threshold
-vital signs	reflect	hemodynamic status
-blood pressure	monitored by	fluids
-myocardial oxygen supply	depends on	hemoglobin
-tissue perfusion	affected by	anemia
-hypoxia	results in	lactic acidosis
-coagulopathy	associated with	bleeding risk
-coagulopathy	worsens	bleeding risk
+acute posthemorrhagic anemia	presents with	fatigue
+acute posthemorrhagic anemia	presents with	syncope
+acute posthemorrhagic anemia	presents with	hypotension
+acute posthemorrhagic anemia	reduces	hemoglobin
+acute posthemorrhagic anemia	reduces	hematocrit
+acute posthemorrhagic anemia	reduces	red blood cell mass
+acute posthemorrhagic anemia	diagnosed by	complete blood count
+acute posthemorrhagic anemia	diagnosed by	reticulocyte count
+acute posthemorrhagic anemia	characterized by	low hemoglobin
+acute posthemorrhagic anemia	characterized by	low hematocrit
+acute posthemorrhagic anemia	characterized by	reticulocytosis
+acute posthemorrhagic anemia	monitored with	serial CBCs
+acute posthemorrhagic anemia	monitored with	vital signs
+acute posthemorrhagic anemia	managed with	blood transfusion
+acute posthemorrhagic anemia	managed with	intravenous fluids
+acute posthemorrhagic anemia	managed with	oxygen therapy
+acute posthemorrhagic anemia	managed with	hemostatic measures
+acute posthemorrhagic anemia	treated with	iron therapy
+acute posthemorrhagic anemia	treated with	crystalloids
+acute posthemorrhagic anemia	prognosis depends on	bleeding severity
+acute posthemorrhagic anemia	risk factor	trauma
+acute posthemorrhagic anemia	risk factor	surgery
+acute posthemorrhagic anemia	risk factor	gastrointestinal bleed
+acute posthemorrhagic anemia	risk factor	postpartum hemorrhage
+acute posthemorrhagic anemia	complication	hypoxia
+acute posthemorrhagic anemia	complication	shock
+acute posthemorrhagic anemia	complication	acute kidney injury
+acute posthemorrhagic anemia	complication	lactic acidosis
+acute posthemorrhagic anemia	setting	hospital
+acute posthemorrhagic anemia	setting	ICU
+acute posthemorrhagic anemia	population	adults
+acute posthemorrhagic anemia	population	elderly
+acute posthemorrhagic anemia	pathophysiology	decreased circulating volume
+acute posthemorrhagic anemia	pathophysiology	reduced oxygen delivery
+acute posthemorrhagic anemia	pathophysiology	tissue hypoxia
+acute posthemorrhagic anemia	laboratory finding	low hemoglobin
+acute posthemorrhagic anemia	laboratory finding	low hematocrit
+acute posthemorrhagic anemia	laboratory finding	elevated reticulocytes
+acute posthemorrhagic anemia	differential diagnosis	iron deficiency anemia
+acute posthemorrhagic anemia	differential diagnosis	aplastic anemia
+acute posthemorrhagic anemia	followup	hemoglobin stabilization
+acute posthemorrhagic anemia	followup	transfusion independence
+acute posthemorrhagic anemia	guideline	transfusion threshold
+acute posthemorrhagic anemia	guideline	fluid resuscitation
+acute posthemorrhagic anemia	therapy	blood transfusion
+acute posthemorrhagic anemia	therapy	crystalloids
+acute posthemorrhagic anemia	therapy	colloids
+acute posthemorrhagic anemia	therapy	oxygen therapy
+acute posthemorrhagic anemia	therapy	iron therapy
+acute posthemorrhagic anemia	test	CBC
+acute posthemorrhagic anemia	test	reticulocyte count
+acute posthemorrhagic anemia	test	peripheral smear
+acute posthemorrhagic anemia	differential diagnosis	GI bleed
+acute posthemorrhagic anemia	followup	hospital discharge
+acute posthemorrhagic anemia	followup	source control
+acute posthemorrhagic anemia	comorbidity	dehydration
+acute posthemorrhagic anemia	comorbidity	infection
+acute posthemorrhagic anemia	comorbidity	coagulopathy
+acute posthemorrhagic anemia	clinical sign	tachypnea
+acute posthemorrhagic anemia	clinical sign	cool extremities
+acute posthemorrhagic anemia	clinical sign	diaphoresis
+acute posthemorrhagic anemia	clinical sign	dizziness
+acute posthemorrhagic anemia	clinical sign	weakness
+acute posthemorrhagic anemia	clinical sign	confusion
+acute posthemorrhagic anemia	hospital course	admission
+acute posthemorrhagic anemia	hospital course	discharge
+acute posthemorrhagic anemia	discharge planning	followup appointment
+acute posthemorrhagic anemia	resource use	ICU admission
+acute posthemorrhagic anemia	resource use	blood product usage
+acute posthemorrhagic anemia	research	transfusion thresholds
+acute posthemorrhagic anemia	education	symptom awareness
+acute posthemorrhagic anemia	crossmatch	compatibility testing
+acute posthemorrhagic anemia	crossmatch	blood type compatibility
+acute posthemorrhagic anemia	transfusion safety	policies
+acute posthemorrhagic anemia	ethical consideration	transfusion decisions
+acute posthemorrhagic anemia	policy	blood product stewardship
+acute posthemorrhagic anemia	quality metric	time to bleeding control
+acute posthemorrhagic anemia	quality metric	time to transfusion
+acute posthemorrhagic anemia	population health	burden on care systems
+acute posthemorrhagic anemia	training	rapid assessment
+acute posthemorrhagic anemia	education	patient awareness
+acute posthemorrhagic anemia	management principle	early bleeding control
+acute posthemorrhagic anemia	management principle	hemodynamic stabilization
+acute posthemorrhagic anemia	measurement	hemoglobin concentration
+acute posthemorrhagic anemia	measurement	hematocrit level
+acute posthemorrhagic anemia	measurement	reticulocyte count
+acute posthemorrhagic anemia	pathogenesis	hemorrhage
+acute posthemorrhagic anemia	therapy goal	restore perfusion
+acute posthemorrhagic anemia	therapy goal	stop bleeding
+acute posthemorrhagic anemia	outcome research	transfusion thresholds
+acute posthemorrhagic anemia	patient outcome	discharge with stable vitals
+acute posthemorrhagic anemia	predictive factor	volume of blood loss
+acute posthemorrhagic anemia	predictive factor	preexisting anemia
+acute posthemorrhagic anemia	research endpoint	improvement in Hb
+acute posthemorrhagic anemia	system	emergency care
+acute posthemorrhagic anemia	final status	resolution

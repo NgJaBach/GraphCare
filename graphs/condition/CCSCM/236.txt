@@ -1,176 +1,100 @@
-open wounds of extremities	is associated with	infection
-open wounds of extremities	is associated with	sepsis
-open wounds of extremities	increases	length of stay
-open wounds of extremities	increases	readmission
-open wounds of extremities	increases	mortality
-open wounds of extremities	predicts	antibiotic use
-open wounds of extremities	requires	debridement
-open wounds of extremities	necessitates	wound closure
-open wounds of extremities	predisposes to	necrosis
-open wounds of extremities	predisposes to	osteomyelitis
-open wounds of extremities	associated with	edema
-open wounds of extremities	associated with	bleeding
-open wounds of extremities	predisposes to	instability
-open wounds of extremities	increases	hospitalization costs
-open wounds of extremities	increases	ICU admission
-open wounds of extremities	increases	length of stay
-open wounds of extremities	increases	cost of care
-open wounds of extremities	associated with	hospital readmission
-open wounds of extremities	associated with	wound infection
-open wounds of extremities	associated with	septicemia
-open wounds of extremities	associated with	amputation
-open wounds of extremities	requires	skin graft
-open wounds of extremities	requires	vascular repair
-open wounds of extremities	predicts	wound healing time
-open wounds of extremities	associated with	scar formation
-open wounds of extremities	predicts	rehabilitation needs
-open wounds of extremities	predicts	antibiotic duration
-open wounds of extremities	increases	transfusion requirement
-open wounds of extremities	increases	hospital length of stay
-open wounds of extremities	increases	mortality risk
-open wounds of extremities	increases	wound complications
-open wounds of extremities	correlates with	necrosis risk
-open wounds of extremities	correlates with	infection severity
-open wounds of extremities	associated with	diabetes
-open wounds of extremities	associated with	smoking
-open wounds of extremities	associated with	peripheral vascular disease
-open wounds of extremities	associated with	malnutrition
-open wounds of extremities	worsens	pain
-open wounds of extremities	increases	ICU length of stay
-open wounds of extremities	increases	hospital cost
-open wounds of extremities	associated with	discharge destination
-open wounds of extremities	associated with	rehabilitation outcome
-open wounds of extremities	associated with	nutrition status
-open wounds of extremities	associated with	diabetes mellitus
-open wounds of extremities	associated with	obesity
-open wounds of extremities	associated with	immune suppression
-open wounds of extremities	associated with	age
-open wounds of extremities	increases	wound chronicity
-open wounds of extremities	increases	scar formation
-open wounds of extremities	is associated with	infection severity
-wound	is associated with	infection
-wound	increases	healing time
-wound	requires	debridement
-wound	predicts	hospital length of stay
-wound	increases	transfusion requirement
-wound	predisposes to	osteomyelitis
-wound	associated with	necrosis
-wound	associated with	scarring
-wound	leads to	amputation
-wound	increases	antibiotic duration
-wound	increases	inpatient cost
-wound	predicted	wound healing time
-wound	predicts	readmission
-wound	associated with	discharge destination
-wound	associated with	rehabilitation
-wound	associated with	nutrition status
-wound	associated with	diabetes
-wound	associated with	obesity
-wound	associated with	immune suppression
-wound	associated with	age
-wound	increases	wound chronicity
-wound	increases	scar formation
-open wounds of extremities	is associated with	infection severity
-puncture wound	is associated with	infection
-puncture wound	increases	risk of sepsis
-puncture wound	requires	debridement
-puncture wound	predicts	outcome
-puncture wound	leads to	osteomyelitis
-puncture wound	increases	antibiotic duration
-puncture wound	associated with	wound closure delay
-crush injury wound	associated with	bone fracture
-crush injury wound	increases	edema
-crush injury wound	requires	fasciotomy
-crush injury wound	leads to	necrosis
-crush injury wound	predicts	hospital length of stay
-crush injury wound	associated with	infection
-crush injury wound	predicts	readmission
-crush injury wound	causes	functional impairment
-crush injury wound	associated with	pain
-crush injury wound	increases	rehabilitation needs
-crush injury wound	increases	ICU stay
-open wounds of extremities	increases	antibiotic duration
-open wounds of extremities	associated with	wound dehiscence
-open wounds of extremities	associated with	graft failure
-abrasion	is associated with	infection
-abrasion	increases	healing time
-abrasion	requires	debridement
-abrasion	predicts	hospital length of stay
-abrasion	leads to	scar formation
-abrasion	increases	wound closure time
-wound	is associated with	infection
-laceration	is associated with	infection
-laceration	increases	healing time
-laceration	requires	debridement
-laceration	predicts	hospital length of stay
-laceration	associated with	necrosis
-laceration	leads to	scar formation
-laceration	worsens	pain
-puncture wound	is associated with	infection
-puncture wound	increases	risk of sepsis
-puncture wound	requires	debridement
-puncture wound	predicts	outcome
-puncture wound	leads to	osteomyelitis
-puncture wound	increases	antibiotic duration
-puncture wound	associated with	wound closure delay
-abrasion	is associated with	infection
-abrasion	increases	healing time
-abrasion	requires	debridement
-abrasion	predicts	hospital length of stay
-abrasion	leads to	scar formation
-abrasion	increases	wound closure time
-open wounds of extremities	leads to	graft failure
-open wounds of extremities	leads to	knee impairment
-open wounds of extremities	leads to	functional impairment
-open wounds of extremities	leads to	gait impairment
-open wounds of extremities	leads to	mobility limitation
-open wounds of extremities	leads to	chronic pain
-open wounds of extremities	leads to	infection recurrence
-open wounds of extremities	leads to	chronic wounds
-open wounds of extremities	leads to	rehabilitation outcome
-open wounds of extremities	leads to	quality of life decline
-open wounds of extremities	leads to	long-term care
-open wounds of extremities	leads to	caregiver burden
-open wounds of extremities	leads to	expense
-open wounds of extremities	leads to	resource use
-open wounds of extremities	leads to	wound recurrence
-open wounds of extremities	leads to	readmission risk
-open wounds of extremities	leads to	mortality risk
-wound	leads to	graft failure
-wound	leads to	scar formation
-wound	leads to	rehabilitation outcome
-wound	leads to	functional impairment
-wound	leads to	mobility limitations
-wound	leads to	chronic pain
-wound	leads to	expense
-wound	leads to	caregiver burden
-wound	leads to	readmission risk
-wound	leads to	mortality risk
-wound healing time	is influenced by	nutrition status
-wound healing time	is influenced by	diabetes
-scar formation	is influenced by	age
-scar formation	is influenced by	infection severity
-scar formation	is influenced by	wound depth
-scar formation	is influenced by	wound location
-scar formation	is influenced by	blood flow
-scar formation	is influenced by	smoking
-scar formation	is influenced by	nutrition
-scar formation	is influenced by	comorbidities
-scar formation	is influenced by	immune status
-scar formation	is influenced by	vascular disease
-scar formation	is influenced by	BMI
-scar formation	is influenced by	wound care
-scar formation	is influenced by	infection control
-scar formation	is influenced by	debridement timing
-scar formation	is influenced by	antibiotic timing
-scar formation	is influenced by	immobilization
-scar formation	is influenced by	pressure
-scar formation	is influenced by	edema
-scar formation	is influenced by	perfusion
-scar formation	is influenced by	nutrition
-scar formation	is influenced by	diabetes
-scar formation	is influenced by	smoking
-scar formation	is influenced by	age
-scar formation	is influenced by	immune status
-scar formation	is influenced by	vascular disease
-scar formation	is influenced by	obesity
+open wounds of extremities	is a	wound
+open wounds of extremities	predispose to	infection
+open wounds of extremities	may cause	sepsis
+open wounds of extremities	increases	risk of amputation
+diabetes mellitus	is risk factor for	open wounds of extremities
+diabetes mellitus	impairs	wound healing
+diabetes mellitus	predisposes to	infection
+hypertension	associated with	peripheral vascular disease
+obesity	associated with	wound infection risk
+neuropathy	leads to	unnoticed injuries
+staphylococcus aureus	colonizes	open wounds of extremities
+pseudomonas aeruginosa	contaminates	open wounds of extremities
+streptococcus species	cause	cellulitis adjacent to wound
+biofilm	forms on	wound surface
+bacteria	colonize	wound bed
+MRSA	complicates	open wounds of extremities
+fungal infection	coexists with	chronic wounds
+white blood cell count	elevated in	wound infection
+c-reactive protein	elevated	wound infection
+erythrocyte sedimentation rate	elevated	wound infection
+x-ray	reveals	osteomyelitis
+magnetic resonance imaging	assesses	soft tissue involvement
+bone scan	confirms	osteomyelitis
+necrotic tissue	present in	open wounds of extremities
+ischemia	present in	open wounds of extremities
+ulcer	may develop from	open wounds of extremities
+debridement	is a	treatment for open wounds of extremities
+surgical debridement	reduces	necrotic tissue
+wet-to-dry dressings	used for	wound management
+hydrogel dressing	provides	moisture to wound
+silver dressings	possess	antimicrobial activity
+antibiotics	treat	wound infection
+topical antiseptics	may be used for	wound cleansing
+systemic antibiotics	used for	deeper infection
+negative pressure wound therapy	accelerates	granulation tissue formation
+hyperbaric oxygen therapy	adjuncts to	wound healing
+vacuum-assisted closure	is a	negative pressure wound therapy
+wound closure	may be	primary closure
+necrosis	impedes	healing
+edema	impedes	wound healing
+infection	prolongs	hospitalization
+soft tissue infection	increases	amputation risk
+osteomyelitis	necessitates	surgical intervention
+diabetic foot	related to	open wounds of extremities
+foot care education	reduces	ulcer recurrence
+offloading	reduces	pressure on wound
+proper footwear	prevents	foot trauma
+glycemic control	improves	wound healing
+vascular reconstruction	may improve	wound healing
+revascularization	improves	perfusion
+amputation	may be required for	nonhealing wounds
+hospitalization	needed for	severe wound infection
+skin graft	used for	wound coverage
+skin substitute	used for	wound coverage
+dressing change	reduces	contamination risk
+antibiotic prophylaxis	used for	open wounds of extremities
+tetanus vaccination	recommended for	open wounds of extremities
+wound bed preparation	aims for	granulation
+granulation tissue	forms	wound bed
+neutrophil	fights	bacteria
+macrophage	mediates	wound healing
+old age	associated with	poor wound healing
+smoking	impairs	wound healing
+malnutrition	impairs	wound healing
+anemia	worsens	tissue oxygen delivery
+kidney disease	worsens	wound healing
+immunosuppression	increases	infection risk
+hypoxemia	reduces	oxygen delivery
+diabetic neuropathy	leads to	foot ulcers
+peripheral neuropathy	leads to	unnoticed injuries
+leg edema	associated with	wound infection risk
+venous stasis	predisposes to	edema
+tissue culture	identifies	pathogen
+wound swab	detects	bacteria
+blood culture	detects	bacteremia
+bone biopsy	confirms	osteomyelitis
+abscess	may form in	wound
+cultured organism	guides	antibiotic choice
+granulation tissue	signals	healing progress
+scarring	follows	wound healing
+skin graft failure	leads to	additional surgery
+nutrition therapy	supports	wound healing
+pressure relief	aids	wound healing
+oxygenation	supports	wound healing
+vascular insufficiency	causes	poor perfusion
+necrotic tissue	harbor	bacteria
+biofilm	hinders	antibiotic penetration
+antibiotic penetration	limited by	biofilm
+wound dressing	protects	wound bed
+infection control	improves	outcome
+early debridement	improves	healing time
+chlorhexidine	used for	wound cleansing
+iodine	used for	wound cleansing
+gentamicin	used for	wound infection
+vancomycin	reserved for	MRSA infection
+wound debridement	reduces	bacterial load
+pain	managed by	analgesics
+analgesics	provide	pain relief
+sepsis	increases	mortality
+open wounds of extremities	impacts	quality of life

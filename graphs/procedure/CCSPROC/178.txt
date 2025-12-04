@@ -1,0 +1,100 @@
+ct scan chest	is a	medical imaging modality
+ct scan chest	uses	ionizing radiation
+ct scan chest	provides	cross-sectional images
+ct scan chest	provides	3D reconstructions
+ct scan chest	used for	evaluation of thoracic structures
+ct scan chest	used for	chest pain evaluation
+ct scan chest	used for	trauma evaluation
+ct scan chest	detects	pulmonary embolism
+ct scan chest	detects	pneumonia
+ct scan chest	detects	pleural effusion
+ct scan chest	detects	pneumothorax
+ct scan chest	detects	mediastinal mass
+ct scan chest	detects	lung nodule
+ct scan chest	detects	aortic aneurysm
+ct scan chest	detects	aortic dissection
+ct scan chest	detects	mediastinal widening
+ct scan chest	detects	calcification
+ct scan chest	evaluates	heart size
+ct scan chest	evaluates	mediastinal structures
+ct scan chest	visualizes	coronary arteries
+ct scan chest	assesses	hilar lymphadenopathy
+ct scan chest	detects	pulmonary edema
+ct scan chest	reveals	ground-glass opacity
+ct scan chest	reveals	consolidation
+ct scan chest	reveals	fibrosis
+ct scan chest	detects	emphysema
+ct scan chest	detects	bronchiectasis
+ct scan chest	detects	lymphadenopathy
+ct scan chest	detects	thymic mass
+ct scan chest	detects	mediastinal lymphadenopathy
+ct scan chest	detects	thoracic aortic aneurysm
+ct scan chest	detects	pulmonary nodules
+ct scan chest	detects	pleural plaques
+ct scan chest	detects	signs of infection
+ct scan chest	supports	oncologic staging
+ct scan chest	supports	treatment planning
+ct scan chest	guides	biopsy planning
+ct scan chest	guides	radiation therapy planning
+ct scan chest	used for	cancer surveillance
+ct scan chest	used for	infection follow-up
+ct scan chest	used for	preoperative evaluation
+ct scan chest	used for	post-operative evaluation
+ct scan chest	influences	clinical management
+ct scan chest	influences	admission decisions
+ct scan chest	influences	discharge planning
+ct scan chest	provides	baseline imaging
+ct scan chest	yields	diagnostic information
+ct scan chest	provides	radiology report
+ct scan chest	supports	prognosis estimation
+ct scan chest	correlates with	oxygenation status
+pulmonary embolism	increases	mortality risk
+pulmonary embolism	increases	readmission risk
+lung mass	raises	suspicion of malignancy
+lung mass	requires	biopsy
+lung nodule	requires	follow-up imaging
+pleural effusion	indicates	fluid overload
+pneumothorax	requires	chest tube
+mediastinal mass	requires	biopsy
+mediastinal lymphadenopathy	suggests	infection or malignancy
+edema	indicates	congestive heart failure
+ground-glass opacity	indicates	inflammatory process
+consolidation	indicates	bacterial infection
+fibrosis	indicates	prior injury
+emphysema	indicates	smoking-related disease
+bronchiectasis	indicates	chronic infection
+interstitial markings	indicate	interstitial disease
+pulmonary nodules	require	follow-up imaging
+thoracic aorta	shows	aneurysm
+aortic aneurysm	risks	rupture
+aortic dissection	risks	sudden death
+postoperative changes	mimic	pathology
+calcified plaque	indicates	atherosclerosis
+vascular remodeling	indicates	chronic disease
+atelectasis	indicates	airway obstruction
+pleural effusion	causes	dyspnea
+pneumonia	presents	consolidation on CT
+lung cancer	detected	by ct scan chest
+ct scan chest	facilitates	rapid triage
+ct scan chest	enables	emergency decision making
+contrast enhancement	improves	detection of vascular lesions
+non-contrast ct chest	reduces	radiation dose
+cta chest	identifies	pulmonary embolism
+cta chest	guides	management of PE
+ct scan chest	used in	preoperative assessment
+ct scan chest	used in	cancer surveillance
+ct scan chest	used in	evaluation of trauma sequelae
+ct scan chest	used for	fever evaluation
+ct scan chest	used for	non-resolving pneumonia evaluation
+ct scan chest	used for	suspected aortic disease evaluation
+ct scan chest	used for	lung transplant evaluation
+ct scan chest	used for	chest wall abnormality assessment
+ct scan chest	used for	assessment of thoracic aorta
+emphysema	can be quantified by	CT chest
+bronchiectasis	severity	assessed by CT chest
+atelectasis	can be caused by	airway obstruction
+lung edema pattern	on ct scan chest	suggests	heart failure
+vascular congestion	on ct scan chest	suggests	left heart failure
+pleural effusion	on ct scan chest	indicates	fluid collection
+pneumothorax	visible on ct scan chest	as	collapsed lung
+rib fracture	detected by	ct scan chest

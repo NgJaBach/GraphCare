@@ -1,0 +1,100 @@
+penile ultrasound	is a	diagnostic procedure
+penile ultrasound	used for	erectile dysfunction
+penile ultrasound	can detect	penile blood flow
+scrotal ultrasound	is a	diagnostic procedure
+scrotal ultrasound	used for	testicular pathology
+scrotal ultrasound	can detect	testicular torsion
+penile Doppler ultrasound	is a	diagnostic imaging
+penile Doppler ultrasound	used for	vascular assessment
+penile Doppler ultrasound	can detect	penile ischemia
+penile MRI	is a	diagnostic imaging
+penile MRI	used for	penile pathology
+penile MRI	can detect	penile plaque
+urethrogram	is a	diagnostic imaging
+urethrogram	can detect	urethral stricture
+urethrogram	used for	urinary tract evaluation
+cystoscopy	is a	diagnostic procedure
+cystoscopy	used for	urethral visualization
+cystoscopy	can detect	urethral stricture
+uroflowmetry	is a	diagnostic test
+uroflowmetry	used for	voiding dysfunction
+uroflowmetry	can measure	urine flow rate
+semen analysis	is a	diagnostic test
+semen analysis	used for	male infertility evaluation
+testicular ultrasound	is a	diagnostic imaging
+testicular ultrasound	used for	testicular pathology
+testicular ultrasound	can detect	testicular mass
+color Doppler ultrasound	is a	diagnostic imaging
+color Doppler ultrasound	used for	vascular assessment
+color Doppler ultrasound	can detect	vascular insufficiency
+duplex ultrasound	is a	diagnostic imaging
+duplex ultrasound	used for	penile vascular assessment
+duplex ultrasound	can detect	venous leak
+voiding cystourethrogram	is a	diagnostic imaging
+voiding cystourethrogram	used for	bladder outlet obstruction
+voiding cystourethrogram	can detect	urethral stricture
+penile arteriography	is a	diagnostic imaging
+penile arteriography	used for	penile arterial evaluation
+penile arteriography	can detect	arterial occlusion
+penile venography	is a	diagnostic imaging
+penile venography	used for	penile venous insufficiency
+penile venography	can detect	venous leak
+intracavernosal injection test	is a	diagnostic test
+intracavernosal injection test	used for	erectile function assessment
+intracavernosal injection test	can evaluate	penile vasculature
+penile thermography	is a	diagnostic test
+penile thermography	used for	erectile function assessment
+penile thermography	can detect	penile ischemia
+epididymal ultrasound	is a	diagnostic imaging
+epididymal ultrasound	used for	epididymal pathology
+epididymal ultrasound	can detect	scrotal mass
+testicular Doppler ultrasound	is a	diagnostic imaging
+testicular Doppler ultrasound	used for	testicular torsion evaluation
+testicular Doppler ultrasound	can detect	testicular perfusion
+pelvic ultrasound	is a	diagnostic imaging
+pelvic ultrasound	used for	pelvic organ evaluation
+penile elastography	is a	diagnostic imaging
+penile elastography	used for	penile tissue assessment
+penile elastography	can detect	fibrosis
+scrotal elastography	is a	diagnostic imaging
+scrotal elastography	used for	scrotal tissue assessment
+scrotal elastography	can detect	edema
+scrotal ultrasound with Doppler	is a	diagnostic imaging
+scrotal ultrasound with Doppler	used for	venous assessment
+scrotal ultrasound with Doppler	can detect	varicocele
+voiding uroflowmetry	is a	diagnostic test
+voiding uroflowmetry	used for	voiding dysfunction
+voiding uroflowmetry	can measure	maximum flow rate
+urethral calibration	is a	diagnostic procedure
+urethral calibration	used for	urethral stenosis assessment
+urethral calibration	can measure	calibration length
+penile angiography	is a	diagnostic imaging
+penile angiography	used for	penile arterial anatomy
+penile angiography	can detect	arterial occlusion
+penile venous mapping	is a	diagnostic imaging
+penile venous mapping	used for	venous insufficiency assessment
+penile venous mapping	can detect	venous leak
+penile vascular imaging	is a	diagnostic imaging
+penile vascular imaging	used for	penile blood flow evaluation
+penile vascular imaging	can detect	vascular insufficiency
+transillumination test	is a	diagnostic test
+transillumination test	used for	hydrocele evaluation
+transillumination test	can detect	scrotal hydrocele
+Peyronie's disease imaging	is a	diagnostic procedure
+Peyronie's disease imaging	used for	penile curvature assessment
+penile curvature assessment	is a	diagnostic test
+penile curvature assessment	used for	erectile dysfunction evaluation
+penile curvature assessment	can detect	curvature
+penile nerve conduction testing	is a	diagnostic test
+penile nerve conduction testing	used for	neurogenic erectile dysfunction evaluation
+penile nerve conduction testing	can assess	penile nerve function
+penile tissue biopsy	is a	diagnostic procedure
+penile tissue biopsy	used for	penile tumor evaluation
+penile tissue biopsy	can detect	malignancy
+hydrocele ultrasound	is a	diagnostic imaging
+hydrocele ultrasound	used for	hydrocele evaluation
+hydrocele ultrasound	can detect	scrotal fluid
+scrotal elastography	is a	diagnostic imaging
+scrotal elastography	used for	scrotal tissue assessment
+scrotal elastography	can detect	fibrosis
+ultrasound-guided biopsy	is a	diagnostic procedure

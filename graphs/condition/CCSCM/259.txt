@@ -1,109 +1,100 @@
-residual code	is a	diagnostic code
-residual code	is a	billing code
-residual code	is a	ICD-10 code
-residual code	is a	SNOMED code
-residual code	is a	data element
-residual code	is a	coding artifact
-unclassified residual code	is a	diagnostic code
-unclassified residual code	is a	billing code
-unclassified residual code	is a	ICD-10 code
-residual code	predicts	readmission
-residual code	predicts	mortality
-residual code	predicts	length of stay
-residual code	predicts	cost
-residual code	predicts	discharge disposition
-residual code	correlates with	comorbidity index
-residual code	correlates with	severity score
-residual code	associated with	coding delay
+residual code	is a	medical code
+unclassified code	is a	medical code
+residual code	belongs to	ICD-10-CM
+unclassified code	belongs to	ICD-9-CM
+residual code	used for	non-specific diagnosis
+unclassified code	used for	unspecified diagnosis
+residual code	mapped to	diagnosis
+unclassified code	mapped to	disease category
+residual code	indicates	ambiguity in coding
+unclassified code	indicates	missing data
 residual code	associated with	data quality issue
+unclassified code	associated with	coding error
+residual code	present in	hospital record
+unclassified code	present in	administrative data
+residual code	stored in	coding system
+unclassified code	stored in	billing system
 residual code	appears in	discharge summary
-residual code	appears in	operative report
-residual code	found in	medical record
-residual code	found in	claims data
-residual code	used for	risk adjustment
-residual code	used for	outcome prediction
-residual code	linked to	hospital readmission risk
-residual code	linked to	inpatient mortality
-residual code	relates to	patient acuity
-residual code	relates to	diagnostic uncertainty
-residual code	indicates	data quality issue
-residual code	indicates	coding error
-residual code	associated with	billing denial
-residual code	associated with	payer rejection
-residual code	influences	resource utilization
-residual code	influences	length of hospital stay
-residual code	impacts	hospital cost
-residual code	impacts	discharge timing
-residual code	drives	triage decisions
-residual code	drives	admission type
+unclassified code	appears in	physician note
+residual code	used by	coder
+unclassified code	used by	auditor
+residual code	leads to	incomplete chart
+unclassified code	leads to	data loss
+residual code	captured by	billing code
+unclassified code	captured by	claim form
+residual code	reviewed by	coding supervisor
+unclassified code	reviewed by	clinician
+residual code	triggers	denial reason
+unclassified code	triggers	review process
+residual code	replaces	diagnosis code
+unclassified code	replaces	exact diagnosis code
+residual code	crosseswalks to	ICD-10-CM
+unclassified code	crosseswalks to	SNOMED CT
+residual code	maps to	broad diagnosis category
+unclassified code	maps to	broad category
+residual code	is a	insufficient detail code
+unclassified code	is a	insufficient detail code
+residual code	is used in	retrospective coding
+unclassified code	is used in	prospective coding
+residual code	is reported as	other diagnosis
+unclassified code	is reported as	miscellaneous diagnosis
+residual code	has	ambiguity
+unclassified code	has	ambiguity
 residual code	contributes to	misclassification
-residual code	contributes to	documentation gaps
-residual code	correlates with	patient age
-residual code	correlates with	comorbidity burden
-residual code	associated with	emergency department visit
-residual code	associated with	intensive care admission
-residual code	linked with	organ failure
-residual code	linked with	sepsis risk
-residual code	related to	diagnostic coding uncertainty
-residual code	related to	chart lag
-residual code	indicates	coding lag
-residual code	indicates	billing complexity
-residual code	included in	quality measure
-residual code	included in	reimbursement report
-residual code	part of	administrative data
-residual code	part of	clinical documentation
-residual code	present in	patient record
-residual code	present in	chart note
-residual code	present in	discharge plan
-residual code	observed with	coding discrepancy
-residual code	observed with	documentation error
-residual code	appears with	late entry
-unclassified residual code	predicts	readmission
-unclassified residual code	predicts	mortality
-unclassified residual code	predicts	length of stay
-unclassified residual code	predicts	cost
-unclassified residual code	correlates with	comorbidity index
-unclassified residual code	correlates with	severity score
-unclassified residual code	associated with	coding delay
-unclassified residual code	associated with	data quality issue
-unclassified residual code	appears in	discharge summary
-unclassified residual code	appears in	operative report
-unclassified residual code	found in	medical record
-unclassified residual code	found in	claims data
-unclassified residual code	used for	risk adjustment
-unclassified residual code	used for	outcome prediction
-unclassified residual code	linked to	hospital readmission risk
-unclassified residual code	linked to	inpatient mortality
-unclassified residual code	relates to	patient acuity
-unclassified residual code	relates to	diagnostic uncertainty
-unclassified residual code	indicates	data quality issue
-unclassified residual code	indicates	coding error
-unclassified residual code	associated with	billing denial
-unclassified residual code	associated with	payer rejection
-unclassified residual code	influences	resource utilization
-unclassified residual code	influences	length of hospital stay
-unclassified residual code	impacts	hospital cost
-unclassified residual code	impacts	discharge timing
-unclassified residual code	drives	triage decisions
-unclassified residual code	drives	admission type
-unclassified residual code	contributes to	misclassification
-unclassified residual code	contributes to	documentation gaps
-unclassified residual code	correlates with	patient age
-unclassified residual code	correlates with	comorbidity burden
-unclassified residual code	associated with	emergency department visit
-unclassified residual code	associated with	intensive care admission
-unclassified residual code	linked with	organ failure
-unclassified residual code	linked with	sepsis risk
-unclassified residual code	related to	diagnostic coding uncertainty
-unclassified residual code	related to	chart lag
-unclassified residual code	indicates	coding lag
-unclassified residual code	indicates	billing complexity
-unclassified residual code	included in	quality measure
-unclassified residual code	included in	reimbursement report
-unclassified residual code	part of	administrative data
-unclassified residual code	part of	clinical documentation
-unclassified residual code	present in	patient record
-unclassified residual code	present in	chart note
-unclassified residual code	present in	discharge plan
-unclassified residual code	observed with	coding discrepancy
-unclassified residual code	observed with	documentation error
+unclassified code	contributes to	misclassification
+residual code	is associated with	uncertain diagnosis
+unclassified code	is associated with	uncertain diagnosis
+residual code	is used for	billing rework
+unclassified code	is used for	clinical research
+residual code	documented in	patient chart
+unclassified code	documented in	administrative record
+residual code	requires	follow-up coding
+unclassified code	requires	manual review
+residual code	found in	data warehouse
+unclassified code	found in	health information management system
+residual code	triggers	downstream codes
+unclassified code	triggers	data quality alert
+residual code	replaced by	legitimate code
+unclassified code	replaced by	standard code
+residual code	associated with	outpatient record
+unclassified code	associated with	inpatient record
+residual code	linked to	billing denial
+unclassified code	linked to	claim adjustment
+residual code	appears in	code set
+unclassified code	appears in	coding log
+residual code	persists in	historical data
+unclassified code	persists in	archival record
+residual code	flagged in	audit
+unclassified code	flagged in	compliance check
+residual code	unresolved in	chart draft
+unclassified code	unresolved in	coding review
+residual code	is part of	diagnostic coding
+unclassified code	is part of	coding standard
+residual code	derived from	non-specific entry
+unclassified code	derived from	vague note
+residual code	used during	retrospective audit
+unclassified code	used during	prospective audit
+residual code	discontinued in	updated coding system
+unclassified code	discontinued in	updated standard
+residual code	superseded by	preferred code
+unclassified code	superseded by	standard code
+residual code	documented as	generic diagnosis
+unclassified code	documented as	generic diagnosis
+residual code	tagged as	miscellaneous code
+unclassified code	tagged as	miscellaneous code
+residual code	included in	data extraction
+unclassified code	included in	data extraction
+residual code	invalidated by	system update
+unclassified code	invalidated by	routine clean-up
+residual code	validated against	reference standard
+unclassified code	validated against	reference standard
+residual code	clustered with	related codes
+unclassified code	clustered with	related codes
+residual code	alphabetically grouped with	codes
+unclassified code	alphabetically grouped with	codes
+residual code	used in	billing claim
+unclassified code	used in	patient claim
+residual code	flagged by	coder quality check
+unclassified code	flagged by	chart reconciliation
+residual code	archived in	coding repository
+unclassified code	archived in	coding repository

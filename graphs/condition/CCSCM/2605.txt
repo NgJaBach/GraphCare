@@ -1,96 +1,100 @@
-gunshot wound	is a	penetrating trauma
-gunshot wound	is caused by	firearm discharge
-gunshot wound	is coded by	firearm e-code
-gunshot wound	may cause	hemorrhage
-gunshot wound	may cause	pneumothorax
-gunshot wound	may cause	hemothorax
-gunshot wound	may cause	cardiac tamponade
-gunshot wound	may cause	vascular injury
-gunshot wound	may cause	bowel perforation
-gunshot wound	may cause	liver laceration
-gunshot wound	may cause	splenic injury
-gunshot wound	may cause	intracranial injury
-gunshot wound	may cause	skull fracture
-gunshot wound	may cause	brain injury
-gunshot wound	may cause	spinal cord injury
-gunshot wound	may cause	nerve injury
-gunshot wound	involves	skull
-gunshot wound	involves	brain
-gunshot wound	involves	heart
-gunshot wound	involves	lung
-gunshot wound	involves	liver
-gunshot wound	involves	spleen
-gunshot wound	involves	intestine
-gunshot wound	involves	kidney
-gunshot wound	involves	bone fracture
-gunshot wound	diagnosed with	CT scan
-gunshot wound	diagnosed with	X-ray
-gunshot wound	diagnosed with	FAST ultrasound
-gunshot wound	treated with	surgery
-surgery	is performed for	gunshot wound
-surgery	may include	debridement
-surgery	may include	vascular repair
-surgery	may include	craniotomy
-surgery	may include	thoracotomy
-gunshot wound	may require	chest tube
-gunshot wound	may require	mechanical ventilation
-gunshot wound	may require	blood transfusion
-gunshot wound	may require	ICU admission
-gunshot wound	may require	rehabilitation
-gunshot wound	leads to	hospital admission
-gunshot wound	leads to	ICU admission
-gunshot wound	leads to	hospital stay
-gunshot wound	leads to	length of stay
-gunshot wound	leads to	mortality
-gunshot wound	increases	complication rate
-gunshot wound	increases	risk of infection
-gunshot wound	increases	risk of sepsis
-gunshot wound	increases	risk of hemorrhagic shock
-gunshot wound	associated with	pneumonia
-gunshot wound	associated with	acute respiratory distress syndrome
-gunshot wound	associated with	urinary retention
-gunshot wound	associated with	sexual dysfunction
-gunshot wound	associated with	PTSD
-gunshot wound	results in	disability
-gunshot wound	results in	cognitive impairment
-gunshot wound	results in	paralysis
-gunshot wound	results in	amputation
-gunshot wound	results in	scarring
-gunshot wound	increases	healthcare cost
-gunshot wound	requires	tetanus vaccination
-firearm injury	is a	preventable injury
-gunshot wound	is coded by	external cause code
-external cause code	is used for	firearm injuries
-gunshot wound	is associated with	homicide
-gunshot wound	is associated with	suicide
-gunshot wound	is associated with	accidental injury
-gunshot wound	has	mortality risk
-gunshot wound	correlates with	injury severity score
-injury severity score	correlates with	mortality
-gunshot wound	correlates with	ICU length of stay
-gunshot wound	correlates with	hospital expenditure
-gunshot wound	correlates with	rehabilitation needs
-gunshot wound	is followed by	medical follow-up
-gunshot wound	is followed by	surgical follow-up
-gunshot wound	is followed by	psychiatric follow-up
-gunshot wound	is linked to	chronic pain
-gunshot wound	is linked to	cognitive decline
-gunshot wound	is linked to	mobility impairment
-gunshot wound	is linked to	social vulnerability
-gunshot wound	requires	limb amputation
-gunshot wound	requires	skin graft
-gunshot wound	requires	physical therapy
-gunshot wound	requires	occupational therapy
-gunshot wound	results in	scar formation
-gunshot wound	is coded as	violent injury
-gunshot wound	is coded as	intentional injury
-gunshot wound	is associated with	elder injury
-gunshot wound	is associated with	pediatric injury
-gunshot wound	is associated with	adult injury
-gunshot wound	is associated with	male patients
-gunshot wound	is associated with	female patients
-gunshot wound	is associated with	urban setting
-gunshot wound	is associated with	rural setting
-gunshot wound	is associated with	delay in EMS transport
-gunshot wound	is associated with	prehospital EMS time
-gunshot wound	is associated with	time to definitive care
+firearm injury	is a	traumatic injury
+gunshot wound	is a	firearm injury
+gunshot wound	is penetrating injury
+firearm injury	is coded by	e-code
+gunshot wound	is coded by	e-code
+e-code	designates	firearm injury
+external cause code	documents	firearm injury
+firearm injury	associated with	assault
+firearm injury	associated with	self-harm
+gunshot wound	associated with	hemorrhage
+gunshot wound	associated with	shock
+gunshot wound	requires	hospital admission
+gunshot wound	requires	emergency care
+gunshot wound	requires	surgical procedure
+gunshot wound	requires	wound debridement
+gunshot wound	requires	blood transfusion
+gunshot wound	requires	imaging
+gunshot wound	requires	CT scan
+gunshot wound	requires	ICU care
+firearm injury	increases	length of stay
+gunshot wound	increases	hospital cost
+gunshot wound	increases	mortality risk
+gunshot wound	increases	readmission risk
+gunshot wound	predicts	disability
+firearm injury	predicts	long-term impairment
+gunshot wound	associated with	polytrauma
+gunshot wound	associated with	chest injury
+gunshot wound	associated with	abdominal injury
+gunshot wound	associated with	extremity injury
+gunshot wound	associated with	spinal injury
+gunshot wound	associated with	traumatic brain injury
+gunshot wound	mechanism	penetrating trauma
+gunshot wound	mechanism	ballistic injury
+firearm injury	mechanism	projectile injury
+pelvic fracture	associated with	firearm injury
+abdominal injury	associated with	firearm injury
+thoracic injury	associated with	firearm injury
+facial injury	associated with	firearm injury
+polytrauma	requires	multidisciplinary care
+polytrauma	leads to	long-term disability
+polytrauma	increases	hospital length of stay
+intensive care unit	used for	firearm injury
+ventilator support	used for	firearm injury
+blood transfusion	given for	firearm injury
+antibiotics	given for	firearm injury
+tetanus prophylaxis	given for	firearm injury
+surgical procedure	performed for	firearm injury
+wound debridement	performed for	firearm injury
+wound irrigation	performed for	firearm injury
+analgesia	provided for	firearm injury
+rehabilitation	required after	firearm injury
+physical therapy	needed after	firearm injury
+occupational therapy	needed after	firearm injury
+pain management	provided for	firearm injury
+PTSD	occurs after	firearm injury
+depression	occurs after	firearm injury
+anxiety	occurs after	firearm injury
+PTSD	diagnosed after	firearm injury
+care plan created for	firearm injury
+follow-up	recommended after	firearm injury
+clinic visit scheduled after	firearm injury
+injury surveillance	uses	e-code
+injury surveillance	informs	prevention policy
+public health	informs	firearm control
+billing code	codes for	firearm injury
+medical record	contains	e-code
+e-code	tracks	firearm injury
+injury registry	collects	firearm injury data
+emergency department	treats	firearm injury
+trauma center	treats	firearm injury
+emergency department	evaluates	firearm injury
+radiology department	performs	imaging
+wound management	involves	debridement
+surgical team	performs	debridement
+wound culture	performed for	firearm injury
+antibiotic therapy	initiated for	firearm injury
+tetanus vaccination	given for	firearm injury
+pain score	used to assess	firearm injury
+rehabilitation services	provided after	firearm injury
+return-to-work	depends on	firearm injury
+workplace accommodations	required after	firearm injury
+mental health support	needed after	firearm injury
+PTSD	treated with	psychotherapy
+psychotherapy	reduces	PTSD symptoms
+firearm injury	impacts	quality of life
+quality of life	reduced by	firearm injury
+functional status	worsened by	firearm injury
+mortality	associated with	firearm injury
+in-hospital death	occurs with	firearm injury
+discharge disposition	includes	home health care
+home health care	required after	firearm injury
+cost	estimated for	firearm injury
+insurance coverage	covers	firearm injury treatment
+coding accuracy	improved by	e-code
+electronic medical record	stores	e-code
+clinical documentation	improved by	e-code
+outcome measure	includes	mortality
+outcome measure	includes	readmission
+healthcare utilization	increases	firearm injury
+e-code	supports	injury surveillance

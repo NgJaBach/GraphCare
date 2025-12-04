@@ -1,102 +1,143 @@
-upper limb fracture	occurs at	proximal humerus
-upper limb fracture	occurs at	distal radius
-upper limb fracture	occurs at	distal ulna
-upper limb fracture	occurs at	midshaft humerus
-upper limb fracture	occurs at	distal humerus
-upper limb fracture	occurs at	scaphoid
-upper limb fracture	occurs at	lunate
-upper limb fracture	occurs at	trapezium
-upper limb fracture	occurs at	clavicle
-upper limb fracture	occurs at	olecranon
-upper limb fracture	occurs at	scapula
-upper limb fracture	occurs at	humeral head
-upper limb fracture	classified as	closed fracture
-upper limb fracture	classified as	open fracture
-upper limb fracture	classified as	displaced fracture
-upper limb fracture	classified as	nondisplaced fracture
-upper limb fracture	classified as	comminuted fracture
-upper limb fracture	classified as	greenstick fracture
-upper limb fracture	classified as	transverse fracture
-upper limb fracture	classified as	oblique fracture
-upper limb fracture	classified as	spiral fracture
-upper limb fracture	classified as	impacted fracture
-upper limb fracture	treated with	immobilization
-upper limb fracture	treated with	plaster cast
-upper limb fracture	treated with	sling
-upper limb fracture	treated with	brace
-upper limb fracture	treated with	splint
-upper limb fracture	treated with	conservative management
-upper limb fracture	treated with	surgery
-upper limb fracture	treated with	open reduction internal fixation
-upper limb fracture	treated with	intramedullary nailing
-upper limb fracture	treated with	plate fixation
-upper limb fracture	treated with	external fixation
-upper limb fracture	treated with	bone graft
-upper limb fracture	treated with	percutaneous pinning
-upper limb fracture	treated with	physical therapy
-upper limb fracture	treated with	occupational therapy
-upper limb fracture	treated with	analgesia
-upper limb fracture	requires	anesthesia
-upper limb fracture	requires	hospitalization
-upper limb fracture	requires	follow-up
-upper limb fracture	requires	rehabilitation
-upper limb fracture	may cause	malunion
-upper limb fracture	may cause	nonunion
-upper limb fracture	may cause	infection
-upper limb fracture	may cause	nerve injury
-upper limb fracture	may cause	vascular injury
-upper limb fracture	may cause	joint stiffness
-upper limb fracture	may cause	complex regional pain syndrome
-upper limb fracture	may cause	osteoarthritis
-upper limb fracture	may cause	chronic pain
-upper limb fracture	may cause	compartment syndrome
-upper limb fracture	associated with	functional impairment
-upper limb fracture	associated with	reduced grip strength
-upper limb fracture	associated with	decreased range of motion
-upper limb fracture	associated with	prolonged rehabilitation
-upper limb fracture	associated with	full recovery
-upper limb fracture	associated with	good functional outcome
-upper limb fracture	associated with	poor functional outcome
-upper limb fracture	predicts	longer immobilization
-upper limb fracture	predicts	longer hospital stay
-upper limb fracture	predicts	need for surgery
-upper limb fracture	predicts	hardware removal
-upper limb fracture	predicts	rehabilitation duration
-upper limb fracture	predicts	follow-up imaging
-upper limb fracture	predicts	return to work time
-upper limb fracture	predicts	return to sport time
-upper limb fracture	predicts	secondary fracture risk
-upper limb fracture	predicts	osteoporosis diagnosis
-upper limb fracture	predicts	diabetes diagnosis
-upper limb fracture	predicts	smoking-related complications
-upper limb fracture	predicts	obesity-related risk
-upper limb fracture	predicts	alcohol-related injury
-upper limb fracture	predicts	prior fracture history
-upper limb fracture	associated with	osteoporosis severity
-upper limb fracture	followed by	immobilization
-upper limb fracture	followed by	physical therapy
-upper limb fracture	followed by	occupational therapy
-upper limb fracture	followed by	rehabilitation
-upper limb fracture	followed by	X-ray imaging
-upper limb fracture	followed by	CT imaging
-upper limb fracture	followed by	MRI imaging
-upper limb fracture	followed by	ultrasound imaging
-upper limb fracture	evaluated with	X-ray
-upper limb fracture	evaluated with	CT scan
-upper limb fracture	evaluated with	MRI
-upper limb fracture	evaluated with	ultrasound
-upper limb fracture	healing with	callus formation
-upper limb fracture	healing with	radiographic union
-upper limb fracture	healing with	functional recovery
-upper limb fracture	associated with	radial nerve palsy
-upper limb fracture	associated with	median nerve injury
-upper limb fracture	associated with	ulnar nerve injury
-upper limb fracture	associated with	vascular compromise
-upper limb fracture	associated with	hematoma
-upper limb fracture	associated with	swelling
-upper limb fracture	is a	orthopedic injury
-upper limb fracture	is a	common injury
-upper limb fracture	is a	common orthopedic injury
-upper limb fracture	is a	orthopedic injury
-upper limb fracture	is a	common trauma
-upper limb fracture	is a	common orthopedic injury
+fracture of upper limb	is a	musculoskeletal injury
+fracture of upper limb	caused by	fall
+fracture of upper limb	caused by	trauma
+fracture of upper limb	common in	older adults
+fracture of upper limb	treated with	immobilization
+fracture of upper limb	treated with	analgesia
+fracture of upper limb	may require	surgery
+fracture of upper limb	diagnosed by	X-ray
+fracture of upper limb	diagnosed by	CT scan
+fracture of upper limb	diagnosed by	MRI
+fracture of upper limb	heals in	weeks
+fracture of upper limb	may lead to	malunion
+fracture of upper limb	may lead to	nonunion
+fracture of upper limb	may lead to	infection
+fracture of upper limb	may cause	nerve injury
+fracture of upper limb	may cause	vascular injury
+fracture of upper limb	may cause	compartment syndrome
+humerus fracture	is a	subtype of fracture of upper limb
+radius fracture	is a	subtype of fracture of upper limb
+ulna fracture	is a	subtype of fracture of upper limb
+clavicle fracture	is a	subtype of fracture of upper limb
+scapula fracture	is a	subtype of fracture of upper limb
+open fracture	is a	type of fracture of upper limb
+closed fracture	is a	type of fracture of upper limb
+humerus fracture	may involve	radial nerve
+radius fracture	may involve	median nerve
+ulna fracture	may involve	ulnar nerve
+clavicle fracture	may involve	brachial plexus
+distal radius fracture	may	cause	carpal tunnel syndrome
+distal radius fracture	treated with	casting
+humerus fracture	treated with	ORIF
+proximal humerus fracture	treated with	shoulder arthroplasty
+humerus shaft fracture	treated with	plating
+radius fracture	treated with	plating
+ulna fracture	treated with	plating
+open fracture of upper limb	requires	antibiotics
+open fracture of upper limb	requires	wound debridement
+open fracture of upper limb	requires	tetanus prophylaxis
+fracture of upper limb	checked for	neurovascular status
+humerus fracture	associated with	radial nerve palsy
+radius fracture	associated with	distal radioulnar joint injury
+ulna fracture	associated with	elbow dislocation
+clavicle fracture	associated with	rib fracture
+scapula fracture	associated with	chest trauma
+fracture of upper limb	leads to	immobilization duration
+fracture of upper limb	leads to	physical therapy
+fracture of upper limb	associated with	edema
+fracture of upper limb	associated with	swelling
+fracture of upper limb	associated with	contusion
+fracture of upper limb	requires	analgesia
+fracture of upper limb	requires	rehabilitation
+fracture of upper limb	risk factor for	osteoporosis
+fracture of upper limb	is more common in	elderly
+fracture of upper limb	length of stay	days
+fracture of upper limb	admission to	hospital
+fracture of upper limb	discharge planning	home care
+fracture of upper limb	requires	imaging follow-up
+radius fracture	is a common upper limb injury,
+ulna fracture	is a common upper limb injury,
+humerus fracture	is a common upper limb fracture,
+open fracture	increases risk of infection,
+closed fracture	carries lower infection risk,
+fracture of upper limb	may require	physical therapy
+fracture of upper limb	may require	occupational therapy
+fracture of upper limb	may require	rehabilitation services
+fracture of upper limb	is associated with	soft tissue injury
+fracture of upper limb	is associated with	contusion
+fracture of upper limb	is associated with	hematoma
+fracture of upper limb	has	edema
+forearm fracture	is a	subtype of upper limb fracture
+hand fracture	is a	subtype of upper limb fracture
+pediatric fracture of upper limb	managed with	observation
+pediatric fracture of upper limb	heals faster	than adults
+elderly patient with fracture of upper limb	has	osteoporosis
+fracture of upper limb	requires	follow-up imaging
+fracture of upper limb	has	prognosis
+humerus fracture	commonly causes	shoulder pain
+humerus fracture	commonly causes	elbow pain
+radius fracture	commonly causes	wrist pain
+ulna fracture	commonly causes	elbow pain
+clavicle fracture	commonly causes	shoulder deformity
+scapula fracture	commonly causes	chest wall pain
+open fracture of upper limb	requires	broad-spectrum antibiotics
+open fracture of upper limb	requires	timely debridement
+open fracture of upper limb	requires	irrigation and debridement
+fracture of upper limb	increases	hospital resource use
+fracture of upper limb	increases	analgesic consumption
+fracture of upper limb	leads to	immobilization
+fracture of upper limb	leads to	rehabilitation
+radius fracture	heals with	callus formation
+ulna fracture	heals with	callus formation
+humerus fracture	heals with	callus formation
+clavicle fracture	heals with	callus formation
+scapula fracture	heals with	callus formation
+proximal humerus fracture	may require	reverse shoulder replacement
+distal radius fracture	may require	volar plate fixation
+humerus fracture	may require	intramedullary nailing
+radius fracture	may require	external fixation
+ulna fracture	may require	external fixation
+clavicle fracture	may require	clavicle plate fixation
+scapula fracture	may require	multiple surgeries
+fracture of upper limb	commonly requires	analgesia and immobilization
+fracture of upper limb	commonly requires	physical therapy and rehabilitation
+radius fracture	may present with	dinner fork deformity
+ulna fracture	may present with	Monteggio sign
+humerus fracture	may present with	shoulder abduction limitation
+radius fracture	may present with	wrist drop
+ulna fracture	may present with	elbow instability
+fracture of upper limb in elderly	associated with	frailty
+female patient with fracture of upper limb	has	higher osteoporosis risk
+male patient with fracture of upper limb	has	higher trauma risk
+distal radius fracture	commonly treated with	cast immobilization
+proximal humerus fracture	commonly treated with	immobilization and PT
+humerus shaft fracture	commonly treated with	long bone traction
+fracture of upper limb	increases	need for hospital discharge planning
+fracture of upper limb	influenced by	bone mineral density
+radius fracture	risk of	carpal bone injury
+ulna fracture	risk of	gait disturbance due to pain
+clavicle fracture	risk of	pulmonary complications
+scapula fracture	risk of	contusion injuries
+humerus fracture	often	requires	radiographic follow-up
+radius fracture	often	requires	repeat imaging
+ulna fracture	often	requires	brace immobilization
+clavicle fracture	often	treated with	sling immobilization
+scapula fracture	often	treated with	surgical stabilization
+humerus fracture	prognosis	depends on	fracture type
+radius fracture	prognosis	depends on	displacement
+ulna fracture	prognosis	depends on	alignment
+clavicle fracture	prognosis	depends on	comminution
+scapula fracture	prognosis	depends on	associated chest injury
+fracture of upper limb	associated with	trauma mechanism
+fracture of upper limb	associated with	comorbidities
+fracture of upper limb	associated with	smoking
+fracture of upper limb	treatment plan	multidisciplinary team
+fracture of upper limb	clinical course	variable
+humerus fracture	stage of healing	radiographic consolidation
+radius fracture	stage of healing	radiographic union
+ulna fracture	stage of healing	radiographic union
+clavicle fracture	stage of healing	clinical union
+scapula fracture	stage of healing	imaging confirmation
+fracture of upper limb	complication rate	age dependent
+fracture of upper limb	readmission rate	increases with open fractures
+fracture of upper limb	late complications	stiffness

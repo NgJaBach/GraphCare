@@ -1,100 +1,98 @@
 fall	causes	fracture
-fall	causes	dislocation
-fall	causes	concussion
-fall	causes	contusion
-fall	causes	sprain
-fall	causes	laceration
-fall	causes	abrasion
-fall	causes	skull fracture
-fall	causes	rib fracture
+fall	causes	hip fracture
+fall	causes	wrist fracture
+fall	causes	vertebral fracture
+fall	causes	traumatic brain injury
 fall	causes	intracranial hemorrhage
-blunt force trauma	causes	fracture
-blunt force trauma	causes	contusion
-blunt force trauma	causes	laceration
-blunt force trauma	causes	hemorrhage
-blunt force trauma	causes	concussion
-blunt force trauma	causes	soft tissue injury
-blunt force trauma	causes	ligament injury
-blunt force trauma	causes	dislocation
-motor vehicle collision	causes	fracture
-motor vehicle collision	causes	traumatic brain injury
-motor vehicle collision	causes	spinal injury
-motor vehicle collision	causes	rib fracture
-motor vehicle collision	causes	chest trauma
-motor vehicle collision	causes	internal injury
-motor vehicle collision	causes	hemorrhage
-motor vehicle collision	requires	surgery
-motor vehicle collision	leads to	ICU admission
-penetrating wound	causes	laceration
-penetrating wound	causes	hemorrhage
-penetrating wound	causes	infection
-gunshot wound	causes	hemorrhage
-gunshot wound	causes	infection
-gunshot wound	requires	amputation
-stab wound	causes	bleeding
-stab wound	causes	vascular injury
-crush injury	causes	limb amputation
-crush injury	causes	soft tissue injury
-burn	causes	tissue damage
-burn	causes	scar
-thermal burn	causes	scar
-thermal burn	causes	infection
-chemical burn	causes	tissue necrosis
-electrical burn	causes	cardiac arrest
-electrical burn	causes	arrhythmia
-electrical injury	causes	nerve damage
-electrical injury	causes	tissue necrosis
-smoke inhalation	causes	inhalation injury
-smoke inhalation	causes	hypoxia
-smoke inhalation	causes	pulmonary edema
-drowning	causes	hypoxic brain injury
-drowning	causes	asphyxia
-drowning	causes	pneumonia
-asphyxia	causes	hypoxic injury
-poisoning	causes	organ injury
-poisoning	causes	death
-carbon monoxide poisoning	causes	hypoxia
-cyanide poisoning	causes	metabolic acidosis
-drug overdose	causes	respiratory failure
-drug overdose	causes	coma
-drug overdose	causes	death
-pesticide exposure	causes	cholinergic toxicity
-cold exposure	causes	frostbite
-cold exposure	causes	hypothermia
-heat exposure	causes	heat stroke
-heat exposure	causes	dehydration
-sun exposure	causes	sunburn
-lightning strike	causes	burns
-explosion	causes	traumatic brain injury
-explosion	causes	fracture
-blast injury	causes	concussion
-animal bite	causes	wound infection
-dog bite	causes	infection
-human bite	causes	infection
-animal bite	causes	tetanus
-electrical shock	causes	cardiac arrest
-industrial accident	causes	fracture
-workplace accident	causes	trauma
-sports injury	causes	sprain
-cycling accident	causes	fracture
-auto crash	causes	contusion
-pedestrian collision	causes	fracture
-train collision	causes	blunt trauma
-assault	causes	laceration
-assault	causes	contusion
-assault	causes	fracture
-penetrating weapon	causes	wound infection
-crush syndrome	causes	renal failure
-crush syndrome	causes	electrolyte imbalance
-frostbite	causes	tissue necrosis
-external force	causes	ligament injury
-external force	causes	nerve damage
-external force	causes	vascular injury
-external force	leads to	surgery
-chemical exposure	causes	organ injury
-chemical exposure	causes	death
-radiation exposure	causes	cancer
-radiation exposure	causes	skin burns
-knife wound	causes	infection
-knife wound	causes	bleeding
-knife wound	requires	debridement
+fall	causes	contusion
+fall	results in	mobility impairment
+hip fracture	increases	mortality
+hip fracture	leads to	disability
+wrist fracture	leads to	loss of dexterity
+vertebral fracture	leads to	chronic pain
+basal skull fracture	leads to	brain injury
+traumatic brain injury	causes	cognitive impairment
+traumatic brain injury	increases	epilepsy
+intracranial hemorrhage	leads to	coma
+rib fracture	causes	chest pain
+pelvic fracture	leads to	mobility limitation
+spinal fracture	leads to	paralysis
+concussion	results in	loss of consciousness
+head injury	leads to	memory deficits
+soft tissue injury	causes	swelling
+laceration	leads to	wound infection
+abrasion	leads to	skin damage
+burn	causes	fluid loss
+thermal burn	leads to	blistering
+chemical burn	leads to	tissue damage
+smoke inhalation	causes	airway injury
+electrical injury	causes	arrhythmia
+electrical injury	causes	cardiac arrest
+scald injury	leads to	skin graft
+frostbite	leads to	tissue necrosis
+heat exposure	leads to	dehydration
+drowning	causes	hypoxia
+near-drowning	leads to	respiratory failure
+asphyxia	causes	unconsciousness
+airway obstruction	causes	hypoxia
+poisoning	causes	liver injury
+poisoning	causes	kidney injury
+drug overdose	leads to	coma
+overdose	causes	respiratory depression
+carbon monoxide poisoning	leads to	hypoxia
+cyanide poisoning	causes	lactic acidosis
+toxic exposure	leads to	electrolyte imbalance
+industrial accident	causes	crush injury
+industrial accident	leads to	amputation
+chemical exposure	causes	chemical burn
+electric injury	leads to	sensory loss
+laceration	risk factor for	tetanus
+laceration	increases	wound infection
+wound infection	occurs after	laceration
+burn	increases	risk of infection
+bone fracture	leads to	immobilization
+immobilization	leads to	deep vein thrombosis
+immobilization	increases	pressure ulcer
+trauma	leads to	post-traumatic osteoarthritis
+post-traumatic osteoarthritis	causes	chronic pain
+post-traumatic stress disorder	associated with	sleep disturbance
+post-traumatic stress disorder	increases	suicide risk
+spinal cord injury	leads to	paralysis
+nerve injury	leads to	neuropathic pain
+bone fracture	results in	malunion
+bone fracture	results in	nonunion
+joint dislocation	leads to	vascular injury
+joint dislocation	leads to	joint instability
+blast injury	leads to	brain injury
+blast injury	leads to	polytrauma
+penetrating injury	leads to	vascular injury
+penetrating injury	leads to	organ injury
+gunshot wound	leads to	hemorrhage
+gunshot wound	leads to	vascular injury
+stab wound	leads to	organ injury
+explosive blast	leads to	traumatic brain injury
+rib fracture	leads to	pneumothorax
+rib fracture	leads to	pleural effusion
+chest trauma	causes	respiratory failure
+abdominal trauma	leads to	liver injury
+abdominal trauma	leads to	spleen injury
+liver injury	leads to	hemorrhage
+spleen injury	results from	hemorrhage
+kidney injury	leads to	flank pain
+kidney injury	leads to	acute kidney injury
+blunt trauma	leads to	organ injury
+cranial fracture	leads to	brain injury
+facial fracture	leads to	cosmetic deformity
+vehicle crash	causes	chest trauma
+vehicle crash	causes	spine injury
+vehicle crash	leads to	head injury
+automobile collision	leads to	polytrauma
+whiplash	leads to	neck pain
+contusion	leads to	swelling
+contusion	leads to	ecchymosis
+caustic injury	leads to	skin damage
+scald	leads to	edema
+thermal burn	leads to	scar formation
+electrical burn	leads to	vascular injury
+chemical exposure	leads to	dermatitis
+insect sting	leads to	anaphylaxis

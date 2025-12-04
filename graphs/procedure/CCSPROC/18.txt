@@ -1,0 +1,100 @@
+slit lamp examination	is a	diagnostic procedure
+slit lamp examination	evaluates	anterior segment
+slit lamp examination	detects	corneal problems
+slit lamp examination	detects	cataract signs
+ophthalmoscopy	is a	diagnostic procedure
+fundus examination	visualizes	retina
+indirect ophthalmoscopy	visualizes	peripheral retina
+tonometry	measures	intraocular pressure
+applanation tonometry	measures	intraocular pressure
+pachymetry	measures	corneal thickness
+keratometry	measures	corneal curvature
+corneal topography	maps	corneal curvature
+corneal topography	evaluates	keratoconus risk
+corneal tomography	analyzes	corneal structure
+optical coherence tomography	measures	retinal nerve fiber layer thickness
+optical coherence tomography	visualizes	macula
+optical coherence tomography	detects	macular edema
+OCT angiography	visualizes	retinal vasculature
+OCT angiography	detects	capillary nonperfusion
+fundus photography	documents	retinal appearance
+fundus autofluorescence	assesses	retinal pigment epithelium status
+fluorescein angiography	detects	retinal vascular leakage
+fluorescein angiography	evaluates	diabetic retinopathy
+indocyanine green angiography	visualizes	choroidal circulation
+ultrasound B-scan	evaluates	posterior segment
+ultrasound A-scan	measures	axial length
+ultrasound biometry	measures	axial length
+ultrasound biometry	used for	IOL calculation
+ultrasound biomicroscopy	provides	anterior segment details
+gonioscopy	assesses	anterior chamber angle
+pupil dilation	facilitates	fundus examination
+confrontation visual field test	screens	visual field
+perimetry	assesses	visual field
+automated perimetry	measures	visual field sensitivity
+dynamic perimetry	measures	visual field sensitivity
+color vision testing	detects	color deficiency
+refraction	determines	refractive error
+retinoscopy	assesses	refractive error
+contrast sensitivity testing	detects	contrast deficit
+electroretinography	evaluates	retinal function
+visual evoked potential	assesses	optic pathway function
+pupillary examination	assesses	pupil reaction
+visual acuity testing	assesses	central vision
+optic nerve head photography	documents	optic disc appearance
+optic nerve imaging	assesses	optic nerve integrity
+orbital imaging	detects	orbital pathology
+orbital MRI	detects	optic nerve pathology
+orbital CT scan	detects	orbital pathology
+orbit ultrasound	evaluates	extraocular muscles
+pupillary reflex testing	evaluates	afferent pathway
+macular OCT	evaluates	macular thickness
+retinal nerve fiber layer thickness measurement	informs	glaucoma risk
+axial length measurement	informs	IOL calculation
+corneal thickness measurement	informs	glaucoma risk
+diabetic retinopathy imaging	uses	fluorescein angiography
+glaucoma screening	uses	visual field testing
+cataract evaluation	uses	slit lamp examination
+macular degeneration evaluation	uses	OCT
+retinal detachment evaluation	uses	B-scan ultrasound
+uveitis evaluation	uses	anterior segment examination
+neuro-ophthalmic examination	uses	visual field testing
+iris examination	evaluates	iris pathology
+optic disc photography	documents	optic disc appearance
+peripheral retina imaging	documents	peripheral retina status
+laser flare photometry	measures	intraocular inflammation
+dark adaptation test	evaluates	rod function
+light adaptation test	evaluates	cone function
+retinal ischemia assessment	evaluates	retinal blood flow
+retinal perfusion imaging	visualizes	retinal blood flow
+macular thickness map	informs	edema severity
+choroidal imaging	evaluates	choroidal pathology
+retinal edema assessment	informs	edema severity
+diabetic macular edema evaluation	uses	OCT
+anterior chamber cells grading	uses	slit lamp examination
+anterior chamber flare measurement	uses	laser flare photometry
+optic nerve pallor assessment	indicates	chronic optic neuropathy
+papilledema assessment	evaluates	intracranial pressure effect
+biomicroscopy	is a	diagnostic technique
+fundus autofluorescence imaging	detects	RPE changes
+OCTA imaging	evaluates	microvascular changes
+retinal detachment risk assessment	uses	ocular imaging
+glaucoma risk assessment	uses	RNFL thickness measurement
+retinal pigment epithelium evaluation	assesses	RPE health
+orbit ultrasound	detects	mass effect
+neuroimaging	detects	optic neuropathy
+ophthalmic imaging	supports	diagnostic workup
+ophthalmic examination	informs	management plan
+fundus imaging	records	retinal changes
+angiography	detects	vascular leakage
+contrast-enhanced imaging	detects	lesion enhancement
+color vision screening	screens	color deficiency
+pupil size measurement	informs	autonomic status
+iris pathology imaging	identifies	iris abnormalities
+optic disc photography	documents	optic disc status
+macular edema imaging	shows	edema severity
+retinal thickness assessment	informs	edema severity
+dark room adaptation testing	assesses	photoreceptor function
+light room adaptation testing	assesses	cone function
+visual function testing	informs	disability status
+refraction testing	determines	refractive error

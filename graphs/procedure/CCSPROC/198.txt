@@ -1,0 +1,100 @@
+MRI	is a	imaging modality
+MRI	used for	diagnosis
+MRI	detects	tumor
+MRI	detects	edema
+MRI	detects	infarct
+MRI	detects	hemorrhage
+MRI	detects	cyst
+MRI	detects	lesion
+MRI	detects	scar
+MRI	detects	abscess
+MRI	detects	plaque
+MRI	detects	calcification
+MRI	shows	enhancement
+MRI	reveals	diffusion restriction
+MRI	provides	soft tissue contrast
+MRI	provides	multiplanar imaging
+MRI	uses	gadolinium
+MRI	uses	contrast
+MRI	evaluates	perfusion
+MRI	characterizes	mass
+MRI	delineates	anatomy
+MRI	maps	tract
+MRI	quantifies	lesion size
+MRI	demonstrates	edema pattern
+MRI	indicates	edema
+MRI	distinguishes	cyst
+MRI	detects	tumor progression
+MRI	monitors	response
+MRI	assesses	spine
+MRI	detects	disc herniation
+MRI	shows	myelopathy
+MRI	depicts	infarct pattern
+MRI	correlates	symptom
+MRI	reveals	necrosis
+MRI	identifies	meningioma
+MRI	detects	metastasis
+MRI	reveals	aneurysm
+MRI	demonstrates	spinal stenosis
+MRI	shows	multiple sclerosis
+MRI	visualizes	nerve
+MRI	measures	brain volume
+MRI	analyzes	diffusion
+MRI	acquires	sequences
+MRI	runs	protocol
+MRI	complements	CT
+MRI	guides	biopsy
+MRI	guides	surgery
+MRI	informs	treatment
+MRI	influences	prognosis
+MRI	affects	management
+MRI	evaluates	lesion margins
+MRI	detects	vascular malformation
+MRI	shows	cavernoma
+MRI	shows	calcified lesion
+MRI	assesses	brain perfusion
+MRI	evaluates	blood flow
+MRI	detects	microhemorrhage
+MRI	reveals	microinfarct
+MRI	shows	enhancement pattern
+MRI	demonstrates	tumor extent
+MRI	maps	diffusion tensor
+MRI	performs	spectroscopy
+MRI	yields	spectroscopic data
+MRI	uses	echo-planar imaging
+MRI	presents	contrast enhancement
+MRI	reveals	perfusion deficit
+MRI	assesses	plaque
+MRI	shows	edema distribution
+MRI	supports	diagnosis
+MRI	rules out	hemorrhage
+MRI	rules out	tumor
+MRI	confirms	lesion
+MRI	excludes	abscess
+MRI	localizes	mass
+MRI	identifies	vascular malformation
+MRI	demonstrates	axonal injury
+MRI	detects	thrombosis
+MRI	reveals	infarction pattern
+MRI	shows	hemorrhage pattern
+MRI	indicates	edema severity
+MRI	visualizes	biliary system
+MRI	evaluates	brain
+MRI	evaluates	spine
+MRI	evaluates	knee
+MRI	evaluates	shoulder
+MRI	evaluates	liver
+MRI	evaluates	heart
+MRI	evaluates	pelvis
+MRI	evaluates	chest
+MRI	evaluates	lung
+MRI	visualizes	knee
+MRI	visualizes	brain
+MRI	visualizes	spine
+MRI	visualizes	liver
+MRI	visualizes	pancreas
+MRI	visualizes	heart
+MRI	confirms	diagnosis
+MRI	provides	diagnostic information
+MRI	complements	clinical assessment
+MRI	informs	prognosis

@@ -1,0 +1,100 @@
+electrocardiogram	is a	diagnostic test
+electrocardiogram	records	electrical activity
+electrocardiogram	used for	cardiac monitoring
+electrocardiogram	measures	heart rate
+electrocardiogram	detects	arrhythmia
+electrocardiogram	indicates	ischemia
+electrocardiogram	diagnoses	myocardial infarction
+electrocardiogram	reveals	ST segment changes
+electrocardiogram	shows	QT prolongation
+electrocardiogram	identifies	Q waves
+electrocardiogram	displays	waveform
+electrocardiogram	interprets	rhythm
+electrocardiogram	used in	emergency assessment
+electrocardiogram	provides	tracing
+electrocardiogram	correlates with	clinical status
+lead I	records	electrical potential
+lead II	is a	ECG lead
+lead III	is a	ECG lead
+precordial lead	corresponds to	chest position
+p wave	represents	atrial depolarization
+qrs complex	represents	ventricular depolarization
+t wave	represents	ventricular repolarization
+st segment	indicates	ischemia or injury
+ECG trace	shows	rhythm pattern
+ECG machine	prints	trace
+electrocardiogram	aids	triage
+atrial fibrillation	can be detected by	electrocardiogram
+ventricular tachycardia	can be detected by	electrocardiogram
+ventricular fibrillation	can be detected by	electrocardiogram
+atrial flutter	can be detected by	electrocardiogram
+premature ventricular contraction	can be detected by	electrocardiogram
+premature atrial contraction	can be detected by	electrocardiogram
+sinus rhythm	is observed on	electrocardiogram
+conduction block	is shown by	electrocardiogram
+bundle branch block	appears as	widened QRS
+ischemia	presents as	ST segment depression
+ischemia	presents as	ST segment elevation
+myocardial infarction	presents as	ST elevation
+electrocardiogram	aids	risk stratification
+electrocardiogram	used for	rhythm analysis
+lead placement	affects	signal quality
+motion artifact	degrades	ECG accuracy
+noise	reduces	diagnostic confidence
+signal processing	improves	noise suppression
+holter monitor	records	ECG continuously
+telemetry	monitors	ECG signals
+ambulatory ECG	monitors	patients
+electrocardiogram data	feeds	predictive model
+predictive model	forecasts	mortality
+predictive model	predicts	readmission
+risk score	uses	ECG features
+ST segment changes	indicate	ischemia
+QT interval	is prolonged in	hypocalcemia
+QT interval	is shortened in	hyperkalemia
+electrocardiogram	aids	differential diagnosis
+atrial fibrillation	increases	stroke risk
+atrial fibrillation	reduces	cardiac output
+ventricular fibrillation	causes	sudden cardiac death
+heart rate	fluctuates	in atrial fibrillation
+electrocardiogram	monitors	heart rate variability
+heart rate	fluctuates	autonomic tone
+electrocardiogram	used to	track therapy response
+beta blocker	affect	ECG intervals
+calcium channel blocker	affects	QT interval
+electrocardiogram	used for	preoperative evaluation
+preoperative evaluation	uses	ECG
+ECG pattern	defines	arrhythmic category
+electrocardiogram	part of	cardiovascular assessment
+electrocardiogram	integrated with	echocardiography
+electrocardiogram	requires	standard calibration
+standard calibration	ensures	signal accuracy
+lead placement	standardizes	electrode arrangement
+electrode	attaches to	skin
+skin condition	affects	electrode adhesion
+electrode impedance	influences	signal quality
+artifact	is caused by	patient movement
+artifact	is reduced by	skin preparation
+skin preparation	improves	electrode contact
+real-time monitoring	provides	continuous ECG data
+continuous ECG data	supports	early warning
+early warning score	includes	ECG changes
+ECG changes	inform	clinical decision
+clinical decision	guides	treatment plan
+drug	influences	ECG intervals
+amiodarone	prolongs	QT interval
+digoxin	affects	AV conduction
+beta blocker	slows	heart rate
+ischemia	causes	ST changes
+electrocardiogram	used in	medicolegal documentation
+ECG interpretation	requires	clinical correlation
+clinical correlation	improves	diagnostic accuracy
+ECG interpretation	relies on	waveform morphology
+waveform morphology	defines	rhythm type
+QT dispersion	correlates with	prognosis
+lead II	optimizes	P wave detection
+ECG monitoring	reduces	time to treatment
+resting ECG	differs from	treadmill exercise ECG
+exercise ECG	detects	inducible ischemia
+ambulatory ECG	monitors	arrhythmias over time
+ECG abnormalities	portend	adverse outcomes

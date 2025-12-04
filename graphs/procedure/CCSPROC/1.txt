@@ -1,0 +1,84 @@
+incision and excision of cns	is a	surgical procedure
+incision and excision of cns	indicated for	brain tumor
+incision and excision of cns	indicated for	solitary lesion
+incision and excision of cns	indicated for	meningioma
+incision and excision of cns	indicated for	glioma
+incision and excision of cns	indicated for	metastasis
+incision and excision of cns	indicated for	brain abscess
+incision and excision of cns	performed in	operating room
+incision and excision of cns	requires	general anesthesia
+incision and excision of cns	uses	craniotomy
+incision and excision of cns	involves	skull opening
+incision and excision of cns	yields	tumor specimen
+incision and excision of cns	yields	histopathology result
+incision and excision of cns	associated with	postoperative pain
+incision and excision of cns	associated with	neurologic deficit
+incision and excision of cns	risk of	infection
+incision and excision of cns	risk of	hemorrhage
+incision and excision of cns	risk of	CSF leak
+incision and excision of cns	risk of	stroke
+incision and excision of cns	risk of	seizures
+incision and excision of cns	risk of	edema
+incision and excision of cns	risk of	hydrocephalus
+incision and excision of cns	risk of	meningitis
+incision and excision of cns	followed by	postoperative imaging
+incision and excision of cns	followed by	pathology report
+incision and excision of cns	followed by	rehabilitation
+incision and excision of cns	associated with	hospital stay length
+incision and excision of cns	associated with	ICU admission
+incision and excision of cns	associated with	transfusion requirement
+incision and excision of cns	associated with	ventilation requirement
+incision and excision of cns	associated with	delirium
+incision and excision of cns	associated with	wound infection
+incision and excision of cns	associated with	wound dehiscence
+incision and excision of cns	leads to	discharge to home
+incision and excision of cns	leads to	discharge to rehabilitation facility
+incision and excision of cns	influences	adjuvant therapy decisions
+incision and excision of cns	influences	radiotherapy planning
+incision and excision of cns	affects	survival prognosis
+incision and excision of cns	affects	functional outcome
+incision and excision of cns	affects	cognitive performance
+incision and excision of cns	yields	tissue diagnosis
+incision and excision of cns	correlates with	extent of resection
+incision and excision of cns	correlates with	tumor margins
+incision and excision of cns	monitored by	intraoperative navigation
+incision and excision of cns	guided by	neuronavigation
+incision and excision of cns	uses	intraoperative MRI
+incision and excision of cns	uses	ultrasonic aspirator
+incision and excision of cns	uses	microdissection instruments
+incision and excision of cns	requires	blood transfusion
+incision and excision of cns	causes	blood loss
+incision and excision of cns	associated with	longer operative duration
+incision and excision of cns	associated with	anesthesia risk
+incision and excision of cns	contraindicated in	uncontrolled intracranial pressure
+incision and excision of cns	alternative to	biopsy
+incision and excision of cns	yields	biopsy specimen
+incision and excision of cns	part of	craniotomy
+incision and excision of cns	documents	operative notes
+incision and excision of cns	recommended with	preoperative antibiotics
+incision and excision of cns	reduces	intracranial mass effect
+incision and excision of cns	used in	tumor debulking
+incision and excision of cns	used to achieve	gross total resection
+incision and excision of cns	used to achieve	subtotal resection
+incision and excision of cns	documented in	operative report
+incision and excision of cns	correlated with	margin status
+incision and excision of cns	monitored with	intraoperative monitoring
+incision and excision of cns	associated with	postoperative MRI
+incision and excision of cns	shows	margin status
+incision and excision of cns	informs	prognosis
+incision and excision of cns	guides	adjuvant therapy decision
+incision and excision of cns	part of	multidisciplinary care
+incision and excision of cns	reduces	intracranial pressure
+incision and excision of cns	considered for	solitary brain lesion
+incision and excision of cns	contributes to	local disease control
+incision and excision of cns	can be followed by	chemotherapy
+incision and excision of cns	can be followed by	radiotherapy
+incision and excision of cns	is part of	multidisciplinary care
+incision and excision of cns	a component of	oncologic neurosurgery
+incision and excision of cns	associated with	post-operative immobilization
+incision and excision of cns	recommended with	preoperative antibiotics
+incision and excision of cns	reduces	perioperative infection risk
+incision and excision of cns	yields	tissue specimen for pathology
+incision and excision of cns	contributes to	neurological outcome assessment
+incision and excision of cns	described as	invasive procedure
+incision and excision of cns	therapy goal	symptom relief

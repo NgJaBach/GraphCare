@@ -1,0 +1,107 @@
+lower gastrointestinal x-ray	is a	radiographic examination
+lower gastrointestinal x-ray	uses	barium sulfate
+barium sulfate	is a	radiopaque contrast
+lower gastrointestinal x-ray	visualizes	colon
+lower gastrointestinal x-ray	detects	diverticulosis
+diverticulosis	is seen on	lower gastrointestinal x-ray
+diverticula	appear as	outpouchings
+lower gastrointestinal x-ray	detects	polyps
+polyp	appears as	filling defect
+filling defect	is a	radiographic finding
+apple-core lesion	is a	radiographic sign
+carcinoma	presents as	apple-core lesion
+apple-core lesion	indicates	colorectal cancer
+colorectal cancer	is suggested by	apple-core lesion
+colitis	shows	mucosal irregularity
+mucosal irregularity	indicates	inflammatory process
+lead pipe sign	is a	radiographic sign
+lead pipe sign	indicates	loss of haustra
+haustral pattern	is a	normal feature
+loss of haustra	seen in	chronic ulcerative colitis
+Crohn's disease	shows	skip lesions
+skip lesions	are	discontinuous inflamed segments
+mucosal thickening	is a	radiographic finding
+mucosal thickening	indicates	edema or inflammation
+stenosis	causes	luminal narrowing
+lumen	narrowing	is a	radiographic finding
+stricture	is a	luminal narrowing
+obstruction	can be	partial or complete
+bowel preparation	is required for	adequate visualization
+preparation	includes	laxatives
+laxatives	facilitate	bowel cleansing
+bowel cleansing	improves	mucosal visualization
+visualization	enables	polyp detection
+polyp	can be	sessile or pedunculated
+sessile polyp	is a	flat lesion
+pedunculated polyp	is a	stalk-attached lesion
+polyp	is a	colon lesion
+mass	can be	malignant or benign
+apple-core lesion	represents	stenotic tumor
+stenosis	is a	radiographic finding
+mass	represents	colon tumor
+carcinoma	is a	colon tumor
+pseudopolyp	is a	mucosal island
+pseudopolyps	occur in	ulcerative colitis
+ulcerative colitis	causes	pseudopolyps
+colitis	causes	mucosal edema
+colonic wall thickening	is a	radiographic finding
+wall thickening	indicates	inflammation
+radiographic sign	includes	lead pipe sign
+contrast extravasation	indicates	perforation
+perforation	is a	serious complication
+enema	carries	perforation risk
+perforation risk	increases with	enema
+contrast allergy	is a	potential adverse reaction
+adverse reaction	includes	anaphylaxis
+pregnancy	is a	precaution for lower GI x-ray
+pediatric patient	requires	dose-appropriate protocol
+dose-appropriate protocol	ensures	minimized radiation
+radiation exposure	is a	concern
+radiation exposure	managed by	ALARA principles
+alternative imaging	includes	CT colonography
+CT colonography	is a	non-invasive alternative
+colonoscopy	is the	gold standard
+colonoscopy	detects	polyps directly
+colonoscopy	is used after	abnormal enema findings
+adenoma	is a	colorectal polyp
+adenoma	carries	malignant potential
+polyp surveillance	requires	colonoscopy intervals
+further testing	includes	colonoscopy
+colon cancer	risk factors include	age
+age	is a	risk factor
+further testing	informs	management plan
+imaging follow-up	informs	management plan
+management plan	includes	colonoscopy referral
+enema findings	include	polyps and masses
+masses	can be	malignant or benign
+benign mass	includes	adenoma
+adenoma	is a	colorectal polyp
+adenoma	has	malignant potential
+colon polyp surveillance	requires	follow-up colonoscopy
+enema	can be	diagnostic adjunct to colonoscopy
+radiologist	interprets	enema findings
+enema findings	include	polyps and masses
+polyp detection	leads to	colonoscopy referral
+barium enema	yields	mucosal detail
+barium enema	requires	bowel preparation
+distension	improves	visualization of mucosa
+air	provides	positive contrast in double-contrast enema
+double-contrast enema	uses	air and barium
+double-contrast enema	yields	higher mucosal detail
+air enema	is used for	double-contrast technique
+water-soluble contrast	preferred in	perforation risk
+perforation risk	mitigated by	cautious technique
+contrast extravasation	seen on	enema radiographs
+post-procedure	instructions	hydration
+post-procedure	monitoring	hydration status
+AP view	is a	radiographic projection
+radiographic projection	includes	AP view
+distension	allows	mucosal outline
+mucosal outline	helps	detect polyps
+proximal colon	visualized	on enema
+distal colon	evaluated	on enema
+rectum	visualized	during enema
+rectosigmoid colon	visualized	on enema
+patient comfort	affected by	procedure duration
+procedure duration	influences	patient tolerance
+residue	may remain	after enema

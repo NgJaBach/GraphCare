@@ -1,91 +1,102 @@
-g estational diabetes	is a form of	diabetes mellitus
-pregestational diabetes	is a form of	diabetes mellitus
-gestational diabetes	increases risk of	fetal macrosomia
-gestational diabetes	increases risk of	cesarean delivery
-gestational diabetes	increases risk of	preeclampsia
-gestational diabetes	increases risk of	polyhydramnios
-gestational diabetes	increases risk of	neonatal hypoglycemia
-gestational diabetes	increases risk of	neonatal respiratory distress syndrome
-gestational diabetes	increases risk of	neonatal jaundice
-gestational diabetes	increases risk of	preterm birth
-gestational diabetes	monitored by	self-monitoring of blood glucose
+gestational diabetes	is a	form of diabetes mellitus
 gestational diabetes	diagnosed by	oral glucose tolerance test
-oral glucose tolerance test	used for	gestational diabetes screening
-HbA1c	used to	assess glycemic control in pregnancy
-self-monitoring of blood glucose	used for	insulin therapy in pregnancy
-insulin therapy	used for	glycemic control in pregnancy
-dietary therapy	part of	gestational diabetes management
-exercise therapy	part of	gestational diabetes management
-metformin	used for	gestational diabetes
-glyburide	used for	gestational diabetes
-preexisting diabetes	treated with	insulin therapy
-insulin therapy	required for	diabetes in pregnancy
+gestational diabetes	monitored by	fasting glucose
+gestational diabetes	treated with	insulin therapy
+gestational diabetes	treated with	diet modification
+gestational diabetes	treated with	metformin
+gestational diabetes	treated with	glyburide
+gestational diabetes	increases risk for	macrosomia
+gestational diabetes	increases risk for	cesarean delivery
+gestational diabetes	increases risk for	preeclampsia
+gestational diabetes	increases risk for	polyhydramnios
+gestational diabetes	increases risk for	neonatal hypoglycemia
+gestational diabetes	increases risk for	shoulder dystocia
+gestational diabetes	increases risk for	preterm birth
+gestational diabetes	increases risk for	stillbirth
+gestational diabetes	increases risk for	birth injury
+gestational diabetes	associated with	maternal obesity
+gestational diabetes	associated with	hypertension
+gestational diabetes	associated with	advanced maternal age
+gestational diabetes	associated with	family history of diabetes
+gestational diabetes	associated with	prior macrosomia
+fetal macrosomia	associated with	gestational diabetes
+fetal macrosomia	increases risk for	birth injury
+fetal macrosomia	increases risk for	shoulder dystocia
+neonatal hypoglycemia	associated with	maternal diabetes
+neonatal hypoglycemia	requires	NICU care
+neonatal hypoglycemia	caused by	maternal hyperglycemia
+neonatal hypoglycemia	associated with	prematurity
 preeclampsia	more common in	diabetes in pregnancy
-hypertensive disorders	more common in	diabetes in pregnancy
 cesarean delivery	more common in	diabetes in pregnancy
-fetal macrosomia	associated with	maternal hyperglycemia
-macrosomia	increases risk of	shoulder dystocia
-fetal growth monitoring	recommended in	diabetes in pregnancy
-ultrasound	used for	fetal growth assessment in diabetes pregnancy
-polyhydramnios	associated with	gestational diabetes
-shoulder dystocia	associated with	fetal macrosomia
-birth injury	risk increased by	shoulder dystocia
-neonatal hypoglycemia	common in	infants of diabetic mothers
-neonatal respiratory distress syndrome	risk in	infants of diabetic mothers
-neonatal jaundice	risk in	infants of diabetic mothers
-neonatal sepsis	higher risk in	infants of diabetic mothers
-fetal congenital anomalies	risk increased by	pregestational diabetes
-miscarriage	risk increased by	pregestational diabetes
-stillbirth	risk increased by	pregestational diabetes
-fetal growth restriction	may occur in	diabetes in pregnancy
-glycemic control	predicts	neonatal outcomes
-antenatal corticosteroids	used for	fetal lung maturity in diabetic pregnancy
-delivery timing	influences	neonatal outcomes in diabetes pregnancy
-perinatal mortality	higher in	diabetes in pregnancy
-perinatal morbidity	higher in	diabetes in pregnancy
-urinary tract infection	higher incidence in	diabetes in pregnancy
-urinalysis	monitors	proteinuria in pregnancy
-glycemic targets	defined by	diabetes in pregnancy guidelines
-treatment adherence	improves	obstetric outcomes in diabetes in pregnancy
-obesity	risk factor for	gestational diabetes
-advanced maternal age	associated with	gestational diabetes
-family history of diabetes	associated with	gestational diabetes
-ethnicity	associated with	gestational diabetes
-previous gestational diabetes	increases risk of	recurrent gestational diabetes
-history of diabetes in pregnancy	increases risk of	diabetes in subsequent pregnancy
-glucose monitoring	improves	maternal outcomes in diabetes in pregnancy
-GDM screening	recommended during	24-28 weeks gestation
-postpartum follow-up	recommended for	women with gestational diabetes
-recurrence risk	increased for	subsequent pregnancy
-type 2 diabetes	risk after	gestational diabetes
-long-term cardiovascular risk	increased in	women with diabetes in pregnancy
-hospital readmission	higher rate in	newborns of diabetic mothers
-neonatal ICU admission	more likely in	infants of diabetic mothers
-postpartum diabetes screening	required for	mothers with prior gestational diabetes
-breastfeeding	supports	maternal glycemic control postpartum
-glucose tolerance test	performed postpartum for	women with prior GDM
-neonatal hyperbilirubinemia	more frequent in	infants of diabetic mothers
-neonatal hypocalcemia	observed in	infants of diabetic mothers
-polycythemia	observed in	infants of diabetic mothers
-cord blood gases	abnormal in	infants of diabetic mothers
-birth weight	tends to be	high in infants of diabetic mothers
-impaired glucose tolerance	can progress to	type 2 diabetes
-postpartum weight retention	worsens	maternal metabolic health
-diabetes education	improves	treatment adherence in pregnancy
-dietary counseling	improves	pregnancy outcomes in diabetes
-infection risk	increased in	diabetes in pregnancy
-urine glucose	presence indicates	hyperglycemia in pregnancy
-glucose control	essential for	fetal outcomes in diabetes pregnancy
-antenatal care	essential for	diabetes in pregnancy
-perinatal surveillance	required for	diabetes in pregnancy
-cord clamping time	influences	neonatal outcomes in diabetes pregnancy
-neonatal blood glucose	monitored for	infants of diabetic mothers
-neonatal feeding	stabilizes	glucose levels in newborns of diabetic mothers
-neonatal phototherapy	used for	neonatal jaundice in diabetes pregnancy
-transplacental nutrient transfer	altered by	maternal hyperglycemia
-neonatal weight	influenced by	maternal glycemic status
-lipids	dyslipidemia	in diabetes pregnancy
-thyroid dysfunction	more common in	diabetes in pregnancy
-education programs	implemented for	diabetes in pregnancy care
-care coordination	improves	maternal and neonatal outcomes in diabetes in pregnancy
-drug safety	considered for	metformin use in pregnancy
+labor induction	more common in	diabetes in pregnancy
+postpartum hemorrhage	risk increased by	diabetes in pregnancy
+neonatal respiratory distress syndrome	associated with	diabetes in pregnancy
+polyhydramnios	associated with	diabetes in pregnancy
+fetal growth restriction	occurs with	diabetes in pregnancy
+diabetes in pregnancy	includes	gestational diabetes
+diabetes in pregnancy	includes	pregestational diabetes
+HbA1c	used to	assess glycemic control
+HbA1c	correlates with	fetal outcome
+OGTT	used for	gestational diabetes diagnosis
+fasting plasma glucose	used for	screening in pregnancy
+preconception care	recommended for	diabetes in pregnancy
+dietary plan	part of	diabetes in pregnancy management
+insulin therapy	enables	glycemic control in pregnancy
+metformin	alternative therapy for	gestational diabetes
+glyburide	alternative therapy for	gestational diabetes
+self-monitoring of glucose	essential for	diabetes in pregnancy
+self-monitoring	improves	glycemic control
+glucose monitoring	reduces	neonatal complications
+glucose targets	defined for	pregnancy
+maternal obesity	increases risk for	gestational diabetes
+advanced maternal age	increases risk for	gestational diabetes
+family history of diabetes	increases risk for	gestational diabetes
+hypertension	coexists with	diabetes in pregnancy
+diabetic ketoacidosis	complication in	diabetes in pregnancy
+urine ketones	indicate	poor glycemic control
+neonatal jaundice	occurs with	diabetes in pregnancy
+neonatal infection	risk increased by	diabetes in pregnancy
+birthweight	affected by	maternal diabetes
+shoulder dystocia	linked to	fetal macrosomia
+macrosomia	predisposes to	birth injury
+pregestational diabetes	is a	chronic disease
+pregestational diabetes	worsens with	poor glycemic control
+pregestational diabetes	increases risk for	congenital anomalies
+pregestational diabetes	increases risk for	fetal loss
+pregestational diabetes	managed with	insulin therapy
+pregestational diabetes	managed with	diet modification
+pregestational diabetes	monitored by	HbA1c
+fetal anomalies	associated with	maternal diabetes
+neonatal hypoglycemia	frequency high in	infants of diabetic mothers
+maternal mortality	increased by	diabetes in pregnancy
+perinatal mortality	increased by	diabetes in pregnancy
+neonatal adiposity	associated with	maternal diabetes
+preterm birth	associated with	diabetes in pregnancy
+neonatal respiratory distress	associated with	maternal diabetes
+puerperium	requires	postpartum glucose monitoring
+postpartum glucose testing	recommended for	diabetes in pregnancy
+postpartum period	monitored for	diabetes in pregnancy
+breastfeeding	encouraged with	diabetes in pregnancy
+oral hypoglycemic agent	used in	gestational diabetes
+blood glucose	monitored by	self-monitoring
+clinical guideline	recommends	diabetes in pregnancy management
+neonatal outcome	depends on	glycemic control
+fetal wellbeing	monitored by	fetal surveillance
+cephalopelvic disproportion	risk increased by	macrosomia
+fetal macrosomia	increases risk for	fetal distress
+diabetes in pregnancy	risk of	congenital anomalies in offspring
+diabetes in pregnancy	affects	long-term offspring health
+glycemic control	improves	pregnancy outcome
+exercise program	advised for	diabetes in pregnancy
+weight management	important in	diabetes in pregnancy
+glucose monitoring app	used for	diabetes in pregnancy
+neonatal hypoglycemia	managed with	intravenous glucose
+intravenous glucose	used for	treatment of neonatal hypoglycemia
+documentation	ensures	diabetes in pregnancy management
+clinical alert	signals	diabetic ketoacidosis in pregnancy
+diabetes in pregnancy	requires	obstetric care coordination
+fetal surveillance	scheduled for	high-risk pregnancy
+delivery planning	tailored for	diabetes in pregnancy
+postnatal care	includes	maternal glucose monitoring
+glucose intolerance	persists in	puerperium
+puerperium	includes	postpartum period

@@ -1,0 +1,100 @@
+ultrasound	is a	diagnostic imaging modality
+ultrasound	is a	noninvasive test
+ultrasound	uses	sound waves
+ultrasound	provides	real-time imaging
+ultrasound	guides	needle biopsy
+ultrasound	evaluates	organ size
+Doppler ultrasound	assesses	blood flow
+Doppler ultrasound	detects	stenosis
+Doppler ultrasound	detects	thrombosis
+Doppler ultrasound	visualizes	vascularity
+abdominal ultrasound	visualizes	liver
+abdominal ultrasound	visualizes	gallbladder
+abdominal ultrasound	visualizes	spleen
+abdominal ultrasound	visualizes	pancreas
+abdominal ultrasound	visualizes	kidneys
+pelvic ultrasound	visualizes	uterus
+pelvic ultrasound	visualizes	ovaries
+pelvic ultrasound	visualizes	pelvis
+transabdominal ultrasound	visualizes	uterus
+transvaginal ultrasound	visualizes	ovary
+fetal ultrasound	visualizes	fetus
+obstetric ultrasound	monitors	amniotic fluid
+obstetric ultrasound	monitors	fetal movement
+thyroid ultrasound	visualizes	thyroid gland
+thyroid ultrasound	detects	nodules
+breast ultrasound	visualizes	breast tissue
+breast ultrasound	detects	masses
+renal ultrasound	visualizes	kidneys
+renal ultrasound	detects	hydronephrosis
+hepatic ultrasound	visualizes	liver
+cardiac ultrasound	visualizes	heart
+echocardiography	evaluates	cardiac function
+echocardiography	detects	valvular disease
+carotid ultrasound	visualizes	carotid arteries
+carotid ultrasound	detects	stenosis
+venous ultrasound	visualizes	deep veins
+venous ultrasound	detects	DVT
+musculoskeletal ultrasound	visualizes	joints
+musculoskeletal ultrasound	detects	tendon tear
+scrotal ultrasound	visualizes	testicles
+testicular ultrasound	detects	varicocele
+pediatric ultrasound	visualizes	abdomen
+neonatal ultrasound	visualizes	brain
+liver ultrasound	detects	fatty change
+kidney ultrasound	detects	kidney stones
+ultrasound guidance	improves	biopsy sampling accuracy
+ultrasound guidance	improves	drainage accuracy
+ultrasound	provides	lesion characterization
+ultrasound	aids	triage
+ultrasound	aids	emergency assessment
+ultrasound	correlates with	clinical exam
+ultrasound	is used for	trauma assessment
+interventional ultrasound	guides	intervention
+interventional ultrasound	used for	biopsy guidance
+ultrasound	used for	pregnancy dating
+ultrasound	used for	fetal growth assessment
+ultrasound	used for	amniotic fluid assessment
+obstetric ultrasound	assesses	placental position
+obstetric ultrasound	detects	multiple gestation
+obstetric ultrasound	screens	fetal anomalies
+ultrasound	detects	gallstones
+liver ultrasound	detects	cirrhosis
+pancreatic ultrasound	detects	pancreatitis
+biliary ultrasound	visualizes	biliary ducts
+biliary ultrasound	detects	choledocholithiasis
+duplex ultrasound	visualizes	arteries
+duplex ultrasound	detects	arterial disease
+muscle ultrasound	visualizes	muscle tissue
+nerve ultrasound	visualizes	peripheral nerve
+intraoperative ultrasound	guides	surgery
+ultrasound	supports	clinical decision making
+ultrasound	complements	CT imaging
+ultrasound	complements	MRI imaging
+portable ultrasound	enables	bedside assessment
+handheld ultrasound	enables	point-of-care evaluation
+3D ultrasound	visualizes	fetal anatomy
+3D ultrasound	enhances	anatomic assessment
+spectral Doppler	measures	blood velocity
+color Doppler	visualizes	flow pattern
+power Doppler	detects	slow flow
+elastography	assesses	tissue stiffness
+ultrasound elastography	differentiates	malignant from benign lesions
+ultrasound elastography	assesses	tumor stiffness
+ultrasound-guided biopsy	improves	sampling accuracy
+ultrasound-guided biopsy	reduces	complication risk
+ultrasound	detects	appendicitis
+ultrasound	detects	ovarian torsion
+ultrasound	detects	ectopic pregnancy
+fetal Doppler	assesses	fetal heartbeat
+tissue harmonic imaging	enhances	image quality
+contrast-enhanced ultrasound	improves	lesion delineation
+contrast-enhanced ultrasound	detects	vascularity
+ultrasound	reduces	radiation exposure
+ultrasound	is used in	emergency department
+ultrasound	is used for	trauma triage
+ultrasound	yields	diagnostic information
+sonography	is a	synonym for ultrasound
+ultrasound	characterizes	lesion
+elastography	characterizes	tissue stiffness
+ultrasound	monitors	fetal growth

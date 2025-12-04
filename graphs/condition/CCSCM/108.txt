@@ -1,100 +1,117 @@
-congestive heart failure	is an	medical condition
-congestive heart failure	is associated with	edema
-congestive heart failure	is associated with	dyspnea
-congestive heart failure	is associated with	orthopnea
-congestive heart failure	is associated with	paroxysmal nocturnal dyspnea
-congestive heart failure	is associated with	pulmonary edema
-congestive heart failure	is associated with	pleural effusion
-congestive heart failure	increases	mortality risk
-congestive heart failure	increases	hospitalization risk
-congestive heart failure	predicts	readmission
+congestive heart failure	associated with	dyspnea
+congestive heart failure	associated with	edema
+congestive heart failure	associated with	orthopnea
+congestive heart failure	associated with	paroxysmal nocturnal dyspnea
+congestive heart failure	associated with	fatigue
+congestive heart failure	associated with	jugular venous distension
+congestive heart failure	associated with	basilar crackles
 congestive heart failure	diagnosed by	echocardiography
-echocardiography	reveals	reduced ejection fraction
-congestive heart failure	characterized by	left ventricular dysfunction
-congestive heart failure	characterized by	elevated filling pressures
-left ventricle	is dilated in	congestive heart failure
-left atrium	is enlarged in	congestive heart failure
-BNP	is a biomarker for	congestive heart failure
-NT-proBNP	is a biomarker for	congestive heart failure
-BNP	correlates with	congestion severity
-troponin	indicates	myocardial injury in congestive heart failure
-ischemia	complicates	congestive heart failure
-coronary artery disease	coexists with	congestive heart failure
-myocardial infarction	increases	congestive heart failure risk
-valvular disease	causes	congestive heart failure
-mitral regurgitation	worsens	congestive heart failure symptoms
-aortic stenosis	contributes to	congestive heart failure
-atrial fibrillation	occurs with	congestive heart failure
-arrhythmia	worsens	prognosis of congestive heart failure
-hypertension	is a risk factor for	congestive heart failure
-nonhypertensive patients	present with	congestive heart failure
-diuretic therapy	treats	congestive heart failure
-furosemide	is a	loop diuretic
-loop diuretic	reduces	edema
-spironolactone	reduces	mortality in congestive heart failure
-ACE inhibitors	improve	survival in congestive heart failure
-ARBs	reduce	cardiovascular events in congestive heart failure
-sacubitril/valsartan	improves	outcomes in congestive heart failure
-beta blockers	improve	long-term mortality in congestive heart failure
-carvedilol	is a	beta blocker
-digoxin	provides	symptomatic relief in congestive heart failure
-hydralazine	is used with	nitrates
-nitrates	improve	symptoms in congestive heart failure
-implantable cardioverter-defibrillator	reduces	mortality in congestive heart failure
-CRT	improves	quality of life in congestive heart failure
-ICD	reduces	sudden death in congestive heart failure
-diuretic resistance	complicates	treatment of congestive heart failure
-kidney function	worsens	with diuretic therapy
-creatinine	rises	with diuresis
-hyponatremia	associates with	worse prognosis in congestive heart failure
-hyperkalemia	occurs with	ACE inhibitors in congestive heart failure
-hyponatremia	correlates with	severity of congestive heart failure
-anemia	coexists with	congestive heart failure
-chronic kidney disease	coexists with	congestive heart failure
-liver congestion	causes	hepatic dysfunction in congestive heart failure
-pulmonary hypertension	accompanies	congestive heart failure
-pleural effusion	causes	dyspnea in congestive heart failure
-edema	is relieved by	diuretics
-exercise tolerance	declines with	congestive heart failure progression
-quality of life	declines with	congestive heart failure
-NYHA class	defines	heart failure severity
-ejection fraction	measures	systolic function
-left ventricular function	is impaired in	congestive heart failure
-preload	is affected by	diuretics in congestive heart failure
-afterload	is reduced by	ACE inhibitors in congestive heart failure
-cardiac output	decreases	in congestive heart failure
-systemic congestion	occurs in	congestive heart failure
-venous congestion	is seen in	congestive heart failure
-oxygen therapy	supports	congestive heart failure treatment
-noninvasive ventilation	may be used in	congestive heart failure with respiratory failure
-diabetes	coexists with	congestive heart failure
-obesity	is associated with	congestive heart failure prognosis
-smoking	worsens	cardiovascular outcomes in congestive heart failure
+congestive heart failure	diagnosed by	chest radiography
+congestive heart failure	characterized by	reduced ejection fraction
+congestive heart failure	characterized by	preserved ejection fraction
+congestive heart failure	treated with	loop diuretic
+congestive heart failure	treated with	ACE inhibitor
+congestive heart failure	treated with	ARB
+congestive heart failure	treated with	beta blocker
+congestive heart failure	treated with	mineralocorticoid receptor antagonist
+congestive heart failure	treated with	hydralazine-nitrate
+congestive heart failure	treated with	digoxin
+congestive heart failure	worsened by	high salt intake
+congestive heart failure	worsened by	alcohol use
+congestive heart failure	worsened by	smoking
+congestive heart failure	worsened by	nonadherence to therapy
+congestive heart failure	occurs in	normotension
+congestive heart failure	associated with	atrial fibrillation
+congestive heart failure	associated with	ischemic heart disease
+congestive heart failure	associated with	diabetes mellitus
+congestive heart failure	associated with	obesity
+congestive heart failure	associated with	chronic kidney disease
+congestive heart failure	associated with	hyponatremia
+congestive heart failure	associated with	hyperkalemia
+congestive heart failure	associated with	anemia
+congestive heart failure	associated with	electrolyte imbalance
+congestive heart failure	increases	mortality risk
+congestive heart failure	increases	readmission risk
+congestive heart failure	increases	hospitalization duration
+congestive heart failure	reduces	exercise capacity
+congestive heart failure	reduces	quality of life
+congestive heart failure	associated with	pleural effusion
+congestive heart failure	associated with	pulmonary edema
+congestive heart failure	associated with	hepatic congestion
+congestive heart failure	associated with	ascites
+congestive heart failure	monitored by	body weight
+congestive heart failure	monitored by	blood pressure
+congestive heart failure	monitored by	heart rate
+congestive heart failure	monitored by	renal function
+congestive heart failure	monitored by	natriuretic peptide
+congestive heart failure	prognosis depends on	ejection fraction
+congestive heart failure	prognosis depends on	renal function
+congestive heart failure	prognosis depends on	age
+congestive heart failure	prognosis depends on	comorbidity burden
+congestive heart failure	prognosis improved by	exercise training
+congestive heart failure	prognosis improved by	cardiac rehabilitation
+congestive heart failure	prognosis improved by	sodium restriction
+congestive heart failure	prognosis improved by	diuretic optimization
+congestive heart failure	risk factor for	age
+congestive heart failure	risk factor for	male sex
+congestive heart failure	risk factor for	obesity
+congestive heart failure	risk factor for	diabetes mellitus
+congestive heart failure	risk factor for	chronic kidney disease
+congestive heart failure	risk factor for	atrial fibrillation
+congestive heart failure	risk factor for	ischemic heart disease
+congestive heart failure	risk factor for	smoking
+congestive heart failure	risk factor for	hypertension
+normotension	is common in	congestive heart failure
+normotension	predicts	better outcomes in congestive heart failure
+congestive heart failure	coexists with	atrial flutter
+congestive heart failure	coexists with	ventricular tachycardia
+congestive heart failure	coexists with	sleep apnea
+congestive heart failure	coexists with	iron deficiency
+congestive heart failure	coexists with	anemia of chronic disease
+congestive heart failure	coexists with	diuretic resistance
+congestive heart failure	assessed by	echocardiography
+congestive heart failure	assessed by	MRI
+congestive heart failure	indicated for	CRT therapy
+congestive heart failure	indicated for	ICD therapy
+congestive heart failure	reduces	hospital length of stay
+congestive heart failure	improves	functional class
+cardiac rehabilitation	improves	functional status in congestive heart failure
+exercise training	improves	exercise tolerance in congestive heart failure
+weight monitoring	guides	diuretic therapy in congestive heart failure
+weight loss	indicates	management success in congestive heart failure
+weight gain	indicates	fluid overload in congestive heart failure
+natriuretic peptide level	correlates with	CHF severity
+NT-proBNP level	correlates with	CHF severity
+BNP level	correlates with	CHF severity
+renal function	influences	medication dosing in congestive heart failure
+electrolyte balance	influences	arrhythmia risk in congestive heart failure
+hyponatremia	worsens	prognosis in congestive heart failure
+hyperkalemia	worsens	prognosis in congestive heart failure
 anemia	worsens	exercise capacity in congestive heart failure
-natriuresis	promotes	diuretic effect in congestive heart failure
-renal dysfunction	worsens	congestive heart failure prognosis
-creatinine	increases	with renal dysfunction in congestive heart failure
-right ventricle	fails	advanced congestive heart failure
-left-sided heart failure	contrasts with	right-sided heart failure
-diuretic therapy	requires	electrolyte monitoring
-electrolyte disturbances	include	hyponatremia
-potassium	fluctuates with	ACE inhibitors and diuretics
-sodium	decreases	in hyponatremia associated with congestive heart failure
-glomerular filtration rate	decreases	with heart failure progression
-renal perfusion	decreases	in congestive heart failure
-heart rate	increases	with sympathetic activation in heart failure
-beta blockers	lower	heart rate in congestive heart failure
-ACE inhibitors	decrease	afterload in congestive heart failure
-ARBs	decrease	afterload in congestive heart failure
-sacubitril/valsartan	reduces	hospitalization in congestive heart failure
-spironolactone	reduces	mortality in congestive heart failure
-eplerenone	reduces	hospitalization in congestive heart failure
-device therapy	provides	survival benefit in congestive heart failure
-CRT-D	improves	left ventricular synchrony in congestive heart failure
-exercise capacity	correlates with	prognosis in congestive heart failure
-BNP	decreases	with effective therapy in congestive heart failure
-imaging studies	guide	management of congestive heart failure
-troponin	is prognostic in	congestive heart failure
-urine sodium	reflects	natriuresis in congestive heart failure
-neprilysin inhibitor	is component of	sacubitril/valsartan
-sodium	is regulated by	natriuresis in congestive heart failure
+intravenous diuresis	used for	decompensated congestive heart failure
+clinic visits	predict	readmission in congestive heart failure
+hospitalization	triggers	decompensation in congestive heart failure
+infection	triggers	decompensation in congestive heart failure
+diuretic dose	correlates with	edema relief
+education	improves	medication adherence in congestive heart failure
+pharmacotherapy	reduces	mortality in congestive heart failure
+imaging	guides	management of congestive heart failure
+peripheral edema	indicates	volume overload in congestive heart failure
+lung congestion	reflects	decompensation in congestive heart failure
+cardiomyopathy	overlaps with	congestive heart failure
+valvular disease	causes	congestive heart failure
+ischemia	triggers	decompensation in congestive heart failure
+left atrial enlargement	accompanies	congestive heart failure
+left ventricular hypertrophy	accompanies	congestive heart failure
+cardiomyopathy	coexists with	congestive heart failure
+tachycardia	accompanies	congestive heart failure
+renal hypoperfusion	occurs in	congestive heart failure
+uric acid elevation	occurs in	congestive heart failure
+sleep apnea	complicates	congestive heart failure management
+hepatic congestion	accompanies	congestive heart failure
+crackles	signal	pulmonary edema in congestive heart failure
+edema	correlates with	weight gain in congestive heart failure
+electrolyte abnormalities	accompany	congestive heart failure
+iron deficiency	worsens	fatigue in congestive heart failure
+renal failure	worsens	prognosis in congestive heart failure
+education	promotes	medication adherence in congestive heart failure

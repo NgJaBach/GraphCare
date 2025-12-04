@@ -1,0 +1,101 @@
+fetal monitoring	is a	medical procedure
+electronic fetal monitoring	is a	fetal monitoring method
+external fetal monitoring	is a	noninvasive method
+internal fetal monitoring	is a	invasive method
+cardiotocograph	is a	fetal monitoring device
+cardiotocography	is a	fetal monitoring technique
+nonstress test	is a	fetal wellbeing assessment
+fetal monitoring	records	fetal heart rate
+fetal monitoring	records	uterine contractions
+fetal heart rate	is a	physiological parameter
+tachycardia	is a	fetal heart rate pattern
+bradycardia	is a	fetal heart rate pattern
+accelerations	indicate	fetal well-being
+decelerations	indicate	fetal distress
+early deceleration	indicates	head compression
+late deceleration	indicates	uteroplacental insufficiency
+variable deceleration	indicates	cord compression
+fetal heart rate baseline	is a	feature of monitoring
+fetal heart rate variability	is a	monitored parameter
+nonreassuring tracing	triggers	emergency delivery
+reassuring tracing	supports	continued labor
+Category I tracing	indicates	normal fetal status
+Category II tracing	indicates	indeterminate fetal status
+Category III tracing	indicates	high risk fetal status
+fetal monitoring	informs	obstetric management
+fetal monitoring	guides	intrapartum decisions
+fetal tracing	guides	management decisions
+external fetal monitoring	uses	transducers
+transducers	attach to	maternal abdomen
+scalp electrode	provides	fetal heart data
+intrauterine pressure catheter	provides	pressure data
+internal fetal monitoring	uses	scalp electrode
+fetal monitoring	evaluates	fetal oxygenation status
+fetal distress	is a	clinical condition
+fetal distress	leads to	cesarean delivery
+uteroplacental insufficiency	associates with	late decelerations
+cord compression	associates with	variable decelerations
+fetal hypoxia	associated with	nonreassuring tracing
+placental insufficiency	associated with	late decelerations
+maternal fever	associated with	fetal tachycardia
+maternal infection	associated with	fetal tachycardia
+obesity	associated with	nonreassuring tracing
+hypertension	associated with	late decelerations
+diabetes	associated with	fetal distress
+preterm birth	associated with	nonreassuring tracing
+postterm pregnancy	associated with	increased cesarean rate
+neonatal intensive care admission	associated with	abnormal tracing
+neonatal mortality	associated with	nonreassuring tracing
+Apgar score	correlates with	neonatal outcome
+NICU admission	correlates with	abnormal tracing
+fetal monitoring	used for	risk stratification
+fetal monitoring	used for	intrapartum surveillance
+continuous electronic monitoring	provides	continuous data
+intermittent auscultation	provides	episodic data
+external fetal monitoring	limited by	maternal movement
+internal fetal monitoring	limited by	cervical dilation requirement
+fetal heart data	stored in	electronic record
+electronic record	contains	tracing data
+nurse observation	complements	fetal monitoring
+physician interpretation	completes	tracing analysis
+fetal monitoring	necessitates	trained personnel
+fetal monitoring	increases	staff workload
+fetal monitoring	supports	safety monitoring
+nonreassuring tracing	prompts	rapid response
+rapid response	includes	obstetric team activation
+emergency delivery	is a	management option
+cesarean delivery	performed for	fetal distress
+operative vaginal delivery	performed for	nonreassuring tracing
+tocolysis	used for	tachysystole management
+tachysystole	managed by	adjusting oxytocin infusion
+oxytocin infusion	monitored by	fetal monitoring
+oxygen therapy	used for	fetal distress management
+fetal acidosis	associated with	nonreassuring tracing
+cord prolapse	requires	rapid delivery
+placental abruption	presents with	nonreassuring tracing
+cord prolapse	triggers	emergency delivery
+fetal monitoring	contributes to	maternal-fetal communication
+fetal monitoring	enables	research data collection
+fetal monitoring	informs	clinical guidelines
+fetal monitoring training	improves	interpretation accuracy
+training program	improves	interpretation accuracy
+false alarm	leads to	unnecessary intervention
+motion artifact	causes	tracing artifact
+trace data	stored in	electronic record
+electronic record	provides	audit trail
+emergency cesarean	performed for	category III tracing
+neonatal outcome	predicted by	tracing category
+fetal tracing	used for	risk stratification in labor
+artifact	causes	misinterpretation
+maternal movement	causes	tracing artifact
+scalp electrode	supplies	high-fidelity fetal data
+noninvasive monitoring	reduces	infection risk
+internal monitoring	increases	data granularity
+data granularity	improves	decision speed
+fetal monitoring	integrated into	obstetric care pathway
+obstetric care pathway	standardizes	monitoring workflow
+monitoring workflow	improves	patient safety
+patient safety	improves	perinatal outcomes
+tracing category	informs	escalation threshold
+escalation threshold	defined by	guidelines
+fetal monitoring	remains	essential obstetric tool

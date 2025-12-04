@@ -1,1 +1,93 @@
-ENTITY 1	RELATIONSHIP	ENTITY 2
+open wounds of head; neck; and trunk	may cause	infection
+open wounds of head; neck; and trunk	require	debridement
+open wounds of head; neck; and trunk	require	prophylaxis
+open wounds of head; neck; and trunk	may cause	hemorrhage
+open wounds of head; neck; and trunk	may lead to	sepsis
+open wounds of head; neck; and trunk	may result in	necrosis
+open wounds of head; neck; and trunk	may cause	abscess
+open wounds of head; neck; and trunk	increases	infection
+open wounds of head; neck; and trunk	may require	dressing
+open wounds of head; neck; and trunk	may require	repair
+open wounds of head; neck; and trunk	may require	imaging
+open wounds of head; neck; and trunk	may indicate	fracture
+open wounds of head; neck; and trunk	may indicate	injury
+open wounds of head; neck; and trunk	associated with	airway
+open wounds of head; neck; and trunk	associated with	spine
+open wounds of head; neck; and trunk	require	antibiotics
+open wounds of head; neck; and trunk	require	analgesia
+open wounds of head; neck; and trunk	require	fluids
+open wounds of head; neck; and trunk	require	transfusion
+open wounds of head; neck; and trunk	require	irrigation
+open wounds of head; neck; and trunk	may involve	foreign body
+open wounds of head; neck; and trunk	may involve	bone
+open wounds of head; neck; and trunk	may involve	vessel
+open wounds of head; neck; and trunk	may involve	nerve
+open wounds of head; neck; and trunk	may cause	scar
+open wounds of head; neck; and trunk	may cause	tissue loss
+open wounds of head; neck; and trunk	may cause	deformity
+open wounds of head; neck; and trunk	may require	skin graft
+open wounds of head; neck; and trunk	may require	flap
+open wounds of head; neck; and trunk	may require	closure
+open wounds of head; neck; and trunk	may require	suturing
+open wounds of head; neck; and trunk	may require	immobilization
+open wounds of head; neck; and trunk	may require	anesthesia
+open wounds of head; neck; and trunk	may require	analgesia
+open wounds of head; neck; and trunk	associated with	edema
+open wounds of head; neck; and trunk	associated with	inflammation
+open wounds of head; neck; and trunk	associated with	delayed healing
+open wounds of head; neck; and trunk	associated with	fever
+open wounds of head; neck; and trunk	associated with	leukocytosis
+open wounds of head; neck; and trunk	associated with	anemia
+open wounds of head; neck; and trunk	associated with	hypovolemia
+open wounds of head; neck; and trunk	associated with	coagulopathy
+open wounds of head; neck; and trunk	is emergency	surgical
+open wounds of head; neck; and trunk	may require	ICU admission
+open wounds of head; neck; and trunk	may require	airway management
+open wounds of head; neck; and trunk	may require	craniotomy
+open wounds of head; neck; and trunk	may require	tracheostomy
+open wounds of head; neck; and trunk	may require	vascular repair
+open wounds of head; neck; and trunk	may require	neurosurgery
+open wounds of head; neck; and trunk	may require	maxillofacial
+open wounds of head; neck; and trunk	may require	dental evaluation
+open wounds of head; neck; and trunk	may cause	cosmetic deformity
+open wounds of head; neck; and trunk	is associated with	skull fracture
+open wounds of head; neck; and trunk	is associated with	intracranial injury
+open wounds of head; neck; and trunk	requires	sterile technique
+open wounds of head; neck; and trunk	requires	dressing changes
+open wounds of head; neck; and trunk	requires	wound assessment
+open wounds of head; neck; and trunk	may cause	edema
+open wounds of head; neck; and trunk	may cause	ecchymosis
+open wounds of head; neck; and trunk	may cause	hyperemia
+open wounds of head; neck; and trunk	increases	infection progression
+open wounds of head; neck; and trunk	increases	scarring
+open wounds of head; neck; and trunk	increases	dehiscence
+open wounds of head; neck; and trunk	may cause	pain
+open wounds of head; neck; and trunk	associated with	headaches
+open wounds of head; neck; and trunk	associated with	meningitis risk
+open wounds of head; neck; and trunk	associated with	soft tissue infection
+open wounds of head; neck; and trunk	associated with	osteomyelitis
+open wounds of head; neck; and trunk	may require	CT imaging
+open wounds of head; neck; and trunk	may require	MRI imaging
+open wounds of head; neck; and trunk	may require	ultrasound
+open wounds of head; neck; and trunk	may require	CT angiography
+open wounds of head; neck; and trunk	may require	wound culture
+open wounds of head; neck; and trunk	yield	culture results
+open wounds of head; neck; and trunk	may require	antibiotic adjustment
+open wounds of head; neck; and trunk	is component of	trauma care
+open wounds of head; neck; and trunk	may complicate	airway management
+open wounds of head; neck; and trunk	may complicate	hemodynamics
+open wounds of head; neck; and trunk	may complicate	fluid balance
+open wounds of head; neck; and trunk	is monitored	ICU
+open wounds of head; neck; and trunk	is monitored	ED
+open wounds of head; neck; and trunk	is evaluated by	trauma team
+open wounds of head; neck; and trunk	is evaluated by	neurosurgeon
+open wounds of head; neck; and trunk	is evaluated by	maxillofacial surgeon
+open wounds of head; neck; and trunk	is evaluated by	plastic surgeon
+open wounds of head; neck; and trunk	may require	rehabilitation
+open wounds of head; neck; and trunk	may require	physical therapy
+open wounds of head; neck; and trunk	may require	occupational therapy
+open wounds of head; neck; and trunk	results in	wound healing
+open wounds of head; neck; and trunk	results in	functional recovery
+open wounds of head; neck; and trunk	results in	cosmetic outcome
+open wounds of head; neck; and trunk	prognosis	favorable with care
+open wounds of head; neck; and trunk	prognosis	guarded without treatment

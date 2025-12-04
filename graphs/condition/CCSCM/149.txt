@@ -1,100 +1,100 @@
-biliary tract disease	is a	medical condition
-gallstones	cause	biliary obstruction
-gallstones	cause	cholecystitis
-choledocholithiasis	is a	biliary obstruction
-choledocholithiasis	causes	biliary obstruction
-biliary obstruction	leads to	jaundice
-jaundice	is a	symptom
-cholecystitis	is a	biliary tract inflammation
-cholangitis	is a	biliary tract infection
-biliary tract infection	may lead to	sepsis
-gallbladder	stores	bile
-bile duct	transports	bile
-ultrasound	detects	gallstones
-ultrasound	detects	biliary dilation
-MRCP	visualizes	biliary tree
-ERCP	is used for	stone extraction
-ERCP	is used for	biliary drainage
-laparoscopic cholecystectomy	is a	surgical procedure
-open cholecystectomy	is a	surgical procedure
-cholecystectomy	is a	surgical procedure
-stent	is used for	biliary obstruction
-biliary drainage	is a	procedure
-antibiotics	are used to treat	cholangitis
-ursodeoxycholic acid	is used for	dissolution of cholesterol stones
-bilirubin	rises in	biliary obstruction
-alkaline phosphatase	rises in	biliary obstruction
-gamma-glutamyl transferase	rises in	biliary obstruction
-liver function tests	assess	biliary disease
-cholesterol gallstones	form in	bile
-pigment stones	form in	bile
-gallstone disease	is a	subset of biliary tract disease
-biliary colic	is a	symptom
-gallbladder	is an	organ
-bile duct	is a	conduit
-primary biliary cholangitis	is a	autoimmune liver disease
-primary sclerosing cholangitis	is a	chronic biliary disease
-cholangiocarcinoma	is a	biliary tract cancer
-gallbladder cancer	is a	biliary tract cancer
-primary sclerosing cholangitis	progresses to	cirrhosis
-cholangiocarcinoma	risk factor includes	PSC
-cholangitis	requires	antibiotics
-post-cholecystectomy syndrome	is a	complication
-stone recurrence	occurs after	cholecystectomy
-obesity	increases risk of	cholesterol gallstones
-female sex	increases risk of	cholesterol gallstones
-pregnancy	increases risk of	gallstones
-rapid weight loss	increases risk of	cholesterol gallstones
-high cholesterol diet	increases risk of	cholesterol gallstones
-age	is a risk factor for	biliary tract disease
-diabetes	is a risk factor for	biliary tract disease
-pancreatitis	may accompany	biliary obstruction
-sepsis	can result from	cholangitis
-readmission	associated with	biliary procedures
-stone dissolution therapy	is a	treatment option
-cholesterol stones	form in	bile
-pigment stones	form in	bile
-biliary colic	presents with	right upper quadrant pain
-right upper quadrant pain	is a	symptom
-fever	is a	sign of infection in biliary disease
-elevated bilirubin	indicates	biliary obstruction
-elevated alkaline phosphatase	indicates	biliary obstruction
-elevated gamma-glutamyl transferase	indicates	biliary obstruction
-MRCP	is used for	biliary anatomy assessment
-CT scan	detects	biliary obstruction
-liver biopsy	is used for	evaluation of liver disease
-biliary dyskinesia	is a	biliary motility disorder
-biliary tract	maintains	bile flow
-cystic duct	connects to	common bile duct
-cystic duct	is an	anatomical structure
-common bile duct	obstructed by	stone
-stone	causes	biliary obstruction
-liver failure	may result from	biliary disease
-antibiotic prophylaxis	used in	cholecystectomy
-postoperative analgesia	required for	cholecystectomy
-anesthesia	administered during	cholecystectomy
-surgical drain	used after	cholecystectomy
-endoscopic sphincterotomy	is a	procedure
-balloon dilatation	is a	procedure
-biliary stent	provides	drainage
-biliary stenting	is a	procedure
-ursodeoxycholic acid	is a	bile acid therapy
-bile acid therapy	is a	treatment option
-laparoscopy	is a	minimally invasive surgical approach
-surgery	reduces	biliary pain
-endoscopy	provides	diagnostic visualization
-choledochoscope	is used for	stone extraction
-bile duct	receives	bile from liver
-ductal dilation	occurs in	biliary obstruction
-obstructive jaundice	is a	manifestation of biliary obstruction
-biliary sludge	can indicate	biliary stasis
-biliary stasis	predisposes to	gallstone formation
-stone formation	occurs in	gallbladder
-gallbladder wall thickening	is a	finding in cholecystitis
-stone impact	causes	biliary obstruction
-systemic inflammation	accompanies	cholangitis
-clinical outcome	depends on	timely treatment
-timely treatment	improves	prognosis
-prognosis	depends on	extent of obstruction
-extent of obstruction	influences	treatment choice
-treatment choice	determined by	stone location
+ b iliary tract disease	is a	group of disorders 
+ biliary tract disease	includes	cholelithiasis 
+ biliary tract disease	includes	cholangitis 
+ biliary tract disease	includes	cholecystitis 
+ biliary tract disease	includes	biliary obstruction 
+ biliary tract disease	presents with	right upper quadrant pain 
+ biliary tract disease	presents with	jaundice 
+ biliary tract disease	presents with	fever 
+ biliary tract disease	presents with	nausea 
+ biliary tract disease	presents with	vomiting 
+ biliary tract disease	associated with	biliary obstruction 
+ biliary tract disease	associated with	cholestasis 
+ biliary tract disease	diagnosed by	ultrasound 
+ biliary tract disease	diagnosed by	MRCP 
+ biliary tract disease	diagnosed by	ERCP 
+ biliary tract disease	diagnosed by	CT scan 
+ biliary tract disease	diagnosed by	blood tests 
+ biliary tract disease	shows	bilirubin elevation 
+ biliary tract disease	shows	alkaline phosphatase elevation 
+ biliary tract disease	treated with	cholecystectomy 
+ biliary tract disease	treated with	antibiotics 
+ biliary tract disease	treated with	ERCP 
+ biliary tract disease	treated with	biliary drainage 
+ biliary tract disease	treated with	biliary stenting 
+ biliary tract disease	treated with	ursodeoxycholic acid 
+ biliary tract disease	managed with	analgesia 
+ biliary tract disease	managed with	hydration 
+ biliary tract disease	managed with	observation 
+ biliary tract disease	requires	surgery 
+ biliary tract disease	requires	endoscopy 
+ biliary tract disease	risk factors	obesity 
+ biliary tract disease	risk factors	female sex 
+ biliary tract disease	risk factors	advanced age 
+ biliary tract disease	risk factors	rapid weight loss 
+ biliary tract disease	risk factors	diabetes mellitus 
+ biliary tract disease	risk factors	metabolic syndrome 
+ biliary tract disease	comorbidity	hypertension 
+ biliary tract disease	comorbidity	dyslipidemia 
+ biliary tract disease	prognosis	mortality 
+ biliary tract disease	prognosis	readmission risk 
+ biliary tract disease	complication	biliary sepsis 
+ biliary tract disease	complication	pancreatitis 
+ biliary tract disease	complication	biliary peritonitis 
+ biliary tract disease	complication	cholangiocarcinoma 
+ biliary tract disease	complication	gallbladder cancer 
+ biliary tract disease	associated with	gallstones 
+ biliary tract disease	imaging finding	gallbladder wall thickening 
+ biliary tract disease	imaging finding	bile duct dilation 
+ biliary tract disease	imaging finding	gallstones 
+ biliary tract disease	imaging finding	gallbladder sludge 
+ biliary tract disease	laboratory finding	leukocytosis 
+ biliary tract disease	laboratory finding	elevated bilirubin 
+ biliary tract disease	laboratory finding	elevated transaminases 
+ biliary tract disease	laboratory finding	elevated alkaline phosphatase 
+ biliary tract disease	treatment outcome	symptom relief 
+ biliary tract disease	treatment outcome	resolution of obstruction 
+ biliary tract disease	recurrence	gallstone recurrence 
+ biliary tract disease	recurrence	stricture formation 
+ biliary tract disease	epidemiology	prevalence 
+ biliary tract disease	diagnostic test	liver function test 
+ biliary tract disease	diagnostic test	bilirubin 
+ biliary tract disease	diagnostic test	alkaline phosphatase 
+ biliary tract disease	diagnostic test	gamma-glutamyl transferase 
+ biliary tract disease	management	surgical management 
+ biliary tract disease	management	medical management 
+ biliary tract disease	management	radiologic intervention 
+ biliary tract disease	management	observation 
+ biliary tract disease	follow-up	imaging follow-up 
+ biliary tract disease	follow-up	lab monitoring 
+ biliary tract disease	etiology	cholesterol stones 
+ biliary tract disease	etiology	pigment stones 
+ biliary tract disease	pathophysiology	bile stasis 
+ biliary tract disease	pathophysiology	cholesterol supersaturation 
+ biliary tract disease	pathology	cholestasis 
+ biliary tract disease	pathology	bile duct injury 
+ biliary tract disease	health care utilization	hospital admission 
+ biliary tract disease	health care utilization	ICU admission 
+ biliary tract disease	population	adult 
+ biliary tract disease	population	elderly 
+ biliary tract disease	population	pediatric patients 
+ biliary tract disease	health care setting	tertiary center 
+ biliary tract disease	diagnostic criteria	imaging criteria 
+ biliary tract disease	diagnostic criteria	laboratory criteria 
+ biliary tract disease	clinical feature	right upper quadrant tenderness 
+ biliary tract disease	patient education	diet modification 
+ biliary tract disease	patient education	hydration 
+ biliary tract disease	quality of life impact	reduced quality of life 
+ biliary tract disease	transplant consideration	liver transplant 
+ biliary tract disease	geographic distribution	global incidence 
+ biliary tract disease	health care cost	hospitalization cost 
+ biliary tract disease	resource use	imaging studies 
+ biliary tract disease	coding	ICD code 
+ biliary tract disease	research area	cholangiopathies 
+ biliary tract disease	clinical trial status	active trials 
+ biliary tract disease	surveillance priority	postoperative recovery 
+ biliary tract disease	coding	diagnostic code 
+ biliary tract disease	pathological stage	cirrhosis stage 
+ biliary tract disease	genetic association	gallstone disease 
+ biliary tract disease	health care disparity	geographic inequality 
+ biliary tract disease	quality improvement target	readmission rate 

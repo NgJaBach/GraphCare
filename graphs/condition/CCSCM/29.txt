@@ -1,101 +1,128 @@
-prostate cancer	is a	malignant neoplasm of the prostate
-age	is a	risk factor for prostate cancer
-African ancestry	increases risk of	prostate cancer
-family history	increases risk of	prostate cancer
-BRCA2 mutation	increases risk of	prostate cancer
-BRCA1 mutation	increases risk of	prostate cancer
-Lynch syndrome	increases risk of	prostate cancer
-obesity	increases risk of	aggressive prostate cancer
-smoking	increases risk of	aggressive prostate cancer
-diet	influences risk of	prostate cancer
-physical activity	reduces risk of	prostate cancer
-PSA test	is used for	prostate cancer screening
-digital rectal examination	is used for	prostate cancer screening
+prostate cancer	is a	malignant tumor of the prostate
+prostate cancer	originates in	prostate gland
+prostate cancer	is a type of	cancer
+prostate cancer	commonly associated with	age
+prostate cancer	associated with	BRCA2 mutation
+prostate cancer	associated with	African descent
+family history	increases risk for	prostate cancer
+BRCA2 mutation	increases risk for	prostate cancer
+age	increases risk for	prostate cancer
+African descent	increases risk for	prostate cancer
+PSA testing	used for	screening of prostate cancer
+digital rectal exam	used for	screening of prostate cancer
+Gleason score	informs	prognosis of prostate cancer
+Gleason score	correlates with	tumor aggressiveness
+PSA level	correlates with	tumor burden
 biopsy	confirms	prostate cancer
-Gleason score	assesses	cancer aggressiveness
-Gleason score	guides	risk stratification
-TNM stage	guides	treatment planning
-MRI	evaluates	local extent of prostate cancer
-CT scan	evaluates	lymph node involvement
-bone scan	detects	bone metastases
-PSMA PET scan	detects	metastatic disease
-PSA velocity	predicts	disease progression
-PSA doubling time	predicts	progression-free survival
-perineural invasion	indicates	aggressive cancer
-lymph node involvement	upstages	disease
-biochemical recurrence	signals	cancer progression
-castration-resistant prostate cancer	is a stage of	prostate cancer
-metastatic prostate cancer	informs	treatment planning
-localized prostate cancer	informs	treatment choice
-radical prostatectomy	is a treatment for	localized prostate cancer
-external beam radiotherapy	is a treatment for	localized prostate cancer
-brachytherapy	is a treatment for	localized prostate cancer
-watchful waiting	is a management strategy for	low-risk prostate cancer
-active surveillance	is a management strategy for	low-risk prostate cancer
-androgen deprivation therapy	is a treatment for	advanced prostate cancer
-orchiectomy	is a treatment for	advanced prostate cancer
-leuprolide	is a	LHRH agonist
-degarelix	is a	GnRH antagonist
-docetaxel	treats	metastatic prostate cancer
-cabazitaxel	treats	metastatic castration-resistant prostate cancer
-abiraterone	treats	metastatic castration-resistant prostate cancer
-enzalutamide	treats	metastatic castration-resistant prostate cancer
-apalutamide	treats	nonmetastatic castration-resistant prostate cancer
-sipuleucel-T	treats	asymptomatic or minimally symptomatic metastatic castration-resistant prostate cancer
-olaparib	treats	BRCA2-mutated prostate cancer
-rucaparib	treats	BRCA-mutated prostate cancer
-PARP inhibitors	cause	anemia
+MRI	used for	staging of prostate cancer
+CT scan	used for	staging of prostate cancer
+bone scan	used for	detection of metastasis
+PSMA PET	used for	staging of prostate cancer
+radical prostatectomy	indicated for	localized prostate cancer
+radical prostatectomy	may cause	urinary incontinence
+radical prostatectomy	may cause	erectile dysfunction
+brachytherapy	indicated for	localized prostate cancer
+external beam radiotherapy	indicated for	localized prostate cancer
+androgen deprivation therapy	used for	metastatic prostate cancer
+ADT	used for	castration-sensitive prostate cancer
+docetaxel	approved for	metastatic castration-resistant prostate cancer
+cabazitaxel	approved for	metastatic castration-resistant prostate cancer
+abiraterone	approved for	metastatic castration-resistant prostate cancer
+enzalutamide	approved for	metastatic castration-resistant prostate cancer
+apalutamide	approved for	nonmetastatic castration-resistant prostate cancer
+radium-223	approved for	metastatic castration-resistant prostate cancer with bone metastases
+Lutetium-177-PSMA	used for	metastatic castration-resistant prostate cancer
+sipuleucel-T	used for	metastatic castration-resistant prostate cancer
+prostate cancer	metastasizes to	bone
+prostate cancer	metastasizes to	liver
+prostate cancer	metastasizes to	lung
+prostate cancer	metastasizes to	lymph nodes
+bone metastasis	causes	bone pain
+bone metastasis	leads to	pathologic fracture
+bone metastasis	contributes to	skeletal-related events
+bone pain	indicates	bone metastasis
+urinary incontinence	results from	radical prostatectomy
+erectile dysfunction	results from	radical prostatectomy
+erectile dysfunction	results from	radiation therapy
+urinary incontinence	may persist after	radiotherapy
+PSA	used for	monitoring of disease activity
+disease activity	monitored by	PSA
+clinical stage	determines	treatment plan
+staging	guides	treatment decisions
+Gleason score	stratifies	prognosis categories
+Gleason score	guides	treatment intensity
+tumor stage	determines	regional spread
+lymph node metastasis	indicates	advanced disease
+node-negative status	indicates	localized disease
+node-positive status	indicates	metastatic disease
+bone metastasis	is common site	for prostate cancer
+bone metastasis	causes	skeletal-related events
+disease progression	leads to	mortality
+mortality	associated with	age at diagnosis
+mortality	influenced by	Gleason score
+comorbidity	affects	treatment choice
+age	guides	treatment selection
+urinary tract obstruction	caused by	tumor growth
+urinary obstruction	common in	advanced prostate cancer
+bone density loss	caused by	androgen deprivation therapy
+cardiovascular risk	increased by	androgen deprivation therapy
+bone health	protected by	denosumab therapy
+denosumab	used for	prevention of skeletal-related events
+PSA doubling time	predicts	progression risk
+PSA velocity	correlates with	treatment response
+imaging	guides	staging of prostate cancer
+staging	stratifies	prognosis
+prostate cancer	prognosis poorer with	metastatic disease
+castration-resistant prostate cancer	arises from	prostate cancer progression
+testosterone	suppression by	androgen deprivation therapy
 androgen receptor signaling	drives	prostate cancer progression
-PTEN loss	associates with	poor prognosis
-DNA damage repair mutation	predicts sensitivity to	PARP inhibitors
-AR amplification	correlates with	castration resistance
-MSI-high status	predicts benefit from	immunotherapy in prostate cancer
-tumor mutational burden	is low in	prostate cancer
-testosterone suppression	delays	disease progression
-radiation therapy	achieves	local control of cancer
+PSMA expression	increases with	disease progression
+axial skeleton	affected by	bone metastases
+pelvic bones	involved in	metastasis
 surgical margins	influence	recurrence risk
-positive surgical margins	correlate with	recurrence risk
-neoadjuvant therapy	considered for	localized prostate cancer
-adjuvant therapy	considered for	post-prostatectomy
-salvage radiotherapy	used for	post-prostatectomy recurrence
-nerve-sparing surgery	preserves	erectile function
-pelvic lymph node dissection	provides	staging information
-imaging-guided biopsy	improves	diagnostic accuracy
-PSA decline	indicates	treatment response
-biochemical response	indicates	treatment response
-overall survival	is an outcome for	prostate cancer
-progression-free survival	is an outcome for	prostate cancer
-cancer-specific survival	is an outcome for	prostate cancer
-quality of life	is affected by	prostate cancer treatment
-bone metastases	cause	bone pain
-anemia	is a side effect of	PARP inhibitors
-neutropenia	is a side effect of	chemotherapy
-fatigue	is a side effect of	androgen deprivation therapy
-hypertension	is a side effect of	abiraterone
-osteoporosis	is a complication of	androgen deprivation therapy
-metabolic syndrome	is a complication of	androgen deprivation therapy
-testicular atrophy	is a side effect of	androgen deprivation therapy
-hot flashes	is a side effect of	androgen deprivation therapy
-weight gain	is a side effect of	androgen deprivation therapy
-lipid abnormalities	are side effects of	androgen deprivation therapy
-radiation-induced proctitis	is a complication of	pelvic radiotherapy
-rectal bleeding	is a complication of	pelvic radiotherapy
-urethral stricture	is a complication of	radical prostatectomy
-urinary incontinence	persists after	radical prostatectomy
-erectile dysfunction	persists after	prostate cancer treatment
-rectal toxicity	is a complication of	pelvic radiotherapy
-radiation enteritis	is a complication of	pelvic radiotherapy
-PSA monitoring	is part of	post-treatment follow-up
-disease progression	signals	clinical deterioration
-hospital readmission	occurs with	post-prostatectomy complications
-mortality	risk is higher with	metastatic prostate cancer
-recurrence	occurs after	local therapy
-genetic testing	informs	targeted therapy selection
-family history	prompts	genetic testing for predisposition
-HRD status	informs	PARP inhibitor eligibility
-economic burden	is associated with	prostate cancer treatment
-bone health	requires	monitoring during androgen deprivation therapy
-bone mineral density testing	monitors	osteoporosis risk during ADT
-PSA monitoring	continues during	post-treatment follow-up
-immunotherapy	provides	survival benefit in select metastatic patients
-clinical trial	may inform	treatment choice
+negative surgical margin	indicates	complete resection
+positive surgical margin	indicates	residual disease
+active surveillance	appropriate for	low-risk prostate cancer
+watchful waiting	appropriate for	elderly patients with prostate cancer
+recurrence	occurs after	primary therapy for prostate cancer
+adjuvant therapy	used for	post-surgical prostate cancer
+neoadjuvant therapy	used for	localized prostate cancer
+focal therapy	used for	selected localized prostate cancers
+hormone-sensitive prostate cancer	responds to	androgen deprivation therapy
+castration-resistant prostate cancer	progresses despite	castration levels of testosterone
+testosterone	suppression by	androgen deprivation therapy
+androgen receptor signaling	drives	prostate cancer progression
+PSMA expression	increases with	disease progression
+bone metastasis	imaging with	bone scan
+bone metastasis	alters	mobility
+disease-free survival	defined as	absence of recurrence
+overall survival	improved by	docetaxel
+progression-free survival	improved by	abiraterone
+quality of life	affected by	treatment side effects
+palliative care	improves	quality of life
+urinary symptoms	worsen with	disease progression
+erectile function	affected by	prostate cancer treatment
+sexual health	affected by	prostate cancer treatment
+family history	informs	genetic testing decision
+genetic testing	informs	risk assessment for relatives
+BRCA2 status	influences	treatment choice
+genetic mutation	predisposes to	prostate cancer
+prostate cancer	may cause	anemia
+anemia	worsens	fatigue
+fatigue	accompanies	cancer treatment
+bone scan	screens for	bone metastases
+bone metastasis	worsens	mobility
+recurrence	occurs after	primary therapy for prostate cancer
+adjuvant therapy	used for	post-surgical prostate cancer
+neoadjuvant therapy	used for	localized prostate cancer
+focal therapy	used for	selected localized prostate cancers
+hormone-sensitive prostate cancer	responds to	androgen deprivation therapy
+castration-resistant prostate cancer	progresses despite	castration levels of testosterone
+testosterone	remains at	castration levels after therapy
+PSMA PET imaging	detects	metastases
+PSA nadir	associated with	response to therapy
+partial response	indicates	tumor shrinkage
+complete response	indicates	no measurable disease
+palliative care	improves	quality of life
+quality of life	affected by	treatment side effects
+bone-targeted therapy	reduces risk of	skeletal-related events in bone metastases

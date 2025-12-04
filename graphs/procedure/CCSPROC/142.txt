@@ -1,0 +1,100 @@
+partial excision bone	is a	surgical procedure
+partial excision bone	is indicated for	bone lesion
+partial excision bone	treats	tumor
+partial excision bone	treats	malignant tumor
+partial excision bone	treats	osteosarcoma
+partial excision bone	used for	bone cyst
+partial excision bone	used for	enchondroma
+partial excision bone	used for	osteoid osteoma
+partial excision bone	used for	benign lesion
+partial excision bone	used for	lesion
+partial excision bone	removes	lesion
+partial excision bone	removes	tumor
+partial excision bone	yields	bone defect
+partial excision bone	requires	anesthesia
+partial excision bone	requires	general anesthesia
+partial excision bone	requires	regional anesthesia
+partial excision bone	requires	blood transfusion
+partial excision bone	requires	sterile environment
+partial excision bone	uses	drill
+partial excision bone	uses	curette
+partial excision bone	uses	osteotome
+partial excision bone	uses	burr
+partial excision bone	uses	saw
+partial excision bone	uses	rasp
+partial excision bone	uses	retractor
+partial excision bone	uses	suction
+partial excision bone	uses	irrigation
+partial excision bone	guided by	fluoroscopy
+partial excision bone	guided by	CT scan
+partial excision bone	guided by	MRI
+partial excision bone	performed with	image intensifier
+partial excision bone	performed in	operating room
+partial excision bone	followed by	rehabilitation
+partial excision bone	followed by	physical therapy
+partial excision bone	followed by	imaging follow-up
+partial excision bone	followed by	wound care
+partial excision bone	associated with	infection
+partial excision bone	associated with	bleeding
+partial excision bone	associated with	nerve injury
+partial excision bone	associated with	vascular injury
+partial excision bone	associated with	scar
+partial excision bone	associated with	edema
+partial excision bone	associated with	hematoma
+partial excision bone	can cause	pain
+partial excision bone	can cause	stiffness
+partial excision bone	can cause	reduced motion
+partial excision bone	can cause	numbness
+partial excision bone	may require	fixation
+partial excision bone	may require	reconstruction
+partial excision bone	may require	bone graft
+partial excision bone	may require	bone cement
+partial excision bone	may require	implant
+partial excision bone	may require	plate
+partial excision bone	may require	screw
+partial excision bone	may require	rod
+partial excision bone	may require	external fixation
+partial excision bone	may be followed by	radiotherapy
+partial excision bone	may be followed by	chemotherapy
+partial excision bone	may be followed by	immunotherapy
+partial excision bone	may be followed by	rehabilitation
+partial excision bone	commonly combined with	bone graft
+partial excision bone	commonly combined with	implant
+partial excision bone	commonly combined with	plate
+partial excision bone	commonly combined with	screw
+partial excision bone	commonly performed with	cement
+partial excision bone	yields	bone defect
+partial excision bone	results in	scar
+partial excision bone	results in	edema
+partial excision bone	improves	mobility
+partial excision bone	improves	function
+partial excision bone	reduces	tumor burden
+partial excision bone	reduces	mass effect
+partial excision bone	causes	tissue damage
+partial excision bone	contraindicated in	infection
+partial excision bone	contraindicated in	poor bone quality
+partial excision bone	assessed by	radiographs
+partial excision bone	assessed by	CT scan
+partial excision bone	assessed by	MRI
+partial excision bone	submitted for	pathology
+partial excision bone	yields	specimen
+partial excision bone	used for	biopsy
+partial excision bone	associated with	healing time
+partial excision bone	indicated in	pediatric patients
+partial excision bone	advised with	immobilization
+partial excision bone	included in	orthopedic oncology protocol
+partial excision bone	evaluated with	ultrasound
+partial excision bone	part of	orthopedic procedure
+partial excision bone	part of	cancer surgery
+partial excision bone	processed by	pathology
+partial excision bone	associated with	healing time
+partial excision bone	influences	prognosis
+partial excision bone	described as	standard procedure
+partial excision bone	investigated in	clinical trials
+partial excision bone	compared with	radical resection
+partial excision bone	alternative to	radical resection
+partial excision bone	used for	tumor resection
+partial excision bone	example of	skeletal surgery
+partial excision bone	example of	tumor removal
+partial excision bone	option in	cancer surgery
+partial excision bone	studied in	clinical trials

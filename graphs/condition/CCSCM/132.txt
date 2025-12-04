@@ -1,100 +1,100 @@
-pneumoconiosis	is caused by	dust exposure
-silicosis	is caused by	silica exposure
-coal workers' pneumoconiosis	is caused by	coal dust exposure
-asbestosis	is caused by	asbestos exposure
-berylliosis	is caused by	beryllium exposure
-hypersensitivity pneumonitis	is caused by	organic antigen exposure
-occupational asthma	is caused by	workplace sensitizers
-chemical pneumonitis	is caused by	toxic inhalants
-pneumoconiosis	is a	occupational lung disease
-asbestosis	is a	pneumoconiosis type
-asbestos exposure	is a risk factor for	mesothelioma
-asbestos exposure	is a risk factor for	bronchogenic carcinoma
-silica exposure	is a risk factor for	tuberculosis
-coal dust exposure	is a risk factor for	pneumoconiosis
-organic dust exposure	is a risk factor for	hypersensitivity pneumonitis
-bird antigen exposure	is a risk factor for	hypersensitivity pneumonitis
-mold exposure	is a risk factor for	hypersensitivity pneumonitis
-beryllium exposure	is a risk factor for	berylliosis
-metal dust exposure	is a risk factor for	occupational lung disease
-dust exposure	is a risk factor for	pneumoconiosis
-pneumoconiosis	diagnosed by	chest radiograph
-silicosis	diagnosed by	chest CT
-asbestosis	diagnosed by	pleural plaques on imaging
-berylliosis	diagnosed by	BeLPT
-hypersensitivity pneumonitis	diagnosed by	precipitating antibody testing
-hypersensitivity pneumonitis	diagnosed by	bronchoalveolar lavage findings
-occupational asthma	diagnosed by	bronchial challenge test
-pneumoconiosis	diagnosed by	occupational history
-silicosis	diagnosed by	imaging findings
-asbestosis	diagnosed by	ferruginous bodies on biopsy
-occupational lung disease	treated with	exposure avoidance
-hypersensitivity pneumonitis	treated with	antigen avoidance
-occupational asthma	treated with	inhaled bronchodilators
-asbestosis	treated with	supportive care
-pneumoconiosis	treated with	pulmonary rehabilitation
-hypersensitivity pneumonitis	treated with	corticosteroids
-silicosis	treated with	supportive care
-berylliosis	treated with	corticosteroids
-occupational lung disease	prevented by	protective equipment
-dust exposure	mitigated by	ventilation control
-silicosis	is associated with	calcified nodules
-asbestosis	is associated with	pleural plaques
-hypersensitivity pneumonitis	is associated with	bird fancier exposure
-pneumoconiosis	is associated with	reduced lung volumes
-pneumoconiosis	is associated with	restrictive spirometry pattern
-silicosis	is associated with	increased TB risk
-asbestos exposure	is associated with	mesothelioma latency
-berylliosis	is associated with	granulomatous inflammation
-occupational exposure	is associated with	work disability
-pneumoconiosis	is associated with	chronic cough
-pneumoconiosis	progresses to	interstitial fibrosis
-asbestosis	progresses to	honeycombing
-hypersensitivity pneumonitis	progresses to	fibrosis
-silicosis	progresses to	pulmonary hypertension
-berylliosis	progresses to	granulomatous interstitial disease
-pneumoconiosis	increases risk for	respiratory failure
-silicosis	increases risk for	tuberculosis
-asbestosis	increases risk for	mesothelioma
-hypersensitivity pneumonitis	increases risk for	fibrosis progression
-berylliosis	increases risk for	granulomatous disease
-pneumoconiosis	associated with	decreased survival
-silicosis	associated with	higher mortality
-asbestosis	associated with	poorer prognosis
+lung disease due to external agents	includes	pneumoconiosis
+asbestos	causes	asbestosis
+asbestos	causes	mesothelioma
+silica	causes	silicosis
+coal dust	causes	coal workers' pneumoconiosis
+coal dust	leads to	pneumoconiosis
+beryllium	causes	berylliosis
+organic dust	causes	hypersensitivity pneumonitis
+mold spores	causes	hypersensitivity pneumonitis
+bird droppings	causes	hypersensitivity pneumonitis
+pigeon breeders' disease	is a form of	hypersensitivity pneumonitis
+hypersensitivity pneumonitis	presents with	dyspnea
+hypersensitivity pneumonitis	presents with	cough
+hypersensitivity pneumonitis	associated with	fever
+occupational asthma	is a type of	asthma
+isocyanates	cause	occupational asthma
+occupational asthma	worsened by	smoke exposure
+chlorine gas	causes	chemical pneumonitis
+chlorine gas exposure	can cause	acute lung injury
+sulfur dioxide	triggers	reactive airway disease
+ozone	associated with	airway inflammation
+air pollution	associated with	COPD
+air pollution	associated with	asthma
+radon	increases risk for	lung cancer
+radon exposure	increases risk for	bronchogenic carcinoma
+tobacco smoke	is a risk factor for	COPD
+tobacco smoke	is a risk factor for	lung cancer
+tobacco smoke exposure	increases	pneumonia risk
+smoke exposure	increases risk for	COPD
+smoke exposure	increases risk for	lung cancer
+asbestos exposure	associated with	pleural plaques
+asbestos exposure	associated with	pleural thickening
+silica dust	causes	progressive massive fibrosis
+silica dust exposure	increases	TB risk
+dust exposure	increases mortality in	lung disease
+pneumoconiosis	results in	reduced lung function
+pneumoconiosis	is a form of	fibrotic lung disease
+asbestosis	is a form of	fibrotic interstitial lung disease
+asbestosis	increases	mortality
+asbestosis	leads to	dyspnea on exertion
+pneumoconiosis	associated with	chest radiographic abnormalities
+occupational exposure	leads to	bronchitis
+asbestos	causes	pleural effusion
+smoke exposure	causes	chronic bronchitis
+air pollution	contributes to	acute respiratory failure
+organic dust exposure	leads to	farmer's lung
+farmer's lung	is a form of	hypersensitivity pneumonitis
+chronic bronchitis	related to	smoking
+emphysema	related to	tobacco smoke
+lung cancer	associated with	tobacco smoke
+lung cancer	associated with	radon exposure
+mesothelioma	strongly linked to	asbestos exposure
+pleural plaque	associated with	asbestos exposure
+bronchiolitis obliterans	associated with	inhalational injury
+toxic inhalants	cause	bronchiolitis obliterans
+organic solvent exposure	leads to	chemical pneumonitis
+chlorine exposure	leads to	reactive airway dysfunction syndrome
+reactive airway dysfunction syndrome	occurs after	chlorine gas exposure
+occupational exposure	increases	hospitalization risk for lung disease
+pneumonitis	presents with	fever
+pneumonitis	presents with	cough
+hypersensitivity pneumonitis	may progress to	fibrosis
+fibrosis	results from	chronic pneumoconiosis
+air pollution	causes	chronic bronchitis
+air pollution	associated with	pneumonia
+tobacco smoke exposure	worsens	COPD
+dust exposure	increases	hospitalization
+silica dust	predisposes to	TB
+asbestos	predisposes to	pleural effusion
+beryllium exposure	predisposes to	berylliosis
+organic dust exposure	predisposes to	farmer's lung
+asthma	exacerbated by	air pollution
+COPD	worsened by	tobacco smoke
+dust exposure	increases	cough
 pneumoconiosis	leads to	respiratory failure
-asbestosis	leads to	mortality
-silicosis	leads to	respiratory failure
-silicosis	is characterized by	upper-lobe nodules
-asbestosis	is characterized by	pleural plaques
-hypersensitivity pneumonitis	is characterized by	nodular ground-glass opacities
-pneumoconiosis	is characterized by	pulmonary nodules
-diffusing capacity	is reduced in	pneumoconiosis
-restrictive pattern	is seen in	pneumoconiosis
-ground-glass opacity	is associated with	hypersensitivity pneumonitis
-honeycombing	is associated with	fibrosis in asbestosis
-calcified nodules	are found in	silicosis
-ventilation	reduces	dust exposure
-respirator use	reduces	inhalation exposure
-occupational safety program	reduces	work-related exposure
-workplace regulation	reduces	hazardous exposure
-dust control measure	reduces	airborne dust
-mining workers	are at risk for	pneumoconiosis
-construction workers	are at risk for	pneumoconiosis
-shipyard workers	are at risk for	asbestosis
-industrial workers	are at risk for	hypersensitivity pneumonitis
-farmers	at risk for	hypersensitivity pneumonitis
-tunnel workers	are at risk for	pneumoconiosis
-sandblasters	are at risk for	silicosis
-glass manufacturers	are at risk for	silicosis
-asbestos workers	are at risk for	mesothelioma
-smokers	are at risk for	pneumoconiosis progression
-pneumoconiosis	increases	hospital readmission risk
-silicosis	increases	respiratory morbidity
-asbestosis	increases	chronic breathlessness
-hypersensitivity pneumonitis	increases	need for oxygen therapy
-berylliosis	increases	steroid use
-occupational lung disease	increases	healthcare utilization
-dust exposure	increases	work absenteeism
-pneumoconiosis	decreases	life expectancy
-asbestosis	decreases	quality of life
-lung fibrosis	is associated with	reduced diffusing capacity
+pleural effusion	can result from	asbestos exposure
+pleural thickening	associated with	asbestos exposure
+bronchitis	caused by	dust exposure
+dust exposure	triggers	cough
+bronchiolitis obliterans	can be caused by	inhalational toxins
+asbestosis	presents with	dry cough
+silicosis	presents with	dyspnea
+hypersensitivity pneumonitis	presents with	fever
+occupational asthma	presents with	wheeze
+pneumonitis	presents with	cough
+pleural plaques	indicate	asbestos exposure
+silica exposure	associated with	nodular opacities
+coal dust exposure	presents with	nodular opacities
+dust exposure	causes	coughing
+air pollution	increases	ED visits
+air pollution	increases	pneumonia risk
+radon exposure	increases	mortality from lung cancer
+asbestos exposure	increases	respiratory morbidity
+berylliosis	resembles	sarcoidosis
+organophosphate exposure	causes	chemical pneumonitis
+organophosphate exposure	causes	respiratory failure
+household air pollution	associated with	COPD
+wood dust	associated with	nasal cancer
+inhalational exposure	predisposes to	bronchitis
+asthma	exacerbated by	dust exposure

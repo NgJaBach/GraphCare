@@ -1,100 +1,105 @@
+esophageal disorders	is a	gastrointestinal disorder
 esophageal disorders	is associated with	gastroesophageal reflux disease
-achalasia	is a	esophageal motor disorder
-Barrett's esophagus	is a	premalignant condition
-esophageal cancer	is a	malignant tumor
-esophageal squamous cell carcinoma	is a	malignant tumor
-esophageal adenocarcinoma	is a	malignant tumor
-esophagitis	is a	inflammatory condition
-GERD	is a	reflux disease
-hiatal hernia	is a	anatomical abnormality
-esophageal stricture	is a	narrowing
-esophageal diverticulum	is a	pouch
-Mallory-Weiss syndrome	is a	mucosal tear
-candida esophagitis	is a	fungal infection
-CMV esophagitis	is a	viral infection
-HSV esophagitis	is a	viral infection
-eosinophilic esophagitis	is a	inflammatory disorder
-radiation esophagitis	is a	radiation-induced injury
-peptic stricture	is a	scar-related narrowing
-esophageal ulcer	is a	mucosal lesion
-megaesophagus	is a	dilated esophagus
-endoscopy	is a	diagnostic procedure
-manometry	is a	diagnostic test
-pH monitoring	is a	diagnostic test
-barium swallow	is a	imaging test
-endoscopic ultrasound	is a	imaging modality
-biopsy	is a	diagnostic test
-CT scan	is a	diagnostic imaging
-MRI	is a	imaging modality
-esophagogastroduodenoscopy	is a	diagnostic procedure
-histology	is a	diagnostic result
-cytology	is a	diagnostic test
-surveillance endoscopy	is a	monitoring strategy
-Barrett's metaplasia	is a	histologic finding
-intestinal metaplasia	is a	histologic finding
-mass lesion	is a	abnormality
-pneumatic dilation	is a	dilation procedure
-Heller myotomy	is a	surgical procedure
-fundoplication	is a	surgical procedure
-antireflux surgery	is a	surgical option
-stent placement	is a	therapeutic intervention
-endoscopic dilation	is a	therapy
-radiofrequency ablation	is a	therapeutic procedure
-chemotherapy	is a	systemic therapy
-radiation therapy	is a	local therapy
-proton pump inhibitors	treat	GERD
-H2 receptor antagonists	treat	GERD
-prokinetic agents	improve	esophageal motility
-NSAIDs	worsen	esophageal ulcers
-smoking	increases risk of	esophageal cancer
-alcohol	increases risk of	esophageal cancer
-obesity	increases risk of	gastroesophageal reflux disease
-age	increases risk of	esophageal cancer
-diabetes mellitus	associated with	esophageal dysmotility
-scleroderma	associated with	reflux
-cirrhosis	increases risk of	esophageal varices
-portal hypertension	predisposes to	esophageal varices
-esophageal varices	can cause	hematemesis
-hematemesis	is a	symptom
-dysphagia	is a	symptom
-odynophagia	is a	symptom
-reflux	is a	symptom
-globus sensation	is a	symptom
-dysphagia	predicts	weight loss
-weight loss	indicates	cancer
-esophageal cancer	treated with	chemotherapy
-esophageal cancer	treated with	radiotherapy
-endoscopic surveillance	improves	early cancer detection
-Barrett's esophagus	increases risk of	esophageal adenocarcinoma
-Barrett's esophagus	monitored by	endoscopy
-Barrett's esophagus	diagnosed by	biopsy
-esophageal spasm	presents with	chest pain
-esophageal spasm	is a	motility disorder
-distal esophageal spasm	is a	esophageal motility disorder
-nutcracker esophagus	is a	esophageal motility disorder
-achalasia	associated with	megaesophagus
-achalasia	presents with	dysphagia
-caustic ingestion	causes	esophageal injury
-caustic esophagitis	results from	caustic ingestion
-candida esophagitis	treated with	antifungal therapy
-CMV esophagitis	treated with	antiviral therapy
-HSV esophagitis	treated with	antiviral therapy
-immunosuppression	predisposes to	candida esophagitis
-pregnancy	associated with	reflux esophagitis
-smoking	worsens	reflux
-sleep apnea	associated with	GERD
-dietary modification	is a	management strategy
-Nissen fundoplication	corrects	reflux
-POEM	is a	procedure for achalasia
-botox injection	used for	achalasia
-esophagectomy	is a	surgical procedure
-resection	is a	cancer surgery
-neoadjuvant therapy	achieves	tumor downstaging
-tumor downstaging	enables	surgical resection
-tumor burden	decreases with	resection
-survivorship	equals	improved prognosis
-pneumonia	complication of	aspiration during anesthesia
-aspiration	leads to	pneumonia
-esophageal cancer	prognosis depends on	stage
-early cancer detection	improves	survival
-stent migration	occurs with	esophageal stents
+esophageal disorders	is associated with	Barrett's esophagus
+esophageal disorders	increases risk for	esophageal adenocarcinoma
+esophageal disorders	increases risk for	esophageal squamous cell carcinoma
+esophageal disorders	predispose to	esophageal stricture
+esophageal disorders	predispose to	dysphagia
+esophageal disorders	present with	dysphagia
+esophageal disorders	present with	odynophagia
+esophageal disorders	present with	regurgitation
+esophageal disorders	present with	chest pain
+esophageal disorders	treated with	proton pump inhibitors
+esophageal disorders	treated with	H2 blockers
+esophageal disorders	treated with	endoscopic dilation
+esophageal disorders	treated with	esophagectomy
+esophageal disorders	treated with	fundoplication
+esophageal disorders	managed with	lifestyle modification
+esophageal disorders	diagnosed by	endoscopy
+esophageal disorders	diagnosed by	manometry
+esophageal disorders	diagnosed by	barium swallow
+esophageal disorders	diagnosed by	pH monitoring
+esophageal disorders	associated with	hiatal hernia
+esophageal disorders	associated with	obesity
+esophageal disorders	associated with	smoking
+esophageal disorders	associated with	alcohol use
+esophageal disorders	associated with	diabetes mellitus
+esophageal disorders	associated with	connective tissue disease
+esophageal disorders	worsened by	pregnancy
+esophageal disorders	worsened by	NSAID use
+esophageal disorders	worsened by	spicy foods
+esophageal disorders	predispose to	reflux symptoms
+esophageal disorders	predispose to	regurgitation episodes
+esophageal disorders	correlates with	weight loss
+esophageal disorders	correlates with	anemia
+esophageal disorders	correlates with	electrolyte disturbance
+esophageal disorders	increases likelihood of	hospitalization
+esophageal disorders	increases likelihood of	readmission
+esophageal disorders	increases risk of	aspiration pneumonia
+esophageal disorders	associated with	malnutrition
+esophageal disorders	associated with	dehydration
+esophageal disorders	progresses to	esophageal cancer
+esophageal disorders	common in	older adults
+esophageal disorders	common in	males
+esophageal disorders	common in	females
+esophageal disorders	comorbid with	gastroesophageal reflux disease
+esophageal disorders	comororbid with	hiatal hernia
+esophageal disorders	comorbidity with	diabetes mellitus
+esophageal disorders	comorbidity with	obesity
+esophageal disorders	detected by	endoscopy
+esophageal disorders	detected by	manometry
+esophageal disorders	detected by	barium swallow
+esophageal disorders	detected by	pH monitoring
+esophageal disorders	treated with	nutritional support
+esophageal disorders	treated with	acid suppression
+esophageal disorders	requires	surgical therapy
+esophageal disorders	requires	endoscopic therapy
+esophageal disorders	associated with	esophagitis
+esophageal disorders	associated with	achalasia
+esophageal disorders	associated with	esophageal motor dysfunction
+esophageal disorders	presents with	nocturnal cough
+esophageal disorders	presents with	heartburn
+esophageal disorders	presents with	chest discomfort
+esophageal disorders	implicated in	GERD complications
+esophageal disorders	implicated in	peptic esophagitis
+esophageal disorders	linked to	esophageal ulcers
+esophageal disorders	linked to	Barrett's metaplasia
+esophageal disorders	linked to	esophageal cancer surveillance
+esophageal disorders	implicated in	nutritional deficiency
+esophageal disorders	associated with	globus sensation
+esophageal disorders	associated with	chest tightness
+esophageal disorders	observed in	neonates
+esophageal disorders	observed in	children
+esophageal disorders	observed in	adults
+esophageal disorders	common in	elderly
+esophageal disorders	managed with	diet modification
+esophageal disorders	managed with	enteral nutrition
+esophageal disorders	managed with	antiemetics
+esophageal disorders	managed with	steroids
+esophageal disorders	screened by	endoscopy
+esophageal disorders	managed with	nutritional support
+esophageal disorders	evaluated with	swallow study
+esophageal disorders	associated with	dental erosion
+esophageal disorders	associated with	tooth enamel erosion
+esophageal disorders	related to	reflux esophagitis
+esophageal disorders	associated with	laryngopharyngeal reflux
+esophageal disorders	risk factor for	iron deficiency anemia
+esophageal disorders	risk factor for	sleep disturbance
+esophageal disorders	studied with	swallow study
+esophageal disorders	complication of	anesthesia
+esophageal disorders	affects	quality of life
+esophageal disorders	associated with	dental enamel erosion
+esophageal disorders	primarily affects	lower esophagus
+esophageal disorders	included in	GI disorders
+esophageal disorders	studied in	clinical trials
+esophageal disorders	part of	esophageal disease spectrum
+esophageal disorders	leads to	weight loss
+esophageal disorders	caused by	reflux disease
+esophageal disorders	associated with	globus sensation
+esophageal disorders	present in	elderly
+esophageal disorders	treated with	lifestyle modification
+esophageal disorders	treated with	nutritional support
+esophageal disorders	treated with	pharmacotherapy
+esophageal disorders	therapy includes	endoscopic therapy
+esophageal disorders	therapy includes	surgical therapy
+esophageal disorders	surveillance includes	endoscopy

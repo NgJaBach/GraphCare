@@ -1,0 +1,99 @@
+organ transplantation	is a	medical procedure
+organ transplantation	treats	organ failure
+organ transplantation	relies on	donor matching
+organ transplantation	requires	immunosuppression
+organ transplantation	aims for	graft survival
+deceased donor	provides	donor organ
+living donor	provides	donor organ
+donor organ	is allocated by	allocation system
+recipient	receives	donor organ
+graft	is a	transplanted organ component
+ischemia time	influences	graft viability
+cold ischemia time	influences	graft viability
+warm ischemia time	influences	graft viability
+HLA matching	predicts	graft survival
+blood type compatibility	influences	donor selection
+donor age	impacts	graft survival
+recipient age	impacts	posttransplant outcomes
+organ transplantation	requires	surgical expertise
+organ procurement	facilitates	donor organ availability
+organ preservation solution	maintains	donor organ viability
+crossmatch	prevents	hyperacute rejection
+panel reactive antibodies	complicates	donor selection
+desensitization	enables	crossmatch success
+immunosuppression	reduces	acute rejection
+calcineurin inhibitors	include	tacrolimus
+tacrolimus	is a	calcineurin inhibitor
+cyclosporine	is a	calcineurin inhibitor
+mycophenolate	is an	antiproliferative agent
+sirolimus	is a	mTOR inhibitor
+prednisone	is a	corticosteroid
+steroid-sparing regimen	reduces	adverse effects
+antimicrobial prophylaxis	prevents	infection
+posttransplant period	monitoring	recipients
+biopsy	evaluates	rejection
+rejection	is a	complication
+acute rejection	is a	complication
+graft failure	results in	dialysis requirement
+infection	risk	posttransplant period
+malignancy	risk	long-term immunosuppression
+cardiovascular disease	risk	posttransplant recipients
+PTLD	risk	posttransplant immunosuppression
+acute rejection	is a	complication
+graft monitoring	enables	rejection detection
+biomarker	predicts	rejection
+creatinine	indicates	graft function
+organ transplantation	increases	patient lifespan
+waitlist	determines	donor availability
+allocation system	governs	organ distribution
+urgency score	influences	organ distribution
+donor age	affects	organ quality
+recipient comorbidity	influences	posttransplant outcome
+drug interactions	affect	immunosuppressants
+tacrolimus trough level	correlates with	toxicity
+antibiotic prophylaxis	reduces	bacterial infection
+fungal prophylaxis	reduces	fungal infection
+nephrotoxicity	associated with	calcineurin inhibitors
+vascular complications	increase	posttransplant mortality
+cardiac allograft vasculopathy	causes	heart transplant failure
+lung transplantation	requires	donor lung availability
+pancreas transplantation	improves	glycemic control
+liver transplant	treats	hepatic failure
+kidney transplantation	treats	end-stage renal disease
+liver transplantation	requires	hepatic allocation
+heart transplantation	treats	end-stage heart failure
+acute rejection	requires	prompt treatment
+chronic rejection	leads to	graft dysfunction
+immunosuppressive therapy	aims for	prevention of rejection
+biopsy	confirms	rejection
+donor tissue	is matched by	HLA typing
+donor kidney	is allocated by	organ sharing network
+kidney	is a	commonly transplanted organ
+liver	is a	commonly transplanted organ
+heart	is a	commonly transplanted organ
+lung	is a	commonly transplanted organ
+pancreas	is a	transplanted organ
+intestine	is a	transplanted organ
+organ shortage	presents	waiting times
+waitlist mortality	remains	a concern
+donor organ procurement	reduces	cold ischemia
+organ preservation technique	extends	organ viability
+hypothermic perfusion	improves	donor organ preservation
+normothermic perfusion	preserves	graft viability
+desensitization	enables	crossmatch success
+crossmatch	screens for	donor antibodies
+panel reactive antibodies	indicate	sensitization
+sensitization	increases	crossmatch failure
+organ allocation policy	shapes	transplant equity
+transplant center	reports	graft outcomes
+graft outcomes	correlate with	recipient comorbidity
+body mass index	associates with	posttransplant complications
+smoking history	influences	posttransplant outcomes
+diabetes mellitus	impacts	transplant outcome
+hypertension	accompanies	posttransplant care
+nephrotoxicity	results from	calcineurin inhibitors
+lipid abnormalities	occur with	immunosuppressants
+malignancy risk	increases with	immunosuppression duration
+vaccination status	influences	infection risk
+posttransplant rehabilitation	improves	functional status
+organ transplantation	used for	end-stage organ disease

@@ -1,0 +1,100 @@
+nonoperative urinary system measurements	include	urinalysis
+urinalysis	is a	nonoperative urinary system measurement
+urinalysis	screens for	urinary tract infection
+urinalysis	detects	hematuria
+urinalysis	detects	proteinuria
+urinalysis	detects	glucosuria
+urinalysis	detects	ketonuria
+urinalysis	evaluates	urine pH
+urinalysis	evaluates	urine specific gravity
+urinalysis	evaluates	urine osmolality
+urinalysis	assesses	urine sediment
+urine culture	detects	bacteriuria
+urine culture	diagnoses	urinary tract infection
+urine culture	identifies	bacterial species
+urine culture	guides	antibiotic therapy
+creatinine clearance	estimates	GFR
+creatinine clearance	reflects	renal function
+creatinine clearance	used for	drug dosing
+creatinine clearance	predicts	AKI risk
+eGFR	categorizes	CKD stage
+eGFR	estimates	filtration rate
+eGFR	informs	nephrology referral threshold
+eGFR	tracks	renal function over time
+eGFR	influences	CKD management decisions
+spot urine protein-to-creatinine ratio	detects	albuminuria
+spot urine protein-to-creatinine ratio	monitors	albuminuria severity
+albuminuria	predicts	cardiovascular risk
+albumin-to-creatinine ratio	detects	albuminuria
+albumin-to-creatinine ratio	used for	CKD staging
+proteinuria	indicates	glomerular injury
+microalbumin	signals	early kidney damage
+ACR	used for	CKD staging
+ACR	guides	therapy decisions
+UPCR	measures	proteinuria
+urine protein	indicates	kidney disease activity
+urine protein	correlates with	CKD prognosis
+urine osmolality	reflects	hydration status
+urine osmolality	varies with	solute load
+urine specific gravity	reflects	urine concentration
+urine specific gravity	correlates with	hydration status
+urine pH	predicts	stone type
+urine pH	influences	uric acid stone formation
+urine pH	measures	acid-base status
+urine glucose	indicates	hyperglycemia
+urine glucose	detects	diabetes mellitus
+urine glucose	predicts	diabetic nephropathy risk
+urine ketones	indicates	ketosis
+urine ketones	detects	poor glycemic control
+urine ketones	screens for	diabetic ketoacidosis
+urine bilirubin	indicates	liver dysfunction
+urine bilirubin	detects	hepatic dysfunction
+post-void residual volume	measured by	bladder ultrasound
+post-void residual volume	associates with	urinary retention
+post-void residual volume	predicts	voiding dysfunction
+bladder ultrasound	measures	post-void residual
+bladder ultrasound	monitors	bladder function
+renal ultrasound	evaluates	urinary tract obstruction
+renal ultrasound	detects	hydronephrosis
+renal ultrasound	assesses	kidney size
+ultrasound	detects	urinary tract anomalies
+urine sediment	contains	red blood cells
+urine sediment	contains	white blood cells
+urine sediment	shows	crystals
+urine sediment	indicates	nephrolithiasis
+urine dipstick	shows	proteinuria
+urine dipstick	shows	leukocyte esterase
+urine dipstick	shows	nitrites
+urine dipstick	used for	infection screening
+urine citrate	inhibits	stone formation
+urine calcium excretion	monitored for	stone risk
+urine oxalate	associates with	calcium oxalate stones
+urinary supersaturation	predicts	stone formation
+urine volume	measures	diuretic response
+urine output	estimates	kidney perfusion
+hydration status	influences	urine concentration test results
+diabetes mellitus	increases	CKD risk
+hypertension	associates with	kidney disease progression
+albuminuria	increases	rehospitalization risk
+proteinuria	associates with	cardiovascular events
+ACR	informs	prognosis
+eGFR	predicts	ESRD risk
+urinalysis abnormalities	predict	readmission risk
+urinalysis abnormalities	relate to	mortality risk
+diuretic responsiveness	reflected by	urine output
+urinary tract infection	causes	hospitalization
+CKD stage	affects	medication dosing
+AKI	risk factors	urinary markers
+AKI	detected by	urinalysis changes
+stone recurrence	predicted by	urinary metabolic profile
+bladder function	monitored by	bladder ultrasound
+renal function	declines with	age
+urination frequency	related to	urinary incontinence
+voiding difficulty	associated with	post-void residual
+urinalysis	provides	baseline kidney function
+urinalysis	influences	antibiotic stewardship decisions
+albuminuria	used for	risk stratification
+proteinuria	used for	CKD monitoring
+ACR	increases	with diabetic nephropathy
+urine culture	follow-up	symptom resolution
+urinary metabolic profile	used for	stone risk stratification

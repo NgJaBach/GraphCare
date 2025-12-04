@@ -1,0 +1,100 @@
+myringotomy	is a	surgical procedure
+myringotomy	indicated for	otitis media with effusion
+myringotomy	indicated for	serous otitis media
+myringotomy	indicated for	chronic otitis media with effusion
+myringotomy	indicated for	recurrent acute otitis media
+myringotomy	relieves	ear pressure
+myringotomy	facilitates	tympanostomy tube placement
+myringotomy	performed under	general anesthesia
+myringotomy	performed in	outpatient setting
+myringotomy	performed in	operating room
+myringotomy	commonly performed with	adenoidectomy
+myringotomy	includes	tympanic membrane incision
+tympanic membrane incision	is a	component of myringotomy
+tympanostomy tubes	provide	ventilation of middle ear
+tympanostomy tubes	inserted during	myringotomy
+myringotomy	reduces	middle ear effusion duration
+middle ear effusion	resolves after	myringotomy
+myringotomy	improves	hearing
+hearing	improves after	myringotomy
+myringotomy	reduces	antibiotic use
+antibiotic use	reduced after	myringotomy
+myringotomy	reduces	hospital stay
+hospital stay	reduced after	myringotomy
+myringotomy	followed by	postoperative analgesia
+postoperative analgesia	required after	myringotomy
+tympanic membrane incision	heals with	scarring
+tympanic membrane scarring	is a	potential outcome
+myringotomy	can cause	tympanic membrane perforation
+tympanic membrane perforation	is a	complication of myringotomy
+myringotomy	associated with	tympanic membrane scarring
+myringotomy	risk of	vertigo
+vertigo	occurs after	myringotomy
+myringotomy	risk of	infection
+ear infection	risk after	myringotomy
+myringotomy	rarely performed in	adults
+adults	rarely undergo	myringotomy
+myringotomy	part of	ENT surgery
+ENT surgery	includes	myringotomy
+ENT practice	includes	myringotomy
+myringotomy	taught in	medical education
+medical education	includes	training on myringotomy
+myringotomy	described in	clinical guidelines
+clinical guidelines	recommend	myringotomy
+myringotomy	used before	tympanoplasty
+tympanoplasty	follow-up after	myringotomy
+myringotomy	used in	pediatric care
+pediatric care	requires	myringotomy
+myringotomy	part of	pediatric ENT
+pediatric ENT	specialty includes	myringotomy
+myringotomy	increases	middle ear aeration
+middle ear aeration	improves	mucociliary clearance
+mucociliary clearance	improves after	myringotomy
+myringotomy	used in	ear disease management
+ear disease management	includes	myringotomy
+myringotomy	described in	surgical texts
+surgical texts	describe	myringotomy
+myringotomy	contributes to	diagnostic data
+diagnostic data	informs	predictive modeling
+predictive modeling	uses	myringotomy data
+myringotomy data	informs	mortality prediction
+myringotomy data	informs	readmission prediction
+readmission prediction	benefits from	myringotomy data
+myringotomy data	supports	early discharge planning
+early discharge planning	supported by	myringotomy data
+tympanostomy tube placement	occurs during	myringotomy
+general anesthesia	used for	myringotomy
+local anesthesia	used for	myringotomy
+myringotomy	sometimes performed with	local anesthesia
+local anesthesia	suitable for	myringotomy
+outpatient procedure	suitable for	myringotomy
+school absenteeism	reduced after	myringotomy
+myringotomy	recommended in	pediatric guidelines
+pediatric guidelines	recommend	myringotomy
+clinical guidelines	discuss	myringotomy
+myringotomy	performed by	otolaryngologist
+otolaryngologist	performs	myringotomy
+myringotomy	described as	incision of tympanic membrane
+incision of tympanic membrane	performed by	myringotomy
+tympanic membrane	incised by	myringotomy
+myringotomy	part of	ear surgery curriculum
+ear surgery curriculum	includes	myringotomy
+myringotomy	used in	pediatric ENT practice
+pediatric ENT practice	includes	myringotomy
+myringotomy	yields	clinical data
+clinical data	informs	predictive modeling
+predictive modeling	uses	myringotomy data
+myringotomy data	informs	mortality prediction
+myringotomy data	informs	readmission prediction
+hearing improvement	observed after	myringotomy
+otitis media with effusion	managed with	myringotomy
+otitis media with effusion	management includes	myringotomy
+otitis media	management includes	myringotomy
+medical literature	describes	myringotomy
+myringotomy	described in	medical literature
+medical literature	discusses	myringotomy
+myringotomy	used in	pediatric ENT practice
+pediatric ENT practice	studies	myringotomy
+myringotomy	provides	clinical data
+clinical data	supports	use of myringotomy
+evidence base	supports	use of myringotomy

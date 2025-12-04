@@ -1,100 +1,98 @@
-other and ill-defined heart disease	is associated with	arrhythmia
-other and ill-defined heart disease	is associated with	heart failure
-other and ill-defined heart disease	is associated with	myocardial infarction
-other and ill-defined heart disease	increases risk for	stroke
-other and ill-defined heart disease	increases risk for	hospitalization
-other and ill-defined heart disease	increases risk for	mortality
-other and ill-defined heart disease	etiology	unknown
-other and ill-defined heart disease	coexists with	hypertension
-other and ill-defined heart disease	coexists with	diabetes mellitus
-other and ill-defined heart disease	coexists with	chronic kidney disease
+other and ill-defined heart disease	is a	cardiovascular condition
+other and ill-defined heart disease	associated with	hypertension
+other and ill-defined heart disease	associated with	diabetes mellitus
 other and ill-defined heart disease	associated with	obesity
 other and ill-defined heart disease	associated with	dyslipidemia
 other and ill-defined heart disease	associated with	smoking
+other and ill-defined heart disease	associated with	aging
 other and ill-defined heart disease	associated with	alcohol use
-other and ill-defined heart disease	associated with	sleep apnea
-other and ill-defined heart disease	caused by	atherosclerosis
-other and ill-defined heart disease	treated with	beta blocker
-other and ill-defined heart disease	treated with	ACE inhibitor
-other and ill-defined heart disease	treated with	ARB
-other and ill-defined heart disease	treated with	diuretic
-other and ill-defined heart disease	treated with	statin
-other and ill-defined heart disease	treated with	calcium channel blocker
-other and ill-defined heart disease	managed with	lifestyle modification
-other and ill-defined heart disease	diagnosed by	electrocardiogram
-other and ill-defined heart disease	diagnosed by	echocardiography
-other and ill-defined heart disease	diagnosed by	cardiac MRI
-other and ill-defined heart disease	diagnosed by	stress test
-other and ill-defined heart disease	monitored by	telemetry
-other and ill-defined heart disease	monitored by	Holter monitor
-other and ill-defined heart disease	presents with	chest pain
-other and ill-defined heart disease	presents with	dyspnea
-other and ill-defined heart disease	presents with	palpitations
-other and ill-defined heart disease	presents with	syncope
-other and ill-defined heart disease	presents with	edema
-other and ill-defined heart disease	presents with	fatigue
-other and ill-defined heart disease	presents with	dizziness
-other and ill-defined heart disease	increases risk for	sudden cardiac death
-other and ill-defined heart disease	associated with	valvular disease
-other and ill-defined heart disease	associated with	pulmonary hypertension
-other and ill-defined heart disease	associated with	cardiomyopathy
+other and ill-defined heart disease	associated with	physical inactivity
+other and ill-defined heart disease	associated with	chronic kidney disease
 other and ill-defined heart disease	associated with	atrial fibrillation
-other and ill-defined heart disease	associated with	ventricular tachycardia
-other and ill-defined heart disease	associated with	ischemia
-other and ill-defined heart disease	associated with	heart block
-other and ill-defined heart disease	associated with	pericardial disease
-other and ill-defined heart disease	associated with	myocarditis
-other and ill-defined heart disease	associated with	autoimmune disease
-other and ill-defined heart disease	associated with	thyroid disease
-other and ill-defined heart disease	associated with	chronic lung disease
-other and ill-defined heart disease	associated with	anemia
-other and ill-defined heart disease	associated with	iron deficiency
-other and ill-defined heart disease	associated with	chronic inflammation
-other and ill-defined heart disease	risk factor for	heart failure hospitalization
-other and ill-defined heart disease	genetic association with	sarcomere mutation
-other and ill-defined heart disease	imaging finding	cardiomegaly
-other and ill-defined heart disease	imaging finding	ventricular dilation
-other and ill-defined heart disease	imaging finding	wall thinning
-other and ill-defined heart disease	imaging finding	pericardial effusion
-other and ill-defined heart disease	imaging finding	cardiac calcification
-other and ill-defined heart disease	prognosis with	favorable outcome
-other and ill-defined heart disease	prognosis with	poor outcome
-other and ill-defined heart disease	sequelae include	edema
-other and ill-defined heart disease	sequelae include	congestive failure
-other and ill-defined heart disease	prevalence in	elderly population
-other and ill-defined heart disease	prevalence in	women
-other and ill-defined heart disease	prevalence in	men
-other and ill-defined heart disease	treatment effect	readmission rate
-other and ill-defined heart disease	treatment effect	mortality rate
-other and ill-defined heart disease	comorbidity	hypertension
-other and ill-defined heart disease	comorbidity	diabetes mellitus
-other and ill-defined heart disease	comorbidity	chronic kidney disease
-other and ill-defined heart disease	comorbidity	obesity
-other and ill-defined heart disease	comorbidity	COPD
-other and ill-defined heart disease	common with	obesity
-other and ill-defined heart disease	common with	pregnancy
-other and ill-defined heart disease	risk factor for	atrial fibrillation
-other and ill-defined heart disease	risk factor for	pulmonary edema
-other and ill-defined heart disease	associated with	systemic inflammation
-other and ill-defined heart disease	associated with	autoimmune thyroiditis
-other and ill-defined heart disease	associated with	rheumatoid arthritis
-other and ill-defined heart disease	associated with	coronary artery disease
-other and ill-defined heart disease	associated with	ischemic heart disease
-other and ill-defined heart disease	imaging finding	left ventricular hypertrophy
-other and ill-defined heart disease	imaging finding	right ventricular dilation
-other and ill-defined heart disease	genetic association with	LMNA mutation
-other and ill-defined heart disease	genetic association with	TTN mutation
-other and ill-defined heart disease	diagnostic clue	troponin elevation
-other and ill-defined heart disease	diagnostic clue	BNP elevation
-other and ill-defined heart disease	diagnostic clue	CRP elevation
-other and ill-defined heart disease	therapeutic target	lipid control
-other and ill-defined heart disease	therapeutic target	blood pressure control
-other and ill-defined heart disease	urge	lifestyle modification
-other and ill-defined heart disease	follow-up interval	six months
-other and ill-defined heart disease	follow-up interval	twelve months
-other and ill-defined heart disease	health burden	prevalence
-other and ill-defined heart disease	public health impact	mortality
-other and ill-defined heart disease	economic burden	hospitalization cost
-other and ill-defined heart disease	health service usage	cardiology visits
-other and ill-defined heart disease	patient education need	symptom diary
-other and ill-defined heart disease	research priority	unknown etiologies
+other and ill-defined heart disease	associated with	heart failure
+other and ill-defined heart disease	associated with	arrhythmia
+other and ill-defined heart disease	associated with	myocardial ischemia
+other and ill-defined heart disease	associated with	edema
+other and ill-defined heart disease	is a risk factor for	mortality
+other and ill-defined heart disease	is a risk factor for	readmission
+other and ill-defined heart disease	is a risk factor for	hospitalization
+other and ill-defined heart disease	is a risk factor for	stroke
+other and ill-defined heart disease	is a risk factor for	heart failure
+other and ill-defined heart disease	is treated with	beta-blocker
+other and ill-defined heart disease	is treated with	ACE inhibitor
+other and ill-defined heart disease	is treated with	diuretic
+other and ill-defined heart disease	is treated with	statin
+other and ill-defined heart disease	is treated with	anticoagulant
+other and ill-defined heart disease	is treated with	antiplatelet
+other and ill-defined heart disease	is treated with	vasodilator
+other and ill-defined heart disease	is treated with	antiarrhythmic
+other and ill-defined heart disease	is treated with	digoxin
+other and ill-defined heart disease	is managed with	lifestyle modification
+other and ill-defined heart disease	is managed with	diet therapy
+other and ill-defined heart disease	is managed with	aerobic exercise
+other and ill-defined heart disease	is monitored by	echocardiography
+other and ill-defined heart disease	is monitored by	electrocardiography
+other and ill-defined heart disease	is monitored by	blood pressure measurement
+other and ill-defined heart disease	is diagnosed by	imaging studies
+other and ill-defined heart disease	is diagnosed by	ECG
+other ill-defined heart disease	is diagnosed by	chest radiography
+dyspnea	is a symptom of	other ill-defined heart disease
+chest pain	is a symptom of	other ill-defined heart disease
+fatigue	is a symptom of	other ill-defined heart disease
+edema	is a symptom of	other ill-defined heart disease
+palpitations	is a symptom of	other ill-defined heart disease
+syncope	is a symptom of	other ill-defined heart disease
+dizziness	is a symptom of	other ill-defined heart disease
+tachycardia	is a symptom of	other ill-defined heart disease
+cough	is a symptom of	other ill-defined heart disease
+hypertension	coexists with	other ill-defined heart disease
+diabetes mellitus	coexists with	other ill-defined heart disease
+obesity	coexists with	other ill-defined heart disease
+lipid abnormalities	coexists with	other ill-defined heart disease
+smoking	increases risk for	other ill-defined heart disease
+age	increases risk for	other ill-defined heart disease
+physical inactivity	increases risk for	other ill-defined heart disease
+sleep apnea	increases risk for	other ill-defined heart disease
+alcohol use	increases risk for	other ill-defined heart disease
+chronic kidney disease	worsens	other ill-defined heart disease
+anemia	worsens	other ill-defined heart disease
+ischemia	is a complication of	other ill-defined heart disease
+arrhythmia	is a complication of	other ill-defined heart disease
+heart failure	is a complication of	other ill-defined heart disease
+myocardial infarction	is a possible event in	other ill-defined heart disease
+myocardial scar	is a manifestation of	other ill-defined heart disease
+ischemic remodeling	is a consequence of	other ill-defined heart disease
+mortality	is associated with	other ill-defined heart disease
+other ill-defined heart disease	predicts	mortality
+other ill-defined heart disease	predicts	hospitalization
+other ill-defined heart disease	predicts	readmission
+other ill-defined heart disease	predicts	heart failure
+other ill-defined heart disease	predicts	arrhythmia
+other ill-defined heart disease	progresses to	heart failure
+other ill-defined heart disease	progresses to	arrhythmia
+other ill-defined heart disease	requires	follow-up
+other ill-defined heart disease	requires	imaging
+other ill-defined heart disease	included in	cardiovascular risk stratification
+other ill-defined heart disease	included in	ischemic heart disease spectrum
+other ill-defined heart disease	associated with	autoimmune disease
+other ill-defined heart disease	associated with	thyroid disease
+other ill-defined heart disease	associated with	metabolic syndrome
+other ill-defined heart disease	associated with	inflammatory markers
+other ill-defined heart disease	observed in	population studies
+other ill-defined heart disease	described by	clinical guidelines
+other ill-defined heart disease	included in	differential diagnosis
+other ill-defined heart disease	defined by	non-specific cardiac symptoms
+other ill-defined heart disease	described in	pharmacologic literature
+other ill-defined heart disease	included in	broad cardiovascular spectrum
+other ill-defined heart disease	studied in	longitudinal cohorts
+other ill-defined heart disease	found in	population databases
+inflammation	associated with	other ill-defined heart disease
+protein biomarkers	interact with	other ill-defined heart disease
+liver disease	coexists with	other ill-defined heart disease
+lung disease	coexists with	other ill-defined heart disease
+metabolic syndrome	coexists with	other ill-defined heart disease
+inflammatory cytokines	interact with	other ill-defined heart disease
+other ill-defined heart disease	seen in	clinical populations
+other ill-defined heart disease	modulates	autonomic tone
+heart disease	is a part of	broader cardiovascular diseases
+research	evaluates	other ill-defined heart disease

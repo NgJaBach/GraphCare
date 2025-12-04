@@ -1,99 +1,100 @@
-other eye disorders	is a	ocular disease category
-other eye disorders	include	glaucoma
 glaucoma	is a	optic neuropathy
-glaucoma	causes	optic nerve damage
+glaucoma	is treated with	prostaglandin analogs
+glaucoma	is treated with	beta-blockers
+glaucoma	is treated with	alpha-2 agonists
+glaucoma	is treated with	carbonic anhydrase inhibitors
+glaucoma	may require	trabeculectomy
+glaucoma	may require	glaucoma drainage device
+glaucoma	is associated with	visual impairment
 cataract	is a	lens opacity
+cataract	treated with	cataract surgery
 cataract	causes	blurred vision
-diabetic retinopathy	is a	microvascular complication
-diabetic retinopathy	causes	vision loss
-age-related macular degeneration	is a	degenerative condition
-age-related macular degeneration	causes	central vision loss
-retinal detachment	leads to	vision loss
-retinal detachment	treated with	vitrectomy
+cataract	leads to	decreased visual acuity
+diabetic retinopathy	is a	complication of diabetes mellitus
+diabetic retinopathy	treated with	panretinal laser therapy
+diabetic retinopathy	treated with	anti-VEGF therapy
+diabetic retinopathy	presents with	dot-blot hemorrhages
+diabetic retinopathy	associated with	hyperglycemia
+diabetic retinopathy	associated with	duration of diabetes
+diabetic retinopathy	increases risk for	vision loss
+retinal detachment	is a	medical emergency
 retinal detachment	treated with	scleral buckle
-retinal detachment	treated with	pneumatic retinopexy
-conjunctivitis	causes	eye redness
-conjunctivitis	treated with	antibiotic drops
-keratitis	causes	eye pain
-keratitis	treated with	antibiotics
-uveitis	treated with	corticosteroids
-uveitis	associated with	autoimmune disease
-blepharitis	treated with	lid hygiene
+retinal detachment	treated with	vitrectomy
+retinal detachment	leads to	photoreceptor loss
+retinal detachment	can cause	vision loss
+retinal vein occlusion	causes	macular edema
+retinal vein occlusion	treated with	anti-VEGF therapy
+retinal artery occlusion	causes	sudden monocular vision loss
+retinal artery occlusion	is an	ocular emergency
+macular degeneration	is a	degenerative eye disease
+macular degeneration	treated with	anti-VEGF therapy
+macular degeneration	risk factor for	vision loss
+macular degeneration	associated with	age
+macular degeneration	presents with	metamorphopsia
+dry eye	treated with	artificial tears
+dry eye	treated with	cyclosporine
+dry eye	associated with	meibomian gland dysfunction
+blepharitis	is a	eyelid inflammation
+blepharitis	treated with	warm compresses
 blepharitis	associated with	seborrheic dermatitis
-stye	resolved by	warm compress
-ptosis	corrected by	eyelid surgery
-strabismus	corrected by	eye muscle surgery
-amblyopia	treated with	occlusion therapy
-amblyopia	treated with	patching therapy
-myopia	corrected with	glasses
-myopia	corrected with	contact lenses
-hyperopia	corrected with	contact lenses
-presbyopia	corrected with	reading glasses
-keratoconus	is a	corneal thinning disorder
-keratoconus	causes	distorted vision
-macular edema	associated with	retinal vein occlusion
-diabetic macular edema	is a	complication of diabetes
-diabetic macular edema	causes	vision loss
-ocular hypertension	is a	risk factor for glaucoma
-glaucoma	measured by	intraocular pressure
-intraocular pressure	high in	glaucoma
-diabetic retinopathy	diagnosed by	fluorescein angiography
-diabetic retinopathy	diagnosed by	optical coherence tomography
-macular degeneration	diagnosed by	optical coherence tomography
-glaucoma	diagnosed by	tonometry
-cataract	diagnosed by	slit lamp examination
-conjunctivitis	diagnosed by	clinical examination
-uveitis	diagnosed by	slit lamp examination
-retinal detachment	diagnosed by	ultrasound
-stye	diagnosed by	clinical examination
-stye	treated with	warm compress
-diabetic retinopathy	treated with	laser therapy
-glaucoma	treated with	laser therapy
-glaucoma	treated with	prostaglandin analog
-glaucoma	treated with	beta-blocker
-cataract	treated with	phacoemulsification
-cataract	treated with	intraocular lens implantation
-retinal detachment	treated with	surgical repair
-macular degeneration	treated with	anti-VEGF agents
-age-related macular degeneration	treated with	anti-VEGF therapy
-laser photocoagulation	used for	diabetic retinopathy
-intravitreal injection	used for	diabetic retinopathy
-wet age-related macular degeneration	treated with	anti-VEGF therapy
-vitreous hemorrhage	causes	vision loss
-optic neuritis	presents with	vision loss
+conjunctivitis	is a	conjunctival inflammation
+conjunctivitis	treated with	antibiotic therapy
+conjunctivitis	caused by	adenovirus
+conjunctivitis	presents with	discharge
+keratitis	is a	corneal infection
+keratitis	treated with	antibiotic therapy
+keratitis	can cause	corneal scarring
+corneal ulcer	is a	corneal infection
+corneal ulcer	treated with	antibiotic therapy
+corneal ulcer	associated with	contact lens wear
+keratoconus	is a	corneal ectasia
+keratoconus	treated with	corneal cross-linking
+keratoconus	associated with	down syndrome
+keratoconus	associated with	atopy
+pterygium	is a	fibrovascular growth
+pterygium	associated with	UV exposure
+pterygium	treated with	conjunctival surgery
+uveitis	is a	intraocular inflammation
+uveitis	treated with	corticosteroid therapy
+uveitis	may indicate	systemic inflammatory disease
+endophthalmitis	is a	intraocular infection
+endophthalmitis	treated with	intravitreal antibiotics
+endophthalmitis	requires	emergency surgery
+episcleritis	is a	scleral inflammation
+scleritis	is a	scleral inflammation
+dacryocystitis	is a	tear duct infection
+dacryocystitis	treated with	antibiotics
+dacryocystitis	can cause	tearing
+chalazion	is a	eyelid lump
+chalazion	treated with	warm compresses
+chalazion	associated with	blocked meibomian gland
+ptosis	is a	eyelid malposition
+blepharoptosis	is a	eyelid droop
+optic neuritis	is a	inflammatory optic nerve disease
 optic neuritis	associated with	multiple sclerosis
-optic nerve pallor	indicates	optic neuropathy
-macula	affected by	age-related macular degeneration
-retina	affected by	diabetic retinopathy
-cornea	affected by	keratoconus
-cornea	transplanted by	keratoplasty
-iris	controls	pupil size
-lens	affected by	cataract
-optic nerve	damaged by	glaucoma
-intraocular pressure	elevated in	glaucoma
-pupillary dilation	used for	fundus examination
-fundus examination	used for	retina assessment
-optical coherence tomography	used for	macular degeneration
-slit lamp examination	used for	anterior segment evaluation
-fluorescein angiography	used for	diabetic retinopathy
-pupil dilation	used for	fundus examination
-ophthalmic imaging	used for	retina evaluation
-phacoemulsification	performed for	cataract
-cataract surgery	results in	improved vision
-anti-VEGF therapy	used for	neovascularization
-bevacizumab	used for	retinal neovascularization
-ranibizumab	used for	macular edema
-aflibercept	used for	retinal vein occlusion edema
-latanoprost	is a	prostaglandin analog
-timolol	is a	beta-blocker
-dorzolamide	is a	carbonic anhydrase inhibitor
-prednisone	used for	ocular inflammation
-cycloplegic agents	used for	pupil dilation
-retinal vein occlusion	associated with	hypertension
-central retinal artery occlusion	causes	sudden vision loss
-diabetic retinopathy	predisposes to	macular edema
-neovascularization	occurs in	diabetic retinopathy
-neovascularization	seen in	age-related macular degeneration
-retinal pigment epithelium	involved in	age-related macular degeneration
-retinal nerve fiber layer	thinning in	glaucoma
-scleral buckle	used for	retinal detachment
+optic neuropathy	is a	nerve disease
+optic neuropathy	can cause	vision loss
+amblyopia	is a	visual development disorder
+amblyopia	treated with	occlusion therapy
+amblyopia	associated with	strabismus
+strabismus	is a	binocular alignment disorder
+strabismus	treated with	eye muscle surgery
+strabismus	associated with	refractive error
+myopia	is a	refractive error
+myopia	risk factor for	retinal detachment
+myopia	associated with	elongated axial length
+hyperopia	is a	refractive error
+presbyopia	is a	age-related refractive error
+astigmatism	is a	refractive error
+retinal dystrophy	is a	inherited degenerative disease
+retinopathy of prematurity	is a	neonatal retinal vascular disease
+retinopathy of prematurity	treated with	laser therapy
+ocular melanoma	is a	malignant tumor
+ocular melanoma	treated with	enucleation
+floaters	are a	symptom
+vision loss	is a	symptom of retinal disease
+eye examination	is a	diagnostic test
+fundus examination	is a	diagnostic procedure
+intraocular pressure	is a	measurement parameter
+retinitis pigmentosa	is a	hereditary retinal dystrophy
+color vision deficiency	is a	hereditary condition

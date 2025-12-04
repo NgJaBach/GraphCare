@@ -1,0 +1,100 @@
+mammography	is a	diagnostic imaging procedure
+mammography	detects	calcifications
+mammography	used for	breast cancer screening
+mammography	assesses	breast density
+mammography	complements	ultrasound
+breast ultrasound	is a	diagnostic imaging procedure
+breast ultrasound	detects	masses
+breast ultrasound	detects	cysts
+breast ultrasound	guides	biopsy
+breast ultrasound	evaluates	lesion vascularity
+breast MRI	is a	diagnostic imaging procedure
+breast MRI	detects	enhancement
+breast MRI	used for	high-risk screening
+breast MRI	evaluates	disease extent
+breast MRI	helps evaluate	treatment response
+tomosynthesis	is a	imaging modality
+tomosynthesis	provides	three-dimensional mammographic view
+galactography	is a	radiographic procedure
+galactography	detects	intraductal lesions
+galactography	used for	evaluation of nipple discharge
+ductoscopy	is a	endoscopic breast procedure
+ductoscopy	visualizes	intraductal lesions
+nipple cytology	is a	cytology procedure
+nipple cytology	detects	malignant cells in nipple discharge
+nipple discharge cytology	yields	cytology specimen
+skin biopsy	is a	diagnostic procedure
+skin punch biopsy	is a	punch biopsy procedure
+skin punch biopsy	yields	tissue for histology
+skin shave biopsy	is a	biopsy procedure
+skin shave biopsy	samples	epidermal lesion
+skin incisional biopsy	is a	incision biopsy procedure
+skin incisional biopsy	provides	histology specimen
+skin excisional biopsy	is a	excision biopsy procedure
+skin excisional biopsy	removes	lesion
+breast core needle biopsy	is a	core needle biopsy procedure
+breast core needle biopsy	yields	tissue for histology
+breast fine-needle aspiration	is a	FNA biopsy procedure
+breast fine-needle aspiration	yields	cytology specimen
+breast vacuum-assisted biopsy	is a	vacuum-assisted biopsy procedure
+stereotactic breast biopsy	is a	image-guided biopsy procedure
+MRI-guided breast biopsy	is a	image-guided biopsy procedure
+ultrasound-guided breast biopsy	is a	image-guided biopsy procedure
+punch biopsy of skin	is a	punch biopsy procedure
+shave biopsy of skin	is a	biopsy procedure
+incisional biopsy of skin	is a	incision biopsy procedure
+excisional biopsy of skin	is a	excision biopsy procedure
+dermoscopy	is a	diagnostic skin exam
+dermoscopy	detects	pigmented lesion patterns
+dermoscopy	guides	biopsy decision
+skin scraping	is a	dermatologic diagnostic procedure
+skin scraping	detects	fungal infections
+skin culture	is a	microbiological diagnostic test
+skin culture	yields	organism growth
+patch testing	is a	diagnostic test
+patch testing	identifies	contact allergens
+skin prick testing	is a	allergy testing procedure
+skin prick testing	detects	IgE-mediated allergy
+Tzanck smear	is a	cytology test
+Tzanck smear	detects	multinucleated giant cells
+Gram stain	is a	microbiology test
+Gram stain	detects	bacteria
+skin ultrasound	is a	diagnostic imaging procedure
+skin ultrasound	evaluates	lesion depth
+skin ultrasound	guides	biopsy
+optical coherence tomography	is a	diagnostic imaging modality
+optical coherence tomography	visualizes	skin microstructure
+confocal microscopy	is a	diagnostic imaging technique
+confocal microscopy	detects	cellular detail in skin
+reflectance confocal microscopy	is a	diagnostic imaging modality
+reflectance confocal microscopy	visualizes	cellular morphology
+polarized dermoscopy	is a	dermoscopy subtype
+mole mapping	is a	dermatology procedure
+mole mapping	used for	melanoma risk assessment
+ductal lavage	is a	diagnostic procedure
+ductal lavage	yields	epithelial cells
+exfoliative cytology	is a	cytology procedure
+skin smear	is a	cytology procedure
+skin smear	detects	infectious organisms
+nailfold capillaroscopy	is a	non-invasive imaging technique
+skin biopsy with immunohistochemistry	yields	diagnostic markers
+biopsy sample	yields	histopathology
+ultrasound elastography	is a	diagnostic imaging technique
+ultrasound elastography	assesses	tissue stiffness
+breast ultrasound elastography	assesses	lesion stiffness
+thermography	is a	imaging modality
+thermography	detects	temperature differences
+in infrared imaging	is a	diagnostic procedure
+in infrared imaging	detects	temperature heterogeneity of skin lesions
+axillary ultrasound	is a	diagnostic imaging procedure
+axillary ultrasound	detects	lymph node involvement
+nipple aspirate fluid collection	is a	diagnostic procedure
+nipple aspirate fluid cytology	is a	cytology test
+skin biopsy yields	histology slide
+immunohistochemistry	is a	pathology technique
+immunohistochemistry	yields	diagnostic markers
+axillary lymph node biopsy	is a	biopsy procedure
+immunohistochemistry panel	is a	pathology test
+histology slide	is a	tissue specimen
+pathology report	is a	diagnostic document
+radiology-pathology correlation	is a	diagnostic approach

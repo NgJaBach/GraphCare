@@ -1,100 +1,96 @@
-pleurisy	causes	chest pain
-pleurisy	presents with	pleuritic pain
-pleurisy	associated with	friction rub
-pleurisy	treated with	NSAIDs
-pleurisy	treated with	analgesics
-pleurisy	related to	viral infection
-pleurisy	related to	pneumonia
-pneumothorax	contains	air in pleural space
-pneumothorax	presents with	sudden chest pain
+pleurisy	is a	pleural inflammation
+pleural effusion	accompanies	pleurisy
+pleural effusion	causes	dyspnea
+thoracentesis	treats	pleural effusion
+dyspnea	results from	pleural effusion
+fever	accompanies	pleurisy
+pneumothorax	is a	condition of air in pleural space
+pneumothorax	causes	lung collapse
+lung collapse	is called	atelectasis
+atelectasis	causes	hypoxemia
+pneumothorax	presents with	chest pain
 pneumothorax	presents with	dyspnea
-pneumothorax	diagnosed by	chest X-ray
+smoking	increases risk for	pneumothorax
+tall stature	predisposes to	spontaneous pneumothorax
+COPD	predisposes to	pneumothorax
+spontaneous pneumothorax	is a type of	pneumothorax
+spontaneous pneumothorax	treated with	observation
+spontaneous pneumothorax	treated with	oxygen therapy
+pneumothorax	may require	chest tube
+pneumothorax	may require	pleurodesis
+pleurodesis	reduces	pneumothorax recurrence
+recurrence	is possible after	pneumothorax
+recurrent pneumothorax	increases need for	pleurodesis
+chest tube	drains	pleural air
+needle decompression	relieves	tension pneumothorax
+tension pneumothorax	is a	medical emergency
+pneumothorax	can be	bilateral
+bilateral pneumothorax	requires	chest tube
+air leak	persists	pneumothorax
+barotrauma	causes	pneumothorax
+mechanical ventilation	increases risk of	pneumothorax
+positive pressure ventilation	increases risk of	pneumothorax
+trauma	causes	pneumothorax
+rib fracture	associated with	pneumothorax
+pneumothorax	diagnosed by	chest radiograph
 pneumothorax	diagnosed by	ultrasound
 pneumothorax	diagnosed by	CT scan
-pneumothorax	risk factor	smoking
-pneumothorax	risk factor	tall stature
-pneumothorax	risk factor	COPD
-pneumothorax	treated with	chest tube
-pneumothorax	treated with	needle decompression
-pneumothorax	treated with	oxygen therapy
-pneumothorax	managed with	observation
-pneumothorax	complication	hypoxemia
-pneumothorax	complication	tension pneumothorax
-tension pneumothorax	leads to	hypotension
-tension pneumothorax	requires	emergent decompression
-spontaneous pneumothorax	occurs in	young males
-spontaneous pneumothorax	associated with	smoking
-secondary pneumothorax	occurs with	COPD
-pneumothorax	associated with	rib fracture
-pneumothorax	recurrence	high risk
-pulmonary collapse	defined as	atelectasis
-pulmonary collapse	associated with	hypoxemia
-pulmonary collapse	diagnosed by	chest X-ray
-pulmonary collapse	treated with	oxygen therapy
-pulmonary collapse	caused by	airway obstruction
-pulmonary collapse	risk factor	shallow breathing
-pulmonary collapse	outcome	improvement with breathing exercises
-pleural rub	sign of	pleurisy
-friction rub	heard on	auscultation
-pleural effusion	can accompany	pleurisy
-pleural effusion	causes	dyspnea
-pleural effusion	diagnosed by	ultrasound
-pleural effusion	diagnosed by	chest X-ray
-pleural effusion	treated with	thoracentesis
-air in pleural space	results in	pneumothorax
-subcutaneous emphysema	can accompany	pneumothorax
-tachycardia	occurs with	pneumothorax
-hypoxemia	results from	pneumothorax
-hypoxemia	managed with	supplemental oxygen
-oxygen therapy	improves	hypoxemia
-chest X-ray	diagnoses	pneumothorax
+chest radiograph	detects	pneumothorax
 ultrasound	detects	pneumothorax
 CT scan	detects	pneumothorax
-needle decompression	relieves	tension pneumothorax
-chest tube	drains	air in pleural space
+pleural effusion	can accompany	pleurisy
+pleural effusion	diagnosed by	imaging
+imaging	includes	chest radiograph
+imaging	includes	ultrasound
+imaging	confirms	pneumothorax
+oxygen therapy	treats	hypoxemia
+postoperative atelectasis	common after	thoracic surgery
+thoracic surgery	predisposes to	atelectasis
+incentive spirometry	prevents	atelectasis
+postoperative analgesia	influences	respiratory effort
+respiratory effort	affects	atelectasis
+atelectasis	increases risk of	infection
+infection	leads to	fever
+empyema	arises from	pleural effusion
+empyema	requires	drainage
+drainage	performed by	thoracentesis
+thoracentesis	provides	drainage
+pleural effusion	diagnosed by	imaging
+postoperative pneumonia	occurs after	atelectasis
+atelectasis	resolved by	oxygen therapy
+oxygen therapy	improves	hypoxemia
+hypoxemia	worsens with	pleural effusion
+emergency department	manages	tension pneumothorax
+tension pneumothorax	requires	immediate decompression
+immediate decompression	is performed by	needle decompression
+air in pleural space	reduces	lung expansion
+lung expansion	improves with	chest tube
+lung expansion	improves with	pleurodesis
+postoperative atelectasis	improves with	incentive spirometry
+smokers	at higher risk for	spontaneous pneumothorax
+tall stature	risk factor for	spontaneous pneumothorax
+COPD	risk factor for	pneumothorax
+trauma	can cause	pneumothorax
+postoperative pneumonia	occurs after	atelectasis
+length of stay	associated with	hospitalization
+hospitalization	increases	readmission risk
+readmission risk	associated with	pneumonia
+pleural effusion	increases	dyspnea
+dyspnea	indicator of	respiratory distress
+respiratory distress	prompts	imaging
+imaging	guides	management
+pleural space	expands with	chest tube
+chest tube	insertion	used for pneumothorax
 thoracentesis	used for	pleural effusion
-air leak	associated with	pneumothorax
-pneumothorax	presents to	emergency department
-spontaneous pneumothorax	recurrence risk	elevated
-pneumothorax	management goal	lung re-expansion
-pneumothorax	follow-up imaging	chest radiography
-pleurisy	follow-up	clinical improvement
-friction rub	audible on	examination
-atelectasis	alternative term	pulmonary collapse
-atelectasis	improved with	incentive spirometry
-atelectasis	associated with	postoperative status
-atelectasis	diagnosed by	chest X-ray
-atelectasis	treated with	oxygen therapy
-air leak	mechanism	rupture of visceral pleura
-air leak	detected by	ultrasound
-air leak	resolved with	chest tube
-pneumothorax	epidemiology	common in smokers
-pneumothorax	epidemiology	more common in tall thin individuals
-pneumothorax	symptom	chest pain
-pneumothorax	symptom	shortness of breath
-pleurisy	symptom	chest pain
-pulmonary collapse	symptom	hypoxemia
-pneumothorax	symptom	tachypnea
-pneumothorax	symptom	chest tightness
-friction rub	sign	chest pain worsens with breathing
-pneumothorax	imaging feature	pleural line
-pleural line	observed on	CT scan
-pneumothorax	classification	primary
-pneumothorax	classification	secondary
-primary pneumothorax	occurs in	spontaneous
-secondary pneumothorax	occurs with	emphysema
-emphysema	predisposes to	pneumothorax
-smoking	increases risk of	pneumothorax
-tallness	associated with	primary spontaneous pneumothorax
-pneumothorax	emergency treatment	chest tube
-tachycardia	indicates	physiologic stress
-hypoxemia	worsened by	pneumothorax
-oxygen therapy	used for	pneumothorax
-oxygen therapy	used for	pleurisy
-oxygen therapy	used for	pulmonary collapse
-analgesia	used for	chest pain
-steroid	used for	pleurisy
-antibiotics	used for	pneumonia
-blood gas analysis	assesses	hypoxemia
-re-admission	risk after	pneumothorax
-mortality	risk after	pneumothorax
+pleural effusion	management includes	drainage
+drainage	performed by	chest tube
+chest radiograph	detects	pleural effusion
+ultrasound	detects	pleural effusion
+CT scan	detects	pleural effusion
+early detection	improves outcomes in	pneumothorax
+outcome	depends on	patient stability
+patient stability	determines	treatment choice
+treatment choice	influenced by	pneumothorax size
+pneumothorax size	dictates	management strategy
+pleural adhesions	complicate	pleurodesis
+pleural adhesions	arise from	pleurisy

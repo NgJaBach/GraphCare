@@ -1,100 +1,100 @@
-transient cerebral ischemia	is a	transient neurologic deficit
-transient cerebral ischemia	is a warning sign for	ischemic stroke
-transient cerebral ischemia	is a predictor of	stroke
-transient cerebral ischemia	increases risk of	ischemic stroke
-transient cerebral ischemia	increases risk of	mortality
-transient cerebral ischemia	prompts	emergency evaluation
-transient cerebral ischemia	requires	urgent assessment
-transient cerebral ischemia	may be due to	embolus
-transient cerebral ischemia	may be due to	thrombosis
-transient cerebral ischemia	may be due to	carotid stenosis
-atrial fibrillation	is a risk factor for	transient cerebral ischemia
-carotid stenosis	is a risk factor for	transient cerebral ischemia
-diabetes mellitus	is a risk factor for	transient cerebral ischemia
-hypertension	is a risk factor for	transient cerebral ischemia
-smoking	is a risk factor for	transient cerebral ischemia
-hyperlipidemia	is a risk factor for	transient cerebral ischemia
-age	is a risk factor for	transient cerebral ischemia
-ischemic stroke	often follows	transient cerebral ischemia
-transient cerebral ischemia	is managed with	antiplatelet therapy
-antiplatelet therapy	reduces risk of	recurrent stroke
-aspirin	is an	antiplatelet agent
-clopidogrel	is an	antiplatelet agent
-dual antiplatelet therapy	is used for	high-risk TIA
-anticoagulation	is used for	cardioembolic transient cerebral ischemia
-warfarin	is a	anticoagulant
-direct oral anticoagulants	are	anticoagulants
-rivaroxaban	is a	direct oral anticoagulant
-edoxaban	is a	direct oral anticoagulant
-apixaban	is a	direct oral anticoagulant
-secondary prevention	reduces risk of	ischemic events
-blood pressure control	reduces risk of	stroke after TIA
-statin therapy	reduces risk of	recurrent ischemic events
-lipid lowering therapy	reduces risk of	vascular events
-statin therapy	is recommended for	transient cerebral ischemia
-antiplatelet therapy	is recommended for	transient cerebral ischemia
-imaging	is used for	evaluation of transient cerebral ischemia
-magnetic resonance imaging	detects	diffusion restriction
-diffusion restriction	indicates	acute ischemia
-diffusion-weighted imaging	detects	acute ischemia
-computed tomography	rules out	hemorrhage
-magnetic resonance angiography	demonstrates	carotid stenosis
-carotid duplex ultrasound	detects	carotid stenosis
-electrocardiography	detects	atrial fibrillation
-atrial fibrillation	causes	cardioembolic transient cerebral ischemia
-embolus	causes	transient cerebral ischemia
-thrombus	causes	transient cerebral ischemia
-embolism	results in	transient cerebral ischemia
+transient cerebral ischemia	is a	cerebrovascular event
+transient cerebral ischemia	increases risk for	ischemic stroke
+transient cerebral ischemia	increases risk for	recurrent stroke
+transient cerebral ischemia	associated with	carotid stenosis
+transient cerebral ischemia	associated with	atrial fibrillation
+transient cerebral ischemia	associated with	hypertension
+transient cerebral ischemia	associated with	diabetes mellitus
+transient cerebral ischemia	associated with	hyperlipidemia
+transient cerebral ischemia	associated with	smoking
+transient cerebral ischemia	associated with	obesity
+transient cerebral ischemia	associated with	age
+transient cerebral ischemia	managed with	antiplatelet therapy
+transient cerebral ischemia	managed with	anticoagulation therapy
+transient cerebral ischemia	treated with	statin therapy
+transient cerebral ischemia	treated with	antihypertensive therapy
+transient cerebral ischemia	prevented by	smoking cessation
+transient cerebral ischemia	prevented by	blood pressure control
+transient cerebral ischemia	prevented by	diabetes control
+transient cerebral ischemia	prevented by	weight reduction
+transient cerebral ischemia	prevented by	physical activity
+transient cerebral ischemia	diagnosed by	MRI
+transient cerebral ischemia	diagnosed by	CT scan
+transient cerebral ischemia	diagnosed with	neuroimaging
+transient cerebral ischemia	diagnosed with	brain imaging
+transient cerebral ischemia	monitored with	duplex ultrasound
+transient cerebral ischemia	monitored with	echocardiography
+transient cerebral ischemia	monitored with	electrocardiography
 transient cerebral ischemia	presents with	unilateral weakness
 transient cerebral ischemia	presents with	speech disturbance
-transient cerebral ischemia	presents with	aphasia
+transient cerebral ischemia	presents with	dizziness
 transient cerebral ischemia	presents with	vision disturbance
-slurred speech	is a	symptom of transient cerebral ischemia
-ataxia	is a	symptom of transient cerebral ischemia
-visual disturbance	is a	symptom of transient cerebral ischemia
-emergency department	is the setting for	transient cerebral ischemia management
-hospital admission	is common for	transient cerebral ischemia
-length of stay	correlates with	stroke risk
-rehabilitation	is recommended after	transient cerebral ischemia
-blood glucose control	is important for	TIA outcomes
-blood pressure control	improves	outcome after transient cerebral ischemia
-lipid management	improves	vascular risk profile
-smoking cessation	improves	vascular risk profile
-exercise therapy	improves	vascular health
-patient education	improves	adherence to therapy after transient cerebral ischemia
-care coordination	improves	readmission risk
-proper secondary prevention	reduces	readmission risk
-stroke recurrence	is a potential consequence of	transient cerebral ischemia
-ischemic stroke	increases	mortality
-antiplatelet therapy	reduces	mortality after transient cerebral ischemia
-risk stratification	informs	prognosis after transient cerebral ischemia
-prognosis	depends on	etiologies of transient cerebral ischemia
-cardioembolic source	is a common etiology of	transient cerebral ischemia
-large artery atherosclerosis	is a cause of	transient cerebral ischemia
-small vessel disease	is a cause of	transient cerebral ischemia
-cryptogenic etiology	is observed in	transient cerebral ischemia
-time window	is important for	thrombolysis
-thrombolysis	is time-limited for	transient cerebral ischemia
-tissue plasminogen activator	is used for	thrombolysis
-cerebral perfusion	is reduced in	transient cerebral ischemia
-neuroimaging	guides	management after transient cerebral ischemia
-clinical risk score	estimates	recurrence risk after transient cerebral ischemia
-ABC2D2 risk score	estimates	short-term risk after TIA
-carotid imaging	is part of	embolic source evaluation
-cardiac monitoring	for	detection of atrial fibrillation after transient cerebral ischemia
-aspirin therapy	is part of	secondary prevention after transient cerebral ischemia
-primary prevention	reduces	transient cerebral ischemia incidence
-secondary prevention	prevents	stroke after transient cerebral ischemia
-risk factor modification	improves	long-term outcome after transient cerebral ischemia
-kidney function	informs	anticoagulation dosing after transient cerebral ischemia
-glucose level	influences	prognosis after transient cerebral ischemia
-weight management	improves	vascular risk
-sleep apnea	is associated with	transient cerebral ischemia
-alcohol use	is a risk factor for	transient cerebral ischemia
-family history	is a risk factor for	transient cerebral ischemia
-education	improves	adherence to therapy after transient cerebral ischemia
-follow-up appointments	are recommended for	transient cerebral ischemia
-risk assessment	is performed after	transient cerebral ischemia
-outcome measures	assess	functional status after transient cerebral ischemia
-care pathways	streamline	post-transient cerebral ischemia management
-stroke risk score	informs	patient counseling after transient cerebral ischemia
+transient cerebral ischemia	presents with	numbness
+transient cerebral ischemia	presents with	facial droop
+transient cerebral ischemia	presents with	gait disturbance
+transient cerebral ischemia	associated with	cognitive impairment
+transient cerebral ischemia	associated with	dementia
+transient cerebral ischemia	prognosis includes	recurrence risk
+transient cerebral ischemia	prognosis includes	mortality risk
+transient cerebral ischemia	outcomes include	disability
+transient cerebral ischemia	outcomes include	reduced quality of life
+transient cerebral ischemia	risk factor for	vascular dementia
+transient cerebral ischemia	risk factor for	vascular cognitive impairment
+transient cerebral ischemia	associated with	microalbuminuria
+transient cerebral ischemia	associated with	carotid plaque
+transient cerebral ischemia	pathophysiology involves	embolism
+transient cerebral ischemia	pathophysiology involves	thrombosis
+transient cerebral ischemia	pathophysiology involves	hypoperfusion
+transient cerebral ischemia	occurs with	atrial thrombus
+transient cerebral ischemia	occurs with	carotid plaque
+transient cerebral ischemia	occurs in	elderly population
+transient cerebral ischemia	occurs in	hospital setting
+transient cerebral ischemia	guideline-recommended therapy	antiplatelet therapy
+transient cerebral ischemia	guideline-recommended therapy	statin therapy
+transient cerebral ischemia	guideline-recommended therapy	blood pressure control
+transient cerebral ischemia	clinical significance includes	stroke prevention
+transient cerebral ischemia	epidemiology includes	incidence
+transient cerebral ischemia	epidemiology includes	prevalence
+transient cerebral ischemia	clinical course includes	spontaneous resolution
+transient cerebral ischemia	imaging sensitivity for	brain infarct
+transient cerebral ischemia	imaging specificity for	brain infarct
+transient cerebral ischemia	long-term outcome includes	rehabilitation needs
+transient cerebral ischemia	burden includes	hospitalization time
+transient cerebral ischemia	burden includes	caregiver burden
+transient cerebral ischemia	comorbidity with	hypertension
+transient cerebral ischemia	comorbidity with	diabetes mellitus
+transient cerebral ischemia	comorbidity with	obesity
+transient cerebral ischemia	comorbidity with	sleep apnea
+transient cerebral ischemia	comorbidity with	chronic kidney disease
+transient cerebral ischemia	comorbidity with	coronary artery disease
+transient cerebral ischemia	comorbidity with	heart failure
+transient cerebral ischemia	comorbidity with	liver disease
+transient cerebral ischemia	pharmacologic prevention	antiplatelet therapy
+transient cerebral ischemia	pharmacologic prevention	anticoagulation therapy
+transient cerebral ischemia	pharmacologic prevention	statin therapy
+transient cerebral ischemia	pharmacologic prevention	antihypertensive therapy
+transient cerebral ischemia	research interest	vascular risk scoring
+transient cerebral ischemia	research interest	perfusion imaging
+transient cerebral ischemia	differential diagnosis includes	stroke mimics
+transient cerebral ischemia	differential diagnosis includes	seizures
+transient cerebral ischemia	differential diagnosis includes	migraine with aura
+transient cerebral ischemia	prognosis depends on	prompt treatment
+transient cerebral ischemia	prognosis depends on	infarct size
+transient cerebral ischemia	prognosis depends on	collateral circulation
+transient cerebral ischemia	management pathway includes	risk factor control
+transient cerebral ischemia	management pathway includes	rehabilitation planning
+transient cerebral ischemia	management pathway includes	patient education
+transient cerebral ischemia	symptom resolution is	variable
+transient cerebral ischemia	follow-up requires	vascular imaging
+transient cerebral ischemia	follow-up requires	cognitive assessment
+transient cerebral ischemia	outcomes influenced by	treatment timeliness
+transient cerebral ischemia	outcomes influenced by	vascular risk management
+transient cerebral ischemia	public health impact includes	disability burden
+transient cerebral ischemia	public health impact includes	mortality burden
+transient cerebral ischemia	patient education should include	recognizing symptoms
+transient cerebral ischemia	patient education should include	seeking urgent care
+transient cerebral ischemia	clinical staging involves	imaging findings
+transient cerebral ischemia	clinical staging involves	neurologic examination
+transient cerebral ischemia	diagnostic yield improves with	multimodal imaging
+transient cerebral ischemia	risk stratification improves with	clinical risk scores
+transient cerebral ischemia	care goal is	stroke prevention

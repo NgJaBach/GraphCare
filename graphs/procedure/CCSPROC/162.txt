@@ -1,0 +1,100 @@
+arthroplasty	is a	joint replacement
+arthroplasty	performed on	knee
+arthroplasty	performed on	hip
+arthroplasty	reduces	pain
+arthroplasty	improves	mobility
+partial knee replacement	is a	type of arthroplasty
+total knee replacement	is a	joint replacement
+hip replacement	is a	joint replacement
+shoulder replacement	is a	joint replacement
+arthrodesis	is a	joint fusion
+arthrodesis	performed on	knee
+arthrodesis	eliminates	motion
+arthroscopy	is a	procedure
+arthroscopy	performed on	knee
+arthroscopy	used for	diagnostic visualization
+arthroscopic debridement	is a	procedure
+arthroscopic debridement	treats	degenerative joint disease
+arthroscopic lavage	is a	procedure
+arthroscopic lavage	used for	septic arthritis
+synovectomy	is a	procedure
+synovectomy	performed on	knee
+synovectomy	treats	rheumatoid arthritis
+irrigation and debridement	is a	procedure
+irrigation and debridement	used for	septic arthritis
+bone graft	used for	joint fusion
+osteotomy	is a	surgical procedure
+high tibial osteotomy	is a	osteotomy
+high tibial osteotomy	performed on	knee
+high tibial osteotomy	corrects	malalignment
+distal femoral osteotomy	is a	osteotomy
+distal femoral osteotomy	performed on	knee
+microfracture	used for	focal cartilage defect
+autologous chondrocyte implantation	used for	focal cartilage defect
+osteochondral autograft transfer	used for	cartilage defect
+cartilage restoration	is a	therapeutic approach
+mosaicplasty	used for	focal cartilage defect
+osteochondral allograft	used for	cartilage defect
+hyaluronic acid injection	used for	knee osteoarthritis
+intra-articular corticosteroid injection	reduces	knee inflammation
+PRP injection	used for	knee osteoarthritis
+viscosupplementation	used for	knee osteoarthritis
+arthrocentesis	is a	procedure
+arthrocentesis	drains	synovial fluid
+shoulder arthroscopy	is a	procedure
+shoulder arthroscopy	treats	rotator cuff tear
+AC joint injection	treats	acromioclavicular joint arthritis
+genicular nerve block	relieves	knee pain
+radiofrequency ablation	reduces	knee pain
+joint prosthesis	is a	medical device
+joint replacement	is a	surgical procedure
+hip resurfacing	is a	joint replacement alternative
+fusion hardware	used for	arthrodesis
+resection arthroplasty	is a	procedure
+capsular release	reduces	joint stiffness
+capsulodesis	used for	joint stabilization
+arthrolysis	is a	procedure
+arthrolysis	treats	frozen shoulder
+shoulder arthrolysis	reduces	shoulder stiffness
+periacetabular osteotomy	is a	osteotomy
+pelvic osteotomy	is a	osteotomy
+cartilage transplantation	used for	joint defect
+mosaicplasty	used for	cartilage defect
+osteochondral graft	used for	cartilage defect
+cementless implant	used for	arthroplasty
+cemented implant	used for	arthroplasty
+modular implant	used for	arthroplasty
+patelloplasty	used for	patellofemoral arthritis
+proximal femoral osteotomy	is a	osteotomy
+arthroplasty revision	is a	revision surgery
+revision arthroplasty	is a	surgical procedure
+implant loosening	leads to	revision arthroplasty
+prosthetic joint infection	treated by	revision arthroplasty
+infection	risk after	arthroplasty
+blood loss	risk after	joint replacement
+bone quality	affects	implant longevity
+smoking	increases	complication after arthroplasty
+diabetes	increases	infection risk after arthroplasty
+obesity	increases	mechanical load after arthroplasty
+rehabilitation	improves	recovery after arthroplasty
+physical therapy	improves	range of motion
+range of motion	improves after	arthroplasty
+postoperative rehabilitation	reduces	stiffness
+weight bearing	delayed after	osteotomy
+bone mineral density	affects	implant longevity
+activity level	predicts	prosthesis longevity
+preoperative planning	improves	implant fit
+intraoperative imaging	guides	implant alignment
+postoperative imaging	monitors	prosthesis position
+return to activity	occurs after	joint replacement
+age	affects	prosthesis lifespan
+elderly patients	at higher risk	arthroplasty complications
+pediatric patients	rarely require	joint replacement
+bone stock	affects	implant stability
+cementless stem	provides	long-term fixation
+polyethylene liner	wears	over time
+bearing wear	causes	osteolysis
+osteolysis	leads to	loosening
+infection	complicates	revision surgery
+prehabilitation	improves	postoperative outcomes
+joint preservation	aims for	native joint longevity

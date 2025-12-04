@@ -1,0 +1,96 @@
+arthroplasty	is a	surgical procedure
+arthroplasty	replaces	joint
+knee arthroplasty	is a	surgical procedure
+hip arthroplasty	is a	surgical procedure
+shoulder arthroplasty	is a	surgical procedure
+elbow arthroplasty	is a	surgical procedure
+arthroplasty	indicated for	osteoarthritis
+arthroplasty	indicated for	rheumatoid arthritis
+arthroplasty	contraindicated for	infection
+arthrodesis	is a	surgical procedure
+arthrodesis	fuses	joint
+arthrodesis	indicated for	instability
+ostectomy	is a	surgical procedure
+osteotomy	is a	surgical procedure
+osteotomy	realigns	bone
+osteotomy	indicated for	angular deformity
+synovectomy	is a	surgical procedure
+synovectomy	removes	inflamed synovium
+meniscectomy	is a	surgical procedure
+meniscectomy	removes	meniscal tissue
+meniscal repair	is a	surgical procedure
+ligament reconstruction	is a	surgical procedure
+anterior cruciate ligament reconstruction	is a	surgical procedure
+posterior cruciate ligament reconstruction	is a	surgical procedure
+collateral ligament reconstruction	is a	surgical procedure
+rotator cuff repair	is a	surgical procedure
+shoulder arthroscopy	is a	minimally invasive procedure
+arthroscopy	used for	joint inspection
+arthroscopy	can treat	meniscal tear
+arthroscopy	can diagnose	intra-articular pathology
+arthroscopy	can remove	loose body
+bone grafting	is a	surgical procedure
+bone graft	used for	fusion
+bone graft	provides	scaffold
+bone graft	promotes	healing
+autograft	is a	graft source
+bone substitute	is a	material
+bone substitute	used for	bone regeneration
+spinal fusion	is a	surgical procedure
+spinal fusion	stabilizes	spine
+vertebral fusion	is a	surgical procedure
+tenotomy	is a	surgical procedure
+tenotomy	releases	tendon
+tenodesis	is a	surgical procedure
+tenodesis	secures	tendon
+osteoclasis	is a	surgical procedure
+microdiscectomy	is a	surgical procedure
+microdiscectomy	relieves	radicular pain
+discectomy	is a	surgical procedure
+discectomy	relieves	nerve compression
+traction	is a	therapeutic modality
+skeletal traction	is a	therapeutic modality
+external fixation	is a	orthopedic device
+external fixation	used for	fracture stabilization
+splinting	is a	conservative treatment
+cast immobilization	is a	conservative treatment
+orthosis	is a	orthopedic device
+physical therapy	is a	therapeutic procedure
+occupational therapy	is a	therapeutic procedure
+manual therapy	is a	physical therapy modality
+therapeutic exercise	is a	physical therapy modality
+range of motion therapy	is a	physical therapy modality
+electrical stimulation therapy	is a	physical therapy modality
+ultrasound therapy	is a	physical therapy modality
+laser therapy	is a	physical therapy modality
+epidural steroid injection	is a	spinal injection
+intra-articular corticosteroid injection	is a	joint injection
+hyaluronic acid injection	is a	joint injection
+platelet-rich plasma therapy	is a	biological therapy
+PRP injection	used for	tendinopathy
+nerve block	is a	analgesic procedure
+facet joint injection	is a	analgesic procedure
+cervical facet injection	is a	analgesic procedure
+total knee replacement	is a	surgical procedure
+partial knee replacement	is a	surgical procedure
+revision knee replacement	is a	surgical procedure
+cartilage restoration	is a	surgical procedure
+microfracture	is a	surgical procedure
+osteochondral transplant	is a	surgical procedure
+autologous chondrocyte implantation	is a	surgical procedure
+arthroplasty revision	is a	surgical procedure
+cartilage autograft implantation	is a	surgical procedure
+capsular release	is a	surgical procedure
+ligament repair	is a	surgical procedure
+bone debridement	is a	surgical procedure
+debridement	removes	necrotic tissue
+bone spur resection	is a	surgical procedure
+chondroplasty	is a	surgical procedure
+osteochondral defect repair	is a	surgical procedure
+bone marrow stimulation	is a	surgical procedure
+osteoplasty	is a	surgical procedure
+fascial release	is a	surgical procedure
+nerve decompression	is a	surgical procedure
+bone lengthening	is a	surgical procedure
+bone distraction	used for	limb length discrepancy
+orthopedic device	used for	immobilization

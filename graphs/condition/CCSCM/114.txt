@@ -1,100 +1,100 @@
-peripheral and visceral atherosclerosis	is a	vascular disease
-peripheral and visceral atherosclerosis	involves	atherosclerotic plaque
-peripheral and visceral atherosclerosis	is defined by	atherosclerotic plaque
-peripheral and visceral atherosclerosis	progresses with	aging
-peripheral and visceral atherosclerosis	causes	luminal narrowing
-peripheral and visceral atherosclerosis	leads to	ischemia
-peripheral and visceral atherosclerosis	causes	claudication
-peripheral and visceral atherosclerosis	causes	limb ischemia
-peripheral and visceral atherosclerosis	causes	mesenteric ischemia
-peripheral and visceral atherosclerosis	causes	renal artery stenosis
-peripheral and visceral atherosclerosis	associated with	smoking
-peripheral and visceral atherosclerosis	associated with	diabetes mellitus
-peripheral and visceral atherosclerosis	associated with	hypertension
-peripheral and visceral atherosclerosis	associated with	hyperlipidemia
-peripheral and visceral atherosclerosis	associated with	obesity
-peripheral and visceral atherosclerosis	associated with	physical inactivity
-peripheral and visceral atherosclerosis	diagnosed by	duplex ultrasound
-peripheral and visceral atherosclerosis	diagnosed by	CT angiography
-peripheral and visceral atherosclerosis	diagnosed by	MR angiography
-peripheral and visceral atherosclerosis	assessed by	ankle-brachial index
-peripheral and visceral atherosclerosis	evaluated by	lipid profile
-peripheral and visceral atherosclerosis	evaluated by	imaging study
-peripheral and visceral atherosclerosis	confirmed by	angiography
-peripheral and visceral atherosclerosis	monitored by	blood pressure monitoring
-peripheral and visceral atherosclerosis	monitored by	lipid panel
-peripheral and visceral atherosclerosis	treatment with	statins
-peripheral and visceral atherosclerosis	treatment with	antiplatelet therapy
-peripheral and visceral atherosclerosis	treatment with	anticoagulation
-peripheral and visceral atherosclerosis	managed with	lifestyle modification
-peripheral and visceral atherosclerosis	managed with	smoking cessation
-peripheral and visceral atherosclerosis	treated with	revascularization
-peripheral and visceral atherosclerosis	treated with	PCSK9 inhibitors
-peripheral and visceral atherosclerosis	treated with	ACE inhibitors
-peripheral and visceral atherosclerosis	treated with	ARBs
-peripheral and visceral atherosclerosis	treated with	aspirin
-peripheral and visceral atherosclerosis	prognosis	mortality
-peripheral and visceral atherosclerosis	prognosis	heart failure
-peripheral and visceral atherosclerosis	prognosis	stroke
-peripheral and visceral atherosclerosis	prognosis	hospitalization
-peripheral and visceral atherosclerosis	complications	limb amputation
-peripheral and visceral atherosclerosis	associated with	aging
-peripheral and visceral atherosclerosis	more common in	males
-peripheral and visceral atherosclerosis	more common in	diabetics
-peripheral and visceral atherosclerosis	predisposes to	renal failure
-peripheral and visceral atherosclerosis	predisposes to	chronic kidney disease
-peripheral and visceral atherosclerosis	associated with	endothelial dysfunction
-peripheral and visceral atherosclerosis	associated with	inflammation
-peripheral and visceral atherosclerosis	associated with	oxidative stress
-peripheral and visceral atherosclerosis	influences	blood flow
-peripheral and visceral atherosclerosis	reduces	walking distance
-peripheral and visceral atherosclerosis	increases	hospitalization rate
-peripheral and visceral atherosclerosis	affects	quality of life
-peripheral and visceral atherosclerosis	worsens	endothelial function
-peripheral and visceral atherosclerosis	correlates with	C-reactive protein
-peripheral and visceral atherosclerosis	correlates with	homocysteine
-peripheral and visceral atherosclerosis	observed in	autopsy studies
-peripheral and visceral atherosclerosis	presents with	claudication
-peripheral and visceral atherosclerosis	requires	follow-up imaging
-peripheral and visceral atherosclerosis	contributes to	plaque burden
-peripheral and visceral atherosclerosis	shows	arterial stiffness
-peripheral and visceral atherosclerosis	shows	reduced ankle-brachial index
-peripheral and visceral atherosclerosis	associated with	renal perfusion decrease
-peripheral and visceral atherosclerosis	progresses to	multi-vessel disease
-peripheral and visceral atherosclerosis	complicates	surgical planning
-peripheral and visceral atherosclerosis	exacerbated by	smoking
-peripheral and visceral atherosclerosis	associated with	kidney disease
-peripheral and visceral atherosclerosis	associated with	stroke risk
-peripheral and visceral atherosclerosis	associated with	myocardial perfusion deficit
-peripheral and visceral atherosclerosis	increased risk of	readmission
-peripheral and visceral atherosclerosis	linked to	life expectancy
-peripheral and visceral atherosclerosis	linked to	cardiovascular mortality
-peripheral and visceral atherosclerosis	modifiable by	diet
-peripheral and visceral atherosclerosis	modifiable by	exercise
-peripheral and visceral atherosclerosis	modified by	smoking cessation
-peripheral and visceral atherosclerosis	influences	physical function
-peripheral and visceral atherosclerosis	linked with	insulin resistance
-peripheral and visceral atherosclerosis	associated with	plaque calcification
-peripheral and visceral atherosclerosis	requires	vascular imaging
-peripheral and visceral atherosclerosis	indicates	polyvascular disease
-peripheral and visceral atherosclerosis	relates to	aortic atherosclerosis
-peripheral and visceral atherosclerosis	associated with	lipoprotein(a)
-peripheral and visceral atherosclerosis	correlated with	obesity
-peripheral and visceral atherosclerosis	correlated with	sedentary lifestyle
-peripheral and visceral atherosclerosis	associated with	renal artery disease
-peripheral and visceral atherosclerosis	associated with	abdominal aorta disease
-peripheral and visceral atherosclerosis	increases	arterial calcification
-peripheral and visceral atherosclerosis	linked to	cholesterol burden
-peripheral and visceral atherosclerosis	associated with	microvascular disease
-peripheral and visceral atherosclerosis	increases	healthcare utilization
-peripheral and visceral atherosclerosis	presents with	leg pain
-peripheral and visceral atherosclerosis	presents with	abdominal pain
-peripheral and visceral atherosclerosis	increases	mortality risk
-peripheral and visceral atherosclerosis	predicts	hospitalization risk
-peripheral and visceral atherosclerosis	correlates with	systolic dysfunction
-peripheral and visceral atherosclerosis	linked with	frailty
-peripheral and visceral atherosclerosis	associated with	elderly mortality
-peripheral and visceral atherosclerosis	indicate	systemic atherosclerosis
-peripheral and visceral atherosclerosis	suggests	polyvascular involvement
-peripheral and visceral atherosclerosis	associated with	plaque burden in arteries
-peripheral and visceral atherosclerosis	presents with	claudication pain
+peripheral atherosclerosis	is a	vascular disease
+visceral atherosclerosis	is a	vascular disease
+peripheral atherosclerosis	increases risk of	intermittent claudication
+peripheral atherosclerosis	increases risk of	limb ischemia
+peripheral atherosclerosis	increases risk of	critical limb ischemia
+peripheral atherosclerosis	increases risk of	amputation
+visceral atherosclerosis	increases risk of	mesenteric ischemia
+visceral atherosclerosis	increases risk of	renal artery stenosis
+visceral atherosclerosis	increases risk of	hepatic artery stenosis
+peripheral atherosclerosis	associated with	dyslipidemia
+peripheral atherosclerosis	associated with	hypertension
+peripheral atherosclerosis	associated with	diabetes mellitus
+peripheral atherosclerosis	associated with	smoking
+visceral atherosclerosis	associated with	dyslipidemia
+visceral atherosclerosis	associated with	hypertension
+visceral atherosclerosis	associated with	diabetes mellitus
+visceral atherosclerosis	associated with	smoking
+lipids	associated with	peripheral atherosclerosis
+lipids	associated with	visceral atherosclerosis
+inflammation	associated with	peripheral atherosclerosis
+inflammation	associated with	visceral atherosclerosis
+oxidative stress	associated with	peripheral atherosclerosis
+oxidative stress	associated with	visceral atherosclerosis
+age	increases risk of	peripheral atherosclerosis
+age	increases risk of	visceral atherosclerosis
+obesity	associated with	peripheral atherosclerosis
+obesity	associated with	visceral atherosclerosis
+physical inactivity	associated with	peripheral atherosclerosis
+physical inactivity	associated with	visceral atherosclerosis
+smoking	increases risk of	peripheral atherosclerosis
+smoking	increases risk of	visceral atherosclerosis
+hypertension	contributes to	peripheral atherosclerosis
+hypertension	contributes to	visceral atherosclerosis
+diabetes mellitus	contributes to	peripheral atherosclerosis
+diabetes mellitus	contributes to	visceral atherosclerosis
+dyslipidemia	contributes to	peripheral atherosclerosis
+dyslipidemia	contributes to	visceral atherosclerosis
+statins	reduce risk of progression	peripheral atherosclerosis
+statins	reduce risk of progression	visceral atherosclerosis
+antiplatelet therapy	reduces events in	peripheral atherosclerosis
+antiplatelet therapy	reduces events in	visceral atherosclerosis
+endovascular therapy	treats	peripheral atherosclerosis
+endovascular therapy	treats	visceral atherosclerosis
+bypass surgery	treats	peripheral atherosclerosis
+bypass surgery	treats	visceral atherosclerosis
+lifestyle modification	slows progression of	peripheral atherosclerosis
+lifestyle modification	slows progression of	visceral atherosclerosis
+angiography	identifies	luminal stenosis
+renal artery stenosis	coexists with	visceral atherosclerosis
+renal artery stenosis	associated with	hypertension
+renal artery stenosis	associated with	atherosclerosis
+mesenteric ischemia	caused by	visceral atherosclerosis
+myocardial infarction	associated with	atherosclerosis
+stroke	associated with	atherosclerosis
+mortality	associated with	peripheral atherosclerosis
+mortality	associated with	visceral atherosclerosis
+readmission	associated with	peripheral atherosclerosis
+readmission	associated with	visceral atherosclerosis
+polyvascular disease	coexists with	peripheral atherosclerosis
+polyvascular disease	coexists with	visceral atherosclerosis
+systemic atherosclerosis	includes	peripheral atherosclerosis
+systemic atherosclerosis	includes	visceral atherosclerosis
+carotid atherosclerosis	coexists with	peripheral atherosclerosis
+carotid atherosclerosis	coexists with	visceral atherosclerosis
+aortic atherosclerosis	coexists with	peripheral atherosclerosis
+aortic atherosclerosis	coexists with	visceral atherosclerosis
+endothelial dysfunction	associated with	peripheral atherosclerosis
+endothelial dysfunction	associated with	visceral atherosclerosis
+nephropathy	associated with	visceral atherosclerosis
+nephropathy	associated with	peripheral atherosclerosis
+renal failure	worsened by	visceral atherosclerosis
+renal failure	worsened by	peripheral atherosclerosis
+ischemic pain	due to	peripheral atherosclerosis
+ischemic pain	due to	visceral atherosclerosis
+graft patency	affected by	visceral atherosclerosis
+graft patency	affected by	peripheral atherosclerosis
+stent patency	affected by	peripheral atherosclerosis
+stent patency	affected by	visceral atherosclerosis
+angioplasty outcome	influenced by	peripheral atherosclerosis
+angioplasty outcome	influenced by	visceral atherosclerosis
+hemodynamics	altered by	peripheral atherosclerosis
+hemodynamics	altered by	visceral atherosclerosis
+blood pressure	controlled by	antihypertensive therapy
+blood pressure	targeted by	antihypertensive therapy
+glycemic control	improves	peripheral atherosclerosis outcomes
+glycemic control	improves	visceral atherosclerosis outcomes
+proteinuria	associated with	peripheral atherosclerosis
+proteinuria	associated with	visceral atherosclerosis
+lipoprotein(a)	associated with	peripheral atherosclerosis
+lipoprotein(a)	associated with	visceral atherosclerosis
+LDL cholesterol	associated with	peripheral atherosclerosis
+LDL cholesterol	associated with	visceral atherosclerosis
+statin therapy	reduces	LDL cholesterol
+statin therapy	reduces	triglycerides
+antiplatelet therapy	reduces	cardiovascular events
+revascularization	indicated for	peripheral atherosclerosis
+revascularization	indicated for	visceral atherosclerosis
+risk stratification	guides	management of peripheral atherosclerosis
+risk stratification	guides	management of visceral atherosclerosis
+monitoring	informs	prognosis of visceral atherosclerosis

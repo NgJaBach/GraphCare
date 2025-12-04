@@ -1,100 +1,100 @@
-cancer of other female genital organs	is a	cancer
-cancer of other female genital organs	is malignant	malignancy
-bartholin gland cancer	is a type of	cancer of other female genital organs
-vaginal cancer	is a type of	cancer of other female genital organs
-vulvar cancer	is a type of	cancer of other female genital organs
-cancer of other female genital organs	presents with	vaginal bleeding
-cancer of other female genital organs	presents with	pelvic pain
-cancer of other female genital organs	presents with	mass lesion
-cancer of other female genital organs	metastasizes to	inguinal lymph nodes
+cancer of other female genital organs	is a	malignant neoplasm
+cancer of other female genital organs	is a type of	gynecologic cancer
+cancer of other female genital organs	associated with	HPV infection
+cancer of other female genital organs	associated with	smoking
+cancer of other female genital organs	associated with	immunosuppression
+cancer of other female genital organs	associated with	lichen sclerosus
+cancer of other female genital organs	arises in	vulva
+cancer of other female genital organs	arises in	vagina
+cancer of other female genital organs	arises in	cervix
+cancer of other female genital organs	metastasizes to	regional lymph nodes
 cancer of other female genital organs	metastasizes to	liver
 cancer of other female genital organs	metastasizes to	lungs
 cancer of other female genital organs	metastasizes to	bone
 cancer of other female genital organs	metastasizes to	brain
-lymph node involvement	indicates	advanced cancer of other female genital organs
-lymphovascular invasion	indicates	aggressive cancer of other female genital organs
-FIGO staging	used for	cancer of other female genital organs
-MRI	used for	local staging of cancer of other female genital organs
-CT scan	used for	distant metastasis detection in cancer of other female genital organs
-PET-CT	used for	metastatic workup of cancer of other female genital organs
-biopsy	confirms	cancer of other female genital organs
-histology	reveals	squamous cell carcinoma
-histology	reveals	adenocarcinoma
-histology	reveals	melanoma
-surgical resection	for	early-stage cancer of other female genital organs
-radical surgery	for	advanced cancer of other female genital organs
-pelvic exenteration	reserved for	unresectable cancer of other female genital organs
-external beam radiotherapy	used for	local control of cancer of other female genital organs
-brachytherapy	used for	vaginal cancer
-cisplatin	used with	radiotherapy for cancer of other female genital organs
-carboplatin	used with	radiotherapy for cancer of other female genital organs
-paclitaxel	used with	carboplatin for cancer of other female genital organs
-bevacizumab	explored for	cancer of other female genital organs
-immunotherapy	explored for	cancer of other female genital organs
-neoadjuvant therapy	used for	cancer of other female genital organs
-adjuvant therapy	used for	cancer of other female genital organs
-postoperative radiotherapy	used for	cancer of other female genital organs
-neoadjuvant chemoradiation	used for	cancer of other female genital organs
-systemic chemotherapy	used for	cancer of other female genital organs
-palliative radiotherapy	used for	cancer of other female genital organs
-life expectancy	depends on	cancer of other female genital organs
-overall survival	depends on	stage at diagnosis
-disease-free survival	improves with	complete resection
-disease-free survival	improves with	adjuvant therapy
-positive margins	associated with	local recurrence in cancer of other female genital organs
-negative margins	associated with	reduced recurrence in cancer of other female genital organs
-lymph node status	predicts	survival in cancer of other female genital organs
-distant metastasis	indicates	stage IV cancer of other female genital organs
-tumor size	correlates with	prognosis in cancer of other female genital organs
-tumor grade	correlates with	prognosis in cancer of other female genital organs
-histology	determines	histologic type in cancer of other female genital organs
-squamous cell carcinoma	is histology type in	cancer of other female genital organs
-adenocarcinoma	is histology type in	cancer of other female genital organs
-melanoma	is histology type in	cancer of other female genital organs
-HPV infection	associated with	vaginal cancer
-smoking	associated with	vulvar cancer
-immunosuppression	associated with	cancer of other female genital organs
-diabetes mellitus	associated with	mortality in cancer of other female genital organs
-obesity	associated with	poor outcome in cancer of other female genital organs
-anemia	associated with	poor prognosis in cancer of other female genital organs
-neutropenia	associated with	chemotherapy for cancer of other female genital organs
-neoadjuvant therapy	improves	surgical outcomes in cancer of other female genital organs
-adjuvant therapy	improves	disease-free survival in cancer of other female genital organs
-postoperative radiotherapy	reduces	local recurrence in cancer of other female genital organs
-chemoradiation	improves	local control in cancer of other female genital organs
-radiation therapy	provides	symptom relief in cancer of other female genital organs
-systemic therapy	provides	systemic disease control in cancer of other female genital organs
-palliative care	supports	patient quality of life in cancer of other female genital organs
-clinical trial	offers	new therapy options for cancer of other female genital organs
-randomized trial	evaluates	therapy for cancer of other female genital organs
-targeted therapy	evaluated for	cancer of other female genital organs
-tumor mutational burden	predicts	response to immunotherapy in cancer of other female genital organs
-MSI status	predicts	response to immunotherapy in cancer of other female genital organs
-BRCA mutation	rare in	cancer of other female genital organs
-PD-L1 expression	associated with	immunotherapy response in cancer of other female genital organs
-tumor size	measured by	imaging for cancer of other female genital organs
-cellular density	estimated by	biopsy for cancer of other female genital organs
-imaging	guides	treatment planning for cancer of other female genital organs
-multidisciplinary team	coordinates	treatment for cancer of other female genital organs
-tumor board	reviews	cancer of other female genital organs
-local disease control	achieved by	radiotherapy for cancer of other female genital organs
-local disease control	achieved by	surgery for cancer of other female genital organs
-systemic disease control	achieved by	chemotherapy for cancer of other female genital organs
-terminal stage	defined as	stage IV cancer of other female genital organs
-ambulatory care	suitable for	follow-up of cancer of other female genital organs
-follow-up visit	scheduled for	cancer of other female genital organs
-survivor	lives with	cancer of other female genital organs
-care plan	tailored for	cancer of other female genital organs
-healthcare utilization	increased by	cancer of other female genital organs
-readmission	risk in	cancer of other female genital organs
-hospitalization	risk in	cancer of other female genital organs
-emergency admission	associated with	cancer of other female genital organs
-pain	symptom in	cancer of other female genital organs
-bleeding	symptom in	cancer of other female genital organs
-abdominal pain	symptom in	cancer of other female genital organs
-pelvic pain	symptom in	cancer of other female genital organs
-weight loss	symptom in	cancer of other female genital organs
-cachexia	associated with	cancer of other female genital organs
-performance status	predicts	mortality in cancer of other female genital organs
-electrolyte imbalance	complication in	cancer of other female genital organs
-nutritional deficiency	complication in	cancer of other female genital organs
+cancer of other female genital organs	presents with	abnormal vaginal bleeding
+cancer of other female genital organs	presents with	vaginal discharge
+cancer of other female genital organs	presents with	pelvic pain
+cancer of other female genital organs	diagnosed by	biopsy
+cancer of other female genital organs	diagnosed by	histology
+cancer of other female genital organs	treated with	surgery
+cancer of other female genital organs	treated with	radiotherapy
+cancer of other female genital organs	treated with	chemotherapy
+cancer of other female genital organs	treated with	chemoradiation
+cancer of other female genital organs	treated with	targeted therapy
+cancer of other female genital organs	treated with	immunotherapy
+cancer of other female genital organs	staging	FIGO
+cancer of other female genital organs	staging	TNM
+cancer of other female genital organs	risk factor	age
+cancer of other female genital organs	risk factor	diabetes mellitus
+cancer of other female genital organs	risk factor	hypertension
+cancer of other female genital organs	risk factor	obesity
+cancer of other female genital organs	risk factor	smoking
+cancer of other female genital organs	comorbidity	cardiovascular disease
+cancer of other female genital organs	comorbidity	anemia
+cancer of other female genital organs	comorbidity	obesity
+cancer of other female genital organs	comorbidity	diabetes mellitus
+cancer of other female genital organs	histology	squamous cell carcinoma
+cancer of other female genital organs	histology	adenocarcinoma
+cancer of other female genital organs	histology	adenosquamous carcinoma
+cancer of other female genital organs	HPV association	HPV infection
+cancer of other female genital organs	diagnostic test	biopsy
+cancer of other female genital organs	diagnostic test	pelvic examination
+cancer of other female genital organs	imaging	MRI
+cancer of other female genital organs	imaging	CT scan
+cancer of other female genital organs	imaging	ultrasound
+cancer of other female genital organs	imaging	PET-CT
+cancer of other female genital organs	management guideline	NCCN
+cancer of other female genital organs	prognosis	depends on	stage
+cancer of other female genital organs	prognosis	dependent on	lymph node status
+cancer of other female genital organs	prognosis	dependent on	distant metastasis
+cancer of other female genital organs	surveillance	schedule
+cancer of other female genital organs	survival	rate
+cancer of other female genital organs	survival	five-year rate
+cancer of other female genital organs	survival	overall rate
+cancer of other female genital organs	fertility impact	pregnancy risk
+cancer of other female genital organs	pregnancy considerations	management
+cancer of other female genital organs	recurrence	risk factors
+cancer of other female genital organs	recurrence	time to recurrence
+cancer of other female genital organs	recurrence	pattern
+cancer of other female genital organs	treatment	platinum-based chemotherapy
+cancer of other female genital organs	treatment	radiotherapy alone
+cancer of other female genital organs	treatment	combined modality therapy
+cancer of other female genital organs	prognosis	improved with	early detection
+cancer of other female genital organs	prognosis	regional disease impact
+cancer of other female genital organs	prognosis	distant metastasis impact
+cancer of other female genital organs	surveillance	imaging-based follow-up
+cancer of other female genital organs	survival	regional disease prognosis
+cancer of other female genital organs	research	novel therapy
+cancer of other female genital organs	clinical trial	enrollment
+cancer of other female genital organs	guideline	updated 2020
+cancer of other female genital organs	guideline	updated 2023
+cancer of other female genital organs	biomarker	SCC antigen
+cancer of other female genital organs	biomarker	CA-125
+cancer of other female genital organs	biomarker	CEA
+cancer of other female genital organs	cost	care burden
+cancer of other female genital organs	public health	impact
+cancer of other female genital organs	epidemiology	prevalence
+cancer of other female genital organs	epidemiology	incidence
+cancer of other female genital organs	risk factor	exposure to radiation
+cancer of other female genital organs	comorbidity	renal disease
+cancer of other female genital organs	comorbidity	hepatic disease
+cancer of other female genital organs	comorbidity	thyroid disease
+cancer of other female genital organs	quality of life	impairment
+cancer of other female genital organs	patient education	importance
+cancer of other female genital organs	patient information	consent
+cancer of other female genital organs	clinical outcome	improvement
+cancer of other female genital organs	hospital stay	duration
+cancer of other female genital organs	anesthesia	risk
+cancer of other female genital organs	wound healing	delay
+cancer of other female genital organs	nerve injury	perioperative
+cancer of other female genital organs	edema	lymphedema
+cancer of other female genital organs	neuropathy	treatment-related
+cancer of other female genital organs	infection risk	perioperative
+cancer of other female genital organs	pain management	analgesia
+cancer of other female genital organs	nutritional status	malnutrition risk
+cancer of other female genital organs	bone health	osteoporosis risk
+cancer of other female genital organs	fertility counseling	need
+cancer of other female genital organs	sexual health	counseling
+cancer of other female genital organs	caregiver support	need
+cancer of other female genital organs	patient advocacy	resources

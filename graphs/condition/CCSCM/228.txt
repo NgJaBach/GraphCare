@@ -1,120 +1,100 @@
-skull fracture	may cause	intracranial hemorrhage
-skull fracture	may cause	traumatic brain injury
-skull fracture	may cause	epidural hematoma
-skull fracture	may cause	subdural hematoma
-skull fracture	requires	CT scan
-skull fracture	diagnosed by	CT scan
-skull fracture	treated with	craniotomy
-skull fracture	treated with	craniectomy
-skull fracture	managed with	conservative management
-skull fracture	managed with	analgesia
-skull fracture	prophylaxis with	tetanus toxoid
-skull fracture	prophylaxis with	antibiotics
-skull fracture	associated with	head trauma
-skull fracture	increases risk of	infection
-skull fracture	increases risk of	mortality
-skull fracture	increases risk of	seizures
-skull fracture	results in	skull deformity
-skull fracture	requires	ICU admission
-skull fracture	leads to	intracranial pressure elevation
-skull fracture	predisposes to	brain herniation
-skull base fracture	associated with	CSF leak
-skull base fracture	risk of	meningitis
-epidural hematoma	requires	neurosurgery
-subdural hematoma	may require	burr hole drainage
-intracranial pressure elevation	monitored with	ICP monitoring
-ICP monitoring	used for	severe head injury
-brain edema	complication of	skull fracture
-traumatic brain injury	often accompanies	skull fracture
-CSF leak	due to	skull base fracture
-CSF leak	may cause	meningitis
-cranial nerve injury	associated with	skull base fracture
-pneumocephalus	seen with	skull fracture
-decompressive craniectomy	performed for	skull fracture with brain swelling
-intracranial infection	risk after	skull fracture surgery
-open skull fracture	requires	antibiotics prophylaxis
-open skull fracture	at risk for	infection
-open skull fracture	managed with	irrigation and debridement
-open skull fracture	prophylaxis with	tetanus prophylaxis
-airway compromise	risk with	facial fracture
-facial fracture	may cause	cosmetic deformity
-facial fracture	may cause	malocclusion
-facial fracture	treated with	open reduction internal fixation
-facial fracture	repaired by	maxillofacial surgery
-nasal fracture	may cause	septal hematoma
-nasal fracture	may cause	nasal obstruction
-nasal fracture	managed with	nasal septum reduction
-orbital fracture	may cause	diplopia
-orbital fracture	risk of	enophthalmos
-orbital floor fracture	may cause	diplopia
-zygomatic fracture	treated with	ORIF
-zygomatic fracture	may cause	facial asymmetry
-mandibular fracture	treated with	ORIF
-mandibular fracture	associated with	dental injury
-maxillary fracture	may cause	midface instability
-maxillary fracture	treated with	ORIF
-midface fracture	treated with	rigid fixation
-open fracture	requires	antibiotics prophylaxis
-open fracture	at risk for	infection
-open fracture	managed with	irrigation and debridement
-soft tissue injury	accompanies	facial fracture
-facial fracture	associated with	airway compromise
-nasal fracture	may cause	epistaxis
-nasal fracture	may cause	septal deviation
-orbital fracture	evaluated with	CT scan
-nasal fracture	evaluated with	CT scan
-cranial base fracture	associated with	CSF leak
-cranial base fracture	risk of	meningitis
-orbital fracture	repaired with	orbital implant
-orbital reconstruction	needed for	orbital fracture
-maxillofacial trauma	includes	skull fracture
-maxillofacial trauma	commonly accompanied by	polytrauma
-CT scan	confirms	skull fracture
-radiography	less sensitive than	CT scan
-adult skull fracture	has	favorable prognosis
-pediatric skull fracture	has	favorable prognosis
-CT head	used for	skull fracture evaluation
-CT head	confirms	skull fracture
-radiography	less sensitive than	CT scan
-adult skull fracture	prognosis	influenced by injury severity
-child skull fracture	prognosis	favorable with treatment
-postoperative fever	complication after	skull fracture surgery
-wound infection	complication after	skull fracture surgery
-readmission	risk after	skull fracture
-mortality	associated with	severe skull fracture
-cranial nerve palsy	associated with	skull base fracture
-pneumocephalus	seen with	skull fracture
-airway management	needed for	facial fracture with airway compromise
-orthognathic surgery	planned for	malocclusion after fracture
-orthognathic surgery	used for	midface reconstruction
-orbital implant	used for	orbital fracture repair
-orbital reconstruction	needed for	orbital fracture
-maxillofacial trauma	includes	skull fracture
-polytrauma	common with	facial fracture
-CT scan	confirms	skull fracture
-CT scan	used for	facial fracture evaluation
-radiography	less sensitive than	CT scan
-pediatric skull fracture	prognosis	favorable with treatment
-adult skull fracture	prognosis	worse with polytrauma
-screw fixation	used for	mandibular fracture
-plate fixation	used for	zygomatic fracture
-intraoral plating	used for	mandibular fracture
-external fixation	used for	midface fracture
-dental arch	alignment restored with	fracture fixation
-occlusion restoration	achieved with	ORIF
-vision impairment	risk with	orbital fracture
-eye injury	associated with	orbital fracture
-nasal septum	deviated after	nasal fracture
-cosmetic outcome	influenced by	fracture severity
-functional outcome	influenced by	surgical fixation
-rehabilitation	required after	facial fracture
-physical therapy	recommended after	facial fracture
-occupational therapy	recommended after	facial fracture
-aesthetic outcome	important for	facial fracture
-return to work	dependent on	fracture severity
-pain control	essential after	skull fracture
-analgesia	used for	skull fracture pain
-antibiotics	prophylaxis for	open fracture
-tetanus prophylaxis	given for	open fracture
-infection	worsens	skull fracture outcome
-mortality	associated with	severe skull fracture
+"skull fracture"	"may cause"	"intracranial hemorrhage"
+"skull fracture"	"increases risk of"	"traumatic brain injury"
+"skull fracture"	"may lead to"	"brain edema"
+"skull fracture"	"may cause"	"CSF leak"
+"skull fracture"	"may cause"	"pneumocephalus"
+"basilar skull fracture"	"is a type of"	"skull fracture"
+"basilar skull fracture"	"may cause"	"CSF rhinorrhea"
+"basilar skull fracture"	"may cause"	"meningitis"
+"basilar skull fracture"	"may result in"	"cranial nerve injury"
+"basilar skull fracture"	"may cause"	"otorrhea"
+"facial fracture"	"may cause"	"malocclusion"
+"facial fracture"	"may cause"	"cosmetic deformity"
+"facial fracture"	"may cause"	"diplopia"
+"facial fracture"	"may cause"	"orbital injury"
+"orbital fracture"	"may cause"	"diplopia"
+"orbital fracture"	"may cause"	"enophthalmos"
+"orbital fracture"	"may cause"	"orbital emphysema"
+"nasal fracture"	"may cause"	"nasal obstruction"
+"nasal fracture"	"may cause"	"epistaxis"
+"nasal fracture"	"may lead to"	"sinusitis"
+"mandibular fracture"	"may cause"	"malocclusion"
+"mandibular fracture"	"may cause"	"dental injury"
+"zygomatic fracture"	"may cause"	"facial asymmetry"
+"zygomatic fracture"	"may cause"	"orbital floor fracture"
+"maxillary fracture"	"may cause"	"midface instability"
+"Le Fort II fracture"	"is a type of"	"midface fracture"
+"Le Fort II fracture"	"may cause"	"midface instability"
+"Le Fort I fracture"	"may cause"	"dental malocclusion"
+"depressed skull fracture"	"may cause"	"brain contusion"
+"depressed skull fracture"	"may cause"	"intracranial hemorrhage"
+"open skull fracture"	"increases risk of"	"wound infection"
+"open skull fracture"	"may require"	"surgical repair"
+"open skull fracture"	"may cause"	"intracranial infection"
+"open skull fracture"	"needs"	"cranial fixation"
+"skull fracture"	"diagnosed by"	"CT scan"
+"CT scan"	"reveals"	"fracture line"
+"X-ray"	"shows"	"fracture line"
+"fracture line"	"is visible on"	"CT scan"
+"skull fracture"	"predicts"	"mortality"
+"skull fracture"	"predicts"	"ICU admission"
+"skull fracture"	"predicts"	"mechanical ventilation"
+"CSF leak"	"increases risk of"	"meningitis"
+"CSF leak"	"requires"	"surgical repair"
+"pneumocephalus"	"causes"	"headache"
+"pneumocephalus"	"may cause"	"seizure"
+"traumatic brain injury"	"results in"	"neurological deficit"
+"intracranial hemorrhage"	"causes"	"altered mental status"
+"cranial nerve injury"	"causes"	"vision loss"
+"orbital fracture"	"associated with"	"infraorbital nerve injury"
+"orbital fracture"	"associated with"	"orbital cellulitis"
+"nasal fracture"	"associated with"	"deviated septum"
+"nasal fracture"	"causes"	"airway obstruction"
+"maxillary fracture"	"causes"	"orbital involvement"
+"mandibular fracture"	"causes"	"occlusal disruption"
+"frontal bone fracture"	"causes"	"forehead deformity"
+"parietal bone fracture"	"associated with"	"skull fracture"
+"pediatric skull fracture"	"has higher risk of"	"intracranial injury"
+"adult skull fracture"	"has higher risk of"	"mortality"
+"surgical fixation"	"is used for"	"facial fracture"
+"titanium plate"	"is used in"	"cranial fixation"
+"craniotomy"	"performed for"	"depressed skull fracture"
+"craniectomy"	"performed for"	"raised intracranial pressure"
+"orbital reconstruction"	"is used for"	"orbital fracture"
+"burr hole drainage"	"used for"	"epidural hematoma"
+"antibiotic prophylaxis"	"reduces risk of"	"postoperative infection"
+"tetanus prophylaxis"	"is recommended for"	"open skull fracture"
+"facial reconstruction"	"improves"	"cosmetic outcome"
+"reconstruction surgery"	"improves"	"facial symmetry"
+"facial symmetry"	"correlates with"	"cosmetic outcome"
+"postoperative infection"	"occurs after"	"cranial surgery"
+"intracranial pressure"	"elevates after"	"skull fracture"
+"seizure"	"occurs after"	"traumatic brain injury"
+"neurocritical care"	"provides monitoring for"	"traumatic brain injury"
+"length of stay"	"influenced by"	"injury severity"
+"readmission"	"risk after"	"skull fracture"
+"rehabilitation"	"needed after"	"facial fracture"
+"trauma surgeon"	"coordinates care with"	"neurosurgeon"
+"neurosurgeon"	"performs"	"craniotomy"
+"plastic surgeon"	"performs"	"facial fracture reconstruction"
+"prosthetic implant"	"used in"	"cranial reconstruction"
+"cranial reconstruction"	"restores"	"facial symmetry"
+"imaging"	"is used for"	"facial fracture"
+"bone graft"	"used in"	"facial reconstruction"
+"bone graft"	"used in"	"cranioplasty"
+"frontal sinus fracture"	"risk of"	"sinusitis"
+"midface fracture"	"requires"	"orbital reconstruction"
+"orbital apex fracture"	"risk of"	"vision loss"
+"orbital fracture"	"requires"	"orbital repair"
+"soft tissue injury"	"occurs with"	"facial fracture"
+"eye movement impairment"	"occurs with"	"orbital fracture"
+"trauma team"	"coordinates care with"	"emergency department"
+"neurosurgeon"	"coordinates care with"	"plastic surgeon"
+"bone healing"	"progresses after"	"fracture"
+"hematoma"	"occurs after"	"facial fracture surgery"
+"nerve injury"	"occurs with"	"zygomatic fracture"
+"optic nerve injury"	"causes"	"visual impairment"
+"infraorbital nerve injury"	"causes"	"numbness"
+"orbital fracture"	"may cause"	"globe rupture"
+"globe rupture"	"requires"	"enucleation"
+"clinical outcome"	"depends on"	"fracture severity"

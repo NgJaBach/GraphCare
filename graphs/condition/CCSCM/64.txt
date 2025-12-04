@@ -1,101 +1,99 @@
-anemia	is a	hematologic condition
-anemia	may cause	fatigue
-anemia	associated with	tachycardia
-iron deficiency anemia	is a type of	anemia
-iron deficiency anemia	caused by	iron deficiency
-iron deficiency	causes	anemia
-iron deficiency anemia	treated with	iron supplementation
-iron deficiency	risk factor for	iron deficiency anemia
-menstrual blood loss	causes	iron deficiency anemia
-pregnancy	may cause	iron deficiency anemia
-ferritin	is a measure of	iron stores
-hemoglobin	measures	oxygen carrying capacity
-hemoglobin	decreased in	anemia
-transfusion	is a treatment for	severe anemia
-transfusion	relieves	anemia symptoms
-neutropenia	leads to	infection risk
-neutropenia	is a complication of	chemotherapy
-leukemia	is a hematologic malignancy
-leukemia	treated with	chemotherapy
-leukemia	may cause	anemia
-lymphoma	is a hematologic malignancy
-lymphoma	treated with	chemotherapy
-multiple myeloma	is a hematologic malignancy
-multiple myeloma	causes	anemia
-myelodysplastic syndrome	may progress to	acute myeloid leukemia
-acute myeloid leukemia	treated with	cytarabine
-acute lymphoblastic leukemia	treated with	chemotherapy
-polycythemia vera	risk of	thrombosis
-essential thrombocythemia	risk of	thrombosis
-primary myelofibrosis	causes	anemia
-sickle cell disease	is a	hemoglobinopathy
-sickle cell disease	causes	vaso-occlusive crises
-vaso-occlusive crisis	leads to	pain
-thalassemia	is a	hemoglobinopathy
-beta-thalassemia	is a	genetic anemia
-fanconi anemia	is an	inherited bone marrow failure syndrome
-aplastic anemia	results in	pancytopenia
-pancytopenia	causes	fatigue
-pancytopenia	predisposes to	infection
-hemophilia A	is a	bleeding disorder
-hemophilia B	is a	bleeding disorder
-von Willebrand disease	is a	bleeding disorder
-disseminated intravascular coagulation	is a	coagulopathy
-antiphospholipid syndrome	is a	hypercoagulable state
-thrombocytopenia	increases	bleeding risk
-platelet count	reflects	platelet status
-platelet transfusion	is a	treatment for thrombocytopenia
-coagulation tests	assess	hemostasis
-factor VIII deficiency	causes	hemophilia A
-factor IX deficiency	causes	hemophilia B
-vWF deficiency	causes	von Willebrand disease
-von Willebrand disease	caused by	vWF deficiency
-vitamin B12 deficiency	causes	macrocytic anemia
-folate deficiency	causes	macrocytic anemia
-macrocytic anemia	is a	type of anemia
-pernicious anemia	is a	type of vitamin B12 deficiency anemia
-erythropoietin	stimulates	red blood cell production
-bone marrow	produces	blood cells
-reticulocyte count	indicates	marrow response
-hepcidin	regulates	iron absorption
-transferrin	carries	iron
-ferritin	stores	iron
-iron overload	results from	repeated transfusions
-iron chelation therapy	treats	iron overload
-hepatosplenomegaly	is a sign of	hematologic disorders
-splenomegaly	causes	hypersplenism
-hypersplenism	leads to	cytopenias
-bone marrow biopsy	used for	diagnosis of hematologic disorders
-cytopenia	is a feature of	bone marrow failure
-bone marrow failure	causes	pancytopenia
-transfusion reaction	is a complication of	blood transfusion
-allogeneic stem cell transplant	is a treatment for	hematologic malignancy
-autologous stem cell transplant	is a treatment for	hematologic malignancy
-cytogenetics	provides	prognosis in hematologic diseases
-BCR-ABL	is a fusion gene in	chronic myeloid leukemia
-t(9;22) translocation	indicates	chronic myeloid leukemia
-ring sideroblasts	are seen in	sideroblastic anemia
-sideroblastic anemia	is a	hematologic disorder
-anemia of chronic disease	is a	type of anemia
-inflammation	can cause	anemia of chronic disease
-hepcidin	elevated in	anemia of chronic disease
-hypochromia	is a feature of	iron deficiency anemia
-reticulocytosis	indicates	active erythropoiesis
-pica	is a symptom associated with	iron deficiency anemia
-hemostasis	requires	platelets
-anticoagulation therapy	reduces	thrombosis risk
-thrombosis risk	increases with	antiphospholipid syndrome
-immunoglobulin therapy	used for	autoimmune hemolytic anemia
-ring sideroblasts	seen in	sideroblastic anemia
-myelofibrosis	causes	anemia
-liver	produces	coagulation factors
-thrombocytosis	associated with	essential thrombocythemia
-immune thrombocytopenia	is an	autoimmune hematologic disorder
-platelet lifespan	is reduced in	immune thrombocytopenia
-red blood cell transfusion	is a	supportive therapy for anemia
-growth factors	used for	neutropenia
-neutropenia	increases	infection risk
-myelosuppression	is a	side effect of chemotherapy
-bone marrow aspiration	used for	diagnosis of leukemia
-cytotoxic chemotherapy	can cause	anemia
-imaging	evaluates	lymph node involvement
+other hematologic conditions	include	anemia
+other hematologic conditions	include	thrombocytopenia
+other hematologic conditions	include	leukocytosis
+other hematologic conditions	include	leukopenia
+other hematologic conditions	include	thrombocytosis
+other hematologic conditions	include	pancytopenia
+other hematologic conditions	include	polycythemia
+other hematologic conditions	include	hemolysis
+other hematologic conditions	include	coagulopathy
+other hematologic conditions	include	disseminated intravascular coagulation
+other hematologic conditions	present with	pallor
+other hematologic conditions	present with	fatigue
+other hematologic conditions	present with	dyspnea
+other hematologic conditions	present with	tachycardia
+other hematologic conditions	present with	jaundice
+other hematologic conditions	present with	splenomegaly
+other hematologic conditions	present with	hepatomegaly
+other hematologic conditions	cause	anemia of chronic disease
+other hematologic conditions	cause	iron deficiency anemia
+other hematologic conditions	cause	megaloblastic anemia
+other hematologic conditions	predispose to	infection
+other hematologic conditions	predispose to	bleeding
+other hematologic conditions	predispose to	thrombosis
+other hematologic conditions	associated with	iron deficiency
+other hematologic conditions	associated with	vitamin B12 deficiency
+other hematologic conditions	associated with	folate deficiency
+other hematologic conditions	associated with	autoimmune disease
+other hematologic conditions	associated with	liver disease
+other hematologic conditions	associated with	kidney disease
+other hematologic conditions	associated with	infections
+other hematologic conditions	treated with	corticosteroids
+other hematologic conditions	treated with	intravenous immunoglobulin
+other hematologic conditions	treated with	splenectomy
+other hematologic conditions	treated with	bone marrow transplantation
+other hematologic conditions	treated with	transfusion
+other hematologic conditions	treated with	erythropoietin
+other hematologic conditions	treated with	hydroxyurea
+other hematologic conditions	treated with	chemotherapy
+other hematologic conditions	treated with	immunosuppressants
+other hematologic conditions	monitored by	complete blood count
+other hematologic conditions	monitored by	reticulocyte count
+other hematologic conditions	monitored by	iron studies
+other hematologic conditions	monitored by	ferritin
+other hematologic conditions	monitored by	peripheral smear
+other hematologic conditions	risk factor for	mortality
+other hematologic conditions	risk factor for	infection
+other hematologic conditions	risk factor for	bleeding
+other hematologic conditions	risk factor for	thrombosis
+other hematologic conditions	correlate with	ferritin
+other hematologic conditions	correlate with	transferrin saturation
+other hematologic conditions	present with	ecchymosis
+other hematologic conditions	present with	petechiae
+other hematologic conditions	diagnosed by	bone marrow biopsy
+other hematologic conditions	diagnosed by	peripheral smear
+other hematologic conditions	diagnosed by	iron studies
+other hematologic conditions	diagnosed by	genetic testing
+other hematologic conditions	diagnosed by	flow cytometry
+other hematologic conditions	diagnosed by	cytogenetics
+other hematologic conditions	characterized by	cytopenia
+other hematologic conditions	characterized by	hypercellularity
+other hematologic conditions	characterized by	hypocellularity
+other hematologic conditions	characterized by	macrocytosis
+other hematologic conditions	characterized by	microcytosis
+other hematologic conditions	characterized by	anisocytosis
+other hematologic conditions	characterized by	poikilocytosis
+other hematologic conditions	associated with	autoimmune hemolytic anemia
+other hematologic conditions	associated with	sickle cell disease
+other hematologic conditions	associated with	thalassemia
+other hematologic conditions	associated with	leukemia
+other hematologic conditions	associated with	lymphoma
+other hematologic conditions	associated with	multiple myeloma
+other hematologic conditions	associated with	myelodysplastic syndrome
+other hematologic conditions	associated with	myeloproliferative neoplasm
+other hematologic conditions	associated with	immune thrombocytopenia
+other hematologic conditions	associated with	heparin-induced thrombocytopenia
+other hematologic conditions	associated with	von Willebrand disease
+other hematologic conditions	associated with	hemophilia A
+other hematologic conditions	associated with	hemophilia B
+other hematologic conditions	require	autologous transplantation
+other hematologic conditions	require	allogeneic transplantation
+other hematologic conditions	require	supportive care
+other hematologic conditions	require	transfusion support
+other hematologic conditions	require	stem cell transplantation
+other hematologic conditions	indicate	marrow failure
+other hematologic conditions	prognosis with	cytopenia severity
+other hematologic conditions	prognosis with	age
+other hematologic conditions	prognosis with	comorbidity
+other hematologic conditions	impact on	quality of life
+other hematologic conditions	prevalence in	women
+other hematologic conditions	prevalence in	men
+other hematologic conditions	precipitated by	infection
+other hematologic conditions	genetic predisposition for	anemia
+other hematologic conditions	result in	bone marrow failure
+other hematologic conditions	derive from	stem cell defect
+other hematologic conditions	follow with	long-term monitoring
+other hematologic conditions	linked to	iron regulation disorders
+other hematologic conditions	regulate	erythropoiesis
+other hematologic conditions	exhibit	clonal evolution
+other hematologic conditions	progress to	marrow aplasia

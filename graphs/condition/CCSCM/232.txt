@@ -1,116 +1,100 @@
-sprains and strains	is a	musculoskeletal injury
-sprains and strains	may cause	swelling
-sprains and strains	may cause	pain
-sprains and strains	may cause	ecchymosis
-sprains and strains	may cause	tenderness
-sprains and strains	limits	range of motion
-sprains and strains	treated with	rest
-sprains and strains	treated with	ice
-sprains and strains	treated with	compression
-sprains and strains	treated with	elevation
-sprains and strains	treated with	NSAIDs
-sprains and strains	treated with	analgesics
-sprains and strains	treated with	physical therapy
-sprains and strains	treated with	immobilization
-sprains and strains	treated with	brace
-sprains and strains	treated with	cast
-sprains and strains	treated with	splint
-sprains and strains	treated with	topical analgesics
-sprains and strains	diagnosed by	physical examination
-sprains and strains	diagnosed by	imaging
-sprains and strains	imaging shows	ligament tear
-sprains and strains	imaging shows	edema
-sprains and strains	imaging shows	joint effusion
-sprains and strains	location	ankle
-sprains and strains	location	knee
-sprains and strains	location	shoulder
-sprains and strains	location	wrist
-sprains and strains	location	hip
-sprains and strains	location	back
-sprains and strains	occurs in	athletes
-sprains and strains	occurs in	manual laborers
-sprains and strains	risk factor	obesity
-sprains and strains	risk factor	smoking
-sprains and strains	risk factor	diabetes
-sprains and strains	prognosis	recovery
-sprains and strains	prognosis	chronic instability
-sprains and strains	prognosis	residual pain
-sprains and strains	recurrence risk	re-injury
-sprains and strains	recurrence risk	chronic pain
-sprains and strains	healing time	weeks
-sprains and strains	healing time	months
-sprains and strains	complications include	stiffness
-sprains and strains	complications include	persistent swelling
-sprains and strains	prevention method	strengthening exercises
-sprains and strains	prevention method	proprioception training
-sprains and strains	prevention method	warm-up
-sprains and strains	prevention method	proper footwear
-sprains and strains	rehabilitation type	proprioception training
-sprains and strains	rehabilitation type	balance training
-sprains and strains	rehabilitation type	range-of-motion exercises
-sprains and strains	therapy outcome	pain relief
-sprains and strains	therapy outcome	mobility improvement
-sprains and strains	therapy outcome	function restoration
-sprains and strains	patient education	home exercise program
-sprains and strains	patient education	activity modification
-sprains and strains	healthcare utilization	urgent care visit
-sprains and strains	healthcare utilization	emergency department visit
-sprains and strains	healthcare utilization	outpatient visit
-sprains and strains	cost	treatment costs
-sprains and strains	economic impact	productivity loss
-sprains and strains	diagnostic criterion	tenderness on palpation
-sprains and strains	diagnostic criterion	swelling
-sprains and strains	diagnostic criterion	decreased range of motion
-sprains and strains	imaging finding	ligament laxity
-sprains and strains	imaging finding	bone bruise
-sprains and strains	imaging finding	tendon thickening
-sprains and strains	severity	grade I injury
-sprains and strains	severity	grade II injury
-sprains and strains	severity	grade III injury
-sprains and strains	comorbidity	obesity
-sprains and strains	comorbidity	diabetes
-sprains and strains	comorbidity	hypertension
-sprains and strains	occupation	laborer
-sprains and strains	occupation	athlete
-sprains and strains	activity	walking
-sprains and strains	activity	running
-sprains and strains	activity	jumping
-sprains and strains	therapy	immobilization
-sprains and strains	therapy	bracing
-sprains and strains	therapy	casting
-sprains and strains	therapy	splinting
-sprains and strains	diagnostic method	physical examination
-sprains and strains	diagnostic method	imaging
-sprains and strains	imaging modality	MRI
-sprains and strains	imaging modality	ultrasound
-sprains and strains	imaging modality	X-ray
-sprains and strains	ligament involvement	lateral collateral ligament
-sprains and strains	ligament involvement	ACL
-sprains and strains	tendon involvement	Achilles tendon
-sprains and strains	muscle involvement	hamstring
-sprains and strains	healing stage	inflammatory phase
-sprains and strains	healing stage	proliferative phase
-sprains and strains	return-to-sport readiness	functional testing
-sprains and strains	return-to-sport readiness	evaluation
-sprains and strains	health service	urgent care
-sprains and strains	health service	emergency department
-sprains and strains	insurance coverage	outpatient costs
-sprains and strains	life stage	adolescence
-sprains and strains	life stage	adulthood
-sprains and strains	life stage	old age
-sprains and strains	follow-up	clinic visit
-sprains and strains	follow-up	imaging
-sprains and strains	quality of life	disability
-sprains and strains	healthcare setting	outpatient clinic
-sprains and strains	therapy modality	cryotherapy
-sprains and strains	therapy modality	heat therapy
-sprains and strains	therapy modality	electrical stimulation
-sprains and strains	patient subgroup	adolescents
-sprains and strains	patient subgroup	adults
-sprains and strains	patient subgroup	elderly
-sprains and strains	social determinant	access to care
-sprains and strains	clinical pathway	first aid
-sprains and strains	insurance status	coverage
-sprains and strains	occupational setting	workplace
-sprains and strains	prognosis after surgical intervention	uncertain
-sprains and strains	data source	clinical notes
+sprain	is a	soft tissue injury
+strain	is a	soft tissue injury
+ligament	stabilizes	joint
+tendon	connects	muscle
+muscle	facilitates	movement
+bone	forms	skeleton
+joint	provides	stability
+cartilage	cushions	joint
+sprain	involves	ligament damage
+strain	involves	muscle damage
+swelling	accompanies	sprain
+pain	accompanies	sprain
+bruising	accompanies	sprain
+tenderness	accompanies	sprain
+ecchymosis	indicates	tissue damage
+range of motion	decreases	after sprain
+instability	results from	sprain
+impairment	results from	sprain
+functional limitation	results from	sprain
+inflammation	follows	soft tissue injury
+pain	is managed with	analgesics
+analgesics	treat	pain
+NSAIDs	reduce	inflammation
+ice therapy	reduces	swelling
+rest	is recommended for	sprain
+immobilization	supports	healing
+splint	immobilizes	ankle
+brace	immobilizes	knee
+physical therapy	facilitates	rehabilitation
+rehabilitation	improves	ROM
+ROM	returns after	healing
+healing	occurs over	days to weeks
+RICE protocol	is recommended for	acute sprain
+RICE protocol	includes	rest
+rest	provides	pain relief
+physical therapy	includes	ROM exercises
+ROM exercises	improve	flexibility
+surgery	reserved for	ligament rupture
+arthroscopic repair	used for	ligament tear
+ankle sprain	may require	immobilization
+knee sprain	may require	brace
+imaging	assists	diagnosis
+X-ray	rules out	fracture
+MRI	detects	soft tissue injury
+ultrasound	evaluates	ligament tear
+CT	rules out	fracture
+MRI	localizes	edema
+edema	accompanies	sprain
+hematoma	forms	soft tissue injury
+recovery	depends on	injury severity
+chronic instability	is a	complication of sprain
+osteoarthritis	may develop	following sprain
+chronic pain	persists	after sprain
+nerve injury	is rare	with severe sprain
+rehabilitation adherence	influences	outcome
+reinjury risk	increases	with return-to-sport early
+protective equipment	reduces	recurrent sprain
+proprioception training	reduces	recurrent sprain
+prior sprain	predisposes	to reinjury
+BMI	increases	risk of sprain
+age	affects	healing
+obesity	increases	risk of sprain
+sports	increases	sprain risk
+sudden inversion	triggers	ankle sprain
+weakness	persists	after sprain
+chronic instability	leads to	altered gait
+recovery timeline	depends on	injury severity
+return-to-sport timing	depends on	rehab progress
+functional tests	assess	readiness
+return-to-sport	guided by	functional tests
+imaging	informs	management
+X-ray	rules out	fracture
+ultrasound	visualizes	hematoma
+edema	resolves	with healing
+analgesics	provide	pain relief
+NSAIDs	provide	anti-inflammatory effects
+ice therapy	reduces	tissue temperature
+compression	reduces	swelling
+elevation	reduces	edema
+immobilization	limits	motion
+protective wrap	supports	ankle sprain
+brace	supports	knee sprain
+physical therapy	targets	proprioception
+proprioception	improves	neuromuscular control
+strength training	enhances	muscle strength
+balance training	decreases	re-injury risk
+return-to-sport criteria	include	strength tests
+patient education	improves	adherence
+follow-up	recommended for	persistent symptoms
+red flags	include	numbness or severe swelling
+chronic pain syndrome	may develop	after sprain
+clinical guidelines	recommend	RICE protocol
+imaging orders	include	X-ray
+ultrasound	used for	dynamic assessment
+MRI	used for	soft tissue visualization
+fracture risk	assessed by	X-ray
+prognosis	affected by	injury severity
+recovery time	varies	by individual
+edema	resolves	with time
+joint stability	improves	with rehab

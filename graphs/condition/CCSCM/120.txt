@@ -1,191 +1,113 @@
-hemorrhoids	are a	anorectal condition
-internal hemorrhoids	are a	type of hemorrhoids
-external hemorrhoids	are a	type of hemorrhoids
-hemorrhoids	cause	rectal bleeding
-hemorrhoids	cause	anal discomfort
-hemorrhoids	cause	pruritus ani
-hemorrhoids	cause	mucus discharge
-hemorrhoids	worsen with	straining
-hemorrhoids	worsen with	constipation
-hemorrhoids	worsen with	diarrhea
-constipation	increases risk of	hemorrhoids
-diarrhea	increases risk of	hemorrhoids
-pregnancy	increases risk of	hemorrhoids
-obesity	increases risk of	hemorrhoids
-aging	increases risk of	hemorrhoids
-prolonged sitting	increases risk of	hemorrhoids
-heavy lifting	increases risk of	hemorrhoids
-low fiber diet	increases risk of	hemorrhoids
-sedentary lifestyle	increases risk of	hemorrhoids
-alcohol	increases risk of	hemorrhoids
-fiber	reduces risk of	hemorrhoids
-high-fiber diet	reduces risk of	hemorrhoids
-hydration	reduces risk of	hemorrhoids
-psyllium	reduces risk of	hemorrhoids
-bulk-forming laxatives	reduce	hemorrhoid symptoms
-stool softeners	reduce	hemorrhoid symptoms
-topical corticosteroids	reduce	hemorrhoid inflammation
-topical anesthetics	reduce	hemorrhoid pain
-witch hazel	reduce	anal irritation
-sitz baths	reduce	hemorrhoid symptoms
-ice packs	reduce	hemorrhoidal swelling
-rubber band ligation	treats	internal hemorrhoids
-sclerotherapy	treats	hemorrhoids
-infrared coagulation	treats	hemorrhoids
-hemorrhoidectomy	treats	hemorrhoids
-stapled hemorrhoidopexy	treats	hemorrhoids
-internal hemorrhoids	prolapse into	anal canal
-external hemorrhoids	may thrombose	anal pain
-bleeding	may indicate	hemorrhoids
-anemia	may result from	hemorrhoidal bleeding
-colonoscopy	used for	evaluation of rectal bleeding
-anoscopy	used for	hemorrhoids assessment
-proctoscopy	used for	hemorrhoids assessment
-digital rectal exam	used for	hemorrhoids evaluation
-internal hemorrhoids	graded by	severity
-external hemorrhoids	graded by	severity
-hemorrhoids	severity influences	treatment choice
-pregnant women	require	hemorrhoidal care
-postpartum period	associated with	hemorrhoidal symptoms
-age	influences	hemorrhoidal presentation
-rectal bleeding	is a	symptom of hemorrhoids
-pruritus ani	is a	symptom of hemorrhoids
-anal fissure	coexists with	hemorrhoids
-fecal incontinence	occurs with	extensive hemorrhoid disease
-anal canal	contains	hemorrhoidal cushions
-hemorrhoidal cushions	located in	anal canal
-venous dilation	contributes to	hemorrhoids
-vascular congestion	contributes to	hemorrhoids
-internal hemorrhoids	may require	evaluation
-persistent hemorrhoids	may require	surgical therapy
-anesthesia	required for	hemorrhoidectomy
-postoperative pain	occurs after	hemorrhoidectomy
-urinary retention	occurs after	hemorrhoidectomy
-infection	occurs after	hemorrhoidectomy
-NSAIDs	increase risk of	hemorrhoid bleeding
-bulk-forming laxatives	aid	stool formation
-psyllium husk	helps	hemorrhoid symptoms
-acetaminophen	used for	hemorrhoidal pain
-ibuprofen	used for	hemorrhoidal pain
-anal hygiene	improves	hemorrhoid symptoms
-dietary fiber	improves	stool consistency
-surgery	indicated for	persistent hemorrhoids
-internal hemorrhoids	may require	surgical therapy
-prolapsed hemorrhoids	cause	anal pain
-hemorrhoidal cushions	are located in	anal canal
-rectal mucosa	involved in	hemorrhoid formation
-hemorrhoidal disease	worsens with	constipation
-external hemorrhoids	present with	visible swelling
-internal hemorrhoids	present with	painless bleeding
-hemorrhoids	may present with	bright red bleeding
-colorectal cancer	must be ruled out in	rectal bleeding
-older adults	have increased risk of	hemorrhoids
-pregnant patients	more likely to develop	hemorrhoids
-postpartum	symptoms improve with	time
-burden of disease	impacts	quality of life
-stool urgency	associated with	hemorrhoids
-anorectal region	affected by	hemorrhoids
-anal margin	visualization	hemorrhoids
-vascular cushions	support	anal canal
-hemorrhoidal disease	prognosis with treatment	favorable
-prognosis	favorable with	adequate management
 hemorrhoids	is a	anorectal condition
-hemorrhoids	is a	venous disorder
-hemorrhoids	associated with	constipation
-hemorrhoids	associated with	straining
-hemorrhoids	associated with	diarrhea
-hemorrhoids	associated with	pregnancy
-hemorrhoids	associated with	obesity
-hemorrhoids	more common in	females
-hemorrhoids	more common in	older age
-hemorrhoids	cause	rectal bleeding
-hemorrhoids	cause	pruritus ani
-hemorrhoids	cause	anal pain
-hemorrhoids	present as	prolapse
-hemorrhoids	present as	perianal lump
-hemorrhoids	may thrombose	thrombosed hemorrhoids
-hemorrhoids	may cause	anemia
-hemorrhoids	diagnosed by	anoscopy
-hemorrhoids	diagnosed by	proctoscopy
-hemorrhoids	diagnosed by	digital rectal examination
-hemorrhoids	treated with	dietary fiber
-hemorrhoids	treated with	adequate hydration
-hemorrhoids	treated with	stool softeners
-hemorrhoids	treated with	sitz bath
-hemorrhoids	treated with	topical corticosteroids
-hemorrhoids	treated with	topical anesthetics
-hemorrhoids	treated with	rubber band ligation
-hemorrhoids	treated with	sclerotherapy
-hemorrhoids	treated with	infrared coagulation
-hemorrhoids	treated with	hemorrhoidectomy
-hemorrhoids	treated with	stapled hemorrhoidopexy
-hemorrhoids	treated with	hemorrhoidal artery ligation
-hemorrhoids	treated with	laser therapy
-hemorrhoids	recurrence after	hemorrhoidectomy
-hemorrhoids	recurrence after	rubber band ligation
-hemorrhoids	worsened by	constipation
-hemorrhoids	worsened by	sedentary lifestyle
-hemorrhoids	worsened by	prolonged sitting
-hemorrhoids	improved with	dietary fiber
-hemorrhoids	improved with	adequate hydration
-hemorrhoids	improved with	physical activity
-hemorrhoids	associated with	childbirth
-hemorrhoids	more common in	older adults
-hemorrhoids	associated with	anal fissure
-hemorrhoids	associated with	anorectal dermatitis
-hemorrhoids	associated with	hemorrhoidal prolapse
-hemorrhoids	linked to	venous insufficiency
-hemorrhoids	linked to	pelvic floor dysfunction
-hemorrhoids	predisposed by	aging
-hemorrhoids	present with	bleeding
-hemorrhoids	present with	mucus discharge
-hemorrhoids	misdiagnosed as	anal fissure
-hemorrhoids	cause	anal swelling
-hemorrhoids	risk factor for	iron deficiency anemia
-hemorrhoids	managed with	lifestyle changes
-hemorrhoids	managed with	weight reduction
-hemorrhoids	evaluated by	history
-hemorrhoids	evaluated by	physical examination
-hemorrhoids	evaluated by	colonoscopy
-hemorrhoids	caused by	constipation
-hemorrhoids	worsened by	diarrhea
-hemorrhoids	reduced by	dietary fiber
-hemorrhoids	reduced by	hydration
-hemorrhoids	reduced by	exercise
-hemorrhoids	treated with	sitz bath
-hemorrhoids	treated with	topical corticosteroids
-hemorrhoids	treated with	topical analgesics
-hemorrhoids	indicated for	grade II hemorrhoids
-hemorrhoids	indicated for	grade III hemorrhoids
-hemorrhoids	indicated for	infrared coagulation
-hemorrhoids	recurrence after	hemorrhoidectomy
-hemorrhoids	recurrence after	rubber band ligation
-hemorrhoids	recurrence after	sclerotherapy
-hemorrhoids	recurrence after	infrared coagulation
-hemorrhoids	improved with	lifestyle changes
-hemorrhoids	improved with	dietary modification
-hemorrhoids	precipitated by	heavy lifting
-hemorrhoids	associated with	inflammatory bowel disease
-hemorrhoids	associated with	irritable bowel syndrome
-hemorrhoids	differential diagnosis includes	anal fissure
-hemorrhoids	differential diagnosis includes	colorectal cancer
-hemorrhoids	symptoms overlap with	anorectal abscess
-hemorrhoids	guideline recommended	colorectal cancer screening
-hemorrhoids	associated with	portal hypertension
-hemorrhoids	evaluated for	iron deficiency anemia
-hemorrhoids	cost of care	hemorrhoidectomy
-hemorrhoids	cost of care	rubber band ligation
-hemorrhoids	cost of care	sclerotherapy
-hemorrhoids	cost of care	infrared coagulation
-hemorrhoids	cost of care	laser therapy
-hemorrhoids	cost of care	stapled hemorrhoidopexy
-hemorrhoids	cost of care	hemorrhoidal artery ligation
-hemorrhoids	patient education	lifestyle modification
-hemorrhoids	clinical outcome	resolution
-hemorrhoids	clinical outcome	recurrence
-hemorrhoids	prognosis with treatment	improvement
-hemorrhoids	prognosis with treatment	durable improvement
-hemorrhoids	patient satisfaction	high
-hemorrhoids	recurrence risk	moderate
-hemorrhoids	long-term outcome	improvement
-hemorrhoids	surveillance recommendation	colonoscopy
+internal hemorrhoids	is a	type of hemorrhoids
+external hemorrhoids	is a	type of hemorrhoids
+internal hemorrhoids	located in	anal canal
+external hemorrhoids	located at	anal margin
+rectal bleeding	is a symptom of	hemorrhoids
+anal itching	is a symptom of	hemorrhoids
+anal discomfort	is a symptom of	hemorrhoids
+mucus discharge	is a symptom of	hemorrhoids
+anal pain	is a symptom of	hemorrhoids
+rectal bleeding	may indicate	hemorrhoids
+constipation	is a risk factor for	hemorrhoids
+diarrhea	is a risk factor for	hemorrhoids
+straining	is a risk factor for	hemorrhoids
+pregnancy	is a risk factor for	hemorrhoids
+obesity	is a risk factor for	hemorrhoids
+aging	is a risk factor for	hemorrhoids
+low-fiber diet	is a risk factor for	hemorrhoids
+sedentary lifestyle	is a risk factor for	hemorrhoids
+heavy lifting	is a risk factor for	hemorrhoids
+prolonged standing	is a risk factor for	hemorrhoids
+constipation	worsens	hemorrhoidal symptoms
+diarrhea	worsens	hemorrhoidal symptoms
+pregnancy	worsens	hemorrhoidal symptoms
+sitz bath	provides	symptom relief
+fiber	reduces	hemorrhoidal symptoms
+high-fiber diet	reduces	constipation
+hydration	improves	stool consistency
+bulk-forming laxatives	are used for	constipation relief
+stool softeners	are used for	constipation relief
+topical corticosteroids	reduce	hemorrhoidal inflammation
+topical anesthetics	relieve	anal pain
+lidocaine	provides	local anesthesia
+sitz bath	relieves	perianal pain
+rubber band ligation	is a procedure for	internal hemorrhoids
+sclerotherapy	is a procedure for	internal hemorrhoids
+infrared coagulation	is a procedure for	hemorrhoids
+hemorrhoidectomy	is a procedure for	hemorrhoids
+stapled hemorrhoidopexy	is a procedure for	hemorrhoids
+transanal hemorrhoidal dearterialization	is a procedure for	hemorrhoids
+mucopexy	is a procedure for	hemorrhoids
+internal hemorrhoids	treated with	rubber band ligation
+internal hemorrhoids	treated with	sclerotherapy
+internal hemorrhoids	treated with	infrared coagulation
+prolapsed hemorrhoids	treated with	hemorrhoidectomy
+external hemorrhoids	may thrombose	thrombosis
+thrombosed hemorrhoid	is a complication of	hemorrhoids
+hemorrhoidal bleeding	can cause	iron-deficiency anemia
+anemia	may result from	hemorrhoidal bleeding
+iron-deficiency anemia	may result from	hemorrhoidal bleeding
+fecal occult blood test	is used for	hemorrhoids evaluation
+colonoscopy	is performed to	evaluate hemorrhoids
+digital rectal examination	is used for	hemorrhoids
+anoscopy	is used for	hemorrhoids
+proctoscopy	is used for	hemorrhoids
+rectal examination	is used for	hemorrhoids
+rectal ultrasound	is used for	hemorrhoids
+colorectal cancer	should be ruled out when evaluating	hemorrhoids
+anorectal region	contains	hemorrhoidal cushions
+hemorrhoidal cushions	support	anal canal
+hemorrhoidal plexus	involved in	hemorrhoids
+vascular cushions	enlarge in	hemorrhoids
+anal canal	hosts	hemorrhoidal cushions
+hemorrhoidal disease	is managed with	rubber band ligation
+recurrent hemorrhoids	may require	alternative therapy
+recurrent hemorrhoids	may require	surgery
+surgery	may be indicated for	persistent hemorrhoids
+outpatient procedure	is common for	hemorrhoid treatment
+local anesthesia	is used in	hemorrhoid procedures
+general anesthesia	is used in	hemorrhoid procedures
+postoperative pain	is monitored after	hemorrhoidectomy
+recovery time	varies with	hemorrhoid treatment
+postoperative care	includes	wound care
+fiber-rich diet	is part of	hemorrhoid prevention
+hydration	is part of	hemorrhoid prevention
+avoid straining	is part of	hemorrhoid prevention
+weight management	is part of	hemorrhoid prevention
+exercise	helps prevent	hemorrhoids
+avoid heavy lifting	is recommended for	hemorrhoid prevention
+sitz bath	recommended after	hemorrhoid surgery
+analgesia	is recommended for	post-hemorrhoid surgery
+stool softeners	are recommended for	post-hemorrhoid symptoms
+bulking agents	are recommended for	constipation relief
+anal hygiene	is important for	hemorrhoids
+perianal dermatitis	may result from	hemorrhoids
+pruritus ani	is associated with	hemorrhoids
+hemorrhoidal bleeding	warrants	clinical evaluation
+colonoscopy	may be performed for	hemorrhoid bleeding evaluation
+aging	increases	hemorrhoidal prevalence
+pregnancy	increases	hemorrhoidal symptoms
+delivery	may improve	hemorrhoidal symptoms
+postpartum period	sees	reduction in hemorrhoidal symptoms
+vascular dilation	underlies	hemorrhoids
+anal cushions	become enlarged	hemorrhoids
+painful hemorrhoids	require	surgical evaluation
+thrombus	forms in	external hemorrhoids
+anorectal examination	reveals	hemorrhoids
+hemorrhoidal disease	correlates with	constipation
+prolapsed hemorrhoids	cause	anal canal obstruction
+hemorrhoids	impact	quality of life
+hemorrhoids	cause	social embarrassment
+hemorrhoidal symptoms	prompt	medical consultation
+rectal exam	detects	hemorrhoids
+anal canal	affected by	hemorrhoids
+hemorrhoids	are common in	adults
+pregnancy-related hemorrhoids	often improve	after delivery
+hemorrhoids	are diagnosed by	clinical examination
+hemorrhoids	monitored with	symptom tracking
+hemorrhoidal disease	progresses with	age
+colorectal screening	recommended with	hemorrhoids symptoms
+irritated skin	results from	hemorrhoids
+skin tags	may accompany	hemorrhoids
+anal sphincter	unaffected by	standard hemorrhoid procedures

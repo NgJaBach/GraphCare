@@ -1,100 +1,100 @@
-fall	is an	external cause of injury
-fall	associated with	osteoporosis
-fall	associated with	frailty
-fall	associated with	sarcopenia
-fall	associated with	cognitive impairment
-fall	associated with	dementia
-fall	associated with	visual impairment
-fall	associated with	balance disorder
-fall	associated with	gait disturbance
-fall	associated with	muscle weakness
-fall	associated with	polypharmacy
-fall	associated with	dehydration
-fall	associated with	orthostatic hypotension
-fall	associated with	prior fall
-fall	occurs in	elderly adults
-fall	more common in	females
-fall	more common in	males
-fall	occurs in	home
-fall	occurs in	hospital
-fall	occurs in	nursing facility
-fall	leads to	hip fracture
-fall	leads to	head injury
-fall	leads to	vertebral fracture
-fall	leads to	femur fracture
-fall	leads to	intracranial injury
-fall	leads to	long term disability
-fall	leads to	hospitalization
-fall	leads to	emergency department visit
-fall	results in	fracture
-fall	results in	concussion
+fall	is an	external cause
+fall	maps to	external cause code
+fall	causes	fracture
+fall	causes	hip fracture
+fall	causes	head injury
+fall	causes	spinal injury
 fall	results in	soft tissue injury
-fall	increases risk of	pneumonia
-fall	increases need for	rehabilitation
-fall	increases length of stay	hospital
-fall	increases risk of	nursing home placement
-fall	prevented by	home safety measures
-fall	prevented by	handrails
-fall	prevented by	grab bars
-fall	prevented by	non slip footwear
-fall	prevented by	adequate lighting
-fall	prevented by	balance training
-fall	prevented by	exercise program
-fall	prevented by	vision correction
-fall	prevented by	medication review
-fall	risk reduced by	physical therapy
-fall	risk reduced by	home modification
-fall	risk reduced by	assistive devices
-fall	occurs most often in	nursing facility
-fall	occurs most often in	hospital setting
-fall	occurs most often in	community dwelling
-fall	results in	caregiver strain
-fall	increases need for	rehabilitation services
-fall	affects	quality of life
-fall	affects	independence
-fall	leads to	loss of independence
-fall	increases risk of	institutionalization
-fall	associated with	fear of falling
-fall	associated with	reduced mobility
-fall	associated with	reduced independence
-fall	tracked by	health record
-fall	predicted by	age
-fall	predicted by	frailty
-fall	predicted by	prior fall
-fall	predicted by	gait disturbance
-fall	predicted by	cognitive impairment
-fall	predicted by	osteoporosis
-fall	predicted by	dehydration
-fall	predicted by	polypharmacy
-fall	predicted by	delirium
-fall	predicted by	vision impairment
-fall	predicted by	orthostatic hypotension
-fall	predicted by	muscle weakness
-fall	predicted by	balance impairment
-fall	predicted by	dizziness
-fall	correlated with	fracture severity
-fall	correlated with	brain injury severity
-fall	correlated with	postural instability
-fall	correlated with	sensory deficit
-fall	correlated with	mobility limitation
-fall	correlated with	obesity
-fall	coded under	E-code
-E-code	maps to	fall
-E-code	used for	fall classification
-fall	indicates	mechanism of fall
-fall	specifies	circumstance of fall
-E-code	references	external cause
-fall	described in	health record
-fall	captured by	ICD code
-health record	contains	E-code
-fall event	documented as	E-code
-E-code	records	fall event
-ICD code	used for	injury coding
-fall	included in	injury statistics
-injury statistics	inform	fall prevention programs
-fall	used in	risk prediction model
-risk prediction model	uses	prior fall
-prior fall	resets	risk baseline
-risk baseline	influences	fall probability
-fall probability	estimated by	age
-fall probability	estimated by	frailty
+hip fracture	requires	surgery
+head injury	requires	imaging
+hip fracture	leads to	immobilization
+head injury	leads to	intracranial hemorrhage
+frailty	associated with	fall risk
+osteoporosis	associated with	fracture risk
+osteoporosis	increases	fracture risk
+age	increases	fall risk
+elderly individuals	experience	higher fall risk
+female sex	associated with	fall
+cognitive impairment	associated with	fall
+polypharmacy	associated with	fall
+gait disorder	associated with	fall
+visual impairment	associated with	fall
+balance impairment	associated with	fall
+fall	increases	emergency department visits
+fall	increases	hospitalization
+fall	increases	mortality
+hip fracture	increases	mortality
+head injury	increases	mortality
+fall	increases	length of stay
+hip fracture	increases	length of stay
+head injury	increases	length of stay
+fall	associated with	discharge to rehabilitation facility
+fracture	requires	immobilization
+fracture	requires	traction
+bone health	is improved by	physical therapy
+bone density testing	detects	osteoporosis
+bone density testing	detects	osteopenia
+osteopenia	increases	fracture risk
+osteoporosis	treated with	bisphosphonates
+bisphosphonates	prevent	fractures
+calcium supplementation	improves	bone density
+vitamin D supplementation	improves	bone health
+exercise program	reduces	fall risk
+balance training	improves	gait stability
+home safety modifications	reduce	fall risk
+grab bars	reduce	fall risk
+bathroom accessibility	reduces	fall risk
+vision impairment	increases	fall risk
+hearing loss	increases	fall risk
+depression	increases	fall risk
+diabetes	associated with	fall risk
+alcohol use	increases	fall risk
+immobility	increases	pneumonia risk
+delirium	occurs after	fall
+delirium	increases	mortality
+urinary tract infection	occurs after	fall
+readmission	associated with	fall history
+readmission	predicted by	fall history
+rehabilitation	improves	mobility
+rehabilitation	reduces	disability
+surgery	improves	functional outcome
+physical therapy	improves	balance
+postoperative complications	increase	length of stay
+length of stay	correlates with	mortality
+falls	increase	healthcare costs
+healthcare costs	burden	society
+post discharge follow up	reduces	readmission
+orthopedic surgery	treats	hip fracture
+neurosurgery	treats	head injury
+orthopedic surgery	improves	mobility
+caregiver burden	increases	with fall incidents
+fall prevention program	reduces	fall incidence
+bone health screening	improves	fracture prevention
+osteoporosis screening	reduces	fracture incidence
+hip replacement	may follow	hip fracture
+bone pain	worsens	rehabilitation progress
+pain	impairs	rehabilitation progress
+mobility	declines	with fall complications
+quality of life	declines	post fall
+economic costs	increases	fall injury
+societal burden	increases	health care costs
+care needs	increase	after fall
+discharge disposition	shifts to	skilled nursing facility
+home health service	required after	fall
+rehabilitation center	accessed after	fall
+falls history	predicts	future falls
+fall risk	is modifiable by	prevention
+age group 65 plus	at risk for	fall
+osteoporosis	increases	fragility fracture risk
+fragility fracture	occurs from	fall
+hip fracture	associated with	aging
+head injury	presents with	concussion
+concussion	requires	neurological assessment
+neurological assessment	informs	treatment plan
+bone health	improves	calcium store
+calcium store	supports	bone strength
+bone strength	reduces	fracture risk
+sex_specific_risk	differs by	fall
+ethnicity	influences	fall risk
+nutrition status	affects	fall risk
+exercise capacity	predicts	fall risk reduction

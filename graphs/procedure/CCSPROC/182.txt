@@ -1,0 +1,100 @@
+mammography	is a	screening modality
+mammography	detects	masses
+mammography	detects	calcifications
+mammography	detects	architectural distortion
+mammography	detects	asymmetry
+digital mammography	is a	2D imaging modality
+3D mammography	is a	tomosynthesis modality
+tomosynthesis	provides	3D images
+mammography	uses	ionizing radiation
+mammography	requires	compression
+compression	improves	tissue separation
+tissue separation	enhances	lesion visibility
+BI-RADS	provides	standardized reporting
+BI-RADS category	informs	management
+BI-RADS	used for	risk stratification
+recall	triggered by	abnormal finding
+abnormal finding	prompts	diagnostic workup
+diagnostic workup	includes	ultrasound
+ultrasound	used for	further characterization
+mammography	followed by	biopsy
+biopsy	confirms	cancer
+histology	provides	cancer type
+cancer	staged by	pathology
+early detection	improves	prognosis
+mammography	associated with	mortality reduction
+mortality reduction	contributes to	population benefit
+false positive	impacts	recall rate
+false negative	impacts	missed cancers
+recall	leads to	diagnostic biopsy
+biopsy	provides	pathology result
+pathology	determines	cancer subtype
+cancer subtype	guides	treatment planning
+treatment planning	influences	prognosis
+screening	reduces	late-stage diagnosis
+late-stage diagnosis	increases	mortality risk
+dense breast tissue	reduces	sensitivity
+dense breast tissue	common in	younger women
+density	affects	mammography sensitivity
+density	associated with	interval cancers
+interval cancers	occur after	negative screening
+negative screening	misses	interval cancers
+implant	complicates	mammography interpretation
+scar tissue	complicates	interpretation
+cancer	visible on	mammogram
+mammogram	interpreted by	radiologist
+radiologist	uses	computer-aided detection
+computer-aided detection	assists	radiologist
+mammography	complemented by	ultrasound
+ultrasound	used for	lesion characterization
+breast density	influences	recall rate
+3D mammography	improves	cancer detection
+3D mammography	reduces	false positives
+screening program	implements	mammography screening
+screening program	targets	average-risk population
+average-risk population	eligible for	screening mammography
+risk factors	alter	screening need
+age	increases	breast cancer risk
+family history	increases	risk
+genetics	influence	cancer risk
+BRCA mutation	increases	cancer risk
+high-risk populations	require	additional imaging
+MRI	recommended for	high-risk populations
+digital breast tomosynthesis	reduces	recall rate
+tomosynthesis	reduces	callback rate
+radiation exposure	increases	lifetime risk
+lifetime risk	relates to	imaging frequency
+screening frequency	correlates with	radiation exposure
+risk-benefit analysis	guides	screening decisions
+cost-effectiveness	affects	screening uptake
+uptake	influences	population mortality
+false positives	generate	anxiety
+anxiety	affects	screening adherence
+adherence	improves	screening uptake
+uptake	reduces	interval cancers
+interval cancers	have	poorer prognosis
+quality assurance	ensures	image quality
+image quality	affects	diagnostic accuracy
+storage	preserves	mammograms
+electronic health record	stores	imaging data
+data interoperability	enables	trend analysis
+trend analysis	supports	predictive modeling
+predictive modeling	built with	mammography features
+density	used as	risk factor
+risk factor	included in	risk score
+risk score	informs	screening interval
+screening	reduces	mortality
+density	affects	false negative rate
+image artifact	reduces	interpretability
+interpretation	depends on	image quality
+follow-up	scheduled after	abnormal result
+abnormal result	requires	additional testing
+additional testing	includes	biopsy
+pathology	provides	definitive diagnosis
+definitive diagnosis	informs	treatment options
+treatment options	include	surgery
+surgery	affects	reconstruction considerations
+mammography	used in	post-treatment surveillance
+surveillance	aims at	recurrence detection
+recurrence	detected by	mammography
+breast ultrasound	complements	mammography

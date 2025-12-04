@@ -1,0 +1,101 @@
+nephrectomy	is a	surgical procedure
+partial nephrectomy	is a	type of nephrectomy
+radical nephrectomy	is a	type of nephrectomy
+donor nephrectomy	is a	type of nephrectomy
+laparoscopic nephrectomy	is a	form of nephrectomy
+robotic nephrectomy	is a	form of nephrectomy
+open nephrectomy	is a	form of nephrectomy
+nephrectomy	performed for	renal cell carcinoma
+nephrectomy	performed for	kidney cancer
+partial nephrectomy	indicated for	small renal mass
+partial nephrectomy	aims to preserve	renal function
+radical nephrectomy	aims to remove	kidney tumor
+donor nephrectomy	performed for	kidney transplant
+donor nephrectomy	results in	single functioning kidney in donor
+nephrectomy	may cause	acute kidney injury
+nephrectomy	may cause	postoperative pain
+nephrectomy	may cause	blood loss
+nephrectomy	may require	blood transfusion
+nephrectomy	requires	anesthesia
+nephrectomy	uses	general anesthesia
+preoperative imaging	informs	nephrectomy planning
+nephrectomy	follows	preoperative evaluation
+renal cell carcinoma	treated with	nephrectomy
+small renal mass	treated with	partial nephrectomy
+renal tumor	treated with	nephrectomy
+kidney	removed in	nephrectomy
+donor nephrectomy	performed for	kidney transplantation
+laparoscopic nephrectomy	reduces	recovery time
+open nephrectomy	increases	length of stay
+robotic nephrectomy	reduces	blood loss
+minimally invasive nephrectomy	improves	recovery
+nephrectomy	conducted by	surgeon
+surgeon	performs	nephrectomy
+contralateral kidney	compensates for	nephrectomy
+GFR	decreases after	nephrectomy
+creatinine	rises after	nephrectomy
+hypertension	can follow	nephrectomy
+chronic kidney disease	risk increases after	nephrectomy
+renal reserve	is reduced by	nephrectomy
+renal function	declines after	nephrectomy
+nephrectomy	requires	postoperative analgesia
+ureter	may be transected in	nephrectomy
+renal artery	ligated during	nephrectomy
+renal vein	ligated during	nephrectomy
+perinephric fat	removed in	radical nephrectomy
+radical nephrectomy	includes removal of	kidney
+cancer stage	guides	nephrectomy type
+nephrectomy	followed by	hospital discharge
+oncologic outcome	influenced by	nephrectomy type
+partial nephrectomy	associated with	negative margins
+positive margins	indicate	residual tumor
+pediatric nephrectomy	performed for	congenital kidney disease
+renal mass	size determines	nephrectomy choice
+intraoperative bleeding	occurs during	nephrectomy
+nephrectomy	performed under	general anesthesia
+nephrectomy	may be performed via	laparoscopic approach
+laparoscopic nephrectomy	is a	minimally invasive nephrectomy
+robotic nephrectomy	is a	minimally invasive nephrectomy
+open nephrectomy	is a	traditional approach to nephrectomy
+nephrectomy	yields	single functioning kidney
+donor nephrectomy	yields	kidney for transplant
+kidney tumor	is managed with	nephrectomy
+tumor	is located in	kidney
+renal cell carcinoma	margin status	surgical margins
+surgical margins	assessed after	nephrectomy
+renal reserve	reduces after	nephrectomy
+ischemia time	related to	nephrectomy
+ischemia time	affects	nephrectomy outcome
+intraoperative blood loss	correlates with	nephrectomy morbidity
+nephrectomy	impacts	renal circulation
+nephrectomy	done via	laparotomy
+nephrectomy	completed with	anesthesia
+contrast imaging	used in	nephrectomy planning
+nephrectomy	influences	length of stay
+nephrectomy	performed for	solitary kidney tumor
+nephrectomy	used in	kidney donation
+nephrectomy	supports	kidney transplantation
+living donor nephrectomy	is common	among donors
+donor kidney	placed into	recipient
+recipient	undergoes	transplantation
+immunosuppression	required after	transplantation
+imaging follow-up	performed after	nephrectomy
+ultrasound	used for	postoperative surveillance
+CT scan	used for	postoperative surveillance
+pathology	confirms	tumor type
+history	informs	nephrectomy planning
+anesthesia evaluation	performed before	nephrectomy
+infection prophylaxis	given during	nephrectomy
+postoperative rehabilitation	follows	nephrectomy
+hospital stay	length	after nephrectomy
+surgical site	healing	after nephrectomy
+cancer control	depends on	nephrectomy type
+nephrectomy	used for	polycystic kidney disease
+polycystic kidney disease	treated with	nephrectomy
+contralateral hypertrophy	occurs after	nephrectomy
+renal imaging	monitors	nephrectomy outcome
+length of stay	correlates with	surgical approach
+nephrectomy	influences	mortality
+nephrectomy	influences	readmission risk
+length of stay	correlates with	surgical approach
+postoperative infection	risk after	nephrectomy

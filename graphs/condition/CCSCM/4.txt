@@ -1,100 +1,100 @@
-mycoses	caused by	fungi
-mycoses	caused by	dermatophytes
-mycoses	caused by	yeasts
-mycoses	caused by	molds
-mycoses	caused by	dimorphic fungi
-mycoses	transmitted by	spores
-mycoses	transmitted by	airborne particles
-mycoses	included in	superficial mycoses
-mycoses	includes	candidiasis
-mycoses	includes	cryptococcosis
-mycoses	includes	histoplasmosis
-mycoses	includes	aspergillosis
-mycoses	includes	blastomycosis
-mycoses	includes	coccidioidomycosis
-mycoses	treated with	amphotericin B
-mycoses	treated with	fluconazole
-mycoses	treated with	itraconazole
-mycoses	treated with	voriconazole
-mycoses	treated with	posaconazole
-mycoses	treated with	caspofungin
-mycoses	treated with	micafungin
-mycoses	treated with	anidulafungin
-mycoses	treated with	isavuconazole
-mycoses	resistant to	azoles
-mycoses	resistant to	echinocandins
-mycoses	resistant to	amphotericin B
-mycoses	associated with	immunodeficiency
-mycoses	associated with	HIV infection
-mycoses	associated with	diabetes mellitus
-mycoses	associated with	malnutrition
-mycoses	associated with	neutropenia
-mycoses	associated with	corticosteroid use
-mycoses	associated with	chemotherapy
-mycoses	associated with	organ transplantation
-mycoses	more common in	elderly
-mycoses	more common in	children
-mycoses	more common in	tropical regions
-mycoses	more common in	humid climates
-mycoses	more common in	rural areas
-mycoses	more common in	urban areas
-mycoses	seen in	ICU patients
-mycoses	seen in	hospitalized patients
-mycoses	risk factor for	hospitalization
-mycoses	associated with	sepsis
-mycoses	associated with	meningitis
-mycoses	associated with	pneumonia
-mycoses	associated with	endocarditis
-mycoses	associated with	osteomyelitis
-mycoses	associated with	sinusitis
-mycoses	associated with	skin ulcers
-mycoses	associated with	nail infection
-mycoses	associated with	keratitis
-mycoses	disseminate to	central nervous system
-mycoses	disseminate to	bone
-mycoses	disseminate to	eye
-mycoses	cause	tissue necrosis
-mycoses	cause	abscess formation
-mycoses	cause	granulomatous inflammation
-mycoses	cause	necrosis
-mycoses	cause	vascular invasion
-mycoses	diagnosed by	fungal culture
-mycoses	diagnosed by	histopathology
-mycoses	diagnosed by	direct microscopy
-mycoses	diagnosed by	serology
-mycoses	diagnosed by	PCR testing
-mycoses	diagnosed by	antigen testing
-mycoses	monitored by	liver function tests
-mycoses	monitored by	kidney function tests
-mycoses	monitored by	therapeutic drug monitoring
-mycoses	confirmed by	culture
-mycoses	confirmed by	histology
-mycoses	associated with	biofilm formation
-mycoses	associated with	prosthetic device infection
-mycoses	risk factor for	relapse
-mycoses	risk factor for	recurrence
-mycoses	prevented by	antifungal prophylaxis
-mycoses	associated with	prolonged hospitalization
-mycoses	impact on	quality of life
-mycoses	included in	invasive fungal infections
-mycoses	included in	systemic fungal infections
-mycoses	considered	emergent infection
-mycoses	associated with	fever
-mycoses	present as	skin lesion
-mycoses	present as	mucosal infection
-mycoses	present as	pulmonary nodules
-mycoses	present as	sinus obstruction
-mycoses	present as	ocular infection
-mycoses	present as	CNS involvement
-mycoses	cause	electrolyte disturbance
-mycoses	require	prolonged therapy
-mycoses	require	combination therapy
-mycoses	influence	antifungal stewardship
-mycoses	subject to	antifungal prophylaxis
-mycoses	surveillance	fungal infections
-mycoses	global burden	fungal infections
-mycoses	burden of disease	fungal infections
-mycoses	research focus	antifungal vaccines
-mycoses	relevance to	immunology
-mycoses	economic impact	hospitalization costs
-mycoses	public health concern	fungal infections
+mycoses	is a	fungal infection
+mycoses	include	superficial infection
+mycoses	include	cutaneous infection
+mycoses	include	mucocutaneous infection
+mycoses	include	subcutaneous infection
+mycoses	include	systemic infection
+Candida albicans	is a	fungal pathogen
+Candida albicans	causes	mucocutaneous candidiasis
+Aspergillus fumigatus	causes	invasive aspergillosis
+Aspergillus fumigatus	is a	mold
+Cryptococcus neoformans	causes	cryptococcal meningitis
+Histoplasma capsulatum	causes	histoplasmosis
+Coccidioides immitis	causes	coccidioidomycosis
+Blastomyces dermatitidis	causes	blastomycosis
+Pneumocystis jirovecii	causes	Pneumocystis pneumonia
+Candida species	causes	candidemia
+neutropenia	is a risk factor for	mycoses
+HIV infection	is a risk factor for	cryptococcal meningitis
+hematologic malignancy	is a risk factor for	invasive fungal infection
+solid organ transplant	is a risk factor for	invasive fungal infection
+diabetes mellitus	is a risk factor for	mucosal candidiasis
+immunosuppression	is a risk factor for	invasive fungal infection
+age	is a risk factor for	fungal infection
+mycoses	diagnosed by	culture
+mycoses	diagnosed by	tissue biopsy
+KOH preparation	is used for	fungal detection
+galactomannan assay	is a test for	invasive aspergillosis
+beta-D-glucan assay	is a test for	fungal infection
+PCR assay	detects	fungal DNA
+blood culture	yields	fungal organism
+CSF analysis	detects	cryptococcal antigen
+CT scan	shows	nodular infiltrates
+chest radiography	shows	cavitation
+biopsy specimen	yields	histopathology
+mycoses	treated with	antifungal agents
+fluconazole	is a	azole antifungal
+voriconazole	is a	azole antifungal
+itraconazole	is a	azole antifungal
+posaconazole	is a	azole antifungal
+isavuconazole	is a	azole antifungal
+amphotericin B	is a	polyene antifungal
+liposomal amphotericin B	is a	liposomal formulation of amphotericin B
+caspofungin	is a	echinocandin antifungal
+anidulafungin	is a	echinocandin antifungal
+micafungin	is a	echinocandin antifungal
+candidemia	treated with	echinocandin
+histoplasmosis	treated with	itraconazole
+coccidioidomycosis	treated with	fluconazole
+blastomycosis	treated with	itraconazole
+pneumocystis pneumonia	treated with	TMP-SMX
+cryptococcal meningitis	treated with	amphotericin B
+cryptococcal meningitis	treated with	flucytosine
+candidiasis	treated with	fluconazole
+aspergillosis	treated with	voriconazole
+aspergillosis	treated with	liposomal amphotericin B
+amphotericin B	carries	nephrotoxicity
+azole antifungals	cause	hepatotoxicity
+drug interactions	occur with	azole antifungals
+galactomannan assay	has	specificity
+beta-D-glucan assay	has	sensitivity
+invasive fungal infection	increases	mortality
+invasive fungal infection	prolongs	hospital stay
+neutropenia	prolongs	duration of fungemia
+histoplasmosis	endemic in	Ohio and Mississippi valleys
+coccidioidomycosis	endemic in	southwestern United States
+histoplasmosis	presents with	pulmonary symptoms
+pneumocystis pneumonia	presents with	dyspnea
+cryptococcal meningitis	presents with	headache
+candidiasis	presents with	mucosal lesions
+lung involvement	occurs in	pulmonary aspergillosis
+brain involvement	occurs in	cryptococcosis
+immunocompromised status	predisposes to	mycoses
+HIV infection	predisposes to	cryptococcosis
+solid organ transplant recipient	predisposes to	invasive fungal infection
+catheter-related infection	presents with	candidemia
+beta-D-glucan	is a biomarker for	fungal infection
+galactomannan index	correlates with	invasive aspergillosis severity
+improvement	correlates with	antifungal therapy duration
+length of stay	increases with	invasive fungal infection
+mortality	increases with	delayed antifungal therapy
+ICU admission	associated with	invasive fungal infection
+pediatric patient	requires	adjusted antifungal dosing
+Candida auris	is a	multidrug-resistant organism
+Candida auris	causes	candidemia
+intravenous catheter	associated with	candidemia
+broad-spectrum antibiotics	predispose to	Candida overgrowth
+nephrotoxicity	is an adverse effect of	amphotericin B
+hepatic toxicity	is an adverse effect of	azole antifungals
+liposomal formulation of amphotericin B	reduces	nephrotoxicity
+echinocandins	have	activity against Candida
+candida bloodstream infection	requires	source control
+pneumocystis pneumonia	risk increased in	AIDS
+TMP-SMX	used for	Pneumocystis pneumonia
+endemic mycoses	occur in	geographic regions
+mycoses	impact	healthcare costs
+antifungal therapy	requires	careful dosing
+treatment duration	depends on	organism and site
+intravenous therapy	required for	severe fungal infections
+oral therapy	used for	mild fungal infections
+disseminated fungal infection	may require	surgical debridement

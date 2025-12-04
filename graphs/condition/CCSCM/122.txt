@@ -1,100 +1,100 @@
-pneumonia	is a	lung infection
-pneumonia	is caused by	bacteria
-pneumonia	is caused by	virus
+pneumonia	is a	respiratory infection
 pneumonia	caused by	Streptococcus pneumoniae
-pneumonia	caused by	influenza virus
-pneumonia	caused by	aspiration
+pneumonia	caused by	Haemophilus influenzae
+pneumonia	caused by	Klebsiella pneumoniae
+pneumonia	caused by	Pseudomonas aeruginosa
+pneumonia	caused by	Staphylococcus aureus
+pneumonia	caused by	Mycoplasma pneumoniae
+pneumonia	caused by	Chlamydophila pneumoniae
+pneumonia	caused by	Legionella pneumophila
+pneumonia	caused by	Respiratory syncytial virus
+pneumonia	caused by	Influenza virus
+pneumonia	caused by	SARS-CoV-2
+pneumonia	caused by	Pneumocystis jirovecii
+pneumonia	caused by	Aspergillus fumigatus
 pneumonia	presents with	fever
 pneumonia	presents with	cough
 pneumonia	presents with	dyspnea
-pneumonia	presents with	chest pain
+pneumonia	presents with	pleuritic pain
 pneumonia	presents with	tachypnea
-pneumonia	leads to	hypoxemia
+pneumonia	presents with	hypoxemia
+pneumonia	presents with	chest pain
+pneumonia	shows	consolidation on chest radiograph
 pneumonia	diagnosed by	chest radiograph
-pneumonia	diagnosed by	chest x-ray
-pneumonia	diagnosed by	CT scan
+pneumonia	diagnosed by	chest CT scan
 pneumonia	diagnosed by	sputum culture
 pneumonia	diagnosed by	blood culture
-pneumonia	diagnosed by	complete blood count
+pneumonia	diagnosed by	urinary antigen test
+pneumonia	diagnosed by	procalcitonin level
+pneumonia	evaluated by	leukocytosis
+pneumonia	evaluated by	C-reactive protein level
+pneumonia	evaluated by	arterial blood gas
 pneumonia	treated with	antibiotics
-pneumonia	treated with	antivirals
-pneumonia	treated with	steroids
-pneumonia	treated with	oxygen therapy
-pneumonia	treated with	mechanical ventilation
-pneumonia	complication	empyema
-pneumonia	complication	pleural effusion
-pneumonia	complication	sepsis
-pneumonia	complication	acute respiratory distress syndrome
-pneumonia	risk factor	smoking
-pneumonia	risk factor	alcoholism
-pneumonia	risk factor	malnutrition
-pneumonia	risk factor	diabetes mellitus
-pneumonia	risk factor	immunosuppression
-pneumonia	risk factor	COPD
-pneumonia	risk factor	congestive heart failure
-pneumonia	occurs in	winter
-pneumonia	occurs in	winter months
-pneumonia	more common in	children
-pneumonia	radiographic finding	focal consolidation
-pneumonia	radiographic finding	lobar consolidation
-pneumonia	radiographic finding	air bronchograms
-pneumonia vaccine	prevents	pneumonia
-pneumonia	associated with	leukocytosis
-pneumonia	associated with	CRP
-pneumonia	classification	infectious disease
-pneumonia	is a type of	lower respiratory tract infection
-pneumonia	agent	Streptococcus pneumoniae
-pneumonia	agent	Haemophilus influenzae
-pneumonia	agent	Legionella pneumophila
-pneumonia	agent	Klebsiella pneumoniae
-pneumonia	agent	Mycoplasma pneumoniae
-pneumonia	agent	Chlamydophila pneumoniae
-pneumonia	agent	Staphylococcus aureus
-pneumonia	agent	Pseudomonas aeruginosa
-pneumonia	presents with	dehydration
-pneumonia	presents with	confusion
-pneumonia	presents with	fatigue
-pneumonia	diagnosed by	procalcitonin
-pneumonia	treated with	macrolides
-pneumonia	treated with	cephalosporins
+antibiotics	include	beta-lactams
+antibiotics	include	macrolides
+antibiotics	include	doxycycline
 pneumonia	treated with	fluoroquinolones
-pneumonia	treated with	beta-lactams
-pneumonia	severity	CURB-65
-pneumonia	assessed by	CURB-65
-pneumonia	hospital admission	required
-pneumonia	length of stay	increased
-pneumonia	ICU admission	possible
-pneumonia	death risk	high
-pneumonia	mortality	rate
-pneumonia	readmission	risk
-pneumonia	antibiotic stewardship	essential
-pneumonia	vaccination status	up-to-date
-pneumonia	seasonality	winter
-pneumonia	coinfection	influenza
-pneumonia	coinfection	SARS-CoV-2
-pneumonia	seasonality	peak in winter
-pneumonia	differential diagnosis	bronchitis
-pneumonia	differential diagnosis	tuberculosis
-pneumonia	comorbidity	COPD
-pneumonia	comorbidity	congestive heart failure
-pneumonia	outcome	recovery
-pneumonia	outcome	death
-pneumonia	imaging	radiography
-pneumonia	imaging	CT scan
-pneumonia	imaging	ultrasound
-pneumonia	guideline	antibiotic selection
-pneumonia	risk stratification	PSI
-pneumonia	predictor	mortality
-pneumonia	predictor	length of stay
-pneumonia	predictor	need for ventilation
-pneumonia	predictor	hypoxemia
-pneumonia	follow-up	radiograph
-pneumonia	follow-up	clinical improvement
-pneumonia	prevention	influenza vaccine
-pneumonia	prevention	pneumococcal vaccine
-pneumonia	hospitalization determinant	severity
-pneumonia	etiologies	bacteria
-pneumonia	etiologies	viruses
-pneumonia	global burden	mortality
-pneumonia	cost	healthcare burden
-pneumonia	prevention	vaccination
+pneumonia	treated with	amoxicillin
+pneumonia	treated with	amoxicillin-clavulanate
+pneumonia	treated with	azithromycin
+pneumonia	treated with	clarithromycin
+pneumonia	treated with	levofloxacin
+pneumonia	treated with	moxifloxacin
+pneumonia	treated with	piperacillin-tazobactam
+pneumonia	treated with	ceftriaxone
+pneumonia	treated with	vancomycin
+pneumonia	treated with	linezolid
+pneumonia	treated with	oseltamivir
+pneumonia	treated with	corticosteroids
+influenza vaccine	reduces	pneumonia risk
+pneumococcal vaccine	reduces	pneumonia risk
+older adults	at risk for	pneumonia
+smoking	increases	pneumonia risk
+alcohol use	increases	pneumonia risk
+COPD	increases	pneumonia risk
+asthma	increases	pneumonia risk
+diabetes mellitus	increases	pneumonia risk
+chronic kidney disease	increases	pneumonia risk
+liver cirrhosis	increases	pneumonia risk
+congestive heart failure	increases	pneumonia risk
+immunosuppression	increases	pneumonia risk
+HIV infection	increases	pneumonia risk
+malnutrition	increases	pneumonia risk
+aspiration risk	increases	pneumonia risk
+poor dentition	increases	pneumonia risk
+pneumonia	complication	empyema
+pneumonia	complication	septic shock
+pneumonia	complication	acute respiratory distress syndrome
+pneumonia	outcome	mortality
+pneumonia	outcome	longer length of stay
+pneumonia	leads to	ICU admission
+pneumonia	requires	hospitalization
+pneumonia	increases	healthcare utilization
+pneumonia	more common in	elderly population
+Pseudomonas aeruginosa	associated with	ventilator-associated pneumonia
+Staphylococcus aureus	associated with	empyema
+Legionella pneumophila	detected by	urinary antigen test
+Streptococcus pneumoniae	detected by	urinary antigen test
+Pneumocystis jirovecii	treated with	trimethoprim-sulfamethoxazole
+Aspergillus fumigatus	treated with	voriconazole
+pneumonia	progresses to	acute respiratory distress syndrome
+pneumonia	associated with	pleural effusion
+advanced age	increases	pneumonia risk
+immunocompromised status	increases	pneumonia risk
+pneumonia	treated in	intensive care unit
+pneumonia	requires	mechanical ventilation
+Pseudomonas aeruginosa	associated with	ventilator-associated pneumonia
+Staphylococcus aureus	associated with	empyema
+Legionella pneumophila	detected by	urinary antigen test
+Streptococcus pneumoniae	detected by	urinary antigen test
+Pneumocystis jirovecii	treated with	trimethoprim-sulfamethoxazole
+Aspergillus fumigatus	treated with	voriconazole
+pneumonia prognosis	worse with	advanced age
+influenza vaccination	reduces	pneumonia incidence
+pneumococcal vaccination	reduces	pneumococcal pneumonia incidence
+older adults	priority for	pneumonia vaccination
+elderly population	at increased risk for	pneumonia
+urinary antigen test	helps	Legionella detection
+urinary antigen test	helps	Streptococcus pneumoniae detection
+blood culture	recommended for	severe pneumonia
+oxygen therapy	improves	hypoxemia

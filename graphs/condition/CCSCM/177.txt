@@ -1,100 +1,54 @@
-spontaneous abortion	is a	miscarriage
 spontaneous abortion	is a	pregnancy loss
 spontaneous abortion	occurs in	first trimester
-spontaneous abortion	caused by	chromosomal abnormality
-spontaneous abortion	associated with	advanced maternal age
-spontaneous abortion	associated with	smoking
-spontaneous abortion	associated with	obesity
-spontaneous abortion	associated with	diabetes mellitus
-spontaneous abortion	associated with	thyroid disease
-spontaneous abortion	associated with	antiphospholipid syndrome
-chromosomal abnormality	is a	common cause of spontaneous abortion
+fetal chromosomal abnormality	is a	common cause of spontaneous abortion
+chromosomal abnormality	is a	cause of spontaneous abortion
 advanced maternal age	increases risk for	spontaneous abortion
-uterine anomaly	predisposes to	spontaneous abortion
-uterine fibroid	associated with	spontaneous abortion
-asherman syndrome	causes	spontaneous abortion
-antiphospholipid syndrome	predisposes to	pregnancy loss
-infection	is a risk factor for	spontaneous abortion
-autoimmune disease	is a risk factor for	spontaneous abortion
-diabetes mellitus	is a risk factor for	spontaneous abortion
-thyroid disease	is a risk factor for	spontaneous abortion
-progesterone deficiency	is a risk factor for	spontaneous abortion
-maternal obesity	is a risk factor for	spontaneous abortion
-smoking	is a risk factor for	spontaneous abortion
-alcohol use	is a risk factor for	spontaneous abortion
-family history	is a risk factor for	spontaneous abortion
-transvaginal ultrasound	evaluates	viability of spontaneous abortion
-hCG	is a marker for	pregnancy viability
-ultrasound	shows	nonviable pregnancy
-beta-hCG	declines after	embryonic demise
-medical management	includes	misoprostol
-surgical management	includes	suction curettage
-expectant management	is option for	miscarriage
-misoprostol	is used for	medical management of spontaneous abortion
-suction curettage	is used for	surgical management of spontaneous abortion
-dilation and curettage	is a procedure for	spontaneous abortion
-retained products of conception	cause	postabortion bleeding
-incomplete abortion	is a complication of	spontaneous abortion
-septic abortion	is a severe complication of	spontaneous abortion
-postabortion infection	is a complication of	spontaneous abortion
-postabortion syndrome	is a psychological consequence of	spontaneous abortion
-grief	is a psychological outcome of	spontaneous abortion
-hospital admission	is a consequence of	septic abortion
-readmission	is a risk after	spontaneous abortion
-mortality	is low in	spontaneous abortion
-future fertility	is affected by	spontaneous abortion
-recurrent pregnancy loss	defined as	two or more pregnancy losses
-karyotype analysis	is performed for	recurrent pregnancy loss
-genetic testing	is performed for	recurrent pregnancy loss
-fetal loss	is a form of	pregnancy loss
-antibody testing	is performed for	antiphospholipid syndrome
-anticoagulant therapy	is used for	antiphospholipid syndrome associated pregnancy loss
-heparin therapy	is used for	antiphospholipid syndrome related pregnancy loss
-aspirin therapy	is used for	antiphospholipid syndrome related pregnancy loss
-folic acid supplementation	reduces risk of	spontaneous abortion
-progesterone therapy	is used for	threatened abortion
-creatinine	is monitored for	pregnancy loss complications
-luteal support	is provided for	threatened abortion
-uterine artery Doppler	is used for	evaluating pregnancy viability
-pelvic ultrasound	is used for	confirming spontaneous abortion
-blood counts	are monitored for	abortion complications
-intrauterine infection	is a risk factor for	spontaneous abortion
-autoimmune thrombophilia	is associated with	spontaneous abortion
-thrombophilia	is associated with	spontaneous abortion
-proinflammatory cytokines	are elevated in	spontaneous abortion
-gestational age	is a factor in	spontaneous abortion
-fetal death	occurs in	spontaneous abortion
-embryonic demise	is a description of	spontaneous abortion
-bleeding	is a symptom of	spontaneous abortion
-cramping	is a symptom of	spontaneous abortion
-vaginal bleeding	is a symptom of	spontaneous abortion
-pelvic pain	is a symptom of	spontaneous abortion
-cervical dilation	is a sign of	spontaneous abortion
-uterine contraction	is a sign of	spontaneous abortion
-beta-hCG pattern	indicates	nonviable pregnancy
-thrombophilia testing	is recommended for	recurrent pregnancy loss
-genetic counseling	is recommended for	recurrent pregnancy loss
-parity	is associated with	spontaneous abortion
-previous pregnancy loss	increases risk for	spontaneous abortion
-future pregnancy monitoring	is required after	spontaneous abortion
-spontaneous abortion history	increases risk for	future miscarriage
-antibiotic therapy	is used for	septic abortion
-shock management	is required for	septic abortion
-psychological support	is recommended after	spontaneous abortion
-social support	is beneficial after	spontaneous abortion
-contraception planning	is important after	spontaneous abortion
-iron supplementation	is advised after	heavy bleeding in abortion
-transfusion	is required for	severe hemorrhage after spontaneous abortion
-analgesia	is used for	pain in spontaneous abortion
-patient education	is important after	miscarriage
-follow-up visits	are needed after	abortion
-fertility counseling	is important after	spontaneous abortion
-pregnancy planning	after recovery	is recommended
-vaccination status	should be updated after	abortion
-occupational exposure	is a risk factor for	spontaneous abortion
-environmental toxin exposure	risks are discussed in	spontaneous abortion
-smoking cessation	is recommended after	abortion
-nutrition counseling	is advised after	abortion
-maternal mental health	should be screened after	spontaneous abortion
-reproductive referral	is considered after	recurrent loss
-repeat curettage risk	is discussed with patient after	abortion
+smoking	increases risk for	spontaneous abortion
+obesity	increases risk for	spontaneous abortion
+diabetes mellitus	increases risk for	spontaneous abortion
+hypertension	increases risk for	spontaneous abortion
+uterine anomaly	is a	risk factor for spontaneous abortion
+antiphospholipid syndrome	is associated with	spontaneous abortion
+systemic lupus erythematosus	is associated with	spontaneous abortion
+thrombophilia	associated with	spontaneous abortion
+infection	associated with	spontaneous abortion
+recurrent pregnancy loss	defined as	multiple spontaneous abortions
+hCG	declines after	spontaneous abortion
+vaginal bleeding	accompanies	spontaneous abortion
+abdominal pain	accompanies	spontaneous abortion
+cramping	accompanies	spontaneous abortion
+fetal heartbeat	absent in	spontaneous abortion
+ultrasound	detects	nonviable pregnancy
+spontaneous abortion	diagnosed by	ultrasound
+spontaneous abortion	managed with	expectant management
+spontaneous abortion	managed with	medical management
+spontaneous abortion	managed with	surgical evacuation
+medical management	uses	misoprostol
+misoprostol	used for	medical management
+dilation and curettage	used for	surgical management
+surgical evacuation	removes	products of conception
+retained products of conception	can occur after	spontaneous abortion
+retained products of conception	require	surgical removal
+incomplete abortion	defined as	partial expulsion of products of conception
+complete abortion	defined as	complete expulsion of products of conception
+rh immunoglobulin	given after	spontaneous abortion in Rh-negative mother
+Rh-negative mother	should receive	rh immunoglobulin after spontaneous abortion
+spontaneous abortion	can lead to	emotional distress
+psychological distress	occurs after	spontaneous abortion
+counseling	provided after	spontaneous abortion
+support	provided after	spontaneous abortion
+time to conception	after spontaneous abortion	may be normal
+fertility	returns after	spontaneous abortion
+future pregnancy outcome	may be influenced by	prior spontaneous abortion
+genetic counseling	offered after	spontaneous abortion
+conception planning	discussed after	spontaneous abortion
+thrombophilia screen	considered after	spontaneous abortion
+thyroid disease	associated with	spontaneous abortion
+autoimmune disease	associated with	spontaneous abortion
+antibody testing	performed after	spontaneous abortion
+product of conception	expelled in	complete abortion
+placental tissue	expelled with	products of conception
+uterine lining	regenerates after	spontaneous abortion
+ovulation	resumes after	spontaneous abortion
+menses	resumes after	spontaneous abortion
+recurrent pregnancy loss	increases	future risk of	pregnancy loss

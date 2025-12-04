@@ -1,0 +1,97 @@
+cystocele	is a type of	pelvic organ prolapse
+rectocele	is a type of	pelvic organ prolapse
+vaginal vault	is part of	pelvic anatomy
+cystocele	coexists with	rectocele
+cystocele	associated with	anterior vaginal wall defect
+rectocele	associated with	posterior vaginal wall defect
+cystocele	presents with	stress urinary incontinence
+rectocele	presents with	defecatory dysfunction
+pelvic floor disorder	includes	cystocele
+pelvic floor disorder	includes	rectocele
+repair	is a	surgical procedure
+cystocele repair	is a	surgical procedure
+rectocele repair	is a	surgical procedure
+repair of cystocele and rectocele	is a	surgical procedure
+anterior repair	is a type of	pelvic floor repair
+posterior repair	is a type of	pelvic floor repair
+anterior vaginal wall defect	is associated with	cystocele
+posterior vaginal wall defect	is associated with	rectocele
+cystocele	treated by	repair of cystocele and rectocele
+rectocele	treated by	repair of cystocele and rectocele
+pelvic organ prolapse	treated by	pelvic floor repair
+pelvic floor repair	treats	pelvic organ prolapse
+hysterectomy	increases risk for	vaginal vault prolapse
+vaginal vault prolapse	is a form of	vaginal prolapse
+colpocleisis	is a type of	obliteration procedure
+obliteration of vaginal vault	is a type of	colpocleisis
+colpocleisis	is performed for	elderly prolapse
+obliteration of vaginal vault	results in	vaginal canal closure
+vaginal vault	is closed by	obliteration of vaginal vault
+vaginal vault	is occluded by	obliteration of vaginal vault
+pelvic floor repair	aims for	anatomical restoration
+anatomical restoration	is the goal of	pelvic floor repair
+anterior repair	reduces	anterior vaginal wall defect
+posterior repair	reduces	posterior vaginal wall defect
+anterior repair	improves	cystocele
+posterior repair	improves	rectocele
+mesh	used for	pelvic floor repair
+mesh augmentation	used for	anterior repair
+mesh augmentation	used for	posterior repair
+pessary	used for	prolapse management
+pessary	provides	vaginal support
+colpocleisis	leads to	vaginal canal closure
+vaginal canal closure	results from	colpocleisis
+defecatory dysfunction	can persist after	rectocele repair
+urinary incontinence	can improve after	cystocele repair
+fecal incontinence	can improve after	rectocele repair
+recurrent prolapse	occurs after	pelvic floor repair
+postoperative infection	is a complication of	pelvic floor repair
+bleeding	is a complication of	pelvic floor repair
+thromboembolism	is a complication of	pelvic floor repair
+anesthesia	used for	pelvic floor repair
+general anesthesia	used for	pelvic floor repair
+regional anesthesia	used for	pelvic floor repair
+blood loss	occurs during	pelvic floor repair
+length of stay	varies after	pelvic floor repair
+recurrence	occurs after	repair of cystocele and rectocele
+postoperative pain	is a complication of	pelvic floor repair
+analgesia	used for	postoperative pain management
+postoperative pain management	uses	analgesia
+urinary retention	can occur after	pelvic floor repair
+dysuria	can occur after	pelvic floor repair
+vaginal discharge	can occur after	pelvic floor repair
+mesh erosion	is a complication of	mesh augmentation
+vaginal cuff	is affected by	obliteration of vaginal vault
+sexual function	may be affected by	colpocleisis
+elderly patients	are candidates for	obliteration of vaginal vault
+vaginal intercourse	is not possible after	obliteration of vaginal vault
+pelvic floor repair	can be performed with	anterior repair
+pelvic floor repair	can be performed with	posterior repair
+cystocele repair	reduces	urinary incontinence
+rectocele repair	reduces	fecal incontinence
+anterior vaginal wall defect	resolves with	anterior repair
+posterior vaginal wall defect	resolves with	posterior repair
+vaginal bulge	indicates	prolapse severity
+prolapse severity	is assessed by	pelvic exam
+pelvic exam	documents	prolapse
+imaging	informs	prolapse assessment
+prolapse assessment	uses	imaging
+preoperative planning	uses	imaging
+imaging	guides	surgical choice
+vaginal wall defect	persists after	repair
+vaginal wall defect	is corrected by	repair
+vault prolapse	is a form of	vaginal prolapse
+vault prolapse	can be affected by	pelvic floor repair
+colpocleisis	changes	vaginal anatomy
+colpocleisis	contraindicated in	sexually active patients
+sexual activity	reduced by	obliteration of vaginal vault
+obstetric history	influences	prolapse severity
+aging	increases risk for	pelvic organ prolapse
+obesity	increases risk for	pelvic organ prolapse
+parity	increases risk for	pelvic organ prolapse
+postoperative rehabilitation	includes	physical therapy
+physical therapy	supports	pelvic floor rehabilitation
+pelvic floor rehabilitation	improves	pelvic floor strength
+prolapse grade	corresponds to	pelvic exam
+prolapse grade	influences	surgical choice
+overall prognosis	depends on	surgical technique

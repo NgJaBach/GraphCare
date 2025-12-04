@@ -1,0 +1,100 @@
+eye	is a	organ
+ear	is a	organ
+glaucoma	is a	disease
+cataract	is a	disease
+macular degeneration	is a	disease
+diabetic retinopathy	is a	disease
+conjunctivitis	is a	disease
+keratitis	is a	disease
+uveitis	is a	disease
+retinal detachment	is a	emergency
+optic neuritis	is a	disease
+dry eye	is a	syndrome
+blepharitis	is a	disease
+ptosis	is a	condition
+strabismus	is a	disorder
+amblyopia	is a	disorder
+vitreous hemorrhage	is a	condition
+corneal edema	is a	condition
+ocular hypertension	is a	condition
+glaucoma	causes	optic neuropathy
+cataract	causes	visual impairment
+macular degeneration	causes	central vision loss
+diabetic retinopathy	causes	vision loss
+retinal detachment	leads to	vision loss
+conjunctivitis	presents with	redness
+uveitis	presents with	eye pain
+dry eye	presents with	foreign body sensation
+blepharitis	associated with	dermatitis
+ptosis	associated with	myopathy
+strabismus	associated with	amblyopia
+amblyopia	treated with	occlusion therapy
+glaucoma	treated with	prostaglandin analogs
+glaucoma	treated with	beta blockers
+glaucoma	treated with	carbonic anhydrase inhibitors
+cataract	treated with	cataract surgery
+macular degeneration	treated with	anti-VEGF therapy
+diabetic retinopathy	treated with	laser therapy
+diabetic retinopathy	treated with	anti-VEGF therapy
+diabetic retinopathy	diagnosed by	fundus photography
+retinal detachment	diagnosed by	ultrasound
+retinal detachment	diagnosed by	dilated eye exam
+optic neuritis	diagnosed by	magnetic resonance imaging
+uveitis	diagnosed by	slit lamp examination
+dry eye	diagnosed by	tear film osmolarity
+blepharitis	diagnosed by	eyelid examination
+ptosis	diagnosed by	eyelid examination
+strabismus	diagnosed by	cover test
+amblyopia	diagnosed by	visual acuity test
+eye	involved in	ocular emergency
+cataract	causes	decreased visual acuity
+glaucoma	increases	intraocular pressure
+intraocular pressure	regulated by	aqueous humor dynamics
+cataract	treated with	lens removal
+retinal detachment	treated with	vitrectomy
+macular degeneration	treated with	anti-VEGF injection
+uveitis	treated with	corticosteroids
+uveitis	treated with	immunosuppressants
+keratitis	treated with	antivirals
+keratitis	treated with	antibiotics
+conjunctivitis	treated with	antihistamines
+blepharitis	treated with	lid hygiene
+dry eye	treated with	artificial tears
+dry eye	treated with	cyclosporine eye drops
+ptosis	corrected by	blepharoplasty
+strabismus	corrected by	strabismus surgery
+amblyopia	treated with	patching therapy
+optic neuritis	treated with	corticosteroids
+retinal detachment	prevented by	laser therapy
+macular degeneration	prevented by	smoking cessation
+diabetic retinopathy	prevented by	glycemic control
+glaucoma	prevented by	regular eye exams
+eye exam	used for	diagnosis
+fundus photography	used for	diagnosis
+ophthalmoscopy	used for	diagnosis
+audiometry	used for	hearing assessment
+tympanometry	used for	middle ear assessment
+hearing loss	associated with	aging
+sensorineural hearing loss	diagnosed by	audiometry
+conductive hearing loss	diagnosed by	tympanometry
+tinnitus	presents with	phantom sounds
+vertigo	presents with	spinning sensation
+Meniere disease	presents with	episodic vertigo
+otitis media	presents with	ear pain
+otitis externa	presents with	otorrhea
+otitis media	treated with	antibiotics
+hearing loss	treated with	hearing aids
+sensorineural hearing loss	treated with	cochlear implant
+cholesteatoma	treated with	surgical removal
+tympanic membrane perforation	treated with	tympanoplasty
+otitis media	treated with	tympanostomy tubes
+otitis externa	treated with	topical antibiotics
+Meniere disease	diagnosed by	audiometry
+Meniere disease	diagnosed by	caloric testing
+visual acuity	tested by	Snellen chart
+intraocular pressure	measured by	tonometry
+tonometry	used for	glaucoma assessment
+retinal vein occlusion	associated with	hypertension
+diabetic retinopathy	associated with	hypertension
+uveitis	associated with	autoimmune disease
+eye	condition with	injury

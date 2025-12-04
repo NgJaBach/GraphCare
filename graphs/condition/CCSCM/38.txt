@@ -1,100 +1,100 @@
-non-Hodgkin lymphoma	is a	cancer
-diffuse large B-cell lymphoma	is a	non-Hodgkin lymphoma
-follicular lymphoma	is a	non-Hodgkin lymphoma
-mantle cell lymphoma	is a	non-Hodgkin lymphoma
-burkitt lymphoma	is a	non-Hodgkin lymphoma
-marginal zone lymphoma	is a	non-Hodgkin lymphoma
-extranodal marginal zone lymphoma	is a	non-Hodgkin lymphoma
-primary mediastinal large B-cell lymphoma	is a	non-Hodgkin lymphoma
-T-cell lymphoma	is a	non-Hodgkin lymphoma
-diffuse large B-cell lymphoma	originates from	B cells
-follicular lymphoma	originates from	germinal center B cells
-mantle cell lymphoma	originates from	mantle zone B cells
-burkitt lymphoma	originates from	germinal center B cells
-marginal zone lymphoma	originates from	marginal zone B cells
-extranodal marginal zone lymphoma	originates from	marginal zone B cells
-non-Hodgkin lymphoma	associated with	immunodeficiency
-non-Hodgkin lymphoma	associated with	HIV infection
-non-Hodgkin lymphoma	associated with	autoimmune disease
-non-Hodgkin lymphoma	associated with	Epstein-Barr virus
-non-Hodgkin lymphoma	associated with	hepatitis C virus
-non-Hodgkin lymphoma	risk factors	older age
-non-Hodgkin lymphoma	risk factors	male sex
-lymph node biopsy	used for	diagnosis
-immunohistochemistry	used for	diagnosis of non-Hodgkin lymphoma
-immunohistochemistry	used for	classification of non-Hodgkin lymphoma
-flow cytometry	used for	classification of non-Hodgkin lymphoma
-bone marrow biopsy	used for	staging of non-Hodgkin lymphoma
-PET-CT	used for	staging of non-Hodgkin lymphoma
-Ann Arbor staging	used for	non-Hodgkin lymphoma
+non-hodgkin`s lymphoma	is a	cancer
+non-hodgkin`s lymphoma	is a	hematologic malignancy
+non-hodgkin`s lymphoma	has subtypes	diffuse large B-cell lymphoma
+non-hodgkin`s lymphoma	has subtypes	follicular lymphoma
+non-hodgkin`s lymphoma	has subtypes	mantle cell lymphoma
+non-hodgkin`s lymphoma	has subtypes	marginal zone lymphoma
+non-hodgkin`s lymphoma	has subtypes	Burkitt lymphoma
+non-hodgkin`s lymphoma	has subtypes	small lymphocytic lymphoma
+non-hodgkin`s lymphoma	has subtypes	peripheral T-cell lymphoma
+non-hodgkin`s lymphoma	is associated with	immunosuppression
+non-hodgkin`s lymphoma	is associated with	HIV infection
+non-hodgkin`s lymphoma	is associated with	autoimmune disease
+non-hodgkin`s lymphoma	is associated with	Epstein-Barr virus
+non-hodgkin`s lymphoma	is associated with	hepatitis C virus
+non-hodgkin`s lymphoma	is diagnosed by	tissue biopsy
+non-hodgkin`s lymphoma	is diagnosed by	immunophenotyping
+non-hodgkin`s lymphoma	is diagnosed by	flow cytometry
+non-hodgkin`s lymphoma	is diagnosed by	PET-CT
+non-hodgkin`s lymphoma	presents with	lymphadenopathy
+non-hodgkin`s lymphoma	presents with	fever
+non-hodgkin`s lymphoma	presents with	night sweats
+non-hodgkin`s lymphoma	presents with	weight loss
+stage	influences	treatment decisions
+stage	determines	prognosis
+IPI score	stratifies	risk group
+beta-2 microglobulin	is a	prognostic marker
+LDH	is a	prognostic marker
+survival	depends on	stage
+autologous stem cell transplant	is a	treatment option
+chemotherapy	is a	treatment option
+radiation therapy	is a	treatment option
+R-CHOP regimen	is a	standard therapy
+R-EPOCH regimen	is a	alternative therapy
+bendamustine	is a	chemotherapy agent
+rituximab	is a	monoclonal antibody
+ibrutinib	is a	targeted therapy
+carboplatin	is a	chemotherapy agent
+tissue biopsy	confirms	non-hodgkin`s lymphoma
+immunohistochemistry	shows	CD20 expression
+flow cytometry	shows	CD19 expression
+imaging	used for	staging
+bone marrow biopsy	assesses	bone marrow involvement
+bone marrow involvement	worsens	prognosis
+B symptoms	indicate	systemic disease
+HIV infection	increases	NHL risk
+immunosuppression	increases	NHL risk
+autoimmune disease	increases	NHL risk
+Epstein-Barr virus	associated with	Burkitt lymphoma
+EBV infection	linked to	NHL subtypes
+pediatric patient	presents with	NHL
+pediatric NHL	occurs in	children
+chemotherapy toxicity	leads to	cytopenias
+cytopenias	cause	infection risk
+neutropenia	increases	infection risk
+tumor lysis syndrome	occurs with	high tumor burden
+high tumor burden	predicts	poor prognosis
+PET-CT	assesses	metabolic activity
+complete response	indicates	remission
+partial response	indicates	response to therapy
+relapse	occurs after	initial response
+progression	indicates	therapy failure
+central nervous system involvement	indicates	advanced disease
 Ann Arbor staging	defines	disease extent
-non-Hodgkin lymphoma	treated with	chemotherapy
-non-Hodgkin lymphoma	treated with	rituximab
-non-Hodgkin lymphoma	treated with	radiotherapy
-diffuse large B-cell lymphoma	treated with	R-CHOP
-follicular lymphoma	treated with	rituximab
-diffuse large B-cell lymphoma	treated with	autologous stem cell transplantation
-diffuse large B-cell lymphoma	treated with	CAR T-cell therapy
-non-Hodgkin lymphoma	treated with	targeted therapy
-non-Hodgkin lymphoma	treated with	hematopoietic stem cell transplantation
-non-Hodgkin lymphoma	treated with	radiochemotherapy
-rituximab	causes	B-cell depletion
-rituximab	enhances	antibody-dependent cellular cytotoxicity
-cyclophosphamide	part of	CHOP regimen
-doxorubicin	part of	CHOP regimen
-vincristine	part of	CHOP regimen
-prednisone	part of	CHOP regimen
-R-CHOP	associated with	complete response rate
-R-CHOP	associated with	overall survival
-R-CHOP	associated with	neutropenia
-R-CHOP	associated with	neuropathy
-CAR T-cell therapy	used for	relapsed non-Hodgkin lymphoma
-intrathecal methotrexate	used for	CNS prophylaxis
-ibrutinib	used for	mantle cell lymphoma
-ibrutinib	used for	CLL/SLL
-bendamustine	used for	indolent non-Hodgkin lymphoma
-rituximab	used for	CD20-positive lymphoma
-bortezomib	used for	mantle cell lymphoma
-lenalidomide	used for	follicular lymphoma
-dexamethasone	used for	NHL therapy
-etoposide	used for	NHL chemotherapy
-bleomycin	used for	NHL chemotherapy
-cyclophosphamide	used for	NHL chemotherapy
-maintenance rituximab	used for	long-term NHL control
-auto SCT	used for	consolidation in NHL
-intravenous immunoglobulin	used for	supportive care in NHL
-paraneoplastic syndrome	seen with	NHL
-Hodgkin lymphoma	is different from	non-Hodgkin lymphoma
-EBV-associated NHL	is a subset of	non-Hodgkin lymphoma
-immunodeficiency-associated NHL	is a subset of	non-Hodgkin lymphoma
-limited stage NHL	tends to have	better prognosis
-advanced stage NHL	tends to have	poorer prognosis
-double-hit lymphoma	is a	high-grade NHL
-double-hit lymphoma	characterized by	MYC and BCL2 rearrangements
-indolent NHL	shows	slow progression
-high-grade NHL	shows	rapid progression
-B symptoms	present with	NHL
-bone marrow involvement	indicates	systemic disease
-peripheral blood involvement	indicates	dissemination
-CNS involvement	indicates	CNS disease
-CNS prophylaxis	recommended for	high-risk NHL
-Hodgkin lymphoma	is distinguished from	non-Hodgkin lymphoma
-EBV-associated NHL	is a subset of	non-Hodgkin lymphoma
-immunodeficiency-associated NHL	is a subset of	non-Hodgkin lymphoma
-overexpression of BCL2	observed in	follicular lymphoma
-gene expression profiling	informs	classification of NHL
-cytogenetics	informs	prognosis of NHL
-CD20 expression	influences	rituximab efficacy
-myc rearrangement	associated with	Burkitt lymphoma
-BCL2 rearrangements	seen in	follicular lymphoma
-Ki-67 index	predicts	proliferative activity
-t(14;18) translocation	characteristic of	follicular lymphoma
-B symptoms	define	clinical presentation
-staging	informs	prognosis
-maxillary involvement	rare in	non-Hodgkin lymphoma
-testicular involvement	occurs in	non-Hodgkin lymphoma
-extranodal involvement	common in	non-Hodgkin lymphoma
-gastric MALT lymphoma	arises in	stomach
-overexpression of BCL2	observed in	follicular lymphoma
-CAR T-cell therapy	associated with	cytokine release syndrome
-non-Hodgkin lymphoma	screened by	whole-body imaging
+staging	uses	Ann Arbor system
+prognosis	varies by	subtype
+diffuse large B-cell lymphoma	is a	aggressive subtype
+follicular lymphoma	is a	indolent lymphoma
+mantle cell lymphoma	is a	aggressive lymphoma
+marginal zone lymphoma	is a	indolent lymphoma
+Burkitt lymphoma	is a	highly aggressive lymphoma
+small lymphocytic lymphoma	is a	low-grade lymphoma
+peripheral T-cell lymphoma	is a	rare NHL subtype
+rituximab	targets	CD20 antigen
+CD20 antigen	expressed on	B-cell lymphomas
+B-cell lymphomas	express	CD20 antigen
+progression-free survival	is an	endpoint
+overall survival	is an	endpoint
+PET-CT	used for	response assessment
+immunochemotherapy	is a	combination therapy
+autologous transplant	improves	progression-free survival
+clinical trial	investigates	new therapies
+new therapy	shows	efficacy
+therapy response	measured by	imaging
+imaging response	correlates with	survival
+cytogenetic abnormality	predicts	prognosis
+t(14;18) translocation	found in	follicular lymphoma
+MYC translocation	associated with	Burkitt lymphoma
+BCL2 rearrangement	associated with	follicular lymphoma
+CD10 expression	observed in	follicular lymphoma
+beta-2 microglobulin	elevated in	NHL
+intrathecal chemotherapy	used for	CNS prophylaxis
+CNS prophylaxis	used in	high-risk NHL
+relapse risk	depends on	subtype
+age	impacts	treatment tolerance
+comorbidity	affects	treatment choice
+nutritional status	affects	immune function
+infection risk	increases	hospitalization
+hospitalization	associated with	chemotherapy toxicity
+healthcare cost	increases	management of NHL
+quality of life	impacts	patient well-being

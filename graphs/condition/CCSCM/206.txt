@@ -1,0 +1,99 @@
+osteoporosis	is a	metabolic bone disease
+osteoporosis	characterized by	reduced bone mass
+osteoporosis	characterized by	porous bones
+osteoporosis	increases risk of	fragility fracture
+osteoporosis	leads to	vertebral fracture
+osteoporosis	leads to	hip fracture
+osteoporosis	diagnosed by	DEXA scan
+osteoporosis	diagnosed by	bone mineral density test
+DEXA scan	measures	bone mineral density
+bone mineral density	assessed by	T-score
+osteoporosis	treated with	bisphosphonates
+osteoporosis	treated with	denosumab
+osteoporosis	treated with	teriparatide
+osteoporosis	treated with	raloxifene
+osteoporosis	treated with	calcium supplementation
+osteoporosis	treated with	vitamin D supplementation
+bisphosphonates	decrease	bone turnover
+bisphosphonates	associated with	osteonecrosis of the jaw
+bisphosphonates	associated with	atypical femoral fracture
+denosumab	reduces	vertebral fracture risk
+denosumab	inhibits	RANKL
+teriparatide	increases	bone formation
+raloxifene	reduces	vertebral fracture risk
+calcium supplementation	supports	bone density
+calcium supplementation	recommended for	osteoporosis management
+vitamin D supplementation	recommended for	osteoporosis management
+glucocorticoid therapy	increases risk of	osteoporosis
+corticosteroid use	increases risk of	osteoporosis
+menopause	increases risk of	osteoporosis
+age	increases risk of	osteoporosis
+women	have higher risk of	osteoporosis
+smoking	increases	osteoporosis risk
+alcohol use	increases	osteoporosis risk
+sedentary lifestyle	increases	osteoporosis risk
+weight-bearing exercise	improves	bone density
+weight-bearing exercise	reduces	fracture risk
+physical activity	reduces	falls risk
+DEXA screening	recommended for	postmenopausal women
+bone density loss	predicts	fracture risk
+osteoporosis	associated with	increased mortality after fracture
+osteoporosis	increases risk for	vertebral compression fracture
+osteoporosis	increases risk for	hip fracture
+older adults	include	postmenopausal women
+postmenopausal women	at higher risk for	osteoporosis
+bone turnover marker	used for	monitoring osteoporosis therapy
+CTX	is a	bone resorption marker
+P1NP	is a	bone formation marker
+osteoporosis management	includes	calcium supplementation
+osteoporosis management	includes	vitamin D supplementation
+osteoporosis management	includes	exercise therapy
+calcium	essential for	bone health
+vitamin D	essential for	calcium absorption
+parathyroid hormone	regulates	calcium homeostasis
+bone density testing	monitors	osteoporosis progression
+vertebral fracture	indicates	osteoporosis severity
+osteoporosis	affects	quality of life
+osteoporosis	influences	fall risk
+calcium intake	correlates with	bone density
+physical therapy	reduces	fall risk
+bisphosphonate therapy	requires	renal function monitoring
+renal function	influences	bisphosphonate eligibility
+zoledronic acid	is a	bisphosphonate
+alendronate	is a	bisphosphonate
+risedronate	is a	bisphosphonate
+denosumab	is a	monoclonal antibody
+monoclonal antibody	targets	RANKL
+osteoporosis	screened for	secondary causes
+secondary osteoporosis	includes	thyroid disease
+thyroid disease	contributes to	osteoporosis
+osteoporosis	worsened by	malnutrition
+osteoporosis	improved by	nutrition optimization
+humoral factors	regulate	bone remodeling
+bone remodeling	involves	osteoclasts
+osteoclasts	resorb	bone
+osteoporosis	worsened by	chronic kidney disease
+rheumatoid arthritis	predisposes to	osteoporosis
+thyroid disease	predisposes to	osteoporosis
+hypovitaminosis D	predisposes to	osteoporosis
+calcium intake	reduces	fracture risk
+vitamin D deficiency	increases risk of	osteoporosis
+bone density	decreases with	age
+senile osteoporosis	is a	variant of osteoporosis
+bone density testing	notifies	osteoporosis progression
+therapy adherence	influences	fracture risk reduction
+fracture risk reduction	achieved by	osteoporosis therapies
+pain	associated with	vertebral fractures
+mobility	declines with	vertebral fractures
+quality of life	declines with	fractures
+healthcare cost	increases with	osteoporosis-related fractures
+falls	trigger	fractures
+secondary osteoporosis	caused by	malabsorption
+parathyroid hormone therapy	used for	osteoporosis management
+teriparatide	is a	PTH analog
+sarcopenia	coexists with	osteoporosis
+osteoporosis	associated with	frailty
+calcium supplementation	reduces	fracture risk
+vitamin D sufficiency	improves	bone health
+exercise therapy	reduces	fracture risk
+renal function impairment	modifies	osteoporosis management

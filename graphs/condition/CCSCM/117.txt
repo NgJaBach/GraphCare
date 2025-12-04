@@ -1,110 +1,100 @@
-other circulatory disease	is a	cardiovascular disease
-other circulatory disease	is a	vascular disease
-other circulatory disease	may cause	heart failure
-other circulatory disease	may cause	arrhythmia
-other circulatory disease	increases risk for	stroke
-other circulatory disease	increases risk for	myocardial infarction
-other circulatory disease	risk factor for	hypertension
-other circulatory disease	risk factor for	diabetes mellitus
+other circulatory disease	is a	cardiovascular condition
+other circulatory disease	coexists with	hypertension
+other circulatory disease	coexists with	hyperlipidemia
+other circulatory disease	coexists with	diabetes mellitus
+other circulatory disease	coexists with	obesity
+other circulatory disease	increases risk of	heart failure
+other circulatory disease	increases risk of	myocardial infarction
+other circulatory disease	increases risk of	stroke
+other circulatory disease	increases risk of	death
+other circulatory disease	increases risk of	hospitalization
+other circulatory disease	increases risk of	readmission
 other circulatory disease	associated with	atherosclerosis
-other circulatory disease	associated with	hyperlipidemia
-other circulatory disease	associated with	obesity
-other circulatory disease	associated with	smoking
-other circulatory disease	associated with	chronic kidney disease
-other circulatory disease	diagnosed by	ECG
+other circulatory disease	associated with	arrhythmia
+other circulatory disease	associated with	coronary artery disease
+other circulatory disease	diagnosed by	electrocardiography
 other circulatory disease	diagnosed by	echocardiography
+other circulatory disease	diagnosed by	angiography
 other circulatory disease	diagnosed by	CT angiography
 other circulatory disease	diagnosed by	MRI
-other circulatory disease	treated with	beta blockers
-other circulatory disease	treated with	ACE inhibitors
-other circulatory disease	treated with	ARBs
-other circulatory disease	treated with	nitrates
-other circulatory disease	treated with	diuretics
-other circulatory disease	treated with	antiplatelet therapy
-other circulatory disease	treated with	statins
-other circulatory disease	treated with	vasodilators
-other circulatory disease	managed by	cardiology
-other circulatory disease	managed with	lifestyle modification
-other circulatory disease	requires	hospitalization
-other circulatory disease	requires	revascularization
-other circulatory disease	progresses to	congestive heart failure
-other circulatory disease	progresses to	dilated cardiomyopathy
 other circulatory disease	presents with	chest pain
 other circulatory disease	presents with	dyspnea
-other circulatory disease	presents with	edema
-other circulatory disease	presents with	palpitations
 other circulatory disease	presents with	syncope
-other circulatory disease	associated with	atrial fibrillation
-other circulatory disease	associated with	heart block
-other circulatory disease	associated with	ventricular tachycardia
+other circulatory disease	treated with	antiplatelet therapy
+other circulatory disease	treated with	anticoagulation
+other circulatory disease	treated with	beta blocker
+other circulatory disease	treated with	ACE inhibitor
+other circulatory disease	treated with	ARB
+other circulatory disease	treated with	diuretic therapy
+other circulatory disease	treated with	statin therapy
+other circulatory disease	treated with	nitrates
+other circulatory disease	treated with	calcium channel blocker
+other circulatory disease	treated with	aspirin
+other circulatory disease	treated with	thrombolysis
+other circulatory disease	managed by	cardiology
+other circulatory disease	managed by	multidisciplinary team
+other circulatory disease	associated with	smoking
+other circulatory disease	associated with	alcohol use
+other circulatory disease	associated with	obesity
+other circulatory disease	linked to	poor prognosis
+other circulatory disease	linked to	renal dysfunction
+other circulatory disease	linked to	chronic kidney disease
+other circulatory disease	correlated with	C-reactive protein
+other circulatory disease	correlated with	BNP
+other circulatory disease	associated with	microalbuminuria
+other circulatory disease	associated with	edema
+other circulatory disease	associated with	arrhythmic events
+other circulatory disease	associated with	valve disease
 other circulatory disease	associated with	cardiomyopathy
-other circulatory disease	associated with	valvular disease
-other circulatory disease	associated with	heart murmur
-other circulatory disease	associated with	cardiomegaly
-other circulatory disease	associated with	left ventricular hypertrophy
-other circulatory disease	complications include	edema
-other circulatory disease	complications include	myocardial ischemia
-other circulatory disease	complications include	heart failure
-other circulatory disease	complications include	stroke
-other circulatory disease	complications include	arrhythmia
-other circulatory disease	complications include	hypertensive crisis
-other circulatory disease	complicates	pregnancy
+other circulatory disease	associated with	peripheral vascular disease
+other circulatory disease	associated with	heart block
+other circulatory disease	associated with	aneurysm
+other circulatory disease	associated with	tamponade
+other circulatory disease	increases likelihood of	hospital readmission
+other circulatory disease	increases likelihood of	mortality
+other circulatory disease	increases likelihood of	stroke
+other circulatory disease	affects	kidney function
+other circulatory disease	predisposes to	venous thromboembolism
+other circulatory disease	predisposes to	arrhythmia
 other circulatory disease	predisposes to	myocardial infarction
 other circulatory disease	predisposes to	stroke
-other circulatory disease	predisposes to	peripheral artery disease
-other circulatory disease	predisposes to	pulmonary hypertension
-other circulatory disease	influences	prognosis
-other circulatory disease	influences	quality of life
-other circulatory disease	influences	exercise tolerance
-other circulatory disease	influences	functional status
-other circulatory disease	correlates with	age
-other circulatory disease	correlates with	sex
-other circulatory disease	correlates with	renal function
-other circulatory disease	correlates with	liver function
-other circulatory disease	correlates with	inflammatory markers
-other circulatory disease	correlates with	cholesterol level
-other circulatory disease	correlates with	triglyceride level
-other circulatory disease	correlates with	blood pressure
-other circulatory disease	correlates with	body mass index
-other circulatory disease	is common in	older adults
-other circulatory disease	is common in	diabetics
-other circulatory disease	is common in	smokers
-other circulatory disease	risk factor for	stroke recurrence
-other circulatory disease	risk factor for	hospital readmission
-other circulatory disease	risk factor for	mortality
-other circulatory disease	outcome predicts	mortality
-other circulatory disease	outcome predicts	readmission
-other circulatory disease	outcome predicts	functional decline
-other circulatory disease	managed with	lifestyle modification
-other circulatory disease	managed with	pharmacotherapy
+other circulatory disease	predisposes to	edema
+other circulatory disease	progresses to	heart failure
+other circulatory disease	progresses to	coronary artery disease
+other circulatory disease	coexists with	atrial fibrillation
+other circulatory disease	coexists with	heart valve disease
+other circulatory disease	increases risk of	peripheral artery disease
 other circulatory disease	associated with	metabolic syndrome
-other circulatory disease	prevalence in	population group
-other circulatory disease	pathophysiology involves	endothelial dysfunction
-other circulatory disease	pathophysiology involves	lipid accumulation
-other circulatory disease	prevention strategies include	risk factor modification
-other circulatory disease	prevention strategies include	blood pressure control
-other circulatory disease	prevention strategies include	lipid control
-other circulatory disease	followed by	echocardiography
-other circulatory disease	studied by	echocardiography
-other circulatory disease	studied by	risk scores
-other circulatory disease	found in	autopsy
-other circulatory disease	associated with	immune response
-other circulatory disease	associated with	inflammatory response
-other circulatory disease	evaluation aims	symptom relief
-other circulatory disease	evaluation aims	functional improvement
-other circulatory disease	evaluation aims	survival
-other circulatory disease	involves	metabolic disturbances
-other circulatory disease	occurs in	adults
-other circulatory disease	occurs with	pregnancy
-other circulatory disease	monitored by	electrocardiography
-other circulatory disease	monitored by	ambulatory monitoring
-other circulatory disease	evaluated by	biomarkers
-other circulatory disease	may cause	sudden death
-other circulatory disease	may cause	ischemia
-other circulatory disease	linked to	insulin resistance
-other circulatory disease	linked to	endothelial injury
-other circulatory disease	linked to	vascular inflammation
-other circulatory disease	related to	plaque rupture
-other circulatory disease	classified as	chronic disease
-other circulatory disease	incidence rising	worldwide
-other circulatory disease	healthcare burden	cost
+other circulatory disease	related to	vascular inflammation
+other circulatory disease	linked with	lipoprotein abnormalities
+other circulatory disease	linked with	endothelial dysfunction
+other circulatory disease	observed in	elderly population
+other circulatory disease	observed with	ischemia
+other circulatory disease	impacts	quality of life
+other circulatory disease	impacts	functional status
+other circulatory disease	associated with	anemia
+other circulatory disease	associated with	volume overload
+other circulatory disease	increases risk of	renal failure
+other circulatory disease	treated with	lifestyle modification
+other circulatory disease	managed with	rehabilitation
+other circulatory disease	requires	monitoring
+other circulatory disease	monitored by	telemetry
+other circulatory disease	monitored by	ECG
+other circulatory disease	associated with	aging
+other circulatory disease	seen with	peripheral edema
+other circulatory disease	characterized by	venous insufficiency
+other circulatory disease	distinguished from	venous disease
+other circulatory disease	characterized by	tissue hypoxia
+other circulatory disease	associated with	arterial calcification
+other circulatory disease	linked to	plaque formation
+other circulatory disease	leads to	reduced cardiac output
+other circulatory disease	associated with	lipid abnormalities
+other circulatory disease	associated with	insulin resistance
+other circulatory disease	seen with	microvascular disease
+other circulatory disease	related to	endocarditis
+other circulatory disease	coexists with	valvular disease
+other circulatory disease	increases risk of	ICU admission
+other circulatory disease	increases risk of	mechanical ventilation
+other circulatory disease	associated with	thrombosis
+other circulatory disease	associated with	congestive heart failure
+other circulatory disease	linked to	mortality

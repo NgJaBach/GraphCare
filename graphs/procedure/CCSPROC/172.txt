@@ -1,0 +1,100 @@
+skin graft	is a	surgical procedure
+autograft	is a type of	skin graft
+allograft	is a type of	skin graft
+xenograft	is a type of	skin graft
+split-thickness graft	is a type of	skin graft
+full-thickness graft	is a type of	skin graft
+mesh graft	is a type of	split-thickness graft
+pedicled graft	is a type of	skin graft
+cultured epithelial graft	is a type of	skin graft
+donor site	provides	graft material
+recipient site	receives	graft
+graft	adheres to	wound bed
+graft	covers	wound
+skin graft	is used for	burns
+burn wound	is treated with	skin graft
+traumatic wound	is treated with	skin graft
+chronic ulcer	is treated with	skin graft
+diabetic foot ulcer	is treated with	skin graft
+pressure ulcer	is treated with	skin graft
+skin graft	reduces	infection risk
+skin graft	improves	wound closure
+graft take	depends on	wound bed vascularization
+graft take	requires	adequate perfusion
+graft take	predicts	graft survival
+graft survival	is associated with	vascular supply
+vascular supply	influences	graft take
+donor site	has	morbidity
+donor site infection	increases	patient discomfort
+donor tissue	provides	graft material
+recipient site	is prepared for	graft
+wound bed preparation	contributes to	graft take
+graft take	leads to	graft survival
+graft	integrates with	wound bed
+graft	requires	anesthesia
+skin graft	requires	anesthesia
+skin graft	requires	immobilization
+anesthesia	used for	skin graft
+local anesthesia	used for	donor site
+general anesthesia	used for	skin graft
+postoperative immobilization	supports	graft stability
+graft placement	occurs during	procedure
+graft edges	are secured with	sutures
+graft edges	are approximated with	sutures
+graft	placed on	wound bed
+donor site heals after	graft harvest
+donor site carries	morbidity
+donor site complication	affects	cosmetic outcome
+graft reduces	scarring
+graft take	indicates	success
+graft site monitored by	clinical assessment
+graft site monitored with	imaging
+graft failure	leads to	reoperation
+reoperation	increases	hospital stay
+graft infection	requires	removal
+donor site infection	requires	treatment
+graft infection	increases	antibiotic use
+antibiotic prophylaxis	is used for	graft surgery
+donor site swelling	occurs after	graft harvest
+graft rejection	occurs with	allograft
+xenograft	carries	zoonotic risk
+cultured graft	reduces	donor site morbidity
+cultured graft	requires	lab culture
+graft	influences	functional outcome
+skin graft	restores	skin integrity
+wound closure	achieved by	skin graft
+graft	reduces	pain at wound site
+graft	influences	cosmesis
+scar quality	improves with	skin graft
+donor site scar	persists after	harvest
+donor site scar	affects	patient satisfaction
+donor site healing	is faster with	proper wound care
+graft planning	includes	donor site selection
+donor site selection	depends on	graft type
+autograft	avoids	immune rejection
+allograft	requires	compatibility testing
+graft	is stored in	sterile environment
+sterile environment	ensures	graft sterility
+graft harvest	causes	donor site pain
+graft harvest	requires	harvest equipment
+burn center	performs	graft procedures
+skin graft	interacts with	wound dressing
+wound dressing	protects	graft site
+topical antibiotic	protects	graft site
+graft site	needs	moisture balance
+graft site	requires	debridement
+debridement	precedes	graft placement
+recipient site	has	vascular supply
+vascular supply	determines	graft survival
+graft survival	depends on	patient comorbidity
+diabetes mellitus	increases	graft failure risk
+smoking	increases	graft failure risk
+nutrition	influences	wound healing
+hyperglycemia	impairs	wound healing
+infection control	improves	graft survival
+blood supply	is crucial for	graft take
+compression	helps	graft stability
+pressure	reduces	graft perfusion
+mobilization	reduces	joint stiffness after graft
+rehabilitation	improves	functional outcome
+telemedicine	monitors	graft status

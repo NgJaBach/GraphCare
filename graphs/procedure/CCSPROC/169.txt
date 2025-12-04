@@ -1,0 +1,100 @@
+debridement of wound	is a	medical procedure
+debridement of wound	performed for	necrotic tissue
+debridement of wound	performed for	infected wound
+debridement of wound	performed for	burn wound
+debridement of wound	improves	wound healing
+debridement of wound	reduces	bacterial burden
+debridement of wound	removes	nonviable tissue
+debridement of wound	prepares	wound bed
+debridement of wound	indicated for	devitalized tissue
+debridement of wound	contraindicated for	poor perfusion
+debridement of wound	performed by	surgeon
+debridement of wound	performed with	sharp debridement
+sharp debridement	is a	debridement method
+debridement of wound	employs	mechanical debridement
+debridement of wound	uses	enzymatic debridement
+debridement of wound	can be	autolytic debridement
+debridement of wound	uses	topical antiseptic
+debridement of wound	performed in	operating room
+debridement of wound	performed in	clinic
+debridement of wound	performed at	bedside
+debridement of burn	removes	eschar
+eschar	is removed by	debridement
+necrotic tissue	impedes	wound healing
+granulation tissue	appears after	debridement
+debridement of wound	reduces	infection
+debridement of wound	reduces	foul odor
+debridement of wound	accelerates	wound closure
+burn wound	can be	treated with	debridement
+debridement of burn	precedes	grafting
+debridement of wound	followed by	negative pressure therapy
+negative pressure therapy	applied after	debridement
+debridement of wound	requires	anesthesia
+anesthesia	provides	analgesia
+enzymatic debridement	is a	debridement method
+mechanical debridement	is a	debridement method
+sharp debridement	is a	debridement method
+surgical debridement	is a	debridement method
+autolytic debridement	is a	debridement method
+biofilm	disrupted by	debridement
+packing	follows	debridement
+dressing	applied after	debridement
+dressing change	performed after	debridement
+culture	collected after	debridement
+culture results	guide	antibiotic therapy
+antibiotic therapy	prescribed after	debridement
+antibiotic prophylaxis	recommended for	extensive debridement
+antibiotics	started before	debridement
+wound infection	can occur after	debridement
+diabetes mellitus	increases	infection risk after debridement
+impaired perfusion	reduces	debridement success
+elderly patient	has	slower wound healing after debridement
+perfusion	adequate for	debridement success
+tissue viability	improves after	debridement
+granulation tissue formation	accelerates after	debridement
+bleeding risk	increases with	extensive debridement
+hemostasis	achieved by	cautery
+cautery	used for	hemostasis during debridement
+pain	managed by	analgesia during debridement
+analgesia	reduces	procedure pain
+hospital admission	may be required for	extensive debridement
+outpatient debridement	possible for	small wounds
+readmission rate	decreases after	burn debridement
+wound bed preparation	aims for	granulation tissue
+wound bed preparation	includes	debridement
+growth factors	used with	debridement
+negative pressure wound therapy	promotes	granulation
+maggot therapy	is a form of	biological debridement
+larval therapy	is a form of	biological debridement
+biological debridement	is a debridement method
+necrotic tissue burden	reduced by	debridement
+dead tissue	removed by	debridement
+sterile technique	required for	debridement
+wound culture	performed after	debridement
+culture results	inform	antibiotic choice
+antibiotic choice	guided by	culture results
+diabetes mellitus	associated with	worse wound healing after debridement
+immunocompromised status	increases	infection risk after debridement
+scar formation	risk after	burn debridement
+tissue edema	reduced by	debridement
+edema	reduced by	debridement
+debridement frequency	determined by	wound characteristics
+wound characteristics	guide	debridement plan
+burn depth	informs	debridement approach
+wound depth	assessed before	debridement
+blood loss	risk during	surgical debridement
+postoperative pain	managed with	analgesia after debridement
+care pathway	includes	debridement
+outcome measure	includes	wound healing rate
+time to closure	decreases after	debridement
+skin graft	used after	debridement for large wounds
+graft success	improves after	debridement
+skin graft	indicated after	debridement for large wounds
+debridement technique	chosen based on	wound depth
+wound depth	informs	debridement technique
+blood loss	monitored during	debridement
+bleeding	complication of	debridement
+infection control	improved by	debridement
+healing	accelerated by	debridement
+wound closure	achieved by	debridement plus grafting
+quality of life	affected by	debridement outcomes

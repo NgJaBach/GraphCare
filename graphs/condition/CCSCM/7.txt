@@ -1,100 +1,100 @@
-viral infection	caused by	virus
-viral infection	caused by	RNA virus
-viral infection	caused by	DNA virus
+viral infection	is a	disease
+viral infection	is caused by	virus
+viral infection	is transmitted by	droplets
 viral infection	presents with	fever
 viral infection	presents with	cough
 viral infection	presents with	sore throat
 viral infection	presents with	fatigue
+viral infection	presents with	malaise
 viral infection	presents with	myalgia
-viral infection	presents with	headache
-viral infection	presents with	nasal discharge
-viral infection	presents with	dyspnea
-viral infection	presents with	shortness of breath
-viral infection	progresses to	pneumonia
-viral infection	progresses to	ARDS
-viral infection	associated with	lymphopenia
-viral infection	diagnosed by	PCR test
-viral infection	diagnosed by	antigen test
-viral infection	diagnosed by	serology
-viral infection	diagnosed by	imaging
-viral infection	treated with	antiviral therapy
-viral infection	treated with	supportive care
+viral infection	presents with	nasal congestion
+viral infection	lasts for	days
+viral infection	can cause	pneumonia
+viral infection	can cause	bronchitis
+viral infection	can cause	sinusitis
+viral infection	can cause	otitis media
+viral infection	can cause	dehydration
+viral infection	may lead to	secondary bacterial infection
+viral infection	is diagnosed by	PCR test
+viral infection	is diagnosed by	antigen test
+viral infection	is diagnosed by	clinical assessment
+viral infection	is treated with	supportive care
+viral infection	may respond to	analgesics
+viral infection	may be treated with	antiviral therapy
+antiviral therapy	is used for	influenza
+vaccine	prevents	viral infection
+vaccine	is available for	influenza
+influenza	is caused by	influenza virus
+influenza	has	seasonality
+influenza	is prevented by	vaccination
+influenza	can cause	pneumonia
+coronavirus	is a	viral infection
+coronavirus	is transmitted by	respiratory droplets
+coronavirus	can cause	pneumonia
+COVID-19	is caused by	SARS-CoV-2
+SARS-CoV-2	is a	coronavirus
+SARS-CoV-2	uses	spike protein
+spike protein	binds to	ACE2 receptor
+ACE2 receptor	expressed in	respiratory tract
+respiratory tract	lined with	mucosa
+mucosa	traps	pathogens
+antiviral agent	targets	viral replication
+neuraminidase inhibitor	is a	antiviral
+oseltamivir	is a	neuraminidase inhibitor
+vaccination	stimulates	immune response
+immune response	protects against	infection
+infection	increases	immune memory
+immune memory	enhances	protection
+viral infection	increases	hospitalization risk
+viral infection	increases	mortality risk
+viral infection	may progress to	severe disease
+viral infection	affects	respiratory tract
+viral infection	can spread by	aerosols
+viral infection	can be prevented by	hand hygiene
+viral infection	can be prevented by	mask use
+viral infection	can be prevented by	vaccination
+viral infection	can cause	dehydration
+viral infection	can cause	fatigue
+viral infection	can cause	chest pain
+viral infection	can cause	dizziness
+viral infection	can cause	confusion
+viral infection	is common in	children
+viral infection	is common in	elderly
+viral infection	severity varies by	age
+viral infection	severity varies by	comorbidity
+viral infection	is diagnosed by	PCR test
+viral infection	is diagnosed by	rapid antigen test
+viral infection	is diagnosed by	antibody test
+viral infection	is diagnosed by	throat swab sample
+viral infection	is diagnosed by	nasal swab sample
+viral infection	is diagnosed by	chest radiograph
+viral infection	is diagnosed by	culture
+viral infection	treated with	rest
 viral infection	treated with	hydration
-antiviral therapy	reduces	viral replication
-antiviral therapy	shortens	illness duration
-antiviral therapy	improves	outcomes
-supportive care	reduces	hospital stay
-oxygen therapy	used for	hypoxemia
-inpatient admission	required for	severe viral infection
-ICU admission	required for	severe viral infection
-influenza vaccine	reduces	risk of influenza infection
-COVID-19 vaccine	reduces	risk of SARS-CoV-2 infection
-viral coinfection	worsens	outcomes
-secondary bacterial infection	follows	viral infection
-age	increases	risk of severe viral infection
-smoking	increases	risk of viral infection complications
-obesity	increases	risk of severe viral infection
-pregnancy	increases	risk of viral infection complications
-immune response	characterized by	T cell activation
-cytokine storm	associated with	severe viral infection
-disease severity	correlates with	viral load
-viral load	correlates with	disease severity
-fever duration correlates with	viral load
-pneumonia	caused by	viral infection
-ARDS	can complicate	viral infection
-hypoxemia	results from	viral infection
-dehydration	common in	viral infection
-rash	occurs with	certain viral infections
-encephalitis	can result from	viral infection
-meningitis	can result from	viral infection
-myocarditis	can result from	viral infection
-nephrotoxicity	associated with	antiviral therapy
-liver injury	associated with	viral infection
-neutropenia	occurs in	some viral infections
-nausea	present in	some viral infections
-diarrhea	occurs with	some viral infections
-central nervous system involvement	occurs with	viral infection
-viral infection	predisposes to	secondary bacterial infections
-viral infection	increases	healthcare utilization
-seasonal influenza	is a	viral infection
-coronavirus infection	is a	viral infection
-rhinovirus infection	is a	viral infection
-enterovirus infection	is a	viral infection
-herpes zoster infection	is a	viral infection
-cytomegalovirus infection	is a	viral infection
-measles infection	is a	viral infection
-infection control measures	reduce	viral transmission
-immunity wanes after	viral infection
-immunity develops after	viral infection
-immunization	prevents	viral infection
-hand hygiene	reduces	transmission of viral infection
-mask wearing	reduces	transmission of viral infection
-air filtration	reduces	indoor viral dissemination
-outpatient follow-up	recommended after	viral infection
-antiviral resistance	emerges during	antiviral therapy
-clinical trial	evaluates	antiviral therapy in viral infection
-guideline	recommends	antiviral therapy for high-risk viral infections
-diagnosis	informs	treatment of viral infection
-treatment	improves	patient outcomes in viral infection
-monitoring	guides	therapy escalation in viral infection
-respiratory support	required for	severe viral infection
-oxygen saturation	monitors	viral infection severity
-procalcitonin	helps	differentiate bacterial from viral infection
-fever	commonly present	viral infection
-dry cough	commonly present	viral infection
-wet cough	can occur	viral infection
-laryngitis	can accompany	viral infection
-otitis media	complications	viral infection
-thrombocytopenia	may accompany	viral infection
-ALT elevation	may occur	viral infection
-AST elevation	may occur	viral infection
-neural involvement	possible	viral infection
-immune suppression	increases risk	viral infection complications
-pregnant person	at risk	severe viral infection
-elderly	at higher risk	severe viral infection
-influenza	causes	respiratory illness
-COVID-19	causes	respiratory illness
-RSV infection	causes	bronchiolitis
-adenovirus infection	is a	viral infection
-parainfluenza infection	is a	viral infection
-MERS	is a	viral infection
+viral infection	treated with	acetaminophen
+viral infection	treated with	NSAIDs
+viral infection	treated with	antivirals
+RNA virus	is a	type of virus
+influenza vaccine	provides	protection
+cytokine storm	is associated with	severe viral infection
+seasonal flu vaccine	reduces	hospitalization
+hand hygiene	reduces	droplet transmission
+mask use	reduces	droplet transmission
+ventilation	reduces	airborne transmission
+quarantine	reduces	spread
+global health	monitors	infection activity
+seasonality	influences	influenza incidence
+asymptomatic infection	occurs in	viral infection
+long-COVID	arises from	SARS-CoV-2 infection
+thrombotic events	are associated with	COVID-19
+post-viral syndrome	follows	viral infection
+antiviral resistance	can arise from	improper use
+rapid test	detects	viral antigen
+PCR test	detects	viral RNA
+immunity	provides	protection against reinfection
+reinfection	occurs after	waning immunity
+vaccine effectiveness	wanes over	time
+herd immunity	requires	vaccination coverage
+viral shedding	declines after	recovery
+post-acute infection syndrome	can occur after	infection
+infection control measures	reduce	transmission

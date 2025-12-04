@@ -1,100 +1,96 @@
-medical condition	is a	autoimmune condition
-medical condition	may cause	nephritis
-medical condition	may cause	kidney failure
-medical condition	increases	mortality
-medical condition	increases	readmission
-medical condition	leads to	hospitalization
-medical condition	treated with	steroids
-medical condition	treated with	chemotherapy
-medical condition	treated with	antibiotics
-medical condition	managed with	surgery
-medical condition	associated with	hypertension
-medical condition	associated with	diabetes
-medical condition	associated with	kidney disease
-medical condition	linked with	liver disease
-medical condition	related to	obesity
-medical condition	related to	cancer
-medical condition	related to	metastasis
-medical condition	diagnosed by	imaging
-medical condition	diagnosed by	history
-medical condition	diagnosed by	biopsy
-medical condition	presents with	fever
-medical condition	presents with	pain
-medical condition	presents with	dyspnea
-medical condition	causes	inflammation
-medical condition	causes	anemia
-medical condition	causes	fatigue
-medical condition	causes	weight loss
-medical condition	progresses to	organ failure
-medical condition	resolves with	rest
-medical condition	requires	hydration
-medical condition	requires	oxygen
-medical condition	requires	ventilation
-medical condition	leads to	dialysis
-medical condition	linked with	liver disease
-medical condition	related to	cancer
-medical condition	related to	metastasis
-medical condition	consequences include	organ failure
-medical condition	requires	blood transfusion
-medical condition	necessitates	rehab
-medical condition	influences	quality of life
-disease	is a	autoimmune condition
-disease	progresses to	organ failure
-disease	is associated with	aging
-disease	presents with	fever
-disease	presents with	fatigue
-disease	requires	immunotherapy
-disease	requires	transplant
-disease	leads to	anemia
-disease	leads to	infection
-disease	increases	mortality risk
-disease	decreases	mobility
-disease	increases	hospitalization rate
-disease	increases	ICU admission
-condition	is a	chronic disease
-condition	is a	acute illness
-condition	presents with	chest pain
-condition	presents with	shortness of breath
-condition	managed with	analgesia
-condition	managed with	anti-inflammatory
-condition	related to	obesity
-condition	related to	hypertension
-condition	related to	coronary disease
-condition	diagnosed by	imaging
-condition	diagnosed by	blood test
-condition	diagnosed by	biopsy
-condition	requires	support
-condition	associated with	smoking
-condition	associated with	alcohol use
-condition	affects	nutrition
-condition	affects	sleep
-condition	affects	mood
-condition	leads to	disability
-condition	affects	lifestyle
-condition	affects	rehabilitation
-condition	may require	surgery
-diagnosis	is a	classification
-diagnosis	relates to	treatment
-diagnosis	leads to	prognosis
-diagnosis	affects	decision-making
-diagnosis	impacts	care coordination
-diagnosis	informs	patient education
-diagnosis	predicts	resource utilization
-diagnosis	impacts	outcomes
-diagnosis	guides	triage
-diagnosis	dictates	screening
-nephritis	is a disease
-nephritis	is a condition
-nephritis	associated with	hypertension
-nephritis	associated with	diabetes
-nephritis	leads to	kidney failure
-nephritis	treated with	diuretics
-nephritis	diagnosed by	urinalysis
-nephritis	diagnosed by	imaging
-nephritis	associated with	infection
-nephritis	leads to	electrolyte imbalance
-nephritis	affects	blood pressure
-dialysis	is a treatment
-dialysis	used for	kidney failure
-diabetes	is a disease
-diabetes	increases	mortality risk
+pathological fracture	is a	fracture
+pathological fracture	caused by	osteoporosis
+pathological fracture	caused by	bone metastasis
+pathological fracture	caused by	multiple myeloma
+pathological fracture	caused by	osteolytic lesion
+pathological fracture	associated with	cancer
+pathological fracture	associated with	osteoporosis
+pathological fracture	presents with	bone pain
+pathological fracture	presents with	swelling
+pathological fracture	presents with	deformity
+pathological fracture	diagnosed by	X-ray
+pathological fracture	diagnosed by	MRI
+pathological fracture	diagnosed by	CT scan
+pathological fracture	diagnosed by	bone scan
+pathological fracture	imaging finding	fracture line
+pathological fracture	treated with	immobilization
+pathological fracture	treated with	surgical fixation
+pathological fracture	treated with	endoprosthesis
+pathological fracture	treated with	radiotherapy
+pathological fracture	treated with	chemotherapy
+pathological fracture	treated with	bisphosphonate therapy
+pathological fracture	managed with	analgesia
+pathological fracture	prognosis	dependent on underlying disease
+pathological fracture	risk of	nonunion
+pathological fracture	risk of	delayed union
+pathological fracture	risk of	malunion
+pathological fracture	complication	infection
+pathological fracture	complication	hemorrhage
+pathological fracture	complication	fat embolism
+pathological fracture	complication	neurovascular injury
+pathological fracture	associated with	anemia
+pathological fracture	associated with	hypercalcemia
+pathological fracture	associated with	weight loss
+pathological fracture	associated with	fatigue
+pathological fracture	associated with	fever
+pathological fracture	imaging finding	fracture line
+pathological fracture	imaging finding	cortical disruption
+pathological fracture	imaging finding	periosteal reaction
+pathological fracture	imaging finding	bone destruction
+pathological fracture	occurs at	vertebra
+pathological fracture	occurs at	femur
+pathological fracture	location	femur
+pathological fracture	location	vertebra
+pathological fracture	location	pelvis
+pathological fracture	underlying disease	osteoporosis
+pathological fracture	risk factor	older age
+pathological fracture	required lab test	alkaline phosphatase
+pathological fracture	required lab test	calcium
+pathological fracture	required lab test	vitamin D
+pathological fracture	associated with	inflammatory marker
+pathological fracture	radiographic classification	comminuted fracture
+pathological fracture	radiographic classification	osteoporotic fracture
+pathological fracture	anatomical site	femur
+pathological fracture	anatomical site	vertebra
+pathological fracture	anatomical site	pelvis
+pathological fracture	healing	callus formation
+pathological fracture	prognosis	mortality associated with cancer
+pathological fracture	recurrence	nonunion
+pathological fracture	complication	hardware failure
+pathological fracture	complication	thromboembolism
+pathological fracture	complication	avascular necrosis
+pathological fracture	complication	pneumonia
+pathological fracture	complication	pulmonary embolism
+pathological fracture	surgical outcome	union
+pathological fracture	patient outcome	mobility
+pathological fracture	patient outcome	pain relief
+pathological fracture	patient outcome	quality of life
+pathological fracture	management goal	stabilization
+pathological fracture	management priority	fixation stability
+pathological fracture	imaging finding	fracture displacement
+pathological fracture	rehabilitation need	physical therapy
+pathological fracture	rehabilitation goal	functional recovery
+pathological fracture	post operative care	wound care
+pathological fracture	post operative care	antibiotic prophylaxis
+pathological fracture	secondary prevention	osteoporosis therapy
+pathological fracture	prognosis predictor	age
+pathological fracture	prognosis predictor	underlying disease
+pathological fracture	cost driver	implants
+pathological fracture	cost driver	hospitalization
+pathological fracture	payer category	private insurance
+pathological fracture	payer category	Medicare
+pathological fracture	research area	metastasis-driven fractures
+pathological fracture	clinical guideline	orthopedic management
+pathological fracture	patient education	mobilization exercises
+pathological fracture	triage priority	high urgency
+pathological fracture	follow-up plan	imaging schedule
+pathological fracture	follow-up plan	rehabilitation plan
+pathological fracture	genetic predisposition	familial risk
+pathological fracture	clinical feature	tenderness
+pathological fracture	clinical feature	crepitus
+pathological fracture	pathophysiology	bone fragility
+pathological fracture	pathophysiology	trabecular loss
+pathological fracture	clinical course	progression
+pathological fracture	clinical course	resolution
+pathological fracture	research domain	orthopedic oncology
+pathological fracture	record entry	admission note

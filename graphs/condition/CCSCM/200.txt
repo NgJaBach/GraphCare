@@ -1,0 +1,159 @@
+other skin disorders	is a	category of dermatologic diseases
+other skin disorders	more common in	older adults
+other skin disorders	more common in	females
+other skin disorders	common in	children
+other skin disorders	presents with	pruritus
+other skin disorders	presents with	rash
+other skin disorders	presents with	scaling
+other skin disorders	presents with	erythema
+other skin disorders	presents with	edema
+other skin disorders	presents with	vesicles
+other skin disorders	presents with	crusts
+other skin disorders	presents with	papules
+other skin disorders	presents with	nodules
+other skin disorders	associated with	hair loss
+other skin disorders	treated with	topical steroids
+other skin disorders	treated with	calcineurin inhibitors
+other skin disorders	treated with	emollients
+other skin disorders	treated with	phototherapy
+other skin disorders	treated with	systemic steroids
+other skin disorders	treated with	antibiotics
+other skin disorders	treated with	antifungals
+other skin disorders	treated with	antihistamines
+other skin disorders	diagnosed by	clinical examination
+other skin disorders	diagnosed by	skin biopsy
+other skin disorders	diagnosed by	histopathology
+other skin disorders	diagnosed by	dermoscopy
+other skin disorders	diagnosed by	patch testing
+other skin disorders	associated with	obesity
+other skin disorders	associated with	diabetes mellitus
+other skin disorders	associated with	autoimmune disease
+other skin disorders	associated with	thyroid disease
+other skin disorders	associated with	allergy
+other skin disorders	associated with	infection
+other skin disorders	associated with	asthma
+other skin disorders	associated with	eczema
+other skin disorders	associated with	psoriasis
+other skin disorders	associated with	dermatitis
+other skin disorders	associated with	anemia
+other skin disorders	associated with	iron deficiency
+other skin disorders	associated with	sleep disturbance
+other skin disorders	associated with	anxiety
+other skin disorders	associated with	depression
+other skin disorders	associated with	cardiovascular disease
+other skin disorders	associated with	hypertension
+other skin disorders	associated with	hyperlipidemia
+other skin disorders	associated with	kidney disease
+other skin disorders	associated with	liver disease
+other skin disorders	associated with	inflammatory bowel disease
+other skin disorders	risk for	secondary infection
+other skin disorders	risk for	cellulitis
+other skin disorders	may cause	skin cancer
+other skin disorders	contributes to	quality of life impairment
+other skin disorders	contributes to	work impairment
+other skin disorders	contributes to	absenteeism
+other skin disorders	influences	mood disorders
+other skin disorders	influenced by	sun exposure
+other skin disorders	influenced by	humidity
+other skin disorders	influenced by	temperature
+other skin disorders	influences	sleep quality
+other skin disorders	influenced by	stress
+other skin disorders	monitored by	lesion count
+other skin disorders	monitored by	clinical score
+other skin disorders	monitored by	patient diary
+other skin disorders	monitored by	skin imaging
+other skin disorders	improved by	moisturizing
+other skin disorders	improved by	barrier repair
+other skin disorders	improved by	avoidance of irritants
+other skin disorders	prevented by	sun protection
+other skin disorders	prevented by	fragrance avoidance
+other skin disorders	prevented by	hydration
+other skin disorders	prevented by	gentle cleansing
+other skin disorders	prevented by	education about triggers
+other skin disorders	managed by	dermatologist
+other skin disorders	managed by	primary care physician
+other skin disorders	managed by	allergist
+other skin disorders	characterized by	chronic course
+other skin disorders	prone to	relapses
+other skin disorders	likely to cause	scarring
+other skin disorders	likely to cause	pigmentary changes
+other skin disorders	associated with	psychosocial burden
+other skin disorders	recurrence	common
+other skin disorders	seen in	pediatrics
+other skin disorders	seen in	geriatrics
+other skin disorders	prevalence	worldwide
+other skin disorders	prevalence	regional variation
+other skin disorders	seen in	dermatology clinics
+other skin disorders	burden on	healthcare system
+other skin disorders	coexists with	rosacea
+other skin disorders	coexists with	acne
+other skin disorders	coexists with	eczema
+other skin disorders	coexists with	psoriasis
+other skin disorders	treated with	biologics
+other skin disorders	prognosis	variability
+other skin disorders	diagnosis	clinical assessment
+other skin disorders	diagnosis	dermoscopy
+other skin disorders	differential diagnosis includes	fungal infection
+other skin disorders	refers to	dermatologist
+other skin disorders	prognosis influenced by	treatment adherence
+other skin disorders	screening recommendation includes	skin examination
+other skin disorders	research area	dermatology
+other skin disorders	recurrence frequency	high
+other skin disorders	recurrence frequency	moderate
+other skin disorders	causes	scarring
+other skin disorders	causes	pigmentary changes
+other skin disorders	psychosocial impact	substantial
+other skin disorders	recurrence	frequent
+other skin disorders	seen in	dermatology clinics
+other skin disorders	global burden	substantial
+other skin disorders	regional variation	high
+other skin disorders	seen in	pediatric populations
+other skin disorders	seen in	elderly populations
+other skin disorders	prevalence	global
+other skin disorders	burden on	healthcare system
+other skin disorders	coexists with	rosacea
+other skin disorders	coexists with	acne
+other skin disorders	coexists with	eczema
+other skin disorders	coexists with	psoriasis
+other skin disorders	therapy	biologics
+other skin disorders	prognosis	variable
+other skin disorders	diagnosis	clinical assessment
+other skin disorders	differential diagnosis includes	bacterial infection
+other skin disorders	refers to	dermatologist
+other skin disorders	prognosis influenced by	treatment adherence
+other skin disorders	screening recommendation includes	skin examination
+other skin disorders	research area	dermatology
+other skin disorders	recurrence	frequency
+other skin disorders	seen in	pediatrics
+other skin disorders	seen in	geriatrics
+other skin disorders	prevalence	global burden
+other skin disorders	prevalence	regional variation
+other skin disorders	seen in	dermatology clinics
+other skin disorders	burden on	healthcare system
+other skin disorders	coexists with	rosacea
+other skin disorders	coexists with	acne
+other skin disorders	coexists with	eczema
+other skin disorders	coexists with	psoriasis
+other skin disorders	therapy	biologics
+other skin disorders	prognosis	variability
+other skin disorders	differential diagnosis includes	fungal infection
+other skin disorders	refers to	dermatologist
+other skin disorders	prognosis influenced by	patient adherence
+other skin disorders	screening recommendation includes	skin examination
+other skin disorders	research area	dermatology
+other skin disorders	recurrence frequency	high
+other skin disorders	recurrence frequency	moderate
+other skin disorders	causes	scarring
+other skin disorders	causes	pigmentary changes
+other skin disorders	psychosocial impact	substantial
+other skin disorders	recurrence	frequent
+other skin disorders	seen in	pediatric populations
+other skin disorders	seen in	elderly populations
+other skin disorders	prevalence	global
+other skin disorders	burden on	healthcare system
+other skin disorders	coexists with	rosacea
+other skin disorders	coexists with	acne
+other skin disorders	coexists with	eczema
+other skin disorders	coexists with	psoriasis
+other skin disorders	therapy	biologics
+other skin disorders	prognosis	variability

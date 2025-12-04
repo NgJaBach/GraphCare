@@ -1,100 +1,111 @@
-pulmonary heart disease	is a	cardiopulmonary condition
-pulmonary heart disease	leads to	right heart failure
-cor pulmonale	is a form of	pulmonary heart disease
-cor pulmonale	results from	chronic lung disease
-pulmonary hypertension	accompanies	pulmonary heart disease
-hypoxemia	worsens	pulmonary heart disease
-polycythemia	develops from	hypoxemia
-erythropoietin production	increases due to	hypoxemia
-mean pulmonary arterial pressure	increases with	pulmonary heart disease
-pulmonary vascular resistance	rises in	pulmonary heart disease
-right ventricular hypertrophy	occurs with	pulmonary heart disease
-right atrial enlargement	occurs with	cor pulmonale
-venous congestion	results from	right heart failure
-peripheral edema	indicates	fluid overload
-jugular venous distension	indicates	right heart failure
-hepatic congestion	occurs with	right-sided heart failure
-hepatomegaly	results from	hepatic congestion
-ascites	accompanies	right heart failure
-right ventricular failure	reduces	cardiac output
-cardiac output	decreases with	pulmonary heart disease progression
-echocardiography	evaluates	right ventricular function
-right ventricular dysfunction	predicts	poor prognosis
-right heart catheterization	measures	pulmonary artery pressure
-BNP	reflects	right heart strain
-NT-proBNP	reflects	right heart strain
-radiography	detects	cardiomegaly
-cardiomegaly	indicates	right heart strain
-echo-derived right ventricular systolic pressure	estimates	pulmonary hypertension
-oxygen therapy	improves	exercise tolerance
-supplemental oxygen	reduces	nocturnal hypoxemia
-bronchodilators	improve	dyspnea
-diuretics	alleviate	edema
-diuretic therapy	reduces	venous congestion
-diuretic therapy	decreases	preload
-vasodilators	used for	pulmonary hypertension
-endothelin receptor antagonists	treat	pulmonary hypertension
-phosphodiesterase-5 inhibitors	treat	pulmonary hypertension
-prostacyclin therapy	treats	pulmonary hypertension
-inhaled nitric oxide	acutely vasodilates	pulmonary vasculature
-oxygen therapy	prevents	hypoxemia
-home oxygen therapy	improves	quality of life
-lung transplantation	considered for	end-stage pulmonary hypertension
-lung transplantation	offers	survival benefit
-pulmonary rehabilitation	improves	exercise capacity
-smoking	worsens	pulmonary heart disease
-age	increases	mortality risk
-obesity	worsens	prognosis
-COPD	coexists with	pulmonary hypertension
-sleep apnea	contributes to	hypoxemia
-hypoxemia	triggers	polycythemia
+cor pulmonale	is a form of	right heart failure
+cor pulmonale	is caused by	pulmonary hypertension
+cor pulmonale	is caused by	chronic lung disease
+cor pulmonale	is associated with	hypoxemia
+cor pulmonale	leads to	venous congestion
+cor pulmonale	leads to	peripheral edema
+cor pulmonale	leads to	hepatomegaly
+cor pulmonale	leads to	ascites
+cor pulmonale	presents with	exertional dyspnea
+cor pulmonale	presents with	fatigue
+cor pulmonale	is diagnosed by	echocardiography
+cor pulmonale	is diagnosed by	right heart catheterization
+cor pulmonale	is associated with	right ventricular hypertrophy
+cor pulmonale	is associated with	tricuspid regurgitation
+pulmonary hypertension	is a cause of	cor pulmonale
+COPD	is a risk factor for	cor pulmonale
+interstitial lung disease	is a risk factor for	cor pulmonale
+smoking	is a risk factor for	COPD
+pulmonary embolism	can cause	acute cor pulmonale
+acute cor pulmonale	is a form of	right heart failure
+hypoxemia	worsens	pulmonary vasoconstriction
+cor pulmonale	predisposes to	atrial fibrillation
+polycythemia	arises from	chronic hypoxemia
 polycythemia	increases	blood viscosity
-blood viscosity	increases	right heart workload
-atrial fibrillation	complicates	cor pulmonale
-thromboembolism	increases risk with	pulmonary hypertension
-arrhythmias	occur with	right heart failure
-liver function	deteriorates with	venous congestion
-renal function	affected by	venous congestion
-creatinine	rises with	decreased renal perfusion
-NT-proBNP	correlates with	prognosis
-6-minute walk distance	predicts	mortality
-right atrial pressure	correlates with	prognosis
-pulmonary arterial pressure	informs	treatment decisions
-vascular remodeling	occurs in	pulmonary hypertension
-endothelial dysfunction	contributes to	pulmonary hypertension
-hypoxic vasoconstriction	drives	pulmonary hypertension
-blood gas analysis	shows	hypoxemia
+right heart failure	increases	jugular venous pressure
+right heart failure	reduces	exercise capacity
+edema	is a feature of	cor pulmonale
+hepatic congestion	is a feature of	cor pulmonale
+hepatic congestion	causes	ascites
+cor pulmonale	requires	oxygen therapy
+cor pulmonale	requires	diuretics
+cor pulmonale	managed with	salt restriction
+cor pulmonale	increases	mortality
+cor pulmonale	increases	readmission
+cor pulmonale	increases	hospitalization
+diuretics	treat	edema
+oxygen therapy	treats	hypoxemia
+smoking cessation	reduces	risk of cor pulmonale
+venous congestion	contributes to	ascites
+diuresis	reduces	edema
+echocardiography	detects	right ventricular dysfunction
+right axis deviation	is seen in	cor pulmonale
+electrocardiogram	shows	right ventricular strain
+tricuspid regurgitation	worsens	right atrial enlargement
+right atrial enlargement	accompanies	cor pulmonale
+pulmonary vasculature remodeling	leads to	pulmonary hypertension
+pulmonary hypertension	correlates with	severity of cor pulmonale
+oxygen therapy	improves	hypoxemia
+diuretic therapy	reduces	edema
+sodium restriction	reduces	edema
+bronchodilators	improve	dyspnea
+respiratory failure	may occur in	cor pulmonale
+hospital admission	is common in	cor pulmonale
+sleep apnea	associated with	cor pulmonale
+obesity	associated with	sleep apnea
+cor pulmonale	worsens	exercise capacity
+nocturnal hypoxemia	worsens	cor pulmonale
+portable oxygen	enables	activity
+exercise training	improves	exercise tolerance
+exercise tolerance	is improved by	exercise training
+pulmonary edema	may occur in	cor pulmonale
 right ventricular dilation	is seen in	cor pulmonale
-hepatic congestion	causes	hyperbilirubinemia
-bilirubin	rises in	hepatic congestion
-kidney perfusion	decreases with	low cardiac output
-quality of life	improves with	pulmonary rehabilitation
-exercise capacity	improves with	pulmonary rehabilitation
-salt restriction	benefits	edema control
-salt restriction	improves	fluid balance
-nutrition status	influences	prognosis
-paroxysmal nocturnal dyspnea	occurs with	right heart failure
-syncope	occurs with	severe pulmonary hypertension
-right bundle branch block	appears with	cor pulmonale
-left ventricular function	preserved in	cor pulmonale
-morbidity	increases with	right heart failure
-mortality	increases with	pulmonary hypertension
-hospitalization	increases with	disease progression
-treatment adherence	improves	outcomes
-medication side effects	influence	adherence
-polypharmacy	complicates	management
-clinical guideline	informs	therapy choice
-trial data	guides	therapeutic decisions
-oxygen saturation	correlates with	prognosis
-ventricular interdependence	affects	right ventricular function
-right ventricular wall stress	increases with	afterload
-pulmonary vascular remodeling	worsens	afterload
-lung function	declines with	disease progression
-clinical severity	determines	prognosis
-WHO grouping	informs	therapy choice
-exercise intolerance	arises from	right ventricular dysfunction
-central venous pressure	rises with	right heart failure
-diuretic responsiveness	predicts	prognosis
-education	improves	treatment adherence
-quality of life	correlates with	functional status
-functional status	determines	prognosis
+RV dilation	accompanies	cor pulmonale
+cor pulmonale	precipitates	decompensation
+intermittent hypoxemia	drives	pulmonary vasoconstriction
+sleep-disordered breathing	worsens	nocturnal hypoxemia
+portal hypertension	is caused by	hepatic congestion
+oxygen saturation	improves	oxygen therapy
+quality of life	is reduced by	cor pulmonale
+physical activity	is limited by	cor pulmonale
+hepatic congestion	worsens	liver function
+liver function	deteriorates	hepatic congestion
+right heart failure	complicates	anemia of chronic disease
+diuretic efficacy	predicts	edema resolution
+edema resolution	improves	quality of life
+right heart failure	worsens	renal perfusion
+renal perfusion	decreases	with low output
+low output	leads to	fatigue
+cyanosis	may develop	in advanced cor pulmonale
+tachycardia	occurs	in cor pulmonale
+mortality	correlates with	degree of pulmonary hypertension
+readmission	linked to	decompensation
+oxygen saturation	declines	during exertion
+venous stasis	contributes to	edema
+venous insufficiency	worsens	edema
+inhaled bronchodilators	relieve	dyspnea
+inhaled bronchodilators	improve	exercise tolerance
+fatigue	correlates with	functional status
+exercise intolerance	correlates with	prognosis
+BNP	rises in	heart failure
+diuretic response	indicates	edema resolution
+edema relief	improves	breathing
+hepatic congestion	reduces	portal flow
+portal flow	is altered in	hepatic congestion
+ecg abnormalities	indicate	right heart disease
+RV systolic pressure	is elevated in	cor pulmonale
+oxygen desaturation	occurs during	sleep
+prazosin? not used
+pulmonary vascular resistance	increases	in cor pulmonale
+RV hypertrophy	results from	chronic pressure overload
+right ventricular systole	is strained in	cor pulmonale
+pulmonary vascular remodeling	progresses	pulmonary hypertension
+cyanosis	indicates	hypoxemia
+central venous pressure	increases	cor pulmonale
+portal hypertension	can cause	varices
+varices	risk with	hepatic congestion
+diuretic response	predicts	symptom relief
+pulmonary rehab	supports	activity tolerance
+respiratory infections	trigger	decompensation in cor pulmonale
+decompensation	requires	hospitalization
+oxygen saturation	is a	prognostic marker

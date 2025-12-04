@@ -1,0 +1,132 @@
+open prostatectomy	is a	surgical procedure
+open prostatectomy	used for	benign prostatic hyperplasia
+open prostatectomy	used for	localized prostate cancer
+benign prostatic hyperplasia	treated with	open prostatectomy
+localized prostate cancer	treated with	open prostatectomy
+open prostatectomy	alternative to	transurethral resection of the prostate
+transurethral resection of the prostate	alternative to	open prostatectomy
+open prostatectomy	performed via	open approach
+open prostatectomy	performed by	urologic surgeon
+open prostatectomy	requires	anesthesia
+open prostatectomy	uses	general anesthesia
+open prostatectomy	uses	spinal anesthesia
+open prostatectomy	associated with	blood loss
+blood loss	may require	transfusion
+open prostatectomy	complication	infection
+open prostatectomy	complication	urinary incontinence
+open prostatectomy	complication	erectile dysfunction
+open prostatectomy	complication	urethral injury
+open prostatectomy	complication	rectal injury
+open prostatectomy	complication	bladder neck contracture
+open prostatectomy	complication	bladder injury
+open prostatectomy	risk of	urinary retention
+urinary retention	treated by	catheterization
+catheterization	provides	urinary drainage
+urinary drainage	achieved by	catheterization
+open prostatectomy	followed by	catheterization
+catheterization	duration	intermediate
+open prostatectomy	followed by	analgesia
+analgesia	includes	NSAIDs
+analgesia	includes	opioids
+NSAIDs	reduce	inflammation
+opioids	provide	analgesia
+open prostatectomy	yields	tissue specimen
+tissue specimen	submitted to	pathology
+pathology	reports	cancer status
+cancer status	informs	prognosis
+prognosis	influences	surveillance strategy
+surveillance strategy	includes	PSA monitoring
+PSA monitoring	occurs after	open prostatectomy
+open prostatectomy	can be	radical procedure
+radical procedure	defined as	cancer surgery
+open prostatectomy	compared with	robotic prostatectomy
+robotic prostatectomy	alternative to	open prostatectomy
+open prostatectomy	encourages	early mobilization
+early mobilization	reduces	thromboembolism risk
+thromboembolism risk	higher in	older patients
+older patients	have	comorbidity
+comorbidity	increases	complication rate
+open prostatectomy	influences	urinary continence outcome
+urinary continence outcome	determines	quality of life
+quality of life	affected by	continence
+open prostatectomy	affects	erectile function
+erectile function	affected by	nerve injury
+nerve injury	can occur during	open prostatectomy
+open prostatectomy	may involve	nerve-sparing technique
+nerve-sparing technique	preserves	neurovascular bundles
+neurovascular bundles	critical for	erectile function
+open prostatectomy	can cause	bladder injury
+bladder injury	risk during	open prostatectomy
+open prostatectomy	risk of	rectal injury
+rectal injury	requires	surgical repair
+surgical repair	performed by	colorectal surgeon
+open prostatectomy	induces	inflammatory response
+inflammatory response	influences	recovery speed
+recovery speed	improves with	pain control
+pain control	improves	mobilization
+mobilization	promotes	pulmonary function
+pulmonary function	preserved by	anesthesia
+anesthesia	type	general
+general anesthesia	used for	open prostatectomy
+open prostatectomy	scheduled after	preoperative evaluation
+preoperative evaluation	includes	imaging
+imaging	guides	surgical planning
+surgical planning	improves	accuracy
+accuracy	reduces	complications
+open prostatectomy	contributes to	healthcare utilization
+healthcare utilization	measured by	hospitalization cost
+hospitalization cost	increases with	blood loss
+open prostatectomy	rare cause of	mortality
+mortality	associated with	open prostatectomy
+open prostatectomy	risk classification	high-risk patients
+high-risk patients	require	preoperative optimization
+preoperative optimization	aims for	reduced complications
+open prostatectomy	indicator of	benign prostatic hyperplasia severity
+benign prostatic hyperplasia severity	relates to	prostate size
+prostate size	affects	operative difficulty
+operative difficulty	prolongs	operative time
+operative time	correlates with	blood loss
+open prostatectomy	results in	removal of prostate tissue
+prostate tissue	removed during	open prostatectomy
+open prostatectomy	involves	dissection
+dissection	performed with	surgical instruments
+open prostatectomy	uses	retractors
+retractors	facilitate	exposure
+open prostatectomy	requires	sutures
+sutures	used for	wound closure
+open prostatectomy	leaves	surgical scar
+surgical scar	visible in	pelvis
+open prostatectomy	reduces	urinary tract obstruction
+urinary tract obstruction	relieved by	open prostatectomy
+open prostatectomy	can be performed	in older men
+older men	presents	comorbidity
+comorbidity	elevates	risk of complications
+open prostatectomy	improves	urine flow
+urine flow	indicator of	bladder outlet patency
+open prostatectomy	part of	urologic oncologic surgery
+urethral sphincter	preserved by	nerve-sparing technique
+nerve-sparing technique	preserves	erectile function
+erectile dysfunction	decreases	libido
+open prostatectomy	associated with	postoperative fever
+postoperative fever	indicates	infection
+open prostatectomy	requires	postoperative monitoring
+postoperative monitoring	includes	vital signs
+vital signs	tracked by	nursing staff
+nursing staff	provide	wound care
+wound care	essential for	recovery
+recovery	influenced by	pain control
+pain control	facilitates	mobilization
+mobilization	improves	lung function
+lung function	affected by	anesthesia
+anesthesia	influences	recovery trajectory
+open prostatectomy	requires	antibiotic prophylaxis
+antibiotic prophylaxis	prevents	surgical infection
+surgical infection	increases	hospitalization duration
+open prostatectomy	can be	performed in	hospital setting
+hospital setting	impacts	access to care
+open prostatectomy	can be	performed electively
+elective procedure	defined as	planned surgery
+open prostatectomy	is associated with	anesthesia risks
+anesthesia risks	include	hypotension
+open prostatectomy	is a	cancer surgery option
+cancer surgery option	varies with	cancer stage

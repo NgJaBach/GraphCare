@@ -1,0 +1,100 @@
+prophylactic vaccinations and inoculations	is a	preventive measure
+prophylactic vaccinations and inoculations	prevent	infection
+prophylactic vaccinations and inoculations	protect against	disease
+prophylactic vaccinations and inoculations	reduce	mortality
+prophylactic vaccinations and inoculations	reduce	hospitalization
+prophylactic vaccinations and inoculations	increase	antibody titer
+prophylactic vaccinations and inoculations	induce	immune response
+prophylactic vaccinations and inoculations	confer	immunity
+prophylactic vaccinations and inoculations	require	booster
+prophylactic vaccinations and inoculations	follow	vaccination schedule
+prophylactic vaccinations and inoculations	are part of	immunization program
+prophylactic vaccinations and inoculations	recommended for	age groups
+prophylactic vaccinations and inoculations	administered by	healthcare professional
+prophylactic vaccinations and inoculations	delivered as	intramuscular injection
+prophylactic vaccinations and inoculations	delivered via	subcutaneous injection
+prophylactic vaccinations and inoculations	contraindicated in	allergy to vaccine components
+prophylactic vaccinations and inoculations	safety monitored by	post-vaccination surveillance
+prophylactic vaccinations and inoculations	have	mild side effects
+prophylactic vaccinations and inoculations	reduce	disease incidence
+prophylactic vaccinations and inoculations	increase	herd immunity
+herd immunity	protects	population
+vaccine	is a	medical product
+vaccine	prevents	disease
+vaccine	protects against	pathogens
+inoculation	is a	medical procedure
+immunization	results in	immunity
+immunization	requires	scheduled doses
+immunization	improves	immune memory
+vaccination coverage	influences	outbreak risk
+immunization program	improves	health outcomes
+adverse events	include	fever
+fever	occurs after	vaccination
+vaccine storage	requires	cold chain
+cold chain	maintains	vaccine potency
+booster dose	restores	protection
+booster dose	recommended at	intervals
+live attenuated vaccines	require	refrigeration
+inactivated vaccines	require	multiple doses
+hepatitis B vaccination	reduces	chronic infection
+HPV vaccination	reduces	cervical cancer risk
+tetanus vaccination	protects against	diphtheria
+diphtheria vaccination	provides	protection
+pertussis vaccination	provides	protection
+polio vaccine	prevents	poliomyelitis
+measles vaccination	prevents	measles
+rubella vaccination	prevents	rubella
+mumps vaccination	prevents	mumps
+influenza vaccination	reduces	influenza illness
+pneumococcal vaccination	prevents	pneumonia
+meningococcal vaccination	prevents	meningitis
+tetanus vaccine	provides	immunity
+diphtheria vaccine	provides	protection
+pertussis vaccine	provides	protection
+HBV vaccination	reduces	hepatitis B infection
+varicella vaccine	prevents	varicella
+zoster vaccine	prevents	shingles
+MMR vaccine	confers	immunity to measles mumps rubella
+live vaccine	may cause	mild illness
+inactivated vaccine	rarely	cause serious adverse events
+vaccine schedule	updated by	health authorities
+immunization record	documents	vaccination status
+school entry	requires	immunization records
+immunization program	reduces	disease burden
+vaccination campaigns	amplify	reach
+global vaccination coverage	correlates with	disease incidence
+vaccine shortage	disrupts	immunization program
+cold chain break	leads to	potency loss
+vaccine efficacy	depends on	storage conditions
+immune memory	persists for	years
+adjuvant	enhances	immune response
+vaccine adjuvant	improves	antibody response
+antigen	triggers	immune response
+immune response	produces	antibodies
+antibody	neutralizes	pathogen
+serology	measures	antibody titer
+titer	indicates	protection level
+protective immunity	correlates with	antibody level
+vaccinated individuals	have	protection
+unvaccinated individuals	lack	protection
+herd immunity threshold	defines	coverage target
+mass vaccination	reduces	transmission
+target population	defines	vaccine priority
+immunization	is a part of	public health
+vaccine rollout	accelerates	disease control
+vaccination program	benefits	population health
+immunization program	fosters	disease prevention
+vaccine diplomacy	facilitates	global uptake
+vaccine distribution	ensures	equitable access
+inequity in vaccination	leads to	disease pockets
+vaccination equity	improves	community health
+immunization education	increases	vaccine acceptance
+vaccine acceptance	improves	vaccination uptake
+migrant populations	require	catch-up vaccination
+national immunization programs	coordinate	immunization activities
+immunization act	influences	public policy
+vaccine logistics	manage	cold chain
+priority groups	include	elderly
+elderly	benefit from	influenza vaccination
+seasonal vaccination	occurs	annually
+influenza season	peaks	during winter

@@ -1,0 +1,98 @@
+retinal tear	causes	retinal detachment
+lattice degeneration	predisposes to	retinal tear
+high myopia	predisposes to	retinal tear
+trauma	predisposes to	retinal tear
+aphakia	predisposes to	retinal detachment
+pseudophakia	predisposes to	retinal detachment
+age	increases risk of	retinal detachment
+prior cataract surgery	predisposes to	retinal detachment
+retinal detachment	causes	vision loss
+macula involvement	worsens	prognosis after repair
+retinal tear	diagnosed by	dilated fundus examination
+retinal detachment	diagnosed by	ophthalmoscopy
+B-scan ultrasound	used for	retinal detachment evaluation
+fundus photography	documents	tear location
+slit lamp examination	detects	retinal tear
+laser photocoagulation	treats	retinal tear
+cryotherapy	treats	retinal tear
+laser photocoagulation	creates	chorioretinal adhesion
+cryotherapy	creates	chorioretinal adhesion
+scleral buckle	repairs	retinal detachment
+pneumatic retinopexy	repairs	retinal detachment
+pars plana vitrectomy	repairs	retinal detachment
+vitrectomy	is a	retinal detachment repair
+gas tamponade	provides	internal tamponade
+silicone oil	provides	tamponade
+gas tamponade	requires	postoperative positioning
+silicone oil	requires	removal
+silicone oil	used for	tamponade
+gas tamponade	used for	retinal detachment repair
+pars plana vitrectomy	may cause	cataract progression
+cataract progression	reduces	visual acuity
+endophthalmitis	risk after	retinal detachment repair
+intraocular pressure elevation	occurs after	retinal detachment repair
+proliferative vitreoretinopathy	can develop after	retinal detachment repair
+PVR	worsens	surgical outcome
+reattachment	achieved by	retinal detachment repair
+anatomic success	defined as	retinal reattachment
+visual acuity	improves after	retinal detachment repair
+macula status	determines	prognosis after repair
+detachment extent	determines	repair technique
+inferior retinal breaks	best treated with	scleral buckle
+inferior breaks	less suitable for	pneumatic retinopexy
+complex detachments	require	combined techniques
+combined scleral buckle with pars plana vitrectomy	used for	complex detachments
+three-port pars plana vitrectomy	used for	detachment repair
+cryopexy	can cause	postoperative inflammation
+laser photocoagulation	can cause	macular edema
+intraoperative photocoagulation	used for	retina stabilization
+ophthalmoscopic examination	monitors	reattachment status
+postoperative positioning	recommended for	gas tamponade
+ambient pressure	affects	gas expansion
+C3F8 gas	provides	longer tamponade
+SF6 gas	provides	shorter tamponade
+anterior chamber inflammation	occurs after	detachment repair
+recurrence	occurs after	retinal detachment repair
+recurrence	associated with	proliferative vitreoretinopathy
+proliferative vitreoretinopathy	increases	repair failure
+vitrectomy	allows	retina examination
+silicone oil	permits	long-term tamponade for inferior breaks
+gas tamponade	prevents	subretinal fluid accumulation
+scleral buckle	causes	astigmatism
+astigmatism	results from	scleral buckle
+vitrectomy	reduces	vitreoretinal traction
+recurrence rate	varies by	repair technique
+pneumatic retinopexy	has	lower complication rate than vitrectomy
+pars plana vitrectomy	enables	precise membrane removal
+foveal involvement	worsens	final visual outcome
+inferotemporal breaks	present with	lattice degeneration
+pneumatic retinopexy	preferred for	small tears with detachment
+laser retinopexy	applied to	peripheral retina
+cryopexy	produces	chorioretinal adhesion
+posterior vitreous detachment	associated with	tear formation
+postoperative endophthalmitis	is a potential complication of	detachment repair
+anatomic reattachment	correlates with	visual outcome
+gas tamponade	associated with	diplopia
+scleral buckle	associated with	diplopia
+large retinal detachment	more likely to require	scleral buckle
+inferior breaks	more difficult to support with	gas tamponade
+inferior breaks	better treated with	scleral buckle
+pseudophakia	associated with	higher RD recurrence after repair
+diabetes	associated with	poorer healing after retinal detachment repair
+uveitis	increases	risk of complicated detachment repair
+postoperative follow-up	necessary for	detachment repair
+intravitreal antibiotics	used for	endophthalmitis prevention
+vitreous hemorrhage	may accompany	retinal detachment repair
+retinal detachment repair	requires	patient cooperation
+general anesthesia	used for	retinal detachment repair
+anesthesia type	selected for	retinal detachment repair
+ophthalmic surgeon	performs	retinal detachment repair
+hospital admission	sometimes needed for	retinal detachment repair
+outpatient procedure	possible for	some detachment repairs
+surgical time	influences	anesthesia risk
+hospital stay	length	detachment repair
+preoperative counseling	improves	patient understanding
+postoperative instructions	improve	adherence
+patient education	improves	expectations
+recurrence risk	associated with	poor adherence
+readmission	risk after	retinal detachment repair

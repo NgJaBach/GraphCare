@@ -1,0 +1,100 @@
+electroencephalogram	is a	diagnostic test
+electroencephalogram	used for	epilepsy diagnosis
+electroencephalogram	records	brain activity
+electroencephalogram	detects	epileptiform discharges
+electroencephalogram	measures	electrical activity
+electroencephalogram	used for	sleep study
+electroencephalogram	used in	seizure monitoring
+electroencephalogram	helps diagnose	altered mental status
+electroencephalogram	monitors	cerebral activity
+electroencephalogram	used for	coma evaluation
+electroencephalogram	detects	nonconvulsive seizures
+electroencephalogram	used for	encephalopathy assessment
+electroencephalogram	used for	neonatal monitoring
+electroencephalogram	used for	sleep stage classification
+electroencephalogram	provides	functional brain data
+electroencephalogram	used for	anesthesia monitoring
+electroencephalogram	correlates with	clinical state
+electroencephalogram	shows	alpha waves
+electroencephalogram	shows	beta waves
+electroencephalogram	shows	delta waves
+electroencephalogram	shows	theta waves
+electroencephalogram	identifies	epileptiform activity
+electroencephalogram	classifies	sleep stages
+electroencephalogram	distinguishes	wake from sleep
+electroencephalogram	used for	brain mapping
+electroencephalogram	used for	seizure localization
+electroencephalogram	aids	prognosis assessment in coma
+electroencephalogram	provides	temporal resolution
+electroencephalogram	complements	neuroimaging studies
+electroencephalogram	used for	brain death assessment
+electroencephalogram	used for	pediatric monitoring
+electroencephalogram	helps with	antiseizure medication titration
+electroencephalogram	guides	treatment decisions
+electroencephalogram	records	event-related potentials
+electroencephalogram	used for	metabolic disorder assessment
+electroencephalogram	detects	slowing
+electroencephalogram	used for	neonatal seizure detection
+electroencephalogram	provides	real-time data
+electroencephalogram	measures	brain rhythms
+electroencephalogram	analyzes	spectral power
+electroencephalogram	captures	electrical potentials
+electroencephalogram	used for	sleep disorder evaluation
+electroencephalogram	yields	interictal discharges
+electroencephalogram	records	background rhythm
+electroencephalogram	used for	hepatic encephalopathy evaluation
+electroencephalogram	correlates with	level of consciousness
+electroencephalogram	reveals	periodic patterns
+electroencephalogram	used for	pediatric epilepsy assessment
+electroencephalogram	helps with	seizure semiology interpretation
+electroencephalogram	supports	neurologic diagnosis
+electroencephalogram	used for	prognosis in coma
+electroencephalogram	indicates	brain activity patterns
+electroencephalogram	shows	generalized slowing
+electroencephalogram	shows	focal slowing
+electroencephalogram	uses	scalp electrodes
+electroencephalogram	yields	standardized recordings
+electroencephalogram	used for	intraoperative monitoring
+electroencephalogram	used for	depth of anesthesia assessment
+electroencephalogram	used for	pediatric sedation monitoring
+electroencephalogram	supports	differential diagnosis in coma
+electroencephalogram	contributes to	functional assessment
+electroencephalogram	enables	neurophysiologic monitoring
+electroencephalogram	facilitates	neurologic research
+electroencephalogram	is used in	intensive care units
+electroencephalogram	is part of	polysomnography
+electroencephalogram	forms	baseline patterns
+electroencephalogram	monitors	coma progression
+electroencephalogram	provides	diagnostic information
+electroencephalogram	characterized by	background activity
+electroencephalogram	supports	clinical correlation
+electroencephalogram	is used for	neuromonitoring
+electroencephalogram	used for	coma differentiation
+electroencephalogram	used for	seizure burden assessment
+electroencephalogram	maps	epileptogenic zone
+electroencephalogram	guides	surgical planning
+electroencephalogram	provides	diagnostic confidence
+electroencephalogram	used for	functional brain assessment
+electroencephalogram	records	ictal activity
+electroencephalogram	records	baseline EEG
+electroencephalogram	used for	postanoxic prognosis
+electroencephalogram	used for	brain functional assessment
+electroencephalogram	used for	coma status classification
+electroencephalogram	used for	event-related potential analysis
+electroencephalogram	used for	sleep architecture evaluation
+electroencephalogram	detects	pseudoperiodic patterns
+electroencephalogram	used for	evaluation of encephalopathy etiologies
+electroencephalogram	used for	monitoring sedation depth
+electroencephalogram	used for	pediatric neurophysiology studies
+electroencephalogram	used for	longitudinal monitoring
+electroencephalogram	yields	quantitative data
+electroencephalogram	assists with	clinical decision making
+electroencephalogram	complements	imaging studies
+electroencephalogram	contributes to	differential diagnosis
+electroencephalogram	participates in	neurophysiological assessment
+electroencephalogram	used for	research protocols
+electroencephalogram	utilized for	brain safety monitoring
+electroencephalogram	used for	seizure burden monitoring
+electroencephalogram	used for	prognosis estimation in coma
+electroencephalogram	is complementary to	neuroimaging
+electroencephalogram	supports	neurological evaluation

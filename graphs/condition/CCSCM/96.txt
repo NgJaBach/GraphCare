@@ -1,98 +1,156 @@
-aortic valve stenosis	is a	valvular heart disease
-aortic valve stenosis	causes	dyspnea
-aortic valve stenosis	causes	syncope
-aortic valve stenosis	leads to	left ventricular hypertrophy
-aortic valve stenosis	increases	mortality
-aortic valve stenosis	diagnosed by	echocardiography
-aortic valve stenosis	treated with	valve replacement
-aortic valve stenosis	treated with	balloon valvuloplasty
-mitral regurgitation	is a	valvular heart disease
-mitral regurgitation	causes	dyspnea
-mitral regurgitation	predisposes to	left atrial enlargement
-mitral regurgitation	associated with	left ventricular dilation
-mitral regurgitation	treated with	mitral valve repair
-mitral regurgitation	treated with	mitral valve replacement
-mitral regurgitation	managed with	diuretics
 mitral stenosis	is a	valvular heart disease
-mitral stenosis	causes	dyspnea
-mitral stenosis	predisposes to	atrial fibrillation
-mitral stenosis	treated with	balloon valvotomy
-mitral stenosis	managed with	anticoagulation
+mitral regurgitation	is a	valvular heart disease
+aortic stenosis	is a	valvular heart disease
 aortic regurgitation	is a	valvular heart disease
-aortic regurgitation	causes	heart failure
-aortic regurgitation	leads to	left ventricular dilation
-aortic regurgitation	diagnosed by	echocardiography
-aortic regurgitation	treated with	valve replacement
 tricuspid regurgitation	is a	valvular heart disease
-tricuspid regurgitation	associated with	right heart failure
-tricuspid regurgitation	treated with	tricuspid valve repair
-tricuspid regurgitation	monitored with	echocardiography
-pulmonary valve stenosis	is a	valvular heart disease
-prosthetic valve	requires	anticoagulation
+pulmonary stenosis	is a	valvular heart disease
+rheumatic heart disease	is a	valvular heart disease
+degenerative valve disease	is a	valvular heart disease
+calcific aortic stenosis	is a	valvular heart disease
+bicuspid aortic valve	is a	congenital valve abnormality
+infective endocarditis	damages	heart valves
+mitral valve prolapse	is a	valvular abnormality
+functional mitral regurgitation	is a	valvular heart disease
+prosthetic valve	is a	medical device
 valve replacement	is a	surgical procedure
 valve repair	is a	surgical procedure
-transcatheter aortic valve replacement	treats	aortic stenosis
-balloon valvuloplasty	treats	aortic stenosis
-balloon valotomy	treats	mitral stenosis
-endocarditis	is complication of	valvular disease
-valvular heart disease	increases risk of	atrial fibrillation
-valvular heart disease	increases risk of	heart failure
-valvular heart disease	increases risk of	mortality
-atrial fibrillation	causes	embolic stroke
-atrial fibrillation	increases risk of	thromboembolism
-atrial fibrillation	treated with	anticoagulation
-atrial fibrillation	associated with	left atrial enlargement
-mechanical heart valve	requires	anticoagulation
-mechanical heart valve	is a	prosthetic valve
+transcatheter aortic valve replacement	is a	catheter-based procedure
+balloon valvuloplasty	is a	catheter-based procedure
+surgical commissurotomy	is a	surgical procedure
+mechanical valve	is a	prosthetic valve
+bioprosthetic valve	is a	prosthetic valve
+prosthetic valve	requires	anticoagulation therapy
+anticoagulation therapy	is used for	thromboembolism prevention
 warfarin	is a	anticoagulant
-warfarin	used for	mechanical heart valve
-direct oral anticoagulants	contraindicated for	mechanical heart valve
-anticoagulation	is used for	atrial fibrillation
-valvular heart disease	associated with	hypertension
-hypertension	worsens	aortic stenosis
-diabetes mellitus	associated with	valvular disease progression
-lipid disorders	associated with	calcific aortic stenosis
-smoking	increases risk of	aortic stenosis
-age	predicts	valve surgery mortality
-sex	influences	valvular disease phenotype
-ejection fraction	reflects	left ventricular function
-echocardiography	used for	valvular disease assessment
-cardiac MRI	alternative for	valvular assessment
-infective endocarditis	risk factor for	valve dysfunction
-infective endocarditis	treated with	antibiotics
-prosthetic valve endocarditis	is complication of	valve replacement
-prosthetic valve	increases risk of	endocarditis
-valve replacement	improves	survival
-valve repair	improves	symptoms
-surgery	reduces	mortality in valvular disease
-mitral annulus calcification	associated with	atrial fibrillation
-bicuspid aortic valve	predisposes to	aortic stenosis
-bicuspid aortic valve	associated with	aortic aneurysm
-rheumatic fever	causes	rheumatic heart disease
-rheumatic heart disease	causes	mitral stenosis
-rheumatic heart disease	causes	mitral regurgitation
-infective endocarditis	risk factor for	valve dysfunction
-valve thrombosis	is complication of	mechanical valve
-anticoagulation	reduces	embolic events
-embolism	causes	stroke
-stroke	increases	mortality
-valvular disease	increases	hospitalization rate
+heparin	is a	anticoagulant
+atrial fibrillation	is a	complication of valvular disease
+heart failure	is a	complication of valvular disease
+stroke	is a	complication of atrial fibrillation
+thromboembolism	is a	complication of mechanical valve
+pulmonary hypertension	is a	complication of left heart valvular disease
+dyspnea	is a	presenting symptom of valvular disease
+syncope	is a	presenting symptom of aortic stenosis
+angina	is a	presenting symptom of aortic stenosis
+edema	is a	presenting symptom of heart failure
+echocardiography	is used for	valvular assessment
+Doppler echocardiography	quantifies	regurgitation severity
+transesophageal echocardiography	provides	valve visualization
+cardiac MRI	is used for	valve morphology
+CT angiography	is used for	aortic valve imaging
+electrocardiography	detects	atrial fibrillation
+BNP	indicates	heart failure
+valvular disease	increases	risk of hospitalization
+aortic stenosis	increases	risk of syncope
+mitral stenosis	increases	risk of atrial fibrillation
+mitral regurgitation	increases	risk of heart failure
+aortic regurgitation	increases	risk of heart failure
 valvular disease	reduces	quality of life
-ACE inhibitors	used for	heart failure due to valvular disease
-beta blockers	used for	arrhythmias associated with valve disease
-diuretics	relieve	edema in valvular disease
-surgery	indicated for	severe valvular disease
-severity of aortic stenosis	determines	timing of valve replacement
-severity of mitral regurgitation	determines	surgical timing
-murmur	indicates	valvular disease
-left atrial enlargement	predicts	atrial fibrillation
-pulmonary hypertension	worsens	right heart function
-right heart failure	results from	severe tricuspid regurgitation
-congenital valvular disease	presents with	murmur
-pregnancy	increases risk of	valvular disease complications
-prosthetic valve durability	influences	reoperation risk
-reoperation	increases	hospitalization length
-aortic stenosis	commonly presents with	syncope
-mitral valve disease	presents with	exertional dyspnea
-valvular disease	influences	prognosis
-valve replacement	improves	survival
+severe valvular disease	predicts	mortality
+rheumatic valvular disease	predisposes	atrial fibrillation
+degenerative valvular disease	predisposes	calcification
+calcification	contributes to	stenosis progression
+bicuspid aortic valve	predisposes to	aortic stenosis
+bicuspid aortic valve	predisposes to	aortic regurgitation
+calcific degeneration	leads to	stenosis
+infective endocarditis	risk increases with	dental procedures
+dental procedures	require	antibiotic prophylaxis
+antibiotic prophylaxis	is recommended for	high-risk valvular patients
+valvular disease	is common in	elderly
+advanced age	is associated with	degenerative valvular disease
+hypertension	is a risk factor for	aortic stenosis
+diabetes mellitus	is a risk factor for	valvular disease
+hyperlipidemia	is a risk factor for	calcific valve disease
+smoking	is a risk factor for	calcific aortic stenosis
+renal impairment	worsens	outcomes after valve surgery
+congenital valve disease	presents in	pediatric patients
+pediatric valvular disease	is a	subset of care
+pregnancy	increases risk during	valvular disease surgery
+valvular disease	complicates	pregnancy
+women with aortic stenosis	have	pregnancy risk
+age	is a predictor of	valve surgery outcomes
+body mass index	is associated with	valvular disease progression
+left atrial size	correlates with	atrial fibrillation risk
+left ventricular function	affects	valve surgery candidacy
+prosthetic valve endocarditis	is a complication of	prosthetic valve
+thrombus	can form on	prosthetic valve
+valve disease	influences	hemodynamics
+valvular lesion	determines	surgical approach
+valve morphology	informs	surgical planning
+left ventricle	hypertrophies	in aortic stenosis
+left ventricle	dilates	in aortic regurgitation
+left atrium	dilates	mitral stenosis
+right ventricle	faces	increased afterload in pulmonary stenosis
+atrial enlargement	results from	mitral stenosis
+structural valve deterioration	occurs with	bioprosthetic valve
+bio-prosthetic valve	experiences	wear with time
+mechanical valve	durable	long-term planning
+bioprosthetic valve	has	limited durability
+prosthetic valve	requires	lifelong follow-up
+anticoagulation therapy	increases	bleeding risk
+bleeding risk	is elevated by	anticoagulation therapy
+valvular heart disease	can be	asymptomatic early
+valvulopathy	may be	incidentally detected
+valvular lesion	is classified as	stenotic or regurgitant
+stenosis	results in	pressure overload
+regurgitation	results in	volume overload
+calcified valve	impairs	valve function
+valve opening	becomes	restricted
+valve closing	becomes	leaky
+valve annulus	may dilate	in regurgitation
+leaflets	may thicken	in rheumatic disease
+chordae tendineae	rupture	causes acute mitral regurgitation
+papillary muscles	dysfunction	causes	regurgitation
+endocardial surface	can be	infected in endocarditis
+sterile vegetation	can be	on prosthetic valve
+valve repair	preserves	native valve structure
+valve repair	avoids	prosthetic valve implantation
+prosthetic valve	may require	lifelong anticoagulation
+prosthesis	size-match ->	valvular function
+surgical risk	increases with	age
+operating room time	correlates with	outcome
+valve surgery	improves	symptoms in select patients
+recovery time	varies with	procedure type
+postoperative care	includes	anticoagulation management
+infectious risk	is increased by	prosthetic material
+thromboembolism risk	persists after	valve replacement
+quality of life	improves after	valve repair
+survival	improves after	valve replacement
+mortality	is higher with	delayed surgery
+readmission	associated with	valvular disease hospitalization
+cardiac output	improves with	valve replacement
+afterload	decreases with	aortic valve replacement
+preload	decreases with	mitral valve repair
+left atrial pressure	decreases with	mitral valve repair
+valvular heart disease	shares	risk factors with coronary disease
+cardiovascular risk	overlaps with	valvular disease
+echocardiographic severity	guides	intervention timing
+surgical candidacy	determined by	valve function and symptoms
+valve disease care	requires	multidisciplinary team
+anticoagulation management	is part of	valve care
+prosthetic valve durability	influences	timing of replacement
+valve hemodynamics	depend on	heart rate
+valve disease	is enriched by	comorbidity burden
+left atrial appendage	may be	site of thrombosis in atrial fibrillation
+valve disease	increases	work for myocardium
+clinical guideline	informs	timing of valve intervention
+cardiomyopathy	may coexist with	valvular disease
+chronic rheumatic valvular disease	progresses with	immune response
+valvular disease	can be	congenital or acquired
+degenerative valvular disease	is common in	elderly
+calcific degeneration	is associated with	aging
+aneurysm	is associated with	bicuspid aortic valve
+prosthesis-patient mismatch	can occur after	valve replacement
+valve stenosis	reduces	forward flow
+valve regurgitation	increases	backward flow
+cardiac output	depends on	valve competence
+transvalvular gradient	reflects	stenosis severity
+regurgitant fraction	indicates	regurgitation severity
+valve area	correlates with	severity of stenosis
+stroke risk	increases with	atrial fibrillation
+endocarditis prophylaxis	is considered for	dental procedures in high-risk patients
+marfan syndrome	can involve	aortic valve disease
+Concomitant coronary disease	complicates	valve surgery
+left ventricle	function improves	after valve replacement
+cardiac reserve	is a predictor of	surgical outcome
+education level	correlates with	access to valve care
+insurance coverage	affects	access to valve therapies

@@ -1,0 +1,100 @@
+osteoarthritis	is a	degenerative joint disease
+osteoarthritis	affects	knee
+osteoarthritis	affects	hip
+osteoarthritis	affects	hand
+osteoarthritis	affects	spine
+knee	is a	synovial joint
+hip	is a	ball-and-socket joint
+hand joints	include	DIP joints
+joint space	narrows in	osteoarthritis
+osteophyte	forms in	osteoarthritis
+subchondral sclerosis	occurs in	osteoarthritis
+bone marrow lesion	occurs in	knee osteoarthritis
+pain	is a symptom of	osteoarthritis
+morning stiffness	is a feature of	osteoarthritis
+crepitus	accompanies	osteoarthritic joints
+joint effusion	may occur in	osteoarthritis
+range of motion	decreases in	osteoarthritis
+cartilage	degrades in	osteoarthritis
+obesity	is a risk factor for	osteoarthritis
+age	is a risk factor for	osteoarthritis
+female sex	is a risk factor for	osteoarthritis
+prior joint injury	predisposes to	osteoarthritis
+malalignment	predisposes to	osteoarthritis
+repetitive joint use	predisposes to	osteoarthritis
+genetics	contribute to	osteoarthritis
+diabetes mellitus	is associated with	osteoarthritis
+hypertension	is associated with	osteoarthritis
+metabolic syndrome	is a risk factor for	osteoarthritis
+pain	worsens with	movement
+pain	worsens with	activity
+pain	improves with	rest
+stiffness	improves with	movement
+crepitus	is felt with	joint movement
+function	declines with	osteoarthritis
+fatigue	accompanies	chronic osteoarthritis pain
+sleep disturbance	accompanies	chronic osteoarthritis pain
+depression	coexists with	chronic osteoarthritis pain
+hand dexterity	declines with	hand osteoarthritis
+X-ray	detects	joint space narrowing
+X-ray	detects	osteophyte formation
+X-ray	grades	Kellgren-Lawrence grade
+Kellgren-Lawrence grade	classifies	OA severity
+MRI	reveals	cartilage defects
+MRI	reveals	bone marrow lesions
+ultrasound	detects	joint effusion
+bone scan	is rarely used for	OA
+osteophyte	correlates with	OA severity
+acetaminophen	is a	analgesic
+NSAIDs	provide	pain relief
+topical NSAIDs	provide	local pain relief
+intra-articular corticosteroids	provide	short-term relief
+hyaluronic acid injections	provide	lubrication and pain relief
+glucosamine	is used for	OA symptom relief
+chondroitin	is used for	OA symptom relief
+exercise therapy	reduces	pain
+physical therapy	improves	function
+weight loss	reduces	joint load
+bracing	reduces	knee pain
+assistive devices	improves	mobility
+cane	improves	balance
+arthroplasty	improves	pain and function
+total knee replacement	improves	pain and function
+hip replacement	improves	mobility
+unicompartmental knee arthroplasty	preserves	ligaments
+osteotomy	delays	knee replacement
+cartilage restoration	is used for	focal OA
+microfracture	is used for	focal cartilage defect
+platelet-rich plasma	used for	OA symptoms
+arthroplasty	reduces	pain and disability
+postoperative rehabilitation	improves	outcomes
+postoperative infection	is a complication of	knee replacement
+venous thromboembolism	risk after	knee replacement
+prosthesis wear	leads to	revision surgery
+revision surgery	improves	implant function
+surgery	increases	healthcare costs
+weight-bearing exercise	improves	muscle strength
+education	improves	patient outcomes
+self-management	improves	quality of life
+biomechanical load	influences	OA progression
+gait modification	reduces	knee loading
+occupational loading	contributes to	knee OA
+meniscal degeneration	accompanies	OA
+cartilage defect	precedes	OA
+bone marrow edema	relates to	pain severity
+MMPs	participate in	cartilage degradation in OA
+cytokines	modulate	OA pain
+oxidative stress	linked to	OA progression
+bone remodeling	occurs in	OA
+prosthetic loosening	necessitates	revision surgery
+surgical complications	can occur after	knee replacement
+preoperative education	improves	satisfaction after surgery
+postoperative pain	requires	analgesia management
+heart disease	coexists with	OA
+diabetes	increases risk of	OA complications
+kidney disease	contraindication for	NSAIDs
+gastric ulcer	contraindication for	NSAIDs
+obesity	worsens	OA prognosis
+age	predicts	OA progression
+sarcopenia	worsens	OA outcomes
+bone density	affects	OA prognosis

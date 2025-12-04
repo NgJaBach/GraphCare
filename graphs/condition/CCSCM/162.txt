@@ -1,106 +1,134 @@
-interstitial cystitis	is a	bladder pain syndrome
 interstitial cystitis	presents with	pelvic pain
-overactive bladder	is a	bladder dysfunction
-overactive bladder	causes	urinary urgency
-urinary incontinence	is a	bladder control disorder
-urinary incontinence	risk factor for	skin breakdown
-urinary retention	is a	voiding dysfunction
-bladder cancer	is a	malignant bladder tumor
-bladder cancer	risk factor for	smoking
-bladder cancer	presents with	hematuria
-bladder cancer	diagnosed by	cystoscopy
-bladder cancer	treated with	cystectomy
-bladder cancer	may metastasize to	lymph nodes
-bladder diverticulum	is a	bladder abnormality
-bladder diverticulum	associated with	bladder outlet obstruction
-bladder stones	is a	urinary tract stone
-bladder stones	causes	hematuria
-bladder stones	treated with	lithotripsy
-urethral stricture	is a	urethral narrowing
-urethral stricture	causes	urinary retention
-urethral stricture	treated with	urethral dilatation
-urethritis	is a	urethral infection
-urethritis	presents with	dysuria
-neurogenic bladder	is a	bladder dysfunction
-neurogenic bladder	caused by	spinal cord injury
-bladder outlet obstruction	causes	urinary retention
-bladder outlet obstruction	treated with	alpha-blocker
-bladder outlet obstruction	requires	catheterization
-detrusor overactivity	is a	bladder dysfunction
-detrusor overactivity	treated with	antimuscarinic
-nocturnal enuresis	is a	sleep-related bladder disorder
-vesicoureteral reflux	is a	urinary reflux
-vesicoureteral reflux	increases risk for	pyelonephritis
-pelvic floor dysfunction	is a	pelvic floor disorder
-pelvic floor dysfunction	contributes to	urinary incontinence
-chronic cystitis	is a	bladder inflammation
-acute cystitis	is a	bladder infection
-bladder cancer	treated with	radical cystectomy
-urine cytology	is a	diagnostic test
-urinalysis	is a	diagnostic test
-urine culture	is a	diagnostic test
-cystoscopy	is a	diagnostic procedure
-cystometry	is a	urodynamic test
-ultrasound bladder	is a	imaging test
-pelvic ultrasound	is a	imaging test
-transurethral resection of bladder tumor	is a	bladder cancer procedure
-radical cystectomy	is a	bladder cancer surgery
-intravesical therapy	is a	bladder cancer treatment
-botulinum toxin	used for	detrusor overactivity
-botulinum toxin injection	reduces	urge incontinence
-oxybutynin	is a	anticholinergic
-tolterodine	is a	antimuscarinic
-solifenacin	is a	antimuscarinic
-mirabegron	is a	beta-3 agonist
-antimuscarinic	cause	dry mouth
-antimuscarinic	cause	constipation
-urethral sling	is a	surgical treatment for urinary incontinence
-bladder augmentation	is a	surgical option for bladder dysfunction
-augmentation cystoplasty	is a	bladder augmentation procedure
-sacral nerve stimulation	is a	neuromodulation
-sacral nerve stimulation	improves	urinary incontinence
-alpha-blocker	used for	bladder outlet obstruction
-tamsulosin	is a	alpha-blocker
-cisplatin	used for	bladder cancer
-carboplatin	used for	bladder cancer
-gemcitabine	used for	bladder cancer
-pembrolizumab	used for	bladder cancer
-urinary catheter	used for	urinary retention
-intermittent catheterization	is a	bladder management method
-suprapubic catheter	is a	urinary diversion device
-urinary tract infection	often caused by	Escherichia coli
-antibiotics	used for	urinary tract infection
-ciprofloxacin	used for	urinary tract infection
-nitrofurantoin	used for	urinary tract infection
-pregnancy	increases risk for	urinary incontinence
-obesity	is a	risk factor for urinary incontinence
-smoking	increases risk for	bladder cancer
-diabetes	increases risk for	urinary tract infection
-age	increases risk for	nocturia
-female sex	increases risk for	urinary incontinence
-vesicoureteral reflux	sequelae	pyelonephritis
-urinalysis	detects	hematuria
-urinalysis	detects	proteinuria
-urine culture	detects	bacteriuria
-urine cytology	detects	urothelial carcinoma
-urinalysis	detects	leukocyturia
-bladder cancer	recurrence risk	high after TURBT
-transurethral resection of bladder tumor	may cause	bladder perforation
-transurethral resection of bladder tumor	followed by	intravesical therapy
-intravesical therapy	includes	immunotherapy
-interstitial cystitis	treated with	amitriptyline
+interstitial cystitis	presents with	urinary frequency
+interstitial cystitis	presents with	urinary urgency
+interstitial cystitis	presents with	nocturia
+interstitial cystitis	associated with	autoimmune conditions
+interstitial cystitis	diagnosed by	cystoscopy
+interstitial cystitis	diagnosed by	bladder diary
 interstitial cystitis	treated with	pentosan polysulfate
-pentosan polysulfate	used for	interstitial cystitis
-cystoscopy	used for	bladder cancer diagnosis
-urethral dilation	is a	dilatation procedure
-intravesical therapy	is a	bladder cancer treatment
-nitrofurantoin	used for	urinary tract infection prophylaxis
-imaging	used for	bladder evaluation
-urine cytology	recommended for	surveillance
-interstitial cystitis	is treated with	amitriptyline
-interstitial cystitis	is treated with	pentosan polysulfate
-pentosan polysulfate	used for	interstitial cystitis
-cystoscopy	used for	bladder cancer diagnosis
-urethral dilation	used for	urethral obstruction
-intravesical therapy	used for	non-muscle invasive bladder cancer
-imaging	guides	bladder evaluation
+interstitial cystitis	treated with	amitriptyline
+interstitial cystitis	managed with	pelvic floor therapy
+interstitial cystitis	managed with	bladder instillation
+interstitial cystitis	risk factor	female sex
+female sex	increases risk for	interstitial cystitis
+overactive bladder	presents with	urgency
+overactive bladder	presents with	frequency
+overactive bladder	treated with	antimuscarinic agents
+overactive bladder	diagnosed by	urodynamics
+urge incontinence	presents with	urinary leakage
+urge incontinence	treated with	anticholinergic therapy
+urge incontinence	diagnosed by	bladder diary
+stress urinary incontinence	presents with	leakage on exertion
+stress urinary incontinence	treated with	pelvic floor training
+stress urinary incontinence	diagnosed by	cough stress test
+stress urinary incontinence	risk factor	obesity
+bladder neck obstruction	presents with	voiding difficulty
+bladder neck obstruction	diagnosed by	uroflowmetry
+bladder neck obstruction	treated with	surgical relief
+urethral stricture	presents with	weak urine stream
+urethral stricture	diagnosed by	urethrogram
+urethral stricture	treated with	dilatation
+urethral diverticulum	presents with	postvoid dribbling
+urethral diverticulum	diagnosed by	imaging
+urethral diverticulum	treated with	diverticulectomy
+bladder outlet obstruction	presents with	urinary retention
+bladder outlet obstruction	diagnosed by	uroflowmetry
+bladder outlet obstruction	treated with	catheterization
+hemorrhagic cystitis	presents with	hematuria
+hemorrhagic cystitis	caused by	chemotherapy
+hemorrhagic cystitis	diagnosed by	urinalysis with blood
+radiation cystitis	presents with	hematuria
+radiation cystitis	occurs after	pelvic radiotherapy
+radiation cystitis	treated with	hyperbaric oxygen therapy
+bladder cancer	presents with	gross hematuria
+bladder cancer	diagnosed by	cystoscopy with biopsy
+bladder cancer	risk factor	smoking
+bladder cancer	risk factor	age
+bladder cancer	risk factor	occupational exposure to dyes
+urothelial carcinoma	is a type of	bladder cancer
+bladder cancer	metastasizes to	regional lymph nodes
+bladder cancer	treated with	surgical resection
+bladder cancer	treated with	intravesical chemotherapy
+bladder cancer	treated with	intravesical BCG therapy
+intravesical BCG therapy	used for	nonmuscle invasive bladder cancer
+smoking	increases risk for	bladder cancer
+occupational exposure	increases risk for	bladder cancer
+age	increases risk for	bladder cancer
+hematuria	is symptom of	bladder cancer
+urinalysis	shows	hematuria
+cystoscopy	used for	bladder cancer
+biopsy	confirms	bladder cancer
+cytology	detects	malignant cells in urine
+urine cytology	detects	malignant cells
+intravesical chemotherapy	used for	nonmuscle invasive bladder cancer
+intravesical BCG therapy	used for	nonmuscle invasive bladder cancer
+nonmuscle invasive bladder cancer	is a subtype of	bladder cancer
+urothelial carcinoma	is a type of	bladder cancer
+bladder cancer	prognosis	overall survival
+bladder cancer	stage determines	treatment approach
+smoking	contributes to	bladder cancer progression
+radiation therapy	can cause	hemorrhagic cystitis
+cyclophosphamide	can cause	hemorrhagic cystitis
+hematuria	is symptom of	urological malignancy
+dysuria	is symptom of	cystitis
+urgency	persists in	interstitial cystitis
+dysuria	common in	bladder infections
+aging	reduces	bladder capacity
+aging	increases risk for	urinary incontinence
+obesity	increases risk for	urinary incontinence
+pelvic surgery	predisposes to	urethral injury
+neurogenic bladder	associated with	diabetes mellitus
+neurogenic bladder	managed with	clean intermittent catheterization
+diabetes mellitus	predisposes to	neurogenic bladder
+spinal cord injury	predisposes to	urinary retention
+neurogenic bladder	increases risk for	urinary tract infection
+catheterization	used for	urinary retention
+urinary retention	presents with	bladder distension
+bladder distension	causes	abdominal pain
+pain	reduces	quality of life
+intravesical therapy	includes	chemo agents
+pelvic floor physical therapy	improves	continence
+alpha-blocker therapy	improves	urinary flow in bladder outlet obstruction
+urethral dilation	used for	urethral stricture recurrence prevention
+urethroplasty	improves	long-term patency of urethra
+urethral sphincter surgery	reduces	incontinence
+benign prostatic hyperplasia	causes	bladder outlet obstruction
+benign prostatic hyperplasia	treated with	alpha-blocker therapy
+benign prostatic hyperplasia	treated with	5-alpha-reductase inhibitor
+bladder outlet obstruction	can cause	urinary retention
+hydration status	affects	urinary symptoms
+lifestyle modification	reduces	urinary symptoms
+pelvic floor training	reduces	leakage in stress incontinence
+beta-3 agonist therapy	used for	overactive bladder
+intravesical immunotherapy	used for	bladder cancer
+bladder cancer	recurrence	after resection
+oncologic surveillance	follows	bladder cancer treatment
+urinalysis	monitors	bladder cancer progression
+urine culture	negative for	infection in interstitial cystitis
+urethral injury	presents with	blood at urethral meatus
+urethral injury	diagnosed by	imaging
+urethral injury	treated with	urethral repair
+bone metastases	are rare in	bladder cancer
+regional lymph nodes	involved in	bladder cancer staging
+patient-reported outcomes	measure	urinary symptoms
+urinary symptoms	impact on	daily activities
+biomarkers	predict	bladder cancer prognosis
+urine turbidity	indicates	infection
+urine culture	positive for	bacteria in bladder infection
+urine culture	negative for	bacteria in noninfectious conditions
+urine cytology	positive for	high-grade urothelial carcinoma
+urinary incontinence	progresses to	persistent leakage
+urethral stricture	recurrence after	dilation
+urination	timing	becomes irregular in bladder outlet obstruction
+voiding	difficulty in	bladder neck obstruction
+postvoid residual	measures	bladder emptying efficiency
+pelvic floor dysfunction	worsens	stress incontinence
+cystitis	includes	bladder inflammation
+urinary diary	records	symptom frequency
+pelvic radiotherapy	increases risk for	radiation cystitis
+painful bladder syndrome	synonym for	interstitial cystitis
+urethral diverticulum	risk factor	prior urethral surgery
+urine analysis	detects	blood in urine
+urine analysis	detects	leukocytes
+leukocytes	indicate	inflammation in bladder/urethra
+leukocyturia	indicates	infection in urinary tract

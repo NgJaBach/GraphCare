@@ -1,0 +1,99 @@
+blepharoplasty	is a	eyelid surgical procedure
+ptosis repair	is a	eyelid surgical procedure
+canthoplasty	is a	eyelid surgical procedure
+canthorrhaphy	is a	eyelid surgical procedure
+tarsorrhaphy	is a	eyelid surgical procedure
+entropion repair	is a	eyelid surgical procedure
+ectropion repair	is a	eyelid surgical procedure
+eyelid tumor excision	is a	eyelid surgical procedure
+chalazion excision	is a	eyelid surgical procedure
+eyelid marginectomy	is a	eyelid surgical procedure
+epicanthoplasty	is a	eyelid surgical procedure
+eyelid reconstruction	is a	eyelid surgical procedure
+eyelid lesion excision	is a	eyelid surgical procedure
+eyelid margin repair	is a	eyelid surgical procedure
+lid margin reconstruction	is a	eyelid surgical procedure
+lid resection	is a	eyelid surgical procedure
+eyelid margin debridement	is a	eyelid surgical procedure
+blepharoptosis repair	is a	eyelid surgical procedure
+levator aponeurosis repair	is a	eyelid surgical procedure
+frontalis sling	is a	eyelid surgical procedure
+medial canthoplasty	is a	eyelid surgical procedure
+lateral canthoplasty	is a	eyelid surgical procedure
+orbicularis oculi tightening	is a	eyelid surgical procedure
+eyelid fat pad relocation	is a	eyelid surgical procedure
+levator advancement	is a	eyelid surgical procedure
+eyelid crease revision	is a	eyelid surgical procedure
+eyelid skin grafting	is a	eyelid surgical procedure
+lagophthalmos repair	is a	eyelid surgical procedure
+ptosis correction	is a	eyelid surgical procedure
+frontalis sling procedure	is a	eyelid surgical procedure
+tarsal plate graft	is a	eyelid surgical procedure
+canthal tendon repair	is a	eyelid surgical procedure
+lid resection	is a	eyelid surgical procedure
+eyelid margin stabilization	is a	eyelid surgical procedure
+eyelid contouring	is a	eyelid surgical procedure
+blepharoplasty with browlift	is a	eyelid surgical procedure
+eyelid resurfacing	is a	eyelid surgical procedure
+eyelid split-thickness graft	is a	eyelid surgical procedure
+blepharoptosis correction	is a	eyelid surgical procedure
+levator aponeurosis advancement	is a	eyelid surgical procedure
+levator aponeurosis repositioning	is a	eyelid surgical procedure
+epiblepharon repair	is a	eyelid surgical procedure
+lid margin repair with graft	is a	eyelid surgical procedure
+eyelid lesion biopsy	is a	diagnostic procedure
+eyelid margin repair with graft	is a	eyelid surgical procedure
+eyelid scar revision	is a	eyelid surgical procedure
+preseptal facelift? no	skip
+eyelid canaloplasty	is a	eyelid surgical procedure
+eyelid contour graft	is a	eyelid surgical procedure
+eyelid fat grafting	is a	eyelid surgical procedure
+eyelid demarcation	is a	eyelid surgical procedure
+eyelid margin reconstruction with graft	is a	eyelid surgical procedure
+eyelid preserving surgery	is a	eyelid surgical procedure
+epicanthus repair	is a	eyelid surgical procedure
+lid retractor repair	is a	eyelid surgical procedure
+eyelid retractor release	is a	eyelid surgical procedure
+blepharoplasty	used for	eyelid droop correction
+ptosis repair	used for	ptosis correction
+canthoplasty	used for	eyelid support
+canthorrhaphy	used for	eyelid tightening
+tarsorrhaphy	used for	blink protection
+entropion repair	used for	eyelid inward turning
+ectropion repair	used for	eyelid outward turning
+eyelid tumor excision	used for	eyelid tumor removal
+chalazion excision	used for	chalazion treatment
+eyelid marginectomy	used for	lesion clearance
+epicanthoplasty	used for	eyelid contouring
+eyelid reconstruction	used for	eyelid defect repair
+eyelid lesion excision	used for	lesion removal
+eyelid margin repair	used for	lesion closure
+lid margin reconstruction	used for	margin restoration
+lid resection	used for	lesion removal
+eyelid margin debridement	used for	debris clearance
+blepharoptosis repair	used for	ptosis correction
+levator aponeurosis repair	used for	ptosis correction
+frontalis sling	used for	severe ptosis
+medial canthoplasty	used for	eyelid stabilization
+lateral canthoplasty	used for	eyelid stabilization
+orbicularis oculi tightening	used for	eyelid tightening
+eyelid fat pad relocation	used for	contour restoration
+ptosis correction with frontalis sling	used for	ptosis correction
+eyelid crease depth adjustment	used for	cosmetic-therapeutic
+blepharoplasty with fat repositioning	used for	eyelid contouring
+eyelid margin grafting	used for	margin restoration
+epicanthoplasty with eyelid balancing	used for	eyelid balance
+eyelid margin stabilization with glue	used for	wound closure
+eyelid skin graft	used for	eyelid defect coverage
+eyelid margin reconstruction with graft	used for	margin restoration
+eyelid twitching treatment	is a	eyelid medical procedure
+eyelid retractor plication	is a	eyelid surgical procedure
+blepharoplasty with ptosis repair	is a	eyelid surgical procedure
+lid margin tightening	is a	eyelid surgical procedure
+eyelid margin stabilization	is a	eyelid surgical procedure
+eyelid margin relief	is a	eyelid surgical procedure
+blepharoplasty with brow lift	is a	eyelid surgical procedure
+eyelid contour refinement	is a	eyelid surgical procedure
+eyelid margin integrity	is a	eyelid surgical goal
+eyelid cosmetic procedure	is a	eyelid procedure
+eyelid reconstruction with graft	is a	eyelid surgical procedure

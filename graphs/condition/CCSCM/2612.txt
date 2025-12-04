@@ -1,102 +1,100 @@
-overexertion	is a	external cause
-overexertion	is a	mechanism of injury
+overexertion	is an	external cause of injury
+overexertion	is coded as	external cause code
 overexertion	may cause	muscle strain
 overexertion	may cause	back strain
 overexertion	may cause	neck strain
-overexertion	may cause	shoulder strain
-overexertion	may cause	tendinitis
 overexertion	may cause	sprain
-overexertion	may cause	hernia
-overexertion	may cause	rhabdomyolysis
-overexertion	may cause	dehydration
-overexertion	may cause	heat illness
-overexertion	may cause	fatigue
-overexertion	may cause	soreness
-overexertion	may cause	pain
-overexertion	increases risk of	acute injury
-overexertion	increases risk of	musculoskeletal injury
-overexertion	increases risk of	soft tissue injury
-overexertion	increases risk of	disc injury
-overexertion	increases risk of	stress fracture
-overexertion	increases risk of	ligament sprain
-overexertion	increases risk of	joint dislocation
-overexertion	associated with	athletic activity
-overexertion	associated with	heavy lifting
-overexertion	associated with	repetitive motion
-overexertion	associated with	overtraining
-overexertion	associated with	fatigue syndrome
+overexertion	may cause	tendinopathy
+overexertion	increases risk of	rhabdomyolysis
+overexertion	increases risk of	dehydration
+overexertion	increases risk of	heat illness
+overexertion	increases risk of	heat stroke
+overexertion	increases risk of	electrolyte imbalance
+overexertion	increases risk of	fatigue
+overexertion	increases risk of	chest pain
+overexertion	increases risk of	syncope
+overexertion	increases risk of	dizziness
+overexertion	increases risk of	hospital admission
+overexertion	increases risk of	emergency department visit
+overexertion	increases risk of	rehabilitation referral
+overexertion	increases risk of	physical therapy need
+overexertion	increases risk of	ambulance transport
+overexertion	associated with	fatigue
+overexertion	associated with	muscle soreness
+overexertion	associated with	delayed onset muscle soreness
+overexertion	associated with	sports injury
+overexertion	associated with	occupational injury
+overexertion	associated with	back pain
+overexertion	associated with	chronic back pain
+overexertion	associated with	tendon injury
+overexertion	associated with	ligament injury
+overexertion	associated with	exertional rhabdomyolysis
+overexertion	associated with	exertional heat illness
+overexertion	linked to	hospital stay length
+overexertion	linked to	readmission
+overexertion	linked to	length of stay
+overexertion	linked to	return-to-work delay
+overexertion	linked to	rehabilitation outcome
+overexertion	linked to	functional limitation
+overexertion	linked to	decreased endurance
+overexertion	linked to	poor performance
+overexertion	related to	exertional injury
+overexertion	related to	physical overuse
+overexertion	related to	heat-related illness
+overexertion	related to	electrolyte disturbance
+overexertion	related to	dehydration syndrome
+overexertion	related to	muscle fatigue
 overexertion	observed in	athletes
-overexertion	observed in	laborers
-overexertion	observed in	manual workers
-overexertion	observed in	endurance athletes
-overexertion	may trigger	exertional angina
-overexertion	may trigger	myocardial infarction
-overexertion	may trigger	arrhythmia
-overexertion	may trigger	syncope
-overexertion	may trigger	stroke
-overexertion	may trigger	sudden death
-myocardial infarction	may be precipitated by	exertion
-angina	may be triggered by	exertion
-arrhythmia	may be triggered by	exertion
-syncope	may be triggered by	exertion
-stroke	may be triggered by	exertion
-sudden death	may be preceded by	exertion
-exertion	is a	form of physical activity
-exertion	leads to	energy expenditure
-exertion	related to	cardiovascular stress
-exertion	related to	heat production
-exertion	constitutes	physical activity
-physical activity	is a	predictor of outcomes
-athlete	at risk for	overexertion
-laborer	at risk for	overexertion
-manual worker	at risk for	overexertion
-endurance athlete	at risk for	overexertion
-exertion	triggers	chest pain
-exertion	triggers	arrhythmia
-exertion	triggers	syncope
-exertion	precipitates	myocardial infarction
-exertion	precipitates	angina
-exertion	related to	exertional injury
-exertion	related to	exertional chest pain
-emergency department	visit	overexertion
-hospitalization	associated with	overexertion
-trauma	caused by	overexertion
-injury	related to	overexertion
-death	associated with	overexertion
-sudden death	associated with	exertion
-myocardial infarction	associated with	exertion
-angina	associated with	exertion
-arrhythmia	associated with	exertion
-syncope	associated with	exertion
-stroke	associated with	exertion
-overexertion	is risk factor for	hospitalization
-exertion	is associated with	energy expenditure
-energy expenditure	associated with	exertion
-energy expenditure	increases	caloric burn
-conditioning	reduces risk of	overexertion
-hydration	improves	performance during exertion
-rest	aids recovery from	overexertion
-sleep	aids recovery from	overexertion
-nutrition	supports recovery from	overexertion
-education	reduces risk of	overexertion
-physical fitness	reduces risk of	overexertion
-proper technique	reduces risk of	overexertion
-protective equipment	reduces risk of	overexertion-related injury
-workload	increases risk of	overexertion
-fatigue	worsens recovery after	overexertion
-heat exposure	increases risk of	overexertion-related illness
-cold exposure	increases risk of	overexertion-related injury
-diuretic	increases risk of	dehydration during exertion
-electrolyte imbalance	increases risk of	arrhythmia
-rhabdomyolysis	may result from	severe overexertion
-back injury	may result from	overexertion
-neck injury	may result from	overexertion
-shoulder injury	may result from	overexertion
-joint injury	may result from	overexertion
-bone fracture	may result from	overexertion
-tendon rupture	may result from	overexertion
-ligament injury	may result from	overexertion
-post-exertional syndrome	is a	related concept
-exertion	is a	physical activity
-physical activity	predicts	hospitalization risk
-external cause code	denotes	mechanism of injury
+overexertion	observed in	manual laborers
+overexertion	observed in	construction workers
+overexertion	observed in	weekend athletes
+overexertion	predicts	hospital readmission
+overexertion	predicts	ED revisit
+overexertion	predicts	prolonged recovery time
+overexertion	predicts	length of stay
+overexertion	predicts	mortality risk
+overexertion	predicts	return to work delay
+overexertion	predicts	rehabilitation need
+overexertion	predicts	functional outcome
+overexertion	predicts	pain duration
+overexertion	mitigated by	rest
+overexertion	mitigated by	hydration
+overexertion	mitigated by	cooling
+overexertion	mitigated by	analgesia
+overexertion	mitigated by	physical therapy
+overexertion	reduces	risk of severe injury
+overexertion	reduces	length of stay
+overexertion	reduces	complications
+overexertion	reduces	recovery time
+overexertion	reduces	hospital readmission risk
+overexertion	reduces	need for surgery
+overexertion	reduces	need for intensive care
+overexertion	interacts with	hydration status
+overexertion	interacts with	electrolyte management
+overexertion	interacts with	metabolic demand
+overexertion	influences	cardiometabolic stress
+overexertion	influences	rehabilitation progress
+overexertion	influences	pain control needs
+overexertion	requires	rest period
+overexertion	results in	decreased activity
+overexertion	results in	compensatory movement changes
+overexertion	results in	muscle stiffness
+overexertion	results in	soreness
+overexertion	presents as	chest pain
+overexertion	presents as	shortness of breath
+overexertion	associated with	tachycardia
+overexertion	associated with	lactic acidosis
+overexertion	associated with	improper recovery
+overexertion	defined as	excessive physical exertion
+overexertion	linked to	exertional injuries
+overexertion	is common in	athletes
+overexertion	is common in	manual laborers
+overexertion	is common in	construction workers
+overexertion	is a feature of	exertional injury
+overexertion	is a mechanism of	injury
+overexertion	is a mechanism of	muscle damage
+overexertion	is a trigger for	fatigue
+overexertion	is a trigger for	dehydration
+overexertion	is a trigger for	electrolyte disturbance
+overexertion	is a mechanism of	tissue damage
+overexertion	is a predictor of	adverse outcomes

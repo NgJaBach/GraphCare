@@ -1,100 +1,100 @@
-mammography	screens for	breast cancer
-colonoscopy	screens for	colorectal cancer
-fecal immunochemical test	screens for	colorectal cancer
-CT colonography	screens for	colorectal cancer
-low-dose CT scan	screens for	lung cancer
-sputum cytology	screens for	lung cancer
-prostate-specific antigen test	screens for	prostate cancer
-digital rectal examination	screens for	prostate cancer
-abdominal ultrasound	screens for	abdominal aortic aneurysm
-ankle-brachial index	screens for	peripheral artery disease
-blood pressure screening	screens for	hypertension
-glucose screening	screens for	diabetes
-glycated hemoglobin test	screens for	diabetes
-oral glucose tolerance test	screens for	diabetes
-lipid panel	screens for	hyperlipidemia
+screening test	detects	disease
+screening test	screens for	suspected condition
+screening program	reduces	mortality
+screening test	predicts	readmission
+CT scan	detects	mass
+MRI	detects	lesion
+ultrasound	detects	cyst
+X-ray	detects	fracture
+mammography	detects	breast cancer
+colonoscopy	detects	polyps
+fecal occult blood test	detects	bleeding
+blood test	screens for	anemia
+blood test	detects	infection
+nasal swab	detects	influenza
+PCR test	detects	infection
+serology	detects	antibody
+genetic test	predicts	disease risk
+risk score	predicts	disease progression
+biomarker	predicts	prognosis
+biomarker	indicates	disease activity
+genetic counseling	reduces	risk
+genetic test	informs	treatment decisions
+screening test	informs	treatment decisions
+urine test	screens for	pregnancy
+urine analysis	detects	kidney disease
+proteinuria	indicates	kidney disease
+lipid panel	indicates	cardiovascular risk
+HbA1c	predicts	diabetes onset
+blood glucose	indicates	diabetes
+cognitive screening	predicts	dementia progression
+APOE status	predicts	Alzheimer risk
+speech test	detects	aphasia
+cardiac risk score	predicts	myocardial infarction
+ECG	detects	arrhythmia
+treadmill test	detects	ischemia
+CT angiography	detects	vascular occlusion
+PET scan	detects	metabolic abnormality
+screening mammography	detects	breast lesion
+colorectal cancer screening	detects	colorectal cancer
+urinalysis	detects	urinary tract infection
+stool test	detects	colorectal bleeding
+nasopharyngeal swab	detects	respiratory virus
+protein biomarker	predicts	cancer recurrence
+tumor marker	predicts	prognosis
+urine cytology	detects	bladder cancer
+sputum cytology	detects	lung cancer
+breath test	detects	pathogen
+skin test	detects	allergy
+allergy test	identifies	allergen
+autoimmune screen	detects	autoimmune disease
+molecular screen	detects	genetic mutation
+genetic panel	detects	inherited disorder
+FISH test	detects	chromosomal abnormality
+karyotype	detects	chromosomal abnormality
+flow cytometry	screens for	leukemia
+cytology	detects	cancer cells
+biopsy	confirms	malignancy
+ultrasound screening	detects	mass
+screening ultrasound	detects	lesion
+digital rectal exam	detects	colorectal cancer
+prostate cancer screening	detects	prostate cancer
+PSA test	detects	prostate cancer
+LDCT	detects	lung cancer
+low-dose CT screening	detects	lung cancer
+lipid panel	predicts	cardiovascular risk
 creatinine test	screens for	kidney disease
-urinalysis	screens for	kidney disease
-microalbumin test	screens for	kidney disease
-bone density test	screens for	osteoporosis
-bone mineral density test	screens for	osteoporosis
-DEXA scan	screens for	osteoporosis
-retinopathy screening	screens for	diabetic retinopathy
-ophthalmic examination	screens for	glaucoma
-HPV test	screens for	cervical cancer
-Pap smear	screens for	cervical cancer
-colposcopy	screens for	cervical cancer
-hepatitis B surface antigen test	screens for	hepatitis B infection
-hepatitis C antibody test	screens for	hepatitis C infection
-HIV screening	screens for	HIV infection
-syphilis serology	screens for	syphilis infection
-tuberculosis skin test	screens for	tuberculosis
-interferon-gamma release assay	screens for	tuberculosis
-spirometry	screens for	chronic obstructive pulmonary disease
-nasal swab PCR test	screens for	influenza
-urine culture	screens for	urinary tract infection
-urinalysis with microscopy	screens for	kidney disease
-liver function test	screens for	liver disease
-liver ultrasound	screens for	liver disease
-alpha-fetoprotein test	screens for	hepatocellular carcinoma
-CA-125 test	screens for	ovarian cancer
-transvaginal ultrasound	screens for	ovarian cancer
-CA 19-9 test	screens for	pancreatic cancer
-TSH test	screens for	thyroid disease
-free thyroxine test	screens for	thyroid disease
-thyroid peroxidase antibodies	screens for	autoimmune thyroiditis
-A1c test	screens for	diabetes
-lipoprotein(a) test	screens for	cardiovascular risk
-homocysteine test	screens for	cardiovascular risk
-CRP test	screens for	cardiovascular risk
-carotid ultrasound	screens for	carotid artery stenosis
-bone turnover markers	screens for	osteoporosis progression
-urine albumin/creatinine ratio	screens for	kidney disease
-renal ultrasound	screens for	kidney disease
-electrocardiography	screens for	arrhythmia
-Holter monitor	screens for	arrhythmia
-cardiac stress test	screens for	myocardial ischemia
-MRI for brain tumors	screens for	brain tumor
-CT angiography	screens for	vascular disease
-breast MRI	screens for	breast cancer
-MRI pelvis	screens for	ovarian cancer
-colorectal cancer stool DNA test	screens for	colorectal cancer
-fexible sigmoidoscopy	screens for	colorectal cancer
-fecal DNA test	screens for	colorectal cancer
-serum ferritin test	screens for	iron deficiency anemia
-iron studies	screens for	iron deficiency anemia
-iron deficiency anemia screening by ferritin	screens for	iron deficiency anemia
-anemia screening by complete blood count	screens for	anemia
-h. pylori stool antigen test	screens for	peptic ulcer disease
-gastric biopsy	screens for	gastric cancer
-gastric cancer antigen testing	screens for	gastric cancer
-CA-125 multiplex panel	screens for	ovarian cancer
-alpha-fetoprotein-L3	screens for	hepatocellular carcinoma
-urinary cytology	screens for	bladder cancer
-cystoscopy	screens for	bladder cancer
-thyroglobulin test	screens for	thyroid cancer
-thyroid ultrasound	screens for	thyroid nodules
-calcitonin test	screens for	medullary thyroid carcinoma
-CEA test	screens for	colorectal cancer
-CA 15-3	screens for	breast cancer
-CA 27-29	screens for	breast cancer
-BRCA mutation testing	screens for	hereditary breast cancer risk
-mismatch repair gene testing	screens for	Lynch syndrome
-endoscopy	screens for	esophageal cancer
-upper GI endoscopy	screens for	upper GI cancer
-colorectal cancer stool DNA test	screens for	colorectal cancer
-gallbladder ultrasound	screens for	gallbladder disease
-hearing screening	screens for	hearing loss
-visual acuity screening	screens for	eye disease
-newborn metabolic screening	screens for	metabolic disorder
-newborn hearing screening	screens for	congenital hearing loss
-newborn blood spot screening	screens for	metabolic disorder
-blood pressure measurement	screens for	hypertension
-body mass index screening	screens for	obesity
-smoking status screening	screens for	cardiometabolic risk
-family history screening	screens for	cancer risk
-genetic screening	screens for	congenital disorders
-gestational diabetes screening	screens for	gestational diabetes
-glucose tolerance test	screens for	gestational diabetes
-chlamydia test	screens for	chlamydia infection
-gonorrhea test	screens for	gonorrhea infection
+uric acid test	screens for	gout
+thyroid function test	screens for	thyroid disease
+thyroid test	detects	hypothyroidism
+HPV test	detects	cervical cancer risk
+Pap smear	detects	cervical dysplasia
+bone density test	detects	osteoporosis
+DEXA scan	detects	osteoporosis
+MRI brain screening	detects	brain lesion
+EEG screening	detects	seizure activity
+blood culture	detects	bacteremia
+urine culture	detects	urinary infection
+lactate test	detects	lactic acidosis
+stool antigen test	detects	Giardia
+respiratory panel	detects	respiratory pathogen
+etiology panel	detects	infection
+CA-125 test	indicates	ovarian cancer risk
+CA 19-9 test	indicates	pancreatic cancer risk
+BRCA1/2 test	predicts	inherited cancer risk
+SARS-CoV-2 test	detects	COVID-19
+tuberculosis test	detects	tuberculosis
+IGRA	detects	tuberculosis
+metabolic panel	indicates	metabolic syndrome
+BMI	predicts	metabolic risk
+waist circumference	predicts	cardiometabolic risk
+glucose tolerance test	detects	impaired glucose tolerance
+oral glucose tolerance test	detects	diabetes
+fasting glucose	indicates	prediabetes
+liver function test	detects	liver disease
+ALT test	detects	liver injury
+AST test	detects	liver injury
+bilirubin test	detects	jaundice
+albumin test	indicates	liver disease progression
+creatinine clearance test	estimates	kidney function
+urinalysis dipstick	detects	urinary abnormalities

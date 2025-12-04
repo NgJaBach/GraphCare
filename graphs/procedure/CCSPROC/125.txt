@@ -1,0 +1,59 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	removes	uterus
+hysterectomy	removes	cervix
+hysterectomy	indicated for	fibroids
+hysterectomy	indicated for	endometrial cancer
+hysterectomy	indicated for	cervical cancer
+hysterectomy	indicated for	abnormal uterine bleeding
+hysterectomy	indicated for	endometriosis
+hysterectomy	indicated for	uterine prolapse
+hysterectomy	indicated for	adenomyosis
+hysterectomy	combined with	oophorectomy
+hysterectomy	combined with	salpingo-oophorectomy
+hysterectomy	performed via	abdominal incision
+hysterectomy	performed via	vaginal route
+hysterectomy	performed via	laparoscopic approach
+hysterectomy	requires	anesthesia
+hysterectomy	requires	blood transfusion
+hysterectomy	risk of	bleeding
+hysterectomy	risk of	infection
+hysterectomy	risk of	thromboembolism
+hysterectomy	risk of	urinary injury
+hysterectomy	risk of	anemia
+hysterectomy	risk of	urinary incontinence
+hysterectomy	risk of	sexual dysfunction
+hysterectomy	complication	adhesions
+hysterectomy	complication	bladder injury
+hysterectomy	complication	wound infection
+hysterectomy	complication	pneumonia
+hysterectomy	outcome	improved quality of life
+hysterectomy	outcome	relief of symptoms
+hysterectomy	outcome	reduced bleeding
+hysterectomy	outcome	menopause
+hysterectomy	effect	hormonal balance
+hysterectomy	effect	bone density
+hysterectomy	follow-up	surveillance
+hysterectomy	prognosis	survival
+hysterectomy	prognosis	disease-free survival
+hysterectomy	coding	total hysterectomy
+hysterectomy	terminology	uterine removal
+hysterectomy	alternative to	myomectomy
+hysterectomy	alternative to	uterine-sparing procedures
+hysterectomy	commonly performed with	pelvic floor repair
+hysterectomy	commonly performed with	cystoscopy
+hysterectomy	commonly performed with	lymphadenectomy
+hysterectomy	associated with	pelvic adhesions
+hysterectomy	associated with	ovary preservation
+hysterectomy	associated with	ovarian removal
+hysterectomy	associated with	quality of life improvement
+hysterectomy	duration	hospitalization
+hysterectomy	benefit	symptom relief
+hysterectomy	preoperative evaluation	imaging
+hysterectomy	preoperative evaluation	laboratory tests
+hysterectomy	perioperative plan	analgesia
+hysterectomy	perioperative plan	antibiotics
+hysterectomy	postoperative plan	rehabilitation
+hysterectomy	postoperative plan	discharge
+hysterectomy	hospital stay	duration
+hysterectomy	cost	hospitalization
+hysterectomy	education	patient counseling

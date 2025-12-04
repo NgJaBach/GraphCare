@@ -1,102 +1,100 @@
-phlebitis	associated with	intravenous catheter
-intravenous catheter	increases risk of	phlebitis
-superficial phlebitis	affects	superficial vein
-thrombophlebitis	associated with	vein thrombosis
-deep vein thrombosis	is a type of	venous thromboembolism
+phlebitis	is a	venous inflammation
+thrombophlebitis	is a	thrombosis with inflammation
+thromboembolism	is a	vascular event
 venous thromboembolism	includes	deep vein thrombosis
 venous thromboembolism	includes	pulmonary embolism
-deep vein thrombosis	may cause	pulmonary embolism
-pulmonary embolism	causes	hypoxemia
-D-dimer	elevated in	venous thromboembolism
-duplex ultrasonography	used for	deep vein thrombosis
-duplex ultrasonography	diagnostic for	deep vein thrombosis
-ultrasound	used for	detection of thrombosis
-compression therapy	recommended for	superficial thrombophlebitis
-NSAIDs	used for	phlebitis pain
-anticoagulation	used for	deep vein thrombosis
-heparin	used for	deep vein thrombosis
-low-molecular-weight heparin	used for	venous thromboembolism
-warfarin	used for	venous thromboembolism
-apixaban	used for	pulmonary embolism
-rivaroxaban	used for	deep vein thrombosis
-cancer	increases risk of	venous thromboembolism
-surgery	increases risk of	deep vein thrombosis
-pregnancy	increases risk of	venous thromboembolism
-immobility	increases risk of	venous thromboembolism
-obesity	increases risk of	venous thromboembolism
-estrogen therapy	increases risk of	venous thromboembolism
-smoking	increases risk of	thrombosis
-age	increases risk of	venous thromboembolism
-infection	may complicate	catheter-related phlebitis
-catheter-related infection	may accompany	thrombophlebitis
-intravenous catheter	associated with	phlebitis
-central venous catheter	increases risk of	thrombosis
-thrombosis	obstructs	venous lumen
-edema	accompanies	thrombophlebitis
-erythema	is sign of	phlebitis
-tenderness	is sign of	phlebitis
-palpable cord	is sign of	superficial thrombophlebitis
-fever	may accompany	septic thrombophlebitis
-sepsis	can complicate	catheter-related infection
-readmission	associated with	venous thromboembolism
-mortality	risk with	pulmonary embolism
-hospitalization	increases risk of	venous thromboembolism
-central line	increases risk of	infection
-D-dimer	may be elevated in	infection
-DVT	is a type of	venous thromboembolism
-embolus	travels to	lungs
-embolism	causes	hypoxemia
-post-thrombotic syndrome	results in	chronic edema
+deep vein thrombosis	is a	venous thromboembolism type
+pulmonary embolism	is a	venous thromboembolism manifestation
+deep vein thrombosis	occurs in	lower extremities
+thrombophlebitis	occurs in	superficial veins
+superficial thrombophlebitis	is a	superficial venous inflammation
+central venous catheter	predisposes to	phlebitis
+catheter-associated phlebitis	is a	complication of catheterization
+intravenous catheter	predisposes to	phlebitis
+surgery	increases	venous thromboembolism risk
+cancer	increases	venous thromboembolism risk
+immobility	increases	venous thromboembolism risk
+age	increases	venous thromboembolism risk
+obesity	increases	venous thromboembolism risk
+pregnancy	increases	venous thromboembolism risk
+smoking	increases	venous thromboembolism risk
+malignancy	increases	venous thromboembolism risk
+factor V Leiden	increases	thrombosis risk
+prothrombin gene mutation	increases	thrombosis risk
+protein C deficiency	increases	thrombosis risk
+protein S deficiency	increases	thrombosis risk
+antithrombin deficiency	increases	thrombosis risk
 venous stasis	contributes to	thrombosis
-Virchow's triad	comprises	venous stasis
-immobilization	leads to	venous stasis
-inflammation	promotes	thrombosis
-pain	is symptom of	phlebitis
-warm compress	used for	phlebitis
-post-thrombotic syndrome	arises after	deep vein thrombosis
-venous insufficiency	associated with	edema
-compression stocking	reduces	edema
-vascular access	risk factor for	phlebitis
-central venous catheter	increases risk of	thrombosis
-leg swelling	caused by	deep vein thrombosis
-cord palpation	reveals	superficial thrombophlebitis
-palpable cord	indicates	superficial thrombophlebitis
-redness	is sign of	phlebitis
-warmth	is sign of	phlebitis
-edema	accompanies	thrombosis
-leg pain	is symptom of	deep vein thrombosis
-tachycardia	occurs with	pulmonary embolism
-hypoxemia	results from	pulmonary embolism
-DVT prophylaxis	includes	pharmacologic prophylaxis
-pharmacologic prophylaxis	includes	LMWH
-LMWH	used for	DVT prophylaxis
-warfarin	requires	INR monitoring
-INR monitoring	required for	warfarin therapy
-renal impairment	affects	DOAC dosing
-renal impairment	contraindicates	DOACs
-hepatic impairment	affects	DOAC dosing
-DOACs	used for	venous thromboembolism
-cancer-associated thrombosis	treated with	anticoagulation
-postoperative prophylaxis	aims for	DVT prevention
-DVT prevention	reduces	recurrence risk
-anticoagulation	reduces	thrombosis recurrence
-recurrence	risk with	thrombosis
-education	reduces	recurrence of thrombosis
-postoperative period	requires	DVT surveillance
-DVT surveillance	detects	thrombus progression
-thrombus progression	leads to	edema
-edema	worsens with	mobility limitation
-mobility limitation	increases	risk of thrombosis
-hemodynamic instability	occurs with	massive pulmonary embolism
-massive pulmonary embolism	causes	shock
-shock	requires	ICU admission
-ICU admission	increases	hospital length of stay
-hospital length of stay	prolongs	immobilization
-immobilization	increases	risk of venous thromboembolism
-venous thrombosis	treated with	anticoagulation
-anticoagulation	is treatment for	venous thrombosis
-vasculature	affected by	thrombosis
-thrombus	adheres to	vessel wall
-recanalization	occurs after	thrombosis
-recanalization	improves	venous outflow
-venous outflow	improves with	recanalization
+valvular disease	predisposes to	venous thrombosis
+tobacco use	increases	thrombosis risk
+surgery	is a	risk factor for thrombosis
+hip surgery	increases	venous thromboembolism risk
+knee surgery	increases	venous thromboembolism risk
+estrogen use	increases	venous thrombosis risk
+oral contraceptive pill	increases	venous thromboembolism risk
+postpartum period	increases	thrombosis risk
+estrogen-containing therapies	increase	venous thromboembolism risk
+compression therapy	is used for	prevention of venous thromboembolism
+compression stockings	reduce	leg edema
+duplex ultrasound	is used for	diagnosis of phlebitis
+duplex ultrasound	detects	deep vein thrombosis
+D-dimer	is a	biomarker for thrombosis
+venography	is a	diagnostic test for thrombosis
+CT pulmonary angiography	is a	diagnostic test for pulmonary embolism
+V/Q scan	is a	diagnostic test for pulmonary embolism
+leg swelling	is a	symptom of deep vein thrombosis
+calf pain	is a	symptom of deep vein thrombosis
+chest pain	is a	symptom of pulmonary embolism
+tachycardia	is a	sign of pulmonary embolism
+hypoxia	is a	sign of pulmonary embolism
+post-thrombotic syndrome	is a	chronic complication of deep vein thrombosis
+edema	is a	symptom of venous insufficiency
+venous insufficiency	predisposes to	phlebitis
+septic phlebitis	requires	antibiotics
+antibiotics	treat	septic phlebitis
+anticoagulation	reduces	thrombus growth
+anticoagulation	prevents	recurrence of venous thromboembolism
+heparin	inhibits	thrombin
+warfarin	antagonizes	vitamin K
+DOAC	is a	direct oral anticoagulant
+apixaban	is a	DOAC
+rivaroxaban	is a	DOAC
+dabigatran	is a	DOAC
+edoxaban	is a	DOAC
+thrombectomy	is a	treatment for deep vein thrombosis
+inferior vena cava filter	is a	device for embolism prevention
+IVC filter	reduces	pulmonary embolism risk
+ambulation	promotes	venous return
+ambulation	reduces	thrombosis risk
+compression therapy	improves	venous return
+venous return	improves with	ambulation
+recurrent venous thromboembolism	increases	mortality risk
+mortality	is associated with	pulmonary embolism
+long-term anticoagulation	duration depends on	bleed risk
+bleeding risk	limits	anticoagulation duration
+perioperative period	requires	prophylaxis for thrombosis
+mechanical prophylaxis	is used for	thrombosis prevention
+early mobilization	reduces	thrombosis risk
+insertion site	is a site for	phlebitis
+femoral vein	is a site for	deep vein thrombosis
+popliteal vein	is a site for	deep vein thrombosis
+iliac vein	is a site for	deep vein thrombosis
+venous thrombosis	increases	risk of post-thrombotic syndrome
+post-thrombotic syndrome	causes	chronic leg edema
+leg edema	reduces	mobility
+embolus	travels to	pulmonary artery
+embolus	originates from	deep vein thrombosis
+superficial saphenous vein	involved in	superficial thrombophlebitis
+iliac vein	affected by	deep vein thrombosis
+inferior vena cava filter	reduces	embolic risk
+thrombosis	predisposes to	embolization
+venous thromboembolism prevention strategies	include	prophylaxis
+anticoagulation therapy	requires	monitoring
+INR	monitors	warfarin therapy
+leg elevation	is used for	edema control
+warfarin therapy	requires	monitoring
+antibiotic therapy	is used for	septic phlebitis
+imaging	confirms	thrombosis
+edema	indicates	venous insufficiency
+varicose veins	associated with	thrombosis risk
+thrombolysis	is therapy for	massive pulmonary embolism

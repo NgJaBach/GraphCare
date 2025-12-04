@@ -1,0 +1,100 @@
+arteriography	is a	medical imaging procedure
+venography	is a	medical imaging procedure
+arteriography	used for	arterial stenosis
+arteriography	used for	arterial occlusion
+arteriography	used for	arterial aneurysm
+arteriography	used for	limb ischemia
+arteriography	used for	peripheral arterial disease
+venography	used for	deep vein thrombosis
+venography	used for	venous insufficiency
+venography	used for	venous reflux
+arteriography	used for	preoperative planning
+venography	used for	preoperative planning
+arteriography	provides	arterial map
+venography	provides	venous map
+arteriography	yields	diagnostic accuracy
+arteriography	yields	diagnostic sensitivity
+venography	yields	diagnostic accuracy
+arteriography	detects	arterial stenosis
+arteriography	detects	arterial occlusion
+arteriography	detects	arterial aneurysm
+arteriography	detects	collateral circulation
+venography	detects	deep venous thrombosis
+venography	detects	venous obstruction
+arteriography	visualizes	arterial vasculature
+venography	visualizes	venous vasculature
+arteriography	requires	catheterization
+venography	requires	catheterization
+arteriography	requires	arterial access
+venography	requires	venous access
+arteriography	performed via	femoral access
+arteriography	performed via	radial access
+venography	performed via	venous access
+arteriography	uses	contrast agent
+venography	uses	contrast agent
+arteriography	associated with	radiation exposure
+venography	associated with	radiation exposure
+arteriography	performed before	bypass surgery
+arteriography	used for	endovascular therapy planning
+arteriography	guides	stent placement
+arteriography	guides	angioplasty
+venography	guides	venous stenting
+venography	guides	venous thrombectomy
+arteriography	contraindicated in	severe contrast allergy
+venography	contraindicated in	severe contrast allergy
+arteriography	contraindicated in	severe renal impairment
+venography	contraindicated in	severe renal impairment
+arteriography	indicates	peripheral arterial disease
+venography	indicates	chronic venous insufficiency
+arteriography	improves	diagnostic yield
+venography	improves	diagnostic yield
+arteriography	adds	imaging data
+venography	adds	imaging data
+arteriography	associates with	hospital stay
+venography	associates with	hospital stay
+arteriography	associated with	contrast-induced nephropathy
+venography	associated with	contrast-induced nephropathy
+arteriography	visualizes	arterial lumen
+venography	visualizes	venous lumen
+arteriography	evaluates	leg arteries
+arteriography	evaluates	arm arteries
+venography	evaluates	pelvic veins
+venography	evaluates	deep pelvic veins
+arteriography	yields	arterial findings
+venography	yields	venous findings
+arteriography	complemented by	CT angiography
+venography	complemented by	CT venography
+arteriography	used to plan	bypass grafting
+venography	used for	venous intervention planning
+arteriography	yields	arterial anatomy details
+venography	yields	venous anatomy details
+arteriography	assists	vascular trauma evaluation
+venography	assists	venous trauma evaluation
+arteriography	recommended in	suspected arterial injury
+venography	recommended in	suspected venous injury
+arteriography	provides	imaging data
+venography	provides	imaging data
+arteriography	helpful for	revascularization planning
+venography	helpful for	venous intervention planning
+arteriography	indicates	limb ischemia severity
+venography	indicates	venous insufficiency severity
+arteriography	correlates with	ankle-brachial index
+venography	correlates with	venous refill time
+arteriography	used in	trauma evaluation
+venography	used in	post-thrombotic syndrome evaluation
+arteriography	used for	vascular mapping
+venography	used for	vascular mapping
+arteriography	is safe in	chronic kidney disease
+venography	is safe in	chronic kidney disease
+arteriography	associated with	radiation dose
+venography	associated with	radiation dose
+arteriography	provides	vascular anatomy
+venography	provides	vascular anatomy
+arteriography	used for	collateral vessels evaluation
+venography	used for	collateral venous assessment
+arteriography	replaces	noninvasive imaging
+venography	replaces	noninvasive imaging
+arteriography	improves	diagnostic confidence
+venography	improves	diagnostic confidence
+arteriography	used in	vascular surgery planning
+venography	used in	vascular surgery planning

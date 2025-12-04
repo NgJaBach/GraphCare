@@ -1,1 +1,98 @@
-ENTITY	RELATIONSHIP	ENTITY
+intrauterine hypoxia	leads to	birth asphyxia
+birth asphyxia	is caused by	intrauterine hypoxia
+placental insufficiency	causes	intrauterine hypoxia
+placental insufficiency	is associated with	intrauterine hypoxia
+maternal hypertension	is a risk factor for	intrauterine hypoxia
+fetal growth restriction	increases risk of	birth asphyxia
+fetal growth restriction	is associated with	intrauterine hypoxia
+placental abruption	causes	intrauterine hypoxia
+umbilical cord prolapse	leads to	birth asphyxia
+umbilical cord compression	causes	birth asphyxia
+maternal smoking	increases risk of	intrauterine hypoxia
+maternal anemia	increases risk of	intrauterine hypoxia
+diabetes mellitus	predisposes to	placental insufficiency
+preeclampsia	predisposes to	placental insufficiency
+infection during pregnancy	predisposes to	placental insufficiency
+nonreassuring fetal status	predicts	birth asphyxia
+fetal distress	is indicated by	nonreassuring fetal status
+fetal hypoxemia	accompanies	intrauterine hypoxia
+fetal acidosis	accompanies	birth asphyxia
+Apgar score	assesses	neonatal condition
+Apgar score	is low in	birth asphyxia
+birth asphyxia	diagnosed by	Apgar score
+birth asphyxia	managed with	resuscitation
+resuscitation	requires	ventilatory support
+therapeutic hypothermia	used for	birth asphyxia
+therapeutic hypothermia	reduces	mortality
+therapeutic hypothermia	improves	neurodevelopmental outcome
+hypoxic-ischemic encephalopathy	may result from	birth asphyxia
+hypoxic-ischemic encephalopathy	treated with	therapeutic hypothermia
+neonatal seizures	are associated with	birth asphyxia
+intracranial hemorrhage	is a complication of	birth asphyxia
+cerebral palsy	risk increased by	birth asphyxia
+epilepsy	risk increased by	birth asphyxia
+intellectual disability	risk increased by	birth asphyxia
+neonatal mortality	is increased by	birth asphyxia
+neonatal morbidity	is increased by	birth asphyxia
+NICU admission	is required for	birth asphyxia
+respiratory distress syndrome	occurs with	birth asphyxia
+pulmonary hypertension	occurs with	birth asphyxia
+neonatal renal impairment	is associated with	birth asphyxia
+neonatal hepatic injury	is associated with	birth asphyxia
+brain injury	results from	birth asphyxia
+neurodevelopmental outcome	is affected by	birth asphyxia
+apparent life-threatening event	occurs with	birth asphyxia
+Apgar score at 5 minutes	is predictive of	short-term outcome
+fetal monitoring	guides	obstetric intervention
+emergency cesarean section	performed for	fetal distress
+cesarean delivery	performed for	fetal distress
+meconium-stained amniotic fluid	associated with	birth asphyxia
+nonreassuring fetal status	triggers	rapid delivery
+placental infarction	causes	placental insufficiency
+maternal obesity	increases risk of	intrauterine hypoxia
+advanced maternal age	associated with	intrauterine hypoxia
+smoking during pregnancy	associated with	fetal hypoxia
+late preterm birth	associated with	birth asphyxia
+intrauterine infection	associated with	birth asphyxia
+chorioamnionitis	associated with	birth asphyxia
+placental maturation delay	associated with	intrauterine hypoxia
+cord around neck	causes	birth asphyxia
+fetal constriction	contributes to	birth asphyxia
+neonatal brain injury	associated with	birth asphyxia
+neonatal damage	associated with	birth asphyxia
+neonatal outcome	predicted by	birth asphyxia severity
+birth asphyxia severity	correlates with	neurodevelopmental outcome
+birth asphyxia severity	correlates with	NICU length of stay
+NICU length of stay	increases with	birth asphyxia severity
+long-term outcomes	affected by	birth asphyxia
+neonatal sepsis	risk factor for	birth asphyxia
+oxygen delivery	disrupted by	intrauterine hypoxia
+umbilical blood gas	shows	fetal acidosis
+umbilical artery pH	indicates	fetal acidosis
+neonatal respiratory failure	follows	birth asphyxia
+neonatal hypoxemia	accompanies	birth asphyxia
+fetal scalp pH	used for	fetal evaluation
+meconium aspiration syndrome	associated with	birth asphyxia
+nonreassuring fetal status	triggers	rapid delivery
+placental infarction	causes	placental insufficiency
+neonatal brain injury	associated with	birth asphyxia
+neurodevelopmental impairment	associated with	birth asphyxia
+perinatal asphyxia	synonyms	birth asphyxia
+intrapartum events	cause	birth asphyxia
+intrapartum asphyxia	synonyms with	birth asphyxia
+tissue hypoxia	underlying	birth asphyxia
+neonatal unit	handles	birth asphyxia cases
+oxygen deprivation	underlying	birth asphyxia
+neonatal brain injury	associated with	birth asphyxia
+neurodevelopmental impairment	associated with	birth asphyxia severity
+birth asphyxia	increases risk of	cerebral palsy
+NICU stay	lengthened by	birth asphyxia
+perinatal mortality	greater with	birth asphyxia
+neonatal mortality	greater with	birth asphyxia
+hypoxic-ischemic injury	results from	birth asphyxia
+cord blood gas	demonstrates	metabolic acidosis
+fetal lactate	elevated in	intrauterine hypoxia
+lactate accumulation	indicates	metabolic acidosis
+neonatal renal perfusion	affected by	birth asphyxia
+neonatal bilirubin elevation	associated with	birth asphyxia
+long-term neurocognitive outcome	influenced by	birth asphyxia

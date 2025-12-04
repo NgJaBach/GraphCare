@@ -1,30 +1,100 @@
-external_cause_code	is a	external_cause_class
-external_cause_class	includes	struck_by_mechanism
-external_cause_class	includes	struck_against_mechanism
-struck_by_mechanism	is a	mechanical_force_mechanism
-struck_by_mechanism	causes	traumatic_injury
-traumatic_injury	results in	contusion
-contusion	is a	soft_tissue_injury
-soft_tissue_injury	requires	analgesia
-analgesia	is a	pharmacologic_therapy
-fracture	is a	traumatic_injury
-fracture	leads to	orthopedic_consultation
-blunt_force_mechanism	is a	mechanical_force_mechanism
-blunt_force_mechanism	causes	fracture
-penetrating_mechanism	is a	mechanical_force_mechanism
-penetrating_mechanism	causes	infection
-infection	is a	complication
-head_trauma	is a	traumatic_injury
-head_trauma	associates_with	intracranial_injury
-intracranial_injury	is a	head_injury
-emergency_care	is provided at	emergency_department
-emergency_department	is a	hospital_unit
-hospital_admission	follows	emergency_care
-hospital_admission	increases	length_of_stay
-length_of_stay	is a	hospital_metric
-icu_admission	occurs in	hospital_unit
-icu_admission	increases	resource_utilization
-resource_utilization	is a	hospital_metric
-mortality	is a	patient_outcome
-readmission	is a	patient_outcome
-readmission	predicts	future_resource_use
+external cause code	denotes	injury mechanism
+external cause code	denotes	injury type
+external cause code	codes for	struck by
+external cause code	codes for	struck against
+external cause code	codes for	blunt trauma
+external cause code	codes for	penetrating injury
+external cause code	codes for	fall
+external cause code	codes for	burn
+external cause code	codes for	drowning
+external cause code	codes for	asphyxia
+external cause code	codes for	poisoning
+external cause code	codes for	assault
+external cause code	codes for	firearm injury
+external cause code	codes for	motor vehicle crash
+external cause code	codes for	pedestrian injury
+external cause code	codes for	bicycle crash
+external cause code	codes for	fall from height
+external cause code	codes for	crush injury
+external cause code	codes for	machinery injury
+external cause code	codes for	sports injury
+external cause code	codes for	exposure injury
+external cause code	codes for	heat exposure
+external cause code	codes for	cold exposure
+external cause code	codes for	poisoning by medication
+external cause code	codes for	poisoning by chemicals
+external cause code	codes for	suffocation
+external cause code	codes for	electrocution
+external cause code	codes for	burn with contact
+external cause code	codes for	blast injury
+external cause code	codes for	blast exposure
+external cause code	codes for	sport-related collision
+external cause code	codes for	animal attack
+external cause code	codes for	machinery entanglement
+external cause code	codes for	crush from crush injury
+external cause code	codes for	medical device injury
+external cause code	codes for	drug poisoning
+external cause code	codes for	alcohol impaired driving
+external cause code	codes for	fall from ladder
+external cause code	codes for	industrial accident
+external cause code	codes for	assault by weapon
+external cause code	codes for	self-harm attempt
+external cause code	codes for	explosion injury
+external cause code	codes for	water vehicle collision
+external cause code	codes for	fire-related injury
+external cause code	codes for	carbon monoxide exposure
+external cause code	codes for	electrocution at work
+external cause code	codes for	vehicular crash
+external cause code	codes for	head injury
+external cause code	associated with	hospital admission
+external cause code	associated with	ICU admission
+external cause code	associated with	mortality risk
+external cause code	associated with	readmission risk
+external cause code	associated with	length of stay
+external cause code	associated with	discharge disposition
+external cause code	associated with	trauma center level
+external cause code	associated with	age group
+external cause code	associated with	sex
+external cause code	associated with	race
+external cause code	associated with	insurance type
+external cause code	associated with	geographic region
+external cause code	associated with	time of incident
+external cause code	correlates with	mechanism name
+external cause code	correlates with	event description
+external cause code	correlates with	injury severity score
+external cause code	correlates with	intent
+external cause code	maps to	ICD category
+external cause code	maps to	injury diagnosis
+external cause code	maps to	external cause classification
+external cause code	relates to	coding accuracy
+external cause code	relates to	epidemiologic surveillance
+external cause code	relates to	population health monitoring
+external cause code	relates to	health system planning
+external cause code	relates to	prevention target
+external cause code	relates to	risk factor
+external cause code	relates to	mechanism code
+external cause code	relates to	category code
+external cause code	relates to	injury site
+external cause code	relates to	age group distribution
+external cause code	relates to	comorbidity index
+external cause code	relates to	outcome measure
+external cause code	aligns with	injury taxonomy
+external cause code	aligns with	coding standards
+external cause code	aligns with	clinical guideline
+external cause code	interacts with	substance involvement
+external cause code	interacts with	alcohol involvement
+external cause code	interacts with	prescription status
+external cause code	interacts with	vaccination status
+external cause code	interacts with	health insurance status
+external cause code	predicted by	trauma mechanism
+external cause code	predicts	resource utilization
+external cause code	predicts	mortality
+external cause code	predicts	discharge outcome
+external cause code	supports	injury surveillance
+external cause code	supports	prevention planning
+external cause code	used in	medical coding
+external cause code	used for	epidemiologic analysis
+external cause code	used to classify	mechanism
+external cause code	used to categorize	injury severity
+external cause code	associated with	emergency department visit
+external cause code	associated with	trauma complication

@@ -1,100 +1,100 @@
-cancer of other GI organs	metastasizes to	liver
-cancer of other GI organs	metastasizes to	peritoneum
-cancer of other GI organs	metastasizes to	lung
-cancer of other GI organs	metastasizes to	bone
-cancer of other GI organs	metastasizes to	brain
-cancer of other GI organs	metastasizes to	adrenal gland
-cancer of other GI organs	metastasizes to	kidney
-cancer of other GI organs	metastasizes to	spleen
-cancer of other GI organs	metastasizes to	ovary
-cancer of other GI organs	metastasizes to	lymph nodes
-liver metastasis	worsens	prognosis
-peritoneal metastasis	worsens	prognosis
-brain metastasis	worsens	prognosis
-lung metastasis	worsens	prognosis
-bone metastasis	worsens	prognosis
-liver metastasis	increases	mortality
-peritoneal metastasis	increases	mortality
-brain metastasis	increases	mortality
-lung metastasis	increases	mortality
-bone metastasis	increases	mortality
-peritoneal carcinomatosis	presents with	ascites
-ascites	causes	abdominal distension
-carcinoembryonic antigen	is biomarker for	cancer of other GI organs
-carbohydrate antigen 19-9	is biomarker for	cancer of other GI organs
-carcinoembryonic antigen	monitors	disease activity
-staging	determines	prognosis
-TNM staging	guides	treatment decisions
-endoscopy	enables	biopsy
-biopsy	confirms	cancer of other GI organs
-CT scan	detects	peritoneal metastasis
-PET-CT	detects	metastasis
-MRI	assesses	peritoneum
-laparoscopy	aids	staging of cancer of other GI organs
-cytoreductive surgery	indicated for	peritoneal metastasis
-HIPEC	used for	peritoneal metastasis
-chemotherapy	used to treat	cancer of other GI organs
-radiation therapy	used to treat	cancer of other GI organs
-targeted therapy	used to treat	cancer of other GI organs
-immunotherapy	investigated for	cancer of other GI organs
-palliative care	integrated with	cancer treatment
-nutritional support	needed for	cancer of other GI organs
-weight loss	predicts	mortality
-anemia	indicates	advanced disease
-thrombocytosis	correlates with	tumor burden
-neutropenia	results from	chemotherapy
-stent placement	relieves	obstruction
-bowel obstruction	results from	cancer of other GI organs
-malnutrition	worsens	treatment tolerance
-sarcopenia	reduces	physical function
-quality of life	improves with	palliative care
-advanced cancer of other GI organs	associated with	mortality
-obstruction	leads to	hospitalization
-hospitalization	required for	complication management
-surgery	carries	complication risk
-cytoreductive surgery	requires	specialized center
-HIPEC	requires	multidisciplinary team
-malabsorption	results in	nutritional deficiency
-thrombosis	associated with	cancer of other GI organs
-cachexia	correlates with	poor prognosis
-diarrhea	common symptom in	cancer of other GI organs
-constipation	common symptom in	cancer of other GI organs
-fatigue	common symptom in	advanced cancer
-weight loss	hallmark of	cancer of other GI organs
-nausea	indicates	cancer of other GI organs
-vomiting	indicates	cancer of other GI organs
-abdominal pain	is symptom of	cancer of other GI organs
-jaundice	occurs with	liver metastasis
-portal hypertension	occurs with	liver metastasis
-hepatomegaly	accompanies	liver metastasis
-peritoneal thickening	seen with	peritoneal carcinomatosis
-peritoneal fluid	contains	tumor cells
-portal vein invasion	indicates	advanced tumor
-neutrophil to lymphocyte ratio	prognostic for	cancer of other GI organs
-albumin	reflects	nutritional status
-hypoalbuminemia	associated with	poor prognosis
-performance status	influences	treatment options
-ECOG score	assesses	functional status
-functional status	predicts	survival
-peritoneal fluid cytology	indicates	peritoneal metastasis
-tumor burden	indicates	prognosis
-overall survival	is endpoint of	clinical trials
-progression-free survival	is endpoint of	clinical trials
-response rate	measures	tumor shrinkage
-tumor shrinkage	indicates	treatment efficacy
-metastatic pattern	informs	prognosis
-intraperitoneal chemotherapy	used for	peritoneal metastasis
-intraperitoneal chemotherapy	combined with	cytoreductive surgery
-colon cancer	is a type of	cancer of other GI organs
-small bowel cancer	is a type of	cancer of other GI organs
-rectal cancer	is a type of	cancer of other GI organs
-peritoneal metastasis	triggers	weight loss
-advanced disease	limits	surgical options
-hypercoagulability	associated with	cancer of other GI organs
-treatment tolerance	depends on	nutritional status
-postoperative recovery	affects	hospital length of stay
-hospital length of stay	increases with	postoperative complications
-surgical margins	determine	local recurrence
-local recurrence	worsens	prognosis
-palliative chemotherapy	aims to	relieve symptoms
-intraperitoneal chemotherapy	provides	local tumor control
+gastric cancer	is a	malignant tumor
+gastric cancer	is a cancer of	stomach
+gastric cancer	metastasizes to	liver
+gastric cancer	metastasizes to	peritoneum
+smoking	is a risk factor for	gastric cancer
+H. pylori infection	associated with	gastric cancer
+gastric cancer	treated with	gastrectomy
+gastric cancer	treated with	chemotherapy
+gastric cancer	treated with	radiotherapy
+gastric cancer	presents with	epigastric pain
+esophageal cancer	is a cancer of	esophagus
+esophageal cancer	metastasizes to	mediastinal lymph nodes
+esophageal cancer	metastasizes to	liver
+smoking	is a risk factor for	esophageal cancer
+alcohol use	is a risk factor for	esophageal cancer
+esophageal cancer	treated with	esophagectomy
+esophageal cancer	treated with	chemotherapy
+esophageal cancer	treated with	radiotherapy
+esophageal cancer	presents with	dysphagia
+esophageal cancer	presents with	weight loss
+hepatocellular carcinoma	is a cancer of	liver
+hepatocellular carcinoma	metastasizes to	lungs
+hepatocellular carcinoma	metastasizes to	bones
+cirrhosis	is a risk factor for	hepatocellular carcinoma
+hepatocellular carcinoma	associated with	hepatitis B infection
+hepatocellular carcinoma	associated with	hepatitis C infection
+hepatocellular carcinoma	treated with	surgical resection
+hepatocellular carcinoma	treated with	liver transplantation
+hepatocellular carcinoma	treated with	transarterial chemoembolization
+hepatocellular carcinoma	treated with	radiofrequency ablation
+hepatocellular carcinoma	presents with	right upper quadrant pain
+hepatocellular carcinoma	presents with	weight loss
+hepatocellular carcinoma	diagnosed by	imaging studies
+hepatocellular carcinoma	diagnosed by	biopsy
+hepatocellular carcinoma	associated with	alpha-fetoprotein elevation
+hepatocellular carcinoma	associated with	portal hypertension
+hepatocellular carcinoma	associated with	aflatoxin exposure
+hepatocellular carcinoma	occurs in	cirrhotic liver
+hepatocellular carcinoma	often associated with	portal venous thrombosis
+hepatocellular carcinoma	prognosis depends on	tumor stage
+pancreatic cancer	is a cancer of	pancreas
+pancreatic cancer	metastasizes to	liver
+pancreatic cancer	metastasizes to	peritoneum
+pancreatic cancer	associated with	smoking
+pancreatic cancer	associated with	diabetes mellitus
+pancreatic cancer	associated with	chronic pancreatitis
+pancreatic cancer	treated with	surgical resection
+pancreatic cancer	treated with	chemotherapy
+pancreatic cancer	treated with	radiotherapy
+pancreatic cancer	presents with	abdominal pain
+cholangiocarcinoma	is a cancer of	bile duct
+cholangiocarcinoma	metastasizes to	liver
+cholangiocarcinoma	associated with	primary sclerosing cholangitis
+cholangiocarcinoma	associated with	hepatolithiasis
+cirrhosis	is a risk factor for	cholangiocarcinoma
+cholangiocarcinoma	treated with	surgical resection
+cholangiocarcinoma	treated with	chemotherapy
+cholangiocarcinoma	treated with	photodynamic therapy
+cholangiocarcinoma	presents with	obstructive jaundice
+cholangiocarcinoma	presents with	pruritus
+gallbladder cancer	is a cancer of	gallbladder
+gallbladder cancer	metastasizes to	liver
+gallbladder cancer	associated with	gallstones
+gallbladder cancer	treated with	cholecystectomy
+gallbladder cancer	treated with	chemotherapy
+gallbladder cancer	treated with	radiotherapy
+gallbladder cancer	presents with	jaundice
+gallbladder cancer	presents with	right upper quadrant pain
+gallbladder cancer	diagnosed by	ultrasound
+porcelain gallbladder	is a risk factor for	gallbladder cancer
+small intestine cancer	is a cancer of	small intestine
+small intestine cancer	metastasizes to	liver
+small intestine cancer	metastasizes to	mesentery
+small intestine cancer	treated with	surgical resection
+small intestine cancer	treated with	chemotherapy
+small intestine cancer	presents with	abdominal pain
+small intestine cancer	presents with	anemia
+small intestine cancer	associated with	celiac disease
+small intestine cancer	diagnosed by	biopsy
+small intestine cancer	diagnosed by	imaging
+duodenal cancer	is a cancer of	duodenum
+duodenal cancer	metastasizes to	liver
+duodenal cancer	treated with	surgical resection
+duodenal cancer	presents with	melena
+duodenal cancer	presents with	abdominal pain
+duodenal cancer	associated with	familial adenomatous polyposis
+duodenal cancer	diagnosed by	endoscopy
+duodenal cancer	diagnosed by	biopsy
+duodenal cancer	treated with	chemotherapy
+duodenal cancer	prognosis depends on	stage
+peritoneal cancer	is a cancer of	peritoneum
+peritoneal cancer	metastasizes to	liver
+peritoneal cancer	metastasizes to	omentum
+peritoneal cancer	associated with	ovarian cancer
+peritoneal cancer	treated with	cytoreductive surgery
+peritoneal cancer	treated with	hyperthermic intraperitoneal chemotherapy
+peritoneal cancer	presents with	abdominal distension
+peritoneal cancer	presents with	ascites
+peritoneal cancer	diagnosed by	laparoscopy
+peritoneal cancer	diagnosed by	imaging

@@ -1,0 +1,100 @@
+breast biopsy	is a	diagnostic procedure
+core needle biopsy	is a	biopsy type
+stereotactic biopsy	is a	biopsy type
+vacuum-assisted biopsy	is a	biopsy type
+fine-needle aspiration	is a	cytology procedure
+open biopsy	is a	surgical procedure
+incisional biopsy	is a	surgical procedure
+excisional biopsy	is a	surgical procedure
+mammography	is a	breast imaging test
+ultrasound	is a	breast imaging test
+MRI	is a	breast imaging modality
+PET-CT	is a	diagnostic imaging test
+mammography	detects	calcifications
+mammography	detects	mass
+ultrasound	detects	cyst
+ultrasound	characterizes	lesion
+MRI	detects	nonpalpable lesion
+nonpalpable lesion	is detected by	MRI
+biopsy	obtains	tissue sample
+tissue sample	is analyzed by	pathology
+pathology	provides	histology report
+histology	identifies	tumor type
+immunohistochemistry	determines	receptor status
+ER status	determines	hormone receptor positivity
+PR status	determines	hormone receptor positivity
+HER2 status	determines	HER2 overexpression
+receptor status	guides	therapy selection
+ER status	guides	endocrine therapy
+HER2 status	guides	targeted therapy
+Ki-67	indicates	proliferation index
+proliferation index	correlates with	tumor aggressiveness
+ductal carcinoma in situ	is a	noninvasive cancer
+invasive carcinoma	is a	malignant tumor
+fibroadenoma	is a	benign lesion
+breast cyst	is a	benign lesion
+calcifications	are seen on	mammography
+masses	are seen on	mammography
+nonpalpable lesion	is seen on	ultrasound
+calcifications	correlate with	DCIS
+DCIS	is associated with	calcifications
+sentinel lymph node biopsy	provides	nodal status
+nodal status	determines	adjuvant therapy need
+pathology report	informs	treatment plan
+tumor	determines	cancer subtype
+cancer subtype	informs	prognosis
+hormone receptor positive tumor	predicts	endocrine therapy response
+HER2-positive tumor	predicts	anti-HER2 therapy response
+triple-negative tumor	lacks	hormone receptor expression
+tissue diagnosis	confirms	cancer diagnosis
+biopsy result	confirms	malignancy
+biopsy result	rules out	benign lesion
+benign lesion	requires	monitoring
+imaging-guided biopsy	reduces	diagnostic delay
+image-guided biopsy	minimizes	sampling error
+staging workup	follows	tissue diagnosis
+tumor size	influences	surgical planning
+tumor size	affects	prognosis
+calcifications	predict	DCIS risk
+nonpalpable lesion	has	higher suspicion
+mammography density	affects	image quality
+dense breast	reduces	mammography sensitivity
+ultrasound	guides	needle placement
+stereotactic-guided biopsy	uses	mammograms
+MRI-guided biopsy	uses	MRI
+BI-RADS category	guides	biopsy decision
+BI-RADS 4 lesion	prompts	biopsy
+BI-RADS 5 lesion	prompts	biopsy
+biopsy complication	includes	hematoma
+biopsy complication	includes	infection
+biopsy complication	includes	edema
+patient age	correlates with	cancer risk
+family history	increases	cancer risk
+dense breast tissue	increases	biopsy need
+imaging follow-up	occurs after	biopsy
+benign biopsy result	reduces	biopsy necessity
+malignant biopsy result	triggers	treatment planning
+pathology subtyping	refines	prognosis
+imaging surveillance	follows	treatment
+tumor grade	influences	prognosis
+treatment response	assessed by	pathology
+neoadjuvant therapy	planned for	large tumors
+post-biopsy imaging	confirms	lesion removal
+resection specimen	provides	margins status
+negative margins	indicate	complete excision
+positive margins	require	re-excision
+axillary ultrasound	evaluates	nodal status
+sentinel node mapping	reduces	surgical extent
+axillary dissection	replaces	sentinel node biopsy in some cases
+adjuvant therapy	depends on	nodal status
+adjuvant therapy	depends on	receptor status
+biopsy	enables	accurate cancer staging
+tissue biopsy	reduces	diagnostic uncertainty
+imaging	complements	biopsy
+ultrasound-guided biopsy	reduces	sampling error
+staging imaging	complements	pathology
+pathology	confirms	histologic subtype
+hormone receptor status	guides	endocrine therapy
+HER2 status	guides	HER2-targeted therapy
+mammography	screens	population
+diagnosis	communicates	prognosis

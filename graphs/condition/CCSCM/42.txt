@@ -1,119 +1,100 @@
-secondary malignancies	occurs after	chemotherapy
-secondary malignancies	occurs after	radiotherapy
-secondary malignancies	associated with	alkylating agents
-secondary malignancies	associated with	topoisomerase II inhibitors
-secondary malignancies	associated with	hematopoietic stem cell transplant
-secondary malignancies	associated with	radiation exposure
-secondary malignancies	associated with	immune suppression
-secondary malignancies	associated with	genetic predisposition
-secondary malignancies	associated with	chronic inflammation
-secondary malignancies	increases	mortality
-secondary malignancies	increases	healthcare costs
-secondary malignancies	diagnosed by	bone marrow biopsy
-secondary malignancies	diagnosed by	imaging studies
-secondary malignancies	diagnosed by	histology
-secondary malignancies	treated with	chemotherapy
-secondary malignancies	treated with	radiotherapy
-secondary malignancies	treated with	surgery
-secondary malignancies	screened by	complete blood count
-secondary malignancies	screened by	imaging surveillance
-secondary malignancies	risk factor for	second primary malignancy
-secondary malignancies	most common in	elderly
-secondary malignancies	most common site	bone marrow
-therapy-related AML	is a	secondary malignancy
-therapy-related AML	associated with	prior chemotherapy
-therapy-related AML	prognosis worse than	de novo AML
-therapy-related AML	diagnosed by	bone marrow biopsy
-therapy-related MDS	is a	secondary malignancy
-therapy-related MDS	associated with	alkylating agents
-therapy-related MDS	can progress to	AML
-second primary malignancy	is a	concept
-second primary malignancy	arises after	cancer therapy
-second primary malignancy	is a	complication of cancer treatment
-second primary malignancy	surveillance with	imaging studies
-second primary malignancy	management with	surgery
-second primary malignancy	management with	chemotherapy
-second primary malignancy	management with	radiotherapy
-second primary malignancy	prognosis with	treatment success
-second primary malignancy	risk factor for	mortality
-second primary malignancy	incidence in	cancer survivors
-secondary malignancies	occur in	pediatric populations
-secondary malignancies	more likely after	autologous transplant
-secondary malignancies	more likely after	allogeneic transplant
-secondary malignancies	common in	long-term cancer survivors
-secondary malignancies	associated with	chemotherapy dose exposure
-secondary malignancies	associated with	concurrent radiation therapy
-bone marrow involvement	accompanies	secondary malignancies
-imaging surveillance	detects	secondary malignancies
-bone marrow biopsy	confirms	secondary malignancies
-complete blood count	monitors	secondary malignancies
-survivorship care	includes	secondary malignancies screening
-genetic predisposition	increases	secondary malignancies risk
-immune suppression	predisposes to	secondary malignancies
-smoking	associated with	secondary malignancies
-viral infection	associated with	secondary malignancies
-environmental exposure	associated with	secondary malignancies
-family history	associated with	secondary malignancies
-cytogenetic abnormality	associated with	therapy-related AML
-p53 mutation	associated with	therapy-related AML
-age at diagnosis	influences	risk of secondary malignancies
-sex	influences	risk of secondary malignancies
-recurrent cancer	associated with	secondary malignancies
-cancer survivors	at risk for	second primary malignancies
-hematologic toxicity	signals	secondary malignancies
-anemia	common in	secondary malignancies
-thrombocytopenia	common in	secondary malignancies
-neutropenia	common in	secondary malignancies
-bone marrow fibrosis	observed in	secondary malignancies
-chromosomal abnormality	detected in	therapy-related AML
-secondary malignancies surveillance	includes	complete blood count
-secondary malignancies surveillance	includes	imaging studies
-survivorship program	includes	secondary malignancies screening
-family history	informs	secondary malignancies risk
-genetic counseling	recommended for	families with secondary malignancies
-chemotherapy dose	correlated with	secondary malignancies risk
-radiation dose	correlated with	secondary malignancies risk
-donor lymphocyte infusion	associated with	secondary malignancies
-autologous transplant	followed by	secondary malignancies
-allogeneic transplant	followed by	secondary malignancies
-solid tumor	may become	second primary malignancy
-pediatric cancer survivors	at risk for	secondary malignancies
-adult cancer survivors	at risk for	secondary malignancies
-radiation exposure	induces	secondary malignancies
-alkylating agents	cause	secondary malignancies
-topoisomerase II inhibitors	cause	secondary malignancies
-immunosuppressive therapy	causes	secondary malignancies
-chemotherapy	causes	secondary malignancies
-radiation therapy	causes	secondary malignancies
-hematologic malignancies	arise as	secondary malignancies
-bone marrow biopsy	confirms	secondary malignancies
-imaging studies	monitors	secondary malignancies
-bone marrow aspirate	analyzes	secondary malignancies
-central nervous system involvement	accompanies	secondary malignancies
-second primary malignancy	incidence	rate
-cancer therapy	leads to	secondary malignancies
-genomic instability	promotes	secondary malignancies
-host immune status	influences	secondary malignancies
-age distribution	shows	secondary malignancies
-survivor follow-up	includes	secondary malignancies surveillance
-chromosomal instability	associated with	secondary malignancies
-host factors	influence	secondary malignancies risk
-long-term follow-up	addresses	secondary malignancies surveillance
-medical surveillance	aims at	secondary malignancies detection
-oncology care	includes	secondary malignancies monitoring
-risk assessment	informs	secondary malignancies prevention
-secondary malignancies	present with	cytopenias
-secondary malignancies	present with	fatigue
-secondary malignancies	present with	fever
-secondary malignancies	present with	weight loss
-secondary malignancies	present with	night sweats
-secondary malignancies	present with	lymphadenopathy
-secondary malignancies	present with	hepatomegaly
-secondary malignancies	present with	splenomegaly
-secondary malignancies	present with	bone pain
-secondary malignancies	present with	bone lesions
-secondary malignancies	present with	skin lesions
-secondary malignancies	present with	oral lesions
-secondary malignancies	present with	neurological symptoms
-screening guidelines	recommend	secondary malignancies screening
-current guidelines	recommend	secondary malignancies surveillance
+secondary malignancies	is a	cancer
+secondary malignancies	occur after	cancer treatment
+secondary malignancies	associated with	radiotherapy
+secondary malignancies	associated with	alkylating chemotherapy
+secondary malignancies	associated with	platinum-based chemotherapy
+secondary malignancies	associated with	topoisomerase inhibitors
+therapy-related leukemia	is a	secondary malignancy
+therapy-related leukemia	is a	leukemia
+therapy-related leukemia	arises after	alkylating chemotherapy
+therapy-related leukemia	characterized by	cytogenetic abnormalities
+myelodysplastic syndrome	is a	secondary malignancy
+myelodysplastic syndrome	can progress to	acute myeloid leukemia
+acute myeloid leukemia	is a	hematologic malignancy
+radiation therapy	increases risk of	secondary malignancies
+alkylating chemotherapy	increases risk of	therapy-related leukemia
+latency period	varies with	therapy-related leukemia
+radiation dose	correlates with	risk of secondary malignancies
+cranial irradiation	increases risk of	brain tumors
+head and neck irradiation	increases risk of	thyroid cancer
+breast irradiation	increases risk of	breast cancer
+pediatric irradiation	increases risk of	brain tumors
+meningioma	is a	secondary malignancy
+meningioma	occurs after	cranial irradiation
+glioma	is a	secondary malignancy
+glioma	occurs after	cranial irradiation
+sarcoma	is a	secondary malignancy
+sarcoma	can arise after	radiotherapy
+thyroid cancer	is a	secondary malignancy
+thyroid cancer	associated with	neck irradiation
+breast cancer	is a	secondary malignancy
+breast cancer	occurs after	chest radiotherapy
+second primary cancer	is a	secondary malignancy
+lung cancer	may occur as	secondary malignancy
+bone cancer	is a	secondary malignancy
+skin cancer	is a	secondary malignancy
+induced cancer	is a	secondary malignancy
+lifetime surveillance	detects	secondary malignancies
+imaging surveillance	detects	second primary cancers
+biopsy	confirms	secondary malignancies
+fine-needle aspiration	confirms	secondary malignancies
+treatment planning	considers	secondary malignancies
+surgical resection	used for	secondary malignancies
+radiation therapy planning	aims to minimize	secondary malignancies
+chemotherapy	increases risk of	secondary malignancies
+genetic susceptibility	increases	risk of secondary malignancies
+family history	increases	risk of secondary malignancies
+age at exposure	modulates	risk of secondary malignancies
+female sex	increases risk of	breast cancer
+younger age at exposure	increases risk of	thyroid cancer
+dose	increases risk of	secondary malignancies
+dose-rate	influences	risk of secondary malignancies
+dosimetry	informs	surveillance for secondary malignancies
+central nervous system irradiation	associated with	brain tumors
+cranial radiotherapy	linked to	meningioma
+chest irradiation	linked to	breast cancer
+neck irradiation	linked to	thyroid cancer
+pelvic irradiation	linked to	ovarian cancer
+alkylating agents	known to cause	leukemia
+topoisomerase inhibitors	known to cause	secondary malignancies
+cyclophosphamide	causes	leukemia
+busulfan	causes	leukemia
+chlorambucil	causes	leukemia
+radiation-induced cancer	demonstrates	latency
+solid tumor	is a	type of secondary malignancy
+leukemia	is a	hematologic malignancy
+therapy-related myeloid neoplasia	is a	secondary malignancy
+myeloid neoplasia	includes	myelodysplastic syndrome
+myelodysplastic syndrome	can progress to	acute leukemia
+second primary thyroid cancer	is a	secondary malignancy
+second primary breast cancer	is a	secondary malignancy
+second primary sarcoma	is a	secondary malignancy
+second primary brain tumor	is a	secondary malignancy
+secondary malignancies	complicate	cancer survivorship
+cancer survivorship	complicates	secondary malignancies
+survivorship care	includes	surveillance for secondary malignancies
+surveillance guidelines	address	secondary malignancies
+clinical trial	evaluates	strategies to prevent secondary malignancies
+prevention strategy	reduces	risk of secondary malignancies
+radioprotective agent	reduces	risk of secondary malignancies
+childhood cancer	increases risk of	secondary malignancies
+adult cancer	increases risk of	secondary malignancies
+treatment complication	includes	secondary malignancies
+survival	affected by	secondary malignancies
+mortality	increased by	secondary malignancies
+readmission	associated with	secondary malignancies
+palliative care	involved in	patients with secondary malignancies
+end-of-life care	planned for	patients with secondary malignancies
+oncology	manages	secondary malignancies
+hematology	manages	secondary malignancies
+therapy-related sarcoma	is a	secondary malignancy
+myeloproliferative neoplasm	is a	secondary malignancy
+bone marrow	site for	leukemia
+second primary cancers	require	surveillance
+radiation field	overlaps	multiple organs
+latency	differs by	cancer type
+genetic mutation	predisposes to	secondary malignancies
+smoking	increases risk of	lung cancer
+occupational exposure	increases risk of	secondary malignancies
+follow-up imaging	monitors	secondary malignancies
+imaging modality	monitors	second primary cancers

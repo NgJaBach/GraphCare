@@ -1,100 +1,100 @@
-home	is place of occurrence for	fall
-home	is place of occurrence for	burn
-home	is place of occurrence for	poisoning
-home	is place of occurrence for	cut
-home	is place of occurrence for	concussion
-street	is place of occurrence for	pedestrian collision
-street	is place of occurrence for	fall
-street	is place of occurrence for	cut
-street	is place of occurrence for	fracture
-street	is place of occurrence for	crush injury
-highway	is place of occurrence for	vehicle collision
-highway	is place of occurrence for	fall
-highway	is place of occurrence for	fracture
-highway	is place of occurrence for	laceration
-highway	is place of occurrence for	concussion
-workplace	is place of occurrence for	fall
-workplace	is place of occurrence for	crush injury
-workplace	is place of occurrence for	electrical shock
-workplace	is place of occurrence for	fracture
-workplace	is place of occurrence for	cut
-school	is place of occurrence for	fall
-school	is place of occurrence for	poisoning
-school	is place of occurrence for	concussion
-school	is place of occurrence for	fracture
-school	is place of occurrence for	cut
-farm	is place of occurrence for	fall
-farm	is place of occurrence for	crush injury
-farm	is place of occurrence for	poisoning
-farm	is place of occurrence for	electrical shock
-farm	is place of occurrence for	laceration
-factory	is place of occurrence for	crush injury
-factory	is place of occurrence for	fall
-factory	is place of occurrence for	electrical shock
-factory	is place of occurrence for	fracture
-factory	is place of occurrence for	cut
-gym	is place of occurrence for	sprain
-gym	is place of occurrence for	fall
-gym	is place of occurrence for	concussion
-gym	is place of occurrence for	laceration
-gym	is place of occurrence for	fracture
-park	is place of occurrence for	fall
-park	is place of occurrence for	cut
-park	is place of occurrence for	concussion
-park	is place of occurrence for	sprain
-park	is place of occurrence for	poisoning
-sports facility	is place of occurrence for	sprain
-sports facility	is place of occurrence for	fracture
-sports facility	is place of occurrence for	concussion
-sports facility	is place of occurrence for	laceration
-sports facility	is place of occurrence for	burn
-hospital	is place of occurrence for	fall
-hospital	is place of occurrence for	cut
-hospital	is place of occurrence for	fracture
-hospital	is place of occurrence for	concussion
-hospital	is place of occurrence for	burn
-clinic	is place of occurrence for	fall
-clinic	is place of occurrence for	poisoning
-clinic	is place of occurrence for	cut
-clinic	is place of occurrence for	concussion
-clinic	is place of occurrence for	fracture
-construction site	is place of occurrence for	fall
-construction site	is place of occurrence for	crush injury
-construction site	is place of occurrence for	laceration
-construction site	is place of occurrence for	electrical shock
-construction site	is place of occurrence for	fracture
-kitchen	is place of occurrence for	burn
-kitchen	is place of occurrence for	poisoning
-kitchen	is place of occurrence for	cut
-kitchen	is place of occurrence for	fall
-kitchen	is place of occurrence for	concussion
-bathroom	is place of occurrence for	fall
-bathroom	is place of occurrence for	burn
-bathroom	is place of occurrence for	cut
-bathroom	is place of occurrence for	poisoning
-bathroom	is place of occurrence for	electrical shock
-stairs	is place of occurrence for	fall
-stairs	is place of occurrence for	fracture
-stairs	is place of occurrence for	sprain
-stairs	is place of occurrence for	cut
-stairs	is place of occurrence for	concussion
-parking lot	is place of occurrence for	vehicle collision
-parking lot	is place of occurrence for	fall
-parking lot	is place of occurrence for	fracture
-parking lot	is place of occurrence for	contusion
-parking lot	is place of occurrence for	laceration
-shopping mall	is place of occurrence for	fall
-shopping mall	is place of occurrence for	cut
-shopping mall	is place of occurrence for	poisoning
-shopping mall	is place of occurrence for	crush injury
-shopping mall	is place of occurrence for	fracture
-theater	is place of occurrence for	fall
-theater	is place of occurrence for	burn
-theater	is place of occurrence for	concussion
-theater	is place of occurrence for	cut
-theater	is place of occurrence for	crush injury
-stadium	is place of occurrence for	fall
-stadium	is place of occurrence for	sprain
-stadium	is place of occurrence for	laceration
-stadium	is place of occurrence for	concussion
-stadium	is place of occurrence for	fracture
+place of occurrence	occurs at	home
+place of occurrence	occurs at	apartment
+place of occurrence	occurs at	house
+place of occurrence	occurs at	condo
+place of occurrence	occurs at	townhouse
+place of occurrence	occurs at	villa
+place of occurrence	occurs at	motel
+place of occurrence	occurs at	hotel
+place of occurrence	occurs at	office
+place of occurrence	occurs at	workplace
+place of occurrence	occurs at	school
+place of occurrence	occurs at	university
+place of occurrence	occurs at	college
+place of occurrence	occurs at	daycare
+place of occurrence	occurs at	kindergarten
+place of occurrence	occurs at	library
+place of occurrence	occurs at	museum
+place of occurrence	occurs at	theater
+place of occurrence	occurs at	cinema
+place of occurrence	occurs at	stadium
+place of occurrence	occurs at	gym
+place of occurrence	occurs at	bar
+place of occurrence	occurs at	restaurant
+place of occurrence	occurs at	cafe
+place of occurrence	occurs at	market
+place of occurrence	occurs at	mall
+place of occurrence	occurs at	supermarket
+place of occurrence	occurs at	factory
+place of occurrence	occurs at	plant
+place of occurrence	occurs at	refinery
+place of occurrence	occurs at	mine
+place of occurrence	occurs at	quarry
+place of occurrence	occurs at	warehouse
+place of occurrence	occurs at	depot
+place of occurrence	occurs at	distribution center
+place of occurrence	occurs at	workshop
+place of occurrence	occurs at	park
+place of occurrence	occurs at	garden
+place of occurrence	occurs at	playground
+place of occurrence	occurs at	beach
+place of occurrence	occurs at	forest
+place of occurrence	occurs at	woods
+place of occurrence	occurs at	meadow
+place of occurrence	occurs at	hillside
+place of occurrence	occurs at	mountain
+place of occurrence	occurs at	valley
+place of occurrence	occurs at	river
+place of occurrence	occurs at	lake
+place of occurrence	occurs at	sea
+place of occurrence	occurs at	ocean
+place of occurrence	occurs at	coast
+place of occurrence	occurs at	harbor
+place of occurrence	occurs at	dock
+place of occurrence	occurs at	pier
+place of occurrence	occurs at	port
+place of occurrence	occurs at	runway
+place of occurrence	occurs at	airport
+place of occurrence	occurs at	bus stop
+place of occurrence	occurs at	train station
+place of occurrence	occurs at	subway station
+place of occurrence	occurs at	ferry terminal
+place of occurrence	occurs at	seaport
+place of occurrence	occurs at	marina
+place of occurrence	occurs at	police station
+place of occurrence	occurs at	fire station
+place of occurrence	occurs at	courthouse
+place of occurrence	occurs at	temple
+place of occurrence	occurs at	church
+place of occurrence	occurs at	mosque
+place of occurrence	occurs at	synagogue
+place of occurrence	occurs at	cemetery
+place of occurrence	occurs at	hospital
+place of occurrence	occurs at	clinic
+place of occurrence	occurs at	operating room
+place of occurrence	occurs at	emergency room
+place of occurrence	occurs at	conference center
+place of occurrence	occurs at	auditorium
+place of occurrence	occurs at	market square
+place of occurrence	occurs at	plaza
+place of occurrence	occurs at	stadium complex
+place of occurrence	occurs at	government building
+place of occurrence	occurs at	data center
+place of occurrence	occurs at	power plant
+place of occurrence	occurs at	laboratory
+place of occurrence	occurs at	research facility
+place of occurrence	occurs at	educational campus
+place of occurrence	occurs at	hospital ward
+place of occurrence	occurs at	surgery theater
+place of occurrence	occurs at	airfield
+place of occurrence	occurs at	heliport
+place of occurrence	occurs at	village
+place of occurrence	occurs at	town
+place of occurrence	occurs at	city center
+place of occurrence	occurs at	shopping district
+place of occurrence	occurs at	business park
+place of occurrence	occurs at	industrial area
+place of occurrence	occurs at	science park
+place of occurrence	occurs at	campus
+place of occurrence	occurs at	medical center
+place of occurrence	occurs at	pierhead

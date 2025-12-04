@@ -1,0 +1,100 @@
+cystoscopy	is a	medical procedure
+cystoscopy	used for	evaluation of lower urinary tract symptoms
+cystoscopy	evaluates	bladder
+cystoscope	is a	instrument
+cystoscopic biopsy	is a	biopsy procedure
+cystoscopic biopsy	can detect	bladder cancer
+cystoscopy	can biopsy	bladder mucosa
+bladder cancer	diagnosed by	cystoscopy
+voiding cystourethrogram	is a	imaging procedure
+voiding cystourethrogram	used for	vesicoureteral reflux assessment
+vesicoureteral reflux	detected by	voiding cystourethrogram
+retrograde pyelography	is a	radiographic procedure
+retrograde pyelography	visualizes	ureters
+ureterorenoscopy	is a	diagnostic procedure
+ureterorenoscopy	evaluates	ureteral stones
+nephroscopy	is a	diagnostic procedure
+renal ultrasound	is a	imaging modality
+renal ultrasound	detects	hydronephrosis
+hydronephrosis	detected by	renal ultrasound
+bladder ultrasound	is a	imaging modality
+CT urography	is a	imaging modality
+CT urography	used for	evaluation of urinary tract obstruction
+CT urography	detects	filling defects
+MR urography	is a	imaging modality
+MR urography	used for	evaluation of urinary tract anatomy
+MR urography	detects	urothelial masses
+intravenous pyelogram	is a	radiographic procedure
+intravenous pyelogram	uses	iodinated contrast
+IVP	is a	radiographic procedure
+IVP	provides	anatomical visualization
+intravenous contrast	used for	urography
+urinary tract imaging	includes	CT urography
+urethroscopy	is a	medical procedure
+urethroscopy	used for	evaluation of urethral stricture
+urethral stricture	detected by	urethroscopy
+ureterorenoscopy	is a	diagnostic procedure
+pyelography	is a	radiographic procedure
+retrograde ureterography	is a	radiographic procedure
+retrograde ureterography	visualizes	ureteropelvic junction
+antegrade pyelography	is a	radiographic procedure
+pyelography	can detect	ureteral obstruction
+urography	is a	radiographic technique
+catheterization	is a	medical procedure
+urethral catheterization	provides	urinary drainage
+indwelling catheter	remains	in place
+intermittent catheterization	used for	bladder emptying
+suprapubic catheterization	is a	catheterization method
+urinary catheter	used for	bladder drainage
+catheterization	can cause	infection
+infection	risk after	catheterization
+urinary tract infection	risk increases	catheterization
+urodynamic testing	is a	urodynamic study
+urodynamic testing	assesses	bladder function
+uroflowmetry	measures	urine flow rate
+cystometrography	is a	urodynamic test
+cystometrography	assesses	bladder pressure
+bladder outlet obstruction	evaluated by	urodynamic testing
+pelvic ultrasound	visualizes	bladder
+pelvic ultrasound	detects	pelvic masses
+urinary tract imaging	used for	diagnosing pathology
+urinary tract imaging	provides	anatomical detail
+renal biopsy	is a	diagnostic procedure
+renal biopsy	used for	evaluation of nephropathy
+bladder biopsy	is a	diagnostic procedure
+bladder biopsy	detects	bladder cancer
+urethral biopsy	is a	diagnostic procedure
+urethral biopsy	detects	urethral pathology
+urine cytology	is a	diagnostic test
+urine cytology	detects	malignant urothelial cells
+kidney biopsy	is a	diagnostic procedure
+kidney biopsy	detects	nephropathy
+MAG3 scan	is a	nuclear medicine scan
+MAG3 scan	evaluates	renal perfusion
+MAG3 scan	evaluates	renal function
+DMSA scan	is a	nuclear medicine scan
+DMSA scan	evaluates	renal cortical function
+DMSA scan	detects	cortical scarring
+nuclear medicine scan	is a	imaging modality
+nuclear medicine scan	evaluates	renal function
+renal function	is evaluated by	imaging
+stone	detected by	CT scan
+kidney stone	detected by	CT scan
+kidney stone	detected by	ultrasound
+ureteral stone	detected by	CT scan
+hydronephrosis	caused by	obstruction
+obstruction	causes	hydronephrosis
+bladder lesions	seen on	cystoscopy
+cystoscopy-guided biopsy	is a	biopsy procedure
+cystoscopy-guided biopsy	obtains	bladder tissue
+urinary tract	evaluated by	imaging
+urethra	visualized by	urethroscopy
+urinary meatus	inspected by	cystoscopy
+bladder mucosa	visualized by	cystoscopy
+cystoscopy	can detect	bladder lesions
+bladder lesions	seen on	cystoscopy
+urethral meatus	inspected by	cystoscopy
+bladder mass	seen on	cystoscopy
+urethra	affected by	urethral stricture
+urethral stricture	causes	urinary retention
+cystoscopy-guided biopsy	performed for	suspected bladder cancer

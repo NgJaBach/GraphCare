@@ -1,0 +1,100 @@
+ct scan abdomen	is a	diagnostic imaging procedure
+ct scan abdomen	used for	evaluation of abdominal pain
+ct scan abdomen	used for	evaluation of acute abdomen
+ct scan abdomen	used for	detection of appendicitis
+ct scan abdomen	used for	detection of diverticulitis
+ct scan abdomen	used for	detection of pancreatitis
+ct scan abdomen	used for	detection of kidney stones
+ct scan abdomen	used for	detection of biliary disease
+ct scan abdomen	used for	detection of bowel perforation
+ct scan abdomen	used for	detection of bowel obstruction
+ct scan abdomen	used for	detection of intraabdominal mass
+ct scan abdomen	used for	detection of liver lesion
+ct scan abdomen	used for	staging of abdominal cancer
+ct scan abdomen	used for	postoperative assessment
+ct scan abdomen	used for	trauma assessment
+ct scan abdomen	used for	evaluation of liver disease
+ct scan abdomen	used for	evaluation of spleen injury
+ct scan abdomen	used for	evaluation of retroperitoneal pathology
+ct scan abdomen	used for	evaluation of vascular injury
+ct scan abdomen	provides	cross-sectional imaging
+ct scan abdomen	provides	multiplanar reconstructions
+ct scan abdomen	performed with	intravenous contrast
+ct scan abdomen	performed without	contrast
+intravenous contrast	enhances	vascular structures
+intravenous contrast	improves	lesion conspicuity
+oral contrast	used for	bowel opacification
+oral contrast	may cause	patient discomfort
+contrast administration	requires	renal function assessment
+renal impairment	complicates	contrast use
+radiation exposure	is a	consideration for CT abdomen
+pregnant patient	is a	contraindication for CT abdomen
+emergency department	often orders	ct scan abdomen
+abdominal pain	is an indication for	ct scan abdomen
+appendix	evaluated by	ct scan abdomen
+pancreas	evaluated by	ct scan abdomen
+kidney stone	detected by	ct scan abdomen
+liver lesion	detected by	ct scan abdomen
+splenic injury	detected by	ct scan abdomen
+bowel obstruction	detected by	ct scan abdomen
+free air	detected by	ct scan abdomen
+free fluid	detected by	ct scan abdomen
+pneumoperitoneum	detected by	ct scan abdomen
+mass lesion	detected by	ct scan abdomen
+abscess	detected by	ct scan abdomen
+hepatic abscess	detected by	ct scan abdomen
+hepatic mass	detected by	ct scan abdomen
+pancreatic mass	detected by	ct scan abdomen
+biliary dilation	detected by	ct scan abdomen
+vascular injury	detected by	ct scan abdomen
+aortic aneurysm	detected by	ct scan abdomen
+mesenteric ischemia	suggested by	ct scan abdomen
+bowel wall thickening	seen on	ct scan abdomen
+air within peritoneal cavity	seen on	ct scan abdomen
+calcifications	seen on	ct scan abdomen
+liver cirrhosis	assessed by	ct scan abdomen
+hepatic steatosis	visible on	ct scan abdomen
+kidney stone	located in	kidney
+calcified stone	seen on	ct scan abdomen
+incidental finding	detected by	ct scan abdomen
+incidentaloma	detected by	ct scan abdomen
+follow-up ct scan abdomen	performed after	initial CT
+radiology report	accompanies	ct scan abdomen
+radiology report	describes	ct findings
+ct findings	include	free air
+ct findings	include	bowel wall thickening
+ct findings	include	mesenteric edema
+ct findings	include	ascites
+ascites	detected by	ct scan abdomen
+pseudocyst	detected by	ct scan abdomen
+tumor	suspected on	ct scan abdomen
+staging	aided by	ct scan abdomen
+follow-up imaging	indicated for	known lesion
+known lesion	monitored by	ct scan abdomen
+ct scan abdomen	supports	surgical planning
+ct scan abdomen	guides	treatment decisions
+ct scan abdomen	influences	discharge planning
+ct scan abdomen	correlates with	lab results
+ct scan abdomen	correlates with	physical exam
+ultrasound abdomen	used for	initial assessment before ct
+ultrasound abdomen	followed by	ct scan abdomen
+MRI abdomen	alternative to	ct scan abdomen
+intravenous contrast	increases	risk of nephropathy
+renal impairment	increases	risk of contrast nephropathy
+contrast nephropathy	is a	potential complication
+radiology department	schedules	ct scan abdomen
+ct scan abdomen	contributes to	discharge planning
+ct scan abdomen	improves	diagnostic confidence
+air in peritoneum	detectable by	ct scan abdomen
+pancreatic duct dilation	detectable by	ct scan abdomen
+liver lesion	characterized by	ct scan abdomen
+vascular abnormality	evaluated by	ct scan abdomen
+ascites	evaluation by	ct scan abdomen
+contrast enhancement	improves	lesion conspicuity
+protocol	includes	contrast-enhanced phase
+contrast-enhanced phase	used for	vascular assessment
+arterial phase	used for	detection of arterial pathology
+venous phase	used for	evaluation of venous structures
+radiation dose	varies with	CT protocol
+contrast allergy	contraindication	CT abdomen
+post-contrast imaging	recommended after	initial non-contrast CT

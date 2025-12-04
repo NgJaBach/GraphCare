@@ -1,100 +1,100 @@
-other fractures	is associated with	osteoporosis
-other fractures	is associated with	falls
-other fractures	is associated with	malnutrition
-other fractures	is associated with	diabetes
-other fractures	is associated with	anemia
-other fractures	is associated with	frailty
-other fractures	is associated with	obesity
-other fractures	is associated with	smoking
-other fractures	is associated with	age
-other fractures	is associated with	kidney_disease
-other fractures	predicts	mortality
-other fractures	predicts	readmission
-other fractures	predicts	discharge_destination
-other fractures	predicts	length_of_stay
-other fractures	predicts	chronic_pain
-other fractures	predicts	rehabilitation_need
-other fractures	predicts	infection
-other fractures	predicts	delirium
-other fractures	predicts	functional_decline
-other fractures	predicts	disability
-other fractures	increases	hospital_cost
-other fractures	requires	orthopedic_surgery
-other fractures	requires	anesthesia
-other fractures	is treated_with	analgesics
-other fractures	is treated_with	physical_therapy
-other fractures	is treated_with	immobilization
-other fractures	is treated_with	antibiotics
-other fractures	is diagnosed_by	xray
-other fractures	is diagnosed_by	ct_scan
-other fractures	is diagnosed_by	mri
-other fractures	is diagnosed_by	ultrasound
-osteoporosis	increases	fracture_risk
-osteoporosis	is_a	bone_condition
-falls	cause	fractures
-age	increases	fracture_risk
-bone_density	correlates_with	fracture_risk
-calcium_deficiency	increases	fracture_risk
-vitamin_d_deficiency	increases	fracture_risk
-sarcopenia	increases	fracture_healing_time
-frailty	increases	fracture_healing_time
-diabetes	increases	fracture_healing_time
-hypertension	associates_with	fractures
-chronic_kidney_disease	increases	complication_risk_in_fracture
-COPD	increases	fracture_complications
-heart_failure	increases	readmission_risk
-malnutrition	increases	discharge_delay
-anemia	increases	wound_healing_time
-infection	increases	readmission_risk
-pain	influences	mobility
-casts	provide	fracture_stabilization
-cast_immobilization	stabilizes	fracture
-external_fixator	stabilizes	fracture
-surgical_repair	improves	alignment
-bone_grafting	aids	fracture_healing
-bone_marker	indicates	healing_progress
-rehabilitation_program	improves	mobility
-physical_therapy	enhances	bone_healing
-osteoporosis_treatment	reduces	fracture_risk
-bone_health	improves	independence
-weightbearing_exercise	improves	bone_density
-calcium_supplementation	reduces	fracture_risk
-calcium_vitamin_d	reduces	fracture_risk
-bone_density_scan	measures	fracture_risk
-bone_density_scan	used_for	fracture_assessment
-hip_fracture	is_common_in	elderly
-vertebral_fracture	causes	back_pain
-pelvic_fracture	leads_to	bedrest
-forearm_fracture	heals_with	immobilization
-radius_fracture	heals_with	immobilization
-scaphoid_fracture	requires	early_diagnosis
-distal_radius_fracture	associated_with	osteoporosis
-clavicle_fracture	associated_with	falls
-mandible_fracture	treated_by	surgery
-distal_tibia_fracture	treated_with	external_fixation
-ankle_fracture	treated_with	immobilization
-shoulder_fracture	treated_with	sling
-finger_fracture	heals_with	immobilization
-stress_fracture	occurs_in	athletes
-greenstick_fracture	occurs_in	children
-pathologic_fracture	occurs_in	malignancy
-osteomyelitis_in_fracture	complicates	healing
-surgery	reduces	fracture_displacement
-imaging	monitors	fracture_healing
-bone_loss	worsens	fracture_risk
-bone_marrow_injury	accompanies	fracture
-bone_fragility	increases	fracture_risk
-sarcopenia	increases	falls_risk
-sarcopenia	predicts	mobility_decline
-mobility_decline	worsens_with	fracture
-pain_management	depends_on	analgesics
-analgesics	provide	analgesia
-surgery	reduces	healing_outcome
-immobilization	extends	healing_time
-blood_loss	is_prevalent_in	fracture_surgery
-infection	after_surgery	fracture
-rehabilitation	reduces	disability
-gait_instability	persists_after	fracture
-bone_stimulation	promotes	healing
-bone_fragment	results_in	soft_tissue_injury
-orthopedic_surgeon	performs	fracture_fixation
+other fractures	is a	musculoskeletal injury
+other fractures	may cause	pain
+osteoporosis	is a risk factor for	other fractures
+age	is a risk factor for	other fractures
+female sex	is a risk factor for	other fractures
+glucocorticoid use	is a risk factor for	other fractures
+smoking	is a risk factor for	other fractures
+alcohol use	is a risk factor for	other fractures
+low body mass index	is a risk factor for	other fractures
+prior fracture	is a risk factor for	other fractures
+trauma	is a cause of	other fractures
+low-energy fall	is a cause of	other fractures
+high-energy trauma	is a cause of	other fractures
+osteoporosis	worsens	fracture healing
+X-ray	is used to diagnose	other fractures
+CT scan	is used to diagnose	other fractures
+MRI	is used to diagnose	other fractures
+bone scan	is used to diagnose	other fractures
+ultrasound	is used to diagnose	other fractures
+cast	is used for	immobilization
+splint	is used for	immobilization
+sling	is used for	immobilization
+open reduction	is used for	displaced fractures
+closed reduction	is used for	displaced fractures
+internal fixation	is used for	fractures
+plate fixation	is used for	fractures
+intramedullary nail	is used for	long bone fractures
+external fixation	is used for	fractures
+bone graft	is used for	fracture healing
+bone graft	promotes	fracture healing
+nonunion	is a complication of	fractures
+malunion	is a complication of	fractures
+infection	is a complication of	open fractures
+osteomyelitis	is a complication of	fractures
+fat embolism	is a complication of	long bone fractures
+deep vein thrombosis	is a complication of	immobilization after fracture
+pneumonia	is a complication of	prolonged immobilization after fracture
+delayed healing	is a complication of	fractures
+chronic pain	persists after	fractures
+depression	worsens	fracture outcomes
+diabetes mellitus	is associated with	fracture risk
+renal insufficiency	is associated with	fracture risk
+vitamin D deficiency	is a risk factor for	fractures
+calcium deficiency	is a risk factor for	fractures
+bisphosphonates	reduce risk of	subsequent fractures
+denosumab	reduces risk of	vertebral fractures
+teriparatide	accelerates healing of	fractures
+calcium supplementation	reduces	fracture risk
+vitamin D supplementation	improves	bone mineral density
+calcium supplementation	improves	bone mineral density
+physical therapy	improves	functional recovery after fractures
+occupational therapy	improves	activities of daily living after fractures
+immobilization	increases risk of	joint stiffness
+early mobilization	improves	outcomes after fractures
+endosteal healing	is a process of	fracture healing
+callus formation	occurs during	fracture healing
+bone remodeling	follows	fracture healing
+osteoblastic activity	increases during	fracture healing
+smoking cessation	improves	fracture healing
+diabetes mellitus	impairs	fracture healing
+hypocalcemia	is a risk factor for	fractures
+nephrotoxicity	is a risk with	analgesics used in fractures
+tetanus prophylaxis	is indicated for	open fractures
+antibiotics	are indicated for	open fractures
+osteomyelitis	can occur after	open fracture
+soft tissue injury	accompanies	fractures
+compartment syndrome	is a complication of	tibial fracture
+nerve injury	occurs with	elbow fracture
+vascular injury	may occur with	fracture-dislocation
+hemorrhage	is a complication of	fracture surgery
+skin necrosis	is a complication of	open fractures
+posttraumatic arthritis	may develop after	intra-articular fractures
+posttraumatic osteoarthritis	may develop after	articular fractures
+nonunion rate	increases with	smoking
+fat embolism syndrome	is a risk with	long bone fractures
+pulmonary embolism	is a risk with	immobilization after fracture
+infection	can complicate	fracture fixation
+hardware failure	occurs with	fracture fixation
+implant loosening	occurs with	fracture fixation
+bone mineral density	predicts	fragility fractures
+bone age	influences	healing time
+blood loss	influences	transfusion rate during fracture surgery
+operating time	is longer for	complex fractures
+blood transfusion	is required for	major fractures
+mortality	is increased in	hip fracture
+readmission	is common after	fracture surgery
+length of stay	is longer with	fracture complications
+joint stiffness	persists after	fracture immobilization
+ankle fracture	is common in	elderly population
+hip fracture	increases	dependency after fracture
+muscle atrophy	occurs with	immobilization after fracture
+sarcopenia	increases risk of	falls leading to fractures
+bone turnover	is altered by	immobilization
+early fixation	improves	fracture outcomes
+reoperation	is required for	failed fracture fixation
+prosthesis failure	can occur after	fracture-related arthroplasty
+trauma center	improves outcomes for	severe fractures
+nurse coordination	influences	discharge planning after fracture
+bone healing time	increases with	age
+age	decreases	healing potential

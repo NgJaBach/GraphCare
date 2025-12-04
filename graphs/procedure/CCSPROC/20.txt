@@ -1,0 +1,89 @@
+intravitreal injection	is a	intraocular procedure
+intravitreal injection	treats	macular edema
+intravitreal injection	treats	diabetic macular edema
+intravitreal injection	treats	retinal vein occlusion
+intravitreal injection	treats	neovascular AMD
+intravitreal injection	can cause	endophthalmitis
+intravitreal injection	contraindicated in	active intraocular infection
+anti-VEGF therapy	is administered by	intravitreal injection
+anti-VEGF therapy	treats	neovascular AMD
+anti-VEGF therapy	treats	diabetic macular edema
+anti-VEGF therapy	treats	retinal vein occlusion
+bevacizumab	is an	anti-VEGF agent
+ranibizumab	is an	anti-VEGF agent
+aflibercept	is an	anti-VEGF agent
+intravitreal bevacizumab injection	is a	anti-VEGF administration
+triamcinolone acetonide injection	is a	intraocular corticosteroid
+dexamethasone implant	is a	intraocular corticosteroid implant
+dexamethasone implant	treats	macular edema
+triamcinolone acetonide injection	reduces	intraocular inflammation
+intravitreal dexamethasone implant	treats	macular edema
+intravitreal triamcinolone injection	treats	macular edema
+photocoagulation	is a	intraocular laser therapy
+laser photocoagulation	treats	diabetic retinopathy
+panretinal photocoagulation	treats	proliferative diabetic retinopathy
+focal laser photocoagulation	treats	macular edema
+grid laser photocoagulation	treats	diabetic retinopathy
+photocoagulation	reduces	retinal neovascularization
+laser therapy	is a	intraocular therapy
+photodynamic therapy	is a	intraocular therapy
+PDT	uses	verteporfin
+verteporfin	is a	photosensitizer
+PDT	used for	choroidal neovascularization
+pars plana vitrectomy	is a	intraocular surgery
+pars plana vitrectomy	treats	retinal detachment
+pars plana vitrectomy	treats	vitreous hemorrhage
+vitrectomy	is a	intraocular surgery
+vitrectomy	enables	membrane peeling
+silicone oil tamponade	is a	intraocular tamponade
+silicone oil tamponade	used for	retinal detachment
+gas tamponade	is a	intraocular tamponade
+C3F8 gas tamponade	used for	retinal detachment
+SF6 gas tamponade	used for	retinal detachment
+perfluoropropane tamponade	used for	retinal detachment
+gas tamponade	requires	postoperative positioning
+intracameral injection	is a	intraocular injection
+intracameral antibiotic injection	is a	intraocular antibiotic
+intracameral antibiotic injection	reduces	endophthalmitis risk
+intracameral steroid injection	is a	intraocular steroid
+intracameral antibiotic injection	after cataract surgery	reduces infection risk
+cyclophotocoagulation	is a	intraocular procedure
+transscleral cyclophotocoagulation	is a	intraocular procedure
+cyclophotocoagulation	lowers	intraocular pressure
+transscleral cyclophotocoagulation	lowers	intraocular pressure
+cyclodestructive procedure	is a	intraocular procedure
+intraocular implant	is a	medical device
+dexamethasone implant	is a	intraocular implant
+silicone oil	is a	intraocular tamponade agent
+intracameral antibiotic injection	is a	intraocular antibiotic
+intracameral antibiotic injection	reduces	endophthalmitis risk
+intracameral steroid injection	is a	intraocular steroid
+intravitreal antibiotic injection	is a	intraocular antibiotic
+intravitreal antibiotic injection	treats	endophthalmitis
+intravitreal antibiotic injection	used for	bacterial endophthalmitis
+intravitreal antifungal injection	is a	intraocular antifungal
+intravitreal antifungal injection	treats	fungal endophthalmitis
+macular hole	treated with	vitrectomy
+epiretinal membrane	treated with	vitrectomy
+internal limiting membrane peeling	is a	technique during vitrectomy
+internal limiting membrane peeling	improves	macular architecture
+retinal detachment	repaired with	vitrectomy
+retinal detachment	repaired with	silicone oil tamponade
+retinal detachment	treated with	gas tamponade
+diabetic macular edema	managed with	intravitreal anti-VEGF therapy
+diabetic macular edema	managed with	intravitreal steroids
+neovascular AMD	managed with	anti-VEGF therapy
+proliferative diabetic retinopathy	managed with	panretinal photocoagulation
+retinal vein occlusion	managed with	intravitreal anti-VEGF therapy
+photodynamic therapy	indicated for	choroidal neovascularization
+PDT	alternative to	anti-VEGF therapy in some cases
+dexamethasone implant	approved for	macular edema due to diabetes
+intravitreal dexamethasone implant	reduces	central retinal thickness
+intravitreal injection	monitoring	intraocular pressure
+intravitreal injection	follow-up	visual acuity improvement
+anti-VEGF therapy	requires	frequent dosing intervals
+laser photocoagulation	can cause	localized retinal damage
+panretinal photocoagulation	may cause	peripheral vision loss
+intravitreal injection	requires	aseptic technique
+intravitreal injection	commonly performed in	retina clinics
+photocoagulation	may cause	scotoma

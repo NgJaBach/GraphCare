@@ -1,0 +1,98 @@
+removal of ectopic pregnancy	is a	surgical procedure
+removal of ectopic pregnancy	performed by	surgeon
+removal of ectopic pregnancy	performed with	laparoscopy
+removal of ectopic pregnancy	performed under	general anesthesia
+removal of ectopic pregnancy	indicated for	tubal ectopic pregnancy
+removal of ectopic pregnancy	indicated for	nonviable pregnancy
+removal of ectopic pregnancy	contraindicated in	ruptured ectopic pregnancy
+removal of ectopic pregnancy	reduces	blood loss
+removal of ectopic pregnancy	reduces	hospital stay
+removal of ectopic pregnancy	reduces	recovery time
+removal of ectopic pregnancy	reduces	recurrence risk
+removal of ectopic pregnancy	improves	fertility outcome
+removal of ectopic pregnancy	improves	pregnancy probability
+removal of ectopic pregnancy	reduces	maternal mortality
+removal of ectopic pregnancy	reduces	perioperative morbidity
+removal of ectopic pregnancy	associated with	postoperative pain
+removal of ectopic pregnancy	associated with	infection
+removal of ectopic pregnancy	associated with	adhesions
+removal of ectopic pregnancy	risk of	hemorrhage
+removal of ectopic pregnancy	risk of	transfusion
+removal of ectopic pregnancy	risk of	venous thromboembolism
+removal of ectopic pregnancy	requires	preoperative imaging
+removal of ectopic pregnancy	requires	consent
+removal of ectopic pregnancy	requires	blood typing
+removal of ectopic pregnancy	requires	crossmatch
+removal of ectopic pregnancy	requires	but crossmatch
+removal of ectopic pregnancy	uses	ligature
+removal of ectopic pregnancy	uses	trocars
+removal of ectopic pregnancy	uses	suction device
+removal of ectopic pregnancy	uses	scalpel
+removal of ectopic pregnancy	uses	laparoscope
+removal of ectopic pregnancy	method	salpingectomy
+removal of ectopic pregnancy	method	salpingostomy
+removal of ectopic pregnancy	method	open surgery
+removal of ectopic pregnancy	method	laparoscopic salpingectomy
+removal of ectopic pregnancy	method	laparoscopic salpingostomy
+removal of ectopic pregnancy	alternative to	methotrexate
+removal of ectopic pregnancy	alternative to	expectant management
+removal of ectopic pregnancy	follow-up	postoperative visit
+removal of ectopic pregnancy	follow-up	beta-hCG normalization
+removal of ectopic pregnancy	follow-up	ultrasound evaluation
+removal of ectopic pregnancy	outcome	tubal patency
+removal of ectopic pregnancy	outcome	fertility status
+removal of ectopic pregnancy	outcome	pregnancy rate
+removal of ectopic pregnancy	outcome	uterine integrity
+removal of ectopic pregnancy	outcome	ovarian function
+removal of ectopic pregnancy	outcome	fertility preservation
+removal of ectopic pregnancy	complication	infection
+removal of ectopic pregnancy	complication	bleeding
+removal of ectopic pregnancy	complication	organ injury
+removal of ectopic pregnancy	complication	adhesions
+removal of ectopic pregnancy	complication	thromboembolism
+removal of ectopic pregnancy	equipment	laparoscope
+removal of ectopic pregnancy	equipment	suction canister
+removal of ectopic pregnancy	equipment	grasping forceps
+removal of ectopic pregnancy	equipment	suction irrigator
+removal of ectopic pregnancy	equipment	trocar
+removal of ectopic pregnancy	equipment	scalpel handle
+removal of ectopic pregnancy	setting	operating room
+removal of ectopic pregnancy	setting	hospital
+removal of ectopic pregnancy	facility	tertiary center
+removal of ectopic pregnancy	facility	community hospital
+removal of ectopic pregnancy	patient factor	age group
+removal of ectopic pregnancy	patient factor	BMI category
+removal of ectopic pregnancy	patient factor	prior ectopic pregnancy
+removal of ectopic pregnancy	patient factor	parity
+removal of ectopic pregnancy	prognosis	favorable
+removal of ectopic pregnancy	prognosis	unfavorable
+removal of ectopic pregnancy	guideline	clinical guidelines
+removal of ectopic pregnancy	education	patient counseling
+removal of ectopic pregnancy	consent	informed consent
+removal of ectopic pregnancy	time	operative time
+removal of ectopic pregnancy	time	total procedure time
+removal of ectopic pregnancy	cost	hospitalization cost
+removal of ectopic pregnancy	cost	procedure cost
+removal of ectopic pregnancy	quality metric	complication rate
+removal of ectopic pregnancy	quality metric	time to surgery
+removal of ectopic pregnancy	safety profile	complication rate
+removal of ectopic pregnancy	safety profile	anesthesia risk
+removal of ectopic pregnancy	risk assessment	preoperative risk
+removal of ectopic pregnancy	risk assessment	anesthesia risk
+removal of ectopic pregnancy	patient status	stable patient
+removal of ectopic pregnancy	patient status	unstable patient
+removal of ectopic pregnancy	record	operative notes
+removal of ectopic pregnancy	record	pathology report
+removal of ectopic pregnancy	research	randomized trials
+removal of ectopic pregnancy	innovation	robotic-assisted surgery
+removal of ectopic pregnancy	innovation	single-incision laparoscopy
+removal of ectopic pregnancy	technology	robotic systems
+removal of ectopic pregnancy	post-operative	analgesia
+removal of ectopic pregnancy	post-operative	wound care
+removal of ectopic pregnancy	patient experience	satisfaction
+removal of ectopic pregnancy	patient experience	pain control satisfaction
+removal of ectopic pregnancy	anesthesia	airway management
+removal of ectopic pregnancy	perioperative	management
+removal of ectopic pregnancy	lab test	complete blood count
+removal of ectopic pregnancy	lab test	beta-hCG measurement
+removal of ectopic pregnancy	clinical outcome	satisfaction rate

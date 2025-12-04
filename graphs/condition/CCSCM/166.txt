@@ -1,41 +1,100 @@
-ENTITY	RELATIONSHIP	ENTITY
-hypospadias	is a	congenital malformation
-hypospadias	associated with	chordee
-epispadias	is a	congenital malformation
-epispadias	associated with	urinary incontinence
-phimosis	is a	foreskin constriction
-paraphimosis	is a	penile emergency
-balanitis	is a	penile infection
-balanoposthitis	is a	penile infection
-urethral stricture	is a	urethral narrowing
-urethral stricture	may cause	urinary retention
-urethral diverticulum	is a	urethral outpouching
-penile cancer	is a	malignant tumor
-penile cancer	associated with	human papillomavirus
-Peyronie's disease	is a	fibrotic disorder
-Peyronie's disease	associated with	penile plaque
-priapism	is a	medical emergency
-erectile dysfunction	is a	sexual dysfunction
 erectile dysfunction	associated with	diabetes mellitus
-cryptorchidism	is a	congenital condition
-cryptorchidism	is a risk factor for	testicular cancer
-cryptorchidism	associated with	infertility
-testicular torsion	is a	surgical emergency
-testicular torsion	requires	detorsion surgery
-testicular cancer	is a	malignant tumor
-testicular cancer	metastasizes to	lymph nodes
-orchitis	is a	testicular inflammation
-epididymitis	is a	epididymal inflammation
-varicocele	is a	scrotal venous dilation
-varicocele	associated with	infertility
-hydrocele	is a	scrotal swelling
-spermatocele	is a	epididymal cyst
-meatal stenosis	is a	urethral narrowing
-penile fracture	is a	penile injury
-penile fracture	requires	surgical repair
-penile abscess	is a	penile infection
-penile ulcer	is a	penile lesion
-penile lichen sclerosus	is a	inflammatory disease
-balanitis xerotica obliterans	is a	inflammatory disease
-urethral fistula	is a	abnormal connection
-paraphimosis	may cause	penile necrosis
+erectile dysfunction	associated with	hypertension
+erectile dysfunction	associated with	obesity
+erectile dysfunction	associated with	smoking
+erectile dysfunction	associated with	hyperlipidemia
+erectile dysfunction	associated with	cardiovascular disease
+erectile dysfunction	associated with	aging
+erectile dysfunction	associated with	metabolic syndrome
+erectile dysfunction	associated with	depression
+erectile dysfunction	associated with	hypogonadism
+erectile dysfunction	treated with	sildenafil
+erectile dysfunction	treated with	tadalafil
+erectile dysfunction	treated with	vacuum erection device
+erectile dysfunction	treated with	penile implant
+erectile dysfunction	treated with	intracavernosal alprostadil
+balanitis	associated with	diabetes mellitus
+balanitis	associated with	candidal infection
+balanitis	treated with	antifungal therapy
+balanitis	treated with	antibiotics
+balanitis	prevented by	good hygiene
+phimosis	associated with	balanitis
+phimosis	treated with	circumcision
+paraphimosis	requires	urgent reduction
+paraphimosis	is	emergency
+circumcision	reduces risk of	phimosis
+circumcision	reduces risk of	penile cancer
+penile cancer	associated with	HPV infection
+penile cancer	treated with	surgery
+penile cancer	treated with	radiotherapy
+penile cancer	treated with	chemotherapy
+HPV infection	associated with	penile cancer
+HPV vaccination	reduces risk of	penile cancer
+hypospadias	treated with	surgery
+epispadias	treated with	surgery
+urethral stricture	causes	urinary obstruction
+urethral stricture	treated with	urethral dilation
+urethral stricture	associated with	trauma
+urethral stricture	associated with	pelvic surgery
+penile fracture	requires	surgery
+penile fracture	is	emergency
+penile implant	used for	refractory erectile dysfunction
+penile prosthesis	used for	erectile dysfunction
+peyronie’s disease	causes	penile curvature
+peyronie’s disease	associated with	penile trauma
+peyronie’s disease	treated with	collagenase therapy
+testicular torsion	requires	urgent surgery
+testicular torsion	is	emergency
+cryptorchidism	increases risk of	testicular cancer
+cryptorchidism	increases risk of	infertility
+testicular cancer	treated with	orchiectomy
+testicular cancer	metastasizes to	retroperitoneal lymph nodes
+testicular cancer	staged with	imaging
+testicular cancer	associated with	elevated tumor markers
+testicular cancer	surveillance with	ultrasound
+undescended testis	treated with	orchiopexy
+undescended testis	increases risk of	infertility
+cryptorchidism	treated with	orchiopexy
+testicular microlithiasis	associated with	testicular cancer
+testicular microlithiasis	associated with	infertility
+epididymal cyst	associated with	infertility
+spermatocele	associated with	epididymal cyst
+hydrocele	causes	scrotal swelling
+hydrocele	treated with	surgical repair
+varicocele	causes	infertility
+varicocele	associated with	scrotal pain
+orchitis	associated with	mumps
+orchitis	treated with	analgesia
+epididymitis	caused by	bacterial infection
+epididymitis	treated with	antibiotics
+gonorrhea	associated with	urethritis
+chlamydia	associated with	urethritis
+urethritis	treated with	antibiotics
+penile warts	associated with	HPV infection
+penile warts	prevented by	HPV vaccination
+peyronie’s disease	causes	penile curvature
+peyronie’s disease	associated with	penile trauma
+peyronie’s disease	treated with	collagenase therapy
+sperm count	decreased by	varicocele
+testicular pain	is	symptom
+scrotal swelling	is	symptom
+penile edema	is	symptom
+penile ulcer	associated with	infection
+penile ulcers	treated with	antibiotics
+circumcision	protective against	penile cancer
+circumcision	protective against	UTI in infancy
+spermatic cord tumor	is	malignant
+male genital infection	associated with	urethritis
+urethritis	treated with	antibiotics
+penile wart	associated with	HPV infection
+penile wart	prevented by	HPV vaccination
+penile lesion	may indicate	cancer
+genital herpes	associated with	penile lesions
+genital herpes	treated with	antiviral therapy
+penile plaque	associated with	peyronie’s disease
+peyronie’s disease	causes	penile curvature
+penile curvature	caused by	peyronie’s disease
+testis	part of	male reproductive system
+scrotum	contains	testes
+sperm	produced by	testes
+testosterone production	occurs in	testes

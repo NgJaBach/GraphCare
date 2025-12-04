@@ -1,0 +1,100 @@
+diagnostic physical therapy	is a	medical evaluation
+diagnostic physical therapy	identifies	functional limitations
+diagnostic physical therapy	assesses	movement quality
+diagnostic physical therapy	identifies	impairments
+diagnostic physical therapy	informs	treatment planning
+diagnostic physical therapy	informs	prognosis
+diagnostic physical therapy	conducted in	outpatient setting
+diagnostic physical therapy	uses	standardized tests
+standardized tests	measure	range of motion
+gait analysis	assesses	gait pattern
+gait analysis	detects	asymmetry
+balance assessment	evaluates	balance impairment
+strength assessment	evaluates	muscle strength
+range of motion assessment	measures	joint mobility
+postural assessment	identifies	postural deviations
+nerve provocation test	detects	neuropathic signs
+pain scale	relates to	patient-reported pain
+pain intensity	rated on	numeric scale
+pain intensity	predicts	analgesic need
+outcome measures	include	functional status
+functional status	reflects	daily activity capacity
+ADL independence	indicates	functional recovery
+occupational therapy referral	arises from	diagnostic physical therapy
+functional limitation	guides	rehabilitation targets
+treatment plan	depends on	diagnostic findings
+diagnostic findings	inform	prognosis estimate
+clinic setting	provides	diagnostic physical therapy service
+acute care unit	provides	diagnostic physical therapy service
+inpatient unit	provides	diagnostic physical therapy evaluation
+discharge planning	relies on	diagnostic physical therapy results
+postoperative status	improves with	diagnostic physical therapy
+osteoarthritis	is evaluated by	diagnostic physical therapy
+low back pain	assessed for	impairment severity
+stroke	requires	gait analysis
+knee pain	evaluated for	functional limitation
+diagnostic physical therapy	supports	differential diagnosis
+differential diagnosis	derived from	clinical examination
+clinical examination	contributes to	diagnostic hypothesis
+diagnostic hypothesis	tested by	provocative tests
+provocative tests	include	neural tension tests
+neural tension test	assesses	neural tissue sensitivity
+tendon loading test	indicates	tendon pathology
+functional assessment	guides	home exercise program
+home exercise program	delivered by	physical therapist
+physical therapist	schedules	follow-up evaluation
+follow-up evaluation	measures	progress
+progress	documented in	progress notes
+progress notes	summarize	findings
+findings	inform	discharge criteria
+discharge criteria	require	functional independence
+functional independence	achieved with	strengthening program
+strengthening program	enhances	muscle endurance
+muscle endurance	improves with	resistance training
+exercise prescription	comprises	therapeutic exercises
+therapeutic exercises	target	range of motion
+resistance training	strengthens	muscles
+education	provides	patient education
+patient education	improves	self-management
+self-management	relates to	adherence
+adherence	predicts	recovery rate
+recovery rate	depends on	therapy adherence
+therapy adherence	measured by	patient log
+patient log	indicates	activity level
+activity level	correlates with	functional outcome
+functional outcome	tracked by	outcome measure
+outcome measure	include	gait speed
+gait speed	predicts	functional recovery
+functional recovery	enables	discharge readiness
+discharge readiness	allows	home discharge
+home discharge	requires	caregiver support
+caregiver support	influences	readmission risk
+readmission risk	associated with	functional status
+functional status	used for	risk stratification
+risk stratification	informs	resource allocation
+resource allocation	affects	staffing
+staffing	influences	therapy access
+therapy access	affects	patient satisfaction
+outpatient clinic	delivers	diagnostic physical therapy evaluation
+insurance authorization	required for	diagnostic physical therapy
+reimbursement	tied to	functional outcome
+screening	facilitates	triage
+triage	directs	referral pathway
+referral pathway	includes	physical therapy
+timely evaluation	reduces	complication risk
+complication risk	increases with	delayed evaluation
+delayed evaluation	leads to	worse prognosis
+musculoskeletal conditions	contribute to	hospital readmissions
+hospital readmissions	preventable by	early diagnostic physical therapy
+early diagnostic physical therapy	reduces	length of stay
+length of stay	shortened by	early diagnostic physical therapy
+early diagnostic physical therapy	reduces	complication rate
+collected data	used for	predictive modeling
+predictive modeling	informs	risk prediction
+risk prediction	supports	discharge planning
+gait speed	serves as	functional predictor
+functional predictor	used for	prognosis estimation
+prognosis estimation	guides	patient counseling
+patient counseling	improves	treatment adherence
+treatment adherence	enhances	therapy effectiveness
+therapy effectiveness	improves	quality of life

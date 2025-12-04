@@ -1,40 +1,74 @@
-polyhydramnios	is a	pregnancy complication
-polyhydramnios	associated with	fetal anomaly
-polyhydramnios	associated with	chromosomal abnormality
-polyhydramnios	associated with	maternal diabetes
-polyhydramnios	associated with	gestational diabetes
-polyhydramnios	associated with	multiple gestation
-polyhydramnios	associated with	twin pregnancy
-polyhydramnios	associated with	triplet pregnancy
-polyhydramnios	associated with	fetal hydrops
-polyhydramnios	associated with	fetal distress
-polyhydramnios	associated with	preterm birth
-polyhydramnios	associated with	cesarean delivery
-polyhydramnios	associated with	stillbirth
-polyhydramnios	associated with	NICU admission
-polyhydramnios	associated with	neonatal respiratory distress syndrome
-polyhydramnios	associated with	meconium aspiration syndrome
-polyhydramnios	associated with	placental abruption
-polyhydramnios	associated with	placental insufficiency
-polyhydramnios	diagnosed by	ultrasound
-polyhydramnios	monitored with	ultrasound
-polyhydramnios	evaluated by	amniotic fluid index
-polyhydramnios	evaluated by	biophysical profile
-polyhydramnios	evaluated by	fetal surveillance
-polyhydramnios	treated with	amnioreduction
-polyhydramnios	treated with	therapeutic amniocentesis
-polyhydramnios	managed with	expectant management
-polyhydramnios	managed with	planned delivery
-polyhydramnios	managed with	early delivery
-polyhydramnios	requires	fetal monitoring
-polyhydramnios	indicates	fetal distress
-polyhydramnios	leads to	placental compromise
-polyhydramnios	leads to	perinatal morbidity
-polyhydramnios	increases risk of	neonatal mortality
-polyhydramnios	increases risk of	NICU admission
-polyhydramnios	increases risk of	cesarean delivery
-polyhydramnios	increases risk of	preterm birth
-polyhydramnios	commonly occurs with	fetal anomaly
-polyhydramnios	commonly occurs with	twin pregnancy
-polyhydramnios	common in	maternal diabetes
-polyhydramnios	seen in	multiple gestation
+polyhydramnios and other problems of amniotic cavity	is a	obstetric condition
+polyhydramnios and other problems of amniotic cavity	associated with	fetal anomalies
+polyhydramnios and other problems of amniotic cavity	associated with	multiple gestation
+polyhydramnios and other problems of amniotic cavity	associated with	maternal diabetes
+polyhydramnios and other problems of amniotic cavity	associated with	neural tube defect
+polyhydramnios and other problems of amniotic cavity	associated with	esophageal atresia
+polyhydramnios and other problems of amniotic cavity	associated with	duodenal atresia
+polyhydramnios and other problems of amniotic cavity	associated with	anencephaly
+polyhydramnios and other problems of amniotic cavity	associated with	fetal hydrops
+polyhydramnios and other problems of amniotic cavity	associated with	aneuploidy
+polyhydramnios and other problems of amniotic cavity	associated with	congenital diaphragmatic hernia
+polyhydramnios and other problems of amniotic cavity	associated with	fetal malformation
+polyhydramnios and other problems of amniotic cavity	associated with	post-term pregnancy
+polyhydramnios and other problems of amniotic cavity	associated with	placental abnormalities
+polyhydramnios and other problems of amniotic cavity	associated with	prematurity
+polyhydramnios and other problems of amniotic cavity	associated with	cesarean delivery
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal intensive care admission
+polyhydramnios and other problems of amniotic cavity	associated with	respiratory distress syndrome
+polyhydramnios and other problems of amniotic cavity	associated with	low birth weight
+polyhydramnios and other problems of amniotic cavity	associated with	macrosomia
+polyhydramnios and other problems of amniotic cavity	associated with	stillbirth
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal death
+polyhydramnios and other problems of amniotic cavity	associated with	perinatal morbidity
+polyhydramnios and other problems of amniotic cavity	associated with	placental insufficiency
+polyhydramnios and other problems of amniotic cavity	associated with	twin-twin transfusion syndrome
+polyhydramnios and other problems of amniotic cavity	seen in	twin pregnancy
+polyhydramnios and other problems of amniotic cavity	seen in	gestational diabetes
+polyhydramnios and other problems of amniotic cavity	diagnosed by	ultrasound
+polyhydramnios and other problems of amniotic cavity	diagnosed by	ultrasonography
+polyhydramnios and other problems of amniotic cavity	detected by	ultrasound
+polyhydramnios and other problems of amniotic cavity	assessed by	amniotic fluid index
+polyhydramnios and other problems of amniotic cavity	monitored by	ultrasound surveillance
+polyhydramnios and other problems of amniotic cavity	managed with	amnioreduction
+polyhydramnios and other problems of amniotic cavity	managed with	expectant management
+polyhydramnios and other problems of amniotic cavity	managed with	fetal monitoring
+polyhydramnios and other problems of amniotic cavity	managed with	obstetric surveillance
+polyhydramnios and other problems of amniotic cavity	managed with	delivery planning
+polyhydramnios and other problems of amniotic cavity	delivery by	cesarean section
+polyhydramnios and other problems of amniotic cavity	caused by	fetal swallowing disorder
+polyhydramnios and other problems of amniotic cavity	associated with	congenital heart disease
+polyhydramnios and other problems of amniotic cavity	associated with	chromosomal abnormality
+polyhydramnios and other problems of amniotic cavity	associated with	fetal brain anomaly
+polyhydramnios and other problems of amniotic cavity	associated with	gastrointestinal anomaly
+polyhydramnios and other problems of amniotic cavity	associated with	urogenital anomaly
+polyhydramnios and other problems of amniotic cavity	associated with	cardiac anomaly
+polyhydramnios and other problems of amniotic cavity	associated with	limb anomaly
+polyhydramnios and other problems of amniotic cavity	associated with	skeletal dysplasia
+polyhydramnios and other problems of amniotic cavity	commonly observed with	diabetes mellitus
+polyhydramnios and other problems of amniotic cavity	commonly observed with	maternal obesity
+polyhydramnios and other problems of amniotic cavity	associated with	placental dysfunction
+polyhydramnios and other problems of amniotic cavity	associated with	fetal demise
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal complications
+polyhydramnios and other problems of amniotic cavity	associated with	prematurity complications
+polyhydramnios and other problems of amniotic cavity	associated with	fetal growth restriction
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal morbidity
+polyhydramnios and other problems of amniotic cavity	associated with	antenatal testing
+polyhydramnios and other problems of amniotic cavity	associated with	fetal growth trajectory
+polyhydramnios and other problems of amniotic cavity	associated with	fetal anemia
+polyhydramnios and other problems of amniotic cavity	associated with	intrauterine infection
+polyhydramnios and other problems of amniotic cavity	associated with	fetal distress
+polyhydramnios and other problems of amniotic cavity	associated with	fetal demise in utero
+polyhydramnios and other problems of amniotic cavity	associated with	perinatal mortality
+polyhydramnios and other problems of amniotic cavity	associated with	placental pathology
+polyhydramnios and other problems of amniotic cavity	associated with	fetal lung immaturity
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal jaundice
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal respiratory complication
+polyhydramnios and other problems of amniotic cavity	associated with	fetal GI obstruction
+polyhydramnios and other problems of amniotic cavity	associated with	fetal brain malformation
+polyhydramnios and other problems of amniotic cavity	associated with	craniofacial anomaly
+polyhydramnios and other problems of amniotic cavity	associated with	pulmonary hypoplasia
+polyhydramnios and other problems of amniotic cavity	associated with	neonatal sepsis
+polyhydramnios and other problems of amniotic cavity	associated with	congenital infection
+polyhydramnios and other problems of amniotic cavity	associated with	postnatal surgery
+polyhydramnios and other problems of amniotic cavity	predictive for	adverse neonatal outcome

@@ -1,0 +1,101 @@
+other connective tissue disease	is an	autoimmune condition
+other connective tissue disease	may cause	arthritis
+other connective tissue disease	may cause	fatigue
+other connective tissue disease	may present with	Raynaud's phenomenon
+other connective tissue disease	is associated with	autoantibodies
+autoantibodies	indicate	autoimmune activity
+ANA test	is used for	autoantibody screening
+other connective tissue disease	is treated with	corticosteroids
+corticosteroids	are a	glucocorticoids
+other connective tissue disease	is treated with	immunosuppressants
+immunosuppressants	include	methotrexate
+immunosuppressants	include	mycophenolate
+immunosuppressants	include	azathioprine
+immunosuppressants	include	cyclophosphamide
+other connective tissue disease	may cause	interstitial lung disease
+interstitial lung disease	is a complication of	other connective tissue disease
+lung fibrosis	is a form of	interstitial lung disease
+pulmonary involvement	is common in	other connective tissue disease
+steroid therapy	may cause	osteoporosis
+osteoporosis	increases	fracture risk
+steroid therapy	may cause	hyperglycemia
+hyperglycemia	increases	infection risk
+infection risk	is elevated by	immunosuppressants
+imaging	shows	reticulation
+reticulation	indicates	interstitial lung disease
+ANA positivity	is associated with	autoimmune disease
+autoimmune disease	is associated with	systemic inflammation
+serology	aids in	diagnosis of other connective tissue disease
+biopsy	confirms	diagnosis of connective tissue disease
+skin biopsy	demonstrates	inflammatory infiltrate
+biologic therapy	is used for	refractory disease
+rituximab	is a	monoclonal antibody
+rituximab	targets	CD20
+tocilizumab	is a	monoclonal antibody
+interstitial lung disease	may respond to	immunosuppressants
+immunosuppression	may slow	disease progression
+disease progression	worsens	prognosis
+lung imaging	reveals	fibrosis
+fibrosis	causes	reduced lung function
+pulmonary hypertension	may complicate	connective tissue disease
+proteinuria	indicates	renal involvement
+renal involvement	increases	risk of kidney failure
+nephritis	is a	kidney inflammation
+blood pressure	rises with	kidney disease
+diabetes	risk increased by	steroid therapy
+infection	risk increased by	immunosuppressants
+vaccination	recommended for	patients with connective tissue disease
+infection	may lead to	hospitalization
+hospitalization	lengthened by	disease flare
+disease flare	increases	hospitalization duration
+readmission	risk increases with	disease activity
+disease activity	predicts	prognosis
+prognosis	worsens with	high disease activity
+quality of life	is affected by	disease activity
+bone disease	related to	long-term steroid use
+osteopenia	related to	steroid exposure
+immunity	suppression by	immunosuppressants
+vaccination	reduces	infection risk
+bone density	monitored with	DEXA
+DEXA scan	assesses	bone density
+interstitial lung disease	presents with	dyspnea
+dyspnea	indicates	pulmonary involvement
+HRCT	used for	lung assessment
+lung assessment	guides	treatment decisions
+cytopenia	may occur with	methotrexate
+methotrexate	can cause	hepatotoxicity
+hepatotoxicity	requires	liver function monitoring
+liver function monitoring	uses	liver function tests
+liver disease	can be	comorbidity
+liver disease	coexists with	connective tissue disease
+pregnancy	affected by	autoimmune disease
+pregnancy outcomes	affected by	disease activity
+neonatal lupus	is a complication of	maternal autoimmune disease
+anti-Ro antibodies	associated with	neonatal lupus
+anti-Ro antibodies	linked to	maternal autoimmune disease
+cardiac conduction defects	occur with	neonatal lupus
+endothelial dysfunction	associated with	connective tissue disease
+smoking	worsens	disease activity
+alcohol	contraindicated with	immunosuppressants
+pain management	relies on	analgesics
+analgesics	provide	pain relief
+joint involvement	common in	connective tissue disease
+muscle weakness	presents with	inflammatory myopathy
+electromyography	shows	myopathy
+creatine kinase	elevated in	myositis
+myositis	treated with	steroids
+autoantibody profile	guides	differential diagnosis
+disease relapse	triggers	hospitalization
+therapy optimization	improves	disease control
+glucocorticoids	suppress	inflammation
+inflammation	contributes to	tissue damage
+tissue damage	correlates with	prognosis
+prognosis	depends on	early diagnosis
+early diagnosis	improves	outcome
+outcome	improves with	effective therapy
+effective therapy	reduces	disease activity
+disease activity	reduces with	immunosuppressants
+immunosuppressants	reduce	disease activity
+disease control	improves with	therapy optimization
+therapy optimization	enhances	outcome
+outcome	is improved by	effective therapy

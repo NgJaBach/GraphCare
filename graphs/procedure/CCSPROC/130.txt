@@ -1,0 +1,100 @@
+other diagnostic procedures	are used for	female organs
+other diagnostic procedures	assess	female organs
+other diagnostic procedures	assess for	female organs
+other diagnostic procedures	evaluate	female organs
+other diagnostic procedures	evaluate for	female organs
+other diagnostic procedures	examine	female organs
+other diagnostic procedures	examine for	female organs
+other diagnostic procedures	screen	female organs
+other diagnostic procedures	screen for	female organs
+other diagnostic procedures	monitor	female organs
+other diagnostic procedures	monitor for	female organs
+other diagnostic procedures	image	female organs
+other diagnostic procedures	image of	female organs
+other diagnostic procedures	scan	female organs
+other diagnostic procedures	scan for	female organs
+other diagnostic procedures	inspect	female organs
+other diagnostic procedures	inspect for	female organs
+other diagnostic procedures	analyze	female organs
+other diagnostic procedures	analyze for	female organs
+other diagnostic procedures	test	female organs
+other diagnostic procedures	test for	female organs
+other diagnostic procedures	measure	female organs
+other diagnostic procedures	measure for	female organs
+other diagnostic procedures	quantify	female organs
+other diagnostic procedures	quantify for	female organs
+other diagnostic procedures	characterize	female organs
+other diagnostic procedures	characterize for	female organs
+other diagnostic procedures	determine	female organs
+other diagnostic procedures	determine status of	female organs
+other diagnostic procedures	review	female organs
+other diagnostic procedures	review for	female organs
+other diagnostic procedures	screen and evaluate	female organs
+other diagnostic procedures	screening of	female organs
+other diagnostic procedures	screening for	female organs
+other diagnostic procedures	supportive of	female organs
+other diagnostic procedures	adjunct to	female organs
+other diagnostic procedures	complemented by	female organs
+other diagnostic procedures	synergistic with	female organs
+other diagnostic procedures	correlates with	female organs
+other diagnostic procedures	associated with	female organs
+other diagnostic procedures	used alongside	female organs
+other diagnostic procedures	used in	female organs
+other diagnostic procedures	provides information about	female organs
+other diagnostic procedures	contributes to evaluation of	female organs
+other diagnostic procedures	informs management of	female organs
+other diagnostic procedures	supports diagnosis of	female organs
+other diagnostic procedures	supports assessment of	female organs
+other diagnostic procedures	enables assessment of	female organs
+other diagnostic procedures	enables evaluation of	female organs
+other diagnostic procedures	facilitates examination of	female organs
+other diagnostic procedures	facilitates screening of	female organs
+other diagnostic procedures	facilitates monitoring of	female organs
+other diagnostic procedures	aid diagnosis of	female organs
+other diagnostic procedures	aid assessment of	female organs
+other diagnostic procedures	aid evaluation of	female organs
+other diagnostic procedures	contribute to screening of	female organs
+other diagnostic procedures	provide imaging of	female organs
+other diagnostic procedures	provide visualization of	female organs
+other diagnostic procedures	offer insight into	female organs
+other diagnostic procedures	supply data about	female organs
+other diagnostic procedures	generate information on	female organs
+other diagnostic procedures	yield information on	female organs
+other diagnostic procedures	support surveillance of	female organs
+other diagnostic procedures	aid surveillance of	female organs
+other diagnostic procedures	adapt to	female organs
+other diagnostic procedures	correlate with	female organs
+other diagnostic procedures	complex with	female organs
+other diagnostic procedures	integrate with	female organs
+other diagnostic procedures	inform prognosis related to	female organs
+other diagnostic procedures	influence management of	female organs
+other diagnostic procedures	guide treatment decisions for	female organs
+other diagnostic procedures	contribute to risk stratification for	female organs
+other diagnostic procedures	relate to	female organs
+other diagnostic procedures	align with	female organs
+other diagnostic procedures	differ from	female organs
+other diagnostic procedures	overlap with	female organs
+other diagnostic procedures	complement imaging of	female organs
+other diagnostic procedures	are complementary to	female organs
+other diagnostic procedures	are adjunct to	female organs
+other diagnostic procedures	serve function for	female organs
+other diagnostic procedures	used in evaluation of	female organs
+other diagnostic procedures	used in monitoring of	female organs
+other diagnostic procedures	used in screening of	female organs
+other diagnostic procedures	used in imaging of	female organs
+other diagnostic procedures	based on	female organs
+other diagnostic procedures	reliant on	female organs
+other diagnostic procedures	dependent on	female organs
+other diagnostic procedures	essential for	female organs
+other diagnostic procedures	integral to	female organs
+other diagnostic procedures	part of	female organs
+other diagnostic procedures	included in	female organs
+other diagnostic procedures	associated with	female organs
+other diagnostic procedures	related to	female organs
+other diagnostic procedures	connected with	female organs
+other diagnostic procedures	consistent with	female organs
+other diagnostic procedures	aligned with	female organs
+other diagnostic procedures	conforms to	female organs
+other diagnostic procedures	interacts with	female organs
+other diagnostic procedures	interfaces with	female organs
+other diagnostic procedures	corresponds to	female organs

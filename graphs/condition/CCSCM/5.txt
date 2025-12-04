@@ -1,100 +1,100 @@
-hiv infection	is a	chronic infection
-hiv infection	is a	retroviral infection
-hiv infection	causes	immune dysfunction
-hiv infection	progresses to	aids
-aids	is defined as	acquired immunodeficiency syndrome
-hiv infection	diagnosed by	hiv test
-hiv test	detects	hiv antibodies
-hiv antibody test	confirms	hiv infection
-seroconversion window	duration	weeks
+HIV infection	is diagnosed by	HIV antibody test
+HIV infection	is diagnosed by	HIV RNA test
+HIV infection	is treated with	antiretroviral therapy
 antiretroviral therapy	reduces	viral load
-hiv infection	reduces	cd4 count
-cd4 count	indicates	immune status
-viral load	monitors	treatment response
-viral suppression	indicates	art efficacy
-adherence	affects	art effectiveness
-drug resistance	emerges with	suboptimal adherence
-drug resistance	leads to	treatment failure
-aids	predisposes to	opportunistic infections
-pneumocystis pneumonia	is an	aids-defining infection
-cryptococcal meningitis	is an	aids-defining illness
-tuberculosis	co-infection with	hiv infection
-hepatitis c virus infection	co-infected with	hiv infection
-hbv infection	co-infected with	hiv infection
-nephrotoxicity	is associated with	tenofovir
-tenofovir	is a	nucleotide reverse transcriptase inhibitor
-emtricitabine	is a	nucleoside reverse transcriptase inhibitor
-efavirenz	is a	non-nucleoside reverse transcriptase inhibitor
-dolutegravir	is a	integrase strand transfer inhibitor
-art	reduces	hiv replication
-hiv replication	depends on	reverse transcription
-reverse transcription	is a target of	reverse transcriptase inhibitors
-art	causes	lipodystrophy
-lipodystrophy	increases	metabolic risk
-nephrotoxicity	occurs with	tenofovir
-osteopenia	occurs with	art
-bone mineral density loss	occurs with	tenofovir
-neuropsychiatric effects	associated with	efavirenz
-weight gain	associated with	insti-based regimens
-integrase inhibitors	block	viral dna integration
-viral reservoir	persists in	latent cells
-latent reservoir	challenges	hiv cure attempts
-early art initiation	improves	long-term outcome
-early art initiation	reduces	hiv-related morbidity
-late art initiation	increases	mortality
-pediatric hiv infection	requires	age-appropriate art dosing
-pregnant hiv-infected women	require	art during pregnancy
-vertical transmission	prevented by	art during pregnancy
-breast milk	can transmit	hiv infection
-neonatal prophylaxis	prevents	hiv transmission
-prenatal care	includes	hiv testing
-hiv testing	recommended for	pregnancy
-sex workers	require	hiv testing
-hiv testing	is recommended by	guidelines
-viral suppression	achieved by	good adherence
-drug interactions	influence	art effectiveness
-rifampin	reduces	art levels
-antiretroviral therapy	requires	regular monitoring
-regular monitoring	includes	cd4 count assessment
-cd4 count trend	indicates	immune recovery
-viral load suppression	predicts	reduced transmission risk
-hiv transmission	occurs via	sexual contact
-hiv transmission	occurs via	blood exposure
-hiv transmission	occurs via	perinatal exposure
-maternal hiv viral load	increases	perinatal transmission risk
-cesarean section	lowers	perinatal transmission
-breastfeeding	transmits	hiv infection
-art during pregnancy	prevents	mother-to-child transmission
-drug resistance testing	informs	art selection
-genotypic resistance testing	informs	art selection
-phenotypic resistance testing	informs	art adjustment
-early art	improves	pediatric outcomes
-single-tablet regimen	improves	adherence
-regimen simplification	improves	adherence
-adherence	improves	virologic suppression
-virologic suppression	reduces	transmission risk
-drug holidays	are discouraged	hiv management
-immune activation	persists	hiv infection
-inflammation	persists	hiv infection
-age	influences	hiv progression
-ethnicity	associated with	hiv prevalence
-socioeconomic status	affects	access to art
-access to art	improves	survival
-healthcare system	enables	art initiation
-art initiation	occurs at	any stage
-baseline cd4 count	guides	art timing
-baseline hiv viral load	guides	art choice
-genotypic resistance testing	guides	art selection
-adherence counseling	supports	art adherence
-lactic acidosis	is a possible adverse event
-hyperlipidemia	is a potential art side effect
-osteopenia	is a art-related complication
-hepatic toxicity	can occur with	art
-lipid abnormalities	associated with	art
-hiv co-infection	influences	liver disease progression
-hbv co-infection	influences	art choice
-hcv co-infection	influences	art choice
-immune restoration	reduces	opportunistic infections
-art	provides	immune restoration
-hiv infection	persists	lifelong antiretroviral therapy
-hiv infection	requires	lifelong antiretroviral therapy
+HIV infection	causes	immunodeficiency
+HIV infection	predisposes to	opportunistic infection
+AIDS	is progression of	HIV infection
+CD4 count	correlates with	immune function
+viral load	predicts	transmission risk
+HIV infection	increases	mortality risk
+HIV infection	increases risk of	tuberculosis
+antiretroviral therapy	is recommended for	HIV infection
+antiretroviral therapy	improves	CD4 count
+CD4 count	indicates	immune status
+viral suppression	achieved by	ART
+ART	is associated with	lipid abnormality
+HIV infection	is associated with	weight loss
+HIV infection	increases risk of	malignancy
+HIV infection	increases risk of	cardiovascular disease
+CD4 count	determines	opportunistic infection prophylaxis
+opportunistic infection prophylaxis	includes	Pneumocystis jirovecii pneumonia prophylaxis
+Pneumocystis jirovecii pneumonia	is prevented by	trimethoprim-sulfamethoxazole
+hepatitis B infection	co-infected with	HIV infection
+hepatitis C infection	co-infected with	HIV infection
+ART adherence	affects	treatment success
+treatment success	correlates with	survival
+tuberculosis	is common in	HIV infection
+HIV infection	increases risk of	anemia
+antiretroviral therapy	requires	monitoring
+viral load monitoring	measures	HIV RNA level
+HIV RNA level	indicates	treatment failure
+treatment failure	prompts	regimen switch
+regimen switch	aims at	drug resistance prevention
+drug resistance	emerges with	suboptimal ART
+suboptimal ART	leads to	virologic rebound
+virologic rebound	triggers	regimen change
+HIV infection	is associated with	stigma
+stigma	affects	care engagement
+care engagement	improves	treatment adherence
+ART	reduces	disease progression
+disease progression	accelerates	immune deterioration
+immune deterioration	increases risk of	opportunistic infections
+opportunistic infections	include	Pneumocystis jirovecii pneumonia
+candidiasis	is common in	HIV infection
+tuberculosis coinfection	worsens	HIV disease progression
+HIV infection	increases rate of	hospitalizations
+ART	requires	adherence counseling
+adherence	improves	treatment outcome
+treatment outcome	predicts	prognosis
+CD4 count	affects	prognosis
+liver disease	worsens with	HIV infection
+ART	prevents	opportunistic infections
+drug interactions	affect	ART efficacy
+psycho-social support	improves	treatment adherence
+treatment adherence	reduces	virologic failure
+HIV infection	reduces	vaccine response
+ART	has	drug interactions
+drug interactions	affect	ART efficacy
+protease inhibitors	interact with	statins
+acute HIV infection	presents with	fever
+late presenters	have	higher mortality
+smoking	increases	HIV-related morbidity
+lipodystrophy	is a complication of	ART
+immune reconstitution inflammatory syndrome	can occur with	ART initiation
+ART initiation	can trigger	IRIS
+IRIS	is associated with	inflammatory response
+clinical deterioration	requires	supportive care
+HIV infection	is a risk factor for	cervical neoplasia
+HPV infection	increases risk of	cervical cancer
+HPV vaccination	is recommended for	HIV-infected individuals
+nucleoside reverse transcriptase inhibitors	are a class of	antiretroviral drugs
+integrase inhibitors	are used in	regimens for HIV
+protease inhibitors	improve	viral suppression
+combination ART	increases	barrier to resistance
+combination ART	standard of care for	HIV infection
+HIV infection	requires	lifelong ART
+pill burden	impacts	adherence
+adherence support	improves	adherence
+medical follow-up	improves	retention in care
+retention in care	is a predictor of	treatment success
+treatment failure	indicates	drug resistance
+drug resistance	results in	treatment modification
+treatment modification	aims at	maintaining viral suppression
+HBV coinfection	requires	tenofovir-based regimens
+HBV coinfection	necessitates	monitoring for liver toxicity
+Hepatitis C coinfection	complicates	HIV care
+mortality	depends on	immune status
+mortality	improves with	virologic suppression
+treatment guideline	recommends	ART initiation
+perinatal transmission	prevention requires	maternal ART
+breastfeeding	transmits	HIV infection
+delivery method	influences	perinatal transmission
+elective cesarean section	reduces	perinatal transmission
+neonatal prophylaxis	is given for	HIV-exposed infants
+HIV-exposed infant	tested with	HIV RNA assay
+neonatal ART	reduces	mother-to-child transmission
+maternal viral load	determines	mother-to-child transmission risk
+HIV testing	identifies	HIV infection
+pre-exposure prophylaxis	reduces	HIV acquisition
+post-exposure prophylaxis	is given for	HIV exposure

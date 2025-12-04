@@ -1,0 +1,100 @@
+CT scan	is a	imaging modality
+CT scan	is a	radiology test
+CT scan	used for	trauma assessment
+CT scan	used for	cancer staging
+CT scan	used for	pulmonary embolism detection
+CT scan	detects	hemorrhage
+CT scan	detects	fracture
+CT scan	detects	mass
+CT scan	detects	edema
+CT scan	detects	infarct
+CT scan	detects	abscess
+CT scan	detects	pneumothorax
+CT scan	detects	effusion
+CT scan	detects	hematoma
+CT scan	detects	tumor
+CT scan	detects	lymph node involvement
+CT scan	used for	follow-up evaluation
+CT scan	used for	postoperative assessment
+CT scan	used for	stroke assessment
+CT scan	associated with	radiation exposure
+CT scan	contraindicated in	pregnancy
+CT scan	contraindicated in	contrast allergy
+CT scan	provides	anatomical detail
+CT scan	provides	cross sectional images
+CT scan	provides	high resolution images
+CT scan	differentiates	tissue types
+CT scan	characterizes	lesion
+CT scan	characterizes	edema pattern
+CT scan	characterizes	calcification pattern
+CT scan	influences	treatment planning
+CT scan	influences	surgical planning
+CT scan	influences	radiotherapy planning
+CT scan	used for	infection detection
+CT scan	used for	abscess localization
+CT scan	used for	spinal injury assessment
+CT scan	used for	chest trauma evaluation
+CT scan	used for	abdominal pathology evaluation
+CT scan	used for	vascular assessment
+CT scan	used for	organ perfusion evaluation
+CT scan	correlates with	clinical findings
+CT scan	correlates with	lab abnormalities
+CT scan	linked with	mortality risk
+CT scan	linked with	readmission risk
+CT scan	predicts	disease severity
+CT scan	predicts	tumor stage
+CT scan	predicts	response to therapy
+CT scan	guides	biopsy planning
+CT scan	guides	drainage placement
+CT scan	guides	surgical location
+CT scan	monitors	disease progression
+CT scan	monitors	treatment response
+CT scan	classifies	lesion type
+CT scan	classifies	density pattern
+CT scan	detects	calcified nodules
+CT scan	detects	vascular anomaly
+CT scan	detects	aortic aneurysm
+CT scan	detects	mediastinal mass
+CT scan	detects	chest mass
+CT scan	detects	mediastinal widening
+CT scan	detects	bowel obstruction
+CT scan	detects	gallstones
+CT scan	detects	kidney stones
+CT scan	detects	hydronephrosis
+CT scan	detects	appendicitis signs
+CT scan	used for	appendicitis evaluation
+CT scan	used for	biliary disease evaluation
+CT scan	used for	acute abdomen assessment
+CT scan	used for	organ injury assessment
+CT scan	used for	trauma triage
+CT scan	enhances	visualization
+CT scan	used with	contrast agent
+CT scan	requires	kidney function
+CT scan	performs	diagnostic imaging
+CT scan	yields	diagnostic information
+CT scan	supports	clinical decision making
+CT scan	informs	prognosis
+CT scan	informs	surgical planning
+CT scan	influences	discharge decision
+CT scan	contributes to	hospital stay length
+CT scan	contributes to	ICU admission
+CT scan	contributes to	mortality prediction
+CT scan	used for	preoperative mapping
+CT scan	used for	organ delineation
+CT scan	used for	lesion localization
+CT scan	used for	vascular mapping
+CT scan	used for	stroke workup
+CT scan	used for	trauma evaluation
+CT scan	used for	cancer surveillance
+CT scan	used for	treatment planning
+CT scan	complements	MRI findings
+CT scan	complements	ultrasound findings
+CT scan	sometimes	requires	sedation
+CT scan	sometimes	requires	anesthesia
+CT scan	substitutes for	MRI in some cases
+CT scan	compared with	MRI in certain cases
+CT scan	produces	DICOM images
+CT scan	stores	imaging data
+CT scan	archives	patient records
+CT scan	schedules	follow-up appointment
+CT scan	alerts	radiology findings

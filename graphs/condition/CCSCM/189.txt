@@ -1,60 +1,101 @@
 previous c-section	increases risk of	placenta previa
 previous c-section	increases risk of	placenta accreta spectrum
-previous c-section	increases risk of	uterine rupture
-previous c-section	decreases likelihood of	VBAC success
-previous c-section	predicts	emergency cesarean in next birth
-previous c-section	increases likelihood of	repeat cesarean delivery
-previous c-section	increases risk of	postpartum hemorrhage
-previous c-section	increases risk of	cesarean hysterectomy
-previous c-section	increases risk of	cesarean scar pregnancy
-previous c-section	increases risk of	preterm birth
-previous c-section	increases risk of	low birth weight
-previous c-section	increases risk of	NICU admission
-previous c-section	increases risk of	neonatal respiratory distress syndrome
-previous c-section	increases risk of	placental abruption
+previous c-section	increases risk of	placenta accreta
 previous c-section	increases risk of	morbidly adherent placenta
-previous c-section	increases risk of	postpartum endometritis
-previous c-section	increases risk of	surgical site infection
-previous c-section	increases risk of	intra-abdominal adhesions
-previous c-section	increases risk of	pelvic adhesions
-previous c-section	increases risk of	chronic pelvic pain
-previous c-section	increases risk of	longer hospital stay
-previous c-section	increases risk of	higher blood loss
-previous c-section	increases risk of	blood transfusion
-previous c-section	increases risk of	longer operative time
-previous c-section	decreases likelihood of	vaginal birth in next birth
-previous c-section	increases risk of	failed induction
-previous c-section	increases risk of	failed trial of labor
-previous c-section	increases likelihood of	elective repeat cesarean
-previous c-section	increases risk of	placenta previa recurrence
-previous c-section	increases risk of	placenta accreta recurrence
-previous c-section	increases risk of	placental abnormalities in next pregnancy
-previous c-section	increases risk of	abnormal placentation
-previous c-section	increases risk of	morbid postpartum outcomes
-previous c-section	is risk factor for	cesarean delivery in future pregnancy
-previous c-section	influences	mode of delivery in future pregnancy
-previous c-section	associated with	adhesion formation at surgery
-previous c-section	associated with	intraoperative conversion to open technique
-previous c-section	associated with	extended anesthesia exposure
-previous c-section	associated with	higher readmission rate after delivery
-previous c-section	associated with	increased risk of postpartum fever
-previous c-section	linked to	postpartum wound complications
-previous c-section	linked to	delayed lactation onset
-previous c-section	linked to	neonatal hypothermia at birth
-previous c-section	associated with	maternal fatigue during postpartum period
-previous c-section	associated with	higher healthcare costs
-previous c-section	associated with	longer time to return to baseline function
-previous c-section	linked to	placenta previa in subsequent pregnancies
-previous c-section	linked to	placenta accreta in subsequent pregnancies
-previous c-section	associated with	placenta accreta spectrum in subsequent pregnancies
-previous c-section	linked to	cesarean delivery trend in future pregnancies
-previous c-section	increases risk of	placental previa in next pregnancy
-previous c-section	increases risk of	placental accreta spectrum in next pregnancy
-previous c-section	increases risk of	placental abnormalities in next pregnancy
-previous c-section	increases risk of	morbidly adherent placenta in next pregnancy
-previous c-section	increases risk of	postpartum infection in next birth
-previous c-section	increases risk of	adhesions affecting future surgeries
-previous c-section	influences	risk of uterine rupture in labor
-previous c-section	associated with	higher rate of cesarean delivery in future births
-previous c-section	increases risk of	abnormal placentation in future pregnancy
-previous c-section	increases risk of	neonatal respiratory issues in next birth
+placenta previa	increases risk of	postpartum hemorrhage
+placenta previa	increases risk of	cesarean delivery
+placenta accreta spectrum	leads to	heavy postpartum hemorrhage
+placenta accreta spectrum	increases likelihood of	emergency hysterectomy
+morbidly adherent placenta	necessitates	cesarean hysterectomy
+previous c-section	increases risk of	uterine rupture during labor
+previous c-section	reduces likelihood of	vaginal delivery in next pregnancy
+previous c-section	predicts	repeat cesarean delivery
+repeat cesarean delivery	increases risk of	placenta previa
+repeat cesarean delivery	increases risk of	placenta accreta spectrum
+repeat cesarean delivery	increases risk of	adhesions
+adhesions	increase risk of	longer operative time
+adhesions	increase risk of	intraoperative bleeding
+intraoperative bleeding	increases risk of	transfusion
+transfusion	associated with	postpartum anemia
+postpartum hemorrhage	increases risk of	maternal morbidity
+postpartum hemorrhage	requires	transfusion
+placenta previa	increases risk of	postpartum hemorrhage
+placenta previa	associated with	cesarean delivery
+placenta accreta spectrum	leads to	heavy postpartum hemorrhage
+morbidly adherent placenta	necessitates	cesarean hysterectomy
+cesarean hysterectomy	results in	infertility
+cesarean scar	predisposes to	cesarean scar pregnancy
+cesarean scar	associated with	placental implantation abnormalities
+cesarean scar	increases risk of	abnormal placentation
+cesarean scar pregnancy	managed with	surgical excision
+placental implantation abnormalities	include	placenta accreta spectrum
+placental implantation abnormalities	increase risk of	abnormal placentation
+placental implantation abnormalities	related to	prior scar
+placental implantation abnormalities	involve	placental invasion
+uterine scar	predisposes to	abnormal placentation
+uterine scar	associated with	placental invasion
+uterine rupture	may occur in	pregnancy with scar
+fetal distress	triggers	emergency cesarean delivery
+emergency cesarean delivery	commonly performed for	morbidly adherent placenta
+emergency cesarean delivery	associated with	higher blood loss
+repeat cesarean delivery	increases likelihood of	adhesions
+adhesions	complicate	subsequent cesarean
+surgical adhesions	increase risk of	intraoperative injury
+intraoperative injury	occurs during	cesarean delivery
+cesarean delivery	associated with	longer operative time
+cesarean delivery	associated with	increased blood loss
+recurrent cesarean delivery	increases risk of	placenta previa
+placenta previa	increases risk of	placental abruption
+placental abruption	leads to	fetal distress
+fetal distress	triggers	emergency cesarean delivery
+emergency cesarean delivery	reduces risk of	fetal demise
+induction of labor	increases risk of	uterine rupture during TOLAC
+augmentation of labor	increases risk of	uterine rupture during TOLAC
+TOLAC	associated with	VBAC
+VBAC	achieved by	trial of labor after cesarean
+trial of labor after cesarean	used for	eligible patients
+eligible patients	selected for	TOLAC
+TOLAC	success rate	varies with	prior vaginal birth
+prior vaginal birth	increases likelihood of	VBAC success
+VBAC success	improves	neonatal outcomes
+repeat cesarean delivery	associated with	longer postpartum recovery
+cesarean delivery	increases risk of	placenta previa in future pregnancy
+placenta previa in future pregnancy	increases likelihood of	repeat cesarean
+placenta previa in future pregnancy	increases risk of	placental accreta spectrum
+placental accreta spectrum	often coexists with	placenta previa
+placenta previa	diagnosed by	ultrasound
+ultrasound	aids in	placenta previa detection
+placenta previa	requires	cesarean delivery
+prior cesarean section history	informs	obstetric risk assessment
+obstetric risk assessment	guides	delivery planning
+delivery planning	aims to reduce	maternal morbidity
+maternal morbidity	includes	transfusion
+maternal morbidity	includes	hysterectomy
+hysterectomy	results in	fertility loss
+fertility loss	affects	future pregnancies
+pelvic adhesions	increase risk of	complicated cesarean
+pelvic adhesions	associated with	chronic pelvic pain
+chronic pelvic pain	linked to	surgery history
+surgery history	influences	anesthesia planning
+anesthesia planning	considers	prior cesarean
+prior cesarean history	used in	risk stratification
+risk stratification	informs	delivery planning
+delivery planning	influences	maternal outcomes
+maternal outcomes	improved by	evidence-based care
+evidence-based care	reduces	readmission risk
+readmission risk	increased by	postpartum complications
+postpartum complications	include	infection
+infection	risk increased by	cesarean delivery
+infection	leads to	longer hospital stay
+longer hospital stay	associated with	higher costs
+higher costs	burden	healthcare system
+healthcare system	monitors	obstetric outcomes
+obstetric outcomes	affected by	prior cesarean
+prior cesarean	associated with	increased cesarean rate
+increased cesarean rate	affects	future pregnancies
+future pregnancies	require	careful planning
+careful planning	improves	perinatal outcomes
+perinatal outcomes	influenced by	placental pathology
+placental pathology	includes	placenta accreta spectrum
+placenta accreta spectrum	increases risk of	emergency hysterectomy
+emergency hysterectomy	involves	uterine removal

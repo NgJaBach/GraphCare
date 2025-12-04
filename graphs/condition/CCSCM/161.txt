@@ -1,100 +1,100 @@
-kidney stone	is a	urolithiasis
-kidney stone	causes	flank pain
-kidney stone	causes	hematuria
-kidney stone	diagnosed by	CT scan
-kidney stone	diagnosed by	ultrasound
-kidney stone	treated with	lithotripsy
-kidney stone	treated with	ureteroscopy
-hydronephrosis	is a	dilation of kidney pelvis
-hydronephrosis	caused by	ureteral obstruction
-hydronephrosis	diagnosed by	ultrasound
-hydronephrosis	managed with	nephrostomy
-pyelonephritis	is a	kidney infection
-pyelonephritis	presents with	fever
-pyelonephritis	treated with	antibiotics
-pyelonephritis	diagnosed by	urinalysis
-pyelonephritis	complication of	sepsis
-nephritis	is a	kidney inflammation
-glomerulonephritis	is a	kidney inflammation
-glomerulonephritis	associated with	hypertension
-glomerulonephritis	diagnosed by	renal biopsy
-glomerulonephritis	treated with	steroids
-polycystic kidney disease	is a	genetic disorder
-polycystic kidney disease	causes	cyst formation
-polycystic kidney disease	increases risk for	renal failure
-autosomal dominant polycystic kidney disease	is a	genetic disease
-autosomal recessive polycystic kidney disease	is a	genetic disease
-renal cell carcinoma	is a	kidney cancer
-renal cell carcinoma	diagnosed by	CT scan
-renal cell carcinoma	treated with	nephrectomy
-renal cell carcinoma	risk factor	smoking
-renal cell carcinoma	presents with	hematuria
-wilms tumor	is a	kidney cancer
-wilms tumor	diagnosed by	ultrasound
-wilms tumor	treated with	nephrectomy
-renal cyst	is a	cystic kidney lesion
-renal cyst	associated with	polycystic kidney disease
-ureteral stone	is a	stone in ureter
-ureteral stone	causes	flank pain
-ureteral stone	diagnosed by	CT scan
-ureteral stone	treated with	ureteroscopy
-ureteral stone	treated with	lithotripsy
-ureterocele	is a	congenital dilation of ureter
-ureterocele	associated with	urinary obstruction
-ureterocele	diagnosed by	ultrasound
-ureteral stricture	is a	narrowing of ureter
-ureteral stricture	causes	hydronephrosis
-ureteral stricture	treated with	balloon dilation
-papillary necrosis	is a	kidney papillary tissue death
-papillary necrosis	associated with	analgesic nephropathy
-papillary necrosis	diagnosed by	imaging
-medullary sponge kidney	is a	congenital kidney disease
-medullary sponge kidney	presents with	kidney stones
-chronic pyelonephritis	is a	chronic kidney infection
-chronic pyelonephritis	associated with	reflux
-analgesic nephropathy	is a	drug-induced kidney disease
-analgesic nephropathy	caused by	analgesic use
-diabetic nephropathy	is a	diabetic kidney disease
-diabetic nephropathy	associated with	diabetes mellitus
-hypertensive nephrosclerosis	is a	hypertensive kidney disease
-tubulointerstitial nephritis	is a	kidney inflammation around tubules
-tubulointerstitial nephritis	caused by	infection
-amyloidosis kidney	is a	deposition disease
-amyloidosis kidney	causes	nephrotic syndrome
-renal infarction	is a	kidney tissue death due to vascular occlusion
-renal infarction	presents with	sudden flank pain
-nephrocalcinosis	is a	calcium deposition in kidney
-nephrocalcinosis	associated with	hyperparathyroidism
-renal papillary necrosis	is a	kidney papillary tissue death
-renal papillary necrosis	associated with	analgesic nephropathy
-xanthogranulomatous pyelonephritis	is a	rare kidney infection
-xanthogranulomatous pyelonephritis	treated with	nephrectomy
-acquired cystic kidney disease	occurs in	chronic kidney disease
-renal angiomyolipoma	is a	benign kidney tumor
-renal angiomyolipoma	associated with	tuberous sclerosis
-renal cortical necrosis	is a	kidney cortex tissue death
-acute tubular necrosis	is a	kidney tubule injury
-acute tubular necrosis	caused by	ischemia
-acute tubular necrosis	treated with	supportive care
-renal failure	is a	decline in kidney function
-chronic kidney disease	is a	progressive kidney disease
-nephrotic syndrome	is a	kidney disorder
-nephrotic syndrome	presents with	edema
-nephrotic syndrome	presents with	proteinuria
-nephrotic syndrome	associated with	hypoalbuminemia
-nephrotic syndrome	treated with	diuretics
-nephritic syndrome	is a	kidney disorder
-nephritic syndrome	presents with	hematuria
-nephritic syndrome	treated with	steroids
-nephritic syndrome	associated with	hypertension
-ureteritis	is a	ureter inflammation
-ureteritis	diagnosed by	urinalysis
-ureteritis	treated with	antibiotics
-diuretic-induced nephropathy	is a	drug-induced kidney disease
-diuretic-induced nephropathy	caused by	diuretics
-autoimmune lupus nephritis	is a	autoimmune kidney disease
-lupus nephritis	is a	autoimmune kidney disease
-post-infectious glomerulonephritis	is a	kidney inflammation after infection
-IgA nephropathy	is a	kidney inflammation
-IgA nephropathy	presents with	hematuria
-membranous nephropathy	is a	kidney disease
+other diseases of kidney and ureters	includes	nephrolithiasis
+other diseases of kidney and ureters	includes	pyelonephritis
+other diseases of kidney and ureters	includes	hydronephrosis
+other diseases of kidney and ureters	includes	renal cysts
+other diseases of kidney and ureters	includes	nephrocalcinosis
+other diseases of kidney and ureters	includes	glomerulonephritis
+other diseases of kidney and ureters	includes	polycystic kidney disease
+other diseases of kidney and ureters	includes	renal abscess
+other diseases of kidney and ureters	includes	nephrotic syndrome
+other diseases of kidney and ureters	includes	nephritic syndrome
+other diseases of kidney and ureters	includes	renal tuberculosis
+other diseases of kidney and ureters	associated with	hypertension
+other diseases of kidney and ureters	associated with	diabetes mellitus
+other diseases of kidney and ureters	associated with	obesity
+other diseases of kidney and ureters	associated with	smoking
+other diseases of kidney and ureters	associated with	aging
+other diseases of kidney and ureters	associated with	chronic kidney disease
+other diseases of kidney and ureters	associated with	acute kidney injury
+other diseases of kidney and ureters	presents with	flank pain
+other diseases of kidney and ureters	presents with	hematuria
+other diseases of kidney and ureters	presents with	dysuria
+other diseases of kidney and ureters	presents with	fever
+other diseases of kidney and ureters	presents with	nocturia
+other diseases of kidney and ureters	presents with	edema
+other diseases of kidney and ureters	leads to	renal failure
+other diseases of kidney and ureters	leads to	end-stage renal disease
+other diseases of kidney and ureters	leads to	dialysis
+other diseases of kidney and ureters	leads to	transplantation
+other diseases of kidney and ureters	predisposes to	stone recurrence
+other diseases of kidney and ureters	diagnosed by	urinalysis
+other diseases of kidney and ureters	diagnosed by	urine culture
+other diseases of kidney and ureters	diagnosed by	ultrasound
+other diseases of kidney and ureters	diagnosed by	CT scan
+other diseases of kidney and ureters	diagnosed by	MRI
+other diseases of kidney and ureters	diagnosed by	renal biopsy
+other diseases of kidney and ureters	diagnosed by	creatinine test
+other diseases of kidney and ureters	treated with	diuretics
+other diseases of kidney and ureters	treated with	ACE inhibitors
+other diseases of kidney and ureters	treated with	ARBs
+other diseases of kidney and ureters	treated with	antibiotics
+other diseases of kidney and ureters	treated with	analgesics
+other diseases of kidney and ureters	treated with	hydration therapy
+other diseases of kidney and ureters	prevented by	hydration
+other diseases of kidney and ureters	prevented by	infection control
+other diseases of kidney and ureters	managed by	nephrology
+other diseases of kidney and ureters	managed by	urology
+other diseases of kidney and ureters	associated with	urinary tract infection
+other diseases of kidney and ureters	associated with	proteinuria
+other diseases of kidney and ureters	associated with	hematuria
+other diseases of kidney and ureters	associated with	oliguria
+other diseases of kidney and ureters	pathophysiology involves	tubular damage
+other diseases of kidney and ureters	pathophysiology involves	glomerular injury
+other diseases of kidney and ureters	prognosis depends on	kidney function
+other diseases of kidney and ureters	prognosis depends on	blood pressure control
+other diseases of kidney and ureters	prognosis depends on	metabolic control
+other diseases of kidney and ureters	epidemiology includes	middle-aged adults
+other diseases of kidney and ureters	epidemiology includes	elderly
+other diseases of kidney and ureters	imaging feature includes	calyceal dilation
+other diseases of kidney and ureters	imaging feature includes	ureteral obstruction
+other diseases of kidney and ureters	imaging feature includes	hydronephrosis on ultrasound
+other diseases of kidney and ureters	management includes	follow-up imaging
+other diseases of kidney and ureters	follow-up testing includes	serum creatinine
+other diseases of kidney and ureters	follow-up testing includes	eGFR
+other diseases of kidney and ureters	laboratory finding includes	proteinuria
+other diseases of kidney and ureters	laboratory finding includes	hematuria
+other diseases of kidney and ureters	laboratory finding includes	reduced GFR
+other diseases of kidney and ureters	genetic association includes	PKD1 gene
+other diseases of kidney and ureters	genetic association includes	PKD2 gene
+other diseases of kidney and ureters	genetic association includes	polymorphism
+other diseases of kidney and ureters	associated with	metabolic syndrome
+other diseases of kidney and ureters	associated with	autoimmune disorders
+other diseases of kidney and ureters	associated with	vesicoureteral reflux
+other diseases of kidney and ureters	associated with	urinary tract anomalies
+other diseases of kidney and ureters	associated with	aging kidney
+other diseases of kidney and ureters	presented by	flank pain and fever
+other diseases of kidney and ureters	categorized as	inflammatory disorders
+other diseases of kidney and ureters	categorized as	noninflammatory disorders
+other diseases of kidney and ureters	manifestations include	flank pain
+other diseases of kidney and ureters	manifestations include	fever
+other diseases of kidney and ureters	manifestations include	dysuria
+other diseases of kidney and ureters	manifestations include	nausea
+other diseases of kidney and ureters	complications include	stone obstruction
+other diseases of kidney and ureters	complications include	infection
+other diseases of kidney and ureters	clinical course includes	variability
+other diseases of kidney and ureters	prevalence includes	stone disease
+other diseases of kidney and ureters	burden includes	hospitalization
+other diseases of kidney and ureters	resource use includes	imaging
+other diseases of kidney and ureters	resource use includes	surgery
+other diseases of kidney and ureters	patient impact includes	quality of life impairment
+other diseases of kidney and ureters	patient impact includes	work disability
+other diseases of kidney and ureters	quality of care indicators include	time to imaging
+other diseases of kidney and ureters	quality of care indicators include	antibiotic stewardship
+other diseases of kidney and ureters	disparities include	access to care
+other diseases of kidney and ureters	disparities include	income level
+other diseases of kidney and ureters	epidemiology includes	urban population
+other diseases of kidney and ureters	multifactorial etiology includes	environmental toxins
+other diseases of kidney and ureters	pathophysiology involves	tubulointerstitial inflammation
+other diseases of kidney and ureters	pathophysiology involves	necrosis
+other diseases of kidney and ureters	pathophysiology involves	tubular obstruction
+other diseases of kidney and ureters	pathophysiology involves	ischemia

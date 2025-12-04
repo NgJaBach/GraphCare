@@ -1,0 +1,104 @@
+diagnostic ultrasound of gastrointestinal tract	is a	imaging modality
+diagnostic ultrasound of gastrointestinal tract	used for	evaluation of abdominal pain
+diagnostic ultrasound of gastrointestinal tract	used for	detection of gallstones
+diagnostic ultrasound of gastrointestinal tract	used for	assessment of hepatobiliary disease
+liver	visualized by	diagnostic ultrasound of gastrointestinal tract
+gallbladder	visualized by	diagnostic ultrasound of gastrointestinal tract
+pancreas	visualized by	diagnostic ultrasound of gastrointestinal tract
+common bile duct	visualized by	diagnostic ultrasound of gastrointestinal tract
+biliary tract	visualized by	diagnostic ultrasound of gastrointestinal tract
+ascites	detected by	diagnostic ultrasound of gastrointestinal tract
+peritoneal fluid	detected by	diagnostic ultrasound of gastrointestinal tract
+appendix	visualized by	diagnostic ultrasound of gastrointestinal tract
+appendicitis	suspected by	diagnostic ultrasound of gastrointestinal tract
+bowel loops	seen on	diagnostic ultrasound of gastrointestinal tract
+intestinal obstruction	suspected by	diagnostic ultrasound of gastrointestinal tract
+hepatomegaly	detected by	diagnostic ultrasound of gastrointestinal tract
+fatty liver	detected by	diagnostic ultrasound of gastrointestinal tract
+hepatic steatosis	detected by	diagnostic ultrasound of gastrointestinal tract
+liver cirrhosis	suggested by	diagnostic ultrasound of gastrointestinal tract
+splenomegaly	detected by	diagnostic ultrasound of gastrointestinal tract
+portal vein	evaluated by	diagnostic ultrasound of gastrointestinal tract
+hepatic veins	visualized by	diagnostic ultrasound of gastrointestinal tract
+abdominal aorta	visualized by	diagnostic ultrasound of gastrointestinal tract
+kidney	visualized by	diagnostic ultrasound of gastrointestinal tract
+hydronephrosis	detected by	diagnostic ultrasound of gastrointestinal tract
+ureter	evaluated by	diagnostic ultrasound of gastrointestinal tract
+urinary bladder	visualized by	diagnostic ultrasound of gastrointestinal tract
+nephrolithiasis	detected by	diagnostic ultrasound of gastrointestinal tract
+renal stones	detected by	diagnostic ultrasound of gastrointestinal tract
+gallstone	detected by	diagnostic ultrasound of gastrointestinal tract
+choledocholithiasis	suspected by	diagnostic ultrasound of gastrointestinal tract
+biliary duct dilation	detected by	diagnostic ultrasound of gastrointestinal tract
+pancreatic duct	visualized by	diagnostic ultrasound of gastrointestinal tract
+pancreatic pseudocyst	identified by	diagnostic ultrasound of gastrointestinal tract
+pancreatic mass	identified by	diagnostic ultrasound of gastrointestinal tract
+pancreatic calcifications	detected by	diagnostic ultrasound of gastrointestinal tract
+liver echotexture	assessed by	diagnostic ultrasound of gastrointestinal tract
+liver size	evaluated by	diagnostic ultrasound of gastrointestinal tract
+liver stiffness	estimated by	diagnostic ultrasound of gastrointestinal tract
+ascites volume	estimated by	diagnostic ultrasound of gastrointestinal tract
+ascites	quantified by	diagnostic ultrasound of gastrointestinal tract
+free intraperitoneal fluid	detected by	diagnostic ultrasound of gastrointestinal tract
+appendiceal diameter	measured by	diagnostic ultrasound of gastrointestinal tract
+appendiceal mass	detected by	diagnostic ultrasound of gastrointestinal tract
+diverticulitis	suggested by	diagnostic ultrasound of gastrointestinal tract
+diverticular disease	evaluated by	diagnostic ultrasound of gastrointestinal tract
+colitis	suggested by	diagnostic ultrasound of gastrointestinal tract
+gas in bowel	visualized by	diagnostic ultrasound of gastrointestinal tract
+ileus	suspected by	diagnostic ultrasound of gastrointestinal tract
+small bowel dilation	detected by	diagnostic ultrasound of gastrointestinal tract
+gastric wall thickening	detected by	diagnostic ultrasound of gastrointestinal tract
+bowel wall thickening	detected by	diagnostic ultrasound of gastrointestinal tract
+ulcer	detected by	diagnostic ultrasound of gastrointestinal tract
+perforation	suspected by	diagnostic ultrasound of gastrointestinal tract
+portal hypertension	suggested by	diagnostic ultrasound of gastrointestinal tract
+cirrhotic morphology	suggested by	diagnostic ultrasound of gastrointestinal tract
+splenic size	assessed by	diagnostic ultrasound of gastrointestinal tract
+spleen	visualized by	diagnostic ultrasound of gastrointestinal tract
+splenic infarct	detected by	diagnostic ultrasound of gastrointestinal tract
+portal vein diameter	measured by	diagnostic ultrasound of gastrointestinal tract
+hepatic veins	visualized by	diagnostic ultrasound of gastrointestinal tract
+abdominal aorta	diameter measured by	diagnostic ultrasound of gastrointestinal tract
+gastric outlet obstruction	suspected by	diagnostic ultrasound of gastrointestinal tract
+gastric wall	thickness detected by	diagnostic ultrasound of gastrointestinal tract
+gastric antrum	visualized by	diagnostic ultrasound of gastrointestinal tract
+duodenum	visualized by	diagnostic ultrasound of gastrointestinal tract
+peptic ulcer	suggested by	diagnostic ultrasound of gastrointestinal tract
+diverticular abscess	identified by	diagnostic ultrasound of gastrointestinal tract
+peritoneal carcinomatosis	suspected by	diagnostic ultrasound of gastrointestinal tract
+renal parenchyma	visualized by	diagnostic ultrasound of gastrointestinal tract
+urinary tract	evaluated by	diagnostic ultrasound of gastrointestinal tract
+biliary sludge	detected by	diagnostic ultrasound of gastrointestinal tract
+gallbladder wall thickening	detected by	diagnostic ultrasound of gastrointestinal tract
+gallbladder polyps	identified by	diagnostic ultrasound of gastrointestinal tract
+gallbladder tumor	suspected by	diagnostic ultrasound of gastrointestinal tract
+hepatoportal space	evaluated by	diagnostic ultrasound of gastrointestinal tract
+portal venous system	evaluated by	diagnostic ultrasound of gastrointestinal tract
+hepatic artery	visualized by	diagnostic ultrasound of gastrointestinal tract
+renal pelvis	visualized by	diagnostic ultrasound of gastrointestinal tract
+ureteropelvic junction	assessed by	diagnostic ultrasound of gastrointestinal tract
+urinary bladder	wall thickness measured by	diagnostic ultrasound of gastrointestinal tract
+nephrolithiasis	detected by	diagnostic ultrasound of gastrointestinal tract
+renal stone	detected by	diagnostic ultrasound of gastrointestinal tract
+epiploic appendages	visualized by	diagnostic ultrasound of gastrointestinal tract
+pelvic structures	evaluated by	diagnostic ultrasound of gastrointestinal tract
+abdominal organomegaly	detected by	diagnostic ultrasound of gastrointestinal tract
+abdominal obesity	associated with	fatty liver
+obesity	associated with	fatty liver
+metabolic syndrome	associated with	fatty liver
+nonalcoholic fatty liver disease	detected by	diagnostic ultrasound of gastrointestinal tract
+lipid abnormalities	associated with	fatty liver
+elderly patient	higher risk for	gallstones
+older adult	higher risk for	gallstones
+meta-analysis	supports	ultrasound sensitivity for gallstones
+clinical decision	informed by	diagnostic ultrasound of gastrointestinal tract
+treatment planning	guided by	diagnostic ultrasound of gastrointestinal tract
+surgical planning	aided by	diagnostic ultrasound of gastrointestinal tract
+emergency department triage	aided by	diagnostic ultrasound of gastrointestinal tract
+diagnosis	refined by	diagnostic ultrasound of gastrointestinal tract
+treatment plan	informed by	diagnostic ultrasound of gastrointestinal tract
+clinical decision	guided by	diagnostic ultrasound of gastrointestinal tract
+hospital admission	influenced by	diagnostic ultrasound of gastrointestinal tract
+readmission risk	predicted by	diagnostic ultrasound of gastrointestinal tract
+mortality risk	associated with	diagnostic ultrasound of gastrointestinal tract

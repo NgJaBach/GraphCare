@@ -1,100 +1,64 @@
+fibroadenoma	is a	benign breast tumor
 fibrocystic changes	is a	benign breast condition
-fibroadenoma	is benign	breast lesion
-breast cyst	is benign	cystic lesion
-duct ectasia	is benign	breast condition
-mastitis	is benign	breast infection
-intraductal papilloma	is benign	breast lesion
-lipoma	is benign	soft-tissue tumor
-sclerosing adenosis	is benign	breast lesion
-galactocele	is benign	breast lesion
-fat necrosis	is benign	breast lesion
-hamartoma	is benign	breast lesion
-radial scar	is benign	breast lesion
-fibroadenosis	is benign	breast condition
-gynecomastia	is benign	breast condition
-nipple discharge	is a	breast symptom
-breast lump	is a	breast finding
-breast pain	is a	breast symptom
-mastalgia	is a	breast symptom
-nipple discharge	accompanies	intraductal papilloma
-nipple discharge	associates	duct ectasia
-intraductal papilloma	causes	unilateral discharge
-duct ectasia	causes	nipple discharge
-galactorrhea	is a	breast symptom
-calcifications	seen on	mammography
-benign calcifications	seen on	mammography
-dense breasts	are associated with	benign findings
-fibrocystic changes	correlate with	mastalgia
-fibroadenoma	presents with	palpable lump
-breast cyst	presents with	tenderness
-radial scar	presents with	architectural distortion
-sclerosing adenosis	presents with	calcifications
-fat necrosis	presents with	palpable lump
-hamartoma	presents with	soft-tissue mass
-lipoma	presents with	soft-tissue mass
-gynecomastia	presents with	breast enlargement
-breast lump	evaluated by	ultrasound
-breast lump	evaluated by	mammography
-breast lump	evaluated by	MRI
-ultrasound	distinguishes	cyst
-mammography	screens	breast health
-MRI	used for	diagnosis
-biopsy	indicated for	suspicious lesion
-aspiration	used for	breast cyst
-watchful waiting	used for	simple cyst
-antibiotics	treat	mastitis
-analgesics	relieve	breast pain
-warm compress	alleviate	mastitis symptoms
-surgery	reserved for	persistent benign mass
-excisional biopsy	performed for	enlarging lesion
-fine-needle aspiration	performed for	breast cyst
-ultrasound-guided biopsy	performed for	suspicious lesion
-observation	is management for	simple cyst
-benign lesion	monitored with	imaging
-benign lesion	managed with	follow-up
-fat necrosis	follow-up imaging	recommendation
-radial scar	follow-up imaging	recommendation
-intraductal papilloma	requires	surgical excision
-intraductal papilloma	requires	duct excision
-duct excision	performed for	intraductal papilloma
-lactation	managed with	feeding support
-nipple inversion	observed with	benign breast condition
-cancer mimic	risk with	fat necrosis
-cancer mimic	risk with	radial scar
-benign calcifications	require	follow-up imaging
-biopsy	confirms	benign pathology
-benign pathology	confirms	benign condition
-imaging follow-up	reduces	diagnostic ambiguity
-age	is risk factor for	benign breast disease
-family history	increases risk for	benign breast disease
-estrogen exposure	increases risk for	fibrocystic changes
-obesity	associated with	fibrocystic changes
-nulliparity	associated with	benign breast disease
-early menarche	increases risk for	benign breast disease
-late menopause	increases risk for	benign breast disease
-oral contraceptive use	linked to	fibrocystic changes
-menstrual cycle	modulates	breast pain
-breast density	correlates with	imaging limitations
-dense breasts	complicates	cancer detection
-hormone replacement therapy	linked to	fibrocystic changes
-genetics	contribute to	benign breast disease
-ethnicity	influences	breast disease risk
-smoking	associated with	breast pain
-physical activity	reduces	breast pain
-breastfeeding	reduces risk for	breast cancer
-pregnancy	reduces risk for	benign breast disease
-age	correlates with	breast condition spectrum
-ultrasound	guides	biopsy
-mammography	guides	follow-up
-MRI	adds	imaging detail
-ultrasound	shows	simple cyst
-ultrasound	shows	solid lesion
-mammography	shows	calcifications
-biopsy	provides	histology result
-clinical examination	reveals	breast mass
-imaging plan	guided by	clinical examination
-cyst fluid	contains	non-bloody fluid
-intraductal papilloma	risks	recurrence
-benign lesion	requires	routine follow-up
-patient education	improves	management adherence
-adherence	improves	clinical outcomes
+mastitis	is a	breast infection
+breast abscess	is a	breast infection
+intraductal papilloma	is a	benign breast lesion
+ductal ectasia	is a	benign breast condition
+lipoma	is a	benign breast tumor
+fat necrosis	is a	benign breast lesion
+sclerosing adenosis	is a	benign breast condition
+radial scar	is a	benign breast lesion
+gynecomastia	is a	benign breast condition
+nipple discharge	is a	symptom
+galactocele	is a	benign breast lesion
+postpartum engorgement	is a	lactational change
+lactational mastitis	is a	breast infection
+lactation	is a	physiological process
+breast engorgement	is a	lactational change
+breast cyst	is a	benign breast lesion
+breast cyst	contains	fluid
+scar tissue	is a	benign breast finding
+scar tissue	associated with	breast surgery
+postoperative scar	is a	benign breast finding
+nipple inversion	is a	benign breast condition
+nipple retraction	is a	benign breast finding
+breast tenderness	is a	symptom
+cyclic mastalgia	is a	breast pain
+noncyclic mastalgia	is a	breast pain
+mastalgia	is a	breast pain
+breast pain	is a	symptom
+breast calcifications	are a	benign finding
+calcifications	are a	benign imaging finding
+calcified lesion	is a	benign finding
+adenosis	is a	benign breast condition
+benign breast disease	includes	fibroadenoma
+benign breast disease	includes	fibrocystic changes
+benign breast disease	includes	mastitis
+benign breast disease	includes	lipoma
+benign breast disease	includes	sclerosing adenosis
+benign breast disease	includes	radial scar
+benign breast disease	includes	intraductal papilloma
+benign breast disease	includes	ductal ectasia
+benign breast disease	includes	fat necrosis
+benign breast disease	includes	galactocele
+breast infection	may require	antibiotics
+breast infection	may require	drainage
+mastitis	treated with	antibiotics
+breast abscess	treated with	incision and drainage
+intraductal papilloma	often presents with	nipple discharge
+ductal ectasia	often presents with	nipple discharge
+nipple discharge	may be	physiologic
+physiologic nipple discharge	is a	benign discharge
+asymptomatic breast mass	is a	finding
+palpable lump	is a	clinical finding
+palpable mass	is a	clinical finding
+mammography	is a	imaging modality
+ultrasound	is a	imaging modality
+MRI	is a	imaging modality
+mammary duct	is a	anatomical structure
+breast tissue	is a	tissue type
+glandular tissue	is a	breast component
+fibrous tissue	is a	breast component
+dense breast tissue	is a	benign finding
+postmenopausal breast changes	is a	benign condition
+postmenopausal breast changes	associated with	decreased estrogen

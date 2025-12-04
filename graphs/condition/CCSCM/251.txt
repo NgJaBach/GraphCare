@@ -1,129 +1,99 @@
-abdominal pain	is symptom of	appendicitis
 abdominal pain	is symptom of	gastroenteritis
+abdominal pain	is symptom of	appendicitis
 abdominal pain	is symptom of	pancreatitis
 abdominal pain	is symptom of	peptic ulcer disease
-abdominal pain	is symptom of	biliary colic
 abdominal pain	is symptom of	cholecystitis
-abdominal pain	is symptom of	bowel obstruction
 abdominal pain	is symptom of	diverticulitis
-abdominal pain	is symptom of	gastritis
-abdominal pain	is symptom of	duodenal ulcer
+abdominal pain	is symptom of	bowel obstruction
 abdominal pain	is symptom of	ileus
-abdominal pain	is symptom of	mesenteric ischemia
-abdominal pain	is symptom of	appendiceal abscess
-abdominal pain	is symptom of	pancreatobiliary disease
-abdominal pain	is symptom of	gastroenteritis
-abdominal pain	is symptom of	Crohn disease
+abdominal pain	is symptom of	inflammatory bowel disease
+abdominal pain	is symptom of	Crohn's disease
 abdominal pain	is symptom of	ulcerative colitis
-abdominal pain	is symptom of	gastrinoma
-abdominal pain	is symptom of	gastric cancer
+abdominal pain	is symptom of	gastritis
+abdominal pain	is symptom of	GERD
+abdominal pain	is symptom of	pancreatobiliary disease
+abdominal pain	is symptom of	biliary colic
+abdominal pain	is symptom of	gallstone disease
 abdominal pain	is symptom of	nephrolithiasis
 abdominal pain	is symptom of	pyelonephritis
-abdominal pain	is symptom of	renal colic
-abdominal pain	is symptom of	kidney stones
-abdominal pain	is symptom of	ectopic pregnancy
+abdominal pain	is symptom of	urinary tract infection
 abdominal pain	is symptom of	ovarian torsion
-abdominal pain	is symptom of	ovarian cyst rupture
-abdominal pain	is symptom of	pelvic inflammatory disease
-abdominal pain	is symptom of	endometriosis
-abdominal pain	is symptom of	appendicitis perforation
-abdominal pain	is symptom of	peritonitis
-abdominal pain	is symptom of	abscess
-abdominal pain	is symptom of	malrotation
-abdominal pain	is symptom of	hernia strangulation
-abdominal pain	is symptom of	small bowel obstruction
-abdominal pain	is symptom of	large bowel obstruction
-abdominal pain	is symptom of	radiation enteritis
-abdominal pain	is symptom of	pancreatitis with necrosis
-abdominal pain	is symptom of	gallstone pancreatitis
-abdominal pain	is symptom of	cholesterol gallstone disease
-abdominal pain	is symptom of	gallbladder empyema
-abdominal pain	is symptom of	gastric outlet obstruction
-abdominal pain	is symptom of	hepatic abscess
-abdominal pain	is symptom of	splenic infarct
-abdominal pain	is symptom of	mesenteric adenitis
-abdominal pain	is symptom of	celiac disease
-abdominal pain	is symptom of	lactose intolerance
-abdominal pain	is symptom of	celiac sprue
-abdominal pain	is symptom of	pseudo-obstruction
-abdominal pain	is symptom of	pancreatitis with pseudocyst
-epigastric pain	is symptom of	GERD
-epigastric pain	is symptom of	gastritis
-epigastric pain	is symptom of	pancreatitis
-epigastric pain	is symptom of	peptic ulcer disease
-epigastric pain	is symptom of	gastric ulcer
-epigastric pain	is symptom of	biliary colic
-epigastric pain	is symptom of	esophagitis
-epigastric pain	is symptom of	gastroparesis
-epigastric pain	is symptom of	esophageal cancer
-epigastric pain	is symptom of	stomach cancer
-epigastric pain	is symptom of	pancreatobiliary disease
-epigastric pain	is symptom of	gastrinoma
-epigastric pain	associated with	heartburn
-epigastric pain	associated with	reflux
-epigastric pain	requires	imaging
-epigastric pain	requires	endoscopy
-epigastric pain	presents with	vomiting
-epigastric pain	presents with	weight loss
-lower abdominal pain	is symptom of	ovarian torsion
-lower abdominal pain	is symptom of	ectopic pregnancy
-lower abdominal pain	is symptom of	ovarian cyst rupture
-lower abdominal pain	is symptom of	pelvic inflammatory disease
-lower abdominal pain	is symptom of	diverticulitis
-lower abdominal pain	is symptom of	irritable bowel syndrome
-lower abdominal pain	is symptom of	constipation
-lower abdominal pain	is symptom of	urinary tract infection
-lower abdominal pain	is symptom of	nephrolithiasis
-lower abdominal pain	is symptom of	pyelonephritis
-lower abdominal pain	is symptom of	Crohn disease
-lower abdominal pain	is symptom of	ulcerative colitis
-lower abdominal pain	is symptom of	endometriosis
-lower abdominal pain	is symptom of	ovarian cancer
-lower abdominal pain	is symptom of	fibroids
-lower abdominal pain	requires	imaging
-lower abdominal pain	requires	surgery
-lower abdominal pain	associated with	fever
-lower abdominal pain	associated with	nausea
-lower abdominal pain	associated with	vomiting
-lower abdominal pain	associated with	tachycardia
-lower abdominal pain	associated with	dehydration
-lower abdominal pain	associated with	leukocytosis
-periumbilical pain	is symptom of	gastroenteritis
-periumbilical pain	is symptom of	appendicitis
-periumbilical pain	is symptom of	inflammatory bowel disease
-periumbilical pain	is symptom of	mesenteric ischemia
-periumbilical pain	is symptom of	Crohn disease
-periumbilical pain	is symptom of	ulcerative colitis
-periumbilical pain	requires	imaging
-periumbilical pain	requires	surgery
-periumbilical pain	presents with	abdominal distension
-periumbilical pain	presents with	guarding
-RLQ pain	is symptom of	appendicitis
-RLQ pain	is symptom of	Crohn disease
-RLQ pain	is symptom of	ileocecal diverticulitis
-RLQ pain	is symptom of	ovarian torsion
-RLQ pain	is symptom of	kidney stones
-RLQ pain	associated with	fever
-RLQ pain	requires	imaging
-RLQ pain	requires	surgery
+abdominal pain	is symptom of	ruptured ovarian cyst
+abdominal pain	is symptom of	ectopic pregnancy
+abdominal pain	is symptom of	ruptured ectopic pregnancy
+abdominal pain	is symptom of	mesenteric ischemia
 abdominal pain	is symptom of	abdominal aortic aneurysm rupture
-abdominal pain	is symptom of	peritonitis
-abdominal pain	is symptom of	pancreatobiliary disease
-abdominal pain	associated with	hypotension
-abdominal pain	associated with	shock
-abdominal pain	associated with	metabolic acidosis
-abdominal pain	associated with	lactic acidosis
-abdominal pain	associated with	lipase elevation
-abdominal pain	associated with	amylase elevation
-abdominal pain	associated with	elevated transaminases
-abdominal pain	associated with	hyperglycemia
-abdominal pain	associated with	hyponatremia
-abdominal pain	associated with	hyperkalemia
-periumbilical pain	associated with	fever
-periumbilical pain	associated with	diarrhea
-periumbilical pain	associated with	dehydration
-periumbilical pain	requires	imaging
-periumbilical pain	presents with	diarrhea
-periumbilical pain	presents with	fever
-periumbilical pain	associated with	dehydration
-periumbilical pain	associated with	abdominal distension
+abdominal pain	is evaluated with	ultrasound abdomen
+abdominal pain	is evaluated with	CT abdomen
+abdominal pain	is evaluated with	abdominal X-ray
+abdominal pain	is evaluated with	CBC
+abdominal pain	is evaluated with	lipase
+abdominal pain	is evaluated with	amylase
+abdominal pain	is evaluated with	hCG
+abdominal pain	is evaluated with	urinalysis
+abdominal pain	is evaluated with	LFTs
+abdominal pain	is evaluated with	lactate
+abdominal pain	is evaluated with	stool analysis
+abdominal pain	is associated with	fever
+abdominal pain	is associated with	tachycardia
+abdominal pain	is associated with	hypotension
+abdominal pain	is associated with	dehydration
+abdominal pain	is associated with	anorexia
+abdominal pain	is associated with	nausea
+abdominal pain	is associated with	vomiting
+abdominal pain	is associated with	diarrhea
+abdominal pain	is associated with	constipation
+abdominal pain	is managed with	analgesia
+abdominal pain	is treated with	NSAIDs
+abdominal pain	is treated with	opioids
+abdominal pain	is treated with	antiemetics
+abdominal pain	is managed with	bowel rest
+abdominal pain	is managed with	fluids
+abdominal pain	may require	surgery
+abdominal pain	may require	appendectomy
+abdominal pain	may require	cholecystectomy
+abdominal pain	may require	colon resection
+abdominal pain	may require	exploratory laparotomy
+abdominal pain	is an	alarm symptom
+abdominal pain	is a trigger for	ED admission
+abdominal pain	suggests	perforation
+abdominal pain	suggests	appendicitis
+abdominal pain	predicts	hospital admission
+abdominal pain	predicts	surgical intervention
+abdominal pain	indicates	pancreatitis
+abdominal pain	indicates	bowel obstruction
+abdominal pain	indicates	diverticulitis
+abdominal pain	indicates	gastritis
+abdominal pain	may indicate	ectopic pregnancy
+abdominal pain	may indicate	ovarian torsion
+abdominal pain	may indicate	ruptured ovarian cyst
+abdominal pain	coexists with	fever
+abdominal pain	coexists with	constipation
+abdominal pain	coexists with	diarrhea
+abdominal pain	coexists with	vomiting
+abdominal pain	occurs in	pregnancy
+abdominal pain	common in	elderly
+abdominal pain	common in	children
+abdominal pain	is associated with	NSAID use
+abdominal pain	is associated with	alcohol use
+abdominal pain	is associated with	gallstones
+abdominal pain	is associated with	dehydration
+abdominal pain	is associated with	electrolyte disturbance
+abdominal pain	is associated with	anemia
+abdominal pain	is associated with	leukocytosis
+abdominal pain	is associated with	elevated lipase
+abdominal pain	is associated with	elevated amylase
+abdominal pain	is a presenting symptom for	peritonitis
+abdominal pain	presents with	rebound tenderness
+abdominal pain	presents with	guarding
+abdominal pain	requires	ICU admission
+abdominal pain	is a predictor of	severity
+abdominal pain	is a predictor of	mortality
+abdominal pain	is presenting symptom for	acute abdomen
+abdominal pain	is a presenting symptom for	biliary colic
+abdominal pain	is presenting symptom for	pancreatitis
+abdominal pain	is presenting symptom for	appendicitis
+abdominal pain	is presenting symptom for	diverticulitis
+abdominal pain	is presenting symptom for	gastritis
+abdominal pain	is presenting symptom for	bowel obstruction
+abdominal pain	is presenting symptom for	ectopic pregnancy

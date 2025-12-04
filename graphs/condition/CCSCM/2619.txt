@@ -1,100 +1,100 @@
-external cause code	codes for	injury
-external cause code	indicates	injury
-external cause code	codes for	poisoning
-external cause code	indicates	poisoning
-external cause code	codes for	burn
-external cause code	indicates	burn
-external cause code	codes for	drowning
-external cause code	indicates	drowning
-external cause code	codes for	fall
-external cause code	indicates	fall
-external cause code	codes for	asphyxia
-external cause code	indicates	asphyxia
-external cause code	codes for	electrocution
-external cause code	indicates	electrocution
-external cause code	codes for	gunshot wound
-external cause code	indicates	gunshot wound
-external cause code	codes for	stab wound
-external cause code	indicates	stab wound
-external cause code	codes for	fracture
-external cause code	indicates	fracture
-external cause code	codes for	head injury
-external cause code	indicates	head injury
-external cause code	codes for	traumatic brain injury
-external cause code	indicates	traumatic brain injury
-external cause code	codes for	poisoning by ingestion
-external cause code	indicates	poisoning by ingestion
-external cause code	codes for	poisoning by inhalation
-external cause code	indicates	poisoning by inhalation
-external cause code	codes for	overdose
-external cause code	indicates	overdose
-external cause code	codes for	heat exposure
-external cause code	indicates	heat exposure
-external cause code	codes for	exposure to cold
-external cause code	indicates	exposure to cold
-external cause code	codes for	smoke inhalation
-external cause code	indicates	smoke inhalation
-external cause code	codes for	blast injury
-external cause code	indicates	blast injury
-external cause code	codes for	road traffic crash
-external cause code	indicates	road traffic crash
-external cause code	codes for	motor vehicle collision
-external cause code	indicates	motor vehicle collision
-external cause code	codes for	pedestrian injury
-external cause code	indicates	pedestrian injury
-external cause code	codes for	sports injury
-external cause code	indicates	sports injury
-external cause code	codes for	occupational accident
-external cause code	indicates	occupational accident
-external cause code	codes for	industrial accident
-external cause code	indicates	industrial accident
-external cause code	codes for	crush injury
-external cause code	indicates	crush injury
-external cause code	codes for	suffocation
-external cause code	indicates	suffocation
-external cause code	codes for	hypothermia
-external cause code	indicates	hypothermia
-external cause code	codes for	heat stroke
-external cause code	indicates	heat stroke
-external cause code	codes for	chemical exposure
-external cause code	indicates	chemical exposure
-external cause code	codes for	radiation exposure
-external cause code	indicates	radiation exposure
-external cause code	codes for	explosion injury
-external cause code	indicates	explosion injury
-external cause code	codes for	fire injury
-external cause code	indicates	fire injury
-external cause code	codes for	chemical burn
-external cause code	indicates	chemical burn
-external cause code	codes for	electric burn
-external cause code	indicates	electric burn
-external cause code	codes for	bite injury
-external cause code	indicates	bite injury
-external cause code	codes for	animal bite
-external cause code	indicates	animal bite
-external cause code	codes for	fall from height
-external cause code	indicates	fall from height
-external cause code	codes for	neck injury
-external cause code	indicates	neck injury
-external cause code	codes for	spine injury
-external cause code	indicates	spine injury
-external cause code	codes for	skull fracture
-external cause code	indicates	skull fracture
-external cause code	codes for	rib fracture
-external cause code	indicates	rib fracture
-external cause code	codes for	femur fracture
-external cause code	indicates	femur fracture
-external cause code	codes for	tibia fracture
-external cause code	indicates	tibia fracture
-external cause code	codes for	chest injury
-external cause code	indicates	chest injury
-external cause code	codes for	abdominal injury
-external cause code	indicates	abdominal injury
-external cause code	codes for	pelvic fracture
-external cause code	indicates	pelvic fracture
-external cause code	codes for	ankle fracture
-external cause code	indicates	ankle fracture
-external cause code	codes for	shoulder injury
-external cause code	indicates	shoulder injury
-external cause code	codes for	hip fracture
-external cause code	indicates	hip fracture
+external cause code	codes for	injury mechanism
+external cause code	indicates	intent
+external cause code	codes for	place of occurrence
+external cause code	codes for	activity
+external cause code	codes for	transportation mode
+external cause code	associated with	mortality
+external cause code	associated with	morbidity
+external cause code	used for	epidemiology
+external cause code	used in	data collection
+external cause code	linked to	hospitalization rate
+external cause code	linked to	injury severity
+external cause code	predicts	readmission
+external cause code	relates to	resource utilization
+external cause code	included in	coding guidelines
+external cause code	categorized as	accident category
+external cause code	categorized as	assault
+external cause code	categorized as	self-harm
+external cause code	categorized as	undetermined intent
+external cause code	mapped to	ICD-9 E-code
+external cause code	mapped to	ICD-10 V-Y code
+external cause code	indicates	exposure route
+external cause code	indicates	activity type
+external cause code	indicates	place type
+external cause code	associated with	injury type
+external cause code	linked to	toxin exposure
+external cause code	linked to	drowning category
+external cause code	linked to	burn type
+external cause code	linked to	fall type
+external cause code	linked to	firearm use
+external cause code	linked to	assault type
+external cause code	linked to	medical complication
+external cause code	used in	cohort studies
+external cause code	used for	risk scoring
+external cause code	used for	outcome prediction
+external cause code	used in	reimbursement coding
+external cause code	used for	injury categorization
+external cause code	used for	trend analysis
+external cause code	associated with	hospital admission
+external cause code	associated with	discharge destination
+external cause code	associated with	length of stay
+external cause code	associated with	ICU admission
+external cause code	associated with	rehabilitation needs
+external cause code	associated with	palliative care
+external cause code	correlated with	age group
+external cause code	correlated with	sex distribution
+external cause code	correlated with	comorbidity burden
+external cause code	used for	health policy
+external cause code	influences	public health surveillance
+external cause code	contributes to	injury burden
+external cause code	present in	hospital dataset
+external cause code	is a	external cause identifier
+external cause code	belongs to	coding system
+external cause code	belongs to	not elsewhere classified category
+external cause code	part of	ICD coding
+external cause code	interacts with	patient demographics
+external cause code	interacts with	comorbidity
+external cause code	interacts with	insurance claim
+external cause code	yields	clinical pattern
+external cause code	yields	injury pattern
+external cause code	maps to	ICD-10 code
+external cause code	maps to	ICD-9 code
+external cause code	used with	hospital discharge code
+external cause code	classified under	external cause taxonomy
+external cause code	reviewed by	coder
+external cause code	flagged in	chart note
+external cause code	extracted from	medical record
+external cause code	available in	data warehouse
+external cause code	included in	patient safety dataset
+external cause code	used to	injury classification
+external cause code	influences	coding latency
+external cause code	is part of	ICD coding
+external cause code	supports	epidemiologic research
+external cause code	used to	track injuries
+external cause code	appears in	hospital admission records
+external cause code	appears in	incident reporting
+external cause code	used for	reimbursement coding
+external cause code	used to	quality metrics
+external cause code	included in	patient safety dataset
+external cause code	used to	audit trail
+external cause code	associated with	hazard exposure
+external cause code	associated with	risk factor
+external cause code	linked to	environmental exposure
+external cause code	linked to	occupational injury
+external cause code	used to identify	injury location
+external cause code	used to identify	exposure evidence
+external cause code	part of	coding standard
+external cause code	influences	insurance rating
+external cause code	correlates with	severity index
+external cause code	used in	quality improvement project
+external cause code	informs	public health decisions
+external cause code	informs	hospital planning
+external cause code	determines	coding priority
+external cause code	influences	discharge planning
+external cause code	linked to	safety incident
+external cause code	helps	track trends
+external cause code	used for	injury surveillance
+external cause code	extracted from	discharge summary
+external cause code	tracked in	patient registry
+external cause code	appears in	claims data
+external cause code	used to	generate metrics

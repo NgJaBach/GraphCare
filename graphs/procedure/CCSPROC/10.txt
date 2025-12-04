@@ -1,0 +1,96 @@
+thyroidectomy	is a	surgical procedure
+partial thyroidectomy	is a type of	thyroidectomy
+total thyroidectomy	is a type of	thyroidectomy
+thyroidectomy	indicated for	hyperthyroidism
+thyroidectomy	indicated for	thyroid cancer
+thyroidectomy	indicated for	multinodular goiter
+thyroidectomy	indicated for	Graves' disease
+partial thyroidectomy	indicated for	solitary nodule
+thyroidectomy	performed under	general anesthesia
+thyroidectomy	performed by	surgeon
+partial thyroidectomy	preserves	parathyroid glands
+total thyroidectomy	removes	thyroid gland
+parathyroid glands	at risk during	thyroidectomy
+hypocalcemia	risk after	thyroidectomy
+hypoparathyroidism	result of	thyroidectomy
+hypoparathyroidism	treated with	calcium supplementation
+parathyroid glands	regulate	calcium levels
+calcium supplementation	manages	hypocalcemia
+hoarseness	caused by	recurrent laryngeal nerve injury
+recurrent laryngeal nerve injury	results in	vocal cord paralysis
+vocal cord paralysis	leads to	hoarseness
+hoarseness	may persist after	thyroidectomy
+hematoma	complication of	thyroidectomy
+infection	complication of	thyroidectomy
+bleeding	complication of	thyroidectomy
+hypothyroidism	may follow	thyroidectomy
+levothyroxine therapy	required after	thyroidectomy
+levothyroxine therapy	aims for	euthyroid state
+TSH	guides	levothyroxine dose
+endocrinologist	involved in	postoperative care
+postoperative care	includes	wound management
+wound management	includes	dressings
+dressings	applied to	incision
+postoperative care	monitors	calcium levels
+calcium levels	monitored after	thyroidectomy
+Transient hypocalcemia	occurs after	thyroidectomy
+Transient hypocalcemia	resolves with	calcium supplementation
+parathyroid autotransplantation	used in	thyroidectomy
+parathyroid autotransplantation	preserves	parathyroid function
+total thyroidectomy	increases risk of	permanent hypothyroidism
+hypothyroidism	managed with	levothyroxine therapy
+levothyroxine therapy	dosage adjusted by	endocrinologist
+endocrinologist	involved in	postoperative care
+radioactive iodine therapy	used after	thyroidectomy for residual tissue
+surveillance	after thyroidectomy	includes thyroid ultrasound
+thyroid ultrasound	used for	surveillance
+thyroid cancer	risk of	recurrence
+recurrence	predicted by	pathology stage
+pathology stage	informs	prognosis
+prognosis	improved by	complete thyroidectomy
+complete thyroidectomy	achieved by	total thyroidectomy
+anesthesia	used during	thyroidectomy
+bleeding	managed by	hemostasis
+hematoma	may cause	airway obstruction
+airway obstruction	requires	emergency intervention
+emergency intervention	performed by	surgeon
+parathyroid glands	can be preserved during	partial thyroidectomy
+hypocalcemia	presents with	paresthesias
+paresthesias	treated with	calcium supplementation
+calcium supplementation	reduces	tetany
+recurrent laryngeal nerve	at risk during	thyroidectomy
+laryngeal nerve injury	may be	transient
+laryngeal nerve injury	may be	permanent
+laryngeal nerve injury	leads to	voice change
+voice change	impacts	speech quality
+analgesia	provided as	postoperative care
+postoperative analgesia	promotes	comfort
+Graves' disease	treated by	thyroidectomy
+multinodular goiter	treated by	thyroidectomy
+benign thyroid nodules	treated by	thyroidectomy
+thyroidectomy	influences	metabolic rate
+metabolic rate	assessed by	clinician
+length of stay	predicted by	thyroidectomy outcome
+surgical margins	inform	prognosis
+prognosis	influenced by	pathology
+prognosis	related to	completeness of resection
+completeness of resection	determines	prognosis
+cancer type	informs	treatment plan
+treatment plan	shaped by	surgical margins
+remission	seen in	cancer after thyroidectomy
+cancer surveillance	includes	ultrasound
+ultrasound	detects	suspicious nodules
+suspicious nodules	monitored by	ultrasound
+papillary carcinoma	treated by	thyroidectomy
+postoperative imaging	performed for	thyroid cancer surveillance
+imaging	used for	cancer surveillance
+cancer surveillance	includes	thyroid ultrasound
+thyroid cancer	stage	prognosis
+staging	informs	treatment strategy
+scar	cosmetic outcome after	thyroidectomy
+cervical scar	result of	thyroidectomy
+incision type	influences	scar appearance
+scar appearance	affects	patient satisfaction
+incision type	chosen by	surgeon
+surgeon	practices	endocrine surgery
+endocrine surgery	is a subspecialty of	surgery

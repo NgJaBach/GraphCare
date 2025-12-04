@@ -1,20 +1,88 @@
-other and unspecified benign neoplasm	is a	non-malignant tumor
-other and unspecified benign neoplasm	is a type of	neoplasm
-other and unspecified benign neoplasm	occurs in	patient
-other and unspecified benign neoplasm	located in	skin
-other and unspecified benign neoplasm	located in	breast
+other and unspecified benign neoplasm	is a	tumor
+other and unspecified benign neoplasm	is a	mass
+other and unspecified benign neoplasm	is a	lesion
+other and unspecified benign neoplasm	is a	neoplasm
 other and unspecified benign neoplasm	located in	liver
-other and unspecified benign neoplasm	located in	brain
-other and unspecified benign neoplasm	located in	bone
-other and unspecified benign neoplasm	located in	uterus
 other and unspecified benign neoplasm	located in	kidney
+other and unspecified benign neoplasm	located in	skin
+other and unspecified benign neoplasm	located in	brain
+other and unspecified benign neoplasm	located in	muscle
+other and unspecified benign neoplasm	located in	bone
+other and unspecified benign neoplasm	located in	lymph node
+other and unspecified benign neoplasm	located in	thyroid
+other and unspecified benign neoplasm	located in	pancreas
+other and unspecified benign neoplasm	located in	stomach
+other and unspecified benign neoplasm	located in	colon
+other and unspecified benign neoplasm	located in	lung
+other and unspecified benign neoplasm	located in	heart
+other and unspecified benign neoplasm	located in	spleen
+other and unspecified benign neoplasm	located in	ovary
+other and unspecified benign neoplasm	located in	intestine
 other and unspecified benign neoplasm	diagnosed by	biopsy
+other and unspecified benign neoplasm	diagnosed by	histology
 other and unspecified benign neoplasm	diagnosed by	imaging
+other and unspecified benign neoplasm	diagnosed by	ultrasound
+other and unspecified benign neoplasm	diagnosed by	MRI
+other and unspecified benign neoplasm	diagnosed by	CT
 other and unspecified benign neoplasm	diagnosed by	pathology
+other and unspecified benign neoplasm	diagnosed by	cytology
 other and unspecified benign neoplasm	treated with	surgical excision
 other and unspecified benign neoplasm	treated with	observation
-other and unspecified benign neoplasm	followed by	surveillance
-other and unspecified benign neoplasm	may recur after	excision
-other and unspecified benign neoplasm	associated with	cosmetic deformity
-other and unspecified benign neoplasm	associated with	mass effect
-other and unspecified benign neoplasm	comorbidity with	hypertension
+other and unspecified benign neoplasm	treated with	radiation therapy
+other and unspecified benign neoplasm	treated with	cryoablation
+other and unspecified benign neoplasm	treated with	laser therapy
+other and unspecified benign neoplasm	treated with	medical therapy
+other and unspecified benign neoplasm	managed with	monitoring
+other and unspecified benign neoplasm	managed with	follow-up
+other and unspecified benign neoplasm	managed with	watchful waiting
+other and unspecified benign neoplasm	managed with	risk assessment
+other and unspecified benign neoplasm	managed with	conservative treatment
+other and unspecified benign neoplasm	may cause	mass effect
+other and unspecified benign neoplasm	may cause	cosmetic deformity
+other and unspecified benign neoplasm	may compress	adjacent structure
+other and unspecified benign neoplasm	may present with	swelling
+other and unspecified benign neoplasm	may present with	asymptomatic
+other and unspecified benign neoplasm	has	favorable prognosis
+other and unspecified benign neoplasm	recurs after	excision
+other and unspecified benign neoplasm	linked to	recurrence
+other and unspecified benign neoplasm	associated with	genetic syndrome
+other and unspecified benign neoplasm	associated with	family history
+other and unspecified benign neoplasm	associated with	radiation exposure
+other and unspecified benign neoplasm	associated with	hormonal changes
+other and unspecified benign neoplasm	presents with	swelling
+other and unspecified benign neoplasm	presents with	asymptomatic
+other and unspecified benign neoplasm	imaging feature	calcification
+other and unspecified benign neoplasm	imaging feature	enhancement
+other and unspecified benign neoplasm	imaging feature	fat content
+other and unspecified benign neoplasm	histology shows	adipose tissue
+other and unspecified benign neoplasm	results in	cosmetic impact
+other and unspecified benign neoplasm	causes	symptoms
+other and unspecified benign neoplasm	seen in	imaging studies
+other and unspecified benign neoplasm	occurs in	adults
+other and unspecified benign neoplasm	occurs in	children
+other and unspecified benign neoplasm	occurs in	elderly
+other and unspecified benign neoplasm	more common in	females
+other and unspecified benign neoplasm	more common in	males
+other and unspecified benign neoplasm	is associated with	nerve compression
+other and unspecified benign neoplasm	is associated with	vascular complication
+other and unspecified benign neoplasm	contributes to	morbidity
+other and unspecified benign neoplasm	contributes to	healthcare utilization
+other and unspecified benign neoplasm	shows	calcification
+other and unspecified benign neoplasm	shows	enhancement
+other and unspecified benign neoplasm	shows	water content
+other and unspecified benign neoplasm	presents as	sessile lesion
+other and unspecified benign neoplasm	presents as	cystic mass
+other and unspecified benign neoplasm	presents as	solid mass
+other and unspecified benign neoplasm	contains	adipose tissue
+other and unspecified benign neoplasm	growth rate	slow
+other and unspecified benign neoplasm	growth rate	rapid
+other and unspecified benign neoplasm	recommends	MRI
+other and unspecified benign neoplasm	recommends	ultrasound
+other and unspecified benign neoplasm	recommends	surgical excision
+other and unspecified benign neoplasm	recommends	observation
+other and unspecified benign neoplasm	recommends	imaging follow-up
+other and unspecified benign neoplasm	recommended management	observation
+other and unspecified benign neoplasm	recommended management	surgical excision
+other and unspecified benign neoplasm	differential diagnosis	malignancy
+other and unspecified benign neoplasm	prognosis	favorable
+other and unspecified benign neoplasm	surveillance plan	annual

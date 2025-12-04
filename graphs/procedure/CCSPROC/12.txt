@@ -1,0 +1,94 @@
+thyroidectomy	treats	hyperthyroidism
+thyroidectomy	treats	thyroid cancer
+hemithyroidectomy	treats	solitary thyroid nodule
+subtotal thyroidectomy	indicated for	Graves' disease
+total thyroidectomy	treats	differentiated thyroid cancer
+parathyroidectomy	treats	primary hyperparathyroidism
+parathyroidectomy	reduces	hypercalcemia
+parathyroidectomy	risks	hypocalcemia
+parathyroidectomy	indicated for	parathyroid adenoma
+parathyroidectomy	used for	secondary hyperparathyroidism
+adrenalectomy	treats	Cushing's syndrome
+adrenalectomy	treats	pheochromocytoma
+adrenalectomy	reduces	cortisol production
+unilateral adrenalectomy	indicated for	unilateral adrenal adenoma
+bilateral adrenalectomy	indicated for	bilateral adrenal hyperfunction
+adrenalectomy	risk of	adrenal insufficiency
+hypophysectomy	treats	pituitary adenoma
+hypophysectomy	risks	hypopituitarism
+hypophysectomy	indicated for	Cushing's disease
+transsphenoidal surgery	performed for	pituitary tumor
+transsphenoidal surgery	indicated for	pituitary macroadenoma
+transsphenoidal surgery	preferred to	craniotomy
+pituitary tumor	treated by	transsphenoidal surgery
+pituitary adenoma	treated by	transsphenoidal surgery
+thyroid lobectomy	treats	solitary thyroid nodule
+thyroid lobectomy	indicated for	papillary thyroid carcinoma
+robotic thyroidectomy	used for	thyroid cancer
+radioiodine therapy	treats	hyperthyroidism
+radioiodine therapy	used for	differentiated thyroid cancer
+radioiodine therapy	risks	hypothyroidism
+laser ablation	treats	thyroid nodules
+radiofrequency ablation	treats	thyroid nodules
+microwave ablation	treats	thyroid nodules
+ethanol ablation	treats	thyroid cyst
+cryoablation	treats	thyroid nodules
+thyroid nodules	managed by	ablation
+thyroid nodules	treated by	lobectomy
+thyroid nodules	treated by	thyroidectomy
+Graves' disease	treated by	thyroidectomy
+differentiated thyroid cancer	treated by	thyroidectomy
+papillary thyroid carcinoma	treated by	thyroidectomy
+papillary thyroid carcinoma	treated by	radioactive iodine therapy
+Graves' disease	treated by	radioactive iodine therapy
+thyroidectomy	requires	thyroid hormone replacement
+hypophysectomy	requires	pituitary hormone replacement
+thyroid cancer	monitored by	ultrasound
+Graves' disease	monitored by	thyroid function tests
+hypocalcemia	risk after	thyroidectomy
+hypoparathyroidism	risk after	thyroidectomy
+hungry bone syndrome	occurs after	parathyroidectomy
+calcium supplementation	required after	thyroidectomy
+calcium supplementation	prevents	hypocalcemia after thyroidectomy
+pancreatic islet cell transplantation	indicated for	type 1 diabetes
+pancreatic islet cell transplantation	aims for	insulin independence
+pancreatic islet cell transplantation	improves	glycemic control
+pancreas transplantation	indicated for	type 1 diabetes with renal failure
+pancreas transplantation	treats	type 1 diabetes
+pancreas transplantation	improves	quality of life
+pancreas transplantation	risks	surgical complications
+pancreas transplantation	requires	immunosuppression
+pancreatic islet cell transplantation	reduces	exogenous insulin requirement
+insulin pump implantation	indicated for	type 1 diabetes with poor glycemic control
+insulin pump implantation	reduces	daily injections
+insulin pump implantation	associated with	device malfunction
+glucose monitoring	required after	insulin pump implantation
+beta-cell transplantation	indicated for	type 1 diabetes with severe hypoglycemia
+beta-cell transplantation	reduces	severe hypoglycemia episodes
+islet autotransplantation	used for	chronic pancreatitis
+islet allotransplantation	indicated for	type 1 diabetes
+hypopituitarism	risk after	hypophysectomy
+CSF leak	risk after	transsphenoidal surgery
+meningitis	risk after	transsphenoidal surgery
+adrenal insufficiency	requires	glucocorticoid replacement
+glucocorticoid replacement	essential for	adrenal insufficiency
+alpha blockade	used for	pheochromocytoma preoperative preparation
+pheochromocytoma	requires	alpha blockade
+adrenal incidentaloma	managed by	adrenalectomy
+cushing's disease	treated by	pituitary surgery
+cushing's syndrome	treated by	adrenalectomy
+pituitary macroadenoma	treated by	transsphenoidal surgery
+papillary thyroid carcinoma	prognosis depends on	stage
+recurrent laryngeal nerve injury	complication of	thyroidectomy
+hypocalcemia	complication of	thyroidectomy
+hypoparathyroidism	complication of	parathyroidectomy
+mortality	risk after	adrenalectomy
+readmission	risk after	thyroidectomy
+readmission	risk after	transsphenoidal surgery
+bone mineral density	affected by	hypoparathyroidism
+glycemic control	improved by	islet transplantation
+insulin independence	goal of	pancreatic islet cell transplantation
+immunosuppression	required after	pancreas transplantation
+postoperative stay	lengthened by	thyroidectomy
+length of stay	increased by	transsphenoidal surgery
+preoperative optimization	improves	outcomes of endocrine surgery

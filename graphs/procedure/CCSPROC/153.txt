@@ -1,0 +1,100 @@
+hip replacement	is a	medical procedure
+total hip replacement	is a	arthroplasty
+hemiarthroplasty	is a	arthroplasty
+total hip replacement	is performed for	osteoarthritis
+total hip replacement	is performed for	avascular necrosis
+total hip replacement	is performed for	femoral neck fracture
+hip replacement	indications include	femoral neck fracture
+hip replacement	indications include	end-stage arthritis
+hemiarthroplasty	indications include	femoral neck fracture
+total hip replacement	components include	femoral stem
+total hip replacement	components include	acetabular cup
+total hip replacement	components include	bearing liner
+total hip replacement	components include	femoral head
+hip replacement	bearing surface includes	metal-on-polyethylene
+hip replacement	bearing surface includes	ceramic-on-ceramic
+hip replacement	bearing surface includes	metal-on-metal
+total hip replacement	uses	cemented fixation
+total hip replacement	uses	cementless fixation
+total hip replacement	uses	hybrid fixation
+hip replacement	uses	cemented fixation
+partial hip replacement	is a	hemiarthroplasty
+total hip replacement	uses	posterior approach
+total hip replacement	uses	anterior approach
+total hip replacement	uses	lateral approach
+hemiarthroplasty	is performed via	posterior approach
+hemiarthroplasty	is performed via	anterior approach
+cemented fixation	is used in	total hip replacement
+cementless fixation	is used in	total hip replacement
+cemented stem	is used in	hemiarthroplasty
+cementless stem	is used in	hemiarthroplasty
+acetabular component	is implanted in	acetabulum
+femoral component	is implanted in	femur
+bearing liner	is made of	polyethylene
+polyethylene liner	is used as	bearing surface
+ceramic head	is used as	femoral head
+metal head	is used as	femoral head
+total hip replacement	reduces	pain
+total hip replacement	improves	mobility
+hip replacement	improves	gait
+recovery	requires	physical therapy
+physical therapy	improves	range of motion
+weight-bearing status	is determined by	implant type
+dislocation	risk	hip replacement
+hip replacement	risk of	infection
+posterior approach	increases	dislocation risk
+hip replacement	risk of	prosthesis infection
+periprosthetic fracture	occurs after	hip replacement
+prosthetic joint infection	is a	complication
+prosthesis loosening	is a	complication
+aseptic loosening	is a	complication
+revision surgery	is possible after	hip replacement
+blood transfusion	is required for	total hip replacement
+thromboembolism	is a potential complication of	hip replacement
+VTE prophylaxis	is recommended with	hip replacement
+enoxaparin	is used for	DVT prophylaxis
+aspirin	is used for	DVT prophylaxis
+warfarin	is used for	DVT prophylaxis
+preoperative imaging	is used for	surgical planning
+preoperative evaluation	assesses	comorbidity
+diabetes mellitus	increases	perioperative risk
+hypertension	increases	perioperative risk
+obesity	increases	perioperative risk
+age	increases	surgical risk
+osteoporosis	influences	implant stability
+pain	is reduced by	total hip replacement
+range of motion	improves after	hip replacement
+function	improves after	hip replacement
+length of hospital stay	decreases with	total hip replacement
+rehabilitation	is required after	hip replacement
+physical therapy	is required after	hip replacement
+range of motion	is measured by	goniometer
+gait	improves with	hip replacement
+prosthesis wear	increases with	activity level
+activity level	increases after	hip replacement
+bone stock	affects	implant stability
+cemented fixation	provides	immediate stability
+cementless fixation	provides	long-term stability
+hybrid fixation	combines	cemented and cementless components
+posterior approach	is associated with	dislocation
+anterior approach	has	lower dislocation rate
+hip replacement	risk of	surgical site infection
+periprosthetic joint infection	is a	complication
+revision arthroplasty	is possible after	hip replacement
+prosthesis fracture	is a	complication
+osteolysis	results in	prosthesis loosening
+metal ion release	occurs with	metal-on-metal bearing
+patient satisfaction	increases after	hip replacement
+independence	increases after	hip replacement
+blood loss	is minimized by	tranexamic acid
+drain	is used in	hip replacement
+nerve injury	is a complication of	hip replacement
+thrombus	forms after	hip replacement
+anticoagulation	reduces	thromboembolism risk
+postoperative stiffness	persists after	hip replacement
+lateral approach	increases	nerve injury risk
+prosthesis longevity	is influenced by	bearing surface
+aseptic loosening	is a cause of	revision arthroplasty
+reoperation rate	is high in	hemiarthroplasty
+infection	leads to	revision surgery
+patient education	improves	postoperative adherence

@@ -1,98 +1,100 @@
-lung cancer	is a	malignant neoplasm of lung
-lung cancer	has histology	adenocarcinoma
-lung cancer	has histology	squamous cell carcinoma
-lung cancer	has histology	small cell carcinoma
-lung cancer	has histology	large cell carcinoma
-lung cancer	associated with	smoking
-lung cancer	associated with	radon exposure
-lung cancer	associated with	asbestos exposure
-lung cancer	associated with	air pollution
-lung cancer	associated with	prior thoracic radiotherapy
-lung cancer	comorbidity with	COPD
-lung cancer	presents with	cough
-lung cancer	presents with	dyspnea
-lung cancer	presents with	chest pain
-lung cancer	presents with	weight loss
-lung cancer	presents with	hemoptysis
-lung cancer	presents with	fatigue
-lung cancer	may cause	pleural effusion
-lung cancer	metastasizes to	brain
-lung cancer	metastasizes to	bone
-lung cancer	metastasizes to	liver
-lung cancer	metastasizes to	adrenal gland
-lung cancer	may cause	superior vena cava syndrome
-lung cancer	may cause	SIADH
-lung cancer	prognosis	poor
-lung cancer	prognosis depends on	stage
-lung cancer	prognosis depends on	performance status
-lung cancer	is staged as	stage I
-lung cancer	is staged as	stage II
-lung cancer	is staged as	stage III
-lung cancer	is staged as	stage IV
-lung cancer	treated with	surgery
-lung cancer	treated with	lobectomy
-lung cancer	treated with	pneumonectomy
-lung cancer	treated with	radiotherapy
-lung cancer	treated with	chemotherapy
-lung cancer	treated with	immunotherapy
-lung cancer	treated with	targeted therapy
-lung cancer	treated with	SBRT
-lung cancer	has biomarker	EGFR mutation
-lung cancer	has biomarker	ALK rearrangement
-lung cancer	has biomarker	KRAS mutation
-lung cancer	has biomarker	ROS1 rearrangement
-lung cancer	has biomarker	PD-L1 expression
-lung cancer	type	NSCLC
-lung cancer	type	SCLC
-lung cancer	may cause	paraneoplastic syndrome
-lung cancer	may cause	ectopic ACTH syndrome
-tobacco exposure	increases risk of	lung cancer
-radon exposure	increases risk of	lung cancer
-asbestos exposure	increases risk of	lung cancer
-air pollution	increases risk of	lung cancer
-prior radiation exposure	increases risk of	lung cancer
-family history	increases risk of	lung cancer
-lung cancer	diagnosed by	biopsy
-lung cancer	evaluated with	CT scan
-lung cancer	evaluated with	PET-CT
-lung cancer	evaluated with	MRI
-lung cancer	evaluated with	bronchoscopy
-lung cancer	has stage	stage IV
-lung cancer	responds to	EGFR inhibitors
-lung cancer	responds to	ALK inhibitors
-lung cancer	responds to	PD-1 inhibitors
-lung cancer	responds to	chemotherapy
-lung cancer	responds to	radiotherapy
-lung cancer	treated with	crizotinib
-lung cancer	treated with	erlotinib
-lung cancer	treated with	pembrolizumab
-lung cancer	treated with	nivolumab
-lung cancer	treated with	carboplatin
-lung cancer	treated with	cisplatin
-lung cancer	treated with	platinum-based chemotherapy
-lung cancer	associated with	cachexia
-lung cancer	reduces	pulmonary function
-lung cancer	increases	mortality
-lung cancer	reduces	quality of life
-lung cancer	causes	pleural involvement
-lung cancer	presents as	central tumor
-lung cancer	presents as	peripheral tumor
-lung cancer	has metastases	brain
-lung cancer	develops	resistance to therapy
-lung cancer	associated with	anemia
-lung cancer	leads to	respiratory failure
-lung cancer	associated with	hypercalcemia
-lung cancer	associated with	hyponatremia
-lung cancer	progression risk	high
-lung cancer	recurrence risk	high
-lung cancer	second primary cancer risk	elevated
-NSCLC	typically treated with	resection
-SCLC	typically treated with	chemotherapy
-SCLC	often features	rapid growth
-lung cancer	staging system	TNM classification
-lung cancer	staged by	TNM classification
-lung cancer	prognosis influenced by	performance status
-lung cancer	associated with	p53 mutation
-lung cancer	presents with	cavitation
-lung cancer	diagnosed at	late stage
-lung cancer	monitored with	follow-up imaging
+lung cancer	is a	malignant tumor
+smoking	is a risk factor for	lung cancer
+asbestos exposure	is a risk factor for	lung cancer
+radon exposure	is a risk factor for	lung cancer
+air pollution	is a risk factor for	lung cancer
+secondhand smoke	is a risk factor for	lung cancer
+genetic predisposition	is a risk factor for	lung cancer
+EGFR mutation	is associated with	lung cancer
+KRAS mutation	is associated with	lung cancer
+ALK fusion	is associated with	lung cancer
+ROS1 rearrangement	is associated with	lung cancer
+p53 mutation	is associated with	lung cancer
+tumor suppressor gene mutation	is associated with	lung cancer
+adenocarcinoma	is a histology of	lung cancer
+squamous cell carcinoma	is a histology of	lung cancer
+small cell carcinoma	is a histology of	lung cancer
+large cell carcinoma	is a histology of	lung cancer
+non-small cell lung cancer	is a type of	lung cancer
+lung cancer	is treated with	platinum chemotherapy
+lung cancer	is treated with	targeted therapy
+lung cancer	is treated with	immunotherapy
+platinum chemotherapy	includes	cisplatin
+platinum chemotherapy	includes	carboplatin
+cisplatin	is used in	lung cancer
+carboplatin	is used in	lung cancer
+pemetrexed	is used in	non-squamous NSCLC
+pemetrexed	is used in	adenocarcinoma
+pembrolizumab	is used in	lung cancer
+nivolumab	is used in	lung cancer
+atezolizumab	is used in	lung cancer
+EGFR	is a target for	EGFR-mutated lung cancer
+PD-L1 expression	predicts response to	pembrolizumab
+tumor mutational burden	correlates with	immunotherapy response
+low-dose CT	is used for	lung cancer screening
+CT scan	is used in	diagnosis of lung cancer
+PET-CT	is used for	staging of lung cancer
+biopsy	is used to	diagnose lung cancer
+cytology	is used for	diagnosis
+EGFR mutation testing	informs	therapy choice
+PD-L1 testing	informs	immunotherapy choice
+smoking cessation	reduces	lung cancer risk
+surgery	is curative for	early-stage lung cancer
+lobectomy	is a surgical procedure for	lung cancer
+pneumonectomy	is a surgical procedure for	lung cancer
+radiation therapy	is used in	locally advanced lung cancer
+stereotactic body radiotherapy	is used in	early-stage lung cancer
+brachytherapy	provides	palliation
+palliative care	is provided for	advanced lung cancer
+delay in diagnosis	worsens	prognosis
+performance status	influences	treatment choice
+ECOG performance status	influences	treatment choice
+bone metastasis	worsens	survival
+brain metastasis	diminishes	quality of life
+SIADH	is a paraneoplastic syndrome associated with	small cell lung cancer
+hyponatremia	accompanies	SIADH
+cachexia	is a comorbidity of	lung cancer
+anxiety	coexists with	lung cancer
+respiratory failure	results in	mortality
+cytology	aids	diagnosis
+tumor marker	has diagnostic utility in	lung cancer
+carcinoembryonic antigen	is a tumor marker for	lung cancer
+PET-CT	improves	staging accuracy
+biomarker	predicts prognosis in	lung cancer
+MRI	is performed for	brain metastasis evaluation
+CSF analysis	detects	leptomeningeal metastasis
+leptomeningeal metastasis	is a complication of	lung cancer
+palliative radiotherapy	relieves	bone pain
+bone metastasis	causes	bone pain
+anemia	accompanies	lung cancer
+thrombocytosis	accompanies	lung cancer
+cough	is a symptom of	lung cancer
+hemoptysis	is a symptom of	lung cancer
+dyspnea	is a symptom of	lung cancer
+weight loss	is a symptom of	lung cancer
+fatigue	is a symptom of	lung cancer
+screening	reduces	mortality from	lung cancer
+early detection	improves	survival
+clinic visit	indicates	suspected lung cancer
+histology	influences	treatment choice
+treatment plan	depends on	histology
+response rate	correlates with	tumor mutation burden
+response rate	higher with	targeted therapy
+overall survival	improves with	immunotherapy
+progression-free survival	is improved by	targeted therapy
+adverse event	includes	neutropenia
+neutropenia	is an adverse event of	chemotherapy
+anemia	is an adverse event of	chemotherapy
+nausea	is an adverse event of	chemotherapy
+pneumonitis	is a potential toxicity of	immune checkpoint inhibitors
+radiation pneumonitis	is a toxicity of	radiation therapy
+brachytherapy	provides	palliation
+staging	influences	treatment plan
+multidisciplinary tumor board	coordinates	treatment plan
+surgical margins	impact	recurrence risk
+recurrence	follows	surgical resection
+adjuvant therapy	reduces	recurrence risk
+neutropenia	increases	infection risk
+radiation therapy	causes	fatigue
+transfusion	is used for	anemia
+mortality	is an endpoint in	clinical trials

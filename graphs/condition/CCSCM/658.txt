@@ -1,104 +1,100 @@
-personality disorders	is a	psychiatric condition
-borderline personality disorder	is a	personality disorder
-antisocial personality disorder	is a	personality disorder
-histrionic personality disorder	is a	personality disorder
-narcissistic personality disorder	is a	personality disorder
-avoidant personality disorder	is a	personality disorder
-obsessive-compulsive personality disorder	is a	personality disorder
-dependent personality disorder	is a	personality disorder
-paranoid personality disorder	is a	personality disorder
-schizoid personality disorder	is a	personality disorder
-schizotypal personality disorder	is a	personality disorder
-borderline personality disorder	presents with	emotional instability
-borderline personality disorder	presents with	impulsivity
-borderline personality disorder	presents with	unstable relationships
-borderline personality disorder	associated with	depression
-borderline personality disorder	associated with	anxiety disorder
-borderline personality disorder	associated with	substance use disorder
-borderline personality disorder	co-occurs with	major depressive disorder
-borderline personality disorder	co-occurs with	post-traumatic stress disorder
-borderline personality disorder	increases risk of	self-harm
-borderline personality disorder	increases risk of	suicide attempt
+personality disorders	is a	psychiatric disorder
+borderline personality disorder	is a	subtype of personality disorders
+antisocial personality disorder	is a	subtype of personality disorders
+narcissistic personality disorder	is a	subtype of personality disorders
+avoidant personality disorder	is a	subtype of personality disorders
+histrionic personality disorder	is a	subtype of personality disorders
+dependent personality disorder	is a	subtype of personality disorders
+obsessive-compulsive personality disorder	is a	subtype of personality disorders
+paranoid personality disorder	is a	subtype of personality disorders
+schizoid personality disorder	is a	subtype of personality disorders
+schizotypal personality disorder	is a	subtype of personality disorders
+borderline personality disorder	associated with	self-harm risk
+borderline personality disorder	associated with	suicide risk
+borderline personality disorder	associated with	impulsivity
 borderline personality disorder	treated with	dialectical behavior therapy
 borderline personality disorder	treated with	psychotherapy
-borderline personality disorder	treated with	antidepressants
-borderline personality disorder	responds to	cognitive-behavioral therapy
-borderline personality disorder	influenced by	genetic factors
-borderline personality disorder	linked to	childhood adversity
+borderline personality disorder	more common in	females
+borderline personality disorder	onset in	adolescence
+borderline personality disorder	comorbid with	substance use disorder
+borderline personality disorder	comorbid with	mood disorder
+borderline personality disorder	comorbid with	anxiety disorder
 borderline personality disorder	associated with	sleep disturbance
-borderline personality disorder	associated with	functional impairment
-borderline personality disorder	co-occurs with	impulse-control disorder
-borderline personality disorder	associated with	attachment insecurity
-borderline personality disorder	increases risk of	social impairment
-borderline personality disorder	co-occurs with	mood disorder
-borderline personality disorder	co-occurs with	anxiety disorder
-narcissistic personality disorder	is a	personality disorder
-narcissistic personality disorder	characterized by	grandiosity
-narcissistic personality disorder	co-occurs with	mood disorder
-narcissistic personality disorder	co-occurs with	substance use disorder
-narcissistic personality disorder	associated with	entitlement
+borderline personality disorder	associated with	eating disorder
+borderline personality disorder	associated with	PTSD
+narcissistic personality disorder	associated with	grandiosity
+narcissistic personality disorder	comorbid with	mood disorder
 narcissistic personality disorder	treated with	psychotherapy
-narcissistic personality disorder	responds to	cognitive-behavioral therapy
-narcissistic personality disorder	more common in	males
-narcissistic personality disorder	linked to	insecure attachment
-narcissistic personality disorder	related to	childhood adversity
-avoidant personality disorder	is a	personality disorder
-avoidant personality disorder	associated with	social anxiety
-avoidant personality disorder	co-occurs with	social phobia
-avoidant personality disorder	leads to	social isolation
-avoidant personality disorder	treated with	cognitive-behavioral therapy
-avoidant personality disorder	improves with	exposure therapy
-avoidant personality disorder	treated with	SSRIs
-avoidant personality disorder	associated with	low self-esteem
-avoidant personality disorder	related to	attachment insecurity
-avoidant personality disorder	more common in	females
-obsessive-compulsive personality disorder	is a	personality disorder
-obsessive-compulsive personality disorder	characterized by	perfectionism
-obsessive-compulsive personality disorder	co-occurs with	anxiety disorder
+antisocial personality disorder	associated with	aggression
+antisocial personality disorder	comorbid with	substance use disorder
+antisocial personality disorder	linked to	legal problems
+antisocial personality disorder	increases risk of	incarceration
+avoidant personality disorder	associated with	social withdrawal
+avoidant personality disorder	associated with	social isolation
+avoidant personality disorder	treated with	cognitive behavioral therapy
+obsessive-compulsive personality disorder	associated with	perfectionism
+obsessive-compulsive personality disorder	comorbid with	anxiety disorder
 obsessive-compulsive personality disorder	treated with	psychotherapy
-obsessive-compulsive personality disorder	associated with	rigidity
-obsessive-compulsive personality disorder	linked to	occupational impairment
-obsessive-compulsive personality disorder	responds to	cognitive-behavioral therapy
-obsessive-compulsive personality disorder	more common in	males
-obsessive-compulsive personality disorder	increases risk of	conflict in relationships
-obsessive-compulsive personality disorder	treated with	SSRIs
-dependent personality disorder	is a	personality disorder
-dependent personality disorder	characterized by	submissiveness
-dependent personality disorder	co-occurs with	anxiety disorder
-dependent personality disorder	associated with	attachment insecurity
-dependent personality disorder	treated with	psychotherapy
-dependent personality disorder	responds to	family therapy
-dependent personality disorder	increases risk of	caregiver burden
-dependent personality disorder	linked to	dependent temperament
-dependent personality disorder	co-occurs with	depressive disorder
-dependent personality disorder	managed with	supportive therapy
-paranoid personality disorder	is a	personality disorder
-paranoid personality disorder	characterized by	distrust
-paranoid personality disorder	co-occurs with	substance use disorder
-paranoid personality disorder	associated with	persecutory delusions
-paranoid personality disorder	treated with	psychotherapy
-paranoid personality disorder	managed with	antipsychotics
-paranoid personality disorder	higher risk in	schizophrenia spectrum
-paranoid personality disorder	linked to	early trauma
-paranoid personality disorder	prevalence in	population
-paranoid personality disorder	responds to	cognitive-behavioral therapy
-schizoid personality disorder	is a	personality disorder
-schizoid personality disorder	characterized by	social detachment
-schizoid personality disorder	co-occurs with	depression
-schizoid personality disorder	treated with	psychotherapy
-schizoid personality disorder	managed with	social skills training
-schizoid personality disorder	associated with	blunted affect
-schizoid personality disorder	linked to	reduced social networks
-schizoid personality disorder	responds to	group therapy
-schizoid personality disorder	prevalence in	general population
-schizoid personality disorder	risk factor for	isolation
-schizotypal personality disorder	is a	personality disorder
+paranoid personality disorder	associated with	distrust
+paranoid personality disorder	comorbid with	delusional disorder
+paranoid personality disorder	treated with	psychodynamic therapy
+schizoid personality disorder	associated with	social withdrawal
+schizoid personality disorder	treated with	social skills training
 schizotypal personality disorder	associated with	magical thinking
-schizotypal personality disorder	co-occurs with	anxiety disorder
-schizotypal personality disorder	treated with	low-dose antipsychotics
-schizotypal personality disorder	responds to	psychotherapy
-schizotypal personality disorder	linked to	social dysfunction
-schizotypal personality disorder	increased risk of	psychosis
-schizotypal personality disorder	familial association with	schizophrenia
-schizotypal personality disorder	prevalence in	population
-schizotypal personality disorder	treated with	cognitive therapy
+schizotypal personality disorder	comorbid with	mood disorder
+schizotypal personality disorder	treated with	psychotherapy
+personality disorders	co-occur with	mood disorders
+personality disorders	co-occur with	anxiety disorders
+personality disorders	co-occur with	substance use disorders
+personality disorders	increases risk of	suicide attempts
+personality disorders	increases risk of	self-harm events
+personality disorders	linked to	unemployment
+personality disorders	linked to	disability in social function
+personality disorders	associated with	impaired quality of life
+family history	associated with	personality disorders
+genetic factors	contribute to	personality disorders
+childhood trauma	increases risk of	personality disorders
+early life stress	contributes to	personality disorders
+childhood neglect	associated with	personality disorders
+emotional abuse	associated with	personality disorders
+attachment insecurity	linked to	personality disorders
+trauma history	associated with	personality disorders
+personality disorders	associated with	metabolic abnormalities
+personality disorders	increases risk of	emergency department visits
+personality disorders	increases risk of	hospitalization
+personality disorders	increases healthcare costs
+DSM-5 criteria	used to diagnose	personality disorders
+clinical interview	used to diagnose	personality disorders
+risk assessment tools	used to predict	suicide attempts
+self-report scales	used to measure	personality disorder traits
+neuroimaging	has limited utility for	personality disorders
+family therapy	improves	social functioning in personality disorders
+cognitive behavioral therapy	improves	coping in personality disorders
+dialectical behavior therapy	reduces	self-harm in borderline personality disorder
+schema therapy	improves	clinical symptoms in personality disorders
+mentalization-based therapy	reduces	affective instability
+transference-focused psychotherapy	used for	borderline personality disorder
+pharmacotherapy	used for	personality disorders
+antidepressants	used for	personality disorders
+antipsychotics	used for	personality disorders
+mood stabilizers	used for	personality disorders
+anti-anxiety medications	used for	personality disorders
+psychotherapy	reduces	relapse in personality disorders
+group therapy	improves	social skills in personality disorders
+family-based therapy	reduces	caregiver burden in personality disorders
+habit reversal training	used for	tic-like symptoms in personality disorders
+mindfulness-based stress reduction	used for	personality disorders
+emotional regulation therapy	used for	personality disorders
+marital therapy	used for	interpersonal problems in personality disorders
+interpersonal difficulties	associated with	personality disorders
+psychodynamic psychotherapy	used for	personality disorders
+economic burden	associated with	personality disorders
+stigma	associated with	personality disorders
+caregiver burden	increased by	personality disorders
+suicide attempts	predicted by	personality disorders
+impulsivity	associated with	borderline personality disorder
+identity disturbance	characteristic of	borderline personality disorder
+emotional instability	characteristic of	borderline personality disorder
+unstable relationships	hallmark of	borderline personality disorder
+self-harm risk	higher in	borderline personality disorder
+treatment adherence	influenced by	personality disorders

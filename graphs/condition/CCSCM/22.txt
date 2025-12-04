@@ -1,0 +1,100 @@
+melanoma of skin	is a	cancer
+melanoma of skin	arises from	melanocyte
+melanoma of skin	associated with	ultraviolet radiation
+melanoma of skin	associated with	BRAF V600E mutation
+melanoma of skin	associated with	NRAS mutation
+melanoma of skin	associated with	KIT mutation
+melanoma of skin	associated with	CDKN2A mutation
+melanoma of skin	associated with	TERT promoter mutation
+melanoma of skin	associated with	NF1 mutation
+melanoma of skin	treated with	surgical excision
+melanoma of skin	treated with	sentinel lymph node biopsy
+melanoma of skin	treated with	immunotherapy
+melanoma of skin	treated with	targeted therapy
+melanoma of skin	treated with	pembrolizumab
+melanoma of skin	treated with	nivolumab
+melanoma of skin	treated with	ipilimumab
+melanoma of skin	treated with	dabrafenib
+melanoma of skin	treated with	trametinib
+BRAF V600E mutation	predicts response to	BRAF inhibitors
+NRAS mutation	predicts resistance to	BRAF inhibitors
+melanoma of skin	metastasizes to	regional lymph nodes
+melanoma of skin	metastasizes to	liver
+melanoma of skin	metastasizes to	brain
+melanoma of skin	metastasizes to	lungs
+melanoma of skin	metastasizes to	bone
+melanoma of skin	prognosis influenced by	Breslow depth
+melanoma of skin	prognosis influenced by	ulceration
+melanoma of skin	prognosis influenced by	mitotic rate
+melanoma of skin	prognosis influenced by	nodal status
+melanoma of skin	prognosis influenced by	stage
+Breslow depth	correlates with	survival
+ulceration	correlates with	poor prognosis
+mitotic rate	correlates with	prognosis
+sentinel lymph node biopsy	provides	nodal staging
+AJCC staging system	used for	melanoma
+Clark level	used for	melanoma staging
+histopathology	confirms	melanoma of skin
+dermatopathology	assesses	melanoma of skin
+S100 protein	is marker for	melanoma
+HMB-45	is marker for	melanoma
+melanoma of skin	presents with	pigmented lesion
+melanoma of skin	presents with	ulcerated lesion
+melanoma of skin	presents with	nodular growth
+ultraviolet exposure	increases risk for	melanoma of skin
+tanning bed exposure	increases risk for	melanoma of skin
+family history	increases risk for	melanoma of skin
+fair skin	increases risk for	melanoma of skin
+age	associated with	melanoma incidence
+sun protection	reduces risk for	melanoma of skin
+sunscreen use	reduces risk for	melanoma of skin
+surgical margin	determines	local recurrence risk
+wide local excision	achieves	tumor clearance
+immunotherapy	improves survival in	advanced melanoma
+targeted therapy	improves survival in	BRAF-mutant melanoma
+BRAF inhibitors	used for	BRAF V600E mutation melanoma
+MEK inhibitors	target	MEK signaling
+trametinib	is a	MEK inhibitor
+dabrafenib	is a	BRAF inhibitor
+nivolumab	is a	monoclonal antibody
+pembrolizumab	is a	monoclonal antibody
+BRAF V600E mutation	predicts response to	vemurafenib
+NRAS mutation	predicts response to	binimetinib
+ulceration	indicates	poor prognosis
+satellite lesion	indicates	in-transit disease
+in-transit metastasis	represents	regional spread
+melanoma of skin	has subtype	acral lentiginous melanoma
+melanoma of skin	has subtype	nodular melanoma
+melanoma of skin	has subtype	lentigo maligna melanoma
+melanoma of skin	has subtype	desmoplastic melanoma
+Breslow depth	determines	staging
+dermoscopy	guides	biopsy decision
+excisional biopsy	provides	diagnostic tissue
+histology	confirms	melanoma
+imaging	evaluates	disease extent
+PET-CT	detects	metastasis
+MRI brain	detects	brain metastasis
+CT chest	detects	pulmonary metastasis
+LDH	associated with	prognosis
+S100 protein	marker for	melanoma
+Melan-A	marker for	melanoma
+MART-1	marker for	melanoma
+PD-L1 expression	associated with	PD-1 inhibitor response
+neural invasion	indicates	poor prognosis
+desmoplasia	associated with	melanoma subtype
+neoadjuvant therapy	used for	melanoma
+adjuvant therapy	used for	high-risk melanoma
+clinical trial	offers	novel therapies
+neurotrophic factors	influence	melanoma progression
+complete response	achieved with	immunotherapy
+partial response	achieved with	targeted therapy
+stable disease	observed with	MEK inhibitors
+progression-free survival	improved by	immunotherapy
+overall survival	improved by	targeted therapy
+surveillance imaging	monitors	disease progression
+subtype melanoma	influences	management strategy
+wide local excision	requires	clear margins
+adjuvant therapy	reduces recurrence risk
+screening programs	improve	early detection
+metastatic melanoma	treated with	systemic therapy
+multidisciplinary team	manages	melanoma

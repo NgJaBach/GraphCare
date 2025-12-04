@@ -1,0 +1,100 @@
+radiation therapy	is a	medical procedure
+radiation therapy	is a	cancer treatment
+radiation therapy	used for	cancer
+radiation therapy	treatment for	cancer
+radiation therapy	delivered by	linear accelerator
+radiation therapy	delivered by	external beam radiotherapy
+radiation therapy	delivered as	brachytherapy
+radiation therapy	part of	multimodal therapy
+radiation therapy	used with	chemotherapy
+radiation therapy	used with	immunotherapy
+radiation therapy	combined with	surgery
+radiation therapy	planned with	simulation
+radiation therapy	planned with	imaging
+radiation therapy	planned using	CT simulation
+radiation therapy	requires	immobilization
+radiation therapy	requires	dose planning
+radiation therapy	guided by	imaging
+radiation therapy	aims for	local control
+radiation therapy	improves	local control
+radiation therapy	improves	progression-free survival
+radiation therapy	improves	overall survival
+radiation therapy	reduces	tumor size
+radiation therapy	reduces	pain
+radiation therapy	causes	fatigue
+radiation therapy	causes	skin dermatitis
+radiation therapy	causes	mucositis
+radiation therapy	causes	xerostomia
+radiation therapy	causes	alopecia
+radiation therapy	causes	nausea
+radiation therapy	causes	vomiting
+radiation therapy	causes	diarrhea
+radiation therapy	increases risk of	secondary cancer
+radiation therapy	increases risk of	cardiovascular disease
+radiation therapy	increases risk of	infertility
+radiation therapy	contraindicated with	pregnancy
+radiation therapy	contraindicated in	pregnancy
+radiation therapy	contraindicated with	pacemaker
+radiation therapy	contraindicated with	cochlear implant
+radiation therapy	requires	anesthesia
+external beam radiotherapy	is a	modality
+brachytherapy	is a form of	radiation therapy
+linear accelerator	used for	radiation therapy
+CT simulation	used for	radiation therapy
+imaging	guides	radiation therapy
+tumor	treated by	radiation therapy
+breast cancer	treated with	radiation therapy
+prostate cancer	treated with	radiation therapy
+lung cancer	treated with	radiation therapy
+head and neck cancer	treated with	radiation therapy
+cervical cancer	treated with	radiation therapy
+rectal cancer	treated with	radiation therapy
+skin cancer	treated with	radiation therapy
+glioblastoma	treated with	radiation therapy
+sarcoma	treated with	radiation therapy
+pediatric cancer	treated with	radiation therapy
+elderly patient	receives	radiation therapy
+palliative care	uses	radiation therapy
+neoadjuvant therapy	includes	radiation therapy
+adjuvant therapy	includes	radiation therapy
+treatment plan	includes	radiation therapy
+clinical trial	assesses	radiation therapy
+dosimetry	informs	dose planning
+dosimetry	guides	radiation therapy
+fractionation	used for	radiation therapy
+hypofractionation	used for	radiation therapy
+accelerated fractionation	used for	radiation therapy
+image-guided radiation therapy	is a	technique
+image-guided radiation therapy	uses	imaging
+stereotactic radiosurgery	is a form of	radiation therapy
+stereotactic body radiotherapy	is a form of	radiation therapy
+external beam radiotherapy	is indicated for	cancer
+radiation therapy	indicated for	palliative care
+radiation therapy	indicated for	adjuvant setting
+radiation therapy	indicated for	neoadjuvant setting
+radiation therapy	contraindicated with	implanted device
+radiation therapy	interacts with	immune system
+radiation therapy	modulates	immune response
+radiation therapy	influences	wound healing
+radiation therapy	affects	thyroid function
+radiation therapy	can cause	thyroid dysfunction
+radiation therapy	can cause	cognitive impairment
+brain tumor	treated by	radiation therapy
+contrast agent	used with	imaging for radiation therapy
+treatment planning	uses	dosimetry
+dosimetry	ensures	dose accuracy
+dose planning	ensures	tumor coverage
+radiation dose	correlates with	tumor response
+tumor control	depends on	radiation dose
+long-term toxicity	related to	radiation therapy
+elderly patient	tolerates	radiation therapy
+adult patient	tolerates	radiation therapy
+clinical guideline	recommends	radiation therapy
+outcome	improved by	radiation therapy
+tumor response	correlates with	radiation dose
+respiratory toxicity	associated with	thoracic radiation therapy
+cardiac toxicity	associated with	chest radiation therapy
+immune suppression	associated with	high-dose radiation therapy
+fertility	affected by	pelvic radiation therapy
+thyroid gland	affected by	neck radiation therapy
+second cancer risk	associated with	radiation therapy

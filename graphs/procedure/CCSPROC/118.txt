@@ -1,0 +1,102 @@
+circumcision	is a	medical procedure
+circumcision	performed for	phimosis
+circumcision	reduces risk of	penile cancer
+circumcision	reduces risk of	urinary tract infection in infancy
+circumcision	indicated for	redundant foreskin
+foreskin	removed by	circumcision
+vasectomy	is a	surgical procedure
+vasectomy	performed for	contraception
+vasectomy	results in	azoospermia
+vasectomy	leads to	sterilization
+vasovasostomy	is a	surgical procedure
+vasovasostomy	performed for	fertility restoration
+vasovasostomy	results in	restored fertility
+vasovasostomy	reverses	vasectomy
+penile prosthesis	is a	medical device
+penile prosthesis implantation	is a	surgical procedure
+penile prosthesis implantation	indicated for	erectile dysfunction
+penile prosthesis implantation	provides	penile rigidity
+penile implant	used for	erectile dysfunction
+hypospadias repair	is a	surgical procedure
+hypospadias repair	indicated for	hypospadias
+urethroplasty	is a	surgical procedure
+urethroplasty	indicated for	urethral stricture
+urethral dilation	is a	procedure
+urethral dilation	used for	urethral stricture
+urethral meatotomy	is a	surgical procedure
+urethral meatotomy	indicated for	meatal stenosis
+cystoscopy	is a	diagnostic procedure
+cystoscopy	used for	evaluation of urinary tract
+penile biopsy	is a	diagnostic procedure
+penile biopsy	used for	penile lesion evaluation
+penile biopsy	can diagnose	penile cancer
+phimosis	is a	condition
+paraphimosis	is a	condition
+Peyronie’s disease	is a	condition
+erectile dysfunction	is a	condition
+testicular cancer	is a	condition
+testicular prosthesis implantation	is a	surgical procedure
+testicular prosthesis	is a	medical device
+orchiectomy	is a	surgical procedure
+orchiectomy	performed for	testicular cancer
+orchiectomy	results in	reduced testosterone
+testicular prosthesis implantation	provides	testicular replacement
+micro-TESE	is a	surgical procedure
+micro-TESE	used for	nonobstructive azoospermia
+TESE	is a	surgical procedure
+TESE	used for	male infertility
+penile reconstruction	is a	surgical procedure
+penile straightening	is a	surgical procedure
+penile straightening	corrects	curvature
+tunica albuginea plication	is a	surgical procedure
+tunica albuginea plication	used for	penile curvature
+penile curvature correction	is a	surgical procedure
+penile curvature correction	aims at	straightening penis
+penile implant revision	is a	surgical procedure
+penile implant revision	performed for	device malfunction
+penile implant revision	results in	corrected function
+penile prosthesis infection	is a	complication
+penile prosthesis	has complication	infection
+penile prosthesis	has complication	mechanical failure
+circumcision	reduces risk	penile cancer
+circumcision	reduces risk	urinary tract infection in infancy
+foreskin	removed by	circumcision
+meatal stenosis	is a	condition
+urethral meatotomy	treats	meatal stenosis
+hypospadias repair	improves	urinary stream
+Peyronie’s plaque surgery	is a	surgical procedure
+Peyronie’s plaque surgery	treats	penile curvature
+penile curvature correction	is a	surgical procedure
+penile curvature correction	corrects	curvature
+tunica albuginea plication	is a	surgical procedure
+tunica albuginea plication	treats	penile curvature
+penile implant	is a	device
+penile implant	remains in	corpora cavernosa
+corpora cavernosa	contains	penile implant
+erectile dysfunction	managed by	penile prosthesis
+infertility	associated with	azoospermia
+azoospermia	can occur with	obstructive causes
+azoospermia	managed by	TESE
+nonobstructive azoospermia	managed by	micro-TESE
+micro-TESE	is a	surgical procedure
+micro-TESE	used for	nonobstructive azoospermia
+TESE	is a	surgical procedure
+TESE	used for	male infertility
+TESE	retrieves	sperm
+testicular cancer	treated with	orchiectomy
+testicular cancer	treated with	chemotherapy
+orchiectomy	results in	loss of fertility
+testicular prosthesis	provides	cosmetic replacement
+testicular prosthesis implantation	allows	prosthesis placement
+scrotal surgery	is a	surgical procedure
+epididymal surgery	is a	surgical procedure
+testicular torsion	is an	emergency condition
+testicular torsion	requires	emergency surgery
+epididymis	involved in	sperm transport
+sperm retrieval	is a	procedure
+sperm retrieval	used for	infertility
+vas deferens	connects	testis
+penile prosthesis infection	can cause	device failure
+penile prosthesis removal	is a	surgical procedure
+penile prosthesis removal	performed for	infection
+penile prosthesis removal	results in	absence of device

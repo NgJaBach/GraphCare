@@ -1,100 +1,100 @@
-other liver diseases	is a	liver disease
-other liver diseases	includes	nonalcoholic fatty liver disease
-other liver diseases	includes	autoimmune hepatitis
-other liver diseases	includes	alcoholic liver disease
-other liver diseases	includes	cirrhosis
-other liver diseases	includes	hepatitis B
-other liver diseases	includes	hepatitis C
-other liver diseases	includes	primary biliary cholangitis
-other liver diseases	includes	primary sclerosing cholangitis
-other liver diseases	includes	hemochromatosis
-other liver diseases	includes	Wilson disease
-other liver diseases	includes	cholestasis
-other liver diseases	progresses to	cirrhosis
-other liver diseases	progresses to	liver failure
-other liver diseases	predispose to	portal hypertension
-other liver diseases	predispose to	ascites
-other liver diseases	predispose to	hepatic encephalopathy
-other liver diseases	predispose to	variceal bleeding
-other liver diseases	predispose to	spontaneous bacterial peritonitis
-other liver diseases	predispose to	hepatorenal syndrome
-other liver diseases	predispose to	hepatocellular carcinoma
-other liver diseases	associated with	obesity
-other liver diseases	associated with	diabetes mellitus
-other liver diseases	associated with	metabolic syndrome
-other liver diseases	associated with	alcohol use
-other liver diseases	associated with	smoking
-other liver diseases	diagnosed by	liver biopsy
-other liver diseases	diagnosed by	imaging
-other liver diseases	diagnosed by	serology
-other liver diseases	diagnosed by	elastography
-other liver diseases	diagnosed by	ultrasound
-other liver diseases	diagnosed by	CT scan
-other liver diseases	diagnosed by	MRI
-other liver diseases	treated with	ursodeoxycholic acid
-other liver diseases	treated with	corticosteroids
-other liver diseases	treated with	antivirals
-other liver diseases	treated with	diuretics
-other liver diseases	treated with	lactulose
-other liver diseases	treated with	rifaximin
-other liver diseases	treated with	albumin
-other liver diseases	treated with	nutritional support
-other liver diseases	treated with	liver transplant
-other liver diseases	managed with	abstinence
-other liver diseases	prevented by	vaccination
-other liver diseases	prevented by	lifestyle modification
-other liver diseases	monitored with	bilirubin
-other liver diseases	monitored with	albumin
-other liver diseases	monitored with	INR
-other liver diseases	monitored with	MELD score
-other liver diseases	monitored with	Child-Pugh score
-other liver diseases	monitored with	ammonia levels
-other liver diseases	monitored with	liver function tests
-other liver diseases	monitored with	imaging studies
-other liver diseases	risk factor for	hepatocellular carcinoma
-other liver diseases	commonly observed with	portal hypertension
-other liver diseases	cause	inflammation
-other liver diseases	associated with	autoimmune markers
-other liver diseases	associated with	ferritin levels
-other liver diseases	associated with	aminotransferases
-other liver diseases	results in	coagulopathy
-other liver diseases	results in	malnutrition
-other liver diseases	results in	electrolyte imbalance
-other liver diseases	causes	fatigue
-other liver diseases	causes	abdominal pain
-other liver diseases	causes	anorexia
-other liver diseases	predispose to	metabolic derangements
-other liver diseases	associated with	cholangiocarcinoma
-other liver diseases	diagnostic criterion	bilirubin elevation
-other liver diseases	is influenced by	age
-other liver diseases	is influenced by	sex
-other liver diseases	is influenced by	ethnicity
-other liver diseases	present as	fatigue
-other liver diseases	present as	jaundice
-other liver diseases	present as	abdominal distension
-other liver diseases	presents with	pruritus
-other liver diseases	present with	edema
-other liver diseases	associated with	portal vein thrombosis
-other liver diseases	associated with	splenomegaly
-other liver diseases	associated with	hepatic steatosis
-other liver diseases	occurs in	adults
-other liver diseases	observed in	older adults
-other liver diseases	recommended surveillance for	hepatocellular carcinoma
-other liver diseases	influenced by	genetics
-other liver diseases	influenced by	environment
-other liver diseases	tracked by	clinical registry
-other liver diseases	recorded in	hospital data
-other liver diseases	risk of	kidney injury
-other liver diseases	risk of	electrolyte disturbance
-other liver diseases	survival after	transplantation
-other liver diseases	prognosis influenced by	MELD score
-other liver diseases	prognosis influenced by	Child-Pugh score
-other liver diseases	require	vaccination
-other liver diseases	linked to	autoimmune disease
-other liver diseases	present alongside	pancreatitis
-other liver diseases	associated with	gallbladder disease
-other liver diseases	requires	nutrition therapy
-other liver diseases	benefits from	abstinence
-other liver diseases	associated with	kidney disease
-other liver diseases	linked to	obesity-related hepatitis
-other liver diseases	ongoing management includes	lifestyle modification
+nonalcoholic fatty liver disease	is a	liver disease
+obesity	is a risk factor for	nonalcoholic fatty liver disease
+insulin resistance	is a risk factor for	nonalcoholic fatty liver disease
+nonalcoholic fatty liver disease	may progress to	nonalcoholic steatohepatitis
+nonalcoholic steatohepatitis	is a	inflammatory liver disease
+nonalcoholic steatohepatitis	can progress to	cirrhosis
+alcoholic liver disease	is a	liver disease
+alcohol use	is a risk factor for	alcoholic liver disease
+alcoholic liver disease	may progress to	cirrhosis
+cirrhosis	causes	portal hypertension
+cirrhosis	increases risk of	esophageal varices
+cirrhosis	increases risk of	hepatocellular carcinoma
+cirrhosis	leads to	ascites
+ascites	requires	diuretics
+ascites	predisposes to	spontaneous bacterial peritonitis
+hepatic encephalopathy	occurs in	cirrhosis
+hepatic encephalopathy	treated with	lactulose
+portal hypertension	causes	splenomegaly
+portal hypertension	leads to	variceal formation
+hepatitis B infection	is caused by	hepatitis B virus
+hepatitis B infection	can be prevented by	vaccination
+hepatitis B infection	treated with	antiviral therapy
+hepatitis C infection	can be treated with	direct-acting antivirals
+hepatitis C infection	can progress to	cirrhosis
+chronic hepatitis	is associated with	liver fibrosis
+autoimmune hepatitis	is a	autoimmune liver disease
+autoimmune hepatitis	treated with	corticosteroids
+primary biliary cholangitis	is a	autoimmune liver disease
+primary biliary cholangitis	treated with	ursodeoxycholic acid
+primary sclerosing cholangitis	is a	cholangiopathy
+primary sclerosing cholangitis	associated with	inflammatory bowel disease
+hemochromatosis	causes	liver damage
+Wilson disease	causes	copper accumulation
+drug-induced liver injury	is a	cause of liver dysfunction
+drug-induced liver injury	caused by	acetaminophen
+acetaminophen	overdose	acute liver failure
+acute liver failure	is a	medical emergency
+liver transplantation	is a	curative treatment for end-stage liver disease
+liver biopsy	is a	diagnostic procedure
+elastography	assesses	liver fibrosis
+liver stiffness	correlates with	fibrosis stage
+bilirubin	is elevated in	cholestasis
+alkaline phosphatase	is elevated in	cholestasis
+albumin	decreases in	cirrhosis
+INR	increases in	cirrhosis
+platelets	decrease in	portal hypertension
+lipids	are altered in	fatty liver disease
+diabetes mellitus	is a risk factor for	nonalcoholic fatty liver disease
+metabolic syndrome	is associated with	nonalcoholic fatty liver disease
+vaccination	prevents	hepatitis B infection
+antiviral therapy	treats	hepatitis B infection
+direct-acting antivirals	treat	hepatitis C infection
+steroids	treat	autoimmune hepatitis
+ursodeoxycholic acid	treats	primary biliary cholangitis
+ursodeoxycholic acid	treats	primary sclerosing cholangitis
+phlebotomy	treats	hemochromatosis
+copper chelation therapy	treats	Wilson disease
+withdrawal of offending agent	manages	drug-induced liver injury
+lactulose	treats	hepatic encephalopathy
+rifaximin	used for	hepatic encephalopathy
+hepatitis B vaccine	prevents	hepatitis B infection
+HBV DNA levels	monitor	hepatitis B activity
+HCV RNA levels	monitor	hepatitis C activity
+liver function tests	monitor	liver disease
+alpha-fetoprotein	rises in	hepatocellular carcinoma
+hepatocellular carcinoma	arises from	cirrhosis
+cholangiocarcinoma	arises from	bile ducts
+bile duct obstruction	causes	cholestasis
+bile acids	accumulate in	cholestasis
+spontaneous bacterial peritonitis	occurs in	ascites
+hepatorenal syndrome	occurs in	decompensated cirrhosis
+end-stage liver disease	requires	liver transplantation
+hepatic adenoma	is a	benign liver tumor
+hemangioma	is a	benign liver tumor
+hepatic cyst	is a	benign liver lesion
+portal vein thrombosis	occurs in	cirrhosis
+Budd-Chiari syndrome	is a	hepatic vascular disorder
+TIPS	reduces	portal hypertension
+hepatic venous pressure gradient	estimates	portal hypertension
+sarcopenia	is associated with	cirrhosis
+infection	risk increases in	cirrhosis
+neutrophil dysfunction	occurs in	cirrhosis
+dietary modification	used for	NAFLD management
+weight loss	improves	NAFLD
+exercise	improves	metabolic syndrome
+steatosis	is found in	fatty liver
+NAFLD	defined by	fat accumulation in liver
+cirrhosis	defines	end-stage liver disease
+ammonia	contributes to	hepatic encephalopathy
+systemic inflammation	aggravates	cirrhosis
+renal failure	occurs with	hepatorenal syndrome
+autoimmune hepatitis	associated with	other autoimmune diseases
+primary biliary cholangitis	progression associated with	cirrhosis
+primary sclerosing cholangitis	progression associated with	cholestasis
+bile duct cancer	is a	malignant tumor
+cholestasis	causes	pruritus
+portal hypertension	predisposes to	variceal bleeding
+liver transplantation waitlist status	affects	mortality
+donor availability	affects	liver transplantation feasibility
+post-transplant immunosuppression	modulates	infection risk

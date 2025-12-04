@@ -1,100 +1,100 @@
-bacterial vaginosis	is a	vaginal infection
-bacterial vaginosis	may cause	foul discharge
-bacterial vaginosis	diagnosed by	wet mount
-bacterial vaginosis	treated with	metronidazole
-bacterial vaginosis	associated with	other infections
-candidiasis	is a	fungal infection
-candidiasis	may cause	pruritus
-candidiasis	diagnosed by	microscopy
-candidiasis	treated with	fluconazole
-candidiasis	associated with	diabetes
-trichomoniasis	is a	protozoal infection
-trichomoniasis	may cause	malodorous discharge
-trichomoniasis	diagnosed by	NAAT
-trichomoniasis	treated with	metronidazole
-trichomoniasis	associated with	sexual activity
-vulvovaginal atrophy	is a	gynecologic condition
-vulvovaginal atrophy	occurs with	menopause
-vulvovaginal atrophy	treated with	vaginal estrogen
-pelvic inflammatory disease	is a	pelvic infection
-pelvic inflammatory disease	may cause	infertility
-pelvic inflammatory disease	treated with	antibiotics
-cervicitis	is a	cervical infection
-cervicitis	associated with	Chlamydia infection
-cervicitis	diagnosed by	cervical swab
-cervicitis	treated with	antibiotics
-cervical dysplasia	is a	pre-malignant condition
-cervical dysplasia	may progress to	cervical cancer
-cervical dysplasia	diagnosed by	Pap smear
-cervical dysplasia	treated with	cone biopsy
-cervical cancer	is a	gynecologic cancer
-cervical cancer	diagnosed by	Pap smear
-cervical cancer	treated with	radiotherapy
-cervical cancer	may cause	vaginal bleeding
-hpv infection	increases risk for	cervical cancer
-hpv vaccination	reduces risk for	cervical cancer
-age	is a	risk factor for	cervical cancer
-endometriosis	is a	gynecologic condition
-endometriosis	may cause	pelvic pain
-endometriosis	treated with	GnRH agonists
-endometriosis	associated with	infertility
-endometriosis	may cause	dysmenorrhea
-endometriosis	diagnosed by	laparoscopy
-leiomyoma	is a	benign uterine tumor
-uterine fibroids	is a	benign uterine tumor
-uterine fibroids	may cause	heavy menstrual bleeding
-uterine fibroids	treated with	myomectomy
-uterine fibroids	diagnosed by	ultrasound
-adenomyosis	is a	gynecologic condition
-adenomyosis	may cause	dysmenorrhea
-adenomyosis	treated with	hysterectomy
-endometrial cancer	is a	gynecologic cancer
-endometrial cancer	diagnosed by	endometrial biopsy
-endometrial cancer	treated with	hysterectomy
-endometrial cancer	associated with	postmenopausal bleeding
-ovarian cyst	is a	ovarian mass
-ovarian cyst	may cause	abdominal pain
-ovarian cyst	diagnosed by	ultrasound
-ovarian cyst	treated with	cystectomy
-polycystic ovary syndrome	is a	endocrine disorder
-polycystic ovary syndrome	associated with	insulin resistance
+vaginitis	is caused by	candida albicans
+vaginitis	is caused by	bacterial vaginosis
+vaginitis	presents with	discharge
+vulvodynia	presents with	burning pain
+vaginismus	presents with	pelvic floor spasm
+cervicitis	is associated with	chlamydia infection
+cervicitis	is associated with	gonorrhea infection
+pelvic inflammatory disease	causes	infertility
+pelvic inflammatory disease	increases risk for	ectopic pregnancy
+endometriosis	causes	infertility
+endometriosis	presents with	pelvic pain
+adenomyosis	presents with	heavy menstrual bleeding
+uterine fibroids	cause	heavy menstrual bleeding
+uterine fibroids	cause	pelvic mass
+polycystic ovary syndrome	is associated with	irregular menses
 polycystic ovary syndrome	increases risk for	infertility
-polycystic ovary syndrome	may cause	anovulation
-polycystic ovary syndrome	treated with	metformin
-polycystic ovary syndrome	treated with	hormonal contraception
-ovarian cancer	is a	gynecologic cancer
-ovarian cancer	diagnosed by	ca-125 test
-ovarian cancer	treated with	surgery
-ovarian cancer	may cause	abdominal distension
-ovarian cancer	associated with	family history
-bartholin cyst	is a	vulvar cyst
-bartholin cyst	may cause	swelling
-bartholin gland abscess	is a	vulvar infection
-bartholin gland abscess	treated with	drainage
-vulvar cancer	is a	gynecologic cancer
-vulvar cancer	diagnosed by	biopsy
+ovarian cyst	causes	abdominal pain
+ovarian cyst	may regress with	menopause
+ovarian torsion	presents with	acute abdominal pain
+ovarian cancer	presents with	pelvic mass
+cervical cancer	is associated with	HPV infection
+cervical dysplasia	is associated with	HPV infection
+bartholin gland cyst	causes	vaginal swelling
+bartholin gland abscess	presents with	perineal pain
+vulvar cancer	is associated with	HPV infection
+lichen sclerosus	causes	pruritus
+lichen sclerosus	increases risk for	vulvar cancer
+lichen planus	affects	vulvar mucosa
+genital herpes	presents with	genital ulcers
+herpes simplex virus infection	causes	genital ulcers
+HPV infection	is associated with	cervical cancer
+HPV infection	is transmitted by	sexual contact
+chlamydia infection	causes	cervicitis
+gonorrhea infection	causes	cervicitis
+trichomonas infection	causes	cervicitis
+bacterial vaginosis	causes	discharge
+bacterial vaginosis	increases risk for	preterm birth
+candida vaginitis	presents with	pruritus
+vaginal atrophy	occurs with	menopause
+genitourinary syndrome of menopause	presents with	vaginal dryness
+vaginal dryness	causes	dyspareunia
+dyspareunia	associated with	endometriosis
+dyspareunia	associated with	vulvodynia
+amenorrhea	is associated with	pregnancy loss
+menorrhagia	is associated with	uterine fibroids
+dysmenorrhea	is associated with	endometriosis
+abnormal uterine bleeding	presents with	vaginal bleeding
+cervical ectropion	causes	vaginal discharge
+cervical polyps	cause	vaginal bleeding
+uterine prolapse	causes	urinary incontinence
+pelvic floor dysfunction	is associated with	dyspareunia
+bartholin gland abscess	presents with	vaginal swelling
+vulvar pruritus	associated with	dermatitis
+genital warts	is caused by	HPV
+genital warts	presents with	papules
+vulvar dystrophy	presents with	pruritus
+cervical cancer	presents with	postcoital bleeding
+pap smear	is used for	cervical cancer screening
+endometrial cancer	presents with	vaginal bleeding
+endometrial hyperplasia	increases risk for	endometrial cancer
+endometrial polyps	cause	abnormal uterine bleeding
+ovarian cancer	presents with	ascites
+ovarian cancer	associated with	BRCA mutation
+ovarian cyst	can cause	torsion
+smoking	is a risk factor for	cervical cancer
+vaginal cancer	presents with	vaginal bleeding
+vaginal cancer	associated with	HPV infection
+vaginal discharge	is a symptom of	vaginitis
+cervical cancer	is diagnosed by	Pap smear
+endometriosis	is associated with	infertility
+ovarian cancer	metastasizes to	peritoneum
+peritoneum	is a site for	ovarian cancer metastasis
+vulvar cancer	presents with	pruritus
+bartholin gland cyst	may become	abscess
+vulvar cancer	risk factors include	smoking
+vaginal cancer	prognosis with	early detection
 vulvar cancer	treated with	surgery
-vulvar cancer	associated with	hpv infection
-vulvar dermatitis	is a	dermatologic condition
-vulvar dermatitis	affects	genital skin
-lichen sclerosus	is a	dermatologic condition
-lichen sclerosus	affects	genital skin
-lichen planus	is a	dermatologic condition
-lichen planus	may affect	genital mucosa
-vaginismus	is a	sexual dysfunction
-vaginismus	may cause	dyspareunia
-dyspareunia	is a	sexual symptom
-dyspareunia	may be associated with	endometriosis
-dyspareunia	treated with	physical therapy
-vaginal discharge	is a	symptom
-cervical polyp	is a	gynecologic lesion
-endocervical polyp	is a	gynecologic lesion
-ovarian cystadenoma	is a	ovarian tumor
-ovarian cystadenoma	treated with	cystectomy
-ovarian cancer	treated with	chemotherapy
-ectopic pregnancy	is a	pregnancy complication
-ectopic pregnancy	diagnosed by	transvaginal ultrasound
-ectopic pregnancy	treated with	methotrexate
-ectopic pregnancy	associated with	tubal pregnancy
-urethral diverticulum	is a	gynecologic condition
-urethral diverticulum	may cause	recurrent urinary tract infection
+cervical cancer	treated with	radiotherapy
+uterine fibroids	managed with	myomectomy
+endometriosis	managed with	GnRH agonists
+ovarian cyst	managed with	observation
+dysmenorrhea	managed with	NSAIDs
+dyspareunia	managed with	pelvic floor therapy
+vaginal discharge	diagnosed as	vaginitis
+cervical cancer	prognosis with	early detection
+genital herpes	managed with	antiviral therapy
+HPV vaccination	reduces risk for	cervical cancer
+bacterial vaginosis	diagnosed by	wet mount
+candida infection	treated with	antifungal therapy
+bartholin gland abscess	treated with	incision and drainage
+vulvar cancer	treated with	radiotherapy
+cervical cancer	treated with	chemotherapy
+uterine fibroids	treated with	hysterectomy
+endometriosis	treated with	laparoscopy
+ovarian cyst	managed with	observation
+dysfunctional uterine bleeding	presents with	abnormal uterine bleeding
+dyspareunia	associated with	hormonal imbalance
+vaginal discharge	associated with	vaginal infection
+postmenopausal bleeding	indicates	endometrial cancer
+antibiotic therapy	treats	bacterial vaginosis

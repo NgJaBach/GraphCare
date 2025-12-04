@@ -1,0 +1,99 @@
+abortion	is a	medical procedure
+abortion	is a form of	pregnancy termination
+abortion	has type	medical abortion
+abortion	has type	surgical abortion
+medical abortion	uses	mifepristone
+medical abortion	uses	misoprostol
+surgical abortion	uses	suction curettage
+surgical abortion	uses	vacuum aspiration
+abortion	requires	consent
+abortion	requires	counseling
+abortion	requires	gestational age assessment
+abortion	requires	follow-up
+abortion	performed in	clinic
+abortion	performed in	hospital
+abortion	carries	bleeding
+abortion	carries	cramps
+abortion	carries	pain
+abortion	risk of	infection
+abortion	risk of	hemorrhage
+abortion	risk of	incomplete abortion
+abortion	risk of	retained products of conception
+abortion	risk of	uterine perforation
+abortion	risk of	cervical injury
+abortion	may require	transfusion
+anesthesia	used for	abortion
+local anesthesia	used for	abortion
+general anesthesia	used for	abortion
+analgesia	used for	abortion
+antibiotics	given after	abortion
+hCG test	performed after	abortion
+Rh immune globulin	given after	abortion
+Rh incompatibility	managed by	Rho(D) immune globulin
+postabortion contraception	is recommended	to prevent unintended pregnancy
+contraception	started after	abortion
+long-acting contraception	offered after	abortion
+intrauterine device	offered after	abortion
+oral contraceptive	started after	abortion
+condom	used after	abortion
+counseling	provided before	abortion
+counseling	provided after	abortion
+gestational age	defines	abortion eligibility
+abortion eligibility	depends on	gestational age
+postabortion care	includes	bleeding control
+postabortion care	includes	infection monitoring
+postabortion care	includes	pain management
+postabortion care	includes	counseling
+abortion	increases	healthcare utilization
+postabortion ultrasound	used for	evaluation
+postabortion ultrasound	detects	retained products of conception
+retained products of conception	treated with	dilation and curettage
+dilation and curettage	is a method of	surgical abortion
+ultrasound	used for	pregnancy termination planning
+ultrasound	used for	postabortion evaluation
+blood loss	measured during	abortion
+Fever	possible after	abortion
+infection	possible after	abortion
+postabortion hemorrhage	requires	hemodynamic monitoring
+hemorrhage	managed with	uterotonic drugs
+uterotonic drugs	used for	hemorrhage control
+suction curettage	is a method of	surgical abortion
+vacuum aspiration	is a method of	surgical abortion
+misoprostol	used for	abortion induction
+mifepristone	used for	abortion induction
+induction abortion	is a type of	medical abortion
+pregnancy termination	performed for	fetal anomaly
+fetal anomaly	detected by	ultrasound
+ultrasound	used for	pregnancy termination planning
+abortion care quality	influences	patient satisfaction
+patient satisfaction	influenced by	abortion care quality
+abortion policy	shapes	access
+insurance coverage	affects	abortion access
+privacy protections	influence	abortion care access
+stigma	impacts	patients seeking abortion
+education	improves	abortion decision making
+counseling	improves	informed consent
+informed consent	required for	abortion
+family planning	discussed during	abortion counseling
+postabortion contraception	advised after	abortion
+antibiotic prophylaxis	given during	abortion
+antibiotic prophylaxis	given for	abortion complications
+pregnancy termination	completes with	tissue expulsion
+tissue expulsion	occurs during	abortion
+tissue expulsion	can be incomplete in	abortion context
+imaging guidance	used for	uterine evacuation
+imaging guidance	used for	suction curettage
+hemodynamic monitoring	required for	abortion complications
+resuscitation	may be required for	abortion hemorrhage
+hospital admission	for	abortion complications
+emergency services	accessible for	abortion complications
+patient age	influences	abortion method choice
+adolescent pregnancy termination	allowed in	some settings
+clinical guidelines	govern	abortion practice
+safety considerations	govern	abortion practice
+ethics	influence	abortion practice
+research	informs	abortion practice
+provider training	improves	abortion outcomes
+facility accreditation	ensures	abortion quality
+performance metrics	evaluate	abortion services
+data collection	supports	abortion research

@@ -1,0 +1,86 @@
+renal ultrasound	is a	imaging modality
+urinary tract	evaluated by	renal ultrasound
+kidney	evaluated by	renal ultrasound
+bladder	evaluated by	renal ultrasound
+ureter	evaluated by	renal ultrasound
+prostate	evaluated by	transrectal ultrasound
+transrectal ultrasound	evaluates	prostate
+renal ultrasound	detects	hydronephrosis
+hydronephrosis	indicates	urinary obstruction
+ureteral dilation	seen on	renal ultrasound
+renal stone	detected by	renal ultrasound
+kidney stone	detected by	renal ultrasound
+ureteral stone	detected by	renal ultrasound
+bladder stone	detected by	renal ultrasound
+renal cyst	detected by	renal ultrasound
+renal mass	detected by	renal ultrasound
+post-void residual	measured by	ultrasound
+bladder capacity	estimated by	ultrasound
+bladder distention	seen on	ultrasound
+bladder wall thickening	detected by	ultrasound
+pelvic ultrasound	used for	bladder evaluation
+renal pelvis	dilation seen on	ultrasound
+posterior acoustic shadowing	seen with	renal calculus
+echogenic focus	seen in	kidney stone
+renal calculus	located in	kidney
+ureteral calculus	located in	ureter
+bladder calculus	located in	bladder
+hydronephrosis	caused by	obstruction
+obstruction	caused by	stone
+stone	causes	urinary obstruction
+renal stone	causes	flank pain
+stone	seen as	echogenic
+post-void residual	correlated with	bladder distention
+urethra	visualized by	ultrasound
+urinary tract	contains	kidney
+kidney	contains	renal cortex
+renal cortex	visualized by	ultrasound
+renal parenchyma	evaluated by	ultrasound
+kidney size	estimated by	ultrasound
+kidney length	measured by	ultrasound
+renal size	normal with	age
+echogenicity	assessed by	ultrasound
+renal cyst	simple	ultrasound
+renal cyst	complex	ultrasound
+polycystic kidney disease	suggested by	ultrasound
+renal mass	characterized by	ultrasound
+renal calcification	detected by	ultrasound
+posterior shadowing	associated with	calcified stone
+ureter	visualized on	ultrasound
+bladder wall	assessed for	thickening
+bladder wall thickness	measured by	ultrasound
+urine residual	measured by	bladder ultrasound
+urine volume	estimated by	ultrasound
+ureteropelvic junction	evaluated by	ultrasound
+pelvicalyceal system	visualized by	ultrasound
+renal collecting system	evaluated by	ultrasound
+renal contour	preserved on	ultrasound
+kidney	hydronephrosis	associated with
+ureter	obstruction	leads to	hydronephrosis
+bladder	evaluated for	diverticulum
+diverticulum	seen on	bladder ultrasound
+bladder diverticulum	detected by	ultrasound
+renal sinus	visible on	ultrasound
+kidney	bilirubin? not applicable
+urinary tract	abnormality on	ultrasound
+kidney	mass on	ultrasound
+bladder mass	detected by	ultrasound
+trigone	visualized by	ultrasound
+urethral dilation	seen on	ultrasound
+male patient	prostate size	assessed by	ultrasound
+female patient	uterus? not applicable
+transabdominal ultrasound	visualizes	kidneys
+transabdominal ultrasound	visualizes	bladder
+transabdominal ultrasound	visualizes	ureters
+ultrasound	used for	obstruction assessment
+ultrasound	used for	stone detection
+ultrasound	used for	cyst detection
+ultrasound	used for	mass detection
+ultrasound	used for	post-void residual assessment
+ultrasound	safe	noninvasive
+ultrasound	allows	real-time imaging
+ultrasound	enables	guiding catheter placement
+ultrasound	complements	CT urography
+ultrasound	alternative to	MRI for stones
+kidney	defect? not
+urinary tract	pathology detected by	ultrasound

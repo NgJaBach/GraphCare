@@ -1,0 +1,153 @@
+gamma probe	is a	device
+handheld gamma probe	is a	device
+handheld gamma probe	used for	radioguided surgery
+intraoperative gamma probe	used for	tumor localization
+intraoperative gamma probe	detects	gamma rays
+gamma probe	measures	radiopharmaceutical activity
+gamma probe	detects	radiotracer activity
+gamma probe	used for	sentinel node biopsy
+gamma probe	calibrated with	calibration standard
+gamma probe	requires	shielding
+shielding	provides	radiation protection
+beta probe	is a	device
+beta probe	detects	beta particles
+beta probe	used for	targeted radiotherapy assessment
+beta probe	measures	beta activity
+Geiger-Muller probe	is a	device
+Geiger-Muller probe	detects	ionizing radiation
+Geiger-Muller probe	used for	survey measurements
+scintillation probe	is a	device
+scintillation probe	detects	scintillation events
+scintillation probe	used for	radioactivity detection
+NaI(Tl) crystal	is a	scintillator
+NaI(Tl) crystal	used in	gamma detector
+detector	includes	photomultiplier tube
+photomultiplier tube	converts	light to signal
+gamma counting	is a	assay
+gamma counting	measures	sample activity
+gamma counting	used for	radiopharmaceutical quantification
+scintillation counting	is a	assay
+scintillation counting	measures	radioactivity
+radioimmunoassay	is a	in vitro assay
+radioimmunoassay	measures	antigen concentration
+radioimmunoassay	uses	radiolabeled antibodies
+radioimmunoassay	provides	quantitative result
+immunoassay	is a	assay
+immunoassay	measures	antigen level
+immunoradiometric assay	is a	assay
+immunoradiometric assay	quantifies	antigen
+radiochemical purity assay	determines	radiochemical purity
+radiochemical purity assay	checks	radiochemical contaminants
+radioactivity assay	quantifies	radiopharmaceutical activity
+activity measurement	measures	activity
+nuclear medicine laboratory	conducts	radioactivity assay
+in vitro assay	uses	radiopharmaceuticals
+serum	tested by	radioimmunoassay
+urine	tested by	radioactivity measurement
+antibody	labeled with	isotope
+antibody	targets	antigen
+antibody	used in	radioimmunoassay
+isotope	used for	radiopharmaceutical production
+technetium-99m	is a	radiotracer
+iodine-125	is a	radiotracer
+indium-111	is a	radiotracer
+thallium-201	is a	radiotracer
+lutetium-177	is a	radiotherapeutic isotope
+yttrium-90	is a	radiotherapeutic isotope
+isotope	emits	gamma radiation
+radiopharmaceutical	prepared in	radiochemistry lab
+radiopharmaceutical	administered by	injection
+radiopharmaceutical	used for	diagnosis
+radiopharmaceutical	labeled with	isotope
+sentinel lymph node	detected by	radioguided probe
+sentinel lymph node	identified by	gamma probe
+sentinel lymph node	is mapped by	radiopharmaceutical
+radioguided surgery	relies on	gamma probe
+radioguided surgery	improves	lesion localization
+radiopharmaceutical	binds to	antibody
+antibody	conjugated with	isotope
+radiopharmaceutical	decays by	beta emission
+gamma photons	emitted by	radioisotope
+gamma emission	detected by	gamma probe
+radiopharmaceutical	cleared by	kidneys
+kidneys	excrete	radiopharmaceuticals
+patient	monitored during	radioguided procedure
+clinical workflow	includes	gamma counting
+calibration standard	used for	gamma detector calibration
+quality control	ensures	instrument performance
+reference material	used for	assay calibration
+sample	collected for	gamma counting
+sample	stored in	shielded container
+shielded container	reduces	stray radiation
+calibration	improves	measurement accuracy
+nuclear medicine	uses	non-imaging probe
+non-imaging probe	is a	device category
+intraoperative gamma probe	provides	localization signal
+localization signal	guides	surgical resections
+radiopharmaceutical	labeled with	radiolabel
+radiolabel	attaches to	antibody
+antibody	used in	radioimmunoassay
+radiopharmaceutical	used in	sentinel node detection
+gamma probe	detects	gamma photons
+photons	emitted by	radioisotope
+radioisotope	forms	radiopharmaceutical
+radiopharmaceutical	distributed to	patient
+patient	receives	radiopharmaceutical
+radiopharmaceutical	excreted in	urine
+urine	analyzed by	scintillation counting
+blood sample	analyzed by	gamma counting
+gamma probe	used for	radiotracer localization
+scintillation counter	is a	measurement instrument
+measurement instrument	supports	quality control
+gamma detector	operated at	room temperature
+room temperature	affects	detector performance
+detector performance	influences	measurement accuracy
+calibration routine	accompanies	instrument setup
+radiopharmaceutical	dispensing	protocol
+gamma probe	compatible with	multiple isotopes
+isotopes	selected by	energy window compatibility
+energy window	defines	detected energy range
+detector	requires	energy calibration
+calibration procedure	standardizes	output signals
+output signal	used for	quantitative decision-making
+quantitative decision-making	informs	surgical plan
+radioactivity	concentration	is reported as	activity per unit mass
+activity per unit mass	expressed as	MBq per gram
+MBq	stands for	megabecquerel
+megabecquerel	is a unit of	radioactivity
+barcode	used for	radiopharmaceutical lot tracking
+lot tracking	ensures	chain-of-custody
+chemical purity	assessed by	radiochemical purity assay
+radiochemical purity	affects	patient dose accuracy
+dose calculation	relies on	activity measurement
+dose calculation	aims for	target radiation dose
+target radiation dose	minimizes	toxicity
+toxicity	reduces with	optimized shielding
+shielding design	considers	operator safety
+operator safety	governed by	regulatory guidelines
+regulatory guidelines	shape	clinical protocols
+clinical protocols	mandate	quality control
+quality control	requires	calibration verification
+calibration verification	confirms	detector linearity
+detector linearity	impacts	dose estimation
+dose estimation	used for	treatment planning
+treatment planning	benefits from	precise activity measurement
+precise activity measurement	improves	surgical outcomes
+surgical outcomes	depend on	accurate localization
+accurate localization	achieved by	radioguided techniques
+radioguided techniques	rely on	non-imaging probes
+non-imaging probes	complement	imaging modalities
+imaging modality	includes	scintigraphy
+scintigraphy	uses	radiopharmaceuticals
+radiopharmaceuticals	labeled with	isotopes
+isotopes	selected for	half-life suitability
+half-life	influences	imaging timing
+imaging timing	synchronized with	probe detection
+probe detection	yields	real-time data
+real-time data	supports	intraoperative decisions
+intraoperative decisions	affect	surgical margins
+surgical margins	determine	residual disease risk
+residual disease risk	informs	adjuvant therapy decisions
+adjuvant therapy decisions	rely on	accurate radiopharmaceutical data
+accurate radiopharmaceutical data	requires	proper calibration
+proper calibration	reduces	measurement bias

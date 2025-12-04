@@ -1,100 +1,100 @@
-respiratory failure	may cause	hypoxemia
-respiratory failure	may cause	hypercapnia
-respiratory failure	is associated with	acute respiratory distress syndrome
-respiratory failure	requires	mechanical ventilation
-respiratory failure	treated with	oxygen therapy
-respiratory failure	managed in	intensive care unit
+respiratory failure	is a	medical condition
+respiratory failure	characterized by	hypoxemia
+respiratory failure	characterized by	hypercapnia
+respiratory failure	caused by	hypoventilation
+respiratory failure	caused by	airway obstruction
+respiratory failure	caused by	pneumonia
+respiratory failure	caused by	sepsis
+respiratory failure	caused by	pulmonary edema
+respiratory failure	caused by	acute respiratory distress syndrome
+respiratory failure	caused by	chronic obstructive pulmonary disease
+respiratory failure	caused by	neuromuscular disease
+respiratory failure	caused by	CNS depression
+respiratory failure	associated with	shock
+respiratory failure	associated with	trauma
+respiratory failure	associated with	smoke inhalation
+respiratory failure	associated with	aspiration
+respiratory failure	requiring	mechanical ventilation
+respiratory failure	requiring	oxygen therapy
+respiratory failure	requiring	intubation
+respiratory failure	leading to	organ failure
+respiratory failure	progressing to	respiratory arrest
+respiratory failure	treated with	bronchodilators
+respiratory failure	treated with	corticosteroids
+respiratory failure	treated with	diuretics
+respiratory failure	treated with	antibiotics
+respiratory failure	associated with	acute kidney injury
+respiratory failure	associated with	delirium
+respiratory failure	associated with	acute myocardial infarction
+respiratory failure	associated with	electrolyte disturbance
+respiratory failure	associated with	dehydration
+respiratory failure	risk factor for	mortality
+respiratory failure	risk factor for	readmission
 respiratory failure	increases	mortality
 respiratory failure	increases	length of stay
-respiratory failure	predisposes to	multi-organ failure
-pneumonia	may cause	respiratory failure
-sepsis	may cause	respiratory failure
-COPD	predisposes to	respiratory failure
-ARDS	is a form of	respiratory failure
-pulmonary edema	can cause	respiratory failure
-asthma	may cause	respiratory failure
-pulmonary embolism	can cause	respiratory failure
-obesity	is a risk factor for	respiratory failure
-smoking	is a risk factor for	respiratory failure
-age	is a risk factor for	respiratory failure
-hypoxemia	is a consequence of	respiratory failure
-hypercapnia	is a consequence of	respiratory failure
-mechanical ventilation	is a treatment for	respiratory failure
-endotracheal intubation	is used for	airway management in respiratory failure
-noninvasive ventilation	reduces	intubation need
-oxygen therapy	improves	oxygenation in respiratory failure
-arterial blood gas	assesses	gas exchange status
-chest radiograph	detects	pulmonary edema
-pulmonary edema	causes	respiratory failure
-left heart failure	causes	pulmonary edema
-ARDS	is a complication of	respiratory failure
-acute respiratory distress syndrome	is a form of	respiratory failure
-bronchodilator therapy	improves	airway obstruction in respiratory failure
-invasive ventilation	is a form of	mechanical ventilation
-noninvasive ventilation	is a form of	respiratory support
-respiratory failure	increases	ICU admission
-ICU admission	increases	healthcare cost
-healthcare cost	increases	hospital expenditure
-hospital expenditure	increases	resource utilization
-CPAP	is a modality for	respiratory failure
-BiPAP	is a modality for	respiratory failure
-nasal cannula	delivers	oxygen therapy
-endotracheal tube	is used for	airway management in respiratory failure
-tracheostomy	may be required for	prolonged ventilation
-ventilator-associated pneumonia	is a complication of	mechanical ventilation
-barotrauma	can occur	during mechanical ventilation
-pneumothorax	can result from	mechanical ventilation
-arterial line	is used for	hemodynamic monitoring
-blood gas analysis	informs	ventilator settings
-venous thromboembolism	risk increases	during critical illness
-antibiotics	treat	pneumonia in respiratory failure
-diuretic therapy	treats	pulmonary edema
-vasopressor therapy	is used for	shock in respiratory failure
-renal failure	coexists with	respiratory failure
-multi-organ failure	indicates	high mortality
-renal failure	worsens	respiratory failure prognosis
-hemodynamic instability	complicates	respiratory failure management
-psychological distress	associated with	critical illness
-sedation	used for	mechanical ventilation
-analgesia	used for	mechanical ventilation
-delirium	common in	ventilated patients
-delirium	associated with	longer hospital stay
-early mobility	improves	outcomes in respiratory failure
-nutrition support	improves	recovery in respiratory failure
-protein-energy malnutrition	worsens	respiratory failure outcomes
-thromboembolism prophylaxis	reduces	DVT in respiratory failure
-heparin	used for	thromboembolism prophylaxis
-glycemic control	influences	infection risk
-diabetes mellitus	worsens	infection risk in respiratory failure
-electrolyte abnormalities	occur in	respiratory failure
-coagulopathy	occurs in	critical illness
-post-extubation stridor	occurs after	extubation
-extubation	occurs after	ventilation in respiratory failure
-suctioning	used for	airway clearance
-bronchoscopy	used for	airway clearance
-pneumonia	requires	antibiotics
-antibiotics	guide	therapy for pneumonia
-oxygen toxicity	risks	prolonged high FiO2
-FiO2	is adjusted during	mechanical ventilation
-pH	reflects	acid-base status
-acid-base status	influences	ventilator strategy
-SOFA score	predicts	mortality
-APACHE II score	predicts	mortality
-ventilator duration	correlates with	mortality
-ventilator duration	correlates with	length of stay
-weaning trials	facilitate	ventilator liberation
-spontaneous breathing trial	facilitates	weaning
-prolonged ventilation	increases	risk of VAP
-sedation	contributes to	delirium
-muscle weakness	occurs in	critical illness
-early physical therapy	preserves	muscle strength
-nutrition support	reduces	infection risk
-glucose control	influences	infection risk
-glycemic variability	worsens	outcomes in respiratory failure
-diuretic therapy	reduces	pulmonary edema progression
-lung compliance	decreases	during respiratory failure
-airway edema	worsens	airway resistance
-airway resistance	increases	work of breathing
-pulmonary hyperinflation	coexists with	COPD
-pulmonary embolism	is associated with	hypoxemia
-cardiac arrest	can follow	respiratory failure
+respiratory failure	diagnosed by	arterial blood gas
+respiratory failure	diagnosed by	chest radiograph
+respiratory failure	diagnosed by	CT scan
+respiratory failure	monitored by	pulse oximetry
+respiratory failure	monitored by	capnography
+respiratory failure	managed in	intensive care unit
+respiratory failure	managed by	critical care team
+respiratory failure	managed with	noninvasive ventilation
+respiratory failure	managed with	extracorporeal membrane oxygenation
+respiratory failure	related to	obesity
+respiratory failure	related to	obstructive sleep apnea
+respiratory failure	related to	malnutrition
+respiratory failure	related to	anemia
+respiratory failure	related to	smoking
+respiratory failure	common in	elderly population
+respiratory failure	common in	postoperative patients
+respiratory failure	progresses to	respiratory arrest
+respiratory failure	results in	hypoxemia
+respiratory failure	results in	hypercapnia
+respiratory failure	associated with	pulmonary embolism
+respiratory failure	occurs with	acute respiratory distress syndrome
+respiratory failure	leads to	acidosis
+respiratory failure	leads to	lactic acidosis
+respiratory failure	associated with	ventilator-associated pneumonia
+respiratory failure	risk factor for	death
+respiratory failure	risk factor for	ICU admission
+respiratory failure	improves with	prone positioning
+respiratory failure	improves with	lung recruitment maneuvers
+respiratory failure	improves with	corticosteroids
+respiratory failure	improves with	antiviral therapy
+respiratory failure	worsens with	fluid overload
+respiratory failure	worsens with	infection
+respiratory failure	worsens with	electrolyte imbalance
+respiratory failure	worsens with	hypothermia
+respiratory failure	worsens with	acidemia
+respiratory failure	diagnosed in	ICU setting
+respiratory failure	present in	critical care unit
+respiratory failure	presence indicates	severe disease
+respiratory failure	presence indicates	need for ventilation
+respiratory failure	prevented by	vaccination
+respiratory failure	prevented by	smoking cessation
+respiratory failure	prevented by	early antibiotic therapy
+respiratory failure	prevented by	pulmonary hygiene
+respiratory failure	symptom includes	dyspnea
+respiratory failure	symptom includes	tachypnea
+respiratory failure	symptom includes	cyanosis
+respiratory failure	symptom includes	confusion
+respiratory failure	prognosis influenced by	comorbidity burden
+respiratory failure	prognosis influenced by	age
+respiratory failure	prognosis influenced by	baseline functional status
+respiratory failure	prognosis influenced by	nutritional status
+respiratory failure	differential diagnosis includes	inhalation injury
+respiratory failure	differential diagnosis includes	pulmonary edema
+respiratory failure	differential diagnosis includes	pneumonia
+respiratory failure	rapid deterioration with	septic shock
+respiratory failure	rapid deterioration with	cardiac failure
+respiratory failure	complication includes	barotrauma
+respiratory failure	complication includes	ventilator-associated lung injury
+respiratory failure	adjunctive therapy includes	bronchodilators
+respiratory failure	adjunctive therapy includes	corticosteroids
+respiratory failure	adjunctive therapy includes	antibiotics for infection
+respiratory failure	adjunctive therapy includes	diuretics for edema
+respiratory failure	outcome depends on	early recognition and management
+respiratory failure	surveillance targets	oxygenation index
+respiratory failure	measured by	PaO2/FiO2 ratio
+respiratory failure	indicates	mortality

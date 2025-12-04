@@ -1,100 +1,120 @@
 machinery	causes	injury
-machinery	causes	amputation
-machinery	causes	laceration
 machinery	causes	crush injury
 machinery	causes	fracture
+machinery	causes	amputation
+machinery	causes	laceration
 machinery	causes	burn
-machinery	causes	electrocution
 machinery	causes	contusion
-machinery	causes	sprain
-machinery	causes	concussion
-machinery	associated with	occupational accident
+machinery	causes	abrasion
+machinery	causes	puncture wound
+machinery	causes	head injury
+machinery	causes	facial injury
+machinery	causes	neck injury
+machinery	causes	chest injury
+machinery	causes	abdominal injury
+machinery	causes	pelvic injury
+machinery	causes	spinal injury
+machinery	causes	limb injury
+machinery	causes	hand injury
+machinery	causes	finger injury
+machinery	causes	wrist injury
+machinery	causes	elbow injury
+machinery	causes	knee injury
+machinery	causes	ankle injury
+machinery	causes	hip injury
+machinery	causes	eye injury
+machinery	causes	ear injury
+machinery	causes	nose injury
+machinery	causes	dental injury
+machinery	causes	burn wound
+machinery	causes	chemical burn
+machinery	causes	infection
+machinery	causes	blood loss
+machinery	leads to	hospitalization
+machinery	leads to	ICU admission
+machinery	leads to	surgery
+machinery	leads to	transfusion
+machinery	leads to	prosthesis
+machinery	leads to	disability
+machinery	leads to	prolonged recovery
+machinery	leads to	death
+machinery	associated with	safety hazard
+machinery	associated with	occupational hazard
 machinery	associated with	industrial accident
-machinery	associated with	repetitive strain injury
-machinery	associated with	machinery hazard
-machinery	requires	guarding
-machinery	requires	lockout-tagout
-machinery	requires	safety training
-machinery	requires	maintenance
-machinery	requires	inspection
-machinery	reduces	injury risk
-PPE	reduces	injury severity
-PPE	reduces	exposure to hazards
-gloves	protects	hands
-gloves	reduces	contamination risk
-gloves	prevents	cuts
-helmet	prevents	head injury
-safety goggles	prevents	eye injury
-harness	prevents	fall
-safety vest	improves	visibility
-safety helmet	improves	head protection
-ear protection	reduces	noise exposure
-protective shield	reduces	splash exposure
-protective footwear	prevents	foot injury
-face shield	protects	face
-respiratory mask	reduces	inhalation risk
-PPE	is used during	machinery operation
-gloves	worn by	operator
-ear protection	worn by	operator
-safety goggles	worn by	operator
-PPE	is required by	regulation
-guard	reduces	injury risk
-guard	prevents	access to moving parts
-guard	protects	worker
-machine guard	reduces	arm injury
-barrier	prevents	entry to hazard
-safety interlock	prevents	machine start
-safety interlock	reduces	accidental start
+machinery	associated with	fall risk
+machine guard	prevents	injury
+lockout tagout	reduces	machinery accident
 emergency stop	enables	rapid shutdown
-emergency stop	prevents	injury during fault
-protective enclosure	increases	machine safety
-lockout-tagout	prevents	unexpected start
-lockout-tagout	ensures	equipment isolation
-safety circuit	monitors	fault detection
-safety protocol	implements	safe practice
-safety protocol	reduces	incident rate
-safety protocol	mandates	PPE use
-safety protocol	requires	training
-maintenance protocol	extends	equipment life
-inspection protocol	detects	wear
-inspection	identifies	faults
-industrial setting	increases	injury risk
-dust exposure	increases	respiratory risk
-noise exposure	increases	hearing loss risk
-vibration exposure	increases	upper limb disorder risk
-poor lighting	increases	eye strain
-slippery floor	increases	slip hazard
-inadequate ventilation	increases	exposure risk
-poor ergonomics	increases	musculoskeletal disorder risk
-machine malalignment	increases	wear rate
-overheating machine	increases	fire risk
-electric fault	triggers	electrical fire
-floating debris	causes	trip hazard
-improper grounding	causes	shock hazard
-crimping tool	causes	crush injury
-machine vibration	causes	fatigue
-belt entanglement	causes	skin injury
-rotating component	causes	entanglement injury
-hot surface	causes	burn injury
-chemical splash	causes	chemical burn
-hydraulic leak	causes	slip hazard
-injury	leads to	medical admission
-injury	requires	surgery
-injury	leads to	disability
-injury	results in	downtime
-injury	increases	length of stay
-injury	increases	cost of care
-injury	necessitates	rehabilitation
-injury	can cause	chronic pain
-injury	predisposes to	infection risk
-injury	leads to	long-term care
-occupational accident	triggers	workers' comp claim
-industrial accident	triggers	regulatory reporting
-safety incentive program	improves	compliance
-safety incentive program	reduces	incident rate
-incidence rate	reflects	safety performance
-health record	documents	injury event
-claims data	supports	risk prediction
-readmission risk	associated with	prior injury
-mortality risk	associated with	severe injury
-mortality risk	increases	age
+protective equipment	reduces	injury severity
+operator training	reduces	machinery accident
+regular maintenance	reduces	breakdown risk
+safety inspection	detects	fault
+fault	indicates	impending failure
+fault	causes	breakdown
+maintenance record	supports	safety compliance
+safety policy	prevents	injury
+machine alignment	decreases	vibration
+vibration	worsens	injury risk
+crush syndrome	requires	fasciotomy
+crush injury	leads to	rhabdomyolysis
+rhabdomyolysis	requires	dialysis
+machinery	associated with	head trauma
+machinery	associated with	intracranial hemorrhage
+machinery	associated with	cervical spine injury
+machinery	associated with	thoracic injury
+machinery	associated with	abdominal trauma
+machinery	associated with	pelvic fracture
+machinery	associated with	spine fracture
+machinery	associated with	limb amputation
+machinery	associated with	nerve injury
+machinery	associated with	vascular injury
+machinery	associated with	compartment syndrome
+machinery	associated with	infection risk after injury
+operator	at risk for	injury
+safety training	reduces	operator injury
+machine design	mitigates	injury severity
+emergency response	improves	survival
+rehabilitation	required	after injury
+prosthesis	utilized	after amputation
+ICD coding	relies on	machinery injury codes
+e code	classifies	machinery injury
+e code	maps to	machinery injury
+external cause code	identifies	machinery injury
+workplace safety	governs	machinery use
+occupational health	monitors	machinery injury outcomes
+readmission risk	increases	after injury
+mortality risk	increases	after severe injury
+hospital stay	lengthens	with severe injury
+discharge planning	determines	rehabilitation needs
+radiology	confirms	injury
+MRI	evaluates	brain injury
+CT scan	evaluates	fracture
+wound infection	complicates	injury management
+debridement	necessary	after wound
+antibiotics	prevent	infection
+tetanus vaccine	recommended	after injury
+pain management	improves	recovery
+physical therapy	accelerates	rehabilitation
+occupational therapy	aids	return to work
+scar formation	results from	laceration
+nerve damage	causes	motor deficit
+vascular injury	causes	ischemia
+bone fracture	requires	immobilization
+joint dislocation	occurs with	high energy machinery injury
+debridement	essential	wound care
+prosthesis	replaces	limb function
+bone graft	supports	fracture healing
+medical coding	records	machinery injury
+coding accuracy	improves	patient care
+education	informs	safety decisions
+safety policy	reduces	accident rates
+machine maintenance	extends	equipment life
+equipment failure	triggers	emergency response
+incident report	documents	machinery injury
+insurance claim	filed for	machinery injury
+work absence	follows	machinery injury
+hazard assessment	identifies	machinery risks
+hazard controls	reduce	machinery risk
+emergency medical services	transport	machinery injury
+clinical pathway	standardizes	injury management
+trauma registry	aggregates	machinery injuries

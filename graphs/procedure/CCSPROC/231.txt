@@ -1,0 +1,100 @@
+physical therapy	is a	therapeutic procedure
+occupational therapy	is a	therapeutic procedure
+radiation therapy	is a	therapeutic procedure
+chemotherapy	is a	therapeutic procedure
+immunotherapy	is a	therapeutic procedure
+gene therapy	is a	therapeutic procedure
+dialysis	is a	therapeutic procedure
+blood transfusion	is a	therapeutic procedure
+transplantation	is a	surgical procedure
+surgery	is a	therapeutic procedure
+phototherapy	is a	therapeutic procedure
+laser therapy	is a	therapeutic procedure
+cryotherapy	is a	therapeutic procedure
+cryoablation	is a	therapeutic procedure
+radiofrequency ablation	is a	therapeutic procedure
+microwave ablation	is a	therapeutic procedure
+hyperbaric oxygen therapy	is a	therapeutic procedure
+acupuncture	is a	therapeutic procedure
+chiropractic manipulation	is a	therapeutic procedure
+embolization	is a	therapeutic procedure
+physical therapy	indicated for	stroke rehabilitation
+physical therapy	indicated for	osteoarthritis
+physical therapy	indicated for	back pain
+occupational therapy	indicated for	activities of daily living impairment
+radiation therapy	indicated for	cancer
+chemotherapy	indicated for	cancer
+immunotherapy	indicated for	cancer
+gene therapy	indicated for	genetic disorder
+dialysis	indicated for	kidney failure
+blood transfusion	indicated for	anemia
+chemotherapy	can cause	neutropenia
+radiation therapy	can cause	mucositis
+immunotherapy	can cause	autoimmunity
+surgery	can lead to	postoperative pain
+surgery	can cause	infection
+dialysis	can cause	hypotension
+blood transfusion	can cause	transfusion reaction
+gene therapy	can cause	off-target effects
+phototherapy	can treat	neonatal jaundice
+hyperbaric oxygen therapy	can improve	wound healing
+radiation therapy	contraindicated with	pregnancy
+surgery	contraindicated with	bleeding disorder
+chemotherapy	contraindicated with	severe infection
+dialysis	requires	vascular access
+transplantation	requires	immunosuppression
+blood transfusion	requires	crossmatch
+immunotherapy	requires	premedication
+bone marrow transplantation	requires	donor match
+nerve block	provides	analgesia
+epidural analgesia	provides	pain relief
+surgeon	performs	surgery
+anesthesiologist	administers	anesthesia
+interventional radiologist	performs	embolization
+oncologist	prescribes	chemotherapy
+oncologist	prescribes	immunotherapy
+ophthalmologist	performs	laser therapy
+radiologist	plans	radiotherapy
+transplant surgeon	performs	transplantation
+prosthesis implantation	is a	surgical procedure
+laser therapy	indicated for	retinal disease
+phototherapy	indicated for	neonatal jaundice
+cryotherapy	indicated for	skin lesion
+radiofrequency ablation	indicated for	liver tumor
+cryoablation	indicated for	prostate cancer
+hyperbaric oxygen therapy	indicated for	decompression sickness
+hyperbaric oxygen therapy	indicated for	diabetic foot ulcer
+intrathecal chemotherapy	indicated for	CNS malignancy
+stem cell transplantation	indicated for	hematologic malignancy
+liver transplantation	indicated for	liver failure
+surgery	associated with	scarring
+radiation therapy	associated with	alopecia
+phototherapy	associated with	skin irritation
+dialysis	associated with	hypotension
+chemotherapy	associated with	hair loss
+immunotherapy	associated with	colitis
+bone marrow transplantation	associated with	graft-versus-host disease
+transplantation	associated with	organ rejection
+epidural analgesia	associated with	hypotension
+nerve block	associated with	numbness
+cryoablation	associated with	tissue necrosis
+radiofrequency ablation	associated with	nerve injury
+laser therapy	associated with	corneal damage
+endoscopic therapy	associated with	perforation
+blood transfusion	associated with	transfusion reaction
+dialysis	associated with	infection at access site
+surgery	reduces	tumor burden
+surgery	improves	function
+radiation therapy	improves	local control
+chemotherapy	reduces	tumor size
+immunotherapy	reduces	tumor growth
+gene therapy	corrects	genetic defect
+dialysis	substitutes	kidney function
+plasma exchange	removes	autoantibodies
+plasmapheresis	removes	circulating antibodies
+bone marrow transplantation	replaces	hematopoietic system
+organ transplantation	replaces	recipient's organ
+surgery	preserves	organ function
+phototherapy	treats	jaundice
+laser therapy	treats	ocular neovascularization
+cryoablation	treats	precancerous lesion

@@ -1,100 +1,118 @@
-gastritis	associated with	Helicobacter pylori
-gastritis	caused by	NSAID use
+gastritis	is a	stomach disease
+gastritis	may cause	abdominal pain
+gastritis	associated with	Helicobacter pylori infection
 gastritis	treated with	proton pump inhibitors
-gastritis	presents with	epigastric pain
-gastritis	may progress to	peptic ulcer disease
-gastric ulcer	associated with	Helicobacter pylori
-gastric ulcer	caused by	NSAID use
+gastritis	treated with	antibiotics
+gastritis	risk factor for	gastric ulcer
+gastritis	may present with	nausea
+gastritis	may cause	vomiting
+gastritis	may cause	GI bleeding
+gastritis	may require	endoscopy
+gastritis	worsened by	NSAID use
+gastritis	associated with	autoimmune disease
+gastritis	worsened by	alcohol use
+Helicobacter pylori infection	may cause	gastritis
+gastric ulcer	is a	peptic ulcer
+gastric ulcer	associated with	Helicobacter pylori infection
+gastric ulcer	risk factor for	GI bleeding
 gastric ulcer	treated with	proton pump inhibitors
-gastric ulcer	presents with	epigastric pain
-gastric ulcer	may cause	GI bleeding
-gastric ulcer	diagnosed by	endoscopy
-duodenal ulcer	associated with	Helicobacter pylori
-duodenal ulcer	caused by	NSAID use
-duodenal ulcer	treated with	proton pump inhibitors
-duodenal ulcer	presents with	nocturnal pain
-duodenal ulcer	improves with	meals
+gastric ulcer	treated with	antibiotics
+gastric ulcer	may cause	epigastric pain
+gastric ulcer	may cause	perforation
+gastric ulcer	presents with	melena
+gastric ulcer	relieved by	antacids
+duodenal ulcer	is a	peptic ulcer
+duodenal ulcer	presents with	epigastric pain
 duodenal ulcer	may cause	GI bleeding
-duodenal ulcer	diagnosed by	endoscopy
-peptic ulcer disease	associated with	smoking
-peptic ulcer disease	associated with	Helicobacter pylori
-peptic ulcer disease	caused by	NSAID use
-peptic ulcer disease	treated with	proton pump inhibitors
-peptic ulcer disease	presents with	epigastric pain
-peptic ulcer disease	may cause	GI bleeding
-peptic ulcer disease	diagnosed by	endoscopy
-gastric cancer	associated with	smoking
-gastric cancer	associated with	Helicobacter pylori infection
-gastric cancer	increases	mortality
-gastric cancer	treated with	chemotherapy
-gastric cancer	diagnosed by	biopsy
-gastric cancer	presents with	weight loss
-gastric cancer	metastasizes to	liver
-gastric cancer	metastasizes to	peritoneum
-gastric cancer	screened with	endoscopy
-gastric cancer	treated with	surgical resection
-duodenal cancer	treated with	surgical resection
-duodenal cancer	diagnosed by	endoscopy
-duodenal cancer	presents with	abdominal pain
-duodenal cancer	metastasizes to	liver
-duodenal cancer	treated with	chemotherapy
-gastric outlet obstruction	caused by	gastric cancer
-gastric outlet obstruction	caused by	peptic ulcer disease
-gastric outlet obstruction	presents with	vomiting
-gastric outlet obstruction	treated with	nasogastric decompression
-gastric outlet obstruction	diagnosed by	imaging
-pyloric stenosis	treated with	pyloromyotomy
-pyloric stenosis	presents with	projectile vomiting
-gastric polyps	associated with	chronic gastritis
-gastric polyps	treated with	polypectomy
-gastric polyps	associated with	stomach cancer
-gastric diverticulum	diagnosed by	endoscopy
-gastric diverticulum	treated with	surgical resection
-gastric diverticulum	presents with	epigastric pain
-duodenitis	associated with	NSAID use
-duodenitis	caused by	H. pylori
-duodenitis	treated with	proton pump inhibitors
-duodenitis	presents with	abdominal pain
-duodenitis	diagnosed by	endoscopy
-gastric erosion	associated with	NSAID use
-gastric erosion	treated with	proton pump inhibitors
-gastric erosion	presents with	upper abdominal pain
-gastric erosion	may cause	GI bleeding
+duodenal ulcer	associated with	Helicobacter pylori infection
+duodenal ulcer	treated with	proton pump inhibitors
+duodenal ulcer	treated with	antibiotics
+duodenal ulcer	risk factor for	perforation
+duodenal ulcer	presents with	melena
+duodenal ulcer	managed with	eradication therapy
+gastroparesis	is a	motility disorder
 gastroparesis	associated with	diabetes mellitus
 gastroparesis	treated with	prokinetic agents
-gastroparesis	presents with	nausea
+gastroparesis	may cause	nausea
+gastroparesis	may cause	early satiety
 gastroparesis	diagnosed by	gastric emptying study
-gastric volvulus	is a	surgical emergency
-gastric volvulus	treated with	emergency surgery
-autoimmune gastritis	associated with	parietal cell antibodies
-autoimmune gastritis	associated with	pernicious anemia
-autoimmune gastritis	associated with	intestinal metaplasia
-gastric cancer	prognosis depends on	stage
-gastric cancer	associated with	Epstein-Barr virus
-gastric cancer	diagnosed by	CT scan
-gastric cancer	stage determined by	imaging
-gastric cancer	treated with	radiation therapy
-gastric cancer	treated with	targeted therapy
-gastric cancer	treated with	immunotherapy
-gastric cancer	presents with	anemia
-gastric cancer	presents with	early satiety
-gastric cancer	presents with	upper GI obstruction
-gastric cancer	screen for	high-risk individuals
-gastric cancer	risk factor for	cachexia
-gastric cancer	associated with	p53 mutation
-gastric cancer	associated with	chromosomal instability
-gastric cancer	metastasizes to	ovaries
-gastric cancer	metastasizes to	lungs
-gastric cancer	metastasizes to	brain
+gastroparesis	may lead to	malnutrition
+gastroparesis	related to	autonomic neuropathy
+gastroparesis	managed with	dietary modification
+gastroparesis	managed with	nutritional support
+gastroparesis	may require	hospital admission
+duodenitis	is a	duodenal inflammation
+duodenitis	may accompany	gastritis
+duodenitis	associated with	Helicobacter pylori infection
+duodenitis	treated with	acid suppression therapy
+duodenitis	may cause	epigastric pain
+duodenitis	linked to	NSAID use
+duodenitis	diagnosed by	endoscopy
+duodenitis	occurs with	gastritis
+dyspepsia	is a	symptom
+functional dyspepsia	is a	functional GI disorder
+functional dyspepsia	presents with	postprandial fullness
+functional dyspepsia	associated with	psychosocial stress
+functional dyspepsia	diagnosed by	Rome criteria
+functional dyspepsia	treated with	proton pump inhibitors
+functional dyspepsia	managed with	dietary modification
+functional dyspepsia	predicts	treatment response
+gastric mucosa	shows	inflammation
+gastric erosion	is a	mucosal defect
+gastric erosion	may cause	GI bleeding
+gastric erosion	associated with	NSAID use
+gastric erosion	diagnosed by	endoscopy
+gastric erosion	treated with	acid suppression therapy
+gastric polyp	is a	gastric lesion
+gastric polyp	may be	incidental finding
+gastric polyp	removed by	endoscopic polypectomy
+gastric polyp	associated with	gastritis
+gastric polyp	diagnosed by	endoscopy
+gastric polyp	may coexist with	atrophic gastritis
+gastric outlet obstruction	is a	complication of peptic ulcer
+gastric outlet obstruction	presents with	vomiting
+gastric outlet obstruction	caused by	peptic ulcer
+gastric outlet obstruction	treated with	decompression
+gastric outlet obstruction	requires	surgery
+pyloric stenosis	is a	gastric outflow obstruction
+pyloric stenosis	presents with	vomiting
+pyloric stenosis	treated with	pyloroplasty
+duodenal inflammation	is a	inflammatory condition
+endoscopy	used for	gastritis diagnosis
+endoscopy	reveals	mucosal inflammation
+biopsy	used with	endoscopy
+biopsy	provides	histology
+histology	shows	inflammation
+autonomic neuropathy	associated with	diabetes mellitus
+diabetes mellitus	associated with	gastroparesis
+diabetes mellitus	predisposes to	gastroparesis
+gastric acid secretion	decreased in	gastritis
+urea breath test	used for	Helicobacter pylori detection
+H. pylori infection	eradicated by	antibiotics
+antibiotics	used for	H. pylori eradication
+proton pump inhibitors	used for	gastritis treatment
+endoscopy	used for	gastritis diagnosis
+endoscopy	may reveal	mucosal inflammation
+biopsy	used for	histology diagnosis
+histology	shows	inflammatory cells
+autonomic dysfunction	associated with	diabetes mellitus
+diabetes mellitus	associated with	gastroparesis
+diabetes mellitus	predisposes to	gastroparesis
+gastric acid secretion	decreased in	gastritis
+gastric cancer	is a	stomach cancer
+gastric cancer	risk factor for	GI bleeding
+gastric cancer	treated with	surgery
 gastric cancer	diagnosed by	endoscopy
-gastric cancer	biopsy confirms	cancer
-gastric erosion	may progress to	ulceration
-gastric ulcer	can be	chronic
-gastric outlet obstruction	can occur with	gastric cancer
-gastric outlet obstruction	can occur with	peptic ulcer disease
-gastric polyps	increased risk of	malignancy
-duodenitis	associated with	celiac disease
-gastric erosion	relieved by	antacids
-gastric ulcer	recurrence after healing	risk high
-gastric cancer	response to	chemotherapy
-gastric cancer	prognosis is	poor
+gastric cancer	associated with	H. pylori infection
+gastric cancer	prognosis affected by	stage at diagnosis
+gastric ulcer	is a	peptic ulcer
+gastric ulcer	recurrence risk with	NSAID use
+gastric ulcer	recurrence risk with	H. pylori infection
+gastric ulcer	surveillance indicated for	high-risk patients
+duodenitis	is a	duodenal inflammation
+duodenitis	may complicate	peptic ulcer disease
+duodenitis	treated with	acid suppression therapy
+duodenitis	prevented by	H. pylori eradication
+gastric mucosa	shows	mucosal edema
+gastric mucosa	may indicate	gastritis
+endoscopy	confirms	gastritis

@@ -1,82 +1,96 @@
-benign paroxysmal positional vertigo	causes	vertigo
-Meniere disease	causes	vertigo
-vestibular neuritis	causes	vertigo
-labyrinthitis	causes	vertigo
-superior canal dehiscence syndrome	causes	vertigo
-cervical vertigo	causes	dizziness
-presbyvestibulopathy	causes	dizziness
-otitis media	causes	vertigo
-otitis externa	causes	dizziness
-acoustic neuroma	causes	vertigo
-vestibular schwannoma	causes	vertigo
-vestibular migraine	causes	vertigo
-migraine with aura	causes	vertigo
-brainstem stroke	causes	vertigo
-cerebellar stroke	causes	vertigo
-ischemic stroke	causes	dizziness
-transient ischemic attack	causes	dizziness
-basilar artery thrombosis	causes	vertigo
-vertebrobasilar insufficiency	causes	dizziness
-brain tumor	causes	dizziness
-meningioma	causes	dizziness
-glioblastoma	causes	dizziness
-multiple sclerosis	causes	dizziness
-brainstem glioma	causes	vertigo
-hemorrhagic stroke	causes	dizziness
-subarachnoid hemorrhage	presents with	dizziness
-orthostatic hypotension	causes	dizziness
-dehydration	causes	dizziness
+dizziness	caused by	dehydration
+vertigo	caused by	dehydration
+dizziness	caused by	orthostatic hypotension
+vertigo	caused by	orthostatic hypotension
+dizziness	caused by	anemia
+vertigo	caused by	anemia
+dizziness	caused by	hypoglycemia
+vertigo	caused by	hypoglycemia
 anemia	causes	dizziness
-iron deficiency anemia	causes	dizziness
 hypoglycemia	causes	dizziness
+orthostatic hypotension	causes	dizziness
 hypovolemia	causes	dizziness
-sepsis	causes	dizziness
-infection	causes	dizziness
-preeclampsia	causes	dizziness
+migraine	causes	vertigo
+vestibular migraine	causes	dizziness
+menieres disease	causes	vertigo
+benign paroxysmal positional vertigo	causes	dizziness
+labyrinthitis	causes	vertigo
+vestibular neuritis	causes	dizziness
+superior canal dehiscence	causes	vertigo
+perilymph fistula	causes	dizziness
+cerebellar stroke	causes	dizziness
+brainstem stroke	causes	dizziness
+TIA	causes	dizziness
+multiple sclerosis	causes	dizziness
+intracranial tumor	causes	dizziness
+intracranial tumor	causes	vertigo
+otitis media	causes	vertigo
+labyrinthine fistula	causes	vertigo
+motion sickness	causes	dizziness
+vestibular hypofunction	causes	dizziness
+cervical spondylosis	causes	dizziness
+dehydration	causes	dizziness
+diabetes mellitus	associated with	dizziness
+hyponatremia	associated with	dizziness
+older adults	at risk for	dizziness
+age	risk factor for	dizziness
 pregnancy	associated with	dizziness
-anxiety disorder	associated with	dizziness
+menopause	associated with	dizziness
+diabetes mellitus	causes	vertigo
+hyponatremia	causes	vertigo
+dehydration	causes	orthostatic dizziness
+anxiety	associated with	dizziness
 panic disorder	associated with	dizziness
-panic attack	causes	dizziness
-vasovagal syncope	causes	dizziness
-POTS	causes	dizziness
-deconditioning	causes	dizziness
-heat exhaustion	causes	dizziness
-heat stroke	causes	dizziness
-alcohol intoxication	causes	dizziness
-alcohol withdrawal	causes	dizziness
-benzodiazepine withdrawal	causes	dizziness
-opioid toxicity	causes	dizziness
-anticholinergic toxicity	causes	dizziness
-antihypertensive therapy	causes	dizziness
-diuretic therapy	causes	dizziness
-beta-blocker therapy	causes	dizziness
-calcium channel blocker therapy	causes	dizziness
-digoxin toxicity	causes	dizziness
-diabetes mellitus	causes	dizziness
-diabetic autonomic neuropathy	causes	dizziness
-thyroid disease	causes	dizziness
-hypothyroidism	causes	dizziness
-hyperthyroidism	causes	dizziness
-motion sickness	associated with	dizziness
-vestibulopathy	causes	dizziness
-endolymphatic hydrops	causes	vertigo
-ototoxic medications	causes	vertigo
-aminoglycoside toxicity	causes	dizziness
-viral labyrinthitis	causes	vertigo
-bacterial labyrinthitis	causes	vertigo
-autoimmune inner ear disease	causes	dizziness
-labyrinthine concussion	causes	dizziness
-posterior canal BPPV	causes	vertigo
-horizontal canal BPPV	causes	vertigo
-perilymph fistula	causes	vertigo
-endolymphatic fistula	causes	vertigo
-cervical spine disease	causes	dizziness
-cervical artery dissection	causes	dizziness
-posterior circulation ischemia	causes	dizziness
-cerebellar ataxia	presents with	dizziness
-meningitis	causes	dizziness
-encephalitis	causes	dizziness
-posterior circulation syndrome	causes	dizziness
-basilar migraine	causes	dizziness
-migraine aura without headache	causes	dizziness
-migraine with brainstem aura	causes	vertigo
+alcohol	causes	dizziness
+opioid	causes	dizziness
+benzodiazepine	causes	dizziness
+antihypertensive	causes	dizziness
+diuretic	causes	dizziness
+anticholinergic drug	causes	dizziness
+sedative	causes	dizziness
+antidepressant	causes	dizziness
+antipsychotic	causes	dizziness
+caffeine withdrawal	causes	dizziness
+motion sickness	presents with	vertigo
+menieres disease	presents with	tinnitus
+menieres disease	presents with	hearing loss
+ear fullness	associated with	menieres disease
+tinnitus	associated with	menieres disease
+hearing loss	associated with	menieres disease
+unilateral hearing loss	associated with	vestibular schwannoma
+vestibular schwannoma	presents with	vertigo
+vestibular schwannoma	presents with	unilateral hearing loss
+acoustic neuroma	presents with	hearing loss
+dix-hallpike maneuver	diagnoses	bppv
+dix-hallpike maneuver	positive in	bppv
+head impulse test	positive in	vestibular hypofunction
+caloric test	shows	unilateral vestibular weakness
+video head impulse test	assesses	vestibular function
+eng	assesses	nystagmus
+vng	assesses	eye movements
+nystagmus	indicates	vestibular disorder
+ataxia	accompanies	dizziness
+visual disturbance	accompanies	vertigo
+nausea	accompanies	vertigo
+vomiting	accompanies	vertigo
+nausea	accompanies	dizziness
+fall risk	increased by	dizziness
+falls	associated with	vertigo
+visual vertigo	associated with	dizziness
+neck stiffness	associated with	vertigo
+visual aura	associated with	vertigo
+cervical vertigo	presents with	dizziness
+viruses	associated with	vertigo
+otitis externa	associated with	dizziness
+inner ear dysfunction	causes	dizziness
+menieres disease	diagnosed by	audiometry
+vestibular schwannoma	diagnosed by	MRI
+bppv	diagnosed by	dix hallpike maneuver
+menieres disease	diagnosed by	audiometry
+fall risk	increased by	dizziness
+balance impairment	accompanies	dizziness
+neck pain	accompanies	vertigo
+visual disturbance	accompanies	vertigo
+nausea	accompanies	vertigo
+vertigo	associated with	nausea
+dizziness	associated with	nausea

@@ -1,0 +1,170 @@
+arterial blood gases	is a	diagnostic test
+arterial blood gases	measures	pH
+arterial blood gases	measures	PaO2
+arterial blood gases	measures	PaCO2
+arterial blood gases	measures	HCO3-
+arterial blood gases	measures	base excess
+arterial blood gases	measures	SaO2
+arterial blood gases	measures	PaO2/FiO2 ratio
+pH	is a	parameter of arterial blood gases
+PaO2	is a	parameter of arterial blood gases
+PaCO2	is a	parameter of arterial blood gases
+HCO3-	is a	parameter of arterial blood gases
+base excess	is a	parameter of arterial blood gases
+SaO2	is a	parameter of arterial blood gases
+PaO2/FiO2 ratio	is a	oxygenation metric
+acid-base status	is determined by	arterial blood gases
+respiratory acidosis	is a	acid-base disorder
+respiratory alkalosis	is a	acid-base disorder
+metabolic acidosis	is a	acid-base disorder
+metabolic alkalosis	is a	acid-base disorder
+respiratory compensation	occurs in	metabolic acidosis
+metabolic compensation	occurs in	respiratory acidosis
+pH	indicates	acid-base status
+PaCO2	indicates	ventilation status
+PaO2	indicates	oxygenation status
+HCO3-	indicates	metabolic state
+base excess	indicates	metabolic balance
+pH	correlates with	hydrogen ion concentration
+PaO2	correlates with	arterial oxygenation
+PaCO2	correlates with	alveolar ventilation
+HCO3-	correlates with	bicarbonate
+base excess	correlates with	metabolic compensation
+arterial blood gases	used for	ventilator management
+arterial blood gases	used for	oxygen therapy decisions
+arterial blood gases	used for	assessment of hypoxemia
+arterial blood gases	used for	assessment of hypercapnia
+oxygen therapy	increases	FiO2
+FiO2	increases	PaO2
+ventilator settings	guided by	ABG results
+ABG results	guide	clinical management
+ABG results	guide	ICU decisions
+ABG results	guide	sepsis management
+ABG results	guide	prognosis assessment
+radial artery puncture	yields	ABG sample
+femoral artery puncture	yields	ABG sample
+arterial puncture	risks	hematoma
+arterial puncture	risks	bleeding
+arterial puncture	risks	infection
+heparinized syringe	used for	ABG collection
+ABG analyzer	measures	PaO2
+ABG analyzer	measures	PaCO2
+ABG analyzer	measures	pH
+ABG analyzer	measures	HCO3-
+ABG analyzer	measures	base excess
+ABG testing	performed by	laboratory
+POC ABG	provides	rapid results
+POC ABG	enables	bedside decisions
+radial artery	site	ABG collection
+arterial line	enables	continuous ABG sampling
+syringe	contains	heparin
+sampling technique	affects	ABG accuracy
+air exposure	affects	ABG accuracy
+ABG sample	stored on	ice
+ABG sample	transported with	precautions
+pH value	used for	acid-base classification
+PaO2 value	used for	oxygenation assessment
+PaCO2 value	used for	ventilation assessment
+HCO3- value	used for	metabolic evaluation
+base excess value	used for	acid-base assessment
+SaO2 value	used for	oxygenation assessment
+PaO2/FiO2 ratio	used for	ARDS severity
+pH	varies with	metabolic activity
+respiratory acidosis	worsens	with hypoventilation
+respiratory alkalosis	improves	with hyperventilation
+metabolic acidosis	worsens	with lactic acid buildup
+metabolic alkalosis	worsens	with vomiting
+diabetic ketoacidosis	causes	metabolic acidosis
+lactic acidosis	causes	metabolic acidosis
+sepsis	causes	metabolic acidosis
+renal failure	causes	metabolic acidosis
+hypoxemia	indicated by	low PaO2
+hypercapnia	indicated by	high PaCO2
+hypocapnia	indicated by	low PaCO2
+oxygen therapy	aims for	PaO2 increase
+noninvasive ventilation	reduces	ABG abnormalities
+intubation	indicated by	ABG deterioration
+ICU stay	associated with	ABG abnormalities
+mortality risk	increases with	severe acidosis
+mortality risk	increases with	high anion gap metabolic acidosis
+serial ABG analysis	informs	disease progression
+arterial blood gases	integrated with	electrolyte panel
+electrolyte disturbances	accompany	acid-base disorders
+kidney failure	influences	base excess
+sepsis	influences	acid-base balance
+ARDS	defined by	PaO2/FiO2 ratio
+bronchospasm	associated with	ABG abnormalities
+bilirubin	associated with	systemic illness
+liver failure	associated with	metabolic alkalosis
+FiO2	target	oxygenation
+ABG trend	tracks	patient trajectory
+serial ABG analysis	tracks	disease progression
+arterial blood gases	used for	prognosis assessment
+ABG results	correlate with	clinical status
+air contamination	degrades	ABG accuracy
+arterial line	used for	continuous ABG monitoring
+arterial blood gases	relevant to	critical care
+base deficit	represents	metabolic acid-base status
+anion gap	accompanies	metabolic acidosis
+anion gap	calculated from	electrolytes
+venous blood gases	differ from	arterial blood gases
+pH	can indicate	acidemia
+PaCO2	can indicate	hypoventilation
+PaO2	can indicate	hypoxemia
+HCO3-	can indicate	metabolic disorder
+PaO2/FiO2 ratio	used to define	ARDS
+FiO2	clinically	adjustable
+oxygenation	monitored by	ABG
+ventilatory status	monitored by	PaCO2
+acid-base status	monitored by	pH
+metabolic status	monitored by	HCO3-
+oxygen delivery	adjusted by	FiO2
+ventilation	adjusted by	PaCO2
+acid-base homeostasis	maintained by	kidney function
+blood gas interpretation	requires	clinician expertise
+diagnostic correctness	improves with	proper ABG technique
+infection risk	associated with	arterial puncture
+hematoma risk	associated with	arterial puncture
+blood gas sample	requires	immediate analysis
+serial ABG analysis	improves	management accuracy
+ABG results	impact	sedation decisions
+ABG results	impact	antibiotic choices
+air exposure	invalidates	ABG accuracy
+ABG interpretation	subject to	pretest probability
+critical care	uses	arterial blood gases
+respiratory distress	flagged by	ABG abnormalities
+metabolic acidosis	worsened by	diarrhea
+respiratory alkalosis	worsened by	anxiety
+metabolic alkalosis	worsened by	diuretic use
+hypoxemia	worsened by	shunt physiology
+hypercapnia	worsened by	COPD
+hypocapnia	worsened by	hyperventilation
+FiO2	controlled by	oxygen delivery device
+SpO2	correlated with	SaO2
+SpO2	surrogate for	PaO2
+PaO2	surrogate for	oxygen delivery
+PaCO2	used for	calculating alveolar-arterial gradient
+pH	affected by	CO2 levels
+acid-base disorder	treated with	electrolyte correction
+acid-base disorder	treated with	fluid management
+arterial blood gases	integral to	sepsis protocol
+lactate	elevated with	metabolic acidosis
+lactate	informs	ABG interpretation
+kidney function	influences	acid-base balance
+liver function	influences	acid-base balance
+respiratory drive	modulated by	PaCO2
+blood gas	used for	ventilator weaning
+blood gas	used for	crisis management
+arterial blood gases	update	patient records
+clinical pathway	depends on	ABG results
+nurse	obtains	arterial blood gas sample
+physician	reviews	ABG results
+respiratory therapist	adjusts	ventilator based on ABG
+pharmacologic therapy	guided by	ABG results
+emergency department	performs	ABG
+intensive care unit	monitors	ABG trends
+general anesthesia	requires	arterial blood gas monitoring
+postoperative care	includes	ABG surveillance
+shock state	associated with	metabolic acidosis
+hemodynamic instability	detected by	ABG
+antibiotic stewardship	informed by	ABG

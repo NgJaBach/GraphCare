@@ -1,100 +1,339 @@
+acute bronchitis	is a	lower-respiratory-tract infection
+acute bronchitis	is a	viral infection
 acute bronchitis	is a	respiratory infection
-acute bronchitis	is caused by	virus
-acute bronchitis	is caused by	rhinovirus
-acute bronchitis	is caused by	influenza virus
-acute bronchitis	is caused by	parainfluenza virus
-acute bronchitis	is caused by	coronavirus
-acute bronchitis	is caused by	adenovirus
+acute bronchitis	is a	inflammatory condition
+acute bronchitis	caused by	viruses
+acute bronchitis	caused by	rhinovirus
+acute bronchitis	caused by	coronavirus
+acute bronchitis	caused by	influenza virus
+acute bronchitis	caused by	adenovirus
+acute bronchitis	caused by	parainfluenza virus
+acute bronchitis	caused by	respiratory syncytial virus
+acute bronchitis	transmitted by	respiratory droplets
+air pollution	increases risk of	acute bronchitis
+secondhand smoke	increases risk of	acute bronchitis
+smoking	is a	risk factor for acute bronchitis
+acute bronchitis	associated with	cough
+acute bronchitis	associated with	sputum
+acute bronchitis	associated with	wheeze
+acute bronchitis	associated with	dyspnea
+acute bronchitis	associated with	chest pain
 acute bronchitis	presents with	cough
-acute bronchitis	presents with	sputum production
+acute bronchitis	presents with	fever
 acute bronchitis	presents with	fatigue
-acute bronchitis	presents with	dyspnea
-acute bronchitis	presents with	wheeze
-acute bronchitis	presents with	chest tightness
-acute bronchitis	presents with	chest discomfort
-acute bronchitis	is diagnosed by	clinical evaluation
-acute bronchitis	is diagnosed by	chest auscultation
-acute bronchitis	is diagnosed by	chest radiograph
-acute bronchitis	is distinguished from	pneumonia
-pneumonia	is distinguished from	acute bronchitis
-acute bronchitis	resolves with	supportive care
-acute bronchitis	managed with	rest
-acute bronchitis	managed with	hydration
-acute bronchitis	managed with	bronchodilators
-acute bronchitis	managed with	antitussives
-acute bronchitis	not treated with	antibiotics
-antibiotics	not recommended for	acute bronchitis
-antibiotics	overused for	acute bronchitis
-smoking	is a risk factor for	acute bronchitis
-air pollution	is a risk factor for	acute bronchitis
-seasonal virus	is associated with	acute bronchitis incidence
-acute bronchitis	occurs in	adults
-acute bronchitis	occurs in	children
-acute bronchitis	lasts	weeks
-fever	occurs in	acute bronchitis
-wheezing	occurs with	acute bronchitis
-upper respiratory infection	coexists with	acute bronchitis
-acute bronchitis	can lead to	pneumonia
-pneumonia	can complicate	acute bronchitis
-chest radiograph	is used to	rule out pneumonia
-laboratory testing	is rarely required for	acute bronchitis
-white blood cell count	is not elevated in	acute bronchitis
-PCR testing	identifies	viral etiology
-influenza vaccination	reduces risk of	acute bronchitis
-RSV	is associated with	acute bronchitis in children
-human metapneumovirus	is associated with	acute bronchitis
-mycoplasma pneumoniae	is not a common cause of	acute bronchitis
-tobacco abstinence	reduces	acute bronchitis risk
-inhaled corticosteroids	have limited role in	acute bronchitis
-oral corticosteroids	not recommended for	uncomplicated acute bronchitis
-hydration	helps relieve	cough
-honey	provides	symptomatic relief for cough in acute bronchitis
-nebulized saline	provides	relief of cough in acute bronchitis
-nebulized bronchodilator	improves	symptoms in acute bronchitis with wheeze
-oxygen therapy	is indicated for	acute bronchitis with hypoxemia
-pulse oximetry	monitors	oxygenation in acute bronchitis
-chest physiotherapy	used for	acute bronchitis
-antibiotic stewardship	promotes	appropriate antibiotic use in acute bronchitis
+acute bronchitis	presents with	myalgia
+cough	is a	symptom of acute bronchitis
+purulent sputum	is associated with	acute bronchitis
+acute bronchitis	diagnosed by	clinical evaluation
+clinical evaluation	includes	history
+clinical evaluation	includes	physical examination
+physical examination	may show	wheezes
+wheezes	may be heard in	acute bronchitis
+chest radiography	is used to	exclude pneumonia
+pneumonia	should be excluded by	chest radiography
+antibiotics	are not indicated for	uncomplicated acute bronchitis
+antibiotics	may be prescribed for	suspected pertussis
+pertussis	can mimic	acute bronchitis
+virus	can cause	acute bronchitis
+influenza	can cause	acute bronchitis
+rhinovirus	can cause	acute bronchitis
+adenovirus	can cause	acute bronchitis
 clinical guidelines	recommend	no antibiotics for acute bronchitis
-clinical guidelines	endorse	supportive care only for acute bronchitis
-pneumonia	is differential diagnosis for	acute bronchitis
-asthma	can be misdiagnosed as	acute bronchitis
-COPD	can be exacerbated by	acute bronchitis
-bronchodilator therapy	indicated in	acute bronchitis with wheeze
-short-acting beta-agonist	used in	acute bronchitis with wheeze
-spirometry	not routinely performed for	acute bronchitis
-hand hygiene	reduces	spread of viruses causing acute bronchitis
-influenza season	increases	consultations for acute bronchitis
-seasonal vaccination	reduces	respiratory infection burden including acute bronchitis
-cost of care	associated with	acute bronchitis
-treatment duration	is variable for	acute bronchitis
-adults	are affected by	acute bronchitis
-children	are affected by	acute bronchitis
+analgesics	may relieve	pain in acute bronchitis
+acetaminophen	may relieve	fever in acute bronchitis
+bronchodilator	may relieve	bronchospasm
+salbutamol	is a	bronchodilator
+inhaled bronchodilator	is used for	symptom relief in acute bronchitis
+hydration	is recommended for	acute bronchitis
+rest	is recommended for	acute bronchitis
+nutrition	supports	recovery from acute bronchitis
+supportive care	is the management for	acute bronchitis
+influenza vaccination	reduces risk of	acute bronchitis
+influenza vaccination	recommended for	adults
+smoking cessation	reduces risk of	acute bronchitis
+acute bronchitis	complications include	secondary bacterial infection
+secondary bacterial infection	may complicate	acute bronchitis
+hospitalization	is rarely required for	acute bronchitis
+mortality	is low for	acute bronchitis
+acute bronchitis	does not cause	pneumonia
+culture	is not routinely performed for	acute bronchitis
+chest radiography	is not routinely indicated for	acute bronchitis
+acute bronchitis	may be misdiagnosed as	pneumonia
+pneumonia	can be mistaken for	acute bronchitis
+clinical outcome	is generally good in	acute bronchitis
+recovery	occurs with	resolution of symptoms
+resolution of symptoms	indicates	clinical improvement
+clinical improvement	occurs after	acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+comorbidity	increases risk of	complications of acute bronchitis
+diabetes mellitus	increases risk of	adverse outcomes with acute bronchitis
+cardiovascular disease	increases risk of	complications of acute bronchitis
+fever	resolves with	recovery from acute bronchitis
+cough duration	may extend	after acute bronchitis
+smoker	should consider	smoking cessation during acute bronchitis
+elderly patients	have higher risk for	complications of acute bronchitis
+outpatient care	is sufficient for	most cases of acute bronchitis
+outpatient care	is appropriate for	acute bronchitis
+telemedicine	is used for	follow-up of acute bronchitis
+paracetamol	relieves	fever in acute bronchitis
+antibiotic stewardship	improves	prescribing practices for acute bronchitis
+children	are at risk for	acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient management	is sufficient for	most cases of acute bronchitis
+telemedicine	enables	follow-up for acute bronchitis
+paracetamol	relieves	fever in acute bronchitis
+antibiotic stewardship	improves	prescribing practices for acute bronchitis
+children	are at risk for	acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher risk for	complications of acute bronchitis
+outpatient care	is sufficient for	most cases of acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient management	is sufficient for	most cases of acute bronchitis
+telemedicine	enables	follow-up for acute bronchitis
+paracetamol	relieves	fever in acute bronchitis
+antibiotic stewardship	improves	prescribing practices for acute bronchitis
+children	are at risk for	acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient care	is sufficient for	most cases of acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient management	is sufficient for	most cases of acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient care	is sufficient for	most cases of acute bronchitis
+telemedicine	enables	follow-up for acute bronchitis
+paracetamol	relieves	fever in acute bronchitis
+antibiotic stewardship	improves	prescribing practices for acute bronchitis
+children	are at risk for	acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient management	is sufficient for	most cases of acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient care	is sufficient for	most cases of acute bronchitis
+telemedicine	enables	follow-up for acute bronchitis
+paracetamol	relieves	fever in acute bronchitis
+antibiotic stewardship	improves	prescribing practices for acute bronchitis
+children	are at risk for	acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient management	is sufficient for	most cases of acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient care	is sufficient for	most cases of acute bronchitis
+seasonal variation	affects	acute bronchitis incidence
+respiratory therapist	provides	inhalation technique instruction for acute bronchitis
+inhalation technique	improves	drug delivery in acute bronchitis
+breathlessness	is uncommon in	acute bronchitis
+sputum color	does not reliably indicate	bacterial infection
+imaging	is usually not required for	acute bronchitis
+imaging	may be used to exclude	pneumonia
+outpatient management	is common for	acute bronchitis
+outcome	is favorable in	most cases of acute bronchitis
+recovery time	varies with	patient factors
+patient factors	influence	recovery from acute bronchitis
+age	influences	recovery from acute bronchitis
+elderly patients	have higher morbidity with	acute bronchitis
+outpatient management	is sufficient for	most cases of acute bronchitis
+telemedicine	enables	follow-up for acute bronchitis
+paracetamol	relieves	fever in acute bronchitis
+paracetamol	is used for	fever in acute bronchitis
+acetaminophen	is used for	fever in acute bronchitis
+bronchodilators	are used for	symptom relief in acute bronchitis
+antipyretics	reduce	fever in acute bronchitis
+fever	is common in	acute bronchitis
+cough	persists after	acute bronchitis
+infection	remains localized to airways in	acute bronchitis
+viral infections	contribute to	acute bronchitis incidence
+bacterial co-infection	rare in	acute bronchitis
+sputum	may be copious in	acute bronchitis
+airway hyperresponsiveness	can occur in	acute bronchitis
+nebulizer therapy	provides	bronchodilation for acute bronchitis
+nebulizer therapy	used in	acute bronchitis management
+humidified air	provides	symptom relief in acute bronchitis
+humidified air	may aid	mucus clearance in acute bronchitis
+oxygen therapy	rarely required for	acute bronchitis
+hypoxemia	is unlikely in	acute bronchitis
+pulse oximetry	may assess	oxygen saturation in acute bronchitis
+respiration rate	may be elevated in	acute bronchitis
+clinical suspicion	guides	pertussis testing
+pertussis testing	is guided by	clinical suspicion
+education	provided to	patients with acute bronchitis
+patient education	improves	adherence to management
+hand hygiene	reduces transmission of	respiratory viruses causing acute bronchitis
+vaccination	prevents	influenza-related acute bronchitis
+vaccination	reduces incidence of	acute bronchitis
+respiratory infections	cluster seasonally	acute bronchitis
+seasonality	correlates with	acute bronchitis incidence
+clinical trials	inform	management of acute bronchitis
+guidelines	emphasize	symptomatic care over antibiotics for acute bronchitis
+public health messaging	targets	acute bronchitis prevention
+outpatient follow-up	ensures	symptom resolution in acute bronchitis
+clinical documentation	reflects	diagnosis of acute bronchitis
+coding	use	acute bronchitis as diagnosis
+electronic health record	stores	acute bronchitis data
+data analytics	leverage	acute bronchitis codes
+predictive models	use	acute bronchitis features
+mortality risk	is low	for acute bronchitis
+readmission risk	is low	for acute bronchitis
+hospital readmission	rarely occurs	after acute bronchitis
+care pathways	optimize	acute bronchitis management
+quality measures	track	antibiotic use for acute bronchitis
+cost	impact	acute bronchitis management
 healthcare utilization	increases with	acute bronchitis
-antibiotic stewardship programs	reduce	antibiotic use in acute bronchitis
-clinical trial	evaluated	bronchodilators in acute bronchitis
-bronchodilator response	indicates	wheeze in acute bronchitis
-educational materials	improve	patient understanding of acute bronchitis
-patient satisfaction	improves with	appropriate management of acute bronchitis
-clinical documentation	includes	diagnosis of acute bronchitis
-recovery time	varies	acute bronchitis
-school absence	increases with	acute bronchitis
-morbidity	associated with	acute bronchitis
-mortality	risk is low in	acute bronchitis
-economic burden	associated with	acute bronchitis
-viral shedding	persists after	acute bronchitis
-quarantine guidelines	do not apply to	acute bronchitis
-telemedicine	provides	access for management of acute bronchitis
-outpatient care	preferred setting for	acute bronchitis
-clinical guidelines	updated in	2023
-CDC guidelines	recommend	no antibiotics for acute bronchitis
-EHR alerts	reduce	inappropriate antibiotic prescriptions for acute bronchitis
-rapid strep test	not indicated for	acute bronchitis
-lung imaging	not necessary for	uncomplicated acute bronchitis
-acute bronchitis	is a type of	lower respiratory tract infection
-lower respiratory tract infection	includes	acute bronchitis
-health literacy	influences	management of acute bronchitis
-public health campaigns	raise awareness of	acute bronchitis
-antibiotic duration	varies for	acute bronchitis
-viral etiology	contributes to	acute bronchitis incidence
-hand hygiene campaigns	reduce	incidence
+patient satisfaction	improves with	clear communication about acute bronchitis
+care coordination	improves outcomes in	acute bronchitis
+clinical decision support	guides	management of acute bronchitis
+outpatient guideline	supports	symptomatic treatment for acute bronchitis
+practice variation	observed in	acute bronchitis treatment
+physician education	reduces	inappropriate antibiotics for acute bronchitis
+patient adverse events	include	antibiotic-related events for acute bronchitis
+drug interactions	possible with	antibiotics used for acute bronchitis
+allergy testing	not routinely required for	acute bronchitis
+sinusitis	coexists with	acute bronchitis
+bronchitis	can be chronic	but acute bronchitis is short-term
+acute bronchitis	relief	symptom improvement with supportive care
+pneumonia exclusion	relies on	chest radiography
+viral load	correlates with	severity of acute bronchitis
+immune response	contributes to	symptom resolution in acute bronchitis
+lung function	returns to baseline after	acute bronchitis
+spirometry	normal between	acute bronchitis episodes
+clinical inertia	reduces	appropriate antibiotic use in acute bronchitis
+care quality	improves with	guideline-concordant management of acute bronchitis
+public awareness	reduces	unnecessary antibiotic use for acute bronchitis
+clinical practice	evolves with	new evidence on acute bronchitis
+patient outcomes	improve with	timely follow-up after acute bronchitis
+health literacy	affects	understanding of acute bronchitis
+medication adherence	affects	symptom resolution in acute bronchitis
+care team	coordinates	symptom management for acute bronchitis
+risk stratification	informs	management of acute bronchitis
+treatment goals	include	symptom relief in acute bronchitis
+healthcare cost	driven by	antibiotic prescribing in acute bronchitis
+seasonal peaks	align with	influenza activity and acute bronchitis
+antibiotic resistance	influenced by	inappropriate treatment of acute bronchitis
+clinical focus	on	symptomatic care for acute bronchitis
+patient age	interacts with	comorbidity in acute bronchitis
+care guidelines	update	recommendations for acute bronchitis
+electronic reminders	increase	guideline adherence for acute bronchitis
+clinical audits	measure	antibiotic use for acute bronchitis
+practice guideline adoption	varies by	region for acute bronchitis
+outcome measures	track	recovery in acute bronchitis
+data-driven insights	emerge from	acute bronchitis datasets
+education materials	explain	expected course of acute bronchitis
+prognosis	favorable in	most cases of acute bronchitis
+acute bronchitis	has prognosis	favorable outcome

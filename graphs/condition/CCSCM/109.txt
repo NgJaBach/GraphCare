@@ -1,100 +1,100 @@
-ischemic stroke	is a	cerebrovascular accident
-ischemic stroke	treated with	alteplase
-ischemic stroke	treated with	mechanical thrombectomy
-intracerebral hemorrhage	is a	cerebrovascular accident
-intracerebral hemorrhage	treated with	blood pressure control
-intracerebral hemorrhage	risk factor for	hematoma expansion
-TIA	precursor to	ischemic stroke
-atrial fibrillation	increases risk for	ischemic stroke
-atrial fibrillation	treated with	anticoagulation
-hypertension	increases risk for	ischemic stroke
-hypertension	risk factor for	intracerebral hemorrhage
-diabetes mellitus	increases risk for	ischemic stroke
-diabetes mellitus	risk factor for	intracerebral hemorrhage
-dyslipidemia	associated with	atherosclerosis
-smoking	increases risk for	ischemic stroke
-obesity	associated with	stroke
-age	predicts	mortality
-NIHSS score	predicts	disability
-CT scan	detects	hemorrhage
-CT scan	guides	thrombolysis decision
-MRI	detects	infarct
-perfusion imaging	assesses	tissue viability
-cardiac source	causes	cardioembolic stroke
-carotid stenosis	increases risk for	ischemic stroke
-carotid endarterectomy	reduces	stroke recurrence
-statin therapy	reduces	atherosclerotic progression
-antiplatelet therapy	prevents	stroke recurrence
-aspirin	prevents	stroke recurrence
-clopidogrel	prevents	stroke recurrence
-anticoagulation	prevents	cardioembolic stroke
-decompressive craniectomy	improves	outcome in malignant edema
-blood pressure control	improves	stroke outcome
-glucose management	improves	stroke outcome
-hyperglycemia	worsens	ischemic injury
-pneumonia	prolongs	hospital stay
-delirium	prolongs	hospitalization
-seizures	occur in	stroke patients
-brain edema	worsens	prognosis
-hemorrhagic transformation	occurs after	thrombolysis
-intracranial pressure	increases	brain injury
-mechanical ventilation	required for	severe stroke
-ICU admission	associated with	severe stroke
-rehabilitation	improves	functional outcome
-discharge destination	influenced by	functional status
-modified Rankin scale	measures	disability
-functional status	predicts	discharge destination
-stroke severity	predicts	mortality
-mortality	associated with	stroke severity
-readmission	risk after	stroke
-recurrence	risk after	ischemic stroke
-infarct size	determines	disability
-diffusion restriction	indicates	acute ischemia
-large vessel occlusion	indicated for	thrombectomy
+acute cerebrovascular disease	is a	cerebrovascular disorder
+ischemic stroke	is a subtype of	acute cerebrovascular disease
+hemorrhagic stroke	is a subtype of	acute cerebrovascular disease
+intracerebral hemorrhage	is a type of	hemorrhagic stroke
+subarachnoid hemorrhage	is a type of	hemorrhagic stroke
+ischemic stroke	caused by	arterial occlusion
+ischemic stroke	caused by	thromboembolism
+ischemic stroke	caused by	atherothrombosis
+hemorrhagic stroke	caused by	vessel rupture
+atrial fibrillation	is a risk factor for	ischemic stroke
+hypertension	is a risk factor for	ischemic stroke
+diabetes mellitus	is a risk factor for	ischemic stroke
+hyperlipidemia	is a risk factor for	ischemic stroke
+smoking	is a risk factor for	ischemic stroke
+age	increases	risk of ischemic stroke
+carotid stenosis	is a risk factor for	ischemic stroke
+ischemic stroke	may present with	unilateral weakness
+ischemic stroke	may present with	speech disturbance
+ischemic stroke	may present with	aphasia
+ischemic stroke	may present with	vision loss
+ischemic stroke	may present with	loss of balance
+hemorrhagic stroke	presents with	sudden severe headache
+subarachnoid hemorrhage	presents with	thunderclap headache
+ischemic penumbra	exists as	salvageable tissue
+cerebral edema	is a complication of	ischemic stroke
+vasospasm	is a complication of	subarachnoid hemorrhage
+intracranial pressure increase	is a complication of	intracerebral hemorrhage
+ischemic stroke	diagnosed by	CT scan
+ischemic stroke	diagnosed by	MRI
+CT scan	is used for	evaluation of acute stroke
+MRI	is used for	evaluation of acute stroke
+CT angiography	is used for	detection of arterial occlusion
+digital subtraction angiography	is used for	evaluation of cerebral vessels
+blood pressure control	is recommended for	secondary stroke prevention
+antiplatelet therapy	is used for	secondary prevention of ischemic stroke
+aspirin	is a	antiplatelet agent
+clopidogrel	is a	antiplatelet agent
+antiplatelet therapy	reduces	risk of recurrent stroke
+anticoagulation therapy	reduces	risk of cardioembolic stroke
+warfarin	is a	vitamin K antagonist
+direct oral anticoagulants	are a class of	anticoagulants
+atrial fibrillation	is treated with	anticoagulation therapy
+thrombolysis	is recommended within	therapeutic window
 tissue plasminogen activator	is a	thrombolytic agent
-tenecteplase	alternative to	alteplase
-electrocardiogram	detects	atrial fibrillation
-echocardiography	detects	cardioembolic source
-lipids	influence	stroke risk
-renal function	affects	anticoagulant dosing
-liver injury	risk from	anticoagulation
-bleeding risk	affected by	anticoagulation
-bleeding	potential complication of	thrombolysis
-hemorrhagic stroke	is a	subtype of stroke
-aneurysm	rupture leads to	subarachnoid hemorrhage
-thrombosis	causes	ischemic stroke
-embolus	causes	ischemic stroke
-collateral circulation	mitigates	brain ischemia
-reperfusion	improves	perfusion
-door-to-needle time	reduces	treatment delay
+alteplase	is a	thrombolytic agent
+tenecteplase	is a	thrombolytic agent
+mechanical thrombectomy	is recommended for	large vessel occlusion ischemic stroke
+large vessel occlusion	is a target for	thrombectomy
+door-to-needle time	is a metric for	treatment efficiency
+recanalization status	influences	functional outcome
+rehabilitation	is essential for	functional recovery
+physical therapy	is part of	stroke rehabilitation
+speech therapy	is part of	stroke rehabilitation
+occupational therapy	is part of	stroke rehabilitation
+early mobilization	reduces	complications after stroke
+pneumonia	is a common post-stroke complication
+deep vein thrombosis	is a common post-stroke complication
+aspiration	is a complication of	stroke
+mortality	is a possible outcome after stroke
+disability	is a possible outcome after stroke
+modified Rankin Scale	is used to measure	functional outcome
 stroke unit	improves	outcomes
-nurse-led stroke unit	improves	outcomes
-occupational therapy	aids	activities of daily living
-speech therapy	aids	communication after stroke
-rehabilitation	enhances	functional independence
-caregiver support	influences	discharge planning
-time to reperfusion	determines	outcome
-blood-brain barrier disruption	occurs in	ischemic stroke
-temperature control	affects	stroke prognosis
-smoking cessation	improves	long-term outcome
-sleep apnea	associated with	stroke risk
-C-reactive protein	predicts	stroke outcome
-platelet aggregation	influences	thrombosis
-serum glucose	affects	stroke outcome
-glucose management	improves	stroke outcome
-blood pressure management	improves	stroke outcome
-sodium	affects	cerebral edema
-rehabilitation intensity	influences	functional outcome
-lipoprotein(a)	linked to	stroke risk
-body temperature	influences	stroke prognosis
-early rehabilitation	improves	independence
-physical therapy	improves	mobility after stroke
-nursing care	affects	recovery speed
-anticoagulation therapy	requires	monitoring
-platelet function	influenced by	antiplatelet therapy
-hepatotoxicity	risk with	statin therapy
-osmotherapy	manages	brain edema
-dehydration	worsens	ischemia
-hyperthermia	worsens	stroke outcome
-functional independence	achieved with	early rehabilitation
-critical care	supports	stroke rehabilitation
+neurocritical care	improves	outcomes in stroke
+secondary prevention	aims to reduce	recurrent stroke
+blood pressure control	reduces	risk of recurrent stroke
+lipid-lowering therapy	reduces	risk of recurrent stroke
+statin therapy	reduces	stroke risk in atherosclerotic disease
+smoking cessation	reduces	risk of recurrent stroke
+diabetes control	reduces	risk of stroke recurrence
+physical activity	reduces	stroke risk
+sleep apnea	is a risk factor for	stroke
+cardioembolic stroke	is a subtype of	ischemic stroke
+intracranial atherosclerosis	is a cause of	ischemic stroke
+hemorrhagic transformation	occurs after	thrombolysis
+hemorrhagic stroke	requires	blood pressure management
+anticoagulation	is contraindicated in	acute hemorrhagic stroke
+rebleeding	is a risk after	intracerebral hemorrhage
+vasospasm	is a complication of	subarachnoid hemorrhage
+delayed cerebral ischemia	is a complication of	subarachnoid hemorrhage
+neuroimaging	guides	treatment decisions in stroke
+guidelines	advise	rapid evaluation of stroke symptoms
+stroke centers	improve	time to treatment
+imaging	is used for	stroke evaluation
+quality improvement initiatives	improve	patient outcomes after stroke
+risk score	estimates	stroke probability
+tissue plasminogen activator	carries risk of	intracranial hemorrhage
+antiplatelet monotherapy	is used for	secondary prevention of non-cardioembolic stroke
+dual antiplatelet therapy	is used for	secondary prevention after minor stroke
+minor stroke	is a category of	acute ischemic stroke
+carotid endarterectomy	is a treatment for	carotid stenosis to prevent stroke
+carotid artery stenting	is a treatment for	carotid stenosis to prevent stroke
+blood glucose control	reduces	stroke risk
+weight management	reduces	stroke risk
+sleep apnea treatment	reduces	stroke risk
+stroke survivor	requires	long-term care
+long-term care	includes	rehabilitation services
+rehabilitation facility	is a common discharge destination after stroke
+speech therapy	improves	communication after stroke
+dependent functional status	predicts	mortality after stroke
+rehabilitation intensity	influences	functional independence after stroke

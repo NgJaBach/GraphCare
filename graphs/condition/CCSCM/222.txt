@@ -1,95 +1,92 @@
-hemolytic jaundice	is a	neonatal jaundice
+hemolytic jaundice	is a	jaundice type
+hemolytic jaundice	caused by	hemolysis
+hemolytic jaundice	caused by	autoimmune hemolytic anemia
+hemolytic jaundice	caused by	G6PD deficiency
+hemolytic jaundice	caused by	hereditary spherocytosis
+hemolytic jaundice	caused by	pyruvate kinase deficiency
+hemolytic jaundice	associated with	sickle cell disease
+hemolytic jaundice	leads to	hyperbilirubinemia
+hemolytic jaundice	leads to	unconjugated bilirubin
+hemolytic jaundice	diagnosed by	Coombs test
+hemolytic jaundice	diagnosed by	reticulocytosis
+hemolytic jaundice	treated with	phototherapy
+hemolytic jaundice	treated with	exchange transfusion
+hemolytic jaundice	treated with	IVIG
+hemolytic jaundice	monitored with	bilirubin levels
 perinatal jaundice	is a	neonatal jaundice
-neonatal jaundice	is a	bilirubinopathy
-jaundice	is a	symptom
-bilirubin	is a	pigment
-indirect bilirubin	is a	bilirubin
-direct bilirubin	is a	bilirubin
-indirect bilirubin	converts to	direct bilirubin
-indirect bilirubin	accumulates in	brain
-kernicterus	is a	brain injury
-hemolysis	causes	indirect bilirubin
-Rh incompatibility	causes	neonatal jaundice
-ABO incompatibility	causes	neonatal jaundice
-prematurity	increases risk of	neonatal jaundice
-prematurity	associated with	low birth weight
-low birth weight	increases risk of	hyperbilirubinemia
-exchange transfusion	used for	bilirubin excess
-phototherapy	used for	indirect bilirubin excess
-phototherapy	treats	hyperbilirubinemia
-exchange transfusion	treats	severe hyperbilirubinemia
-neonate	affected by	jaundice
-mother	implicated in	ABO incompatibility
-mother	implicated in	Rh incompatibility
-anti-D immunoglobulin	prevents	Rh incompatibility
-incompatibility	leads to	hemolysis
-hemolysis	leads to	anemia
-anemia	worsens	jaundice
-bilirubin metabolism	involves	liver
-bilirubin metabolism	involved in	newborn
-liver	conjugates	bilirubin
-conjugated bilirubin	is a	bilirubin
-unconjugated bilirubin	is a	bilirubin
-unconjugated bilirubin	increases	in hemolysis
+physiological jaundice	is a	common neonatal condition
+physiological jaundice	characterized by	mild unconjugated hyperbilirubinemia
+physiological jaundice	managed with	observation
+breast milk jaundice	associated with	delayed conjugation
+breast milk jaundice	resolves with	time
+breastfeeding jaundice	associated with	poor intake
+ABO incompatibility	causes	neonatal hyperbilirubinemia
+Rh incompatibility	causes	neonatal hyperbilirubinemia
+prematurity	increases	risk of jaundice
+sepsis	increases	risk of jaundice
+neonatal jaundice	treated with	phototherapy
+neonatal jaundice	treated with	exchange transfusion
+neonatal jaundice	diagnosed by	bilirubin measurement
+neonatal jaundice	diagnosed by	direct Coombs test
+neonatal jaundice	screened by	newborn screening
+unconjugated hyperbilirubinemia	associated with	physiological jaundice
+unconjugated hyperbilirubinemia	monitored with	bilirubin levels
+conjugated hyperbilirubinemia	indicates	cholestasis
+neonatal cholestasis	diagnosed by	ultrasound
+neonatal jaundice	risk factor	prematurity
+neonatal jaundice	risk factor	dehydration
+kernicterus	risk with	high unconjugated bilirubin
+kernicterus	prevented by	timely phototherapy
+bilirubin	transported by	albumin
+unconjugated bilirubin	conjugated by	glucuronosyltransferase
+bilirubin	eliminated by	liver
+phototherapy	reduces	bilirubin level
+exchange transfusion	lowers	bilirubin level
+IVIG	used for	immune-mediated hemolysis
+direct Coombs test	positive in	alloimmune hemolysis
+indirect Coombs test	positive in	maternal antibodies
+neonatal mortality	associated with	severe jaundice
+neonatal jaundice	follow-up	developmental outcome
+hemolysis	increases	bilirubin production
+bilirubin	binds to	albumin
+premature neonate	more at risk for	severe jaundice
+newborn	monitored for	bilirubin levels
+G6PD deficiency	predisposes to	hemolysis under stress
+spherocytosis	predisposes to	hemolysis
+pyruvate kinase deficiency	predisposes to	hemolysis
+Rh incompatibility	causes	fetal hemolysis
+ABO incompatibility	causes	fetal hemolysis
+Coombs test	used to	diagnose hemolytic disease
+neonates	at risk for	jaundice
+liver conjugation	decreases	with prematurity
 unconjugated bilirubin	crosses	blood-brain barrier
-blood-brain barrier	breached by	indirect bilirubin
-kernicterus	risk factor	prematurity
-kernicterus	risk for	neurodevelopmental impairment
-neurodevelopmental impairment	results from	kernicterus
-newborn	monitored with	bilirubin levels
-bilirubin levels	rise with	hemolysis
-hemolysis	associated with	Erythroblastosis fetalis
-erythroblastosis fetalis	caused by	Rh incompatibility
-erythroblastosis fetalis	treated with	exchange transfusion
-bilirubin	measured by	total serum bilirubin
-total serum bilirubin	used for	jaundice assessment
-jaundice assessment	guides	treatment decision
-phototherapy	side effects	temperature change
-phototherapy	safety concerns	skin damage
-exchange transfusion	risks	infection
-exchange transfusion	effects	bilirubin reduction
-lactation	reduces	bilirubin excretion
-breastfeeding	delays	bilirubin clearance
-breast milk jaundice	occurs in	newborns
-breastfeeding	associated with	breast milk jaundice
-sepsis	worsens	hyperbilirubinemia
-bilirubin clearance	decreases with	immaturity
-bilirubin clearance	predicts	readmission risk
-readmission risk	associated with	jaundice
-unresolved jaundice	leads to	kernicterus risk
-kernicterus risk	informs	public health policy
-indirect bilirubin	levels rise	in hemolysis
-direct bilirubin	levels rise	in liver dysfunction
-kernicterus	causes	neurodevelopmental delay
-newborn	requires	bilirubin monitoring
-bilirubin monitoring	guides	treatment escalation
-treatment escalation	includes	phototherapy
-treatment escalation	includes	exchange transfusion
-neonatal jaundice	prevalence	high in prematurity
-prematurity	limits	bilirubin conjugation
-bilirubin conjugation	efficiency	low in neonates
-neonatal jaundice	commonly resolves	spontaneously
-spontaneous resolution	occurs after	birth
-birth	defines	perinatal period
-perinatal period	includes	first week of life
-first week of life	labeled as	early neonatal period
-early neonatal period	duration	seven days
-bilirubin	measured in	plasma
-plasma bilirubin	reflects	severity
-severity	guides	treatment
-treatment	aims	bilirubin reduction
-bilirubin reduction	improves	outcomes
-outcomes	include	neurodevelopment
-neurodevelopment	assessed by	milestones
-milestones	monitored	long-term follow-up
-long-term follow-up	includes	developmental screening
-developmental screening	detects	deficits
-deficits	associated with	kernicterus
-kernicterus	is a	preventable complication
-preventable complication	reduces	healthcare burden
-healthcare burden	decreases with	early screening
-early screening	implemented by	healthcare system
-healthcare system	aims to	reduce readmission
-readmission	risk increases with	unresolved jaundice
-unresolved jaundice	leads to	kernicterus risk
-kernicterus risk	informs	public health policy
+bilirubin measurement	used for	jaundice assessment
+newborn care	includes	bilirubin monitoring
+phototherapy	mechanism	bilirubin breakdown
+bilirubin breakdown	forms	water-soluble isomers
+neonatal bilirubin	levels	guide treatment
+sunlight exposure	suggested effect	on bilirubin
+liver immaturity	reduces	bilirubin clearance
+albumin saturation	decreases	bilirubin binding
+exchange transfusion	risks	fluid shifts
+IVIG	alternatives	to exchange transfusion
+Coombs test	positive in	autoimmune disease
+indirect Coombs test	detects	maternal antibodies
+blood-brain barrier	allows	unconjugated bilirubin entry
+kernicterus	manifests	encephalopathy signs
+neonatal jaundice	differential diagnosis	metabolic disorders
+bilirubin production	increased in	hemolysis
+bilirubin	excreted in	bile
+bile flow	decreased in	cholestasis
+neonatal jaundice	prognosis	generally good with treatment
+neonatal jaundice	prognosis	depends on cause
+phototherapy	safety	well tolerated
+exchange transfusion	requires	compatible blood
+neonatal jaundice	diagnosis	bilirubin measurement and Coombs test
+unconjugated bilirubin	risk	neurotoxicity
+neonatal jaundice	monitoring	bilirubin trends
+bilirubin	neurotoxic threshold	high levels
+neonatal jaundice	recurrence risk	in future siblings
+breastfed infant	presents with	jaundice
+fetal hemolysis	leads to	neonatal jaundice
+bilirubin	peak	may vary by age

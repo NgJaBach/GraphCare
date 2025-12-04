@@ -1,0 +1,102 @@
+cervix	is a	female organ
+uterus	is a	female organ
+ovary	is a	female organ
+vagina	is a	female organ
+breast	is a	female organ
+vulva	is a	female organ
+fallopian tube	is a	female organ
+endometrium	is part of	uterus
+myometrium	is part of	uterus
+cervix	connects to	uterus
+ovary	located in	pelvis
+fallopian tube	located in	pelvis
+uterus	located in	pelvis
+vagina	located in	pelvis
+colposcopy	is a	diagnostic procedure
+pelvic ultrasound	is a	imaging procedure
+transvaginal ultrasound	is a	imaging procedure
+mammography	is a	imaging procedure
+breast ultrasound	is a	imaging procedure
+breast MRI	is a	imaging procedure
+MRI pelvis	is a	imaging procedure
+CT pelvis	is a	imaging procedure
+ultrasound	is a	imaging modality
+pap smear	is a	screening procedure
+cervical cytology	is a	diagnostic test
+cervical biopsy	is a	diagnostic procedure
+endometrial biopsy	is a	diagnostic procedure
+breast biopsy	is a	diagnostic procedure
+colposcopic biopsy	is a	diagnostic procedure
+ovarian biopsy	is a	diagnostic procedure
+HPV testing	screens for	HPV infection
+HPV infection	is a	virus
+HPV vaccination	reduces	cervical cancer incidence
+cervical cancer	is a	cancer
+ovarian cancer	is a	cancer
+breast cancer	is a	cancer
+endometrial cancer	is a	cancer
+uterine fibroid	is a	benign tumor
+endometriosis	causes	pelvic pain
+polycystic ovary syndrome	causes	irregular menses
+uterine fibroid	causes	heavy bleeding
+cervical dysplasia	can progress to	cervical cancer
+cervical cancer	diagnosed by	biopsy
+breast cancer	diagnosed by	imaging
+ovarian cancer	diagnosed by	imaging
+endometrial cancer	diagnosed by	biopsy
+endometrial hyperplasia	diagnosed by	biopsy
+colposcopy	detects	cervical intraepithelial neoplasia
+cervical intraepithelial neoplasia	is a	premalignant condition
+cervix	screened by	Pap smear
+uterus	imaged by	MRI
+breast tissue	evaluated by	imaging
+vagina	evaluated by	ultrasound
+cervix	evaluated by	colposcopy
+ovary	evaluated by	ultrasound
+uterus	evaluated by	ultrasound
+breast	evaluated by	mammography
+breast	evaluated by	ultrasound
+pelvic ultrasound	visualizes	uterus
+pelvic ultrasound	visualizes	ovaries
+transvaginal ultrasound	assesses	ovarian cyst
+endometrial stripe	observed by	ultrasound
+cervical cancer	associated with	HPV infection
+HPV infection	associated with	cervical cancer
+HPV infection	is risk factor for	cervical cancer
+screening	reduces	cervical cancer mortality
+screening	reduces	breast cancer mortality
+BRCA mutation	increases	risk of ovarian cancer
+BRCA mutation	increases	risk of breast cancer
+ovary	produces	oocyte
+ovulation	occurs in	ovary
+follicle	matures in	ovary
+corpus luteum	forms after	ovulation
+endometrium	thickens during	menstrual cycle
+cervical mucus	changes during	menstrual cycle
+breast tissue	responds to	estrogen
+vagina	contains	mucosa
+vulva	contains	glands
+fallopian tube	transports	egg
+fertilization	occurs in	fallopian tube
+pregnancy	implants in	uterus
+uterus	enlarges during	pregnancy
+breast milk	produced by	mammary gland
+breast milk	nourishes	infant
+uterine lining	shed during	menstruation
+estrogen	influences	mammary tissue
+progesterone	influences	endometrium
+vagina	lined by	mucosa
+uterus	supports	pregnancy
+ovary	contains	oocytes
+ovarian follicle	matures in	ovary
+corpus luteum	forms after	ovulation
+implantation	occurs in	uterus
+placenta	forms in	uterus
+placenta	nourishes	fetus
+fetus	grows in	uterus
+fetus	nourished by	placenta
+fetal heartbeat	indicates	viability
+amniotic fluid	surrounds	fetus
+placenta	nourishes	fetus
+placenta	provides	oxygen and nutrients to fetus
+fetus	develops in	uterus

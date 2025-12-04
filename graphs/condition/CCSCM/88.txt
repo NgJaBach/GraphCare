@@ -1,100 +1,100 @@
-glaucoma	is a	chronic eye disease
+glaucoma	is a	eye disease
+glaucoma	is characterized by	elevated intraocular pressure
 glaucoma	causes	optic neuropathy
-glaucoma	results in	irreversible vision loss
-glaucoma	increases	intraocular pressure
-glaucoma	damages	optic nerve
 glaucoma	leads to	visual field loss
-intraocular pressure	is measured by	tonometry
-tonometry	measures	intraocular pressure
-optic nerve	undergoes	degeneration
-glaucoma	is treated with	prostaglandin analogs
+glaucoma	may cause	irreversible vision loss
+open-angle glaucoma	is a	type of glaucoma
+angle-closure glaucoma	is a	type of glaucoma
+glaucoma	managed with	IOP-lowering therapy
 latanoprost	is a	prostaglandin analog
 latanoprost	reduces	intraocular pressure
 timolol	is a	beta-blocker
-beta-blockers	lower	intraocular pressure
-brimonidine	is a	alpha-2-adrenergic agonist
-brimonidine	lowers	intraocular pressure
+timolol	lowers	aqueous humor production
+bimatoprost	is a	prostaglandin analog
+travoprost	is a	prostaglandin analog
 acetazolamide	is a	carbonic anhydrase inhibitor
 dorzolamide	is a	carbonic anhydrase inhibitor
-carbonic anhydrase inhibitors	reduce	aqueous humor production
-prostaglandin analogs	increase	aqueous outflow
-trabeculectomy	is a	surgical procedure
-glaucoma drainage device	provides	alternative drainage pathway
-Ahmed valve	is a	glaucoma drainage device
-Ahmed valve	lowers	intraocular pressure
-Baerveldt implant	lowers	intraocular pressure
-SLT	is a	laser therapy
-selective laser trabeculoplasty	reduces	intraocular pressure
-argon laser trabeculoplasty	reduces	intraocular pressure
-laser therapy	improves	aqueous outflow
-cyclodestructive procedure	reduces	aqueous humor production
-neovascular glaucoma	is a	glaucoma subtype
-angle-closure glaucoma	is a	glaucoma subtype
-open-angle glaucoma	is a	glaucoma subtype
-age	is a	risk factor for glaucoma
-family history	is a	risk factor for glaucoma
-African descent	is a	risk factor for glaucoma
-steroid use	increases	glaucoma risk
-diabetes	is associated with	glaucoma
-hypertension	is associated with	glaucoma
-myopia	increases	glaucoma risk
-elevated intraocular pressure	increases	glaucoma progression
-ocular perfusion pressure	affects	glaucoma progression
-optic disc cupping	indicates	glaucoma
-cup-to-disc ratio	correlates with	glaucoma severity
-visual field defect	is a	feature of glaucoma
-OCT	detects	nerve fiber layer thinning
-nerve fiber layer thinning	occurs with	glaucoma
+pilocarpine	is a	miotic agent
+carbachol	is a	miotic agent
+laser peripheral iridotomy	is a	glaucoma procedure
+selective laser trabeculoplasty	is a	glaucoma procedure
+trabeculectomy	is a	glaucoma surgery
+glaucoma surgery	may be	needed in uncontrolled disease
+tonometry	measures	intraocular pressure
+gonioscopy	assesses	anterior chamber angle
+visual field testing	monitors	glaucoma progression
 perimetry	assesses	visual field
-visual field defects	progress with	glaucoma
-glaucoma	increases	risk of blindness
-systemic hypotension	worsens	glaucoma progression
-sleep apnea	increases risk of	glaucoma
-pigment dispersion	predisposes to	pigmentary glaucoma
-iris	blocks	trabecular meshwork
-pigmentary glaucoma	is a	glaucoma subtype
-normal tension glaucoma	is a	glaucoma type
-ocular hypertension	is a	risk state for glaucoma
-topical prostaglandin analogs	are first-line therapy for	open-angle glaucoma
-Snellen chart	assesses	visual acuity
-dry eye	is a side effect of	prostaglandin analogs
-adherence to therapy	influences	glaucoma control
-dose timing	affects	efficacy of glaucoma meds
-drug interactions	affect	glaucoma meds
-glaucoma	requires	chronic follow-up
-ophthalmology clinic	monitors	glaucoma management
-visual field testing	recommended for	glaucoma monitoring
-target intraocular pressure	set for	glaucoma patient
-safety profile	varies among	glaucoma medications
-systemic hypotension	occurs with	beta-blockers
-beta-blockers	cause	bradycardia
-acetazolamide	cause	metabolic acidosis
-dorzolamide	cause	bitter taste
-metabolic acidosis	is a side effect of	acetazolamide
-conjunctival hyperemia	is a side effect of	prostaglandin analogs
-brimonidine	can cause	dry mouth
-neuroprotection	is a focus in	glaucoma research
-glaucoma therapy goals	include	preserving vision
-visual field preservation	is objective of	glaucoma treatment
-quality of life	impacted by	glaucoma
-glaucoma management	requires	chronic follow-up
-drainage devices	used when	conventional meds fail
-glaucoma types	include	open-angle and angle-closure
-open-angle glaucoma	is a	chronic progressive condition
-angle-closure glaucoma	leads to	acute symptoms
-acute angle-closure glaucoma	requires	emergency treatment
-SLT	used as	first-line therapy for glaucoma
-trabeculectomy	risk of	infection
-glaucoma surgery	may fail due to	scarring
-neuroprotection strategies	aim to	preserve ganglion cells
-ganglion cells	die in	glaucoma
-retinal nerve fiber layer thinning	associated with	glaucoma progression
-perimetry	monitors	progression of glaucoma
-treatment adherence	improves	glaucoma outcomes
-education	improves	adherence to therapy
-insurance coverage	affects access to	glaucoma care
-telemedicine	supports	glaucoma monitoring
-mobile apps	assist	glaucoma medication reminders
-emergency services	are needed for	acute angle-closure glaucoma
-visual disability	risk increases with	chronic glaucoma
-annual dilated eye exam	monitors	glaucoma status
+OCT	assesses	retinal nerve fiber layer
+fundus photography	documents	optic nerve damage
+optic disc cupping	indicates	glaucoma damage
+retinal nerve fiber layer thinning	indicates	glaucoma damage
+central corneal thickness	affects	intraocular pressure measurement
+IOP measurement	is influenced by	corneal properties
+age	increases	glaucoma risk
+family history	increases	glaucoma risk
+African descent	increases	glaucoma risk
+myopia	increases	open-angle glaucoma risk
+hyperopia	increases	angle-closure glaucoma risk
+ocular hypertension	is a	condition
+ocular hypertension	may progress to	glaucoma
+glaucoma	requires	regular monitoring
+glaucoma	progresses to	blindness
+visual field defect	indicates	glaucoma progression
+scotoma	is a	visual field defect
+angle-closure glaucoma	presents with	eye pain
+angle-closure glaucoma	can cause	blurred vision
+glaucoma threatens	optic nerve
+optic nerve	is damaged by	elevated intraocular pressure
+optic nerve head	shows	cupping
+glaucoma	is monitored by	visual field testing
+latanoprost	may cause	conjunctival hyperemia
+timolol	may cause	bradycardia
+latanoprost	may cause	iris pigmentation changes
+latanoprost	can cause	eyelash growth
+carbachol	may cause	miosis
+carbonic anhydrase inhibitors	may cause	paresthesias
+acetazolamide	may cause	kidney stones
+prostaglandin analogs	may cause	conjunctival hyperemia
+beta-blockers	may cause	systemic hypotension
+minimally invasive glaucoma surgery	is a	glaucoma procedure
+MIGS	stands for	minimally invasive glaucoma surgery
+iStent	is a	MIGS device
+iStent	is used for	glaucoma management
+glaucoma management	includes	eye drops
+eye drops	include	prostaglandin analogs
+eye drops	reduce	intraocular pressure
+laser therapy	reduces	intraocular pressure
+glaucoma surgery	reduces	intraocular pressure
+angle-closure glaucoma	requires	urgent treatment
+urgent treatment	includes	iridotomy
+iridotomy	treats	angle-closure glaucoma
+optic nerve	is susceptible to	ischemia
+ischemia	affects	optic nerve in glaucoma
+trabecular meshwork	regulates	aqueous humor outflow
+aqueous humor outflow	is reduced in	glaucoma
+glaucoma	affects	quality of life
+quality of life	decreases with	glaucoma progression
+glaucoma management	aims to	reduce intraocular pressure
+target intraocular pressure	is	individualized
+glaucoma	is chronic	disease
+glaucoma needs	adherence to therapy
+adherence to therapy	affects	glaucoma control
+systolic blood pressure	influences	optic nerve perfusion
+diastolic blood pressure	influences	optic nerve perfusion
+systemic hypertension	associated with	glaucoma risk
+diabetes mellitus	associated with	glaucoma risk
+smoking	associated with	glaucoma risk
+genetic mutations	contribute to	glaucoma risk
+MYOC gene	is associated with	glaucoma
+OPTN gene	is associated with	glaucoma
+glaucoma can cause	blindness
+glaucoma increases	healthcare utilization
+glaucoma causes	disability
+normal tension glaucoma	is a	type of glaucoma
+normal tension glaucoma	presents with	visual field loss at normal IOP
+glaucoma has	multiple subtypes
+ophthalmology	manages	glaucoma
+eye care	aims to	prevent glaucoma progression
+glaucoma is a	common cause of irreversible vision loss
+glaucoma impairment	leads to	daily living changes
+glaucoma care	requires	multidisciplinary approach

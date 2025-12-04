@@ -1,0 +1,100 @@
+intravenous pyelogram	is a	diagnostic imaging procedure
+intravenous pyelogram	uses	iodinated contrast
+intravenous pyelogram	evaluates	urinary tract
+intravenous pyelogram	detects	obstruction
+intravenous pyelogram	reveals	hydronephrosis
+intravenous pyelogram	reveals	ureteral stone
+intravenous pyelogram	shows	ureteral stricture
+intravenous pyelogram	visualizes	renal pelvis
+intravenous pyelogram	contraindicated in	iodide allergy
+intravenous pyelogram	contraindicated in	pregnancy
+intravenous pyelogram	contraindicated in	severe kidney disease
+intravenous pyelogram	alternative test	CT urogram
+intravenous pyelogram	alternative test	renal ultrasound
+iodinated contrast	excreted by	kidneys
+iodinated contrast	requires	hydration
+iodinated contrast	carries	allergic reaction
+iodinated contrast	carries	nephrotoxicity
+contrast-induced nephropathy	risk factors	dehydration
+contrast-induced nephropathy	associated with	preexisting kidney disease
+preexisting kidney disease	increases	risk of nephrotoxicity
+nephrotoxicity	mitigated by	hydration
+hydration	reduces	contrast nephrotoxicity
+radiation exposure	increases	cancer risk
+intravenous pyelogram	carries	radiation exposure
+contrast media	can cause	nephrotoxicity
+contrast media	can cause	allergic reaction
+iodinated contrast	can cause	anaphylaxis
+anaphylaxis risk	higher in	previous contrast reaction
+previous contrast reaction	increases	adverse event risk
+kidney function	evaluated by	serum creatinine
+serum creatinine	used to estimate	glomerular filtration rate
+glomerular filtration rate	decreases with	age
+age	increases	risk of nephrotoxicity
+intravenous pyelogram	replaced by	CT urography
+CT urography	offers	higher diagnostic yield than IVP
+CT urography	replaces	intravenous pyelogram
+urinary tract evaluation	performed by	intravenous pyelogram
+contrast administration	requires	preprocedure evaluation
+preprocedure evaluation	includes	renal function testing
+renal function testing	includes	creatinine level
+creatinine level	used for	nephrotoxicity risk stratification
+nephrotoxicity risk stratification	informs	contrast dosing
+contrast dosing	adjusted for	renal function
+renal function	affects	contrast dosing
+contrast dosing	impacts	contrast toxicity
+blood pressure	monitored during	intravenous pyelogram
+blood pressure	influences	renal perfusion
+renal perfusion	affected by	contrast media
+intravenous pyelogram	requires	allergy screening
+allergy screening	includes	iodide allergy
+iodide allergy	contraindicates	iodinated contrast
+iodinated contrast	interacts with	thyroid function
+thyroid function	affected by	iodinated contrast
+thyroid function	assessed before	iodinated contrast administration
+contrast administration	documented in	radiology report
+radiology report	includes	imaging findings
+imaging findings	influence	clinical management
+intravenous pyelogram	useful for	detecting ureteral obstruction
+hydration status	affects	contrast tolerance
+contrast tolerance	improves with	hydration
+dehydration	increases	risk of nephrotoxicity
+nephrotoxicity risk	reduced by	hydration and dose optimization
+dose optimization	includes	lower iodinated contrast dose
+lower iodinated contrast dose	reduces	toxicity
+contrast dose	adjusted for	kidney impairment
+kidney impairment	associated with	reduced clearance
+reduced clearance	increases	duration of contrast in body
+contrast exposure duration	correlates with	nephrotoxicity risk
+nephrotoxicity risk	guides	patient selection
+risk minimization	achieved by	alternative imaging
+alternative imaging	includes	ultrasound
+ultrasound	alternative to	IVP in certain cases
+ultrasound	limited by	patient body habitus
+calcifications	seen on	IVP
+stone	visualized on	IVP
+stone	located in	renal pelvis
+stone	cause	obstruction
+obstruction	identified by	IVP
+hydronephrosis	detected by	IVP
+IVP	provides	opacification of urinary tract
+opacification	facilitates	diagnosis of obstruction
+obstruction	leads to	hydronephrosis
+hydronephrosis	indicates	urinary tract blockage
+urinary tract blockage	management involves	decompression
+decompression	performed by	stent placement
+contrast medium	cleared by	kidneys
+renal clearance	determines	duration of contrast in body
+duration of contrast	affects	imaging quality
+imaging quality	affected by	patient motion
+patient motion	reduces	imaging clarity
+contrast agent	contraindications include	iodine allergy
+iodine allergy	present in	patient history
+patient history	documented in	chart
+chart	reviewed prior to	contrast administration
+contrast administration	requires	informed consent
+informed consent	ensures	patient understanding
+patient understanding	affects	procedure compliance
+procedure completion	informs	medical record
+medical record	used for	clinical research
+clinical research	informs	medical knowledge

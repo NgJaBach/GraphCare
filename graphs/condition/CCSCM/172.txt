@@ -1,100 +1,99 @@
-ovarian cyst	is a	adnexal mass
-ovarian cyst	is a	pelvic mass
-ovarian cyst	is a	benign lesion
+ovarian cyst	is a	benign condition
+ovarian cyst	is a	functional cyst
+ovarian cyst	is a	simple cyst
+ovarian cyst	is a	ovarian lesion
 ovarian cyst	may cause	pelvic pain
-ovarian cyst	may cause	abdominal distension
-ovarian cyst	may cause	urinary frequency
-ovarian cyst	diagnosed by	ultrasound
-ultrasound	detects	ovarian cyst
-transvaginal ultrasound	identifies	corpus luteum cyst
-MRI	characterizes	endometrioma
-CT scan	evaluates	ovarian cyst
-simple cyst	is a	common finding
-complex cyst	suggests	neoplasm
-follicular cyst	is a	type of ovarian cyst
-corpus luteum cyst	is a	type of ovarian cyst
-endometrioma	is a	type of ovarian cyst
-dermoid cyst	is a	type of ovarian cyst
-paraovarian cyst	is a	type of ovarian cyst
-ovarian cyst	may be	functional cyst
-ovarian cyst	predisposes to	torsion
-ovarian cyst	predisposes to	rupture
-ovarian cyst	predisposes to	hemorrhage
+ovarian cyst	may cause	abdominal pain
+ovarian cyst	detected by	ultrasound
+ovarian cyst	detected by	transvaginal ultrasound
+ovarian cyst	seen in	premenopausal women
+ovarian cyst	seen in	reproductive-age women
+ovarian cyst	associated with	infertility
 ovarian cyst	associated with	endometriosis
-ovarian cyst	associated with	polycystic ovary syndrome
-follicular cyst	resolves	spontaneously
-corpus luteum cyst	resolves	spontaneously
-endometrioma	associated with	infertility
-dermoid cyst	contains	sebaceous material
-paraovarian cyst	originates from	broad ligament
-ovarian cyst	evaluated with	imaging
-imaging	includes	ultrasound
-ultrasound	shows	septations
-ultrasound	shows	mural nodules
-ultrasound	shows	papillary projections
-papillary projections	suggest	malignancy
-complex cyst	indicates	risk of malignancy
-serous cystadenoma	is a	ovarian tumor
-mucinous cystadenoma	is a	ovarian tumor
-mature cystic teratoma	is a	dermoid tumor
-dermoid cyst	is a	dermoid tumor
-ovarian cyst	managed with	watchful waiting
-watchful waiting	includes	serial ultrasound
+ovarian cyst	associated with	pelvic inflammatory disease
+ovarian cyst	associated with	polycystic ovarian syndrome
+ovarian cyst	increases	rupture risk
+ovarian cyst	increases	torsion risk
+ovarian cyst	increases	hemorrhage risk
+ovarian cyst	increases	infection risk
+ovarian cyst	evaluated with	pelvic ultrasound
+ovarian cyst	evaluated with	MRI
+ovarian cyst	evaluated with	CT scan
+ovarian cyst	shows	septations
+ovarian cyst	shows	wall thickening
+ovarian cyst	shows	mural nodules
+ovarian cyst	related to	corpus luteum cyst
+ovarian cyst	related to	follicular cyst
+ovarian cyst	related to	mature cystic teratoma
+ovarian cyst	associated with	serous cystadenoma
+ovarian cyst	associated with	mucinous cystadenoma
+ovarian cyst	tested with	CA-125
+CA-125	is a	tumor marker
+CA-125	used for	malignancy assessment
+transvaginal ultrasound	preferred for	ovarian cyst evaluation
+ultrasound	commonly used for	ovarian cyst screening
+MRI	more accurate for	complex cysts
+CT scan	not routine for	ovarian cyst evaluation
+ovarian cyst	may resolve with	menses
+watchful waiting	appropriate for	simple cyst
+watchful waiting	appropriate for	small cyst
+hormonal contraception	reduces	functional cyst formation
+oral contraceptives	prevent	recurrence of functional cysts
 surgical removal	indicated for	complex cyst
 laparoscopy	used for	cyst removal
-cystectomy	accomplishes	cyst removal
-oophorectomy	removes	ovary
-oral contraceptive pills	used for	prevention of functional cyst
-hormonal therapy	used for	recurrent cysts
-postmenopausal status	associated with	ovarian cyst
-postmenopausal status	increases	malignancy risk
-tumor marker	used for	malignancy assessment
-CA125	is a	tumor marker
-suspicious cyst	triggers	biopsy
-biopsy	yields	histology results
-complex cyst	indicates	risk of malignancy
-papillary projection	seen on	ultrasound
-papillary projection	associated with	malignancy
-septation	present in	cyst
-mural nodule	associated with	malignancy
-hemorrhagic cyst	managed with	drainage
-drainage	provides	symptomatic relief
-cyst aspiration	used for	hemorrhagic cyst drainage
-drainage	reduces	pelvic pain
-watchful waiting	reduces	intervention need
-surgery	reduces	recurrence risk
+cystectomy	results in	preserved ovarian tissue
+ovarian reserve	affected by	cystectomy
+ovarian torsion	risk increased by	ovarian cyst
+rupture	may cause	peritoneal irritation
+peritoneal irritation	causes	abdominal pain
+dermoid cyst	is a	type of ovarian cyst
+hemorrhagic cyst	is a	type of ovarian cyst
+follicular cyst	is a	type of ovarian cyst
+corpus luteum cyst	is a	type of ovarian cyst
+benign ovarian tumor	may coexist with	ovarian cyst
+mature cystic teratoma	is a	ovarian tumor type
+ovarian cyst fluid	contains	cholesterol crystals
+ovarian cyst fluid	contains	keratin
+parovarian cyst	is a	separate from ovarian cyst
+paratubal cyst	is a	adjacent to ovary
+ovarian cyst	seen in	postmenopausal women
+ovarian cyst	seen in	adolescents
+small ovarian cyst	is a	common finding
+large ovarian cyst	is a	surgical concern
+ovarian cyst	complicates	pregnancy
+pregnancy	risk affected by	ovarian cyst
+ovarian cyst increases	infertility risk
+ovarian cyst reduces	fertility potential
+ovarian cyst associated with	ovarian cancer risk
+CA-125 elevation	indicates	ovarian malignancy risk
+serum biomarker	used for	ovarian cyst evaluation
+ovarian cyst	influences	patient anxiety
+ovarian cyst	influences	quality of life
+cyst aspiration	offers	symptomatic relief
+aspiration	sometimes	facilitates diagnosis
+laparoscopy	provides	direct visualization
 laparoscopy	enables	cyst removal
-cyst removal	preserves	ovarian function
-oophorectomy	sacrifices	ovarian function
-ovarian function	impacts	fertility
-fertility	affected by	ovarian cyst
-pregnancy	affected by	ovarian cyst
-ovarian cyst	risk factor for	infertility
-infertility	managed with	IVF
-IVF	requires	ovarian stimulation
-ovarian stimulation	improves	ovulatory function
-imaging-guided aspiration	used for	drainage of ovarian cyst
-drainage	relieves	cyst pressure
-cyst wall	lined by	epithelium
-epithelium	forms	lining of cyst
-cyst fluid	tested for	malignancy
-malignancy	suspected in	complex cyst
-age	influences	cyst type
-blood test	performed for	ovarian cyst evaluation
-treatment decision	guided by	cyst characteristics
-torsion	presents	sudden abdominal pain
-torsion	requires	urgent imaging
-urgent imaging	clarifies	torsion diagnosis
-ovarian necrosis	results from	torsion
-surgery	indicated for	torsion with necrosis
-hormonal status	influences	cyst formation
-estrogen	influences	ovarian cyst formation
-progesterone	influences	corpus luteum cyst formation
-follicle	forms	follicular cyst
-ovulation	triggers	corpus luteum cyst formation
-ovarian cyst	surveillance	recommended in guidelines
-guidelines	emphasize	early imaging for ovarian cyst
-risk stratification	guides	management of ovarian cyst
-clinical prediction rule	applied to	ovarian cyst
-recurrence	risk after	cyst removal
-recurrence-free survival	used as	outcome measure
+ovarian cyst	recurs after	cyst aspiration
+cyst recurrence	occurs after	cyst drainage
+ovarian cyst	managed by	observation
+ovarian cyst	managed by	cystectomy
+ovarian cyst	managed by	oophorectomy
+ovarian cyst	managed by	drainage plus sclerotherapy
+postoperative recovery	length	days
+short-term outcomes	include	pain relief
+long-term outcomes	include	preserved fertility
+fertility prognosis	affected by	cystectomy
+pregnancy outcomes	influenced by	ovarian cyst history
+ovarian cyst	risk factor	age
+older age	increases	risk of ovarian cyst malignancy
+younger age	associated with	functional cysts
+menopause	reduces	functional cysts incidence
+endocrine disorders	associated with	ovarian cysts
+PID	predisposes to	ovarian cyst formation
+endometriosis	associated with	ovarian cysts
+polycystic ovaries	appear as	multiple cysts
+ovarian cyst	sometimes	spontaneously resolves
+ovarian cyst	sometimes	spontaneously ruptures
+ruptured cyst	presents with	acute abdomen
+acute abdomen	requires	urgent care
+urgent care	provided by	emergency department

@@ -1,1 +1,104 @@
-ENTITY 1	RELATIONSHIP	ENTITY 2
+melanoma	is a type of	skin cancer
+melanoma	arises from	melanocytes
+melanoma	spreads to	lymph nodes
+melanoma	metastasizes to	liver
+melanoma	metastasizes to	brain
+melanoma	metastasizes to	lungs
+melanoma	treated with	surgery
+melanoma	treated with	immunotherapy
+melanoma	treated with	targeted therapy
+melanoma	treated with	chemotherapy
+melanoma	associated with	uv exposure
+melanoma	associated with	fair skin
+melanoma	associated with	sunburn history
+melanoma	associated with	Breslow thickness
+melanoma	associated with	ulceration
+melanoma	associated with	braf mutation
+melanoma	associated with	nras mutation
+melanoma	expresses	pd-l1 expression
+melanoma	responds to	ipilimumab
+melanoma	responds to	pembrolizumab
+kaposi sarcoma	is a type of	vascular tumor
+kaposi sarcoma	associated with	hhv-8 infection
+kaposi sarcoma	occurs in	immunocompromised individuals
+kaposi sarcoma	presents with	violaceous lesions
+kaposi sarcoma	treated with	chemotherapy
+kaposi sarcoma	treated with	radiotherapy
+kaposi sarcoma	treated with	antiretroviral therapy
+kaposi sarcoma	responds to	immunotherapy
+kaposi sarcoma	may involve	lymph nodes
+kaposi sarcoma	prognosis	variable
+kaposi sarcoma	seen in	aids patients
+kaposi sarcoma	more common in	mediterranean population
+merkel cell carcinoma	is a	neuroendocrine skin cancer
+merkel cell carcinoma	arises from	merkel cells
+merkel cell carcinoma	spreads to	regional lymph nodes
+merkel cell carcinoma	metastasizes to	distant organs
+merkel cell carcinoma	treated with	radiation therapy
+merkel cell carcinoma	treated with	surgical excision
+merkel cell carcinoma	treated with	immunotherapy
+merkel cell carcinoma	expresses	ck20 expression
+merkel cell carcinoma	expresses	neuroendocrine markers
+merkel cell carcinoma	associated with	immunosuppression
+merkel cell carcinoma	associated with	older age
+merkel cell carcinoma	prognosis	poor
+angiosarcoma	is a	vascular sarcoma
+angiosarcoma	arises from	endothelial cells
+angiosarcoma	spreads to	lungs
+angiosarcoma	metastasizes to	liver
+angiosarcoma	treated with	surgery
+angiosarcoma	treated with	radiotherapy
+angiosarcoma	treated with	chemotherapy
+angiosarcoma	associated with	lymphedema
+angiosarcoma	associated with	prior radiation
+angiosarcoma	presents with	bruise-like lesion
+angiosarcoma	involves	scalp
+angiosarcoma	occurs in	elderly men
+dermatofibrosarcoma protuberans	is a	dermal sarcoma
+dfsp	characterized by	col1a1-pdgfb fusion
+dfsp	treated with	wide local excision
+dfsp	treated with	mohs surgery
+dfsp	recurs	local recurrence
+dfsp	presents with	plaque-like lesion
+dfsp	occurs in	middle-aged adults
+dfsp	marker	cd34 positivity
+dfsp	prognosis	favorable after complete excision
+dfsp	requires	clear margins
+dfsp	rarely metastasizes	to lymph nodes
+dfsp	associated with	surgical margins
+eccrine porocarcinoma	is a	sweat gland carcinoma
+eccrine porocarcinoma	arises from	eccrine sweat glands
+eccrine porocarcinoma	treated with	surgical excision
+eccrine porocarcinoma	metastasizes to	lymph nodes
+eccrine porocarcinoma	presents with	nodules
+eccrine porocarcinoma	prognosis	variable
+sebaceous carcinoma	is a	sebaceous skin cancer
+sebaceous carcinoma	associated with	muir-torre syndrome
+sebaceous carcinoma	treated with	surgery
+sebaceous carcinoma	treated with	radiation therapy
+sebaceous carcinoma	may involve	eyelids
+sebaceous carcinoma	prognosis	variable
+cutaneous T-cell lymphoma	is a	non-epithelial skin cancer
+mycosis fungoides	is a	CTCL subtype
+mycosis fungoides	presents with	patches
+mycosis fungoides	treated with	phototherapy
+sezary syndrome	is a	leukemic ctcl variant
+sezary syndrome	presents with	erythroderma
+cutaneous T-cell lymphoma	progresses to	sezary syndrome
+cutaneous T-cell lymphoma	prognosis	variable
+mycosis fungoides	prognosis	variable
+sezary syndrome	treated with	systemic therapy
+cutaneous leiomyosarcoma	is a	soft tissue sarcoma of skin
+cutaneous leiomyosarcoma	arises from	smooth muscle cells
+cutaneous leiomyosarcoma	treated with	surgery
+cutaneous leiomyosarcoma	treated with	radiotherapy
+cutaneous leiomyosarcoma	metastasizes to	lungs
+cutaneous leiomyosarcoma	prognosis	poor
+cutaneous fibrosarcoma	is a	skin sarcoma
+cutaneous fibrosarcoma	arises from	fibroblasts
+cutaneous fibrosarcoma	treated with	wide local excision
+cutaneous fibrosarcoma	treated with	radiation therapy
+cutaneous fibrosarcoma	may metastasize to	lungs
+cutaneous fibrosarcoma	prognosis	variable
+cutaneous fibrosarcoma	presents with	firm nodules
+cutaneous fibrosarcoma	associated with	prior radiation exposure

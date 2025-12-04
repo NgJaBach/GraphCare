@@ -1,102 +1,99 @@
-hyperplasia of prostate	is a	benign prostatic condition
-hyperplasia of prostate	causes	lower urinary tract symptoms
-hyperplasia of prostate	causes	urinary retention
-hyperplasia of prostate	causes	nocturia
-hyperplasia of prostate	causes	urinary hesitancy
-hyperplasia of prostate	causes	weak urinary stream
-hyperplasia of prostate	causes	urgency
-hyperplasia of prostate	causes	frequency
-hyperplasia of prostate	leads to	bladder outlet obstruction
-bladder outlet obstruction	leads to	detrusor hypertrophy
-detrusor hypertrophy	may cause	urge incontinence
-hyperplasia of prostate	predisposes to	urinary tract infection
-hyperplasia of prostate	predisposes to	hydronephrosis
-age	is a risk factor for	hyperplasia of prostate
-family history	is associated with	hyperplasia of prostate
-obesity	associated with	hyperplasia of prostate
-digital rectal examination	is used for	assessment of hyperplasia of prostate
-PSA	is not specific for	hyperplasia of prostate
-transrectal ultrasound	is used for	evaluation of hyperplasia of prostate
-urodynamic testing	helps	evaluate obstruction in hyperplasia
-urine flow rate	indicates	obstruction severity
-post-void residual	correlates with	obstruction severity
-urinalysis	can show	infection or inflammation
-urinary tract infection	risk factors include	urinary retention
-hydronephrosis	may result from	urinary obstruction
-renal function	may decline with	chronic obstruction
-catheterization	provides	relief of urinary retention
-urinary catheter	is used for	drainage in urinary retention
-self-catheterization	used for	chronic urinary retention
-transurethral resection of the prostate	is a	surgical treatment for hyperplasia of prostate
-transurethral resection of the prostate	relieves	urinary obstruction
-open prostatectomy	is a	surgical treatment for large prostates
-laser enucleation of the prostate	is a	surgical treatment for hyperplasia of prostate
-greenlight laser therapy	is a	surgical treatment for hyperplasia of prostate
-TURP	is a	surgical procedure for hyperplasia of prostate
-TURP	relieves	urinary obstruction
-5-alpha-reductase inhibitors	reduce	prostate volume
+benign prostatic hyperplasia	is a	urological condition
+benign prostatic hyperplasia	causes	lower urinary tract symptoms
+benign prostatic hyperplasia	leads to	urinary retention
+benign prostatic hyperplasia	causes	bladder outlet obstruction
+benign prostatic hyperplasia	associated with	nocturia
+benign prostatic hyperplasia	associated with	urinary urgency
+benign prostatic hyperplasia	associated with	hesitancy
+benign prostatic hyperplasia	associated with	weak stream
+benign prostatic hyperplasia	associated with	incomplete bladder emptying
+benign prostatic hyperplasia	increases risk of	urinary tract infection
+benign prostatic hyperplasia	increases risk of	hydronephrosis
+benign prostatic hyperplasia	increases risk of	renal impairment
+benign prostatic hyperplasia	diagnosed by	digital rectal examination
+benign prostatic hyperplasia	diagnosed with	transrectal ultrasound
+benign prostatic hyperplasia	evaluated with	PSA testing
+benign prostatic hyperplasia	evaluated with	urinalysis
+benign prostatic hyperplasia	managed with	alpha-1 blocker
+benign prostatic hyperplasia	managed with	5-alpha-reductase inhibitor
 finasteride	is a	5-alpha-reductase inhibitor
 dutasteride	is a	5-alpha-reductase inhibitor
-5-alpha-reductase inhibitors	reduce	dihydrotestosterone
-alpha-1 blockers	improve	urinary flow
-tamsulosin	is a	alpha-1 blocker
-terazosin	is a	alpha-1 blocker
-watchful waiting	is a	management option for mild hyperplasia of prostate
-observation	is a	management option for mild hyperplasia of prostate
-antimuscarinic agents	treat	overactive bladder symptoms associated with hyperplasia of prostate
-urinary retention	increases risk of	bladder overdistension
-bladder overdistension	leads to	detrusor dysfunction
-detrusor dysfunction	causes	voiding dysfunction
-age	correlates with	prostate size
-prostate size	correlates with	symptom severity
-prostate volume	increases with	age
-prostate enlargement	associated with	obstruction
-prostate enlargement	compresses	urethra
-urethra	narrows due to	prostate enlargement
-urinary symptoms	impact	quality of life
-quality of life	worsens with	urinary retention
-urine flow rate	improves with	alpha-1 blockers
-post-void residual	reduces with	TURP
-post-void residual	reduces with	finasteride
-prostate-specific antigen	can be elevated with	prostate diseases
-PSA	used in	prostate cancer screening
-prostate cancer	must be ruled out in	evaluation of hyperplasia of prostate
-family history	increases risk for	prostate enlargement
-age	increases likelihood of	surgery for hyperplasia of prostate
-obstruction	worsens	urinary symptoms
-urinary retention	treated with	catheterization
-urinary retention	may require	permanent catheter
-hydronephrosis	may accompany	urinary obstruction
-bladder wall thickening	results from	chronic obstruction
-detrusor overactivity	contributes to	urge incontinence
-urinary incontinence	occurs with	hyperplasia of prostate
-nocturia	is a symptom of	hyperplasia of prostate
-urinary frequency	is a symptom of	hyperplasia of prostate
-urinary urgency	is a symptom of	hyperplasia of prostate
-urinary hesitancy	is a symptom of	hyperplasia of prostate
-urinary retention	is a complication of	hyperplasia of prostate
-urinary stasis	promotes	stone formation
-stone formation	occurs with	urinary obstruction
-urinary tract infection	may complicate	urinary retention
-antibiotics	treat	urinary tract infection
-bladder detrusor	may hypertrophy in	chronic obstruction
-renal perfusion	may be affected by	chronic obstruction
-nephropathy	risk increases with	hydronephrosis
-uroflowmetry	assesses	urine flow rate
-urodynamic study	evaluates	obstruction in hyperplasia of prostate
-prostate gland	enlarges with	age
-age	correlates with	prostate enlargement
-prostate enlargement	often presents with	LUTS
-LUTS	include	nocturia
-LUTS	include	urinary frequency
-LUTS	include	urgency
-LUTS	include	dysuria
-urinary symptoms	varying	severity across patients
-symptom severity	guides	treatment choice
-mild hyperplasia of prostate	managed with	observation
-moderate hyperplasia of prostate	managed with	medical therapy
-severe hyperplasia of prostate	managed with	surgical therapy
-surgical therapy	reduces	obstruction
-medical therapy	aims to	relieve symptoms
-antibiotics	not routinely used for	hyperplasia of prostate
- PSA test	not definitive for	distinguishing BPH from cancer
+tamsulosin	is a	alpha-1A selective blocker
+alfuzosin	is a	alpha-1 blocker
+silodosin	is a	alpha-1A selective blocker
+benign prostatic hyperplasia	treated with	combination therapy
+benign prostatic hyperplasia	treated with	surgery
+transurethral resection of the prostate	is a	surgical procedure
+UroLift	is a	minimally invasive procedure
+Rezum therapy	is a	minimally invasive procedure
+antibiotics	used for	urinary tract infection associated with BPH
+aging	is a	risk factor for benign prostatic hyperplasia
+obesity	is a	risk factor for benign prostatic hyperplasia
+metabolic syndrome	is a	risk factor for benign prostatic hyperplasia
+diabetes mellitus	is a	risk factor for benign prostatic hyperplasia
+family history	increases risk of	benign prostatic hyperplasia
+benign prostatic hyperplasia	associated with	increased prostate volume
+bladder outlet obstruction	causes	detrusor hypertrophy
+detrusor hypertrophy	results from	bladder outlet obstruction
+hydronephrosis	can occur	due to prostatic obstruction
+renal impairment	can develop	from chronic obstruction
+post-void residual	is a	measure of bladder emptying
+maximal urinary flow rate	is a	measure of urinary outflow
+urodynamic study	is a	diagnostic test
+Qmax	is a	measure of urinary outflow
+watchful waiting	is an option for	mild symptoms
+lifestyle modification	used for	mild symptoms of BPH
+UroLift	preserves	sexual function
+UroLift	reduces	prostatic obstruction
+UroLift	results in	symptom relief
+symptom relief	improves	quality of life
+TURP	provides	symptom relief
+TURP	decreases	prostatic obstruction
+TURP	bleeding risk	is a complication
+TURP	associated with	infection risk
+bleeding	is a	complication of TURP
+retrograde ejaculation	is a potential outcome of	TURP
+catheterization	is used for	postoperative drainage
+catheter-associated infection risk	increased with	catheterization
+laser enucleation of the prostate	provides	symptom relief
+laser enucleation of the prostate	decreases	prostatic obstruction
+minimally invasive therapies	used for	BPH management
+combination therapy	includes	alpha-blocker plus 5-ARI
+alpha-blocker plus 5-ARI	is	combination therapy
+trial of medication	is used for	symptom relief
+surgical referral	is considered for	refractory symptoms
+renal function	monitored with	serum creatinine
+PSA testing	is used for	prostate cancer screening
+transabdominal ultrasound	used for	prostate size assessment
+prostate size	influences	treatment choice
+prostate volume	is measured by	ultrasound
+digital rectal examination	reveals	prostate enlargement
+urinary retention	leads to	catheterization
+catheterization	used for	postoperative drainage
+catheter-associated infection	risk increased by	catheterization
+surgical candidate	evaluated for	comorbidities
+anesthesia	is required for	TURP
+postoperative analgesia	is required after	TURP
+minimally invasive therapies	shorten	hospitalization
+operator experience	influences	TURP outcomes
+urethral stricture	is a potential complication of	TURP
+urinary incontinence	may persist after	TURP
+post-void residual	decreases after	treatment
+treatment efficacy	varies with	age
+surgical technique	influenced by	prostate size
+maximal flow rate	improves after	alpha-blocker therapy
+PSA levels	may be elevated in	BPH
+age	correlates with	BPH severity
+alpha-blocker therapy	improves	urinary symptoms
+5-alpha-reductase inhibitors	reduce	prostate volume
+treatment choice	influenced by	patient age
+treatment choice	influenced by	symptom severity
+surgical approach	chosen based on	prostate size
+reoperation	is possible after	TURP
+risk of anesthesia	varies with	TURP
+bleeding	may require	transfusion
+transfusion	may be necessary for	TURP-associated bleeding
+sexual function	preserved after	UroLift
+recurrence of obstruction	occurs in	BPH patients
+quality of life	improves with	BPH treatment
+long-term outcomes	show	symptom stability

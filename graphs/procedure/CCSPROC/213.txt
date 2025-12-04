@@ -1,0 +1,102 @@
+physical therapy exercises	is a	treatment
+physical therapy exercises	includes	range of motion exercise
+range of motion exercise	is a type of	physical therapy exercise
+range of motion exercise	improves	joint mobility
+joint mobility	increases with	range of motion exercise
+strengthening exercise	is a type of	physical therapy exercise
+strengthening exercise	increases	muscle strength
+muscle strength	improves with	strengthening exercise
+flexibility exercise	is a type of	physical therapy exercise
+joint flexibility	improves with	flexibility exercise
+balance training	is a type of	physical therapy exercise
+balance training	reduces	fall risk
+gait training	is a type of	physical therapy exercise
+gait training	improves	walking ability
+proprioception training	is a type of	physical therapy exercise
+proprioception training	enhances	sensorimotor integration
+core stabilization exercise	is a type of	physical therapy exercise
+posture training	reduces	spinal load
+home exercise program	is part of	rehabilitation plan
+home exercise program	improves	functional outcome
+outpatient physical therapy	is a setting for	rehabilitation
+prehabilitation	reduces	postoperative complications
+rehabilitation	improves	functional outcomes
+orthopedic rehabilitation	is a subset of	physical therapy
+neurological rehabilitation	is a subset of	physical therapy
+stroke rehabilitation	is a type of	neurological rehabilitation
+shoulder impingement	managed by	physical therapy exercises
+knee osteoarthritis	managed by	physical therapy exercises
+low back pain	managed by	physical therapy exercises
+neck pain	managed by	physical therapy exercises
+frozen shoulder	managed by	physical therapy
+tendinopathy	treated with	physical therapy exercises
+postoperative rehabilitation	facilitates	functional recovery
+musculoskeletal pain	managed by	physical therapy exercises
+postoperative pain	reduced by	physical therapy exercises
+disability	reduced by	physical therapy exercises
+manual therapy	is a type of	physical therapy technique
+spinal manipulation	is a type of	manual therapy
+mobilization	is a type of	manual therapy
+soft tissue mobilization	is a type of	manual therapy
+myofascial release	is a type of	manual therapy
+trigger point therapy	is a type of	manual therapy
+dry needling	is a technique of	physical therapy
+electrotherapy	is a modality	physical therapy
+ultrasound therapy	is a modality	physical therapy
+heat therapy	is a modality	physical therapy
+cold therapy	is a modality	physical therapy
+aquatic therapy	is a modality	physical therapy
+assistive device	supports	walking stability
+manual therapy	reduces	muscle tension
+spinal manipulation	reduces	back pain
+mobilization	increases	joint range of motion
+soft tissue mobilization	reduces	muscle tension
+myofascial release	reduces	muscle tightness
+trigger point therapy	reduces	muscle tension
+electrical stimulation	aids	nerve conduction
+pain	decreases with	manual therapy
+pain	decreases with	physical therapy exercises
+patient education	improves	adherence
+patient education	improves	self-management
+prehabilitation	improves	functional status
+prehabilitation	reduces	postoperative complications
+postoperative rehabilitation	facilitates	functional recovery
+orthopedic rehabilitation	is a subset of	physical therapy
+neurological rehabilitation	is a subset of	physical therapy
+stroke rehabilitation	is a type of	neurological rehabilitation
+shoulder impingement	treated with	physical therapy exercises
+knee osteoarthritis	treated with	physical therapy exercises
+low back pain	treated with	physical therapy exercises
+neck pain	treated with	physical therapy exercises
+frozen shoulder	treated with	physical therapy
+tendinopathy	treated with	physical therapy exercises
+postoperative pain	alleviated by	physical therapy
+disability	improved by	rehabilitation
+function	improved by	physical therapy exercises
+joint range of motion	increased by	range of motion exercise
+bone density	increased by	weight bearing exercise
+bone health	improved by	resistance training
+weight bearing exercise	improves	bone density
+weight bearing exercise	increases	mechanical load
+resistance training	benefits	muscle strength
+isometric exercise	is a type of	strengthening exercise
+eccentric exercise	is a type of	strengthening exercise
+bone density	increases with	weight bearing exercise
+bone density	increases with	resistance training
+bone density	increases with	impact loading
+proprioception training	reduces	fall risk
+thermotherapy	increases	tissue elasticity
+electrotherapy	reduces	pain
+electrical stimulation	reduces	pain
+pain	decreases with	manual therapy
+pain	decreases with	physical therapy exercises
+patient education	improves	adherence
+preoperative education	improves	informed decision-making
+postoperative education	improves	post op recovery
+postoperative education	reduces	anxiety
+prehabilitation	prepares	surgical patients
+rehabilitation services	accompany	discharge planning
+discharge planning	includes	rehabilitation services
+rehabilitation services	reduce	caregiver burden
+postoperative recovery	accelerated by	prehabilitation
+functional independence	achieved by	rehabilitation

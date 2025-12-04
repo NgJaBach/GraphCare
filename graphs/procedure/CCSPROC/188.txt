@@ -1,0 +1,97 @@
+cerebral arteriogram	is a	procedure
+cerebral arteriogram	used for	evaluation
+cerebral arteriogram	visualizes	intracranial vessels
+cerebral arteriogram	identifies	aneurysm
+cerebral arteriogram	detects	arteriovenous malformation
+cerebral arteriogram	detects	stenosis
+cerebral arteriogram	detects	occlusion
+cerebral arteriogram	reveals	circle of Willis
+cerebral arteriogram	assesses	collateral circulation
+cerebral arteriogram	reveals	vasospasm
+cerebral arteriogram	informs	treatment plan
+aneurysm	is detected by	cerebral arteriogram
+aneurysm	presents with	subarachnoid hemorrhage
+aneurysm	located in	circle of Willis
+arteriovenous malformation	detected by	cerebral arteriogram
+arteriovenous malformation	visualized as	nidus
+circle of Willis	supplies	brain
+basilar artery	provides	blood flow
+middle cerebral artery	shows	ischemia
+posterior cerebral artery	perfuses	occipital lobe
+ischemia	results in	tissue injury
+intracranial hemorrhage	can be seen on	cerebral arteriogram
+subarachnoid hemorrhage	associated with	aneurysm
+vasospasm	peaks after	subarachnoid hemorrhage
+catheter	inserted for	cerebral arteriogram
+contrast agent	used for	cerebral arteriogram
+iodinated contrast	used in	cerebral arteriogram
+radiologist	interprets	cerebral arteriogram
+report	accompanies	cerebral arteriogram
+cerebral arteriogram	confirms	aneurysm
+cerebral arteriogram	confirms	arteriovenous malformation
+arterial stenosis	detected by	cerebral arteriogram
+arterial occlusion	identified by	cerebral arteriogram
+vascular abnormality	seen on	cerebral arteriogram
+circle of Willis	evaluated for	collateral flow
+intracranial aneurysm	located at	anterior communicating artery
+anterior cerebral artery	territory supplied by	internal carotid system
+basilar artery	perforators supply	brainstem
+subarachnoid hemorrhage	risk factor for	vasospasm
+vasospasm	treated with	calcium channel blocker
+aneurysm	treated by	clipping
+coil	used for	aneurysm treatment
+coil embolization	performed for	aneurysm
+clip	used to secure	aneurysm
+intracranial hemorrhage	visible on	cerebral arteriogram
+fistula	detected by	cerebral arteriogram
+stenosis	seen as	irregular vessels
+aneurysm neck	located at	basilar tip
+basilar tip	part of	basilar artery
+arteriovenous malformation	requires	microsurgery planning
+cerebral arteriogram	guides	surgery
+angiography	informs	prognosis
+prognosis	influenced by	extent of ischemia
+neurosurgeon	consults after	arteriogram
+neuroradiology	interprets	cerebral arteriogram
+angiographic finding	includes	aneurysm
+radiology report	documents	findings
+procedure complication	includes	contrast reaction
+contrast reaction	requires	management
+adverse event	associated with	cerebral arteriogram
+stroke risk	associated with	aneurysm rupture
+embolus	seen with	cerebral arteriogram
+thrombus	visualized as	filling defect
+aneurysm	treated by	coil embolization
+aneurysm	amenable to	clipping
+arterial dissection	seen in	cerebral arteriogram
+midline shift	result of	large hemorrhage
+intracranial pathology	detected by	cerebral arteriogram
+contrast extravasation	indicates	active bleeding
+active bleeding	causes	hemodynamic instability
+neuroradiology procedure	results in	diagnostic information
+diagnostic information	guides	treatment decisions
+treatment decisions	based on	arteriography findings
+arteriography findings	influence	guidelines
+guidelines	impact	patient management
+cerebral arteriogram	improves	diagnostic accuracy
+angiography facility	requires	equipment
+equipment	requires	safety standards
+contrast agent	can cause	nephropathy
+nephropathy	is a	kidney disease
+cerebral arteriogram	requires	consent
+consent	obtained for	procedure
+procedure	planned with	multidisciplinary team
+angiography	part of	neuroradiology evaluation
+neuroradiology	informs	clinical decision
+clinical decision	guides	management
+management	aims for	stroke prevention
+stroke prevention	includes	antiplatelet therapy
+antiplatelet therapy	considered with	arteriography findings
+arteriography findings	may indicate	need for endovascular therapy
+endovascular therapy	decision based on	arteriography
+anatomical variant	influences	procedure planning
+procedure planning	improves	patient outcomes
+patient outcome	predicted by	arteriography
+arteriography	enables	risk stratification
+risk stratification	informs	discharge planning
+discharge planning	depends on	arteriography findings

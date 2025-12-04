@@ -1,0 +1,97 @@
+indwelling catheter	is a	medical device
+indwelling catheter	used for	urinary drainage
+indwelling catheter	indicated for	urinary retention
+indwelling catheter	indicated for	urinary incontinence management
+indwelling catheter	associated with	catheter-associated urinary tract infection
+indwelling catheter	associated with	bacteriuria
+indwelling catheter	associated with	sepsis
+indwelling catheter	associated with	pyelonephritis
+indwelling catheter	associated with	urethral trauma
+indwelling catheter	associated with	bladder inflammation
+indwelling catheter	associated with	catheter obstruction
+indwelling catheter	associated with	encrustation
+indwelling catheter	associated with	stone formation
+indwelling catheter	associated with	bladder spasms
+indwelling catheter	associated with	dysuria
+indwelling catheter	associated with	fever
+indwelling catheter	associated with	malaise
+indwelling catheter	increases risk of	hospital readmission
+indwelling catheter	increases risk of	longer hospital stay
+indwelling catheter	increases risk of	mortality
+indwelling catheter	increases risk of	antibiotic exposure
+indwelling catheter	requires	catheter care
+indwelling catheter	requires	aseptic technique
+indwelling catheter	requires	closed drainage system
+indwelling catheter	requires	securement device
+indwelling catheter	requires	daily hygiene
+indwelling catheter	predisposes to	biofilm formation
+indwelling catheter	predisposes to	catheter misplacement
+indwelling catheter	predisposes to	accidental dislodgement
+indwelling catheter	predisposes to	urethral erosion
+indwelling catheter	predisposes to	malodour
+indwelling catheter	predisposes to	skin irritation
+indwelling catheter	predisposes to	urinary incontinence worsening
+indwelling catheter	predisposes to	electrolyte imbalance
+indwelling catheter	impacts	patient mobility
+indwelling catheter	impacts	sleep quality
+indwelling catheter	impacts	daily activities
+indwelling catheter	impacts	comfort level
+indwelling catheter	impacts	quality of life
+indwelling catheter	increases	healthcare costs
+indwelling catheter	increases	hospitalization costs
+indwelling catheter	influences	discharge planning
+indwelling catheter	influences	post-discharge care
+indwelling catheter	correlates with	antibiotic resistance
+indwelling catheter	correlates with	urinary tract colonization
+indwelling catheter	correlates with	culture positivity
+indwelling catheter	correlates with	multidrug-resistant organisms
+indwelling catheter	monitored with	bladder scanner
+indwelling catheter	monitored with	urinalysis
+indwelling catheter	monitored with	culture test
+indwelling catheter	managed with	catheter care bundle
+indwelling catheter	managed with	securement device
+indwelling catheter	managed with	regular inspection
+indwelling catheter	managed with	timely removal when possible
+indwelling catheter	associated with	fever spikes
+indwelling catheter	associated with	flank pain
+indwelling catheter	associated with	dehydration risk
+indwelling catheter	associated with	electrolyte disturbances
+indwelling catheter	associated with	kidney infection
+indwelling catheter	associated with	bloodstream infection
+indwelling catheter	increases	length of stay
+indwelling catheter	increases	readmission rate
+indwelling catheter	reduces	quality of life
+indwelling catheter	increases	hospital utilization
+indwelling catheter	linked with	colonization by bacteria
+indwelling catheter	results in	urine leakage
+indwelling catheter	results in	drainage obstruction
+indwelling catheter	associated with	device-related complications
+indwelling catheter	associated with	pain at insertion site
+indwelling catheter	associated with	urethral discharge
+indwelling catheter	contributes to	caregiver workload
+indwelling catheter	contributes to	nursing time
+indwelling catheter	associated with	skin breakdown at insertion site
+indwelling catheter	associated with	malodor
+indwelling catheter	associated with	urinary tract colonization by bacteria
+indwelling catheter	associated with	septic progression
+indwelling catheter	associated with	pneumonia risk
+indwelling catheter	associated with	electrolyte disturbance risk
+indwelling catheter	linked with	catheter migration
+indwelling catheter	linked with	bladder neck irritation
+indwelling catheter	associated with	wound infection risk
+indwelling catheter	associated with	blood culture positivity
+indwelling catheter	increases	antibiotic duration
+indwelling catheter	increases	nursing workload
+indwelling catheter	needs	routine inspection
+indwelling catheter	monitored for	infection signs
+indwelling catheter	recommended with	closed drainage system usage
+indwelling catheter	part of	infection prevention bundles
+indwelling catheter	recommended to	remove when possible
+indwelling catheter	replaced by	intermittent catheterization
+indwelling catheter	used in	perioperative care
+indwelling catheter	used in	critical care
+indwelling catheter	considered	standard of care in many settings
+indwelling catheter	influences	discharge destination
+indwelling catheter	improves	urine output monitoring accuracy
+indwelling catheter	correlates with	risk of readmission
+indwelling catheter	contributes to	longer-term complications

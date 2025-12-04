@@ -1,100 +1,64 @@
-pericarditis	is a	inflammatory condition
-pericarditis	causes	chest pain
-pericarditis	leads to	pericardial effusion
-pericarditis	may cause	tamponade
+pericarditis	presents with	chest pain
+pericarditis	presents with	pericardial friction rub
+pericarditis	associated with	ECG changes
+pericarditis	associated with	elevated CRP
+pericarditis	diagnosed by	ECG
+pericarditis	diagnosed by	echocardiography
 pericarditis	treated with	NSAIDs
 pericarditis	treated with	colchicine
-pericarditis	treated with	corticosteroids
-pericarditis	diagnosed by	electrocardiography
-pericarditis	diagnosed by	echocardiography
-pericarditis	monitored by	CRP
-pericarditis	monitored by	ESR
+pericarditis	complication	pericardial effusion
+pericarditis	complication	cardiac tamponade
+pericarditis	progresses to	constrictive pericarditis
 pericarditis	associated with	autoimmune disease
 pericarditis	associated with	viral infection
-pericarditis	prognosis with	treatment adherence
-pericarditis	resolves with	therapies
-pericarditis	complication	arrhythmia
-pericarditis	progression to	constrictive pericarditis
-endocarditis	is an	infection
-endocarditis	caused by	bacteria
-endocarditis	caused by	streptococcus
-endocarditis	caused by	staphylococcus
-endocarditis	treated with	antibiotics
-endocarditis	diagnosed by	blood culture
-endocarditis	diagnosed by	echocardiography
-endocarditis	associated with	vegetations
-endocarditis	leads to	regurgitation
-endocarditis	leads to	heart failure
-endocarditis	risk factor for	embolism
-endocarditis	requires	valve surgery
-endocarditis	associated with	IV drug use
-endocarditis	prognosis with	early treatment
+pericarditis	associated with	uremia
+pericarditis	managed with	activity restriction
 endocarditis	presents with	fever
-endocarditis	presents with	murmur
-endocarditis	predisposed by	dental procedure
+endocarditis	presents with	new murmur
+endocarditis	diagnosed by	blood cultures
+endocarditis	diagnosed by	echocardiography
+endocarditis	treated with	antibiotics
+endocarditis	may require	valve replacement
+endocarditis	complication	heart failure
+endocarditis	complication	embolism
 endocarditis	complication	stroke
-endocarditis	complication	kidney injury
-endocarditis	monitored by	inflammatory markers
-endocarditis	reduces	life expectancy
-endocarditis	incidence	rare
-myocarditis	is a	inflammatory condition
+endocarditis	risk factor for	intravenous drug use
+endocarditis	risk factor for	prosthetic valve
+endocarditis	prognosis	mortality
+endocarditis	associated with	dental procedure
+endocarditis	diagnosed by	transesophageal echocardiography
+endocarditis	treated with	valve surgery
+myocarditis	associated with	viral infection
 myocarditis	presents with	chest pain
 myocarditis	presents with	dyspnea
-myocarditis	detected by	troponin elevation
-myocarditis	detected by	cardiac MRI
+myocarditis	presents with	arrhythmia
+myocarditis	diagnosed by	cardiac MRI
 myocarditis	diagnosed by	endomyocardial biopsy
-myocarditis	treated with	immunosuppressants
-myocarditis	treated with	IVIG
-myocarditis	treated with	steroids
-myocarditis	leads to	heart failure
-myocarditis	causes	arrhythmia
-myocarditis	risk factor for	sudden death
-myocarditis	monitored by	ECG
-myocarditis	monitored by	echocardiography
-myocarditis	associated with	viral infection
+myocarditis	treated with	supportive care
+myocarditis	treated with	heart failure management
+myocarditis	risk factor for	sudden cardiac death
+myocarditis	prognosis	variable outcome
 myocarditis	associated with	autoimmune disease
-myocarditis	prognosis with	recovery
-myocarditis	complication	cardiogenic shock
-myocarditis	triggered by	coxsackie virus
-myocarditis	treated with	heart failure therapy
-myocarditis	pathology shows	inflammatory infiltrate
+myocarditis	diagnostic marker	troponin
 cardiomyopathy	is a	heart muscle disease
-dilated cardiomyopathy	is a	cardiomyopathy subtype
-hypertrophic cardiomyopathy	is a	cardiomyopathy subtype
-restrictive cardiomyopathy	is a	cardiomyopathy subtype
+cardiomyopathy	has subtype	dilated cardiomyopathy
+cardiomyopathy	has subtype	hypertrophic cardiomyopathy
 cardiomyopathy	presents with	dyspnea
 cardiomyopathy	presents with	edema
 cardiomyopathy	associated with	reduced ejection fraction
-cardiomyopathy	treated with	beta blockers
-cardiomyopathy	treated with	ACE inhibitors
-cardiomyopathy	treated with	diuretics
-cardiomyopathy	managed with	device therapy
-cardiomyopathy	monitored by	echocardiography
-cardiomyopathy	monitored by	MRI
-cardiomyopathy	risk factor for	arrhythmia
-cardiomyopathy	risk factor for	sudden death
-cardiomyopathy	prognosis with	heart transplant
-dilated cardiomyopathy	leads to	heart failure
-hypertrophic cardiomyopathy	causes	obstruction
-hypertrophic cardiomyopathy	increases	risk of arrhythmia
 cardiomyopathy	diagnosed by	echocardiography
-cardiomyopathy	diagnosed by	MRI
-dilated cardiomyopathy	genetic basis	heredity
-restrictive cardiomyopathy	presents with	edema
-cardiomyopathy	associated with	viral infection
-cardiomyopathy	increases	hospitalization risk
-cardiomyopathy	requires	heart transplantation
-cardiomyopathy	presents with	chest pain
-cardiomyopathy	reduces	cardiac output
-cardiomyopathy	caused by	genetic mutation
-cardiomyopathy	prognosis with	therapy adherence
-cardiomyopathy	responds to	exercise restriction
-cardiomyopathy	monitored by	biomarker testing
-cardiomyopathy	associated with	arrhythmia
-cardiomyopathy	leads to	edema formation
-cardiomyopathy	associated with	left ventricular dysfunction
+cardiomyopathy	diagnosed by	cardiac MRI
+cardiomyopathy	treated with	ACE inhibitors
+cardiomyopathy	treated with	beta blockers
+cardiomyopathy	treated with	diuretics
 cardiomyopathy	managed with	lifestyle modification
-cardiomyopathy	presents with	fatigue
-cardiomyopathy	diagnosed by	endomyocardial biopsy
-cardiomyopathy	subclassified as	functional class
-cardiomyopathy	managed with	exercise restriction
+dilated cardiomyopathy	is subtype of	cardiomyopathy
+dilated cardiomyopathy	treated with	heart transplantation
+hypertrophic cardiomyopathy	treated with	beta blockers
+hypertrophic cardiomyopathy	treated with	calcium channel blockers
+hypertrophic cardiomyopathy	may require	myectomy
+cardiomyopathy	prognosis	mortality
+cardiomyopathy	risk factor for	genetic mutation
+cardiomyopathy	risk factor for	arrhythmia
+cardiomyopathy	complication	heart failure
+cardiomyopathy	presents with	syncope

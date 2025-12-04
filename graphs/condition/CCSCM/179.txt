@@ -1,102 +1,100 @@
-postabortion complications	lead to	hemorrhage
-postabortion complications	lead to	infection
-postabortion complications	lead to	uterine perforation
-postabortion complications	lead to	retained products of conception
-postabortion complications	lead to	endometritis
-postabortion complications	lead to	sepsis
-postabortion complications	lead to	cervical injury
-postabortion complications	lead to	anemia
-postabortion complications	lead to	pelvic abscess
-postabortion complications	lead to	hypovolemia
-postabortion complications	require	suction curettage
-postabortion complications	require	antibiotics
-postabortion complications	require	blood transfusion
-postabortion complications	require	surgical repair
-postabortion complications	increase	hospital stay
-postabortion complications	increase	length of stay
-postabortion complications	increase	readmission rate
-postabortion complications	associated with	fever
-postabortion complications	associated with	abdominal pain
-postabortion complications	associated with	vaginal bleeding
-postabortion complications	risk factor for	infertility
-hemorrhage	lead to	anemia
-hemorrhage	require	blood transfusion
+postabortion complications	include	hemorrhage
+postabortion complications	include	infection
+postabortion complications	include	sepsis
+postabortion complications	include	retained products of conception
+postabortion complications	include	incomplete abortion
+postabortion complications	include	perforation
+postabortion complications	include	shock
+postabortion complications	include	anemia
+postabortion complications	include	endometritis
+postabortion complications	include	pelvic inflammatory disease
+postabortion complications	include	fever
+postabortion complications	include	abdominal pain
+postabortion complications	include	vaginal bleeding
+postabortion complications	include	dehydration
+postabortion complications	include	dizziness
+postabortion complications	include	weakness
+postabortion complications	include	tachycardia
+postabortion complications	include	hypotension
+postabortion complications	include	urinary retention
+postabortion complications	include	urinary tract infection
+postabortion complications	include	discharge
+postabortion complications	include	pelvic pain
+postabortion complications	include	cramps
 hemorrhage	cause	hypovolemia
-hemorrhage	result in	hospitalization
-hemorrhage	increase	length of stay
-infection	lead to	sepsis
-infection	require	antibiotics
-infection	cause	pelvic inflammatory disease
-infection	lead to	infertility
-infection	increase	hospital stay
-infection	associated with	fever
-retained products of conception	lead to	prolonged bleeding
+hemorrhage	require	blood transfusion
+hemorrhage	managed by	uterine tamponade
+retained products of conception	cause	prolonged bleeding
 retained products of conception	require	suction curettage
-retained products of conception	cause	infection
-retained products of conception	predispose to	endometritis
-endometritis	lead to	pelvic pain
-endometritis	require	antibiotics
-endometritis	cause	infertility
-endometritis	lead to	sepsis
-uterine perforation	require	surgical repair
-uterine perforation	lead to	intraabdominal injury
+retained products of conception	lead to	infection
+incomplete abortion	diagnosed by	ultrasound
+incomplete abortion	treated with	suction curettage
+perforation	cause	heavy bleeding
+perforation	require	surgical repair
 cervical laceration	cause	vaginal bleeding
-cervical laceration	require	suturing
-cervical laceration	associated with	cervical stenosis
-anemia	result from	hemorrhage
-anemia	require	iron therapy
-anemia	cause	fatigue
-blood transfusion	indicate	severe bleeding
-blood transfusion	carry	transfusion reaction
-blood transfusion	improve	oxygen carrying capacity
-hospital admission	result from	severe bleeding
-hospital admission	result from	infection
-ICU admission	associated with	sepsis
-ICU admission	require	mechanical ventilation
-sepsis	require	ICU admission
-sepsis	lead to	septic shock
-pelvic inflammatory disease	cause	infertility
-pelvic inflammatory disease	lead to	chronic pelvic pain
-pelvic inflammatory disease	treat	antibiotics
-pelvic abscess	require	drainage
-pelvic abscess	lead to	sepsis
-suction curettage	used for	retained products of conception
-suction curettage	carries	risk of uterine perforation
-antibiotic therapy	treat	infection
-antibiotic therapy	prevent	infection
-iron therapy	treat	anemia
-dilation and curettage	remove	retained products of conception
-suction curettage	remove	retained products of conception
-manual vacuum aspiration	remove	retained products of conception
-intrauterine infection	present with	fever
-intrauterine infection	require	antibiotics
-postabortion followup	ensure	resolution of complications
-uterine scar	predispose	future placenta accreta
-uterine scar	predispose	future infertility
-dilation and curettage	carry	risk of infection
-manual vacuum aspiration	carry	risk of perforation
-peritoneal irritation	lead to	abdominal pain
-peritonitis	lead to	sepsis
-peritonitis	require	antibiotics
-vaginal bleeding	lead to	hemorrhage
-abdominal pain	indicate	infection
-fever	indicate	infection
-bleeding	correlate with	anemia
-ovarian function	relate to	fertility status
-uterine scarring	predispose	future placentation disorders
-postabortal infection	respond to	antibiotic therapy
-postabortion complication	signal	clinical deterioration
-pelvic pain	accompany	endometritis
-septic shock	follow	sepsis progression
-infection	complicate	suction curettage
-postabortal bleeding	anticipates	transfusion need
-blood loss	track	hemodynamic instability
-uterine tenderness	indicate	endometritis
-fever	accompany	infection
-abnormal uterine bleeding	accompany	postabortion period
-vaginal discharge	accompany	infection
-uterine tone	relate to	hemorrhage risk
-hemorrhagic shock	result in	organ dysfunction
-organ dysfunction	imply	severe sepsis
-aspiration pneumonia	risk with	intubation during procedure
-patient	experience	pain
+cervical laceration	require	repair
+cervical laceration	diagnosed by	pelvic exam
+endometritis	treated with	antibiotics
+endometritis	associated with	infection
+pelvic inflammatory disease	complication of	infection
+fever	indicates	infection
+abdominal pain	accompanies	postabortion
+vaginal bleeding	persists	postabortion
+dehydration	worsened by	vomiting
+dizziness	caused by	anemia
+weakness	caused by	blood loss
+uterine atony	causes	hemorrhage
+uterine atony	treated with	uterotonic drugs
+uterine atony	managed by	massage
+shock	requires	ICU care
+ICU care	for	sepsis
+antibiotics	treat	infection
+antibiotics	prevent	infection
+IV fluids	treat	dehydration
+blood transfusion	indicated for	hemorrhagic anemia
+suction curettage	performed for	retained products of conception
+suction curettage	used to evacuate	retained products of conception
+dilation and curettage	performed for	incomplete abortion
+dilation and curettage	alternative to	suction curettage
+hysterectomy	reserved for	uncontrolled hemorrhage
+uterine balloon tamponade	used for	hemorrhage control
+uterine balloon tamponade	achieves	hemostasis
+intrauterine adhesions	result from	curettage
+Asherman syndrome	associated with	intrauterine adhesions
+infertility	associated with	intrauterine adhesions
+postabortion counseling	part of	postabortion care
+psychological distress	observed after	abortion
+counseling	reduce	psychological distress
+ultrasound	used to assess	retained products of conception
+hCG test	used to confirm	abortion completion
+prophylactic antibiotics	used for	abortion procedure
+urinary tract infection	risk after	abortion
+urinary retention	complication of	abortion
+vaginal discharge	associated with	infection
+analgesia	relieve	postabortion pain
+postabortion pain	managed with	analgesia
+curettage	is a	evacuation procedure
+evacuation	performed for	abortion complication
+ultrasound	detects	retained products of conception
+histopathology	confirms	abortion products
+hospital admission	common outcome of	postabortion complications
+outpatient management	possible for	mild postabortion complication
+mortality	risk in	postabortion complications
+blood pressure	drops in	hemorrhage
+tachycardia	accompanies	hemorrhage
+hypotension	accompanies	shock
+hemorrhage	increases	hospital stay
+infection	raises	hospital stay
+platelet count	decreases after	bleeding
+infection	detected by	fever
+ultrasound	shows	retained products of conception
+counseling	improves	adherence to follow-up
+follow-up visit	recommended after	abortion
+postabortion care	includes	counseling
+postabortion care	includes	medical management
+medical management	includes	antibiotics
+medical management	includes	analgesia
+aftercare	improves	patient outcomes
+patient outcomes	influenced by	complication severity
+care pathways	shaped by	abortion type
+healthcare utilization	driven by	postabortion complications

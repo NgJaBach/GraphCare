@@ -1,1 +1,100 @@
-ENTITY	RELATIONSHIP	ENTITY
+malaise	is a symptom of	infection
+malaise	is a symptom of	inflammation
+malaise	is a symptom of	anemia
+malaise	is a symptom of	thyroid disease
+malaise	is a symptom of	hypothyroidism
+malaise	is a symptom of	diabetes mellitus
+malaise	is a symptom of	cancer
+malaise	is a symptom of	autoimmune disease
+malaise	is a symptom of	sepsis
+malaise	is a symptom of	dehydration
+malaise	is a symptom of	liver disease
+malaise	is a symptom of	kidney disease
+malaise	is a symptom of	heart failure
+malaise	is a symptom of	viral illness
+malaise	is a symptom of	bacterial infection
+malaise	is a symptom of	chronic disease
+malaise	is a symptom of	malignancy
+malaise	is a symptom of	malnutrition
+malaise	is a symptom of	systemic illness
+malaise	accompanies	fever
+malaise	co-occurs with	fatigue
+malaise	associated with	night sweats
+malaise	associated with	weight loss
+malaise	associated with	anorexia
+malaise	improves with	rest
+malaise	improves with	hydration
+malaise	resolves with	antibiotics
+malaise	may indicate	infection
+malaise	may indicate	sepsis
+malaise	relates to	fatigue
+malaise	is associated with	systemic inflammatory response
+malaise	signals	illness
+malaise	seen in	chronic disease
+fatigue	is a symptom of	anemia
+fatigue	is a symptom of	iron deficiency anemia
+fatigue	is a symptom of	sleep deprivation
+fatigue	is a symptom of	hypothyroidism
+fatigue	is a symptom of	diabetes mellitus
+fatigue	is a symptom of	chronic kidney disease
+fatigue	is a symptom of	liver disease
+fatigue	is a symptom of	cancer
+fatigue	is a symptom of	heart failure
+fatigue	is a symptom of	autoimmune disease
+fatigue	is a symptom of	infection
+fatigue	is a symptom of	sepsis
+fatigue	is a symptom of	malaria
+fatigue	is a symptom of	dengue fever
+fatigue	is a symptom of	hepatitis
+fatigue	is a symptom of	renal failure
+fatigue	is a symptom of	liver failure
+fatigue	is a symptom of	cancer cachexia
+fatigue	is a symptom of	chronic infection
+fatigue	caused by	anemia
+fatigue	caused by	sleep apnea
+fatigue	caused by	chemotherapy
+fatigue	caused by	malnutrition
+fatigue	caused by	dehydration
+fatigue	caused by	electrolyte disturbance
+fatigue	caused by	pain
+fatigue	correlates with	anorexia
+fatigue	correlates with	weight loss
+fatigue	correlates with	poor sleep
+fatigue	correlates with	depression
+fatigue	correlates with	anxiety
+fatigue	correlates with	cancer
+fatigue	progresses with	age
+fatigue	resolves with	rest
+fatigue	improves with	exercise
+fatigue	improves with	nutrition
+fatigue	improves with	hydration
+fatigue	predicts	mortality
+fatigue	predicts	readmission
+fatigue	predicts	discharge duration
+fatigue	associated with	weight gain
+fatigue	associated with	poor concentration
+fatigue	linked to	metabolic syndrome
+fatigue	linked to	anemia of chronic disease
+fatigue	linked to	thyroid disease
+fatigue	linked to	renal dysfunction
+fatigue	associated with	cachexia
+malaise	seen with	influenza
+malaise	seen with	viral infection
+malaise	associated with	autoimmune disease
+malaise	as side effect of	chemotherapy
+fatigue	as side effect of	chemotherapy
+fatigue	as side effect of	radiotherapy
+fatigue	as side effect of	corticosteroids
+fatigue	as side effect of	antiretroviral therapy
+fatigue	as side effect of	beta-blocker
+fatigue	occurs in	chronic fatigue syndrome
+fatigue	associated with	cachexia
+fatigue	occurs with	sleep deprivation
+malaise occurs with	influenza
+malaise accompanies	dengue fever
+malaise associated with	autoimmune hepatitis
+fatigue related to	electrolyte disturbances
+fatigue associated with	obesity
+fatigue associated with	chronic pain
+fatigue associated with	sleep disorders
+fatigue associated with	anemia of chronic disease

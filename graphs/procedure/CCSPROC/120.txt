@@ -1,0 +1,167 @@
+oophorectomy	is a	surgical procedure
+unilateral oophorectomy	is a	surgical procedure
+bilateral oophorectomy	is a	surgical procedure
+ovarian cystectomy	is a	surgical procedure
+salpingo-oophorectomy	is a	surgical procedure
+ovary	is removed by	oophorectomy
+ovary	is removed by	salpingo-oophorectomy
+ovarian cystectomy	removes	ovarian cyst
+oophorectomy	removes	ovary
+salpingo-oophorectomy	removes	ovary
+laparoscopy	is a	surgical approach
+open oophorectomy	is a	surgical approach
+laparoscopic oophorectomy	is a	surgical procedure
+robotic oophorectomy	is a	surgical procedure
+laparoscopy	used for	ovarian surgery
+laparotomy	used for	open ovarian surgery
+open oophorectomy	performed via	laparotomy
+minimally invasive oophorectomy	performed via	laparoscopy
+robotic oophorectomy	performed via	robotic system
+ovarian drilling	is a	surgical procedure
+ovarian drilling	indicated for	PCOS
+ovarian drilling	improves	ovulation
+ovarian drilling	reduces	hyperandrogenism
+ovarian tumor	treated by	oophorectomy
+benign ovarian cyst	treated by	ovarian cystectomy
+endometrioma	treated by	ovarian cystectomy
+ovarian cancer	treated by	salpingo-oophorectomy
+ovarian cancer	treated by	oophorectomy
+hereditary breast-ovarian cancer syndrome	managed by	prophylactic oophorectomy
+BRCA mutation carrier	undergoes	prophylactic oophorectomy
+prophylactic oophorectomy	reduces	ovarian cancer risk
+ovary	supplied by	ovarian artery
+ovary	drained by	ovarian vein
+ovary	innervated by	ovarian nerve
+ovary	located in	pelvis
+pelvis	contains	ovary
+ovary	part of	female reproductive system
+oophorectomy	leads to	menopause
+bilateral oophorectomy	leads to	menopause
+menopause	results in	hormonal decline
+hormonal decline	leads to	vasomotor symptoms
+bilateral oophorectomy	increases	osteoporosis risk
+oophorectomy	increases	fracture risk
+bilateral oophorectomy	increases	cardiovascular disease risk
+oophorectomy	reduces	ovarian cancer risk
+unilateral oophorectomy	preserves	hormonal function
+ovarian cystectomy	preserves	ovarian function
+ovarian cystectomy	preserves	fertility potential
+oophorectomy	complication includes	infection
+oophorectomy	complication includes	bleeding
+oophorectomy	complication includes	ureteral injury
+salpingo-oophorectomy	complication includes	ureteral injury
+laparoscopy	complication includes	port-site hernia
+robotic oophorectomy	complication includes	nerve injury
+open oophorectomy	complication includes	longer recovery
+ovarian surgery	requires	general anesthesia
+general anesthesia	used for	ovarian surgery
+perioperative analgesia	used for	ovarian surgery
+postoperative infection	risk after	oophorectomy
+blood loss	risk after	ovarian surgery
+thromboembolism	risk after	ovarian surgery
+ileus	risk after	ovarian surgery
+hospital stay	duration after	open oophorectomy
+hospital stay	duration after	laparoscopic oophorectomy
+cost	higher with	robotic oophorectomy
+cost	higher with	open oophorectomy
+recovery time	shorter with	laparoscopy
+recovery time	shorter with	robotic surgery
+fertility preservation	achieved by	ovarian tissue preservation
+ovarian tissue preservation	involves	cryopreservation
+brca mutation carrier	recommended	prophylactic oophorectomy
+ovarian cyst	pathologic evaluation	histology
+pathology	following	oophorectomy
+mass size	influences	surgical approach
+ovarian mass	resected by	cystectomy
+ovarian mass	resected by	oophorectomy
+adnexa	removed in	salpingo-oophorectomy
+ureter	risk in	salpingo-oophorectomy
+ureter	risk in	oophorectomy
+postoperative pain	managed by	analgesia
+analgesia	reduces	pain after ovarian surgery
+early mobilization	improves	recovery after ovarian surgery
+early ambulation	improves	recovery after ovarian surgery
+thromboembolism prophylaxis	used for	ovarian surgery
+antibiotic prophylaxis	used for	ovarian surgery
+mass size	predicts	surgical complexity
+ovary	commonly affected by	cysts
+ovary	commonly affected by	tumors
+ovarian cystectomy	reduces	ovarian cyst recurrence
+recurrence	risk after	ovarian cystectomy
+fertility outcome	after	unilateral oophorectomy
+ovarian function	monitored after	oophorectomy
+hormonal function	preserved after	unilateral oophorectomy
+breast cancer risk	altered after	oophorectomy
+uterine preservation	achieved with	ovarian-sparing approaches
+ovarian-sparing approaches	aim for	fertility preservation
+ovarian-sparing surgery	reduces	menopause risk
+adjuvant therapy decision	influenced by	ovarian surgery
+pathology report	confirms	ovarian tumor type
+imaging study	guides	ovarian surgery
+preoperative counseling	addresses	surgical risks
+postoperative follow-up	scheduled for	ovarian surgery patients
+mass size	impacts	likelihood of malignancy
+adnexal mass	managed by	surgical resection
+ovarian cancer	prognosis after	oophorectomy
+ovarian cancer	staging influenced by	oophorectomy findings
+ovarian cyst	radiology characterization	imaging features
+imaging features	suggest	ovarian pathology
+fertility counseling	offered to	patients undergoing ovarian-sparing surgery
+fertility counseling	offered to	patients undergoing oophorectomy
+ovarian cystectomy	allows	ovarian tissue preservation
+ovary	remains	functional after unilateral oophorectomy
+ovarian function	may recover	after unilateral oophorectomy
+ovarian reserve	declines after	oophorectomy
+ovarian cancer	often treated with	multimodal therapy
+adnexal surgery	associated with	anesthesia risks
+postoperative day	timeline for	drain removal
+drain placement	used for	ovarian surgery
+drain removal	occurs after	ovarian surgery
+intraoperative isolation	protects	surrounding structures
+ureter	course near	ovarian hilum
+ureter	at risk during	oophorectomy
+ureter	at risk during	salpingo-oophorectomy
+ureteral injury	can occur in	ovarian surgery
+urinary tract injury	risk in	pelvic surgery
+vascular injury	risk in	ovarian-sparing procedures
+postoperative nausea	common after	ovarian surgery
+neurovascular bundle	proximity near	ovary
+vascular supply	returned to	pelvic vessels
+lymphatic drainage	from	ovary
+lymphatic drainage	to	para-aortic nodes
+para-aortic nodes	evaluation during	ovarian cancer staging
+ovarian cancer	commonly presents with	adnexal mass
+adnexal mass	evaluation includes	ultrasound
+ultrasound	helps	characterize ovarian mass
+CT/MRI	used for	ovarian mass characterization
+biopsy	rarely performed	ovarian mass
+biopsy	reserved for	metastatic disease evaluation
+ovarian biopsy	indicated for	suspicious mass
+histopathology	confirms	tumor type
+histopathology	essential for	staging ovarian cancer
+staging	determined by	oophorectomy findings
+clinical decision-making	guided by	pathology results
+clinical guidelines	recommend	ovarian-sparing when possible
+ovarian function	monitored with	FSH and estradiol
+FSH	used to assess	ovarian reserve
+estradiol	reflects	ovarian function
+menopause	status evaluated by	symptom assessment
+postmenopausal status	influences	hormone therapy decisions
+ovarian surgery	impacts	quality of life
+patient selection	influences	surgical approach
+informed consent	required for	ovarian surgery
+preoperative testing	conducted for	anesthesia risk
+postoperative rehabilitation	integrated with	surgical care
+multidisciplinary team	coordinates	ovarian surgery care
+clinical outcome	includes	complication rate
+clinical outcome	includes	recurrence rate
+clinical outcome	includes	fertility outcome
+clinical outcome	includes	pain control quality
+clinical outcome	includes	hospital readmission rate
+readmission rate	impacted by	postoperative complications
+readmission rate	influenced by	discharge planning
+discharge planning	improves	readmission rate
+patient education	improves	postoperative adherence
+postoperative adherence	reduces	complications
+care pathway	standardizes	ovarian surgery care
+care pathway	reduces	variability in care

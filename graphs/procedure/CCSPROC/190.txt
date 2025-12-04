@@ -1,0 +1,60 @@
+contrast arteriogram	is a	diagnostic imaging procedure
+contrast arteriogram	uses	iodinated contrast
+contrast arteriogram	visualizes	femoral artery
+contrast arteriogram	visualizes	popliteal artery
+contrast arteriogram	visualizes	tibial arteries
+contrast arteriogram	visualizes	collateral circulation
+contrast arteriogram	detects	arterial occlusion
+contrast arteriogram	detects	arterial stenosis
+arterial stenosis	causes	reduced perfusion
+arterial occlusion	leads to	ischemia
+ischemia	increases	risk of limb loss
+limb loss	risks	amputation
+collateral circulation	maintains	distal perfusion
+femoral artery	is accessed via	puncture
+puncture	risks	hematoma
+iodinated contrast	can cause	allergic reaction
+iodinated contrast	can cause	nephrotoxicity
+nephrotoxicity	risk factors	pre-existing kidney disease
+contrast arteriogram	may cause	contrast-induced nephropathy
+contrast-induced nephropathy	is a	kidney injury
+contrast arteriogram	guides	endovascular therapy
+endovascular therapy	includes	angioplasty
+angioplasty	uses	balloon dilation
+balloon dilation	expands	stenotic segments
+stenosis	occurs in	femoral artery
+arterial access	is obtained by	puncture
+puncture	can cause	hematoma
+hematoma	is a	complication
+contrast arteriogram	carries	radiation exposure
+radiation exposure	increases	cancer risk
+contrast arteriogram	can cause	allergic reaction
+allergic reaction	risk factors	prior iodine sensitivity
+prior iodine sensitivity	is a	risk factor for reaction
+contrast arteriogram	enables	targeted intervention
+targeted intervention	includes	angioplasty
+angioplasty	may be followed by	stent deployment
+stent deployment	improves	vessel patency
+vessel patency	determines	flow
+flow	influences	tissue perfusion
+tissue perfusion	affects	limb viability
+limb viability	predicts	salvage probability
+salvage probability	impacts	hospitalization duration
+contrast arteriogram	complements	duplex ultrasound
+duplex ultrasound	assesses	blood flow velocity
+blood flow velocity	reflects	flow status
+flow status	guides	revascularization planning
+revascularization planning	relies on	arteriography findings
+arteriography findings	inform	stent sizing
+stent sizing	determines	stent diameter
+stent diameter	affects	radial strength
+radial strength	relates to	stent patency
+stent patency	predicts	long-term outcomes
+long-term outcomes	depend on	perfusion restoration
+perfusion restoration	achieved by	revascularization
+revascularization	can be	endovascular or surgical
+endovascular revascularization	uses	angioplasty
+surgical revascularization	uses	bypass graft
+bypass graft	is a	surgical intervention
+autologous graft	is a	graft type
+distal runoff assessment	informs	bypass planning

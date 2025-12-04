@@ -1,0 +1,40 @@
+ligation or occlusion of fallopian tubes	is a	sterilization procedure
+ligation or occlusion of fallopian tubes	is a form of	female sterilization
+ligation or occlusion of fallopian tubes	achieves	permanent contraception
+ligation or occlusion of fallopian tubes	prevents	pregnancy
+tubal ligation	is a	surgical sterilization
+tubal ligation	is a form of	permanent contraception
+tubal ligation	reduces	fertility
+tubal ligation	reduces	pregnancy rate
+tubal ligation	increases	ectopic pregnancy risk
+tubal ligation	reduces	unintended pregnancy rate
+tubal ligation	has	low failure rate
+laparoscopic tubal ligation	is a	minimally invasive procedure
+laparoscopic tubal ligation	requires	anesthesia
+laparoscopic tubal ligation	performed by	surgeon
+minilaparotomy tubal ligation	is a	surgical approach
+transcervical tubal occlusion	is a	non-surgical sterilization method
+tubal occlusion	is a	form of sterilization
+tubal occlusion	prevents	fertilization
+tubal occlusion device	resides	in fallopian tube
+transcervical tubal occlusion	avoids	abdominal incision
+postoperative infection	occurs	after tubal ligation
+tubal ligation	risk of	bleeding
+tubal ligation	risk of	infection
+tubal ligation	risk of	adhesions
+tubal ligation	risk of	chronic pain
+tubal ligation	risk of	anesthesia complications
+tubal ligation	hospital stay	short
+tubal ligation	recovery	duration
+tubal ligation	is performed as	outpatient procedure
+tubal ligation	reduces	lifetime birth control cost
+permanent contraception	is achieved by	tubal ligation
+tubal ligation failure	occurs	rarely
+tubal ligation failure	results in	pregnancy
+tubal ligation failure	may require	reoperation
+tubal ligation reversal	is possible	with tubal reanastomosis
+tubal reanastomosis	is a	reversal procedure
+reversal procedure	has	limited success rates
+tubal ligation	can be performed during	cesarean delivery
+cesarean delivery	may include	tubal ligation
+tubal ligation	reduces	chances of future unwanted pregnancy

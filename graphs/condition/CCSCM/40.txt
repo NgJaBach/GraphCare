@@ -1,99 +1,98 @@
-multiple myeloma	is characterized by	anemia
-multiple myeloma	is characterized by	bone lesions
-multiple myeloma	is associated with	hypercalcemia
-multiple myeloma	is associated with	renal insufficiency
-multiple myeloma	is associated with	bone pain
-multiple myeloma	causes	fatigue
-multiple myeloma	produces	M protein
-M protein	is detected by	serum protein electrophoresis
-M protein	is detected by	immunofixation
-serum protein electrophoresis	detects	monoclonal spike
-monoclonal gammopathy	precedes	multiple myeloma
-MGUS	increases risk for	multiple myeloma
-bone marrow biopsy	shows	clonal plasma cell infiltration
+multiple myeloma	is a	hematologic malignancy
+multiple myeloma	is a	plasma cell neoplasm
+multiple myeloma	produces	monoclonal protein
+monoclonal protein	circulates in	serum
+monoclonal protein	appears in	urine
+M-spike	detected by	serum protein electrophoresis
+M-spike	used for	disease monitoring
+bone lesions	occur in	multiple myeloma
 bone lesions	are	lytic
-light chains	are elevated in	multiple myeloma
-renal impairment	is caused by	light chain nephropathy
-immunoglobulin	is overproduced in	multiple myeloma
-lenalidomide	is a	immunomodulatory drug
-pomalidomide	is a	immunomodulatory drug
+bone lesions	detected by	imaging
+bone pain	is a	presenting symptom
+anemia	is a	common abnormality
+hypercalcemia	is a	common abnormality
+renal failure	is a	complication
+CRAB features	define	symptomatic myeloma
+beta-2 microglobulin	is a	prognostic biomarker
+albumin	is a	prognostic biomarker
+LDH	is a	prognostic biomarker
+bone marrow	shows	clonal plasma cells
+bone marrow plasma cells	express	CD138
+cytogenetics	reveals	t(4;14) translocation
+t(4;14) translocation	associates with	poor prognosis
+t(14;16) translocation	associates with	adverse prognosis
+del(17p)	associates with	high-risk disease
+R-ISS	classifies	disease stage
+beta-2 microglobulin	level	correlates with	disease burden
+albumin	level	correlates with	prognosis
+LDH	level	correlates with	prognosis
+serum free light chain assay	shows	abnormal kappa/lambda ratio
+kappa/lambda ratio	abnormal in	light-chain myeloma
+immunofixation electrophoresis	detects	monoclonal protein
+bone marrow plasma cells	percentage	greater than 10%
+bone marrow biopsy	used for	disease assessment
+imaging	reveals	bone lesions
+skeletal survey	detects	lytic lesions
+MRI	assesses	bone marrow involvement
+PET-CT	assesses	metabolic activity
+autologous stem cell transplant	used for	eligible patients
+high-dose chemotherapy	precedes	autologous transplant
+VRd regimen	used for	induction therapy
+VCD regimen	used for	induction therapy
+lenalidomide	is a	IMiD
+pomalidomide	is a	IMiD
 bortezomib	is a	proteasome inhibitor
 carfilzomib	is a	proteasome inhibitor
 dexamethasone	is a	corticosteroid
-melphalan	is an	alkylating agent
-thalidomide	is an	immunomodulatory drug
-autologous stem cell transplant	is a	treatment option
-transplant eligibility	depends on	age
-high-dose chemotherapy	is used with	stem cell transplant
-bortezomib	causes	peripheral neuropathy
-lenalidomide	causes	cytopenias
-pomalidomide	causes	myelosuppression
-dexamethasone	causes	hyperglycemia
-combination therapy	improves	response rate
-response rate	correlates with	survival
-maintenance therapy	reduces	progression
-minimal residual disease	predicts	relapse risk
-clonal evolution	leads to	drug resistance
-bortezomib	is used for	relapsed multiple myeloma
-lenalidomide	is used for	relapsed multiple myeloma
-carfilzomib	is used for	relapsed multiple myeloma
-cytogenetic risk	is associated with	prognosis
-del(17p)	is a	high-risk cytogenetic abnormality
-t(4;14)	is associated with	poor prognosis
-ISS stage	correlates with	survival
-Durie-Salmon stage	predicts	prognosis
-smoldering myeloma	is a	precursor to multiple myeloma
-hypercalcemia	is a	CRAB feature
-bone marrow	is the	site of malignant plasma cell infiltration
-osteolytic lesions	cause	pathologic fractures
-pathologic fractures	complicate	multiple myeloma
-infections	are common in	multiple myeloma
-neutropenia	occurs with	chemotherapy
-anemia	worsens	quality of life
-renal impairment	worsens	prognosis
-osteoporosis	contributes to	fracture risk
-bisphosphonates	prevent	skeletal-related events
-denosumab	prevents	skeletal-related events
-radiation therapy	palliates	bone pain
-daratumumab	is a	monoclonal antibody
+cyclophosphamide	is a	alkylating agent
+melphalan	is a	alkylating agent
+thalidomide	is a	IMiD
 daratumumab	targets	CD38
-elotuzumab	is a	monoclonal antibody
-elotuzumab	targets	SLAMF7
-isatuximab	is a	monoclonal antibody
 isatuximab	targets	CD38
-BCMA	is a target for	CAR-T therapy
-CAR-T therapy	yields	response
-response	includes	minimal residual disease negativity
-minimal residual disease negativity	predicts	longer survival
-autologous stem cell transplant	improves	progression-free survival
-progression-free survival	correlates with	overall survival
-overall survival	is improved by	maintenance therapy
-maintenance therapy	reduces	relapse risk
-renal function	improves with	treatment
-bone density	decreases with	myeloma activity
-osteoclasts	are activated by	myeloma cells
-kidney involvement	indicates	worse prognosis
-serum free light chain assay	is used for	monitoring disease
-amyloidosis	occurs with	multiple myeloma
-amyloidosis	causes	organ dysfunction
-bone lesions	correlate with	prognosis
-M protein	indicates	disease activity
-IgA myeloma	isotype	of immunoglobulin
-non-secretory myeloma	is a	myeloma subtype
-light chain myeloma	is a	myeloma subtype
-hyperviscosity	is rare in	myeloma
-infection risk	increases with	neutropenia
-treatment response	requires	serial monitoring
-serum M protein	decreases with	effective therapy
-bone pain	improves with	analgesia
-radiographic response	is used to assess	disease status
-bone surveys	show	progression
-MRI	reveals	marrow involvement
-PET-CT	evaluates	metabolic activity
-clonal plasma cells	are reduced by	therapy
-drug resistance	leads to	relapse
-relapse	requires	salvage therapy
-salvage therapy	includes	proteasome inhibitors
-bone marrow reserve	limits	transplant eligibility
-age	influences	prognosis
-death	can result from	progressive disease
+selinexor	used for	relapsed disease
+pomalidomide	used for	relapsed disease
+carfilzomib	used for	relapsed disease
+disease control	achieved with	combination therapy
+autologous transplant	provides	progression-free survival
+bisphosphonates	reduce	skeletal-related events
+zoledronic acid	is a	bisphosphonate
+pamidronate	is a	bisphosphonate
+osteonecrosis of the jaw	is a	bisphosphonate complication
+infections	are a	complication of multiple myeloma
+IgG myeloma	is a	disease subtype
+IgA myeloma	is a	disease subtype
+light-chain myeloma	is a	disease subtype
+non-secretory myeloma	is a	disease subtype
+t(11;14) translocation	is a	prognostic marker
+t(6;14) translocation	observed in	myeloma
+del(13q)	is a	prognostic marker
+complex karyotype	is a	poor prognostic factor
+minimal residual disease	indicates	depth of response
+response rate	measures	treatment effectiveness
+complete response	is a	deep response
+partial response	is a	response category
+stable disease	is a	response category
+relapse	occurs after	remission
+bone resorption	increases with	myeloma activity
+paraprotein	is a	monoclonal protein
+renal involvement	indicates	disease severity
+Bence Jones protein	is a	urinary light chain
+urine protein electrophoresis	detects	M-protein in urine
+serum protein electrophoresis	detects	M-spike in serum
+bone marrow biopsy	confirms	clonal plasma cells
+bone marrow biopsy	guides	prognosis
+serum free light chains	monitor	clonal production
+amyloidosis	may complicate	myeloma
+daratumumab	improves	overall survival
+lenalidomide maintenance	prolongs	progression-free survival
+pomalidomide maintenance	prolongs	progression-free survival
+disease progression	signals	treatment failure
+staging	guides	treatment selection
+hypercalcemia	defines	metabolic complication
+calcium	level	relates to hypercalcemia
+renal function	influences	drug selection
+immunoglobulin levels	decrease with	therapy
+Bence Jones protein	is a	urinary marker
+urine electrophoresis	detects	M-protein in urine
+serum electrophoresis	detects	M-spike in serum
+bone marrow biopsy	confirms	clonal plasma cells

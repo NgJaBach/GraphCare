@@ -1,0 +1,100 @@
+tibia fracture	treated with	ORIF
+tibia fracture	treated with	external fixation
+tibia fracture	treated with	casting
+tibia fracture	treated with	splint
+tibia fracture	treated with	intramedullary nailing
+tibia fracture	treated with	plate fixation
+tibia fracture	treated with	bone grafting
+tibia fracture	treated with	traction
+tibia fracture	managed with	nonoperative care
+tibia fracture	risk of	nonunion
+fibula fracture	treated with	ORIF
+fibula fracture	treated with	casting
+fibula fracture	treated with	splint
+fibula fracture	treated with	external fixation
+fibula fracture	treated with	screw fixation
+fibula fracture	managed with	nonoperative care
+fibula fracture	risk of	malunion
+fibula fracture	risk of	nonunion
+ankle fracture	treated with	ORIF
+ankle fracture	treated with	closed reduction
+ankle fracture	treated with	external fixation
+ankle fracture	immobilized with	cast
+ankle fracture	immobilized with	boot
+ankle fracture	treated with	screw fixation
+ankle fracture	treated with	plate fixation
+ankle fracture	treated with	external fixator
+ankle fracture	risk of	posttraumatic arthritis
+ankle fracture	risk of	malalignment
+calcaneus fracture	treated with	ORIF
+calcaneus fracture	treated with	external fixation
+calcaneus fracture	treated with	casting
+calcaneus fracture	treated with	boot
+calcaneus fracture	risk of	subtalar arthritis
+calcaneus fracture	treated with	screw fixation
+talus fracture	treated with	ORIF
+talus fracture	treated with	casting
+talus fracture	treated with	immobilization
+talus fracture	treated with	internal fixation
+tibial plateau fracture	treated with	ORIF
+tibial plateau fracture	treated with	external fixation
+tibial plateau fracture	treated with	casting
+tibial plateau fracture	risk of	arthritis
+tibial plateau fracture	treated with	plate fixation
+pilon fracture	treated with	ORIF
+pilon fracture	treated with	external fixation
+pilon fracture	treated with	casting
+pilon fracture	risk of	osteoarthritis
+pilon fracture	managed with	physical therapy
+metatarsal fracture	treated with	ORIF
+metatarsal fracture	treated with	casting
+metatarsal fracture	treated with	splint
+metatarsal fracture	treated with	buddy taping
+metatarsal fracture	risk of	malunion
+metatarsal fracture	risk of	posttraumatic arthritis
+phalanx fracture	treated with	buddy taping
+phalanx fracture	treated with	casting
+phalanx fracture	risk of	malunion
+phalanx fracture	treated with	buddy taping
+patellar fracture	treated with	ORIF
+patellar fracture	treated with	nonoperative care
+patellar fracture	risk of	chronic knee pain
+knee dislocation	reduced with	closed reduction
+knee dislocation	reduced with	open reduction
+knee dislocation	managed with	immobilization
+knee dislocation	treated with	surgery
+Lisfranc dislocation	treated with	ORIF
+Lisfranc dislocation	treated with	external fixation
+Lisfranc dislocation	treated with	casting
+Lisfranc dislocation	risk of	midfoot arthritis
+Chopart dislocation	treated with	ORIF
+Chopart dislocation	treated with	casting
+ankle dislocation	reduced with	closed reduction
+ankle dislocation	reduced with	open reduction
+ankle dislocation	managed with	immobilization
+ankle dislocation	treated with	surgery
+toe fracture	treated with	buddy taping
+toe fracture	treated with	casting
+toe fracture	risk of	malunion
+toe fracture	managed with	physical therapy
+open fracture	treated with	IV antibiotics
+open fracture	treated with	wound debridement
+open fracture	treated with	tetanus prophylaxis
+intramedullary nailing	used for	tibia fracture
+screw fixation	used for	fibula fracture
+plate fixation	used for	tibia fracture
+external fixator	used for	pilon fracture
+bone grafting	used for	nonunion
+arthrodesis	used for	ankle arthritis
+DVT prophylaxis	used for	postoperative care
+anesthesia	required for	operative fixation
+IV antibiotics	used for	open fracture
+bone graft	used for	nonunion
+malunion	complication of	fracture
+nonunion	complication of	fracture
+posttraumatic arthritis	complication of	ankle fracture
+osteoarthritis	complication of	calcaneus fracture
+subtalar arthritis	complication of	calcaneus fracture
+soft tissue injury	associated with	open fracture
+casting	used for	toe fracture
+immobilization	used for	fracture

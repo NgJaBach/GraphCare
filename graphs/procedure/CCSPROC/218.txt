@@ -1,0 +1,100 @@
+psychological evaluation	is a	clinical assessment
+psychiatric evaluation	is a	clinical assessment
+clinical assessment	informs	diagnostic plan
+diagnostic plan	guides	therapy selection
+evaluation results	inform	treatment decisions
+structured interview	is a	assessment method
+neuropsychological testing	is a	cognitive assessment
+psychological testing	is a	diagnostic tool
+risk assessment	predicts	crisis risk
+risk assessment	predicts	suicide risk
+psychosocial assessment	informs	social determinants
+treatment plan	guides	follow-up
+care plan	guides	care delivery
+care coordination	improves	continuity of care
+therapy	is a	treatment modality
+psychotherapy	is a	therapy modality
+cognitive behavioral therapy	is a	therapy modality
+dialectical behavior therapy	is a	therapy modality
+interpersonal therapy	is a	therapy modality
+exposure therapy	is a	therapy modality
+group therapy	is a	therapy modality
+family therapy	is a	therapy modality
+mindfulness-based therapy	is a	therapy modality
+problem-solving therapy	is a	therapy modality
+psychiatric medication	is a	pharmacotherapy
+antidepressant	is a	psychotropic medication
+sertraline	is a	antidepressant
+fluoxetine	is a	antidepressant
+venlafaxine	is a	antidepressant
+trazodone	is a	antidepressant
+lithium	is a	mood stabilizer
+carbamazepine	is a	mood stabilizer
+valproate	is a	mood stabilizer
+olanzapine	is a	antipsychotic
+quetiapine	is a	antipsychotic
+clozapine	is a	antipsychotic
+aripiprazole	is a	antipsychotic
+lorazepam	is a	anxiolytic
+diazepam	is a	anxiolytic
+zopiclone	is a	hypnotic
+sleep disturbance	co-occurs with	depression
+insomnia	accompanies	mood disorder
+anxiety disorder	co-occurs with	depression
+substance use disorder	complicates	treatment
+tobacco use	worsens	health outcomes
+sleep quality	improves with	psychotherapy
+social support	improves	treatment adherence
+housing status	influences	treatment adherence
+employment status	impacts	recovery
+stigma	reduces	help-seeking behavior
+psychiatric hospitalization	occurs during	crisis
+emergency department visit	precedes	admission
+inpatient admission	follows	crisis stabilization
+safety planning	is part of	crisis intervention
+crisis intervention	reduces	suicide risk
+Beck Depression Inventory	is a	rating scale
+Hamilton Anxiety Rating Scale	is a	rating scale
+Montgomery-Åsberg Depression Rating Scale	is a	rating scale
+PHQ-9	is a	screening tool
+GAD-7	is a	screening tool
+DSM-5	provides	diagnostic criteria
+ICD-10	used for	coding diagnoses
+clinical note	documents	treatment plan
+follow-up appointment	scheduled by	clinician
+therapy outcome	measures	improvement
+treatment adherence	predicts	outcome
+caregiver support	enhances	engagement in treatment
+therapeutic alliance	strengthens	engagement in treatment
+counseling	complements	medication management
+psychiatric hospital stay	extends	hospitalization duration
+emergency department	triggers	care transition
+ambulatory care	reduces	hospitalization risk
+safety risk	increases	crisis probability
+cognitive distortion	contributes to	symptom severity
+cognitive restructuring	reduces	cognitive distortions
+therapy dropout	predicts	readmission
+therapy intensity	relates to	outcomes
+remote monitoring	supports	adherence
+telepsychiatry	is a	telemedicine modality
+emotional regulation	improves	coping strategies
+coping strategies	enhance	resilience
+resilience	predicts	recovery
+remission	indicates	treatment success
+prognosis	is influenced by	comorbidity
+comorbidity	increases	hospitalization duration
+treatment complexity	predicts	longer hospitalization
+therapy duration	correlates with	response rate
+response rate	correlates with	remission probability
+remission probability	informs	discharge timing
+psychiatric prognosis	informs	care planning
+suicidality	decreases with	safety planning
+substance use disorder	worsens	treatment adherence
+therapy access	improves	equity of care
+digital therapy	supports	engagement
+care coordination	reduces	readmission risk
+clinical oversight	ensures	safety
+care continuity	ensures	ongoing treatment
+psychotherapy outcome	predicts	long-term stability
+cognitive therapy	improves	executive function
+mental health literacy	improves	care seeking

@@ -1,83 +1,99 @@
 fracture of neck of femur	is a	hip fracture
-fracture of neck of femur	increases risk of	mortality
-fracture of neck of femur	increases risk of	readmission
-fracture of neck of femur	increases risk of	delirium
-fracture of neck of femur	increases risk of	pneumonia
-fracture of neck of femur	increases risk of	venous thromboembolism
-fracture of neck of femur	increases risk of	wound infection
-fracture of neck of femur	increases risk of	urinary tract infection
-fracture of neck of femur	increases risk of	anemia
-fracture of neck of femur	increases risk of	electrolyte disturbance
-fracture of neck of femur	increases risk of	hypoxia
-fracture of neck of femur	requires	hip arthroplasty
-fracture of neck of femur	requires	hemiarthroplasty
-fracture of neck of femur	requires	internal fixation
-fracture of neck of femur	treated with	analgesia
-fracture of neck of femur	treated with	opioids
-fracture of neck of femur	treated with	regional anesthesia
-fracture of neck of femur	treated with	general anesthesia
+fracture of neck of femur	occurs in	older adults
 fracture of neck of femur	associated with	osteoporosis
-fracture of neck of femur	associated with	sarcopenia
-fracture of neck of femur	associated with	dementia
-fracture of neck of femur	associated with	diabetes
-fracture of neck of femur	associated with	hypertension
-fracture of neck of femur	associated with	malnutrition
-fracture of neck of femur	prognosis depends on	age
-fracture of neck of femur	prognosis depends on	comorbidity burden
-fracture of neck of femur	prognosis depends on	frailty
-fracture of neck of femur	prognosis depends on	preoperative anemia
-fracture of neck of femur	prognosis depends on	functional status
-fracture of neck of femur	prognosis depends on	cognitive impairment
-fracture of neck of femur	mortality predicted by	age
-fracture of neck of femur	mortality predicted by	ASA score
-fracture of neck of femur	readmission predicted by	discharge disposition
-fracture of neck of femur	readmission predicted by	anemia
-fracture of neck of femur	readmission predicted by	infection
-fracture of neck of femur	length of stay predicted by	age
-fracture of neck of femur	length of stay predicted by	comorbidity
-fracture of neck of femur	length of stay predicted by	frailty
-fracture of neck of femur	discharge disposition predicted by	rehabilitation need
-fracture of neck of femur	discharge disposition predicted by	home readiness
-fracture of neck of femur	discharge to	skilled nursing facility
-fracture of neck of femur	discharge to	home
-fracture of neck of femur	transfusion requirement	blood loss
-fracture of neck of femur	blood loss associated with	transfusion need
-fracture of neck of femur	anemia associated with	blood transfusion requirement
-fracture of neck of femur	complication	deep vein thrombosis
-fracture of neck of femur	complication	pulmonary embolism
-fracture of neck of femur	complication	urinary retention
-fracture of neck of femur	complication	pressure ulcer
-fracture of neck of femur	infection	surgical site infection
-fracture of neck of femur	infection	sepsis
-fracture of neck of femur	risk factor	age
-fracture of neck of femur	risk factor	frailty
-fracture of neck of femur	risk factor	malnutrition
-fracture of neck of femur	risk factor	smoking
-fracture of neck of femur	risk factor	alcohol use
-fracture of neck of femur	associated with	fall history
+fracture of neck of femur	caused by	fall
+fracture of neck of femur	increases	mortality
+fracture of neck of femur	increases	length of stay
+fracture of neck of femur	increases	hospital readmission
+fracture of neck of femur	leads to	disability
+fracture of neck of femur	leads to	loss of independence
+fracture of neck of femur	requires	surgery
+fracture of neck of femur	treated with	internal fixation
+fracture of neck of femur	treated with	hemiarthroplasty
+fracture of neck of femur	treated with	total hip arthroplasty
+fracture of neck of femur	treated with	conservative management
+fracture of neck of femur	managed by	orthopedic surgeon
+fracture of neck of femur	performed under	spinal anesthesia
+fracture of neck of femur	performed under	general anesthesia
+fracture of neck of femur	associated with	delirium
+fracture of neck of femur	increases	delirium risk
+fracture of neck of femur	associated with	deep vein thrombosis
+fracture of neck of femur	increases	pneumonia risk
+fracture of neck of femur	increases	pressure ulcer risk
+fracture of neck of femur	requires	analgesia
+fracture of neck of femur	reduces	mobility
+fracture of neck of femur	predisposes to	immobility
+fracture of neck of femur	results in	rehabilitation need
+fracture of neck of femur	leads to	activities of daily living limitation
+fracture of neck of femur	associated with	gait disturbance
+fracture of neck of femur	associated with	anemia
+fracture of neck of femur	increases	blood transfusion need
+fracture of neck of femur	is considered	orthopedic emergency
+fracture of neck of femur	managed by	geriatric fracture program
 fracture of neck of femur	associated with	osteoporosis severity
-fracture of neck of femur	predictor of	mobility outcome
-fracture of neck of femur	predictor of	discharge destination
-fracture of neck of femur	mobility outcome predicted by	preoperative function
-fracture of neck of femur	mobility outcome	improved by	early mobilization
-fracture of neck of femur	timing of surgery	influences	mortality
-fracture of neck of femur	timing of surgery	influences	infection
-fracture of neck of femur	anesthesia type influences	transfusion requirement
-fracture of neck of femur	anesthesia type influences	length of stay
-fracture of neck of femur	anesthesia type influences	postoperative pain
-fracture of neck of femur	surgical method influences	mobility outcome
-fracture of neck of femur	surgical method influences	mortality
-fracture of neck of femur	regional anesthesia associated with	reduced delirium
-fracture of neck of femur	regional anesthesia associated with	reduced delirium incidence
-fracture of neck of femur	preoperative albumin influences	mortality
-fracture of neck of femur	preoperative anemia influences	transfusion requirement
-fracture of neck of femur	nutrition status influences	wound infection
-fracture of neck of femur	rehabilitation needs	post-discharge care facilities
-fracture of neck of femur	discharge to	rehabilitation
-fracture of neck of femur	postoperative delirium influences	mobility
-fracture of neck of femur	mobility outcome	improved with	early surgery
-fracture of neck of femur	mobility outcome	improved with	early mobilization
-fracture of neck of femur	mobility outcome	improved with	physiotherapy
-fracture of neck of femur	mobility outcome	improved with	nutrition optimization
-fracture of neck of femur	mobility outcome	improved with	pain control
-fracture of neck of femur	outcome improved by	early surgery
+fracture of neck of femur	influences	discharge disposition
+fracture of neck of femur	associated with	cognitive impairment
+fracture of neck of femur	increases	caregiver burden
+fracture of neck of femur	requires	physical therapy
+fracture of neck of femur	requires	rehabilitation
+fracture of neck of femur	improves with	early surgery
+fracture of neck of femur	improves with	timely fixation
+fracture of neck of femur	portends	poor functional outcome
+fracture of neck of femur	associated with	sarcopenia
+fracture of neck of femur	increases	risk of malnutrition
+fracture of neck of femur	causes	anemia
+fracture of neck of femur	increases	hospital cost
+fracture of neck of femur	prompts	fall prevention measures
+fracture of neck of femur	associated with	bed rest requirement
+fracture of neck of femur	treated in	orthopedic ward
+fracture of neck of femur	results in	postoperative pain
+fracture of neck of femur	leads to	rehabilitation outcome
+fracture of neck of femur	predicts	future fracture risk
+fracture of neck of femur	associated with	vitamin D deficiency
+fracture of neck of femur	increases	duration of immobilization
+fracture of neck of femur	associated with	fracture nonunion risk
+fracture of neck of femur	increases	risk of prosthesis dislocation
+fracture of neck of femur	increases	risk of implant loosening
+fracture of neck of femur	linked to	osteoporosis treatment adherence
+fracture of neck of femur	influences	discharge planning
+fracture of neck of femur	associated with	cognitive decline
+fracture of neck of femur	increases	dependency
+fracture of neck of femur	associated with	comorbidity burden
+fracture of neck of femur	correlates with	frailty syndrome
+fracture of neck of femur	increases	hospital resource use
+fracture of neck of femur	is diagnosed by	radiography
+fracture of neck of femur	requires	preoperative clearance
+fracture of neck of femur	affects	ambulation status
+fracture of neck of femur	associated with	hip stiffness
+fracture of neck of femur	leads to	long-term disability
+fracture of neck of femur	increases	home health care need
+fracture of neck of femur	necessitates	orthopedic follow-up
+fracture of neck of femur	influences	nursing requirements
+fracture of neck of femur	affects	patient satisfaction
+fracture of neck of femur	increases	risk of sepsis
+fracture of neck of femur	associated with	joint stiffness
+fracture of neck of femur	increases	risk of malunion
+fracture of neck of femur	increases	risk of avascular necrosis
+fracture of neck of femur	requires	pain management
+fracture of neck of femur	associated with	bone cement implantation syndrome
+fracture of neck of femur	increases	readmission rate
+fracture of neck of femur	leads to	prosthesis need
+fracture of neck of femur	is a	major cause of disability in older adults
+fracture of neck of femur	contributes to	disability burden
+fracture of neck of femur	increases	rehabilitation duration
+fracture of neck of femur	increases	risk of nonunion
+fracture of neck of femur	increases	risk of skin breakdown
+fracture of neck of femur	requires	follow-up imaging
+fracture of neck of femur	prompts	discharge planning
+fracture of neck of femur	associated with	nutritional deficiency
+fracture of neck of femur	affects	independence in daily living
+fracture of neck of femur	influences	prognosis
+fracture of neck of femur	predicted by	frailty score
+fracture of neck of femur	necessitates	caregiver support
+fracture of neck of femur	increases	blood loss
+fracture of neck of femur	increases	blood loss volume
+fracture of neck of femur	reduces	life expectancy
+fracture of neck of femur	alters	ambulation trajectory
+fracture of neck of femur	increases	discharge delay
+fracture of neck of femur	linked to	fall recurrence
+fracture of neck of femur	associated with	frailty burden

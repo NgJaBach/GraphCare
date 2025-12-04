@@ -1,100 +1,146 @@
 cataract	is a	lens opacity
-cataract	is common in	older adults
-age	increases risk for	cataract
-diabetes mellitus	increases risk for	cataract
-corticosteroid use	increases risk for	cataract
-trauma	increases risk for	cataract
-uveitis	increases risk for	cataract
-smoking	increases risk for	cataract
-ultraviolet exposure	increases risk for	cataract
-hypertension	associated with	cataract
-obesity	associated with	cataract
-down syndrome	predisposes to	pediatric cataract
-pediatric cataract	managed with	surgery
-cataract surgery	is a	surgical procedure
-phacoemulsification	is a	cataract extraction technique
-extracapsular extraction	is a	cataract removal technique
-intracapsular extraction	is a	old technique
-intraocular lens implantation	follows	cataract extraction
-IOL	provides	refractive correction
-multifocal intraocular lens	provides	range of vision
-toric intraocular lens	corrects	astigmatism
-femtosecond laser cataract surgery	facilitates	cataract removal
-cataract surgery	improves	visual acuity
-posterior capsule opacification	occurs after	cataract surgery
-YAG laser capsulotomy	treats	posterior capsule opacification
-endophthalmitis	risk after	cataract surgery
-retinal detachment	risk after	cataract surgery
-cystoid macular edema	occurs after	cataract surgery
-topical anesthesia	is used for	cataract surgery
-local anesthesia	is used for	cataract surgery
-general anesthesia	rarely used for	cataract surgery
-preoperative biometric measurements	are used for	IOL power calculation
-IOL power calculation	relies on	keratometry
-keratometry	measures	corneal curvature
-axial length	affects	IOL power calculation
-refractive surprise	results from	inaccurate IOL power calculation
-pseudophakia	results from	IOL implantation
-aphakia	results from	cataract extraction without IOL
-IOL implantation	is performed during	cataract surgery
-monofocal intraocular lens	provides	single focus vision
-toric intraocular lens	corrects	astigmatism
-astigmatism	corrected with	toric IOL
-phacoemulsification	uses	ultrasonic energy
-phacoemulsification	results in	small corneal incision
-small-incision cataract surgery	reduces	wound healing time
-extracapsular cataract extraction	allows	faster recovery
-blue light filtering IOL	reduces	glare and halos
-glaucoma	risk after	cataract extraction
-cataract	is leading cause of	reversible blindness worldwide
-cataract surgery	improves	quality of life
-spectacle dependence	decreases after	multifocal IOL
-visual acuity	improves after	cataract surgery
-daily living activities	improve after	cataract surgery
-reading ability	improves after	cataract surgery
-driving ability	improves after	cataract surgery
-color vision	improves after	cataract surgery
-posterior capsule rupture	is a complication of	cataract surgery
-retinal edema	occurs after	cataract surgery
-vitreous loss	leads to	retinal detachment
-corneal edema	causes	blurred vision after cataract surgery
-cystoid macular edema	occurs after	cataract surgery
-intraoperative complications	include	posterior capsule rupture
-posterior capsule rupture	increases risk of	vitreous loss
-endophthalmitis	rare but serious after	cataract surgery
-antibiotic prophylaxis	reduces risk of	endophthalmitis after cataract surgery
-intracameral antibiotics	reduce risk of	endophthalmitis
-topical antibiotic	used for	infection prophylaxis after cataract surgery
-steroid eye drops	used for	inflammation control after cataract surgery
-NSAID eye drops	used for	pain and inflammation after cataract surgery
-preoperative biometry	predicts	IOL power
-ocular biometry	determines	IOL power
-slit lamp examination	detects	lens opacity
-lens opacity	visible on	slit lamp examination
-preoperative assessment	guides	surgical planning
+cataract	is a	leading cause of blindness
+cataract	causes	decreased visual acuity
+cataract	causes	glare
+cataract	reduces	contrast sensitivity
+cataract	reduces	red reflex
+cataract	increases risk of	falls
+cataract	increases risk of	driving impairment
+cataract	treated with	cataract surgery
+cataract surgery	replaces	natural crystalline lens
+intraocular lens	implanted during	cataract surgery
+intraocular lens	replaces	natural lens
+phacoemulsification	is a	surgical technique
+extracapsular cataract extraction	is a	surgical procedure
+cataract	diagnosed by	slit-lamp examination
+cataract	diagnosed by	ophthalmoscopy
+nuclear cataract	is a	type of cataract
+nuclear cataract	associated with	aging
+nuclear sclerosis cataract	is a	type of cataract
+posterior subcapsular cataract	is a	type of cataract
+cortical cataract	is a	type of cataract
+pediatric cataract	occurs in	children
+congenital cataract	occurs in	infants
+senile cataract	is a	type of cataract
+age	increases risk of	cataract
+aging	increases risk of	cataract
+diabetes mellitus	increases risk of	cataract
+diabetes mellitus	predisposes to	cataract formation
+smoking	increases risk of	cataract
+corticosteroid use	increases risk of	cataract
+ultraviolet exposure	increases risk of	cataract
+trauma	causes	traumatic cataract
+traumatic cataract	is a	type of cataract
+glaucoma	coexists with	cataract
+cataract	results in	blurred vision
+cataract	results in	reduced visual acuity
+cataract	is managed with	surgery
+surgery	includes	phacoemulsification
+cataract surgery	is performed by	ophthalmologist
 ophthalmologist	performs	cataract surgery
-surgeon experience	influences	visual outcomes after cataract surgery
-learning curve	affects	cataract surgery outcomes
-biometry accuracy	affects	refractive outcome after cataract surgery
-keratometry reliability	influences	IOL calculation accuracy
-nuclear cataract	presents with	lens opacity progression
-nuclear sclerosis	causes	decreased contrast sensitivity
-posterior subcapsular cataract	associated with	steroid use
-steroid use	predisposes to	posterior subcapsular cataract
-congenital cataract	presents in	infancy
-congenital cataract	requires	early surgery
-pediatric cataract	may require	surgery
-diabetic retinopathy	worsens after	cataract surgery
-postoperative inflammation	resolved with	corticosteroids
-corticosteroids	reduce risk of	inflammation after cataract surgery
-antibiotics	reduce risk of	infection after cataract surgery
-YAG laser capsulotomy	performed for	posterior capsule opacification
-postoperative refractive outcome	influences	patient satisfaction
-patient satisfaction	correlates with	spectacle independence
-spectacle independence	achieved with	multifocal IOL
-monofocal IOL	requires	glasses after surgery
-cost	influences	cataract surgery planning
-healthcare system	bears cost of	cataract surgery
-global burden	of cataract	vision impairment
-preoperative biometry	predicts	refractive outcome
-vision	improves after	cataract surgery
+anesthesia	is required for	cataract surgery
+topical anesthesia	used for	cataract surgery
+intracameral anesthesia	used for	cataract surgery
+intracameral antibiotic	used for	infection prophylaxis
+antibiotic eye drops	used after	cataract surgery
+intraocular lens	implanted to	correct refractive error
+intraocular lens	adjusts	postoperative refractive outcome
+posterior capsule opacification	occurs after	cataract surgery
+neodymium:YAG laser capsulotomy	treats	posterior capsule opacification
+posterior capsule opacification	treated by	laser capsulotomy
+cataract	reduces	light transmission
+crystalline lens	becomes	opaque
+lens opacity	results in	decreased vision
+cataract	affects	daily living activities
+visual acuity	improves after	cataract surgery
+postoperative astigmatism	occurs after	cataract surgery
+corneal incision	influences	residual astigmatism
+astigmatism	affects	refractive outcome
+refractive outcome	depends on	IOL power
+IOL power	determines	postoperative refraction
+postoperative refraction	depends on	cataract morphology
+cataract morphology	influences	refractive outcome
+bilateral cataract	is common in	elderly
+hereditary cataract	is a	genetic condition
+genetic mutation	causes	hereditary cataract
+secondary glaucoma	may accompany	cataract
+adult-onset cataract	is a	common condition
+pediatric cataract	can cause	amblyopia
+amblyopia	caused by	pediatric cataract
+ophthalmic examination	reveals	lens opacity
+slit-lamp examination	reveals	lens opacity
+vision	depends on	clarity of lens
+lens clarity	determines	visual acuity
+medication	not effective for	cataract
+endophthalmitis	is a	rare complication of cataract surgery
+postoperative care	includes	antibiotic eye drops
+cataract	is a	treatable condition
+cataract	increases risk of	blindness if untreated
+pseudophakia	results from	cataract surgery with IOL
+aphakia	results from	cataract surgery without IOL
+steroid-induced cataract	is a	type of cataract
+hyperglycemia	associated with	cataract formation
+diabetic cataract	is a	type of cataract
+diabetic cataract	causes	vision impairment
+UV radiation exposure	correlates with	posterior subcapsular cataract
+age-related cataract	is a	common ocular condition
+adult cataract	is a	type of age-related cataract
+cataract	is associated with	aging process
+cataract	can be	bilateral
+cataract presents with	glare sensitivity
+cataract reduces	night vision
+cataract impairs	reading ability
+cataract increases risk of	accidental falls
+surgery	reduces	risk of blindness
+cataract is curable by	surgery
+postoperative corneal edema	is a	complication of cataract surgery
+cataract is associated with	smoking
+cataract screening	recommended by	healthcare provider
+vision testing	used for	cataract assessment
+healthcare provider	recommends	cataract screening
+cataract screening	coverage by	insurers
+cataract surgery	requires	preoperative testing
+blurry vision	results from	cataract
+eye surgery	reduces	visual impairment
+ophthalmology	field	cataract management
+cataract	contributes to	disability
+visual impairment	due to	cataract
+lens extraction	is a	surgical procedure
+ophthalmic surgeon	directs	cataract treatment
+postoperative recovery	period	after cataract surgery
+local anesthesia	used for	pediatric cataract surgery
+pediatric anesthesia	used for	pediatric cataract surgery
+cataract	is common in	older adults
+cataract	may be	age-related
+cataract	has	various subtypes
+lens	is replaced by	intraocular lens
+cataract	can be	bilateral condition
+cataract	can be	bilateral
+cataract	presents with	glare sensitivity
+cataract	reduces	night vision
+cataract	impairs	reading ability
+cataract	increases risk of	accidental falls
+surgery	reduces	risk of blindness
+cataract	is curable by	surgery
+postoperative corneal edema	is a	complication of cataract surgery
+cataract	is associated with	smoking
+cataract screening	recommended by	healthcare provider
+vision testing	used for	cataract assessment
+healthcare provider	recommends	cataract screening
+cataract screening	coverage by	insurers
+cataract surgery	requires	preoperative testing
+blurry vision	results from	cataract
+eye surgery	reduces	visual impairment
+ophthalmology	field	cataract management
+cataract	contributes to	disability
+visual impairment	due to	cataract
+lens extraction	is a	surgical procedure
+ophthalmic surgeon	directs	cataract treatment
+postoperative recovery	period	after cataract surgery
+local anesthesia	used for	pediatric cataract surgery
+pediatric anesthesia	used for	pediatric cataract surgery
+cataract	is common in	older adults
+cataract	may be	age-related
+cataract	has	various subtypes
+lens	is replaced by	intraocular lens
+postoperative corneal edema	resolved after	cataract surgery

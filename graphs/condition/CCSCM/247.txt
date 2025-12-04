@@ -1,101 +1,93 @@
-lymphadenitis	is a	inflammatory condition
-lymphadenitis	is associated with	infection
+lymphadenitis	is a	inflammatory condition of lymph nodes
+lymphadenitis	is caused by	infection
 lymphadenitis	is caused by	bacteria
-lymphadenitis	caused by	Staphylococcus aureus
-lymphadenitis	caused by	Streptococcus pyogenes
-lymphadenitis	caused by	Bartonella henselae
-lymphadenitis	caused by	Mycobacterium tuberculosis
-lymphadenitis	presents with	lymph node swelling
+lymphadenitis	is caused by	Staphylococcus aureus
+lymphadenitis	is caused by	Streptococcus pyogenes
+lymphadenitis	is caused by	Mycobacterium tuberculosis
+lymphadenitis	is caused by	non-tuberculous mycobacteria
+lymphadenitis	is caused by	Bartonella henselae
+lymphadenitis	is caused by	viral infection
+lymphadenitis	is caused by	fungal infection
+lymphadenitis	presents with	tender swelling
+lymphadenitis	presents with	unilateral swelling
 lymphadenitis	presents with	fever
-lymphadenitis	presents with	pain
-lymphadenitis	presents with	tenderness
 lymphadenitis	presents with	redness
-lymphadenitis	associated with	leukocytosis
-lymphadenitis	associated with	elevated CRP
-lymphadenitis	associated with	elevated ESR
+lymphadenitis	presents with	warmth
+lymphadenitis	involves	cervical lymph nodes
+lymphadenitis	involves	axillary lymph nodes
+lymphadenitis	involves	inguinal lymph nodes
+lymphadenitis	is more common in	children
+lymphadenitis	is more common in	neonates
+lymphadenitis	occurs in	adults
+lymphadenitis	is associated with	skin infection
+lymphadenitis	is associated with	dental infection
+lymphadenitis	is associated with	oropharyngeal infection
+lymphadenitis	can lead to	abscess
+abscess	may require	incision and drainage
+lymphadenitis	may progress to	sinus tract
+lymphadenitis	may progress to	chronic lymphadenitis
+lymphadenitis	may cause	sepsis
+lymphadenitis	diagnosed by	clinical examination
 lymphadenitis	diagnosed by	ultrasound
 lymphadenitis	diagnosed by	CT scan
-lymphadenitis	diagnosed by	biopsy
+lymphadenitis	diagnosed by	MRI
 lymphadenitis	diagnosed by	fine-needle aspiration
 lymphadenitis	diagnosed by	lymph node biopsy
-lymphadenitis	diagnosed by	lab test
-lymphadenitis	treated with	antibiotics
-antibiotics	used for	lymphadenitis
-antibiotics	selection guided by	culture results
-culture results	guide	antibiotic selection
-culture results	yield	antibiotic susceptibility
-incision drainage	used for	abscess
-incision drainage	used for	lymph node abscess
-surgical drainage	used for	abscess
-abscess	located in	neck region
-neck region	includes	cervical lymph nodes
-cervical lymph nodes	drain into	deep lymphatic vessels
-trauma	can cause	lymphadenitis
-diabetes	predisposes to	infections including lymphadenitis
-HIV	predisposes to	opportunistic lymphadenitis
-immunocompromised status	increases risk of	lymphadenitis
-bacteremia	can accompany	lymphadenitis
-sepsis	can accompany	severe lymphadenitis
-necrosis	results from	severe lymphadenitis
-granulomatous lymphadenitis	associated with	TB
-granulomatous lymphadenitis	associated with	fungal infection
-tuberculosis	can cause	granulomatous lymphadenitis
-fungal infection	can cause	granulomatous lymphadenitis
-fine-needle aspiration	helps	diagnosis of lymphadenitis
-lymphadenitis	may recur	after treatment
-relapse	occurs	after antibiotic therapy
-readmission risk	increased with	lymphadenitis
-hospitalization	required for	severe cases of lymphadenitis
-readmission risk	increases with	severity of lymphadenitis
-mortality risk	associated with	sepsis from lymphadenitis
-antibiotic resistance	potential in	recurrent lymphadenitis
-ultrasound	reveals	enlarged nodes
-ultrasound	guides	biopsy
-ultrasound	differentiates	reactive vs malignant nodes
-CT scan	reveals	lymph node enlargement
-CT scan	assesses	deep neck spaces
-MRI	evaluates	soft-tissue involvement
-lymph node biopsy	provides	histology
-histology	shows	granulomatous inflammation
-granulomatous inflammation	may indicate	tuberculosis
-granulomatous inflammation	may indicate	fungal infection
-bacteremia	may lead to	sepsis
-sepsis	can cause	organ failure
-organ failure	increases	mortality risk
-penicillin	used for	streptococcal lymphadenitis
-amoxicillin	used for	lymphadenitis
-clindamycin	used for	lymphadenitis
-doxycycline	used for	lymphadenitis
-surgery	considered for	chronic lymphadenitis with abscess
-excision	used for	chronic lymphadenitis
-corticosteroids	not standard	lymphadenitis
-biopsy	recommended for	persistent lymphadenopathy
-persistent lymphadenopathy	prompts	biopsy
-culture	performed for	persistent lymphadenopathy
-ESR	elevated in	lymphadenitis
-CRP	elevated in	lymphadenitis
-WBC	elevated in	lymphadenitis
-fever	indicates	infection
-local swelling	shows	inflammatory signs
-bleeding risk	increased by	incision drainage
-antibiotic duration	depends on	severity
-culture and sensitivity	essential for	targeted antibiotics
-anaerobic bacteria	infrequent cause of	lymphadenitis
-gram stain	used for	rapid diagnosis
-ultrasound-guided drainage	increases	precision
-outpatient management	possible for	mild lymphadenitis
-inpatient management	required for	severe lymphadenitis
-oral antibiotics	used for	mild lymphadenitis
-IV antibiotics	used for	severe lymphadenitis
-analgesia	provided for	pain management in lymphadenitis
-antipyretics	used for	fever in lymphadenitis
-regional lymphadenitis	occurs in	neck
-axillary lymphadenitis	occurs in	armpit
-inguinal lymphadenitis	occurs in	groin
-mesenteric lymphadenitis	involves	abdomen
-cat scratch disease	produces	regional lymphadenitis
-tuberculous lymphadenitis	a form of	TB lymphadenitis
-tuberculous lymphadenitis	more common in	children
-scrofula	refers to	tuberculous lymphadenitis
-differential diagnosis	includes	lymphoma
-malignancy risk	increases with	delayed diagnosis
+lymphadenitis	diagnosed by	culture
+lymphadenitis	managed with	antibiotics
+lymphadenitis	managed with	incision and drainage
+lymphadenitis	managed with	supportive care
+lymphadenitis	managed with	hospitalization
+Staphylococcus aureus	causes	lymphadenitis
+Streptococcus pyogenes	causes	lymphadenitis
+Mycobacterium tuberculosis	causes	tuberculous lymphadenitis
+cat scratch disease	causes	regional lymphadenitis
+lymphadenitis	mimics	lymphoma
+lymphadenitis	mimics	metastatic cancer
+cervical lymphadenitis	presents with	neck swelling
+cervical lymphadenitis	treated with	oral antibiotics
+axillary lymphadenitis	presents with	axillary swelling
+inguinal lymphadenitis	presents with	inguinal swelling
+abscess	forms from	lymphadenitis
+abscess	treated with	incision and drainage
+lymphadenitis	improves with	antibiotic therapy
+lymphadenitis	worsens with	delayed treatment
+lymphadenitis	recurrence rate	low
+lymphadenitis	prognosis	favorable with treatment
+lymphadenitis	differential includes	lymphoma
+lymphadenitis	differential includes	metastatic cancer
+lymphadenitis	evaluation includes	history and exam
+lymphadenitis	imaging shows	enlarged nodes
+lymphadenitis	imaging shows	loss of hilum
+lymphadenitis	ultrasound shows	hypoechoic nodes
+lymphadenitis	CT shows	nodal edema
+lymphadenitis	culture yields	bacteria
+lymphadenitis	biopsy shows	neutrophilic infiltrate
+lymphadenitis	biopsy shows	granulomatous inflammation
+granulomatous lymphadenitis	is a	subtype of lymphadenitis
+tuberculous lymphadenitis	presents with	caseating granulomas
+HIV infection	increases risk of	lymphadenitis
+diabetes mellitus	increases risk of	lymphadenitis
+leukocytosis	occurs with	acute lymphadenitis
+CRP	elevated with	lymphadenitis
+ESR	elevated with	lymphadenitis
+fine-needle aspiration	reveals	neutrophils
+lymphadenitis	requires	antibiotics with culture guidance
+Staphylococcus aureus	treatment target	beta-lactam antibiotics
+Streptococcus pyogenes	treatment target	penicillin
+abscess	management	drainage standard
+neck lymph nodes	involvement	lymphadenitis
+axillary nodes	involvement	lymphadenitis
+inguinal nodes	involvement	lymphadenitis
+granulomatous lymphadenitis	includes	caseating granulomas
+lymphadenitis	associated with	immunosuppression
+lymphadenitis	associated with	poor hygiene
+lymphadenitis	clinical feature	localized tenderness
+lymphadenitis	clinical feature	skin erythema
+lymphadenitis	clinical feature	nodal fluctuation
+lymphadenitis	pathological feature	neutrophilic infiltrate
+lymphadenitis	pathological feature	granulomatous inflammation
+lymphadenitis	management goal	source control
+lymphadenitis	diagnostic priority	exclude malignancy
+lymphadenitis	seasonal variation	none
+lymphadenitis	patient education	wound care

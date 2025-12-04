@@ -1,77 +1,100 @@
-systemic lupus erythematosus	is an	autoimmune condition
-systemic lupus erythematosus	may cause	nephritis
-anti-nuclear antigen	is a test for	systemic lupus erythematosus
-systemic lupus erythematosus	is treated with	steroids
-methylprednisolone	is a	steroid
-prednisone	is a	steroid
+rheumatoid arthritis	is an	autoimmune disease
+rheumatoid arthritis	is associated with	cardiovascular disease
+rheumatoid arthritis	increases risk for	myocardial infarction
+rheumatoid arthritis	treated with	methotrexate
+rheumatoid arthritis	treated with	biologic therapy
+rheumatoid arthritis	presents with	morning stiffness
+rheumatoid arthritis	presents with	symmetric polyarthritis
+rheumatoid arthritis	associated with	rheumatoid nodules
+rheumatoid arthritis	associated with	anemia of chronic disease
+rheumatoid arthritis	diagnosed with	anti-CCP antibodies
+osteoarthritis	is a	degenerative joint disease
+osteoarthritis	is associated with	aging
+osteoarthritis	presents with	joint pain
+osteoarthritis	treated with	NSAIDs
+osteoarthritis	treated with	physical therapy
+osteoarthritis	treated with	corticosteroid injections
+gout	is a	metabolic disease
+gout	caused by	hyperuricemia
+gout	presents with	acute monoarthritis
+gout	treated with	allopurinol
+gout	managed with	urate-lowering therapy
+gout	associated with	kidney disease
+pseudogout	is a	crystal arthropathy
+pseudogout	caused by	CPPD crystals
+pseudogout	presents with	chondrocalcinosis
+psoriatic arthritis	is a	inflammatory arthritis
+psoriatic arthritis	associated with	psoriasis
+psoriatic arthritis	treated with	methotrexate
+psoriatic arthritis	treated with	TNF inhibitors
+psoriatic arthritis	can cause	dactylitis
+psoriatic arthritis	presents with	nail changes
+psoriatic arthritis	associated with	axial arthritis
+ankylosing spondylitis	is a	seronegative spondyloarthritis
+ankylosing spondylitis	associated with	HLA-B27
+ankylosing spondylitis	presents with	inflammatory back pain
+ankylosing spondylitis	treated with	NSAIDs
+ankylosing spondylitis	may lead to	spinal fusion
+reactive arthritis	is a	seronegative spondyloarthritis
+reactive arthritis	associated with	preceding infection
+reactive arthritis	presents with	asymmetric oligoarthritis
+reactive arthritis	treated with	NSAIDs
+juvenile idiopathic arthritis	is a	pediatric inflammatory arthritis
+juvenile idiopathic arthritis	treated with	NSAIDs
+juvenile idiopathic arthritis	may cause	growth disturbance
+systemic lupus erythematosus	is an	autoimmune disease
 systemic lupus erythematosus	may cause	arthritis
-systemic lupus erythematosus	may cause	dermatitis
-systemic lupus erythematosus	may cause	serositis
-systemic lupus erythematosus	may cause	fatigue
-systemic lupus erythematosus	may cause	fever
-systemic lupus erythematosus	may cause	weight loss
-systemic lupus erythematosus	is chronic	disease
-photosensitivity	is a feature of	systemic lupus erythematosus
-oral ulcers	are a manifestation of	systemic lupus erythematosus
-malaise	is a symptom observed in	systemic lupus erythematosus
-kidney involvement	is common in	systemic lupus erythematosus
-lupus nephritis	is a major complication of	systemic lupus erythematosus
-proteinuria	accompanies	lupus nephritis
-hematuria	accompanies	lupus nephritis
-hypertension	commonly coexists with	systemic lupus erythematosus
-cardiovascular disease	is associated with	systemic lupus erythematosus
-thromboembolism	risk increased in	systemic lupus erythematosus
-stroke	risk increased in	systemic lupus erythematosus
-Libman-Sacks endocarditis	is associated with	lupus
-pericarditis	occurs in	lupus
-pleuritis	occurs in	lupus
-serositis	is a feature of	lupus
-lupus activity	correlates with	anti-dsDNA
-nephritis	increases	mortality risk in lupus
-nephritis	increases	hospitalization risk in lupus
-systemic lupus erythematosus	may require	immunosuppressive therapy
-immunosuppressive therapy	is used to treat	lupus nephritis
-cyclophosphamide	used for	lupus nephritis
-azathioprine	used for	lupus
-mycophenolate mofetil	used for	lupus nephritis
-belimumab	used for	systemic lupus erythematosus
-rituximab	used for	systemic lupus erythematosus
-lupus nephritis	may necessitate	dialysis
-dialysis	may be required for	lupus nephritis
-renal biopsy	used for	lupus nephritis evaluation
-immunofluorescence	used in	lupus nephritis evaluation
-immune complex	deposits in	glomeruli
-glomeral injury	seen in	lupus nephritis
-complement levels	decreased in	lupus
-C3	decreases in	lupus
-C4	decreases in	lupus
-urinalysis	detects	lupus nephritis
-proteinuria	indicates	nephritis severity
-nephrotic-range proteinuria	indicates	severe lupus nephritis
-hematuria	indicates	glomerular involvement
-hypertension	worsens	lupus outcome
-diabetes mellitus	comorbidity with	lupus
-cardiomyopathy	associated with	lupus
-pericardial effusion	can occur in	lupus
-myocarditis	can occur in	lupus
-stroke	risk elevated by	lupus
-antiphospholipid syndrome	coexists with	lupus
-antiphospholipid antibodies	associated with	lupus
-lupus anticoagulant	positive in	antiphospholipid syndrome
-anticoagulation therapy	used for	lupus with antiphospholipid syndrome
-aspirin	used to prevent	thrombosis in lupus
-hydroxychloroquine	reduces	lupus flares
-hydroxychloroquine	stabilizes	lupus activity
-prednisone	long-term use	causes bone loss
-bone density	decreases with	steroids
-osteoporosis	risk increased by	steroids
-glucocorticoids	cause	hyperglycemia
-hyperglycemia	risk increased by	steroids
-weight gain	associated with	steroid use
-diabetes mellitus	risk increased by	steroid therapy
-infection risk	increases with	immunosuppression
-immunosuppression	increases	infection risk
-nephrotoxicity	associated with	certain lupus therapies
-drugs	may cause	adverse effects in lupus
-lupus erythematosus	recognized as	autoimmune disease
-systemic lupus erythematosus	synonym	disease
+systemic lupus erythematosus	treated with	hydroxychloroquine
+systemic lupus erythematosus	associated with	anti-dsDNA antibodies
+bursitis	is a	inflammatory condition
+bursitis	presents with	joint swelling
+bursitis	treated with	corticosteroids
+tenosynovitis	is a	inflammatory condition
+tenosynovitis	presents with	tendon swelling
+tendinopathy	is a	chronic overuse condition
+tendinopathy	presents with	tendon pain
+calcium pyrophosphate deposition disease	is a	crystal arthropathy
+calcium pyrophosphate deposition disease	presents with	chondrocalcinosis
+calcium pyrophosphate deposition disease	treated with	NSAIDs
+gouty arthritis	is a	inflammatory arthritis
+gouty arthritis	caused by	hyperuricemia
+gouty arthritis	managed with	urate-lowering therapy
+enthesitis-related arthritis	is a	pediatric inflammatory arthritis
+enthesitis-related arthritis	associated with	HLA-B27
+enthesitis-related arthritis	treated with	NSAIDs
+inflammatory arthritis	is a	category of joint disorders
+rheumatoid arthritis	has radiographic findings	joint erosions
+rheumatoid arthritis	shows synovitis	joint swelling
+osteoarthritis	has radiographic finding	joint space narrowing
+osteoarthritis	shows radiographic findings	osteophytes
+gout	has radiographic finding	punched-out lesions
+psoriatic arthritis	has radiographic finding	periarticular inflammation
+psoriatic arthritis	shows soft tissue swelling	periarticular edema
+rheumatoid arthritis	increases patient mortality	cardiovascular disease
+psoriatic arthritis	associated with	psoriasis severity
+psoriasis	is associated with	psoriatic arthritis
+ankylosing spondylitis	treated with	TNF inhibitors
+gout	associated with	kidney stones
+gout	associated with	nephrolithiasis
+osteoarthritis	associated with	obesity
+rheumatoid arthritis	increases risk for	osteoporosis
+rheumatoid arthritis	may cause	anemia
+osteoarthritis	may cause	disability
+pseudogout	may cause	acute joint inflammation
+psoriatic arthritis	may cause	enthesitis
+ankylosing spondylitis	may cause	reduced range of motion
+reactive arthritis	may cause	conjunctivitis
+gout	can cause	nephropathy
+osteoarthritis	can lead to	joint deformity
+inflammatory arthritis	can cause	functional limitation
+enthesitis-related arthritis	may cause	sacroiliitis
+rheumatoid arthritis	may cause	heart failure
+rheumatoid arthritis	is common in	middle-aged adults
+osteoarthritis	is common in	older adults
+gout	is common in	males
+gout	is common in	older adults
+rheumatoid arthritis	is diagnosed in	adults
+osteoarthritis	is diagnosed in	older adults
+psoriatic arthritis	is diagnosed in	adults
+ankylosing spondylitis	is diagnosed in	adults
+reactive arthritis	is diagnosed in	adults

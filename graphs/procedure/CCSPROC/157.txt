@@ -1,0 +1,100 @@
+amputation of lower extremity	is a	surgical procedure
+amputation of lower extremity	indicated for	ischemia
+amputation of lower extremity	indicated for	infection
+amputation of lower extremity	indicated for	trauma
+amputation of lower extremity	indicated for	gangrene
+amputation of lower extremity	indicated for	cancer
+diabetes mellitus	increases	amputation risk
+peripheral vascular disease	increases	amputation risk
+neuropathy	increases	ulcer risk
+smoking	increases	infection risk
+obesity	increases	surgical complication risk
+amputation of lower extremity	includes	transtibial amputation
+amputation of lower extremity	includes	transfemoral amputation
+amputation of lower extremity	includes	disarticulation
+amputation of lower extremity	results in	stump
+stump	requires	prosthesis
+prosthesis	improves	ambulation
+prosthesis	causes	skin breakdown
+stump	predisposes	phantom limb pain
+phantom limb pain	reduces	mobility
+infection	increases	length of stay
+wound dehiscence	increases	mortality risk
+bleeding	increases	transfusion need
+blood loss	increases	transfusion requirement
+transfusion	associated with	infection risk
+rehabilitation	improves	independence
+physical therapy	enhances	balance
+gait training	improves	ambulation
+occupational therapy	improves	activities of daily living
+prosthetic fitting	occurs after	amputation
+prosthetic fitting	requires	residual limb length
+socket	interacts with	residual limb
+liner	cushions	residual limb
+residual limb length	affects	prosthesis fit
+below-knee amputation	is a type of	amputation of lower extremity
+above-knee amputation	is a type of	amputation of lower extremity
+transfemoral amputation	is a type of	amputation of lower extremity
+transtibial amputation	is a type of	amputation of lower extremity
+dressings	maintain	stump health
+nutritional status	affects	wound healing
+preoperative nutrition	improves	wound healing
+smoking cessation	improves	outcomes
+age	affects	amputation outcomes
+hypertension	increases	bleeding risk
+renal dysfunction	increases	infection risk
+antibiotics	prevent	infection
+analgesia	relieves	postoperative pain
+opioids	provide	analgesia
+anticoagulants	reduce	DVT risk
+stump bandaging	reduces	edema
+prosthetic device	requires	assessment
+prosthetic device	provided by	prosthetics service
+rehabilitation program	includes	gait training
+ambulation	depends on	prosthesis
+mobility	improves with	rehabilitation
+depression	increases	readmission risk
+infection	increases	readmission risk
+discharge destination	includes	home
+discharge destination	includes	rehabilitation facility
+socket	interacts with	residual limb
+suspension system	secures	prosthesis
+gait speed	predicts	mortality
+length of stay	correlates with	comorbidity burden
+preoperative nutrition	predicts	wound healing quality
+albumin level	predicts	postoperative complications
+age	affects	rehabilitation outcomes
+smoking cessation	improves	outcomes
+below-knee amputation	has	stump length
+stump length	affects	prosthetic fitting
+prosthetic fitting	influences	rehabilitation outcomes
+prosthesis weight	affects	gait efficiency
+gait efficiency	affects	energy expenditure
+energy expenditure	predicts	functional outcome
+pressure distribution	influences	skin integrity
+skin integrity	affects	wound healing
+wound healing	facilitates	prosthetic success
+vascular status	affects	postoperative complications
+postoperative complications	prolong	hospitalization
+prosthetic rehabilitation	improves	functional independence
+functional independence	increases	quality of life
+quality of life	correlates with	functional status
+rehabilitation adherence	predicts	functional outcome
+falls	increase	care needs
+care needs	require	home care services
+home care services	support	recovery
+prosthesis use	reduces	caregiver burden
+caregiver burden	affects	rehabilitation adherence
+rehabilitation adherence	influences	functional independence
+functional independence	reduces	mortality
+mortality	associated with	advanced age
+prosthesis adoption	promotes	independence
+independence	improves	quality of life
+quality of life	relates to	life satisfaction
+life satisfaction	improves	mental health
+prosthetic device	reduces	disability
+disability	reduces	social participation
+social participation	improves	overall outcomes
+overall outcomes	relate to	functional status
+functional status	predicts	hospital readmission
+hospital readmission	associated with	infection

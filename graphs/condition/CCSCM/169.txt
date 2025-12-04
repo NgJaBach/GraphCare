@@ -1,100 +1,100 @@
-endometriosis	is a	gynecologic disorder
+endometriosis	is a	gynecological condition
 endometriosis	causes	chronic pelvic pain
 endometriosis	causes	dysmenorrhea
 endometriosis	causes	dyspareunia
-endometriosis	associated with	infertility
-endometriosis	associated with	pelvic adhesions
-endometriosis	associated with	ovarian endometrioma
-infertility	is a consequence of	endometriosis
-laparoscopy	confirms	endometriosis
-imaging	detects	endometriosis
-pelvic ultrasound	detects	ovarian endometrioma
-MRI	detects	endometriosis
+endometriosis	causes	infertility
+endometriosis	associated with	heavy menstrual bleeding
+endometriosis	associated with	irregular menses
+endometriosis	diagnosed by	laparoscopy
+endometriosis	diagnosed by	transvaginal ultrasound
+endometriosis	diagnosed by	MRI
 CA-125	is elevated in	endometriosis
-endometriosis	exhibits	estrogen dependence
-estrogen	promotes	endometriotic implants
-progesterone	suppresses	endometriosis symptoms
-GnRH agonists	reduce	lesion activity
-leuprolide	is a	GnRH agonist
-goserelin	is a	GnRH agonist
-nafarelin	is a	GnRH agonist
-danazol	is a	androgenic agent
-danazol	reduces	endometriosis symptoms
-oral contraceptive pills	reduce	endometriosis pain
-oral contraceptives	regulate	menses in endometriosis
-progestin therapy	reduces	endometriosis symptoms
-medroxyprogesterone acetate	treats	endometriosis
-norethindrone acetate	treats	endometriosis
-levonorgestrel-releasing IUD	reduces	endometriosis bleeding
-letrozole	used for	endometriosis
-letrozole	improves	endometriosis symptoms
-laparoscopic excision	reduces	endometriosis pain
-laparoscopic excision	improves	fertility outcomes
-laparoscopic ablation	reduces	endometriosis symptoms
-surgical management	treats	endometriosis
-hysterectomy	considered for	severe endometriosis
-oophorectomy	considered for	ovarian endometrioma
-bilateral salpingo-oophorectomy	reserved for	refractory endometriosis
-post-operative hormone therapy	prevents	recurrence
-postoperative GnRH therapy	reduces	recurrence
-continuous oral contraceptives	reduce	dysmenorrhea
-deep infiltrating endometriosis	involves	pelvic structures
-deep infiltrating endometriosis	requires	multidisciplinary care
+endometriosis	treated with	NSAIDs
+endometriosis	treated with	GnRH agonists
+endometriosis	treated with	progestin therapy
+endometriosis	treated with	combined oral contraceptives
+endometriosis	treated with	danazol
+endometriosis	treated with	aromatase inhibitors
+endometriosis	treated with	laparoscopic excision
+endometriosis	treated with	laser ablation
+endometriosis	treated with	hysterectomy
+adenomyosis	coexists with	endometriosis
+ovarian endometrioma	arises from	endometriosis
+endometriosis	associated with	iron-deficiency anemia
+dysmenorrhea	is a symptom of	endometriosis
+dyspareunia	is a symptom of	endometriosis
+pelvic pain	is a symptom of	endometriosis
+infertility	is an outcome of	endometriosis
+autoimmune disease	is associated with	endometriosis
 endometriosis	affects	quality of life
-quality of life	improves with	endometriosis treatment
-pain	improves with	hormonal therapy
-pain	decreases with	analgesics
-fertility	may improve after	surgical management
-pregnancy rate	increases after	endometriosis treatment
-recurrence	occurs after	conservative surgery
-recurrence	decreases with	postoperative hormonal therapy
-fertility potential	declines with	advanced endometriosis
-sleep disturbance	increases with	chronic pain from endometriosis
-anxiety	increases with	chronic pain from endometriosis
-depression	associated with	endometriosis
-healthcare utilization	increases with	endometriosis symptom flares
-work absenteeism	increases with	endometriosis pain
-pelvic floor dysfunction	accompanies	endometriosis
-exercise therapy	improves	endometriosis symptoms
-diet modification	reduces	endometriosis pain
-pregnancy outcomes	affected by	endometriosis
-IVF success rate	lower in	endometriosis patients
-fertility preservation	discussed for	endometriosis patients
-imaging mapping	guides	surgical planning for endometriosis
-transvaginal ultrasound	evaluates	endometriosis
-rectovaginal endometriosis	involves	uterosacral ligaments
-uterosacral ligaments	affected by	rectovaginal endometriosis
-bladder endometriosis	occurs with	deep endometriosis
-bowel endometriosis	occurs with	deep endometriosis
-rectal involvement	occurs with	endometriosis
-pain score	correlates with	endometriosis symptoms
-analgesics	provide	symptomatic relief in endometriosis
-NSAIDs	provide	pain relief in endometriosis
-acetaminophen	provides	limited relief in endometriosis
-hormonal therapy	aims for	symptom control
-analgesia	used for	endometriosis pain
-neuroendocrine factors	influence	endometriosis
-opioids	reserved for	severe endometriosis pain
-fertility outcome	improves after	endometriosis surgery
-ovarian reserve	affected by	endometriosis
-anti-Mullerian hormone	decreases after	endometriosis-related surgery
-pregnancy rate	after surgery	increases
-recurrence rate	after conservative surgery	remains high
-recurrence rate	reduced by	postoperative hormonal therapy
-pregnancy outcome	worsened by	endometriosis
-stress response	triggered by	endometriosis pain
-mood disorder	associated with	endometriosis
-work productivity	affected by	endometriosis
-MRI	guides	surgical planning for endometriosis
-multidisciplinary team	manages	deep endometriosis
-CA-125	is not specific for	endometriosis
-pelvic pain	persists despite	lesion burden
-imaging	accuracy varies by	lesion type
-deep endometriosis	involves	posterior compartment
-symptom severity	not proportional to	lesion size
-endometriosis	coexists with	fibroids
-endometriosis-related infertility	may require	ART
-hormonal suppression	may delay	conception
-postoperative care	improves	recovery
-conservative management	favored for	mild endometriosis
-definitive surgery	chosen for	refractory endometriosis
+endometriosis	reduces	fertility potential
+early menarche	increases risk of	endometriosis
+short cycle length	increases risk of	endometriosis
+nulliparity	increases risk of	endometriosis
+family history	increases risk of	endometriosis
+lower body mass index	is associated with	endometriosis
+adenomyosis	coexists with	endometriosis
+endometriosis	is a cause of	infertility
+surgery	is a treatment for	endometriosis
+laparoscopy	is a diagnostic method for	endometriosis
+laparoscopy	enables	excision of endometriotic lesions
+endometriosis	recurrence after	surgery
+pelvic adhesions	arise from	endometriosis
+iron-deficiency anemia	occurs with	heavy menstrual bleeding in endometriosis
+endometriosis	may cause	miscarriages
+infertility treatment	is indicated for	endometriosis-related infertility
+IVF	is used for	endometriosis-related infertility
+IVF	yields	pregnancy in endometriosis patients
+hysterectomy	performed for	refractory endometriosis
+pelvic floor physical therapy	improves	pelvic pain in endometriosis
+weight management	supports	endometriosis management
+NSAIDs	reduce	endometriosis pain
+GnRH agonists	cause	hypoestrogenism
+progestin therapy	reduces	endometriosis symptoms
+combined oral contraceptives	reduce	endometriosis symptoms
+danazol	suppresses	ovarian function
+aromatase inhibitors	suppress	estrogen production
+letrozole	used for	endometriosis
+surgical excision	reduces	endometriosis lesions
+laser ablation	removes	endometriotic implants
+endometriosis	associated with	peritoneal inflammation
+peritoneal inflammation	present in	endometriosis
+cytokines	elevated in	endometriosis
+VEGF	elevated in	endometriosis
+immune dysfunction	contributes to	endometriosis
+estrogen	stimulates	endometriotic tissue
+progesterone resistance	exists in	endometriosis
+angiogenesis	supports	endometriosis lesion growth
+neutrophils	accumulate in	endometriosis lesions
+macrophages	infiltrate	endometriotic implants
+disease severity	correlates with	lesion burden
+ASRM staging	used for	endometriosis severity
+imaging	aids in	endometriosis diagnosis
+MRI	detects	deep infiltrating endometriosis
+transvaginal ultrasound	detects	ovarian endometrioma
+deep infiltrating endometriosis	involves	rectovaginal septum
+rectovaginal septum	involvement	endometriosis
+endometrioma	forms from	endometriosis
+endometriosis	increases	healthcare utilization
+endometriosis	impacts	work productivity
+pain	restricts	daily activities
+quality of life	worsens with	endometriosis
+early diagnosis	improves	outcomes in endometriosis
+treatment response	varies with	disease severity
+recurrence	occurs in	endometriosis after treatment
+postoperative recurrence	occurs in	endometriosis
+public health burden	includes	endometriosis
+socioeconomic impact	is associated with	endometriosis
+patient education	improves	disease management
+multidisciplinary care	improves	endometriosis outcomes
+physical therapy	reduces	pelvic floor pain
+hormone therapy	suppresses	ovulation
+ovulation suppression	reduces	pain in endometriosis
+endometriosis	burden to	healthcare system
+care pathways	standardize	endometriosis management
+clinical guidelines	inform	endometriosis treatment
+quality improvement	targets	endometriosis care
+patient registry	documents	endometriosis cases
+research	explores	endometriosis pathophysiology
+education	improves	endometriosis management
+endometriosis	is a	public health concern

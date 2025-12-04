@@ -1,100 +1,105 @@
-delirium	is a	neuropsychiatric syndrome
-delirium	associated with	advanced age
-delirium	associated with	hospitalization
-delirium	associated with	surgery
-delirium	associated with	infection
-delirium	associated with	dehydration
-delirium	associated with	electrolyte imbalance
-delirium	associated with	hypoxia
-delirium	associated with	metabolic disturbance
-delirium	associated with	polypharmacy
-delirium	precipitated by	benzodiazepine use
-delirium	precipitated by	anticholinergic drugs
-delirium	precipitated by	opioid use
-delirium	precipitated by	steroid use
-delirium	associated with	dementia
-delirium	associated with	cognitive impairment
-delirium	increases	mortality
-delirium	increases	length of stay
-delirium	increases	readmission
-delirium	increases	discharge to long-term care risk
-delirium	increases	falls
-delirium	associated with	agitation
-delirium	associated with	sleep disturbance
-delirium	associated with	pain
-delirium	diagnosed by	CAM-ICU
-delirium	diagnosed by	Confusion Assessment Method
-delirium	diagnosed by	4AT
-delirium	prevented by	sleep hygiene
-delirium	prevented by	hydration
-delirium	prevented by	early mobilization
-delirium	prevented by	analgesia optimization
-delirium	prevented by	environmental stabilization
-delirium	prevented by	family involvement
-delirium	prevented by	visual and hearing support
-delirium	prevented by	delirium prevention bundle
-delirium	treated with	haloperidol
-delirium	treated with	atypical antipsychotics
-delirium	treated with	dexmedetomidine
-delirium	treated with	nonpharmacologic interventions
-delirium	managed by	geriatric consultation
-delirium	managed by	ICU team
-delirium	has	variable duration
-delirium	detected by	CAM-ICU
-delirium	detected by	4AT
-delirium	detected by	nursing observation
-elderly patient	is at risk for	delirium
-dementia	increases	delirium risk
-hearing impairment	increases	delirium risk
-vision impairment	increases	delirium risk
-frailty	increases	delirium risk
-immobility	increases	delirium risk
-pain	triggers	delirium
-sleep deprivation	triggers	delirium
+delirium	is associated with	mortality
+delirium	is associated with	length_of_stay
+delirium	is associated with	readmission_risk
+delirium	is associated with	discharge_destination
+delirium	increases	hospital_cost
+delirium	increases	ICU_admission
+delirium	increases	mortality_risk
+age	is_risk_factor_for	delirium
+dementia	is_risk_factor_for	delirium
+baseline_cognitive_impairment	is_risk_factor_for	delirium
 infection	triggers	delirium
-sepsis	increases	delirium risk
-postoperative fever	is associated with	delirium
-electrolyte disturbance	triggers	delirium
+surgery	triggers	delirium
+anesthesia	triggers	delirium
+hypoxia	contributes_to	delirium
+electrolyte_disorder	contributes_to	delirium
+dehydration	contributes_to	delirium
+polypharmacy	increases	delirium_risk
+anticholinergic_burden	increases	delirium_risk
+benzodiazepine_use	increases	delirium_risk
+opioid_use	increases	delirium_risk
+sleep_deprivation	increases	delirium_risk
+immobility	contributes_to	delirium
+malnutrition	increases	delirium_risk
+inflammation	associated_with	delirium
+delirium	associated_with	functional_decline
+delirium	associated_with	cognitive_decline
+delirium	increases	risk_of_falls
+delirium	increases	aspiration_pneumonia
+delirium	increases	hospital_acquired_infection
+delirium	leads_to	hospital_cost
+delirium	predicts	in_hospital_mortality
+delirium	predicts	post_discharge_institutionalization
+postoperative_delirium	is_subtype_of	delirium
+delirium	occurs_after	surgery
+delirium	occurs_after	anesthesia
+delirium	is_prevented_by	early_ambulation
+delirium	is_prevented_by	adequate_hydration
+delirium	is_prevented_by	sleep_hygiene
+delirium	is_treated_with	antipsychotics
+delirium	is_treated_with	melatonin
+delirium	duration_increases_with	age
+delirium	is_associated_with	delirium_duration
+delirium	is_common_in	elderly_patients
+delirium	is_common_in	hospitalized_patients
+delirium	is_preceded_by	dehydration
+delirium	is_preceded_by	electrolyte_disorder
+delirium	is_preceded_by	hypoxia
+delirium	is_preceded_by	infection
+postoperative_delirium	increases	length_of_stay
+delirium	increases	discharge_disposition_complexity
+delirium	increases	caregiver_burden
+delirium	reduces	quality_of_life
+delirium	increases	inpatient_costs
+delirium	increases	nursing_home_placement_risk
+delirium	influences	care_plans
+delirium	influences	prognosis
+delirium	is_prevented_by	delirium_prevention_protocol
+delirium	is_prevented_by	hydration_management
+delirium	is_prevented_by	sleep_management
+delirium	is_prevented_by	deliriumTeam_intervention
+delirium	is_target_of	prevention_programs
+delirium	is_target_of	delirium_screening
+delirium	is_target_of	geriatric_assessment
+delirium	is_target_of	delirium_education
+delirium_subtype_hypoactive	is_subtype_of	delirium
+delirium_subtype_hyperactive	is_subtype_of	delirium
+delirium_subtype_mixed	is_subtype_of	delirium
+delirium	is_diagnosed_by	delirium_assessment
+delirium	is_diagnosed_by	delirium_screening_tools
+elderly_patients	at_risk_for	delirium
+patients_over65	is_more_prone_to	delirium
+delirium	is_complicating	rehabilitation
+delirium	increases	post_discharge_support_need
+delirium	is_target_of	delirium_prevention_protocol
+delirium	influences	discharge_planning
+delirium	reduces	functional_status
+pain	triggers	delirium
+pain_management	reduces	delirium_risk
+delirium	is_associated_with	polypharmacy_burden
+delirium	is_associated_with	anticholinergic_burden
+delirium	is_associated_with	dehydration_status
+delirium	is_associated_with	malnutrition_status
+delirium	is_associated_with	electrolyte_status
+delirium	is_associated_with	sleep_disturbance
+sepsis	triggers	delirium
 hypoglycemia	triggers	delirium
 hypoxemia	triggers	delirium
-renal dysfunction	increases	delirium risk
-liver dysfunction	increases	delirium risk
-alcohol withdrawal	precipitates	delirium
-delirium tremens	is a	delirium subtype
-delirium tremens	occurs in	alcohol withdrawal
-delirium prolongs	hospital stay
-delirium increases	caregiver burden
-delirium increases	need for restraints
-delirium reduces	attention span
-delirium reduces	orientation
-delirium causes	agitation
-delirium causes	sleep disturbance
-delirium increases	ICU length of stay
-delirium increases	ventilator days
-delirium associated with	delirium persistence after discharge
-delirium improves with	underlying cause treatment
-delirium improved by	early detection
-CAM-ICU	detects	delirium
-4AT	detects	delirium
-Confusion Assessment Method	detects	delirium
-geriatric consultation	reduces	delirium duration
-environment	affects	delirium risk
-sleep quality	affects	delirium risk
-analgesia management	affects	delirium risk
-nutrition status	affects	delirium risk
-visual aid	reduces	delirium risk
-hearing aid	reduces	delirium risk
-sleep hygiene	reduces	delirium incidence
-hydration status	reduces	delirium risk
-mobility program	reduces	delirium risk
-delirium	associated with	increased discharge to skilled nursing facilities
-environmental modification	improves	delirium outcome
-delirium persistence	at discharge	associates with delirium
-delirium improves with	treatment of underlying cause
-alcohol withdrawal	precipitates	delirium
-delirium tremens	is a cause of	delirium
-postoperative delirium	is a form of	delirium
-delirium commonly co-occurs with	dementia
-delirium is a predictor of	poor functional outcome
-delirium is associated with	caregiver distress
-delirium resolution	depends on	underlying cause treatment
+renal_failure	predisposes_to	delirium
+liver_failure	predisposes_to	delirium
+anemia	predisposes_to	delirium
+thiamine_deficiency	predisposes_to	delirium
+vitamin_B12_deficiency	predisposes_to	delirium
+hypocalcemia	predisposes_to	delirium
+hypomagnesemia	predisposes_to	delirium
+stroke	triggers	delirium
+cardiovascular_event	triggers	delirium
+neuroinflammation	contributes_to	delirium
+inflammation	contributes_to	delirium
+delirium	increases	inpatient_readmission_risk
+delirium	increases	long_term_care_need
+delirium	is_target_of	delirium_prevention_efforts
+delirium	is_prevented_by	hydration
+delirium	is_prevented_by	nutrition_support
+delirium	is_prevented_by	mobility_program
+delirium	is_prevented_by	delirium_protocol_adherence

@@ -1,0 +1,96 @@
+syncope	is a	transient loss of consciousness
+syncope	is defined as	transient loss of consciousness
+syncope	is a symptom of	cerebral hypoperfusion
+cardiac arrhythmia	causes	syncope
+tachyarrhythmia	causes	syncope
+bradyarrhythmia	causes	syncope
+aortic stenosis	causes	syncope
+hypertrophic cardiomyopathy	causes	syncope
+mitral stenosis	causes	syncope
+long QT syndrome	causes	syncope
+cardiomyopathy	causes	syncope
+carotid sinus hypersensitivity	causes	syncope
+orthostatic hypotension	causes	syncope
+hypovolemia	causes	syncope
+dehydration	causes	syncope
+hemorrhage	causes	syncope
+pulmonary embolism	causes	syncope
+acute coronary syndrome	causes	syncope
+myocardial infarction	causes	syncope
+valvular disease	causes	syncope
+anemia	causes	syncope
+electrolyte disturbance	causes	syncope
+hypoglycemia	causes	syncope
+drug toxicity	causes	syncope
+sepsis	can cause	syncope
+diuretic therapy	increases	syncope risk
+antihypertensive therapy	increases	syncope risk
+vasodilator therapy	increases	syncope risk
+age	is a risk factor for	syncope
+female sex	is a risk factor for	syncope
+diabetes mellitus	increases	syncope risk
+hypertension	increases	syncope risk
+aging	increases	syncope risk
+anemia	increases	syncope risk
+cardiac conduction disease	causes	syncope
+torsades de pointes	causes	syncope
+CPVT	causes	syncope
+Brugada syndrome	causes	syncope
+anomalous coronary artery	causes	syncope
+sinus node dysfunction	causes	syncope
+atrioventricular block	causes	syncope
+cardiac fibrosis	causes	syncope
+neurocardiogenic syncope	is a type of	syncope
+vasovagal syncope	is a type of	syncope
+reflex syncope	is a type of	syncope
+situational syncope	is a type of	syncope
+head-up tilt test	is used for	syncope
+tilt-table test	is used for	syncope
+electrocardiogram	is used to evaluate	syncope
+echocardiography	is used to evaluate	syncope
+Holter monitor	is used to evaluate	syncope
+implantable loop recorder	is used to evaluate	syncope
+ambulatory blood pressure monitor	is used to evaluate	syncope
+cardiac MRI	is used to evaluate	syncope
+cardiac CT	is used to evaluate	syncope
+pacemaker	is used for	bradycardia-induced syncope
+implantable cardioverter-defibrillator	is used for	malignant arrhythmia-induced syncope
+biventricular pacemaker	is used for	conduction abnormality-induced syncope
+beta blocker therapy	is used for	tachyarrhythmia-induced syncope
+antiarrhythmic therapy	is used for	tachyarrhythmia-induced syncope
+pacing therapy	reduces	bradycardia-induced syncope
+defibrillator therapy	reduces	malignant arrhythmia-induced syncope
+intravenous fluids	treats	dehydration
+oral rehydration solution	treats	dehydration
+isotonic saline	used for	dehydration
+compression stockings	used for	orthostatic hypotension
+physical counterpressure maneuvers	reduce	syncope risk
+exercise training	reduces	syncope recurrence
+neurocardiogenic syncope	treated with	lifestyle modification
+neck pressure	reduces	syncope risk
+risk stratification	guides	management of syncope
+emergency department	evaluates	syncope
+hospital admission	results from	high-risk syncope
+mortality	associated with	syncope
+falls	result from	syncope
+injury	results from	syncope
+recurrent syncope	increases	health care utilization
+adult population	at higher risk for	syncope
+presyncope	is prodrome of	syncope
+presyncope	precedes	syncope
+loss of consciousness	is synonymous with	syncope
+syncope episode	leads to	emergency department visit
+syncope episode	leads to	hospital admission
+emergency department arrival	occurs for	syncope
+hospital admission	occurs for	high-risk syncope
+cardiology referral	recommended for	syncope evaluation
+risk stratification	uses	history
+risk stratification	uses	exam
+electrolyte disorder	predisposes to	syncope
+hypotension	predisposes to	syncope
+deconditioning	predisposes to	syncope
+infection	predisposes to	syncope
+blood loss	predisposes to	syncope
+seizure	misdiagnosed as	syncope
+syncope	impacts	quality of life
+syncope	prompts	investigation

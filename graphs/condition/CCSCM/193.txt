@@ -1,100 +1,40 @@
-perineal trauma	occurs during	vaginal delivery
-episiotomy	is a type of	perineal trauma
-episiotomy	increases risk of	obstetric anal sphincter injury
-obstetric anal sphincter injury	leads to	fecal incontinence
-perineal laceration	is categorized as	first-degree laceration
-perineal laceration	involves	anal sphincter
-third-degree perineal tear	is a type of	obstetric anal sphincter injury
-fourth-degree perineal tear	involves	rectal mucosa
+perineal laceration	is treated with	sutures
+episiotomy	is performed during	vaginal delivery
+episiotomy	increases	perineal trauma risk
+episiotomy	is associated with	wound infection
+vulvar hematoma	requires	drainage
 vulvar hematoma	presents with	vulvar swelling
-vulvar hematoma	may require	surgical drainage
-perineal hematoma	may cause	hemodynamic instability
-perineal hematoma	resolves with	conservative management
-labial ecchymosis	indicates	perineal trauma
-perineal edema	contributes to	urinary retention
-postpartum infection	can follow	perineal trauma
-perineal wound infection	complicates	perineal trauma
-perineal tear	repaired with	suturing
-episiotomy repair	requires	local anesthesia
-perineal repair	aims at	tissue approximation
-anal sphincter repair	preserves	continence
-sphincteroplasty	is a	surgical procedure
-digital rectal exam	assesses	anal sphincter integrity
-endoanal ultrasound	evaluates	obstetric anal sphincter injury
-postpartum analgesia	relieves	perineal pain
-perineal pain	persists after	perineal trauma
-sitz bath	used for	perineal care
-perineal care	includes	hygiene measures
-stool softener	aids	bowel movement
-urinary retention	may result from	perineal trauma
-pelvic floor dysfunction	may follow	perineal trauma
-dyspareunia	may occur after	perineal trauma
-vaginal canal scar	forms after	perineal repair
-perineal scar	reduces	tissue elasticity
-postpartum hospitalization	lengthened by	perineal trauma
-readmission	risk increased by	perineal infection
-neonatal outcome	affected by	obstetric trauma
-instrumental delivery	increases risk of	perineal rupture
-vacuum extraction	increases risk of	perineal tear
-forceps delivery	increases risk of	vulvar hematoma
-posterior perineum	involved in	perineal tear
-levator ani injury	associated with	severe perineal trauma
-perineal body injury	contributes to	pelvic floor dysfunction
-complex perineal tear	involves	anal sphincter and rectal mucosa
-perineal repair	uses	sutures
-local anesthesia	used for	perineal repair
-topical analgesia	used for	perineal care
-antibiotic prophylaxis	given for	perineal laceration
-perineal trauma	is a risk factor for	wound dehiscence
-wound dehiscence	leads to	infection
-perineal infection	increases	hospital stay
-vulvar hematoma	caused by	vessel rupture
-vulvar hematoma	managed by	compression and observation
-rectovaginal fistula	complication of	fourth-degree tear
+perineal hematoma	presents with	perineal pain
+perineal hematoma	requires	drainage
+perineal laceration	may involve	anal sphincter
+anal sphincter injury	leads to	fecal incontinence
+rectovaginal fistula	results in	vaginal stool leakage
 rectovaginal fistula	requires	surgical repair
-neonatal outcome	affected by	maternal perineal trauma
-postpartum depression	associated with	birth trauma
-perineal support	reduces	risk of perineal trauma
-controlled delivery	reduces	risk of severe perineal tear
-nonoperative management	appropriate for	small vulvar hematomas
-surgical management	indicated for	large vulvar hematomas
-advanced maternal age	associated with	perineal trauma
-primiparity	associated with	episiotomy
-short perineal body	increases risk of	obstetric anal sphincter injury
-fetal head size	associated with	perineal tear
-prolonged second stage	increases risk of	perineal trauma
-macrosomia	associated with	perineal trauma
-mediolateral episiotomy	associated with	reduced risk of anal sphincter injury
-mediolateral episiotomy	associated with	increased blood loss
-blood loss	related to	perineal trauma
-rectal injury	associated with	third-degree and fourth-degree tears
-perineal laceration repair	uses	absorbable sutures
-absorbable sutures	used for	perineal repair
-antibiotic prophylaxis	given for	perineal laceration
-endoanal ultrasound	detects	anal sphincter defect
-anal sphincter defect	detected by	endoanal ultrasound
-healing rate	measures	perineal wound closure
-postpartum check	includes	perineal inspection
-perineal inspection	detects	tears
-instrumental delivery	increased risk of	perineal tear
-perineal edema	contributes to	pain severity
-pain severity	influences	analgesia requirement
-pelvic floor rehabilitation	improves	continence after sphincter injury
-pelvic floor rehabilitation	improves	quality of life after perineal trauma
-time to repair	influences	healing outcomes
-early repair	associated with	reduced infection risk
-cesarean delivery	reduces	risk of perineal trauma
-pudendal nerve injury	associated with	perineal trauma
-pudendal neuropathy	may cause	chronic pain
-voiding dysfunction	may occur after	perineal trauma
-wound care quality	affects	healing time
-long-term outcome	includes	reduced fecal incontinence with proper repair
-anal incontinence risk	persists after	obstetric anal sphincter injury
-fetal malpresentation	increases risk of	episiotomy
-neonatal safety	impacted by	birth trauma
-postpartum wound check	ensures	early detection of infection
-early mobilization	improves	recovery after perineal repair
-lactation support	reduces	maternal discomfort after perineal trauma
-pelvic floor strengthening	reduces	urinary incontinence after sphincter injury
-sexual function	may be affected by	perineal trauma
-perineal care strategies	improve	voiding and defecation comfort
+pudendal nerve injury	causes	pelvic floor dysfunction
+pelvic floor dysfunction	predisposes to	urinary incontinence
+urinary incontinence	is a complication of	pudendal nerve injury
+perineal wound	is at risk for	infection
+perineal wound	heals with	secondary intention
+third-degree tear	involves	external anal sphincter
+second-degree tear	involves	perineal muscles
+fourth-degree tear	involves	rectal mucosa
+third-degree tear	requires	immediate repair
+fourth-degree tear	requires	immediate repair
+wound infection	prolongs	healing time
+wound dehiscence	occurs after	perineal repair
+antibiotics	used for	perineal infection
+analgesia	provided for	perineal pain
+drainage	performed for	vulvar hematoma
+absorbable sutures	preferred for	perineal repair
+nonabsorbable sutures	used for	skin closure
+sutures	used for	perineal repair
+catheterization	used for	urinary retention
+transfusion	may be required for	postpartum anemia
+postpartum anemia	requires	transfusion
+fetal macrosomia	increases	perineal trauma risk
+forceps delivery	increases	perineal laceration risk
+vacuum delivery	increases	vaginal laceration risk
+instrumented delivery	increases	perineal trauma risk
+epidural anesthesia	is associated with	prolonged second stage
+prolonged second stage	increases	perineal trauma risk
+dyspareunia	associated with	perineal trauma

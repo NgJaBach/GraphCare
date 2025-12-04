@@ -1,199 +1,118 @@
-acute myocardial infarction	is a	cardiovascular emergency
-acute myocardial infarction	presents with	chest pain
-acute myocardial infarction	presents with	shortness of breath
-acute myocardial infarction	presents with	diaphoresis
-acute myocardial infarction	presents with	nausea
-acute myocardial infarction	caused by	plaque rupture
-acute myocardial infarction	associated with	thrombosis
-acute myocardial infarction	diagnosed by	troponin elevation
-acute myocardial infarction	diagnosed by	ECG changes
-acute myocardial infarction	classified as	STEMI
-acute myocardial infarction	classified as	NSTEMI
-acute myocardial infarction	treated with	reperfusion therapy
-acute myocardial infarction	treated with	aspirin
-acute myocardial infarction	treated with	clopidogrel
-acute myocardial infarction	treated with	heparin
-acute myocardial infarction	treated with	nitrates
-acute myocardial infarction	treated with	beta-blocker
-acute myocardial infarction	treated with	statin
-acute myocardial infarction	treated with	ACE inhibitor
-acute myocardial infarction	treated with	ARB
-acute myocardial infarction	risk factor for	heart failure
-acute myocardial infarction	risk factor for	arrhythmia
-acute myocardial infarction	risk factor for	cardiogenic shock
-acute myocardial infarction	increases	mortality
-acute myocardial infarction	leads to	left ventricular dysfunction
-acute myocardial infarction	leads to	heart failure
-acute myocardial infarction	leads to	reinfarction
-troponin	is elevated in	acute myocardial infarction
-ECG	shows	ST-segment elevation
-ECG	shows	ST-segment depression
-plaque rupture	triggers	thrombosis
-platelet activation	contributes to	thrombosis
-atherosclerosis	underlies	coronary artery disease
-coronary artery disease	predisposes to	myocardial infarction
-smoking	is a	risk factor for acute myocardial infarction
-hypertension	is a	risk factor for acute myocardial infarction
-diabetes mellitus	is a	risk factor for acute myocardial infarction
-aging	increases	risk of acute myocardial infarction
-obesity	is a	risk factor for acute myocardial infarction
-physical inactivity	is a	risk factor for acute myocardial infarction
-family history of premature coronary disease	is a	risk factor for acute myocardial infarction
-antiplatelet therapy	improves	outcomes after acute myocardial infarction
-percutaneous coronary intervention	is a	reperfusion strategy for acute myocardial infarction
-thrombolysis	is a	reperfusion therapy for acute myocardial infarction
-coronary angiography	is used for	evaluation after acute myocardial infarction
-left anterior descending artery	is commonly involved in	anterior myocardial infarction
-right coronary artery	can be involved in	myocardial infarction
-papillary muscle rupture	is a complication of	acute myocardial infarction
-ventricular fibrillation	is a complication of	acute myocardial infarction
-cardiogenic shock	is a complication of	acute myocardial infarction
-left ventricular remodeling	occurs after	acute myocardial infarction
-renal dysfunction	can accompany	acute myocardial infarction
-readmission	is increased after	acute myocardial infarction
-mortality	is a concern after	acute myocardial infarction
-PCI success	improves	survival after acute myocardial infarction
-time to reperfusion	affects	infarct size
-door-to-balloon time	influences	mortality after acute myocardial infarction
-infarct size	predicts	prognosis after acute myocardial infarction
-myocardial salvage	achieved by	reperfusion therapy
-contrast-induced nephropathy	can occur after	coronary angiography
-stent thrombosis	is a complication of	percutaneous coronary intervention
-drug-eluting stent	is used in	PCI for acute myocardial infarction
-bare-metal stent	is used in	PCI for acute myocardial infarction
-aspirin	reduces	platelet aggregation
-clopidogrel	inhibits	platelet aggregation
-ticagrelor	inhibits	platelet aggregation
-prasugrel	inhibits	platelet aggregation
-heparin	anticoagulates	thrombus in coronary artery
-bivalirudin	anticoagulates	thrombus during PCI
-nitroglycerin	relieves	chest pain
-statin therapy	stabilizes	atherosclerotic plaque
-ACE inhibitor therapy	reduces	remodeling after acute myocardial infarction
-ARB therapy	reduces	remodeling after acute myocardial infarction
-spironolactone	reduces	mortality after acute myocardial infarction
-eplerenone	reduces	mortality after acute myocardial infarction
-beta-blocker therapy	reduces	arrhythmia risk after acute myocardial infarction
-ACE inhibitor therapy	reduces	risk of heart failure after acute myocardial infarction
-statin therapy	reduces	recurrent events after acute myocardial infarction
-cardiac rehabilitation	improves	functional status after acute myocardial infarction
-smoking cessation	reduces	risk of recurrent myocardial infarction
-exercise training	improves	exercise tolerance after acute myocardial infarction
-blood pressure control	reduces	cardiovascular risk after acute myocardial infarction
-lipid management	reduces	recurrent events after acute myocardial infarction
-diabetes management	reduces	mortality after acute myocardial infarction
-renal function	influences	prognosis after acute myocardial infarction
-readmission risk	increases	after acute myocardial infarction
-mortality risk	is reduced by	timely reperfusion
-drug-eluting stent	reduces	restenosis compared to bare-metal
-time to reperfusion	correlates with	infarct size
-fibrinolysis	is a	reperfusion therapy
-oxygen therapy	provides	supplemental oxygen
-contrast-enhanced imaging	aids	assessment
-kidney injury	can accompany	acute myocardial infarction
-renal dysfunction	worsens	outcomes after acute myocardial infarction
-reperfusion injury	occurs	after acute myocardial infarction
-troponin I	rises	in acute myocardial infarction
-troponin I	is used for	diagnosis
-cardiogenic mortality	is associated with	acute myocardial infarction
-rehabilitative care	improves	long-term outcomes after acute myocardial infarction
-acute myocardial infarction	is a	medical emergency
-acute myocardial infarction	is caused by	coronary artery occlusion
-coronary artery occlusion	causes	myocardial ischemia
-myocardial ischemia	leads to	myocardial necrosis
-myocardial necrosis	results in	scar formation
-scar formation	reduces	ventricular function
+acute myocardial infarction	is a	cardiovascular event
+acute myocardial infarction	is a	ischemic heart disease
 acute myocardial infarction	presents with	chest pain
 acute myocardial infarction	presents with	dyspnea
 acute myocardial infarction	presents with	diaphoresis
-acute myocardial infarction	presents with	nausea
-troponin	rises in	myocardial infarction
-troponin	is a	cardiac biomarker
-ECG	shows	ST-segment elevation
-ST-segment elevation	indicates	transmural infarction
-acute myocardial infarction	is diagnosed by	biomarker elevation
-troponin	is elevated in	acute myocardial infarction
-angiography	reveals	culprit lesion
-reperfusion therapy	improves	survival
-percutaneous coronary intervention	achieves	revascularization
-angioplasty	achieves	luminal patency
-stent	maintains	luminal patency
-thrombus	occludes	coronary artery
-coronary plaque	causes	atherosclerosis
-atherosclerosis	predisposes to	plaque rupture
-plaque rupture	triggers	acute myocardial infarction
-antiplatelet therapy	reduces	thrombus formation
-aspirin	is a	antiplatelet
-P2Y12 inhibitor	reduces	platelet aggregation
-clopidogrel	is a	P2Y12 inhibitor
-ticagrelor	is a	P2Y12 inhibitor
-prasugrel	is a	P2Y12 inhibitor
-heparin	provides	anticoagulation
-anticoagulation	is a	treatment
-beta blocker	reduces	heart rate
-beta blocker	reduces	myocardial oxygen demand
-ACE inhibitor	improves	left ventricular function
-ARB	improves	hemodynamics
-statin	reduces	cholesterol
-lipid lowering therapy	is a	treatment
-statin therapy	reduces	atherosclerotic risk
-smoking	increases	AMI risk
-hypertension	increases	AMI risk
-diabetes mellitus	increases	AMI risk
-obesity	increases	AMI risk
-age	increases	mortality risk
-male sex	increases	AMI risk
-family history	increases	AMI risk
-cocaine use	increases	AMI risk
-physical activity	reduces	AMI risk
+acute myocardial infarction	leads to	arrhythmia
 acute myocardial infarction	leads to	heart failure
 acute myocardial infarction	leads to	cardiogenic shock
-acute myocardial infarction	leads to	arrhythmia
-ventricular fibrillation	occurs with	acute myocardial infarction
-ventricular tachycardia	occurs with	acute myocardial infarction
-cardiogenic shock	follows	extensive myocardial infarction
-myocardial wall rupture	is a	mechanical complication
-papillary muscle rupture	causes	acute mitral regurgitation
-acute mitral regurgitation	reduces	forward flow
-left ventricular dysfunction	follows	myocardial infarction
-right coronary artery	supplies	inferior wall
-acute myocardial infarction	leads to	left ventricular remodeling
-left ventricular remodeling	results in	LV dysfunction
-LV dysfunction	contributes to	heart failure
-heart failure with reduced ejection fraction	results from	myocardial injury
-myocardial injury	triggers	arrhythmia
-cardiac rehabilitation	improves	functional capacity
-dual antiplatelet therapy	reduces	reinfarction risk
-reinfarction	requires	revascularization
-morbidity	increases	hospitalization length
-mortality	associated with	acute myocardial infarction
-in-hospital mortality	depends on	reperfusion success
-readmission	risk after	acute myocardial infarction
+acute myocardial infarction	leads to	death
+acute myocardial infarction	increases	mortality
+acute myocardial infarction	increases	readmission
+acute myocardial infarction	treated with	aspirin
+acute myocardial infarction	treated with	P2Y12 inhibitor
+acute myocardial infarction	treated with	nitroglycerin
+acute myocardial infarction	treated with	morphine
+acute myocardial infarction	treated with	beta blocker
+acute myocardial infarction	treated with	ACE inhibitor
+acute myocardial infarction	treated with	ARB
+acute myocardial infarction	treated with	statin
+acute myocardial infarction	treated with	thrombolysis
+acute myocardial infarction	treated with	PCI
+acute myocardial infarction	treated with	CABG
+acute myocardial infarction	diagnosed by	troponin elevation
+acute myocardial infarction	diagnosed by	electrocardiogram changes
+plaque rupture	causes	acute myocardial infarction
+atherosclerosis	predisposes to	acute myocardial infarction
+smoking	increases risk of	acute myocardial infarction
+hypertension	increases risk of	acute myocardial infarction
+diabetes mellitus	increases risk of	acute myocardial infarction
+hyperlipidemia	increases risk of	acute myocardial infarction
+obesity	increases risk of	acute myocardial infarction
+advanced age	increases risk of	acute myocardial infarction
+family history	increases risk of	acute myocardial infarction
+left anterior descending artery	commonly involved in	acute myocardial infarction
+right coronary artery	commonly involved in	acute myocardial infarction
+circumflex artery	commonly involved in	acute myocardial infarction
+PCI	reduces	mortality in acute myocardial infarction
+CABG	improves	long-term survival after acute myocardial infarction
+percutaneous coronary intervention	reduces	infarct size
+fibrinolysis	improves	myocardial salvage
+troponin elevation	is diagnostic of	acute myocardial infarction
+ST elevations	indicate	STEMI
+non-ST-elevation myocardial infarction	is a	type of acute myocardial infarction
+electrocardiogram	detects	ST elevations
+troponin I elevation	is associated with	acute myocardial infarction
+left ventricular dysfunction	increases	risk of heart failure
+left ventricular dysfunction	occurs after	acute myocardial infarction
+right ventricular infarction	occurs with	inferior myocardial infarction
 postinfarction angina	occurs after	acute myocardial infarction
-left ventricular ejection fraction	is measured by	echocardiography
-echocardiography	assesses	wall motion abnormalities
-wall motion abnormalities	indicate	infarct region
-infarct region	corresponds to	coronary distribution
-anterior wall myocardial infarction	involves	left anterior descending artery
-inferior wall myocardial infarction	involves	right coronary artery
-diabetes mellitus	worsens	prognosis after AMI
-ischemic time	determines	infarct size
-infarct size	predicts	outcome
-microvascular obstruction	impairs	myocardial perfusion
-door-to-balloon time	affects	mortality
-thrombolysis	is used for	ST-segment elevation myocardial infarction
-tPA	is a	thrombolytic
-streptokinase	is a	thrombolytic
-fibrinolysis	restores	coronary perfusion
-cardiac biomarker	guides	diagnosis
-blood test	supports	diagnosis
-cath lab	provides	urgent care
-door-to-needle time	influences	mortality
-myocardial salvage	increases	tissue viability
-ischemic time	correlates with	infarct size
-cardiac MRI	quantifies	infarct size
-infarct size	correlates with	prognosis
-microvascular obstruction	worsens	prognosis
-recurrent chest pain	activates	emergency care
-secondary prevention	reduces	recurrence
-lifestyle modification	supports	secondary prevention
+ischemia	triggers	arrhythmia
+renal failure	worsens	prognosis after acute myocardial infarction
+anemia	worsens	prognosis after acute myocardial infarction
+kidney dysfunction	increases risk of	mortality after acute myocardial infarction
+stroke	can follow	acute myocardial infarction
+pericarditis	occurs after	acute myocardial infarction
+papillary muscle dysfunction	occurs after	acute myocardial infarction
+ventricular septal defect	is a complication of	acute myocardial infarction
+cardiogenic shock	is a complication of	acute myocardial infarction
+multivessel disease	worsens	prognosis after acute myocardial infarction
+left bundle branch block	can accompany	acute myocardial infarction
+renal impairment	increases	mortality after acute myocardial infarction
+hypokalemia	predisposes to	arrhythmias after acute myocardial infarction
+hypomagnesemia	predisposes to	arrhythmias after acute myocardial infarction
+aspirin	is used for	acute myocardial infarction
+P2Y12 inhibitors	are used for	acute myocardial infarction
+statins	are indicated for	acute myocardial infarction
+heparin	is used in	acute myocardial infarction
+antiplatelet therapy	reduces	thrombotic events after acute myocardial infarction
+anticoagulation	is used for	acute myocardial infarction
+reperfusion therapy	is essential in	acute myocardial infarction
+door-to-balloon time	is a metric	acute myocardial infarction care
+insurance status	predicts	readmission after acute myocardial infarction
+smoking cessation	reduces	risk after acute myocardial infarction
+cardiac rehabilitation	improves	outcomes after acute myocardial infarction
+exercise training	improves	functional capacity after acute myocardial infarction
+depression	worsens	prognosis after acute myocardial infarction
+infection	increases	mortality after acute myocardial infarction
+age	modifies	AMI outcomes
+gender	modifies	AMI presentation
+women	present with	atypical symptoms during acute myocardial infarction
+males	present with	typical symptoms during acute myocardial infarction
+lipid management	reduces	recurrent events after acute myocardial infarction
+blood pressure control	reduces	risk after acute myocardial infarction
+diabetes control	reduces	complications after acute myocardial infarction
+renal function	predicts	prognosis after acute myocardial infarction
+creatinine	elevates	after acute myocardial infarction
+infarct size	determines	mortality after acute myocardial infarction
+ischemic time	drives	infarct size
+diagnostic imaging	guides	reperfusion decisions
+cardiac troponin	rises	after myocardial infarction
+echocardiography	evaluates	left ventricular function after acute myocardial infarction
+MRI	assesses	myocardial viability
+scar tissue	forms	after myocardial infarction
+ventricular remodeling	occurs after	myocardial infarction
+heart failure	may develop	after myocardial infarction
+mitral regurgitation	occurs after	myocardial infarction
+mitral regurgitation	worsens	heart failure after infarction
+infarct size	correlates with	mortality after acute myocardial infarction
+anticoagulation	prevents	thrombus formation after myocardial infarction
+lipid management	is part of	secondary prevention after acute myocardial infarction
+rehabilitation	supports	recovery after acute myocardial infarction
+rehabilitation programs	increase	adherence after acute myocardial infarction
+secondary prevention	aims to reduce	recurrent AMI
+cardiovascular risk	remains high after	acute myocardial infarction
+clinical guidelines	inform	acute myocardial infarction treatment
+risk stratification	guides	post-AMI management
+electrolyte abnormalities	worsen	arrhythmia risk after AMI
+kidney function	influences	prognosis after AMI
+troponin clearance	correlates with	infarct size
+neurohormonal activation	occurs in	AMI
+myocardial stunning	occurs after	AMI
+ischemic preconditioning	provides	protection during AMI
+neutrophil infiltration	occurs in	AMI
+cardiac myocytes	die in	AMI
+scar formation	follows	AMI
+remodeling	occurs after	AMI
+ventricular dilation	results from	AMI
+frontal area	shows	etc

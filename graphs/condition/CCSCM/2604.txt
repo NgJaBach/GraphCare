@@ -1,101 +1,100 @@
-fire	causes	burn injury
-flame	causes	burn injury
-scalding liquid	causes	burn injury
-thermal burn	is a	burn injury
-inhalation injury	is a	burn complication
-smoke inhalation	is a	inhalation injury
-inhalation injury	increases	mortality risk
-burn injury	requires	fluid resuscitation
-burn injury	requires	analgesia
-burn injury	increases	hospital length of stay
-burn wound	is a	skin wound
-burn wound infection	is a	burn complication
-burn wound infection	requires	antibiotics
-burn wound	requires	debridement
-debridement	is a	procedure
-skin graft	is a	burn treatment
-graft	provides	durable wound closure
-burn wound	heals with	scar
-scar	leads to	contracture
-contracture	causes	functional limitation
-analgesia	is a	burn pain management
-opioid	provides	analgesia
-nonopioid analgesic	provides	analgesia
-antibiotic	treats	burn wound infection
-topical antibiotic	used for	burn wound infection
-silver sulfadiazine	used for	burn wound care
-dressing	protects	burn wound
-fluid resuscitation	guides	Parkland formula
-Parkland formula	guides	fluid resuscitation
-lactated Ringer's solution	is a	crystalloid
-crystalloid	used for	resuscitation
-colloid	considered for	resuscitation
-electrical burn	is a	burn type
-electrical burn	associated with	deeper tissue injury
-smoke exposure	accompanies	fire event
-fire exposure	results in	burn injury
-house fire	is a	burn event
+burn	caused by	fire
+fire	causes	burn
 scald burn	is a	burn type
 chemical burn	is a	burn type
-chemical burn	requires	irrigation
-airway edema	increases	airway obstruction risk
-intubation	performed for	airway protection
-bronchoscopy	used for	inhalation injury assessment
-pneumonia	occurs in	burn patient
-sepsis	risk	burn patient
-mortality	associated with	burn severity
-ICU admission	occurs in	burn patient
-ICU admission	associated with	mortality
-ventilator	used for	respiratory failure
-wound culture	performed for	burn wound infection
-culture result	guides	antibiotic therapy
-antibiotic therapy	targets	burn wound infection
-pathogen	causes	burn infection
-burn infection	increases	hospital stay
-burn infection	increases	cost
-hospital stay	increases	resource utilization
-resource utilization	correlates with	burn severity
-TBSA burned	correlates with	mortality
-burn center	improves	outcomes
-outcomes	include	mortality rate
-readmission	risk	burn patient
+electrical burn	is a	burn type
+thermal burn	is a	burn type
+smoke inhalation	accompanies	burn
+burn	requires	dressing
+burn	requires	wound care
+burn	treated with	analgesia
+burn	treated with	antibiotics
+burn	increases	infection risk
+burn	increases	hospital stay
+burn	associated with	mortality
+burn depth	affects	prognosis
+TBSA	predicts	fluid requirements
+skin graft	used for	burn coverage
+debridement	performed for	burn wound
+burn	can cause	scar
+scarring	persists as	hypertrophic scar
+hypertrophic scar	results in	contracture
+burn	leads to	mobility limitation
+inhalation injury	worsens	burn prognosis
+burn	monitored in	ICU
+burn unit	manages	burn patients
+burn patient	admitted to	hospital
+fluid resuscitation	guided by	TBSA
+shock	occurs in	burn patients
+electrolyte imbalance	occurs in	burn
+dehydration	occurs in	burn patients
+pain	managed with	analgesia
+antibiotics	prescribed for	burn infection
+scar	forms after	burn
+graft	indicated for	deep burn
+wound infection	complicates	burn wound
+analgesia	provides	pain relief
+antibiotics	prescribed for	burn infection
+debridement	reduces	bacterial load
+skin graft	provides	wound coverage
+scar formation	influences	functional outcome
+full-thickness burn	requires	grafting
+partial-thickness burn	heals with	scarring
+fluid loss	leads to	shock
+electrical burn	causes	arrhythmia
+airway burn	requires	intubation
+inhalation injury	increases	ICU admission
 burn patient	discharged to	home
-home care	supports	recovery
-wound care	provided	home care
-dressing change	performed by	nurse
-nurse	monitors	wound status
-donor site	heals with	scar
-scar formation	occurs in	burn survivors
-physiotherapy	aids	functional recovery
-occupational therapy	aids	return to work
-rehabilitation	improves	quality of life
-compression garment	used for	scar management
-silicone gel	used for	scar management
-hypertrophic scar	causes	functional limitation
-nerve injury	occurs with	electrical burn
-nerve injury	leads to	sensory loss
-hypovolemia	results from	burn shock
-burn shock	causes	hemodynamic instability
-vasopressor therapy	used for	burn shock
-electrolyte imbalance	occurs in	burn patient
-hyperkalemia	occurs in	burn patient
-hyperkalemia	requires	monitoring
-monitoring	includes	vital signs
-vital signs	monitored by	nursing staff
-nursing staff	coordinates	discharge planning
-discharge planning	involves	social work
-social work	assesses	home safety
-home safety	influences	discharge outcome
-burn registry	collects	external cause data
-external cause data	inform	public health
-E-code	denotes	burn event
-E-code	classifies	burn event
-burn event	captured by	external cause code
-fire incident	documented as	burn event
-ambulance	transports	burn patient
-transport time	affects	prognosis
-prognosis	depends on	burn severity
-burn severity	determines	discharge disposition
-discharge disposition	includes	home health
-home health	supports	recovery
-recovery	completes	rehabilitation
+home care	required after	burn
+burn center	coordinates	rehabilitation services
+smoke inhalation	causes	hypoxia
+eschar	impedes	wound healing
+burn wound	expands	necrosis
+wound infection	complicates	burn wound
+antibiotics	prophylaxis against	burn infection
+analgesia	aids	pain control
+pediatric burn	associated with	higher scar risk
+adult burn	associated with	poorer wound healing
+urinary output	monitored during	burn resuscitation
+hypovolemia	results from	burn fluid loss
+pain	persists after	burn
+burn	requires	physical therapy
+burn	impacts	quality of life
+scar	reduces	range of motion
+contracture	reduces	mobility
+graft failure	leads to	reoperation
+reoperation	indicated for	graft failure
+burn	causes	inflammation
+inflammation	drives	wound healing
+wound	requires	dressings
+dressings	protect	wound
+immune response	mediates	wound healing
+hospital readmission	associated with	burn
+burn	increases	healthcare costs
+scar	causes	functional limitation
+tetanus immunization	recommended for	burn patients
+burn patient	requires	social services
+burn	leads to	disability
+grafts	increase	hospitalization length
+burn	necessitates	pain management
+hypertrophic scar	associated with	decreased range of motion
+TBSA	correlates with	fluid volume
+sterile technique	reduces	infection risk
+burn	increases	mortality risk
+burn center	improves	survival
+burn	lengthens	hospital stay
+burn severity	assessed by	TBSA
+culture	obtained for	burn wound
+antibiotics	prophylaxis against	burn infection
+rehabilitation	improves	functional outcome
+debridement	speeds	wound healing
+eschar	impedes	wound healing
+discharge	followed by	home care
+nutrition	impacts	wound healing
+protein intake	supports	wound healing
+vitamin C	used for	burn healing
+tetanus vaccine	important for	burn patients
+burn severity	determines	treatment approach
+inhalation injury	increases	mortality
+burn patient	requires	psychosocial support
+preexisting conditions	worsen	outcomes in burn

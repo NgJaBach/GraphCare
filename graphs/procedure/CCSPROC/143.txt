@@ -1,0 +1,100 @@
+bunionectomy	is a	surgical procedure
+bunionectomy	indicated for	hallux valgus
+bunionectomy	corrects	toe deformity
+bunionectomy	treats	hallux valgus
+bunionectomy	requires	anesthesia
+bunionectomy	uses	osteotomy
+bunionectomy	uses	screw fixation
+bunionectomy	uses	Kirschner wire
+osteotomy	is a	corrective technique
+Kirschner wire	provides	temporary fixation
+screw fixation	provides	rigid fixation
+bunionectomy	may involve	regional anesthesia
+bunionectomy	may involve	general anesthesia
+postoperative immobilization	duration	several weeks
+postoperative immobilization	aids	healing
+postoperative analgesia	reduces	pain
+antibiotic prophylaxis	prevents	surgical site infection
+imaging	used for	surgical planning
+preoperative assessment	includes	imaging
+hallux valgus	associated with	bunion formation
+bunion formation	leads to	toe deformity
+bunionectomy	reduces	metatarsophalangeal pain
+toe deformity	contributes to	abnormal gait
+toe alignment	improves after	bunionectomy
+toe alignment	stabilizes with	hardware
+gait	improves after	bunionectomy
+recovery time	depends on	patient age
+patient age	influences	recovery time
+obesity	increases	complication risk
+diabetes mellitus	increases	infection risk
+smoking	increases	wound complications
+hypertension	increases	perioperative risk
+anesthesia	associated with	perioperative risk
+readmission	occurs after	bunionectomy
+infection	leads to	readmission
+scar	affects	cosmetic outcome
+scar	improves with	time
+hardware removal	may be required after	bunionectomy
+implant irritation	causes	pain
+recurrence	is a	complication
+recurrence	associated with	inadequate correction
+recurrence	reduces	patient satisfaction
+surgical site infection	increases	readmission
+osteotomy	corrects	hallux valgus
+incision	influences	scar visibility
+incision type	determines	scar visibility
+soft tissue handling	affects	recovery
+implant migration	is a	rare event
+implant irritation	leads to	hardware removal
+postoperative edema	resolves	weeks
+vascular compromise	risks	poor healing
+nutritional status	affects	wound healing
+preoperative anemia	increases	transfusion risk
+transfusion	increases	infection risk
+blood transfusion	may be required after	bunionectomy
+hospital stay	duration	several days
+anesthesia	risks	respiratory depression
+preoperative counseling	improves	satisfaction
+outcome prediction	uses	patient factors
+patient factors	include	age
+patient factors	include	BMI
+BMI	influences	recovery time
+BMI	affects	wound healing
+long-term outcome	influenced by	rehabilitation
+surgical experience	affects	complication rate
+surgeon experience	reduces	complications
+screw fixation	associated with	hardware prominence
+Kirschner wire	associated with	pin tract infection
+hallux valgus	recurs after	bunionectomy
+toe deformity	persists after	bunionectomy
+nerve injury	risk after	bunionectomy
+nerve injury	results in	sensory loss
+deep vein thrombosis	risk after	bunionectomy
+pulmonary embolism	risk after	bunionectomy
+anticoagulation	used for	DVT prevention
+DVT prevention	relies on	mobility
+rehabilitation	required for	full recovery
+full recovery	achieved after	bunionectomy
+physical therapy	recommended after	bunionectomy
+wound care	essential for	infection prevention
+infection prevention	includes	sterile technique
+sterile technique	reduces	infection risk
+postoperative check	monitors	wound healing
+wound healing	depends on	nutrition
+nutrition	supports	wound healing
+protein intake	supports	wound healing
+collagen synthesis	requires	vitamin C
+patient satisfaction	measures	outcome
+pain score	used for	outcome assessment
+outcome assessment	includes	pain score
+bone healing	occurs with	osteotomy
+osteotomy	allows	hallux valgus correction
+hallux valgus correction	achieved by	bunionectomy
+toe interphalangeal joint	preserved during	bunionectomy
+soft tissue balance	restored by	bunionectomy
+metatarsalgia	can follow	bunionectomy
+foot biomechanics	altered by	bunionectomy
+preoperative education	improves	compliance
+postoperative compliance	improves	outcome
+quality of life	improves after	bunionectomy

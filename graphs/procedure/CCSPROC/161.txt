@@ -1,0 +1,109 @@
+osteotomy	is a type of	orthopedic procedure
+osteotomy	used for	deformity correction
+osteotomy	performed for	angular deformity
+bone graft	is a type of	graft
+bone graft	used for	fracture repair
+autograft	is a type of	bone graft
+allograft	is a type of	bone graft
+bone graft substitute	is a type of	biomaterial
+bone graft substitute	used for	bone defect filling
+vertebroplasty	is a type of	vertebral augmentation
+kyphoplasty	is a type of	vertebral augmentation
+vertebral augmentation	used for	vertebral compression fracture
+vertebral augmentation	performed for	vertebral compression fracture
+spinal fusion	is a type of	bone procedure
+spinal fusion	performed for	spinal instability
+spinal fusion	indicated for	scoliosis
+arthrodesis	is a type of	bone fusion
+arthrodesis	used for	joint stabilization
+arthroplasty	is a type of	orthopedic procedure
+arthroplasty	performed for	osteoarthritis
+arthroplasty	replaces	affected joint
+internal fixation	is a type of	bone fixation
+internal fixation	used for	fracture stabilization
+external fixation	is a type of	bone fixation
+external fixation	used for	fracture alignment
+bone plate	is a type of	implant
+bone plate	used for	fracture stabilization
+screw fixation	is a type of	internal fixation
+screw	is a type of	implant
+bone screw	used for	fracture fixation
+intramedullary nail	is a type of	orthopedic implant
+intramedullary nail	used for	long bone fracture stabilization
+bone cement	is a type of	biomaterial
+bone cement	used for	vertebral augmentation
+calcium phosphate cement	is a type of	bone cement
+distraction osteogenesis	is a method of	bone lengthening
+distraction osteogenesis	used for	limb length discrepancy
+bone lengthening	is a procedure	orthopedic
+osteoplasty	is a type of	bone procedure
+osteoplasty	used for	deformity correction
+osteoclasis	is a type of	bone procedure
+osteoclasis	performed for	deformity correction
+curettage	is a type of	bone procedure
+curettage	used for	bone tumor removal
+bone tumor resection	is a type of	bone procedure
+bone tumor resection	performed for	malignant tumor
+osteosynthesis	is a type of	bone procedure
+osteosynthesis	used for	fracture fixation
+pedicle screw	is a type of	implant
+pedicle screw	used for	spinal stabilization
+spinal instrumentation	is a type of	implant system
+spinal instrumentation	used for	stabilization
+bone tumor	treated with	curettage
+bone tumor	treated with	resection
+bone biopsy	is a type of	diagnostic procedure
+bone biopsy	performed for	suspected bone lesion
+bone biopsy	used for	histology confirmation
+bone marrow biopsy	is a type of	diagnostic procedure
+bone marrow biopsy	used for	hematologic diagnosis
+compression fracture	is treated with	vertebral augmentation
+fracture	treated with	internal fixation
+hip fracture	treated with	internal fixation
+knee fracture	treated with	external fixation
+spine deformity	corrected by	spinal fusion
+scoliosis	is an indication for	spinal fusion
+degenerative disc disease	is an indication for	arthroplasty
+osteoarthritis	is an indication for	arthroplasty
+osteomyelitis	is treated with	debridement
+bone debridement	is a type of	bone procedure
+bone debridement	used for	infection control
+bone graft	provides	osteoconduction
+bone graft	stimulates	osteogenesis
+autograft	provides	osteoinduction
+allograft	provides	osteoinduction
+bone cement	enables	vertebral stability
+vertebral fracture	treated with	vertebral augmentation
+spinal fusion	yields	rigid spinal stability
+bone graft	bridges	bone defect
+bone graft	supports	healing
+autograft	supports	healing
+allograft	supports	healing
+bone graft substitute	supports	bone healing
+calcium phosphate cement	supports	bone healing
+bone defect	bridged by	bone graft
+bone defect	filled with	bone graft
+bone defect	treated by	grafting
+vertebral augmentation	includes	vertebroplasty
+vertebral augmentation	includes	kyphoplasty
+long bone fracture	treated with	intramedullary nailing
+long bone fracture	treated with	external fixation
+ankle arthroplasty	is a type of	arthroplasty
+shoulder arthroplasty	is a type of	arthroplasty
+elbow arthroplasty	is a type of	arthroplasty
+hip arthroplasty	is a type of	arthroplasty
+knee arthroplasty	is a type of	arthroplasty
+arthroplasty	replaces	articular surface
+arthroplasty	restores	joint function
+osteotomy	corrects	malalignment
+deformity	corrected by	osteotomy
+bone deformity	corrected by	osteoplasty
+bone alignment	achieved by	osteotomy
+bone alignment	restored by	osteotomy
+bone healing	enhanced by	autograft
+bone healing	enhanced by	allograft
+bone healing	enhanced by	graft substitutes
+osteogenesis	is a	biological process
+osteoinduction	is a	biological process
+osteoimplants	are used for	joint stabilization
+bone remodeling	occurs after	fixation

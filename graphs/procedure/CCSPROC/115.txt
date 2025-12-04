@@ -1,0 +1,100 @@
+circumcision	is a	surgical procedure
+circumcision	performed on	newborns
+circumcision	performed in	hospital
+circumcision	performed under	anesthesia
+circumcision	uses	Gomco clamp
+circumcision	uses	Mogen clamp
+circumcision	uses	Plastibell
+circumcision	uses	dorsal slit
+circumcision	uses	scalpel
+circumcision	indicated for	phimosis
+circumcision	indicated for	recurrent balanitis
+circumcision	indicated for	urinary tract infection
+circumcision	indicated for	penile cancer risk reduction
+circumcision	reduces	urinary tract infection risk
+circumcision	reduces	HIV acquisition risk
+circumcision	reduces	penile cancer risk
+circumcision	reduces	other sexually transmitted infection risk
+circumcision	has	complications
+circumcision	carries	bleeding
+circumcision	carries	infection
+circumcision	carries	meatal stenosis
+circumcision	carries	scarring
+circumcision	carries	postoperative pain
+bleeding	complication of	circumcision
+infection	complication of	circumcision
+meatal stenosis	complication of	circumcision
+scarring	complication of	circumcision
+postoperative pain	managed with	analgesia
+analgesia	used for	circumcision pain
+topical anesthesia	used for	circumcision
+local anesthesia	used for	circumcision
+general anesthesia	used for	circumcision
+circumcision	requires	consent
+parental consent	required for	infant circumcision
+informed consent	required for	circumcision
+guidelines	recommend	circumcision
+Gomco clamp	used for	circumcision
+Mogen clamp	used for	circumcision
+Plastibell	used for	circumcision
+neonatal circumcision	performed at	birth
+infant circumcision	performed at	birth
+adult circumcision	performed at	adulthood
+circumcision	associated with	culture
+circumcision	associated with	religion
+culture	influences	circumcision decisions
+religion	influences	circumcision decisions
+ethics	govern	infant circumcision
+family decision	influences	circumcision
+policy	guides	circumcision practice
+circumcision	part of	newborn care
+foreskin	removed by	circumcision
+glans penis	exposed by	circumcision
+circumcision wound	requires	wound care
+dressing	applied after	circumcision
+dressing removal	occurs after	circumcision
+antibiotics	prescribed after	circumcision
+antibiotics	reduce	infection risk
+wound infection	risk after	circumcision
+postoperative visit	scheduled after	circumcision
+complication rate	varies by	circumcision method
+circumcision method	affects	complication rate
+Plastibell	associated with	delayed healing
+Mogen clamp	linked to	minimal bleeding
+Gomco clamp	linked to	controlled bleeding
+complications	include	bleeding
+complications	include	infection
+complications	include	meatal stenosis
+complications	include	scarring
+analgesia	recommended after	circumcision
+topical anesthetic	provides	local analgesia
+circumcision	influences	urinary stream
+glans exposure	occurs after	circumcision
+penile cancer risk	reduced by	circumcision
+HIV prevention	realized by	circumcision
+cost	associated with	circumcision
+healthcare utilization	increases with	circumcision
+education	provided about	circumcision
+parental education	provided about	circumcision
+safety monitoring	required after	circumcision
+consent discussion	occurs before	circumcision
+informed decision	expressed about	circumcision
+tradition	describes	circumcision practice
+culture	views circumcision as	normative practice
+medical record	notes	circumcision status
+circumcision status	documented in	medical record
+clinical trial	evaluates	circumcision outcomes
+circumcision outcomes	measured in	clinical trial
+regulatory body	approves	circumcision devices
+device approval	required for	circumcision devices
+sterile technique	used for	circumcision
+aseptic technique	ensures	circumcision safety
+infection control	reduces	postcircumcision infection
+postoperative infection	monitored by	clinician
+timing of circumcision	considered in	pediatric guidelines
+pediatric guidelines	specify	circumcision timing
+adult circumcision	associated with	longer recovery
+circumcision	available as	outpatient procedure
+circumcision	prevalence varies by	region
+parental preference	influences	circumcision decision
+circumcision decision	influenced by	cultural beliefs

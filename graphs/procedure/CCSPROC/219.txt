@@ -1,0 +1,100 @@
+alcohol rehabilitation	is a	treatment
+alcohol rehabilitation	includes	counseling
+alcohol rehabilitation	used for	alcohol use disorder
+detoxification	is a	medical process
+detoxification	is indicated for	alcohol withdrawal
+detoxification	requires	medical supervision
+inpatient detoxification	is a	setting
+outpatient detoxification	is a	setting
+detoxification	reduces	acute withdrawal risk
+medication-assisted treatment	is an	evidence-based approach
+naltrexone	is used for	relapse prevention
+acamprosate	reduces	relapse risk
+disulfiram	causes	acetaldehyde buildup
+buprenorphine	is used for	opioid use disorder
+methadone	is used for	opioid dependence
+topiramate	is used off-label for	alcohol dependence
+gabapentin	is used for	alcohol withdrawal symptoms
+naltrexone	can be combined with	behavioral therapy
+detoxification	followed by	rehabilitation
+rehabilitation program	includes	behavioral therapy
+counseling services	improve	coping skills
+behavioral therapy	improves	treatment engagement
+motivational interviewing	improves	treatment engagement
+treatment engagement	predicts	treatment success
+treatment success	reduces	relapse risk
+aftercare	supports	long-term sobriety
+aftercare planning	reduces	readmission risk
+peer support groups	support	recovery
+mutual aid	promotes	abstinence
+abstinence	is goal of	rehabilitation
+detoxification facility	provides	withdrawal management
+inpatient program	offers	medical detoxification
+outpatient program	offers	counseling services
+family therapy	supports	recovery
+peer mentor	enhances	treatment engagement
+screening	identifies	alcohol use disorder
+brief intervention	reduces	subsequent drinking
+comorbidity	affects	detoxification safety
+liver disease	increases	withdrawal risk
+thiamine deficiency	accompanies	chronic alcohol use
+thiamine supplementation	prevents	Wernicke's encephalopathy
+Wernicke's encephalopathy	is prevented by	thiamine supplementation
+malnutrition	worsens	recovery outcomes
+vitamin deficiency	accompanies	chronic alcohol use
+sleep disturbance	persists after	sobriety
+craving	increases	relapse risk
+stress	triggers	relapse
+co-occurring disorders	complicate	rehab
+anxiety disorder	coexists with	substance use disorder
+depression	coexists with	substance use disorder
+dual diagnosis	requires	integrated treatment
+urine drug screen	monitors	substance use during rehab
+urine drug screen	guides	treatment decisions
+intake assessment	identifies	withdrawal risk
+withdrawal risk	informs	detoxification plan
+safety planning	reduces	self-harm during rehab
+nutrition program	improves	recovery outcomes
+exercise program	improves	mood during rehab
+sleep hygiene	supports	recovery
+mindfulness training	reduces	relapse risk
+stress management	improves	coping skills
+housing stability	improves	treatment engagement
+insurance coverage	affects	access to rehab
+cost	affects	access to rehab
+age	influences	treatment outcomes
+sex	influences	treatment outcomes
+employment status	influences	treatment engagement
+social support	improves	treatment adherence
+housing instability	worsens	relapse risk
+injection drug use	increases	infection risk
+needle exchange	reduces	infection risk
+overdose education	reduces	overdose risk
+naloxone	used for	overdose reversal
+pain management	complicates	rehab
+cocaine use	co-occurs with	alcohol use disorder
+polysubstance use	complicates	rehab
+medication adherence	predicts	rehab success
+digital health tools	facilitate	rehab access
+telemedicine	expands	rehab access
+online support	complements	in-person rehab
+relapse prevention plan	reduces	readmission risk
+pharmacotherapy	supports	abstinence
+naltrexone	reduces	craving
+acamprosate	reduces	craving
+gabapentin	reduces	withdrawal symptoms
+benzodiazepines	manage	withdrawal symptoms
+detoxification	can cause	electrolyte imbalance
+electrolyte imbalance	affects	recovery
+alcohol withdrawal syndrome	requires	benzodiazepines
+polysubstance withdrawal	requires	medical supervision
+post-acute withdrawal syndrome	occurs after	detoxification
+craving management	improves	relapse prevention
+mindfulness-based relapse prevention	reduces	relapse risk
+family involvement	improves	treatment adherence
+care coordination	reduces	readmission risk
+insurance authorization	delays	treatment initiation
+stimulant use disorder	co-occurs with	alcohol use disorder
+contingency management	improves	treatment adherence
+naltrexone	is contraindicated in	acute opioid withdrawal
+sobriety	sustains	employment opportunities

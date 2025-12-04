@@ -1,100 +1,100 @@
-motor vehicle crash	causes	head injury
-motor vehicle crash	causes	traumatic brain injury
-motor vehicle crash	causes	skull fracture
-motor vehicle crash	causes	cervical spine fracture
-motor vehicle crash	causes	thoracic trauma
-motor vehicle crash	causes	rib fracture
-motor vehicle crash	causes	pneumothorax
-motor vehicle crash	causes	hemothorax
-motor vehicle crash	causes	pulmonary contusion
-motor vehicle crash	causes	diaphragmatic rupture
-motor vehicle crash	causes	abdominal injury
-motor vehicle crash	causes	splenic injury
-motor vehicle crash	causes	liver injury
-motor vehicle crash	causes	kidney injury
-motor vehicle crash	causes	pancreatic injury
-motor vehicle crash	causes	small bowel injury
-motor vehicle crash	causes	colon injury
-motor vehicle crash	causes	mesenteric injury
-motor vehicle crash	causes	pelvic fracture
-motor vehicle crash	causes	femur fracture
-motor vehicle crash	causes	tibia fracture
-motor vehicle crash	causes	fibula fracture
-motor vehicle crash	causes	humerus fracture
-motor vehicle crash	causes	clavicle fracture
-motor vehicle crash	causes	vertebral fracture
-motor vehicle crash	causes	intracranial hemorrhage
-motor vehicle crash	causes	subdural hematoma
-motor vehicle crash	causes	epidural hematoma
-motor vehicle crash	causes	subarachnoid hemorrhage
-motor vehicle crash	causes	skull base fracture
-motor vehicle crash	causes	facial fracture
-motor vehicle crash	causes	maxillofacial injury
-motor vehicle crash	causes	dental injury
-motor vehicle crash	causes	orbital fracture
-motor vehicle crash	causes	eye injury
-motor vehicle crash	causes	spinal cord injury
-motor vehicle crash	causes	cauda equina injury
-motor vehicle crash	causes	brachial plexus injury
-motor vehicle crash	causes	vascular injury
-motor vehicle crash	causes	soft tissue injury
-motor vehicle crash	causes	crush injury
-motor vehicle crash	causes	burn injury
-motor vehicle crash	causes	amputation
-motor vehicle crash	causes	chest wall injury
-motor vehicle crash	causes	mediastinal injury
-motor vehicle crash	causes	pneumonia
-motor vehicle crash	causes	ARDS
-motor vehicle crash	causes	cardiac contusion
-motor vehicle crash	results in	hospital admission
-motor vehicle crash	results in	ICU admission
-motor vehicle crash	results in	mechanical ventilation
-motor vehicle crash	results in	tracheostomy
-motor vehicle crash	results in	surgical intervention
-motor vehicle crash	results in	blood transfusion
-hospital admission	associated with	motor vehicle crash
-ICU admission	associated with	motor vehicle crash
-mechanical ventilation	associated with	motor vehicle crash
-surgical intervention	associated with	motor vehicle crash
-blood transfusion	associated with	motor vehicle crash
-length of stay	associated with	motor vehicle crash
-discharge disposition	associated with	motor vehicle crash
-readmission	associated with	motor vehicle crash
-mortality	associated with	motor vehicle crash
-rehabilitation need	associated with	motor vehicle crash
-functional outcome	associated with	motor vehicle crash
-cognitive impairment	associated with	head injury
-paralysis	associated with	spinal cord injury
-long-term disability	associated with	spinal cord injury
-polytrauma	common in	motor vehicle crash
-multisystem injury	common in	motor vehicle crash
-seat belt use	reduces	head injury
-seat belt use	reduces	chest trauma
-airbag deployment	reduces	head injury
-vehicle speed	increases	crash severity
-speeding	increases	crash severity
-alcohol involvement	increases	crash severity
-drug involvement	increases	crash severity
-time of day	associated with	crash severity
-weather condition	associated with	crash severity
-night driving	associated with	crash severity
-occupant type	associated with	injury severity
-driver	associated with	fatal injury
-pedestrian	associated with	severe injury
-occupant	associated with	polytrauma
-airbag deployment	indicates	high-energy crash
-seat belt violation	associated with	injury severity
-emergency department visit	follows	motor vehicle crash
-trauma center admission	associated with	motor vehicle crash
-cell salvage	reduces	blood transfusion
-blood product transfusion	associated with	mortality
-ICU length of stay	predicts	mortality
-pneumonia	occurs after	mechanical ventilation
-ventilator-associated pneumonia	arises after	mechanical ventilation
-tracheostomy	indicates	prolonged ventilation
-head injury	predictor of	cognitive impairment
-traumatic brain injury	predictor of	cognitive impairment
-spinal cord injury	predictor of	long-term disability
-head injury	predictor of	seizures
-rehabilitation outcome	associated with	functional independence
-external cause code	represents	motor vehicle crash
+motor vehicle traffic	is a	external cause
+motor vehicle traffic	causes	injury
+motor vehicle traffic	leads to	head injury
+motor vehicle traffic	leads to	blunt trauma
+head injury	is a	traumatic brain injury
+head injury	increases	disability risk
+head injury	increases	mortality risk
+skull fracture	accompanies	head injury
+intracranial hemorrhage	accompanies	head injury
+intracranial hemorrhage	increases	mortality
+facial fracture	requires	maxillofacial surgery
+facial fracture	associates with	cosmetic deformity
+rib fracture	causes	chest pain
+pneumothorax	results in	respiratory compromise
+pneumothorax	requires	chest tube
+hemothorax	requires	thoracostomy
+flail chest	results in	respiratory failure
+pelvic fracture	associated with	major hemorrhage
+pelvic fracture	increases	transfusion need
+liver injury	causes	intraabdominal bleeding
+splenic injury	causes	hemorrhagic shock
+abdominal trauma	requires	laparotomy
+pelvic hemorrhage	leads to	hemodynamic instability
+spinal fracture	leads to	spinal cord injury
+spinal cord injury	results in	paralysis
+polytrauma	requires	ICU admission
+polytrauma	increases	mortality risk
+injury severity score	predicts	mortality
+injury severity score	used for	triage decision
+CT scan	identifies	intracranial hemorrhage
+CT scan	detects	traumatic injuries
+CT angiography	identifies	vascular injury
+X-ray	detects	fracture
+ultrasound	identifies	intraabdominal bleeding
+trauma center	provides	multidisciplinary care
+ED visit	follows	motor vehicle collision
+ICU admission	follows	polytrauma
+surgical fixation	stabilizes	fracture
+orthopedic surgery	treats	fracture
+neurosurgery	treats	traumatic brain injury
+craniotomy	relieves	intracranial pressure
+craniectomy	decompresses	brain
+ventilation	extends	ICU stay
+mechanical ventilation	extends	hospital stay
+blood transfusion	is a	treatment
+blood loss	increases	transfusion need
+pneumonia	occurs	after intubation
+sepsis	increases	mortality
+acute kidney injury	occurs	after trauma
+disability	results in	long-term care need
+mortality	reflects	injury severity
+readmission	indicates	poor prognosis
+age	influences	injury severity
+older age	increases	fatality risk
+pediatric age	shows	different injury pattern
+seat belt use	reduces	head injury risk
+airbag deployment	reduces	fatality risk
+helmet use	reduces	head injury risk
+vehicle safety features	improve	crash outcomes
+airbags	reduce	chest injuries
+seat belt	prevents	severe injury
+injury distribution	varies by	age group
+injury mechanism	includes	deceleration injury
+deceleration injury	causes	internal organ injury
+trauma system	improves	survival
+prehospital time	affects	outcome
+time to definitive care	influences	outcome
+blood pressure	modulates	trauma outcome
+hypoxia	worsens	brain injury
+pain control	facilitates	rehabilitation adherence
+rehabilitation	improves	functional outcome
+discharge planning	reduces	readmission
+nutritional status	affects	wound healing
+infection risk	increases	length of stay
+pain	worsens	delirium risk
+delirium	prolongs	hospital stay
+thromboembolism	occurs	after immobilization
+anticoagulation	reduces	thromboembolism risk
+DVT	occurs	after trauma
+deep vein thrombosis	increases	pulmonary embolism risk
+pulmonary embolism	worsens	mortality
+mortality rate	varies	by injury type
+trauma index	correlates with	outcome
+trauma bay	facilitates	rapid assessment
+emergency surgery	required	life-threatening injuries
+neurosurgical care	improves	neurological outcome
+orthopedic care	improves	fracture union
+critical care	provides	monitoring
+imaging study	guides	surgery plan
+care pathway	standardizes	trauma care
+trauma protocol	reduces	delays
+blood bank	supports	transfusion needs
+nursing care	affects	patient safety
+family education	improves	discharge adherence
+preexisting disability	influences	recovery trajectory
+functional status	predicts	rehabilitation outcome
+polytrauma patient	presents with	multi-organ injury
+crash severity	correlates with	injury severity
+crash mechanism	predicts	injury distribution
+prognosis	is informed by	injury severity

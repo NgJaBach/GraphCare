@@ -1,101 +1,100 @@
- dental caries	causes	dental pain 
- dental caries	leads to	pulp exposure 
- dental caries	treated with	fillings 
- dental caries	prevented by	fluoride 
- gingivitis	associated with	plaque 
- gingivitis	progresses to	periodontitis 
- periodontitis	causes	alveolar bone loss 
- periodontitis	associated with	tooth mobility 
- periodontitis	increases risk of	tooth loss 
- malocclusion	associated with	facial asymmetry 
- malocclusion	treated with	orthodontics 
- crowding	causes	malocclusion 
- crowding	associated with	tooth misalignment 
- spacing	associated with	diastema 
- eruption disturbance	affects	eruption timing 
- impacted tooth	associated with	eruption disturbance 
- supernumerary tooth	causes	crowding 
- agenesis	results in	missing teeth 
- enamel hypoplasia	associated with	enamel defects 
- fluorosis	causes	enamel mottling 
- dental erosion	associated with	acid wear 
- attrition	related to	tooth wear 
- abrasion	related to	tooth wear 
- dentin hypersensitivity	caused by	dentin exposure 
- pulpitis	causes	dental pain 
- pulpitis	can progress to	pulp necrosis 
- pulp necrosis	requires	root canal therapy 
- periapical abscess	presents with	facial swelling 
- periapical abscess	requires	drainage 
- odontogenic cyst	may cause	jaw swelling 
- dentigerous cyst	associated with	impacted tooth 
- odontogenic tumor	includes	ameloblastoma 
- ameloblastoma	causes	jaw expansion 
- jaw fracture	results from	dental trauma 
- dental trauma	can cause	tooth fracture 
- tooth fracture	leads to	pulp exposure 
- temporomandibular joint disorder	presents with	jaw pain 
- temporomandibular joint disorder	associated with	bruxism 
- bruxism	causes	tooth wear 
- bruxism	associated with	sleep disturbance 
- occlusion	influences	mastication efficiency 
- occlusion	determined by	dentition alignment 
- occlusal trauma	results in	periodontal ligament changes 
- sealant	prevents	caries 
- fluoride	strengthens	enamel 
- fluoride varnish	prevents	caries 
- prophylaxis	reduces	plaque 
- scaling and root planing	treats	periodontitis 
- root canal therapy	treats	pulpal infection 
- endodontic therapy	resolves	tooth pain 
- tooth extraction	relieves	dental pain 
- orthodontics	corrects	malocclusion 
- braces	corrects	malocclusion 
- sealant	prevents	fissure caries 
- radiograph	detects	caries 
- panoramic radiograph	visualizes	jaw anatomy 
- bitewing radiograph	assesses	caries 
- tooth restoration	improves	aesthetics 
- dental implant	replaces	missing tooth 
- bridge	restores	missing tooth 
- full denture	replaces	multiple missing teeth 
- partial denture	replaces	missing tooth 
- denture	improves	chewing efficiency 
- crown	restores	tooth function 
- endodontic retreatment	addresses	persistent infection 
- implant crown	restores	dental implant 
- tooth root	anchors	periodontal ligament 
- enamel	protects	dentin 
- cementum	covers	tooth root 
- dentin	contains	tubules 
- pulp	houses	nerves 
- alveolar bone	supports	teeth 
- maxilla	houses	teeth 
- mandible	houses	teeth 
- alveolar ridge	supports	teeth 
- gingiva	protects	tooth enamel 
- mucosa	lines	oral cavity 
- occlusal guard	prevents	tooth wear 
- diet	influences	dental caries 
- smoking	increases risk of	periodontal disease 
- diabetes	associated with	periodontal disease 
- oral hygiene	improves	gingival health 
- saliva	neutralizes	dental pathogens 
- enamel hypoplasia	increases risk of	caries 
- dentin hypersensitivity	worsens	cold stimuli 
- tooth eruption	occurs during	childhood 
- primary dentition	matures into	permanent dentition 
- primary dentition	replaced by	permanent dentition 
- odontogenic infection	spreads to	adjacent tissues 
- jawbone	resorbs	after tooth loss 
- bone graft	stabilizes	dental implant 
- implant	osseointegrates with	jawbone 
- osseointegration	completes	dental implant 
- caries	recurrence after	restoration failure 
- periodontal pocket	indicates	periodontitis 
- gingival recession	exposes	root surface 
- calculus	adheres to	tooth surface 
- plaque	harbors	bacteria 
- toothbrush	removes	plaque 
- dental sealant	seals	pits and fissures 
- molar	affected by	caries 
+dental caries	is a	tooth decay
+periodontal disease	is an	inflammatory condition
+gingivitis	is a	gum inflammation
+malocclusion	is a	bite abnormality
+temporomandibular joint disorder	is a	jaw disorder
+tooth eruption disorder	is a	developmental disorder
+impacted tooth	is a	tooth obstruction
+hypodontia	is a	tooth agenesis
+anodontia	is a	tooth agenesis
+crowding	is a	alignment disorder
+malalignment	is a	tooth misalignment
+overbite	is a	bite abnormality
+underbite	is a	bite abnormality
+crossbite	is a	bite abnormality
+open bite	is a	bite abnormality
+deep bite	is a	bite abnormality
+facial asymmetry	is a	facial deformity
+jaw fracture	is a	trauma-related fracture
+mandibular fracture	is a	jaw fracture
+maxillary fracture	is a	jaw fracture
+osteomyelitis of jaw	is a	bone infection
+osteoradionecrosis	is a	jaw complication
+bisphosphonate-related osteonecrosis of the jaw	is a	jaw complication
+dentoalveolar abscess	is a	tooth infection
+periapical abscess	is a	tooth infection
+radicular cyst	is a	tooth cyst
+dentigerous cyst	is a	tooth cyst
+odontogenic keratocyst	is a	jaw cyst
+amelogenesis imperfecta	is a	enamel formation disorder
+dentinogenesis imperfecta	is a	dentin formation disorder
+enamel hypoplasia	is a	enamel defect
+dental fluorosis	is a	enamel defect
+denture stomatitis	is a	mucosal inflammation
+alveolar osteitis	is a	post-extraction complication
+dry socket	is a	post-extraction complication
+pulpitis	is a	tooth pulp inflammation
+pulp necrosis	is a	tooth pulp death
+apical periodontitis	is a	periapical inflammation
+chronic periodontitis	is a	gum disease
+aggressive periodontitis	is a	gum disease
+gingival recession	is a	gum recession
+periodontal pocket	is a	gum pocket
+alveolar bone loss	is a	bone loss
+alveolar ridge resorption	is a	bone remodeling disorder
+sialolithiasis	is a	salivary gland stone
+odontogenic sinusitis	is a	sinus infection
+facial trauma	is a	injury
+facial fracture	is a	bone fracture
+maxillofacial deformity	is a	craniofacial deformity
+orthognathic deformity	is a	jaw deformity
+cleft lip/palate	is a	craniofacial anomaly
+ameloblastoma	is a	jaw tumor
+odontogenic tumor	is a	jaw tumor
+odontogenic cyst	is a	jaw cyst
+dental implant	is a	prosthetic tooth replacement
+denture	is a	tooth replacement
+bridge	is a	tooth replacement
+orthodontic treatment	is a	dental therapy
+bruxism	is a	parafunctional habit
+tooth wear	is a	tooth wear
+enamel erosion	is a	enamel defect
+tooth avulsion	is a	tooth injury
+tooth dislocation	is a	tooth injury
+dental plaque	predisposes to	dental caries
+dental plaque	predisposes to	periodontal disease
+smoking	increases risk of	periodontal disease
+diabetes mellitus	is a risk factor for	periodontal disease
+poor oral hygiene	is a risk factor for	dental caries
+cavitation	is a	sign of dental caries
+root canal therapy	is a	treatment for pulpal disease
+endodontic treatment	is a	therapy for pulpal disease
+extraction	is a	tooth removal
+tooth mobility	is a	sign of periodontal disease
+bone loss	is a	sign of periodontitis
+nerve injury	is a	complication of dental procedures
+odontogenic infection	is a	dental infection
+fistula	is a	dental sinus tract
+abscess drainage	is a	procedural therapy
+orthognathic surgery	is a	jaw corrective surgery
+jaw surgery	is a	orthognathic procedure
+alveolar bone graft	is a	reconstructive procedure
+dental implant failure	is a	prosthetic complication
+peri-implantitis	is a	implant complication
+occlusal trauma	is a	bite injury
+tooth root resorption	is a	tooth root degeneration
+post-extraction socket healing	is a	recovery phase
+palatal fistula	is a	mucosal defect
+malocclusion correction	is a	orthodontic treatment
+maxillary sinus involvement	is a	odontogenic complication
+eruption resorption	is a	eruption-related issue
+primary dentition	is a	dentition phase
+permanent dentition	is a	dentition phase
+dental crossover	is a	malocclusion variant
+dentin hypersensitivity	is a	dentin sensitivity disorder
+gingival hyperplasia	is a	gum overgrowth
+dental abscess	is a	tooth infection
+tooth discoloration	is a	cosmetic defect
+eruption failure	is a	eruption disorder
+orthodontic relapse	is a	treatment outcome
+root canal retreatment	is a	endodontic procedure

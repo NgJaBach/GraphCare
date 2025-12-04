@@ -1,0 +1,100 @@
+kidney transplant	is a	surgical procedure
+kidney transplant	is performed for	end-stage renal disease
+donor kidney	comes from	living donor
+donor kidney	comes from	deceased donor
+living donor	is a	donor type
+deceased donor	is a	donor type
+HLA matching	influences	graft survival
+crossmatch	detects	donor-specific antibodies
+panel reactive antibodies	indicates	sensitization
+donor-specific antibodies	increase risk of	acute rejection
+graft survival	improves with	good immunologic compatibility
+immunosuppression	prevents	rejection
+tacrolimus	is a	calcineurin inhibitor
+cyclosporine	is a	calcineurin inhibitor
+mycophenolate mofetil	is a	antiproliferative agent
+prednisone	is a	corticosteroid
+basiliximab	is a	induction agent
+induction therapy	includes	basiliximab
+induction therapy	includes	antithymocyte globulin
+antithymocyte globulin	is a	polyclonal antibody
+delayed graft function	occurs with	prolonged cold ischemia time
+cold ischemia time	affects	graft function
+ischemia-reperfusion injury	causes	early graft dysfunction
+graft dysfunction	requires	dialysis
+dialysis	is a	bridging therapy
+post-transplant infection	is a	complication
+immunosuppression	increases risk of	CMV infection
+CMV infection	can cause	allograft injury
+BK virus infection	can cause	nephropathy
+infection	is a	major cause of readmission
+nephrotoxicity	is a	side effect of calcineurin inhibitors
+tacrolimus	can cause	nephrotoxicity
+cyclosporine	can cause	nephrotoxicity
+hypertension	is common after	kidney transplant
+steroid-sparing regimens	aim for	reduced steroid exposure
+new-onset diabetes after transplant	is a	complication
+prednisone	increases risk of	new-onset diabetes after transplant
+cardiovascular disease	is a	leading cause of mortality after transplant
+obesity	increases risk of	post-transplant complications
+obesity	reduces	graft survival
+hyperlipidemia	is a	post-transplant complication
+infection	leads to	readmission
+CMV disease	is a	infection
+BK virus nephropathy	is a	complication
+crossmatch	should be	negative crossmatch
+PRA	decreases after	transplantation
+biopsy	confirms	rejection
+acute rejection	requires	augmented immunosuppression
+living donor kidney	improves	graft survival
+deceased donor kidney	associated with	shorter graft survival
+recipient age	affects	graft survival
+donor age	affects	graft survival
+donor kidney quality	impacts	graft survival
+immune monitoring	informs	dosing
+tacrolimus trough level	guides	dosing
+cyclosporine trough level	guides	dosing
+sirolimus	is a	mTOR inhibitor
+sirolimus	can cause	hyperlipidemia
+sirolimus	increases risk of	wound healing delay
+graft biopsy	detects	rejection
+protocol biopsy	detects	subclinical rejection
+subclinical rejection	can cause	graft loss
+alloantigen exposure	triggers	sensitization
+prophylaxis	reduces	opportunistic infections
+antiviral prophylaxis	reduces	CMV disease
+protocol biopsy	evaluates	graft status
+graft surveillance	includes	protocol biopsy
+dialysis	is a	bridging modality
+donor kidney quality	influences	graft function
+recipient comorbidity	affects	transplant outcome
+age at transplantation	predicts	graft survival
+pre-transplant dialysis duration	correlates with	post-transplant outcomes
+acute tubular necrosis	is a	post-transplant complication
+vascular thrombosis	leads to	graft loss
+wound infection	occurs after	transplantation
+total ischemia time	determines	graft function
+immunologic risk	stratifies	donor selection
+HLA mismatch	affects	rate of rejection
+ABO compatibility	required for	transplantation
+donor-specific antibodies	cause	graft dysfunction
+living donor evaluation	ensures	donor safety
+preemptive transplant	avoids	dialysis
+post-transplant vaccination	improves	recipient protection
+influenza vaccination	recommended for	recipients
+pneumococcal vaccination	recommended for	recipients
+cancer risk	increases after	transplantation
+post-transplant vaccination	is recommended for	recipients
+urinary tract infection	is a	common post-transplant infection
+wound healing	is a	postoperative concern
+antibiotic prophylaxis	reduces	post-transplant infection risk
+immunosuppression adherence	reduces	readmission risk
+trough level monitoring	supports	dose optimization
+pharmacogenomics	informs	tacrolimus dosing
+allograft function	monitored by	creatinine trend
+creatinine	reflects	allograft function
+graft outcome	depends on	adherence to therapy
+anesthesia	influences	perioperative risk
+late acute rejection	occurs after	months post-transplant
+graft thrombosis	causes	graft loss
+long-term graft function	depends on	adherence to therapy

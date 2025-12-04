@@ -1,0 +1,100 @@
+X-ray	is a	imaging procedure
+X-ray	used for	fracture assessment
+X-ray	detects	fracture
+X-ray	evaluates	bone alignment
+X-ray	assesses	degenerative changes
+MRI	is a	imaging modality
+MRI	used for	soft tissue evaluation
+MRI	detects	meniscal tear
+MRI	detects	ligament tear
+MRI	visualizes	cartilage lesion
+MRI	helpful for	ACL injury
+MRI	provides	multiplanar imaging
+CT scan	is a	imaging modality
+CT scan	used for	acute fracture assessment
+CT scan	detects	fracture subtype
+CT scan	visualizes	cortical bone detail
+Ultrasound	is a	imaging modality
+Ultrasound	used for	detection of tendon tears
+Ultrasound	evaluates	effusion
+Ultrasound	detects	soft tissue edema
+DEXA scan	is a	bone density test
+DEXA scan	used for	osteoporosis screening
+DEXA scan	measures	bone mineral density
+Bone scan	is a	nuclear medicine imaging procedure
+Bone scan	detects	occult fracture
+Bone scan	indicates	osteoblastic activity
+PET-CT	is a	imaging modality
+PET-CT	used for	oncologic staging
+PET-CT	shows	metabolic activity
+SPECT	is a	nuclear medicine imaging modality
+SPECT	used for	bone pathology evaluation
+Arthrography	is a	imaging procedure
+Arthrography	uses	intra-articular contrast
+Arthrography	detects	joint pathology
+Fluoroscopy	is a	imaging modality
+Fluoroscopy	used for	real-time imaging
+Angiography	is a	imaging procedure
+Angiography	visualizes	vascular anatomy
+Electromyography	is a	diagnostic procedure
+Electromyography	used for	neuromuscular function assessment
+Nerve conduction study	is a	diagnostic procedure
+Nerve conduction study	used for	neuropathy evaluation
+Synovial fluid analysis	is a	diagnostic procedure
+Synovial fluid analysis	used for	gout diagnosis
+Synovial fluid analysis	detects	crystals
+Muscle biopsy	is a	diagnostic procedure
+Bone biopsy	is a	diagnostic procedure
+Synovial biopsy	is a	diagnostic procedure
+CT-guided biopsy	is a	diagnostic procedure
+Arthrocentesis	is a	diagnostic procedure
+Arthrocentesis	used for	synovial fluid analysis
+Synovial fluid	is a	diagnostic specimen
+Arthrocentesis	yields	synovial fluid
+Synovial fluid	shows	crystals
+Bone marrow biopsy	is a	diagnostic procedure
+Bone marrow biopsy	provides	marrow sample
+Arthritis	is a	musculoskeletal inflammation
+Osteoarthritis	is a	degenerative joint disease
+Rheumatoid arthritis	is a	autoimmune inflammatory arthritis
+Tendon tear	is a	musculoskeletal injury
+Meniscal tear	is a	musculoskeletal injury
+Ligament tear	is a	musculoskeletal injury
+Cartilage defect	is a	joint lesion
+Bone lesion	is a	bone pathology
+Osteomyelitis	is a	bone infection
+Fracture	is a	bone break
+Stress fracture	is a	fracture due to repetitive stress
+Osteopenia	is a	low bone density condition
+Fracture risk	is predicted by	bone mineral density
+Osteoporosis	increases	fracture risk
+Osteoarthritis	leads to	joint space narrowing
+Hip fracture	detected by	X-ray
+Hip fracture	evaluated by	CT scan
+Lumbar herniated disc	evaluated by	MRI
+Spinal stenosis	evaluated by	MRI
+Rotator cuff tear	evaluated by	ultrasound
+Rotator cuff tear	detected by	MRI
+Ankle sprain	diagnosed by	X-ray
+Ankle sprain	diagnosed by	ultrasound
+Elbow arthritis	evaluated by	X-ray
+Knee effusion	detected by	ultrasound
+Synovitis	detected by	ultrasound
+Synovitis	identified by	MRI
+Loose body	detected by	X-ray
+Loose body	detected by	CT scan
+Chondromalacia	detected by	MRI
+Osteophyte	detected by	X-ray
+Bone density testing	improves	fracture risk stratification
+Gout	diagnosed by	synovial fluid analysis
+Crystal	found in	synovial fluid
+Crystal	causes	gout
+Joint effusion	detected by	ultrasound
+Osteomyelitis	suspected by	MRI
+Osteomyelitis	suspected by	bone scan
+Osteomyelitis	suspected by	CT
+Intra-articular pathology	detected by	arthrography
+Cartilage defect	visualized by	MRI
+Cartilage repair candidates	evaluated by	MRI
+Fracture healing assessment	performed by	X-ray
+Fracture healing assessment	performed by	CT scan

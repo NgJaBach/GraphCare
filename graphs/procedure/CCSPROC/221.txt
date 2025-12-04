@@ -1,0 +1,102 @@
+nasogastric tube	is a	medical device
+nasogastric tube	used for	gastric decompression
+nasogastric tube	used for	enteral feeding
+nasogastric tube	used for	gastric lavage
+nasogastric tube	used for	gastric aspiration
+nasogastric tube	used for	medication administration
+nasogastric tube	used for	gastric sampling
+nasogastric tube	inserted by	clinician
+nasogastric tube	inserted through	nostril
+nasogastric tube	passes into	stomach
+nasogastric tube	fixed with	tape
+nasogastric tube	lubricated with	lubricant
+nasogastric tube	requires	placement verification
+nasogastric tube	requires	radiographic confirmation
+nasogastric tube	verified by	radiography
+nasogastric tube	placed under	fluoroscopy
+nasogastric tube	replaced by	gastrostomy tube
+nasogastric tube	alternative to	orogastric tube
+nasogastric tube	contraindicated with	basilar skull fracture
+nasogastric tube	contraindicated with	facial fracture
+nasogastric tube	contraindicated with	esophageal obstruction
+nasogastric tube	associated with	nasal trauma
+nasogastric tube	associated with	sinusitis
+nasogastric tube	associated with	nasal mucosa irritation
+nasogastric tube	risk of	nasal bleeding
+nasogastric tube	risk of	aspiration
+nasogastric tube	risk of	aspiration pneumonia
+nasogastric tube	risk of	esophageal perforation
+nasogastric tube	risk of	bacterial colonization
+nasogastric tube	risk of	tube dislodgement
+nasogastric tube	risk of	fistula formation
+nasogastric tube	care required for	pediatric patients
+nasogastric tube	care required for	elderly patients
+nasogastric tube	associated with	nasal obstruction
+nasogastric tube	associated with	pharyngitis
+nasogastric tube	associated with	nasal mucosal irritation
+nasogastric tube	can cause	nasal mucosal erosion
+nasogastric tube	can cause	esophageal perforation
+nasogastric tube	can cause	gastric ulceration
+nasogastric tube	can cause	pneumonia
+nasogastric tube	can cause	throat irritation
+nasogastric tube	can cause	dryness of mouth
+nasogastric tube	may require	antibiotic prophylaxis
+nasogastric tube	should be	removed after	feeding cessation
+nasogastric tube	should be	removed when	obstruction resolves
+nasogastric tube	should be	replaced if	dislodgement occurs
+nasogastric tube	movement monitored by	nurse
+nasogastric tube	movement monitored by	clinician
+nasogastric tube	placement checked by	auscultation
+nasogastric tube	placement checked by	imaging
+nasogastric tube	placement checked by	endoscopy
+nasogastric tube	placement checked by	pH testing
+nasogastric tube	insertion technique	aseptic
+nasogastric tube	insertion technique	atraumatic
+nasogastric tube	inserted with	lubrication
+nasogastric tube	inserted with	protective nasal care
+nasogastric tube	nursing action	tape fixation
+nasogastric tube	nursing action	nasal hygiene
+nasogastric tube	used with	suction device
+nasogastric tube	connected to	suction
+nasogastric tube	used for	drainage
+nasogastric tube	part of	feeding protocol
+nasogastric tube	part of	care bundle
+nasogastric tube	used in	critical care
+nasogastric tube	used in	postoperative care
+nasogastric tube	used in	pediatric care
+nasogastric tube	used in	neonatal care
+nasogastric tube	training required for	staff
+nasogastric tube	training provided by	nurse educator
+nasogastric tube	included in	nutrition plan
+nasogastric tube	safety precaution	infection control
+nasogastric tube	safety precaution	aspiration prevention
+nasogastric tube	monitoring parameter	residual volume
+nasogastric tube	monitoring parameter	pH
+nasogastric tube	monitoring parameter	tube patency
+nasogastric tube	monitoring parameter	gastric contents
+nasogastric tube	material	silicone
+nasogastric tube	material	polyurethane
+nasogastric tube	diameter	small-bore
+nasogastric tube	diameter	large-bore
+nasogastric tube	type	single-lumen
+nasogastric tube	type	double-lumen
+nasogastric tube	length	standard length
+nasogastric tube	length	extra-long length
+nasogastric tube	used with	suction pump
+nasogastric tube	position check	bedside auscultation
+nasogastric tube	position check	imaging guidance
+nasogastric tube	placed for	short-term use
+nasogastric tube	placed for	long-term use
+nasogastric tube	part of	enteral access
+nasogastric tube	alternative to	nasojejunal tube
+nasogastric tube	alternative to	PEG tube
+nasogastric tube	included in	hospital protocol
+nasogastric tube	outcome metric	time to removal
+nasogastric tube	outcome metric	hospital stay length
+nasogastric tube	outcome metric	complication rate
+nasogastric tube	outcome metric	feeding tolerance
+nasogastric tube	but	requires	patient cooperation
+nasogastric tube	restrictions	nasal patency
+nasogastric tube	compatibility	devices with nasal path
+nasogastric tube	regulatory classification	medical device
+nasogastric tube	ethical consideration	patient comfort

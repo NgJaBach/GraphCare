@@ -1,0 +1,100 @@
+echocardiogram	is a	diagnostic imaging test
+echocardiogram	uses	ultrasound
+echocardiogram	visualizes	heart chambers
+echocardiogram	visualizes	heart valves
+echocardiogram	measures	ejection fraction
+echocardiogram	assesses	wall motion
+echocardiogram	evaluates	valvular function
+echocardiogram	detects	pericardial effusion
+echocardiogram	detects	cardiac tamponade
+echocardiogram	assesses	diastolic function
+echocardiogram	evaluates	systolic function
+echocardiogram	detects	left ventricular thrombus
+echocardiogram	detects	left ventricular aneurysm
+echocardiogram	detects	vegetations
+echocardiogram	detects	atrial septal defect
+echocardiogram	detects	ventricular septal defect
+echocardiogram	detects	mitral regurgitation
+echocardiogram	detects	aortic regurgitation
+echocardiogram	detects	mitral stenosis
+echocardiogram	detects	aortic stenosis
+echocardiogram	detects	tricuspid regurgitation
+echocardiogram	detects	pulmonary hypertension
+echocardiogram	estimates	cardiac output
+echocardiogram	estimates	stroke volume
+echocardiogram	estimates	left ventricular mass
+echocardiogram	measures	left atrial size
+echocardiogram	measures	LV end-diastolic dimension
+echocardiogram	measures	LV end-systolic dimension
+echocardiogram	measures	LV end-diastolic volume
+echocardiogram	measures	LV end-systolic volume
+echocardiogram	measures	diastolic filling pattern
+echocardiogram	classifies	LV function
+echocardiogram	identifies	left atrial enlargement
+echocardiogram	identifies	right atrial enlargement
+echocardiogram	identifies	left ventricular hypertrophy
+echocardiogram	identifies	right ventricular dysfunction
+echocardiogram	identifies	dilated cardiomyopathy
+echocardiogram	identifies	hypertrophic cardiomyopathy
+echocardiogram	identifies	congenital heart disease
+echocardiogram	identifies	prosthetic valve dysfunction
+echocardiogram	guides	clinical management
+echocardiogram	informs	prognosis
+echocardiogram	provides	baseline data
+echocardiogram	monitors	therapy response
+echocardiogram	used for	surgical planning
+echocardiogram	used for	risk stratification
+echocardiogram	used for	follow-up after valve replacement
+echocardiogram	used for	prosthetic valve surveillance
+echocardiogram	supports	heart failure diagnosis
+echocardiogram	aids	ischemic evaluation
+echocardiogram	contributes	to diagnosis
+echocardiogram	provides	cardiac structure data
+echocardiogram	provides	functional data
+echocardiogram	enables	preoperative assessment
+echocardiogram	enables	postoperative monitoring
+echocardiogram	is performed by	cardiologist
+echocardiogram	is noninvasive	test
+echocardiogram	provides	real-time imaging
+echocardiogram	yields	hemodynamic data
+echocardiogram	complements	electrocardiogram
+echocardiogram	guides	device therapy decisions
+echocardiogram	informs	treatment planning
+echocardiogram	supports	cardiologic diagnosis
+echocardiogram	demonstrates	functional improvement
+echocardiogram	demonstrates	functional decline
+echocardiogram	tracks	disease progression
+echocardiogram	contributes	to risk assessment
+echocardiogram	informs	surgical risk
+echocardiogram	helps	evaluate aortic disease
+echocardiogram	helps	evaluate heart failure phenotype
+echocardiogram	reveals	structural changes
+echocardiogram	correlates	with symptoms
+echocardiogram	supports	diagnosis of valvular disease
+echocardiogram	rules out	abnormal anatomy
+echocardiogram	documents	cardiac function
+echocardiogram	records	measurements
+echocardiogram	measures	fractional shortening
+echocardiogram	assesses	pulmonary venous flow
+echocardiogram	evaluates	LV remodeling
+echocardiogram	detects	LV outflow tract obstruction
+echocardiogram	identifies	mitral valve prolapse
+echocardiogram	identifies	aortic valve sclerosis
+echocardiogram	assesses	aortic root size
+echocardiogram	estimates	pulmonary artery pressure
+echocardiogram	detects	intracardiac shunt
+echocardiogram	delineates	cardiac anatomy
+echocardiogram	characterizes	cardiomyopathy type
+echocardiogram	supports	acute coronary syndrome assessment
+echocardiogram	screens	structural disease
+echocardiogram	enables	serial measurements
+echocardiogram	influences	discharge decisions
+echocardiogram	integrates	with other imaging
+echocardiogram	aids	clinical decision making
+echocardiogram	supports	valve disease management
+echocardiogram	enables	serial assessment
+echocardiogram	used for	long-term follow-up
+echocardiogram	used for	serial assessment of function
+echocardiogram	monitors	LV remodeling progression
+echocardiogram	enhances	diagnostic accuracy
+echocardiogram	enables	patient risk stratification

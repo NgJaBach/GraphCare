@@ -1,0 +1,100 @@
+swan-ganz catheterization	is a	medical procedure
+swan-ganz catheterization	used for	hemodynamic monitoring
+swan-ganz catheterization	provides	real-time data
+swan-ganz catheterization	measures	pulmonary artery pressure
+swan-ganz catheterization	measures	pulmonary capillary wedge pressure
+swan-ganz catheterization	measures	right atrial pressure
+swan-ganz catheterization	measures	cardiac output
+swan-ganz catheterization	measures	mixed venous oxygen saturation
+swan-ganz catheterization	monitors	hemodynamics
+swan-ganz catheterization	guides	fluid management
+swan-ganz catheterization	guides	vasopressor therapy
+swan-ganz catheterization	indicated for	shock evaluation
+swan-ganz catheterization	indicated for	heart failure assessment
+swan-ganz catheterization	indicated for	cardiogenic shock
+swan-ganz catheterization	indicated for	acute pulmonary edema
+swan-ganz catheterization	indicated for	postoperative instability
+swan-ganz catheterization	contraindicated in	severe coagulopathy
+swan-ganz catheterization	contraindicated in	active infection at insertion site
+swan-ganz catheterization	risks	infection
+swan-ganz catheterization	risks	bleeding
+swan-ganz catheterization	risks	thrombosis
+swan-ganz catheterization	risks	arrhythmia
+swan-ganz catheterization	risks	pneumothorax
+swan-ganz catheterization	risks	balloon rupture
+swan-ganz catheterization	risks	catheter misplacement
+swan-ganz catheterization	complications	catheter dislodgement
+swan-ganz catheterization	requires	balloon inflation
+balloon inflation	enables	wedge pressure measurement
+balloon-tipped catheter	is component of	swan-ganz catheterization
+swan-ganz catheterization	is part of	cardiac catheterization
+pulmonary capillary wedge pressure	reflects	left atrial pressure
+pulmonary capillary wedge pressure	surrogate for	left atrial pressure
+cardiac output	derived from	thermodilution
+cardiac output	estimated by	thermodilution
+thermodilution	method for	cardiac output measurement
+mixed venous oxygen saturation	indicates	systemic oxygen delivery
+right atrial pressure	correlates with	preload
+left atrial pressure	correlates with	preload
+pulmonary artery pressure	reflects	right heart afterload
+pulmonary arterial catheterization	is a type of	swan-ganz catheterization
+swan-ganz catheterization	used for	preload assessment
+swan-ganz catheterization	used for	afterload assessment
+swan-ganz catheterization	used in	ICU management
+central venous catheter	alternatives to	swan-ganz catheterization
+noninvasive monitors	alternatives to	swan-ganz catheterization
+swan-ganz catheterization	associated with	longer length of stay
+swan-ganz catheterization	associated with	ICU mortality
+swan-ganz catheterization	associated with	hospital mortality
+swan-ganz catheterization	associated with	readmission
+swan-ganz catheterization	associated with	sepsis risk
+swan-ganz catheterization	predicts	adverse outcomes
+swan-ganz catheterization	affects	fluid balance
+swan-ganz catheterization	influences	diuretic therapy
+swan-ganz catheterization	enables	invasive hemodynamic optimization
+balloon-tipped catheter	allows	wedge pressure measurement
+pulmonary arterial catheterization	synonyms for	swan-ganz catheterization
+catheter-related bloodstream infection	is a	complication of swan-ganz catheterization
+insertion site infection	is a	complication of swan-ganz catheterization
+swan-ganz catheterization	used during	major surgery
+swan-ganz catheterization	requires	sterile technique
+sterile technique	enables	safe catheterization
+swan-ganz catheterization	followed by	catheter removal
+catheter removal	follows	stabilization
+stabilization	precedes	catheter removal
+swan-ganz catheterization	used for	preload assessment
+swan-ganz catheterization	used for	afterload assessment
+swan-ganz catheterization	used for	cardiovascular optimization
+swan-ganz catheterization	provides	continuous hemodynamic data
+pulmonary artery pressure	measured by	swan-ganz catheterization
+right atrial pressure	measured by	swan-ganz catheterization
+left atrial pressure	estimated by	pulmonary capillary wedge pressure
+cardiac output	monitored for	shock management
+oxygen delivery	linked to	mixed venous oxygen saturation
+arterial blood gas	complements	swan-ganz catheterization data
+swan-ganz catheterization	informs	resuscitation strategy
+swan-ganz catheterization	contributes to	prognostic assessment
+swan-ganz catheterization	observed in	cardiogenic shock patients
+swan-ganz catheterization	used in	perioperative care
+swan-ganz catheterization	used for	cardiac index measurement
+cardiac index	derived from	cardiac output
+cardiac output	assessed by	thermodilution
+thermodilution	technique for	cardiac output assessment
+mixed venous oxygen saturation	affected by	hemoglobin level
+hemoglobin level	affects	mixed venous oxygen saturation
+swan-ganz catheterization	associated with	catheter-related infection risk
+infection risk	mitigated by	sterile technique
+sterile technique	reduces	infection risk
+swan-ganz catheterization	requires	operator expertise
+operator expertise	improves	catheter safety
+swan-ganz catheterization	used in	critical care units
+critical care units	provide	monitoring equipment
+swan-ganz catheterization	enhances	hemodynamic-guided therapy
+hemodynamic-guided therapy	leads to	targeted fluid therapy
+targeted fluid therapy	reduces	fluid overload
+shock management	relies on	hemodynamic monitoring
+hemodynamic monitoring	supports	resuscitation decisions
+swan-ganz catheterization	improves	diagnostic accuracy in shock
+swan-ganz catheterization	used for	advanced hemodynamic monitoring
+advanced hemodynamic monitoring	enables	precision therapy
+swan-ganz catheterization	influences	therapeutic decisions

@@ -1,100 +1,100 @@
-E codes	indicate	external causes
-E codes	classify	external cause
-E codes	code for	injury
-E codes	code for	poisoning
-E codes	map to	ICD system
-E codes	used in	discharge data
-E codes	correlate with	mortality
-E codes	predict	readmission
-E codes	associated with	accident
-E codes	reflect	mechanism
-external causes	include	injuries
-external causes	common in	traffic accident
-external causes	linked to	hospitalization
-injury	coded by	E code
-poisoning	coded by	E code
-fall	coded by	E code
-burn	coded by	E code
-overdose	coded by	E code
-drowning	coded by	E code
-assault	coded by	E code
-E codes	used to	categorize injuries
-E codes	used for	billing
-E codes	support	public health surveillance
-E codes	facilitate	trend analysis
-E codes	augment	coding accuracy
-E codes	enable	risk adjustment
-E codes	influence	reimbursement policy
-ICD system	includes	E codes
-ICD system	provides	external cause categories
-ICD system	updated by	coding guidelines
-coding guidelines	define	E codes usage
-coding guidelines	specify	unspecified codes
-E codes	allow	data standardization
-external cause	drive	injury severity
-injury	affects	length of stay
-injury	increases	readmission risk
-poisoning	increases	mortality risk
-fall	increases	fracture risk
-burn	increases	complication rate
-overdose	increases	ICU admission
-drowning	increases	mortality
-E codes	contribute to	patient safety monitoring
-E codes	used in	claims data
-E codes	rely on	accurate documentation
-documentation	supports	E code coding
-claims data	used for	safety surveillance
-surveillance	improves	reporting accuracy
-reporting	drives	billing accuracy
-billing	influences	coverage decisions
-admission	driven by	external causes
-length of stay	determines	discharge destination
-readmission	associated with	discharge planning quality
-discharge planning	affects	readmission risk
-readmission risk	correlates with	discharge delay
-coding error	impacts	data quality
-data quality	affects	predictive performance
-predictive performance	relates to	data completeness
-completeness	affects	accuracy
-accuracy	improves	prediction reliability
-missing data	degrade	model performance
-E codes	reflect	population risk
-population risk	informs	resource allocation
-resource allocation	affects	service delivery
-service delivery	influences	patient flow
-patient flow	impacts	bed occupancy
-bed occupancy	affects	hospital throughput
-hospital throughput	relates to	admission rate
-admission rate	predicts	readmission risk
-readmission risk	drives	care coordination
-care coordination	improves	outcomes
-outcomes	tracked by	E codes
-E codes	bolster	epidemiology
-epidemiology	supports	health policy
-health policy	guided by	injury data
-injury data	feed	ICD coding updates
-ICD coding updates	improve	coding accuracy
-coding accuracy	enhances	reimbursement decisions
-reimbursement decisions	depend on	coding accuracy
-coding system	standardizes	coding across institutions
-coding across institutions	enables	data pooling
-data pooling	enables	comparative research
-comparative research	informs	resource planning
-resource planning	supports	capacity planning
-capacity planning	reduces	wait times
-wait times	reflect	patient backlog
-wait times	correlate with	E code usage
-E code usage	varies by	region
-region	influence	coding practices
-coding practices	affect	documentation quality
-documentation quality	drives	compliance
-compliance	impacts	audit outcome
-audit outcome	influences	penalties
-penalties	motivate	coding accuracy
-awareness campaign	improve	documentation
-documentation	supports	legal compliance
-legal compliance	reduces	liability risk
-liability risk	affects	insurance premiums
-insurance premiums	depend on	coding accuracy
-coding accuracy	reduces	billing errors
-billing errors	cause	claim denial
+e-code	is a	external-cause-code
+e-code	codes for	accident
+e-code	codes for	injury
+e-code	codes for	poisoning
+e-code	codes for	burn
+e-code	codes for	drowning
+e-code	codes for	fall
+e-code	codes for	fire-related-injury
+e-code	codes for	motor-vehicle-accident
+e-code	codes for	pedestrian-accident
+e-code	codes for	firearm-injury
+e-code	codes for	sports-injury
+e-code	codes for	industrial-hazard
+e-code	codes for	chemical-exposure
+e-code	codes for	poisoning-by-drug
+e-code	codes for	suicide-attempt
+e-code	associated-with	mortality
+e-code	associated-with	morbidity
+e-code	associated-with	readmission
+e-code	associated-with	hospital-stay
+e-code	associated-with	icu-admission
+e-code	associated-with	length-of-stay
+e-code	associated-with	discharge-destination
+e-code	associated-with	emergency-visit
+e-code	associated-with	resource-use
+e-code	associated-with	healthcare-costs
+e-code	predicts	mortality
+e-code	predicts	readmission
+e-code	predicts	icu-admission
+e-code	predicts	length-of-stay
+e-code	indicates	injury-mechanism
+e-code	indicates	intent
+e-code	indicates	circumstance
+e-code	denotes	transport-accident
+e-code	denotes	fall
+e-code	denotes	burn
+e-code	denotes	drowning
+e-code	denotes	vehicle-crash
+e-code	denotes	poisoning-type
+e-code	denotes	blunt-trauma
+e-code	denotes	penetrating-injury
+e-code	maps-to	external-cause-category
+e-code	maps-to	injury-type
+e-code	maps-to	code-set
+e-code	maps-to	ICD-system
+e-code	present-in	medical-record
+e-code	present-in	discharge-summary
+e-code	part-of	ICD-system
+e-code	included-in	ICD-9-CM
+e-code	included-in	ICD-10-CM
+e-code	used-in	public-health-surveillance
+e-code	used-for	injury-prevention-research
+e-code	used-for	injury-etiology
+e-code	used-for	health-outcome-prediction
+e-code	used-for	administrative-documentation
+e-code	used-for	billing-coding
+e-code	observed-in	hospital-admission
+e-code	observed-in	emergency-department-visit
+e-code	observed-in	trauma-center-visit
+e-code	recorded-as	injury-type
+e-code	recorded-as	accident-type
+e-code	recorded-as	event-type
+e-code	recorded-as	case-type
+e-code	classified-as	external-cause
+e-code	classified-as	accident-category
+e-code	classified-as	injury-category
+e-code	classified-as	event-type
+e-code	calculated-in	incident-rate
+e-code	used-in	epidemiology-research
+e-code	used-in	health-services-research
+e-code	referenced-in	coding-guidelines
+e-code	aligned-with	coding-standards
+e-code	compatible-with	clinical-documentation
+e-code	compatible-with	emergency-care
+e-code	reliant-on	accurate-records
+e-code	dependent-on	administrative-data
+e-code	supported-by	coding-ethics
+e-code	validated-by	coding-audit
+e-code	audited-with	chart-review
+e-code	relevant-to	patient-safety
+e-code	relevant-to	risk-stratification
+e-code	relevant-to	triage-protocol
+e-code	relevant-to	discharge-planning
+e-code	linked-with	injury-outcome
+e-code	linked-with	morbidity-mortality
+e-code	linked-with	resource-allocation
+e-code	linked-with	rehab-planning
+e-code	linked-with	preventable-injury
+e-code	associated-with	seasonality
+e-code	associated-with	weather-condition
+e-code	associated-with	alcohol-use
+e-code	associated-with	drug-use
+e-code	associated-with	smoking-status
+e-code	associated-with	occupational-exposure
+e-code	associated-with	age-at-injury
+e-code	associated-with	sex
+e-code	associated-with	ethnicity
+e-code	associated-with	socioeconomic-status
+e-code	associated-with	urban-rural-status
+e-code	associated-with	comorbidity-burden

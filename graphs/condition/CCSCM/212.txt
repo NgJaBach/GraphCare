@@ -1,0 +1,100 @@
+osteoporosis	is a	bone disease
+osteoarthritis	is a	degenerative joint disease
+scoliosis	is a	musculoskeletal deformity
+kyphosis	is a	spinal deformity
+lordosis	is a	spinal deformity
+rickets	is a	bone disease
+osteomalacia	is a	bone disease
+paget disease of bone	is a	bone remodeling disorder
+fibrous dysplasia	is a	bone disorder
+osteogenesis imperfecta	is a	bone fragility disorder
+avascular necrosis	is a	bone condition
+osteoporosis	increases risk of	fracture
+osteoporosis	is treated with	bisphosphonates
+osteoporosis	is diagnosed by	dex a
+rickets	causes	bone deformity
+osteomalacia	leads to	hypocalcemia
+paget disease of bone	presents with	bone pain
+paget disease of bone	causes	bone deformity
+fibrous dysplasia	presents with	bone deformity
+osteogenesis imperfecta	presents with	frequent fractures
+osteogenesis imperfecta	has inheritance pattern	autosomal dominant
+osteomyelitis	is a	bone infection
+osteomyelitis	diagnosed by	imaging
+osteomyelitis	treated with	antibiotics
+rheumatoid arthritis	is a	autoimmune joint disease
+rheumatoid arthritis	causes	joint deformity
+gout	is a	metabolic arthritis
+gout	associated with	hyperuricemia
+ankylosing spondylitis	is a	inflammatory spine disease
+ankylosing spondylitis	leads to	spinal fusion
+dupuytren contracture	is a	hand deformity
+clubfoot	is a	congenital deformity
+pes planus	is a	foot deformity
+hallux valgus	is a	toe deformity
+genu valgum	is a	knee deformity
+genu varum	is a	knee deformity
+pes cavus	is a	foot deformity
+osteoporosis	increases risk of	hip fracture
+vertebral compression fracture	is a consequence of	osteoporosis
+hip fracture	is a consequence of	osteoporosis
+bone density	is decreased by	aging
+vitamin d deficiency	is a risk factor for	osteomalacia
+hypocalcemia	occurs in	osteomalacia
+parathyroid hormone	regulates	calcium
+calcium	is essential for	bone mineralization
+phosphate	is required for	bone mineralization
+bone mineral density	is used to assess	osteoporosis risk
+dexa	is used to measure	bone mineral density
+bone turnover markers	are used for	monitoring osteoporosis
+denosumab	is used for	osteoporosis
+teriparatide	is used for	osteoporosis
+calcium carbonate	is used for	osteoporosis treatment
+bisphosphonates	inhibit	osteoclast activity
+physical therapy	improves	mobility
+bracing	is used for	scoliosis
+surgery	is used for	deformity correction
+bone graft	is used for	fracture repair
+orthopedic implant	is used for	joint replacement
+joint replacement	is a treatment for	osteoarthritis
+knee replacement	is a treatment for	osteoarthritis
+hip replacement	is a treatment for	osteoarthritis
+osteomyelitis	is caused by	bacteria
+traumatic fracture	is a consequence of	accident
+osteoporosis	can cause	vertebral height loss
+osteopenia	is a	low bone density state
+hypophosphatasia	is a	bone disorder
+parathyroid disease	is a	bone disorder
+estrogen deficiency	causes	osteoporosis
+menopause	accelerates	bone loss
+smoking	is a risk factor for	osteoporosis
+alcohol	is a risk factor for	osteoporosis
+immobility	worsens	bone loss
+bone loss	increases risk of	fracture
+bone pain	is a symptom of	osteoporosis
+joint stiffness	is a symptom of	osteoarthritis
+morning stiffness	is a symptom of	rheumatoid arthritis
+erosion	is a radiographic finding in	rheumatoid arthritis
+subluxation	is a complication of	rheumatoid arthritis
+bone cyst	is a lesion of	bone
+bone tumor	is a lesion of	bone
+osteoporosis	is common in	elderly
+juvenile idiopathic arthritis	is a	autoimmune joint disease
+bone density	decreases with	age
+paget disease of bone	can cause	deafness
+osteoid osteoma	is a	benign bone tumor
+osteopetrosis	is a	bone density disorder
+frailty	increases risk of	falls
+falls	lead to	fracture
+aging	reduces	bone density
+bone healing	is slower in	osteoporosis
+vertebral fracture	increases	height loss
+height loss	indicates	vertebral fracture
+bone remodeling	is altered in	paget disease
+bone turnover	is affected by	osteoporosis
+calcium homeostasis	is regulated by	parathyroid hormone
+sun exposure	influences	vitamin d synthesis
+kidney function	affects	vitamin d activation
+diet	influences	bone health
+weight-bearing exercise	improves	bone density
+orthotics	reduces	deformity progression

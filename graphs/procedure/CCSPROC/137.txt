@@ -1,0 +1,98 @@
+cesarean section	is a	surgical procedure
+cesarean section	used for	delivery
+cesarean section	indicated for	fetal distress
+cesarean section	indicated for	placenta previa
+cesarean section	indicated for	breech presentation
+episiotomy	is a	obstetric procedure
+episiotomy	used for	enlarging vaginal opening
+episiotomy	associated with	infection risk
+episiotomy	increases	perineal trauma
+forceps delivery	is a	obstetric procedure
+forceps delivery	used for	expedited delivery
+forceps delivery	associated with	perineal trauma
+forceps delivery	requires	maternal cooperation
+vacuum extraction	is a	obstetric procedure
+vacuum extraction	used for	malpresentation
+vacuum extraction	associated with	scalp injury
+operative vaginal delivery	is a	obstetric procedure
+operative vaginal delivery	used for	rapid delivery
+amniotomy	is a	obstetric procedure
+amniotomy	performed to	hasten delivery
+artificial rupture of membranes	is a	obstetric procedure
+artificial rupture of membranes	used to	augment labor
+induction of labor	is a	obstetric procedure
+induction of labor	used for	post-term pregnancy
+augmentation of labor	is a	obstetric procedure
+augmentation of labor	uses	oxytocin infusion
+external cephalic version	is a	obstetric procedure
+external cephalic version	performed for	malpresentation
+external cephalic version	contraindicated for	placenta previa
+internal version	is a	obstetric procedure
+internal version	used for	malpresentation
+epidural anesthesia	provides	analgesia during labor
+epidural anesthesia	used for	labor analgesia
+spinal anesthesia	provides	anesthesia during cesarean
+pudendal block	provides	perineal analgesia
+continuous fetal monitoring	is a	obstetric monitoring method
+electronic fetal monitoring	is a	fetal monitoring method
+intrauterine pressure catheter	is a	fetal monitoring device
+fetal scalp electrode	is a	fetal monitoring device
+external cephalic version	reduces	cesarean section rate
+shoulder dystocia management	is a	obstetric emergency procedure
+McRoberts maneuver	is a	obstetric maneuver
+McRoberts maneuver	used for	shoulder dystocia
+suprapubic pressure	is a	obstetric maneuver
+suprapubic pressure	used for	shoulder dystocia
+cord traction	is a	obstetric maneuver
+cord traction	used for	placental delivery
+manual rotation	is a	obstetric technique
+manual rotation	used for	malpresentation
+internal podalic version	is a	obstetric procedure
+internal podalic version	used for	breech delivery
+breech delivery	is a	delivery method
+breech extraction	is a	obstetric procedure
+breech extraction	performed for	breech presentation
+cord clamping	is a	obstetric procedure
+delayed cord clamping	is a	obstetric practice
+cord blood sampling	is a	obstetric procedure
+amnioinfusion	is a	obstetric procedure
+amnioinfusion	used for	oligohydramnios
+cervical membrane stripping	is a	labor induction method
+cervical membrane stripping	used for	labor induction
+uterine scar	increases	placenta accreta risk
+placenta accreta	associated with	cesarean section
+placenta previa	increases	cesarean section rate
+episiotomy	associated with	perineal pain
+forceps delivery	increases	risk of maternal pelvic floor injury
+vacuum extraction	increases	risk of scalp injury
+amniotomy	increases	risk of infection
+induction of labor	associated with	uterine tachysystole
+external cephalic version	associated with	fetal bradycardia
+internal version	associated with	fetal distress
+cesarean section	associated with	adhesions
+epidural anesthesia	associated with	risk of hypotension
+spinal anesthesia	associated with	risk of hypotension
+pudendal block	provides	perineal analgesia
+perineal repair	is a	postpartum procedure
+manual placental removal	is a	postpartum procedure
+cord clamping timing	affects	newborn blood volume
+delayed cord clamping	is a	obstetric practice
+cord blood sampling	is a	obstetric procedure
+IUPC insertion	is a	fetal monitoring procedure
+IUPC insertion	used for	contraction assessment
+fetal position assessment	is a	obstetric assessment
+fetal position assessment	informs	delivery planning
+ultrasound guidance	is a	diagnostic aid
+ultrasound guidance	used for	external cephalic version
+fetal distress	is a	obstetric condition
+fetal distress	triggers	cesarean section
+tachysystole	is a	obstetric complication
+tachysystole	can cause	fetal distress
+fetal distress	leads to	cesarean section
+uterine atony	is a	obstetric complication
+uterine atony	treated with	uterotonic agents
+uterotonic agents	used for	uterine contraction augmentation
+oxytocin infusion	is a	pharmacologic agent
+oxytocin infusion	used for	labor augmentation
+continuous fetal monitoring	indicates	fetal distress
+epidural analgesia	increases	risk of maternal hypotension

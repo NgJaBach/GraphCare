@@ -1,99 +1,90 @@
-anxiety disorders	is a	psychiatric condition
-anxiety disorders	co-occurs with	depression
-anxiety disorders	co-occurs with	substance use disorder
-anxiety disorders	co-occurs with	post-traumatic stress disorder
-anxiety disorders	co-occurs with	obsessive-compulsive disorder
-anxiety disorders	co-occurs with	insomnia
-anxiety disorders	increases risk for	suicide attempt
-anxiety disorders	increases risk for	hospitalization
-anxiety disorders	increases risk for	emergency department visits
-anxiety disorders	increases risk for	chronic pain
-anxiety disorders	reduces	quality of life
-anxiety disorders	reduces	work productivity
-anxiety disorders	treated with	selective serotonin reuptake inhibitors
-anxiety disorders	treated with	serotonin-norepinephrine reuptake inhibitors
-anxiety disorders	treated with	benzodiazepines
-anxiety disorders	treated with	cognitive behavioral therapy
-anxiety disorders	treated with	exposure therapy
-anxiety disorders	treated with	mindfulness-based therapy
-anxiety disorders	treated with	antidepressants
-anxiety disorders	treated with	psychotherapy
-anxiety disorders	diagnosed by	DSM-5 criteria
-generalized anxiety disorder	is a subtype of	anxiety disorders
-panic disorder	is a type of	anxiety disorders
-social anxiety disorder	is a type of	anxiety disorders
-agoraphobia	is a type of	anxiety disorders
-specific phobia	is a type of	anxiety disorders
-anxiety disorders	more prevalent in	females
-anxiety disorders	more prevalent in	adolescents
-anxiety disorders	more prevalent in	elderly
-anxiety disorders	associated with	metabolic syndrome
-anxiety disorders	associated with	cardiovascular disease
-anxiety disorders	associated with	hypertension
-anxiety disorders	associated with	diabetes mellitus
-anxiety disorders	associated with	obesity
-anxiety disorders	associated with	sleep disturbance
-anxiety disorders	associated with	inflammation
-anxiety disorders	associated with	immune activation
-anxiety disorders	increases	healthcare utilization
-anxiety disorders	increases	medical costs
-anxiety disorders	predicts	poor treatment response
-anxiety disorders	predicts	relapse after treatment
-anxiety disorders	co-occurs with	alcohol use disorder
-anxiety disorders	co-occurs with	nicotine dependence
-anxiety disorders	co-occurs with	cannabis use disorder
-anxiety disorders	co-occurs with	irritable bowel syndrome
-anxiety disorders	co-occurs with	fibromyalgia
-anxiety disorders	co-occurs with	chronic fatigue syndrome
-anxiety disorders	co-occurs with	migraine
-anxiety disorders	reduces	sleep efficiency
-anxiety disorders	improves with	cognitive behavioral therapy
-anxiety disorders	improves with	exercise
-anxiety disorders	associated with	cortisol elevation
-anxiety disorders	associated with	autonomic arousal
-anxiety disorders	associated with	HPA axis activation
-anxiety disorders	affects	attention
-anxiety disorders	affects	memory
-anxiety disorders	reduces	health-related quality of life in chronic illness
-anxiety disorders	is influenced by	social support
-anxiety disorders	influenced by	socioeconomic stress
-anxiety disorders	associated with	unemployment
-anxiety disorders	associated with	caregiver burden
-anxiety disorders	associated with	health-related quality of life impairment
-anxiety disorders	is more common in	low socioeconomic status
-anxiety disorders	improves with	physical activity
-anxiety disorders	improves with	sleep hygiene
-anxiety disorders	reduces	cortisol response to stress
-anxiety disorders	predicts	psychopathology risk
-panic disorder	treated with	SSRI
-panic disorder	treated with	SNRI
-panic disorder	treated with	benzodiazepines
-generalized anxiety disorder	treated with	CBT
-generalized anxiety disorder	treated with	SSRI
-generalized anxiety disorder	treated with	SNRI
-specific phobia	treated with	exposure therapy
-social anxiety disorder	treated with	CBT
-agoraphobia	treated with	exposure therapy
-agoraphobia	treated with	behavioral therapy
-anxiety disorders	is associated with	autoimmune disease
-anxiety disorders	is associated with	thyroid disease
-anxiety disorders	predisposes to	accidents
-anxiety disorders	is associated with	unemployment
-anxiety disorders	is associated with	sleep apnea
-anxiety disorders	is diagnosed by	structured interview
-anxiety disorders	is diagnosed by	clinical assessment
-anxiety disorders	is influenced by	social support
-anxiety disorders	is associated with	age of onset
-anxiety disorders	associated with	early onset of psychiatric illness
-anxiety disorders	can respond to	pharmacotherapy
-anxiety disorders	preventable with	early intervention
-anxiety disorders	is associated with	resilience factors
-anxiety disorders	is common in	primary care
-anxiety disorders	treated with	pharmacotherapy
-anxiety disorders	associated with	sleep architecture
+anxiety disorders	is a	mental disorder
+anxiety disorders	is treated with	cognitive behavioral therapy
+anxiety disorders	is treated with	SSRIs
+anxiety disorders	is treated with	SNRIs
+anxiety disorders	is treated with	benzodiazepines
+anxiety disorders	is treated with	buspirone
+anxiety disorders	is treated with	exposure therapy
+anxiety disorders	is diagnosed with	DSM-5 criteria
+anxiety disorders	is diagnosed by	psychiatrist
+anxiety disorders	is associated with	sleep disturbance
+anxiety disorders	is associated with	insomnia
+anxiety disorders	is associated with	autonomic arousal
+anxiety disorders	is associated with	hypervigilance
+anxiety disorders	is associated with	rumination
+anxiety disorders	is associated with	excessive worry
+anxiety disorders	co-occur with	major depressive disorder
+anxiety disorders	co-occur with	obsessive-compulsive disorder
+anxiety disorders	co-occur with	PTSD
+anxiety disorders	co-occur with	ADHD
+anxiety disorders	co-occur with	substance use disorder
+anxiety disorders	co-occur with	eating disorder
+anxiety disorders	increases risk of	suicidality
+anxiety disorders	increases risk of	suicidal ideation
+anxiety disorders	increases risk of	self-harm
+anxiety disorders	increases risk of	healthcare utilization
+anxiety disorders	is associated with	depressive symptoms
+anxiety disorders	is associated with	quality of life impairment
+anxiety disorders	is associated with	social withdrawal
+anxiety disorders	is associated with	sleep fragmentation
+anxiety disorders	has prevalence in	general population
+anxiety disorders	is more prevalent in	females
+anxiety disorders	onset typically in	adolescence
+anxiety disorders	onset typically during	adolescence
+anxiety disorders	is prevalent in	urban populations
+anxiety disorders	is prevalent in	young adults
+anxiety disorders	has genetic component
+anxiety disorders	influenced by	environmental factors
+anxiety disorders	influenced by	childhood trauma
+anxiety disorders	associated with	cortisol dysregulation
 anxiety disorders	associated with	inflammatory markers
-anxiety disorders	associated with	elevated cortisol
-anxiety disorders	associated with	adrenergic activation
-anxiety disorders	common in	women
-anxiety disorders	leads to	impairment in daily living
-anxiety disorders	is associated with	autoimmune disease
+anxiety disorders	associated with	amygdala hyperreactivity
+anxiety disorders	associated with	prefrontal cortex hypoactivity
+anxiety disorders	associated with	hippocampal changes
+anxiety disorders	associated with	autonomic nervous system activation
+anxiety disorders	associated with	gut-brain axis alterations
+anxiety disorders	is treated with	CBT
+anxiety disorders	is treated with	pharmacotherapy
+anxiety disorders	is managed with	psychoeducation
+anxiety disorders	is managed with	mindfulness training
+anxiety disorders	is managed with	lifestyle modification
+anxiety disorders	is associated with	somatic symptoms
+anxiety disorders	is associated with	GI symptoms
+anxiety disorders	presents with	panic attacks
+anxiety disorders	presents with	phobic avoidance
+anxiety disorders	presents with	anticipatory anxiety
+anxiety disorders	presents with	social anxiety symptoms
+anxiety disorders	presents with	somatic complaints
+anxiety disorders	presents with	irritability
+anxiety disorders	presents with	fatigue
+anxiety disorders	presents with	sleep disturbance
+anxiety disorders	presents with	social impairment
+anxiety disorders	presents with	memory impairment
+anxiety disorders	presents with	mood disturbance
+anxiety disorders	presents with	cognitive bias
+anxiety disorders	is a risk factor for	alcohol use disorder
+anxiety disorders	is a risk factor for	nicotine dependence
+anxiety disorders	is a risk factor for	compulsive behaviors
+anxiety disorders	is a risk factor for	obesity
+anxiety disorders	is a risk factor for	metabolic syndrome
+anxiety disorders	is a target for	digital health interventions
+anxiety disorders	is common in	college students
+anxiety disorders	is common in	healthcare workers
+anxiety disorders	is common in	refugees
+anxiety disorders	is a feature of	anxiety spectrum
+anxiety disorders	is a target of	preventive programs
+anxiety disorders	occurs with	somatic symptom disorder
+anxiety disorders	is present in	psychiatric clinics
+anxiety disorders	is present in	primary care
+anxiety disorders	is present in	outpatient settings
+anxiety disorders	contributes to	sick leave
+anxiety disorders	contributes to	disability
+anxiety disorders	contributes to	reduced life expectancy
+anxiety disorders	is a focus of	cognitive-behavioral interventions
+anxiety disorders	is a focus of	mental health policy
+anxiety disorders	is common in	people with chronic disease
+anxiety disorders	is more common in	low socioeconomic status
+anxiety disorders	is a predictor of	treatment adherence
+anxiety disorders	is a predictor of	medical outcomes
+anxiety disorders	is a predictor of	hospitalization
+anxiety disorders	can present with	panic attacks

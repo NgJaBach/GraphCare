@@ -1,0 +1,100 @@
+other acquired deformities	is a	orthopaedic deformity
+other acquired deformities	associated with	trauma
+other acquired deformities	associated with	immobilization
+other acquired deformities	caused by	burns
+other acquired deformities	caused by	infections
+other acquired deformities	caused by	fractures
+other acquired deformities	related to	scar tissue
+scar tissue	predispose to	contracture
+scar tissue	predispose to	deformity
+other acquired deformities	predispose to	functional limitation
+other acquired deformities	predispose to	disability
+other acquired deformities	predispose to	pain
+other acquired deformities	increases risk of	falls
+other acquired deformities	lead to	gait disturbance
+other acquired deformities	lead to	balance impairment
+other acquired deformities	cause	muscle atrophy
+contracture	results in	restricted motion
+joint contracture	results in	reduced range of motion
+bone malunion	leads to	limb deformity
+bone malunion	causes	gait disturbance
+bone deformity	seen in	prior fracture
+limb deformity	treated with	corrective osteotomy
+limb deformity	associated with	abnormal gait
+kyphosis	seen in	elderly population
+kyphosis	associated with	osteoporosis
+scoliosis	seen in	adolescents
+bone spur	causes	impingement
+tendon adhesion	results in	restricted movement
+tendon adhesion	treated with	tenolysis
+joint stiffness	associated with	arthritis
+joint stiffness	leads to	reduced range of motion
+soft tissue deformity	associated with	edema
+scar contracture	leads to	deformity
+scar contracture	limits	joint motion
+fibrosis	associated with	contracture
+fibrosis	causes	stiffness
+callus formation	leads to	deformity progression
+malunion	due to	improper alignment
+improper alignment	causes	deformity
+nerve injury	causes	muscle imbalance
+muscle imbalance	leads to	deformity
+vascular insufficiency	leads to	tissue necrosis
+post-traumatic deformity	occurs after	fracture
+post-traumatic deformity	leads to	chronic pain
+post-surgical deformity	associated with	scar
+bone shortening	causes	limb length discrepancy
+limb length discrepancy	leads to	gait abnormality
+bone demineralization	predispose to	fracture
+osteopenia	predispose to	fracture
+osteoporosis	predispose to	fracture
+diabetes mellitus	associated with	foot deformity
+diabetic neuropathy	causes	foot deformity
+diabetic neuropathy	leads to	ulceration
+nerve compression	causes	deformity
+vascular disease	associated with	tissue loss
+diabetic foot	associated with	ulceration
+diabetic foot	predispose to	infection
+neural compression	leads to	sensory loss
+nerve palsy	causes	foot drop
+foot drop	results in	toe drag
+ankle deformity	leads to	instability
+ankle deformity	requires	orthosis
+calcaneal deformity	causes	heel pain
+midfoot deformity	leads to	arch collapse
+arch collapse	causes	flatfoot
+flatfoot	predispose to	ankle strain
+hallux valgus	seen in	adults
+hallux valgus	associated with	footwear
+toe deformity	results in	gait alteration
+shortened limb	leads to	gait imbalance
+limb length discrepancy	associated with	scoliosis
+muscle contracture	predispose to	deformity progression
+scar	associated with	contracture
+fascial thickening	leads to	contracture
+bone remodeling	follows	fracture
+osteotomy	corrects	limb deformity
+external fixator	used for	deformity correction
+intramedullary device	corrects	bone deformity
+bracing	manages	scoliosis
+physical therapy	improves	gait
+orthotics	support	foot deformity
+arthrodesis	addresses	joint deformity
+prosthesis	replaces	limb function
+joint fusion	addresses	joint deformity
+cast immobilization	treats	deformity
+cast immobilization	prevents	progression
+arthroplasty	corrects	joint deformity
+scoliosis brace	used for	scoliosis
+orthosis	reduces	deformity progression
+corrective surgery	improves	limb alignment
+amputation	reserved for	severe deformity
+prosthesis	restores	mobility
+nerve decompression	relieves	deformity-related pain
+rehabilitation	enhances	functional outcome
+weight-bearing therapy	influences	deformity progression
+cast	stabilizes	fracture deformity
+external immobilization	prevents	further deformity
+bone graft	supports	bone healing
+bone remodeling	yields	improved symmetry
+alignment correction	yields	gait improvement

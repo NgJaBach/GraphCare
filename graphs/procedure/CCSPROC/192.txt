@@ -1,0 +1,134 @@
+diagnostic ultrasound of head and neck	is a	imaging modality
+head and neck	is evaluated by	diagnostic ultrasound of head and neck
+thyroid gland	is a	endocrine gland
+thyroid nodule	is a	lesion
+thyroid nodule	detected by	ultrasound
+thyroid nodule	shows	microcalcifications
+thyroid nodule	shows	irregular margins
+thyroid nodule	shows	taller-than-wide shape
+thyroid nodule	has	hypoechogenicity
+thyroid nodule	associated with	malignancy risk
+thyroid nodule	suspicious for	cancer
+thyroid nodule	recommended test	fine-needle aspiration
+thyroid nodule	managed by	surveillance
+thyroid nodule	risk assessment	TI-RADS category
+thyroid nodule	evaluated by	ultrasound-guided fine-needle aspiration
+thyroid nodule	yields	cytology result
+cytology result	indicates	malignancy
+papillary carcinoma	diagnosed by	cytology
+cervical lymph node	is a	structure
+cervical lymph node	evaluated by	ultrasound
+cervical lymph node	size measured for	short-axis diameter
+cervical lymph node	shows	loss of hilum
+cervical lymph node	shows	necrosis
+cervical lymph node	shows	calcifications
+cervical lymph node	shows	rounded morphology
+cervical lymph node	suspicious for	metastasis
+cervical lymph node	indicates	nodal metastasis
+cervical lymph node	demonstrates	cortical thickening
+cervical lymph node	demonstrates	cystic change
+carotid artery	is a	artery
+carotid artery	evaluated by	duplex ultrasound
+carotid artery	shows	plaque
+carotid artery	has	stenosis
+stenosis	graded as	moderate
+stenosis	associated with	hemodynamic significance
+internal carotid artery	evaluated for	flow velocity
+flow velocity	measured by	duplex ultrasound
+plaque	causes	luminal narrowing
+vessel	measured for	luminal diameter
+vessel	evaluated for	tortuosity
+vessel	shows	turbulent flow
+parotid gland	is a	salivary gland
+parotid gland	evaluated for	sialolithiasis
+parotid gland	contains	pleomorphic adenoma
+parotid gland	contains	Warthin tumor
+parotid gland mass	is a	lesion
+parotid gland mass	evaluated for	malignancy
+parotid gland mass	shows	irregular margins
+parotid gland mass	shows	increased vascularity
+submandibular gland	is a	salivary gland
+submandibular gland	evaluated for	sialolithiasis
+submandibular gland	contains	sialoliths
+sialolith	located in	submandibular duct
+sialolith	detected by	ultrasound
+duct	shows	dilation
+ductal dilation	observed in	submandibular duct
+sialadenitis	observed in	submandibular gland
+sialadenitis	associated with	ductal obstruction
+cyst	observed in	neck soft tissue
+neck	contains	soft tissue mass
+soft tissue mass	evaluated for	malignancy
+soft tissue mass	has	calcifications
+soft tissue mass	shows	vascularity
+hypoechogenic lesion	located in	neck region
+multicystic lesion	observed in	neck
+solid lesion	observed in	thyroid region
+cystic lesion	observed in	thyroid region
+thyroid nodule	contains	cystic component
+thyroid nodule	contains	solid component
+nodule	shows	microcalcifications
+nodule	shows	macrocalcifications
+nodule	demonstrates	irregular margins
+nodule	demonstrates	vascular flow
+nodule	grade	TI-RADS category
+TI-RADS category	informs	management plan
+ultrasound examination	assesses	parenchyma
+ultrasound examination	assesses	vascularity
+ultrasound examination	assesses	echogenicity
+ultrasound examination	assesses	margins
+ultrasound examination	assesses	shape
+ultrasound examination	assesses	size
+Doppler technique	used for	velocity assessment
+Doppler technique	evaluates	blood flow
+Doppler technique	assesses	peak systolic velocity
+Doppler technique	assesses	end-diastolic velocity
+ultrasound guided biopsy	is a	procedure
+biopsy	yields	tissue sample
+tissue sample	analyzed by	histology
+histology	reveals	malignancy type
+benign thyroid lesion	lacks	malignant features
+palpable neck lump	prompts	ultrasound referral
+ultrasound finding	guides	management decision
+management decision	based on	ultrasound findings
+follow-up imaging	scheduled for	six months
+stable lesion	remains	unchanged
+lesion	monitored with	ultrasound
+ultrasound surveillance	informs	prognosis
+prognosis	affected by	ultrasound characteristics
+thyroid cancer	risk predicted by	ultrasound features
+lymph node metastasis	risk predicted by	cervical lymph node features
+benign nodules	have	stable course
+thyroid nodule	reduces	need for surgery
+risk stratification	informs	biopsy decision
+background thyroiditis	mimics	nodules on ultrasound
+goiter	is a	thyroid enlargement
+thyroiditis	is a	thyroid inflammation
+Hashimoto thyroiditis	presents with	thyroid enlargement
+Graves disease	presents with	thyrotoxic symptoms
+neck mass	requires	imaging evaluation
+central neck compartment	assessed by	ultrasound
+lateral neck compartment	assessed by	ultrasound
+thyroglossal duct cyst	seen in	neck ultrasound
+ectopic thyroid tissue	identified by	ultrasound
+laryngeal nerve	visualized with	ultrasound
+airway compression	suggested by	neck ultrasound
+tracheal deviation	observed with	neck ultrasound
+vascular steal	avoided by	careful Doppler interpretation
+contrast-enhanced ultrasound	not routinely used for	head and neck
+portable ultrasound	enables	bedside assessment
+telemedicine ultrasound	supports	remote interpretation
+image quality	affects	diagnostic confidence
+sonographic features	correlate with	pathology type
+follow-up interval	determined by	nodule type
+clinical management	guided by	ultrasound findings
+thyroid nodule	asymptomatic	remains under observation
+neck mass	biopsy decision	influenced by ultrasound features
+family history	increases	cancer risk assessment
+age	influences	malignancy risk in nodules
+sex	influences	malignancy risk in nodules
+comorbidity	affects	imaging interpretation
+operator experience	influences	diagnostic accuracy
+appearance	on ultrasound	influences management
+nodal necrosis	increases	metastasis likelihood
+neck ultrasound	reduces	unnecessary biopsy

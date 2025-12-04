@@ -1,100 +1,87 @@
-neoplasms of unspecified nature or uncertain behavior	is a	neoplasm
+neoplasms of unspecified nature or uncertain behavior	is a type of	neoplasm
+neoplasms of unspecified nature or uncertain behavior	diagnosed by	biopsy
+neoplasms of unspecified nature or uncertain behavior	diagnosed by	histology
+neoplasms of unspecified nature or uncertain behavior	located in	liver
+neoplasms of unspecified nature or uncertain behavior	located in	kidney
+neoplasms of unspecified nature or uncertain behavior	located in	lung
+neoplasms of unspecified nature or uncertain behavior	located in	brain
+neoplasms of unspecified nature or uncertain behavior	metastasizes to	liver
+neoplasms of unspecified nature or uncertain behavior	metastasizes to	brain
+neoplasms of unspecified nature or uncertain behavior	metastasizes to	bone
+neoplasms of unspecified nature or uncertain behavior	metastasizes to	lymph node
 neoplasms of unspecified nature or uncertain behavior	associated with	age
 neoplasms of unspecified nature or uncertain behavior	associated with	sex
 neoplasms of unspecified nature or uncertain behavior	associated with	smoking
 neoplasms of unspecified nature or uncertain behavior	associated with	obesity
-neoplasms of unspecified nature or uncertain behavior	associated with	alcohol use
-neoplasms of unspecified nature or uncertain behavior	occurs in	skin
-neoplasms of unspecified nature or uncertain behavior	occurs in	liver
-neoplasms of unspecified nature or uncertain behavior	occurs in	kidney
-neoplasms of unspecified nature or uncertain behavior	occurs in	bone
-neoplasms of unspecified nature or uncertain behavior	occurs in	brain
-neoplasms of unspecified nature or uncertain behavior	occurs in	lymph node
-neoplasms of unspecified nature or uncertain behavior	metastasizes to	lymph node
-neoplasms of unspecified nature or uncertain behavior	metastasizes to	liver
-neoplasms of unspecified nature or uncertain behavior	metastasizes to	bone
-neoplasms of unspecified nature or uncertain behavior	metastasizes to	lung
-neoplasms of unspecified nature or uncertain behavior	metastasizes to	brain
-neoplasms of unspecified nature or uncertain behavior	associated with	anemia
-neoplasms of unspecified nature or uncertain behavior	associated with	thrombocytopenia
-neoplasms of unspecified nature or uncertain behavior	associated with	weight loss
-neoplasms of unspecified nature or uncertain behavior	associated with	fever
-neoplasms of unspecified nature or uncertain behavior	may cause	pain
-neoplasms of unspecified nature or uncertain behavior	diagnosed by	biopsy
-neoplasms of unspecified nature or uncertain behavior	diagnosed by	histology
-neoplasms of unspecified nature or uncertain behavior	detected by	imaging
-neoplasms of unspecified nature or uncertain behavior	seen on	imaging
-neoplasms of unspecified nature or uncertain behavior	evaluated by	pathology
-neoplasms of unspecified nature or uncertain behavior	managed with	surgery
-neoplasms of unspecified nature or uncertain behavior	treated with	chemotherapy
+neoplasms of unspecified nature or uncertain behavior	associated with	familial history
+neoplasms of unspecified nature or uncertain behavior	prognostic for	survival
+neoplasms of unspecified nature or uncertain behavior	prognostic for	recurrence
+neoplasms of unspecified nature or uncertain behavior	prognosis for	progression
+neoplasms of unspecified nature or uncertain behavior	treated with	surgery
 neoplasms of unspecified nature or uncertain behavior	treated with	radiotherapy
-neoplasms of unspecified nature or uncertain behavior	treated with	targeted therapy
-neoplasms of unspecified nature or uncertain behavior	treated with	surveillance
-neoplasms of unspecified nature or uncertain behavior	is risk factor for	recurrence
-neoplasms of unspecified nature or uncertain behavior	associated with	mortality
-neoplasms of unspecified nature or uncertain behavior	increases risk of	metastasis
-neoplasms of unspecified nature or uncertain behavior	linked to	prognosis
-neoplasms of unspecified nature or uncertain behavior	affects	quality of life
-neoplasms of unspecified nature or uncertain behavior	presents with	mass
-neoplasms of unspecified nature or uncertain behavior	associated with	diabetes
-neoplasms of unspecified nature or uncertain behavior	associated with	immunosuppression
-neoplasms of unspecified nature or uncertain behavior	occurs in	pancreas
-neoplasms of unspecified nature or uncertain behavior	occurs in	spleen
-neoplasms of unspecified nature or uncertain behavior	occurs in	gastrointestinal tract
+neoplasms of unspecified nature or uncertain behavior	treated with	chemotherapy
+neoplasms of unspecified nature or uncertain behavior	treated with	immunotherapy
+neoplasms of unspecified nature or uncertain behavior	detected by	imaging
+neoplasms of unspecified nature or uncertain behavior	detected by	CT scan
+neoplasms of unspecified nature or uncertain behavior	detected by	MRI
 neoplasms of unspecified nature or uncertain behavior	detected by	ultrasound
-neoplasms of unspecified nature or uncertain behavior	detected on	CT
-neoplasms of unspecified nature or uncertain behavior	detected on	MRI
-neoplasms of unspecified nature or uncertain behavior	seen on	PET scan
-neoplasms of unspecified nature or uncertain behavior	confirmed by	pathology
-neoplasms of unspecified nature or uncertain behavior	characterized by	grade
-neoplasms of unspecified nature or uncertain behavior	characterized by	stage
-neoplasms of unspecified nature or uncertain behavior	characterized by	morphology
-neoplasms of unspecified nature or uncertain behavior	shows	necrosis
-neoplasms of unspecified nature or uncertain behavior	shows	hemorrhage
-neoplasms of unspecified nature or uncertain behavior	associated with	microsatellite instability
-neoplasms of unspecified nature or uncertain behavior	associated with	gene mutation
-neoplasms of unspecified nature or uncertain behavior	associated with	tumor markers
-neoplasms of unspecified nature or uncertain behavior	associated with	angiogenesis
-neoplasms of unspecified nature or uncertain behavior	associated with	secondary malignancy
-neoplasms of unspecified nature or uncertain behavior	associated with	cachexia
-neoplasms of unspecified nature or uncertain behavior	associated with	dehydration
-neoplasms of unspecified nature or uncertain behavior	monitored by	imaging
-neoplasms of unspecified nature or uncertain behavior	followed by	follow-up
-neoplasms of unspecified nature or uncertain behavior	monitored by	tumor markers
-neoplasms of unspecified nature or uncertain behavior	associated with	malnutrition
-neoplasms of unspecified nature or uncertain behavior	predisposes to	secondary infection
-neoplasms of unspecified nature or uncertain behavior	predisposes to	bleeding
-neoplasms of unspecified nature or uncertain behavior	requires	multidisciplinary care
-neoplasms of unspecified nature or uncertain behavior	seen in	adults
-neoplasms of unspecified nature or uncertain behavior	seen in	children
-neoplasms of unspecified nature or uncertain behavior	progression to	metastasis
-neoplasms of unspecified nature or uncertain behavior	risk of	progression
-neoplasms of unspecified nature or uncertain behavior	may progress to	metastasis
-neoplasms of unspecified nature or uncertain behavior	observed with	anemia
-neoplasms of unspecified nature or uncertain behavior	managed with	watchful waiting
-neoplasms of unspecified nature or uncertain behavior	requires	follow-up imaging
-neoplasms of unspecified nature or uncertain behavior	results in	hospitalization
-neoplasms of unspecified nature or uncertain behavior	leads to	surgery
-neoplasms of unspecified nature or uncertain behavior	associated with	electrolyte imbalance
-neoplasms of unspecified nature or uncertain behavior	associated with	hypoproteinemia
-neoplasms of unspecified nature or uncertain behavior	associated with	malnutrition
-neoplasms of unspecified nature or uncertain behavior	predisposes to	osteoporosis
-neoplasms of unspecified nature or uncertain behavior	predisposes to	fracture
-neoplasms of unspecified nature or uncertain behavior	seen in	elderly
-neoplasms of unspecified nature or uncertain behavior	seen in	middle-aged adults
-neoplasms of unspecified nature or uncertain behavior	associated with	immune deficiency
-neoplasms of unspecified nature or uncertain behavior	treated with	supportive care
-neoplasms of unspecified nature or uncertain behavior	part of	paraneoplastic syndrome
-neoplasms of unspecified nature or uncertain behavior	associated with	paraneoplastic syndrome
-neoplasms of unspecified nature or uncertain behavior	can cause	cachexia
-neoplasms of unspecified nature or uncertain behavior	requires	diagnostic imaging
-neoplasms of unspecified nature or uncertain behavior	occurs secondary to	metastasis
-neoplasms of unspecified nature or uncertain behavior	associated with	hormone status
-neoplasms of unspecified nature or uncertain behavior	related to	prognosis
-neoplasms of unspecified nature or uncertain behavior	described as	mass lesion
-neoplasms of unspecified nature or uncertain behavior	observed in	elderly
-neoplasms of unspecified nature or uncertain behavior	observed in	children
-neoplasms of unspecified nature or uncertain behavior	influenced by	hormone status
-neoplasms of unspecified nature or uncertain behavior	defined by	histology
-neoplasms of unspecified nature or uncertain behavior	seen as	mass lesion
-neoplasms of unspecified nature or uncertain behavior	associated with	progression
+neoplasms of unspecified nature or uncertain behavior	histology reveals	atypia
+neoplasms of unspecified nature or uncertain behavior	histology reveals	mitotic activity
+neoplasms of unspecified nature or uncertain behavior	histology reveals	necrosis
+neoplasms of unspecified nature or uncertain behavior	histology reveals	differentiation
+neoplasms of unspecified nature or uncertain behavior	present as	mass
+neoplasms of unspecified nature or uncertain behavior	present as	lesion
+neoplasms of unspecified nature or uncertain behavior	present as	nodule
+neoplasms of unspecified nature or uncertain behavior	presence in	organ
+neoplasms of unspecified nature or uncertain behavior	presence in	tissue
+neoplasms of unspecified nature or uncertain behavior	incidence in	adults
+neoplasms of unspecified nature or uncertain behavior	incidence in	children
+neoplasms of unspecified nature or uncertain behavior	incidence in	elderly
+neoplasms of unspecified nature or uncertain behavior	genetic association	mutation
+neoplasms of unspecified nature or uncertain behavior	associated with	TP53 mutation
+neoplasms of unspecified nature or uncertain behavior	associated with	BRCA mutation
+neoplasms of unspecified nature or uncertain behavior	associated with	EGFR mutation
+neoplasms of unspecified nature or uncertain behavior	associated with	KRAS mutation
+neoplasms of unspecified nature or uncertain behavior	associated with	BRAF mutation
+neoplasms of unspecified nature or uncertain behavior	associated with	RB1 mutation
+neoplasms of unspecified nature or uncertain behavior	recurrence after	treatment
+neoplasms of unspecified nature or uncertain behavior	display	local recurrence
+neoplasms of unspecified nature or uncertain behavior	disease course includes	progression
+neoplasms of unspecified nature or uncertain behavior	disease course includes	stability
+neoplasms of unspecified nature or uncertain behavior	imaging feature	mass
+neoplasms of unspecified nature or uncertain behavior	imaging feature	lesion
+neoplasms of unspecified nature or uncertain behavior	imaging feature	calcification
+neoplasms of unspecified nature or uncertain behavior	imaging feature	enhancement
+neoplasms of unspecified nature or uncertain behavior	surveillance recommended for	patients
+neoplasms of unspecified nature or uncertain behavior	surveillance program	registration
+neoplasms of unspecified nature or uncertain behavior	care plan	follow-up
+neoplasms of unspecified nature or uncertain behavior	family history	breast cancer
+neoplasms of unspecified nature or uncertain behavior	family history	colorectal cancer
+neoplasms of unspecified nature or uncertain behavior	comorbidity	anemia
+neoplasms of unspecified nature or uncertain behavior	comorbidity	thrombocytosis
+neoplasms of unspecified nature or uncertain behavior	comorbidity	hypercoagulability
+neoplasms of unspecified nature or uncertain behavior	biology	clonal expansion
+neoplasms of unspecified nature or uncertain behavior	biology	angiogenesis
+neoplasms of unspecified nature or uncertain behavior	biology	invasion
+neoplasms of unspecified nature or uncertain behavior	biology	necrosis
+neoplasms of unspecified nature or uncertain behavior	pathology	grade
+neoplasms of unspecified nature or uncertain behavior	pathology	histology
+neoplasms of unspecified nature or uncertain behavior	prognosis	overall survival
+neoplasms of unspecified nature or uncertain behavior	prognosis	disease-free survival
+neoplasms of unspecified nature or uncertain behavior	prognosis	median survival
+neoplasms of unspecified nature or uncertain behavior	epidemiology	incidence
+neoplasms of unspecified nature or uncertain behavior	epidemiology	prevalence
+neoplasms of unspecified nature or uncertain behavior	epidemiology	mortality
+neoplasms of unspecified nature or uncertain behavior	differential diagnosis	benign neoplasm
+neoplasms of unspecified nature or uncertain behavior	differential diagnosis	malignant neoplasm
+neoplasms of unspecified nature or uncertain behavior	counseling	genetic testing
+neoplasms of unspecified nature or uncertain behavior	counseling	family planning
+neoplasms of unspecified nature or uncertain behavior	management	care plan
+neoplasms of unspecified nature or uncertain behavior	follow-up	interval
+neoplasms of unspecified nature or uncertain behavior	clinical feature	mass
+neoplasms of unspecified nature or uncertain behavior	clinical feature	pain
+neoplasms of unspecified nature or uncertain behavior	clinical feature	fatigue
+neoplasms of unspecified nature or uncertain behavior	mechanism	tumor growth
+neoplasms of unspecified nature or uncertain behavior	mechanism	angiogenesis
+neoplasms of unspecified nature or uncertain behavior	mechanism	invasion
+neoplasms of unspecified nature or uncertain behavior	therapy	response

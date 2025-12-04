@@ -1,91 +1,110 @@
- f etal distress	is associated with	fetal hypoxia 
- fetal distress	is associated with	fetal acidosis 
- fetal distress	is associated with	meconium-stained fluid 
- fetal distress	predicts	cesarean delivery 
- fetal distress	predicts	operative vaginal delivery 
- fetal distress	triggers	nonreassuring fetal status 
- fetal distress	prompts	fetal resuscitation 
- fetal distress	correlates with	late decelerations 
- fetal distress	correlates with	variable decelerations 
- fetal distress	correlates with	fetal bradycardia 
- fetal distress	correlates with	fetal tachycardia 
- fetal distress	associated with	neonatal hypoxemia 
- fetal distress	increases risk of	NICU admission 
- fetal distress	associated with	Apgar score <7 at 5 minutes 
- fetal distress	indicates	placental insufficiency 
- fetal distress	indicates	umbilical cord compression 
- fetal distress	indicates	nonreassuring tracing 
- fetal distress	managed by	cesarean section 
- fetal distress	managed by	intrauterine resuscitation 
- fetal distress	caused by	placental abruption 
- fetal distress	caused by	placental insufficiency 
- fetal distress	assessed by	fetal scalp pH testing 
- fetal distress	assessed by	cardiotocography 
- fetal distress	monitored by	electronic fetal monitoring 
- abnormal forces of labor	defined as	tachysystole 
- abnormal forces of labor	includes	tachysystole 
- tachysystole	caused by	oxytocin augmentation 
- tachysystole	increases risk of	fetal distress 
- tachysystole	leads to	uteroplacental insufficiency 
- abnormal forces of labor	increased likelihood of	emergency cesarean section 
- abnormal forces of labor	predisposes to	cesarean delivery 
- uterine tachysystole	associated with	nonreassuring fetal status 
- uterine tachysystole	can cause	fetal distress 
- epidural analgesia	associated with	prolonged labor 
- epidural analgesia	may cause	maternal hypotension 
- maternal hypotension	leads to	fetal distress 
- oxytocin augmentation	increases risk of	tachysystole 
- amniotic fluid with meconium	can cause	fetal distress 
- meconium-stained fluid	indicates	fetal distress 
- meconium-stained fluid	associated with	fetal hypoxia 
- placental abruption	causes	fetal distress 
- placental abruption	presents with	vaginal bleeding 
- placental insufficiency	causes	fetal distress 
- placental insufficiency	associated with	fetal growth restriction 
- intrauterine growth restriction	associated with	placental insufficiency 
- umbilical cord compression	causes	variable decelerations 
- umbilical cord compression	associated with	fetal distress 
- umbilical cord prolapse	leads to	fetal distress 
- cord prolapse	leads to	emergent delivery 
- fetal distress	increases risk of	neonatal respiratory distress syndrome 
- nonreassuring tracing	triggers	emergency cesarean section 
- emergency cesarean section	performed for	fetal distress 
- emergency cesarean section	reduces	intrapartum fetal death 
- operative vaginal delivery	performed for	fetal distress 
- operative vaginal delivery	indicated for	persistent nonreassuring tracing 
- late decelerations	indicate	uteroplacental insufficiency 
- variable decelerations	indicate	cord compression 
- bradycardia	indicates	fetal distress 
- tachycardia	indicates	fetal distress 
- fetal heart rate tracing	shows	nonreassuring pattern 
- cardiotocography	monitors	fetal status 
- electronic fetal monitoring	used for	detecting fetal distress 
- fetal scalp pH testing	is used for	assessing fetal distress 
- umbilical artery pH	indicates	fetal acidosis 
- umbilical artery pH	predicts	neonatal outcome 
- Apgar score at 5 minutes	reflects	neonatal condition 
- Apgar score at 5 minutes	lower with	fetal distress 
- Apgar score at 1 minute	higher with	healthy neonate 
- neonatal ICU admission	associated with	fetal distress 
- neonatal respiratory distress syndrome	associated with	fetal distress 
- neonatal seizures	associated with	fetal distress 
- birth asphyxia	linked to	fetal distress 
- small for gestational age	associated with	placental insufficiency 
- preeclampsia	associated with	placental insufficiency 
- gestational diabetes	increases risk of	fetal distress 
- labor induction	increases risk of	tachysystole 
- dinoprostone	associated with	tachysystole 
- misoprostol	associated with	tachysystole 
- epidural analgesia	associated with	fever 
- abnormal forces of labor	increase	uterine rupture risk 
- uterine rupture	leads to	fetal distress 
- prolonged labor	associated with	fetal distress 
- cord prolapse	leads to	emergency delivery 
- fetal distress	worsens	neonatal outcome 
- intrapartum hypoxia	associated with	fetal distress 
- fetal distress	increases likelihood of	neonatal mortality 
- cord compression	detected by	decelerations 
- persistent bradycardia	indicates	fetal distress 
- recurrent decelerations	indicate	ongoing fetal distress 
- emergency delivery	indicated for	fetal distress 
- labor	is associated with	fetal distress 
+fetal distress	is associated with	placental insufficiency
+fetal distress	is associated with	umbilical cord compression
+fetal distress	is associated with	meconium-stained amniotic fluid
+fetal distress	is associated with	maternal hypertension
+fetal distress	is associated with	diabetes mellitus
+fetal distress	is associated with	fetal growth restriction
+fetal distress	is associated with	chorioamnionitis
+fetal distress	is associated with	post-term pregnancy
+fetal distress	is associated with	preeclampsia
+fetal distress	is associated with	anemia
+fetal distress	is associated with	placental abruption
+fetal distress	is associated with	twin pregnancy
+fetal distress	is indicated by	nonreassuring fetal heart rate
+fetal distress	is indicated by	late decelerations
+fetal distress	is indicated by	variable decelerations
+fetal distress	is indicated by	reduced fetal variability
+fetal distress	is diagnosed by	cardiotocography
+fetal distress	is diagnosed by	fetal scalp pH testing
+fetal distress	is diagnosed by	umbilical cord blood gas
+fetal distress	is diagnosed by	ultrasound placental grading
+fetal distress	is monitored by	continuous fetal monitoring
+fetal distress	is diagnosed by	fetal oxygen saturation measurement
+fetal distress	is associated with	cord blood acidosis
+fetal distress	is associated with	fetal hypoxemia
+abnormal forces of labor	is associated with	tachysystole
+abnormal forces of labor	is associated with	hypotonic contractions
+abnormal forces of labor	is associated with	dystocia
+abnormal forces of labor	caused by	oxytocin stimulation
+abnormal forces of labor	caused by	uterine overactivity
+tachysystole	is caused by	oxytocin stimulation
+tachysystole	is managed by	reduction of oxytocin
+tachysystole	is managed by	terbutaline administration
+tachysystole	predicts	fetal distress
+uterine hyperstimulation	is associated with	fetal distress
+augmentation of labor	is associated with	tachysystole
+augmentation of labor	increases	fetal distress risk
+induction of labor	is associated with	abnormal labor patterns
+dystocia	leads to	cesarean delivery
+prolonged labor	is associated with	fetal distress
+prolonged second stage	is associated with	fetal distress
+tocodynamometer	measures	contraction frequency
+tocodynamometer	detects	uterine tachysystole
+contractions	cause	fetal distress
+amniotomy	performed for	fetal distress
+amnioinfusion	used for	fetal distress
+epidural analgesia	associated with	fetal distress
+maternal fever	associated with	fetal distress
+chorioamnionitis	associated with	fetal distress
+placental abruption	associated with	fetal distress
+placental insufficiency	associated with	fetal distress
+umbilical cord prolapse	associated with	fetal distress
+twin gestation	associated with	fetal distress
+multiparity	associated with	fetal distress
+postmaturity	associated with	fetal distress
+placental aging	associated with	fetal distress
+cord compression	causes	fetal distress
+cord prolapse	causes	fetal distress
+preterm birth	associated with	fetal distress
+meconium presence	associated with	fetal distress
+cord blood lactate	associated with	fetal distress
+cord blood pH	low	fetal distress
+nonreassuring tracing	indicates	fetal distress
+fetal distress	indicates	need for rapid delivery
+emergency cesarean	indicated for	fetal distress
+cesarean delivery	performed for	fetal distress
+vacuum extraction	performed for	fetal distress
+forceps delivery	performed for	fetal distress
+intrapartum monitoring	is used for	fetal distress surveillance
+neonatal resuscitation	required for	fetal distress at birth
+neonatal intensive care unit	required for	fetal distress cases
+bradycardia	observed in	fetal distress
+fetal distress	is associated with	low Apgar scores
+fetal distress	is associated with	neonatal hypoxia
+cord prolapse	associated with	fetal distress
+placental previa	contraindication for	emergent delivery in some cases
+placental insufficiency	contributes to	umbilical cord compression risk
+placental aging	increases	risk of fetal distress
+placental calcification	associated with	fetal distress
+intrauterine infection	associated with	fetal distress
+intrauterine growth restriction	associated with	fetal distress
+maternal obesity	associated with	fetal distress
+smoking during pregnancy	associated with	fetal distress
+alcohol use in pregnancy	associated with	fetal distress
+viral infection	associated with	fetal distress
+bacterial infection	associated with	fetal distress
+diabetic pregnancy	increases	risk of fetal distress
+hypertensive pregnancy	increases	risk of fetal distress
+anemia in pregnancy	increases	risk of fetal distress
+neonatal meconium	associated with	fetal distress
+late decelerations	indicate	fetal distress
+variable decelerations	indicate	fetal distress
+reduced variability	indicates	fetal distress
+cord blood gas pH	low	fetal distress
+umbilical artery pH	low	fetal distress
+fetal distress	correlates with	neonatal organ injury risk
+nonreassuring fetal status	signals	fetal distress
+cardiotocography	detects	fetal distress patterns
+fetal distress	leads to	urgent delivery planning
+neonatal apnea	associated with	fetal distress
+neonatal hypoxia	associated with	fetal distress
+perinatal mortality	associated with	fetal distress
+neurodevelopmental impairment	associated with	fetal distress
+apgar score at 1 minute	low in	fetal distress
+apgar score at 5 minutes	low in	fetal distress
+neonatal respiratory distress	associated with	fetal distress
+neonatal seizures	associated with	fetal distress
+cord blood lactate level	elevated in	fetal distress
+cord blood bicarbonate	decreased in	fetal distress
+neonatal coma risk	associated with	fetal distress
+fetal distress	increases	NICU days

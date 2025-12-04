@@ -1,0 +1,100 @@
+arthroplasty	is a	joint replacement procedure
+shoulder arthroplasty	is a	joint replacement procedure
+elbow arthroplasty	is a	joint replacement procedure
+ankle arthroplasty	is a	joint replacement procedure
+wrist arthroplasty	is a	joint replacement procedure
+temporomandibular joint arthroplasty	is a	joint replacement procedure
+acromioclavicular arthroplasty	is a	joint replacement procedure
+facet arthroplasty	is a	joint replacement procedure
+shoulder arthroplasty	replaces	humeral head
+shoulder arthroplasty	replaces	glenoid
+ankle arthroplasty	replaces	talocrural joint
+elbow arthroplasty	replaces	ulnohumeral joint
+wrist arthroplasty	replaces	radiocarpal joint
+temporomandibular joint arthroplasty	replaces	mandibular condyle
+acromioclavicular arthroplasty	replaces	acromioclavicular joint
+shoulder arthroplasty	uses	prosthetic components
+prosthesis	comprises	stem and head
+cemented fixation	used in	elbow arthroplasty
+cementless fixation	used in	shoulder arthroplasty
+hybrid fixation	used in	ankle arthroplasty
+arthroplasty	indicated for	severe joint destruction
+arthroplasty	indicated for	irreparable joint damage
+arthroplasty	indicated for	degenerative arthritis
+arthroplasty	indicated for	inflammatory arthritis
+elbow arthroplasty	indicated for	rheumatoid arthritis
+ankle arthroplasty	indicated for	end-stage ankle osteoarthritis
+shoulder arthroplasty	reduces	pain
+ankle arthroplasty	improves	walking ability
+elbow arthroplasty	improves	elbow function
+wrist arthroplasty	improves	hand function
+temporomandibular joint arthroplasty	improves	jaw function
+arthroplasty	carries	infection
+arthroplasty	carries	thromboembolism
+arthroplasty	carries	bleeding
+arthroplasty	carries	nerve injury
+arthroplasty	carries	prosthesis loosening
+arthroplasty	carries	dislocation
+implant	fails	over time
+implant	requires	revision surgery
+loosening	leads to	revision arthroplasty
+infection	increases	length of hospital stay
+revision arthroplasty	performed due to	loosening
+revision arthroplasty	performed due to	infection
+bone loss	increases	complication risk
+adhesive capsulitis	occurs after	shoulder arthroplasty
+stiffness	limits	range of motion
+polyethylene wear	causes	debris generation
+implant fracture	leads to	revision arthroplasty
+aseptic loosening	reduces	implant fixation
+pain	improves	after arthroplasty
+postoperative rehabilitation	follows	arthroplasty
+physical therapy	supports	functional recovery
+rehabilitation	follows	arthroplasty
+anesthesia	used in	arthroplasty
+regional anesthesia	used in	shoulder arthroplasty
+general anesthesia	used in	elbow arthroplasty
+blood loss	correlates with	transfusion requirement
+transfusion	increases	risk of infection
+blood loss	associated with	longer hospitalization
+imaging	monitors	implant position
+radiographs	assess	implant alignment
+follow-up	monitors	implant function
+implant position	correlates with	function
+implant longevity	relates to	fixation method
+cemented components	show	durable fixation
+cementless components	show	longer osseointegration
+osseointegration	improves	implant stability
+surface coating	enhances	biocompatibility
+titanium implant	used in	shoulder arthroplasty
+ceramic components	reduce	wear
+polyethylene insert	wears	over time
+polyethylene insert	requires	monitoring for wear
+intraoperative navigation	improves	component alignment
+robotic-assisted arthroplasty	enhances	precision
+minimally invasive approach	reduces	soft tissue trauma
+anatomic arthroplasty	reconstructs	native anatomy
+constrained prosthesis	used in	elbow arthroplasty
+hinged prosthesis	used in	elbow arthroplasty
+vascular injury	is a risk of	shoulder arthroplasty
+nerve injury	is a risk of	shoulder arthroplasty
+operative time	predicts	complication rate
+smoking	increases	infection risk
+diabetes	increases	infection risk
+age	influences	recovery after arthroplasty
+obesity	increases	complication risk
+bone mineral density	affects	implant fixation
+bone stock	influences	osseointegration
+elderly patients	have	higher infection risk
+rehab protocol	varies with	joint arthroplasty type
+surgeon experience	affects	complication rate
+hospital stay	lengthens with	complicated arthroplasty
+weight-bearing status	influences	implant stability
+bone graft	used in	revision arthroplasty
+revision prosthesis	restores	joint alignment
+joint proprioception	improves	after arthroplasty
+implant wear	releases	debris
+metal debris	triggers	inflammatory response
+implant survival	depends on	component alignment
+surgeon experience	impacts	patient outcome
+follow-up interval	varies with	arthroplasty type

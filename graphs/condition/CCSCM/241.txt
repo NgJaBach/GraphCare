@@ -1,96 +1,100 @@
-psychotropic poisoning	is a	medical emergency
-psychotropic poisoning	may cause	coma
-psychotropic poisoning	may cause	respiratory depression
-psychotropic poisoning	increases	mortality
-psychotropic poisoning	associated with	suicide attempt
-benzodiazepine poisoning	is a	subtype of psychotropic poisoning
-benzodiazepine poisoning	presents with	CNS depression
-benzodiazepine poisoning	treated with	flumazenil
-flumazenil	is a	benzodiazepine antagonist
-barbiturate poisoning	is a	subtype of psychotropic poisoning
-barbiturate poisoning	presents with	respiratory depression
-barbiturate poisoning	treated with	activated charcoal
-activated charcoal	is a	decontamination agent
-barbiturate poisoning	may cause	hypotension
-barbiturate poisoning	may cause	hypoventilation
-barbiturate poisoning	may cause	coma
-tricyclic antidepressant poisoning	is a	subtype of antidepressant poisoning
-tricyclic antidepressant poisoning	may cause	QRS prolongation
-tricyclic antidepressant poisoning	may cause	arrhythmia
-sodium bicarbonate	is used for	tricyclic antidepressant poisoning
-activated charcoal	is used for	antidepressant poisoning
-selective serotonin reuptake inhibitor poisoning	is a	subtype of antidepressant poisoning
-SSRI poisoning	may cause	serotonin syndrome
-serotonin syndrome	is a	complication
-serotonin syndrome	presents with	hyperthermia
-serotonin syndrome	may cause	seizures
-serotonin syndrome	requires	ICU monitoring
-antipsychotic poisoning	is a	subtype of psychotropic poisoning
-antipsychotic poisoning	may cause	QT prolongation
-QT prolongation	is an	ECG finding
-torsades de pointes	is a	arrhythmia
-arrhythmia	may cause	hemodynamic instability
-hemodynamic instability	requires	vasopressor support
-vasopressor support	includes	norepinephrine
-norepinephrine	is a	vasopressor
-intravenous fluids	are used for	hypotension
-lipid emulsion therapy	is used for	lipophilic poisoning
-lipid emulsion therapy	may improve	hemodynamics
-anticholinergic poisoning	is a	subtype of psychotropic poisoning
-anticholinergic poisoning	presents with	delirium
-delirium	is a	neuropsychiatric syndrome
-delirium	may cause	agitation
-physostigmine	is used for	anticholinergic poisoning
-sodium bicarbonate	is used for	tricyclic antidepressant poisoning
-gastric lavage	is a	decontamination method
-gastric lavage	used for	barbiturate poisoning
-toxicology screen	is a	diagnostic test
-toxicology screen	detects	psychotropic agents
-serum drug level	is a	diagnostic measure
-electrocardiogram	is a	diagnostic tool
-QT interval	is a	measurement
-QT prolongation	is an	ECG finding
-torsades de pointes	is a	arrhythmia
-overdose	is a	cause of poisoning
-polypharmacy	increases	overdose risk
-intentional overdose	is a	cause of poisoning
-accidental ingestion	is a	cause of poisoning
-suicidal attempt	is linked with	psychiatric illness
-psychiatric illness	increases	poisoning risk
-co-ingestion	increases	poisoning toxicity
-co-ingestion	involves	multiple agents
-emergency department	manages	poisoning
-emergency department	initiates	decontamination
-emergency department	coordinates	hospital care
-oxygen therapy	is a	supportive measure
-emergency airway management	is a	critical step
-intubation	is a	life-saving procedure
-mechanical ventilation	is a	life-support
-ICU admission	is a	care outcome
-hospital admission	is a	care outcome
-mortality	is a	outcome
-hospitalization	is a	outcome
-length of stay	is a	outcome predictor
-toxicology consultation	provides	management advice
-toxicology service	offers	specialized care
-electrolyte disturbance	is a	complication
-hypokalemia	is a	electrolyte disturbance
-hypokalemia	may cause	arrhythmia
-hypotension	is a	symptom
-hypoxemia	is a	complication
-metabolic acidosis	is a	complication
-lactic acidosis	is a	complication
-renal failure	is a	complication
-hepatic injury	is a	complication
-seizure	is a	complication
-neuroleptic malignant syndrome	is a	potential complication of antipsychotic use
-neuroleptic malignant syndrome	presents with	hyperthermia
-neuroleptic malignant syndrome	requires	cooling
-antidote	is a	therapeutic agent
-physostigmine	is a	acetylcholinesterase inhibitor
-anticholinergic poisoning	is a	subtype of psychotropic poisoning
-pediatric poisoning	is a	demographic focus
-pediatric poisoning	presents with	distinct clinical patterns
-geriatric poisoning	is a	demographic focus
-geriatric poisoning	has	polypharmacy risk
-public health surveillance	is a	component of poisoning management
+poisoning by psychotropic agents	is a	toxic exposure
+poisoning by psychotropic agents	presents with	altered mental status
+poisoning by psychotropic agents	presents with	agitation
+poisoning by psychotropic agents	presents with	seizures
+poisoning by psychotropic agents	presents with	coma
+poisoning by psychotropic agents	causes	tachycardia
+poisoning by psychotropic agents	causes	hypertension
+poisoning by psychotropic agents	causes	arrhythmia
+poisoning by psychotropic agents	causes	QT prolongation
+poisoning by psychotropic agents	causes	hyperthermia
+poisoning by psychotropic agents	leads to	metabolic acidosis
+poisoning by psychotropic agents	associated with	respiratory depression
+poisoning by psychotropic agents	risk factor	polypharmacy
+poisoning by psychotropic agents	treated with	activated charcoal
+poisoning by psychotropic agents	treated with	gastric lavage
+poisoning by psychotropic agents	treated with	intravenous fluids
+poisoning by psychotropic agents	treated with	benzodiazepines
+poisoning by psychotropic agents	managed in	intensive care unit
+poisoning by psychotropic agents	prognosis	poor outcome
+poisoning by psychotropic agents	complication	aspiration pneumonitis
+poisoning by psychotropic agents	laboratory finding	metabolic acidosis
+poisoning by psychotropic agents	laboratory finding	elevated lactate
+poisoning by psychotropic agents	laboratory finding	QT prolongation
+poisoning by psychotropic agents	laboratory finding	hyperkalemia
+poisoning by psychotropic agents	laboratory finding	hyponatremia
+poisoning by psychotropic agents	diagnostic test	tox screen
+poisoning by psychotropic agents	diagnostic test	serum drug level
+poisoning by psychotropic agents	diagnosis	overdose
+poisoning by psychotropic agents	causative agent class	antidepressants
+poisoning by psychotropic agents	causative agent class	antipsychotics
+poisoning by psychotropic agents	causative agent class	benzodiazepines
+poisoning by psychotropic agents	causative agent class	mood stabilizers
+poisoning by psychotropic agents	may cause	serotonin syndrome
+poisoning by psychotropic agents	may cause	neuroleptic malignant syndrome
+poisoning by psychotropic agents	may cause	anticholinergic toxicity
+poisoning by psychotropic agents	may cause	dystonia
+poisoning by psychotropic agents	may cause	tremor
+poisoning by psychotropic agents	presents with	diaphoresis
+poisoning by psychotropic agents	presents with	mydriasis
+poisoning by psychotropic agents	presents with	hyperreflexia
+poisoning by psychotropic agents	associated with	delirium
+poisoning by psychotropic agents	associated with	rigidity
+poisoning by psychotropic agents	associated with	coma
+poisoning by psychotropic agents	management	airway protection
+poisoning by psychotropic agents	management	seizure control
+poisoning by psychotropic agents	management	fluid resuscitation
+poisoning by psychotropic agents	management	electrolyte correction
+poisoning by psychotropic agents	prognosis	recovery possible
+poisoning by psychotropic agents	epidemiology	young adults
+poisoning by psychotropic agents	epidemiology	elderly population
+poisoning by psychotropic agents	risk factor	substance use disorder
+poisoning by psychotropic agents	risk factor	psychiatric illness
+poisoning by psychotropic agents	comorbidity	cardiovascular disease
+poisoning by psychotropic agents	comorbidity	renal failure
+poisoning by psychotropic agents	comorbidity	liver disease
+poisoning by psychotropic agents	healthcare utilization	emergency department visit
+poisoning by psychotropic agents	healthcare utilization	hospital admission
+poisoning by psychotropic agents	healthcare utilization	intensive care admission
+poisoning by psychotropic agents	treatment outcome	survival
+poisoning by psychotropic agents	treatment outcome	neurologic recovery
+poisoning by psychotropic agents	diagnostic criterion	altered mental status
+poisoning by psychotropic agents	diagnostic criterion	seizure activity
+poisoning by psychotropic agents	diagnostic criterion	coma
+poisoning by psychotropic agents	long-term effect	cognitive impairment
+poisoning by psychotropic agents	long-term effect	arrhythmia recurrence
+poisoning by psychotropic agents	precipitating factor	overdose event
+poisoning by psychotropic agents	precipitating factor	suicide attempt
+poisoning by psychotropic agents	public health concern	poisoning incidents
+poisoning by psychotropic agents	regulatory status	controlled substance
+poisoning by psychotropic agents	regulatory status	scheduling
+poisoning by psychotropic agents	mechanism	receptor blockade
+poisoning by psychotropic agents	mechanism	neurotransmitter disruption
+poisoning by psychotropic agents	pharmacokinetics	half-life variation
+poisoning by psychotropic agents	pharmacokinetics	bioavailability
+poisoning by psychotropic agents	clinical care	supportive treatment
+poisoning by psychotropic agents	clinical care	nursing monitoring
+poisoning by psychotropic agents	patient education	warning signs
+poisoning by psychotropic agents	prognosis	agent-dependent variability
+poisoning by psychotropic agents	lab monitoring	arterial blood gas
+poisoning by psychotropic agents	lab monitoring	electrocardiography
+poisoning by psychotropic agents	imaging finding	chest radiograph
+poisoning by psychotropic agents	specialty involvement	toxicology consultation
+poisoning by psychotropic agents	medication interaction	CNS depressants
+poisoning by psychotropic agents	patient outcome	survival rate
+poisoning by psychotropic agents	resource utilization	ICU days
+poisoning by psychotropic agents	prevention	overdose prevention strategies
+poisoning by psychotropic agents	linkage	psychiatric admission
+polypharmacy	increases	poisoning by psychotropic agents
+psychiatric illness	increases	risk of poisoning by psychotropic agents
+substance use	increases	poisoning by psychotropic agents
+toxic exposure	reflected by	serum drug level
+overdose event	defines	poisoning by psychotropic agents
+emergency department	management	acute care
+nursing care	monitoring	vital signs
+intensive care unit	setting	poisoning by psychotropic agents
+activated charcoal	indication	poisoning by psychotropic agents
+gastric lavage	efficacy	poisoning by psychotropic agents
+naloxone	not indicated for	poisoning by psychotropic agents
+electrolyte abnormality	association	poisoning by psychotropic agents
+long-term sequelae	consequence	poisoning by psychotropic agents

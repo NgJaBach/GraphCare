@@ -1,109 +1,100 @@
+shoulder dislocation	causes	axillary nerve injury
+anterior shoulder dislocation	predisposes to	Hill-Sachs lesion
+anterior shoulder dislocation	predisposes to	Bankart lesion
 shoulder dislocation	associated with	rotator cuff tear
-shoulder dislocation	associated with	axillary nerve injury
-shoulder dislocation	associated with	Bankart lesion
-shoulder dislocation	associated with	Hill-Sachs lesion
-shoulder dislocation	predisposes to	recurrent dislocation
-shoulder dislocation	increases	hospital stay
-shoulder dislocation	increases	readmission risk
-shoulder dislocation	treated with	closed reduction
-shoulder dislocation	treated with	open reduction
-shoulder dislocation	treated with	immobilization
-shoulder dislocation	requires	rehabilitation
-shoulder dislocation	leads to	cartilage injury
-elbow dislocation	associated with	ulnar nerve injury
-elbow dislocation	associated with	radial head fracture
-elbow dislocation	associated with	ligament injury
-elbow dislocation	treated with	reduction
-elbow dislocation	treated with	immobilization
-elbow dislocation	leads to	stiffness
-elbow dislocation	increases	hospital stay
-elbow dislocation	may require	surgery
-knee dislocation	associated with	vascular injury
-knee dislocation	associated with	peroneal nerve injury
-knee dislocation	associated with	tibial plateau fracture
-knee dislocation	treated with	external fixation
-knee dislocation	treated with	operative fixation
-knee dislocation	leads to	cartilage injury
-knee dislocation	predisposes to	osteoarthritis
-knee dislocation	requires	reduction
-knee dislocation	may require	vascular repair
-knee dislocation	associated with	meniscal tear
-knee dislocation	associated with	ACL injury
-knee dislocation	associated with	PCL injury
-hip dislocation	associated with	femoral head fracture
-hip dislocation	associated with	sciatic nerve injury
-hip dislocation	associated with	acetabular fracture
-hip dislocation	treated with	closed reduction
-hip dislocation	treated with	open reduction
+shoulder dislocation	treated with	reduction
+shoulder dislocation	managed with	immobilization
+shoulder dislocation	diagnosed by	X-ray
+shoulder dislocation	diagnosed by	MRI
+knee dislocation	causes	vascular injury
+knee dislocation	leads to	popliteal artery injury
+knee dislocation	injures	peroneal nerve injury
+knee dislocation	associated with	multiligament injury
+knee dislocation	treated with	reduction
+knee dislocation	managed with	external fixation
+patellar dislocation	associated with	osteochondral fracture
+patellar dislocation	predisposes to	recurrent dislocation
+patellar dislocation	treated with	reduction
+hip dislocation	causes	sciatic nerve injury
 hip dislocation	leads to	avascular necrosis
-hip dislocation	leads to	post-traumatic osteoarthritis
-hip dislocation	requires	immobilization
-hip dislocation	predisposes to	heterotopic ossification
-hip dislocation	increases	readmission risk
-hip dislocation	increases	length of stay
-ankle dislocation	associated with	tibia fracture
-ankle dislocation	associated with	fibula fracture
-ankle dislocation	associated with	syndesmotic injury
-ankle dislocation	treated with	reduction
-ankle dislocation	treated with	immobilization
-ankle dislocation	leads to	chronic instability
-ankle dislocation	predisposes to	osteoarthritis
-ankle dislocation	may require	ORIF
-ankle dislocation	increases	hospital stay
-ankle dislocation	increases	cost
-ankle dislocation	associated with	tendon injury
-ankle dislocation	associated with	edema
-temporomandibular joint dislocation	associated with	facial fracture
-temporomandibular joint dislocation	treated with	reduction
-temporomandibular joint dislocation	leads to	pain
-temporomandibular joint dislocation	requires	immobilization
-finger joint dislocation	associated with	soft-tissue injury
-finger joint dislocation	treated with	reduction
-finger joint dislocation	leads to	stiffness
-finger joint dislocation	increases	healing time
-finger joint dislocation	predisposes to	arthritis
-finger joint dislocation	increases	hospital stay
-carpal dislocation	associated with	carpal fracture
-carpal dislocation	treated with	reduction
-carpal dislocation	leads to	chronic instability
-carpal dislocation	predisposes to	osteoarthritis
-AC joint dislocation	associated with	shoulder girdle injury
-AC joint dislocation	treated with	immobilization
+hip dislocation	requires	emergent reduction
+hip dislocation	managed with	open reduction
+elbow dislocation	causes	median nerve injury
+elbow dislocation	associated with	olecranon fracture
+elbow dislocation	treated with	closed reduction
+AC joint dislocation	causes	coracoclavicular ligament injury
+AC joint dislocation	managed with	immobilization
 AC joint dislocation	treated with	surgical fixation
-AC joint dislocation	predisposes to	osteoarthritis of AC joint
-SC joint dislocation	associated with	chest trauma
-SC joint dislocation	treated with	reduction
-SC joint dislocation	leads to	chest pain
-SC joint dislocation	predisposes to	instability
-traumatic joint dislocation	associated with	tissue injury
-traumatic joint dislocation	requires	imaging
-traumatic joint dislocation	increases	analgesia requirement
-traumatic joint dislocation	increases	hospitalization cost
-traumatic joint dislocation	increases	length of stay
-traumatic joint dislocation	increases	readmission risk
-traumatic joint dislocation	associated with	hemorrhage
-traumatic joint dislocation	associated with	infection risk
-traumatic joint dislocation	predisposes to	nerve injury
-traumatic joint dislocation	predisposes to	vascular injury
-traumatic joint dislocation	leads to	ligament rupture
-traumatic joint dislocation	leads to	cartilage damage
-traumatic joint dislocation	results in	rehabilitation requirement
-traumatic joint dislocation	associated with	soft-tissue edema
-traumatic joint dislocation	associated with	edema
-shoulder dislocation	associated with	bony injury
-hip dislocation	associated with	dislocation recurrence
-knee dislocation	associated with	patellar fracture
-knee dislocation	increased	hospital readmission
-elbow dislocation	associated with	distal humerus fracture
-ankle dislocation	associated with	tibial plafond fracture
-carpal dislocation	associated with	scaphoid fracture
-AC joint dislocation	associated with	clavicle fracture
-SC joint dislocation	associated with	rib fracture
-joint dislocation	associated with	fracture
-joint dislocation	associated with	nerve injury
-joint dislocation	associated with	vascular injury
-joint dislocation	increases	pain
-joint dislocation	increases	disability
-joint dislocation	leads to	surgical intervention
-joint dislocation	increases	cost
-joint dislocation	predisposes to	chronic pain
+SC joint dislocation	associated with	mediastinal injury
+wrist dislocation	causes	median nerve injury
+wrist dislocation	associated with	carpal fracture
+ankle dislocation	treated with	closed reduction
+ankle dislocation	managed with	casting
+ankle dislocation	causes	talar fracture
+fracture-dislocation	involves	soft tissue injury
+femur fracture-dislocation	leads to	vascular injury
+pelvic fracture-dislocation	associated with	hemorrhage
+Bankart lesion	results from	anterior shoulder dislocation
+Hill-Sachs lesion	results from	anterior shoulder dislocation
+labral tear	associated with	shoulder dislocation
+osteochondral lesion	associated with	patellar dislocation
+meniscal tear	associated with	knee dislocation
+anterior cruciate ligament injury	results from	knee dislocation
+posterior cruciate ligament injury	results from	knee dislocation
+deltoid ligament injury	associated with	ankle dislocation
+syndesmotic injury	associated with	ankle fracture-dislocation
+vascular injury	associated with	knee dislocation
+nerve injury	associated with	elbow dislocation
+nerve injury	associated with	hip dislocation
+nerve injury	associated with	shoulder dislocation
+sling	provides	immobilization
+cast	provides	immobilization
+immobilization	used for	joint dislocation
+reduction	used for	dislocation
+open reduction internal fixation	used for	fracture-dislocation
+closed reduction	achieved by	anesthesia
+anesthesia	enables	closed reduction
+brace	provides	stabilization
+external fixation	used for	knee dislocation
+arthroscopy	treats	meniscal tear
+arthroplasty	used for	shoulder fracture-dislocation
+MRI	used for	soft tissue assessment
+X-ray	used for	fracture-dislocation diagnosis
+avascular necrosis	is a complication of	hip dislocation
+hyaline cartilage injury	associated with	knee dislocation
+dislocation	increases risk of	chronic pain
+soft tissue injury	accompanies	dislocation
+knee dislocation	requires	vascular repair
+open reduction	followed by	immobilization
+nerve repair	performed for	nerve injury
+peroneal nerve injury	requires	rehabilitation
+axillary nerve injury	associated with	deltoid weakness
+subluxation	treated with	reduction
+subluxation	causes	instability
+joint instability	increases risk of	redislocation
+bone fracture	occurs with	dislocation
+soft tissue injury	leads to	scar formation
+hemarthrosis	occurs with	joint dislocation
+hyaline cartilage injury	associated with	patellar dislocation
+range of motion impairment	occurs after	dislocation
+trauma	causes	dislocations
+open reduction	followed by	physical therapy
+physical therapy	facilitates	rehabilitation
+hemarthrosis	associated with	joint dislocation
+hemarthrosis	managed with	aspiration
+tendon injury	accompanies	dislocation
+bone bruise	results in	joint dislocation
+dislocation	increases	chronic pain
+dislocation	associated with	infection
+knee dislocation with vascular injury	requires	vascular repair
+nerve repair	performed for	peroneal nerve injury
+bone graft	used for	fracture-dislocation
+postoperative infection	risk after	open reduction
+chemoprophylaxis	reduces risk of	surgical site infection
+deltoid weakness	indicates	axillary nerve injury
+deltoid weakness	improvement with	nerve repair
+labral tear	treated with	arthroscopic repair
+osteochondral fracture	associated with	knee dislocation
+post-traumatic arthritis	associated with	knee dislocation
+arthroplasty	used for	post-traumatic arthritis
+rehabilitation	essential for	recovery after dislocation

@@ -1,135 +1,102 @@
+nonspecific chest pain	may indicate	acute coronary syndrome
 nonspecific chest pain	may indicate	myocardial infarction
 nonspecific chest pain	may indicate	unstable angina
-nonspecific chest pain	may indicate	aortic dissection
-nonspecific chest pain	may indicate	pulmonary embolism
-nonspecific chest pain	may indicate	myocarditis
-nonspecific chest pain	may indicate	pericarditis
-nonspecific chest pain	may indicate	gastroesophageal reflux disease
-nonspecific chest pain	may indicate	esophageal spasm
-nonspecific chest pain	may indicate	peptic ulcer disease
-nonspecific chest pain	may indicate	gastritis
-nonspecific chest pain	may indicate	pneumonia
-nonspecific chest pain	may indicate	pleurisy
-nonspecific chest pain	may indicate	pneumothorax
-nonspecific chest pain	may indicate	costochondritis
-nonspecific chest pain	may indicate	chest wall injury
-nonspecific chest pain	may indicate	anxiety disorder
-nonspecific chest pain	may indicate	panic disorder
-nonspecific chest pain	requires	electrocardiogram
-nonspecific chest pain	requires	troponin testing
-nonspecific chest pain	requires	chest radiography
-nonspecific chest pain	requires	echocardiography
-nonspecific chest pain	requires	CT angiography
-nonspecific chest pain	requires	D-dimer testing
-nonspecific chest pain	associated with	dyspnea
-nonspecific chest pain	associated with	chest pressure
-nonspecific chest pain	associated with	tachycardia
-nonspecific chest pain	associated with	diaphoresis
-nonspecific chest pain	associated with	nausea
-nonspecific chest pain	associated with	vomiting
-nonspecific chest pain	associated with	dizziness
-nonspecific chest pain	associated with	fatigue
-nonspecific chest pain	associated with	fever
-nonspecific chest pain	associated with	hypertension
-nonspecific chest pain	associated with	hyperlipidemia
-nonspecific chest pain	associated with	diabetes mellitus
-nonspecific chest pain	associated with	smoking
-nonspecific chest pain	associated with	obesity
-nonspecific chest pain	associated with	physical exertion
-nonspecific chest pain	associated with	alcohol use
-nonspecific chest pain	associated with	sleep apnea
-nonspecific chest pain	is a symptom of	acute coronary syndrome
-nonspecific chest pain	is a symptom of	myocardial ischemia
-nonspecific chest pain	is a symptom of	congestive heart failure
-nonspecific chest pain	is a symptom of	mitral valve disease
-nonspecific chest pain	is a differential diagnosis of	acute coronary syndrome
-nonspecific chest pain	can mimic	myocardial infarction
-nonspecific chest pain	can mimic	angina pectoris
-nonspecific chest pain	is managed with	analgesics
-nonspecific chest pain	may be treated with	nitrates
-nonspecific chest pain	requires	cardiology referral
-nonspecific chest pain	requires	emergency department evaluation
-nonspecific chest pain	predicts	hospitalization
+nonspecific chest pain	is a symptom of	coronary artery disease
+nonspecific chest pain	is a symptom of	angina pectoris
+nonspecific chest pain	is associated with	aortic dissection
+nonspecific chest pain	is associated with	pulmonary embolism
+nonspecific chest pain	is associated with	pneumothorax
+nonspecific chest pain	is associated with	pericarditis
+nonspecific chest pain	is associated with	myocarditis
+nonspecific chest pain	is associated with	gastroesophageal reflux disease
+nonspecific chest pain	is associated with	esophageal spasm
+nonspecific chest pain	is associated with	costochondritis
+nonspecific chest pain	is associated with	musculoskeletal pain
+nonspecific chest pain	is associated with	pneumonia
+nonspecific chest pain	is associated with	pleuritis
+nonspecific chest pain	is associated with	esophagitis
+nonspecific chest pain	is a presenting symptom of	acute coronary syndrome
+nonspecific chest pain	is common in	elderly
+nonspecific chest pain	is common in	women
+nonspecific chest pain	is common in	men
+nonspecific chest pain	is associated with	hypertension
+nonspecific chest pain	is associated with	diabetes mellitus
+nonspecific chest pain	is associated with	hyperlipidemia
+nonspecific chest pain	is associated with	obesity
+nonspecific chest pain	is associated with	smoking
+nonspecific chest pain	is evaluated with	electrocardiogram
+nonspecific chest pain	is evaluated with	troponin testing
+nonspecific chest pain	is evaluated with	chest imaging
+nonspecific chest pain	is evaluated with	echocardiography
+nonspecific chest pain	is evaluated with	stress testing
+nonspecific chest pain	is evaluated with	chest computed tomography
+nonspecific chest pain	is evaluated with	chest X-ray
+nonspecific chest pain	is evaluated with	D-dimer testing
+nonspecific chest pain	is evaluated with	ECG monitoring
+nonspecific chest pain	is associated with	anxiety disorders
+nonspecific chest pain	is associated with	panic disorders
+nonspecific chest pain	is associated with	sleep disorders
+nonspecific chest pain	is associated with	dehydration
+nonspecific chest pain	is associated with	physical deconditioning
+nonspecific chest pain	is associated with	electrolyte disturbance
+nonspecific chest pain	is associated with	thyroid disease
+nonspecific chest pain	is associated with	anemia
+nonspecific chest pain	is associated with	substance use
+nonspecific chest pain	is associated with	alcohol use
+nonspecific chest pain	is associated with	caffeine intake
+nonspecific chest pain	is associated with	pregnancy
+nonspecific chest pain	is associated with	chest wall trauma
+nonspecific chest pain	is associated with	rib fracture
+nonspecific chest pain	may mimic	musculoskeletal chest pain
+nonspecific chest pain	may mimic	esophageal reflux
+nonspecific chest pain	presents to	emergency department
+nonspecific chest pain	leads to	hospital admission
+nonspecific chest pain	leads to	intensive care admission
 nonspecific chest pain	predicts	readmission
 nonspecific chest pain	predicts	mortality
-nonspecific chest pain	influences	discharge decision
-nonspecific chest pain	influences	level of care
-nonspecific chest pain	is more common in	women
-nonspecific chest pain	is more common in	older age
-nonspecific chest pain	may co-occur with	dehydration
-nonspecific chest pain	may co-occur with	anemia
-nonspecific chest pain	precipitated by	caffeine
-nonspecific chest pain	precipitated by	alcohol
-nonspecific chest pain	precipitated by	cold exposure
-nonspecific chest pain	relieved by	rest
-nonspecific chest pain	relieved by	nitroglycerin
-nonspecific chest pain	improves with	relaxation
+nonspecific chest pain	predicts	major adverse cardiovascular events
+nonspecific chest pain	correlates with	troponin level
+nonspecific chest pain	correlates with	ECG abnormalities
+nonspecific chest pain	correlates with	ST-segment changes
+nonspecific chest pain	correlates with	chest imaging abnormalities
+nonspecific chest pain	seen in	elderly population
+nonspecific chest pain	seen in	female patients
+nonspecific chest pain	seen in	male patients
+nonspecific chest pain	is considered in	differential diagnosis
+nonspecific chest pain	is differentiated from	chest wall pain
+nonspecific chest pain	is differentiated from	gastroesophageal reflux disease
+nonspecific chest pain	is differentiated from	pulmonary embolism
+nonspecific chest pain	responds to	rest
+nonspecific chest pain	responds to	nitroglycerin
 nonspecific chest pain	responds to	analgesia
-nonspecific chest pain	is a presenting symptom of	coronary syndrome
-nonspecific chest pain	is a presenting symptom of	valve disease
-nonspecific chest pain	is commonly evaluated with	ECG
-nonspecific chest pain	is commonly evaluated with	troponin testing
-nonspecific chest pain	is commonly evaluated with	chest radiography
-nonspecific chest pain	is commonly evaluated with	echocardiography
-nonspecific chest pain	carries	diagnostic uncertainty
-nonspecific chest pain	affects	triage decisions
-nonspecific chest pain	caused by	musculoskeletal chest wall pain
-nonspecific chest pain	caused by	gastroesophageal reflux disease
-nonspecific chest pain	caused by	anxiety disorder
-nonspecific chest pain	caused by	costochondritis
-nonspecific chest pain	caused by	esophageal spasm
-nonspecific chest pain	may mimic	acute coronary syndrome
-nonspecific chest pain	evaluated with	electrocardiogram
-nonspecific chest pain	evaluated with	troponin test
-nonspecific chest pain	evaluated with	chest radiography
-nonspecific chest pain	evaluated with	transthoracic echocardiography
-nonspecific chest pain	evaluated with	exercise treadmill test
-nonspecific chest pain	evaluated with	CT coronary angiography
-nonspecific chest pain	evaluated with	nuclear perfusion imaging
-nonspecific chest pain	risk stratified by	HEART score
-nonspecific chest pain	risk stratified by	TIMI score
-HEART score	used for	risk stratification in chest pain
-TIMI score	used for	risk stratification in chest pain
-troponin elevation	indicates	myocardial injury
-troponin elevation	suggests	acute myocardial infarction
-electrocardiogram	detects	ischemia
-chest radiography	rules out	pneumonia
-CT coronary angiography	excludes	obstructive coronary disease
-CT coronary angiography	identifies	coronary stenosis
-stress testing	evaluates	inducible ischemia
-echocardiography	assesses	wall motion abnormality
-nonspecific chest pain	treated with	analgesia
-nonspecific chest pain	managed with	observation
-nonspecific chest pain	discharge criteria	low-risk
-nonspecific chest pain	follow-up	outpatient cardiac evaluation
-nonspecific chest pain	admission criteria	high-risk features
-nonspecific chest pain	recurrence risk	high after discharge
-negative troponin	indicates	noncardiac chest pain
-normal electrocardiogram	implies	low likelihood of ACS
-women	present with	nonspecific chest pain
-older adults	more likely to have	nonspecific chest pain
-smoking	increases	risk of coronary disease in chest pain patients
-hypertension	coexists with	nonspecific chest pain
-diabetes mellitus	coexists with	nonspecific chest pain
-hyperlipidemia	coexists with	nonspecific chest pain
-obesity	coexists with	nonspecific chest pain
-panic disorder	presents as	chest pain
-sleep apnea	associated with	chest pain
-pneumothorax	detected by	chest radiography
-pneumonia	detected by	chest radiography
-pulmonary embolism	ruled out by	CT pulmonary angiography
-gastroesophageal reflux disease	treated with	proton pump inhibitors
-esophagitis	associated with	chest pain
-costochondritis	treated with	nonsteroidal anti-inflammatory drugs
-musculoskeletal chest pain	resolves with	rest
-anxiety	treated with	anxiolytics
-nonspecific chest pain	affects	healthcare utilization
-emergency department visits	count	chest pain presentations
-outpatient surveillance	recommended after	chest pain evaluation
-telemetry monitoring	used for	chest pain observation
-serial troponin testing	increases	diagnostic accuracy
-serial ECGs	increases	ACS detection
-cardiac MRI	used for	chest pain evaluation
-electrolyte disturbance	causes	chest pain
-dehydration	causes	chest pain
-tachycardia	accompanies	chest pain
+nonspecific chest pain	requires	diagnostic workup
+nonspecific chest pain	prompts	coronary angiography
+nonspecific chest pain	prompts	cardiology consultation
+nonspecific chest pain	impacts	patient anxiety
+nonspecific chest pain	affects	hospital resource use
+nonspecific chest pain	complicates	triage decision
+nonspecific chest pain	informs	diagnostic pathway
+nonspecific chest pain	contributes to	ED crowding
+nonspecific chest pain	increases	medical costs
+nonspecific chest pain	is included in	chest pain guidelines
+nonspecific chest pain	is described in	medical literature
+nonspecific chest pain	is used in	risk models
+nonspecific chest pain	informs	prognosis estimation
+nonspecific chest pain	is addressed by	clinical guidelines
+nonspecific chest pain	is mapped to	ICD coding
+nonspecific chest pain	appears with	shortness of breath
+nonspecific chest pain	appears with	chest discomfort
+nonspecific chest pain	appears with	diaphoresis
+nonspecific chest pain	has	multiple etiologies
+nonspecific chest pain	is considered in	differential diagnosis
+nonspecific chest pain	is a diagnostic consideration	for chest pain syndrome
+nonspecific chest pain	overlaps with	pleuritic chest pain
+nonspecific chest pain	overlaps with	musculoskeletal strain
+nonspecific chest pain	occurs in	after physical exertion
+nonspecific chest pain	overlaps with	GERD symptoms
+nonspecific chest pain	is a common reason for	emergency department referral
+nonspecific chest pain	is a common cause of	workup costs
+nonspecific chest pain	is a common presentation in	primary care
+nonspecific chest pain	is a reason for	chest pain protocol activation
+nonspecific chest pain	is included in	risk assessment tools
+nonspecific chest pain	is used to train	clinical prediction models

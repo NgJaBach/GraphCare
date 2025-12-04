@@ -1,199 +1,100 @@
-hepatocellular carcinoma	is a type of	liver cancer
-intrahepatic cholangiocarcinoma	is a type of	liver cancer
-combined hepatocellular-cholangiocarcinoma	is a type of	liver cancer
-fibrolamellar hepatocellular carcinoma	is a type of	hepatocellular carcinoma
-liver cancer	is a malignant neoplasm of	liver
-cirrhosis	is a risk factor for	liver cancer
-hepatitis B virus infection	is a risk factor for	liver cancer
-hepatitis C virus infection	is a risk factor for	liver cancer
-alcohol use disorder	is a risk factor for	liver cancer
-nonalcoholic fatty liver disease	is a risk factor for	liver cancer
-diabetes mellitus	is a risk factor for	liver cancer
-aflatoxin exposure	is a risk factor for	liver cancer
-obesity	is a risk factor for	liver cancer
-smoking	is a risk factor for	liver cancer
-age	is a risk factor for	liver cancer
-male sex	is a risk factor for	liver cancer
-hemochromatosis	is a risk factor for	liver cancer
-bile duct disease	is a risk factor for	intrahepatic cholangiocarcinoma
-liver cirrhosis	is a risk factor for	intrahepatic cholangiocarcinoma
-smoking	is a risk factor for	intrahepatic cholangiocarcinoma
-age	is a risk factor for	intrahepatic cholangiocarcinoma
-diabetes mellitus	is a risk factor for	intrahepatic cholangiocarcinoma
-alpha-fetoprotein	is a tumor marker for	hepatocellular carcinoma
-des-gamma-carboxy prothrombin	is a tumor marker for	hepatocellular carcinoma
-CA19-9	is a tumor marker for	intrahepatic cholangiocarcinoma
-CA19-9	is a tumor marker for	liver cancer
-MRI	is a diagnostic method for	liver cancer
-CT scan	is a diagnostic method for	liver cancer
-ultrasound	is a diagnostic method for	liver cancer
-liver biopsy	is a diagnostic method for	liver cancer
-histology	confirms	hepatocellular carcinoma
-histology	confirms	intrahepatic cholangiocarcinoma
-imaging	is used for	liver cancer diagnosis
-surgery	is a treatment for	liver cancer
-hepatectomy	is a treatment for	liver cancer
-liver transplantation	is a treatment for	liver cancer
-ablation	is a treatment for	liver cancer
-radiofrequency ablation	is a treatment for	liver cancer
-microwave ablation	is a treatment for	liver cancer
-transarterial chemoembolization	is a treatment for	liver cancer
-transarterial embolization	is a treatment for	liver cancer
-embolization	is a treatment for	liver cancer
-systemic chemotherapy	is a treatment for	liver cancer
-sorafenib	is a drug used for	liver cancer
-lenvatinib	is a drug used for	liver cancer
-regorafenib	is a drug used for	liver cancer
-cabozantinib	is a drug used for	liver cancer
-atezolizumab-bevacizumab	is a therapy for	hepatocellular carcinoma
-nivolumab	is a therapy for	hepatocellular carcinoma
-pembrolizumab	is a therapy for	hepatocellular carcinoma
-immunotherapy	is a therapy for	liver cancer
-radiation therapy	is a therapy for	liver cancer
-palliative care	is a care for	liver cancer
-clinical trial	is an option for	liver cancer
-vascular invasion	predicts	recurrence after liver cancer treatment
-tumor size	predicts	survival in liver cancer
-number of nodules	predicts	prognosis in liver cancer
-multifocality	predicts	prognosis in liver cancer
-child-pugh score	predicts	liver cancer outcomes
-MELD score	predicts	liver cancer outcomes
-alpha-fetoprotein level	correlates with	prognosis in hepatocellular carcinoma
-stage	determines	prognosis in liver cancer
-vascular invasion	increases	recurrence risk in liver cancer
-tumor margins	influence	surgical outcome in liver cancer
-performance status	predicts	treatment tolerance in liver cancer
-bilirubin level	predicts	prognosis in liver cancer
-albumin level	predicts	prognosis in liver cancer
-platelet count	predicts	bleeding risk in liver cancer surgery
-portal hypertension	accompanies	cirrhosis
-ascites	indicates	advanced liver cancer
-cachexia	occurs with	advanced liver cancer
-paraneoplastic syndrome	may accompany	liver cancer
-fever	occurs with	infection in liver cancer
-liver function tests	monitor	liver cancer progression
-imaging follow-up	monitors	liver cancer progression
-surveillance imaging	monitors	liver cancer recurrence
-tumor progression	indicates	treatment escalation in liver cancer
-surgical candidacy	depends on	liver function
-transplant eligibility	depends on	tumor burden in liver cancer
-ALBI score	predicts	survival in liver cancer
-bilirubin clearance	indicates	liver function after resection
-portal vein thrombosis	worsens	prognosis in liver cancer
-hepatic venous outflow	affects	liver surgery risk
-cirrhotic liver remnant	influences	postoperative outcome
-recovery after surgery	is influenced by	liver function
-infection after surgery	increases	mortality risk in liver cancer
-postoperative liver failure	is a complication of	liver cancer surgery
-recurrence after resection	occurs with	hepatocellular carcinoma
-recurrence after transplant	occurs with	hepatocellular carcinoma
-tumor marker decline	indicates	treatment response in liver cancer
-radiologic response	indicates	treatment response in liver cancer
-biopsy findings	guide	treatment choice in liver cancer
-multidisciplinary tumor board	coordinates	liver cancer care
-antifibrotic therapy	may reduce	liver cancer risk
-antiviral therapy	reduces	risk of liver cancer in hepatitis B or C
-HBV vaccination	reduces	liver cancer incidence
-HBV suppression	reduces	hepatitis B reactivation during therapy
-liver function reserve	limits	surgical options
-portal venous pressure	influences	surgical planning in liver cancer
-hepatocellular carcinoma	is a	liver cancer
-intrahepatic cholangiocarcinoma	is a	liver cancer
-hepatocellular carcinoma	is a	malignant liver tumor
-intrahepatic cholangiocarcinoma	is a	malignant biliary tumor
-cirrhosis	increases risk of	hepatocellular carcinoma
-cirrhosis	associated with	portal hypertension
-obesity	increases risk of	hepatocellular carcinoma
-diabetes mellitus	increases risk of	hepatocellular carcinoma
-alcohol consumption	increases risk of	hepatocellular carcinoma
-nonalcoholic fatty liver disease	increases risk of	hepatocellular carcinoma
-hepatitis C infection	increases risk of	hepatocellular carcinoma
-hepatitis B infection	increases risk of	hepatocellular carcinoma
-primary sclerosing cholangitis	increases risk of	intrahepatic cholangiocarcinoma
-liver fluke infection	increases risk of	cholangiocarcinoma
-bile duct stones	associated with	cholangiocarcinoma
-age	associated with	hepatocellular carcinoma
-male sex	associated with	hepatocellular carcinoma
-family history of liver cancer	increases risk of	hepatocellular carcinoma
-hepatocellular carcinoma	associated with	vascular invasion
-intrahepatic cholangiocarcinoma	associated with	biliary invasion
+cirrhosis	is risk factor for	liver cancer
+hepatitis B virus	is risk factor for	hepatocellular carcinoma
+hepatitis C virus	is risk factor for	hepatocellular carcinoma
+alcohol use	is risk factor for	liver cancer
+nonalcoholic fatty liver disease	is risk factor for	liver cancer
+diabetes mellitus	is risk factor for	hepatocellular carcinoma
+obesity	is risk factor for	hepatocellular carcinoma
+aflatoxin exposure	is risk factor for	hepatocellular carcinoma
+age	is risk factor for	liver cancer
+smoking	is risk factor for	liver cancer
+primary sclerosing cholangitis	is risk factor for	intrahepatic cholangiocarcinoma
+biliary cysts	is risk factor for	intrahepatic cholangiocarcinoma
+age	is risk factor for	intrahepatic cholangiocarcinoma
 alpha-fetoprotein	is biomarker for	hepatocellular carcinoma
-alpha-fetoprotein	is elevated in	hepatocellular carcinoma
 CA 19-9	is biomarker for	intrahepatic cholangiocarcinoma
-CA 19-9	is elevated in	intrahepatic cholangiocarcinoma
-liver biopsy	used for	confirmation of hepatocellular carcinoma
-imaging	used for	diagnosis of hepatocellular carcinoma
-CT scan	used for	diagnosis of hepatocellular carcinoma
-MRI	used for	diagnosis of hepatocellular carcinoma
-biopsy	used for	confirmation of intrahepatic cholangiocarcinoma
-imaging	used for	diagnosis of intrahepatic cholangiocarcinoma
-CT scan	used for	diagnosis of intrahepatic cholangiocarcinoma
-MRI	used for	diagnosis of intrahepatic cholangiocarcinoma
-liver cancer	diagnosed by	imaging
-hepatocellular carcinoma	treated with	surgical resection
-hepatocellular carcinoma	treated with	liver transplantation
-hepatocellular carcinoma	treated with	transarterial chemoembolization
-hepatocellular carcinoma	treated with	radiofrequency ablation
-hepatocellular carcinoma	treated with	microwave ablation
-hepatocellular carcinoma	treated with	systemic therapy
-hepatocellular carcinoma	treated with	sorafenib
-hepatocellular carcinoma	treated with	lenvatinib
-hepatocellular carcinoma	treated with	immunotherapy
-intrahepatic cholangiocarcinoma	treated with	surgical resection
-intrahepatic cholangiocarcinoma	treated with	chemotherapy
-intrahepatic cholangiocarcinoma	treated with	radiotherapy
-intrahepatic cholangiocarcinoma	treated with	biliary drainage
-intrahepatic cholangiocarcinoma	treated with	systemic therapy
-liver cancer	treated with	locoregional therapy
-sorafenib	used for	hepatocellular carcinoma
+liver ultrasound	is screening method for	liver cancer
+CT scan	is imaging modality for	liver cancer
+MRI	is imaging modality for	liver cancer
+PET-CT	is imaging modality for	metastatic liver cancer
+biopsy	confirms	hepatocellular carcinoma
+biopsy	confirms	intrahepatic cholangiocarcinoma
+histology	defines	tumor type
+vascular invasion	indicates	aggressive disease
+tumor size	correlates with	prognosis
+tumor stage	correlates with	prognosis
+surgical resection	is curative for	hepatocellular carcinoma
+hepatectomy	is treatment for	hepatocellular carcinoma
+liver transplantation	can treat	hepatocellular carcinoma
+transarterial chemoembolization	used for	hepatocellular carcinoma
+radioembolization	used for	hepatocellular carcinoma
+ablation	used for	hepatocellular carcinoma
+radiation therapy	used for	hepatocellular carcinoma
+atezolizumab	used for	hepatocellular carcinoma
+bevacizumab	used with	atezolizumab
+sorafenib	approved for	hepatocellular carcinoma
+lenvatinib	approved for	hepatocellular carcinoma
+regorafenib	approved for	hepatocellular carcinoma
+pembrolizumab	used for	biliary tract cancer
+nivolumab	used for	hepatocellular carcinoma
+durvalumab	used for	biliary tract cancer
+gemcitabine	used in	biliary tract cancer
+cisplatin	used in	biliary tract cancer
 gemcitabine	used with	cisplatin
-cisplatin	used with	gemcitabine
-immunotherapy	used in	hepatocellular carcinoma
-targeted therapy	used in	hepatocellular carcinoma
-immunotherapy	used in	intrahepatic cholangiocarcinoma
-radiotherapy	used in	intrahepatic cholangiocarcinoma
-palliation	provided by	transarterial chemoembolization
-palliative care	relevant to	advanced liver cancer
-surgical resection	improves	overall survival
-liver transplantation	improves	overall survival in select hepatocellular carcinoma
-locoregional therapy	provides	disease control in hepatocellular carcinoma
-chemotherapy	provides	symptom relief in cholangiocarcinoma
-tumor burden	influences	prognosis
-portal vein thrombosis	worsens	prognosis in hepatocellular carcinoma
-liver dysfunction	complicates	management of hepatocellular carcinoma
-hepatic reserve	limits	curative therapy for hepatocellular carcinoma
-child-pugh score	guides	treatment selection in hepatocellular carcinoma
-staging system	determines	prognosis of hepatocellular carcinoma
-treatment response	predicts	survival in hepatocellular carcinoma
-radiologic response	correlates with	disease control
-surgical margin status	predicts	recurrence after resection
-vascular invasion	associated with	poor prognosis in hepatocellular carcinoma
-intrahepatic cholangiocarcinoma	often presents with	weight loss
-intrahepatic cholangiocarcinoma	often presents with	jaundice
-intrahepatic cholangiocarcinoma	associated with	pruritus
-intrahepatic cholangiocarcinoma	associated with	cholestasis
-liver cancer	associated with	portal hypertension
-postoperative mortality	risk with	cirrhosis
-diabetes mellitus	worsens	prognosis in hepatocellular carcinoma
-nonalcoholic fatty liver disease	progresses to	cirrhosis
-cirrhosis	reduces	hepatic reserve
-hepatic reserve	limits	resection candidacy
-alpha-fetoprotein	used to monitor	disease status in hepatocellular carcinoma
-CA 19-9	used to monitor	disease status in cholangiocarcinoma
-liver cancer	common in	older adults
-cholangiocarcinoma	rare in	children
-liver cancer	screen in	high-risk populations
-safety profile	differs between	hepatocellular carcinoma therapies
-treatment toxicity	varies with	liver function
-renal function	influences	chemotherapy selection
-liver cancer	recurrence after	resection
-cirrhosis	complicates	liver cancer management
-liver cancer	metastasizes to	lungs
-hepatocellular carcinoma	metastasizes to	lungs
-intrahepatic cholangiocarcinoma	metastasizes to	lymph nodes
-hepatocellular carcinoma	metastasizes to	lymph nodes
-hepatic stellate cell activation	contributes to	cirrhosis
-liver cancer	etiology	multifactorial
-cholangiocarcinoma	etiology	multifactorial
-mixed hepatocellular-cholangiocarcinoma	classified as	rare tumor type
-cirrhosis	surveillance with	ultrasound
+cisplatin	combined with	gemcitabine
+capecitabine	used in	biliary tract cancer
+immunotherapy	used for	biliary tract cancer
+liver-directed therapy	includes	TACE
+transarterial chemoembolization	provides	local tumor necrosis
+radioembolization	provides	local tumor control
+ablation	provides	local tumor control
+surgical margins	predict	recurrence
+positive surgical margins	predict	recurrence
+macrovascular invasion	indicates	advanced disease
+portal vein thrombosis	complicates	liver cancer
+ascites	accompanies	cirrhosis
+hepatic encephalopathy	accompanies	liver cancer
+Child-Pugh class	predicts	liver function
+BCLC stage	guides	treatment strategy
+TNM stage	informs	prognosis
+recurrence	after resection	high
+recurrence	after liver transplantation	variable
+postoperative care	is necessary for	liver cancer surgery
+surveillance imaging	detects	recurrence
+surveillance biomarkers	monitor	disease status
+alpha-fetoprotein level	tracks	hepatocellular carcinoma
+CA 19-9 level	tracks	cholangiocarcinoma
+liver function tests	reflect	liver function
+bilirubin	reflects	cholestasis
+albumin	reflects	synthetic liver function
+portal hypertension	arises from	cirrhosis
+ascites	accompanies	portal hypertension
+hepatorenal syndrome	arises with	advanced liver cancer
+malnutrition	worsens	prognosis
+cachexia	worsens	prognosis
+radiation therapy	provides	palliation
+palliative care	improves	quality of life
+smoking cessation	reduces	cancer risk
+HBV vaccination	reduces	liver cancer risk
+HCV treatment	reduces	hepatocellular carcinoma risk
+liver cancer	has	mortality
+hepatic failure	coexists with	liver cancer
+hepatic encephalopathy	associated with	liver cancer
+portal vein invasion	associated with	poor prognosis
+biliary obstruction	occurs with	intrahepatic cholangiocarcinoma
+jaundice	presents with	cholangiocarcinoma
+weight loss	presents with	liver cancer
+abdominal pain	presents with	liver cancer
+fever	occurs with	cholangiocarcinoma
+vascular thrombosis	coexists with	liver cancer
+multidisciplinary care	requires	liver cancer
+liver cancer surveillance	improves	early detection
+tumor markers	monitor	disease status
+HBV vaccination	reduces	cirrhosis progression
+HCC screening	recommended for	cirrhosis patients
+early-stage hepatocellular carcinoma	eligible for	surgical resection
+late-stage hepatocellular carcinoma	requires	systemic therapy
+gallbladder cancer	is different from	hepatocellular carcinoma
+staging	informs	prognosis
+staging	impacts	prognosis
+treatment decision	depends on	tumor stage

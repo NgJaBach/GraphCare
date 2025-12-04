@@ -1,100 +1,113 @@
 hepatitis	is a	liver inflammation
-hepatitis A	is a	type of hepatitis
-hepatitis B	is a	type of hepatitis
-hepatitis C	is a	type of hepatitis
-hepatitis D	is a	type of hepatitis
-hepatitis E	is a	type of hepatitis
-drug-induced hepatitis	is a	liver injury
-alcoholic hepatitis	is a	liver disease
-autoimmune hepatitis	is a	liver disease
-viral hepatitis	is a	infectious disease
-acute hepatitis	is a	form of hepatitis
-chronic hepatitis	is a	form of hepatitis
-hepatitis A virus	causes	hepatitis A
-hepatitis B virus	causes	hepatitis B
-hepatitis C virus	causes	hepatitis C
-hepatitis D virus	causes	hepatitis D
-hepatitis E virus	causes	hepatitis E
+hepatitis A	is a	viral hepatitis
+hepatitis B	is a	viral hepatitis
+hepatitis C	is a	viral hepatitis
+hepatitis D	is a	viral hepatitis
+hepatitis E	is a	viral hepatitis
+autoimmune hepatitis	is a	autoimmune liver disease
+alcoholic hepatitis	is a	alcohol-related liver disease
+drug-induced hepatitis	is a	drug-induced liver injury
+viral hepatitis	is a	communicable disease
 hepatitis A	transmitted by	fecal-oral route
-hepatitis B	transmitted by	blood and body fluids
-hepatitis C	transmitted by	blood
-hepatitis D	transmitted by	blood and body fluids
+hepatitis B	transmitted by	blood and sexual contact
+hepatitis C	transmitted by	blood contact
 hepatitis E	transmitted by	fecal-oral route
-jaundice	is a symptom of	hepatitis
-fatigue	is a symptom of	hepatitis
-right upper quadrant pain	is a symptom of	hepatitis
-fever	may accompany	acute hepatitis
-serology	used for	diagnosing hepatitis
-alanine aminotransferase	is elevated in	hepatitis
-aspartate aminotransferase	is elevated in	hepatitis
-bilirubin	increases in	hepatitis
-albumin	decreases in	chronic hepatitis
-liver biopsy	used for	diagnosing hepatitis
-ultrasound	used for	evaluating hepatitis
-MRI	used for	evaluating hepatitis
-liver function tests	show	elevated transaminases
-hepatitis	can lead to	liver failure
+autoimmune hepatitis	associated with	autoimmune disorders
 hepatitis	can lead to	cirrhosis
-cirrhosis	predisposes to	portal hypertension
-portal hypertension	leads to	variceal bleeding
-hepatitis B	can become	chronic infection
-hepatitis C	can become	chronic infection
-hepatitis B	treated with	antivirals
-hepatitis C	treated with	antivirals
-antiviral therapy	reduces	liver viral load
-sofosbuvir	is a	antiviral
-ledipasvir	is a	antiviral
-velpatasvir	is a	antiviral
-ribavirin	is a	antiviral
-daclatasvir	is a	antiviral
-paritaprevir	is a	protease inhibitor
-ritonavir	is a	pharmacologic booster
-paritaprevir/ritonavir	is a	combination therapy for hepatitis C
-combination therapy	is a	treatment for hepatitis C
-sustained virologic response	indicates	virologic cure
-immunologic response	is stimulated by	interferon
-interferon	used for	hepatitis B
-interferon	used for	hepatitis C
-nucleoside analogs	used for	hepatitis B
-tenofovir	used for	hepatitis B
-entecavir	used for	hepatitis B
-pegylated interferon	used for	hepatitis C
-hepatitis B vaccination	prevents	hepatitis B infection
-hepatitis A vaccination	prevents	hepatitis A infection
-post-exposure prophylaxis	given after	exposure to hepatitis A virus
-post-exposure prophylaxis	given after	exposure to hepatitis B virus
-intravenous drug use	increases risk of	hepatitis C
-blood transfusion before 1992	increases risk of	hepatitis C
-shared needles	increases risk of	hepatitis C
-occupational exposure	increases risk of	hepatitis B
-sexual contact	transmits	hepatitis B
-mother-to-child transmission	occurs with	hepatitis B
-hepatitis B carrier state	associated with	chronic liver disease
-alpha-fetoprotein	is a biomarker for	hepatocellular carcinoma
-surveillance imaging	used for	hepatocellular carcinoma detection
-hepatic encephalopathy	is a complication of	cirrhosis
-ascites	is a complication of	cirrhosis
-variceal bleeding	is a complication of	portal hypertension
-hepatorenal syndrome	is a complication of	cirrhosis
-portal hypertension	complicates	ascites
-antiviral resistance	arises with	hepatitis treatment
-antiviral resistance	arises with	hepatitis C treatment
-drug interactions	affect	hepatitis therapies
-acetaminophen	can cause	drug-induced liver injury
-alcohol	worsens	hepatitis prognosis
-obesity	worsens	hepatitis prognosis
-diabetes	worsens	hepatitis prognosis
-smoking	worsens	liver disease in hepatitis
-vaccination program	reduces	population hepatitis incidence
-global health	aims to control	hepatitis
-clinical trial	evaluates	new therapies for hepatitis
-quality of life	improves with	hepatitis treatment
-mortality	decreases with	effective antiviral therapy
-readmission risk	increases with	hepatitis decompensation
-decompensation	increases	length of hospital stay
-liver transplant waitlist	lengthened by	hepatitis severity
-albumin level	predicts	liver function reserve
-platelet count	decreases with	portal hypertension
-creatinine	rises with	hepatorenal syndrome
-age	influences	hepatitis progression
-immunization coverage	correlates with	herd immunity to hepatitis
+cirrhosis	leads to	portal hypertension
+cirrhosis	leads to	ascites
+cirrhosis	increases risk of	variceal bleeding
+hepatitis B infection	increases risk of	hepatocellular carcinoma
+hepatitis C infection	increases risk of	hepatocellular carcinoma
+HBsAg	is a	marker of hepatitis B infection
+anti-HCV	is a	marker of hepatitis C exposure
+ALT	is elevated in	hepatitis
+AST	is elevated in	hepatitis
+bilirubin	is elevated in	hepatitis
+INR	is elevated in	hepatic failure
+platelet count	decreases in	chronic liver disease
+MELD score	predicts	mortality in liver disease
+Child-Pugh score	classifies	liver failure severity
+hepatic encephalopathy	is a	complication of liver failure
+ascites	is a	complication of cirrhosis
+hepatorenal syndrome	is a	complication of cirrhosis
+variceal bleeding	is a	complication of portal hypertension
+liver biopsy	is a	diagnostic procedure for hepatitis
+liver ultrasound	shows	cirrhotic changes
+liver elastography	assesses	fibrosis
+HBV DNA	is a	marker of viral replication
+HBeAg	indicates	high infectivity
+HBsAg	indicates	active hepatitis B infection
+anti-HAV IgM	indicates	acute hepatitis A infection
+prednisone	used for	autoimmune hepatitis
+azathioprine	used for	autoimmune hepatitis
+tenofovir	is a	antiviral for hepatitis B
+entecavir	is a	antiviral for hepatitis B
+sofosbuvir	is a	antiviral for hepatitis C
+ledipasvir	is a	antiviral for hepatitis C
+direct-acting antivirals	is a	treatment for hepatitis C
+hepatitis B vaccine	prevents	hepatitis B infection
+hepatitis A vaccine	prevents	hepatitis A infection
+newborns	receive	hepatitis B vaccine
+healthcare workers	recommended for	hepatitis B vaccination
+obesity	increases risk of	fatty liver disease
+alcohol use	worsens	alcoholic hepatitis
+acetaminophen overdose	causes	hepatitis
+isoniazid	causes	hepatitis
+amoxicillin-clavulanate	causes	hepatitis
+immune-mediated flare	occurs with	autoimmune hepatitis
+HBV coinfection with HIV	worsens	prognosis of hepatitis B
+HIV coinfection with hepatitis C	worsens	prognosis
+hepatocellular carcinoma	associated with	chronic hepatitis
+cirrhosis	leads to	hepatic failure
+hepatic failure	leads to	death
+MELD score	used for	prioritization for liver transplantation
+liver transplantation	indicated for	end-stage liver disease
+recurrent hepatitis	occurs after	liver transplantation
+serum albumin	reduced in	chronic liver disease
+prothrombin time	prolonged in	liver disease
+alcoholic liver disease	overlaps with	hepatitis in some patients
+nonalcoholic fatty liver disease	can cause	hepatitis-like inflammation
+HBV vaccine	recommended for	healthcare workers
+HAV vaccine	recommended for	travelers
+HBsAg positivity	indicates	hepatitis B infection
+anti-HBc	indicates	past hepatitis B exposure
+active hepatitis B infection	is treated with	antiviral therapy
+HDV infection	complicates	hepatitis B prognosis
+HBV genotype	informs	treatment decisions
+HDV coinfection	worsens	liver disease progression
+HBV vaccine	reduces	hepatitis B incidence
+HCV genotype testing	guides	therapy selection
+FibroScan	used for	fibrosis assessment
+HBV DNA	elevated during	active replication
+HBeAg	indicates	high infectivity
+serology	used for	hepatitis diagnosis
+PCR testing	detects	viral hepatitis
+serum albumin	decreases in	chronic liver disease
+prothrombin time	prolonged in	liver disease
+paracentesis	used for	ascites
+diuretics	used for	ascites management
+splenomegaly	occurs with	portal hypertension
+portal hypertension	causes	esophageal varices
+esophageal varices	caused by	portal hypertension
+hepatocellular carcinoma	screening recommended for	chronic hepatitis
+immunosuppressive therapy	used for	autoimmune hepatitis
+autoantibodies	present in	autoimmune hepatitis
+ANA	present in	autoimmune hepatitis
+anti-smooth muscle antibody	present in	autoimmune hepatitis
+liver biopsy	confirms	fibrosis
+FibroScan	provides	fibrosis assessment
+paracentesis	relieves	ascites
+aspartate aminotransferase	elevations	in hepatitis
+alanine aminotransferase	elevations	in hepatitis
+gamma-glutamyl transferase	elevated in	hepatitis
+albumin	decreased in	chronic liver disease
+liver synthetic function	declines in	hepatitis
+coagulation factors	decrease in	liver disease
+hepatic stellate cells	contribute to	fibrosis
+platelet sequestration	occurs in	portal hypertension
+esophageal varices	develop from	portal hypertension
+hepatitis C	can cause	cryoglobulinemia
+cryoglobulinemia	associated with	hepatitis C
+paracentesis	used for	ascites relief
+survival	improves after	liver transplantation

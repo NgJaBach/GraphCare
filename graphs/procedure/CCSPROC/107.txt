@@ -1,0 +1,100 @@
+extracorporeal lithotripsy	is a	medical procedure
+extracorporeal lithotripsy	treats	kidney stones
+extracorporeal lithotripsy	treats	urinary stones
+extracorporeal lithotripsy	indicated for	stones
+extracorporeal lithotripsy	contraindicated in	coagulopathy
+extracorporeal lithotripsy	contraindicated in	pregnancy
+extracorporeal lithotripsy	requires	anesthesia
+extracorporeal lithotripsy	uses	lithotripter
+extracorporeal lithotripsy	uses	shock waves
+lithotripter	generates	energy
+lithotripter	requires	electricity
+fluoroscopy	provides	imaging guidance
+ultrasound	provides	imaging guidance
+imaging guidance	enables	stone targeting
+stone targeting	improves	fragmentation
+kidney stones	located in	kidney
+urinary stones	located in	urinary tract
+stone burden	influences	ESWL success
+stone size	affects	ESWL success
+stone density	influences	fragmentation efficiency
+postoperative pain	requires	analgesia
+hematuria	occurs after	ESWL
+fever	occurs after	ESWL
+infection	risk after	ESWL
+renal hematoma	complication of	ESWL
+steinstrasse	complication of	ESWL
+hydronephrosis	potential complication of	stone obstruction
+ureteral stent	placed after	ESWL
+hospitalization	duration after	ESWL
+readmission	occurs after	ESWL
+stone-free status	achieved by	ESWL
+stone-free status	defined as	absence of residual stones
+stone-free status	associated with	improved outcomes
+metabolic evaluation	recommended before	ESWL
+renal function	monitored after	ESWL
+creatinine	measured after	ESWL
+blood pressure	monitored after	ESWL
+pain medications	prescribed for	post-ESWL pain
+hydration	promotes	stone clearance
+stone migration	may occur during	ESWL
+stone migration	causes	obstruction
+stone composition	influences	ESWL success
+calcium oxalate stone	responds to	ESWL
+struvite stone	responds to	ESWL
+uric acid stone	responds to	ESWL
+shock waves	deliver energy	to stones
+energy level	adjustable for	ESWL
+focal length	determines	stone targeting
+operator expertise	affects	ESWL success
+stone clearance rate	correlates with	ESWL outcome
+stone-free rate	higher with	ESWL
+noninvasive procedure	category	ESWL
+adverse event rate	depends on	stone burden
+anesthesia type	influences	ESWL tolerability
+pediatric population	considerations for	ESWL
+adult population	considerations for	ESWL
+active infection	contraindicates	ESWL
+radiopaque stone	detected by	fluoroscopy
+radiolucent stone	detected by	ultrasound
+radiation exposure	increased by	fluoroscopy
+ultrasound guidance	reduces	radiation exposure
+patient comfort	improves with	ESWL
+recovery time	varies with	stone burden
+retreatment	option for	recurrent stones
+alternative therapy	considered when	ESWL fails
+surgery	alternative to	ESWL
+nephrolithotomy	alternative to	ESWL
+antibiotics	used for	ESWL prophylaxis
+follow-up imaging	scheduled for	post-ESWL
+repeat ESWL	option for	recurrent stones
+stone fragments	passage after	ESWL
+post-ESWL imaging	shows	residual stones
+residual stones	require	retreatment
+retreatment	includes	ESWL
+imaging	monitoring	stone status
+radiography	used for	follow-up imaging
+urinalysis	shows	hematuria
+urinalysis	shows	infection
+antibiotics	prescribed for	active infection
+follow-up visit	includes	urinalysis
+education	provided before	ESWL
+consent	obtained before	ESWL
+hydration status	optimized for	ESWL
+obesity	increases	ESWL energy requirement
+obesity	associated with	poor clearance
+stone recurrence	risk factor for	nephrolithiasis
+calcium oxalate stone	common composition	nephrolithiasis
+calcium oxalate stone	responds to	ESWL
+uric acid stone	responds to	ESWL
+x-ray	used for	stone detection
+CT scan	used for	stone detection
+ultrasound	used for	stone detection
+imaging modality	chosen for	ESWL planning
+pregnant patient	not suitable for	ESWL
+regional anesthesia	used for	ESWL
+general anesthesia	used for	ESWL
+electrocardiogram	monitoring	ESWL
+pediatric patients	require	dose adjustment
+elderly patients	higher risk for	ESWL complications
+stone recurrence rate	informs	patient counseling

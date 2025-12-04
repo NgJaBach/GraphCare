@@ -1,100 +1,100 @@
- e code	codes for	adverse effects of medical care 
- e code	indicates	iatrogenic injury 
- e code	identifies	hospital-acquired infection 
- e code	records	adverse event 
- e code	used for	patient safety issue 
- external-cause code	codes for	adverse effects of medical care 
- external-cause code	denotes	iatrogenic injury 
- external-cause code	tracks	hospital-acquired infection 
- external-cause code	relates to	adverse event 
- external-cause code	used for	morbidity 
- iatrogenic injury	is a	adverse event 
- iatrogenic injury	causes	morbidity 
- iatrogenic injury	leads to	readmission 
- iatrogenic injury	increases	hospital costs 
- iatrogenic injury	associated with	mortality 
- hospital-acquired infection	is a	infection 
- hospital-acquired infection	leads to	mortality 
- hospital-acquired infection	increases	length of stay 
- hospital-acquired infection	predicts	readmission 
- hospital-acquired infection	causes	morbidity 
- postoperative complication	is a	adverse event 
- postoperative complication	increases	length of stay 
- postoperative complication	leads to	mortality 
- postoperative complication	contributes to	morbidity 
- postoperative complication	codes for	adverse effects of medical care 
- transfusion reaction	is a	adverse event 
- transfusion reaction	causes	anemia 
- transfusion reaction	leads to	mortality 
- transfusion reaction	increases	length of stay 
- transfusion reaction	associated with	hospital costs 
- adverse drug reaction	is a	adverse effect of medical care 
- adverse drug reaction	causes	morbidity 
- adverse drug reaction	increases	hospital costs 
- adverse drug reaction	leads to	readmission 
- adverse drug reaction	associated with	mortality 
- surgical error	leads to	postoperative complication 
- surgical error	increases	length of stay 
- surgical error	causes	mortality 
- surgical error	codes for	e code 
- surgical error	associated with	iatrogenic injury 
- wrong-site surgery	is a	surgical complication 
- wrong-site surgery	leads to	mortality 
- wrong-site surgery	causes	readmission 
- wrong-site surgery	increases	hospital costs 
- wrong-patient identification	is a	patient-safety issue 
- wrong-patient identification	leads to	adverse event 
- wrong-patient identification	associated with	iatrogenic injury 
- wrong-patient identification	resulting in	misdiagnosis 
- anesthesia complication	is a	adverse event 
- anesthesia complication	increases	length of stay 
- anesthesia complication	causes	mortality 
- anesthesia complication	codes for	e code 
- anesthesia complication	associated with	hospital costs 
- device-related complication	is a	adverse event 
- device-related complication	leads to	readmission 
- device-related complication	increases	length of stay 
- device-related complication	causes	mortality 
- device-related complication	codes for	e code 
- medication error	is a	iatrogenic event 
- medication error	leads to	adverse drug reaction 
- medication error	increases	hospital costs 
- medication error	causes	morbidity 
- medication error	codes for	e code 
- nosocomial infection	is a	hospital-acquired infection 
- nosocomial infection	leads to	mortality 
- nosocomial infection	increases	length of stay 
- nosocomial infection	causes	morbidity 
- nosocomial infection	tracked by	e codes 
- readmission	is a	adverse outcome of care 
- readmission	increases	costs 
- readmission	predicts	mortality 
- readmission	leads to	extended length of stay 
- readmission	associated with	iatrogenic injury 
- length of stay	is a	hospital metric 
- length of stay	increases	cost 
- length of stay	correlates with	mortality 
- length of stay	indicates	adverse outcomes 
- mortality	is a	patient outcome 
- mortality	associated with	adverse events 
- mortality	increases	costs 
- mortality	predicted by	nephrotoxicity 
- nephrotoxicity	is a	adverse drug reaction 
- nephrotoxicity	leads to	acute kidney injury 
- nephrotoxicity	increases	mortality 
- nephrotoxicity	influences	hospital costs 
- acute kidney injury	is a	adverse event 
- acute kidney injury	leads to	mortality 
- acute kidney injury	increases	length of stay 
- acute kidney injury	results in	readmission 
- acute kidney injury	associated with	nephrotoxicity 
- electrolyte disturbance	is a	adverse effect of medical care 
- electrolyte disturbance	causes	morbidity 
- electrolyte disturbance	leads to	readmission 
- electrolyte disturbance	increases	mortality 
- electrolyte disturbance	is a	complication of care 
- anemia	is a	consequence of blood loss 
- anemia	increases	readmission 
- anemia	associated with	mortality 
- blood loss	contributes to	anemia 
- blood loss	leads to	transfusion reaction 
+E-code	codes for	iatrogenic injury
+external-cause code	denotes	iatrogenic injury
+E-code	codes for	postoperative complication
+E-code	codes for	anesthesia complication
+E-code	codes for	device complication
+E-code	codes for	hospital-acquired infection
+E-code	codes for	surgical complication
+E-code	codes for	blood-transfusion reaction
+E-code	codes for	transfusion complication
+E-code	codes for	implant failure
+E-code	codes for	prosthesis failure
+E-code	codes for	catheter infection
+E-code	codes for	nerve injury
+E-code	codes for	vascular injury
+E-code	codes for	surgical-site infection
+E-code	codes for	retained foreign body
+E-code	codes for	wrong-site surgery
+E-code	codes for	anesthesia complication
+E-code	codes for	air embolism
+E-code	codes for	airway injury
+E-code	codes for	bleeding
+E-code	codes for	hematoma
+E-code	codes for	blood loss
+E-code	codes for	hypotension
+E-code	codes for	hypoxia
+E-code	codes for	respiratory failure
+E-code	codes for	sepsis
+E-code	codes for	pneumonia
+E-code	codes for	acute kidney injury
+E-code	codes for	heart failure
+E-code	codes for	stroke
+E-code	codes for	myocardial infarction
+E-code	codes for	cardiac arrest
+E-code	codes for	deep vein thrombosis
+E-code	codes for	pulmonary embolism
+E-code	codes for	thrombosis
+E-code	codes for	wound dehiscence
+E-code	codes for	surgical-site infection
+external-cause code	denotes	hospital-acquired infection
+iatrogenic injury	is a	adverse event
+postoperative complication	is a	iatrogenic injury
+surgical complication	is a	postoperative complication
+hospital-acquired infection	is a	postoperative complication
+transfusion reaction	is a	adverse event
+implant failure	is a	device complication
+prosthesis failure	is a	device complication
+catheter infection	is a	hospital-acquired infection
+nerve injury	is a	iatrogenic injury
+vascular injury	is a	iatrogenic injury
+surgical site infection	is a	hospital-acquired infection
+retained foreign body	is a	iatrogenic injury
+wrong-site surgery	is a	surgical complication
+anesthesia complication	is a	adverse event
+air embolism	is a	anesthesia complication
+airway injury	is a	iatrogenic injury
+hemothorax	is a	iatrogenic injury
+pneumothorax	is a	iatrogenic injury
+bleeding	is a	postoperative complication
+hematoma	is a	postoperative complication
+blood loss	is a	postoperative complication
+hypotension	is a	anesthesia complication
+hypoxia	is a	anesthesia complication
+respiratory failure	is a	adverse event
+sepsis	is a	hospital-acquired infection
+pneumonia	is a	hospital-acquired infection
+acute kidney injury	is a	adverse event
+stroke	is a	adverse event
+myocardial infarction	is a	adverse event
+cardiac arrest	is a	adverse event
+renal failure	is a	adverse event
+drug reaction	is a	adverse event
+anaphylaxis	is a	adverse event
+allergic reaction	is a	adverse event
+rash	is a	adverse event
+electrolyte disturbance	is a	adverse event
+arrhythmia	is a	adverse event
+hyperkalemia	is a	adverse event
+hypokalemia	is a	adverse event
+hyperglycemia	is a	adverse event
+hypoglycemia	is a	adverse event
+acid-base disorder	is a	adverse event
+urinary retention	is a	postoperative complication
+urinary tract infection	is a	hospital-acquired infection
+catheter-related infection	is a	hospital-acquired infection
+sponge left in patient	is a	iatrogenic injury
+instrument left in patient	is a	iatrogenic injury
+retained gauze	is a	iatrogenic injury
+unintended extubation	is a	anesthesia complication
+unplanned reintubation	is a	anesthesia complication
+nerve palsy	is a	iatrogenic injury
+paralysis	is a	adverse event
+bone fracture	is a	iatrogenic injury
+eye injury	is a	iatrogenic injury
+skin damage	is a	iatrogenic injury
+cerebrovascular accident	is a	adverse event
+occult wound infection	is a	hospital-acquired infection
+surgical drain complication	is a	postoperative complication
+catheter obstruction	is a	device complication
+foreign body left in patient	is a	iatrogenic injury
+safety incident	is a	iatrogenic injury

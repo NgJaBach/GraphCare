@@ -1,100 +1,100 @@
 epilepsy	is characterized by	convulsions
-epilepsy	is a	neurological disorder
-convulsions	are manifestations of	epilepsy
-epilepsy	may cause	cognitive impairment
-epilepsy	is diagnosed by	electroencephalography
-electroencephalography	detects	epileptiform discharges
-epilepsy	treated with	antiseizure medications
-carbamazepine	is a	antiseizure medication
+convulsions	occur in	epilepsy
+epilepsy	presents with	seizures
+seizures	are manifestations of	epilepsy
+epilepsy	is a	chronic neurological condition
+generalized seizures	is a	seizure type
+focal seizures	is a	seizure type
+absence seizures	is a	seizure type
+myoclonic seizures	is a	seizure type
+atonic seizures	is a	seizure type
+epilepsy	diagnosed by	electroencephalogram
+epilepsy	diagnosed by	video electroencephalography
+electroencephalogram	is used for	epilepsy diagnosis
+magnetic resonance imaging	is used for	epilepsy evaluation
+video electroencephalography	is used for	epilepsy characterization
+neuroimaging	is used for	epilepsy evaluation
 levetiracetam	is a	antiseizure medication
-valproate	is a	antiseizure medication
-epilepsy	may respond to	vagus nerve stimulation
-vagus nerve stimulation	is a	therapy
-epilepsy	can be managed with	ketogenic diet
-carbamazepine	has side effect	dizziness
-levetiracetam	has side effect	fatigue
-valproate	has side effect	weight gain
-valproate	contraindicated in	hepatic disease
-epilepsy	can be complicated by	status epilepticus
-status epilepticus	requires	urgent management
-epilepsy	comorbid with	depression
-epilepsy	comorbid with	anxiety
-epilepsy	comorbid with	sleep disorder
-epilepsy	reduces	quality of life
-epilepsy	increases risk of	injury during seizures
-convulsions	can cause	tongue injury
-convulsions	can lead to	loss of consciousness
-epilepsy	increases risk of	SUDEP
-SUDEP	is a	fatal complication
-epilepsy	evaluated with	brain MRI
-brain MRI	helps identify	structural lesions
-epilepsy	may be caused by	brain lesion
-temporal lobe	is associated with	focal epilepsy
-focal epilepsy	is a type of	epilepsy
-generalized epilepsy	is a type of	epilepsy
-Lennox-Gastaut syndrome	is associated with	cognitive impairment
-Lennox-Gastaut syndrome	requires	polytherapy
-seizure diary	helps	seizure control
-epilepsy management	includes	lifestyle modification
-lifestyle modification	includes	regular sleep
-regular sleep	reduces	seizure frequency
-alcohol	lowers	seizure threshold
+valproic acid	is a	antiseizure medication
+carbamazepine	is a	antiseizure medication
+lamotrigine	is a	antiseizure medication
+topiramate	is a	antiseizure medication
+phenytoin	is a	antiseizure medication
+phenobarbital	is a	antiseizure medication
+gabapentin	is a	antiseizure medication
+pregabalin	is a	antiseizure medication
+oxcarbazepine	is a	antiseizure medication
+eslicarbazepine	is a	antiseizure medication
+clobazam	is a	antiseizure medication
+monotherapy	reduces	seizure frequency
+polytherapy	increases	adverse effects
+drug-resistant epilepsy	defined as	failure of antiseizure medications
+epilepsy surgery	may be considered for	drug-resistant epilepsy
+vagus nerve stimulation	is used for	drug-resistant epilepsy
+ketogenic diet	used for	refractory epilepsy
+status epilepticus	is a	medical emergency
+benzodiazepines	used for	acute seizure treatment
+diazepam	is a	benzodiazepine
+lorazepam	is a	benzodiazepine
+midazolam	is a	benzodiazepine
+epilepsy surgery	can achieve	seizure freedom
+seizure freedom	is a	desirable outcome
+epilepsy	associated with	SUDEP
+SUDEP	is a	cause of mortality in epilepsy
+photosensitive epilepsy	triggered by	flashing lights
+reflex epilepsy	triggered by	specific stimuli
+epilepsy syndrome	includes	EEG abnormality
+EEG abnormality	predicts	epilepsy outcome
+seizure control	improves	quality of life
+treatment adherence	influences	prognosis
+treatment adherence	improves	seizure control
+treatment adherence	reduces	hospital admission
+stigma	impacts	epilepsy care
+epilepsy care	influenced by	health literacy
+health literacy	affects	seizure management
+pediatric epilepsy	presents with	febrile seizures
+absence seizures	common in	children
+head trauma	increases	epilepsy risk
+stroke	increases	epilepsy risk
+brain tumor	increases	epilepsy risk
+perinatal injury	increases	epilepsy risk
+tuberous sclerosis complex	associated with	epilepsy
+genetic epilepsy	has	gene mutation
+SCN1A gene mutation	associated with	epileptic encephalopathy
 sleep deprivation	triggers	seizures
-photosensitivity	triggers	seizures
-photosensitivity	is associated with	certain epilepsy syndromes
-epilepsy	influences	driving restrictions
-driving restrictions	apply to	epilepsy patients
-pregnancy	requires	antiseizure medication adjustment
-antiseizure medication adjustment	aims for	balance between efficacy and safety
-valproate	is associated with	teratogenic risk
-hormonal contraceptives	interact with	antiseizure drugs
-carbamazepine	induces	hepatic enzymes
-hepatic enzymes	metabolize	antiseizure drugs
-enzyme induction	reduces	drug levels
-drug interactions	affect	epilepsy management
-epilepsy	requires	medication adherence
-medication adherence	improves	seizure control
-seizure freedom	indicates	seizure control
-seizure recurrence	indicates	treatment failure
-intravenous benzodiazepines	treat	acute seizures
-diazepam	used for	acute seizures
-lorazepam	used for	status epilepticus
-status epilepticus	defined as	prolonged seizure activity
-emergency department	manages	seizures
-intensive care unit	treats	status epilepticus
-epilepsy	prognosis	variable
-neuroimaging	used for	epilepsy evaluation
-electroencephalogram	supports	epilepsy diagnosis
-neural network	used for	epilepsy prediction
-amygdala	involved in	temporal lobe epilepsy
-hippocampus	involved in	seizures
-temporal lobe epilepsy	presents with	aura
-aura	precedes	seizures
-genetic predisposition	contributes to	epilepsy
-SCN1A mutation	associated with	epilepsy
-brain injury	is a risk factor for	epilepsy
-neuroinflammation	related to	seizure activity
-seizure diary	records	seizure events
-epilepsy management	aims to achieve	seizure freedom
-seizure freedom	is a goal of	epilepsy treatment
-epilepsy	impacts	work productivity
-epilepsy	causes	caregiver burden
-caregiver burden	increases	psychosocial stress
-epilepsy	affects	sleep quality
-sleep quality	influences	seizure control
-epilepsy	associated with	cognitive decline
-antiseizure drugs withdrawal	risks	seizure recurrence
-antiseizure drugs	require	periodic monitoring
-liver function tests	monitor	valproate therapy
-valproate therapy	requires	liver function monitoring
-healthcare costs	rise with	uncontrolled seizures
-uncontrolled seizures	lead to	hospital admission
-hospital admission	associated with	status epilepticus
-epilepsy management guidelines	recommend	regular review
-regular review	improves	treatment adherence
-seizure onset	occurs at	age
-age	influences	epilepsy subtype distribution
-epilepsy	requires	multidisciplinary care
-multidisciplinary team	provides	epilepsy management
-epilepsy	leads to	long-term disability
-long-term disability	affects	quality of life
+alcohol withdrawal	triggers	seizures
+pregnancy with epilepsy	requires	treatment adjustment
+pregnancy with epilepsy	requires	specialized obstetric care
+pediatric epilepsy	presents with	febrile seizures
+pediatric epilepsy	is common in	children
+seizure diary	improves	seizure management
+caregiver support	improves	adherence
+interictal epileptiform discharges	are detected by	EEG
+continuous EEG monitoring	reveals	seizures
+pharmacokinetics of antiseizure drugs	influence	dosing
+long-term antiseizure therapy	associated with	adverse effects
+drug interactions	affect	antiseizure drug levels
+serum drug level monitoring	informs	dosing
+imaging-based localization	guides	epilepsy surgery
+lateralization	guides	epilepsy surgery
+surgical resection	is an option for	focal epilepsy
+laser interstitial thermal therapy	is a treatment option for	focal epilepsy
+postoperative prognosis	depends on	seizure outcome
+seizure recurrence	occurs after	epilepsy surgery
+video EEG telemetry	improves	seizure localization
+neuropsychological testing	informs	cognitive outcomes
+comorbidity burden	increases	hospitalization risk
+epilepsy	reduces	quality of life without support
+educational interventions	improve	epilepsy management
+stigma reduction	improves	care-seeking behavior
+driving eligibility	affected by	epilepsy
+work productivity	affected by	epilepsy
+quality of life	influenced by	seizure control
+drug side effects	contribute to	treatment adherence
+sedation	is a	adverse effect of antiseizure medications
+rash	is a	adverse effect of antiseizure medications
+weight gain	is a	adverse effect of antiseizure medications
+liver injury	is a	rare adverse effect of valproic acid
+bone density loss	associated with	long-term antiseizure therapy
+pregnancy outcome	affected by	epilepsy management
+prognosis	depends on	seizure control

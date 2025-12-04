@@ -1,0 +1,100 @@
+excision	is a	surgical procedure
+excision	performed for	removal of skin lesion
+excision	indicated for	benign skin lesion
+excision	indicated for	malignant skin lesion
+excision	yields	tissue specimen
+excision	provides	pathology specimen
+excision	requires	anesthesia
+local anesthesia	used for	minor excision
+general anesthesia	used for	extensive excision
+excision	followed by	wound closure
+incision	created by	excision
+excision	results in	scar
+scar	affects	cosmesis
+excision	risk of	infection
+excision	risk of	hematoma
+excision	risk of	seroma
+excision	risk of	wound dehiscence
+excision	risk of	delayed healing
+excision	risk of	scar formation
+margin status	determined by	excision
+negative margins	indicate	complete excision
+positive margins	indicate	residual lesion
+pathology	analyzes	specimen
+pathology	confirms	diagnosis
+diagnosis	informs	treatment plan
+excision	used for	diagnostic biopsy
+biopsy	provides	histology sample
+histology	reveals	tumor type
+tumor type	determines	prognosis
+prognosis	influenced by	tumor type
+tumor type	informs	adjuvant therapy decision
+excision	influences	recurrence risk
+recurrence risk	depends on	margins
+recurrence	monitored by	follow-up
+follow-up	includes	wound assessment
+wound assessment	guides	wound care
+wound care	affects	healing time
+healing time	varies with	patient age
+patient age	influences	scar quality
+scar quality	affects	cosmetic outcome
+cosmetic outcome	monitored by	patient satisfaction
+patient satisfaction	influenced by	cosmetic outcome
+postoperative infection	increases	hospital stay
+postoperative infection	requires	antibiotics
+antibiotics	used for	prophylaxis
+drain	placed after	excision
+drain	reduces	fluid accumulation
+suture	closes	incision
+incision	heals via	granulation
+granulation	progresses to	scar tissue
+lesion size	influences	excision extent
+excision extent	determines	reconstruction method
+defect size	guides	closure technique
+closure technique	includes	primary closure
+closure technique	includes	grafting
+grafting	used for	large defects
+large defects	require	flap coverage
+flap coverage	achieves	tissue restoration
+tissue restoration	aims for	functional outcome
+functional outcome	affects	patient quality of life
+seroma	may form	after excision
+hematoma	may form	after excision
+bleeding	controlled by	hemostasis
+infection	delays	healing
+healing	completes	wound closure
+pathology report	delivered by	pathologist
+adjuvant therapy	considered for	high-risk lesions
+radiation therapy	used for	malignant skin lesion
+chemotherapy	used for	metastatic skin cancer
+targeted therapy	considered for	BRAF-positive melanoma
+genetic testing	performed for	hereditary risk
+risk assessment	informs	surgical planning
+dermatopathology	studies	skin lesions
+skin lesion	classified as	benign or malignant
+benign lesion	treated with	excision
+malignant lesion	treated with	excision
+excision	followed by	pathology review
+referral	occurs for	complex cases
+complex case	requires	multidisciplinary team
+multidisciplinary team	collaborates on	management
+management	includes	wound care
+wound care	includes	dressing changes
+dressing changes	required after	excision
+excision	associated with	scarring risk
+suture removal	scheduled at	follow-up
+follow-up	aims to	monitor recurrence
+recurrence	indicates	regrowth of lesion
+regrowth	may signify	incomplete excision
+incomplete excision	necessitates	repeat procedure
+repeat procedure	causes	additional scarring
+cosmesis	improved by	flap technique
+flap technique	used for	large defects
+skin graft	used for	extensive defects
+graft survival	depends on	vascular supply
+vascular supply	affects	graft survival
+vascularization	occurs in	wound bed
+melanoma	considered for	wide excision
+wide excision	appropriate for	melanoma
+melanoma	requires	sentinel lymph node biopsy
+sentinel lymph node biopsy	performed with	melanoma excision

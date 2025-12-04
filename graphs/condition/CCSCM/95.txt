@@ -1,100 +1,100 @@
-migraine	is a	nervous system disorder
-migraine	causes	headache
-migraine	associated with	photophobia
-migraine	associated with	nausea
-migraine	treated with	triptan
-migraine	prevented with	beta blocker
-epilepsy	is a	nervous system disorder
-epilepsy	causes	seizures
-epilepsy	treated with	anticonvulsant
-epilepsy	increases risk of	SUDEP
+other nervous system disorders	is a	category of neurological disorders
 stroke	is a	nervous system disorder
-stroke	results in	disability
-stroke	treated with	thrombolysis
-stroke	treated with	thrombectomy
-stroke	causes	aphasia
-stroke	causes	hemiparesis
-Parkinson's disease	is a	nervous system disorder
-Parkinson's disease	characterized by	tremor
-Parkinson's disease	treated with	levodopa
-Parkinson's disease	treated with	dopamine agonist
-Alzheimer's disease	is a	neurodegenerative disorder
-Alzheimer's disease	characterized by	memory loss
-Alzheimer's disease	treated with	donepezil
-Alzheimer's disease	associated with	amyloid plaques
-dementia	is a	neurocognitive disorder
-vascular dementia	is a	type of dementia
-frontotemporal dementia	is a	dementia type
-ALS	is a	motor neuron disease
-ALS	causes	muscle weakness
-ALS	treated with	riluzole
-ALS	results in	respiratory failure
-Huntington's disease	is a	neurodegenerative disorder
-Huntington's disease	causes	chorea
-Huntington's disease	treated with	tetrabenazine
-Guillain-Barré syndrome	is a	acute inflammatory demyelinating polyneuropathy
-Guillain-Barré syndrome	presents with	ascending paralysis
-Guillain-Barré syndrome	treated with	intravenous immunoglobulin
-Guillain-Barré syndrome	treated with	plasmapheresis
-myasthenia gravis	is a	neuromuscular disorder
-myasthenia gravis	caused by	autoantibodies
-myasthenia gravis	treated with	pyridostigmine
-myasthenia gravis	treated with	immunosuppression
-encephalitis	is a	nervous system infection
-encephalitis	presents with	seizures
-encephalitis	treated with	antiviral therapy
-meningitis	is a	nervous system infection
-meningitis	treated with	antibiotics
-brain tumor	is a	nervous system tumor
-brain tumor	treated with	surgery
-brain tumor	causes	edema
-glioblastoma	is a	brain tumor
-glioblastoma	treated with	radiation therapy
-meningioma	is a	brain tumor
-meningioma	treated with	surgery
-ischemic stroke	is a	stroke type
-hemorrhagic stroke	is a	stroke type
-arachnoid cyst	is a	brain lesion
-spinal cord injury	is a	nervous system injury
-spinal cord injury	results in	paralysis
-spinal cord injury	treated with	rehabilitation
-spinal cord injury	increases risk of	pressure ulcer
-traumatic brain injury	is a	brain injury
-traumatic brain injury	leads to	cognitive impairment
-traumatic brain injury	treated with	rehabilitation
-trigeminal neuralgia	is a	neuropathic pain disorder
-trigeminal neuralgia	presents with	facial pain
-trigeminal neuralgia	treated with	carbamazepine
-postherpetic neuralgia	is a	neuropathic pain condition
-postherpetic neuralgia	treated with	gabapentin
-diabetic neuropathy	is a	peripheral neuropathy
-diabetic neuropathy	presents with	numbness
-diabetic neuropathy	treated with	glycemic control
-Bell palsy	is a	facial nerve palsy
-Bell palsy	presents with	facial weakness
-Bell palsy	treated with	corticosteroids
-peripheral neuropathy	is a	nerve disorder
-peripheral neuropathy	presents with	numbness
-peripheral neuropathy	treated with	pain management
-autonomic neuropathy	is a	peripheral neuropathy
-autonomic neuropathy	causes	orthostatic hypotension
-spina bifida	is a	neural tube defect
-spina bifida	managed with	surgical repair
-hydrocephalus	is a	brain condition
-hydrocephalus	treated with	shunt
-hydrocephalus	causes	ventriculomegaly
-encephalopathy	is a	brain disorder
-encephalopathy	caused by	metabolic disorder
-encephalopathy	managed with	supportive care
-moya-moya disease	is a	cerebrovascular disorder
-neurodegenerative disease	is a	disease category
-brain tumor	is a	neoplasm
-brain metastasis	is a	brain tumor type
+ischemic stroke	is a	nervous system disorder
+hemorrhagic stroke	is a	nervous system disorder
+migraine	is a	nervous system disorder
+epilepsy	is a	nervous system disorder
+parkinson's disease	is a	nervous system disorder
+alzheimer's disease	is a	nervous system disorder
+multiple sclerosis	is a	nervous system disorder
+amyotrophic lateral sclerosis	is a	nervous system disorder
+guillain barre syndrome	is a	nervous system disorder
+myasthenia gravis	is a	nervous system disorder
+dementia	is a	nervous system disorder
+creutzfeldt jakob disease	is a	nervous system disorder
+encephalitis	is a	nervous system disorder
+meningitis	is a	nervous system disorder
+neurodegenerative disorder	is a	nervous system disorder
+traumatic brain injury	is a	nervous system disorder
+spinal cord injury	is a	nervous system disorder
+peripheral neuropathy	is a	nervous system disorder
+diabetic neuropathy	is a	nervous system disorder
+radiculopathy	is a	nervous system disorder
+bell's palsy	is a	nervous system disorder
 cerebral palsy	is a	nervous system disorder
-cerebral palsy	caused by	brain injury
-spinal muscular atrophy	is a	motor neuron disease
-charcot-marie-tooth disease	is a	hereditary neuropathy
-myelinopathy	is a	nerve disorder
-demyelinating disease	is a	immune-mediated disorder
-vascular malformation	is a	cerebrovascular disorder
-intracerebral hemorrhage	is a	hemorrhagic stroke subtype
+encephalopathy	is a	nervous system disorder
+essential tremor	is a	nervous system disorder
+restless legs syndrome	is a	nervous system disorder
+neural tube defect	is a	nervous system disorder
+arachnoid cyst	is a	nervous system disorder
+hydrocephalus	is a	nervous system disorder
+arachnoiditis	is a	nervous system disorder
+subarachnoid hemorrhage	is a	nervous system disorder
+intracerebral hemorrhage	is a	nervous system disorder
+spinal stenosis	is a	nervous system disorder
+brain tumor	is a	nervous system disorder
+glioblastoma	is a	brain tumor
+meningioma	is a	brain tumor
+ependymoma	is a	brain tumor
+posterior circulation ischemia	is a	nervous system disorder
+thrombotic stroke	is a	nervous system disorder
+hemiparesis	is a	neurological symptom
+aphasia	is a	neurological disorder
+apraxia	is a	neurological disorder
+ataxia	is a	neurological sign
+dysarthria	is a	neurological symptom
+nuchal rigidity	is a	clinical sign
+papilledema	is a	neurological sign
+ataxic gait	is a	neurological sign
+seizure	is a	neurological disorder
+status epilepticus	is a	neurological emergency
+neuroinflammation	is a	mechanism in disease
+neurodegeneration	is a	process in neurological disorders
+white matter lesion	is a	imaging finding
+brain atrophy	is a	imaging finding
+cerebral edema	is a	imaging finding
+mri finding	is a	imaging finding
+ct scan result	is a	imaging finding
+lumbar puncture	is a	diagnostic procedure
+csf analysis	is a	diagnostic test
+electroencephalography	is a	diagnostic test
+nerve conduction study	is a	diagnostic test
+brain biopsy	is a	diagnostic procedure
+autoimmune encephalitis	is a	nervous system disorder
+anti-nmda receptor antibodies	is a	biomarker for autoimmune encephalitis
+steroid therapy	is a	treatment for autoimmune encephalitis
+iv immunoglobulin	is a	treatment for autoimmune disorders
+plasma exchange	is a	treatment for autoimmune neuropathy
+surgical resection	is a	treatment for brain tumor
+stereotactic radiotherapy	is a	treatment for brain tumor
+chemotherapy	is a	treatment for brain tumor
+radiation therapy	is a	treatment for brain tumor
+carotid endarterectomy	is a	surgical procedure for stroke
+antiplatelet therapy	is a	treatment for stroke
+anticoagulation therapy	is a	treatment for stroke
+blood pressure control	is a	management for stroke
+rehabilitation therapy	is a	treatment for stroke
+physical therapy	is a	rehabilitation modality
+occupational therapy	is a	rehabilitation modality
+speech therapy	is a	rehabilitation modality
+levodopa	is a	medication for parkinson's disease
+carbidopa	is a	medication for parkinson's disease
+carbidopa-levodopa	is a	medication for parkinson's disease
+dopamine agonist	is a	medication for parkinson's disease
+donepezil	is a	medication for alzheimer's disease
+memantine	is a	medication for alzheimer's disease
+tacrine	is a	medication for alzheimer's disease
+phenytoin	is a	medication for seizure disorder
+levetiracetam	is a	medication for seizure disorder
+topiramate	is a	medication for seizure disorder
+gabapentin	is a	medication for neuropathy
+pregabalin	is a	medication for neuropathy
+iv immunoglobulin	is a	treatment for autoimmune neurological disorders
+intravenous immunoglobulin	is a	treatment for autoimmune neurological disorders
+glucocorticoids	is a	treatment for inflammatory nervous system disorders
+immunosuppressants	is a	treatment for autoimmune neurological disorders
+neuroimaging	is a	diagnostic method
+cognitive impairment	is a	symptom of dementia
+speech impairment	is a	symptom of stroke
+aphasia	is a	symptom of stroke
+disability	is a	outcome of stroke

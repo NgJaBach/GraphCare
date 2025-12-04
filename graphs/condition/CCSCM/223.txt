@@ -1,115 +1,106 @@
-birth trauma	is a	obstetric injury
-birth trauma	may cause	birth asphyxia
-birth trauma	may cause	neonatal respiratory distress
-birth trauma	may cause	meconium aspiration
-birth trauma	may cause	hypoxic-ischemic encephalopathy
-birth trauma	increases risk for	NICU admission
-birth trauma	increases risk for	mechanical ventilation
-birth trauma	increases risk for	oxygen therapy
-birth trauma	increases risk for	surfactant therapy
-birth trauma	increases risk for	apnea
-birth trauma	increases risk for	neonatal sepsis
-birth trauma	increases risk for	intraventricular hemorrhage
-birth trauma	increases risk for	neonatal stroke
-birth trauma	associated with	placental abruption
-birth trauma	associated with	cord prolapse
-birth trauma	associated with	shoulder dystocia
-birth trauma	associated with	uterine rupture
-birth trauma	associated with	prolonged labor
-birth trauma	associated with	prematurity
-birth trauma	associated with	low birth weight
-birth trauma	associated with	neonatal jaundice
-birth trauma	associated with	neonatal seizures
-birth trauma	associated with	neonatal hypoxia
-birth trauma	associated with	brain injury
-birth trauma	associated with	cerebral palsy risk
-birth trauma	associated with	intrapartum fever
-birth trauma	associated with	apnea of prematurity
-birth trauma	associated with	retinopathy of prematurity
-birth trauma	associated with	neonatal meningitis
-birth trauma	associated with	neonatal pneumonia
-birth trauma	associated with	bronchopulmonary dysplasia
-birth trauma	associated with	NICU stay length
-birth trauma	associated with	hospital stay length
-birth trauma	requiring	neonatal resuscitation
-birth trauma	treated with	resuscitation equipment
-birth trauma	treated with	intubation
-birth trauma	treated with	CPAP
-birth trauma	treated with	mechanical ventilation
-birth trauma	treated with	oxygen therapy
-birth trauma	managed by	obstetric team
-birth trauma	monitored with	fetal monitoring
-birth trauma	monitors	fetal heart rate
-birth trauma	associated with	fetal distress signs
-birth trauma	predictor of	neonatal intensive care resource use
-birth trauma	predictor of	long hospitalization
-birth trauma	risk factor for	maternal postpartum complications
-birth trauma	linked with	cesarean delivery
-birth trauma	linked with	instrumental delivery
-birth trauma	indicates	placental insufficiency
-birth trauma	indicates	birth injury severity
-birth trauma	correlates with	Apgar score at 1 minute
-birth trauma	correlates with	Apgar score at 5 minutes
-birth trauma	correlated with	perinatal mortality
-birth trauma	correlated with	neonatal death
-birth trauma	associated with	maternal smoking
-birth trauma	associated with	maternal hypertension
-birth trauma	associated with	maternal diabetes
-birth trauma	associated with	chorioamnionitis risk
-birth trauma	associated with	NICU resource use
-birth trauma	associated with	need for neonatal dialysis
-birth trauma	associated with	neonatal alloimmune condition
-birth trauma	associated with	intraventricular hemorrhage severity
-birth trauma	associated with	birth weight category
-birth trauma	associated with	neonatal thermoregulation issues
-birth trauma	linked with	vacuum extraction
-birth trauma	linked with	forceps delivery
-birth trauma	linked with	cesarean delivery rate
-birth trauma	influenced by	maternal age
-birth trauma	influenced by	maternal BMI
-birth trauma	influenced by	maternal infection
-birth trauma	associated with	readmission risk
-birth trauma	predictive of	neurodevelopmental outcome
-birth trauma	associated with	long-term cognitive impairment
-birth trauma	associated with	speech delay
-birth trauma	associated with	motor delay
-birth trauma	associated with	seizure disorder risk
-birth trauma	predicted by	prenatal stress
-birth trauma	predicted by	fetal growth restriction
-birth trauma	associated with	umbilical cord compression
-birth trauma	associated with	placental previa
-birth trauma	related to	vacuum-assisted birth
-birth trauma	related to	forceps delivery
-birth trauma	linked to	cesarean section rate
-birth trauma	influenced by	maternal age
-birth trauma	influenced by	maternal BMI
-birth trauma	associated with	neonatal hypoglycemia
-birth trauma	requires	NICU equipment
-birth trauma	associated with	developmental impairment
-birth trauma	observed in	preterm infant
-birth trauma	observed in	term infant
-birth trauma	associated with	maternal diabetes mellitus
-birth trauma	associated with	placental abruption risk
-birth trauma	associated with	fetal distress
-birth trauma	associated with	neonatal respiratory failure
-birth trauma	associated with	neonatal pulmonary hypertension
-birth trauma	associated with	apnea of prematurity severity
-birth trauma	associated with	neonatal seizures risk
-birth trauma	associated with	low APGAR	score
-birth trauma	associated with	high APGAR	score
-birth trauma	observed in	singleton birth
-birth trauma	observed in	multiple birth
-birth trauma	associated with	term birth
-birth trauma	associated with	preterm birth
-birth trauma	associated with	twin birth
-birth trauma	associated with	cesarean section indication
-birth trauma	correlated with	neonatal admissions
-birth trauma	correlated with	neonatal ICU days
-birth trauma	related to	antenatal care quality
-birth trauma	related to	maternal parity
-birth trauma	linked with	neonatal feeding intolerance
-birth trauma	linked with	hypoglycemia risk
-birth trauma	associated with	bilirubin risk
-birth trauma	associated with	polycythemia
-birth trauma	associated with	congenital anomalies
-birth trauma	associated with	perinatal mortality
+ birth trauma	is a	obstetric complication 
+ birth trauma	associated with	clavicle fracture 
+ birth trauma	associated with	brachial plexus injury 
+ birth trauma	associated with	cephalhematoma 
+ birth trauma	associated with	subgaleal hemorrhage 
+ birth trauma	associated with	skull fracture 
+ birth trauma	associated with	intracranial hemorrhage 
+ birth trauma	associated with	facial nerve palsy 
+ birth trauma	associated with	caput succedaneum 
+ birth trauma	associated with	occipital hematoma 
+ birth trauma	associated with	scalp laceration 
+ birth trauma	associated with	retinal hemorrhage 
+ birth trauma	associated with	subdural hematoma 
+ birth trauma	associated with	epidural hematoma 
+ birth trauma	associated with	apnea 
+ birth trauma	associated with	neonatal hypoxia 
+ birth trauma	associated with	neonatal asphyxia 
+ birth trauma	leads to	neonatal ICU admission 
+ birth trauma	leads to	neonatal mortality 
+ birth trauma	predisposes to	meconium aspiration syndrome 
+ birth trauma	predisposes to	respiratory distress 
+ birth trauma	predisposes to	respiratory failure 
+ birth trauma	predisposes to	seizures in infancy 
+ birth trauma	results in	long-term neurodevelopmental impairment 
+ birth trauma	results in	cerebral palsy 
+ birth trauma	results in	developmental delay 
+ birth trauma	results in	motor impairment 
+ birth trauma	results in	cognitive impairment 
+ birth trauma	results in	hearing loss 
+ birth trauma	results in	vision impairment 
+ birth trauma	is a	delivery complication 
+ birth trauma	occurs with	forceps delivery 
+ birth trauma	occurs with	vacuum delivery 
+ birth trauma	occurs during	vaginal delivery 
+ birth trauma	diagnosed by	ultrasound 
+ birth trauma	diagnosed by	MRI 
+ birth trauma	diagnosed by	CT scan 
+ birth trauma	treated with	neurosurgery 
+ birth trauma	managed by	neonatology 
+ birth trauma	managed by	obstetrics 
+ neonatal injury	is a	consequence of birth trauma 
+ brachial plexus injury	is a	consequence of birth trauma 
+ cephalhematoma	is a	consequence of birth trauma 
+ subgaleal hemorrhage	is a	consequence of birth trauma 
+ skull fracture	is a	consequence of birth trauma 
+ intracranial hemorrhage	is a	consequence of birth trauma 
+ facial nerve palsy	is a	consequence of birth trauma 
+ caput succedaneum	is a	consequence of birth trauma 
+ occipital hematoma	is a	consequence of birth trauma 
+ scalp laceration	is a	consequence of birth trauma 
+ retinal hemorrhage	is a	consequence of birth trauma 
+ intraventricular hemorrhage	is a	consequence of birth trauma 
+ apnea	occurs after	birth trauma 
+ neonatal seizures	occur after	birth trauma 
+ neonatal ICU admission	follows	birth trauma 
+ neonatal mortality	follows	birth trauma 
+ long-term neurodevelopmental impairment	follows	birth trauma 
+ cerebral palsy	follows	birth trauma 
+ developmental delay	follows	birth trauma 
+ motor impairment	follows	birth trauma 
+ cognitive impairment	follows	birth trauma 
+ hearing loss	follows	birth trauma 
+ vision impairment	follows	birth trauma 
+ forceps delivery	is a	delivery method 
+ vacuum delivery	is a	delivery method 
+ vaginal delivery	is a	delivery method 
+ cesarean section	is a	delivery method 
+ birth trauma	associated with	placenta abruption 
+ birth trauma	associated with	placenta previa 
+ maternal laceration	is a	maternal complication 
+ maternal hematoma	is a	maternal complication 
+ perineal tear	is a	maternal complication 
+ pelvic floor injury	is a	maternal complication 
+ postpartum hemorrhage	is a	maternal complication 
+ uterine rupture	is a	maternal complication 
+ neonatal hyperbilirubinemia	associated with	birth trauma 
+ neonatal hypotonia	associated with	birth trauma 
+ neonatal reflex abnormality	associated with	birth trauma 
+ neonatal dehydration	associated with	birth trauma 
+ developmental outcome	influenced by	birth trauma 
+ rehabilitation needs	required after	birth trauma 
+ quality of life	affected by	birth trauma 
+ long-term disability	associated with	birth trauma 
+ caregiver burden	increases with	birth trauma 
+ family stress	increased by	birth trauma 
+ healthcare costs	increased by	birth trauma 
+ follow-up care	required after	birth trauma 
+ neonatal imaging finding	associated with	birth trauma 
+ brain injury	related to	birth trauma 
+ intracranial injury	associated with	birth trauma 
+ neonatal encephalopathy	associated with	birth trauma 
+ neonatal meningitis	risk increased by	birth trauma 
+ coagulopathy	associated with	birth trauma 
+ anemia	associated with	birth trauma 
+ hypothermia	associated with	birth trauma 
+ infection risk	increased by	birth trauma 
+ hypoglycemia	associated with	birth trauma 
+ respiratory support	required after	birth trauma 
+ paralysis	possible with	birth trauma 
+ neonatal brain injury	associated with	birth trauma 
+ neurodevelopmental disorder	associated with	birth trauma 
+ epilepsy	may follow	birth trauma 
+ mortality	associated with	birth trauma 
+ follow-up imaging	recommended after	birth trauma 
+ outcome prediction	depends on	birth trauma 
+ care coordination	required after	birth trauma 

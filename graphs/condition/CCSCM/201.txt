@@ -1,0 +1,100 @@
+infective arthritis	is a	joint infection
+osteomyelitis	is a	bone infection
+infective arthritis	caused by	pathogens
+bone infection	caused by	pathogens
+pathogens	include	bacteria
+bacteria	cause	infective arthritis
+bacteria	cause	osteomyelitis
+diabetes mellitus	predisposes to	osteomyelitis
+diabetes mellitus	predisposes to	infective arthritis
+immunosuppression	predisposes to	osteomyelitis
+immunosuppression	predisposes to	infective arthritis
+intravenous drug use	predisposes to	septic arthritis
+prosthetic joint	increases risk of	prosthetic joint infection
+bacteremia	leads to	septic arthritis
+bacteremia	leads to	osteomyelitis
+hematogenous spread	causes	joint infection
+hematogenous spread	causes	bone infection
+synovial fluid culture	detects	infective arthritis
+joint aspiration	is used for	diagnostic sampling
+synovial fluid culture	confirms	septic arthritis
+blood culture	detects	bacteremia
+bone culture	detects	osteomyelitis
+MRI	detects	osteomyelitis
+X-ray	detects	osteomyelitis
+CT scan	detects	osteomyelitis
+bone scan	detects	osteomyelitis
+CRP	indicates	infection activity
+ESR	indicates	infection activity
+white blood cell count	is elevated in	infection
+procalcitonin	indicates	bacterial infection
+diabetes mellitus	worsens	prognosis of infective arthritis
+diabetes mellitus	worsens	prognosis of osteomyelitis
+elderly patients	have increased risk for	osteomyelitis
+vascular insufficiency	predisposes to	osteomyelitis
+malnutrition	predisposes to	infection
+prosthetic joint infection	is a	complication of arthroplasty
+prosthetic joint infection	requires	debridement
+antibiotic therapy	is essential for	infective arthritis
+antibiotic therapy	is essential for	osteomyelitis
+empiric antibiotics	cover	gram-positive cocci
+culture-guided therapy	improves	outcomes in infective arthritis
+culture-guided therapy	improves	outcomes in osteomyelitis
+vancomycin	used for	MRSA infections
+linezolid	used for	resistant gram-positive infections
+ceftriaxone	used for	streptococcal infections
+cefepime	used for	gram-negative infections
+surgical drainage	is indicated for	septic arthritis
+debridement	is indicated for	osteomyelitis
+bone biopsy	guides	antibiotic therapy
+bone biopsy	confirms	osteomyelitis
+culture results	guide	antibiotic selection
+infection control measures	prevent	nosocomial transmission
+hospitalization	required for	complex septic arthritis
+length of stay	increases with	septic arthritis
+readmission	risk increases with	osteomyelitis relapse
+mortality	risk increases with	septic arthritis
+joint function	declines with	severe infection
+nerve injury	can occur with	osteomyelitis
+bone sequestrum	forms in	osteomyelitis
+intraosseous abscess	occurs in	osteomyelitis
+soft tissue infection	coexists with	osteomyelitis
+biofilm	forms on	prosthetic joint
+biofilm	contributes to	chronic infection
+surgical revision	required for	prosthetic joint infection
+diabetes mellitus	associated with	worse outcomes in osteomyelitis
+diabetes mellitus	associated with	worse outcomes in septic arthritis
+imaging studies	assist in	diagnosis of osteomyelitis
+imaging studies	assist in	diagnosis of infective arthritis
+MRSA infection	predicts	higher mortality
+prosthetic joint infection	associated with	biofilm formation
+antibiotic resistance	predicts	treatment failure
+renal impairment	affects	antibiotic dosing
+hepatic impairment	affects	antibiotic dosing
+neutropenia	predisposes to	osteomyelitis
+neutropenia	predisposes to	septic arthritis
+kingella kingae	causes	septic arthritis in children
+neisseria gonorrhoeae	causes	septic arthritis
+coagulase-negative staphylococci	cause	prosthetic joint infection
+anaerobes	involved in	hematogenous osteomyelitis
+bioavailability	affects	antibiotic efficacy
+drug interactions	alter	antibiotic levels
+clinical suspicion	prompts	diagnostic tests
+synovial fluid leukocytosis	indicates	septic arthritis
+joint fluid	becomes	purulent effusion
+operative drainage	reduces	bacterial load
+wound infection	complicates	osteomyelitis
+hyaline cartilage destruction	results from	septic arthritis
+bone remodeling	occurs after	osteomyelitis resolution
+treatment failure	results from	antibiotic resistance
+early diagnosis	improves	outcomes in infective arthritis
+early diagnosis	improves	outcomes in osteomyelitis
+crp reduction	indicates	treatment response
+clinical resolution	indicates	infection clearance
+joint mobility	improves with	successful treatment
+weight-bearing status	dictates	orthopedic management
+outcomes	depend on	timely therapy
+antimicrobial stewardship	supports	appropriate antibiotic use
+culture transport time	impacts	diagnostic delay
+urine antigen test	has utility in	disseminated infection
+early debridement	improves	prognosis of septic arthritis

@@ -1,0 +1,100 @@
+strabismus surgery	is a	surgical procedure
+strabismus surgery	used for	esotropia
+strabismus surgery	used for	exotropia
+strabismus surgery	corrects	ocular misalignment
+strabismus surgery	reduces	diplopia
+strabismus surgery	improves	binocular alignment
+strabismus surgery	indicated for	misalignment
+medial rectus recession	is a	surgical procedure
+medial rectus recession	used for	esotropia
+medial rectus recession	reduces	inward deviation
+medial rectus recession	corrects	medial deviation
+medial rectus recession	improves	binocular alignment
+lateral rectus resection	is a	surgical procedure
+lateral rectus resection	used for	exotropia
+lateral rectus resection	increases	abduction
+lateral rectus resection	corrects	exotropia
+adjustable suture strabismus surgery	is a	surgical technique
+adjustable suture strabismus surgery	allows	post-operative adjustment
+adjustable suture strabismus surgery	indicated for	complex strabismus
+adjustable suture strabismus surgery	improves	final alignment
+botulinum toxin injection	is a	therapeutic procedure
+botulinum toxin injection	used for	strabismus
+botulinum toxin injection	treats	diplopia
+botulinum toxin injection	targets	medial rectus
+orbital decompression	is a	surgical procedure
+orbital decompression	used for	proptosis
+orbital decompression	indicated for	Graves' ophthalmopathy
+orbital decompression	reduces	proptosis
+orbital decompression	relieves	optic nerve compression
+orbital decompression	improves	ocular motility
+orbital fat decompression	is a	surgical procedure
+orbital fat decompression	used for	proptosis
+orbital fat decompression	reduces	proptosis
+orbital radiotherapy	is a	radiotherapy procedure
+orbital radiotherapy	used for	Graves' orbitopathy
+orbital radiotherapy	reduces	orbital inflammation
+orbital radiotherapy	slows	disease progression
+ptosis repair	is a	surgical procedure
+ptosis repair	treats	ptosis
+ptosis repair	improves	eyelid height
+ptosis repair	indicated for	eyelid droop
+levator resection	is a	surgical procedure
+levator resection	treats	ptosis
+levator resection	improves	eyelid height
+levator advancement	is a	surgical procedure
+levator advancement	treats	ptosis
+levator advancement	improves	eyelid height
+superior oblique tenotomy	is a	surgical procedure
+superior oblique tenotomy	treats	superior oblique palsy
+inferior oblique myectomy	is a	surgical procedure
+inferior oblique myectomy	treats	inferior oblique overaction
+vertical rectus muscle transposition	is a	surgical procedure
+vertical rectus muscle transposition	used for	sixth nerve palsy
+vertical rectus muscle transposition	improves	ocular motility
+Hummelsheim procedure	is a	surgical procedure
+Hummelsheim procedure	used for	paralytic strabismus
+Foster augmentation	is a	surgical procedure
+Foster augmentation	used for	paralytic strabismus
+tendon transposition	is a	surgical procedure
+tendon transposition	used for	paralytic strabismus
+tendon transposition	improves	ocular motility
+muscle plication	is a	surgical procedure
+muscle plication	used for	strabismus
+muscle plication	improves	alignment
+medial rectus advancement	is a	surgical procedure
+medial rectus advancement	used for	residual esotropia
+lateral rectus advancement	is a	surgical procedure
+lateral rectus advancement	used for	residual exotropia
+superior rectus recession	is a	surgical procedure
+superior rectus recession	used for	vertical deviation
+inferior rectus recession	is a	surgical procedure
+inferior rectus recession	used for	vertical deviation
+superior oblique tendon advancement	is a	surgical procedure
+superior oblique tendon advancement	treats	superior oblique palsy
+inferior rectus plication	is a	surgical procedure
+inferior rectus plication	used for	hypotropia
+horizontal rectus transposition	is a	surgical procedure
+horizontal rectus transposition	used for	paralytic strabismus
+vertical rectus transposition	is a	surgical procedure
+vertical rectus transposition	used for	sixth nerve palsy
+posterior fixation suture	is a	surgical technique
+posterior fixation suture	used for	gaze limitation
+orbital wall decompression	is a	surgical procedure
+orbital wall decompression	used for	proptosis
+orbital wall decompression	reduces	proptosis
+orbital apex decompression	is a	surgical procedure
+orbital apex decompression	used for	optic neuropathy
+orbital apex decompression	reduces	optic nerve compression
+optic nerve sheath fenestration	is a	surgical procedure
+optic nerve sheath fenestration	indicated for	optic neuropathy
+optic nerve sheath fenestration	reduces	vision loss risk
+exenteration	is a	surgical procedure
+exenteration	indicated for	orbital malignancy
+exenteration	results in	loss of eye contents
+orbital implant placement	is a	surgical procedure
+orbital implant placement	used for	enucleation support
+orbital reconstruction	is a	surgical procedure
+orbital reconstruction	used for	orbital trauma
+orbital reconstruction	restores	orbital contour
+surgical decompression	is a	general category

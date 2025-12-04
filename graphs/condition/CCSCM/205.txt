@@ -1,0 +1,132 @@
+spondylosis	is a	degenerative spine disease
+spondylosis	associated with	osteophyte formation
+spondylosis	associated with	facet joint arthrosis
+spondylosis	causes	chronic back pain
+spondylosis	predisposes to	spinal stenosis
+spondylosis	predisposes to	radiculopathy
+spondylosis	predisposes to	myelopathy
+spondylosis	results in	nerve compression
+spondylosis	diagnosed by	radiographic changes
+spondylosis	detected on	radiographs
+intervertebral disc disorders	include	degenerative disc disease
+intervertebral disc disorders	include	disc herniation
+intervertebral disc disorders	cause	radiculopathy
+intervertebral disc disorders	cause	myelopathy
+degenerative disc disease	predisposes to	disc herniation
+degenerative disc disease	associated with	low back pain
+degenerative disc disease	leads to	spinal stenosis
+disc herniation	causes	sciatica
+disc herniation	treated with	discectomy
+disc herniation	diagnosed by	MRI
+disc herniation	leads to	nerve compression
+annular tear	associated with	back pain
+annular tear	associated with	disc herniation
+Modic changes	seen in	degenerative disc disease
+Modic changes	correlate with	low back pain
+disc degeneration	leads to	reduced disc height
+disc degeneration	associated with	disc space narrowing
+degenerative disc disease	leads to	spinal stenosis
+spinal stenosis	causes	neurogenic claudication
+spinal stenosis	diagnosed by	MRI
+spinal stenosis	treated with	laminectomy
+spinal stenosis	associated with	age
+spinal stenosis	associated with	obesity
+spondylolisthesis	causes	nerve compression
+spondylolisthesis	associated with	back pain
+spondylolisthesis	diagnosed by	radiographs
+scoliosis	causes	back pain
+scoliosis	associated with	degenerative changes
+scoliosis	treated with	physical therapy
+kyphosis	causes	back pain
+vertebral fracture	causes	back pain
+vertebral fracture	leads to	instability
+vertebral fracture	detected by	imaging
+facet joint osteoarthritis	causes	back pain
+facet joint osteoarthritis	seen in	spondylosis
+facet joint arthropathy	treated with	physical therapy
+facet joint arthropathy	diagnosed by	imaging
+sacroiliac joint dysfunction	causes	back pain
+sacroiliac joint dysfunction	treated with	physical therapy
+pars interarticularis defect	is a	defect of pars interarticularis
+pars interarticularis defect	predisposes to	spondylolysis
+scoliosis	identified on	radiographs
+spondylolisthesis	diagnosed by	radiographs
+spondylolisthesis	leads to	nerve compression
+disc height loss	associated with	degenerative disc disease
+osteophyte formation	associated with	spondylosis
+bone spur	compresses	nerve root
+osteophyte	compresses	nerve root
+spinal canal stenosis	leads to	neurogenic claudication
+spinal canal stenosis	diagnosed by	MRI
+spinal canal stenosis	treated with	laminectomy
+disc bulge	seen in	degenerative disc disease
+disc bulge	causes	back pain
+disc bulge	detected by	imaging
+degenerative spine disease	increases	mortality risk
+degenerative spine disease	common in	elderly
+bone spur	seen in	spondylosis
+bone spur	forms	osteophyte
+facet hypertrophy	associated with	back pain
+facet hypertrophy	occurs in	spondylosis
+disc space narrowing	seen in	degenerative disc disease
+disc space narrowing	leads to	reduced mobility
+reduced mobility	associated with	back pain
+scoliosis	progression in	adults
+scoliosis progression in adults	leads to	spinal stenosis
+scoliosis progression in adults	treated with	physical therapy
+spondylosis	prevalence increases with	age
+age	correlated with	degenerative spine disease
+smoking	increases	disc degeneration
+smoking	increases	risk of spinal degeneration
+aging	increases	risk of spondylosis
+genetic predisposition	increases	risk of disc degeneration
+osteoporosis	increases	vertebral fracture risk
+vertebral fracture	risk factor for	back pain
+bone spur	contributes to	spinal canal stenosis
+bone spur	contributes to	nerve compression
+radioculopathy	caused by	disc herniation
+neurogenic claudication	caused by	spinal stenosis
+cauda equina syndrome	is an	emergency
+cauda equina syndrome	requires	urgent surgery
+radicular pain	is a	symptom
+back pain	is a	symptom
+myelopathy	causes	gait disturbance
+gait disturbance	results from	myelopathy
+epidural injection	used for	radiculopathy
+epidural injection	provides	pain relief
+fusion surgery	used for	spondylolisthesis
+fusion surgery	used for	spinal stenosis
+discectomy	used for	disc herniation
+laminectomy	used for	spinal canal stenosis
+physical therapy	treats	back pain
+analgesics	treat	back pain
+weight loss	improves	back pain
+weight loss	reduces	spinal load
+obesity	increases	back pain risk
+neural compression	causes	back pain
+nerve root	compression	causes radiculopathy
+sciatica	presents with	leg pain
+leg pain	presents with	sciatica
+radiculopathy	presents with	numbness
+numbness	presents with	sensory deficit
+Modic changes	indicate	vertebral endplate changes
+vertebral endplate changes	associated with	Modic changes
+disc dehydration	seen in	degenerative disc disease
+disc dehydration	correlates with	disc height loss
+spinal deformity	associated with	scoliosis
+spinal deformity	leads to	chronic pain
+spondylosis	progression with	aging
+disc herniation	can cause	cauda equina compression
+joint arthritis	refers to	facet joint osteoarthritis
+facet joint arthritis	causes	chronic pain
+myelopathy	may cause	hand clumsiness
+hand clumsiness	may indicate	myelopathy
+neural foramen narrowing	leads to	radiculopathy
+foraminal stenosis	causes	radiculopathy
+foraminal stenosis	diagnosed by	MRI
+foraminal stenosis	treated with	decompression
+decompression	used for	foraminal stenosis
+degenerative cervical spondylosis	is a	subset of spondylosis
+degenerative cervical spondylosis	causes	myelopathy
+degenerative lumbar spondylosis	causes	back pain
+lumbar spondylosis	common in	elderly

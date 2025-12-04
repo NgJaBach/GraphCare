@@ -1,92 +1,100 @@
-cancer of brain and nervous system	is a	cancer
-cancer of brain and nervous system	is a	malignant neoplasm
-cancer of brain and nervous system	is a	brain tumor
-cancer of brain and nervous system	treated with	radiotherapy
-cancer of brain and nervous system	treated with	chemotherapy
-cancer of brain and nervous system	treated with	surgical resection
-cancer of brain and nervous system	treated with	neurosurgery
-cancer of brain and nervous system	treated with	temozolomide
-cancer of brain and nervous system	diagnosed by	MRI
-cancer of brain and nervous system	diagnosed by	CT scan
-cancer of brain and nervous system	diagnosed by	biopsy
-cancer of brain and nervous system	diagnosed by	histology
-cancer of brain and nervous system	diagnosed by	CSF cytology
-cancer of brain and nervous system	includes subtype	glioblastoma
-cancer of brain and nervous system	includes subtype	astrocytoma
-cancer of brain and nervous system	includes subtype	oligodendroglioma
-cancer of brain and nervous system	includes subtype	meningioma
-cancer of brain and nervous system	includes subtype	medulloblastoma
-cancer of brain and nervous system	has molecular feature	MGMT methylation
-cancer of brain and nervous system	has molecular feature	IDH mutation
-cancer of brain and nervous system	has amplification	EGFR amplification
-cancer of brain and nervous system	has mutation	TP53 mutation
-cancer of brain and nervous system	has mutation	BRAF mutation
-cancer of brain and nervous system	associated with	edema
-cancer of brain and nervous system	associated with	mass effect
-cancer of brain and nervous system	associated with	intracranial hypertension
-cancer of brain and nervous system	presents with	headache
-cancer of brain and nervous system	presents with	seizure
-cancer of brain and nervous system	presents with	focal deficit
-cancer of brain and nervous system	presents with	nausea
-cancer of brain and nervous system	presents with	vomiting
-cancer of brain and nervous system	presents with	cognitive impairment
-cancer of brain and nervous system	prognostic factor	MGMT methylation
-cancer of brain and nervous system	prognostic factor	IDH mutation
-cancer of brain and nervous system	prognosis	poor
-cancer of brain and nervous system	prognosis	better with IDH mutation
-cancer of brain and nervous system	prognosis	variable by subtype
-cancer of brain and nervous system	monitored by	MRI
-cancer of brain and nervous system	monitored by	CT
-cancer of brain and nervous system	monitored by	PET
-cancer of brain and nervous system	therapy goal	palliation
-cancer of brain and nervous system	therapy goal	disease control
-cancer of brain and nervous system	response to therapy	radiographic response
-cancer of brain and nervous system	response to therapy	clinical improvement
-cancer of brain and nervous system	side effect	hair loss
-cancer of brain and nervous system	side effect	fatigue
-cancer of brain and nervous system	side effect	cognitive changes
-cancer of brain and nervous system	recurrence	relapse
-cancer of brain and nervous system	recurrence pattern	local
-cancer of brain and nervous system	recurrence pattern	distant
-cancer of brain and nervous system	biopsy result	glioblastoma
-cancer of brain and nervous system	biopsy result	oligodendroglioma
-cancer of brain and nervous system	histology	glioblastoma
-cancer of brain and nervous system	histology	astrocytoma
-cancer of brain and nervous system	histology	oligodendroglioma
-cancer of brain and nervous system	therapy	radiotherapy
-cancer of brain and nervous system	therapy	chemotherapy
-cancer of brain and nervous system	therapy	temozolomide
-cancer of brain and nervous system	guidelines	NCCN
-cancer of brain and nervous system	coding	ICD-10-CM
-cancer of brain and nervous system	incidence	age groups
-cancer of brain and nervous system	risk factor	radiation exposure
-cancer of brain and nervous system	risk factor	family history
-cancer of brain and nervous system	clinical feature	papilledema
-cancer of brain and nervous system	clinical feature	personality change
-cancer of brain and nervous system	clinical feature	visual disturbance
-cancer of brain and nervous system	prognosis modifier	age
-cancer of brain and nervous system	prognosis modifier	performance status
-cancer of brain and nervous system	economic impact	cost burden
-cancer of brain and nervous system	caregiver impact	burden
-cancer of brain and nervous system	research area	neuro-oncology
-cancer of brain and nervous system	rare tumor	craniopharyngioma
-cancer of brain and nervous system	rare tumor	ependymoma
-cancer of brain and nervous system	rare tumor	ependymal tumor
-cancer of brain and nervous system	imaging characteristic	ring-enhancing lesion
-cancer of brain and nervous system	imaging characteristic	necrosis
-cancer of brain and nervous system	imaging characteristic	edema
-cancer of brain and nervous system	follow-up modality	MRI
-cancer of brain and nervous system	follow-up modality	CT
-cancer of brain and nervous system	follow-up modality	PET-CT
-cancer of brain and nervous system	imaging marker	perfusion
-cancer of brain and nervous system	imaging marker	diffusion restriction
-cancer of brain and nervous system	biomarker	MGMT methylation
-cancer of brain and nervous system	biomarker	IDH mutation
-cancer of brain and nervous system	biomarker	EGFR amplification
-cancer of brain and nervous system	social impact	stigma
-cancer of brain and nervous system	disability	neurological disability
-cancer of brain and nervous system	complication	hydrocephalus
-cancer of brain and nervous system	complication	edema reduction
-cancer of brain and nervous system	burden	healthcare costs
-cancer of brain and nervous system	patient education	counseling
-cancer of brain and nervous system	rare tumor	medulloblastoma
+brain cancer	is a	cancer of brain and nervous system
+glioblastoma	is a	malignant brain tumor
+glioblastoma	associated with	EGFR amplification
+glioblastoma	associated with	necrosis
+glioblastoma	treated with	temozolomide
+glioblastoma	treated with	radiotherapy
+temozolomide	is a	alkylating agent
+radiotherapy	is a	standard therapy
+dexamethasone	used for	edema
+edema	causes	increased intracranial pressure
+glioblastoma	recurs	in brain
+TTFields	used for	glioblastoma
+TTFields	is a	device
+MGMT promoter methylation	predicts	temozolomide response
+MGMT promoter methylation	associated with	better prognosis
+astrocytoma	is a	glioma
+oligodendroglioma	is a	glioma
+oligodendroglioma	has	1p/19q codeletion
+1p/19q codeletion	associated with	chemosensitivity
+IDH mutation	occurs in	lower-grade glioma
+IDH mutation	indicates	better prognosis
+DIPG	is a	pediatric brainstem tumor
+medulloblastoma	is a	pediatric cerebellar tumor
+meningioma	is a	typically benign tumor
+schwannoma	is a	benign nerve sheath tumor
+CNS lymphoma	is a	lymphoma of CNS
+brain metastasis	is a	secondary brain tumor
+surgery	aims for	gross total resection
+gross total resection	improves	progression-free survival
+subtotal resection	results in	residual tumor
+biopsy	confirms	histology
+MRI	detects	contrast enhancement
+contrast enhancement	indicates	tumor vascularity
+ring-enhancing lesion	is seen in	glioblastoma
+peritumoral edema	correlates with	mass effect
+mass effect	threatens	brain function
+neurosurgery	performs	tumor resection
+radiation therapy	reduces	tumor size
+stereotactic radiosurgery	treats	small tumors
+bevacizumab	used for	recurrent glioblastoma
+PCV regimen	used for	oligodendroglioma
+tumor treating fields	disrupts	mitosis
+dexamethasone	reduces	edema
+edema	worsens	symptoms
+neoplasm	includes	brain cancer
+pediatric age group	associated with	DIPG
+adult age group	associated with	glioblastoma
+radiation exposure	increases	brain cancer risk
+NF1	predisposes to	glioma
+NF2	predisposes to	vestibular schwannoma
+Li-Fraumeni syndrome	increases	brain cancer risk
+MRI	guides	biopsy decision
+biopsy	provides	tissue diagnosis
+histology	defines	tumor type
+brainstem	site of	DIPG
+cerebellum	site of	medulloblastoma
+cerebral hemisphere	site of	glioblastoma
+ventricles	affected by	tumor growth
+meninges	involved in	meningioma
+dura	invaded by	meningioma
+glioblastoma	has	high vascularity
+glioblastoma	has	necrosis
+recurrence	occurs in	brain tumor
+mortality	associated with	brain cancer
+survival	depends on	extent of resection
+extent of resection	influences	prognosis
+MGMT promoter methylation	defines	temozolomide sensitivity
+IDH mutation	defines	prognosis in glioma
+1p/19q codeletion	defines	chemosensitive glioma
+EGFR amplification	defines	GBM biology
+TERT promoter mutation	associated with	glioblastoma prognosis
+H3 K27M mutation	defines	diffuse midline glioma
+PTEN loss	contributes to	tumor progression
+P53 mutation	found in	astrocytoma
+radiation necrosis	mimics	tumor progression
+steroid therapy	reduces	intracranial pressure
+intracranial pressure	affects	consciousness
+neurosurgeon	performs	craniotomy
+craniotomy	enables	tumor resection
+neuroimaging	monitors	tumor response
+pseudoprogression	mimics	progression on imaging
+pseudoprogression	occurs after	radiotherapy
+intensity-modulated radiotherapy	delivers	conformal dose
+VEGF	promotes	tumor vascularity
+bevacizumab	targets	VEGF
+radiation	causes	radiation-induced necrosis
+cognitive function	declines with	brain cancer
+quality of life	improves with	treatment
+chemotherapy	used for	brain cancer
+temozolomide	side effects	nausea
+nausea	observed with	chemotherapy
+leukopenia	caused by	chemotherapy
+seizure prophylaxis	considered in	brain tumor
+antiepileptic drug	treats	seizures
+Karnofsky performance status	predicts	survival
+neuro-oncology	manages	brain cancer
+clinical trial	offers	novel therapy
+methylation profiling	informs	diagnosis
+pediatric brain tumor	differs from	adult tumor
+survivorship	addresses	late effects

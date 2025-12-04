@@ -1,0 +1,76 @@
+abdominal ultrasound	is a	diagnostic imaging modality
+abdominal ultrasound	is a	noninvasive test
+abdominal ultrasound	evaluates	liver
+abdominal ultrasound	evaluates	gallbladder
+abdominal ultrasound	evaluates	biliary tree
+abdominal ultrasound	evaluates	pancreas
+abdominal ultrasound	evaluates	kidneys
+abdominal ultrasound	evaluates	retroperitoneum
+abdominal ultrasound	evaluates	aorta
+abdominal ultrasound	evaluates	portal system
+abdominal ultrasound	detects	ascites
+abdominal ultrasound	detects	hydronephrosis
+abdominal ultrasound	detects	renal stones
+abdominal ultrasound	detects	renal cysts
+abdominal ultrasound	detects	liver mass
+abdominal ultrasound	detects	pancreatic mass
+abdominal ultrasound	detects	pancreatic pseudocyst
+abdominal ultrasound	detects	gallstones
+abdominal ultrasound	detects	gallbladder wall thickening
+abdominal ultrasound	detects	biliary dilation
+abdominal ultrasound	detects	portal vein dilation
+abdominal ultrasound	detects	splenomegaly
+abdominal ultrasound	detects	aortic aneurysm
+liver	shows	steatosis
+liver	shows	hepatomegaly
+liver	shows	cirrhosis
+gallbladder	shows	sludge
+gallbladder	shows	polyps
+biliary tree	shows	obstruction
+biliary tree	shows	dilation
+pancreas	shows	calcifications
+pancreas	shows	ductal dilation
+pancreas	shows	mass
+pancreas	shows	pseudocyst
+kidneys	show	hydronephrosis
+kidneys	show	cysts
+kidneys	show	stones
+adrenal glands	show	mass
+spleen	show	splenomegaly
+aorta	show	aneurysm
+IVC	show	dilation
+retroperitoneum	may contain	fluid
+retroperitoneum	may contain	mass
+lymph nodes	show	retroperitoneal enlargement
+liver	shows	nodularity
+liver	shows	regenerative changes
+gallbladder	shows	wall edema
+liver	shows	focal lesion
+liver	shows	nodular contour
+pancreatic duct	shows	dilation
+pancreas	shows	cysts
+renal cortex	shows	thinning
+renal pelvis	shows	calyceal dilation
+urinary tract	shows	obstruction
+urinary bladder	shows	wall thickening
+liver	shows	nodular regeneration
+liver	shows	mass lesion
+bile ducts	show	obstruction
+common bile duct	show	dilation
+gallbladder	show	contracted state
+gallbladder	show	distension
+ascites	show	free intraperitoneal fluid
+peritoneum	show	fluid accumulation
+portal vein	show	dilation
+hepatic artery	show	pulsatile flow
+stones	show	posterior acoustic shadowing
+ureter	show	dilation
+urine	show	infection signs on ultrasound
+ultrasound	used	initial assessment in abdominal pain
+ultrasound	used	surveillance of biliary obstruction
+ultrasound	used	evaluation of kidney stones
+abdominal ultrasound	indicates	possible biliary obstruction
+gallbladder	indicates	cholelithiasis
+pancreas	indicates	pancreatitis-related changes
+renal	indicates	nephrolithiasis
+retroperitoneum	indicates	retroperitoneal mass

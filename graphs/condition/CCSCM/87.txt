@@ -1,110 +1,109 @@
-retinal detachments	is an	ocular emergency
-retinal detachments	may cause	vision loss
-retinal detachments	require	surgical repair
-retinal detachments	treated with	scleral buckle
-retinal detachments	treated with	vitrectomy
-retinal detachments	treated with	laser therapy
-retinal detachments	associated with	retinal tears
-retinal detachments	associated with	lattice degeneration
-retinal detachments	present with	floaters
-retinal detachments	present with	flashes
-retinal detachments	increase	risk of blindness
-retinal detachments	occur after	posterior vitreous detachment
-retinal detachments	cause	metamorphopsia
-retinal detachments	cause	scotoma
-retinal detachments	lead to	macular involvement
-retinal detachments	associated with	aging retina
-retinal detachments	may be	bilateral in some cases
-defects	predispose to	retinal detachments
-defects	include	lattice degeneration
-defects	include	retinal tears
-defects	predispose to	lattice degeneration
-defects	associated with	retinal disease
-lattice degeneration	is a	retinal defect
-lattice degeneration	predisposes to	retinal detachments
-lattice degeneration	associated with	retinal tears
-retinal tears	can cause	retinal detachments
-retinal tears	occur with	lattice degeneration
-retinal tears	are a	common cause of detachments
-posterior vitreous detachment	is associated with	retinal detachments
-posterior vitreous detachment	increases risk of	retinal tears
-vascular occlusion	may cause	retinopathy
-vascular occlusion	is associated with	ischemia
-central retinal artery occlusion	is a	retinal vascular occlusion
-retinal vein occlusion	is a	retinal vascular occlusion
-retinal vascular occlusion	presents with	sudden vision loss
-vascular occlusion	risk factor for	retinopathy
-retinopathy	is a	retinal microvascular disease
-retinopathy	may cause	vision loss
-retinopathy	can progress to	retinal detachments
-retinopathy	associated with	diabetes mellitus
-retinopathy	treated with	laser therapy
-retinopathy	treated with	anti-VEGF therapy
-retinopathy	diagnosed by	fundus examination
-retinopathy	monitored with	fluorescein angiography
-retinopathy	worsens with	hypertension
-retinopathy	prevented by	glucose control
-retinopathy	occurs in	elderly
-retinopathy	may require	ophthalmology referral
-vision loss	is a	common outcome
-vision loss	results from	retinal detachments
-vision loss	results from	retinopathy
-surgery	is used for	retinal detachments
-laser therapy	used for	retinal tears
-laser therapy	used for	retinopathy
-vitrectomy	used for	retinal detachments
-scleral buckle	used for	retinal detachments
-fundus examination	helps diagnose	retinopathy
-fundus examination	monitors	retinal detachments
-fluorescein angiography	assists in	retinopathy
-diabetes mellitus	increases risk of	retinopathy
-hypertension	increases risk of	retinopathy
-glucose control	improves	retinopathy
-blood pressure control	improves	retinopathy
-trauma	can cause	retinal detachments
-trauma	associated with	vascular occlusion
-aging retina	predisposes to	defects
-smoking	increases risk of	retinopathy
-ischemia	results from	vascular occlusion
-photopsia	indicates	retinal detachments
-floaters	indicate	retinal detachments
-metamorphopsia	indicates	retinal detachments
-neovascularization	occurs in	retinopathy
-neovascularization	leads to	tractional detachment
-tractional detachment	is a	form of retinal detachment
-traumatic detachment	is a	variant of retinal detachment
-retinal detachment	results in	loss of central vision
-laser retinopexy	reduces risk of	retinal detachment
-cryotherapy	reduces risk of	retinal detachment
-cryotherapy	used for	lattice degeneration
-cryotherapy	used for	retinal tears
-anti-VEGF therapy	reduces progression of	retinopathy
-anti-VEGF therapy	used for	macular edema
-macular edema	occurs in	retinopathy
-macular edema	causes	vision loss
-fundus photography	documents	retinal detachments
-OCT	provides	structural detail of retina
-retinal microvascular disease	describes	retinopathy
-laser photocoagulation	used for	retinopathy
-vitreous hemorrhage	may accompany	retinal detachments
-vitreous hemorrhage	seen in	retinopathy
-older age	increases risk of	retinal detachments
-older age	increases risk of	retinopathy
-diabetic retinopathy	is a	form of retinopathy
-hypertensive retinopathy	is a	form of retinopathy
-neovascularization	occurs in	retinopathy
-trauma	can cause	retinopathy
-retinopathy	may present with	microaneurysms
-retinopathy	may present with	hemorrhages
-retinopathy	may present with	cotton-wool spots
-retinopathy	is associated with	renal disease
-retinopathy	may cause	macular involvement
-retinopathy	can be	asymptomatic in early stages
-retinopathy	monitored by	dilated fundus exam
-defects	can be	congenital
-defects	can be	acquired
-defects	may be	unilateral
-defects	may be	bilateral
-defects	identified by	imaging
-lattice degeneration	may be	asymptomatic
-posterior vitreous detachment	may be	asymptomatic
+retinal detachment	is an	ophthalmic emergency
+retinal detachment	is a complication of	trauma
+myopia	is a risk factor for	retinal detachment
+lattice degeneration	predisposes to	retinal detachment
+retinal tear	leads to	retinal detachment
+lattice degeneration	predisposes to	retinal tear
+posterior vitreous detachment	increases risk for	retinal tear
+posterior vitreous detachment	is associated with	aging
+myopia	is associated with	lattice degeneration
+diabetes mellitus	is a risk factor for	diabetic retinopathy
+diabetic retinopathy	includes	macular edema
+nonproliferative diabetic retinopathy	may progress to	proliferative diabetic retinopathy
+proliferative diabetic retinopathy	has	neovascularization
+neovascularization	leads to	vitreous hemorrhage
+vitreous hemorrhage	causes	vision loss
+central retinal vein occlusion	causes	macular edema
+branch retinal vein occlusion	causes	macular edema
+central retinal artery occlusion	causes	sudden vision loss
+hypertensive retinopathy	is associated with	retinal hemorrhage
+retinopathy	is a manifestation of	diabetes mellitus
+retinopathy	may cause	vision impairment
+retinopathy	is associated with	duration of diabetes
+diabetes mellitus	is a risk factor for	retinopathy
+radiation retinopathy	is a complication of	radiotherapy
+sickle cell retinopathy	occurs in	sickle cell disease
+retinopathy of prematurity	occurs in	premature infants
+premature infant	develops	retinopathy of prematurity
+retinopathy of prematurity	may cause	retinal detachment
+epiretinal membrane	causes	visual distortion
+epiretinal membrane	is associated with	macular edema
+macular edema	reduces	visual acuity
+macular edema	is a hallmark of	diabetic retinopathy
+macular edema	occurs in	retinal vein occlusion
+scleral buckle	treats	retinal detachment
+pars plana vitrectomy	treats	retinal detachment
+laser photocoagulation	prevents	retinal detachment
+cryopexy	prevents	retinal detachment
+panretinal photocoagulation	treats	neovascularization
+anti-VEGF therapy	treats	neovascularization
+anti-VEGF therapy	treats	macular edema
+corticosteroids	treat	macular edema
+diabetes duration	correlates with	severity of retinopathy
+blood pressure	influences	hypertensive retinopathy progression
+aging	increases risk for	posterior vitreous detachment
+trauma	can cause	retinal detachment
+trauma	can cause	retinal tear
+central retinal vein occlusion	increases risk for	macular edema
+central retinal artery occlusion	presents with	sudden vision loss
+central retinal artery occlusion	causes	retinal ischemia
+retinal ischemia	leads to	permanent vision loss
+diabetic retinopathy	is treated with	panretinal photocoagulation
+diabetic retinopathy	may be treated with	anti-VEGF therapy
+epiretinal membrane	causes	visual distortion
+epiretinal membrane	is associated with	macular edema
+macular edema	reduces	visual acuity
+macular edema	is a hallmark of	diabetic retinopathy
+macular edema	occurs in	retinal vein occlusion
+scleral buckle	is used for	retinal detachment
+pars plana vitrectomy	is used for	retinal detachment
+panretinal photocoagulation	is used for	proliferative diabetic retinopathy
+laser photocoagulation	is used for	diabetic retinopathy
+cryotherapy	is used for	retinal tear
+vitreous hemorrhage	is associated with	proliferative diabetic retinopathy
+proliferative diabetic retinopathy	occurs with	neovascularization
+neovascularization	occurs in	proliferative diabetic retinopathy
+neovascularization	leads to	vitreous hemorrhage
+retinal detachment repair	is performed by	vitreoretinal surgeon
+vitreoretinal surgery	is used for	retinal detachment
+laser therapy	is used for	proliferative retinopathy
+panretinal photocoagulation	reduces	neovascularization
+intravitreal injection	treats	macular edema
+intravitreal injection	treats	neovascularization
+intravitreal injection	used for	diabetic retinopathy
+anti-VEGF agent	reduces	neovascularization
+anti-VEGF agent	reduces	macular edema
+diabetic macular edema	leads to	vision impairment
+vision impairment	reduces	quality of life
+visual acuity	measures	macular edema severity
+ophthalmoscopy	detects	retinal tear
+ophthalmoscopy	detects	retinal detachment
+fundus photography	documents	retinopathy
+fluorescein angiography	visualizes	neovascularization
+macular hole	occurs with	epiretinal membrane
+epiretinal membrane	can coexist with	macular hole
+age	predisposes to	posterior vitreous detachment
+photoreceptor layer	is affected by	retinal detachment
+fovea	involvement with	retinal detachment
+macular involvement	worsens	visual prognosis
+systolic pressure	influences	hypertensive retinopathy progression
+fundus examination	detects	retinopathy
+ophthalmic examination	detects	retinal detachment
+retinal detachment repair	aims to restore	vision
+vision restoration	is a result of	retinal detachment repair
+blindness	may result from	retinal detachment
+visual acuity	improves after	retinal detachment repair
+photoreceptors	reside in	retina
+retina	contains	photoreceptors
+intravitreal injection	reduces	vision loss
+macular edema	contributes to	reading difficulty
+retina	supports	photoreceptors
+retina	nourished by	choroid
+choroid	supplies	outer retina
+vision	improves after	repair
+visual outcome	depends on	prompt surgery
+retinal detachment	can be	bilateral
+vision loss	results from	central retinal artery occlusion
+central retinal artery occlusion	is an	ocular emergency
+retinopathy	predicts	mortality
+diabetic retinopathy	increases risk for	blindness

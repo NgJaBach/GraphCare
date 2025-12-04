@@ -1,100 +1,100 @@
-acute sinusitis	is a	upper respiratory infection
-nasopharyngitis	is a	upper respiratory infection
-otitis media	is a	middle ear infection
-pharyngitis	is a	throat infection
-tonsillitis	is a	throat infection
-laryngitis	is a	laryngeal inflammation
-rhinitis	is a	nasal inflammation
-rhinosinusitis	is a	nasal-sinus infection
-adenoiditis	is a	nasopharyngeal infection
-common cold	is a	viral infection
-rhinovirus	causes	common cold
-influenza virus	causes	influenza
-adenovirus	causes	pharyngitis
-Streptococcus pyogenes	causes	pharyngitis
-Haemophilus influenzae	associated with	acute otitis media
-Moraxella catarrhalis	associated with	acute otitis media
-Streptococcus pneumoniae	associated with	sinusitis
-respiratory syncytial virus	associated with	rhinitis
-enterovirus	causes	pharyngitis
-coronavirus	causes	common cold
-nasal discharge	associated with	rhinitis
-fever	associated with	acute sinusitis
-facial pain	associated with	sinusitis
-sore throat	associated with	pharyngitis
-ear pain	associated with	otitis media
-hoarseness	associated with	laryngitis
-sneezing	associated with	allergic rhinitis
-nasal obstruction	associated with	rhinosinusitis
-lymphadenopathy	associated with	tonsillitis
-malaise	associated with	influenza
-rapid strep test	used for	pharyngitis diagnosis
-nasopharyngeal swab	used for	rhinovirus detection
-CT sinus imaging	used for	sinusitis assessment
-sinus X-ray	used for	sinusitis assessment
-otoscopic exam	used for	otitis media diagnosis
-tympanometry	used for	otitis media assessment
-nasal culture	used for	bacterial sinusitis identification
-endoscopy	used for	rhinosinusitis evaluation
-audiometry	used for	hearing assessment in URI
-clinical exam	used for	URI diagnosis
-amoxicillin	used for	acute sinusitis
-amoxicillin-clavulanate	used for	sinusitis
-azithromycin	used for	pharyngitis
-clindamycin	used for	tonsillitis
-intranasal corticosteroids	used for	rhinosinusitis
-intranasal saline spray	used for	nasal congestion
-decongestants	used for	nasal obstruction
-acetaminophen	used for	fever
-ibuprofen	used for	pain
-antibiotics	used for	bacterial URI
-analgesics	used for	URI discomfort
-rest	used for	URI management
-hydration	used for	URI management
-humidified air	used for	nasal symptoms
-saltwater gargles	used for	pharyngitis relief
-intranasal steroids	used for	allergic rhinitis
-antihistamines	used for	allergic rhinitis
-vaccines	used for	influenza prevention
-flu vaccine	reduces	influenza incidence
-pneumococcal vaccine	reduces	pneumococcal disease
-daycare attendance	increases	otitis media risk
-smoking	increases	rhinitis risk
-age <5 years	increases	URI risk
-age >65 years	increases	URI risk
-seasonal variation	affects	URI incidence
-immunodeficiency	increases	URI risk
-allergen exposure	increases	allergic rhinitis risk
-environmental pollutants	increases	URIs risk
-crowded housing	increases	URI transmission
-URIs	predict	antibiotic prescriptions
-URIs	predict	ED visits
-otitis media	predicts	hearing loss
-rhinosinusitis	predicts	chronic rhinosinusitis
-common cold	predicts	short-term work impairment
-sinusitis	can lead to	orbital cellulitis
-sinusitis	can lead to	meningitis
-otitis media	can lead to	tympanic membrane rupture
-pharyngitis	can lead to	peritonsillar abscess
-laryngitis	can lead to	airway obstruction
-rhinitis	can lead to	nasal polyps
-rhinosinusitis	can lead to	chronic rhinosinusitis
-adenoiditis	can lead to	sleep apnea
-common cold	can lead to	secondary bacterial infection
-influenza	can lead to	pneumonia
-rhinovirus	more common in	autumn and winter
-seasonal influenza vaccine	reduces	influenza incidence
-pneumococcal vaccine	reduces	pneumococcal disease
-hand hygiene	reduces	URI transmission
-mask wearing	reduces	URI transmission
-air quality	affects	URI symptoms
-allergic rhinitis	increases	nasal obstruction
-adenoid hypertrophy	increases	nasal obstruction
-nasal polyps	associated with	chronic rhinosinusitis
-sinusitis	associated with	facial pain
-otitis media with effusion	associated with	hearing loss
-tonsillitis	associated with	cervical lymphadenopathy
-laryngitis	associated with	voice changes
-rhinosinusitis	diagnosed by	CT imaging
-acute sinusitis	treated with	analgesics
-nasal spray	used for	rhinitis
+other upper respiratory infections	are	viral infections
+other upper respiratory infections	include	rhinoviruses
+other upper respiratory infections	include	influenza viruses
+other upper respiratory infections	include	RSV
+other upper respiratory infections	are caused by	viruses
+other upper respiratory infections	present with	cough
+other upper respiratory infections	present with	nasal congestion
+other upper respiratory infections	present with	rhinorrhea
+other upper respiratory infections	present with	fever
+other upper respiratory infections	present with	sore throat
+other upper respiratory infections	present with	fatigue
+other upper respiratory infections	present with	malaise
+other upper respiratory infections	managed with	supportive care
+other upper respiratory infections	treated with	analgesics
+other upper respiratory infections	treated with	antipyretics
+other upper respiratory infections	treated with	decongestants
+other upper respiratory infections	treated with	saline nasal spray
+other upper respiratory infections	prevented by	influenza vaccine
+other upper respiratory infections	risk factor for	dehydration
+other upper respiratory infections	predispose to	secondary bacterial infections
+other upper respiratory infections	lead to	otitis media
+other upper respiratory infections	lead to	sinusitis
+other upper respiratory infections	lead to	pneumonia
+other upper respiratory infections	cause	cough symptoms
+other upper respiratory infections	exacerbate	asthma
+other upper respiratory infections	increase	healthcare visits
+other upper respiratory infections	increase	antibiotic prescriptions
+other upper respiratory infections	occur in	children
+other upper respiratory infections	occur in	infants
+other upper respiratory infections	occur in	elderly
+other upper respiratory infections	occur primarily in	winter
+other upper respiratory infections	occur in	daycare
+other upper respiratory infections	associated with	asthma symptoms
+other upper respiratory infections	associated with	chronic rhinosinusitis
+other upper respiratory infections	transmitted by	droplets
+other upper respiratory infections	transmitted via	aerosols
+other upper respiratory infections	spread by	droplets
+other upper respiratory infections	diagnosed by	rapid antigen test
+other upper respiratory infections	diagnosed by	clinical examination
+other upper respiratory infections	diagnosed by	nasal swab
+other upper respiratory infections	diagnosed by	throat swab
+other upper respiratory infections	distinguished from	bacterial pharyngitis
+other upper respiratory infections	distinguished from	streptococcal pharyngitis
+other upper respiratory infections	associated with	sleep disturbance
+other upper respiratory infections	common in	winter months
+other upper respiratory infections	common in	children
+other upper respiratory infections	common in	infants
+other upper respiratory infections	common in	elderly
+other upper respiratory infections	linked with	daycare attendance
+other upper respiratory infections	associated with	smoking exposure
+other upper respiratory infections	associated with	air pollution exposure
+other upper respiratory infections	require	hospital admission
+other upper respiratory infections	follow-up	clinic visit
+other upper respiratory infections	associated with	sinusitis risk
+other upper respiratory infections	associated with	otitis media risk
+other upper respiratory infections	associated with	bacterial pneumonia risk
+other upper respiratory infections	associated with	nasal mucosal inflammation
+other upper respiratory infections	correlate with	seasonal influenza activity
+other upper respiratory infections	prevalence in	urban populations
+other upper respiratory infections	prevalence in	rural populations
+other upper respiratory infections	reduction with	hand hygiene
+other upper respiratory infections	reduction with	mask usage
+other upper respiratory infections	influenced by	vaccination coverage
+other upper respiratory infections	monitored by	surveillance data
+other upper respiratory infections	impact on	work absenteeism
+other upper respiratory infections	impact on	school absenteeism
+other upper respiratory infections	burden on	primary care
+other upper respiratory infections	burden on	urgent care
+other upper respiratory infections	presence in	urban environments
+other upper respiratory infections	presence in	rural environments
+other upper respiratory infections	associated with	conjunctivitis
+other upper respiratory infections	present with	sneezing
+other upper respiratory infections	associated with	pharyngitis
+other upper respiratory infections	associated with	laryngitis
+other upper respiratory infections	present with	throat irritation
+other upper respiratory infections	present with	nasal irritation
+other upper respiratory infections	cause	nasal discharge
+other upper respiratory infections	lead to	conjunctivitis
+other upper respiratory infections	risk of	secondary sinusitis
+other upper respiratory infections	risk of	secondary otitis media
+other upper respiratory infections	correlate with	RSV seasonality
+other upper respiratory infections	present with	fever and cough
+other upper respiratory infections	common in	daycare groups
+other upper respiratory infections	associated with	mild dehydration
+other upper respiratory infections	treat with	humidified air
+other upper respiratory infections	associated with	vaccination status
+other upper respiratory infections	cause	post-nasal drip
+other upper respiratory infections	cause	scratchy throat
+other upper respiratory infections	associated with	hospitalization duration
+other upper respiratory infections	related to	ER visits
+other upper respiratory infections	associated with	antibiotic overuse
+other upper respiratory infections	linked with	antimicrobial resistance
+other upper respiratory infections	impact on	school performance
+other upper respiratory infections	correlate with	pediatric prevalence
+other upper respiratory infections	observed in	immunocompromised patients
+other upper respiratory infections	observed in	clinical practice
+other upper respiratory infections	seen in	outpatient settings
+other upper respiratory infections	recommended by	clinical guidelines
+other upper respiratory infections	result in	post-viral fatigue
+other upper respiratory infections	present with	sneezing and congestion

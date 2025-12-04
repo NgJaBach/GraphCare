@@ -1,0 +1,100 @@
+bone cancer	is a	malignant neoplasm
+osteosarcoma	is a	primary bone cancer
+osteosarcoma	arises from	osteoblasts
+osteosarcoma	metastasizes to	lung
+osteosarcoma	presents with	bone pain
+osteosarcoma	presents with	swelling
+osteosarcoma	occurs in	metaphysis of long bones
+osteosarcoma	most common in	adolescents
+osteosarcoma	treated with	chemotherapy
+osteosarcoma	treated with	surgery
+osteosarcoma	treated with	limb-sparing surgery
+osteosarcoma	treated with	amputation
+osteosarcoma	prognosis depends on	stage
+osteosarcoma	associated with	elevated alkaline phosphatase
+osteosarcoma	associated with	p53 mutation
+Ewing sarcoma	is a	malignant bone tumor
+Ewing sarcoma	arises from	primitive neuroectodermal cells
+Ewing sarcoma	metastasizes to	lung
+Ewing sarcoma	presents with	fever
+Ewing sarcoma	presents with	bone pain
+Ewing sarcoma	occurs in	diaphysis of long bones
+Ewing sarcoma	most common in	children
+Ewing sarcoma	treated with	chemotherapy
+Ewing sarcoma	treated with	radiotherapy
+Ewing sarcoma	treated with	surgery
+Ewing sarcoma	prognosis depends on	tumor size
+chondrosarcoma	is a	malignant bone tumor
+chondrosarcoma	arises from	chondrocytes
+chondrosarcoma	occurs in	pelvis and proximal femur
+chondrosarcoma	treated with	surgery
+chondrosarcoma	less responsive to	chemotherapy
+chondrosarcoma	prognosis depends on	grade
+bone cancer	diagnosed by	biopsy
+biopsy	confirms	osteosarcoma
+biopsy	confirms	Ewing sarcoma
+MRI	evaluates	local extent of tumor
+CT scan	detects	pulmonary metastasis
+PET-CT	detects	metastasis
+sunburst pattern	seen in	osteosarcoma
+Codman triangle	seen in	osteosarcoma
+ring-and-arc calcification	seen in	chondrosarcoma
+EWSR1-FLI1 fusion	characteristic of	Ewing sarcoma
+p53 mutation	associated with	osteosarcoma
+LDH elevation	associated with	Ewing sarcoma
+tumor grade	correlates with	prognosis
+tumor size	correlates with	prognosis
+lung metastasis	signifies	advanced disease
+liver metastasis	is rare in	osteosarcoma
+bone pain	symptom of	bone cancer
+swelling	symptom of	bone cancer
+pathological fracture	occurs with	bone cancer
+biopsy	required for	diagnosis of bone cancer
+imaging	guides	treatment planning
+staging	guides	prognosis
+pediatric patient	has	higher incidence of osteosarcoma
+adolescent	peak incidence of	osteosarcoma
+adult	peak incidence of	chondrosarcoma
+soft tissue sarcoma	is a	category of cancer
+soft tissue sarcoma	includes	liposarcoma
+soft tissue sarcoma	metastasizes to	lung
+soft tissue sarcoma	treated with	chemotherapy
+soft tissue sarcoma	treated with	radiotherapy
+soft tissue sarcoma	treated with	surgery
+soft tissue sarcoma	prognosis depends on	stage
+gastrointestinal stromal tumor	is a	soft tissue sarcoma
+gastrointestinal stromal tumor	occurs in	abdomen
+soft tissue sarcoma	metastasis to	liver
+osteosarcoma	treated with	chemotherapy
+osteosarcoma	prognosis worsens with	metastatic disease
+Ewing sarcoma	prognosis worsens with	metastasis at diagnosis
+chondrosarcoma	prognosis worse with	high grade
+bone cancer	recurrence after	treatment
+neoadjuvant therapy	used before	surgery
+adjuvant therapy	used after	surgery
+neoadjuvant chemotherapy	reduces	tumor size
+negative surgical margin	reduces	risk of recurrence
+local recurrence	occurs with	bone cancer
+postoperative radiotherapy	used for	local control
+chemotherapy	systemic therapy for	bone cancer
+targeted therapy	studied in	chondrosarcoma
+immunotherapy	explored for	bone sarcoma
+prognosis	worsens with	metastatic disease
+metastasis at diagnosis	worsens	prognosis
+TNM staging	used for	bone cancer
+tumor size	determines	surgical plan
+lymph node metastasis	indicates	advanced stage
+disease-free survival	measures	recurrence-free interval
+overall survival	measures	time to death
+survival rate	varies with	stage
+early detection	improves	survival
+imaging surveillance	monitors for	recurrence
+follow-up	required after	treatment
+childhood cancer	includes	osteosarcoma
+multi-disciplinary team	manages	bone sarcoma
+oncologist	prescribes	chemotherapy
+surgeon	performs	tumor resection
+radiologist	conducts	imaging studies
+pathologist	analyzes	biopsy specimen
+genetic alteration	influences	prognosis
+epigenetic modification	contributes to	tumor progression

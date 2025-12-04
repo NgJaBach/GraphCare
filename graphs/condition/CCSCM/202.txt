@@ -1,1 +1,100 @@
-ENTITY 1	RELATIONSHIP	ENTITY 2
+rheumatoid arthritis	is a	autoimmune disease
+rheumatoid arthritis	is treated with	methotrexate
+rheumatoid arthritis	is treated with	sulfasalazine
+rheumatoid arthritis	is treated with	hydroxychloroquine
+rheumatoid arthritis	is treated with	leflunomide
+rheumatoid arthritis	is treated with	biologic DMARDs
+rheumatoid arthritis	is treated with	TNF inhibitors
+rheumatoid arthritis	is treated with	abatacept
+rheumatoid arthritis	is treated with	rituximab
+rheumatoid arthritis	is treated with	tocilizumab
+rheumatoid arthritis	is treated with	adalimumab
+rheumatoid arthritis	is treated with	etanercept
+rheumatoid arthritis	is treated with	infliximab
+rheumatoid arthritis	is treated with	golimumab
+rheumatoid arthritis	is treated with	baricitinib
+rheumatoid arthritis	is treated with	tofacitinib
+rheumatoid arthritis	is diagnosed by	anti-CCP antibodies
+rheumatoid arthritis	is diagnosed by	rheumatoid factor
+rheumatoid arthritis	is diagnosed by	radiographic erosions
+rheumatoid arthritis	is associated with	fatigue
+rheumatoid arthritis	is associated with	morning stiffness
+rheumatoid arthritis	is associated with	anemia of chronic disease
+rheumatoid arthritis	increases risk of	cardiovascular disease
+rheumatoid arthritis	increases risk of	myocardial infarction
+rheumatoid arthritis	increases risk of	heart failure
+rheumatoid arthritis	increases risk of	venous thromboembolism
+rheumatoid arthritis	increases risk of	osteoporosis
+rheumatoid arthritis	increases risk of	infections
+rheumatoid arthritis	increases risk of	pneumonia
+rheumatoid arthritis	lowers	quality of life
+rheumatoid arthritis	affects	physical function
+rheumatoid arthritis	affects	mobility
+rheumatoid arthritis	impacts	daily activities
+rheumatoid arthritis	is associated with	depression
+rheumatoid arthritis	is associated with	sleep disturbance
+psoriatic arthritis	is a	inflammatory arthritis
+psoriatic arthritis	is associated with	psoriasis
+psoriatic arthritis	is associated with	nail changes
+psoriatic arthritis	is treated with	methotrexate
+psoriatic arthritis	is treated with	biologic DMARDs
+psoriatic arthritis	is treated with	adalimumab
+psoriatic arthritis	is treated with	etanercept
+psoriatic arthritis	is treated with	ustekinumab
+psoriatic arthritis	is treated with	secukinumab
+psoriatic arthritis	is treated with	ixekizumab
+psoriatic arthritis	is associated with	dactylitis
+psoriatic arthritis	is associated with	enthesitis
+psoriatic arthritis	is associated with	skin plaques
+psoriatic arthritis	is diagnosed by	clinical features
+psoriatic arthritis	is diagnosed by	HLA-B27 positivity
+psoriatic arthritis	is diagnosed by	psoriasis presence
+psoriatic arthritis	is associated with	cardiovascular disease
+ankylosing spondylitis	is a	spondyloarthritis
+ankylosing spondylitis	is associated with	HLA-B27 positivity
+ankylosing spondylitis	is treated with	NSAIDs
+ankylosing spondylitis	is treated with	TNF inhibitors
+ankylosing spondylitis	can cause	vertebral fusion
+ankylosing spondylitis	increases risk of	uveitis
+ankylosing spondylitis	is diagnosed by	HLA-B27 testing
+ankylosing spondylitis	is diagnosed by	imaging evidence of sacroiliitis
+juvenile idiopathic arthritis	is a	pediatric autoimmune arthritis
+juvenile idiopathic arthritis	is treated with	NSAIDs
+juvenile idiopathic arthritis	is treated with	methotrexate
+juvenile idiopathic arthritis	is treated with	biologic DMARDs
+juvenile idiopathic arthritis	is associated with	growth delay
+juvenile idiopathic arthritis	is associated with	fever
+osteoarthritis	is a	degenerative joint disease
+osteoarthritis	is treated with	acetaminophen
+osteoarthritis	is treated with	NSAIDs
+osteoarthritis	is managed with	physical therapy
+osteoarthritis	is associated with	obesity
+inflammatory arthritis	is a	broad category
+inflammatory arthritis	includes	rheumatoid arthritis
+inflammatory arthritis	is associated with	synovitis
+inflammatory arthritis	is treated with	DMARDs
+reactive arthritis	is a	seronegative spondyloarthritis
+reactive arthritis	is associated with	preceding infection
+reactive arthritis	is associated with	urethritis
+reactive arthritis	is treated with	NSAIDs
+reactive arthritis	is treated with	corticosteroids
+rheumatoid arthritis	has	extra-articular manifestations
+rheumatoid arthritis	is a	chronic inflammatory disease
+rheumatoid arthritis	increases risk of	cognitive impairment
+rheumatoid arthritis	is monitored with	C-reactive protein
+rheumatoid arthritis	is monitored with	erythrocyte sedimentation rate
+rheumatoid arthritis	is monitored for	liver toxicity
+rheumatoid arthritis	is monitored for	bone mineral density loss
+rheumatoid arthritis	reduces	mobility
+rheumatoid arthritis	is comorbid with	hypertension
+rheumatoid arthritis	is comorbid with	diabetes mellitus
+psoriatic arthritis	comorbid with	metabolic syndrome
+ankylosing spondylitis	comorbid with	uveitis
+juvenile idiopathic arthritis	comorbid with	growth retardation
+osteoarthritis	comorbid with	obesity
+rheumatoid arthritis	is misdiagnosed as	osteoarthritis
+rheumatoid arthritis	can lead to	disability
+rheumatoid arthritis	is associated with	anemia
+rheumatoid arthritis	is present with	rheumatoid nodules
+rheumatoid arthritis	is associated with	vasculitis
+rheumatoid arthritis	may require	joint replacement

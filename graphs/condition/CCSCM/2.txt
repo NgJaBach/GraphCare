@@ -1,0 +1,100 @@
+septicemia	is a	infection
+septicemia	is a	systemic infection
+septicemia	may cause	septic shock
+septicemia	may lead to	organ failure
+septicemia	caused by	bacteria
+septicemia	caused by	Gram-positive bacteria
+septicemia	caused by	Gram-negative bacteria
+septicemia	caused by	Staphylococcus aureus
+septicemia	caused by	Escherichia coli
+septicemia	caused by	Klebsiella pneumoniae
+septicemia	caused by	Pseudomonas aeruginosa
+septicemia	caused by	Streptococcus pneumoniae
+septicemia	caused by	Enterococcus faecalis
+septicemia	caused by	Candida albicans
+septicemia	treated with	antibiotics
+antibiotics	treat	septicemia
+antibiotic therapy	is a	treatment
+septicemia	requires	fluid resuscitation
+septicemia	requires	vasopressor therapy
+septicemia	requires	ICU admission
+vasopressor therapy	indicates	septicemia severity
+fluid resuscitation	improves	hemodynamics
+blood culture	used to diagnose	septicemia
+blood culture	positive for	pathogen
+pathogen	identified by	culture
+bacteremia	is associated with	septicemia
+septicemia	increases	hospital length of stay
+septicemia	increases	mortality
+antibiotic resistance	worsens	septicemia outcomes
+antimicrobial stewardship	reduces	septicemia mortality
+neonates	at risk for	septicemia
+pediatric patients	at risk for	septicemia
+elderly patients	at risk for	septicemia
+diabetes mellitus	risk factor for	septicemia
+immunosuppression	increases	septicemia risk
+intravenous drug use	increases	septicemia risk
+hospital-acquired infection	results in	septicemia
+septicemia	can cause	disseminated intravascular coagulation
+septicemia	can cause	acute kidney injury
+septicemia	can cause	hepatic dysfunction
+septicemia	can cause	acute respiratory distress syndrome
+septicemia	associated with	coagulopathy
+coagulopathy	occurs in	septicemia
+septicemia	diagnosed by	blood culture
+sepsis	related to	septicemia
+blood culture positivity	indicates	bacteremia
+bacteremia	defined as	presence of bacteria in blood
+lactate	is elevated in	septicemia
+lactate level	correlates with	septicemia severity
+SOFA score	predicts	septicemia mortality
+APACHE II score	predicts	septicemia outcome
+C-reactive protein	increases with	septicemia severity
+white blood cell count	increases with	septicemia severity
+creatinine	rises with	septicemia-related kidney injury
+urine output	decreases in	septicemia
+platelet count	decreases in	septicemia
+platelet dysfunction	occurs in	septicemia
+hypotension	presents with	septicemia
+tachycardia	occurs in	septicemia
+fever	is common in	septicemia
+hypoxemia	occurs in	septicemia
+coagulation cascade	disrupted in	septicemia
+bilirubin	rises with	septicemia-related hepatic dysfunction
+renal replacement therapy	is used for	septicemia with AKI
+dialysis	supports	septicemia with AKI
+antibiotic timing	influences	septicemia outcomes
+early antibiotic administration	is recommended for	septicemia
+delay in antibiotics	worsens	septicemia outcomes
+antibiotic de-escalation	is recommended for	septicemia
+length of stay	increases with	septicemia
+mortality	associated with	septicemia
+time to positivity	influences	septicemia management
+culture results	influence	antibiotic choice
+broad-spectrum antibiotics	cover	septicemia pathogens
+piperacillin-tazobactam	used for	septicemia
+vancomycin	used for	septicemia
+carbapenems	used for	septicemia
+empiric antibiotic therapy	is used for	septicemia
+intravenous fluids	initial management for	septicemia
+intravenous fluids	provide	hemodynamic support
+septicemia management	includes	antibiotics
+septicemia management	includes	fluids
+septicemia management	requires	ICU care
+source control	is essential for	septicemia
+central line infection	is a source of	septicemia
+urinary tract infection	can lead to	septicemia
+pneumonia	can lead to	septicemia
+sepsis	overlaps with	septicemia
+bloodstream infection	is synonymous with	septicemia
+Gram-positive bacteria	include	Staphylococcus aureus
+Gram-negative bacteria	include	Escherichia coli
+neutrophil count	altered in	septicemia
+neutrophil dysfunction	occurs in	septicemia
+serum lactate	reflects	tissue hypoperfusion
+procalcitonin	used in	sepsis evaluation
+glucose dysregulation	occurs in	septicemia
+shock	complicates	septicemia
+mortality risk	increases with	septicemia severity
+antibiotic timing	affects	septicemia outcomes
+multidisciplinary care	improves	septicemia outcomes

@@ -1,0 +1,100 @@
+enteral nutrition	is a	nutritional support
+parenteral nutrition	is a	nutritional support
+enteral nutrition	indicated for	malnutrition
+parenteral nutrition	indicated for	nonfunctional GI tract
+enteral nutrition	delivered via	nasogastric tube
+enteral nutrition	delivered via	gastrostomy tube
+parenteral nutrition	delivered via	central venous catheter
+parenteral nutrition	delivered via	peripheral vein
+enteral nutrition	contains	macronutrients
+enteral nutrition	contains	micronutrients
+enteral nutrition	contains	fiber
+parenteral nutrition	contains	amino acids
+parenteral nutrition	contains	lipids
+parenteral nutrition	contains	dextrose
+parenteral nutrition	provides	calories
+enteral nutrition	provides	calories
+parenteral nutrition	provides	essential fatty acids
+parenteral nutrition	provides	trace elements
+enteral nutrition	provides	protein
+enteral nutrition	provides	energy
+enteral nutrition	required for	GI tract function
+parenteral nutrition	required for	central venous access
+enteral nutrition	contraindicated in	bowel obstruction
+enteral nutrition	contraindicated in	high-output fistula
+parenteral nutrition	contraindicated in	severe hepatic dysfunction
+parenteral nutrition	contraindicated in	severe fluid overload
+enteral nutrition	indicated for	poor oral intake
+enteral nutrition	indicated for	increased metabolic demand
+enteral nutrition	reduces	gut atrophy
+enteral nutrition	preserves	gut mucosal integrity
+enteral nutrition	reduces	infection risk
+parenteral nutrition	increases	catheter-related infection
+parenteral nutrition	increases	risk of liver dysfunction
+parenteral nutrition	increases	risk of cholestasis
+parenteral nutrition	increases	risk of hyperglycemia
+parenteral nutrition	increases	risk of electrolyte imbalance
+enteral nutrition	reduces	bacterial translocation
+enteral nutrition	supports	immune function
+enteral nutrition	improves	nitrogen balance
+parenteral nutrition	maintains	caloric intake
+enteral nutrition	requires	electrolyte monitoring
+parenteral nutrition	requires	liver function monitoring
+parenteral nutrition	requires	sterile technique
+parenteral nutrition	requires	vitamin supplementation
+parenteral nutrition	requires	trace element supplementation
+central venous catheter	used for	parenteral nutrition
+nasogastric tube	used for	enteral nutrition
+gastrostomy tube	used for	enteral nutrition
+jejunostomy tube	used for	enteral nutrition
+lipid emulsion	used in	parenteral nutrition
+elemental formula	used for	enteral nutrition
+semi-elemental formula	used for	enteral nutrition
+polymeric formula	used for	enteral nutrition
+protein	provided by	enteral nutrition
+calorie density	affects	tolerance of enteral nutrition
+enteral nutrition	improves	wound healing
+enteral nutrition	reduces	infection rate
+parenteral nutrition	used in	surgical patients when EN not feasible
+enteral nutrition	used in	critical illness
+parenteral nutrition	used in	postoperative nutrition when EN not feasible
+enteral nutrition	maintained by	dietitian oversight
+combined nutrition support	includes	enteral nutrition
+combined nutrition support	includes	parenteral nutrition
+combined nutrition support	aims	nutritional adequacy
+central venous catheter	increases	infection risk
+central venous catheter	requires	care and maintenance
+enteral nutrition	associated with	aspiration
+enteral nutrition	associated with	regurgitation
+parenteral nutrition	associated with	catheter occlusion
+parenteral nutrition	associated with	catheter dislodgement
+parenteral nutrition	associated with	air embolism
+parenteral nutrition	associated with	metabolic bone disease
+parenteral nutrition	associated with	liver steatosis
+enteral nutrition	safe in	patients with functional GI tract
+parenteral nutrition	unsuitable for	functional GI tract
+enteral nutrition	adjunct to	oral intake when feasible
+parenteral nutrition	adjunct to	enteral nutrition when EN insufficient
+glucose monitoring	required with	parenteral nutrition
+blood glucose	affected by	parenteral nutrition
+electrolyte monitoring	required for	enteral nutrition
+lipid emulsion	included in	parenteral nutrition
+line sepsis	associated with	parenteral nutrition
+liver dysfunction	associated with	parenteral nutrition
+cholestasis	associated with	parenteral nutrition
+intestinal atrophy	prevented by	enteral nutrition
+gastrointestinal barrier	supported by	enteral nutrition
+microbiome	influenced by	enteral nutrition
+immune function	enhanced by	enteral nutrition
+nitrogen balance	improved by	enteral nutrition
+weight	maintained by	nutrition support
+nutrition support	managed by	dietitian team
+dietitian	specializes in	enteral nutrition
+monitoring	required for	nutrition support
+nitrogen balance	improved by	nutrition support
+hospital stay	affected by	nutrition support
+cost	increased by	parenteral nutrition
+cost	reduced by	enteral nutrition
+care team	oversees	nutrition support
+tube feeding	enables	enteral nutrition
+dietitian oversight	ensures	nutritional adequacy

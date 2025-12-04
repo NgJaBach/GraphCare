@@ -1,0 +1,100 @@
+short gestation	is a type of	preterm birth
+short gestation	associated with	low birth weight
+preterm birth	associated with	neonatal morbidity
+low birth weight	associated with	neonatal mortality
+fetal growth retardation	associated with	fetal demise
+fetal growth restriction	associated with	nicu admission
+intrauterine growth restriction	associated with	short gestation
+placental insufficiency	causes	fetal growth restriction
+placental insufficiency	causes	fetal growth retardation
+placental insufficiency	associated with	preterm birth
+placental abruption	associated with	preterm birth
+placental abruption	associated with	fetal growth restriction
+preeclampsia	associated with	placental insufficiency
+preeclampsia	associated with	fetal growth restriction
+maternal hypertension	risk factor for	short gestation
+maternal hypertension	risk factor for	low birth weight
+gestational diabetes	associated with	preterm birth
+gestational diabetes	associated with	fetal growth retardation
+gestational diabetes	associated with	fetal growth restriction
+maternal obesity	associated with	preterm birth
+smoking in pregnancy	increases risk of	low birth weight
+smoking in pregnancy	increases risk of	preterm birth
+alcohol use in pregnancy	associated with	fetal growth retardation
+maternal age	associated with	preterm birth
+maternal age	associated with	fetal growth restriction
+multiple gestation	associated with	short gestation
+multiple gestation	associated with	low birth weight
+antenatal corticosteroids	reduce risk of	neonatal respiratory distress syndrome
+antenatal corticosteroids	improve	fetal lung maturity
+ultrasound surveillance	monitors	fetal growth
+fetal growth retardation	diagnosed by	ultrasound
+preterm birth	increases risk of	respiratory distress syndrome
+neonatal respiratory distress syndrome	associated with	neonatal mortality
+neonatal respiratory distress syndrome	increases risk of	bronchopulmonary dysplasia
+bronchopulmonary dysplasia	occurs in	preterm infant
+intraventricular hemorrhage	occurs in	preterm infant
+intraventricular hemorrhage	associated with	preterm birth
+neonatal sepsis	associated with	mortality
+neonatal sepsis	increases risk of	hospital readmission
+neonatal mortality	associated with	low birth weight
+perinatal mortality	associated with	fetal growthRestriction
+small for gestational age	denotes	fetal growth retardation
+small for gestational age	increases risk of	perinatal mortality
+fetal growth restriction	associated with	perinatal mortality
+fetal growth restriction	associated with	neurodevelopmental impairment
+neurodevelopmental impairment	associated with	cerebral palsy
+cerebral palsy	associated with	long-term disability
+birth weight percentile	used to classify	fetal growth restriction
+oligohydramnios	associated with	fetal growth restriction
+oligohydramnios	indicates	placental insufficiency
+umbilical artery Doppler	abnormal in	fetal growth restriction
+ultrasound weight estimation	informs	delivery planning
+delivery planning	influenced by	fetal growth retardation
+premature rupture of membranes	associated with	preterm birth
+premature rupture of membranes	associated with	chorioamnionitis
+chorioamnionitis	associated with	neonatal sepsis
+chorioamnionitis	associated with	preterm birth
+neonatal sepsis	increases risk of	mortality
+maternal infection	associated with	preterm birth
+uteroplacental insufficiency	associated with	fetal growth restriction
+placental infarct	associated with	placental insufficiency
+placental abnormalities	lead to	placental insufficiency
+cigarette smoking	affects	placental function
+placental function	affects	fetal growth
+fetal distress	triggers	emergency delivery
+emergency delivery	associated with	neonatal outcomes
+antenatal care	reduces risk of	preterm birth
+infection during pregnancy	increases risk of	placental insufficiency
+placental abruption	increases risk of	fetal distress
+fetal distress	leads to	emergency delivery
+fetal weight estimation	informs	delivery planning
+neonatal outcome	influenced by	birth weight
+birth weight	correlates with	perinatal mortality
+birth weight percentile	associated with	neurodevelopmental outcome
+fetal growth retardation	indicates	placental insufficiency
+fetal growth retardation	indicates	intrauterine growth restriction
+chorioamnionitis	triggers	preterm birth
+fetal hypoxia	occurs with	fetal distress
+fetal surveillance	improves	perinatal outcome
+delivery timing	guided by	fetal growth restriction
+neonatal brain injury	associated with	intraventricular hemorrhage
+antenatal care	improves	pregnancy outcome
+birth weight	used for	risk stratification
+risk stratification	guides	clinical management
+fetal distress	associated with	emergency delivery
+uterine contractions	lead to	delivery
+preterm birth	seen in	multiple gestation
+neonatal morbidity	predicted by	birth weight
+neonatal mortality	predicted by	birth weight percentile
+small for gestational age	associated with	neonatal morbidity
+intrauterine growth restriction	associated with	neonatal mortality
+intrauterine growth restriction	diagnosed by	doppler ultrasound
+doppler ultrasound	used for	fetal surveillance
+birth weight percentile	used for	risk stratification
+fetal growth restriction	associated with	oligohydramnios
+oligohydramnios	associated with	placental insufficiency
+placental insufficiency	associated with	oligohydramnios
+prenatal care	reduces	perinatal mortality
+perinatal mortality	associated with	fetal growth retardation
+fetal growth retardation	predicts	long-term neurodevelopmental outcome

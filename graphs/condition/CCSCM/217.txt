@@ -1,0 +1,86 @@
+other congenital anomalies	coexists with	Down syndrome
+other congenital anomalies	coexists with	Edwards syndrome
+other congenital anomalies	coexists with	Patau syndrome
+other congenital anomalies	coexists with	Turner syndrome
+other congenital anomalies	coexists with	Klinefelter syndrome
+other congenital anomalies	coexists with	DiGeorge syndrome
+other congenital anomalies	coexists with	Noonan syndrome
+other congenital anomalies	coexists with	Williams syndrome
+other congenital anomalies	coexists with	Wolf-Hirschhorn syndrome
+other congenital anomalies	coexists with	Prader-Willi syndrome
+other congenital anomalies	coexists with	Angelman syndrome
+other congenital anomalies	coexists with	Beckwith-Wiedemann syndrome
+other congenital anomalies	coexists with	Smith-Lemli-Opitz syndrome
+other congenital anomalies	coexists with	Cornelia de Lange syndrome
+other congenital anomalies	coexists with	Rubinstein-Taybi syndrome
+other congenital anomalies	coexists with	Pallister-Killian syndrome
+other congenital anomalies	coexists with	Velocardiofacial syndrome
+other congenital anomalies	coexists with	22q11.2 deletion syndrome
+other congenital anomalies	coexists with	Joubert syndrome
+other congenital anomalies	coexists with	Holt-Oram syndrome
+other congenital anomalies	coexists with	Treacher Collins syndrome
+other congenital anomalies	coexists with	Pierre Robin sequence
+other congenital anomalies	coexists with	Alagille syndrome
+other congenital anomalies	coexists with	CHARGE syndrome
+other congenital anomalies	coexists with	Pfeiffer syndrome
+other congenital anomalies	coexists with	Apert syndrome
+other congenital anomalies	coexists with	Saethre-Chotzen syndrome
+other congenital anomalies	coexists with	Noonan syndrome
+other congenital anomalies	associated with	congenital heart defect
+other congenital anomalies	associated with	neural tube defect
+other congenital anomalies	associated with	renal agenesis
+other congenital anomalies	associated with	omphalocele
+other congenital anomalies	associated with	gastroschisis
+other congenital anomalies	associated with	duodenal atresia
+other congenital anomalies	associated with	esophageal atresia
+other congenital anomalies	associated with	tracheoesophageal fistula
+other congenital anomalies	associated with	Hirschsprung disease
+other congenital anomalies	associated with	pyloric stenosis
+other congenital anomalies	associated with	hypospadias
+other congenital anomalies	associated with	cryptorchidism
+other congenital anomalies	associated with	anorectal malformation
+other congenital anomalies	associated with	cleft lip
+other congenital anomalies	associated with	cleft palate
+other congenital anomalies	associated with	limb deformity
+other congenital anomalies	associated with	clubfoot
+other congenital anomalies	associated with	polydactyly
+other congenital anomalies	associated with	syndactyly
+other congenital anomalies	associated with	microcephaly
+other congenital anomalies	associated with	macrocephaly
+other congenital anomalies	associated with	craniosynostosis
+other congenital anomalies	associated with	micrognathia
+other congenital anomalies	associated with	macroglossia
+other congenital anomalies	associated with	diaphragmatic hernia
+other congenital anomalies	associated with	renal duplex
+other congenital anomalies	associated with	hydronephrosis
+other congenital anomalies	associated with	pulmonary hypoplasia
+other congenital anomalies	associated with	choanal atresia
+other congenital anomalies	associated with	ear malformation
+other congenital anomalies	associated with	facial cleft
+other congenital anomalies	associated with	iris coloboma
+other congenital anomalies	associated with	optic nerve hypoplasia
+other congenital anomalies	associated with	anal stenosis
+other congenital anomalies	associated with	biliary atresia
+other congenital anomalies	associated with	congenital cataract
+other congenital anomalies	associated with	congenital glaucoma
+other congenital anomalies	associated with	chromosomal abnormality
+other congenital anomalies	associated with	VACTERL association
+other congenital anomalies	associated with	maternal diabetes
+other congenital anomalies	associated with	maternal age
+other congenital anomalies	associated with	maternal obesity
+other congenital anomalies	associated with	folic acid deficiency
+other congenital anomalies	associated with	teratogen exposure
+other congenital anomalies	associated with	alcohol exposure
+other congenital anomalies	associated with	tobacco exposure
+other congenital anomalies	associated with	prenatal infection
+other congenital anomalies	associated with	rubella exposure
+other congenital anomalies	associated with	maternal autoimmune disease
+other congenital anomalies	associated with	consanguinity
+other congenital anomalies	associated with	advanced maternal age
+other congenital anomalies	associated with	paternal age
+other congenital anomalies	associated with	family history
+other congenital anomalies	associated with	multiple gestation
+other congenital anomalies	detected by	prenatal ultrasound
+other congenital anomalies	detected by	prenatal MRI
+other congenital anomalies	detected by	fetal karyotype
+other congenital anomalies	detected by	newborn screening

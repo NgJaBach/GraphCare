@@ -1,100 +1,100 @@
-influenza	is a	viral infection
-influenza virus	is a	pathogen
-influenza A virus	is subtype of	influenza virus
-influenza B virus	is subtype of	influenza virus
-influenza	replicates in	respiratory epithelium
+influenza	is a	viral respiratory infection
+influenza	caused by	influenza virus
 influenza	transmitted by	respiratory droplets
-influenza	transmitted by	aerosols
-influenza	has seasonality	winter months
-influenza	causes	fever
-influenza	causes	cough
-influenza	causes	myalgia
-influenza	causes	malaise
-influenza	causes	headache
-influenza	causes	sore throat
-influenza	leads to	pneumonia
-influenza	leads to	hospitalization
-influenza	increases	ICU admission
-influenza	increases	mortality risk
-influenza	increases	secondary bacterial infection risk
-influenza	associated with	myocarditis
-influenza	associated with	encephalitis
-influenza	is treated with	antiviral therapy
+influenza	transmitted by	direct contact
+influenza	has seasonality	seasonality
+influenza	presents with	fever
+influenza	presents with	cough
+influenza	presents with	myalgia
+influenza	presents with	malaise
+influenza	presents with	fatigue
+influenza	presents with	sore throat
+influenza	presents with	rhinorrhea
+influenza	diagnosed by	rapid influenza diagnostic test
+influenza	diagnosed by	PCR test
+influenza	diagnosed by	nasopharyngeal swab
+influenza vaccine	provides	protection against influenza
+influenza vaccine	reduces	influenza-related hospitalizations
+influenza vaccine	recommended for	children
+influenza vaccine	recommended for	pregnant women
+influenza vaccine	recommended for	older adults
+influenza vaccine	effectiveness varies with	circulating strains
+influenza vaccine	improves	herd immunity
+influenza vaccine	safety profile includes	injection-site soreness
 oseltamivir	is a	neuraminidase inhibitor
 zanamivir	is a	neuraminidase inhibitor
-baloxavir marboxil	is a	polymerase inhibitor
+baloxavir marboxil	is a	polymerase acidic endonuclease inhibitor
 peramivir	is a	neuraminidase inhibitor
-antiviral therapy	reduces	duration of symptoms
-influenza vaccination	prevents	influenza
-influenza vaccination	reduces	hospitalization
-annual vaccination	reduces	seasonal influenza incidence
-vaccine effectiveness	varies by	influenza strain
-vaccine coverage	influences	population immunity
-pregnant women	recommended for	influenza vaccination
-older adults	recommended for	influenza vaccination
-children	recommended for	influenza vaccination
-immunocompromised patients	receive	influenza vaccination
-live attenuated vaccine	used for	healthy individuals
-inactivated vaccine	used for	high-risk individuals
-influenza vaccination	reduces	influenza burden
-vaccine adjuvant	enhances	immune response
-immune response	correlates with	protection level
-rapid influenza diagnostic test	detects	influenza antigen
-PCR testing	detects	influenza RNA
-nasal swab	collected for	influenza testing
-throat swab	collected for	influenza testing
-influenza testing	increases	diagnostic accuracy
-influenza surveillance	informs	vaccine strain selection
-influenza surveillance	informs	public health response
-antibiotics	are overused for	influenza management
-pneumonia	is complication of	influenza
-otitis media	is complication of	influenza
-sinusitis	is complication of	influenza
-bacterial pneumonia	is complication of	influenza
-myocarditis	is complication of	influenza
-encephalitis	is complication of	influenza
-sepsis	may occur with	influenza
-obesity	associated with	severe influenza
-smoking	associated with	higher influenza severity
-air pollution	associated with	influenza hospitalization
-influenza	can cause	respiratory failure
-influenza	leads to	ARDS
-antiviral resistance	emerges with	prolonged antiviral therapy
-pediatric patients	at risk for	influenza complications
-elderly patients	at risk for	influenza complications
-pregnant women	at risk for	influenza complications
-chronic lung disease	increases	risk of influenza hospitalization
-cardiovascular disease	increases	risk of influenza complications
-vaccination campaign	reduces	influenza burden
-influenza vaccine	formulation	yearly updates
-circulating strains	influence	vaccine formulation
-antigenic drift	drives	vaccine update
-vaccine update	informs	public health policy
-immunization	contributes to	herd immunity
-herd immunity	reduces	transmission of influenza
-co-infection	occurs with	influenza
-secondary bacterial infection	increases	morbidity in influenza
-flu season	peaks	winter
-seasonal influenza	peaks in	winter months
-obesity	increases	risk of hospitalization with influenza
-influenza	often misdiagnosed as	other respiratory infections
-global travel	facilitates	influenza spread
-household exposure	increases	influenza transmission
-hand hygiene	reduces	influenza transmission
-mask use	reduces	influenza transmission
-antiviral prophylaxis	prevents	influenza infection
-post-exposure prophylaxis	prevents	influenza infection
-vaccination coverage	influences	herd immunity
-influenza vaccine	recommended for	pediatric population
-antiviral therapy	reduces	viral shedding duration
-antibiotic stewardship	reduces	unnecessary antibiotic use in influenza care
-influenza vaccines	included in	national immunization programs
-antiviral resistance	increases	treatment failure in influenza
-hospital admission	associated with	influenza
+neuraminidase inhibitors	shorten	duration of illness
+antiviral therapy	reduces	viral replication
+influenza	affects	pediatric patients
+pediatric patients	at risk for	severe influenza
+infants	at risk for	severe influenza
+older adults	at higher risk for	severe influenza
+asthma	is comorbidity associated with	influenza
+COPD	is comorbidity associated with	influenza
+cardiovascular disease	is comorbidity associated with	influenza
+diabetes mellitus	is comorbidity associated with	influenza
+obesity	is comorbidity associated with	influenza
+smoking	increases	influenza risk
+pregnancy	increases	influenza complications
+immunocompromised status	increases	influenza risk
+pneumonia	can be	complication of influenza
+otitis media	can be	complication of influenza
+sinusitis	can be	complication of influenza
+dehydration	can be	complication of influenza
+hospitalization	associated with	influenza
 ICU admission	associated with	influenza
-mortality	associated with	influenza
-hospitalization	increases	with influenza severity
-clinical symptoms	overlap_with	other respiratory infections
-vaccination uptake	correlates with	influenza burden
-public health messaging	influences	vaccination acceptance
-research on influenza	informs	vaccine development
+death	associated with	influenza
+secondary bacterial infection	follows	influenza
+influenza season peaks in	winter
+seasonal influenza	is a	disease
+influenza testing	recommended for	hospitalized patients with respiratory symptoms
+influenza testing	recommended for	high-risk groups
+rapid influenza diagnostic test	may yield	false negatives
+PCR test	has	high sensitivity
+nasopharyngeal specimen	used for	influenza testing
+nasopharyngeal swab	specimen type for	influenza testing
+influenza virus genome	segmented RNA
+antigenic drift	causes	vaccine mismatch
+antigenic shift	causes	pandemics
+pandemic potential	relates to	influenza
+influenza-like illness	overlaps with	influenza
+annual vaccination	aims to	reduce influenza burden
+flu vaccination	improves	population immunity
+healthcare system	faces	influenza surge
+fever	is a	common symptom of influenza
+cough	is a	common symptom of influenza
+myalgia	is a	common symptom of influenza
+malaise	is a	common symptom of influenza
+fatigue	is a	common symptom of influenza
+headache	is a	common symptom of influenza
+sore throat	is a	common symptom of influenza
+rhinorrhea	is a	common symptom of influenza
+conjunctivitis	is a	rare presentation of influenza
+bacterial superinfection	occurs after	influenza
+antivirals	used for	influenza
+oseltamivir phosphate	is a	form of oseltamivir
+zanamivir	administered by	inhalation
+influenza virus	genome	segmented RNA
+influenza	is not effectively treated by	antibiotics
+antibiotics	are not effective for	influenza
+pneumococcal vaccination	co-implemented with	influenza vaccination
+influenza	reduces	productivity loss
+influenza	reduces	school absenteeism
+influenza	affects	seasonal workers
+influenza	influences	antiviral stewardship
+public health messaging	targets	influenza vaccination uptake
+seasonal influenza activity	tracks	meteorological conditions
+influenza	diagnosed by	viral culture
+viral culture	rarely used for	influenza diagnosis
+influenza surveillance	monitors	community transmission
+clinical criteria	used for	influenza suspicion
+influenza	can mimic	other respiratory illnesses
+antiviral prophylaxis	reduces	influenza transmission
+vaccine uptake	influenced by	public health messaging
+infection control	reduces	influenza transmission
+hand hygiene	reduces	influenza transmission
+facemasks	reduce	influenza transmission
+influenza	increases	healthcare costs
+influenza	influences	vaccination policy

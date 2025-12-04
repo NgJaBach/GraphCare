@@ -1,98 +1,100 @@
-systemic lupus erythematosus	is an	autoimmune disease
-systemic lupus erythematosus	may cause	nephritis
-nephritis	is a	kidney inflammation
-antinuclear antigen	is a test for	systemic lupus erythematosus
-systemic lupus erythematosus	is treated with	corticosteroids
-corticosteroids	are a	steroid
-hydroxychloroquine	is a	antimalarial drug
-hydroxychloroquine	is used for	systemic lupus erythematosus
-systemic lupus erythematosus	may present with	rash
-rash	is a	symptom
-systemic lupus erythematosus	may present with	arthritis
-arthritis	is a	joint disease
-anti-dsDNA antibodies	is a test for	systemic lupus erythematosus
-systemic lupus erythematosus	is associated with	antiphospholipid syndrome
-antiphospholipid syndrome	is a	hypercoagulable state
-hypercoagulable state	increases risk for	thrombosis
-thrombosis	is a	clot formation
-thrombosis	may cause	stroke
-stroke	is a	neurological event
-nephritis	may progress to	renal failure
-renal failure	increases risk for	mortality
-mortality	is a	health outcome
-belimumab	is a	monoclonal antibody
-belimumab	is used for	lupus
-mycophenolate mofetil	is a	immunosuppressant
-mycophenolate mofetil	is used for	lupus nephritis
-lupus nephritis	is a	renal inflammation
-lupus nephritis	requires	immunosuppressants
-immunosuppressants	are used for	lupus management
-cyclophosphamide	is a	cytotoxic agent
-cyclophosphamide	is used for	lupus nephritis
-azathioprine	is a	immunosuppressant
-azathioprine	is used for	lupus
-steroids	are used for	lupus management
-photosensitivity	is a	symptom
-photosensitivity	is seen in	systemic lupus erythematosus
-kidney biopsy	is used for	lupus nephritis assessment
-lupus nephritis	requires	biopsy
-biopsy	provides	histology
-histology	shows	immune complex deposition
-immune complex deposition	is seen in	lupus nephritis
-complement levels	are decreased in	active lupus
-C3 levels	are decreased in	lupus flare
-C4 levels	are decreased in	lupus flare
-antiphospholipid antibodies	are associated with	lupus
-lupus	is a	autoimmune disease
-SLEDAI	is a	disease activity index
-SLEDAI	measures	disease activity
-proteinuria	indicates	lupus nephritis
-urinalysis	detects	proteinuria
-renal biopsy	confirms	lupus nephritis
-biopsy	aids in	diagnosis
-diagnosis	is a	process
-treatment	aims for	remission
-remission	is a	treatment goal
-remission	reduces	disease activity
-disease activity	can be measured by	SLEDAI
-disease activity	predicts	flare risk
-flare risk	increases with	non-adherence
-non-adherence	increases	lupus activity
-lupus	has comorbidity	cardiovascular disease
-cardiovascular disease	increases	mortality
-infection	is a common complication	lupus therapy
-immunosuppressants	increase	infection risk
-infection risk	correlates with	disease activity
-disease activity	correlates with	organ involvement
-organ involvement	includes	kidney involvement
-kidney involvement	increases	mortality
-nephrology	involved in	lupus care
-lupus patient	requires	regular monitoring
-monitoring	improves	disease control
-education	improves	adherence
-readmission risk	is predicted by	disease activity
-readmission risk	relates to	lupus
-readmission	may occur	after hospitalization
-morbidity	is a	health outcome
-readmission	is a	health outcome
-SLE	has	heterogeneity
-lupus nephritis	has	relapses
-relapses	worsen	disease activity
-disease activity	worsens	organ damage
-organ damage	increases	disability
-disability	is a	health outcome
-health outcome	includes	mortality
-infection	risk	increases with immunosuppressants
-immunosuppressants	require	monitoring
-monitoring	ensures	early detection
-early detection	improves	outcomes
-outcomes	depend on	access to care
-readmission	is predicted by	disease activity
-disease activity	correlates with	hospital stay length
-hospital stay length	increases	resource use
-resource use	impacts	health care costs
-health care costs	correlate with	admission rate
-admission rate	is an	outcome
-outcome	includes	mortality
-mortality	is a	patient outcome
-nephrotoxicity	is a	potential complication
+preterm birth	increases risk of	respiratory distress syndrome
+preterm birth	increases risk of	intraventricular hemorrhage
+preterm birth	increases risk of	necrotizing enterocolitis
+preterm birth	increases risk of	retinopathy of prematurity
+preterm birth	increases risk of	bronchopulmonary dysplasia
+preterm birth	increases risk of	neonatal mortality
+low birth weight	increases risk of	neonatal intensive care unit admission
+low birth weight	increases risk of	mortality
+low birth weight	associated with	neurodevelopmental delay
+neonatal respiratory distress syndrome	treated with	surfactant therapy
+neonatal respiratory distress syndrome	causes	hypoxemia
+neonatal jaundice	treated with	phototherapy
+neonatal jaundice	indicates	hyperbilirubinemia
+neonatal sepsis	treated with	antibiotics
+neonatal sepsis	increases risk of	mortality
+group B streptococcus colonization	associated with	neonatal sepsis
+neonatal sepsis	diagnosed with	blood culture
+neonatal sepsis	requires	hospital admission
+neonatal hypoglycemia	associated with	maternal diabetes
+neonatal hypoglycemia	treated with	glucose infusion
+birth asphyxia	associated with	neurodevelopmental impairment
+hypoxic-ischemic encephalopathy	results in	seizures
+hypoxic-ischemic encephalopathy	associated with	cerebral palsy
+meconium aspiration syndrome	treated with	oxygen therapy
+meconium exposure	associated with	fetal distress
+placental abruption	associated with	fetal distress
+placental insufficiency	associated with	intrauterine growth restriction
+intrauterine growth restriction	increases risk of	preterm birth
+preeclampsia	associated with	fetal growth restriction
+preeclampsia	associated with	preterm birth
+gestational diabetes mellitus	associated with	macrosomia
+gestational diabetes mellitus	associated with	neonatal hypoglycemia
+chorioamnionitis	associated with	neonatal sepsis
+prelabor rupture of membranes	associated with	preterm birth
+meconium-stained amniotic fluid	indicates	fetal distress
+neonatal anemia	associated with	prematurity
+neonatal anemia	treated with	blood transfusion
+neonatal thrombocytopenia	associated with	sepsis
+neonatal ventilator support	used for	respiratory failure
+neonatal intensive care unit admission	associated with	prematurity
+neonatal intensive care unit admission	increases risk of	hospital-acquired infection
+kangaroo mother care	reduces	neonatal mortality
+breastfeeding	reduces	neonatal infection risk
+adequate caloric intake	reduces	growth retardation
+umbilical cord pH	indicates	fetal acidosis
+pulsed oximetry	monitors	oxygen saturation
+Apgar score	predicts	neonatal outcome
+delayed cord clamping	reduces	anemia of prematurity
+phototherapy	reduces	bilirubin levels
+surfactant therapy	improves	oxygenation
+oxygen therapy	supports	respiratory function
+invasive ventilation	increases risk of	ventilator-associated pneumonia
+nasal continuous positive airway pressure	treats	respiratory distress syndrome
+umbilical artery Doppler	assesses	fetal blood flow
+fetal growth restriction	increases risk of	perinatal mortality
+fetal distress	prompts	emergency delivery
+cesarean delivery	associated with	neonatal respiratory morbidity
+cesarean delivery	increases risk of	maternal postpartum complications
+prenatal corticosteroids	reduce	neonatal respiratory morbidity
+group B streptococcus prophylaxis	reduces	neonatal infection risk
+GBS colonization	increases risk of	neonatal sepsis
+uterine hyperstimulation	leads to	fetal distress
+fetal tachycardia	indicates	fetal distress
+prenatal ultrasound	detects	congenital anomaly
+prenatal screening	detects	fetal anomaly
+congenital anomaly	detected by	prenatal ultrasound
+congenital anomaly	requires	surgical correction
+congenital heart disease	detected by	fetal echocardiography
+congenital heart disease	causes	neonatal cyanosis
+neural tube defect	detected by	prenatal screening
+neural tube defect	requires	surgical repair
+newborn screening	detects	metabolic disorders
+metabolic disorders	require	dietary therapy
+therapeutic hypothermia	used for	hypoxic-ischemic encephalopathy
+prenatal steroids	reduce	neonatal respiratory morbidity
+cesarean delivery	increases	maternal postpartum complications
+chorioamnionitis	increases risk of	neonatal sepsis
+necrotizing enterocolitis	requires	bowel resection
+necrotizing enterocolitis	associated with	prematurity
+neonatal seizures	indicate	hypoxic-ischemic injury
+neonatal seizures	treated with	anticonvulsants
+pneumothorax	treated with	chest tube
+perinatal asphyxia	associated with	neurodevelopmental impairment
+macrosomia	leads to	birth trauma
+persistent pulmonary hypertension of the newborn	associated with	prematurity
+neonatal respiratory failure	requires	ventilation
+neonatal respiratory failure	associated with	sepsis
+birth trauma	leads to	neonatal hypoxia
+neonatal meningitis	treated with	antibiotics
+neonatal meningitis	associated with	poor outcome
+congenital syphilis	presents with	neonatal signs
+congenital rubella syndrome	includes	cataracts
+congenital CMV infection	causes	sensorineural hearing loss
+neonatal candidiasis	treated with	antifungal therapy
+premature rupture of membranes	increases risk of	chorioamnionitis
+prematurity	leads to	NICU admission
+neonatal neutropenia	associated with	infection
+neonatal hypocalcemia	associated with	prematurity
+neonatal polycythemia	associated with	maternal diabetes
+neonatal respiratory depression	treated with	assisted ventilation

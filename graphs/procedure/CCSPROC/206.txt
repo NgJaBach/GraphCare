@@ -1,0 +1,100 @@
+microscopic examination	is a	diagnostic test
+microscopic examination	used for	pathogen detection
+microscopic examination	relies on	staining
+bacterial smear	is a	preparation for microscopic examination
+bacterial smear	prepared from	specimen
+bacterial smear	yields	morphological features
+Gram stain	is a	staining technique
+Gram stain	differentiates	Gram-positive organisms
+Gram stain	differentiates	Gram-negative organisms
+Gram stain	requires	crystal violet
+Gram stain	requires	iodine
+Gram stain	requires	decolorizer
+Gram-positive organisms	appear as	purple cells
+Gram-negative organisms	show	counterstain uptake
+acid-fast stain	detects	mycobacteria
+acid-fast staining	detects	mycobacteria
+Ziehl-Neelsen stain	is a	acid-fast method
+culture	is a	microbiology method
+culture	requires	incubation
+culture	yields	colonies
+colony	grows on	culture medium
+colony	used for	identification tests
+isolate	used for	susceptibility testing
+antibiotic susceptibility testing	determines	susceptibility pattern
+susceptibility pattern	guides	antibiotic selection
+specimen	collected for	culture
+specimen	processed by	microscopic examination
+sputum	processed for	Gram stain
+blood smear	examined for	bacteria
+urine	examined by	microscopic examination
+CSF	examined by	microscopic examination
+tissue biopsy	examined by	microscopic examination
+tissue biopsy	yields	histology features
+histology	assessed by	microscopic examination
+toxicology	uses	histopathology
+histopathology	reveals	toxin-induced lesions
+toxicology	assesses	toxin exposure
+toxin exposure	evaluated by	histology
+microscopic examination	complements	culture results
+culture results	confirm	microscopic findings
+smear	suggests	bacterial infection
+smear	indicates	inflammatory response
+smear	evaluated for	neutrophils
+neutrophils	indicate	acute infection
+infection	assessed by	smear result
+smear result	influences	further testing
+further testing	includes	culture
+smear quality	affects	interpretation accuracy
+stain quality	affects	interpretation accuracy
+interpretation	relies on	skilled technician
+technician	performs	microscopic examination
+pathologist	validates	microscopic findings
+microorganism	categorized as	bacteria
+bacteria	assigned to	Gram group
+Gram group	informs	staining outcome
+mycobacteria	require	prolonged culture
+culture medium	supports	growth
+growth	indicates	viability of organism
+culture growth	takes	time
+time	varies with	organism
+specimen type	influences	testing strategy
+quality	influences	test yield
+test yield	affects	diagnostic confidence
+diagnostic confidence	influences	clinical management
+clinical management	depends on	lab results
+lab results	drive	isolation precautions
+isolation precautions	guided by	infection type
+infection type	determined by	Gram stain result
+Gram stain result	impacts	empiric therapy
+empiric therapy	selected on	culture and Gram result
+culture result	enables	organism identification
+organism identification	achieved by	biochemical tests
+biochemical tests	used for	organism identification
+organism identification	informs	targeted therapy
+targeted therapy	reduces	resistance risk
+resistance risk	lowered by	targeted therapy
+toxicology	informs	patient prognosis
+toxicology	evaluated alongside	clinical parameters
+clinical parameters	combined with	lab results
+lab results	predict	readmission risk
+readmission risk	associated with	delayed culture results
+culture turnaround time	varies by	specimen type
+specimen type	informs	staining choice
+Gram stain	used for	rapid preliminary classification
+preliminary classification	guides	initial therapy
+initial therapy	adjusted by	culture results
+culture results	confirm	initial suspicion
+microscopy	detects	fungal elements
+KOH preparation	used for	fungal detection
+fungal elements	stained by	special stains
+special stains	used for	fungal detection
+histology	complements	cytology
+cytology	used for	cell-level diagnosis
+cytology	identifies	malignant cells
+malignant cells	observed in	smear
+malaria	detected by	thick smear
+thick smear	used for	parasite detection
+parasite detection	aided by	microscope
+microscope	enables	microscopic examination
+microscopy	essential for	infection diagnosis

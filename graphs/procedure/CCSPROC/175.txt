@@ -1,0 +1,100 @@
+dermabrasion	is a	cosmetic procedure
+dermabrasion	treats	scar
+dermabrasion	treats	acne
+dermabrasion	improves	texture
+chemical peel	is a	cosmetic procedure
+chemical peel	treats	hyperpigmentation
+chemical peel	treats	scar
+chemical peel	reduces	wrinkles
+laser therapy	is a	medical procedure
+laser therapy	treats	scar
+laser therapy	treats	wrinkle
+laser therapy	improves	pigmentation
+laser resurfacing	is a	procedure
+laser resurfacing	treats	wrinkles
+laser resurfacing	treats	scar
+cryotherapy	is a	procedure
+cryotherapy	treats	wart
+cryotherapy	destroys	lesion
+electrolysis	removes	hair
+laser hair removal	removes	hair
+microneedling	stimulates	collagen
+photodynamic therapy	treats	actinic keratosis
+dermatologic surgery	is a	medical procedure
+Mohs surgery	removes	skin cancer
+skin graft	reconstructs	wound
+skin graft	uses	donor skin
+skin flap	reconstructs	tissue defect
+tissue expander	expands	breast skin
+breast reconstruction	restores	breast
+skin resurfacing	improves	skin texture
+punch biopsy	diagnoses	skin lesion
+excisional biopsy	diagnoses	skin lesion
+curettage	removes	lesion
+electrocautery	removes	lesion
+laser ablation	removes	lesion
+scar revision	removes	scar
+dermal filler	corrects	wrinkles
+botox injection	reduces	wrinkles
+liposuction	reduces	fat deposit
+breast augmentation	increases	breast size
+breast reduction	reduces	breast size
+breast lift	elevates	breast contour
+nipple-sparing mastectomy	preserves	nipple
+skin-sparing mastectomy	preserves	skin
+areola reconstruction	reconstructs	areola
+nipple reconstruction	reconstructs	nipple
+oncoplastic surgery	integrates	cancer treatment
+DIEP flap	reconstructs	breast
+latissimus dorsi flap	reconstructs	breast
+TRAM flap	reconstructs	breast
+free flap reconstruction	reconstructs	breast
+implant-based reconstruction	reconstructs	breast
+tissue expander	facilitates	implant placement
+immediate reconstruction	follows	mastectomy
+delayed reconstruction	follows	mastectomy
+fat grafting	restores	breast contour
+implant placement	provides	breast volume
+implant exchange	revises	implants
+axillary lymph node dissection	removes	lymph nodes
+sentinel lymph node biopsy	stages	breast cancer
+breast irradiation	treats	breast cancer
+external beam radiation therapy	treats	breast cancer
+partial breast irradiation	treats	breast cancer
+brachytherapy	treats	breast cancer
+prophylactic mastectomy	prevents	breast cancer
+image-guided biopsy	diagnoses	breast lesion
+core needle biopsy	diagnoses	breast lesion
+skin-sparing mastectomy	enables	reconstruction
+areola tattooing	colors	areola
+areola revision	reshapes	areola
+nipple-sparing mastectomy	preserves	nipple
+oncoplastic technique	improves	cosmetic outcome
+mastectomy	performed for	cancer
+lumpectomy	treats	breast cancer
+breast-conserving therapy	treats	breast cancer
+axillary dissection	increases	surgical complexity
+image-guided lumpectomy	guides	tumor removal
+intraoperative radiation therapy	delivers	radiation
+vascularized lymph node transfer	provides	lymphatic drainage
+fat grafting to breast	restores	breast contour
+prepectoral implant placement	provides	breast volume
+subglandular implant placement	provides	breast volume
+capsulotomy	relieves	capsular contracture
+capsulectomy	removes	capsule
+radiotherapy boost	increases	local control
+adjuvant radiotherapy	improves	local control
+intraoperative electron therapy	delivers	radiation
+partial breast irradiation	reduces	radiation exposure
+lipofilling	restores	breast contour
+fat grafting	enhances	cosmetic result
+nerve block	provides	postoperative analgesia
+wound debridement	cleans	wound
+skin grafting	covers	wound
+split-thickness graft	covers	wound
+full-thickness graft	covers	wound
+areolar graft	reconstructs	areola
+nipple graft	reconstructs	nipple
+sentinel node mapping	identifies	sentinel node
+axillary imaging	informs	axillary procedure
+cosmetic tattoo	decorates	areola

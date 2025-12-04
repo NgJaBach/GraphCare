@@ -1,100 +1,102 @@
-aspirin	has adverse effect	gastritis
-aspirin	has adverse effect	gastrointestinal bleeding
-aspirin	has adverse effect	peptic ulcer
-ibuprofen	has adverse effect	gastritis
-ibuprofen	has adverse effect	renal impairment
-naproxen	has adverse effect	gastritis
-naproxen	has adverse effect	gastrointestinal bleeding
-paracetamol	has adverse effect	hepatotoxicity
-warfarin	has adverse effect	bleeding
-warfarin	has adverse effect	hemorrhage
-heparin	has adverse effect	bleeding
-insulin	has adverse effect	hypoglycemia
-glipizide	has adverse effect	hypoglycemia
-metformin	has adverse effect	lactic acidosis
-morphine	has adverse effect	respiratory depression
-morphine	has adverse effect	constipation
-fentanyl	has adverse effect	respiratory depression
-codeine	has adverse effect	constipation
-lisinopril	has adverse effect	cough
-lisinopril	has adverse effect	hyperkalemia
-losartan	has adverse effect	hyperkalemia
-amlodipine	has adverse effect	edema
-atorvastatin	has adverse effect	myopathy
-atorvastatin	has adverse effect	rhabdomyolysis
-simvastatin	has adverse effect	myopathy
-prednisone	has adverse effect	hyperglycemia
-prednisone	has adverse effect	osteoporosis
-dexamethasone	has adverse effect	hyperglycemia
-dexamethasone	has adverse effect	osteoporosis
-cisplatin	has adverse effect	nephrotoxicity
-cisplatin	has adverse effect	ototoxicity
-gentamicin	has adverse effect	nephrotoxicity
-vancomycin	has adverse effect	nephrotoxicity
-vancomycin	has adverse effect	red man syndrome
-ciprofloxacin	has adverse effect	tendinopathy
-ciprofloxacin	has adverse effect	QT prolongation
-amoxicillin	has adverse effect	rash
-amoxicillin	has adverse effect	anaphylaxis
-penicillin	has adverse effect	urticaria
-penicillin	has adverse effect	anaphylaxis
-doxycycline	has adverse effect	photosensitivity
-doxycycline	has adverse effect	esophageal irritation
-metoprolol	has adverse effect	bradycardia
-propranolol	has adverse effect	bradycardia
-atenolol	has adverse effect	fatigue
-furosemide	has adverse effect	dehydration
-furosemide	has adverse effect	hypokalemia
-spironolactone	has adverse effect	hyperkalemia
-hydrochlorothiazide	has adverse effect	hypokalemia
-digoxin	has adverse effect	toxicity
-digoxin	has adverse effect	arrhythmia
-clozapine	has adverse effect	agranulocytosis
-lithium	has adverse effect	tremor
-lithium	has adverse effect	hypothyroidism
-methotrexate	has adverse effect	mucositis
-methotrexate	has adverse effect	hepatotoxicity
-cyclophosphamide	has adverse effect	hemorrhagic cystitis
-bleomycin	has adverse effect	pulmonary fibrosis
-doxorubicin	has adverse effect	cardiotoxicity
-trastuzumab	has adverse effect	cardiotoxicity
-tamoxifen	has adverse effect	endometrial cancer risk
-temozolomide	has adverse effect	myelosuppression
-azathioprine	has adverse effect	leukopenia
-cyclosporine	has adverse effect	nephrotoxicity
-tacrolimus	has adverse effect	nephrotoxicity
-amphotericin B	has adverse effect	nephrotoxicity
-ceftriaxone	has adverse effect	diarrhea
-cephalexin	has adverse effect	rash
-clindamycin	has adverse effect	pseudomembranous colitis
-nitrofurantoin	has adverse effect	pulmonary fibrosis
-trimethoprim-sulfamethoxazole	has adverse effect	hyperkalemia
-erythromycin	has adverse effect	QT prolongation
-azithromycin	has adverse effect	GI upset
-rabeprazole	has adverse effect	hypomagnesemia
-omeprazole	has adverse effect	bone fracture
-amoxicillin-clavulanate	has adverse effect	diarrhea
-paroxetine	has adverse effect	hyponatremia
-sertraline	has adverse effect	hyponatremia
-acetazolamide	has adverse effect	paresthesia
-acetazolamide	has adverse effect	metabolic acidosis
-amikacin	has adverse effect	nephrotoxicity
-amikacin	has adverse effect	ototoxicity
-amiodarone	has adverse effect	QT prolongation
-amiodarone	has adverse effect	thyroid dysfunction
-phenytoin	has adverse effect	gingival hyperplasia
-phenytoin	has adverse effect	ataxia
-valproic acid	has adverse effect	hepatotoxicity
-valproic acid	has adverse effect	weight gain
-levetiracetam	has adverse effect	sedation
-lorazepam	has adverse effect	drowsiness
-diazepam	has adverse effect	drowsiness
-clopidogrel	has adverse effect	bleeding
-clopidogrel	has adverse effect	GI bleeding
-nifedipine	has adverse effect	edema
-hydralazine	has adverse effect	tachycardia
-infliximab	has adverse effect	infusion reaction
-ethambutol	has adverse effect	optic neuritis
-daptomycin	has adverse effect	myopathy
-levofloxacin	has adverse effect	tendon rupture
-moxifloxacin	has adverse effect	QT prolongation
+opioid	may cause	respiratory depression
+opioid	may cause	constipation
+opioid	may cause	sedation
+opioid	may cause	dependence
+NSAID	may cause	gastritis
+NSAID	may cause	peptic ulcer
+NSAID	may cause	GI bleeding
+NSAID	may cause	kidney injury
+ACE inhibitor	may cause	cough
+ACE inhibitor	may cause	hyperkalemia
+ACE inhibitor	may cause	angioedema
+ARB	may cause	hyperkalemia
+ARB	may cause	hypotension
+beta blocker	may cause	bradycardia
+beta blocker	may cause	fatigue
+diuretic	may cause	dehydration
+diuretic	may cause	electrolyte disturbance
+thiazide diuretic	may cause	hypokalemia
+loop diuretic	may cause	hypomagnesemia
+antibiotic	may cause	rash
+antibiotic	may cause	nausea
+antibiotic	may cause	diarrhea
+antibiotic	may cause	anaphylaxis
+penicillin	may cause	anaphylaxis
+penicillin	may cause	rash
+macrolide	may cause	QT prolongation
+fluoroquinolone	may cause	tendon rupture
+tetracycline	may cause	photosensitivity
+aminoglycoside	may cause	nephrotoxicity
+vancomycin	may cause	nephrotoxicity
+anticoagulant	may cause	bleeding
+warfarin	may cause	bleeding
+heparin	may cause	thrombocytopenia
+DOAC	may cause	bleeding
+steroid	may cause	hyperglycemia
+steroid	may cause	osteoporosis
+metformin	may cause	lactic acidosis
+insulin	may cause	hypoglycemia
+chemotherapy	may cause	myelosuppression
+cisplatin	may cause	nephrotoxicity
+cisplatin	may cause	nausea
+paclitaxel	may cause	neuropathy
+carboplatin	may cause	cytopenia
+immunotherapy	may cause	colitis
+nivolumab	may cause	pneumonitis
+rituximab	may cause	infusion reaction
+anastrozole	may cause	osteoporosis
+acetaminophen	may cause	hepatotoxicity
+acetaminophen	may cause	liver injury
+contrast agent	may cause	nephropathy
+digoxin	may cause	arrhythmia
+lithium	may cause	tremor
+amiodarone	may cause	pulmonary toxicity
+amiodarone	may cause	thyroid dysfunction
+anticonvulsant	may cause	sedation
+antidepressant	may cause	hyponatremia
+SSRI	may cause	hyponatremia
+SSRI	may cause	sexual dysfunction
+SNRI	may cause	tachycardia
+antipsychotic	may cause	weight gain
+antipsychotic	may cause	extrapyramidal symptoms
+atypical antipsychotic	may cause	metabolic syndrome
+benzodiazepine	may cause	dependence
+benzodiazepine	may cause	sedation
+calcium channel blocker	may cause	edema
+calcium channel blocker	may cause	bradycardia
+statin	may cause	myopathy
+statin	may cause	liver injury
+antifungal	may cause	hepatotoxicity
+antifungal	may cause	QT prolongation
+anticonvulsant	may cause	drowsiness
+herbal supplement	may cause	drug interaction
+radiocontrast agent	may cause	nephropathy
+radiocontrast agent	may cause	anaphylaxis
+oral contraceptive	may cause	thrombosis
+hormone replacement therapy	may cause	thromboembolism
+PPI	may cause	C. difficile infection
+PPI	may cause	magnesium deficiency
+SABA	may cause	tachycardia
+inhaled corticosteroid	may cause	thrush
+statin	may cause	rhabdomyolysis
+nitroprusside	may cause	hypotension
+lidocaine	may cause	arrhythmia
+drug interaction	may cause	adverse event
+cimetidine	may cause	cytochrome P450 inhibition
+cytochrome P450 inhibitor	may cause	drug interaction
+e-code	codes	adverse drug events
+adverse drug event	is coded by	e-code
+adverse drug event	is documented by	e-code
+E-code	is used for	adverse drug event
+e-code	indicates	adverse drug event
+e-code	maps to	adverse drug event
+clinical coder	assigns	e-code
+electronic health record	stores	e-code
+hospital discharge summary	references	e-code
+adverse drug event	increases	hospital stay length
+adverse drug event	increases	resource utilization
+mortality	associated with	adverse drug event
+readmission	associated with	adverse drug event
+death	associated with	adverse drug event
+adverse drug event	triggers	emergency care
+drug allergy	raises	adverse event risk

@@ -1,100 +1,100 @@
-coma	is a	prolonged unconsciousness
-stupor	is a	reduced consciousness state
-brain damage	is a	neurological injury
-coma	results from	hypoxic brain injury
-stupor	may progress to	coma
-brain damage	may result in	coma
-brain damage	associated with	cognitive impairment
-coma	associated with	mortality
-coma	associated with	extended ICU stay
-stupor	associated with	poor prognosis
+coma	is a	disorder of consciousness
+stupor	is a	disorder of consciousness
+brain damage	is a	brain injury
+unconsciousness	is a	symptom of coma
+coma	can lead to	brain tissue damage
+coma	associated with	hypoxic-ischemic injury
+stupor	associated with	metabolic disturbance
+traumatic brain injury	can cause	coma
+ischemic stroke	can cause	coma
+intracerebral hemorrhage	can cause	coma
+hypoxic injury	causes	coma
+hypoglycemia	associated with	stupor
+hypercapnia	associated with	stupor
+neuroleptic sedation	mimics	stupor
+toxic-metabolic encephalopathy	presents as	coma
+drug intoxication	presents as	stupor
+diffuse brain injury	found in	coma
+diffuse axonal injury	found in	coma
+brain edema	associated with	coma
+intracranial pressure	increases with	brain edema
+brain herniation	linked to	intracranial pressure
+MRI	detects	brain injury
+CT scan	detects	intracranial hemorrhage
+EEG	shows	burst suppression
+Glasgow Coma Scale	is used to assess	coma
+GCS score	used to assess	coma severity
+prognosis	worsens with	prolonged coma duration
+mortality	increases with	longer coma duration
+outcome	improves with	rapid coma recovery
 coma	indicates	severe brain injury
-coma	assessed by	Glasgow coma scale
-stupor	assessed by	mental status examination
-coma	managed with	airway protection
-coma	managed with	mechanical ventilation
-coma	managed with	osmotic therapy
-coma	caused by	drug overdose
-coma	caused by	intracranial hemorrhage
-coma	caused by	stroke
-stupor	caused by	intoxication
-brain damage	caused by	traumatic brain injury
-brain damage	caused by	ischemia
-brain damage	caused by	infection
-coma	due to	hypoxic-ischemic injury
-stupor	due to	metabolic disturbance
-coma	due to	metabolic coma
-coma	due to	cerebral edema
-coma	due to	poisoning
-coma	due to	sepsis
-coma	due to	hepatic failure
-brain damage	due to	diffuse axonal injury
-coma	prognosis depends on	cause
-coma	prognosis depends on	duration of coma
-brain damage	prognosis depends on	extent of injury
-coma	prognosis associated with	age
-coma	prognosis associated with	comorbidity
-coma	prognosis associated with	etiology
-coma	managed in	intensive care unit
-stupor	managed in	hospital ward
-brain damage	monitored with	imaging
-coma	monitored with	EEG
-coma	monitored with	CT scan
-coma	monitored with	MRI
-brain damage	monitored with	imaging studies
-coma	presentation includes	unresponsiveness
-stupor	presentation includes	minimal responsiveness
-coma	presents with	loss of consciousness
-stupor	presents with	decreased responsiveness
-coma	presents with	absent pupillary reflex
-coma	presents with	abnormal brainstem reflexes
-brain damage	presents with	cognitive deficits
-coma	associated with	diffuse brain swelling
-brain swelling	may cause	coma
-intracranial pressure	monitored for	coma patients
-intracranial pressure	elevated in	coma
-brain edema	contributes to	brain damage
-diffuse axonal injury	associated with	coma
-hypoxic-ischemic injury	causes	coma
-stroke	may cause	coma
-traumatic brain injury	may cause	coma
-infection	causing	brain damage
-sepsis	leading to	coma
-meningitis	causing	coma
-encephalitis	causing	coma
-drug overdose	causing	coma
-toxin exposure	causing	coma
-neuroimaging	used for	assessing coma
-EEG	used for	assessing coma
-MRI	findings in	brain damage
-CT scan	findings in	brain edema
-diffusion restriction	seen on	MRI
-burst-suppression pattern	seen on	EEG
-pupillary reflex	absent in	coma
-corneal reflex	absent in	coma
-gag reflex	absent in	coma
-Glasgow coma scale	score in	coma patients
-Glasgow coma scale	used to assess	coma severity
-long-term outcome	related to	brain damage
-rehabilitation	needed for	brain damage
-mortality	associated with	coma
-readmission	risk associated with	brain injury
-age	impact on	prognosis in coma
-comorbidity	affecting	prognosis of coma
-etiology	guiding	prognosis of coma
-duration of coma	predicts	outcome
-duration of coma	indicates	prognosis
-coma	requires	airway management
-coma	requires	ventilation support
-brain damage	requires	cognitive rehabilitation
-coma	risk of	secondary brain injury
-secondary brain injury	risk factors for	poor outcome
-coma	can progress to	brain death
-brain damage	can lead to	seizures
-coma	associated with	electrolyte disturbance
-stupor	associated with	hypoglycemia
-coma	disruption of	neurotransmission
-coma	evaluated for	reversible causes
-reversible causes	include	intoxication
-coma	important for	prognosis estimation
-brain damage	potential for	recovery with rehabilitation
+stupor	can progress to	coma
+coma	is associated with	poor outcome
+stupor	is associated with	medication effect
+tumor	can cause	stupor
+sepsis	can cause	stupor
+hypoglycemia	can cause	coma
+hyperammonemia	causes	encephalopathy
+encephalopathy	presents as	coma
+traumatic brain injury	often presents with	coma
+stroke	presents with	coma in some cases
+oxygen deprivation	leads to	brain injury
+hypoxia	leads to	brain damage
+ischemia	leads to	brain damage
+cyanosis	indicates	hypoxia in coma
+head injury	predisposes to	coma
+postcoma syndrome	follows	coma
+vegetative state	follows	coma
+minimally conscious state	follows	coma
+neurorehabilitation	essential for	recovery after coma
+speech therapy	helps with	communication after coma
+occupational therapy	helps with	independence after coma
+physical therapy	improves	motor recovery after coma
+ventilatory support	required for	coma patient
+intubation	secures	airway in coma
+sedation	controls	agitation in coma
+antibiotics	used for	infection in coma
+prophylaxis	reduces	aspiration pneumonia in coma
+gas exchange	impaired in	coma
+respiratory failure	common in	severe coma
+nasogastric feeding	used for	coma patient
+nutritional support	maintained for	coma patient
+parenteral nutrition	alternative to	enteral feeding
+electrolyte disturbance	worsens	prognosis in coma
+hyponatremia	associated with	coma
+hypernatremia	associated with	brain injury
+infection	worsens	prognosis in coma
+pneumonia	common complication in coma
+thromboembolism	occurs in	immobilized coma patients
+deep vein thrombosis	occurs in	immobilized coma patients
+pressure ulcers	develop in	coma patients
+muscle atrophy	develops in	prolonged coma
+brain atrophy	occurs after	prolonged coma
+neuroimaging	guides	prognosis in coma
+life support	provides	advanced support for coma patients
+withdrawal of care	associated with	poor outcome in coma
+family support	improves	care outcomes in coma
+coma severity	predicts	long-term disability
+readmission	risk associated with	coma
+quality of life	predicted by	coma severity
+long-term disability	results from	prolonged coma
+death	results from	severe brain injury
+mortality risk	depends on	coma duration
+neurocritical care	provides	advanced support for coma
+neuroimaging	used for	prognosis in coma
+rehabilitation	improves	functional outcome after coma
+cognition	impaired in	coma survivors
+coma survivors	require	long-term care
+airway protection	essential for	ventilation in coma
+ventilation	supports	gas exchange in coma
+gas exchange	compromised in	coma
+neuroinflammation	occurs in	coma
+brain plasticity	supports	recovery after coma
+age	affects	prognosis after coma
+age	reduces	neuroplasticity
+neural recovery	limited by	brain injury severity
+seizure	can occur in	coma
+coma patient	may develop	seizures
+seizure	may occur in	coma patient
+oxygen therapy	improves	oxygenation in coma
+family counseling	improves	decision making in coma care

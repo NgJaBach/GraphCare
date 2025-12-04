@@ -1,100 +1,100 @@
-medical examination	includes	vital signs
-vital signs	include	temperature
-vital signs	include	heart rate
-vital signs	include	respiratory rate
-vital signs	include	blood pressure
-blood pressure	measured by	sphygmomanometer
-sphygmomanometer	measures	blood pressure
-oxygen saturation	measured by	pulse oximeter
-pulse oximeter	monitors	oxygenation
-temperature	indicates	fever
-fever	suggests	infection
-pain	assessed by	pain scale
-pain scale	records	pain intensity
-body mass index	correlates with	metabolic risk
-body mass index	influences	surgical risk
-age	correlates with	mortality
-sex	associated with	cardiovascular risk
-smoking status	increases	respiratory risk
-medical history	informs	differential diagnosis
-physical examination	yields	abnormal findings
-lung auscultation	detects	crackles
-lung auscultation	detects	wheezes
-peripheral pulse	indicates	perfusion status
-jugular venous pressure	indicates	volume status
-skin	indicates	perfusion
-mucous membranes	show	hydration status
-abdomen	reveals	tenderness
-abdomen	reveals	distension
-abdomen	yields	rebound tenderness
-neurological exam	assesses	consciousness
-level of consciousness	measured by	Glasgow Coma Scale
-pupil reaction	tests	cranial nerve function
-reflexes	assess	neuromuscular status
-gait	evaluates	mobility
-mental status	assesses	cognitive function
-orientation	evaluates	confusion
-skin turgor	indicates	hydration
-capillary refill	indicates	circulatory status
-edema	indicates	fluid overload
-weight trend	indicates	nutritional status
-hydration status	assessed by	mucous membranes
-urinalysis	detects	infection
-urine output	reflects	kidney function
-blood glucose	indicates	glycemic control
-lipid panel	assesses	cholesterol disorders
-creatinine	indicates	kidney function
-blood urea nitrogen	indicates	renal function
-electrolyte panel	assesses	electrolyte balance
-liver function tests	assess	hepatic function
-bilirubin	indicates	liver dysfunction
-ALT	indicates	liver injury
-AST	indicates	liver injury
-troponin	indicates	myocardial injury
-BNP	indicates	heart failure
-D-dimer	suggests	thromboembolism
-pregnancy test	rules out	pregnancy
-complete blood count	assesses	anemia
-hemoglobin	indicates	anemia
-hematocrit	indicates	anemia
-platelet count	indicates	bleeding risk
-lactate	indicates	tissue hypoperfusion
-arterial blood gas	measures	acid-base balance
-pH	indicates	acid-base status
-pCO2	indicates	respiratory function
-HCO3-	indicates	metabolic status
-base deficit	indicates	metabolic acidosis
-imaging study	clarifies	diagnosis
-chest radiograph	assesses	cardiopulmonary status
-CT scan	detects	pathology
-MRI	evaluates	soft tissue integrity
-ultrasound	visualizes	organ structure
-EKG	monitors	heart rhythm
-ECG	detects	arrhythmia
-triage category	determines	urgency
-admission decision	depends on	evaluation results
-risk score	predicts	mortality
-APACHE II score	predicts	critical illness risk
-SOFA score	predicts	organ failure risk
-Glasgow Coma Scale	assesses	consciousness level
-coma scale	used for	level of consciousness
-nursing assessment	contributes to	care plan
-clinical impression	informs	diagnosis
-differential diagnosis	guided by	evaluation
-documentation quality	affects	data reliability
-data completeness	affects	predictive performance
-electronic health record	contains	examination data
-structured data	enables	predictive modeling
-free text notes	provide	clinical clues
-coding accuracy	affects	billing accuracy
-timeliness of evaluation	affects	patient flow
-inter-rater reliability	affects	assessment consistency
-standardized assessment	improves	comparability
-clinical guidelines	influence	examination protocol
-patient-reported symptoms	inform	evaluation
-physical exam	documented in	medical record
-consent	required for	invasive examination
-privacy protections	govern	patient data
-data annotation	supports	machine learning
-clinical team	collaborates with	radiology
-nursing notes	update	patient status
+medical examination/evaluation	includes	history
+medical examination/evaluation	includes	physical examination
+medical examination/evaluation	records	vital signs
+medical examination/evaluation	assesses	cardiovascular status
+medical examination/evaluation	assesses	respiratory status
+medical examination/evaluation	assesses	neurological status
+medical examination/evaluation	assesses	abdominal findings
+medical examination/evaluation	performs	auscultation
+medical examination/evaluation	orders	laboratory tests
+medical examination/evaluation	orders	imaging studies
+medical examination/evaluation	generates	differential diagnosis list
+medical examination/evaluation	contributes to	provisional diagnosis
+medical examination/evaluation	refines	diagnosis
+medical examination/evaluation	guides	management plan
+medical examination/evaluation	evaluates	hydration status
+medical examination/evaluation	evaluates	nutritional status
+medical examination/evaluation	documents	consent
+medical examination/evaluation	validates	findings
+medical examination/evaluation	correlates with	lab results
+medical examination/evaluation	predicts	prognosis
+medical examination/evaluation	compares with	baseline data
+medical examination/evaluation	determines	need for referral
+medical examination/evaluation	results in	discharge instructions
+medical examination/evaluation	identifies	abnormal findings
+medical examination/evaluation	identifies	red flags
+medical examination/evaluation	assesses	cognitive function
+medical examination/evaluation	monitors	patient state
+medical examination/evaluation	updates	chart notes
+history	indicates	symptom onset
+history	reveals	risk factors
+history	documents	patient complaints
+history	describes	prior events
+history	documents	medication use
+history	notes	allergies
+history	records	family history
+history	shows	duration of symptoms
+history	suggests	disease course
+history	implies	exposure history
+history	contributes to	differential diagnosis
+history	informs	screening decisions
+history	corroborates	physical findings
+history	refines	pretest probability
+history	indicates	unsafe behavior
+history	reveals	social determinants
+history	correlates with	imaging findings
+history	initiates	diagnostic workup
+history	supports	prognosis estimation
+history	clarifies	symptom severity
+physical examination	includes	inspection
+physical examination	assesses	palpation findings
+physical examination	auscultates	heart sounds
+physical examination	auscultates	lung sounds
+physical examination	palpates	abdomen
+physical examination	percusses	chest
+physical examination	examines	skin
+physical examination	tests	reflexes
+physical examination	checks	capillary refill
+physical examination	observes	edema
+physical examination	evaluates	mental status
+physical examination	measures	temperature
+physical examination	records	findings
+physical examination	detects	tenderness
+physical examination	notes	orientation
+physical examination	assesses	gait
+physical examination	identifies	jaundice
+physical examination	notes	trauma signs
+physical examination	compares with	prior exam
+physical examination	determines	hemodynamic stability
+laboratory test	detects	electrolyte imbalance
+laboratory test	measures	glucose
+laboratory test	measures	hemoglobin
+laboratory test	measures	creatinine
+laboratory test	measures	troponin
+laboratory test	detects	anemia
+laboratory test	detects	infection
+laboratory test	assesses	liver function
+laboratory test	assesses	kidney function
+laboratory test	screens for	pregnancy
+laboratory test	evaluates	lipid panel
+laboratory test	reports	results
+imaging	detects	structural abnormality
+imaging	visualizes	organ anatomy
+imaging	identifies	injury
+imaging	characterizes	lesion
+imaging	assesses	organ perfusion
+imaging	guides	intervention planning
+imaging	reveals	mass
+imaging	confirms	diagnosis
+imaging	indicates	stage
+imaging	monitors	lesion size
+imaging	compares with	prior imaging
+imaging	resolves	diagnostic uncertainty
+electrocardiogram	supports	rhythm assessment
+electrocardiogram	detects	arrhythmia
+electrocardiogram	records	rhythm
+electrocardiogram	assesses	conduction
+electrocardiogram	identifies	ST change
+electrocardiogram	monitors	cardiac rhythm
+electrocardiogram	guides	therapy decisions
+electrocardiogram	evaluates	QT interval

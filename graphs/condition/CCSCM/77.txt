@@ -1,101 +1,67 @@
 encephalitis	is a	brain inflammation
-encephalitis	caused by	viral infection
-encephalitis	caused by	autoimmune process
-encephalitis	caused by	bacterial infection
-encephalitis	caused by	parasitic infection
-encephalitis	caused by	fungal infection
-autoimmune encephalitis	is a	autoimmune disorder
-anti-NMDA receptor encephalitis	is a	autoimmune encephalitis
-herpes simplex encephalitis	is a	viral encephalitis
 encephalitis	presents with	fever
 encephalitis	presents with	altered mental status
 encephalitis	presents with	seizures
 encephalitis	presents with	headache
 encephalitis	presents with	confusion
-encephalitis	presents with	delirium
 encephalitis	presents with	coma
-encephalitis	presents with	focal neurologic deficits
-encephalitis	presents with	memory impairment
-encephalitis	presents with	speech disturbance
-encephalitis	presents with	nuchal rigidity
+encephalitis	presents with	focal deficits
 encephalitis	diagnosed by	MRI
-encephalitis	diagnosed by	CT scan
-encephalitis	diagnosed by	EEG
 encephalitis	diagnosed by	CSF analysis
-encephalitis	diagnosed by	CSF PCR
-encephalitis	diagnosed by	autoimmune panel
-encephalitis	diagnosed by	lumbar puncture
-encephalitis	diagnosed by	brain biopsy
-encephalitis	diagnosed by	serology for pathogens
-encephalitis	diagnosed by	MRI with gadolinium
-encephalitis	treated with	acyclovir
-encephalitis	treated with	antivirals
-encephalitis	treated with	corticosteroids
-encephalitis	treated with	IVIG
-encephalitis	treated with	plasmapheresis
-encephalitis	treated with	immunotherapy
+MRI	shows	temporal lobe hyperintensity
+temporal lobe hyperintensity	is associated with	HSV encephalitis
+HSV encephalitis	is caused by	herpes simplex virus type 1
+HSV encephalitis	treated with	acyclovir
+acyclovir	is a	antiviral
+autoimmune encephalitis	is a	autoimmune condition
+anti-NMDA receptor encephalitis	is a	autoimmune encephalitis subtype
+anti-NMDA receptor encephalitis	associated with	ovarian teratoma
+anti-NMDA receptor antibodies	detected in	autoimmune encephalitis
+LGI1 antibody encephalitis	is a	autoimmune encephalitis subtype
+LGI1 antibody	associated with	faciobrachial dystonic seizures
+faciobrachial dystonic seizures	associated with	LGI1 antibody encephalitis
+West Nile virus encephalitis	is caused by	West Nile virus
+West Nile virus	causes	encephalitis
+enterovirus encephalitis	is caused by	enterovirus
+mumps encephalitis	is caused by	mumps virus
+CMV encephalitis	occurs in	immunosuppression
+CMV encephalitis	treated with	ganciclovir
+EBV encephalitis	occurs in	immunosuppression
+EBV encephalitis	treated with	supportive therapy
+varicella-zoster virus encephalitis	is caused by	varicella-zoster virus
+varicella-zoster virus	causes	encephalitis
+neonatal encephalitis	is a	neonatal brain infection
+neonatal encephalitis	associated with	congenital infections
+autoimmune encephalitis	treated with	steroids
+autoimmune encephalitis	treated with	IVIG
+autoimmune encephalitis	treated with	plasma exchange
 autoimmune encephalitis	treated with	rituximab
-autoimmune encephalitis	treated with	cyclophosphamide
-anti-NMDA receptor encephalitis	treated with	steroids
-encephalitis	treated with	antiseizure medications
-encephalitis	treated with	supportive care
-encephalitis	has prognosis	variable
-encephalitis	associated with	mortality
-encephalitis	associated with	long-term neurologic deficits
-encephalitis	associated with	relapse
-encephalitis	risk factor for	coma
-encephalitis	risk factor for	seizures
-herpes simplex virus	is a	common cause of encephalitis
-varicella zoster virus	is a	cause of encephalitis
-West Nile virus	is a	cause of encephalitis
-Japanese encephalitis virus	is a	cause of encephalitis
-measles virus	is a	cause of encephalitis
-cytomegalovirus	is a	cause of encephalitis
-arbovirus	is a	cause of encephalitis
-immunocompromised status	increases	risk for encephalitis
-children	have higher incidence of	encephalitis
-older adults	have higher risk of	encephalitis
-encephalitis	occurs in	neonates
-autoimmune encephalitis	can occur in	children
-anti-NMDA receptor antibodies	indicate	autoimmune encephalitis
-NMDA receptor antibodies	are diagnostic markers for	autoimmune encephalitis
-anti-NMDA receptor encephalitis	is associated with	ovarian teratoma
-autoimmune encephalitis	associated with	neuronal autoantibodies
-neuroimaging	helps diagnose	encephalitis
-encephalitis	imaging finding	limbic system involvement
-encephalitis	imaging feature	T2 hyperintensity in limbic system
-encephalitis	lab finding	pleocytosis in CSF
-encephalitis	lab finding	elevated CSF protein
-encephalitis	lab finding	increased CSF opening pressure
-encephalitis	complication	seizures
-encephalitis	complication	respiratory failure
-encephalitis	complication	hydrocephalus
-encephalitis	outcome	cognitive impairment
-encephalitis	outcome	persistent memory loss
-encephalitis	outcome	motor deficit
-immune therapy	improves	autoimmune encephalitis
-rituximab	is used for	autoimmune encephalitis
-plasmapheresis	is used for	autoimmune encephalitis
-IVIG	is used for	autoimmune encephalitis
-antivirals	recommended for	herpes simplex encephalitis
-acyclovir	is used for	herpes simplex encephalitis
-ganciclovir	is used for	CMV encephalitis
-pyrimethamine	used for	toxoplasma encephalitis
-toxoplasma encephalitis	is caused by	Toxoplasma gondii
-toxoplasma gondii	causes	encephalitis
-encephalitis	can mimic	psychiatric illness
-encephalitis	can present as	psychosis
-encephalitis	can present as	agitation
-encephalitis	clinical course	variable
-encephalitis	management	ICU admission
-encephalitis	management	airway support
-encephalitis	differential diagnosis includes	meningitis
-encephalitis	differential diagnosis includes	autoimmune encephalitis
-encephalitis	can be	life-threatening
-encephalitis	prognosis influenced by	early treatment
-encephalitis	prognosis influenced by	comorbidity
-encephalitis	prognosis influenced by	age
-encephalitis	prognosis influenced by	immune status
-encephalitis	is a	neurological emergency
-encephalitis	is often	misdiagnosed as psychiatric disorder
-encephalitis	follow-up	neurorehabilitation
+steroids	reduce	inflammation
+IVIG	neutralize	autoantibodies
+plasma exchange	remove	autoantibodies
+rituximab	deplete	B cells
+rituximab	used for	refractory autoimmune encephalitis
+ganciclovir	has	nephrotoxicity
+antiviral therapy	reduces	viral load
+epileptic seizures	occur in	encephalitis
+EEG	detects	epileptiform activity
+MRI	reveals	temporal lobe involvement
+temporal lobe involvement	seen in	HSV encephalitis
+neuroimaging	shows	limbic system involvement
+limbic system involvement	seen in	autoimmune encephalitis
+inflammatory markers	elevated in	encephalitis
+CSF	shows	lymphocytic pleocytosis
+lymphocytic pleocytosis	common in	viral encephalitis
+neural damage	results in	cognitive impairment
+cognitive impairment	persists after	encephalitis
+memory impairment	persists after	autoimmune encephalitis
+seizure recurrence	occurs with	autoimmune encephalitis
+autoimmune encephalitis	often presents with	psychiatric symptoms
+psychosis	observed in	autoimmune encephalitis
+movement disorder	observed in	LGI1 antibody encephalitis
+antibody panel	positive for	NMDA receptor antibodies
+antibody panel	includes	NMDA receptor antibodies
+NMDA receptor antibodies	are associated with	autonomic instability
+autonomic instability	occurs with	anti-NMDA receptor encephalitis
+speech disturbance	occurs with	autoimmune encephalitis
+encephalitis	requires	multidisciplinary care

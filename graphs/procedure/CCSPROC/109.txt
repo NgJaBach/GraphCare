@@ -1,0 +1,89 @@
+urethra	is a	anatomical structure
+urethral stricture	is a	condition
+urethral dilation	is a	urethral procedure
+urethroscopy	is a type of	endoscopy
+cystourethroscopy	is a type of	endoscopy
+urethral biopsy	is a	medical procedure
+urethral biopsy	detects	urethral lesions
+urethral biopsy	yields	tissue sample
+internal urethrotomy	is a type of	urethrotomy
+internal urethrotomy	treats	urethral stricture
+direct vision internal urethrotomy	is a type of	urethrotomy
+direct vision internal urethrotomy	treats	urethral stricture
+transurethral incision	is a type of	urethrotomy
+transurethral incision	treats	urethral stricture
+urethrotomy	is a type of	urethral surgery
+meatotomy	is a type of	urethrotomy
+meatal stenosis	is a	condition
+meatal dilation	treats	meatal stenosis
+meatal dilation	is a type of	urethral dilation
+urethral dilation	treats	urethral stricture
+urethral dilation	uses	urethral sounds
+urethral sounds	are types of	dilators
+dilator	is a	instrument
+urethral catheterization	is a	medical procedure
+urethral catheter	is a type of	urinary catheter
+Foley catheter	is a type of	urinary catheter
+catheterization	provides	urinary drainage
+urinary drainage	is a	clinical objective
+TURP	is a procedure performed via	urethra
+TURP	uses	resectoscope
+transurethral resection	is a type of	urethral surgery
+urethral stenting	is a type of	urethral intervention
+urethral stent	is a	implant
+stricture recurrence	occurs after	urethroplasty
+urethroplasty	is a type of	urethral reconstruction
+anterior urethroplasty	is a type of	urethroplasty
+posterior urethroplasty	is a type of	urethroplasty
+bulbar urethroplasty	is a type of	urethroplasty
+penile urethroplasty	is a type of	urethroplasty
+urethroplasty	uses	graft tissue
+buccal mucosa graft	is a tissue graft
+buccal mucosa graft	is used in	urethroplasty
+buccal mucosa graft	provides	tissue for urethroplasty
+graft tissue	is a	tissue
+urethroplasty	can be	single-stage
+urethral reconstruction	is a type of	reconstructive surgery
+urethral repair	is a type of	urethral reconstruction
+anastomotic urethroplasty	is a type of	urethroplasty
+excision and primary anastomosis urethroplasty	is a type of	urethroplasty
+staged urethroplasty	is a type of	urethroplasty
+urethral stricture	is diagnosed by	imaging studies
+retrograde urethrogram	is a type of	imaging study
+urethral imaging	is used for	stricture evaluation
+cystourethroscopy	can diagnose	urethral stricture
+cystoscope	is an instrument used for	urethral inspection
+urethral examination	is a procedure for	evaluating urethra
+meatal calibration	is a	diagnostic procedure
+urethral calibers	specify	lumen size
+hypospadias repair	involves	urethral meatus
+meatal dilation	may be required after	hypospadias repair
+hypospadias repair	may require	meatal dilation
+urethral repair	requires	graft
+graft	is a	tissue
+graft	used in	urethroplasty
+urethroplasty	requires	graft
+staged urethroplasty	is a type of	urethroplasty
+graft tissue	is used as	tissue for urethroplasty
+urethra	is path for	urine
+urine	exits	urethra
+urinary flow	is affected by	urethral stricture
+internal urethrotomy	reduces	urinary obstruction
+direct vision internal urethrotomy	reduces	urinary obstruction
+TURP	relieves	bladder outlet obstruction
+urinary obstruction	relief indicates	successful urethral surgery
+urinalysis	used for	screening before urethral procedure
+antibiotic prophylaxis	is used for	urethral catheterization
+postoperative analgesia	is provided after	urethral surgery
+postoperative antibiotics	may be used after	urethral surgery
+short-term catheterization	is followed by	catheter removal
+catheter removal	follows	urethral procedure
+sterile technique	reduces	infection risk
+infection risk	is increased by	urethral catheterization
+anesthetic	is required for	urethral procedures
+regional anesthesia	is a type of	anesthesia
+local anesthesia	is a type of	anesthesia
+postoperative care	follows	urethral surgery
+urinary catheterization	is contraindicated in	urethral injury
+urethral injury	risk factor for	stricture
+stricture	risk factor for	urinary obstruction

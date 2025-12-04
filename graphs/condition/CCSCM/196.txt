@@ -1,100 +1,101 @@
-normal delivery	is a	delivery
-cesarean section	is a	delivery method
-vaginal delivery	is a	delivery method
-assisted vaginal delivery	is a	delivery method
-preterm birth	is a	birth outcome
-term birth	is a	birth outcome
-postterm birth	is a	birth outcome
-low birth weight	is a	neonatal outcome
-neonatal respiratory distress	is a	neonatal complication
-neonatal sepsis	is a	neonatal complication
-neonatal jaundice	is a	neonatal complication
-Apgar score	is a	neonatal assessment
-premature rupture of membranes	is a	labor complication
-placental abruption	is a	obstetric complication
-placenta previa	is a	obstetric complication
-gestational diabetes	is a	obstetric condition
-preeclampsia	is a	obstetric condition
-hypertension	is a	obstetric condition
-obesity	is a	obstetric risk factor
-advanced maternal age	is a	obstetric risk factor
-smoking	is a	obstetric risk factor
-multiparity	is a	pregnancy factor
-fetal distress	is a	obstetric condition
-fetal growth restriction	is a	obstetric condition
-uterine atony	is a	obstetric complication
-postpartum hemorrhage	is a	obstetric complication
-epidural anesthesia	is a	labor analgesia
-labor induction	is a	labor management
-labor augmentation	is a	labor management
-fetal malpresentation	is a	obstetric finding
-singleton pregnancy	is a	pregnancy type
-multiple gestation	is a	pregnancy type
-chorioamnionitis	is a	obstetric infection
-placental insufficiency	is a	placental pathology
-uteroplacental insufficiency	is a	placental pathology
-cesarean section	increases risk for	postpartum infection
-cesarean section	increases risk for	endometritis
-normal delivery	is associated with	uncomplicated newborn
-vaginal delivery	is associated with	shorter labor duration
-premature rupture of membranes	increases risk for	chorioamnionitis
-fetal distress	leads to	cesarean section
-placenta previa	associated with	cesarean section
-placental abruption	associated with	fetal distress
-gestational diabetes	increases risk for	cesarean section
-preeclampsia	increases risk for	placental abruption
-hypertension	associated with	preeclampsia
-obesity	associated with	gestational diabetes
-advanced maternal age	associated with	preterm birth
-smoking	associated with	low birth weight
-multiparity	increases likelihood of	vaginal delivery
-fetal malpresentation	increases likelihood of	cesarean section
-fetal growth restriction	associated with	NICU admission
-neonatal respiratory distress	requires	mechanical ventilation
-neonatal jaundice	treated with	phototherapy
-epidural anesthesia	used during	labor
-labor induction	associated with	cesarean section
-labor augmentation	associated with	vaginal delivery
-fetal malpresentation	associated with	cesarean section
-chorioamnionitis	leads to	postpartum infection
-placental abruption	leads to	fetal distress
-placental insufficiency	associated with	fetal growth restriction
-gestational hypertension	associated with	preeclampsia
-gestational diabetes	associated with	macrosomia
-macrosomia	associated with	cesarean section
-preterm labor	leads to	preterm birth
-uterine scarring	associated with	placenta previa
-uterine fibroids	associated with	cesarean section
-placental accreta	associated with	cesarean section
-infection	associated with	preterm birth
-cervical insufficiency	associated with	preterm birth
-fetal anemia	associated with	fetal distress
-umbilical cord prolapse	leads to	cesarean section
-uterine rupture	is a	obstetric emergency
-neonatal mortality	associated with	preterm birth
-neonatal morbidity	associated with	maternal infection
-postpartum hemorrhage	risk factor for	maternal anemia
-amniotic fluid embolism	is a	obstetric complication
-fetal heartbeat	monitored by	cardiotocography
-fetal monitoring	used for	labor management
-neonatal ICU admission	occurs with	preterm birth
-tocolysis	used for	preterm labor
-cesarean section	indicated by	fetal distress
+uncomplicated pregnancy	results in	term delivery
+gestational diabetes	increases risk of	cesarean section
+gestational diabetes	increases risk of	fetal macrosomia
+preeclampsia	increases risk of	postpartum hemorrhage
+preeclampsia	increases risk of	fetal distress
+hypertension	increases risk of	preterm delivery
+advanced maternal age	increases risk of	preterm delivery
+advanced maternal age	increases risk of	placental abruption
+smoking	increases risk of	placental abruption
+obesity	increases risk of	cesarean section
+placenta previa	necessitates	cesarean section
+placental abruption	causes	fetal distress
+placenta accreta	leads to	postpartum hemorrhage
+placenta previa	associated with	cesarean delivery
+placental abruption	associated with	preterm delivery
+uterine scar	increases risk of	uterine rupture
+cesarean section	increases risk of	placenta accreta in future pregnancy
+labor induction	associated with	cesarean delivery
+oxytocin	used for	labor induction
+oxytocin	used for	labor augmentation
+epidural analgesia	associated with	prolonged labor
+epidural analgesia	associated with	assisted vaginal delivery
+magnesium sulfate	used for	seizure prevention in preeclampsia
+antibiotic prophylaxis	used for	group B streptococcus colonization
+group B streptococcus	increases risk of	neonatal sepsis
+meconium	associated with	fetal distress
+cord prolapse	causes	fetal compromise
+shoulder dystocia	causes	birth trauma
+macrosomia	increases risk of	shoulder dystocia
+macrosomia	associated with	cesarean delivery
+fetal distress	leads to	cesarean delivery
+birthweight	influences	neonatal outcome
+low birthweight	associated with	preterm delivery
+small for gestational age	associated with	neonatal complications
+polyhydramnios	associated with	maternal diabetes
+oligohydramnios	associated with	fetal distress
+Apgar score	indicates	neonatal condition
+Apgar score	predicts	neonatal prognosis
+neonatal intensive care unit admission	associated with	preterm delivery
+neonatal respiratory distress syndrome	associated with	preterm delivery
+neonatal jaundice	occurs after	birth
+breastfeeding	improves	neonatal outcome
+postpartum infection	occurs after	delivery
+cesarean delivery	increases risk of	placenta previa in future pregnancy
+cesarean delivery	increases risk of	placenta accreta in future pregnancy
+uterine atony	causes	postpartum hemorrhage
+postpartum hemorrhage	requires	blood transfusion
+blood transfusion	indicates	severe postpartum hemorrhage
+fetal growth restriction	associated with	low birthweight
+fetal growth restriction	associated with	preterm delivery
+fetal growth restriction	associated with	perinatal morbidity
+polyhydramnios	associated with	fetal anomalies
+oligohydramnios	associated with	renal anomalies
+chorioamnionitis	associated with	preterm delivery
+chorioamnionitis	associated with	neonatal sepsis
+GBS colonization	increases risk of	neonatal sepsis
+prenatal care	reduces risk of	adverse neonatal outcomes
+rupture of membranes	increases risk of	preterm birth
+rupture of membranes	leads to	labor onset
+post-term pregnancy	associated with	fetal distress
+post-term pregnancy	increases risk of	cesarean section
 vaginal delivery	associated with	shorter hospital stay
-vaginal delivery	associated with	hospital stay
-neonatal sepsis	associated with	mortality
-neonatal mortality	leading to	long-term disability
-placental previa	increases risk for	cesarean section
-labor analgesia	associated with	vaginal delivery
-fetal well-being	indicates	term birth
-obstetric complications	associated with	cesarean section
-uterine scar	associated with	placenta previa
-neonatal bilirubin	associated with	phototherapy requirement
-fetal macrosomia	associated with	cesarean section
-fetal growth restriction	linked with	NICU admission
-uterine scar	leads to	placenta previa
-neonatal mortality	associated with	low birth weight
-breastfeeding	associated with	postpartum recovery
-pregnancy	includes	delivery
-multifetal pregnancy	increases risk for	preterm birth
-normal delivery	indicates	uncomplicated pregnancy
+vaginal delivery	can result in	intact perineum
+perineal tear	occurs in	vaginal delivery
+episiotomy	used in	vaginal delivery
+birth trauma	associated with	shoulder dystocia
+term delivery	associated with	normal postpartum course
+normal pregnancy	associated with	uncomplicated delivery
+uncomplicated labor	results in	normal vaginal delivery
+intact perineum	associated with	normal vaginal delivery
+perineal tear	occurs in	vaginal delivery
+episiotomy	reduces	severe perineal lacerations
+neonatal asphyxia	associated with	birth trauma
+birth canal	is	natural route for vaginal delivery
+normal delivery	associated with	shorter hospital stay
+normal postpartum course	associated with	term delivery
+term delivery	yields	normal neonatal outcome
+no cesarean history	predicts	successful vaginal birth
+cesarean history	reduces	future vaginal birth probability
+future pregnancy	increases risk of	placenta previa
+future pregnancy	increases risk of	placenta accreta
+antenatal corticosteroids	given for	preterm birth prevention
+preterm birth prevention	improves	neonatal outcomes
+tocolysis	delays	preterm birth
+neonatal sepsis	associated with	preterm delivery
+neonatal sepsis	treated with	antibiotics
+antibiotics	used for	group B streptococcus prophylaxis
+group B streptococcus prophylaxis	reduces risk of	neonatal sepsis
+uterine atony	is a risk factor for	postpartum hemorrhage
+extreme prematurity	associated with	prolonged NICU stay
+oxygen therapy	used for	neonatal respiratory distress syndrome
+surfactant therapy	used for	neonatal respiratory distress syndrome
+prematurity	associated with	respiratory complications
+term pregnancy	yields	normal neonatal outcome
+labor ward	manages	delivery
+delivery	managed by	obstetric team
+neonatal outcome	depends on	birth weight
+birth weight	predicts	neonatal prognosis
+postpartum period	requires	follow-up
+postpartum follow-up	improves	maternal outcome
+breastfeeding	improves	neonatal outcome

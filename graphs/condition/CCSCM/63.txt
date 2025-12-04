@@ -1,100 +1,100 @@
+diseases of white blood cells	include	leukemias
+diseases of white blood cells	include	lymphomas
+diseases of white blood cells	include	myelodysplastic syndromes
+diseases of white blood cells	include	myeloproliferative neoplasms
+leukemia	is a	cancer
 leukemia	is a	hematologic malignancy
-leukemia	is a	disease of white blood cells
-acute myeloid leukemia	is a	myeloid malignancy
-acute lymphoblastic leukemia	is a	lymphoid malignancy
+leukemia	affects	bone marrow
+leukemia	causes	cytopenias
+leukemia	presents with	fatigue
+leukemia	presents with	anemia
+acute lymphoblastic leukemia	is a	type of leukemia
+acute lymphoblastic leukemia	presents with	lymphoblasts in blood
+acute lymphoblastic leukemia	treated with	steroids
+acute lymphoblastic leukemia	treated with	vincristine
+acute lymphoblastic leukemia	treated with	methotrexate
+acute myeloid leukemia	is a	type of leukemia
+acute myeloid leukemia	presents with	myeloblasts in marrow
+acute myeloid leukemia	treated with	cytarabine
+acute myeloid leukemia	treated with	daunorubicin
+acute myeloid leukemia	associated with	FLT3 mutation
+acute myeloid leukemia	associated with	NPM1 mutation
+acute myeloid leukemia	has	prognosis
+chronic lymphocytic leukemia	is a	B-cell malignancy
+chronic lymphocytic leukemia	presents with	lymphocytosis
+chronic lymphocytic leukemia	treated with	rituximab
+chronic lymphocytic leukemia	treated with	ibrutinib
 chronic myeloid leukemia	is a	myeloproliferative neoplasm
-chronic lymphocytic leukemia	is a	lymphoid malignancy
-hairy cell leukemia	is a	B-cell leukemia
-Hodgkin lymphoma	is a	lymphoid malignancy
-diffuse large B-cell lymphoma	is a	non-Hodgkin lymphoma
-follicular lymphoma	is a	non-Hodgkin lymphoma
-leukemia	may cause	anemia
-leukemia	may cause	thrombocytopenia
-leukemia	may cause	increased infection risk
-acute myeloid leukemia	presents with	cytopenias
-acute myeloid leukemia	presents with	mucosal bleeding
-acute lymphoblastic leukemia	presents with	bone pain
-chronic lymphocytic leukemia	presents with	lymphadenopathy
-Hodgkin lymphoma	presents with	mediastinal mass
-diffuse large B-cell lymphoma	presents with	rapidly enlarging mass
-follicular lymphoma	presents with	painless lymphadenopathy
-Hodgkin lymphoma	has	Reed-Sternberg cells
-Reed-Sternberg cells	are diagnostic feature of	Hodgkin lymphoma
-t(14;18) translocation	is a	chromosomal translocation
-BCR-ABL1 fusion	is a	constitutively active tyrosine kinase
-Philadelphia chromosome	is a	genetic abnormality
-BCR-ABL1 fusion	is associated with	chronic myeloid leukemia
-BCR-ABL1 testing	is used for	CML diagnosis
+chronic myeloid leukemia	contains	BCR-ABL fusion gene
+chronic myeloid leukemia	treated with	imatinib
+chronic myeloid leukemia	treated with	dasatinib
+chronic myeloid leukemia	treated with	nilotinib
+chronic myeloid leukemia	treated with	bosutinib
+BCR-ABL fusion gene	is a	driver mutation
+BCR-ABL fusion gene	triggers	constitutive tyrosine kinase activity
+FLT3 mutation	associated with	poor prognosis
+NPM1 mutation	associated with	favorable prognosis
+JAK2 mutation	associated with	myeloproliferative neoplasm
+CALR mutation	associated with	essential thrombocythemia
+CALR mutation	associated with	myeloproliferative neoplasm
+polycythemia vera	is a	myeloproliferative neoplasm
+essential thrombocythemia	is a	myeloproliferative neoplasm
+primary myelofibrosis	is a	myeloproliferative neoplasm
+myelodysplastic syndromes	are	hematologic disorders
+myelodysplastic syndromes	presents with	cytopenias
+myelodysplastic syndromes	can progress to	acute myeloid leukemia
+acute promyelocytic leukemia	is a	subtype of AML
+acute promyelocytic leukemia	treated with	all-trans retinoic acid
+hairy cell leukemia	is a	leukemia subtype
+hairy cell leukemia	treated with	cladribine
+hairy cell leukemia	diagnosed by	bone marrow biopsy
+lymphoid leukemias	include	ALL
+myeloproliferative neoplasms	include	polycythemia vera
+myeloproliferative neoplasms	include	essential thrombocythemia
+myeloproliferative neoplasms	include	primary myelofibrosis
+neutropenia	is a	WBC disorder
+neutropenia	causes	infections
+neutropenia	caused by	chemotherapy
+neutropenia	managed with	granulocyte colony-stimulating factor
+neutropenia	increases	infection risk
+leukocytosis	is a	high white blood cell count
+leukocytosis	may accompany	infection
+leukocytosis	can indicate	leukemia
+lymphocytosis	is a	WBC disorder
+lymphocytosis	associated with	viral infection
+lymphocytopenia	is a	WBC disorder
+lymphocytopenia	predisposes to	infection
+eosinophilia	is a	WBC disorder
+eosinophilia	associated with	parasitic infection
+basophilia	is a	WBC disorder
+monocytosis	is a	WBC disorder
+monocytosis	associated with	monocytic leukemia
+acute lymphoblastic leukemia	has	hyperdiploidy
+acute myeloid leukemia	has	t(8;21) translocation
+acute myeloid leukemia	has	inv(16)
+chronic lymphocytic leukemia	has	del(13q)
+bone marrow biopsy	used for	leukemia diagnosis
+bone marrow biopsy	used for	cancer diagnosis
+flow cytometry	used for	leukemia classification
+cytogenetics	used for	leukemia risk stratification
+immunophenotyping	used for	leukemia classification
+bone marrow transplantation	used for	leukemia treatment
+hematopoietic stem cell transplantation	used for	leukemia treatment
+bone marrow transplantation	can cause	graft-versus-host disease
+graft-versus-host disease	is a	complication
 imatinib	is a	tyrosine kinase inhibitor
 imatinib	treats	chronic myeloid leukemia
-dasatinib	is a	tyrosine kinase inhibitor
 dasatinib	treats	chronic myeloid leukemia
-R-CHOP regimen	treats	diffuse large B-cell lymphoma
-rituximab	is a	monoclonal antibody
-cyclophosphamide	is a	alkylating agent
-cytarabine	is a	nucleoside analog
-cytarabine	treats	acute myeloid leukemia
-etoposide	is a	chemotherapy agent
-bone marrow transplant	is a	curative therapy
-allogeneic stem cell transplant	is a	curative therapy
-hematopoietic stem cell transplant	is a	curative therapy
-Down syndrome	is a risk factor for	acute leukemia
-age	is a risk factor for	leukemia
-radiation exposure	is a risk factor for	leukemia
-benzene exposure	is a risk factor for	leukemia
-smoking	is a risk factor for	acute myeloid leukemia
-TP53 mutation	is a prognostic factor for	leukemia
-cytogenetic abnormality	is a prognostic factor for	leukemia
-NPM1 mutation	is a prognostic marker for	acute myeloid leukemia
-FLT3-ITD mutation	is a prognostic factor for	acute myeloid leukemia
-EBV infection	is associated with	Hodgkin lymphoma
-t(11;18) translocation	is a genetic abnormality in	MALT lymphoma
-t(14;18) translocation	is associated with	follicular lymphoma
-Reed-Sternberg cells	are diagnostic feature of	Hodgkin lymphoma
-Rituximab	is a	monoclonal antibody
-follicular lymphoma	treated with	rituximab
-diffuse large B-cell lymphoma	treated with	rituximab
-hairy cell leukemia	treated with	cladribine
-cladribine	is a	purine analog
-pentostatin	is a	purine analog
-pentostatin	treats	hairy cell leukemia
-bone marrow biopsy	is a	diagnostic test for leukemia
-flow cytometry	is a	diagnostic test for leukemia
-cytogenetic analysis	is a	diagnostic test for leukemia
-molecular testing	is a	diagnostic test for leukemia
-minimal residual disease	is an	outcome measure
-complete remission	is an	treatment outcome
-partial remission	is an	treatment outcome
-disease-free survival	is an	outcome measure
-overall survival	is an	outcome measure
-neutropenia	is a	leukocyte deficiency
-neutropenia	increases	infection risk
-lymphocytosis	is a	high lymphocyte count
-leukocytosis	is a	high white blood cell count
-thrombocytopenia	is a	cytopenia
-cytopenias	are a	hallmark of leukemia
-granulocyte colony-stimulating factor	is a	supportive therapy
-granulocyte colony-stimulating factor	is used for	neutropenia
-CAR T-cell therapy	is a	treatment modality
-axicabtagene ciloleucel	is a	CAR T-cell therapy
-CD19	is a	B-cell marker
-CD20	is a	B-cell marker
-rituximab	targets	CD20
-BCR-ABL1	is a	fusion gene
-CML	has	BCR-ABL1 fusion
-R-CHOP regimen	includes	rituximab
-Hodgkin lymphoma	responsive to	ABVD regimen
-ABVD regimen	is a	chemotherapy regimen
-Burkitt lymphoma	is a	non-Hodgkin lymphoma
-HIV infection	is a risk factor for	certain non-Hodgkin lymphomas
-BCL2 overexpression	is a	feature of follicular lymphoma
-t(15;17) translocation	is a genetic abnormality in	acute promyelocytic leukemia
-APL	is a subtype of	AML
-all-trans retinoic acid	is a	differentiation agent
+nilotinib	treats	chronic myeloid leukemia
+bosutinib	treats	chronic myeloid leukemia
 all-trans retinoic acid	treats	acute promyelocytic leukemia
-acute promyelocytic leukemia	is a	subtype of AML
-AML-M3	is a	AML subtype
-Chronic lymphocytic leukemia	may progress to	Richter transformation
-Richter transformation	is a	progression of CLL
-Mantle cell lymphoma	is a	non-Hodgkin lymphoma
-Sepsis	is a	complication of chemotherapy
+hairy cell leukemia	treated with	pentostatin
+rituximab	used for	chronic lymphocytic leukemia
+ibrutinib	used for	chronic lymphocytic leukemia
+etoposide	used for	acute myeloid leukemia
+cytarabine	used for	acute myeloid leukemia
+daunorubicin	used for	acute myeloid leukemia
+bone marrow failure	leads to	cytopenias
+therapy-related acute myeloid leukemia	arises after	cytotoxic therapy
+ring sideroblasts	seen in	myelodysplastic syndrome
+richter transformation	occurs in	chronic lymphocytic leukemia

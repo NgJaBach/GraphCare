@@ -1,0 +1,100 @@
+ct head	is a	diagnostic imaging modality
+ct head	used for	evaluation of head trauma
+ct head	used for	detection of intracranial hemorrhage
+ct head	used for	evaluation of skull fracture
+ct head	used for	assessment of mass effect
+ct head	used for	detection of brain edema
+ct head	used for	evaluation of hydrocephalus
+ct head	used for	assessment of ischemia
+ct head	used for	detection of acute stroke
+ct head	used for	preoperative planning
+ct head	used for	post-trauma follow-up
+ct head	used for	neurosurgical planning
+ct head	used for	monitoring after surgery
+ct head	used for	emergency department triage
+ct head	with contrast	enhances lesion detection
+contrast-enhanced ct head	detects	neoplastic lesions
+contrast-enhanced ct head	helps characterize	brain tumors
+ct head	produces	axial images
+ct head	yields	reconstructed images
+ct head	yields	multiplanar reformats
+ct head	associated with	ionizing radiation exposure
+ct head	limited by	metal artifacts
+ct head	limited by	patient motion
+ct head	compared with	MRI brain
+ct head	complements	MRI brain in evaluation
+non-contrast ct head	detects	acute hemorrhage
+non-contrast ct head	limited in	early ischemia detection
+non-contrast ct head	used for	trauma triage
+head ct	used for	stroke evaluation in ED
+head ct	used for	evaluation of skull base fracture
+head CT with contrast	detects	vascular lesions
+head CT with contrast	helps characterize	enhancement patterns
+ct head	used for	monitoring hemorrhage progression
+ct head	indicates	midline shift
+ct head	indicates	mass effect
+ct head	indicates	brain herniation
+ct head	reveals	ventricular enlargement
+ct head	reveals	edema
+ct head	reveals	ischemic changes
+ct head	reveals	hemorrhagic transformation
+ct head	reveals	skull fracture
+ct head	reveals	epidural hematoma
+ct head	reveals	subdural hematoma
+ct head	reveals	intraparenchymal hemorrhage
+ct head	facilitates	trauma triage
+ct head	supports	surgical planning
+ct head	provides	rapid imaging assessment
+ct head	informs	prognosis decisions
+non-contrast ct head	can miss	early ischemia
+ct head	used for	evaluating coma causes
+ct head	used for	evaluation of posterior fossa pathology
+ct head	used for	detection of skull fracture line
+ct head	used for	follow-up imaging after hemorrhage
+ct head	used for	assessment of brain tumors
+ct head	detects	brain abscess
+ct head	detects	ring-enhancing lesions
+ct head	used for	evaluation of seizures
+ct head	helps in	planning for ventriculostomy
+contrast-enhanced ct head	detects	metastatic lesions
+contrast-enhanced ct head	detects	meningioma enhancement
+ct head	provides	baseline brain imaging
+ct head	provides	site orientation for surgeons
+ct head	used for	detecting brain shift
+ct head	supports	triage decisions
+ct head	used for	evaluating for subarachnoid hemorrhage
+non-contrast ct head	detects	subarachnoid hemorrhage
+head ct	reduces	time to thrombolysis
+ct head	enables	rapid diagnosis in emergencies
+ct head	supports	prognosis estimation
+ct head	used for	planning radiotherapy for brain tumors
+contrast-enhanced ct head	assesses	vascular malformations
+ct head	yields	skull windows
+ct head	yields	bone detail
+ct head	used for	pediatric head trauma evaluation
+ct head	used for	pediatric imaging in emergencies
+ct head	used for	evaluation of elderly falls
+ct head	used for	coma etiologies assessment
+ct head	detects	brain herniation signs
+non-contrast ct head	detects	calcifications
+head ct	used for	detecting intraventricular hemorrhage
+ct head	detects	subarachnoid blood
+ct head	used for	preoperative assessment for shunt placement
+contrast-enhanced ct head	visualizes	aneurysm necks
+non-contrast ct head	visualizes	subdural collections
+ct head	supports	surgical decision-making
+ct head	estimates	patient prognosis
+ct head	screens	stroke patients in ED
+ct head	documents	baseline brain anatomy
+ct head	used for	rapid evaluation of coma
+ct head	guides	acute management
+contrast-enhanced ct head	detects	dural venous sinus thrombosis signs
+ct head	involved in	trauma protocol
+ct head	integrated with	CT angiography protocol
+ct head	used for	emergency imaging workflow
+ct head	used for	follow-up after aneurysm clipping
+ct head	used for	evaluating post-surgical edema
+ct head	used for	monitoring treatment response in brain tumor
+ct head	yields	planar imaging
+ct head	yields	volumetric data
+ct head	serves as	initial brain imaging in many ED presentations

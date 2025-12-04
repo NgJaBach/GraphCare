@@ -1,100 +1,100 @@
-menstrual disorders	is a	gynecologic condition
-amenorrhea	is a	menstrual disorder
-amenorrhea	may indicate	pregnancy
-amenorrhea	may indicate	hypothalamic-pituitary-ovarian axis dysfunction
-oligomenorrhea	is a	menstrual irregularity
-oligomenorrhea	associated with	polycystic ovary syndrome
-dysmenorrhea	is a	menstrual pain
-dysmenorrhea	associated with	prostaglandin excess
-dysmenorrhea	treated with	NSAIDs
-dysmenorrhea	managed with	heat therapy
-menorrhagia	is a	heavy menstrual bleeding
-menorrhagia	associated with	uterine fibroids
-heavy menstrual bleeding	associated with	iron deficiency anemia
-iron deficiency anemia	is a	complication of heavy menstrual bleeding
-menstrual disorders	impact on	fertility
-infertility	may result from	anovulation
-anovulation	observed in	polycystic ovary syndrome
-polycystic ovary syndrome	associated with	insulin resistance
-polycystic ovary syndrome	associated with	obesity
-polycystic ovary syndrome	associated with	hyperandrogenism
-polycystic ovary syndrome	increases risk for	infertility
-endometriosis	associated with	dysmenorrhea
-endometriosis	may cause	infertility
-uterine fibroids	cause	abnormal uterine bleeding
-uterine fibroids	associated with	menorrhagia
-uterine fibroids	may cause	pelvic pain
-abnormal uterine bleeding	is a	symptom
-abnormal uterine bleeding	may result from	thyroid disease
-thyroid disease	associated with	menstrual cycle
-hypothyroidism	associated with	amenorrhea
-hyperthyroidism	associated with	oligomenorrhea
-perimenopause	is a	stage of reproductive aging
-menopause	is a	cessation of menses
-perimenopause	causes	menstrual irregularity
-intermenstrual bleeding	is a	symptom
-intermenstrual bleeding	may indicate	cervical polyps
-cervical polyps	may cause	irregular bleeding
-uterine polyps	associated with	abnormal uterine bleeding
-endometrial hyperplasia	associated with	abnormal uterine bleeding
-endometrial cancer	associated with	obesity
-thyroid disease	associated with	menstrual irregularities
-anovulatory cycle	observed in	polycystic ovary syndrome
-pregnancy	causes	amenorrhea
-lactation	causes	amenorrhea
+menstrual disorders	is a	category of reproductive disorders
+dysmenorrhea	is a	symptom of menstrual disorders
+heavy menstrual bleeding	is a	symptom of menstrual disorders
+amenorrhea	is a	type of menstrual disorder
+oligomenorrhea	is a	type of menstrual disorder
+menstrual irregularity	is a	symptom of menstrual disorders
+dysfunctional uterine bleeding	is a	type of menstrual disorder
+premenstrual syndrome	is a	menstrual disorder
+endometriosis	is associated with	dysmenorrhea
+fibroids	cause	heavy menstrual bleeding
+leiomyoma	causes	heavy menstrual bleeding
+polycystic ovary syndrome	is associated with	menstrual disorders
+thyroid disease	is a risk factor for	menstrual disorders
+hypothyroidism	is a risk factor for	menstrual disorders
+obesity	increases risk for	menstrual disorders
+underweight	increases risk for	menstrual disorders
+insulin resistance	is associated with	menstrual disorders
+diabetes mellitus	is associated with	menstrual disorders
+anovulation	is a cause of	menstrual disorders
+ovarian dysfunction	is a cause of	menstrual disorders
+iron deficiency anemia	is a consequence of	heavy menstrual bleeding
+iron deficiency	is a consequence of	heavy menstrual bleeding
+iron supplementation	used for	iron deficiency anemia
+tranexamic acid	used for	heavy menstrual bleeding
+NSAIDs	reduce	dysmenorrhea pain
+NSAIDs	relieve	menstrual pain
 oral contraceptives	regulate	menstrual cycle
-hormonal contraception	regulate	menstrual cycle
-nonsteroidal anti-inflammatory drugs	relieve	dysmenorrhea
-tranexamic acid	reduce	menstrual blood loss
-iron supplementation	improve	iron deficiency anemia
-transfusion	required for	severe anemia
-iron deficiency anemia	causes	fatigue
-menstrual disorders	impact on	work productivity
-work productivity	affected by	menstrual disorders
-dysmenorrhea	linked to	prostaglandin synthesis
-prostaglandin synthesis	elevated in	dysmenorrhea
-endometriosis	associated with	infertility
-pelvic inflammatory disease	may cause	abnormal uterine bleeding
-pelvic inflammatory disease	may cause	abdominal pain
-uterine fibroids	treatment with	hysterectomy
-hysterectomy	results in	loss of menstruation
-uterine artery embolization	alternative to	hysterectomy
-oral progestins	used for	irregular bleeding
-levonorgestrel-releasing intrauterine system	treats	heavy bleeding
-spotting	is a	mild bleeding
-spotting	occurs with	perimenopause
-combined oral contraceptive pill	regulate	menstrual cycle
-progestin-only pills	regulate	menstrual cycle
-progesterone therapy	manage	heavy bleeding
-smoking	associated with	menstrual irregularity
-excessive exercise	associated with	amenorrhea
-anorexia nervosa	associated with	amenorrhea
-female athlete triad	associated with	menstrual irregularity
-pregnancy test	used for	pregnancy confirmation
-menstrual disorders	increase	healthcare utilization
-dysmenorrhea	occurs in	adolescents
-amenorrhea	occurs during	pregnancy
-menstrual irregularity	common in	adolescents
-iron deficiency anemia	diagnosed by	ferritin
-ferritin	reflects	iron stores
-hemoglobin	decreased in	anemia
-red blood cell indices	altered in	anemia
-menstrual disorders	assessed with	pelvic ultrasound
-pelvic ultrasound	detects	uterine fibroids
-ultrasound	used for	evaluation of abnormal uterine bleeding
-intrauterine device	used for	contraception
-endometrial biopsy	performed for	abnormal uterine bleeding
-polypectomy	treatment for	endometrial polyps
-hysteroscopy	used for	evaluation of uterine cavity
-GnRH agonists	used for	endometriosis
-surgical management	indicated for	uterine fibroids
-GnRH agonists	suppress	ovarian function
-oral iron	treat	iron deficiency anemia
-calcium supplementation	support	bone health
-menstrual disorders	linked to	mood disorders
-premenstrual syndrome	characterized by	emotional symptoms
-premenstrual syndrome	can cause	functional impairment
-premenstrual dysphoric disorder	is a	mood disorder
-dysmenorrhea	associated with	anxiety
-lactation	suppresses	ovulation
-menstrual disorders	require	clinical assessment
+combined oral contraceptives	regulate	menstrual cycle
+hormonal therapy	regulate	menstrual cycle
+metformin	improve	ovulation
+weight loss	improves	menstrual regularity
+lifestyle modification	improves	menstrual symptoms
+ovulation induction	achieve	pregnancy
+clomiphene	induces	ovulation
+letrozole	induces	ovulation
+gonadotropins	induce	ovulation
+endometrial ablation	treat	heavy menstrual bleeding
+hysterectomy	treat	heavy menstrual bleeding
+iron supplementation	prevent	iron deficiency anemia
+estrogen therapy	treat	amenorrhea
+progestin therapy	treat	amenorrhea
+bone mineral density	decreases	with amenorrhea
+amenorrhea	predisposes to	osteoporosis
+dysmenorrhea	affects	school attendance
+dysmenorrhea	affects	work productivity
+menstrual disorders	increase	healthcare costs
+adolescents	affected by	menstrual disorders
+reproductive-age women	affected by	menstrual disorders
+adolescent females	have	menstrual disorders
+smoking	increases risk of	menstrual disorders
+alcohol use	associated with	menstrual disorders
+physical activity	influences	menstrual disorders
+nutrition	influences	menstrual disorders
+iron deficiency anemia	worsens	fatigue
+infertility	associated with	menstrual disorders
+PCOS	associated with	infertility
+hirsutism	associated with	PCOS
+acne	associated with	PCOS
+weight gain	associated with	PCOS
+ovulatory dysfunction	common with	PCOS
+metabolic syndrome	risk with	PCOS
+thyroid disease	coexists with	menstrual disorders
+stress	worsens	dysmenorrhea
+anxiety	accompanies	menstrual disorders
+depression	accompanies	menstrual disorders
+prostaglandin	mediates	dysmenorrhea
+endometrium	sheds during	menstruation
+uterine contractions	cause	cramps
+cramps	accompany	dysmenorrhea
+heat therapy	helps	dysmenorrhea
+acupuncture	used for	dysmenorrhea
+yoga	used for	menstrual cramps
+oral iron	used for	iron deficiency anemia
+functional hypothalamic amenorrhea	linked to	energy deficit
+energy deficit	linked to	menstrual disorders
+anovulatory cycles	common in	PCOS
+PCOS	associated with	infertility
+hormone imbalance	causes	menstrual disorders
+prostaglandin F2alpha	mediates	cramps
+endometrial pathology	found with	abnormal uterine bleeding
+abnormal uterine bleeding	defined as	heavy or irregular uterine bleeding
+gynecologist	coordinates	menstrual disorders management
+primary care physician	refer	menstrual disorders
+patient education	improves	adherence to therapy
+therapy adherence	improves	outcomes
+outcomes	depend on	treatment adherence
+treatment adherence	improves	prognosis
+prognosis	improves with	effective therapy
+effective therapy	reduces	symptom burden
+symptom burden	affects	quality of life
+quality of life	improves with	symptom control
+screening programs	identify	menstrual disorders
+clinical guidelines	inform	management of menstrual disorders
+electrolyte imbalance	occurs with	heavy menstrual bleeding
+iron deficiency anemia	increases risk of	fatigue
+dysmenorrhea	associated with	migraine
+migraine	associated with	dysmenorrhea
+amenorrhea	associated with	bone loss
+gynecologic guidelines	recommend	NSAIDs for dysmenorrhea
+ferritin level	used to monitor	iron deficiency anemia

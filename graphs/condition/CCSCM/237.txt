@@ -1,100 +1,100 @@
-device	causes	infection
-device	causes	bleeding
-device	causes	thrombosis
-device	causes	hematoma
-device	causes	seroma
-device	causes	dislodgement
-device	causes	malposition
-device	causes	fracture
-device	causes	occlusion
-device	causes	stenosis
-device	causes	migration
-device	causes	nerve injury
-device	causes	tissue damage
-device	associated with	readmission
-device	associated with	reoperation
-device	associated with	mortality
-device	associated with	surgical-site infection
-device	associated with	wound dehiscence
-device	associated with	sepsis
-device	associated with	pain
-device	increases risk of	infection
-device	increases risk of	bleeding
-device	increases risk of	thrombosis
-device	increases risk of	dislocation
-device	increases risk of	migration
-device	increases risk of	failure
-device	increases risk of	rejection
 implant	causes	infection
-implant	causes	bleeding
-implant	causes	dislocation
-implant	causes	loosening
-implant	causes	necrosis
-implant	causes	pain
-implant	causes	nerve injury
-implant	causes	fracture
-implant	associated with	readmission
-implant	associated with	reoperation
-implant	associated with	mortality
-implant	associated with	surgical-site infection
-implant	associated with	seroma
-implant	associated with	hematoma
-implant	associated with	migration
-implant	associated with	rejection
-implant	increases risk of	infection
-implant	increases risk of	bleeding
-implant	increases risk of	necrosis
-implant	increases risk of	pain
-implant	increases risk of	nerve injury
-graft	causes	infection
 graft	causes	thrombosis
-graft	causes	stenosis
+device	causes	bleeding
+prosthesis	causes	hematoma
+stent	causes	restenosis
+valve	causes	leakage
+pacemaker	causes	infection
 graft	causes	occlusion
-graft	causes	rejection
-graft	causes	pain
-graft	causes	ischemia
-graft	causes	necrosis
-graft	associated with	readmission
-graft	associated with	reoperation
-graft	associated with	mortality
-graft	associated with	surgical-site infection
-graft	associated with	migration
-graft	associated with	loosening
-graft	associated with	ischemia
-graft	associated with	necrosis
-graft	increases risk of	infection
-graft	increases risk of	thrombosis
-graft	increases risk of	rejection
-graft	increases risk of	ischemia
-graft	leads to	hemorrhage
-prosthesis	causes	infection
-prosthesis	causes	dislocation
-prosthesis	causes	loosening
-prosthesis	causes	pain
-prosthesis	associated with	readmission
-prosthesis	associated with	reoperation
-prosthesis	associated with	mortality
-prosthesis	associated with	surgical-site infection
-prosthesis	increases risk of	infection
-prosthesis	increases risk of	dislocation
-prosthesis	increases risk of	loosening
-prosthesis	increases risk of	pain
-implantable device	associated with	readmission
-implantable device	associated with	surgical-site infection
-implantable device	increases risk of	infection
-implantable device	increases risk of	dislocation
-device component	causes	infection
-device component	causes	dislodgement
-device component	causes	failure
-graft material	causes	infection
-graft material	causes	thrombosis
-graft material	causes	stenosis
-graft material	causes	occlusion
-graft material	causes	rejection
-surgical technique	associated with	infection
-surgical technique	associated with	reoperation
-surgical technique	associated with	complication
-anesthesia	associated with	mortality
-anesthesia	associated with	complication
-hospitalization	associated with	readmission
-hospitalization	associated with	mortality
+implant	causes	seroma
+prosthesis	causes	necrosis
+stent	causes	thrombosis
+valve	causes	stenosis
+device	causes	migration
+implant	causes	dislocation
+graft	causes	rupture
+pacemaker	causes	lead dislodgement
+stent	causes	fracture
+valve	causes	paravalvular leak
+implant	causes	erosion
+prosthesis	causes	fistula
+graft	causes	pseudoaneurysm
+device	causes	allergy
+pacemaker	causes	hypersensitivity
+stent	causes	infection
+implant	presents with	pain
+graft	presents with	discharge
+prosthesis	presents with	swelling
+stent	presents with	claudication
+valve	presents with	fever
+device	presents with	failure
+implant	results in	scar formation
+graft	results in	stenosis
+prosthesis	results in	infection
+stent	results in	occlusion
+pacemaker	results in	battery depletion
+valve	results in	regurgitation
+implant	results in	ischemia
+graft	results in	ischemia
+device	results in	inflammation
+prosthesis	results in	necrosis
+stent	results in	restenosis
+implant	causes	migration
+graft	causes	displacement
+pacemaker	causes	lead fracture
+valve	causes	leakage
+device	causes	infection relapse
+implant	causes	biofilm formation
+biofilm	leads to	infection
+graft	causes	seroma
+prosthesis	causes	inflammatory reaction
+valve	causes	thrombosis
+implant	causes	abscess
+graft	causes	perigraft infection
+pacemaker	causes	pocket hematoma
+device	causes	erosion into skin
+prosthesis	causes	adjacent tissue injury
+stent	causes	migration
+valve	causes	paravalvular leak
+implant	is associated with	allergy
+graft	is associated with	rejection
+device	is associated with	immune reaction
+pacemaker	is associated with	infection
+valve	is associated with	endocarditis
+stent	is associated with	restenosis
+implant	is associated with	erosion
+graft	is associated with	pseudoaneurysm
+prosthesis	is associated with	migration
+device	is associated with	malposition
+pacemaker	is associated with	lead dislodgement
+valve	is associated with	thrombosis
+stent	is associated with	thrombosis
+graft	is associated with	occlusion
+implant	requires	revision
+prosthesis	requires	replacement
+graft	requires	replacement
+device	requires	reoperation
+pacemaker	requires	generator exchange
+valve	requires	replacement
+stent	requires	angioplasty
+implant	damages	adjacent tissue
+graft	damages	vessel
+device	damages	nerve
+prosthesis	damages	tendon
+stent	damages	vessel wall
+valve	damages	endothelium
+pacemaker	damages	myocardium
+implant	dislodges	lead
+prosthesis	fractures	component
+stent	fractures	strut
+valve	fractures	leaflet
+implant	erodes	skin
+graft	erodes	vessel
+device	erodes	tissue
+prosthesis	erodes	mucosa
+stent	erodes	artery
+valve	leaks	blood
+implant	leaks	fluid
+graft	occludes	vessel
+pacemaker	loses	battery
+valve	occludes	flow

@@ -1,101 +1,112 @@
-cut/pierce injury	is coded with	external-cause code
-external-cause code	indicates	mechanism of injury
-external-cause code	indicates	place of occurrence
-external-cause code	indicates	activity at injury
-external-cause code	indicates	intent
-knife	causes	cut/pierce injury
-glass shard	causes	cut/pierce injury
-sharp object	causes	cut/pierce injury
-blade	causes	cut/pierce injury
-needle	causes	puncture wound
-puncture wound	is type of	cut/pierce injury
-occupational hazard	increases	cut/pierce injury risk
-home	is place of occurrence	cut/pierce injury
-workplace	is place of occurrence	cut/pierce injury
-sport activity	is activity at injury	cut/pierce injury
-household task	is activity at injury	cut/pierce injury
-wound	results from	cut/pierce injury
-cut/pierce injury	requires	wound closure
-wound closure	uses	suturing
-suturing	uses	needle and thread
-wound closure	achieves	tissue approximation
-tetanus vaccine	recommended for	cut/pierce injury
-tetanus booster	given for	cut/pierce injury
-antibiotic prophylaxis	used for	contaminated wound
-antibiotics	treat	wound infection
-wound infection	increases	hospitalization duration
-hospitalization	increases	cost
-readmission	possible after	wound complications
-mortality	risk with	severe penetrating injury
-penetrating injury	associated with	hemorrhage
-hemorrhage	requires	transfusion
-transfusion	increases	infection risk
-imaging	guides	surgical planning
-surgical planning	requires	imaging
-operative approach	chosen by	surgeon
-suturing technique	affects	cosmetic outcome
-absorbable suture	used for	wound closure
-nonabsorbable suture	used for	skin closure
+external-cause code	codes for	cut injury
+external-cause code	codes for	puncture injury
+external-cause code	codes for	stab wound
+knife	causes	cut injury
+blade	causes	laceration
+razor	causes	cut injury
+glass	causes	puncture wound
+shard	causes	puncture wound
+needle	causes	puncture injury
+scissors	causes	laceration
+nail	causes	puncture injury
+wire	causes	cut injury
+scalpel	causes	laceration
+knife	results in	facial laceration
+blade	results in	hand injury
+razor	results in	scalp wound
+glass	results in	eye injury
+shard	results in	scalp wound
+needle	results in	finger injury
+scissors	results in	wrist laceration
+knife	results in	abdominal wound
+blade	results in	chest wound
+nail	results in	toe injury
+external-cause code	associated-with	accident
+accident	involves	cut injury
+facial-laceration	requires	suturing
+hand-injury	requires	dressing
+finger-injury	requires	imaging
+wrist-injury	requires	immobilization
+forearm-injury	requires	wound-care
+leg-laceration	requires	wound-care
+abdomen-wound	requires	surgery
+chest-wound	requires	imaging
+head-injury	requires	imaging
+head-injury	requires	neurosurgery
+eye-injury	requires	ophthalmology-referral
+facial-laceration	requires	suturing
+scalp-wound	requires	suturing
+skin-puncture	requires	cleaning
+infection	increases	hospital-stay
+wound infection	increases	complication-risk
+scar	results in	cosmetic-deformity
+tetanus	risk	puncture-wound
+tetanus-vaccine	prevents	tetanus
+antibiotic-prophylaxis	prevents	infection
+suture	is-for	wound-closure
+dressing	is-for	wound-care
+analgesia	relieves	pain
+anesthesia	enables	surgical-procedure
+surgery	treats	penetrating-wound
+debridement	treats	contaminated-wound
+antibiotic-therapy	treats	infection
+imaging	guides	treatment-plan
+ct-scan	guides	surgical-planning
+mri	evaluates	soft-tissue-injury
+radiograph	detects	fracture
+ultrasound	evaluates	vascular-injury
+splinting	stabilizes	hand-injury
+cast	stabilizes	leg-laceration
+suture	secures	wound-edge
 dressing	protects	wound
-glove	reduces	contamination
-sterile technique	reduces	infection risk
-hand hygiene	reduces	infection risk
-education	reduces	wound complications
-follow-up visit	monitors	wound healing
-scar formation	results in	cosmetic concern
-cosmetic outcome	influences	quality of life
-quality of life	affects	readmission risk
-wound healing	depends on	blood supply
-diabetes mellitus	worsens	wound infection risk
-smoking	worsens	wound healing
-vascular disease	delays	wound healing
-age	influences	outcomes
-comorbidity	increases	complication risk
-pain management	improves	patient comfort
-analgesia	provides	pain relief
-tetanus prophylaxis	synchronized with	wound care
-antibiotic prophylaxis	given with	wound care
-proper irrigation	reduces	wound contamination
-antiseptic solution	cleanses	wound
-foreign body	remains in	wound
-foreign body	causes	infection risk
-x-ray	detects	foreign body
-ultrasound	detects	foreign body
-CT scan	detects	foreign body
-trauma center	improves	mortality
-emergency department	treats	cut/pierce injury
-prehospital care	influences	outcome
-time to treatment	affects	mortality
-time to treatment	influences	complication rate
-facility trauma protocol	standardizes	care
-blood loss	leads to	transfusion
-wound irrigation	reduces	contamination
-topical antibiotic	applied to	wound
-vaccine status	influences	infection risk
-infection risk	increases	hospitalization duration
-scar management	reduces	cosmetic concerns
-follow-up care	ensures	wound healing
-preexisting infection	worsens	wound outcome
-foreign body removal	improves	healing
-suture removal	occurs after	healing phase
-sterilization	ensures	equipment safety
-coding accuracy	affects	reimbursement
-e-code accuracy	improves	data quality
-injury surveillance	uses	e-code data
-trauma registry	stores	e-code data
-public health	analyzes	injury data
-injury prevention	targets	high-risk mechanisms
-occupational safety	reduces	work injuries
-knife safety	reduces	cut injuries
-glove use	reduces	puncture injuries
-pocket knife	associated with	cut injuries
-glass	associated with	puncture injuries
-sports equipment	associated with	puncture injuries
-tetanus prophylaxis	recommended with	puncture wounds
-immunization	improves	wound outcomes
-injury severity	correlates with	outcome
-time of injury	records	event time
-preinjury health status	affects	wound outcome
-penetrating injury	requires	surgery
-imaging modality	used for	injury assessment
-foreign body	is found in	wound
+wound-care	reduces	infection-risk
+scar	becomes	cosmetic-scar
+cosmetic-procedure	corrects	scar
+infection	indicates	bacterial-colonization
+antibiotic-therapy	treats	infection
+analgesic-therapy	treats	pain
+tissue-damage	informs	prognosis
+nerve-injury	affects	motor-function
+tendon-injury	affects	grip-strength
+vascular-injury	affects	perfusion
+external-cause code	maps-to	cut-injury
+external-cause code	maps-to	puncture-injury
+external-cause code	indicates	household-accident
+external-cause code	indicates	workplace-accident
+accident	causes	hospital-admission
+household-accident	common-mechanism	cut-injury
+workplace-accident	common-mechanism	puncture-wound
+penetrating-wound	treated-with	surgical-debridement
+laceration	treated-with	suturing
+puncture-wound	treated-with	wound-care
+facial-laceration	treated-with	cosmetic-procedure
+eye-injury	treated-with	ophthalmology-referral
+hand-injury	treated-with	splinting
+finger-injury	treated-with	imaging
+forearm-injury	treated-with	immobilization
+wrist-injury	treated-with	cast
+scalp-wound	treated-with	antiseptic-cleaning
+head-injury	treated-with	neurosurgery
+neck-injury	treated-with	immobilization
+skin-puncture	treated-with	cleansing
+tetanus-vaccine	reduces	tetanus-risk
+puncture-wound	increases	tetanus-risk
+penetrating-wound	increases	infection-risk
+hand-injury	increases	disability-risk
+facial-laceration	increases	cosmetic-damage-risk
+eye-injury	increases	vision-loss-risk
+scalp-wound	increases	hair-loss-risk
+wrist-injury	increases	carpal-function-loss-risk
+ankle-injury	increases	mobility-impairment
+forearm-injury	increases	grip-strength-loss
+emergency-department	triages	cut-injury
+hospital	admits	patient
+patient	receives	analgesia
+patient	undergoes	wound-care
+discharge	occurs-after	hospitalization
+readmission	occurs-after	discharge
+follow-up	includes	wound-check
+wound-check	monitors	healing
+healing	progresses-with	injury-treatment
+readmission	indicates	poor-healing
+mortality	associated-with	severe-puncture-injury

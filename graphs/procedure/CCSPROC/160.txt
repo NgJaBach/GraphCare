@@ -1,0 +1,132 @@
+dry needling	is a	therapeutic procedure
+dry needling	treats	myofascial pain syndrome
+dry needling	targets	trigger points
+myofascial release	is a	manual therapy
+myofascial release	relieves	muscle tension
+physical therapy	is a	rehabilitation modality
+physical therapy	used for	tendinopathy
+eccentric exercise	is a	loading exercise
+eccentric exercise	treats	tendinopathy
+eccentric exercise	improves	tendon function
+shock wave therapy	is a	physical modality
+shock wave therapy	treats	tendinopathy
+shock wave therapy	used for	calcific tendinopathy
+extracorporeal shock wave therapy	is a	physical modality
+ultrasound therapy	is a	physical modality
+ultrasound therapy	accelerates	tendon healing
+laser therapy	is a	adjunct modality
+laser therapy	used for	muscle pain
+electrical stimulation	is a	therapeutic modality
+electrical stimulation	used for	muscle weakness
+NMES	is a	therapy modality
+NMES	used for	muscle strengthening
+biofeedback	is a	therapeutic technique
+biofeedback	used for	muscle relaxation
+corticosteroid injection	is a	injection
+corticosteroid injection	used for	tendinopathy
+corticosteroid injection	treats	lateral epicondylitis
+PRP injection	is a	injection
+PRP injection	used for	tendinopathy
+PRP injection	treats	tendinopathy
+PRP injection	used for	muscle strain
+platelet-rich plasma injection	is a	injection
+platelet-rich plasma injection	treats	tendinopathy
+platelet-rich plasma injection	used for	muscle tear
+stem cell injection	is a	injection
+stem cell injection	used for	tendon repair
+stem cell injection	treats	tendon degeneration
+autologous blood injection	is a	injection
+autologous blood injection	used for	chronic tendinopathy
+prolotherapy	is a	injection therapy
+prolotherapy	used for	ligament laxity
+botulinum toxin injection	is a	injection
+botulinum toxin injection	used for	muscle spasticity
+botulinum toxin injection	reduces	muscle spasticity
+platelet-rich plasma therapy	is a	therapy
+platelet-rich plasma therapy	used for	tendinopathy
+PRP therapy	treats	tendinopathy
+tenotomy	is a	surgical procedure
+tenotomy	used for	contracture
+tenodesis	is a	surgical procedure
+tendon repair	is a	surgical procedure
+tendon repair	treats	tendon rupture
+tendon transfer	is a	surgical procedure
+tendon transfer	restores	tendon function
+tendon graft	is a	surgical procedure
+muscle release	is a	surgical procedure
+myotomy	is a	surgical procedure
+fasciotomy	is a	surgical procedure
+fasciectomy	is a	surgical procedure
+tendon debridement	is a	surgical procedure
+muscle grafting	is a	surgical procedure
+muscle repair	is a	surgical procedure
+muscle lengthening	is a	surgical procedure
+tenolysis	is a	surgical procedure
+suture repair	is a	surgical procedure
+suture repair	used for	tendon rupture
+open tendon repair	is a	surgical procedure
+arthroscopic tendon repair	is a	surgical procedure
+tendon reconstruction	is a	surgical procedure
+muscle reconstruction	is a	surgical procedure
+fascia release	is a	surgical procedure
+scar tissue release	is a	surgical procedure
+tendon sheath release	is a	surgical procedure
+suture anchor	is a	medical device
+suture anchor repair	used for	tendon rupture
+open repair	is a	surgical procedure
+percutaneous repair	is a	surgical procedure
+endoscopic tendon release	is a	surgical procedure
+endoscopic tendon repair	is a	surgical procedure
+tendon augmentation	is a	surgical procedure
+graft tendon	is a	surgical procedure
+autograft tendon	used for	tendon reconstruction
+allograft tendon	used for	tendon reconstruction
+synthetic tendon	used for	tendon reconstruction
+biologic augmentation	used for	tendon healing
+cell therapy	is a	therapeutic modality
+cell therapy	used for	muscle repair
+bone marrow aspirate concentrate	used for	tendon repair
+adipose-derived stem cell	used for	tendon healing
+bone graft	used for	tendon reconstruction
+growth factor injection	is a	injection
+growth factor injection	used for	tendon healing
+cell-based therapy	is a	treatment
+cell-based therapy	used for	muscle repair
+cell-based therapy	used for	tendon healing
+tendon allograft	is a	graft
+tendon allograft	used for	tendon reconstruction
+implantable scaffold	is a	medical device
+mesenchymal stem cell injection	is a	injection
+mesenchymal stem cell injection	used for	tendon healing
+biologic scaffold	is a	device
+biologic scaffold	used for	tendon healing
+cytokine injection	is a	injection
+cytokine injection	used for	tendon healing
+platelet concentrate	is a	injection
+platelet concentrate	used for	tendon healing
+tendon healing	is a	process
+tendon healing	improves	function
+muscle healing	is a	process
+muscle healing	improves	strength
+tissue transfer	is a	surgical procedure
+tissue transfer	restores	function
+neurolysis	is a	surgical procedure
+nerve decompression	is a	surgical procedure
+neurolysis	used for	pain relief
+nerve decompression	treats	nerve entrapment
+tenodesis	used for	restoring tendon function
+tenodesis	restores	motion
+augmentation repair	is a	surgical procedure
+augmentation repair	improves	tendon stability
+biologic augmentation	is a	surgical technique
+biologic augmentation	used for	enhancing healing
+mechanical loading	is a	rehabilitation method
+mechanical loading	improves	tendon resilience
+resistance training	is a	rehabilitation modality
+resistance training	enhances	muscle strength
+isometric training	is a	rehabilitation modality
+isometric training	improves	muscle endurance
+isotonic training	is a	rehabilitation modality
+isotonic training	improves	muscle strength
+concentric training	is a	rehabilitation modality
+concentric training	improves	muscle power

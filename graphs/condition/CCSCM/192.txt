@@ -1,100 +1,102 @@
-nuchal cord	is a type of	umbilical cord complication
-cord prolapse	is a type of	umbilical cord complication
-true knot	is a type of	umbilical cord complication
-velamentous cord insertion	is a type of	umbilical cord complication
-marginal cord insertion	is a type of	umbilical cord complication
-short cord	is a type of	umbilical cord complication
-long cord	is a type of	umbilical cord complication
+umbilical cord complication	is a	obstetric complication
+umbilical cord complication	increases risk of	fetal distress
+umbilical cord complication	increases risk of	fetal hypoxia
+umbilical cord complication	increases risk of	stillbirth
+umbilical cord complication	associated with	preterm birth
+nuchal cord	is a	cord complication
 nuchal cord	increases risk of	fetal distress
-cord prolapse	increases risk of	neonatal hypoxia
-cord prolapse	increases risk of	emergency delivery
-true knot	increases risk of	fetal compromise
-velamentous cord insertion	increases risk of	vasa previa
-velamentous cord insertion	increases risk of	fetal hemorrhage
-marginal cord insertion	increases risk of	placental trauma
-short cord	increases risk of	cord entanglement
-long cord	increases risk of	cord entanglement
-nuchal cord	associated with	cesarean delivery
-cord prolapse	diagnosed by	physical examination
-velamentous cord insertion	diagnosed by	ultrasound
-marginal cord insertion	diagnosed by	ultrasound
-true knot	diagnosed by	ultrasound
-short cord	diagnosed by	ultrasound
-long cord	diagnosed by	ultrasound
-ultrasound	detects	velamentous cord insertion
-ultrasound	detects	marginal cord insertion
-ultrasound	detects	nuchal cord
-fetal heart rate tracing	indicates	fetal distress
-cardiotocography	monitors	fetal well-being
-umbilical cord blood gas analysis	used for	neonatal prognosis
-Doppler ultrasound	evaluates	placental perfusion
-vasa previa	is associated with	velamentous cord insertion
-fetal death	linked to	velamentous cord insertion
-cord prolapse	may cause	emergency cesarean delivery
-cord complications	contribute to	preterm birth
-cord complication	associated with	stillbirth
-emergency delivery	performed for	cord prolapse
-cesarean delivery	performed for	cord prolapse
-neonatal intensive care unit admission	occurs with	cord complication
-neonatal distress	occurs with	cord complication
-umbilical blood flow	supports	fetal oxygenation
-umbilical artery Doppler	evaluates	placental perfusion
-placental insufficiency	associated with	velamentous cord insertion
-fetal growth restriction	associated with	cord complication
-preterm birth	associated with	cord complication
-preeclampsia	associated with	cord complication
-parity	associated with	umbilical cord complication
-maternal smoking	associated with	placental cord insertion abnormality
-advanced maternal age	associated with	umbilical cord complication
-twin pregnancy	increases risk of	cord prolapse
-polyhydramnios	increases risk of	cord prolapse
-breech presentation	associated with	cord prolapse
-antenatal ultrasound	detects	cord insertion abnormalities
-prenatal ultrasound	detects	velamentous cord insertion
-fetal distress	triggers	emergency delivery
-fetal distress	monitored by	fetal heart rate tracing
-variable decelerations	indicate	cord compression
-early decelerations	indicate	head compression
-late decelerations	indicate	placenta insufficiency
-cord compression	causes	fetal hypoxia
-fetal hypoxia	leads to	neonatal morbidity
-emergency cesarean delivery	reduces	fetal mortality due to cord issues
-delivery planning	informs	mode of delivery
-mode of delivery	chosen for	cord complication severity
-neonatal outcome	predicted by	cord complication
-cord insertion abnormality	predicts	adverse outcome
-cord planning	improves	neonatal outcome
-fetal monitoring	detects	distress signals
-cord management	aims at	preventing hypoxia
-cord length	influences	entanglement risk
-cord entanglement	occurs with	long cord
-postnatal care	tailored for	cord complication
-perinatal mortality	associated with	cord complication
-placental pathology	shows	cord insertion abnormality
-fetal ultrasound	assesses	cord insertion
-obstetric surveillance	improves	neonatal outcome
-antenatal surveillance	identifies	cord abnormalities
-fetal growth	affected by	cord complication
-neonatal metabolic status	affected by	cord complication
-cord blood gas	reflects	neonatal oxygenation
-umbilical cord integrity	ensures	placental circulation
-vasa previa	presents with	vaginal bleeding at rupture of membranes
-velamentous cord insertion	predisposes to	placental bleeding
-placental bleeding	risks	fetal compromise
-cord complication	influences	obstetric outcome
-cord complications	include	nuchal cord
-cord insertion abnormality	commonly detected by	ultrasound
-cord prolapse	occurs in	labor
-incidence	varies with	gestational age
-antenatal surveillance	reduces	adverse neonatal outcomes
-delivery timing	determined by	cord complication severity
-cord blood gas analysis	used for	assessing neonatal acidosis
-fetal distress	common cause of	emergency delivery
-neonatal morbidity	associated with	cord complication
-birth asphyxia	associated with	cord complication
-perinatal outcome	influenced by	cord complication
-cord complication	complicates	labor
-delivery method	chosen based on	cord complication
-cord complication	alerts	obstetric team
-cord complication	demands	rapid delivery
-cord anomaly	corrected by	delivery planning
+nuchal cord	detected by	ultrasound
+cord prolapse	is an	obstetric emergency
+cord prolapse	leads to	fetal hypoxia
+cord prolapse	requires	emergency cesarean section
+cord prolapse	occurs with	malpresentation
+cord prolapse	associated with	ruptured membranes
+true knot	is a	cord complication
+true knot	causes	fetal distress
+true knot	associated with	fetal hypoxia
+velamentous insertion	is a	cord insertion abnormality
+velamentous insertion	increases risk of	vasa previa
+velamentous insertion	detected by	antenatal ultrasound
+velamentous insertion	associated with	fetal exsanguination
+marginal insertion	is a	cord insertion abnormality
+marginal insertion	detected by	ultrasound
+marginal insertion	associated with	placental abruption
+short cord	is a	cord length abnormality
+short cord	associated with	restricted fetal movement
+short cord	associated with	fetal distress
+long cord	is a	cord length abnormality
+long cord	associated with	cord entanglement
+long cord	detected by	ultrasound
+single umbilical artery	is a	congenital anomaly
+single umbilical artery	associated with	fetal anomalies
+single umbilical artery	detected by	ultrasound
+vasa previa	results in	fetal exsanguination
+vasa previa	associated with	velamentous insertion
+vasa previa	detected by	prenatal ultrasound
+antenatal ultrasound	detects	velamentous insertion
+antenatal ultrasound	detects	vasa previa
+Doppler ultrasound	evaluates	umbilical artery velocity
+umbilical artery velocity	indicates	fetal perfusion
+fetal distress	leads to	neonatal resuscitation
+fetal distress	associated with	acidosis
+fetal distress	predicts	NICU admission
+acidosis	results from	fetal hypoxia
+stillbirth	associated with	cord complication
+perinatal mortality	higher with	cord complication
+neonatal death	increased by	cord prolapse
+fetal heart rate abnormality	observed in	cord complications
+cord compression	causes	fetal heart rate decelerations
+cord compression	detected by	fetal monitoring
+ruptured membranes	associated with	cord prolapse
+emergency delivery	indicated for	cord prolapse
+emergency cesarean section	reduces	fetal mortality
+cord entanglement	increases risk of	fetal distress
+cord entanglement	associated with	long cord
+cord entanglement	detected by	ultrasound
+variable decelerations	caused by	cord compression
+fetal growth restriction	associated with	velamentous insertion
+fetal growth restriction	associated with	single umbilical artery
+placental abnormalities	coexists with	cord anomalies
+delivery planning	considers	cord complication
+delivery method	selected for	cord complication
+cesarean delivery	indicated for	cord prolapse
+cesarean delivery	reduces	stillbirth
+NICU admission	associated with	neonatal distress
+nonreassuring fetal status	observed with	cord complications
+fetal monitoring	detects	fetal distress
+fetal monitoring	shows	decelerations
+nonstress test	part of	fetal surveillance
+prenatal ultrasound	evaluates	cord insertion
+Doppler study	monitors	blood flow
+blood flow	supports	fetal oxygenation
+cord insertion	abnormality	velamentous insertion
+cord insertion	abnormality	marginal insertion
+placental transfusion	affected by	cord anomalies
+birth outcome	worsened by	cord complications
+perinatal outcome	influenced by	cord anomalies
+antenatal screening	includes	cord evaluation
+cord evaluation	improves	perinatal outcome
+neonatal outcome	worsened by	cord complication
+maternal observation	monitors	fetal status
+labor progress	affected by	cord complication
+fetal reserve	reduced by	cord complication
+delivery timing	influenced by	cord anomalies
+twin pregnancy	increases risk of	cord complications
+breech presentation	increases risk of	cord prolapse
+postpartum complication	associated with	cesarean delivery for cord issues
+education	improves	management of cord complications
+clinical guidelines	recommend	antenatal ultrasound for cord anomalies
+training program	improves	cord complication management
+emergency obstetric team	prepared for	cord complications
+clinical decision support	aids	cord complication management
+risk stratification	targets	cord anomalies
+placental cord insertion	abnormality	velamentous insertion
+fetal heartbeat pattern	altered by	cord complications
+labour analgesia	safe in	cord complications
+analgesia	during	labor
+delivery team	monitors	cord complications
+fetal monitoring	optimizes	delivery timing
+perinatal surveillance	includes	cord evaluation
+cord anomalies	lead to	adverse neonatal outcome
+cord anomalies	trigger	delivery planning
+cord complication	leads to	adverse neonatal outcome

@@ -1,100 +1,121 @@
-transport accident	is a	external cause
-external cause	coded as	e-code
-pedestrian	involved in	transport accident
-cyclist	involved in	transport accident
-aircraft	involved in	transport accident
-train	involved in	transport accident
-ship	involved in	transport accident
-boat	involved in	transport accident
-urban area	site of	transport accident
-rural area	site of	transport accident
-injury	results from	transport accident
-injury	type	fracture
-injury	type	concussion
-injury	type	contusion
-injury	type	burn
-injury	severity	mild
-injury	severity	severe
-injury	mechanism	blunt force
-injury	mechanism	penetrating trauma
-injury	mechanism	crush injury
-injury	requires	hospitalization
-hospitalization	leads to	discharge
-hospitalization	duration	short term
-mortality	associated with	transport accident
-mortality	increases with	age
-mortality	associated with	head injury
-head injury	severity	traumatic brain injury
-traumatic brain injury	results in	coma
-coma	duration	prolonged
-injury	leads to	surgery
-surgery	type	orthopedic surgery
-surgery	indication	fracture repair
-fracture	location	femoral fracture
-fracture	location	tibial fracture
-fracture	healing	callus formation
-imaging	used for	diagnosis
-X-ray	used for	fracture detection
-CT scan	used for	fracture evaluation
-MRI	used for	soft tissue injury
-emergency department	receives	transport accident
-ambulance	transports	patient to hospital
-readmission	risk factor	inadequate discharge planning
-protective gear	reduces	injury severity
-helmet	reduces	head injury risk
-non-motorized transport	includes	bicycle crash
-bicycle crash	results in	injury
-cyclist	sustains	knee injury
-injury	leads to	amputation
-amputation	requires	prosthesis
-prosthesis	usage	rehabilitation
-rehabilitation	aims for	functional recovery
-transport accident	location	intersection
-intersection	hazard	traffic signal failure
-traffic signal	state	malfunction
-non-motorized transport accident	includes	pedestrian crash
-pedestrian crash	involves	cyclist
-injury	results in	disability
-disability	reduces	quality of life
-transport accident	increases	emergency department visits
-emergency department visits	contribute to	cost
-cost	associated with	hospitalization
-home discharge	after hospitalization	occurs
-discharge planning	improves	readmission risk
-readmission	risk factor	early discharge
-trauma center	specialization	acute care
-trauma center	outcome	improved survival
-ICU admission	required for	severe trauma
-ICU stay	length	variable
-nursing care	essential	recovery
-pain management	reduces	agitation
-analgesia	route	intravenous
-antibiotics	used for	open fracture
-open fracture	risk	infection
-infection	leads to	sepsis
-sepsis	increases	mortality
-blood loss	leads to	hemorrhagic shock
-hemorrhagic shock	requires	transfusion
-transfusion	carries	infection risk
-coagulopathy	complicates	bleeding control
-radiology department	performs	imaging
-coding	supports	billing
-medical coder	assigns	e-code
-health record	stores	transport accident data
-insurance	covers	hospitalization
-policy	impact	patient access to care
-care continuity	improves	outcomes
-follow-up visit	reduces	readmission risk
-outpatient care	reduces	hospital stay
-occupational therapy	supports	functional recovery
-physical therapy	improves	mobility
-nutrition	supports	wound healing
-sleep quality	influences	recovery rate
-injury	predisposes to	chronic pain
-chronic pain	reduces	quality of life
-rehabilitation facility	location	post-acute care
-post-acute care	includes	home health services
-home health services	support	chronic disease management
-chronic disease	worsens	trauma outcomes
-trauma protocol	ensures	rapid care
-care pathway	standardizes	treatment
+external cause codes	classify as	transport injuries
+external cause codes	code for	aircraft crash
+external cause codes	code for	train accident
+external cause codes	code for	watercraft collision
+external cause codes	code for	shipwreck
+external cause codes	code for	bicycle crash
+external cause codes	code for	non-motor-vehicle transport incident
+external cause codes	denote	aircraft crash
+external cause codes	denote	train accident
+external cause codes	denote	watercraft collision
+external cause codes	denote	shipwreck
+external cause codes	denote	bicycle crash
+external cause codes	denote	non-motor-vehicle transport incident
+external cause codes	associate with	patient demographics
+external cause codes	relate to	mechanism of injury
+external cause codes	contribute to	injury surveillance
+external cause codes	support	epidemiologic study
+external cause codes	used for	hospital coding
+external cause codes	used in	medical billing
+external cause codes	support	risk assessment
+E-codes	classify as	transport injuries
+E-codes	map to	aircraft crash
+E-codes	map to	train accident
+E-codes	map to	watercraft collision
+E-codes	map to	shipwreck
+E-codes	map to	bicycle crash
+E-codes	map to	non-motor-vehicle transport incident
+E-codes	identify	event type
+E-codes	record	date of incident
+E-codes	record	location of incident
+aircraft crash	cause	multiple injuries
+aircraft crash	result in	head injury
+aircraft crash	result in	spinal injury
+aircraft crash	lead to	ICU admission
+aircraft crash	lead to	hospital admission
+train accident	cause	polytrauma
+train accident	result in	limb fracture
+train accident	result in	chest trauma
+train accident	result in	traumatic brain injury
+watercraft collision	cause	blunt trauma
+watercraft collision	result in	spinal injury
+watercraft collision	lead to	intracranial injury
+watercraft collision	require	surgical intervention
+shipwreck	result in	respiratory failure
+shipwreck	cause	drowning
+shipwreck	lead to	long-term disability
+bicycle crash	result in	limb fracture
+bicycle crash	cause	head injury
+bicycle crash	require	orthopedic surgery
+non-motor-vehicle transport incident	result in	soft tissue injury
+non-motor-vehicle transport incident	lead to	hospitalization
+non-motor-vehicle transport incident	associated with	alcohol involvement
+non-motor-vehicle transport incident	linked to	weather conditions
+rail transport incident	involve	passenger injury
+rail transport incident	contribute to	emergency department visits
+rail transport incident	documented in	trauma registry
+aircraft crash	documented in	disaster registry
+train accident	documented in	national dataset
+watercraft collision	reported in	maritime injury registry
+shipwreck	reported in	coastal disaster reports
+bicycle crash	documented in	injury surveillance system
+aircraft crash	associated with	turbulence
+train accident	associated with	track fault
+watercraft collision	associated with	hull breach
+shipwreck	associated with	sinking
+bicycle crash	associated with	road condition
+non-motor-vehicle transport incident	associated with	weather
+E-codes	support	hospital coding accuracy
+external cause codes	support	patient safety programs
+E-codes aid	in	public health surveillance
+aircraft crash	influence	resource utilization
+train accident	influence	clinical outcomes
+watercraft collision	influence	length of stay
+shipwreck	influence	readmission risk
+bicycle crash	influence	disability-adjusted life years
+non-motor-vehicle transport incident	influence	mortality rate
+rail transport incident	increase	ambulance demand
+aircraft crash	increase	trauma center admissions
+train accident	increase	polytrauma rate
+watercraft collision	increase	ICU admissions
+shipwreck	increase	respiratory complications
+bicycle crash	increase	hospitalization duration
+non-motor-vehicle transport incident	increase	need for rehab
+E-codes	support	clinical documentation improvement
+external cause codes	support	adverse event tracing
+E-codes enable	cross-system linkage
+aircraft crash	drive	triage priority
+train accident	drive	emergency transport decision
+watercraft collision	drive	bystander notification
+shipwreck	drive	disaster response planning
+bicycle crash	drive	helmet use policy
+non-motor-vehicle transport incident	drive	safety campaigns
+rail transport incident	drive	railway safety assessment
+aircraft crash	drive	aviation safety research
+train accident	drive	railroad safety management
+watercraft collision	drive	port authority alert
+shipwreck	drive	search and rescue protocol
+bicycle crash	drive	urban design change
+non-motor-vehicle transport incident	drive	injury prevention program
+E-codes	drive	quality improvement in coding
+external cause codes	drive	standardization in reporting
+E-codes	drive	comparative effectiveness research
+aircraft crash	drive	aviation incident database updates
+E-codes	enhance	data quality in coding
+external cause codes	support	hospital quality metrics
+E-codes enable	cross-institution data sharing
+aircraft crash	prompt	emergency response training
+train accident	prompt	disaster preparedness planning
+watercraft collision	prompt	port security protocol
+shipwreck	prompt	maritime rescue planning
+bicycle crash	prompt	helmet safety campaigns
+non-motor-vehicle transport incident	prompt	road safety audit
+rail transport incident	prompt	infrastructure improvement
+aircraft crash	prompt	weather adaptive protocols
+train accident	prompt	driver safety program
+watercraft collision	prompt	waterway surveillance
+shipwreck	prompt	search and rescue capacity
+bicycle crash	prompt	urban mobility policy
+non-motor-vehicle transport incident	prompt	safety education
+E-codes	support	epidemiologic trend analysis
+external cause codes	support	injury prevention funding

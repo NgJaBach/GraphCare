@@ -1,100 +1,100 @@
-cancer of thyroid	is a	malignant neoplasm of thyroid
-cancer of thyroid	is a	thyroid malignancy
-papillary thyroid carcinoma	is a	cancer of thyroid
-follicular thyroid carcinoma	is a	cancer of thyroid
-medullary thyroid carcinoma	is a	cancer of thyroid
-anaplastic thyroid carcinoma	is a	cancer of thyroid
-cancer of thyroid	has histology	papillary thyroid carcinoma
-cancer of thyroid	has histology	follicular thyroid carcinoma
-cancer of thyroid	has histology	medullary thyroid carcinoma
-cancer of thyroid	has histology	anaplastic thyroid carcinoma
-cancer of thyroid	metastasizes to	lymph nodes
-cancer of thyroid	metastasizes to	lungs
-cancer of thyroid	metastasizes to	bones
-cancer of thyroid	metastasizes to	liver
-cancer of thyroid	metastasizes to	brain
-papillary thyroid carcinoma	metastasizes to	cervical lymph nodes
+thyroid cancer	is a	malignant tumor of thyroid
+thyroid cancer	is a	thyroid malignancy
+papillary thyroid carcinoma	is a subtype of	thyroid cancer
+follicular thyroid carcinoma	is a subtype of	thyroid cancer
+medullary thyroid carcinoma	is a subtype of	thyroid cancer
+anaplastic thyroid carcinoma	is a subtype of	thyroid cancer
+papillary thyroid carcinoma	has	papillary morphology
+medullary thyroid carcinoma	has	amyloid stroma
+thyroid cancer	metastasizes to	cervical lymph nodes
+thyroid cancer	metastasizes to	lungs
+thyroid cancer	metastasizes to	bones
+papillary thyroid carcinoma	metastasizes to	lymph nodes
 follicular thyroid carcinoma	metastasizes to	bone
-medullary thyroid carcinoma	metastasizes to	liver
 anaplastic thyroid carcinoma	metastasizes to	brain
-cancer of thyroid	treated with	thyroidectomy
-cancer of thyroid	treated with	radioactive iodine therapy
-cancer of thyroid	treated with	external beam radiotherapy
-cancer of thyroid	treated with	chemotherapy
-cancer of thyroid	treated with	targeted therapy
-papillary thyroid carcinoma	treated with	thyroidectomy
-follicular thyroid carcinoma	treated with	thyroidectomy
-medullary thyroid carcinoma	treated with	thyroidectomy
-anaplastic thyroid carcinoma	treated with	palliative care
-medullary thyroid carcinoma	secretes	calcitonin
-papillary thyroid carcinoma	secretes	thyroglobulin
-follicular thyroid carcinoma	secretes	thyroglobulin
-cancer of thyroid	is associated with	ionizing radiation
-cancer of thyroid	is associated with	family history
-ionizing radiation	is a risk factor for	cancer of thyroid
-family history	is a risk factor for	cancer of thyroid
-RET proto-oncogene mutation	is associated with	medullary thyroid carcinoma
-RET proto-oncogene mutation	is associated with	MEN2 syndrome
-BRAF mutation	is associated with	papillary thyroid carcinoma
-RAS mutation	is associated with	follicular thyroid carcinoma
-PTEN mutation	is associated with	cancer of thyroid
-cancer of thyroid	diagnosed by	fine-needle aspiration
-cancer of thyroid	diagnosed by	ultrasound
-cancer of thyroid	diagnosed by	CT scan
-cancer of thyroid	diagnosed by	MRI
-cancer of thyroid	diagnosed by	biopsy
-cancer of thyroid	confirmed by	histopathology
-cancer of thyroid	has biomarker	thyroglobulin
-medullary thyroid carcinoma	has biomarker	calcitonin
-papillary thyroid carcinoma	has biomarker	thyroglobulin
-follicular thyroid carcinoma	has biomarker	thyroglobulin
-cancer of thyroid	prognosis depends on	stage
-cancer of thyroid	prognosis depends on	age
-papillary thyroid carcinoma	prognosis depends on	stage
-follicular thyroid carcinoma	prognosis depends on	stage
-medullary thyroid carcinoma	prognosis depends on	stage
-anaplastic thyroid carcinoma	prognosis depends on	stage
-cancer of thyroid	recurrence after	treatment
-cancer of thyroid	recurrence	after surgery
-papillary thyroid carcinoma	recurrence after	treatment
-follicular thyroid carcinoma	recurrence after	treatment
-medullary thyroid carcinoma	recurrence after	treatment
-anaplastic thyroid carcinoma	recurrence after	treatment
-cancer of thyroid	risk of	second primary cancer
-differentiated thyroid cancer	risk of	distant metastasis
-cancer of thyroid	prognosis depends on	stage
-surgery	reduces	cancer of thyroid mass
-neck dissection	reduces	lymph node metastasis
-radioactive iodine therapy	requires	TSH stimulation
-surgical removal	reduces	tumor burden
-external beam radiotherapy	used for	palliation
-margin status	indicates	prognosis
-extrathyroidal extension	worsens	prognosis
-lymph node involvement	worsens	prognosis
-cervical lymph node metastasis	indicates	advanced disease
-distant metastasis	indicates	stage IV disease
+medullary thyroid carcinoma	metastasizes to	liver
+thyroid cancer	presents with	neck mass
+thyroid cancer	presents with	hoarseness
+thyroid cancer	presents with	dysphagia
+thyroid cancer	presents with	cough
 calcitonin	is a biomarker for	medullary thyroid carcinoma
-thyroglobulin	is a biomarker for	differentiated thyroid cancer
-differentiated thyroid cancer	responds to	iodine therapy
-papillary thyroid carcinoma	responds to	iodine therapy
-follicular thyroid carcinoma	responds to	radioiodine therapy
-medullary thyroid carcinoma	does not respond well to	radioiodine therapy
-anaplastic thyroid carcinoma	responds to	immunotherapy
-cancer of thyroid	involves	cervical lymph nodes
-cancer of thyroid	presents as	neck mass
-neck mass	presents as	symptom of cancer of thyroid
-papillary thyroid carcinoma	presents as	neck mass
-anaplastic thyroid carcinoma	presents with	rapidly enlarging neck mass
-cancer of thyroid	presents with	hoarseness
-cancer of thyroid	presents with	dysphagia
-cancer of thyroid	presents with	throat pain
-radiation exposure	increases risk of	cancer of thyroid
-Hashimoto thyroiditis	associated with	cancer of thyroid
-BRAF mutation	seen in	papillary thyroid carcinoma
-RAS mutation	seen in	follicular thyroid carcinoma
-RET mutation	seen in	medullary thyroid carcinoma
-RET proto-oncogene mutation	present in	MEN2 syndrome
-MEN2 syndrome	includes	medullary thyroid carcinoma
-p53 mutation	seen in	anaplastic thyroid carcinoma
-undifferentiated thyroid carcinoma	classified as	anaplastic thyroid carcinoma
-radioiodine refractory cancer of thyroid	requires	alternative therapy
+CEA	is a biomarker for	medullary thyroid carcinoma
+thyroglobulin	is a tumor marker for	differentiated thyroid carcinoma
+BRAF V600E mutation	is associated with	papillary thyroid carcinoma
+RET proto-oncogene mutation	is associated with	medullary thyroid carcinoma
+RAS mutation	is associated with	follicular thyroid carcinoma
+RET mutation	is associated with	MEN2 syndrome
+biopsy	is a diagnostic method for	thyroid cancer
+ultrasound	is a diagnostic tool for	thyroid cancer
+fine-needle aspiration	is a diagnostic method for	thyroid cancer
+CT scan	is a diagnostic imaging modality for	thyroid cancer
+PET-CT	is a diagnostic imaging modality for	thyroid cancer
+external beam radiotherapy	is used for	advanced thyroid cancer
+radioactive iodine therapy	is used for	differentiated thyroid carcinoma
+thyroidectomy	is a surgical treatment for	thyroid cancer
+neck dissection	is a surgical treatment for	thyroid cancer
+levothyroxine	is given after	thyroidectomy
+levothyroxine suppression therapy	is used after	thyroidectomy
+lymph node dissection	reduces	recurrence risk
+differentiated thyroid cancer	has	favorable prognosis
+anaplastic thyroid carcinoma	has	poor prognosis
+papillary thyroid carcinoma	has prognosis	favorable
+radiation exposure	is a risk factor for	thyroid cancer
+iodine deficiency	is a risk factor for	thyroid cancer
+family history	is a risk factor for	thyroid cancer
+female sex	is a risk factor for	thyroid cancer
+calcitonin measurement	is a diagnostic test for	medullary thyroid carcinoma
+serum calcitonin	is diagnostic test for	medullary thyroid carcinoma
+serum thyroglobulin	is diagnostic tool for	differentiated thyroid carcinoma
+BRAF mutation	is a prognostic marker for	papillary thyroid carcinoma
+RAS mutation	is a prognostic marker for	follicular thyroid carcinoma
+RET mutation	is a prognostic marker for	medullary thyroid carcinoma
+biopsy result	is a determinant of	thyroid cancer treatment
+histology	confirms	thyroid cancer
+capsular invasion	is a histologic feature of	papillary thyroid carcinoma
+vascular invasion	is a histologic feature of	follicular thyroid carcinoma
+tumor size	is a prognostic factor for	thyroid cancer
+extrathyroidal extension	is a prognostic factor for	thyroid cancer
+lymph node metastasis	is a poor prognostic factor for	thyroid cancer
+tumor stage	influences	prognosis
+age at diagnosis	is a prognostic factor for	thyroid cancer outcomes
+gender	is a prognostic factor for	thyroid cancer outcomes
+smoking	is risk factor for	thyroid cancer
+radiation therapy	is used for	thyroid cancer
+surgery	is a treatment for	thyroid cancer
+targeted therapy	is used for	advanced thyroid cancer
+chemotherapy	is used for	thyroid cancer
+postoperative care	includes	levothyroxine
+histopathology	confirms	thyroid cancer
+multinodular goiter	is associated with	thyroid cancer risk
+postoperative complication	includes	hypocalcemia
+hypocalcemia	is a complication of	thyroidectomy
+recurrent laryngeal nerve injury	is a complication of	thyroidectomy
+bone metastasis	is a site of	thyroid cancer metastasis
+lung metastasis	is a site of	thyroid cancer metastasis
+brain metastasis	is a site of	thyroid cancer metastasis
+disease recurrence	is common after	thyroid cancer treatment
+postoperative radiotherapy	is used after	thyroid cancer surgery
+recurrence risk	is associated with	lymph node metastasis
+levothyroxine therapy	aims at	TSH suppression
+pathology report	guides	treatment planning
+neck scar	results from	thyroidectomy
+laryngeal nerve palsy	is a complication of	thyroidectomy
+long-term survival	is a measure of	thyroid cancer outcome
+imaging surveillance	monitors	thyroid cancer recurrence
+thyroglobulin testing	is used for	surveillance
+ultrasound surveillance	is used for	recurrence detection
+molecular profiling	informs	thyroid cancer treatment
+prognostic model	predicts	thyroid cancer mortality
+mortality	is an outcome of	thyroid cancer
+readmission	is an outcome after	thyroid cancer treatment
+length of stay	is a factor in	thyroid cancer hospitalization
+reoperation	is required for	thyroid cancer
+postoperative imaging	is performed after	thyroid cancer surgery
+postoperative imaging	includes	ultrasound
+surveillance program	includes	thyroglobulin testing
+thyroglobulin testing	monitors	residual disease
+ultrasound surveillance	monitors	recurrence
+recurrence	triggers	surveillance imaging
+hereditary thyroid cancer	is a subset of	thyroid cancer
+lifetime risk	is associated with	thyroid cancer

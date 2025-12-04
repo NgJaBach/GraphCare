@@ -1,0 +1,100 @@
+other respiratory therapy	is a	medical intervention
+other respiratory therapy	is a	airway therapy
+other respiratory therapy	includes	oxygen therapy
+oxygen therapy	is a type of	respiratory therapy
+oxygen therapy	improves	oxygenation
+oxygen therapy	indicated for	hypoxemia
+humidification	used for	airway moisture
+nebulization	is a	drug delivery method
+nebulization	delivers	bronchodilator
+nebulization	used with	saline solution
+inhalation therapy	is a	respiratory therapy
+inhalation therapy	delivers	inhaled medication
+incentive spirometry	used for	atelectasis prevention
+incentive spirometry	improves	lung expansion
+chest physiotherapy	includes	chest percussion
+airway clearance therapy	includes	postural drainage
+airway clearance therapy	includes	chest percussion
+postural drainage	used for	mucus clearance
+chest percussion	part of	chest physiotherapy
+high-frequency chest wall oscillation	is a	airway clearance device
+vest therapy	is a	airway clearance device
+high-flow nasal cannula	is a	respiratory support modality
+CPAP	provides	positive airway pressure
+BiPAP	provides	positive airway pressure
+noninvasive ventilation	is a	respiratory support modality
+noninvasive ventilation	reduces	intubation rate
+noninvasive ventilation	improves	gas exchange
+oxygen therapy	reduces	work of breathing
+oxygen therapy	improves	oxygen delivery
+pulmonary rehabilitation	improves	functional capacity
+pulmonary rehabilitation	indicated for	COPD
+pulmonary rehabilitation	reduces	hospital admissions
+inspiratory muscle training	strengthens	respiratory muscles
+inspiratory muscle training	indicated for	dyspnea
+nebulized saline	promotes	mucociliary clearance
+nebulized saline	reduces	mucus viscosity
+mucolytic therapy	reduces	mucus viscosity
+aerosol therapy	is a	respiratory therapy
+aerosol therapy	delivers	inhaled medication
+aerosol therapy	used for	bronchodilator delivery
+airway suctioning	clears	secretions
+airway suctioning	used in	airway management
+nasal cannula	delivers	oxygen
+oxygen mask	delivers	oxygen
+humidified oxygen	delivered by	humidification
+humidified oxygen	is a	oxygen delivery method
+airway clearance device	includes	flutter valve
+flutter valve	is a	airway clearance device
+acapella device	is a	airway clearance device
+pursed-lip breathing	is a	breathing technique
+breathing exercises	improve	ventilation
+inspiratory muscle training	improves	endurance
+inspiratory muscle training	reduces	dyspnea
+prone positioning	is a	respiratory therapy technique
+prone positioning	improves	oxygenation
+prone positioning	used for	ARDS
+bronchodilator therapy	improves	airway function
+bronchodilator therapy	indicated for	airway hyperreactivity
+steroid therapy	reduces	airway inflammation
+anticholinergic therapy	reduces	mucus production
+antibiotic therapy	treats	pneumonia
+antibiotic therapy	reduces	infectious burden
+oxygen therapy	affects	arterial oxygen content
+bronchodilator therapy	reduces	airway resistance
+mucus clearance therapy	improves	mucus clearance
+airway clearance therapy	reduces	atelectasis risk
+nebulization therapy	used for	bronchospasm relief
+nebulization therapy	delivers	saline solution
+cough assist devices	aids	mucus clearance
+cough assist devices	used for	airway clearance
+nasal cannula	delivers	oxygen
+oxygen mask	provides	oxygen
+nebulized bronchodilator therapy	delivers	bronchodilator
+airway clearance therapy	reduces	respiratory infection risk
+post-extubation respiratory therapy	reduces	pneumonia risk
+lung expansion therapy	prevents	alveolar collapse
+oxygen therapy	prevents	hypoxemia progression
+incentive spirometry	prevents	atelectasis
+continuous positive airway pressure	provides	airway support
+nasal CPAP	provides	airway support
+BiPAP therapy	provides	airway support
+noninvasive ventilation	provides	airway support
+nebulized bronchodilator therapy	delivers	bronchodilator
+airway clearance	improves	secretion clearance
+postural drainage	reduces	alveolar blockage
+humidified therapy	improves	mucosal hydration
+oxygen delivery	depends on	delivery method
+oxygen delivery	affects	arterial oxygen content
+pulmonary rehabilitation	reduces	readmission
+oxygen therapy	improves	oxygenation in hypoxemia
+high-flow nasal cannula	improves	oxygenation
+chest physiotherapy	reduces	mucus plugging
+incentive spirometry	reduces	pneumonia risk
+chest physiotherapy	supports	secretion clearance
+post-operative respiratory therapy	reduces	pneumonia
+pulmonary rehabilitation	reduces	pneumonia risk
+oxygen toxicity	is a risk of	oxygen therapy
+oxygen therapy	requires	monitoring
+pulmonary rehabilitation	requires	supervision
+bronchodilator therapy	interacts with	corticosteroids

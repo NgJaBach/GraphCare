@@ -1,0 +1,100 @@
+thyroid function test	is a	diagnostic endocrine procedure
+tsh test	is a	thyroid function test
+free t4 test	is a	thyroid function test
+free t3 test	is a	thyroid function test
+anti-tpo antibody test	is a	thyroid autoimmune marker
+thyroglobulin antibody test	is a	thyroid autoimmune marker
+calcitonin test	is a	endocrine marker
+parathyroid hormone test	is a	calcium homeostasis test
+calcium level test	is a	electrolyte test
+pth assay	is a	calcium homeostasis marker
+24-hour urinary calcium	is a	calcium metabolism test
+cosyntropin stimulation test	is a	acth axis test
+acth stimulation test	is a	pituitary-adrenal axis test
+dexamethasone suppression test	is a	cortisol regulation test
+cortisol test	is a	stress hormone assessment
+24-hour urinary free cortisol	is a	cortisol assessment
+insulin tolerance test	is a	gh axis test
+gh stimulation test	is a	growth hormone assessment
+igf-1 test	is a	growth hormone axis marker
+prolactin test	is a	pituitary function test
+lh test	is a	gonadal axis test
+fsh test	is a	gonadal axis test
+testosterone test	is a	androgen assessment
+estradiol test	is a	female hormone assessment
+progesterone test	is a	female hormone assessment
+amh test	is a	ovarian reserve marker
+17-hydroxyprogesterone test	is a	adrenal function test
+dhea-s test	is a	adrenal axis marker
+renin activity test	is a	renin-angiotensin axis test
+plasma aldosterone concentration test	is a	mineralocorticoid axis marker
+renin-angiotensin ratio	is a	aldosterone axis marker
+aldosterone level test	is a	mineralocorticoid axis marker
+parathyroid scan	is a	parathyroid localization test
+sestamibi scan	is a	parathyroid localization test
+neck ultrasound	is a	thyroid imaging procedure
+thyroid ultrasound	is a	thyroid imaging procedure
+fine-needle aspiration biopsy	is a	diagnostic biopsy procedure
+fnab	is a	diagnostic biopsy procedure
+iodine-131 uptake test	is a	thyroid imaging test
+radioactive iodine uptake	is a	thyroid function assessment
+thyroid scintigraphy	is a	thyroid imaging test
+ultrasound-guided biopsy	is a	diagnostic biopsy procedure
+mri pituitary	is a	pituitary imaging procedure
+ct pituitary	is a	pituitary imaging procedure
+mri adrenal	is a	adrenal imaging procedure
+ct adrenal	is a	adrenal imaging procedure
+pancreatic mri	is a	pancreatic lesion imaging
+pancreatic ct	is a	pancreatic lesion imaging
+eus	is a	pancreatic lesion evaluation
+eus-fna	is a	pancreatic lesion biopsy
+mri pancreas	is a	pancreatic lesion imaging
+pet-ct	is a	endocrine tumor imaging
+bone mineral density test	is a	osteoporosis assessment
+dexa scan	is a	bone density assessment
+bone turnover marker test	is a	bone metabolism test
+metanephrine test	is a	pheochromocytoma evaluation
+normetanephrine test	is a	pheochromocytoma evaluation
+plasma metanephrine test	is a	pheochromocytoma marker
+urine metanephrine test	is a	pheochromocytoma evaluation
+urine catecholamine test	is a	pheochromocytoma evaluation
+24-hour urinary metanephrines	is a	pheochromocytoma marker
+glucose tolerance test	is a	diabetes diagnostic test
+oral glucose tolerance test	is a	diabetes diagnostic test
+fasting plasma glucose test	is a	diabetes screening test
+hba1c test	is a	diabetes biomarker
+c-peptide test	is a	insulin secretion marker
+insulin autoantibody test	is a	autoimmune diabetes marker
+diabetes mellitus	is a	metabolic disease
+diabetes mellitus	predicts	cardiovascular events
+diabetes mellitus	increases	hospitalization risk
+hypothyroidism	is a	thyroid disorder
+hyperthyroidism	is a	thyroid disorder
+hypothyroidism	associated with	hyperlipidemia
+hyperthyroidism	associated with	tachycardia
+medullary thyroid carcinoma	requires	calcitonin testing
+medullary thyroid carcinoma	detected by	calcitonin measurement
+thyroid cancer	is a	malignant thyroid tumor
+thyroid cancer	staged by	imaging
+parathyroid adenoma	localized by	sestamibi scan
+parathyroid adenoma	localized by	neck ultrasound
+primary hyperparathyroidism	diagnosed by	parathyroid tests
+primary hyperaldosteronism	screened by	aldosterone-to-renin ratio
+aldosterone-to-renin ratio	used for	hyperaldosteronism screening
+pheochromocytoma	suspected with	metanephrine testing
+pheochromocytoma	evaluated by	plasma metanephrine
+pituitary adenoma	evaluated by	MRI pituitary
+cushing syndrome	diagnosed by	dexamethasone suppression test
+cushing syndrome	evaluated by	24-hour cortisol test
+gonadal failure	evaluated by	hormone tests
+prolactin-secreting adenoma	evaluated by	MRI pituitary
+pregnancy-related endocrine changes	assessed by	hormone testing
+osteoporosis	assessed by	bone density test
+thyroid nodule	evaluated by	fine-needle biopsy
+thyroid nodule	evaluated by	thyroid ultrasound
+thyroid cancer risk	predicted by	thyroid ultrasound features
+parathyroid imaging	used for	localization
+ret proto-oncogene testing	used for	medullary thyroid carcinoma risk
+calcitonin measurement	used for	medullary thyroid carcinoma surveillance
+serum thyroglobulin	used for	thyroid cancer monitoring
+thyroglobulin antibodies	interfere with	thyroglobulin measurement

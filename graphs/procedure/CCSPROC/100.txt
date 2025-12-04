@@ -1,0 +1,100 @@
+endoscopy	is a	medical procedure
+endoscopy	used for	diagnosis
+endoscopy	used for	visualization
+endoscopy	visualizes	bladder mucosa
+endoscopy	visualizes	ureteral orifice
+endoscopy	visualizes	urinary tract
+endoscopy	detects	bladder tumor
+endoscopy	detects	ureteral stone
+endoscopy	detects	ureteral stricture
+endoscopy	complements	imaging
+endoscopic biopsy of the urinary tract	is a	biopsy procedure
+endoscopic biopsy of the urinary tract	performed during	endoscopy
+endoscopic biopsy of the urinary tract	yields	tissue sample
+tissue sample	used for	histology
+histology	defines	cancer type
+tissue sample	provides	diagnostic information
+pathology report	includes	cancer type
+urinary tract	includes	bladder
+bladder	contains	mucosa
+cystoscopy	is a	type of endoscopy
+cystoscopy	accesses	bladder
+ureteroscopy	is a	endoscopic procedure
+ureteroscopy	evaluates	upper urinary tract
+ureteral stone	can be detected by	endoscopy
+bladder tumor	diagnosed by	biopsy
+biopsy	provides	histologic diagnosis
+histology	confirms	tumor type
+pathology	informs	treatment plan
+cystoscopy	helps	assess bladder mucosa
+cystoscopy	detects	bladder lesion
+urothelial lesion	seen on	cystoscopy
+ureteroscopy	detects	ureteral lesion
+ureteroscopy	samples	ureteral tissue
+tissue sample	sent to	pathology
+pathology	reports	malignancy
+malignancy	staged by	histology
+staging	indicated by	histology
+staging	indicated by	imaging
+endoscopy	complemented by	imaging studies
+imaging studies	include	CT urography
+CT urography	complements	endoscopy
+hematuria	indicates	endoscopy
+endoscopic biopsy of the urinary tract	indicated for	unexplained hematuria
+unexplained hematuria	evaluated by	endoscopy
+endoscopy	carries	complication
+endoscopy	has	complication
+bleeding	complication of	endoscopy
+infection	complication of	endoscopy
+perforation	complication of	endoscopy
+endoscopic biopsy of the urinary tract	can cause	bleeding
+bleeding	requires	hemostasis
+bleeding	prolongs	hospital stay
+infection	prolongs	hospital stay
+perforation	requires	surgical intervention
+urinary catheterization	may follow	endoscopy
+endoscopy	carries	infection risk
+endoscopy	aids	upper tract evaluation
+ureteroscopy	aids	upper tract evaluation
+bladder cancer	suspected	endoscopy
+bladder cancer	staged by	histology
+histology	guides	therapy
+treatment plan	determined by	histology
+biopsy	provides	histologic diagnosis
+histology	confirms	tumor type
+diagnosis	informs	prognosis
+prognosis	depends on	stage
+stage	determined by	pathology
+stage	determined by	imaging
+imaging	included in	staging
+staging	influences	treatment decision
+treatment decision	affects	follow-up interval
+follow-up interval	planned after	endoscopy
+repeat endoscopy	increases	cumulative risk
+cumulative risk	related to	procedure duration
+procedure duration	affects	patient comfort
+patient comfort	improved with	sedation
+sedation	depends on	patient factors
+anesthesia	type for	endoscopy
+endoscopy	requires	sterile technique
+sterile technique	preserves	sample integrity
+sample integrity	affects	diagnostic yield
+diagnostic yield	influences	management plan
+management plan	guides	follow-up care
+follow-up care	includes	surveillance endoscopy
+cystoscopy	used for	cancer surveillance
+cancer surveillance	involves	cystoscopy
+cystoscope	instrument for	cystoscopy
+cystoscopy	visualizes	bladder neck
+bladder neck	examined by	cystoscopy
+ureter	examined by	ureteroscopy
+renal pelvis	accessed by	ureteroscopy
+ureteroscopy	samples	renal pelvis tissue
+renal pelvis tissue	analyzed by	pathology
+biopsy specimen	stored for	future comparison
+future comparison	aids	monitoring progression
+progression	monitored by	follow-up imaging
+follow-up imaging	complements	endoscopy
+endoscopy	provides	diagnostic visualization
+surgical planning	based on	endoscopy findings
+endoscopy findings	guide	biopsy targets

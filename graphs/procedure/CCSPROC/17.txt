@@ -1,0 +1,95 @@
+destruction of lesion of retina and choroid	is a	ophthalmic condition
+destruction of lesion of retina and choroid	is associated with	retinal damage
+destruction of lesion of retina and choroid	causes	vision impairment
+destruction of lesion of retina and choroid	leads to	blindness
+destruction of lesion of retina and choroid	caused by	trauma
+destruction of lesion of retina and choroid	caused by	ischemia
+destruction of lesion of retina and choroid	predisposes to	retinal detachment
+destruction of lesion of retina and choroid	predisposes to	neovascularization
+destruction of lesion of retina and choroid	predisposes to	scar formation
+destruction of lesion of retina and choroid	presents with	vision loss
+destruction of lesion of retina and choroid	presents with	metamorphopsia
+destruction of lesion of retina and choroid	presents with	scotoma
+destruction of lesion of retina and choroid	presents with	photophobia
+destruction of lesion of retina and choroid	diagnosed by	fluorescein angiography
+destruction of lesion of retina and choroid	diagnosed by	optical coherence tomography
+destruction of lesion of retina and choroid	diagnosed by	fundus examination
+destruction of lesion of retina and choroid	imaged by	fluorescein angiography
+destruction of lesion of retina and choroid	imaged by	OCT
+destruction of lesion of retina and choroid	treated with	laser therapy
+destruction of lesion of retina and choroid	treated with	photocoagulation
+destruction of lesion of retina and choroid	treated with	cryotherapy
+destruction of lesion of retina and choroid	treated with	vitrectomy
+destruction of lesion of retina and choroid	treated with	anti-VEGF therapy
+destruction of lesion of retina and choroid	treated with	corticosteroids
+destruction of lesion of retina and choroid	treated with	plaque brachytherapy
+destruction of lesion of retina and choroid	treated with	radiotherapy
+destruction of lesion of retina and choroid	treated with	enucleation
+destruction of lesion of retina and choroid	prognosis	visual prognosis
+destruction of lesion of retina and choroid	prognosis	stabilization
+destruction of lesion of retina and choroid	prognosis	improvement
+destruction of lesion of retina and choroid	prognosis	deterioration
+destruction of lesion of retina and choroid	prognosis	blindness
+destruction of lesion of retina and choroid	complication	retinal detachment
+destruction of lesion of retina and choroid	complication	glaucoma
+destruction of lesion of retina and choroid	complication	scar formation
+destruction of lesion of retina and choroid	complication	macular hole
+destruction of lesion of retina and choroid	complication	vitreous hemorrhage
+destruction of lesion of retina and choroid	etiology	tumor
+destruction of lesion of retina and choroid	etiology	trauma
+destruction of lesion of retina and choroid	etiology	infection
+destruction of lesion of retina and choroid	etiology	ischemia
+destruction of lesion of retina and choroid	risk factor	smoking
+destruction of lesion of retina and choroid	risk factor	hypertension
+destruction of lesion of retina and choroid	risk factor	diabetes mellitus
+destruction of lesion of retina and choroid	risk factor	aging
+destruction of lesion of retina and choroid	imaging finding	subretinal fluid
+destruction of lesion of retina and choroid	imaging finding	pigment epithelium changes
+destruction of lesion of retina and choroid	imaging finding	geographic atrophy
+destruction of lesion of retina and choroid	imaging finding	scotoma pattern
+destruction of lesion of retina and choroid	comorbidity	cardiovascular disease
+destruction of lesion of retina and choroid	comorbidity	renal disease
+destruction of lesion of retina and choroid	management goal	vision preservation
+destruction of lesion of retina and choroid	medical history	prior ocular surgery
+destruction of lesion of retina and choroid	health care utilization	clinic visits
+destruction of lesion of retina and choroid	cost	treatment
+destruction of lesion of retina and choroid	discharge plan	follow-up
+destruction of lesion of retina and choroid	patient outcome	quality of life
+destruction of lesion of retina and choroid	patient outcome	independence
+destruction of lesion of retina and choroid	patient outcome	work productivity
+destruction of lesion of retina and choroid	research area	stem cell therapy
+destruction of lesion of retina and choroid	research area	neuroprotective therapy
+destruction of lesion of retina and choroid	guideline	ophthalmology
+destruction of lesion of retina and choroid	guideline	standard of care
+destruction of lesion of retina and choroid	guideline	practice guideline
+destruction of lesion of retina and choroid	data source	registry
+destruction of lesion of retina and choroid	data source	electronic health record
+destruction of lesion of retina and choroid	follow-up modality	clinic visits
+destruction of lesion of retina and choroid	patient education	informed consent
+destruction of lesion of retina and choroid	rehabilitation	low vision services
+destruction of lesion of retina and choroid	patient safety	glare reduction
+destruction of lesion of retina and choroid	public health	awareness campaigns
+destruction of lesion of retina and choroid	imaging modality	OCT
+destruction of lesion of retina and choroid	imaging modality	fluorescein angiography
+destruction of lesion of retina and choroid	imaging modality	ultrasound
+destruction of lesion of retina and choroid	lesion size	large
+destruction of lesion of retina and choroid	stage	advanced stage
+destruction of lesion of retina and choroid	stage	early stage
+destruction of lesion of retina and choroid	burden	caregivers
+destruction of lesion of retina and choroid	policy	health policy
+destruction of lesion of retina and choroid	registry	national registry
+destruction of lesion of retina and choroid	outcome measure	visual acuity
+destruction of lesion of retina and choroid	prevalence	global prevalence
+destruction of lesion of retina and choroid	therapeutic target	VEGF
+destruction of lesion of retina and choroid	molecular marker	VEGF
+destruction of lesion of retina and choroid	molecular marker	angiopoietin
+destruction of lesion of retina and choroid	translational study	animal model
+destruction of lesion of retina and choroid	translational study	clinical trial
+destruction of lesion of retina and choroid	genetics	mutation
+destruction of lesion of retina and choroid	ethics	informed consent
+destruction of lesion of retina and choroid	education	patient resources
+destruction of lesion of retina and choroid	future direction	regenerative medicine
+destruction of lesion of retina and choroid	surveillance	population monitoring
+destruction of lesion of retina and choroid	global burden	vision disability
+destruction of lesion of retina and choroid	health economics	cost-effectiveness
+destruction of lesion of retina and choroid	clinical trial	efficacy

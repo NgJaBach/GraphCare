@@ -1,199 +1,100 @@
-cardiac dysrhythmias	is a	heart rhythm disorder
-atrial fibrillation	is a	cardiac dysrhythmia
+cardiac dysrhythmias	is a	medical condition
+atrial fibrillation	is a type of	cardiac dysrhythmias
+atrial flutter	is a type of	cardiac dysrhythmias
+ventricular tachycardia	is a type of	cardiac dysrhythmias
+ventricular fibrillation	is a type of	cardiac dysrhythmias
+supraventricular tachycardia	is a type of	cardiac dysrhythmias
 atrial fibrillation	increases risk of	stroke
-atrial fibrillation	increases risk of	thromboembolism
-atrial fibrillation	associated with	heart failure
-atrial fibrillation	associated with	hospitalization
-atrial fibrillation	treated with	anticoagulation
-atrial fibrillation	treated with	rate control
-atrial fibrillation	treated with	rhythm control
-anticoagulation	reduces risk of	stroke
-warfarin	reduces risk of	stroke
-apixaban	reduces risk of	stroke
-rivaroxaban	reduces risk of	stroke
-anticoagulation	increases risk of	bleeding
+atrial fibrillation	increases risk of	systemic embolism
+atrial fibrillation	increases risk of	heart failure
 atrial fibrillation	increases risk of	death
-atrial fibrillation	increases risk of	hospitalization
-catheter ablation	used for	atrial fibrillation
-electrical cardioversion	used for	atrial fibrillation
-digoxin	used for	rate control
-beta-blocker	used for	rate control
-calcium channel blocker	used for	rate control
-amiodarone	treats	ventricular tachycardia
-lidocaine	treats	ventricular arrhythmia
-sotalol	treats	atrial fibrillation
-dofetilide	treats	atrial fibrillation
-atrial flutter	is a	cardiac dysrhythmia
-ventricular tachycardia	is a	ventricular dysrhythmia
-ventricular fibrillation	is a	ventricular dysrhythmia
-sudden cardiac death	is a	mortality outcome
-implantable cardioverter-defibrillator	used for	ventricular fibrillation
-pacemaker	used for	bradycardia
-AV block	is a	conduction abnormality
-second-degree AV block	is a	conduction abnormality
-third-degree AV block	is a	conduction abnormality
-premature ventricular contractions	are	ventricular extrasystoles
-sinus rhythm	is a	normal rhythm
-sinus node dysfunction	is a	dysrhythmia
-bradycardia	is a	dysrhythmia
-tachycardia	is a	rhythm disorder
-electrocardiogram	used for	detection of dysrhythmias
-Holter monitor	used for	dysrhythmia detection
-stroke	can result from	atrial fibrillation
-thromboembolism	can result from	atrial fibrillation
-bleeding	risk increased by	anticoagulation
-major bleeding	associated with	anticoagulation
-mortality	associated with	dysrhythmias
-length of stay	increased by	dysrhythmias
-dysrhythmias	coexist with	heart failure
-dysrhythmias	coexist with	ischemic heart disease
-atrial fibrillation	common in	older adults
-atrial fibrillation	linked to	hypertension
-atrial fibrillation	linked to	obesity
-atrial fibrillation	linked to	diabetes mellitus
-thyroid disease	linked to	atrial fibrillation
-sleep apnea	linked to	atrial fibrillation
-alcohol use	linked to	atrial fibrillation
-ischemic stroke	common consequence of	atrial fibrillation
-thrombus	forms in	left atrial appendage
-left atrial appendage	contains	thrombus
-left atrial appendage thrombus	requires	anticoagulation
-anticoagulation	reduces	stroke risk
-anticoagulation	requires	monitoring
-warfarin	requires	INR monitoring
-digoxin	used for	heart failure with atrial fibrillation
-digoxin	used for	rate control
-electrophysiology study	used for	dysrhythmia mapping
-catheter ablation	reduces	recurrence of atrial fibrillation
-pacemaker	reduces	syncope episodes
-ICD	indicated for	ventricular tachycardia
-ICD	reduces	risk of sudden death
-cardioversion	converts	atrial fibrillation
-rate control	aims at	heart rate reduction
-cardioversion	used for	atrial fibrillation
-digoxin	interacts with	diuretics
-amiodarone	interacts with	warfarin
-hypokalemia	predisposes to	ventricular arrhythmias
-hypomagnesemia	predisposes to	ventricular arrhythmias
-electrolyte disturbance	predisposes to	dysrhythmias
-ischemia	triggers	ventricular tachycardia
-myocardial infarction	precipitates	ventricular tachycardia
-heart failure	predisposes to	atrial fibrillation
-renal impairment	affects	anticoagulation dosing
-thrombus	risk factor for	stroke
-stroke	prevented by	anticoagulation
-torsades de pointes	is a	polymorphic ventricular tachycardia
-torsades de pointes	triggered by	QT prolongation
-QT prolongation	caused by	amiodarone
-amiodarone	associated with	thyroid dysfunction
-amiodarone	associated with	pulmonary toxicity
-digoxin	can cause	arrhythmias
-hypokalemia	predisposes to	ventricular arrhythmias
-hypomagnesemia	predisposes to	ventricular arrhythmias
-electrolyte disturbance	worsens	dysrhythmias
-ischemia	triggers	ventricular tachycardia
-myocardial infarction	precipitates	ventricular tachycardia
-heart failure	predisposes to	atrial fibrillation
-renal impairment	affects	anticoagulation dosing
-left atrial appendage	site of	thrombus formation
-cardiac dysrhythmias	affects	quality of life
-atrial fibrillation	is a	cardiac dysrhythmia
-atrial fibrillation	is a	cardiac arrhythmia
-atrial fibrillation	increases risk for	stroke
-atrial fibrillation	increases risk for	systemic embolism
-atrial fibrillation	associated with	hypertension
-atrial fibrillation	associated with	heart failure
-atrial fibrillation	associated with	valvular disease
+cardiac dysrhythmias	increases risk of	hospitalization
+hypertension	associated with	atrial fibrillation
+diabetes mellitus	associated with	atrial fibrillation
+obesity	associated with	atrial fibrillation
+thyroid disease	associated with	atrial fibrillation
+coronary artery disease	associated with	atrial fibrillation
+kidney disease	associated with	atrial fibrillation
+electrolyte disturbance	associated with	cardiac dysrhythmias
+hypokalemia	precipitates	arrhythmias
+hypomagnesemia	precipitates	torsades de pointes
+torsades de pointes	associated with	prolonged QT interval
+long QT interval	predisposes to	torsades de pointes
+electrocardiography	detects	cardiac dysrhythmias
+Holter monitor	records	arrhythmias
+electrophysiology study	characterizes	arrhythmia substrate
+echocardiography	evaluates	cardiac structure
+atrial fibrillation	diagnosed by	electrocardiography
+cardioversion	treats	atrial fibrillation
+catheter ablation	treats	atrial fibrillation
+anticoagulation therapy	reduces	stroke
+warfarin	reduces	stroke
+apixaban	reduces	stroke
+dabigatran	reduces	stroke
+rivaroxaban	reduces	stroke
+anticoagulation therapy	reduces	systemic embolism
+CHA2DS2-VASc score	estimates	stroke risk
 atrial fibrillation	treated with	anticoagulation
-anticoagulation	reduces risk for	stroke
-anticoagulation	increases risk for	bleeding
-warfarin	is a	anticoagulant
-apixaban	is a	direct oral anticoagulant
-edoxaban	is a	direct oral anticoagulant
-dabigatran	is a	direct oral anticoagulant
-amiodarone	is a	antiarrhythmic
-sotalol	is a	antiarrhythmic
-dofetilide	is a	antiarrhythmic
-catheter ablation	is a	treatment
-catheter ablation	used for	atrial fibrillation
-electrical cardioversion	is a	procedure
-electrical cardioversion	restores	normal sinus rhythm
-rate control	is a	treatment
-rate control	uses	beta-blocker
-beta-blocker	is a	medication
-metoprolol	is a	beta-blocker
-bisoprolol	is a	beta-blocker
-calcium channel blocker	is a	medication
-diltiazem	is a	calcium channel blocker
-atrial fibrillation	can progress to	atrial flutter
-atrial fibrillation	can cause	tachycardia-mediated cardiomyopathy
-tachycardia-mediated cardiomyopathy	is a	cardiomyopathy
-stroke	is a	complication of atrial fibrillation
-heart failure	is a	complication of atrial fibrillation
-sudden cardiac death	can result from	ventricular fibrillation
-ventricular fibrillation	is a	life-threatening arrhythmia
-ventricular tachycardia	is a	ventricular arrhythmia
-torsades de pointes	is a	polymorphic ventricular tachycardia
-QT prolongation	is an	electrocardiographic finding
-hypokalemia	predisposes to	ventricular arrhythmias
-hypomagnesemia	predisposes to	torsades de pointes
-ischemia	triggers	arrhythmias
-myocardial infarction	can cause	ventricular fibrillation
-ischemic heart disease	associated with	ventricular tachycardia
-sudden cardiac death	can be prevented by	defibrillation
-defibrillation	is a	life-saving procedure
-implantable cardioverter-defibrillator	is a	device
-pacemaker	is a	device
-pacemaker	indicated for	bradycardia
-bradycardia	is a	bradyarrhythmia
-sinus node dysfunction	is a	bradyarrhythmia
-bradyarrhythmia	treated with	pacemaker
-electrocardiography	is a	diagnostic test
-holter monitor	is a	diagnostic device
-electrolyte imbalance	predisposes to	arrhythmias
-potassium imbalance	predisposes to	arrhythmias
-magnesium deficiency	predisposes to	torsades de pointes
-hypokalemia	associated with	ventricular arrhythmias
-atrial fibrillation	associated with	obesity
-obesity	increases risk for	atrial fibrillation
-hypertension	increases risk for	atrial fibrillation
-diabetes mellitus	is comorbidity of	atrial fibrillation
-obstructive sleep apnea	associated with	atrial fibrillation
-thyroid disease	associated with	arrhythmias
-hyperthyroidism	predisposes to	atrial fibrillation
-elderly	increases risk for	atrial fibrillation
+atrial fibrillation	managed with	rate control
+atrial fibrillation	managed with	rhythm control
+rate control	maintains	hemodynamics
+rhythm control	maintains	sinus rhythm
+pacemaker	treats	bradycardia
+implantable cardioverter-defibrillator	reduces	sudden cardiac death
+defibrillation	terminates	ventricular fibrillation
+magnesium	treats	torsades de pointes
+amiodarone	treats	ventricular tachycardia
+lidocaine	treats	ventricular tachycardia
+beta-blocker	reduces	heart rate
+calcium channel blocker	reduces	heart rate
+digoxin	reduces	ventricular rate
+electrical cardioversion	restores	sinus rhythm
+postoperative atrial fibrillation	occurs after	cardiac surgery
+atrial fibrillation	increases	length of stay
+left atrial appendage closure device	prevents	stroke in atrial fibrillation
+stroke	consequence of	atrial fibrillation
+ischaemic heart disease	coexists with	atrial fibrillation
+heart failure	accompanies	atrial fibrillation
+valvular disease	predisposes to	atrial fibrillation
+sleep apnea	associated with	atrial fibrillation
+hypertension	complicates	atrial fibrillation management
+obesity	complicates	atrial fibrillation management
+diabetes mellitus	complicates	anticoagulation therapy management
+older age	associated with	atrial fibrillation
+smoking	increases	atrial fibrillation risk
 alcohol use	associated with	atrial fibrillation
-smoking	associated with	atrial fibrillation
-pregnancy	associated with	arrhythmias
-arrhythmia	diagnosed by	electrocardiography
-electrocardiography	records	rhythm patterns
-tachyarrhythmia	detected by	holter monitoring
-catheter ablation	reduces recurrence of	atrial fibrillation
-atrial fibrillation recurrence	leads to	hospital readmission
-hospital readmission	associated with	atrial fibrillation
-mortality	associated with	atrial fibrillation
-pacemaker	reduces risk for	syncope
-defibrillator	prevents	sudden cardiac death
-defibrillator	reduces risk for	sudden cardiac death
-ablation therapy	increases	sinus rhythm maintenance
-left atrial appendage closure	is a	procedure
-left atrial appendage	is a	site of thrombus in atrial fibrillation
-thrombus	can lead to	stroke
-stroke	worsens	prognosis in arrhythmia patients
-warfarin therapy	requires	INR monitoring
-apixaban therapy	reduces	stroke risk
-rivaroxaban therapy	reduces	stroke risk
-anticoagulation therapy	requires	bleeding risk management
-bleeding risk	increases	hospitalization risk
-electrolyte disturbance	increases	arrhythmia risk
-potassium supplementation	is used for	electrolyte correction
-magnesium supplementation	is used for	electrolyte correction
-rhythm control	aims for	normal sinus rhythm
-rhythm control	may improve	quality of life
-quality of life	affected by	atrial fibrillation
-anticoagulation	recommended before	cardioversion
-transesophageal echocardiography	used before	cardioversion in atrial fibrillation
-elderly population	has higher prevalence of	atrial fibrillation
-left atrial appendage closure device	reduces risk for	stroke in atrial fibrillation
-stroke outcome	affected by	atrial fibrillation management
-atrial fibrillation management	influences mortality
+left atrial enlargement	predisposes to	atrial fibrillation
+mitral stenosis	predisposes to	atrial fibrillation
+valvular rheumatic disease	predisposes to	atrial fibrillation
+kidney function	influences	anticoagulation dosing
+bleeding risk	limits	anticoagulation therapy
+intracranial hemorrhage	is a risk of	anticoagulation therapy
+elderly patients	have higher incidence of	atrial fibrillation
+mitral valve disease	increases	atrial fibrillation risk
+hepatic disease	affects	pharmacokinetics of antiarrhythmic drugs
+pharmacokinetics	vary with	age
+readmission	associated with	arrhythmia management failure
+emergency department visit	associated with	arrhythmia
+electrical storm	is a complication of	ventricular tachycardia
+recurrent arrhythmia	leads to	readmission
+sedentary lifestyle	increases	atrial fibrillation risk
+pacemaker	reduces	bradycardia-related hospitalization
+catheter ablation	reduces	atrial fibrillation recurrence
+anticoagulation	requires	INR monitoring
+INR monitoring	ensures	therapeutic range
+therapeutic range	relates to	bleeding risk
+bleeding risk	informs	anticoagulation decision
+elderly patients	have higher incidence of	atrial fibrillation
+left atrial enlargement	increases	atrial fibrillation risk
+left atrial appendage closure device	achieves	stroke prevention in atrial fibrillation
+recurrence of atrial fibrillation	leads to	repeated hospitalizations
+renal impairment	affects	pharmacodynamics of antiarrhythmic drugs
+kidney function	influences	anticoagulation dosing
+drug interactions	complicate	anticoagulation therapy
+arrhythmia monitoring	improves	patient safety
+tachyarrhythmia	occurs with	heart failure
+cardiac arrest	can follow	ventricular fibrillation
+defibrillation shock	terminates	ventricular fibrillation
+IV magnesium	treats	torsades de pointes
+stroke prevention	achieved by	anticoagulation therapy
+readmission	reduced by	effective arrhythmia management

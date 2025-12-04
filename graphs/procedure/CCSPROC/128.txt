@@ -1,0 +1,100 @@
+dilatation and curettage	is a	surgical procedure
+dilatation and curettage	is performed for	abnormal uterine bleeding
+dilatation and curettage	is performed for	miscarriage management
+dilatation and curettage	is performed for	abortion management
+dilatation and curettage	is performed for	missed abortion
+dilatation and curettage	is performed for	incomplete abortion
+dilatation and curettage	is performed for	retained products of conception
+dilatation and curettage	provides	endometrial tissue
+dilatation and curettage	yields	tissue sample
+tissue sample	sent to	pathology
+pathology	analyzes	tissue sample
+tissue sample	examined by	histology
+histology	detects	endometrial pathology
+endometrial pathology	includes	hyperplasia
+endometrial hyperplasia	increases	cancer risk
+dilatation and curettage	removes	placental tissue
+placental tissue	retained after	abortion
+retained products of conception	cause	persistent bleeding
+dilatation and curettage	relieves	heavy bleeding
+heavy bleeding	may require	transfusion
+dilatation and curettage	performed under	anesthesia
+anesthesia	can be	general
+anesthesia	can be	regional
+dilatation and curettage	commonly performed as	outpatient procedure
+outpatient procedure	is common setting for	D&C
+dilatation and curettage	requires	cervical dilation
+cervical dilation	achieved with	dilators
+dilatation and curettage	uses	curettes
+curette	is used for	curettage
+dilatation and curettage	can cause	uterine perforation
+uterine perforation	is a possible complication of	dilatation and curettage
+dilatation and curettage	can cause	infection
+infection	is a possible complication of	dilatation and curettage
+dilatation and curettage	can cause	cervical laceration
+cervical laceration	is a possible complication of	dilatation and curettage
+dilatation and curettage	can cause	intrauterine adhesions
+intrauterine adhesions	lead to	infertility
+dilatation and curettage	may be performed	after delivery
+delivery	may be followed by	lochia
+dilatation and curettage	may be performed	following miscarriage
+following miscarriage	necessitates	tissue sampling
+tissue sampling	guides	subsequent management
+dilatation and curettage	used in	postmenopausal bleeding evaluation
+postmenopausal bleeding	requires	endometrial assessment
+endometrial assessment	often includes	D&C sampling
+D&C sampling	can rule out	endometrial cancer
+endometrial cancer	diagnosed by	biopsy
+biopsy	requires	histopathology
+histopathology	confirms	diagnosis
+dilatation and curettage	used for	removal of polyps
+endometrial polyps	removed by	curettage
+polyps	associated with	abnormal bleeding
+dilatation and curettage	used for	removal of placental tissue
+placental tissue	removed by	dilatation and curettage
+dilatation and curettage	is alternative to	suction curettage in certain settings
+suction curettage	is used for	abortion management
+first-trimester abortion	can be treated with	suction curettage
+dilatation and curettage	compared with	suction curettage in terms of complications
+complications	include	infection
+dilatation and curettage	has	asepsis requirement
+asepsis	reduces	infection risk
+infection risk	minimized by	prophylactic antibiotics
+prophylactic antibiotics	recommended for	D&C in some settings
+dilatation and curettage	contraindicated in	active pelvic infection
+active pelvic infection	is a contraindication for	D&C
+first-trimester abortion	is treated with	suction curettage
+dilatation and curettage	used for	retained products after abortion
+retained products after abortion	require	uterine evacuation
+uterine evacuation	achieved by	D&C
+uterine evacuation	also achieved by	suction curettage
+suction curettage	commonly used for	first-trimester abortion
+first-trimester abortion	often managed with	suction curettage
+suction curettage	associated with	less cervical trauma
+cervical trauma	risk of	suction curettage
+D&C	can be performed with	ultrasound guidance
+ultrasound guidance	enhances	visualization of uterine contents
+visualization	improves	sampling accuracy
+sampling accuracy	reduces	need for repeat procedures
+repeat procedures	increase	infection risk
+infection risk	mitigated by	antibiotic prophylaxis
+antibiotic prophylaxis	recommended for	D&C in some settings
+D&C in some settings	contraindicated in	active pelvic infection
+active pelvic infection	contraindicates	D&C
+dilatation and curettage	used for	abnormal uterine bleeding evaluation
+abnormal uterine bleeding evaluation	includes	endometrial sampling
+endometrial sampling	used for	endometrial cancer screening
+endometrial cancer screening	may involve	transvaginal ultrasound
+transvaginal ultrasound	used to assess	intrauterine contents
+intrauterine contents	include	blood clots
+blood clots	may be evacuated by	D&C
+D&C	contributes to	reproductive planning
+reproductive planning	improved by	accurate endometrial evaluation
+endometrial evaluation	guides	management
+management	includes	medical therapy
+medical therapy	includes	hormonal therapy
+hormonal therapy	used for	abnormal uterine bleeding after D&C
+abnormal uterine bleeding	may persist	after D&C
+D&C	requires	skilled operator
+skilled operator	improves	safety of procedure
+safety	improved by	standardized protocols

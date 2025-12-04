@@ -1,0 +1,100 @@
+diagnostic amniocentesis	is a	medical procedure
+diagnostic amniocentesis	used for	fetal chromosomal analysis
+diagnostic amniocentesis	performed under	ultrasound guidance
+amniotic fluid	analyzed for	genetic material
+amniotic fluid	contains	fetal cells
+amniocentesis	yields	amniotic fluid sample
+amniocentesis	samples	fetal cells
+fetal cells	used for	karyotype analysis
+karyotype analysis	detects	chromosomal abnormality
+chromosomal abnormality	includes	trisomy 21
+trisomy 21	associated with	Down syndrome
+Down syndrome	diagnosed by	karyotype analysis
+amniocentesis	indicates	fetal genetic disorder
+fetal genetic disorder	identified by	amniocentesis
+amniocentesis	may cause	cramping
+amniocentesis	associated with	membrane rupture
+membrane rupture	risk factor for	preterm birth
+amniocentesis	carries	miscarriage risk
+advanced maternal age	increases	risk of chromosomal abnormality
+maternal age	increases	risk of fetal chromosomal abnormality
+noninvasive prenatal testing	as alternative to	diagnostic amniocentesis
+noninvasive prenatal testing	reduces need for	diagnostic amniocentesis
+amniotic fluid	used for	DNA analysis
+DNA analysis	detects	genetic variant
+genetic variant	found in	amniotic fluid
+amniocentesis	used for	prenatal diagnosis
+prenatal diagnosis	achieved by	amniocentesis
+cytogenetic testing	performed on	amniotic fluid
+cytogenetic testing	detects	chromosomal abnormality
+amniocentesis	performed in	hospital setting
+amniotic fluid	collected by	needle aspiration
+needle aspiration	requires	sterile technique
+sterile technique	reduces	infection risk
+amniotic fluid	used for	biochemical analysis
+biochemical analysis	includes	alpha-fetoprotein
+alpha-fetoprotein	measured in	amniotic fluid
+amniocentesis	results in	diagnostic outcome
+diagnostic outcome	informs	parental counseling
+parental counseling	follows	diagnostic amniocentesis
+informed consent	required for	diagnostic amniocentesis
+informed consent	protects	patient rights
+patient rights	protected by	informed consent
+amniocentesis	affects	maternal mood
+maternal mood	influences	clinical decisions
+fetal chromosomal abnormality	leads to	pregnancy management changes
+pregnancy management changes	include	genetic counseling
+genetic counseling	occurs after	amniocentesis
+amniocentesis	indicated for	repeat testing
+repeat testing	considered when	initial results inconclusive
+inconclusive results	require	confirmatory testing
+confirmatory testing	includes	amniocentesis re-testing
+pregnant patient	undergoes	diagnostic amniocentesis
+obstetrician	performs	diagnostic amniocentesis
+ultrasound	guides	needle placement
+needle placement	monitored by	real-time imaging
+real-time imaging	improves	procedure safety
+procedure safety	influences	patient satisfaction
+fetal status	assessed by	amniocentesis results
+amniocentesis results	can be	normal
+normal results	associated with	typical pregnancy course
+abnormal results	associated with	genetic counseling need
+genetic counseling	recommended after	abnormal results
+counseling	supports	parental decision making
+pregnancy decisions	influenced by	genetic counseling
+genetic counseling	provides	risk information
+risk information	supports	parental choice
+parental choice	impacts	follow-up testing
+follow-up testing	includes	targeted sequencing
+targeted sequencing	performed on	amniotic fluid
+amniotic fluid	used for	sequencing
+sequencing	detects	single gene mutation
+single gene mutation	identified by	sequencing
+sequence data	interpreted by	geneticist
+geneticist	communicates	results to parents
+parents	participate in	counseling
+counseling	supports	informed decision making
+decision making	requires	test results
+test results	guide	pregnancy management
+prenatal diagnosis	confirmed by	amniocentesis
+amniocentesis	confirms	fetal status
+fetal status	determines	delivery timing
+delivery timing	affected by	fetal status
+fetal status	influenced by	maternal condition
+maternal condition	included in	pregnancy risk assessment
+pregnancy risk assessment	informs	clinical planning
+clinical planning	improves	perinatal outcomes
+perinatal outcomes	predicted by	diagnostic amniocentesis results
+diagnostic amniocentesis results	recorded in	patient record
+patient record	used for	quality improvement
+quality improvement	driven by	outcome data
+outcome data	informs	hospital policy
+hospital policy	affected by	invasive testing trends
+invasive testing trends	influence	resource allocation
+resource allocation	impacts	screening programs
+screening programs	include	amniocentesis
+amniocentesis	compared with	chorionic villus sampling
+chorionic villus sampling	alternative to	amniocentesis
+fetal health	indicates	overall prognosis
+overall prognosis	depends on	test results
+test results	update	patient care plan

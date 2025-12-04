@@ -1,0 +1,110 @@
+repair of current obstetric laceration	is a	surgical procedure
+repair of current obstetric laceration	used for	perineal laceration repair
+perineal laceration	occurs during	vaginal delivery
+perineal laceration	causes	pain
+perineal laceration	causes	bleeding
+repair of current obstetric laceration	requires	anesthesia
+local anesthesia	used for	repair of current obstetric laceration
+regional anesthesia	used for	repair of current obstetric laceration
+anesthesia	provides	pain control during repair
+analgesia	reduces	postoperative pain
+antibiotic prophylaxis	reduces	infection
+infection	increases	morbidity
+infection	prolongs	hospital stay
+bleeding	increases	transfusion need
+hematoma	is a complication of	obstetric laceration repair
+wound healing	follows	obstetric laceration repair
+scar formation	results from	obstetric laceration repair
+dehiscence	is a complication of	obstetric laceration repair
+edema	accompanies	perineal laceration repair
+absorbable sutures	preferred for	obstetric laceration repair
+nonabsorbable sutures	rarely used for	obstetric laceration repair
+sutures	used for	wound closure
+suture material	varies by	absorbability
+antibiotic prophylaxis	is given for	obstetric laceration repair
+infection	risk of	obstetric laceration repair
+bleeding	risk of	obstetric laceration repair
+hematoma	risk of	obstetric laceration repair
+pain	outcome of	obstetric laceration repair
+postoperative analgesia	improves	patient comfort
+postoperative discharge	occurs after	obstetric laceration repair
+readmission	risk after	obstetric laceration repair
+mortality	risk after	obstetric laceration repair
+morbidity	related to	infection
+operative time	lengthens	blood loss
+blood loss	increases	transfusion requirement
+transfusion requirement	affects	length of hospital stay
+length of stay	determined by	complication
+complication	includes	infection
+pain	managed with	analgesia
+analgesia	reduces	pain intensity
+urinary retention	occurs after	obstetric laceration repair
+urinary incontinence	risk after	obstetric laceration repair
+pelvic floor dysfunction	risk after	obstetric laceration repair
+dyspareunia	possible outcome after	obstetric laceration repair
+sexual function	affected by	perineal repair
+cosmetic outcome	influenced by	scar formation
+scar formation	influences	cosmetic outcome
+tissue perfusion	affects	wound healing
+infection	onset after	obstetric laceration repair
+stress	influences	wound healing
+stitches	integrity	wound closure
+suture technique	influences	wound healing
+skin integrity	affects	wound healing
+diabetes mellitus	increases	infection risk
+obesity	increases	wound complication risk
+smoking	increases	infection risk
+blood pressure	affects	wound healing
+gestational age	relates to	obstetric laceration management
+delivery mode	influences	perineal laceration rate
+skin integrity	affects	wound healing
+surgical training	improves	outcomes
+simulation training	improves	surgical accuracy
+clinical guidelines	endorse	episiotomy avoidance
+postpartum check	evaluates	wound healing
+outpatient follow-up	ensures	wound healing
+wound check	occurs during	postpartum visit
+delivery outcome	influenced by	perineal repair quality
+repair quality	determines	cosmetic outcome
+cosmetic satisfaction	affects	quality of life
+quality of life	improved by	wound healing
+pain management	essential for	recovery
+narcotics	provide	analgesia
+regional anesthesia	reduces	need for general anesthesia
+general anesthesia	associated with	higher risk
+nerve injury	rare with	regional anesthesia
+infection control	improves	patient outcome
+postoperative regimen	includes	wound care instructions
+wound care instructions	improve	healing quality
+granulation tissue	forms	wound bed
+return to activity	possible after	obstetric laceration repair
+functional recovery	completes	postpartum period
+postpartum pain	influences	analgesia duration
+analgesia	includes	NSAIDs
+NSAIDs	provide	analgesia
+diabetic patient	at higher	infection risk
+antibiotic prophylaxis	duration	obstetric laceration repair
+scar tissue	formation	perineal area
+scar tissue	causes	dyspareunia
+perineal tissue	integrity	obstetric laceration repair
+immune response	influences	wound healing
+nutritional status	affects	wound healing
+hydration status	affects	wound healing
+exercise	accelerates	postpartum recovery
+smoking cessation	improves	wound healing
+breastfeeding	correlates with	maternal comfort
+postpartum nutrition	supports	wound healing
+hematologic status	influences	healing
+platelet count	affects	healing
+coagulation status	affects	blood loss
+operative field	requires	sterile technique
+sterile technique	ensures	infection prevention
+medical record	documents	repair details
+surgeon experience	affects	outcome
+facility	provides	obstetric laceration repair services
+equipment	used for	wound closure
+surgical kit	includes	sutures
+patient education	improves	adherence to wound care
+consent	obtained for	obstetric laceration repair
+postoperative follow-up	monitors	wound healing
+noise level	influences	patient comfort

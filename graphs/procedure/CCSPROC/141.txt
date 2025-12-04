@@ -1,0 +1,100 @@
+cesarean section	is a	obstetric procedure
+cesarean section	performed for	fetal distress
+cesarean section	performed for	labor arrest
+cerclage	is a	obstetric procedure
+cerclage	indicated for	cervical insufficiency
+cerclage	performed during	pregnancy
+amniotomy	is a	obstetric procedure
+induction of labor	is a	obstetric procedure
+augmentation of labor	is a	obstetric procedure
+external cephalic version	is a	obstetric procedure
+external cephalic version	performed for	malpresentation
+internal version	is a	obstetric procedure
+vacuum extraction	is a	obstetric procedure
+forceps delivery	is a	obstetric procedure
+manual placental removal	is a	obstetric procedure
+dilation and curettage	is a	obstetric procedure
+dilation and evacuation	is a	obstetric procedure
+episiotomy	is a	obstetric procedure
+perineal repair	is a	obstetric procedure
+hysterectomy	is a	obstetric procedure
+postpartum hysterectomy	is a	obstetric procedure
+cesarean hysterectomy	is a	obstetric procedure
+uterine artery embolization	is a	radiologic procedure
+uterine artery embolization	used for	postpartum hemorrhage
+uterine artery ligation	is a	surgical procedure
+B-Lynch suture	is a	compression suture
+Hayman suture	is a	compression suture
+Cho suture	is a	compression suture
+compression sutures	are a	surgical technique
+Bakri balloon	is a	device
+Bakri balloon	used for	postpartum hemorrhage
+balloon tamponade	is a	technique
+uterine balloon tamponade	is a	technique
+tamponade device	is a	obstetric device
+pelvic vessel ligation	is a	surgical procedure
+surgical repair of laceration	is a	obstetric procedure
+fetal surgery	is a	obstetric procedure
+fetal endoscopic surgery	is a	fetal procedure
+fetal laser photocoagulation	is a	fetal procedure
+intrauterine transfusion	is a	fetal procedure
+intrauterine transfusion	performed for	fetal anemia
+fetal laser therapy	is a	fetal procedure
+twin-twin transfusion syndrome	treated with	fetal laser photocoagulation
+twin-twin transfusion syndrome	treated with	fetoscopic laser photocoagulation
+fetoscopy	is a	fetal procedure
+fetoscopic laser photocoagulation	is a	fetal procedure
+internal podalic version	is a	obstetric procedure
+internal podalic version	used for	breech delivery
+operative vaginal delivery	is a	obstetric procedure
+suction curettage	is a	obstetric procedure
+manual vacuum aspiration	is a	obstetric procedure
+perineal tear repair	is a	obstetric procedure
+uterine rupture repair	is a	obstetric procedure
+cord traction	is a	obstetric procedure
+postpartum care	includes	balloon tamponade
+preterm labor management	includes	tocolysis
+tocolysis	is a	medical therapy
+betamethasone	is a	corticosteroid
+dexamethasone	is a	corticosteroid
+antenatal corticosteroids	are used for	fetal lung maturity
+magnesium sulfate	is a	chemical agent
+magnesium sulfate	used for	seizure prophylaxis
+antibiotic prophylaxis	used for	cesarean section
+antibiotics	given for	chorioamnionitis
+corticosteroids	given for	fetal lung maturity
+betamethasone	used for	fetal lung maturity
+dexamethasone	used for	fetal lung maturity
+antenatal corticosteroids	given for	fetal lung maturity
+cesarean delivery	increases	maternal morbidity
+placenta accreta	treated with	cesarean hysterectomy
+placenta accreta	associated with	placenta previa
+placenta accreta	treated with	hysterectomy
+preterm birth prevention	includes	antenatal corticosteroids
+fetal growth restriction management	includes	delivery planning
+fetal distress	indicates	cesarean section
+postpartum hemorrhage	managed with	balloon tamponade
+postpartum hemorrhage	managed with	hysterectomy
+postpartum hemorrhage	caused by	uterine atony
+uterine atony	managed with	uterine massage
+uterine atony	managed with	uterotonic drugs
+uterine atony	treated with	tranexamic acid
+tranexamic acid	used for	postpartum hemorrhage
+natural childbirth	context	obstetric procedure
+cesarean section	associated with	blood loss
+placenta previa	management includes	cesarean delivery
+placenta accreta	management includes	cesarean hysterectomy
+cesarean section	planned vs urgent	obstetric pathway
+oxygen therapy	used for	fetal distress
+blood transfusion	used for	obstetric hemorrhage
+antibiotic prophylaxis	given for	cesarean section
+antibiotics	administered for	chorioamnionitis
+neonatal resuscitation planning	includes	delivery method selection
+umbilical cord clamping	timing matters	neonatal outcome
+delayed cord clamping	associated with	improved neonatal iron stores
+neonatal resuscitation	plan includes	airway management
+tocolytic therapy	used for	preterm labor
+tocolytic therapy	contraindicated for	fetal distress
+cesarean delivery	chosen when	fetal or maternal risk justify
+uterine surgery	may involve	placenta accreta risk
+uterine-sparing techniques	sought for	placenta accreta

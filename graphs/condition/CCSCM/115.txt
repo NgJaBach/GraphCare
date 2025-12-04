@@ -1,188 +1,105 @@
-aortic aneurysm	is a	vascular disease
-thoracic aortic aneurysm	is a type of	aortic aneurysm
-abdominal aortic aneurysm	is a type of	aortic aneurysm
-peripheral artery aneurysm	is a type of	aneurysm
-visceral artery aneurysm	is a type of	aneurysm
-splenic artery aneurysm	is a type of	visceral artery aneurysm
-renal artery aneurysm	is a type of	visceral artery aneurysm
-popliteal artery aneurysm	is a type of	peripheral artery aneurysm
-femoral artery aneurysm	is a type of	peripheral artery aneurysm
-iliac artery aneurysm	is a type of	peripheral artery aneurysm
-aortic aneurysm	can rupture	rupture
-rupture	causes	hemorrhagic shock
-rupture	leads to	death
-abdominal aortic aneurysm	risk factors include	smoking
-aortic aneurysm	risk factors include	hypertension
-aortic aneurysm	risk factors include	age
-abdominal aortic aneurysm	more common in	male
-family history	is a risk factor for	aortic aneurysm
-bicuspid aortic valve	predisposes to	thoracic aortic aneurysm
-connective tissue disorder	predisposes to	arterial aneurysm
-smoking	increases risk of	abdominal aortic aneurysm
-hypertension	increases risk of	aortic aneurysm
-age	increases risk of	aortic aneurysm
-male sex	is a demographic factor for	abdominal aortic aneurysm
-family history	is a risk factor for	visceral artery aneurysm
-bicuspid aortic valve	predisposes to	thoracic aortic aneurysm
-pregnancy	increases rupture risk of	splenic artery aneurysm
-splenic artery aneurysm	most common visceral artery aneurysm	in adults
-visceral artery aneurysm	rupture risk is	high
-visceral artery aneurysm	can present with	abdominal pain
-popliteal artery aneurysm	can cause	limb ischemia
-femoral artery aneurysm	can cause	limb ischemia
-renal artery aneurysm	can cause	renovascular hypertension
-hepatic artery aneurysm	may rupture	causing intra-abdominal bleeding
-celiac artery aneurysm	may rupture	causing intra-abdominal hemorrhage
-splanchnic artery aneurysm	is a subset of	visceral artery aneurysm
-endovascular repair	is a treatment for	aortic aneurysm
-open repair	is a treatment for	aortic aneurysm
-TEVAR	stands for	thoracic endovascular aortic repair
-stent graft	is used in	endovascular repair
-endoleak	is a complication of	endovascular aneurysm repair
-type II endoleak	arises from	branch arteries
-type I endoleak	indicates	poor seal
-endoleak	requires	surveillance imaging
-surveillance imaging	detects	endoleak
-ruptured aneurysm	requires	emergency surgery
-emergency surgery	has	high mortality
-elective repair	reduces	rupture risk
-antiplatelet therapy	recommended after	aneurysm repair
-antibiotics	required for	infected aneurysm
-mycotic aneurysm	caused by	bacterial infection
-bacterial infection	causes	mycotic aneurysm
-pregnancy	increases rupture risk of	visceral artery aneurysm
-ruptured abdominal aortic aneurysm	has	high mortality
-ruptured thoracic aortic aneurysm	has	high mortality
-aneurysm size	guides	repair decision
-diameter threshold	guides	repair timing
-aortic diameter	guides	repair decision
-aneurysm growth	predicts	rupture risk
-growth rate	correlates with	rupture risk
-monitoring interval	determined by	aneurysm size
-imaging	used for	aneurysm detection
-CT angiography	detects	aortic aneurysm
-MRI angiography	detects	visceral artery aneurysm
-ultrasound	monitors	abdominal aortic aneurysm size
-endovascular repair	reduces	rupture risk
-endovascular aneurysm repair	is performed with	stent graft
-open repair	requires	general anesthesia
-general anesthesia	used for	aneurysm repair
-postoperative care	includes	imaging surveillance
-postoperative care	includes	pain management
-overall prognosis	depends on	rupture status
-mortality	associated with	ruptured aneurysm
-morbidity	associated with	aneurysm repair
-survival rate	higher with	endovascular repair
-operative mortality	higher in	open repair
-surgical outcomes	depend on	patient comorbidity
-patient comorbidity	influences	treatment choice
-treatment choice	influenced by	aneurysm location
-aneurysm location	determines	treatment modality
-thoracic aortic aneurysm	located in	thorax
-abdominal aortic aneurysm	located in	abdomen
-visceral artery aneurysm	located in	abdominal region
-femoral artery aneurysm	located in	thigh
-popliteal artery aneurysm	located in	leg
-splenic artery aneurysm	located in	upper abdomen
-renal artery aneurysm	located in	kidney
-iliac artery aneurysm	located in	pelvis
-aortic aneurysm	is a	vascular dilation of aorta
-abdominal aortic aneurysm	is a type of	aortic aneurysm
-thoracic aortic aneurysm	is a type of	aortic aneurysm
-peripheral artery aneurysm	is a type of	aneurysm
-visceral artery aneurysm	is a type of	aneurysm
-smoking	is a risk factor for	aortic aneurysm
-hypertension	is a risk factor for	aortic aneurysm
-age	is a risk factor for	aortic aneurysm
-Marfan syndrome	predisposes to	aortic aneurysm
-bicuspid aortic valve	is associated with	aortic aneurysm
-abdominal aortic aneurysm	risk of	rupture
-thoracic aortic aneurysm	risk of	rupture
-peripheral artery aneurysm	risk of	rupture
-splenic artery aneurysm	risk of	rupture
-hepatic artery aneurysm	risk of	rupture
-superior mesenteric artery aneurysm	risk of	rupture
-renal artery aneurysm	risk of	rupture
-pancreaticoduodenal artery aneurysm	risk of	rupture
-visceral artery aneurysm	may cause	hemorrhage
-rupture	leads to	hemorrhagic shock
-hemorrhagic shock	requires	emergency intervention
-emergency intervention	includes	surgery
-open repair	is a	surgical modality
-endovascular repair	is a	surgical modality
-stent graft	used in	endovascular repair
-coil embolization	used for	visceral aneurysm
-CT angiography	is a	imaging modality
-MR angiography	is a	imaging modality
-ultrasound	is a	imaging modality
-angiography	is a	diagnostic modality
-imaging surveillance	detects	aneurysm growth
-aneurysm growth	increases	rupture risk
-blood pressure control	reduces	rupture risk
-smoking cessation	reduces	aneurysm progression
-family history	indicates	inherited aneurysm risk
-genetic mutation	linked to	aortic aneurysm
-fibrillin-1 mutation	associated with	Marfan syndrome
-cystic medial degeneration	predisposes to	aortic aneurysm
-mycotic aneurysm	is associated with	infection
-bacteremia	leads to	mycotic aneurysm
-femoral artery aneurysm	is a	peripheral artery aneurysm
-popliteal artery aneurysm	is a	peripheral artery aneurysm
-carotid artery aneurysm	is a	peripheral artery aneurysm
-splenic artery aneurysm	is a	visceral artery aneurysm
-hepatic artery aneurysm	is a	visceral artery aneurysm
-renal artery aneurysm	is a	visceral artery aneurysm
-celiac artery aneurysm	is a	visceral artery aneurysm
-superior mesenteric artery aneurysm	is a	visceral artery aneurysm
-splenic artery aneurysm	may present with	abdominal pain
-hepatic artery aneurysm	may present with	abdominal pain
-renal artery aneurysm	may present with	flank pain
-pancreaticoduodenal artery aneurysm	may present with	abdominal pain
-abdominal aortic aneurysm	may present with	pulsatile mass
-thoracic aortic aneurysm	may present with	chest pain
+aortic aneurysm	is associated with	hypertension
+aortic aneurysm	is associated with	smoking
+aortic aneurysm	is associated with	advanced age
+aortic aneurysm	is more common in	male
+aortic aneurysm	is associated with	atherosclerosis
+aortic aneurysm	is associated with	bicuspid aortic valve
+aortic aneurysm	is associated with	Marfan syndrome
+aortic aneurysm	is associated with	Ehlers-Danlos syndrome
+aortic aneurysm	has	family history
+aortic aneurysm	may rupture	hemorrhage
+aortic aneurysm	rupture risk increases with	diameter
+abdominal aortic aneurysm	located in	abdominal aorta
+thoracic aortic aneurysm	located in	thoracic aorta
+peripheral artery aneurysm	located in	femoral artery
+peripheral artery aneurysm	located in	popliteal artery
+peripheral artery aneurysm	located in	axillary artery
+peripheral artery aneurysm	located in	iliac artery
+peripheral artery aneurysm	located in	brachial artery
+visceral artery aneurysm	located in	splenic artery
+visceral artery aneurysm	located in	hepatic artery
+visceral artery aneurysm	located in	celiac trunk
+visceral artery aneurysm	located in	superior mesenteric artery
+visceral artery aneurysm	located in	pancreaticoduodenal artery
+pancreaticoduodenal artery aneurysm	is a	visceral aneurysm
+celiac trunk aneurysm	is a	visceral aneurysm
+splenic artery aneurysm	is a	visceral aneurysm
 abdominal aortic aneurysm	diagnosed by	CT angiography
+abdominal aortic aneurysm	diagnosed by	ultrasound
 thoracic aortic aneurysm	diagnosed by	CT angiography
+thoracic aortic aneurysm	diagnosed by	MRI angiography
+peripheral artery aneurysm	diagnosed by	duplex ultrasound
+peripheral artery aneurysm	diagnosed by	CT angiography
 visceral artery aneurysm	diagnosed by	CT angiography
-endovascular repair	requires	vascular access
-open repair	requires	general anesthesia
-endoleak	is a complication of	endovascular aneurysm repair
-endovascular aneurysm repair	reduces	rupture risk
-ruptured aneurysm	has	high mortality
-elective repair	reduces	rupture risk
-aneurysm location	influences	repair type
-elective repair	improves	survival
-rupture status	affects	mortality
-mortality	higher in	ruptured abdominal aortic aneurysm
-elective surveillance	enables	timely repair
-late repair	associated with	increased mortality
-vascular surgeon	performs	aneurysm repair
-anatomic variant	increases	surgical complexity
-femoral access	used for	endovascular repair
-contrast agent	carries	nephropathy risk
-nephropathy risk	increases	morbidity
-endovascular aneurysm repair	requires	fluoroscopy
-fluoroscopy	provides	real-time imaging
-stent patency	influences	endovascular success
-endoleak	increases	rupture risk
-aneurysm morphology	influences	treatment decision
-fusiform aneurysm	is a type of	aneurysm
-saccular aneurysm	is a type of	aneurysm
-mycotic aneurysm	results from	infection
-stent graft	excludes	aneurysm
-stent graft	achieves	aneurysm exclusion
-coil embolization	achieves	aneurysm exclusion
-postoperative imaging	monitors	graft integrity
-graft integrity	influences	long-term outcome
-long-term outcome	depends on	aneurysm location
-access site	is used for	endovascular procedures
-anticoagulation	used for	vascular grafts
-thromboembolism	risk in	aneurysm
-postoperative infection	risk after	aneurysm repair
-inherited aneurysm risk	increases	screening urgency
-screening ultrasound	detects	aneurysm in population
-population screening	improves	early detection
-vasculopathy	associated with	aneurysm formation
-cerebrovascular events	risk after	aneurysm rupture
-surgical complication	includes	bleeding
-bleeding	risk in	rupture repair
-clinical guideline	recommends	aneurysm surveillance
+endovascular repair	used for	abdominal aortic aneurysm
+endovascular repair	used for	peripheral artery aneurysm
+open surgical repair	used for	abdominal aortic aneurysm
+open surgical repair	used for	visceral artery aneurysm
+stent graft	used in	endovascular repair
+endovascular repair	reduces	mortality
+endovascular repair	excludes	aneurysm sac
+vascular graft	used in	open surgical repair
+aneurysm	treated with	surgery
+aneurysm	treated with	endovascular repair
+aneurysm	treated with	medical therapy
+medical therapy	includes	blood pressure control
+blood pressure control	reduces	growth rate
+beta-blocker therapy	is used for	aortic enlargement
+statin therapy	is used for	atherosclerosis management
+smoking cessation	reduces	aneurysm growth
+family history	increases risk for	aneurysm
+blood pressure	impacts	rupture risk
+dilation	indicates	aneurysm progression
+size	correlates with	rupture risk
+size	measured as	diameter
+aneurysm size	guides	repair threshold
+aneurysm rupture	causes	hypovolemia
+rupture	leads to	hemorrhagic shock
+calcification	indicates	chronic vascular disease
+CT angiography	provides	aneurysm visualization
+MRI angiography	provides	arterial anatomy visualization
+duplex ultrasound	provides	aneurysm detection
+aneurysm surveillance	requires	serial imaging
+sural artery aneurysm	is a	rare peripheral aneurysm
+iliac artery aneurysm	is a	peripheral aneurysm
+axillary artery aneurysm	is a	peripheral aneurysm
+superior mesenteric artery aneurysm	is a	visceral aneurysm
+hepatic artery aneurysm	is a	visceral aneurysm
+celiac trunk aneurysm	is a	visceral aneurysm
+pancreaticoduodenal artery aneurysm	is a	visceral aneurysm
+Marfan syndrome	predisposes to	aortic dilation
+Ehlers-Danlos syndrome	predisposes to	arterial rupture
+fibromuscular dysplasia	predisposes to	visceral artery aneurysm
+pancreatitis	predisposes to	splenic artery aneurysm
+pseudocyst	predisposes to	splenic artery aneurysm
+blood pressure	control with	antihypertensives
+antihypertensives	stabilize	aortic wall stress
+aneurysm	growth rate	correlates with	blood pressure
+aneurysm	growth rate	correlates with	smoking
+aneurysm	growth rate	correlates with	cholesterol
+cholesterol	association	atherosclerosis
+atherosclerosis	contributes to	arterial dilation
+arterial wall	integrity	declines with	age
+age	increases	aneurysm formation
+gender	distribution	male predominance
+hereditary	increases	aneurysm risk
+connective tissue disorder	causes	arterial fragility
+bicuspid aortic valve	associated with	aortic dilation
+aneurysm	commonly	solitary
+aneurysm	may be	multiple
+aneurysm	presents with	pulsatile mass
+abdominal aortic aneurysm	presents with	abdominal bruit
+thoracic aortic aneurysm	presents with	back pain
+visceral artery aneurysm	presents with	abdominal pain
+splenic artery aneurysm	presents with	epigastric pain
+aneurysm	risk of	rupture during	pregnancy
+pregnancy	increases	rupture risk in aneurysm
+postoperative	complications	infection
+stent graft	complication	endoleak
+endoleak	leads to	persistent aneurysm sac pressurization
+annual imaging	recommended for	small aneurysms
+6-month imaging	recommended for	moderate aneurysms
+5-year imaging	recommended for	stable aneurysm
+watchful waiting	appropriate for	small aneurysm
+watchful waiting	requires	patient compliance
+vascular center	provides	aneurysm repair

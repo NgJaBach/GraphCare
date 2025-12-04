@@ -1,0 +1,101 @@
+hip fracture	is treated with	surgery
+hip fracture	is treated with	open reduction internal fixation
+hip fracture	is treated with	total hip replacement
+hip fracture	is treated with	hemiarthroplasty
+hip fracture	is treated with	closed reduction
+hip fracture	is treated with	intramedullary nail
+hip fracture	is treated with	plate fixation
+hip fracture	is treated with	traction
+hip fracture	is treated with	external fixation
+hip fracture	requires	anesthesia
+hip fracture	requires	postoperative rehabilitation
+hip fracture	causes	immobilization
+hip fracture	increases	mortality
+hip fracture	increases	morbidity
+hip fracture	increases	length of stay
+hip fracture	increases	hospital cost
+hip fracture	predisposes to	thromboembolism
+hip fracture	predisposes to	delirium
+hip fracture	predisposes to	infection
+hip fracture	associated with	osteoporosis
+hip fracture	associated with	sarcopenia
+hip fracture	affects	mobility
+hip fracture	affects	activities of daily living
+hip fracture	reduces	ambulation speed
+hip fracture	reduces	independence
+hip fracture	managed with	analgesia
+hip fracture	managed with	nerve block
+hip fracture	managed with	regional anesthesia
+hip fracture	managed with	general anesthesia
+hip fracture	diagnosed by	radiography
+hip fracture	diagnosed by	ct scan
+hip fracture	diagnosed by	mri
+hip fracture	requires	imaging
+femur fracture	is treated with	intramedullary nail
+femur fracture	is treated with	plate fixation
+femur fracture	is treated with	external fixation
+femur fracture	is treated with	traction
+femur fracture	is treated with	hemiarthroplasty
+femur fracture	requires	analgesia
+femur fracture	requires	anesthesia
+femur fracture	leads to	immobilization
+femur fracture	increases	mortality
+femur fracture	increases	length of stay
+femur fracture	predisposes to	thromboembolism
+femur fracture	diagnosed by	radiography
+femur fracture	diagnosed by	ct scan
+femur fracture	diagnosed by	mri
+femur fracture	treated with	intramedullary nail
+femur fracture	treated with	plate fixation
+femur fracture	treated with	external fixation
+femur fracture	treated with	cerclage
+femur fracture	requires	rehabilitation
+femur fracture	leads to	reduced mobility
+femur fracture	increases	hospital cost
+femur fracture	associated with	osteoporosis
+femur fracture	associated with	sarcopenia
+femur fracture	increases	risk of infection
+femur fracture	increases	risk of pneumonia
+femur fracture	monitored by	radiography
+femur fracture	monitored by	ct scan
+femur fracture	monitored by	mri
+femur fracture	treated with	cerclage wires
+femur fracture	managed with	rehabilitation
+femur fracture	associated with	long-term disability
+femur fracture	increases	discharge planning needs
+femur fracture	increases	risk of reoperation
+hip dislocation	is treated with	closed reduction
+hip dislocation	is treated with	open reduction
+hip dislocation	requires	anesthesia
+hip dislocation	leads to	avascular necrosis
+hip dislocation	predisposes to	nerve injury
+hip dislocation	predisposes to	vascular injury
+hip dislocation	associated with	acetabular fracture
+hip dislocation	reduces	pain
+hip dislocation	increases	hospital stay
+hip dislocation	increases	blood loss
+hip dislocation	requires	rehabilitation
+hip dislocation	diagnosed by	radiography
+hip dislocation	diagnosed by	ct scan
+hip dislocation	diagnosed by	mri
+hip dislocation	managed by	physical therapy
+hip dislocation	prognosis	variable
+hip dislocation	recurrence	risk
+hip dislocation	prevented by	protective equipment
+hip dislocation	results in	functional impairment
+hip dislocation	requires	hospitalization
+hip dislocation	monitored by	imaging
+hip dislocation	treated with	immobilization
+hip dislocation	managed with	analgesia
+hip dislocation	associated with	soft tissue injury
+hip dislocation	followed by	surgical stabilization
+trauma	triggers	hip dislocation
+hip dislocation	reduces	gait
+protective equipment	reduces	dislocation risk
+occupational therapy	improves	functional independence
+surgical stabilization	performed for	chronic instability
+acetabular fracture	treated with	open reduction internal fixation
+acetabular fracture	treated with	open reduction internal fixation
+arthroplasty	used for	hip reconstruction
+postoperative care	requires	monitoring
+rehabilitation	improves	functional independence

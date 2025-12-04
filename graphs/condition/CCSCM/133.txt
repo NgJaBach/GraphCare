@@ -1,100 +1,100 @@
-other lower respiratory disease	is a	respiratory disease
-other lower respiratory disease	associated with	smoking
-other lower respiratory disease	associated with	air pollution
-other lower respiratory disease	associated with	occupational exposure
-other lower respiratory disease	risk factor for	hypoxemia
-other lower respiratory disease	risk factor for	respiratory failure
-other lower respiratory disease	increases	hospitalization
-other lower respiratory disease	increases	mortality
-other lower respiratory disease	increases	readmission
-other lower respiratory disease	worsens	quality of life
+other lower respiratory disease	is a	lower respiratory tract disease
+other lower respiratory disease	is associated with	smoking
+other lower respiratory disease	is associated with	air pollution
+other lower respiratory disease	is associated with	older age
+other lower respiratory disease	is associated with	male sex
+other lower respiratory disease	increases risk of	pneumonia
+other lower respiratory disease	increases risk of	acute respiratory failure
+other lower respiratory disease	increases risk of	hospitalization
+other lower respiratory disease	coexists with	COPD
+other lower respiratory disease	coexists with	asthma
+other lower respiratory disease	coexists with	bronchitis
+other lower respiratory disease	associated with	bronchial inflammation
+other lower respiratory disease	caused by	bacteria
+other lower respiratory disease	caused by	virus
+other lower respiratory disease	caused by	fungus
+other lower respiratory disease	diagnosed by	chest radiography
+other lower respiratory disease	diagnosed by	CT scan
+other lower respiratory disease	diagnosed by	bronchoscopy
+other lower respiratory disease	diagnosed by	sputum culture
+other lower respiratory disease	diagnosed by	spirometry
+other lower respiratory disease	treated with	antibiotics
+other lower respiratory disease	treated with	bronchodilators
+other lower respiratory disease	treated with	corticosteroids
+other lower respiratory disease	treated with	oxygen therapy
+other lower respiratory disease	treated with	mechanical ventilation
+other lower respiratory disease	treated with	pulmonary rehabilitation
+other lower respiratory disease	causes	hypoxemia
+other lower respiratory disease	causes	hypercapnia
 other lower respiratory disease	presents with	cough
 other lower respiratory disease	presents with	dyspnea
-other lower respiratory disease	presents with	wheeze
-other lower respiratory disease	presents with	sputum production
-other lower respiratory disease	diagnosed by	spirometry
-other lower respiratory disease	diagnosed by	chest X-ray
-other lower respiratory disease	diagnosed by	CT scan
-other lower respiratory disease	monitored by	pulse oximetry
-other lower respiratory disease	monitored by	arterial blood gas
-other lower respiratory disease	treated with	bronchodilator
-other lower respiratory disease	treated with	inhaled corticosteroid
-other lower respiratory disease	treated with	systemic corticosteroid
-other lower respiratory disease	treated with	antibiotics
-other lower respiratory disease	treated with	oxygen therapy
-other lower respiratory disease	treated with	noninvasive ventilation
-other lower respiratory disease	treated with	invasive ventilation
-other lower respiratory disease	managed with	smoking cessation
-other lower respiratory disease	managed with	pulmonary rehabilitation
-other lower respiratory disease	managed with	vaccination
-influenza vaccination	reduces	exacerbations
-influenza vaccination	reduces	hospitalizations
-smoking cessation	improves	disease progression
-oxygen therapy	improves	hypoxemia
-bronchodilator	relieves	dyspnea
-inhaled corticosteroid	reduces	airway inflammation
-systemic corticosteroid	used for	acute exacerbation
-antibiotic	treats	bacterial infection
-pneumonia	exacerbates	other lower respiratory disease
-acute exacerbation	worsens	symptoms
-pulmonary rehabilitation	improves	exercise capacity
-exercise capacity	predicts	physical performance
-cough	indicates	disease activity
-dyspnea	indicates	disease severity
-sputum	contains	bacteria
-fever	indicates	infection
-hypoxemia	worsens	cognitive function
-hypercapnia	worsens	acidosis
-body mass index	influences	prognosis
-age	influences	mortality
-sex	influences	disease prevalence
-hypertension	comorbid with	other lower respiratory disease
-diabetes mellitus	comorbid with	other lower respiratory disease
-coronary artery disease	comorbid with	other lower respiratory disease
-heart failure	worsens	prognosis of other lower respiratory disease
-anemia	worsens	exercise tolerance
-osteoporosis	associated with	corticosteroid use
-corticosteroid use	increases	osteoporosis risk
-pulmonary hypertension	coexists with	chronic respiratory disease
-sarcopenia	prevalent in	chronic respiratory disease
-malnutrition	associated with	poor prognosis in chronic respiratory disease
-smoking	causes	chronic respiratory disease
-airway remodeling	present in	chronic respiratory disease
-airway hyperresponsiveness	present in	chronic respiratory disease
-exacerbation	triggers	respiratory infections
-infection	triggers	hospitalization
-vaccination	reduces	respiratory infections
-seasonality	affects	infection rate
-bronchodilator therapy	improves	airway obstruction
-inhaled corticosteroid therapy	reduces	airway hyperresponsiveness
-systemic corticosteroid therapy	shortens	recovery time
-nebulized therapy	used for	airway obstruction
-airway inflammation	contributes to	mucus production
-mucus production	causes	cough
-cough	affects	sleep quality
-sleep disturbance	worsens	daytime function
-daytime function	correlates with	quality of life
-quality of life	improves with	rehabilitation
-rehabilitation	reduces	readmission rate
-readmission rate	used for	hospital quality metric
-hospitalization	increases	healthcare cost
-pseudomonas infection	associated with	chronic respiratory disease
-blood eosinophil count	predicts	inhaled corticosteroid response
-alpha-1 antitrypsin deficiency	causes	emphysema
-emphysema	caused by	smoking
-bronchiectasis	associated with	recurrent infections
-pneumothorax	complication of	invasive ventilation
-respiratory failure	requires	ventilation
-hypoxemia	reduces	cognitive performance
-nutrition status	influences	exercise tolerance
-physical activity	improves	exercise tolerance
-tobacco exposure	associated with	lower respiratory disease
-airway obstruction	worsens	hypoxemia
-mucous gland hyperplasia	present in	chronic respiratory disease
-bronchodilator therapy	reduces	dyspnea
-mucus hypersecretion	linked to	chronic bronchitis
-cough variant asthma	related to	lower respiratory disease
-blood gas analysis	used for	assessing gas exchange
-lung compliance	decreases	with chronic respiratory disease
-alveolar ventilation	decreases	with severe obstruction
-respiratory drive	affected by	hypercapnia
+other lower respiratory disease	presents with	fever
+other lower respiratory disease	presents with	chest pain
+other lower respiratory disease	worsens	respiratory function
+other lower respiratory disease	progresses to	bronchiectasis
+other lower respiratory disease	leads to	ICU admission
+other lower respiratory disease	leads to	respiratory failure
+other lower respiratory disease	increases	length of stay
+other lower respiratory disease	increases	mortality risk
+other lower respiratory disease	increases	readmission rate
+other lower respiratory disease	associated with	sepsis
+other lower respiratory disease	associated with	acute kidney injury
+other lower respiratory disease	associated with	malnutrition
+other lower respiratory disease	associated with	immune dysfunction
+other lower respiratory disease	associated with	autoimmune disease
+other lower respiratory disease	associated with	chronic anemia
+other lower respiratory disease	associated with	dehydration
+other lower respiratory disease	measured by	oxygen saturation
+other lower respiratory disease	measured by	arterial blood gas
+other lower respiratory disease	associated with	hypoxemia
+other lower respiratory disease	associated with	hypercapnia
+other lower respiratory disease	contributes to	disability
+other lower respiratory disease	affects	quality of life
+other lower respiratory disease	affects	exercise tolerance
+other lower respiratory disease	affects	daily activities
+other lower respiratory disease	affects	work productivity
+other lower respiratory disease	is prevented by	vaccination
+other lower respiratory disease	is prevented by	smoking cessation
+other lower respiratory disease	is prevented by	air quality improvements
+other lower respiratory disease	reduces	pneumonia risk
+other lower respiratory disease	reduces	hospitalization risk
+other lower respiratory disease	has	seasonal patterns
+other lower respiratory disease	has	acute exacerbations
+other lower respiratory disease	occurs in	winter months
+other lower respiratory disease	occurs in	urban populations
+other lower respiratory disease	observed in	smokers
+other lower respiratory disease	diagnosed in	hospital setting
+other lower respiratory disease	managed with	multidisciplinary care
+other lower respiratory disease	recognized by	diagnostic criteria
+other lower respiratory disease	recorded in	medical records
+other lower respiratory disease	referenced by	clinical guidelines
+other lower respiratory disease	associated with	pneumonia severity score
+other lower respiratory disease	associated with	CURB-65 score
+other lower respiratory disease	reduces	healthcare costs
+other lower respiratory disease	tracked by	adverse event monitoring
+other lower respiratory disease	associated with	hospital readmissions
+other lower respiratory disease	has	chronic courses
+other lower respiratory disease	has	acute episodes
+other lower respiratory disease	influences	prognosis
+other lower respiratory disease	influences	treatment decisions
+other lower respiratory disease	influences	discharge planning
+other lower respiratory disease	is a	public health concern
+other lower respiratory disease	appears as	comorbidity
+other lower respiratory disease	appears in	chest imaging
+other lower respiratory disease	appears with	inspiratory crackles
+other lower respiratory disease	overlaps with	upper respiratory disease
+other lower respiratory disease	overlaps with	pneumonia
+other lower respiratory disease	shares pathophysiology with	COPD
+other lower respiratory disease	shares pathophysiology with	asthma
+other lower respiratory disease	has	subtypes
+other lower respiratory disease	includes	bronchitis
+other lower respiratory disease	studied in	clinical trials
+other lower respiratory disease	addressed by	public health measures
+other lower respiratory disease	reported in	epidemiology studies
+other lower respiratory disease	targeted by	preventive strategies
+other lower respiratory disease	tracked by	national surveillance
+other lower respiratory disease	defined as	inflammatory lung condition
+other lower respiratory disease	associated with	alveolar damage
+other lower respiratory disease	causes	alveolar edema
+other lower respiratory disease	reduces	tolerance to exercise
+other lower respiratory disease	impacts	healthcare utilization

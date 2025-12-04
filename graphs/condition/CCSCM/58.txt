@@ -1,100 +1,100 @@
-diabetes mellitus	is a	endocrine disorder
-diabetes mellitus	may cause	nephropathy
-diabetes mellitus	may cause	retinopathy
-diabetes mellitus	may cause	neuropathy
-diabetes mellitus	may cause	cardiovascular disease
-diabetes mellitus	is treated with	insulin therapy
-diabetes mellitus	is treated with	metformin
-hemoglobin A1c	is a test for	diabetes mellitus
-insulin	is a	hormone
-metformin	is a	medication
-nephropathy	is a	complication of diabetes mellitus
-retinopathy	is a	complication of diabetes mellitus
-neuropathy	is a	complication of diabetes mellitus
-hypoglycemia	is a	complication of diabetes mellitus
-hyperglycemia	is a	metabolic state
 obesity	is a	metabolic disorder
-obesity	is a risk factor for	diabetes mellitus
-obesity	is a risk factor for	hypertension
-obesity	is a risk factor for	sleep apnea
-hypertension	is a	cardiovascular risk factor
-metabolic syndrome	is a	metabolic disorder
+obesity	increases risk for	type 2 diabetes mellitus
+obesity	increases risk for	hypertension
+obesity	increases risk for	dyslipidemia
 metabolic syndrome	is associated with	insulin resistance
+metabolic syndrome	increases risk for	cardiovascular disease
+type 2 diabetes mellitus	is a	metabolic disorder
+type 2 diabetes mellitus	causes	nephropathy
+type 2 diabetes mellitus	causes	retinopathy
+type 2 diabetes mellitus	causes	neuropathy
+type 2 diabetes mellitus	increases risk for	cardiovascular disease
+type 2 diabetes mellitus	treated with	metformin
+type 2 diabetes mellitus	treated with	insulin
+type 1 diabetes mellitus	is a	autoimmune disorder
+type 1 diabetes mellitus	requires	insulin
+insulin	is a	hormone
+metformin	is a	drug
+statin	is a	drug
 dyslipidemia	is a	lipid disorder
-dyslipidemia	may cause	atherosclerosis
-hyperlipidemia	is a	lipid disorder
-hyperlipidemia	increases risk for	atherosclerosis
+LDL cholesterol	is a	biomarker
+HDL cholesterol	is a	biomarker
+triglyceride	is a	biomarker
+non-alcoholic fatty liver disease	is a	metabolic liver disease
+NAFLD	is associated with	obesity
+NAFLD	is associated with	insulin resistance
+cirrhosis	is a	liver disease
 hypothyroidism	is a	endocrine disorder
+hypothyroidism	causes	hyperlipidemia
 hyperthyroidism	is a	endocrine disorder
-goiter	is a	thyroid disorder
-thyroid nodule	is a	thyroid disorder
-parathyroidism	is a	endocrine disorder
-hyperparathyroidism	is a	endocrine disorder
-hypoparathyroidism	is a	endocrine disorder
-cushing syndrome	is a	endocrine disorder
-addison disease	is a	endocrine disorder
-adrenal insufficiency	is a	endocrine disorder
-diabetic ketoacidosis	is a	acute complication of diabetes mellitus
-osteoporosis	is a	metabolic bone disease
-osteopenia	is a	metabolic bone disease
-vitamin D deficiency	is a	nutritional deficiency
-calcium deficiency	is a	nutritional deficiency
-iron deficiency anemia	is a	nutritional deficiency
-folate deficiency	is a	nutritional deficiency
-vitamin B12 deficiency	is a	nutritional deficiency
-malnutrition	is a	nutritional disorder
-anorexia nervosa	is a	nutritional disorder
-kwashiorkor	is a	nutritional disorder
-marasmus	is a	nutritional disorder
-iron deficiency	is a	nutritional deficiency
-anemia	is a	hematologic disorder
-hyponatremia	is a	electrolyte disorder
-hyperkalemia	is a	electrolyte disorder
-hypokalemia	is a	electrolyte disorder
-metabolic acidosis	is a	metabolic disorder
-metabolic alkalosis	is a	metabolic disorder
-lactic acidosis	is a	metabolic disorder
-gout	is a	metabolic disorder
-hyperuricemia	is a	metabolic disorder
-gout	may cause	arthritis
-uric acid	is a	metabolic marker
-galactosemia	is a	metabolic disorder
-phenylketonuria	is a	metabolic disorder
-glycogen storage disease	is a	metabolic disorder
-liver disease	is a	metabolic disorder
-inborn error of metabolism	is a	metabolic disorder
-hypothyroidism	may cause	hyperlipidemia
-thyroid-stimulating hormone	is a	hormone
-parathyroid hormone	is a	hormone
+thyroiditis	is an	autoimmune condition
+goiter	is a	thyroid condition
+Hashimoto thyroiditis	is an	autoimmune disease
+levothyroxine	is a	drug
+osteoporosis	is a	bone disease
+osteopenia	is a	bone disease
 calcium	is a	mineral
 phosphate	is a	mineral
-vitamin D	is a	nutrient
-magnesium deficiency	is a	nutritional deficiency
-selenium deficiency	is a	nutritional deficiency
-zinc deficiency	is a	nutritional deficiency
-protein deficiency	is a	nutritional deficiency
-vitamin A deficiency	is a	nutritional deficiency
-vitamin C deficiency	is a	nutritional deficiency
-riboflavin deficiency	is a	nutritional deficiency
-niacin deficiency	is a	nutritional deficiency
-calorie deficiency	is a	nutritional deficiency
-malabsorption	is a	nutritional disorder
-protein-energy malnutrition	is a	nutritional disorder
-anemia of chronic disease	is a	hematologic disorder
-hemoglobin	is a	blood component
-albumin	is a	biomarker
-creatinine clearance	is a	biomarker
-eGFR	is a	biomarker
-urinalysis	is a	diagnostic test
-urine protein	is a	biomarker
+parathyroid hormone	is a	hormone
+vitamin D deficiency	is a	deficiency
+iron deficiency anemia	is a	anemia
+ferritin	is a	biomarker
+vitamin B12 deficiency	is a	deficiency
+folate deficiency	is a	deficiency
+anemia	is a	hematologic condition
+iron	is a	mineral
+magnesium	is a	mineral
+electrolyte imbalance	is a	disorder
+hyponatremia	is a	electrolyte abnormality
+hyperkalemia	is a	electrolyte abnormality
+hypokalemia	is a	electrolyte abnormality
+metabolic acidosis	is a	metabolic disorder
+lactic acidosis	is a	metabolic acidosis
+metabolic alkalosis	is a	metabolic disorder
+pancreatic insufficiency	is a	digestive disorder
+adrenal insufficiency	is a	endocrine disorder
+Cushing syndrome	is a	endocrine disorder
+polycystic ovary syndrome	is a	endocrine disorder
+gestational diabetes	is a	pregnancy complication
+insulin resistance	is a	metabolic state
+microalbuminuria	is a	biomarker
+diabetic nephropathy	is a	kidney complication
+chronic kidney disease	is a	kidney disease
+myocardial infarction	is a	cardiovascular event
+stroke	is a	cardiovascular event
+peripheral arterial disease	is a	cardiovascular complication
+atherosclerosis	is a	cardiovascular disease
+foot ulcer	is a	complication
+infection	is a	complication
+glycemic control	is a	metric
+fasting glucose	is a	biomarker
+C-peptide	is a	biomarker
+HbA1c	is a	biomarker
+bilirubin	is a	biomarker
+alanine aminotransferase	is a	biomarker
+aspartate aminotransferase	is a	biomarker
+thyroid antibodies	is a	biomarker
+thyroid peroxidase antibodies	is a	biomarker
+fasting insulin	is a	biomarker
+weight	is a	metric
+age	is a	demographic factor
+smoking	is a	risk factor
+alcohol use	is a	risk factor
+physical activity	is a	behavior
+ACE inhibitor	is a	drug
+angiotensin receptor blocker	is a	drug
 albuminuria	is a	biomarker
-glucose tolerance test	is a	diagnostic test for diabetes mellitus
-fasting plasma glucose	is a	diagnostic test for diabetes mellitus
-oral glucose tolerance test	is a	diagnostic test for diabetes mellitus
-lipid panel	is a	diagnostic test for lipid disorders
-thyroid function test	is a	diagnostic test for thyroid disorders
-calcium test	is a	diagnostic test for parathyroid disorders
-bone density scan	is a	diagnostic test for osteoporosis
-DEXA scan	is a	diagnostic test for osteoporosis
-osteomalacia	is a	metabolic bone disease
-rickets	is a	metabolic bone disease
+glycemic index	is a	metric
+glucose	is a	biomarker
+glycemic variability	is a	metabolic parameter
+cortisol	is a	hormone
+aldosterone	is a	hormone
+vitamin K deficiency	is a	deficiency
+selenium deficiency	is a	deficiency
+zinc deficiency	is a	deficiency
+protein-energy malnutrition	is a	malnutrition
+sleep apnea	is associated with	obesity
+menopause	is associated with	osteoporosis
+vitamin A deficiency	is a	deficiency
+thiamine deficiency	is a	deficiency
+niacin deficiency	is a	deficiency

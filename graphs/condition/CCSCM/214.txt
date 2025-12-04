@@ -1,96 +1,100 @@
-digestive congenital anomalies	associated with	prematurity
-digestive congenital anomalies	associated with	low birth weight
-digestive congenital anomalies	associated with	congenital heart disease
-digestive congenital anomalies	associated with	respiratory distress syndrome
-gastroschisis	associated with	prematurity
-gastroschisis	requires	surgery
-gastroschisis	increases risk of	sepsis
-gastroschisis	increases mortality risk	neonatal death
-gastroschisis	associated with	intestinal atresia
-gastroschisis	associated with	intestinal stenosis
-gastroschisis	associated with	intrauterine growth restriction
-gastroschisis	associated with	chromosomal abnormality
-omphalocele	associated with	cardiac anomalies
-omphalocele	requires	surgery
-omphalocele	increases risk of	hospitalization length
-omphalocele	associated with	Beckwith-Wiedemann syndrome
-omphalocele	associated with	chromosomal abnormality
-duodenal atresia	associated with	Down syndrome
-duodenal atresia	requires	surgery
-duodenal atresia	increases risk of	feeding intolerance
-duodenal atresia	associated with	polyhydramnios
-duodenal atresia	increases mortality risk	neonatal death
-esophageal atresia	associated with	TEF
-esophageal atresia	requires	surgical repair
-esophageal atresia	associated with	choking on feeds
-esophageal atresia	associated with	feeding difficulties
-Hirschsprung disease	associated with	Down syndrome
-Hirschsprung disease	requires	surgery
-Hirschsprung disease	increases risk of	enterocolitis
-annular pancreas	associated with	duodenal obstruction
-annular pancreas	requires	surgery
-anorectal malformation	associated with	urogenital anomalies
-anorectal malformation	requires	corrective surgery
-anorectal malformation	increases risk of	stool incontinence
-intestinal atresia	associated with	prematurity
-intestinal atresia	requires	surgery
-jejunal atresia	associated with	prematurity
-jejunal atresia	requires	surgery
-ileal atresia	associated with	polyhydramnios
-ileal atresia	requires	surgery
- biliary atresia	requires	liver transplant
- biliary atresia	increases risk of	infant mortality
-meconium ileus	associated with	cystic fibrosis
-meconium ileus	requires	surgery
-meconium ileus	increases risk of	bowel obstruction
-malrotation	associated with	volvulus
-malrotation	requires	surgery
-malrotation	increases risk of	intestinal ischemia
+digestive congenital anomalies	include	anorectal malformations
+digestive congenital anomalies	include	esophageal atresia
+digestive congenital anomalies	include	duodenal atresia
+digestive congenital anomalies	include	pyloric stenosis
+digestive congenital anomalies	include	jejunal atresia
+digestive congenital anomalies	include	ileal atresia
+digestive congenital anomalies	include	intestinal atresia
+digestive congenital anomalies	include	meconium ileus
+digestive congenital anomalies	include	Hirschsprung disease
+digestive congenital anomalies	include	malrotation
+digestive congenital anomalies	include	malrotation with volvulus
+digestive congenital anomalies	include	gastroschisis
+digestive congenital anomalies	include	omphalocele
+digestive congenital anomalies	include	biliary atresia
+digestive congenital anomalies	include	annular pancreas
+digestive congenital anomalies	include	choledochal cyst
+digestive congenital anomalies	include	anal stenosis
+digestive congenital anomalies	include	rectal atresia
+digestive congenital anomalies	include	rectovaginal fistula
+digestive congenital anomalies	include	colonic atresia
+anorectal malformations	require	neonatal surgery
+anorectal malformations	may require	colostomy
+anorectal malformations	associated with	urogenital anomalies
+anorectal malformations	associated with	vertebral anomalies
+anorectal malformations	prognosis	variable
+esophageal atresia	associated with	tracheoesophageal fistula
+esophageal atresia	diagnosed by	prenatal ultrasound
+esophageal atresia	treated with	surgical repair
+esophageal atresia	increases risk for	respiratory infections
+tracheoesophageal fistula	treated with	surgical repair
 tracheoesophageal fistula	associated with	esophageal atresia
-tracheoesophageal fistula	requires	surgical repair
-tracheoesophageal fistula	increases risk of	pneumonia
-esophageal atresia with TEF	associated with	VACTERL syndrome
-esophageal atresia with TEF	requires	surgery
-gastroschisis	associated with	maternal age
-gastroschisis	associated with	maternal diabetes
-duodenal atresia	associated with	polyhydramnios
-pyloric stenosis	associated with	dehydration
-pyloric stenosis	requires	pyloromyotomy
-pyloric stenosis	increases risk of	metabolic alkalosis
-pyloric stenosis	associated with	male sex
-neonatal surgery	indicated by	digestive congenital anomalies
-neonatal intensive care	required by	digestive congenital anomalies
-neonatal death	associated with	digestive congenital anomalies
-postoperative complication	seen in	digestive congenital anomalies
-length of hospital stay	increased by	digestive congenital anomalies
-readmission risk	increased by	digestive congenital anomalies
-mortality risk	increased by	digestive congenital anomalies
-hospitalization cost	increased by	digestive congenital anomalies
-surgical correction	performed for	gastroschisis
-surgical correction	performed for	omphalocele
-stoma creation	performed for	anorectal malformation
-stoma creation	associated with	infection risk
-stoma reversal	performed for	anorectal malformation
-liver transplant	indicated by	biliary atresia
-kidney anomalies	associated with	digestive congenital anomalies
-prenatal ultrasound	detects	gastroschisis
-prenatal ultrasound	detects	duodenal atresia
-prenatal ultrasound	detects	esophageal atresia
+duodenal atresia	presents with	bilious vomiting
+duodenal atresia	diagnosed by	abdominal radiograph
+duodenal atresia	managed with	surgical repair
+pyloric stenosis	presents with	projectile vomiting
+pyloric stenosis	treated with	pyloromyotomy
+jejunal atresia	treated with	surgical repair
+ileal atresia	treated with	surgical repair
+intestinal atresia	treated with	surgical repair
+meconium ileus	associated with	cystic fibrosis
+meconium ileus	diagnosed by	contrast enema
+Hirschsprung disease	diagnosed by	rectal biopsy
+Hirschsprung disease	treated with	surgery
+malrotation	presents with	bilious vomiting
+malrotation	may cause	midgut volvulus
+malrotation	diagnosed by	upper GI series
+gastroschisis	managed with	neonatal surgery
+omphalocele	managed with	surgical repair
+choledochal cyst	treated with	surgical resection
+choledochal cyst	associated with	pancreaticobiliary maljunction
+annular pancreas	causes	duodenal obstruction
+annular pancreas	treated with	surgical repair
+biliary atresia	treated with	Kasai procedure
+biliary atresia	may require	liver transplant
+gastroschisis	associated with	prematurity
+omphalocele	associated with	chromosomal anomaly
+duodenal stenosis	presents with	vomiting
+duodenal stenosis	treated with	surgical repair
+colonic atresia	treated with	surgical repair
+VACTERL association	includes	anal anomalies
+VACTERL association	includes	vertebral anomalies
+prenatal ultrasound	detects	digestive congenital anomalies
+prenatal diagnosis	predicts	digestive congenital anomalies
+Kasai procedure	used for	biliary atresia
+neonatal intensive care	required by	newborn with digestive congenital anomalies
+hospital stay	increased by	gastroschisis
+ICU stay	increased by	omphalocele
+respiratory infection	risk increased by	esophageal atresia
+surgical repair	improves	feeding ability
+surgical repair	reduces	obstruction symptoms
+colostomy	creates	fecal diversion
+ileostomy	creates	fecal diversion
+rectovaginal fistula	repaired with	surgery
+anal stenosis	treated with	dilation
+rectal atresia	treated with	surgery
+anorectal fistula	treated with	fistulotomy
+colonic atresia	presents with	obstruction
+malrotation with volvulus	presents with	bilious vomiting
 Beckwith-Wiedemann syndrome	associated with	omphalocele
-Beckwith-Wiedemann syndrome	predisposes to	omphalocele
-neural crest defect	associated with	Hirschsprung disease
-spinal anomalies	associated with	anorectal malformation
-neonatal infection	associated with	gastroschisis
-neonatal pneumonia	associated with	esophageal atresia
-neonatal sepsis	associated with	biliary atresia
-bowel obstruction	associated with	meconium ileus
-dehydration	associated with	pyloric stenosis
-electrolyte imbalance	associated with	pyloric stenosis
-tracheomalacia	associated with	digestive congenital anomalies
-feeding difficulties	associated with	esophageal atresia
-swallowing dysfunction	associated with	esophageal atresia
-nasal feeding	used for	digestive congenital anomalies
-gastrostomy	used for	feeding difficulties
-surgical delay	worsens	neonatal outcomes
-prenatal nutrition	affects	neonatal growth
-congenital anomalies	share associations with	birth defects
+Beckwith-Wiedemann syndrome	features	macroglossia
+duodenal atresia	associated with	Down syndrome
+Hirschsprung disease	associated with	Down syndrome
+omphalocele	associated with	Beckwith-Wiedemann syndrome
+Beckwith-Wiedemann syndrome	includes	omphalocele
+prenatal MRI	used for	detecting digestive congenital anomalies
+high-resolution ultrasound	improves	detection of anomalies
+rectal atresia	presents with	meconium delay
+gastroschisis	increases	infection risk
+Ladd procedure	used for	malrotation
+Ladd procedure	prevents	midgut volvulus
+ileal atresia	requires	bowel resection
+jejunal atresia	presents with	abdominal distension
+gastroschisis	requires	silo coverage
+Beckwith-Wiedemann syndrome	features	macroglossia
+Beckwith-Wiedemann syndrome	associated with	omphalocele
+prenatal imaging	identifies	digestive congenital anomalies
+bowel dilation	indicates	obstruction
+anastomosis	restores	intestinal continuity
+neonatal mortality	risk increased by	digestive congenital anomalies
+postoperative care	includes	analgesia

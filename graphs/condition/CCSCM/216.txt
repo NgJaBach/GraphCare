@@ -1,0 +1,100 @@
+spina bifida	is a	neural tube defect
+anencephaly	is a	neural tube defect
+encephalocele	is a	neural tube defect
+myelomeningocele	is a	neural tube defect
+neural tube defect	is a	birth defect
+spina bifida	associated with	hydrocephalus
+spina bifida	associated with	Chiari II malformation
+Chiari II malformation	causes	brainstem compression
+hydrocephalus	requires	shunt
+hydrocephalus	treated with	ventriculoperitoneal shunt
+Dandy-Walker malformation	is a	posterior fossa malformation
+Dandy-Walker malformation	presents with	enlarged posterior fossa
+Dandy-Walker malformation	associated with	hydrocephalus
+holoprosencephaly	is a	forebrain malformation
+holoprosencephaly	associated with	facial anomalies
+agenesis of corpus callosum	presents with	developmental delay
+agenesis of corpus callosum	associated with	seizures
+corpus callosum dysgenesis	associated with	intellectual disability
+lissencephaly	is a	neuronal migration disorder
+pachygyria	is a	neuronal migration disorder
+schizencephaly	is a	cortical malformation
+microcephaly	associated with	developmental delay
+macrocephaly	associated with	hydrocephalus
+hydranencephaly	is a	fatal brain anomaly
+porencephaly	is a	brain cystic lesion
+cerebellar hypoplasia	presents with	motor impairment
+cerebellar hypoplasia	associated with	ataxia
+Chiari II malformation	is a	hindbrain herniation
+Chiari I malformation	is a	hindbrain herniation
+Chiari I malformation	associated with	syringomyelia
+syringomyelia	associated with	Chiari malformation
+posterior fossa malformation	associated with	brainstem symptoms
+holoprosencephaly	presents with	midline facial defects
+holoprosencephaly	often with	cyclopia
+cyclopia	is a	facial anomaly
+cyclopia	associated with	holoprosencephaly
+neuronal migration disorder	includes	lissencephaly
+neuronal migration disorder	includes	pachygyria
+neuronal migration disorder	includes	schizencephaly
+microcephaly	associated with	Zika infection
+microcephaly	associated with	developmental delay
+macrocephaly	associated with	genetic syndrome
+agenesis of corpus callosum	associated with	autism spectrum disorder
+agenesis of corpus callosum	associated with	seizures
+Dandy-Walker malformation	requires	neurosurgery
+hydrocephalus	progresses to	ventricular dilation
+latex allergy	risk factor for	spina bifida
+prenatal ultrasound	detects	neural tube defect
+fetal MRI	evaluates	brain malformation
+alpha-fetoprotein screening	detects	neural tube defects
+folic acid supplementation	prevents	neural tube defects
+folate deficiency	increases risk for	neural tube defects
+maternal diabetes	increases risk for	neural tube defects
+anticonvulsant exposure	increases risk for	neural tube defects
+preterm birth	associated with	neural tube defects
+recurrence risk	increases with	familial history of neural tube defect
+family history of neural tube defect	increases	recurrence risk
+corpus callosum agenesis	associated with	autism spectrum disorder
+corpus callosum agenesis	presents with	developmental delay
+corpus callosum agenesis	detected by	prenatal ultrasound
+syringomyelia	associated with	Chiari malformation
+syringomyelia	presents with	sensory loss
+arachnoid cyst	causes	mass effect
+arachnoid cyst	seen with	brain malformation
+brain malformation	diagnosed by	MRI
+MRI	helps predict	prognosis
+karyotype abnormality	associated with	holoprosencephaly
+karyotype abnormality	associated with	corpus callosum agenesis
+chromosomal abnormality	associated with	neural tube defect
+TORCH infections	cause	brain malformations
+fetal brain malformation	increases risk for	neonatal mortality
+neonatal mortality	higher in	infants with neural tube defects
+neural tube defect	associated with	ventriculomegaly
+ventriculomegaly	associated with	hydrocephalus
+hydrocephalus	managed with	shunt
+spina bifida	managed with	surgical repair
+myelomeningocele	managed with	surgical repair
+Chiari II malformation	managed with	posterior fossa decompression
+Dandy-Walker malformation	managed with	shunt
+holoprosencephaly	prognosis	poor
+lissencephaly	prognosis	poor
+macrocephaly	prognosis	variable
+microcephaly	prognosis	variable
+agenesis of corpus callosum	prognosis	variable
+syringomyelia	prognosis	variable
+cerebellar hypoplasia	prognosis	variable
+posterior fossa malformation	prognosis	variable
+neural migration disorder	prognosis	variable
+neural tube defect	mortality risk	high in neonatal period
+neonatal mortality	higher in	infants with holoprosencephaly
+autism spectrum disorder	presence with	corpus callosum agenesis
+seizures	common in	corpus callosum agenesis
+prenatal diagnosis	informs	parental decision-making
+neonatal ICU admission	common in	newborns with neural tube defects
+neonatal ICU admission	lengthened by	hydrocephalus
+ventriculoperitoneal shunt	required for	hydrocephalus
+neurosurgery	involved in	spina bifida repair
+latex allergy	higher risk in	spina bifida patients
+genetic syndrome	associated with	lissencephaly
+gene mutation	causes	lissencephaly

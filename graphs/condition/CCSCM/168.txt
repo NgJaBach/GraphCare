@@ -1,101 +1,101 @@
-ENTITY	RELATIONSHIP	ENTITY
-ENTITY	RELATIONSHIP	ENTITY
-inflammatory diseases of female pelvic organs	is a	gynecologic infection
-pelvic inflammatory disease	is a	gynecologic infection
-pelvic inflammatory disease	includes	endometritis
-pelvic inflammatory disease	includes	salpingitis
-pelvic inflammatory disease	includes	oophoritis
-pelvic inflammatory disease	includes	parametritis
-pelvic inflammatory disease	includes	tubo-ovarian abscess
-endometritis	is a type of	pelvic inflammatory disease
-salpingitis	is a type of	pelvic inflammatory disease
-oophoritis	is a type of	pelvic inflammatory disease
-parametritis	is a type of	pelvic inflammatory disease
-tubo-ovarian abscess	is a complication of	pelvic inflammatory disease
-PID	can cause	infertility
-PID	can cause	ectopic pregnancy
-PID	increases risk of	chronic pelvic pain
-tubal scarring	results from	PID
-tubal scarring	leads to	infertility
-prior PID	increases risk of	recurrent PID
-recurrent PID	increases risk of	infertility
-PID	presents with	pelvic pain
-PID	presents with	lower abdominal pain
-PID	presents with	fever
-PID	presents with	cervical motion tenderness
-PID	presents with	adnexal tenderness
-PID	presents with	vaginal discharge
-PID	presents with	dyspareunia
-PID	presents with	dysuria
-PID	presents with	malodorous discharge
-new sexual partner	is a risk factor for	PID
-multiple sexual partners	is a risk factor for	PID
-history of chlamydia infection	is a risk factor for	PID
-history of gonorrhea infection	is a risk factor for	PID
-IUD insertion	increases risk of	PID
-age under 25 years	is a risk factor for	PID
-unprotected intercourse	increases risk of	PID
-vaginal douching	is associated with	PID
-transvaginal ultrasound	is used for	PID evaluation
-pelvic ultrasound	is used for	PID evaluation
-cervical swab	is used for	STI testing in PID
-NAAT	is used for	detection of chlamydia and gonorrhea
-gonorrhea infection	is associated with	PID
-chlamydia infection	is associated with	PID
-Neisseria gonorrhoeae	causes	PID
-Chlamydia trachomatis	causes	PID
-Mycoplasma genitalium	is associated with	PID
-CRP elevation	is associated with	PID
-elevated ESR	is associated with	PID
-clinical criteria	are used for	PID diagnosis
-laparoscopy	is used for	PID diagnosis
-transvaginal ultrasound	detects	tubo-ovarian abscess
-tubo-ovarian abscess	can be detected by	transvaginal ultrasound
-laparoscopy	confirms	PID diagnosis
-clinical criteria	support	PID diagnosis
-antibiotic therapy	is a treatment for	PID
-ceftriaxone	is used for	PID
-doxycycline	is used for	PID
-metronidazole	is used for	PID
-intravenous antibiotics	are used for	severe PID
-oral antibiotics	are used for	mild PID
-outpatient therapy	is used for	uncomplicated PID
-hospitalization	is required for	severe PID
-intramuscular ceftriaxone	is used for	PID
-amoxicillin-clavulanate therapy	is used for	PID
-treatment guidelines	recommend	prompt antibiotic therapy for PID
-tubo-ovarian abscess	may require	surgical drainage
-surgical drainage	is a treatment for	tubo-ovarian abscess
-hysterectomy	is rarely performed for	PID
-scar tissue	results from	PID
-adhesions	can form after	PID
-chronic pelvic pain	can persist after	PID
-pregnancy complications	are associated with	PID
-ectopic pregnancy	risk increased after	PID
-fertility impairment	is a possible consequence of	PID
-tubal infertility	is a consequence of	PID
-ovarian function	may be affected by	PID
-barrier contraception	reduces risk of	PID
-combined oral contraceptives	reduce risk of	PID
-STI screening	reduces incidence of	PID
-smoking	increases risk of	PID
-diabetes mellitus	worsens prognosis of	PID
-immunosuppression	increases risk of	PID
-polymicrobial infection	is common in	PID
-pregnancy testing	is performed for	PID evaluation
-urinalysis	is performed for	PID evaluation
-fertility counseling	is recommended after	PID
-reproductive age women	are commonly affected by	PID
-asymptomatic PID	occurs in	some women
-salpingitis	is associated with	infertility
-bacterial vaginosis	coexists with	PID
-gonorrhea infection	coexists with	PID
-chlamydia infection	coexists with	PID
-partner treatment	reduces risk of	PID recurrence
-early antibiotic therapy	improves outcome in	PID
-pregnancy after PID	requires	fertility counseling
-fertility planning after PID	is advised	to preserve fertility
-PID in pregnancy	increases risk of	maternal and fetal complications
-adnexal infection	is a site of	PID
-vaginal infection	coexists with	PID
-healthcare access	improves management of	PID
+pelvic inflammatory disease	is a	inflammatory disease of female pelvic organs
+pelvic inflammatory disease	is caused by	neisseria gonorrhoeae
+pelvic inflammatory disease	is caused by	chlamydia trachomatis
+pelvic inflammatory disease	is caused by	anaerobic bacteria
+pelvic inflammatory disease	is associated with	sexually transmitted infection
+pelvic inflammatory disease	is associated with	multiple sexual partners
+pelvic inflammatory disease	increases risk of	infertility
+pelvic inflammatory disease	increases risk of	ectopic pregnancy
+pelvic inflammatory disease	increases risk of	chronic pelvic pain
+pelvic inflammatory disease	can cause	tubo-ovarian abscess
+pelvic inflammatory disease	presents with	lower abdominal pain
+pelvic inflammatory disease	presents with	fever
+pelvic inflammatory disease	presents with	vaginal discharge
+pelvic inflammatory disease	diagnosed by	nucleic acid amplification test
+pelvic inflammatory disease	diagnosed by	ultrasound
+pelvic inflammatory disease	diagnosed by	laparoscopy
+pelvic inflammatory disease	treated with	ceftriaxone
+pelvic inflammatory disease	treated with	doxycycline
+pelvic inflammatory disease	treated with	metronidazole
+pelvic inflammatory disease	treated with	amoxicillin-clavulanate
+ceftriaxone	is a	antibiotic
+doxycycline	is a	antibiotic
+metronidazole	is a	antibiotic
+amoxicillin-clavulanate	is a	antibiotic
+tubo-ovarian abscess	is a	complication of pelvic inflammatory disease
+tubo-ovarian abscess	requires	drainage
+tubo-ovarian abscess	treated with	antibiotics
+endometritis	is a	inflammatory disease of uterus
+bartholin gland abscess	is a	inflammatory condition of Bartholin glands
+salpingitis	is a	inflammation of fallopian tubes
+oophoritis	is a	inflammation of ovaries
+parametritis	is a	inflammation of parametrium
+chronic pelvic inflammatory disease	is a	long-standing inflammatory condition of female pelvic organs
+adhesions	result from	pelvic inflammatory disease
+adhesions	cause	infertility
+adnexal tenderness	is a	symptom of pelvic inflammatory disease
+cervical motion tenderness	is a	sign of pelvic inflammatory disease
+cervical discharge	is a	symptom of pelvic inflammatory disease
+pelvic inflammatory disease	is associated with	adverse pregnancy outcomes
+pelvic inflammatory disease	is associated with	miscarriage
+pelvic inflammatory disease	is associated with	preterm birth
+neisseria gonorrhoeae	is associated with	pelvic inflammatory disease
+chlamydia trachomatis	is associated with	pelvic inflammatory disease
+gardnerella vaginalis	is associated with	pelvic inflammatory disease
+pelvic inflammatory disease	is managed with	analgesia
+pelvic inflammatory disease	is managed with	pelvic rest
+pelvic inflammatory disease	is managed with	rest and hydration
+inpatient management	is used for	pelvic inflammatory disease
+outpatient management	is used for	pelvic inflammatory disease
+therapy duration	is recommended for	pelvic inflammatory disease
+hospitalization	is required for	tubo-ovarian abscess
+hospitalization	is required for	severe pelvic inflammatory disease
+recurrence	is possible after	PID treatment
+broad-spectrum antibiotics	are used for	pelvic inflammatory disease
+intravenous therapy	is used for	severe pelvic inflammatory disease
+pelvic inflammatory disease	may be	polymicrobial infection
+pelvic inflammatory disease	may be	co-infection with chlamydia
+antibiotic resistance	impacts	pelvic inflammatory disease treatment
+pelvic inflammatory disease	may cause	menstrual irregularities
+pelvic inflammatory disease	can complicate	pregnancy
+ultrasound	monitors	tubo-ovarian abscess resolution
+tubo-ovarian abscess	resolves with	antibiotics and drainage
+salpingitis	increases risk of	infertility
+endometritis	is a	complication of pelvic inflammatory disease
+tubal infertility	is a	consequence of pelvic inflammatory disease
+cervicitis	is a	manifestation of pelvic inflammatory disease
+polymicrobial infection	is typical for	pelvic inflammatory disease
+gonorrhea	is causative agent in	pelvic inflammatory disease
+Chlamydia	may precede	pelvic inflammatory disease
+pelvic inflammatory disease	responds to	antibiotics
+pelvic inflammatory disease	reduces	fertility
+pelvic inflammatory disease	increases	cost of care
+pelvic inflammatory disease	associated with	postpartum complications
+tubal damage	leads to	infertility
+ultrasound	detects	tubo-ovarian abscess
+pelvic inflammatory disease	can mimic	appendicitis
+appendicitis	can mimic	pelvic inflammatory disease
+tubo-ovarian abscess	requires	drainage
+pelvic inflammatory disease	affects	ovarian function
+pelvic inflammatory disease	persists	pelvic pain
+sexual activity	influences	pelvic inflammatory disease risk
+screening	reduces	pelvic inflammatory disease incidence
+risk stratification	informs	pelvic inflammatory disease management
+anti-inflammatory therapy	improves	pelvic pain symptoms
+pelvic inflammatory disease	is treatable with	antibiotics
+pelvic inflammatory disease	often has	polymicrobial etiology
+gonorrhea	is causative agent in	pelvic inflammatory disease
+Chlamydia	is causative agent in	pelvic inflammatory disease
+admissions	increase	pelvic inflammatory disease care demand
+white blood cell count	elevated in	pelvic inflammatory disease
+C-reactive protein	elevated in	pelvic inflammatory disease
+vaginal discharge	is a	symptom of pelvic inflammatory disease
+painful intercourse	is a	symptom of pelvic inflammatory disease
+barrier contraception	reduces risk of	pelvic inflammatory disease
+intravenous antibiotics	used for	severe pelvic inflammatory disease
+oral antibiotics	used for	mild pelvic inflammatory disease
+delay in treatment	worsens	pelvic inflammatory disease outcome
+clinical guidelines	inform	pelvic inflammatory disease management
+mortality	is associated with	severe pelvic inflammatory disease
+severe pelvic inflammatory disease	may require	surgical intervention
+pelvic inflammatory disease management	aims at	infection resolution
