@@ -15,18 +15,13 @@ def embedding_retriever(term):
     # Set up the request payload with the text string to embed and the model to use
     payload = {
         "input": term,
-        "model": "text-embedding-3-small"
+        "model": "text-embedding-ada-002"
     }
 
     # Send the request and retrieve the response
-    while True:
-        try:
-            response = requests.post(url, headers=headers, data=json.dumps(payload))
-            
-            # Extract the text embeddings from the response JSON
-            embedding = response.json()["data"][0]['embedding']
+    response = requests.post(url, headers=headers, data=json.dumps(payload))
 
-            return embedding
-        
-        except Exception as e:
-            continue
+    # Extract the text embeddings from the response JSON
+    embedding = response.json()["data"][0]['embedding']
+
+    return embedding

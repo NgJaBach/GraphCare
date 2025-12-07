@@ -1,8 +1,0 @@
-pancreatic disorders	is a	digestive disease category
-acute pancreatitis	is a	inflammatory disease
-acute pancreatitis	may cause	systemic inflammatory response syndrome
-acute pancreatitis	associated with	alcohol use
-acute pancreatitis	associated with	gallstone disease
-acute pancreatitis	presents with	abdominal pain
-acute pancreatitis	presents with	vomiting
-acute pancreatitis	treated with	intravenous fluids
