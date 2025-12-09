@@ -25,11 +25,11 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
     if kg == "GPT-KG":
         kg = ""
     if task == "drugrec" or task == "lenofstay":
-        path_1 = "/data/pj20/exp_data/ccscm_ccsproc"
-        path_2 = "/data/pj20/g/graphs/cond_proc/CCSCM_CCSPROC"
+        path_1 = "data/exp_data/ccscm_ccsproc"
+        path_2 = "graphs/cond_proc/CCSCM_CCSPROC"
     elif task == "mortality" or task == "readmission":
-        path_1 = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
-        path_2 = "/data/pj20/g/graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
+        path_1 = "data/exp_data/ccscm_ccsproc_atc3"
+        path_2 = "graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
 
     if kg_ratio != 1.0:
         sample_dataset_file = f"{path_1}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
@@ -334,7 +334,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
             val_recall = 0
 
         if val_roc_auc >= best_roc_auc:
-            torch.save(model.state_dict(), f'../../../data/pj20/exp_data/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
+            torch.save(model.state_dict(), f'data/exp_data/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
             print("best model saved")
             best_roc_auc = val_roc_auc
             early_stop_indicator = 0
@@ -441,18 +441,18 @@ def single_run(args, params):
     print("Splitting dataset...")
     train_dataset, val_dataset, test_dataset = split_by_patient(sample_dataset, [0.8, 0.1, 0.1], train_ratio=train_ratio, seed=528)
     if feat_ratio != 1.0:
-        # with open(f'/data/pj20/exp_data/ccscm_ccsproc/val_dataset_mimic3_{task}_th015_{feat_ratio}.pkl', 'rb') as f:
+        # with open(f'data/exp_data/ccscm_ccsproc/val_dataset_mimic3_{task}_th015_{feat_ratio}.pkl', 'rb') as f:
         #     val_dataset = pickle.load(f)
         #     val_dataset = label_ehr_nodes(task, val_dataset, len(map_cluster), ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
-        with open(f'/data/pj20/exp_data/ccscm_ccsproc/train_dataset_mimic3_{task}_th015_{feat_ratio}.pkl', 'rb') as f:
+        with open(f'data/exp_data/ccscm_ccsproc/train_dataset_mimic3_{task}_th015_{feat_ratio}.pkl', 'rb') as f:
             train_dataset = pickle.load(f)
             train_dataset = label_ehr_nodes(task, train_dataset, len(map_cluster), ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
     # get initial node attention
     print("Getting initial node attention...")
     if task == "mortality" or task == "readmission":
-        attn_file = f"/data/pj20/exp_data/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
+        attn_file = f"data/exp_data/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
     elif task == "lenofstay" or task == "drugrec":
-        attn_file = f"/data/pj20/exp_data/ccscm_ccsproc/attention_weights_{task}.pkl"
+        attn_file = f"data/exp_data/ccscm_ccsproc/attention_weights_{task}.pkl"
     else:
         raise NotImplementedError
     

@@ -1,4 +1,5 @@
 import csv
+import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
 from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn
 import pickle
@@ -15,9 +16,9 @@ from torch_geometric.utils import to_networkx, from_networkx
 
 def load_dataset(load_processed_dataset, dataset, task):
     if task == "drugrec":
-        file_name = f'/data/pj20/exp_data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
+        file_name = f'data/exp_data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
     elif task == "mortality" or task == "readmission" or task == "lenofstay":        
-        file_name = f'/data/pj20/exp_data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
+        file_name = f'data/exp_data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
 
     if load_processed_dataset:
         ### load processed dataset
@@ -32,19 +33,19 @@ def load_dataset(load_processed_dataset, dataset, task):
         drug_file = "./resources/ATC.csv"
 
         condition_dict = {}
-        with open(condition_mapping_file, newline='') as csvfile:
+        with open(condition_mapping_file, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 condition_dict[row['code']] = row['name'].lower()
 
         procedure_dict = {}
-        with open(procedure_mapping_file, newline='') as csvfile:
+        with open(procedure_mapping_file, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 procedure_dict[row['code']] = row['name'].lower()
 
         drug_dict = {}
-        with open(drug_file, newline='') as csvfile:
+        with open(drug_file, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row['level'] == '3.0':
@@ -54,7 +55,7 @@ def load_dataset(load_processed_dataset, dataset, task):
 
         if dataset == "mimic3":
             ds = MIMIC3Dataset(
-            root="/data/physionet.org/files/mimiciii/1.4/", 
+            root="data/mimic-iii/", 
             tables=["DIAGNOSES_ICD", "PROCEDURES_ICD", "PRESCRIPTIONS"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -64,7 +65,7 @@ def load_dataset(load_processed_dataset, dataset, task):
             )
         elif dataset == "mimic4":
             ds = MIMIC4Dataset(
-            root="/data/physionet.org/files/mimiciv/2.0/hosp/", 
+            root="data/mimic-iv/hosp/", 
             tables=["diagnoses_icd", "procedures_icd", "prescriptions"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -106,19 +107,19 @@ def load_mappings():
     drug_file = "./resources/ATC.csv"
 
     condition_dict = {}
-    with open(condition_mapping_file, newline='') as csvfile:
+    with open(condition_mapping_file, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             condition_dict[row['code']] = row['name'].lower()
 
     procedure_dict = {}
-    with open(procedure_mapping_file, newline='') as csvfile:
+    with open(procedure_mapping_file, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             procedure_dict[row['code']] = row['name'].lower()
 
     drug_dict = {}
-    with open(drug_file, newline='') as csvfile:
+    with open(drug_file, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             if row['level'] == '3.0':
@@ -139,9 +140,9 @@ def flatten(lst):
 
 def load_embeddings(task):
     if task == "drugrec" or task == "lenofstay":
-        with open('./graphs/cond_proc/CCSCM_CCSPROC/ent2id.json', 'r') as file:
+        with open('./graphs/cond_proc/CCSCM_CCSPROC/ent2id.json', 'r', encoding='utf-8') as file:
             ent2id = json.load(file)
-        with open('./graphs/cond_proc/CCSCM_CCSPROC/rel2id.json', 'r') as file:
+        with open('./graphs/cond_proc/CCSCM_CCSPROC/rel2id.json', 'r', encoding='utf-8') as file:
             rel2id = json.load(file)
         with open('./graphs/cond_proc/CCSCM_CCSPROC/entity_embedding.pkl', 'rb') as file:
             ent_emb = pickle.load(file)
@@ -149,9 +150,9 @@ def load_embeddings(task):
             rel_emb = pickle.load(file)
 
     elif task == "mortality" or task == "readmission":
-        with open('./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/ent2id.json', 'r') as file:
+        with open('./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/ent2id.json', 'r', encoding='utf-8') as file:
             ent2id = json.load(file)
-        with open('./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/rel2id.json', 'r') as file:
+        with open('./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/rel2id.json', 'r', encoding='utf-8') as file:
             rel2id = json.load(file)
         with open('./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/entity_embedding.pkl', 'rb') as file:
             ent_emb = pickle.load(file)
@@ -187,9 +188,9 @@ def prepare_drug_indices(sample_dataset):
 
 def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_cluster=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "data/exp_data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "data/exp_data/ccscm_ccsproc_atc3"
 
     if load_cluster:
         with open(f'{path}/clusters_th015.json', 'r', encoding='utf-8') as f:
@@ -246,6 +247,7 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
                 map_cluster_inv_rel[str(node)] = cluster_label
 
         if save_cluster:
+            os.makedirs(path, exist_ok=True)
             with open(f'{path}/clusters_th015.json', 'w', encoding='utf-8') as f:
                 json.dump(map_cluster, f, indent=6)
             with open(f'{path}/clusters_inv_th015.json', 'w', encoding='utf-8') as f:
@@ -260,9 +262,9 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
 
 def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "data/exp_data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "data/exp_data/ccscm_ccsproc_atc3"
 
     G = nx.Graph()
 
@@ -276,7 +278,7 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
         conditions = flatten(patient['conditions'])
         for condition in conditions:
             cond_file = f'./graphs/condition/CCSCM/{condition}.txt'
-            with open(cond_file, 'r') as f:
+            with open(cond_file, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
             for line in lines:
                 # in case the map and emb is not up-to-date
@@ -299,7 +301,7 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
         procedures = flatten(patient['procedures'])
         for procedure in procedures:
             proc_file = f'./graphs/procedure/CCSPROC/{procedure}.txt'
-            with open(proc_file, 'r') as f:
+            with open(proc_file, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
             for line in lines:
                 try:
@@ -323,7 +325,7 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
             for drug in drugs:
                 drug_file = f'./graphs/drug/ATC3/{drug}.txt'
 
-                with open(drug_file, 'r') as f:
+                with open(drug_file, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
 
                 for line in lines:
@@ -344,6 +346,7 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
                         continue
 
     if save_graph:
+        os.makedirs(path, exist_ok=True)
         with open(f'{path}/graph_{dataset}_{task}_th015.pkl', 'wb') as f:
             pickle.dump(G, f)
 
@@ -363,9 +366,9 @@ def pad_and_convert(visits, max_visits, max_nodes):
 
 def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "data/exp_data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "data/exp_data/ccscm_ccsproc_atc3"
 
     c_v = []
     for patient in sample_dataset:
@@ -386,7 +389,7 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
 
             for condition in conditions:
                 cond_file = f'./graphs/condition/CCSCM/{condition}.txt'
-                with open(cond_file, 'r') as f:
+                with open(cond_file, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
                 for line in lines:
                     try:
@@ -408,7 +411,7 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
 
             for procedure in procedures:
                 proc_file = f'./graphs/procedure/CCSPROC/{procedure}.txt'
-                with open(proc_file, 'r') as f:
+                with open(proc_file, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
                 for line in lines:
                     try:
@@ -432,7 +435,7 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
                 for drug in drugs:
                     drug_file = f'./graphs/drug/ATC3/{drug}.txt'
 
-                    with open(drug_file, 'r') as f:
+                    with open(drug_file, 'r', encoding='utf-8') as f:
                         lines = f.readlines()
 
                     for line in lines:
@@ -462,6 +465,7 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
 
 
     if save_dataset:
+        os.makedirs(path, exist_ok=True)
         with open(f'{path}/sample_dataset_{dataset}_{task}_th015.pkl', 'wb') as f:
             pickle.dump(sample_dataset, f)
 

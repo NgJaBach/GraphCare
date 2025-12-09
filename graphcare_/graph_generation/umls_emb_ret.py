@@ -1,4 +1,4 @@
-from get_emb import embedding_retriever
+from .get_emb import embedding_retriever
 import numpy as np
 from tqdm import tqdm
 import pickle
@@ -9,13 +9,13 @@ MAX_RETRIES = 30  # Retry up to 5 times if there's an error
 
 # Load previous embeddings if they exist
 try:
-    with open('/data/pj20/exp_data/umls_ent_emb_.pkl', 'rb') as f:
+    with open('data/exp_data/umls_ent_emb_.pkl', 'rb') as f:
         umls_ent_emb = pickle.load(f)
 except FileNotFoundError:
     umls_ent_emb = []
 
 # Loading and preprocessing the names
-with open("/home/pj20/GraphCare/KG_mapping/umls/concept_names.txt", 'r') as f:
+with open("KG_mapping/umls/concept_names.txt", 'r', encoding='utf-8') as f:
     umls_ent = f.readlines()
 
 umls_names = [line.split('\t')[1][:-1] for line in umls_ent]
@@ -39,9 +39,9 @@ with ThreadPoolExecutor(max_workers=20) as executor:
         
         # Periodically save the data
         if (idx + 1) % SAVE_INTERVAL == 0:
-            with open('/data/pj20/exp_data/umls_ent_emb_.pkl', 'wb') as f:
+            with open('data/exp_data/umls_ent_emb_.pkl', 'wb') as f:
                 pickle.dump(umls_ent_emb, f)
 
 # Save the final data
-with open('/data/pj20/exp_data/umls_ent_emb_.pkl', 'wb') as f:
+with open('data/exp_data/umls_ent_emb_.pkl', 'wb') as f:
     pickle.dump(umls_ent_emb, f)

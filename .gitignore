@@ -1,3 +1,21 @@
+data
+
+# Ignore embedding artifacts under graphs
+graphs/**/entity_embedding.pkl
+graphs/**/relation_embedding.pkl
+
+graphs/condition/CCSCM/
+graphs/drug/ATC3/
+graphs/procedure/CCSPROC/
+graphs/cond_proc/CCSCM_CCSPROC/
+
+# Ignore everything in this folder except notebooks
+graphs/cond_proc/CCSCM_CCSPROC/*
+!graphs/cond_proc/CCSCM_CCSPROC/*.ipynb
+
+graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/*
+!graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/*.ipynb
+
 /play
 /ehr_training_result
 baselines.py

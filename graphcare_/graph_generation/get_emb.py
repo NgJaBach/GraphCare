@@ -1,8 +1,12 @@
 import requests
 import json
 
-with open("../../resources/openai.key", 'r') as f:
-    key = f.readlines()[0][:-1]
+try:
+    with open("../../resources/openai.key", 'r') as f:
+        key = f.readlines()[0][:-1]
+except:
+    with open("resources/openai.key", 'r') as f:
+        key = f.readlines()[0][:-1]
 
 def embedding_retriever(term):
     # Set up the API endpoint URL and request headers
@@ -15,13 +19,18 @@ def embedding_retriever(term):
     # Set up the request payload with the text string to embed and the model to use
     payload = {
         "input": term,
-        "model": "text-embedding-ada-002"
+        "model": "text-embedding-3-small"
     }
 
     # Send the request and retrieve the response
-    response = requests.post(url, headers=headers, data=json.dumps(payload))
+    while True:
+        try:
+            response = requests.post(url, headers=headers, data=json.dumps(payload))
+            
+            # Extract the text embeddings from the response JSON
+            embedding = response.json()["data"][0]['embedding']
 
-    # Extract the text embeddings from the response JSON
-    embedding = response.json()["data"][0]['embedding']
-
-    return embedding
+            return embedding
+        
+        except Exception as e:
+            continue
