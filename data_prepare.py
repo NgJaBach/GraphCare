@@ -477,8 +477,8 @@ def run(dataset, task):
         load_processed_dataset = False
     else:
         load_processed_dataset = False
-    load_cluster = True
-    save_cluster = False
+    load_cluster = False
+    save_cluster = True
     save_graph = True
     save_processed_dataset = True
 
@@ -512,14 +512,14 @@ def run(dataset, task):
 
 def main():
     datasets = [
-        # "mimic3", 
+        "mimic3", 
         "mimic4"
         ]
     tasks = [
         # "drugrec", 
         "mortality", 
         "readmission", 
-        "lenofstay"
+        # "lenofstay"
         ]
 
     for dataset in datasets:
